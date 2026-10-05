@@ -1,0 +1,32 @@
+name: "📡 Kaynak ve Kategori"
+description: "Haber kaynağı (RSS) ekle/kaldır, kategori aç/kaldır/adını değiştir."
+title: "[Kaynak] "
+labels: ["kaynak"]
+body:
+  - type: dropdown
+    id: islem
+    attributes:
+      label: "İşlem"
+      options:
+        - "Kaynak ekle"
+        - "Kaynak kaldır"
+        - "Kategori adını değiştir"
+        - "Kategoriyi kaldır"
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: kategori
+    attributes:
+      label: "Kategori"
+      description: "Mevcut kategoriler: teknoloji (Teknoloji), gundem (Gündem). Yeni bir ad yazarsan yeni kategori açılır."
+  - type: input
+    id: kategori_adi
+    attributes:
+      label: "Kategorinin sitede görünen adı"
+      description: "İsteğe bağlı, örn: Spor"
+  - type: input
+    id: rss
+    attributes:
+      label: "RSS adresi"
+      description: "Kaynak ekleme/kaldırma için, örn: https://site.com/feed"

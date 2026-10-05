@@ -1,17 +1,13 @@
 """RSS kaynaklarından haberleri çekip data/news.json dosyasına yazar."""
 import html
-import json
 import re
 import time
 from datetime import datetime, timezone
-from pathlib import Path
 
 import feedparser
 
-ROOT = Path(__file__).resolve().parent.parent
-FEEDS = json.loads((ROOT / "data" / "feeds.json").read_text(encoding="utf-8"))
-OUT = ROOT / "data" / "news.json"
-PER_FEED = 15      # her kaynaktan alınacak en fazla haber
+from common import DATA, item_id, load, save, settings
+
 MAX_TOTAL = 200    # sitede tutulacak en fazla otomatik haber
 TAG_RE = re.compile(r"<[^>]+>")
 
@@ -42,8 +38,12 @@ def when(e):
 
 
 def main():
-    items, seen = [], set()
-    for category, urls in FEEDS.items():
+    s = settings()
+    feeds = load("feeds.json", {})
+    blocked_links = set(s["blocked_links"])
+    words = [w.lower() for w in s["blocked_words"] if w.strip()]
+    items, seen = [], set(blocked_links)
+    for category, urls in feeds.items():
         for url in urls:
             try:
                 feed = feedparser.parse(url, agent="Mozilla/5.0 HaberBot")
@@ -51,12 +51,13 @@ def main():
                 print("HATA", url, err)
                 continue
             source = clean(feed.feed.get("title", url), 40)
-            for e in feed.entries[:PER_FEED]:
+            for e in feed.entries[: s["per_feed"]]:
                 link = e.get("link")
                 if not link or link in seen:
                     continue
                 seen.add(link)
-                items.append({
+                item = {
+                    "id": item_id(link),
                     "title": clean(e.get("title"), 160),
                     "summary": clean(e.get("summary")),
                     "link": link,
@@ -64,16 +65,17 @@ def main():
                     "source": source,
                     "category": category,
                     "date": when(e),
-                })
+                }
+                text = (item["title"] + " " + item["summary"]).lower()
+                if any(w in text for w in words):
+                    continue
+                items.append(item)
             print(f"{len(feed.entries):>3} haber  {url}")
     items.sort(key=lambda x: x["date"], reverse=True)
-    if not items and OUT.exists():
+    if not items and (DATA / "news.json").exists() and feeds:
         print("Hiç haber gelmedi, eski liste korunuyor.")
         return
-    OUT.write_text(json.dumps({
-        "updated": datetime.now(timezone.utc).isoformat(),
-        "items": items[:MAX_TOTAL],
-    }, ensure_ascii=False, indent=1), encoding="utf-8")
+    save("news.json", {"updated": datetime.now(timezone.utc).isoformat(), "items": items[:MAX_TOTAL]})
     print("Toplam:", len(items[:MAX_TOTAL]))
 
 

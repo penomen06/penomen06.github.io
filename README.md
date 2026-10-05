@@ -11,8 +11,10 @@ Kendi haberini de telefondan bile resim ve linkle ekleyebilirsin.
 | `data/feeds.json` | Haberlerin çekildiği RSS kaynakları — istediğin kadar ekle/çıkar |
 | `scripts/fetch_news.py` | Kaynaklardan haberleri çekip `data/news.json`'a yazar |
 | `.github/workflows/haberleri-cek.yml` | Bu betiği her 30 dakikada bir GitHub'da otomatik çalıştırır |
-| `.github/ISSUE_TEMPLATE/haber-ekle.yml` | Senin haber ekleme formun |
-| `scripts/add_post.py` + `haber-ekle.yml` | Formdaki haberi `data/manual.json`'a ekleyip yayınlar |
+| `.github/ISSUE_TEMPLATE/` | Yönetim formları (betik tarafından otomatik üretilir) |
+| `scripts/admin.py` + `yonetim.yml` | Formları işleyip siteyi günceller |
+| `data/settings.json` | Site ayarları |
+| `data/manual.json` | Senin eklediğin / düzenlediğin haberler |
 
 ## Kurulum (bir kerelik, ~5 dakika)
 
@@ -25,22 +27,28 @@ Kendi haberini de telefondan bile resim ve linkle ekleyebilirsin.
 
 Bundan sonra haberler her 30 dakikada bir kendiliğinden yenilenir.
 
-## Kendi haberini ekleme
+## Siteyi yönetme
 
-Depoda **Issues → New issue → 📰 Haber Ekle**:
-- Başlık, kategori, açıklama yaz
-- Resmi kutuya sürükle-bırak yap (telefonda galeriden seç) ya da resim linki yapıştır
-- İstersen haber linkini ekle, "Sabitle" ile manşete koy
-- **Submit** → 1–2 dakika içinde sitede yayında, form kendiliğinden kapanır.
+Sitende **`https://penomen06.github.io/?yonetim`** adresini aç (yer imlerine ekle). Üstte koyu bir yönetim çubuğu çıkar,
+her haberin altında da **ID**, **✏️ Düzenle / manşet** ve **🗑️ Sil** bağlantıları görünür. Tarayıcı bunu hatırlar;
+kapatmak için "Yönetimden çık"a bas. Bağlantılara tıklayınca GitHub'da **doldurulmuş bir form** açılır, sen sadece
+**Submit**'e basarsın. 1–2 dakika içinde sitede görünür; form sonucu yazıp kendiliğinden kapanır.
 
-Güvenlik: Sadece depo sahibinin (senin) açtığı formlar yayınlanır, başkaları ekleyemez.
+| Ne yapmak istiyorsun? | Form |
+|---|---|
+| Haber eklemek (resim, link, manşet) | 📰 Haber Ekle |
+| Haberin başlığını/metnini/resmini/linkini değiştirmek, manşete almak/çıkarmak | ✏️ Haber Düzenle |
+| Haber silmek (otomatik gelen bir haberi silersen bir daha gelmez) | 🗑️ Haber Sil |
+| Site adı, üst yazı, vurgu rengi, alt bilgi, kaynak başına haber sayısı, yasaklı kelimeler | ⚙️ Site Ayarları |
+| RSS kaynağı eklemek/kaldırmak, yeni kategori açmak, kategori adını değiştirmek/kaldırmak | 📡 Kaynak ve Kategori |
 
-**Silme / düzenleme:** `data/manual.json` dosyasını GitHub'da açıp kalem simgesiyle düzenle.
+Formlara doğrudan da ulaşabilirsin: https://github.com/penomen06/penomen06.github.io/issues/new/choose
 
-## Kaynak ekleme / çıkarma
-
-`data/feeds.json` dosyasına RSS adresi ekle. Yeni kategori de açabilirsin (ör. `"spor": [...]`);
-sitede görünmesi için `index.html`'deki menüye bir buton eklemen yeterli.
+İpuçları:
+- Düzenleme formunda boş bıraktığın alanlar değişmez. Bir alanı tamamen silmek için içine sadece `-` yaz.
+- Yeni bir kategori adıyla kaynak eklersen menüde o kategori sekmesi kendiliğinden açılır.
+- Formlarda bir hata olursa (yanlış renk kodu, olmayan ID gibi) hiçbir şey değişmez; form nedenini yazarak kapanır.
+- Sadece depo sahibinin (senin) gönderdiği formlar işlenir. Yapılan tüm işlemler "📋 Geçmiş"te durur.
 
 ## Notlar
 - GitHub zamanlanmış görevleri yoğunlukta birkaç dakika gecikmeli çalıştırabilir.

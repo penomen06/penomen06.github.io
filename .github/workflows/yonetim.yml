@@ -1,0 +1,48 @@
+name: Site yönetimi (formlar)
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: site-guncelle
+  cancel-in-progress: false
+
+jobs:
+  yonet:
+    # Sadece site sahibinin gönderdiği formlar işlenir
+    if: github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install feedparser
+      - name: Formu işle
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_LABELS: ${{ join(github.event.issue.labels.*.name, ',') }}
+        run: python scripts/admin.py
+      - name: Kaydet
+        if: success() && hashFiles('.sonuc.txt') != ''
+        env:
+          TITLE: ${{ github.event.issue.title }}
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "haber-botu@users.noreply.github.com"
+          git add data .github/ISSUE_TEMPLATE
+          git diff --cached --quiet && exit 0
+          git commit -m "Yönetim: #${{ github.event.issue.number }} $TITLE"
+          git pull --rebase && git push
+      - name: Sonucu bildir ve formu kapat
+        if: always() && hashFiles('.sonuc.txt') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue close ${{ github.event.issue.number }} -R ${{ github.repository }} -c "$(cat .sonuc.txt)"

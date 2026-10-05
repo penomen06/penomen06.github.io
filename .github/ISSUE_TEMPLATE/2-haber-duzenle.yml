@@ -1,0 +1,51 @@
+name: "✏️ Haber Düzenle"
+description: "Bir haberi değiştir ya da manşete al/çıkar. Boş bıraktığın alanlar değişmez; bir alanı silmek için içine sadece - yaz."
+title: "[Düzenle] "
+labels: ["duzenle"]
+body:
+  - type: input
+    id: haber_id
+    attributes:
+      label: "Haber ID"
+      description: "Sitede yönetim modunda her haberin altında yazar"
+    validations:
+      required: true
+  - type: input
+    id: baslik
+    attributes:
+      label: "Başlık"
+  - type: dropdown
+    id: kategori
+    attributes:
+      label: "Kategori"
+      options:
+        - "Değiştirme"
+        - "teknoloji"
+        - "gundem"
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: aciklama
+    attributes:
+      label: "Açıklama"
+  - type: textarea
+    id: resim
+    attributes:
+      label: "Resim"
+      description: "Yeni resmi sürükle-bırak yap ya da linkini yapıştır"
+  - type: input
+    id: link
+    attributes:
+      label: "Link"
+  - type: dropdown
+    id: manset
+    attributes:
+      label: "Manşet"
+      options:
+        - "Değiştirme"
+        - "Sabitle"
+        - "Sabitlemeyi kaldır"
+      default: 0
+    validations:
+      required: true

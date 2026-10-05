@@ -1,0 +1,12 @@
+name: "🗑️ Haber Sil"
+description: "Bir haberi siteden kaldır. Otomatik gelen bir haberi silersen bir daha gelmez."
+title: "[Sil] "
+labels: ["sil"]
+body:
+  - type: input
+    id: haber_id
+    attributes:
+      label: "Haber ID"
+      description: "Birden fazla haber için ID'leri virgülle ayır"
+    validations:
+      required: true

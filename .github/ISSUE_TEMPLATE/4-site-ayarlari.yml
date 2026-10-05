@@ -1,0 +1,35 @@
+name: "⚙️ Site Ayarları"
+description: "Sitenin adını, rengini, yazılarını ve filtrelerini değiştir. Boş bıraktığın alanlar değişmez."
+title: "[Ayarlar] "
+labels: ["ayarlar"]
+body:
+  - type: input
+    id: baslik
+    attributes:
+      label: "Site adı"
+      description: "Örn: Gündem & Teknoloji (& işareti renkli görünür)"
+  - type: input
+    id: altyazi
+    attributes:
+      label: "Üst yazı"
+      description: "Başlığın yanındaki kısa yazı"
+  - type: input
+    id: renk
+    attributes:
+      label: "Vurgu rengi"
+      description: "Renk kodu, örn: #e4402d (kırmızı), #2f5bea (mavi), #0f8a5f (yeşil)"
+  - type: textarea
+    id: altbilgi
+    attributes:
+      label: "Alt bilgi"
+      description: "Sayfanın en altındaki yazı"
+  - type: input
+    id: adet
+    attributes:
+      label: "Her kaynaktan haber sayısı"
+      description: "1 ile 50 arası bir sayı"
+  - type: textarea
+    id: kelimeler
+    attributes:
+      label: "Engellenen kelimeler"
+      description: "Bu kelimeleri içeren otomatik haberler gösterilmez. Her satıra bir kelime. Listeyi boşaltmak için sadece - yaz."

@@ -1,0 +1,42 @@
+name: "📰 Haber Ekle"
+description: "Siteye kendi haberini ekle"
+title: "[Haber] "
+labels: ["haber"]
+body:
+  - type: input
+    id: baslik
+    attributes:
+      label: "Başlık"
+    validations:
+      required: true
+  - type: dropdown
+    id: kategori
+    attributes:
+      label: "Kategori"
+      options:
+        - "teknoloji"
+        - "gundem"
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: aciklama
+    attributes:
+      label: "Açıklama"
+      description: "Haberin metni (isteğe bağlı)"
+  - type: textarea
+    id: resim
+    attributes:
+      label: "Resim"
+      description: "Resmi buraya sürükle-bırak yap ya da resim linkini yapıştır"
+  - type: input
+    id: link
+    attributes:
+      label: "Link"
+      description: "Haberin kaynağı / devamı (isteğe bağlı)"
+  - type: checkboxes
+    id: secenek
+    attributes:
+      label: "Seçenekler"
+      options:
+        - label: "Sabitle (manşette göster)"

@@ -49,28 +49,54 @@ nav{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid
 .card p{margin:0;color:var(--muted);font-size:14px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .foot{margin-top:auto;padding-top:8px;font-size:12px;color:var(--muted);display:flex;justify-content:space-between;gap:8px}
 .chip{font:600 11px Inter;letter-spacing:.06em;text-transform:uppercase}
-.chip.teknoloji{color:var(--tech)} .chip.gundem{color:var(--gundem)} .chip.editor{color:var(--editor)}
+.chip{color:var(--c,var(--accent))}
 .empty{text-align:center;color:var(--muted);padding:60px 0}
 #more{display:block;margin:0 auto 50px;padding:10px 26px}
 #more[hidden]{display:none}
 .hero:not(:has(img)){grid-template-columns:1fr}
 footer{border-top:1px solid var(--line);padding-top:20px;padding-bottom:40px;color:var(--muted);font-size:13px}
 @media (max-width:760px){.hero{grid-template-columns:1fr}.meta{text-align:left}}
+
+/* ---- yönetim modu ---- */
+#admin{display:none;background:#16161a;color:#f6f4ef;font-size:14px}
+body.yonetim #admin{display:block}
+#admin .wrap{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding-top:10px;padding-bottom:10px}
+#admin b{margin-right:6px}
+#admin a,#admin button{background:#2a2a31;color:#f6f4ef;border:0;border-radius:8px;padding:7px 12px;font:500 13px Inter;cursor:pointer}
+#admin a:hover,#admin button:hover{background:#3a3a44}
+#admin .end{margin-left:auto}
+#panel{display:none;background:var(--card);border-bottom:1px solid var(--line)}
+#panel.open{display:block}
+#panel .wrap{padding-top:16px;padding-bottom:18px}
+#panel h4{margin:14px 0 6px;font:600 14px Inter}
+#panel li{font-size:13px;margin:4px 0;word-break:break-all}
+#panel ul{margin:0;padding-left:18px}
+.adm{display:none;gap:10px;align-items:center;flex-wrap:wrap;margin-top:8px;padding-top:8px;border-top:1px dashed var(--line);font-size:12px}
+body.yonetim .adm{display:flex}
+.adm code{background:var(--bg);padding:2px 6px;border-radius:5px;user-select:all}
+.adm a{color:var(--accent);font-weight:600}
+.lnk{color:var(--accent);font-weight:600}
 </style>
 </head>
 <body>
+<div id="admin"><div class="wrap">
+  <b>🔧 Yönetim</b>
+  <a id="a-add" target="_blank" rel="noopener">＋ Haber ekle</a>
+  <a id="a-set" target="_blank" rel="noopener">⚙️ Site ayarları</a>
+  <button id="a-src">📡 Kaynaklar & kategoriler</button>
+  <a id="a-log" target="_blank" rel="noopener">📋 Geçmiş</a>
+  <button id="a-exit" class="end">Yönetimden çık</button>
+</div></div>
+<div id="panel"><div class="wrap" id="panel-in"></div></div>
+
 <header class="wrap">
   <div class="top">
-    <h1>Gündem<span>&amp;</span><br>Teknoloji</h1>
-    <div class="meta"><span class="live"></span>Otomatik güncellenir<br><span id="upd">yükleniyor…</span></div>
+    <h1 id="title">Gündem<span>&amp;</span>Teknoloji</h1>
+    <div class="meta"><span class="live"></span><span id="sub">Otomatik güncellenir</span><br><span id="upd">yükleniyor…</span></div>
   </div>
 </header>
 
-<nav><div class="wrap bar">
-  <button class="tab on" data-c="hepsi">Tümü</button>
-  <button class="tab" data-c="teknoloji">Teknoloji</button>
-  <button class="tab" data-c="gundem">Gündem</button>
-  <button class="tab" data-c="editor">Editörün Seçtikleri</button>
+<nav><div class="wrap bar" id="tabs">
   <input id="q" type="search" placeholder="Haberlerde ara…">
 </div></nav>
 
@@ -80,15 +106,59 @@ footer{border-top:1px solid var(--line);padding-top:20px;padding-bottom:40px;col
   <button id="more" class="tab" hidden>Daha fazla göster</button>
 </main>
 
-<footer class="wrap">Haber başlıkları ve özetleri ilgili kaynaklardan alınır; tamamı için habere tıklayın.</footer>
+<footer class="wrap" id="foot"></footer>
 
 <script>
 const $ = s => document.querySelector(s);
-let all = [], cat = "hepsi", query = "", shown = 24;
+let all = [], cfg = {}, feeds = {}, cat = "hepsi", query = "", shown = 24;
+const PALETTE = ["var(--tech)", "var(--gundem)", "#b7791f", "#8b5cf6", "#0e7490", "#db2777", "#4d7c0f"];
 
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "";
 
+// ---------------------------------------------------------------- yönetim
+const host = location.hostname.endsWith(".github.io") ? location.hostname : "";
+const REPO = host ? host.split(".")[0] + "/" + host : "penomen06/penomen06.github.io";
+function form(file, title, fields = {}){
+  const p = new URLSearchParams({template: file, title});
+  for (const [k, v] of Object.entries(fields)) if (v) p.set(k, v);
+  return `https://github.com/${REPO}/issues/new?${p}`;
+}
+function isAdmin(){
+  const want = new URLSearchParams(location.search).has("yonetim");
+  try { if (want) localStorage.setItem("yonetim", "1"); return want || localStorage.getItem("yonetim") === "1"; }
+  catch { return want; }
+}
+if (isAdmin()) document.body.classList.add("yonetim");
+$("#a-exit").onclick = () => {
+  try { localStorage.removeItem("yonetim"); } catch {}
+  location.href = location.pathname;
+};
+$("#a-add").href = form("1-haber-ekle.yml", "[Haber] ");
+$("#a-log").href = `https://github.com/${REPO}/issues?q=is%3Aissue`;
+$("#a-src").onclick = () => $("#panel").classList.toggle("open");
+
+function adminLinks(){
+  $("#a-set").href = form("4-site-ayarlari.yml", "[Ayarlar] Site ayarları", {
+    baslik: cfg.title, altyazi: cfg.subtitle, renk: cfg.accent, altbilgi: cfg.footer,
+    adet: String(cfg.per_feed || ""), kelimeler: (cfg.blocked_words || []).join("\n")});
+  const cats = cfg.categories || {};
+  $("#panel-in").innerHTML = `<a class="lnk" target="_blank" rel="noopener" href="${esc(form("5-kaynak-kategori.yml", "[Kaynak] Yeni kaynak"))}">＋ Yeni kaynak veya kategori ekle</a>` +
+    Object.entries(cats).map(([k, label]) => `<h4>${esc(label)}
+      <a class="lnk" style="font-weight:500;font-size:12px;margin-left:8px" target="_blank" rel="noopener" href="${esc(form("5-kaynak-kategori.yml", "[Kaynak] " + label + " adını değiştir", {kategori: label}))}">adını değiştir / kaldır</a></h4>
+      <ul>${(feeds[k] || []).map(u => `<li>${esc(u)} — <a class="lnk" target="_blank" rel="noopener" href="${esc(form("5-kaynak-kategori.yml", "[Kaynak] Kaldır", {kategori: label, rss: u}))}">kaldır</a></li>`).join("") || "<li>Kaynak yok</li>"}</ul>`).join("") +
+    `<p style="font-size:12px;color:var(--muted);margin:14px 0 0">Formda yapmak istediğin işlemi "İşlem" kutusundan seç. Gönderdikten 1–2 dakika sonra sitede görünür.</p>`;
+}
+
+function adminRow(item){
+  if (!item.id) return "";
+  const t = item.title.slice(0, 60);
+  return `<div class="adm"><span>ID <code>${esc(item.id)}</code></span>
+    <a target="_blank" rel="noopener" href="${esc(form("2-haber-duzenle.yml", "[Düzenle] " + t, {haber_id: item.id, baslik: item.title, aciklama: item.summary, resim: item.image, link: item.link}))}">✏️ Düzenle / manşet</a>
+    <a target="_blank" rel="noopener" href="${esc(form("3-haber-sil.yml", "[Sil] " + t, {haber_id: item.id}))}">🗑️ Sil</a></div>`;
+}
+
+// ---------------------------------------------------------------- görünüm
 function ago(iso){
   const s = (Date.now() - new Date(iso)) / 1000;
   if (s < 60) return "az önce";
@@ -96,67 +166,68 @@ function ago(iso){
   if (s < 86400) return Math.floor(s/3600) + " sa önce";
   return new Date(iso).toLocaleDateString("tr-TR", {day:"numeric", month:"long"});
 }
-
-function img(item, cls=""){
-  const u = safeUrl(item.image);
-  return u ? `<img class="${cls}" src="${esc(u)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
-}
-
+const img = item => safeUrl(item.image) ? `<img src="${esc(item.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
 function wrapLink(item, inner){
   const l = safeUrl(item.link);
   return l ? `<a href="${esc(l)}" target="_blank" rel="noopener">${inner}</a>` : inner;
 }
-
 function chip(item){
-  const c = item.source === "Editör" ? "editor" : item.category;
-  const label = {teknoloji:"Teknoloji", gundem:"Gündem", editor:"Editör"}[c] || c;
-  return `<span class="chip ${esc(c)}">${esc(label)}</span>`;
+  if (item.source === "Editör") return `<span class="chip" style="--c:var(--editor)">Editör</span>`;
+  const keys = Object.keys(cfg.categories || {});
+  const label = (cfg.categories || {})[item.category] || item.category;
+  return `<span class="chip" style="--c:${PALETTE[Math.max(0, keys.indexOf(item.category)) % PALETTE.length]}">${esc(label)}</span>`;
 }
-
-function card(item){
-  return `<article class="card">${wrapLink(item, img(item))}
-    <div class="body">${chip(item)}
-      <h3>${wrapLink(item, esc(item.title))}</h3>
-      ${item.summary ? `<p>${esc(item.summary)}</p>` : ""}
-      <div class="foot"><span>${esc(item.source)}</span><span>${ago(item.date)}</span></div>
-    </div></article>`;
-}
+const foot = item => `<div class="foot"><span>${esc(item.source)}</span><span>${ago(item.date)}</span></div>`;
+const card = item => `<article class="card">${wrapLink(item, img(item))}
+    <div class="body">${chip(item)}<h3>${wrapLink(item, esc(item.title))}</h3>
+      ${item.summary ? `<p>${esc(item.summary)}</p>` : ""}${foot(item)}${adminRow(item)}</div></article>`;
 
 function render(){
-  let list = all.filter(i =>
-    cat === "hepsi" ? true : cat === "editor" ? i.source === "Editör" : i.category === cat);
+  let list = all.filter(i => cat === "hepsi" ? true : cat === "editor" ? i.manual : i.category === cat);
   if (query) list = list.filter(i => (i.title + " " + i.summary).toLocaleLowerCase("tr").includes(query));
-
-  // Manşet: sabitlenmiş editör haberi, yoksa resimli ilk haber
   const lead = !query && (list.find(i => i.pinned) || list.find(i => i.image));
   $("#hero").innerHTML = lead ? `<div class="hero">${wrapLink(lead, img(lead))}
-      <div>${chip(lead)}<h2>${wrapLink(lead, esc(lead.title))}</h2>
-      <p>${esc(lead.summary)}</p><div class="foot"><span>${esc(lead.source)}</span><span>${ago(lead.date)}</span></div></div></div>` : "";
+      <div>${chip(lead)}<h2>${wrapLink(lead, esc(lead.title))}</h2><p>${esc(lead.summary)}</p>${foot(lead)}${adminRow(lead)}</div></div>` : "";
   const rest = list.filter(i => i !== lead);
-  $("#grid").innerHTML = rest.slice(0, shown).map(card).join("") || (lead ? "" : `<div class="empty">Henüz haber yok.</div>`);
+  $("#grid").innerHTML = rest.slice(0, shown).map(card).join("") || (lead ? "" : `<div class="empty">Bu bölümde henüz haber yok.</div>`);
   $("#more").hidden = rest.length <= shown;
+}
+
+function applySettings(){
+  document.title = cfg.title;
+  $("#title").innerHTML = esc(cfg.title).replace("&amp;", "<span>&amp;</span>");
+  $("#sub").textContent = cfg.subtitle;
+  $("#foot").textContent = cfg.footer;
+  if (/^#[0-9a-f]{6}$/i.test(cfg.accent || "")) document.documentElement.style.setProperty("--accent", cfg.accent);
+  const tabs = [["hepsi", "Tümü"], ...Object.entries(cfg.categories || {}), ["editor", "Editörün Seçtikleri"]];
+  if (!tabs.some(([k]) => k === cat)) cat = "hepsi";
+  document.querySelectorAll("#tabs .tab").forEach(b => b.remove());
+  $("#q").insertAdjacentHTML("beforebegin", tabs.map(([k, l]) =>
+    `<button class="tab${k === cat ? " on" : ""}" data-c="${esc(k)}">${esc(l)}</button>`).join(""));
+  document.querySelectorAll("#tabs .tab").forEach(b => b.onclick = () => {
+    cat = b.dataset.c; shown = 24;
+    document.querySelectorAll("#tabs .tab").forEach(x => x.classList.toggle("on", x === b));
+    render();
+  });
 }
 
 async function load(){
   const get = f => fetch(f + "?t=" + Date.now()).then(r => r.ok ? r.json() : null).catch(() => null);
-  const [news, manual] = await Promise.all([get("data/news.json"), get("data/manual.json")]);
-  const auto = news?.items || [];
-  const mine = manual || [];
-  // Sabitlenenler en üstte, sonra tarih sırası
-  all = [...mine, ...auto].sort((a,b) => (b.pinned|0) - (a.pinned|0) || new Date(b.date) - new Date(a.date));
+  const [news, manual, settings, fd] = await Promise.all(
+    ["data/news.json", "data/manual.json", "data/settings.json", "data/feeds.json"].map(get));
+  cfg = Object.assign({title: "Gündem & Teknoloji", subtitle: "Otomatik güncellenir", footer: "",
+    categories: {teknoloji: "Teknoloji", gundem: "Gündem"}}, settings || {});
+  feeds = fd || {};
+  all = [...(manual || []), ...(news?.items || [])]
+    .sort((a, b) => (b.pinned|0) - (a.pinned|0) || new Date(b.date) - new Date(a.date));
   $("#upd").textContent = news?.updated ? "Son güncelleme: " + ago(news.updated) : "";
-  render();
+  applySettings(); adminLinks(); render();
 }
 
-document.querySelectorAll(".tab[data-c]").forEach(b => b.onclick = () => {
-  document.querySelectorAll(".tab[data-c]").forEach(x => x.classList.toggle("on", x === b));
-  cat = b.dataset.c; shown = 24; render();
-});
 $("#q").oninput = e => { query = e.target.value.trim().toLocaleLowerCase("tr"); shown = 24; render(); };
 $("#more").onclick = () => { shown += 24; render(); };
-
 load();
-setInterval(load, 5 * 60 * 1000); // açık sayfa 5 dakikada bir yenilenir
+setInterval(load, 5 * 60 * 1000);
 </script>
 </body>
 </html>

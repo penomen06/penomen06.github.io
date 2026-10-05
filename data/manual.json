@@ -1,6 +1,6 @@
 [
  {
-  "id": 1,
+  "id": "e1",
   "title": "Sitemize hoş geldiniz!",
   "summary": "Teknoloji ve gündem haberleri burada her 30 dakikada bir otomatik güncellenir.",
   "link": "",
@@ -8,6 +8,7 @@
   "source": "Editör",
   "category": "teknoloji",
   "date": "2026-10-05T13:57:08.001666+00:00",
-  "pinned": true
+  "pinned": true,
+  "manual": true
  }
 ]

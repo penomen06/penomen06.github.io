@@ -1,0 +1,13 @@
+{
+ "title": "Gündem & Teknoloji",
+ "subtitle": "Otomatik güncellenir",
+ "accent": "#e4402d",
+ "footer": "Haber başlıkları ve özetleri ilgili kaynaklardan alınır; tamamı için habere tıklayın.",
+ "categories": {
+  "teknoloji": "Teknoloji",
+  "gundem": "Gündem"
+ },
+ "per_feed": 15,
+ "blocked_words": [],
+ "blocked_links": []
+}
