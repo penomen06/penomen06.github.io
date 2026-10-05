@@ -57,6 +57,25 @@ nav{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid
 footer{border-top:1px solid var(--line);padding-top:20px;padding-bottom:40px;color:var(--muted);font-size:13px}
 @media (max-width:760px){.hero{grid-template-columns:1fr}.meta{text-align:left}}
 
+/* ---- haber sayfası ---- */
+#article{display:none;max-width:760px;margin:0 auto;padding:22px 0 10px}
+body.okuma #article{display:block}
+body.okuma #hero,body.okuma #grid,body.okuma #more{display:none}
+.back{display:block;background:none;border:0;color:var(--muted);font:500 14px Inter;cursor:pointer;padding:0;margin-bottom:18px}
+.back:hover{color:var(--ink)}
+#article h1{font-size:clamp(28px,4.6vw,44px);line-height:1.08;margin:10px 0 12px;font-weight:800}
+#article .by{color:var(--muted);font-size:14px;margin-bottom:20px}
+#article .cover{width:100%;border-radius:12px;margin-bottom:22px;background:var(--line)}
+.text{font-size:18px;line-height:1.75}
+.text p{margin:0 0 1.1em}
+.text img{max-width:100%;border-radius:10px;margin:6px 0 18px;display:block}
+.text a{color:var(--accent);text-decoration:underline;word-break:break-word}
+.text a.src{display:inline-block;margin:6px 0 10px;background:var(--ink);color:var(--bg);padding:12px 20px;border-radius:999px;font:600 15px Inter;text-decoration:none}
+.note{font-size:13px;color:var(--muted)}
+.related:empty{display:none}
+.related{margin-top:30px;border-top:2px solid var(--ink);padding-top:18px}
+.related h2{font:800 24px Fraunces,serif;margin:0 0 4px}
+
 /* ---- yönetim modu ---- */
 #admin{display:none;background:#16161a;color:#f6f4ef;font-size:14px}
 body.yonetim #admin{display:block}
@@ -101,6 +120,8 @@ body.yonetim .adm{display:flex}
 </div></nav>
 
 <main class="wrap">
+  <section id="article"></section>
+  <section id="related" class="related"></section>
   <section id="hero"></section>
   <section id="grid" class="grid"></section>
   <button id="more" class="tab" hidden>Daha fazla göster</button>
@@ -154,7 +175,7 @@ function adminRow(item){
   if (!item.id) return "";
   const t = item.title.slice(0, 60);
   return `<div class="adm"><span>ID <code>${esc(item.id)}</code></span>
-    <a target="_blank" rel="noopener" href="${esc(form("2-haber-duzenle.yml", "[Düzenle] " + t, {haber_id: item.id, baslik: item.title, aciklama: item.summary, resim: item.image, link: item.link}))}">✏️ Düzenle / manşet</a>
+    <a target="_blank" rel="noopener" href="${esc(form("2-haber-duzenle.yml", "[Düzenle] " + t, {haber_id: item.id, baslik: item.title, aciklama: (item.summary || "").length < 4000 ? item.summary : "", resim: item.image, link: item.link}))}">✏️ Düzenle / manşet</a>
     <a target="_blank" rel="noopener" href="${esc(form("3-haber-sil.yml", "[Sil] " + t, {haber_id: item.id}))}">🗑️ Sil</a></div>`;
 }
 
@@ -167,10 +188,9 @@ function ago(iso){
   return new Date(iso).toLocaleDateString("tr-TR", {day:"numeric", month:"long"});
 }
 const img = item => safeUrl(item.image) ? `<img src="${esc(item.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
-function wrapLink(item, inner){
-  const l = safeUrl(item.link);
-  return l ? `<a href="${esc(l)}" target="_blank" rel="noopener">${inner}</a>` : inner;
-}
+const wrapLink = (item, inner) => item.id ? `<a href="#/haber/${encodeURIComponent(item.id)}">${inner}</a>` : inner;
+// kart önizlemesi için metindeki resimleri ve fazla boşlukları temizler
+const preview = t => String(t || "").replace(/!\[[^\]]*\]\([^)]*\)|<img[^>]*>/gi, " ").replace(/\s+/g, " ").trim();
 function chip(item){
   if (item.source === "Editör") return `<span class="chip" style="--c:var(--editor)">Editör</span>`;
   const keys = Object.keys(cfg.categories || {});
@@ -180,18 +200,68 @@ function chip(item){
 const foot = item => `<div class="foot"><span>${esc(item.source)}</span><span>${ago(item.date)}</span></div>`;
 const card = item => `<article class="card">${wrapLink(item, img(item))}
     <div class="body">${chip(item)}<h3>${wrapLink(item, esc(item.title))}</h3>
-      ${item.summary ? `<p>${esc(item.summary)}</p>` : ""}${foot(item)}${adminRow(item)}</div></article>`;
+      ${item.summary ? `<p>${esc(preview(item.summary))}</p>` : ""}${foot(item)}${adminRow(item)}</div></article>`;
 
 function render(){
   let list = all.filter(i => cat === "hepsi" ? true : cat === "editor" ? i.manual : i.category === cat);
   if (query) list = list.filter(i => (i.title + " " + i.summary).toLocaleLowerCase("tr").includes(query));
   const lead = !query && (list.find(i => i.pinned) || list.find(i => i.image));
   $("#hero").innerHTML = lead ? `<div class="hero">${wrapLink(lead, img(lead))}
-      <div>${chip(lead)}<h2>${wrapLink(lead, esc(lead.title))}</h2><p>${esc(lead.summary)}</p>${foot(lead)}${adminRow(lead)}</div></div>` : "";
+      <div>${chip(lead)}<h2>${wrapLink(lead, esc(lead.title))}</h2><p>${esc(preview(lead.summary).slice(0, 260))}</p>${foot(lead)}${adminRow(lead)}</div></div>` : "";
   const rest = list.filter(i => i !== lead);
   $("#grid").innerHTML = rest.slice(0, shown).map(card).join("") || (lead ? "" : `<div class="empty">Bu bölümde henüz haber yok.</div>`);
   $("#more").hidden = rest.length <= shown;
 }
+
+// ---------------------------------------------------------------- haber sayfası
+function bodyHtml(raw){
+  const imgs = [];
+  const marked = String(raw || "")
+    .replace(/!\[[^\]]*\]\((https?:\/\/[^)\s]+)\)|<img[^>]*src="(https?:\/\/[^"]+)"[^>]*>/gi,
+      (_, a, b) => `\u0000${imgs.push(a || b) - 1}\u0000`);
+  return marked.split(/\n\s*\n/).map(par => {
+    const h = esc(par.trim())
+      .replace(/https?:\/\/[^\s<]+/g, u => `<a href="${u}" target="_blank" rel="noopener">${u}</a>`)
+      .replace(/\n/g, "<br>")
+      .replace(/\u0000(\d+)\u0000/g, (_, i) => `</p><img src="${esc(imgs[i])}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><p>`);
+    return h ? `<p>${h}</p>` : "";
+  }).join("").replace(/<p>(\s|<br>)*<\/p>/g, "");
+}
+
+function showArticle(id){
+  const item = all.find(i => String(i.id) === id);
+  const el = $("#article");
+  if (!item){
+    el.innerHTML = `<button class="back" onclick="location.hash=''">← Ana sayfa</button><div class="empty">Bu haber artık yayında değil.</div>`;
+    $("#related").innerHTML = "";
+    return;
+  }
+  const date = new Date(item.date).toLocaleString("tr-TR", {day:"numeric", month:"long", year:"numeric", hour:"2-digit", minute:"2-digit"});
+  const link = safeUrl(item.link);
+  const cover = safeUrl(item.image) ? `<img class="cover" src="${esc(item.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
+  const text = item.manual
+    ? bodyHtml(item.summary) + (link ? `<p class="note">Kaynak: <a href="${esc(link)}" target="_blank" rel="noopener">${esc(new URL(link).hostname)}</a></p>` : "")
+    : (item.summary ? `<p>${esc(item.summary)}</p>` : "") + (link ? `<a class="src" href="${esc(link)}" target="_blank" rel="noopener">Haberin devamını ${esc(item.source)} sitesinde oku →</a>
+       <p class="note">Bu özet ${esc(item.source)} tarafından yayınlanmıştır.</p>` : "");
+  const related = all.filter(i => i !== item && i.category === item.category).slice(0, 6);
+  el.innerHTML = `<button class="back" onclick="location.hash=''">← Tüm haberler</button>
+    ${chip(item)}<h1>${esc(item.title)}</h1>
+    <div class="by">${esc(item.source)} · ${date}</div>${cover}
+    <div class="text">${text}</div>${adminRow(item)}`;
+  $("#related").innerHTML = related.length ? `<h2>Benzer haberler</h2><div class="grid">${related.map(card).join("")}</div>` : "";
+  document.title = item.title + " · " + cfg.title;
+}
+
+let lastHash = null;
+function route(){
+  const m = location.hash.match(/^#\/haber\/(.+)$/);
+  document.body.classList.toggle("okuma", !!m);
+  if (m) showArticle(decodeURIComponent(m[1]));
+  else { $("#related").innerHTML = ""; document.title = cfg.title; }
+  if (location.hash !== lastHash) window.scrollTo(0, 0);  // otomatik yenilemede sayfa kaymasın
+  lastHash = location.hash;
+}
+window.addEventListener("hashchange", route);
 
 function applySettings(){
   document.title = cfg.title;
@@ -205,7 +275,7 @@ function applySettings(){
   $("#q").insertAdjacentHTML("beforebegin", tabs.map(([k, l]) =>
     `<button class="tab${k === cat ? " on" : ""}" data-c="${esc(k)}">${esc(l)}</button>`).join(""));
   document.querySelectorAll("#tabs .tab").forEach(b => b.onclick = () => {
-    cat = b.dataset.c; shown = 24;
+    cat = b.dataset.c; shown = 24; if (location.hash) location.hash = "";
     document.querySelectorAll("#tabs .tab").forEach(x => x.classList.toggle("on", x === b));
     render();
   });
@@ -221,7 +291,7 @@ async function load(){
   all = [...(manual || []), ...(news?.items || [])]
     .sort((a, b) => (b.pinned|0) - (a.pinned|0) || new Date(b.date) - new Date(a.date));
   $("#upd").textContent = news?.updated ? "Son güncelleme: " + ago(news.updated) : "";
-  applySettings(); adminLinks(); render();
+  applySettings(); adminLinks(); render(); route();
 }
 
 $("#q").oninput = e => { query = e.target.value.trim().toLocaleLowerCase("tr"); shown = 24; render(); };

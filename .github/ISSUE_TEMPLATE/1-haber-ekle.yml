@@ -14,16 +14,16 @@ body:
     attributes:
       label: "Kategori"
       options:
-        - "teknoloji"
-        - "gundem"
+        - "Teknoloji"
+        - "Gündem"
       default: 0
     validations:
       required: true
   - type: textarea
     id: aciklama
     attributes:
-      label: "Açıklama"
-      description: "Haberin metni (isteğe bağlı)"
+      label: "Haber metni"
+      description: "Haberin tamamı; sitende kendi sayfasında okunur. Paragraflar arasına boş satır bırak, araya resim de sürükleyebilirsin."
   - type: textarea
     id: resim
     attributes:

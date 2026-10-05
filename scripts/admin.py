@@ -93,7 +93,7 @@ def cmd_haber(f, n):
     manual.insert(0, {
         "id": f"e{n}",
         "title": title,
-        "summary": f.get("Açıklama", ""),
+        "summary": f.get("Haber metni") or f.get("Açıklama", ""),
         "link": valid_url(f.get("Link")),
         "image": first_image(f.get("Resim", "")),
         "source": "Editör",
@@ -120,7 +120,7 @@ def cmd_duzenle(f, n):
         changes.append(label)
 
     setval("title", "başlık", f.get("Başlık", "").strip())
-    setval("summary", "açıklama", f.get("Açıklama", ""))
+    setval("summary", "metin", f.get("Haber metni") or f.get("Açıklama", ""))
     setval("image", "resim", f.get("Resim", ""), first_image)
     setval("link", "link", f.get("Link", ""), valid_url)
     cat = f.get("Kategori", "")

@@ -79,7 +79,7 @@ def write_templates(s, feeds):
         "1-haber-ekle.yml": _form("📰 Haber Ekle", "Siteye kendi haberini ekle", "[Haber] ", "haber", [
             _field("input", "baslik", "Başlık", required=True),
             _dropdown("kategori", "Kategori", cats),
-            _field("textarea", "aciklama", "Açıklama", "Haberin metni (isteğe bağlı)"),
+            _field("textarea", "aciklama", "Haber metni", "Haberin tamamı; sitende kendi sayfasında okunur. Paragraflar arasına boş satır bırak, araya resim de sürükleyebilirsin."),
             _field("textarea", "resim", "Resim", "Resmi buraya sürükle-bırak yap ya da resim linkini yapıştır"),
             _field("input", "link", "Link", "Haberin kaynağı / devamı (isteğe bağlı)"),
             _field("checkboxes", "secenek", "Seçenekler", extra="      options:\n        - label: \"Sabitle (manşette göster)\"\n"),
@@ -88,7 +88,7 @@ def write_templates(s, feeds):
             _field("input", "haber_id", "Haber ID", "Sitede yönetim modunda her haberin altında yazar", required=True),
             _field("input", "baslik", "Başlık"),
             _dropdown("kategori", "Kategori", ["Değiştirme"] + cats),
-            _field("textarea", "aciklama", "Açıklama"),
+            _field("textarea", "aciklama", "Haber metni", "Paragraflar arasına boş satır bırak, araya resim sürükleyebilirsin."),
             _field("textarea", "resim", "Resim", "Yeni resmi sürükle-bırak yap ya da linkini yapıştır"),
             _field("input", "link", "Link"),
             _dropdown("manset", "Manşet", ["Değiştirme", "Sabitle", "Sabitlemeyi kaldır"]),
