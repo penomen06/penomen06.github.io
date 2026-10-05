@@ -1,0 +1,14 @@
+{
+  "teknoloji": [
+    "https://www.webtekno.com/rss.xml",
+    "https://shiftdelete.net/feed",
+    "https://www.donanimhaber.com/rss/tum/",
+    "https://www.log.com.tr/feed/"
+  ],
+  "gundem": [
+    "https://feeds.bbci.co.uk/turkce/rss.xml",
+    "https://www.ntv.com.tr/gundem.rss",
+    "https://www.trthaber.com/manset_articles.rss",
+    "https://www.aa.com.tr/tr/rss/default?cat=guncel"
+  ]
+}

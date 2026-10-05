@@ -1,0 +1,37 @@
+name: Elle haber ekle
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: site-guncelle
+  cancel-in-progress: false
+
+jobs:
+  ekle:
+    # Sadece site sahibi ve "haber" etiketli formlar yayınlanır
+    if: github.event.issue.user.login == github.repository_owner && contains(github.event.issue.labels.*.name, 'haber')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Haberi ekle
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: python scripts/add_post.py
+      - name: Kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "haber-botu@users.noreply.github.com"
+          git add data/manual.json
+          git commit -m "Yeni haber: #${{ github.event.issue.number }}"
+          git pull --rebase && git push
+      - name: Formu kapat
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue close ${{ github.event.issue.number }} -R ${{ github.repository }} -c "✅ Yayınlandı! 1-2 dakika içinde sitede görünür."

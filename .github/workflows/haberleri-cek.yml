@@ -1,0 +1,32 @@
+name: Haberleri otomatik çek
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # her 30 dakikada bir
+  workflow_dispatch:          # Actions sekmesinden elle de çalıştırılabilir
+
+permissions:
+  contents: write
+
+concurrency:
+  group: site-guncelle
+  cancel-in-progress: false
+
+jobs:
+  cek:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install feedparser
+      - run: python scripts/fetch_news.py
+      - name: Değişiklik varsa kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "haber-botu@users.noreply.github.com"
+          git add data/news.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Haberler güncellendi"
+          git pull --rebase && git push
