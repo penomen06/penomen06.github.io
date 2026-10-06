@@ -2,7 +2,7 @@ name: Haberleri otomatik çek
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # her 30 dakikada bir
+    - cron: "7,37 * * * *"   # her 30 dakikada bir (yoğun olmayan dakikalarda)
   workflow_dispatch:          # Actions sekmesinden elle de çalıştırılabilir
 
 permissions:
