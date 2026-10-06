@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-05T21:32:30.665496+00:00",
+ "updated": "2026-10-06T01:58:19.531073+00:00",
  "items": [
   {
-   "id": "678be506",
-   "title": "Toshiba’dan Dev Yatırım: Sabit Disk Üretim Kapasitesi İkiye Katlanıyor",
-   "summary": "Toshiba, artan veri merkezi talebini karşılamak için sabit disk üretim kapasitesini iki katına çıkaracak dev bir yatırım başlattı.",
-   "link": "https://shiftdelete.net/toshiba-sabit-disk-uretim-kapasitesi-yatirim",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-05T21:30:34+00:00"
+   "id": "c44a3e3a",
+   "title": "Motorine 4,95 TL'lik indirim geldi. Gece yarısı tabelalar değişti",
+   "summary": "Petrol fiyatlarındaki gerilemenin etkisiyle birlikte motorin fiyatlarına indirim geldi. İndirim gece yarısı pompa fiyatlarına yansıdı.",
+   "link": "https://www.ntv.com.tr/turkiye/motorine-495-tllik-indirim-geldi-gece-yarisi-tabelalar-degisti-1744970",
+   "image": "https://images.ntv.com.tr/images/motorin-336529(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-06T01:50:31+00:00"
   },
   {
    "id": "531e3bb4",
@@ -19,7 +19,157 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-05T21:30:00+00:00"
+   "date": "2026-10-06T01:30:00+00:00"
+  },
+  {
+   "id": "243f757c",
+   "title": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen tutuklandı",
+   "summary": "Ankara Cumhuriyet Başsavcılığınca Eyüpsultan Belediyesi'ne yönelik yürütülen soruşturmada Belediye Başkanı Mithat Bülent Özmen tutuklandı.",
+   "link": "https://www.bbc.com/turkce/articles/cxyvzvr4y6mgo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/23c2/live/124a90a0-be25-11f1-a588-b57a170757bb.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-06T00:35:02+00:00"
+  },
+  {
+   "id": "7c863d6f",
+   "title": "Mekke Savunma İttifakı'ndan kritik karar: Kolektif savunma için harekete geçiliyor",
+   "summary": "Türkiye, Suudi Arabistan ve Pakistan'ın oluşturduğu Mekke Savunma İttifakı, kolektif savunma taahhütlerinin hayata geçirilmesi için derhal harekete geçilmesini kararlaştırdı.",
+   "link": "https://www.ntv.com.tr/turkiye/mekke-savunma-ittifakindan-kritik-karar-kolektif-savunma-icin-harekete-geciliyor-1744954",
+   "image": "https://images.ntv.com.tr/images/AA-20261005-42658949-42658944-TURKISH_MINISTERS_FIDAN_AND_GULER_IN_RIYADH-111719.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-05T23:49:35+00:00"
+  },
+  {
+   "id": "78ca8b9a",
+   "title": "Türkiye'den Nijerya'daki askeri uçak kazasında hayatını kaybedenler için taziye mesajı",
+   "summary": "Dışişleri Bakanlığı, Nijerya'nın Ondo eyaletinde bugün askeri bir uçağın düşmesi sonucu hayatını kaybedenler için taziye mesajı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-nijeryadaki-askeri-ucak-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji/4079102",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-05T23:17:31+00:00"
+  },
+  {
+   "id": "1995c335",
+   "title": "Fon krizi için TBMM'de araştırma komisyonu tartışması: Partiler ne diyor?",
+   "summary": "Muhalefet partileri, kamuoyunun gündemine oturan fon vurgunuyla ilgili Meclis araştırması açılması için önerge vermeye hazırlanırken, iktidar kanadı araştırma komisyonu kurulmasına sıcak bakmıyor.",
+   "link": "https://www.bbc.com/turkce/articles/ckp8g1nrmejvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6ce/live/dc8de0d0-c10c-11f1-9e53-ebb00e5779d7.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-05T23:14:04+00:00"
+  },
+  {
+   "id": "335f27fd",
+   "title": "Fatma Betül Sayan Kaya ve eşinden fon kazançları için ödeme başvurusu",
+   "summary": "Fon iddiaları sonrası AKP'den istifa eden Fatma Betül Sayan Kaya ve eşi İlyas Kaya'nın elde ettikleri kazançları için gönüllük kapsamında ödeme yapmasına izin verildi.",
+   "link": "https://www.bbc.com/turkce/articles/cw23d8l4dlr3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7717/live/ce5bc000-c106-11f1-9ff2-3b6c88884537.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-05T23:13:32+00:00"
+  },
+  {
+   "id": "43695a77",
+   "title": "Nijerya'da askeri uçak kazası nedeniyle 3 günlük \"ulusal yas\" ilan edildi",
+   "summary": "Nijerya Cumhurbaşkanı Bola Ahmed Tinubu'nun, Ondo eyaletinde askeri uçağın düşmesi sonucu hayatını kaybeden Nijerya Hava Kuvvetleri (NAF) personeli için ülkede 3 günlük ulusal yas ilan ettiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/nijeryada-askeri-ucak-kazasi-nedeniyle-3-gunluk-ulusal-yas-ilan-edildi/4079100",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-05T23:12:55+00:00"
+  },
+  {
+   "id": "88bcbdc5",
+   "title": "İtalya basını: 'Türkiye fırsatlar yakaladı ama önemli olan sonuç'",
+   "summary": "İtalya basını, milli takımlarının önceki maça kıyasla daha az parlak bir görüntü sergilediğine dikkat çekti. İtalya grup ikinciliğine yükselirken, yakaladığı gol fırsatlarına karşın Türkiye'nin sıfır puanda kaldığı…",
+   "link": "https://www.bbc.com/turkce/articles/cq4g1px5ljmko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a0de/live/88c8e650-c109-11f1-9e3c-81b9b8233e1a.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-05T22:11:40+00:00"
+  },
+  {
+   "id": "4bf71986",
+   "title": "Küresel petrol rafineri kapasitesinde 2030'a kadar günlük 4,2 milyon varillik artış bekleniyor",
+   "summary": "Küresel petrol rafineri kapasitesinin 2026-2030 döneminde günlük 4,2 milyon varil artması bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-petrol-rafineri-kapasitesinde-2030a-kadar-gunluk-4-2-milyon-varillik-artis-bekleniyor/4079090",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-05T22:01:10+00:00"
+  },
+  {
+   "id": "a1270cea",
+   "title": "Ziraat Türkiye Kupası'nda üçüncü eleme turu kuraları 9 Ekim'de çekilecek",
+   "summary": "Ziraat Türkiye Kupası'nda üçüncü eleme turu kura çekimi, 9 Ekim Cuma günü gerçekleştirilecek.",
+   "link": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-ucuncu-eleme-turu-kuralari-9-ekimde-cekilecek/4079089",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-05T22:00:41+00:00"
+  },
+  {
+   "id": "f9acb239",
+   "title": "Milli karateciler, Avusturya'daki turnuvada 2 bronz madalya kazandı",
+   "summary": "Milli sporcular Ekrem Altuner Yılmaz ve Kağan Aslan, Avusturya'da düzenlenen Karate 1 Serisi A müsabakalarında birer bronz madalya elde etti.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-karateciler-avusturyadaki-turnuvada-2-bronz-madalya-kazandi/4079088",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-05T21:58:05+00:00"
+  },
+  {
+   "id": "6d1997ea",
+   "title": "İran Genelkurmay Başkanı: “İran'a karşı yeni bir saldırının ateşi herkesi saracak”",
+   "summary": "İran Genelkurmay Başkanı ve Hatemu'l Enbiya Merkez Karargahı Komutanı Tümgeneral Ali Abdullahi, ülkesine karşı \"yeni bir saldırının ateşinin herkesi saracağını\" iddia etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-genelkurmay-baskani-irana-karsi-yeni-bir-saldirinin-atesi-herkesi-saracak-/4079087",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-05T21:57:35+00:00"
+  },
+  {
+   "id": "60381a34",
+   "title": "Fatma Betül Sayan Kaya ve eşinin hesaplarındaki miktarların Birleşik Fon Bankasına gönderilmesi için yazı yazıldı",
+   "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında, Fatma Betül Sayan Kaya ile eşi İlyas Kaya'nın hesaplarında bulunan miktarların Birleşik Fon Bankası AŞ'ye gönderilmesi için…",
+   "link": "https://www.aa.com.tr/tr/gundem/fatma-betul-sayan-kaya-ve-esinin-hesaplarindaki-miktarlarin-birlesik-fon-bankasina-gonderilmesi-icin-yazi-yazildi/4079086",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-05T21:55:20+00:00"
+  },
+  {
+   "id": "e5a0c6dc",
+   "title": "Yolcu uçağında \"bomba\" ihbarı asılsız çıktı",
+   "summary": "Şanlıurfa GAP Havalimanı'na iniş yapan bir yolcu uçağında \"patlayıcı madde bulunduğu\" ihbarı asılsız çıktı.",
+   "link": "https://www.aa.com.tr/tr/gundem/yolcu-ucaginda-bomba-ihbari-asilsiz-cikti/4079085",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-05T21:49:52+00:00"
+  },
+  {
+   "id": "f9c1f866",
+   "title": "Trump, İngiltere'deki ABD bombardıman uçaklarını \"İran tehdidi\" ihtimali üzerine çektiklerini söyledi",
+   "summary": "ABD Başkanı Donald Trump, İngiltere'nin Gloucestershire bölgesindeki Kraliyet Hava Kuvvetleri (RAF) Fairford Üssü'ndeki bombardıman uçaklarını, muhtemel \"İran bağlantılı bazı tehditler\" nedeniyle çektiklerini doğruladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-ingilteredeki-abd-bombardiman-ucaklarini-iran-tehdidi-ihtimali-uzerine-cektiklerini-soyledi/4079081",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-05T21:35:03+00:00"
+  },
+  {
+   "id": "678be506",
+   "title": "Toshiba’dan Dev Yatırım: Sabit Disk Üretim Kapasitesi İkiye Katlanıyor",
+   "summary": "Toshiba, artan veri merkezi talebini karşılamak için sabit disk üretim kapasitesini iki katına çıkaracak dev bir yatırım başlattı.",
+   "link": "https://shiftdelete.net/toshiba-sabit-disk-uretim-kapasitesi-yatirim",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-05T21:30:34+00:00"
   },
   {
    "id": "a288b6ec",
@@ -52,16 +202,6 @@
    "date": "2026-10-05T21:07:42+00:00"
   },
   {
-   "id": "7c863d6f",
-   "title": "Mekke Savunma İttifakı'ndan kritik karar: Kolektif savunma için harekete geçiliyor",
-   "summary": "Türkiye, Suudi Arabistan ve Pakistan'ın oluşturduğu Mekke Savunma İttifakı, kolektif savunma taahhütlerinin hayata geçirilmesi için derhal harekete geçilmesini kararlaştırdı.",
-   "link": "https://www.ntv.com.tr/turkiye/mekke-savunma-ittifakindan-kritik-karar-kolektif-savunma-icin-harekete-geciliyor-1744954",
-   "image": "https://images.ntv.com.tr/images/AA-20261005-42658949-42658944-TURKISH_MINISTERS_FIDAN_AND_GULER_IN_RIYADH-111719.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-05T21:05:08+00:00"
-  },
-  {
    "id": "551fe31e",
    "title": "Yemen’deki Husiler, Suudi Arabistan’a düzenledikleri saldırılarda Riyad’daki havalimanını vurduklarını öne sürdü",
    "summary": "Yemen’de İran destekli Husiler, Suudi Arabistan’a yönelik bir dizi saldırıda başkent Riyad’daki Kral Halid Havalimanı’nı vurduklarını ve hava trafiğinin aksadığını öne sürdü.",
@@ -80,16 +220,6 @@
    "source": "Teknoloji Haberleri – ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-05T21:00:13+00:00"
-  },
-  {
-   "id": "006a581a",
-   "title": "Türkiye, Uluslar Ligi'ndeki dördüncü maçında da mağlup",
-   "summary": "Türkiye A Milli Erkek Futbol Takımı, UEFA Uluslar A Ligi'ndeki peş peşe dördüncü maçını da kaybetti.",
-   "link": "https://www.bbc.com/turkce/articles/cve8xk9kwxz5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eacd/live/8da41b70-c0fc-11f1-966b-f7b264906ff6.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-05T20:39:04+00:00"
   },
   {
    "id": "272c6d2c",
@@ -172,14 +302,14 @@
    "date": "2026-10-05T19:52:57+00:00"
   },
   {
-   "id": "dc880acd",
-   "title": "İtalya Başbakanı Meloni, yapay zeka klonlamasına karşı sesinin telif hakkını almak istiyor",
-   "summary": "İtalya Başbakanı Giorgia Meloni, yapay zeka klonlamalarına karşı sesinin telif hakkını almak için Avrupa Birliği Fikri Mülkiyet Ofisi'ne (EUIPO) başvuruda bulundu.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/italya-basbakani-meloni-yapay-zeka-klonlamasina-karsi-sesinin-telif-hakkini-almak-istiyor/4079001",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
+   "id": "be32e912",
+   "title": "Ataşehir Belediyesi'ne yönelik yolsuzluk operasyonu: 5 tutuklama",
+   "summary": "Ataşehir Belediyesi'ne yönelik yolsuzluk soruşturması kapsamında gözaltına alınan, aralarında Belediye Başkan Vekili Murat Güneş'in de bulunduğu 5 şüpheli tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/atasehir-belediyesine-yonelik-yolsuzluk-operasyonu-5-tutuklama-959195.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2454000/atasehir-2454637.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
-   "date": "2026-10-05T19:43:06+00:00"
+   "date": "2026-10-05T19:44:00+00:00"
   },
   {
    "id": "7c798124",
@@ -202,10 +332,10 @@
    "date": "2026-10-05T19:36:55+00:00"
   },
   {
-   "id": "fc654393",
-   "title": "Şanlıurfa'da uçakta bomba ihbarı: Yapılan aramada olumsuzluk tespit edilmedi",
+   "id": "d5accc34",
+   "title": "Şanlıurfa'da yolcu uçağındaki 'bomba' ihbarı asılsız çıktı",
    "summary": "Ankara'dan Şanlıurfa'ya gelen yolcu uçağında görevlilerin uçakta patlayıcı var notu bulması üzerine yolcular ve mürettebat tahliye edildikten sonra görevliler arama çalışması başlattı. Şanlıurfa Valisi Hasan Şıldak,…",
-   "link": "https://www.trthaber.com/haber/turkiye/sanliurfada-ucakta-bomba-ihbari-yapilan-aramada-olumsuzluk-tespit-edilmedi-959193.html",
+   "link": "https://www.trthaber.com/haber/turkiye/sanliurfada-yolcu-ucagindaki-bomba-ihbari-asilsiz-cikti-959193.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2492000/sanliurfa-bomba-dha-2493581.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
@@ -232,26 +362,6 @@
    "date": "2026-10-05T19:30:06+00:00"
   },
   {
-   "id": "a41fd50a",
-   "title": "İspanya'da işçi sendikaları, konut krizine karşı genel grev kararı aldı",
-   "summary": "İspanya'nın en büyük iki sendikası İşçi Komisyonları (CCOO) ve Genel İşçiler Birliği (UGT), ülkedeki konut krizine karşı genel grev kararı aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/ispanyada-isci-sendikalari-konut-krizine-karsi-genel-grev-karari-aldi/4078989",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-05T19:29:37+00:00"
-  },
-  {
-   "id": "6eb9cfd9",
-   "title": "ABD Emtia Vadeli İşlemler Komisyonundan \"kripto varlık piyasalarının denetimi için düzenleme\" önerisi",
-   "summary": "ABD Emtia Vadeli İşlemler Komisyonu (CFTC), kaldıraçlı dijital varlık işlemleri sunan kripto para borsalarının federal düzeyde denetlenmesine yönelik yeni bir düzenleme önerdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abd-emtia-vadeli-islemler-komisyonundan-kripto-varlik-piyasalarinin-denetimi-icin-duzenleme-onerisi/4078983",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-05T19:20:44+00:00"
-  },
-  {
    "id": "cd9fc293",
    "title": "iOS 27.2 Beta 3 Yayınlandı",
    "summary": "Apple, iPhone için iOS 27.2 üçüncü geliştirici beta sürümünü yayınladı. Yeni Sağlık uygulaması, gelişmiş Siri dil desteği ve daha fazlası hakkında detaylar burada.",
@@ -260,16 +370,6 @@
    "source": "Teknoloji Haberleri – ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-05T19:18:48+00:00"
-  },
-  {
-   "id": "23370b06",
-   "title": "Katar Dışişleri Bakanlığı Sözcüsü Ensari: Mekke Anlaşması bölge güvenliği açısından umut verici",
-   "summary": "Katar Dışişleri Bakanlığı Sözcüsü Macid el-Ensari, Suudi Arabistan, Türkiye ve Pakistan arasında imzalanan Mekke Ortak Savunma Anlaşması'nın bölge güvenliği açısından umut verici olduğunu söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/katar-disisleri-bakanligi-sozcusu-ensari-mekke-anlasmasi-bolge-guvenligi-acisindan-umut-verici/4078979",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-05T19:15:58+00:00"
   },
   {
    "id": "ca4bb5ff",
@@ -282,16 +382,6 @@
    "date": "2026-10-05T19:14:00+00:00"
   },
   {
-   "id": "541408e4",
-   "title": "Suudi Arabistan Kralı Selman, ülkede yasa dışı ikamet eden Yemenlilerin statülerini yasallaştırma talimatı verdi",
-   "summary": "Suudi Arabistan Kralı Selman bin Abdulaziz, ülkede yasa dışı ikamet eden Yemen vatandaşlarının statülerini yasal hale getirme sürecini başlatmaları talimatı verdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-krali-selman-ulkede-yasa-disi-ikamet-eden-yemenlilerin-statulerini-yasallastirma-talimati-verdi/4078974",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-05T19:09:14+00:00"
-  },
-  {
    "id": "2d45c108",
    "title": "Mekke İttifakı'nın 'olağanüstü' toplantısından Suudi Arabistan'a 'hızlı' askeri destek kararı çıktı",
    "summary": "Yemen hükümetinin Husilerle savaşının şiddetlendiği dönemde yapılan Mekke İttifakı toplantısından, Türkiye ve Pakistan askerlerinin \"hızlı\" şekilde Suudi Arabistan'a intikalinin gerçekleşmesi kararı alındı.",
@@ -302,36 +392,6 @@
    "date": "2026-10-05T19:04:09+00:00"
   },
   {
-   "id": "efb46293",
-   "title": "Türkiye, Pakistan ve Suudi Arabistan'dan Mekke Ortak Savunma Anlaşması'nın Komite Toplantısı'na ilişkin ortak açıklama",
-   "summary": "Türkiye, Suudi Arabistan ve Pakistan, mutabık kalınan askeri kuvvet ve yeteneklerin Suudi Arabistan’a hızla konuşlandırılması için gerekli tedbirleri alarak tehditlere karşı hazırlık, askeri entegrasyon ve kolektif…",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-pakistan-ve-suudi-arabistandan-mekke-ortak-savunma-anlasmasinin-komite-toplantisina-iliskin-ortak-aciklama/4078970",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-05T19:02:48+00:00"
-  },
-  {
-   "id": "1a52168e",
-   "title": "A Milli Futbol Takımı teknik direktörü Montella, ilk 11'de 6 değişiklik yaptı",
-   "summary": "UEFA Uluslar A Ligi 1. Grup dördüncü maçında İtalya'ya konuk olan A Milli Futbol Takımı'nda teknik direktör Vincenzo Montella, son oynanan Belçika karşılaşmasına göre ikisi zorunlu 11'de 6 değişikliğe gitti.",
-   "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-teknik-direktoru-montella-ilk-11de-6-degisiklik-yapti/4078967",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-05T18:58:41+00:00"
-  },
-  {
-   "id": "7804c753",
-   "title": "İran: Devamlı yaptırımlar uygulayan ve anlaşmaları bozan düşmanla müzakere etmenin anlamı yok",
-   "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Ermenistan Dışişleri Bakanı Ararat Mirzoyan ile yaptığı görüşmede, “Devamlı yaptırımlar uygulayan, suikastlar düzenleyen ve anlaşmaları bozan bir düşmanla (ABD) müzakere etmenin…",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devamli-yaptirimlar-uygulayan-ve-anlasmalari-bozan-dusmanla-muzakere-etmenin-anlami-yok/4078961",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-05T18:52:17+00:00"
-  },
-  {
    "id": "77963fa0",
    "title": "Qualcomm ve Huawei arasında 5G ve yapay zeka patent anlaşması",
    "summary": "ABD merkezli çip üreticisi Qualcomm ile Çin merkezli Huawei arasında çok yıllı patent anlaşması imzalandı. Söz konusu anlaşmanın karşılıklı patent lisanslamaları içerdiği bildirildi.",
@@ -340,16 +400,6 @@
    "source": "DonanımHaber - Türkiye'nin Lider…",
    "category": "teknoloji",
    "date": "2026-10-05T18:52:00+00:00"
-  },
-  {
-   "id": "7830058c",
-   "title": "Guterres, ABD ile İran arasındaki diplomatik çabalar dahil çeşitli görüşmeler için Pakistan'a gidiyor",
-   "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, ABD ve İran arasındaki diplomatik arabuluculuk çabalarını desteklemek ve çeşitli temaslarda bulunmak için Pakistan’ı ziyaret edecek.",
-   "link": "https://www.aa.com.tr/tr/dunya/guterres-abd-ile-iran-arasindaki-diplomatik-cabalar-dahil-cesitli-gorusmeler-icin-pakistana-gidiyor/4078954",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-05T18:45:58+00:00"
   },
   {
    "id": "eec4d230",
@@ -812,16 +862,6 @@
    "date": "2026-10-05T13:05:00+00:00"
   },
   {
-   "id": "1fbba46e",
-   "title": "2026'nın en komik 10 hayvan fotoğrafı",
-   "summary": "Fitness tutkunu bir ayıdan epey kaba bir orangutana kadar, işte bu yılın hayvanlar aleminden en eğlenceli 10 fotoğrafı.",
-   "link": "https://www.bbc.com/turkce/articles/cq0me0v1dkz3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6cd/live/db4c2370-bfd7-11f1-babe-4199b0e7ccea.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-05T13:04:27+00:00"
-  },
-  {
    "id": "cfb47508",
    "title": "Mini LED TV Alırken Kontrol Etmeniz Gereken 3 Maddelik Liste!",
    "summary": "Mini LED ifadesi artık hemen her yerde karşımıza çıkıyor ancak tüm Mini LED TV’ler aynı performansı sunmuyor. Mini LED, arka aydınlatmada daha küçük LED’lerin kullanılmasını ifade etse de bu teknoloji farklı…",
@@ -912,16 +952,6 @@
    "date": "2026-10-05T11:36:02+00:00"
   },
   {
-   "id": "10ca51fa",
-   "title": "Fransa'da öğrenci protestoları sürüyor: 500 civarında okul kısmen ya da tamamen kapatıldı",
-   "summary": "Fransa Eğitim Bakanı, çevik kuvvet polisi ile öğrenci protestocuları arasında çıkan çatışmaların ardından bazı liselerde 5 Ekim Pazartesi günü derslerin \"tamamen veya kısmen askıya alınacağını\" söyledi",
-   "link": "https://www.bbc.com/turkce/articles/cmy830w77vyeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8bee/live/64c65690-c0cb-11f1-a5b0-6f550c662e91.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-05T11:25:19+00:00"
-  },
-  {
    "id": "3dc474ad",
    "title": "Cumhurbaşkanı Erdoğan: Türkiye, uzay ekosisteminin saygın aktörlerinden biri haline gelecek",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türkiye'yi küresel uzay ekosisteminin güçlü ve saygın aktörlerinden biri haline getirene kadar hedefimizden sapmayacağız. Biz bu yolu tek başımıza değil, işte bugün burada olduğu…",
@@ -1002,26 +1032,6 @@
    "date": "2026-10-05T09:45:00+00:00"
   },
   {
-   "id": "5e562f58",
-   "title": "Tanju Özcan cinsel saldırı davasında beraat etti",
-   "summary": "Bolu Belediye Başkanlığı görevinden uzaklaştırılan tutuklu Tanju Özcan \"cinsel saldırı\" davasında beraat etti. İrtikap soruşturması kapsamında tutukluluğu sürüyor.",
-   "link": "https://www.ntv.com.tr/turkiye/tanju-ozcan-cinsel-saldiri-davasinda-beraat-etti-1744900",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_2b56cd58b8e7e530cf0773ccf8a905af-636681.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-05T09:39:47+00:00"
-  },
-  {
-   "id": "ef5c999b",
-   "title": "ABD, saldırı hazırlığı iddialarından sonra İngiliz üssünden uçaklarını çekti",
-   "summary": "ABD, İngiltere'de terörle mücadele polisinin soruşturduğu bir olayın odağındaki İngiliz askeri üssü RAF Fairford'dan tüm bombardıman uçaklarını çekti.",
-   "link": "https://www.bbc.com/turkce/articles/c5vgyjmypd29o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ca8/live/655b39d0-c09a-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-05T09:30:03+00:00"
-  },
-  {
    "id": "789d5ec5",
    "title": "KKTC'de batan gemide bir kişinin daha naaşına ulaşıldı",
    "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin Girne açıklarında 30 Ağustos'ta batan yolcu gemisindeki kayıpları arama çalışmalarında bir kişinin daha cesedine ulaşıldı.",
@@ -1100,16 +1110,6 @@
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-05T06:27:00+00:00"
-  },
-  {
-   "id": "96c43225",
-   "title": "Bir neslin ağabeyi Fethi Gemuhluoğlu",
-   "summary": "Harp meydanında sakalık yapan, hususi çevrelerde mayası halis bir gençlik yoğuran Fethi Gemuhluoğlu, 55 yıllık yaşamında aşkla dolu işler yaptı. Dostluğun sırrını bilen gönül eri, gençlerin Fethi Ağabeyi 49 yıl önce…",
-   "link": "https://www.trthaber.com/haber/kultur-sanat/bir-neslin-agabeyi-fethi-gemuhluoglu-959120.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2404000/fethi-gemuhluoglu-2404206.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-05T06:11:00+00:00"
   },
   {
    "id": "984a2eaa",
