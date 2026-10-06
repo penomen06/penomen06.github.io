@@ -171,6 +171,11 @@ def cmd_ayarlar(f, n):
         s["subtitle"] = f["Üst yazı"].strip()[:80]; changes.append("üst yazı")
     if f.get("Site açıklaması"):
         s["description"] = re.sub(r"\s+", " ", f["Site açıklaması"]).strip()[:300]; changes.append("site açıklaması")
+    if f.get("İletişim formu e-postası"):
+        v = f["İletişim formu e-postası"].strip()
+        if not re.fullmatch(r"[^@\s/]+@[^@\s/]+\.[a-z]{2,}|[A-Za-z0-9]{16,64}", v, re.I):
+            raise Hata("İletişim e-postası anlaşılmadı. Bir e-posta adresi ya da FormSubmit kodu yaz.")
+        s["contact_email"] = v; changes.append("iletişim e-postası")
     if f.get("Google doğrulama kodu"):
         g = f["Google doğrulama kodu"].strip()
         m = re.search(r'content="([^"]+)"', g)

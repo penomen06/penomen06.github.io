@@ -19,6 +19,7 @@ DEFAULT_SETTINGS = {
     "blocked_words": [],
     "blocked_links": [],
     "google_verification": "",
+    "contact_email": "penomen@gmail.com",
     "site_url": "",
 }
 
@@ -110,6 +111,7 @@ def write_templates(s, feeds):
             _field("textarea", "altbilgi", "Alt bilgi", "Sayfanın en altındaki yazı"),
             _field("input", "adet", "Her kaynaktan haber sayısı", "1 ile 50 arası bir sayı"),
             _field("textarea", "kelimeler", "Engellenen kelimeler", "Bu kelimeleri içeren otomatik haberler gösterilmez. Her satıra bir kelime. Listeyi boşaltmak için sadece - yaz."),
+            _field("input", "iletisim", "İletişim formu e-postası", "İletişim formundan gelen mesajların gideceği adres ya da FormSubmit'in verdiği gizli kod"),
             _field("input", "google", "Google doğrulama kodu", "Google Search Console'un verdiği HTML etiketi ya da içindeki kod. Silmek için - yaz."),
         ]),
         "5-kaynak-kategori.yml": _form("📡 Kaynak ve Kategori", "Haber kaynağı (RSS) ekle/kaldır, kategori aç/kaldır/adını değiştir.", "[Kaynak] ", "kaynak", [

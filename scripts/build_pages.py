@@ -202,7 +202,7 @@ def breaking():
 
 def nav(s, active, search):
     tabs = [("hepsi", "Tümü", "/")] + [(k, v, f"/kategori/{k}/") for k, v in s["categories"].items()] + \
-           [("editor", "Editörün Seçtikleri", "/kategori/editor/")]
+           [("editor", "Editörün Seçtikleri", "/kategori/editor/"), ("iletisim", "✉️ İletişim", "/iletisim/")]
     on = ' aria-current="page"'
     links = "".join(
         f'<a class="tab{" on" if k == active else ""}" href="{href}"{on if k == active else ""}>{e(label)}</a>'
@@ -212,7 +212,7 @@ def nav(s, active, search):
 
 
 def tail(s, page_attrs):
-    return f"""<footer><div class="wrap"><p>{e(s['footer'])}</p><p>© {datetime.now(TR_TZ).year} {e(s['title'])} · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">Site haritası</a></p></div></footer>
+    return f"""<footer><div class="wrap"><p>{e(s['footer'])}</p><p>© {datetime.now(TR_TZ).year} {e(s['title'])} · <a href="/iletisim/">İletişim</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">Site haritası</a></p></div></footer>
 <script src="/assets/app.js" defer></script>
 </body>
 </html>
@@ -369,6 +369,41 @@ def article_page(s, base, item, updated):
 """ + tail(s, ""))
 
 
+def contact_page(s, base):
+    """İletişim formu. Mesajlar FormSubmit servisi üzerinden ayarlardaki e-postaya gider."""
+    target = s.get("contact_email") or ""
+    action = f"https://formsubmit.co/{target}"
+    desc = f"{s['title']} ile iletişime geçin: haber ihbarı, düzeltme talebi, reklam ve iş birliği."
+    form = f"""<form id="contact" class="contact" action="{e(action)}" method="POST" data-ajax="https://formsubmit.co/ajax/{e(target)}">
+  <input type="hidden" name="_subject" value="{e(s['title'])} — yeni iletişim mesajı">
+  <input type="hidden" name="_template" value="table">
+  <input type="hidden" name="_next" value="{e(base)}/iletisim/?gonderildi=1">
+  <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+  <div class="row2">
+    <label>Adınız<input name="Ad" required maxlength="80" autocomplete="name"></label>
+    <label>E-posta adresiniz<input name="email" type="email" required maxlength="120" autocomplete="email"></label>
+  </div>
+  <label>Konu
+    <select name="Konu" required>
+      <option>Haber ihbarı / öneri</option><option>Düzeltme talebi</option>
+      <option>Reklam ve iş birliği</option><option>Diğer</option>
+    </select></label>
+  <label>Mesajınız<textarea name="Mesaj" rows="7" required maxlength="5000"></textarea></label>
+  <p class="note">Gönderdiğiniz ad, e-posta ve mesaj yalnızca size dönüş yapmak için kullanılır.</p>
+  <button type="submit" class="send">Mesajı gönder</button>
+  <p class="status" role="status" aria-live="polite"></p>
+</form>""" if target else '<p class="empty">İletişim formu henüz ayarlanmadı.</p>'
+    return (head(s, base, title=f"İletişim | {s['title']}", desc=desc, path="/iletisim/")
+            + f'<body data-page="contact" data-repo="{e(repo_name())}">\n' + admin_bar() + masthead(s, "div")
+            + breaking() + nav(s, "iletisim", False)
+            + f"""<main class="wrap"><article class="article">
+  <h1>Bize ulaşın</h1>
+  <p class="lead">Haber ihbarı, düzeltme talebi, reklam ve iş birliği için bu formu doldurun; en kısa sürede dönüş yapalım.</p>
+  {form}
+</article></main>
+""" + tail(s, ""))
+
+
 def not_found(s, base):
     return (head(s, base, title=f"Sayfa bulunamadı | {s['title']}", desc=s["description"], path="/404.html", robots="noindex")
             + f'<body data-page="list" data-cat="hepsi" data-repo="{e(repo_name())}">\n'
@@ -393,6 +428,7 @@ def not_found(s, base):
 def sitemap(base, s, items):
     rows = [(base + "/", max((i["date"] for i in items), default=None))]
     rows += [(f"{base}/kategori/{k}/", None) for k in list(s["categories"]) + ["editor"]]
+    rows.append((f"{base}/iletisim/", None))
     rows += [(base + i["url"], i.get("updated") or i["date"]) for i in items if i.get("manual")]
     out = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for loc, mod in rows:
@@ -614,6 +650,7 @@ def main():
             shutil.rmtree(old)
 
     write("404.html", not_found(s, base))
+    write("iletisim/index.html", contact_page(s, base))
     write("sitemap.xml", sitemap(base, s, items))
     write("feed.xml", rss(base, s, sorted(items, key=lambda i: i["date"], reverse=True)))
     write("robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {base}/sitemap.xml\n")

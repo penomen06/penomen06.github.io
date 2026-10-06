@@ -3,22 +3,22 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sayfa bulunamadı | Gündem &amp; Teknoloji</title>
-<meta name="description" content="Teknoloji ve gündemden en güncel haberler; her 30 dakikada bir otomatik güncellenir.">
-<meta name="robots" content="noindex, max-image-preview:large">
-<link rel="canonical" href="https://penomen06.github.io/404.html">
+<title>İletişim | Gündem &amp; Teknoloji</title>
+<meta name="description" content="Gündem &amp; Teknoloji ile iletişime geçin: haber ihbarı, düzeltme talebi, reklam ve iş birliği.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://penomen06.github.io/iletisim/">
 <meta name="google-site-verification" content="EEcmkRAz8YqTmZJRf72YFRGs_srfLg5EjxM9zdfoF4s">
 <meta name="theme-color" content="#d7263d">
 <meta property="og:site_name" content="Gündem &amp; Teknoloji">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Sayfa bulunamadı | Gündem &amp; Teknoloji">
-<meta property="og:description" content="Teknoloji ve gündemden en güncel haberler; her 30 dakikada bir otomatik güncellenir.">
-<meta property="og:url" content="https://penomen06.github.io/404.html">
+<meta property="og:title" content="İletişim | Gündem &amp; Teknoloji">
+<meta property="og:description" content="Gündem &amp; Teknoloji ile iletişime geçin: haber ihbarı, düzeltme talebi, reklam ve iş birliği.">
+<meta property="og:url" content="https://penomen06.github.io/iletisim/">
 <meta property="og:image" content="https://penomen06.github.io/assets/og.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Sayfa bulunamadı | Gündem &amp; Teknoloji">
+<meta property="og:image:alt" content="İletişim | Gündem &amp; Teknoloji">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="Gündem &amp; Teknoloji" href="/feed.xml">
@@ -28,18 +28,7 @@
 <link rel="stylesheet" href="/assets/style.css">
 <style>:root{--accent:#d7263d;--on-accent:#ffffff}</style>
 </head>
-<body data-page="list" data-cat="hepsi" data-repo="penomen06/penomen06.github.io">
-<script>
-// Haber başlığı değiştiyse eski adres buraya düşer: sondaki ID'den yeni adresi bulup yönlendir.
-(async () => {
-  const m = location.pathname.match(/\/haber\/(?:.*-)?([a-z0-9]+)\/?$/i);
-  if (!m) return;
-  const get = f => fetch(f).then(r => r.ok ? r.json() : null).catch(() => null);
-  const [n, man] = await Promise.all([get("/data/news.json"), get("/data/manual.json")]);
-  const hit = [...(man || []), ...(n?.items || [])].find(i => String(i.id) === m[1]);
-  if (hit && hit.url && hit.url !== location.pathname) location.replace(hit.url);
-})();
-</script>
+<body data-page="contact" data-repo="penomen06/penomen06.github.io">
 <div id="admin"><div class="wrap">
   <b>🔧 Yönetim</b>
   <a id="a-add" target="_blank" rel="noopener">＋ Haber ekle</a>
@@ -56,10 +45,30 @@
   </div>
 </header>
 <div class="breaking" role="region" aria-label="Öne çıkan haber"><div class="wrap"><span class="lbl"><i></i>Öne çıkan</span><div class="links"><a href="/haber/ankara-da-bir-ilkokulda-sinif-annesi-eliyle-para-toplandi-sikayet-eden-eokul1/">Ankara&#x27;da bir ilkokulda &quot;sınıf annesi&quot; eliyle para toplandı, şikâyet eden velinin çocuğunun sınıfı değiştirildi</a></div></div></div>
-<nav class="topnav" aria-label="Kategoriler"><div class="wrap bar" id="tabs"><a class="tab" href="/">Tümü</a><a class="tab" href="/kategori/teknoloji/">Teknoloji</a><a class="tab" href="/kategori/gundem/">Gündem</a><a class="tab" href="/kategori/editor/">Editörün Seçtikleri</a><a class="tab" href="/iletisim/">✉️ İletişim</a></div></nav>
-<main class="wrap"><div class="empty"><h1>Aradığın sayfa bulunamadı</h1>
-<p>Haber yayından kaldırılmış olabilir. <a class="lnk" href="/">Anasayfaya dön →</a></p></div>
-<section id="hero" hidden></section><section id="grid" hidden></section><button id="more" hidden></button><input id="q" hidden></main>
+<nav class="topnav" aria-label="Kategoriler"><div class="wrap bar" id="tabs"><a class="tab" href="/">Tümü</a><a class="tab" href="/kategori/teknoloji/">Teknoloji</a><a class="tab" href="/kategori/gundem/">Gündem</a><a class="tab" href="/kategori/editor/">Editörün Seçtikleri</a><a class="tab on" href="/iletisim/" aria-current="page">✉️ İletişim</a></div></nav>
+<main class="wrap"><article class="article">
+  <h1>Bize ulaşın</h1>
+  <p class="lead">Haber ihbarı, düzeltme talebi, reklam ve iş birliği için bu formu doldurun; en kısa sürede dönüş yapalım.</p>
+  <form id="contact" class="contact" action="https://formsubmit.co/penomen@gmail.com" method="POST" data-ajax="https://formsubmit.co/ajax/penomen@gmail.com">
+  <input type="hidden" name="_subject" value="Gündem &amp; Teknoloji — yeni iletişim mesajı">
+  <input type="hidden" name="_template" value="table">
+  <input type="hidden" name="_next" value="https://penomen06.github.io/iletisim/?gonderildi=1">
+  <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+  <div class="row2">
+    <label>Adınız<input name="Ad" required maxlength="80" autocomplete="name"></label>
+    <label>E-posta adresiniz<input name="email" type="email" required maxlength="120" autocomplete="email"></label>
+  </div>
+  <label>Konu
+    <select name="Konu" required>
+      <option>Haber ihbarı / öneri</option><option>Düzeltme talebi</option>
+      <option>Reklam ve iş birliği</option><option>Diğer</option>
+    </select></label>
+  <label>Mesajınız<textarea name="Mesaj" rows="7" required maxlength="5000"></textarea></label>
+  <p class="note">Gönderdiğiniz ad, e-posta ve mesaj yalnızca size dönüş yapmak için kullanılır.</p>
+  <button type="submit" class="send">Mesajı gönder</button>
+  <p class="status" role="status" aria-live="polite"></p>
+</form>
+</article></main>
 <footer><div class="wrap"><p>Haber başlıkları ve özetleri ilgili kaynaklardan alınır; tamamı için habere tıklayın.</p><p>© 2026 Gündem &amp; Teknoloji · <a href="/iletisim/">İletişim</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">Site haritası</a></p></div></footer>
 <script src="/assets/app.js" defer></script>
 </body>

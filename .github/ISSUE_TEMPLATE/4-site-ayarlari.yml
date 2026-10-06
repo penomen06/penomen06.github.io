@@ -39,6 +39,11 @@ body:
       label: "Engellenen kelimeler"
       description: "Bu kelimeleri içeren otomatik haberler gösterilmez. Her satıra bir kelime. Listeyi boşaltmak için sadece - yaz."
   - type: input
+    id: iletisim
+    attributes:
+      label: "İletişim formu e-postası"
+      description: "İletişim formundan gelen mesajların gideceği adres ya da FormSubmit'in verdiği gizli kod"
+  - type: input
     id: google
     attributes:
       label: "Google doğrulama kodu"

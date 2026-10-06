@@ -2,7 +2,7 @@
 // Bu betik tarayıcıda canlı veriyi yükler: anasayfa/kategori listesini yeniler,
 // haber sayfasında benzer haberleri gösterir ve yönetim modunu çalıştırır.
 const $ = s => document.querySelector(s);
-const PAGE = document.body.dataset.page;          // "list" | "article"
+const PAGE = document.body.dataset.page;          // "list" | "article" | "contact"
 const CAT = document.body.dataset.cat || "hepsi"; // liste sayfasında kategori
 const ID = document.body.dataset.id || "";        // haber sayfasında haber ID'si
 let all = [], cfg = {}, feeds = {}, query = "", shown = 24;
@@ -40,7 +40,7 @@ function adminLinks(){
   $("#a-set").href = form("4-site-ayarlari.yml", "[Ayarlar] Site ayarları", {
     baslik: cfg.title, altyazi: cfg.subtitle, aciklama: cfg.description, renk: cfg.accent,
     altbilgi: cfg.footer, adet: String(cfg.per_feed || ""), kelimeler: (cfg.blocked_words || []).join("\n"),
-    google: cfg.google_verification});
+    google: cfg.google_verification, iletisim: cfg.contact_email});
   const cats = cfg.categories || {};
   $("#panel-in").innerHTML = `<a class="lnk" target="_blank" rel="noopener" href="${esc(form("5-kaynak-kategori.yml", "[Kaynak] Yeni kaynak"))}">＋ Yeni kaynak veya kategori ekle</a>` +
     Object.entries(cats).map(([k, label]) => `<h4>${esc(label)}
@@ -117,7 +117,7 @@ async function load(){
   const upd = $("#upd");
   if (upd && news?.updated) upd.textContent = "Son güncelleme: " + ago(news.updated);
   adminLinks();
-  if (PAGE === "list") renderList(); else renderArticle();
+  if (PAGE === "list") renderList(); else if (PAGE === "article") renderArticle();
 }
 
 if (PAGE === "list"){
@@ -143,6 +143,28 @@ document.querySelectorAll(".share").forEach(box => {
     setTimeout(() => copy.textContent = old, 1800);
   };
 });
+
+// ---------------------------------------------------------------- iletişim formu
+const cf = document.getElementById("contact");
+if (cf){
+  const st = cf.querySelector(".status"), btn = cf.querySelector(".send");
+  if (new URLSearchParams(location.search).has("gonderildi")){ st.className = "status ok"; st.textContent = "✅ Mesajınız alındı, teşekkürler!"; }
+  cf.addEventListener("submit", async ev => {
+    ev.preventDefault();
+    if (cf.querySelector(".hp").value) return;                 // spam botu
+    btn.disabled = true; st.className = "status"; st.textContent = "Gönderiliyor…";
+    try {
+      const r = await fetch(cf.dataset.ajax, {method: "POST", headers: {"Accept": "application/json"}, body: new FormData(cf)});
+      const j = await r.json().catch(() => ({}));
+      if (!r.ok || String(j.success) === "false") throw new Error(j.message || r.status);
+      cf.reset(); st.className = "status ok"; st.textContent = "✅ Mesajınız alındı, teşekkürler! En kısa sürede dönüş yapacağız.";
+    } catch (err) {
+      st.className = "status err";
+      st.textContent = "Mesaj gönderilemedi, lütfen biraz sonra tekrar deneyin.";
+      console.warn("İletişim formu:", err);
+    } finally { btn.disabled = false; }
+  });
+}
 
 load();
 setInterval(load, 5 * 60 * 1000);
