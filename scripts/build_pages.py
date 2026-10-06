@@ -26,6 +26,7 @@ MONTHS = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz",
           "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
 PALETTE = ["var(--tech)", "var(--gundem)", "#b7791f", "#8b5cf6", "#0e7490", "#db2777", "#4d7c0f"]
 PRERENDER = 24  # liste sayfalarında önceden yazılan haber sayısı
+PINNED = []     # manşete sabitlenen haberler (main içinde doldurulur)
 
 
 def e(x):
@@ -185,6 +186,15 @@ def masthead(s, logo_tag, updated=None):
 """
 
 
+def breaking():
+    """Sabitlenen haberler için tüm sayfaların üstünde 'ÖNE ÇIKAN' bandı."""
+    if not PINNED:
+        return ""
+    links = "".join(f'<a href="{e(i["url"])}">{e(i["title"])}</a>' for i in PINNED[:3])
+    return (f'<div class="breaking" role="region" aria-label="Öne çıkan haber"><div class="wrap">'
+            f'<span class="lbl"><i></i>Öne çıkan</span><div class="links">{links}</div></div></div>\n')
+
+
 def nav(s, active, search):
     tabs = [("hepsi", "Tümü", "/")] + [(k, v, f"/kategori/{k}/") for k, v in s["categories"].items()] + \
            [("editor", "Editörün Seçtikleri", "/kategori/editor/")]
@@ -242,8 +252,11 @@ def list_page(s, base, items, updated, *, key, title, h1, desc, path):
     rest = [i for i in pool if i is not lead][:PRERENDER]
     hero = ""
     if lead:
-        hero = f"""<div class="hero"><a href="{e(lead['url'])}" tabindex="-1">{img_tag(lead, eager=True)}</a>
-<div>{chip(lead, s)}<h2><a href="{e(lead['url'])}">{e(lead['title'])}</a></h2><p>{e(preview(lead.get('summary'), 260))}</p>
+        pin = bool(lead.get("pinned"))
+        badge = '<span class="badge"><i></i>Manşet</span> ' if pin else ""
+        hero = f"""<div class="hero{' hero-pin' if pin else ''}"><a href="{e(lead['url'])}" tabindex="-1">{img_tag(lead, eager=True)}</a>
+<div>{badge}{chip(lead, s)}<h2><a href="{e(lead['url'])}">{e(lead['title'])}</a></h2><p>{e(preview(lead.get('summary'), 300 if lead.get('pinned') else 260))}</p>
+{f'<a class="more-btn" href="{e(lead["url"])}">Haberin tamamını oku →</a>' if lead.get('pinned') else ''}
 <div class="foot"><span>{e(lead['source'])}</span><time datetime="{e(lead['date'])}">{e(tr_date(lead['date'], False))}</time></div></div></div>"""
     ld = [{
         "@context": "https://schema.org", "@type": "CollectionPage", "name": title, "description": desc, "url": base + path,
@@ -261,7 +274,7 @@ def list_page(s, base, items, updated, *, key, title, h1, desc, path):
     sr_h1 = "" if key == "hepsi" else f'<h1 class="sr">{e(h1)}</h1>'
     return (head(s, base, title=title, desc=desc, path=path, extra=extra)
             + f'<body data-page="list" data-cat="{e(key)}" data-repo="{e(repo_name())}">\n' + admin_bar()
-            + masthead(s, "h1" if key == "hepsi" else "div", updated) + nav(s, key, True)
+            + masthead(s, "h1" if key == "hepsi" else "div", updated) + breaking() + nav(s, key, True)
             + f"""<main class="wrap">{sr_h1}
   <section id="hero">{hero}</section>
   <section id="grid" class="grid">{"".join(card(i, s) for i in rest) or '<div class="empty">Bu bölümde henüz haber yok.</div>'}</section>
@@ -314,6 +327,8 @@ def article_page(s, base, item, updated):
     }
     if image:
         ld["image"] = [image]
+    elif item.get("og"):
+        ld["image"] = [base + item["og"]]
     if cat_label:
         ld["articleSection"] = cat_label
     crumbs = [{"@type": "ListItem", "position": 1, "name": "Anasayfa", "item": base + "/"}]
@@ -327,14 +342,15 @@ def article_page(s, base, item, updated):
     # Otomatik haberler başka sitelerin özetidir: Google'da kopya içerik sayılmasın diye dizine eklenmez.
     robots = "index, follow" if manual else "noindex, follow"
     crumb_html = '<a href="/">Anasayfa</a>' + (f' › <a href="/kategori/{e(item["category"])}/">{e(cat_label)}</a>' if cat_label else "")
-    return (head(s, base, title=f"{item['title']} | {s['title']}", desc=desc, path=path, image=image,
+    share_img = image or (base + item["og"] if item.get("og") else "")
+    return (head(s, base, title=f"{item['title']} | {s['title']}", desc=desc, path=path, image=share_img,
                  kind="article", robots=robots, extra=extra)
             + f'<body data-page="article" data-id="{e(item["id"])}" data-itemcat="{e(item.get("category"))}" data-repo="{e(repo_name())}">\n'
-            + admin_bar() + masthead(s, "div") + nav(s, None, False)
+            + admin_bar() + masthead(s, "div") + breaking() + nav(s, None, False)
             + f"""<main class="wrap">
 <article class="article">
   <nav class="crumbs" aria-label="Konum">{crumb_html}</nav>
-  {chip(item, s)}
+  {'<span class="badge"><i></i>Manşet</span> ' if item.get('pinned') else ''}{chip(item, s)}
   <h1>{e(item['title'])}</h1>
   <div class="by">{e(item['source'])} · <time datetime="{e(item['date'])}">{e(tr_date(item['date']))}</time></div>
   {share_bar(base, item, "top")}
@@ -362,7 +378,7 @@ def not_found(s, base):
   if (hit && hit.url && hit.url !== location.pathname) location.replace(hit.url);
 })();
 </script>
-""" + admin_bar() + masthead(s, "div") + nav(s, None, False)
+""" + admin_bar() + masthead(s, "div") + breaking() + nav(s, None, False)
             + """<main class="wrap"><div class="empty"><h1>Aradığın sayfa bulunamadı</h1>
 <p>Haber yayından kaldırılmış olabilir. <a class="lnk" href="/">Anasayfaya dön →</a></p></div>
 <section id="hero" hidden></section><section id="grid" hidden></section><button id="more" hidden></button><input id="q" hidden></main>
@@ -469,6 +485,70 @@ def og_image(s):
     stamp.write_text(key, encoding="utf-8")
 
 
+def og_article(s, base, item):
+    """Resmi olmayan editör haberi için başlıklı paylaşım görseli üretir; adresini döndürür."""
+    import hashlib
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+    except ImportError:
+        return ""
+    fbig = next((f for f in ["/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf",
+                             "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf"] if Path(f).exists()), None)
+    fsm = next((f for f in ["/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+                            "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"] if Path(f).exists()), None)
+    if not fbig or not fsm:
+        return ""
+    key = hashlib.sha1(f"{item['title']}|{s['title']}|{s['accent']}|{base}|v1".encode()).hexdigest()[:8]
+    rel = f"/assets/og/{item['id']}-{key}.png"
+    out = ROOT / rel.lstrip("/")
+    if out.exists():
+        return rel
+    out.parent.mkdir(parents=True, exist_ok=True)
+    W, H = 1200, 630
+    acc = tuple(int(s["accent"][i:i + 2], 16) for i in (1, 3, 5))
+    dark = tuple(int(c * 0.55) for c in acc)
+    txt = on_accent(s)
+    img = Image.new("RGB", (W, H), acc)
+    d = ImageDraw.Draw(img)
+    for x in range(W):
+        t = x / W
+        d.line([(x, 0), (x, H)], fill=tuple(int(a + (b - a) * t) for a, b in zip(acc, dark)))
+    # üst: küçük logo + site adı
+    d.rounded_rectangle([70, 56, 146, 132], radius=20, fill="#ffffff")
+    ini = initials(s["title"])
+    fi = ImageFont.truetype(fbig, 36 if len(ini) > 1 else 48)
+    d.text((108 - d.textlength(ini, font=fi) / 2 - 2, 94), ini, font=fi, fill=acc, anchor="lm")
+    d.ellipse([124, 62, 140, 78], fill="#ffd23f")
+    d.text((166, 94), s["title"], font=ImageFont.truetype(fsm, 34), fill=txt, anchor="lm")
+    # başlık: sığana kadar küçült, en fazla 4 satır
+    def wrap(font):
+        lines, cur = [], ""
+        for w in item["title"].split():
+            if d.textlength((cur + " " + w).strip(), font=font) > W - 140:
+                lines.append(cur); cur = w
+            else:
+                cur = (cur + " " + w).strip()
+        return lines + [cur]
+    size = 70
+    while True:
+        font = ImageFont.truetype(fbig, size)
+        lines = wrap(font)
+        if len(lines) <= 4 or size <= 40:
+            break
+        size -= 4
+    if len(lines) > 4:
+        lines = lines[:4]; lines[-1] = lines[-1].rstrip(".,;:") + "…"
+    y = 190 + (4 - len(lines)) * size * 0.6
+    for line in lines:
+        d.text((70, y), line, font=font, fill=txt)
+        y += size * 1.22
+    # alt: sarı bant + site adresi
+    d.rectangle([0, H - 64, W, H], fill="#ffd23f")
+    d.text((70, H - 32), base.replace("https://", ""), font=ImageFont.truetype(fsm, 28), fill="#151b2c", anchor="lm")
+    img.save(out, optimize=True)
+    return rel
+
+
 def write(rel, text):
     p = ROOT / rel
     p.parent.mkdir(parents=True, exist_ok=True)
@@ -493,6 +573,18 @@ def main():
     save("news.json", news)
 
     items = sorted(manual + news["items"], key=lambda i: (bool(i.get("pinned")), i["date"]), reverse=True)
+    PINNED[:] = [i for i in items if i.get("pinned")]
+    # Resimsiz editör haberlerine özel paylaşım görseli (veri dosyasına yazılmaz)
+    og_used = set()
+    for i in manual:
+        if not safe_url(i.get("image")):
+            rel = og_article(s, base, i)
+            if rel:
+                i["og"] = rel
+                og_used.add(Path(rel).name)
+    for old in (ROOT / "assets" / "og").glob("*.png") if (ROOT / "assets" / "og").exists() else []:
+        if old.name not in og_used:
+            old.unlink()
     updated = news.get("updated") or datetime.now(timezone.utc).isoformat()
 
     write("index.html", list_page(s, base, items, updated, key="hepsi", path="/",

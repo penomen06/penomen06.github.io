@@ -46,7 +46,10 @@ TR = str.maketrans("çğıöşüÇĞİÖŞÜ", "cgiosuCGIOSU")
 
 
 def slug(text):
-    return re.sub(r"[^a-z0-9]+", "-", (text or "").translate(TR).lower()).strip("-")
+    import unicodedata
+    t = unicodedata.normalize("NFKD", (text or "").translate(TR))  # â, î, û gibi şapkaları da düzleştir
+    t = "".join(c for c in t if not unicodedata.combining(c))
+    return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")
 
 
 # ---------------------------------------------------------------- formlar

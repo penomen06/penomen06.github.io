@@ -84,8 +84,11 @@ function renderList(){
   let list = all.filter(i => CAT === "hepsi" ? true : CAT === "editor" ? i.manual : i.category === CAT);
   if (query) list = list.filter(i => (i.title + " " + i.summary).toLocaleLowerCase("tr").includes(query));
   const lead = !query && (list.find(i => i.pinned) || list.find(i => i.image));
-  $("#hero").innerHTML = lead ? `<div class="hero">${wrapLink(lead, img(lead))}
-      <div>${chip(lead)}<h2>${wrapLink(lead, esc(lead.title))}</h2><p>${esc(preview(lead.summary).slice(0, 260))}</p>${foot(lead)}${adminRow(lead)}</div></div>` : "";
+  const pin = lead && lead.pinned;
+  $("#hero").innerHTML = lead ? `<div class="hero${pin ? " hero-pin" : ""}">${wrapLink(lead, img(lead))}
+      <div>${pin ? '<span class="badge"><i></i>Manşet</span> ' : ""}${chip(lead)}<h2>${wrapLink(lead, esc(lead.title))}</h2>
+      <p>${esc(preview(lead.summary).slice(0, pin ? 300 : 260))}${preview(lead.summary).length > (pin ? 300 : 260) ? "…" : ""}</p>
+      ${pin ? `<a class="more-btn" href="${esc(urlOf(lead))}">Haberin tamamını oku →</a>` : ""}${foot(lead)}${adminRow(lead)}</div></div>` : "";
   const rest = list.filter(i => i !== lead);
   $("#grid").innerHTML = rest.slice(0, shown).map(card).join("") || (lead ? "" : `<div class="empty">Bu bölümde henüz haber yok.</div>`);
   $("#more").hidden = rest.length <= shown;
