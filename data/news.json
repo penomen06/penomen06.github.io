@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-06T13:35:08.667088+00:00",
+ "updated": "2026-10-06T13:40:19.658833+00:00",
  "items": [
+  {
+   "id": "d2030791",
+   "title": "iOS 27'nin en önemli özelliği Avrupa'ya geç gelebilir",
+   "summary": "Apple'ın yeni Siri AI özelliği Avrupa Birliği'nde hâlâ kullanıma sunulmadı. Yeni bir rapor, kullanıcıların yapay zeka destekli Siri için daha uzun süre bekleyebileceğini gösteriyor.",
+   "link": "https://www.donanimhaber.com/ios-27-nin-en-onemli-ozelligi-avrupa-ya-gec-gelebilir--211293",
+   "image": "https://www.donanimhaber.com/images/images/haber/211293/1200x675ios-27-nin-en-onemli-ozelligi-avrupa-ya-gec-gelebilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-06T13:35:00+00:00",
+   "url": "/haber/ios-27-nin-en-onemli-ozelligi-avrupa-ya-gec-gelebilir-d2030791/"
+  },
   {
    "id": "bf1b9747",
    "title": "Otomotivde Tarihi Kırılma: Benzinli Araçların Pazar Payı İlk Kez Yüzde 50’nin Altına Düştü",
@@ -11,6 +22,28 @@
    "category": "teknoloji",
    "date": "2026-10-06T13:34:16+00:00",
    "url": "/haber/otomotivde-tarihi-kirilma-benzinli-araclarin-pazar-payi-ilk-kez-yuzde-bf1b9747/"
+  },
+  {
+   "id": "d39dfd24",
+   "title": "Türkiye'nin Öncü 22 Tarım Girişimcisi Yapay Zekâ Destekli Otonom Çiftlik Yolculuğuna Başlıyor",
+   "summary": "TÜME Vakfı, TEKNOFEST’te duyurulan 22 genç girişimciye yapay zekâ destekli otonom çiftlikler kurarak tarımda devrim niteliğinde bir adım attı.",
+   "link": "https://www.webtekno.com/turkiye-yapay-zeka-destekli-otonom-ciftlik-basliyor-h226477.html",
+   "image": "https://imgrosetta.webtekno.com/file/690848/690848-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-06T13:32:55+00:00",
+   "url": "/haber/turkiye-nin-oncu-22-tarim-girisimcisi-yapay-zek-destekli-otonom-ciftli-d39dfd24/"
+  },
+  {
+   "id": "af3e1fa3",
+   "title": "Nokia 5110 Nasıl Efsane Oldu? Başarı Hikâyesi",
+   "summary": "Nokia 5110, Snake oyunu, değiştirilebilir kapakları ve kolay kullanımıyla cep telefonlarının geniş kitlelere yayılmasında önemli rol oynadı. 1998 yılında çıkan Nokia 5110'ın neden hâlâ unutulmadığını ve markanın…",
+   "link": "https://www.webtekno.com/nokia-5110-ozellikleri-h225380.html",
+   "image": "https://imgrosetta.webtekno.com/file/687937/687937-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-06T13:32:11+00:00",
+   "url": "/haber/nokia-5110-nasil-efsane-oldu-basari-hik-yesi-af3e1fa3/"
   },
   {
    "id": "09425b9f",
@@ -673,28 +706,6 @@
    "url": "/haber/instagram-a-gercek-stalk-modu-geliyor-018a415f/"
   },
   {
-   "id": "d6591ac4",
-   "title": "Yılların Efsanesi PES 6 Artık Tarayıcıdan Ücretsiz Bir Şekilde Oynanabiliyor (Nasıl Oynayabileceğinizi Anlattık)",
-   "summary": "PES 6, indirme ve kurulum gerektirmeden artık tarayıcılar üzerinden tamamen ücretsiz ve akıcı bir şekilde oynanabiliyor.",
-   "link": "https://www.webtekno.com/pes-6-artik-tarayicidan-ucretsiz-bir-sekilde-oynanabiliyor-h226438.html",
-   "image": "https://imgrosetta.webtekno.com/file/690749/690749-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T10:10:06+00:00",
-   "url": "/haber/yillarin-efsanesi-pes-6-artik-tarayicidan-ucretsiz-bir-sekilde-oynanab-d6591ac4/"
-  },
-  {
-   "id": "bb87ce72",
-   "title": "Renault Ekim 2026 Fiyat Listesi",
-   "summary": "Renault Ekim fiyat listesindeki Yeni Clio, Renault 5 E-Tech, Captur, Duster, Megane Sedan, Megane E-Tech, Boreal, Austral, Scenic E-Tech ve Rafale modellerinin sıfır ve kampanyalı fiyatlarını inceliyoruz.",
-   "link": "https://www.webtekno.com/renault-ekim-2026-fiyat-listesi-aciklandi-duster-a-zam-h226433.html",
-   "image": "https://imgrosetta.webtekno.com/file/690808/690808-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T10:09:23+00:00",
-   "url": "/haber/renault-ekim-2026-fiyat-listesi-bb87ce72/"
-  },
-  {
    "id": "047f2e34",
    "title": "Yeni Windows 11 Güncellemesi Performans Artışı Sağlıyor: RAM Kullanımı Düşecek",
    "summary": "Windows 11 26H2 güncellemesi RAM tüketimini düşürürken Low Latency Profile ile sistem performansını artırıyor. İşte yeni güncellemenin detayları.",
@@ -891,17 +902,6 @@
    "category": "gundem",
    "date": "2026-10-06T08:56:05+00:00",
    "url": "/haber/vgm-ortaogrenim-burs-basvuru-ekrani-2026-vgm-burs-basvurulari-basladi-bba4d115/"
-  },
-  {
-   "id": "3cbef255",
-   "title": "ABD'de yollarda kullanılmasına izin çıkan vergiden muaf kırmızı dizel nedir?",
-   "summary": "ABD'de vergiden muaf kırmızı dizelin karayollarında kullanımına geçici izin çıktı. Peki normal dizelle aynı olan bu yakıt neden kırmızıya boyanıyor ve neden vergiden muaf tutuluyor?",
-   "link": "https://www.donanimhaber.com/abd-kullanimina-izin-verdi-vergiden-muaf-kirmizi-dizel-nedir--211281",
-   "image": "https://www.donanimhaber.com/images/images/haber/211281/1200x675abd-kullanimina-izin-verdi-vergiden-muaf-kirmizi-dizel-nedir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-06T08:50:00+00:00",
-   "url": "/haber/abd-de-yollarda-kullanilmasina-izin-cikan-vergiden-muaf-kirmizi-dizel-3cbef255/"
   },
   {
    "id": "5c90e356",
