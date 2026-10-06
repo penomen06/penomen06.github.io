@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T22:01:18.623937+00:00",
+ "updated": "2026-10-06T22:31:04.745223+00:00",
  "items": [
   {
    "id": "f3400517",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-06T22:00:00+00:00",
+   "date": "2026-10-06T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f3400517/"
+  },
+  {
+   "id": "c4af31f9",
+   "title": "Ankara'da uygulama noktasında polislere ateş açıldı. Bir polis şehit oldu",
+   "summary": "Ankara'nın Pursaklar ilçesinde uygulama noktasında polislere ateş açıldı, bir polis şehit oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/ankarada-uygulama-noktasinda-polislere-ates-acildi-bir-polis-sehit-oldu-1745144",
+   "image": "https://images.ntv.com.tr/images/mainart-son-dakika-haber-520714.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-06T22:29:10+00:00",
+   "url": "/haber/ankara-da-uygulama-noktasinda-polislere-ates-acildi-bir-polis-sehit-ol-c4af31f9/"
+  },
+  {
+   "id": "e7a39b04",
+   "title": "AKP'den 1 milyon TL'ye kadar ödemeler için kanun teklifi hazırlığı",
+   "summary": "AKP'nin Meclis grubu, devam eden fon krizinde yatırımcının 1 milyon TL'ye kadar olan ödemeleri için bir kanun teklifi hazırlıyor.",
+   "link": "https://www.bbc.com/turkce/articles/ckgeljxrzx9xo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36e6/live/9c167a80-c1bb-11f1-babe-4199b0e7ccea.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-06T22:05:06+00:00",
+   "url": "/haber/akp-den-1-milyon-tl-ye-kadar-odemeler-icin-kanun-teklifi-hazirligi-e7a39b04/"
   },
   {
    "id": "8ccdd27b",
@@ -385,17 +407,6 @@
    "category": "gundem",
    "date": "2026-10-06T19:29:01+00:00",
    "url": "/haber/atasehir-ve-eyupsultan-da-baskanvekili-secimi-10-ekim-de-6d364f05/"
-  },
-  {
-   "id": "e7a39b04",
-   "title": "AKP'den 1 milyon TL'ye kadar ödemeler için kanun teklifi hazırlığı",
-   "summary": "AKP'nin Meclis grubu, devam eden fon krizinde yatırımcının 1 milyon TL'ye kadar olan ödemeleri için bir kanun teklifi hazırlıyor.",
-   "link": "https://www.bbc.com/turkce/articles/ckgeljxrzx9xo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36e6/live/9c167a80-c1bb-11f1-babe-4199b0e7ccea.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-06T19:26:18+00:00",
-   "url": "/haber/akp-den-1-milyon-tl-ye-kadar-odemeler-icin-kanun-teklifi-hazirligi-e7a39b04/"
   },
   {
    "id": "8e762ea4",
@@ -957,17 +968,6 @@
    "category": "teknoloji",
    "date": "2026-10-06T13:14:51+00:00",
    "url": "/haber/bugatti-ceo-su-mate-rimac-avrupali-otomobil-ureticilerine-seslendi-cin-03c593af/"
-  },
-  {
-   "id": "2c86f097",
-   "title": "Damacana hırsızına benziyor diye 2 yıl ceza yedi, boşu boşuna hapis yattı",
-   "summary": "Eskişehir'de meydana gelen bir damacana hırsızlığı olayı ile ilgili hırsıza benzediği için 2 yıl 6 ay hapis verilen kişi, gerçek anlaşılınca cezaevinden çıktı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-damacana-hirsizina-benziyor-diye-2-yil-ceza-yedi-bosu-bosuna-hapis-yatti-1745102",
-   "image": "https://images.ntv.com.tr/images/AW803872_01copyfdg-744172.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-06T13:01:25+00:00",
-   "url": "/haber/damacana-hirsizina-benziyor-diye-2-yil-ceza-yedi-bosu-bosuna-hapis-yat-2c86f097/"
   },
   {
    "id": "af55e70b",
