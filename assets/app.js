@@ -9,7 +9,7 @@ let all = [], cfg = {}, feeds = {}, query = "", shown = 24;
 const PALETTE = ["var(--tech)", "var(--gundem)", "#b7791f", "#8b5cf6", "#0e7490", "#db2777", "#4d7c0f"];
 
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "";
+const safeUrl = u => /^(https?:\/\/|\/(?!\/))/i.test(u || "") ? u : "";
 
 // Eski "#/haber/ID" bağlantıları yeni sayfalara yönlensin
 const oldHash = location.hash.match(/^#\/haber\/(.+)$/);

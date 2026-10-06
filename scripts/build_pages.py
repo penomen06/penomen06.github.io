@@ -70,7 +70,12 @@ def preview(text, limit=None):
 
 
 def safe_url(u):
-    return u if re.match(r"^https?://", u or "", re.I) else ""
+    """http(s) adresleri ve sitenin kendi dosyaları (/assets/...) kabul edilir."""
+    return u if re.match(r"^(https?://|/(?!/))", u or "", re.I) else ""
+
+
+def absolute(base, u):
+    return base + u if u and u.startswith("/") else u
 
 
 def body_html(raw):
@@ -317,7 +322,7 @@ def article_page(s, base, item, updated):
         if link:
             text += (f'<a class="src" href="{e(link)}" target="_blank" rel="noopener">Haberin devamını {e(item["source"])} sitesinde oku →</a>'
                      f'<p class="note">Bu özet {e(item["source"])} tarafından yayınlanmıştır.</p>')
-    image = safe_url(item.get("image"))
+    image = absolute(base, safe_url(item.get("image")))
     ld = {
         "@context": "https://schema.org", "@type": "NewsArticle", "headline": item["title"][:110],
         "description": desc, "datePublished": item["date"], "dateModified": item.get("updated") or item["date"],
