@@ -139,12 +139,14 @@ def admin_bar():
 """
 
 
-def masthead(s, logo_tag, updated):
+def masthead(s, logo_tag, updated=None):
+    """updated verilmezse saat tarayıcıda yazılır (haber sayfaları her çalışmada değişmesin)."""
+    upd = f"Son güncelleme: {e(tr_date(updated))}" if updated else ""
     title = e(s["title"]).replace("&amp;", "<span>&amp;</span>")
     return f"""<header class="wrap">
   <div class="top">
     <{logo_tag} class="logo"><a href="/">{title}</a></{logo_tag}>
-    <div class="meta"><span class="live"></span>{e(s['subtitle'])}<br><span id="upd">Son güncelleme: {e(tr_date(updated))}</span></div>
+    <div class="meta"><span class="live"></span>{e(s['subtitle'])}<br><span id="upd">{upd}</span></div>
   </div>
 </header>
 """
@@ -276,7 +278,7 @@ def article_page(s, base, item, updated):
     return (head(s, base, title=f"{item['title']} | {s['title']}", desc=desc, path=path, image=image,
                  kind="article", robots=robots, extra=extra)
             + f'<body data-page="article" data-id="{e(item["id"])}" data-itemcat="{e(item.get("category"))}" data-repo="{e(repo_name())}">\n'
-            + admin_bar() + masthead(s, "div", updated) + nav(s, None, False)
+            + admin_bar() + masthead(s, "div") + nav(s, None, False)
             + f"""<main class="wrap">
 <article class="article">
   <nav class="crumbs" aria-label="Konum">{crumb_html}</nav>
@@ -306,7 +308,7 @@ def not_found(s, base):
   if (hit && hit.url && hit.url !== location.pathname) location.replace(hit.url);
 })();
 </script>
-""" + admin_bar() + masthead(s, "div", datetime.now(timezone.utc).isoformat()) + nav(s, None, False)
+""" + admin_bar() + masthead(s, "div") + nav(s, None, False)
             + """<main class="wrap"><div class="empty"><h1>Aradığın sayfa bulunamadı</h1>
 <p>Haber yayından kaldırılmış olabilir. <a class="lnk" href="/">Anasayfaya dön →</a></p></div>
 <section id="hero" hidden></section><section id="grid" hidden></section><button id="more" hidden></button><input id="q" hidden></main>
