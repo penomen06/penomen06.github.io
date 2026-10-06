@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-06T19:01:15.790190+00:00",
+ "updated": "2026-10-06T19:31:09.205901+00:00",
  "items": [
+  {
+   "id": "6d364f05",
+   "title": "Ataşehir ve Eyüpsultan’da başkanvekili seçimi 10 Ekim’de",
+   "summary": "İstanbul Valiliği, Ataşehir ve Eyüpsultan belediye meclislerinin belediye başkan vekilini seçmek üzere 10 Ekim Cumartesi günü toplanacağını bildirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/atasehir-ve-eyupsultanda-baskanvekili-secimi-10-ekimde-1745132",
+   "image": "https://images.ntv.com.tr/images/GeceBelediyeBinalarındaGüvenlikNoktaları-631985.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-06T19:29:01+00:00",
+   "url": "/haber/atasehir-ve-eyupsultan-da-baskanvekili-secimi-10-ekim-de-6d364f05/"
+  },
+  {
+   "id": "e7a39b04",
+   "title": "AKP'den 1 milyon TL'ye kadar ödemeler için kanun teklifi hazırlığı",
+   "summary": "AKP'nin Meclis grubu, devam eden fon krizinde yatırımcının 1 milyon TL'ye kadar olan ödemeleri için bir kanun teklifi hazırlıyor.",
+   "link": "https://www.bbc.com/turkce/articles/ckgeljxrzx9xo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36e6/live/9c167a80-c1bb-11f1-babe-4199b0e7ccea.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-06T19:26:18+00:00",
+   "url": "/haber/akp-den-1-milyon-tl-ye-kadar-odemeler-icin-kanun-teklifi-hazirligi-e7a39b04/"
+  },
+  {
+   "id": "8e762ea4",
+   "title": "Yeni BMW iX4 tanıtım öncesi sızdı: Elektrikli X4 böyle görünecek",
+   "summary": "BMW’nin yeni elektrikli coupe-SUV modeli iX4, resmi tanıtım öncesinde sızdırılan görüntülerle ortaya çıktı. Neue Klasse tasarımını benimseyen modelin 2026 sonunda satışa çıkması bekleniyor.",
+   "link": "https://www.donanimhaber.com/yeni-bmw-ix4-tanitim-oncesi-sizdi-elektrikli-x4-boyle-gorunecek--211316",
+   "image": "https://www.donanimhaber.com/images/images/haber/211316/1200x675yeni-bmw-ix4-tanitim-oncesi-sizdi-elektrikli-x4-boyle-gorunecek.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-06T19:20:00+00:00",
+   "url": "/haber/yeni-bmw-ix4-tanitim-oncesi-sizdi-elektrikli-x4-boyle-gorunecek-8e762ea4/"
+  },
+  {
+   "id": "619a0202",
+   "title": "Umman açıklarında hedef alınan Panama bandıralı gemide yangın çıktı",
+   "summary": "Umman Savunma Bakanlığı, ülkenin kuzeyindeki Musendem ili açıklarında hedef alınan Panama bandıralı ticari gemide yangın çıktığını ve 10 kişilik mürettebatın güvenli bir şekilde tahliye edildiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/umman-aciklarinda-hedef-alinan-panama-bandirali-gemide-yangin-cikti/4080234",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-06T19:16:40+00:00",
+   "url": "/haber/umman-aciklarinda-hedef-alinan-panama-bandirali-gemide-yangin-cikti-619a0202/"
+  },
   {
    "id": "e1d18196",
    "title": "iCloud+ Abonelerine Yeni Avantaj: E-Posta Sistemi Güncellendi",
@@ -264,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-10-06T17:20:00+00:00",
    "url": "/haber/samsung-akilli-ev-platformu-smartthings-i-yeniledi-9038bf23/"
-  },
-  {
-   "id": "299b3a63",
-   "title": "IMF, serbest yatırım fonlarının küresel piyasalardaki artan önemi ve risklerine dikkati çekti",
-   "summary": "IMF, hedge fonlarının küresel piyasalarda artan rolüne dikkat çekerek; kaldıraç, yoğunlaşmış pozisyonlar ve yatırımcı çıkışlarının finansal stres dönemlerinde fiyat bozulmalarını ve likidite baskısını tırmandırabileceği…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/imf-serbest-yatirim-fonlarinin-kuresel-piyasalardaki-artan-onemi-ve-risklerine-dikkati-cekti/4080125",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-06T17:18:12+00:00",
-   "url": "/haber/imf-serbest-yatirim-fonlarinin-kuresel-piyasalardaki-artan-onemi-ve-ri-299b3a63/"
   },
   {
    "id": "d4804b55",
@@ -772,17 +805,6 @@
    "url": "/haber/bugatti-ceo-su-mate-rimac-avrupali-otomobil-ureticilerine-seslendi-cin-03c593af/"
   },
   {
-   "id": "1aed2276",
-   "title": "Vikings'in yaratıcısından yeni viking dizisi: Bloodaxe'in ilk görüntüler paylaşıldı",
-   "summary": "Vikings ve The Tudors gibi sevilen dizilerin yaratıcısı olan Michael Hurst, yeni bir viking dizisiyle geri dönüyor. Amazon Prime Video, Bloodaxe adını taşıyan diziden ilk görüntüleri paylaştı.",
-   "link": "https://www.donanimhaber.com/amazon-viking-dizisi-bloodaxe-in-gorsellerini-paylasti--211295",
-   "image": "https://www.donanimhaber.com/images/images/haber/211295/1200x675amazon-viking-dizisi-bloodaxe-in-gorsellerini-paylasti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-06T13:13:00+00:00",
-   "url": "/haber/vikings-in-yaraticisindan-yeni-viking-dizisi-bloodaxe-in-ilk-goruntule-1aed2276/"
-  },
-  {
    "id": "2c86f097",
    "title": "Damacana hırsızına benziyor diye 2 yıl ceza yedi, boşu boşuna hapis yattı",
    "summary": "Eskişehir'de meydana gelen bir damacana hırsızlığı olayı ile ilgili hırsıza benzediği için 2 yıl 6 ay hapis verilen kişi, gerçek anlaşılınca cezaevinden çıktı.",
@@ -1001,17 +1023,6 @@
    "category": "gundem",
    "date": "2026-10-06T10:13:55+00:00",
    "url": "/haber/aranan-supheli-kacmaya-calisirken-catida-boyle-yakalandi-d97b5868/"
-  },
-  {
-   "id": "0d4b6148",
-   "title": "Bekir Bozdağ TBMM Başkanvekilliği görevinden istifa etti",
-   "summary": "AK Parti Şanlıurfa Milletvekili Bekir Bozdağ, Meclis Başkanvekilliği görevinden sağlık sorunları nedeniyle istifa etti.",
-   "link": "https://www.ntv.com.tr/turkiye/bekir-bozdag-tbmm-baskanvekilligi-gorevinden-istifa-etti-1745073",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_4cc81cecbaac10943de6e909cdc96a2b-793507.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-06T10:13:52+00:00",
-   "url": "/haber/bekir-bozdag-tbmm-baskanvekilligi-gorevinden-istifa-etti-0d4b6148/"
   },
   {
    "id": "047f2e34",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-10-05T19:04:09+00:00",
    "url": "/haber/mekke-ittifaki-nin-olaganustu-toplantisindan-suudi-arabistan-a-hizli-a-2d45c108/"
-  },
-  {
-   "id": "ce572172",
-   "title": "Fon krizinde SPK neden eleştiriliyor?",
-   "summary": "Kurumu eleştirenler Sermaye Piyasası Kurulu'nun düzenleme yapmakta geç kaldığı ve düzenlemelerin yetersiz olduğunu savunuyor. Peki SPK, bu krizin neresinde yer alıyor?",
-   "link": "https://www.bbc.com/turkce/articles/c6kg09x8yjn8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0958/live/3bfca070-b8fb-11f1-b1d1-571ed4d7ff2c.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-09-26T07:06:47+00:00",
-   "url": "/haber/fon-krizinde-spk-neden-elestiriliyor-ce572172/"
   }
  ]
 }
