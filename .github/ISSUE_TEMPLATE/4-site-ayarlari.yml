@@ -22,7 +22,7 @@ body:
     id: renk
     attributes:
       label: "Vurgu rengi"
-      description: "Renk kodu, örn: #e4402d (kırmızı), #2f5bea (mavi), #0f8a5f (yeşil)"
+      description: "Başlık bandı, butonlar ve logo bu renkte olur. Örn: #d7263d (kırmızı), #1f4fd8 (mavi), #0f8a5f (yeşil), #7b2cbf (mor), #f77f00 (turuncu)"
   - type: textarea
     id: altbilgi
     attributes:

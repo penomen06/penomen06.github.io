@@ -92,6 +92,38 @@ def body_html(raw):
     return re.sub(r"<p>(\s|<br>)*</p>", "", "".join(out))
 
 
+# ---------------------------------------------------------------- logo ve renk
+def initials(title):
+    words = re.findall(r"[^\W\d_]+", title or "")
+    return "".join(w[0] for w in words[:2]).upper() or "H"
+
+
+def luminance(hex_color):
+    c = hex_color.lstrip("#")
+    rgb = [int(c[i:i + 2], 16) / 255 for i in (0, 2, 4)]
+    lin = [v / 12.92 if v <= 0.04045 else ((v + 0.055) / 1.055) ** 2.4 for v in rgb]
+    return 0.2126 * lin[0] + 0.7152 * lin[1] + 0.0722 * lin[2]
+
+
+def on_accent(s):
+    """Vurgu renginin üstündeki yazı rengi: açık renklerde koyu, koyu renklerde beyaz."""
+    return "#151b2c" if luminance(s["accent"]) > 0.4 else "#ffffff"
+
+
+def logo_svg(s, bg="#ffffff", fg=None, size=None):
+    """Site adının baş harflerinden amblem: yuvarlak köşeli kare + canlı yayın noktası."""
+    fg = fg or s["accent"]
+    ini = e(initials(s["title"]))
+    fs = 40 if len(ini) == 1 else 29
+    dim = f' width="{size}" height="{size}"' if size else ""
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"{dim} role="img" aria-label="{e(s["title"])} logosu">'
+            f'<rect width="64" height="64" rx="16" fill="{bg}"/>'
+            f'<path d="M44 12a14 14 0 0 1 8 8" stroke="{fg}" stroke-width="3.2" fill="none" stroke-linecap="round" opacity=".55"/>'
+            f'<circle cx="51" cy="13" r="5" fill="#ffd23f" stroke="{bg}" stroke-width="2"/>'
+            f'<text x="30.5" y="{44 if len(ini) == 1 else 42}" font-family="Georgia,\'Times New Roman\',serif" font-size="{fs}" '
+            f'font-weight="700" text-anchor="middle" fill="{fg}" letter-spacing="-1">{ini}</text></svg>')
+
+
 # ---------------------------------------------------------------- ortak parçalar
 def head(s, base, *, title, desc, path, image="", kind="website", robots="index, follow", extra=""):
     url = base + path
@@ -121,7 +153,7 @@ def head(s, base, *, title, desc, path, image="", kind="website", robots="index,
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/style.css">
-<style>:root{{--accent:{e(s['accent'])}}}</style>
+<style>:root{{--accent:{e(s['accent'])};--on-accent:{on_accent(s)}}}</style>
 {extra}</head>
 """
 
@@ -143,9 +175,9 @@ def masthead(s, logo_tag, updated=None):
     """updated verilmezse saat tarayıcıda yazılır (haber sayfaları her çalışmada değişmesin)."""
     upd = f"Son güncelleme: {e(tr_date(updated))}" if updated else ""
     title = e(s["title"]).replace("&amp;", "<span>&amp;</span>")
-    return f"""<header class="wrap">
-  <div class="top">
-    <{logo_tag} class="logo"><a href="/">{title}</a></{logo_tag}>
+    return f"""<header class="masthead">
+  <div class="wrap top">
+    <{logo_tag} class="logo"><a href="/" aria-label="{e(s['title'])} anasayfa">{logo_svg(s)}<span class="name">{title}</span></a></{logo_tag}>
     <div class="meta"><span class="live"></span>{e(s['subtitle'])}<br><span id="upd">{upd}</span></div>
   </div>
 </header>
@@ -164,7 +196,7 @@ def nav(s, active, search):
 
 
 def tail(s, page_attrs):
-    return f"""<footer class="wrap"><p>{e(s['footer'])}</p><p><a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">Site haritası</a></p></footer>
+    return f"""<footer><div class="wrap"><p>{e(s['footer'])}</p><p>© {datetime.now(TR_TZ).year} {e(s['title'])} · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">Site haritası</a></p></div></footer>
 <script src="/assets/app.js" defer></script>
 </body>
 </html>
@@ -352,8 +384,7 @@ def rss(base, s, items):
 
 
 def icon_svg(s):
-    letter = e((s["title"].strip() or "H")[0].upper())
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="{e(s['accent'])}"/><text x="32" y="45" font-family="Georgia,serif" font-size="40" font-weight="700" text-anchor="middle" fill="#fff">{letter}</text></svg>\n"""
+    return logo_svg(s, bg=s["accent"], fg=on_accent(s)) + "\n"
 
 
 def og_image(s):
@@ -376,18 +407,30 @@ def og_image(s):
         print("Yazı tipi yok, paylaşım görseli güncellenmedi.")
         return
     W, H = 1200, 630
-    img = Image.new("RGB", (W, H), "#f6f4ef")
+    acc = tuple(int(s["accent"][i:i + 2], 16) for i in (1, 3, 5))
+    dark = tuple(int(c * 0.62) for c in acc)
+    txt = on_accent(s)
+    img = Image.new("RGB", (W, H), acc)
     d = ImageDraw.Draw(img)
-    d.rectangle([0, 0, W, 18], fill=s["accent"])
-    d.rectangle([0, H - 18, W, H], fill="#16161a")
-    title, size = s["title"], 120
+    for x in range(W):  # soldan sağa koyulaşan degrade
+        t = x / W
+        d.line([(x, 0), (x, H)], fill=tuple(int(a + (b - a) * t) for a, b in zip(acc, dark)))
+    # logo: beyaz yuvarlak kare, vurgu renginde baş harfler, sarı canlı yayın noktası
+    lx, ly, ls = 80, 90, 150
+    d.rounded_rectangle([lx, ly, lx + ls, ly + ls], radius=38, fill="#ffffff")
+    ini = initials(s["title"])
+    f_ini = ImageFont.truetype(fbig, 72 if len(ini) > 1 else 96)
+    tw = d.textlength(ini, font=f_ini)
+    d.text((lx + ls / 2 - tw / 2 - 4, ly + ls / 2), ini, font=f_ini, fill=acc, anchor="lm")
+    d.ellipse([lx + ls - 34, ly + 12, lx + ls - 10, ly + 36], fill="#ffd23f")
+    title, size = s["title"], 104
     font = ImageFont.truetype(fbig, size)
     while d.textlength(title, font=font) > W - 160 and size > 50:
         size -= 6
         font = ImageFont.truetype(fbig, size)
-    x, y = 80, 210
-    for part in re.split(r"(&)", title):  # "&" vurgu renginde
-        d.text((x, y), part, font=font, fill=s["accent"] if part == "&" else "#16161a")
+    x, y = 80, 300
+    for part in re.split(r"(&)", title):  # "&" sarı
+        d.text((x, y), part, font=font, fill="#ffd23f" if part == "&" else txt)
         x += d.textlength(part, font=font)
     if fsmall:
         f2 = ImageFont.truetype(fsmall, 34)
@@ -399,7 +442,7 @@ def og_image(s):
                 cur = (cur + " " + w).strip()
         lines.append(cur)
         for n, line in enumerate(lines[:2]):
-            d.text((80, y + size + 50 + n * 48), line, font=f2, fill="#6b6b74")
+            d.text((80, y + size + 40 + n * 48), line, font=f2, fill=txt)
     img.save(out, optimize=True)
     stamp.write_text(key, encoding="utf-8")
 
