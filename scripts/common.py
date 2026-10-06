@@ -19,7 +19,7 @@ DEFAULT_SETTINGS = {
     "blocked_words": [],
     "blocked_links": [],
     "google_verification": "",
-    "contact_email": "penomen@gmail.com",
+    "contact_email": "",
     "site_url": "",
 }
 
