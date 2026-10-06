@@ -13,6 +13,11 @@ body:
     attributes:
       label: "Üst yazı"
       description: "Başlığın yanındaki kısa yazı"
+  - type: textarea
+    id: aciklama
+    attributes:
+      label: "Site açıklaması"
+      description: "Google arama sonuçlarında sitenin altında görünen 1-2 cümle (en fazla ~160 karakter)"
   - type: input
     id: renk
     attributes:
@@ -33,3 +38,8 @@ body:
     attributes:
       label: "Engellenen kelimeler"
       description: "Bu kelimeleri içeren otomatik haberler gösterilmez. Her satıra bir kelime. Listeyi boşaltmak için sadece - yaz."
+  - type: input
+    id: google
+    attributes:
+      label: "Google doğrulama kodu"
+      description: "Google Search Console'un verdiği HTML etiketi ya da içindeki kod. Silmek için - yaz."

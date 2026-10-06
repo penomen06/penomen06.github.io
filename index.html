@@ -3,101 +3,31 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Gündem & Teknoloji</title>
-<meta name="description" content="Teknoloji ve gündem haberleri, her 30 dakikada bir güncellenir.">
+<title>Gündem &amp; Teknoloji – Son Dakika Teknoloji ve Gündem Haberleri</title>
+<meta name="description" content="Teknoloji ve gündemden en güncel haberler; her 30 dakikada bir otomatik güncellenir.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://penomen06.github.io/">
+<meta name="theme-color" content="#e4402d">
+<meta property="og:site_name" content="Gündem &amp; Teknoloji">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Gündem &amp; Teknoloji – Son Dakika Teknoloji ve Gündem Haberleri">
+<meta property="og:description" content="Teknoloji ve gündemden en güncel haberler; her 30 dakikada bir otomatik güncellenir.">
+<meta property="og:url" content="https://penomen06.github.io/">
+<meta property="og:image" content="https://penomen06.github.io/assets/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="Gündem &amp; Teknoloji" href="/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<style>
-:root{
-  --bg:#f6f4ef; --card:#fff; --ink:#16161a; --muted:#6b6b74; --line:#e4e1d8;
-  --accent:#e4402d; --tech:#2f5bea; --gundem:#e4402d; --editor:#0f8a5f;
-}
-@media (prefers-color-scheme:dark){:root{
-  --bg:#111114; --card:#1a1a1f; --ink:#ececf1; --muted:#9a9aa6; --line:#2a2a31;
-  --accent:#ff5a45; --tech:#6d8cff; --gundem:#ff5a45; --editor:#34c38f;
-}}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 Inter,system-ui,sans-serif}
-a{color:inherit;text-decoration:none}
-.wrap{max-width:1180px;margin:0 auto;padding:0 16px}
-
-header{border-bottom:2px solid var(--ink);padding-top:22px;padding-bottom:14px}
-.top{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap}
-h1{font-family:Fraunces,serif;font-weight:800;font-size:clamp(30px,6vw,52px);line-height:.95;margin:0;letter-spacing:-.02em}
-h1 span{color:var(--accent)}
-.meta{color:var(--muted);font-size:13px;text-align:right}
-.live{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--accent);margin-right:6px;animation:p 1.6s infinite}
-@keyframes p{50%{opacity:.25}}
-
-nav{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
-.bar{display:flex;gap:8px;align-items:center;padding-top:10px;padding-bottom:10px;overflow-x:auto}
-.tab{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:7px 14px;border-radius:999px;font:500 14px Inter;cursor:pointer;white-space:nowrap}
-.tab.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
-#q{margin-left:auto;min-width:160px;flex:0 1 240px;padding:8px 14px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:14px Inter}
-
-.hero{display:grid;grid-template-columns:1.4fr 1fr;gap:24px;margin:24px 0;padding-bottom:24px;border-bottom:1px solid var(--line)}
-.hero img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:10px;background:var(--line)}
-.hero h2{font-family:Fraunces,serif;font-size:clamp(24px,3.4vw,36px);line-height:1.1;margin:10px 0}
-.hero p{color:var(--muted);font-size:16px}
-
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:20px;margin:24px 0 40px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;transition:transform .15s,box-shadow .15s}
-.card:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.08)}
-.card img{width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--line);display:block}
-.body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:6px;flex:1}
-.card h3{font-family:Fraunces,serif;font-weight:600;font-size:18px;line-height:1.25;margin:0}
-.card p{margin:0;color:var(--muted);font-size:14px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.foot{margin-top:auto;padding-top:8px;font-size:12px;color:var(--muted);display:flex;justify-content:space-between;gap:8px}
-.chip{font:600 11px Inter;letter-spacing:.06em;text-transform:uppercase}
-.chip{color:var(--c,var(--accent))}
-.empty{text-align:center;color:var(--muted);padding:60px 0}
-#more{display:block;margin:0 auto 50px;padding:10px 26px}
-#more[hidden]{display:none}
-.hero:not(:has(img)){grid-template-columns:1fr}
-footer{border-top:1px solid var(--line);padding-top:20px;padding-bottom:40px;color:var(--muted);font-size:13px}
-@media (max-width:760px){.hero{grid-template-columns:1fr}.meta{text-align:left}}
-
-/* ---- haber sayfası ---- */
-#article{display:none;max-width:760px;margin:0 auto;padding:22px 0 10px}
-body.okuma #article{display:block}
-body.okuma #hero,body.okuma #grid,body.okuma #more{display:none}
-.back{display:block;background:none;border:0;color:var(--muted);font:500 14px Inter;cursor:pointer;padding:0;margin-bottom:18px}
-.back:hover{color:var(--ink)}
-#article h1{font-size:clamp(28px,4.6vw,44px);line-height:1.08;margin:10px 0 12px;font-weight:800}
-#article .by{color:var(--muted);font-size:14px;margin-bottom:20px}
-#article .cover{width:100%;border-radius:12px;margin-bottom:22px;background:var(--line)}
-.text{font-size:18px;line-height:1.75}
-.text p{margin:0 0 1.1em}
-.text img{max-width:100%;border-radius:10px;margin:6px 0 18px;display:block}
-.text a{color:var(--accent);text-decoration:underline;word-break:break-word}
-.text a.src{display:inline-block;margin:6px 0 10px;background:var(--ink);color:var(--bg);padding:12px 20px;border-radius:999px;font:600 15px Inter;text-decoration:none}
-.note{font-size:13px;color:var(--muted)}
-.related:empty{display:none}
-.related{margin-top:30px;border-top:2px solid var(--ink);padding-top:18px}
-.related h2{font:800 24px Fraunces,serif;margin:0 0 4px}
-
-/* ---- yönetim modu ---- */
-#admin{display:none;background:#16161a;color:#f6f4ef;font-size:14px}
-body.yonetim #admin{display:block}
-#admin .wrap{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding-top:10px;padding-bottom:10px}
-#admin b{margin-right:6px}
-#admin a,#admin button{background:#2a2a31;color:#f6f4ef;border:0;border-radius:8px;padding:7px 12px;font:500 13px Inter;cursor:pointer}
-#admin a:hover,#admin button:hover{background:#3a3a44}
-#admin .end{margin-left:auto}
-#panel{display:none;background:var(--card);border-bottom:1px solid var(--line)}
-#panel.open{display:block}
-#panel .wrap{padding-top:16px;padding-bottom:18px}
-#panel h4{margin:14px 0 6px;font:600 14px Inter}
-#panel li{font-size:13px;margin:4px 0;word-break:break-all}
-#panel ul{margin:0;padding-left:18px}
-.adm{display:none;gap:10px;align-items:center;flex-wrap:wrap;margin-top:8px;padding-top:8px;border-top:1px dashed var(--line);font-size:12px}
-body.yonetim .adm{display:flex}
-.adm code{background:var(--bg);padding:2px 6px;border-radius:5px;user-select:all}
-.adm a{color:var(--accent);font-weight:600}
-.lnk{color:var(--accent);font-weight:600}
-</style>
+<link rel="stylesheet" href="/assets/style.css">
+<style>:root{--accent:#e4402d}</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Gündem & Teknoloji – Son Dakika Teknoloji ve Gündem Haberleri", "description": "Teknoloji ve gündemden en güncel haberler; her 30 dakikada bir otomatik güncellenir.", "url": "https://penomen06.github.io/", "isPartOf": {"@type": "WebSite", "name": "Gündem & Teknoloji", "url": "https://penomen06.github.io/"}, "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": 1, "url": "https://penomen06.github.io/haber/sitemize-hos-geldiniz-e1/", "name": "Sitemize hoş geldiniz!"}, {"@type": "ListItem", "position": 2, "url": "https://penomen06.github.io/haber/bugatti-ceo-su-mate-rimac-avrupali-otomobil-ureticilerine-seslendi-cin-03c593af/", "name": "Bugatti CEO’su Mate Rimac, Avrupalı otomobil üreticilerine seslendi: “Çinlilerle bu şekilde mücadele edemezsiniz”"}, {"@type": "ListItem", "position": 3, "url": "https://penomen06.github.io/haber/vikings-in-yaraticisindan-yeni-viking-dizisi-bloodaxe-in-ilk-goruntule-1aed2276/", "name": "Vikings'in yaratıcısından yeni viking dizisi: Bloodaxe'in ilk görüntüler paylaşıldı"}, {"@type": "ListItem", "position": 4, "url": "https://penomen06.github.io/haber/abd-nin-dis-ticaret-acigi-agustosta-17-ayin-zirvesine-cikti-e5f29502/", "name": "ABD'nin dış ticaret açığı ağustosta 17 ayın zirvesine çıktı"}, {"@type": "ListItem", "position": 5, "url": "https://penomen06.github.io/haber/israil-de-secimler-yaklasirken-netanyahu-yonetiminden-gazze-ve-bati-se-892a4752/", "name": "İsrail'de seçimler yaklaşırken Netanyahu yönetiminden Gazze ve Batı Şeria'ya saldırı sinyalleri"}, {"@type": "ListItem", "position": 6, "url": "https://penomen06.github.io/haber/kuzey-kore-den-tampon-bolgede-mayin-temizleyen-guney-kore-ye-yeni-sava-8fe1cb35/", "name": "Kuzey Kore'den tampon bölgede mayın temizleyen Güney Kore'ye \"yeni savaş tehlikesi\" mesajı"}, {"@type": "ListItem", "position": 7, "url": "https://penomen06.github.io/haber/damacana-hirsizina-benziyor-diye-2-yil-ceza-yedi-bosu-bosuna-hapis-yat-2c86f097/", "name": "Damacana hırsızına benziyor diye 2 yıl ceza yedi, boşu boşuna hapis yattı"}, {"@type": "ListItem", "position": 8, "url": "https://penomen06.github.io/haber/snapdragon-8-elite-extreme-gen-6-ve-dimensity-9600-pro-karsilastirmasi-af55e70b/", "name": "Snapdragon 8 Elite Extreme Gen 6 ve Dimensity 9600 Pro Karşılaştırması"}, {"@type": "ListItem", "position": 9, "url": "https://penomen06.github.io/haber/tarihte-ilk-kez-yasaniyor-benzinli-araclar-kuresel-satislarda-azinlikt-a851bc53/", "name": "Tarihte ilk kez yaşanıyor: Benzinli araçlar küresel satışlarda azınlıkta kaldı"}, {"@type": "ListItem", "position": 10, "url": "https://penomen06.github.io/haber/bulgaristan-dan-yunanistan-a-sicrayan-orman-yanginina-mudahale-ucuncu-c452d519/", "name": "Bulgaristan'dan Yunanistan'a sıçrayan orman yangınına müdahale üçüncü gününde sürüyor"}, {"@type": "ListItem", "position": 11, "url": "https://penomen06.github.io/haber/katar-disisleri-bakanligi-mekke-ittifaki-ni-destekliyoruz-a3f464ec/", "name": "Katar Dışişleri Bakanlığı: Mekke İttifakı'nı destekliyoruz"}, {"@type": "ListItem", "position": 12, "url": "https://penomen06.github.io/haber/alarmi-duyunca-kacti-oyuncak-tabancali-soygun-girisimi-kamerada-896a1169/", "name": "Alarmı duyunca kaçtı: Oyuncak tabancalı soygun girişimi kamerada"}, {"@type": "ListItem", "position": 13, "url": "https://penomen06.github.io/haber/cumhurbaskani-erdogan-yapay-zeka-emegi-devre-disi-birakti-f52e261b/", "name": "Cumhurbaşkanı Erdoğan: Yapay zeka emeği devre dışı bıraktı"}, {"@type": "ListItem", "position": 14, "url": "https://penomen06.github.io/haber/apple-dan-iphone-duo-hazirliklari-uygulamalar-onaylanmaya-basladi-ee101c02/", "name": "Apple'dan iPhone Duo hazırlıkları: Uygulamalar onaylanmaya başladı"}, {"@type": "ListItem", "position": 15, "url": "https://penomen06.github.io/haber/renault-yeni-e-space-konseptini-sergiledi-d1721027/", "name": "Renault, yeni “E-Space” konseptini sergiledi"}, {"@type": "ListItem", "position": 16, "url": "https://penomen06.github.io/haber/pars-filo-nato-gorevi-kapsaminda-litvanya-da-duzenlenen-medya-gunune-k-7041d9c0/", "name": "Pars Filo, NATO görevi kapsamında Litvanya'da düzenlenen medya gününe katıldı"}, {"@type": "ListItem", "position": 17, "url": "https://penomen06.github.io/haber/tff-yonetim-kurulu-uyesi-mevlut-aktan-gorevinden-istifa-etti-937acb6a/", "name": "TFF Yönetim Kurulu Üyesi Mevlüt Aktan, görevinden istifa etti"}, {"@type": "ListItem", "position": 18, "url": "https://penomen06.github.io/haber/ispanya-hukumeti-konut-krizine-karsi-iki-yeni-kararname-kabul-etti-b51257ff/", "name": "İspanya hükümeti konut krizine karşı iki yeni kararname kabul etti"}, {"@type": "ListItem", "position": 19, "url": "https://penomen06.github.io/haber/10-000-mah-bataryali-vivo-s2-fe-tanitildi-d1d75081/", "name": "10.000 mAh bataryalı “Vivo S2 FE” tanıtıldı"}, {"@type": "ListItem", "position": 20, "url": "https://penomen06.github.io/haber/libya-da-temsilciler-meclisi-baskaninin-yilda-bir-yeniden-secilmesi-ka-0c118a55/", "name": "Libya'da Temsilciler Meclisi Başkanının \"yılda bir yeniden seçilmesi\" kararının ardından tartışmalar sürüyor"}, {"@type": "ListItem", "position": 21, "url": "https://penomen06.github.io/haber/vivo-v80-resmen-tanitildi-7-200-mah-batarya-ve-zeiss-kamera-025ce046/", "name": "Vivo V80 resmen tanıtıldı: 7.200 mAh batarya ve Zeiss kamera"}, {"@type": "ListItem", "position": 22, "url": "https://penomen06.github.io/haber/fon-sorusturmalariyla-ilgili-son-gelismeler-neler-92fb24ef/", "name": "Fon soruşturmalarıyla ilgili son gelişmeler neler?"}, {"@type": "ListItem", "position": 23, "url": "https://penomen06.github.io/haber/windows-11-guncellemesi-ram-kullanimini-onemli-olcude-azaltiyor-4909eb77/", "name": "Windows 11 Güncellemesi RAM Kullanımını Önemli Ölçüde Azaltıyor"}, {"@type": "ListItem", "position": 24, "url": "https://penomen06.github.io/haber/yemek-siparis-platformlarinda-sahte-restoranlara-ceza-7dc7caa0/", "name": "Yemek sipariş platformlarında sahte restoranlara ceza"}, {"@type": "ListItem", "position": 25, "url": "https://penomen06.github.io/haber/cumhurbaskani-erdogan-nitelikli-yuksekogretimi-anadolu-nun-dort-bir-ya-6862c4d1/", "name": "Cumhurbaşkanı Erdoğan: Nitelikli yükseköğretimi Anadolu'nun dört bir yanına ulaştırdık"}]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Gündem & Teknoloji", "url": "https://penomen06.github.io/", "description": "Teknoloji ve gündemden en güncel haberler; her 30 dakikada bir otomatik güncellenir.", "inLanguage": "tr-TR"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsMediaOrganization", "name": "Gündem & Teknoloji", "url": "https://penomen06.github.io/", "logo": "https://penomen06.github.io/assets/og.png"}</script>
 </head>
-<body>
+<body data-page="list" data-cat="hepsi" data-repo="penomen06/penomen06.github.io">
 <div id="admin"><div class="wrap">
   <b>🔧 Yönetim</b>
   <a id="a-add" target="_blank" rel="noopener">＋ Haber ekle</a>
@@ -107,197 +37,93 @@ body.yonetim .adm{display:flex}
   <button id="a-exit" class="end">Yönetimden çık</button>
 </div></div>
 <div id="panel"><div class="wrap" id="panel-in"></div></div>
-
 <header class="wrap">
   <div class="top">
-    <h1 id="title">Gündem<span>&amp;</span>Teknoloji</h1>
-    <div class="meta"><span class="live"></span><span id="sub">Otomatik güncellenir</span><br><span id="upd">yükleniyor…</span></div>
+    <h1 class="logo"><a href="/">Gündem <span>&amp;</span> Teknoloji</a></h1>
+    <div class="meta"><span class="live"></span>Otomatik güncellenir<br><span id="upd">Son güncelleme: 6 Ekim 2026 16:16</span></div>
   </div>
 </header>
-
-<nav><div class="wrap bar" id="tabs">
-  <input id="q" type="search" placeholder="Haberlerde ara…">
-</div></nav>
-
+<nav class="topnav" aria-label="Kategoriler"><div class="wrap bar" id="tabs"><a class="tab on" href="/" aria-current="page">Tümü</a><a class="tab" href="/kategori/teknoloji/">Teknoloji</a><a class="tab" href="/kategori/gundem/">Gündem</a><a class="tab" href="/kategori/editor/">Editörün Seçtikleri</a><label class="sr" for="q">Haberlerde ara</label><input id="q" type="search" placeholder="Haberlerde ara…"></div></nav>
 <main class="wrap">
-  <section id="article"></section>
-  <section id="related" class="related"></section>
-  <section id="hero"></section>
-  <section id="grid" class="grid"></section>
+  <section id="hero"><div class="hero"><a href="/haber/sitemize-hos-geldiniz-e1/" tabindex="-1"><img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200" alt="" fetchpriority="high" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div><span class="chip" style="--c:var(--editor)">Editör</span><h2><a href="/haber/sitemize-hos-geldiniz-e1/">Sitemize hoş geldiniz!</a></h2><p>Teknoloji ve gündem haberleri burada her 30 dakikada bir otomatik güncellenir.</p>
+<div class="foot"><span>Editör</span><time datetime="2026-10-05T13:57:08.001666+00:00">5 Ekim 2026</time></div></div></div></section>
+  <section id="grid" class="grid"><article class="card"><a href="/haber/bugatti-ceo-su-mate-rimac-avrupali-otomobil-ureticilerine-seslendi-cin-03c593af/" tabindex="-1"><img src="https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-06_16-03-18_V1cp6-660x371.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--tech)">Teknoloji</span><h3><a href="/haber/bugatti-ceo-su-mate-rimac-avrupali-otomobil-ureticilerine-seslendi-cin-03c593af/">Bugatti CEO’su Mate Rimac, Avrupalı otomobil üreticilerine seslendi: “Çinlilerle bu şekilde mücadele edemezsiniz”</a></h3><p>Bugatti CEO’su Mate Rimac, Instagram hesabından yaptığı son paylaşımda Avrupalı otomobil üreticilerine yönelik açıklamalarda bulundu. Avrupa otomobil pazarının, Çinli markaların fiyat-performans oranı yüksek araçlarına…</p>
+<div class="foot"><span>LOG Teknoloji Haberleri</span><time datetime="2026-10-06T13:14:51+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/vikings-in-yaraticisindan-yeni-viking-dizisi-bloodaxe-in-ilk-goruntule-1aed2276/" tabindex="-1"><img src="https://www.donanimhaber.com/images/images/haber/211295/1200x675amazon-viking-dizisi-bloodaxe-in-gorsellerini-paylasti.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--tech)">Teknoloji</span><h3><a href="/haber/vikings-in-yaraticisindan-yeni-viking-dizisi-bloodaxe-in-ilk-goruntule-1aed2276/">Vikings&#x27;in yaratıcısından yeni viking dizisi: Bloodaxe&#x27;in ilk görüntüler paylaşıldı</a></h3><p>Vikings ve The Tudors gibi sevilen dizilerin yaratıcısı olan Michael Hurst, yeni bir viking dizisiyle geri dönüyor. Amazon Prime Video, Bloodaxe adını taşıyan diziden ilk görüntüleri paylaştı.</p>
+<div class="foot"><span>DonanımHaber - Türkiye&#x27;nin Lider…</span><time datetime="2026-10-06T13:13:00+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/abd-nin-dis-ticaret-acigi-agustosta-17-ayin-zirvesine-cikti-e5f29502/" tabindex="-1"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/abd-nin-dis-ticaret-acigi-agustosta-17-ayin-zirvesine-cikti-e5f29502/">ABD&#x27;nin dış ticaret açığı ağustosta 17 ayın zirvesine çıktı</a></h3><p>Ülkenin ihracatı ağustosta aylık bazda yüzde 1,4, ithalatı yüzde 4,3 yükseldi.</p>
+<div class="foot"><span>Anadolu Ajansı Güncel Haberler</span><time datetime="2026-10-06T13:12:41+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/israil-de-secimler-yaklasirken-netanyahu-yonetiminden-gazze-ve-bati-se-892a4752/" tabindex="-1"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/israil-de-secimler-yaklasirken-netanyahu-yonetiminden-gazze-ve-bati-se-892a4752/">İsrail&#x27;de seçimler yaklaşırken Netanyahu yönetiminden Gazze ve Batı Şeria&#x27;ya saldırı sinyalleri</a></h3><p>İsrail&#x27;de 27 Ekim&#x27;de yapılacak parlamento seçimleri yaklaşırken Başbakan Binyamin Netanyahu ve hükümetinden işgal altındaki Batı Şeria ve Gazze&#x27;ye yönelik saldırı sinyalleri geldi.</p>
+<div class="foot"><span>Anadolu Ajansı Güncel Haberler</span><time datetime="2026-10-06T13:07:24+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/kuzey-kore-den-tampon-bolgede-mayin-temizleyen-guney-kore-ye-yeni-sava-8fe1cb35/" tabindex="-1"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/kuzey-kore-den-tampon-bolgede-mayin-temizleyen-guney-kore-ye-yeni-sava-8fe1cb35/">Kuzey Kore&#x27;den tampon bölgede mayın temizleyen Güney Kore&#x27;ye &quot;yeni savaş tehlikesi&quot; mesajı</a></h3><p>Kuzey Kore, Güney Kore&#x27;nin 21 Eylül&#x27;de iki ülkeyi ayıran Askerden Arındırılmış Bölge&#x27;de (DMZ) yürüttüğü mayın temizleme çalışmasının ardından &quot;yeni savaş tehlikesinin&quot; ortaya çıktığını bildirdi.</p>
+<div class="foot"><span>Anadolu Ajansı Güncel Haberler</span><time datetime="2026-10-06T13:01:36+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/damacana-hirsizina-benziyor-diye-2-yil-ceza-yedi-bosu-bosuna-hapis-yat-2c86f097/" tabindex="-1"><img src="https://images.ntv.com.tr/images/AW803872_01copyfdg-744172.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/damacana-hirsizina-benziyor-diye-2-yil-ceza-yedi-bosu-bosuna-hapis-yat-2c86f097/">Damacana hırsızına benziyor diye 2 yıl ceza yedi, boşu boşuna hapis yattı</a></h3><p>Eskişehir&#x27;de meydana gelen bir damacana hırsızlığı olayı ile ilgili hırsıza benzediği için 2 yıl 6 ay hapis verilen kişi, gerçek anlaşılınca cezaevinden çıktı.</p>
+<div class="foot"><span>ntv.com.tr</span><time datetime="2026-10-06T13:01:25+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/snapdragon-8-elite-extreme-gen-6-ve-dimensity-9600-pro-karsilastirmasi-af55e70b/" tabindex="-1"></a>
+<div class="body"><span class="chip" style="--c:var(--tech)">Teknoloji</span><h3><a href="/haber/snapdragon-8-elite-extreme-gen-6-ve-dimensity-9600-pro-karsilastirmasi-af55e70b/">Snapdragon 8 Elite Extreme Gen 6 ve Dimensity 9600 Pro Karşılaştırması</a></h3><p>Snapdragon 8 Elite Extreme Gen 6 ve Dimensity 9600 Pro işlemcilerini karşılaştırdık. 2nm teknolojisi, benchmark skorları ve yeni nesil özellikler burada.</p>
+<div class="foot"><span>Teknoloji Haberleri – ShiftDelete.Net</span><time datetime="2026-10-06T13:00:17+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/tarihte-ilk-kez-yasaniyor-benzinli-araclar-kuresel-satislarda-azinlikt-a851bc53/" tabindex="-1"><img src="https://www.donanimhaber.com/images/images/haber/211291/1200x675benzinli-arac-satislari-ilk-kez-yuzde-50-nin-altina-indi.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--tech)">Teknoloji</span><h3><a href="/haber/tarihte-ilk-kez-yasaniyor-benzinli-araclar-kuresel-satislarda-azinlikt-a851bc53/">Tarihte ilk kez yaşanıyor: Benzinli araçlar küresel satışlarda azınlıkta kaldı</a></h3><p>Dünyada yalnızca benzinle çalışan otomobillerin satış payı 2026’nın ilk yarısında ilk kez yüzde 50’nin altına indi. Benzinli modellerin payı yüzde 49’a gerilerken elektrikli ve hibritler yükseldi.</p>
+<div class="foot"><span>DonanımHaber - Türkiye&#x27;nin Lider…</span><time datetime="2026-10-06T12:51:00+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/bulgaristan-dan-yunanistan-a-sicrayan-orman-yanginina-mudahale-ucuncu-c452d519/" tabindex="-1"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/bulgaristan-dan-yunanistan-a-sicrayan-orman-yanginina-mudahale-ucuncu-c452d519/">Bulgaristan&#x27;dan Yunanistan&#x27;a sıçrayan orman yangınına müdahale üçüncü gününde sürüyor</a></h3><p>Bulgaristan&#x27;da başlayan ve sınırı aşarak Yunanistan&#x27;ın Meriç iline bağlı Sofulu ilçesine ulaşan orman yangınına müdahale çalışmalarının üçüncü gününde devam ettiği bildirildi.</p>
+<div class="foot"><span>Anadolu Ajansı Güncel Haberler</span><time datetime="2026-10-06T12:50:21+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/katar-disisleri-bakanligi-mekke-ittifaki-ni-destekliyoruz-a3f464ec/" tabindex="-1"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/katar-disisleri-bakanligi-mekke-ittifaki-ni-destekliyoruz-a3f464ec/">Katar Dışişleri Bakanlığı: Mekke İttifakı&#x27;nı destekliyoruz</a></h3><p>Katar Dışişleri Bakanlığı Medya ve İletişim Direktörü Haşimi, Türkiye, Suudi Arabistan ve Pakistan&#x27;ın imzaladığı Mekke Ortak Savunma Anlaşması&#x27;nın bölgesel işbirliğini güçlendirdiğini belirterek bu anlaşmayı…</p>
+<div class="foot"><span>Anadolu Ajansı Güncel Haberler</span><time datetime="2026-10-06T12:37:05+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/alarmi-duyunca-kacti-oyuncak-tabancali-soygun-girisimi-kamerada-896a1169/" tabindex="-1"><img src="https://images.ntv.com.tr/images/dfdsfdsfds-940158.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/alarmi-duyunca-kacti-oyuncak-tabancali-soygun-girisimi-kamerada-896a1169/">Alarmı duyunca kaçtı: Oyuncak tabancalı soygun girişimi kamerada</a></h3><p>Tekirdağ&#x27;ın Kapaklı ilçesinde oyuncak tabancayla kuyumcu soymak isteyen şüpheli, kadın görevlinin alarma basması üzerine panikleyerek kaçtı.</p>
+<div class="foot"><span>ntv.com.tr</span><time datetime="2026-10-06T12:31:08+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/cumhurbaskani-erdogan-yapay-zeka-emegi-devre-disi-birakti-f52e261b/" tabindex="-1"><img src="https://images.ntv.com.tr/images/AA-20261006-42664197-42664196-CUMHURBASKANI_RECEP_TAYYIP_ERDOGAN-237698.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/cumhurbaskani-erdogan-yapay-zeka-emegi-devre-disi-birakti-f52e261b/">Cumhurbaşkanı Erdoğan: Yapay zeka emeği devre dışı bıraktı</a></h3><p>Cumhurbaşkanı Recep Tayyip Erdoğan, yapay zekanın emeği devre dışı bıraktığını ve sınayıcı olduğuna işaret edip &quot;Akademik süreçlerde de insan faktörü azalıyor.&quot; dedi.</p>
+<div class="foot"><span>ntv.com.tr</span><time datetime="2026-10-06T12:29:23+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/apple-dan-iphone-duo-hazirliklari-uygulamalar-onaylanmaya-basladi-ee101c02/" tabindex="-1"><img src="https://www.donanimhaber.com/images/images/haber/211282/1200x675iphone-duo-uyumlu-app-store-uygulamalari-onay-surecinde.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--tech)">Teknoloji</span><h3><a href="/haber/apple-dan-iphone-duo-hazirliklari-uygulamalar-onaylanmaya-basladi-ee101c02/">Apple&#x27;dan iPhone Duo hazırlıkları: Uygulamalar onaylanmaya başladı</a></h3><p>Apple, ilk katlanabilir telefonunu 23 Ekim Cuma günü satışa sunacak. Kullanıcıların uygulamalara ilişkin sorun yaşamaması için şimdiden iPhone Duo için geliştirilen uygulamaları onaylamaya başladı.</p>
+<div class="foot"><span>DonanımHaber - Türkiye&#x27;nin Lider…</span><time datetime="2026-10-06T12:29:00+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/renault-yeni-e-space-konseptini-sergiledi-d1721027/" tabindex="-1"><img src="https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-06_15-22-00_p95dN-660x371.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--tech)">Teknoloji</span><h3><a href="/haber/renault-yeni-e-space-konseptini-sergiledi-d1721027/">Renault, yeni “E-Space” konseptini sergiledi</a></h3><p>Renault, 2026 Paris Otomobil Fuarı öncesinde “E-Space” adını verdiği yeni konsept aracını görücüye çıkardı. Şirket, bu fütüristik konsept için yaptığı resmi açıklamada, “Markanın “voitures à vivre” yaklaşımının çağdaş…</p>
+<div class="foot"><span>LOG Teknoloji Haberleri</span><time datetime="2026-10-06T12:24:38+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/pars-filo-nato-gorevi-kapsaminda-litvanya-da-duzenlenen-medya-gunune-k-7041d9c0/" tabindex="-1"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/pars-filo-nato-gorevi-kapsaminda-litvanya-da-duzenlenen-medya-gunune-k-7041d9c0/">Pars Filo, NATO görevi kapsamında Litvanya&#x27;da düzenlenen medya gününe katıldı</a></h3><p>Milli Savunma Bakanlığı (MSB), NATO&#x27;nun Hava Polisliği görevinden hava savunma konseptine geçiş süreci kapsamında Litvanya&#x27;da düzenlenen medya gününe, 181. Jet Filo Komutanlığına (Pars Filo) ait iki F-16 uçağının…</p>
+<div class="foot"><span>Anadolu Ajansı Güncel Haberler</span><time datetime="2026-10-06T12:24:12+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/tff-yonetim-kurulu-uyesi-mevlut-aktan-gorevinden-istifa-etti-937acb6a/" tabindex="-1"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/tff-yonetim-kurulu-uyesi-mevlut-aktan-gorevinden-istifa-etti-937acb6a/">TFF Yönetim Kurulu Üyesi Mevlüt Aktan, görevinden istifa etti</a></h3><p>Türkiye Futbol Federasyonu (TFF) Yönetim Kurulu Üyesi Mevlüt Aktan, görevinden istifa ettiğini duyurdu.</p>
+<div class="foot"><span>Anadolu Ajansı Güncel Haberler</span><time datetime="2026-10-06T12:22:58+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/ispanya-hukumeti-konut-krizine-karsi-iki-yeni-kararname-kabul-etti-b51257ff/" tabindex="-1"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/ispanya-hukumeti-konut-krizine-karsi-iki-yeni-kararname-kabul-etti-b51257ff/">İspanya hükümeti konut krizine karşı iki yeni kararname kabul etti</a></h3><p>İspanya&#x27;da azınlık sol koalisyon hükümeti, geçen hafta mecliste reddedilen konut krizine karşı çözümleri içeren kararnamelerin ardından bu sorunla ilgili yeni iki kararname kabul etti.</p>
+<div class="foot"><span>Anadolu Ajansı Güncel Haberler</span><time datetime="2026-10-06T12:20:34+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/10-000-mah-bataryali-vivo-s2-fe-tanitildi-d1d75081/" tabindex="-1"><img src="https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-06_15-17-45_Vngq8-660x371.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--tech)">Teknoloji</span><h3><a href="/haber/10-000-mah-bataryali-vivo-s2-fe-tanitildi-d1d75081/">10.000 mAh bataryalı “Vivo S2 FE” tanıtıldı</a></h3><p>Çinli üreticilerin 10.000 mAh kapasiteli batarya taşıyan telefonlarının sayısı artıyor. Bu kapasitede batarya taşıyan son model olan Vivo S2 FE, gücünü MediaTek Dimensity 7300e işlemciden alıyor ve 6,83 inç boyutundaki…</p>
+<div class="foot"><span>LOG Teknoloji Haberleri</span><time datetime="2026-10-06T12:20:10+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/libya-da-temsilciler-meclisi-baskaninin-yilda-bir-yeniden-secilmesi-ka-0c118a55/" tabindex="-1"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/libya-da-temsilciler-meclisi-baskaninin-yilda-bir-yeniden-secilmesi-ka-0c118a55/">Libya&#x27;da Temsilciler Meclisi Başkanının &quot;yılda bir yeniden seçilmesi&quot; kararının ardından tartışmalar sürüyor</a></h3><p>Libya Temsilciler Meclisinin &quot;Meclis Başkanının her yıl yeniden seçilmesi&quot; yönünde aldığı karara ilişkin itiraz ve tartışmalar devam ediyor.</p>
+<div class="foot"><span>Anadolu Ajansı Güncel Haberler</span><time datetime="2026-10-06T12:14:44+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/vivo-v80-resmen-tanitildi-7-200-mah-batarya-ve-zeiss-kamera-025ce046/" tabindex="-1"><img src="https://www.donanimhaber.com/images/images/haber/211285/1200x675vivo-v80-resmen-tanitildi-7-200-mah-batarya-ve-zeiss-kamera.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--tech)">Teknoloji</span><h3><a href="/haber/vivo-v80-resmen-tanitildi-7-200-mah-batarya-ve-zeiss-kamera-025ce046/">Vivo V80 resmen tanıtıldı: 7.200 mAh batarya ve Zeiss kamera</a></h3><p>Vivo V80, 7.200 mAh bataryası, 144 Hz AMOLED ekranı ve Zeiss destekli üçlü kamera sistemiyle tanıtıldı. Telefonun fiyatı ve özellikleri belli oldu. İşte detaylar...</p>
+<div class="foot"><span>DonanımHaber - Türkiye&#x27;nin Lider…</span><time datetime="2026-10-06T12:06:00+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/fon-sorusturmalariyla-ilgili-son-gelismeler-neler-92fb24ef/" tabindex="-1"><img src="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0cea/live/ae536b40-c16b-11f1-a003-8be783290413.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/fon-sorusturmalariyla-ilgili-son-gelismeler-neler-92fb24ef/">Fon soruşturmalarıyla ilgili son gelişmeler neler?</a></h3><p>Fon soruşturmalarıyla ilgili konuşan Adalet Bakanı Akın Gürlek, zararın iki katının karşılanmasının etkin pişmanlık sebebi olduğunu ancak bunun kişiyle ilgili hukuki &quot;işlem yapılmayacağı&quot; anlamına gelmediğini söyledi.</p>
+<div class="foot"><span>BBC Turkish</span><time datetime="2026-10-06T12:01:45+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/windows-11-guncellemesi-ram-kullanimini-onemli-olcude-azaltiyor-4909eb77/" tabindex="-1"></a>
+<div class="body"><span class="chip" style="--c:var(--tech)">Teknoloji</span><h3><a href="/haber/windows-11-guncellemesi-ram-kullanimini-onemli-olcude-azaltiyor-4909eb77/">Windows 11 Güncellemesi RAM Kullanımını Önemli Ölçüde Azaltıyor</a></h3><p>Windows 11 26H2 güncellemesi, RAM kullanımını 3 GB düşürerek performans artışı sağlıyor. İşte yeni sürümle gelen hız optimizasyonları ve teknik detaylar.</p>
+<div class="foot"><span>Teknoloji Haberleri – ShiftDelete.Net</span><time datetime="2026-10-06T12:00:16+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/yemek-siparis-platformlarinda-sahte-restoranlara-ceza-7dc7caa0/" tabindex="-1"><img src="https://www.donanimhaber.com/images/images/haber/211284/1200x675yemek-siparis-platformlarinda-sahte-restoranlara-ceza.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--tech)">Teknoloji</span><h3><a href="/haber/yemek-siparis-platformlarinda-sahte-restoranlara-ceza-7dc7caa0/">Yemek sipariş platformlarında sahte restoranlara ceza</a></h3><p>Ticaret Bakanlığı, yemek sipariş platformlarında tek restoranı birden fazla işletme gibi göstererek tüketicileri yanıltan iki şirkete idari para cezası ve reklam durdurma yaptırımı uyguladı.</p>
+<div class="foot"><span>DonanımHaber - Türkiye&#x27;nin Lider…</span><time datetime="2026-10-06T11:43:00+00:00">6 Ekim 2026</time></div></div></article>
+<article class="card"><a href="/haber/cumhurbaskani-erdogan-nitelikli-yuksekogretimi-anadolu-nun-dort-bir-ya-6862c4d1/" tabindex="-1"><img src="https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2492000/erdogan-aa-2492759.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></a>
+<div class="body"><span class="chip" style="--c:var(--gundem)">Gündem</span><h3><a href="/haber/cumhurbaskani-erdogan-nitelikli-yuksekogretimi-anadolu-nun-dort-bir-ya-6862c4d1/">Cumhurbaşkanı Erdoğan: Nitelikli yükseköğretimi Anadolu&#x27;nun dört bir yanına ulaştırdık</a></h3><p>Cumhurbaşkanı Recep Tayyip Erdoğan, &quot;Son derece nitelikli bir yükseköğretim sürecini Anadolu&#x27;nun dört bir yanına ulaştırdık. Hangi gelir grubundan olursa olsun bu ülkenin evlatları bulundukları şehirlerde eğitim…</p>
+<div class="foot"><span>TRT Haber Manşet Haberleri</span><time datetime="2026-10-06T11:41:00+00:00">6 Ekim 2026</time></div></div></article>
+</section>
   <button id="more" class="tab" hidden>Daha fazla göster</button>
 </main>
-
-<footer class="wrap" id="foot"></footer>
-
-<script>
-const $ = s => document.querySelector(s);
-let all = [], cfg = {}, feeds = {}, cat = "hepsi", query = "", shown = 24;
-const PALETTE = ["var(--tech)", "var(--gundem)", "#b7791f", "#8b5cf6", "#0e7490", "#db2777", "#4d7c0f"];
-
-const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "";
-
-// ---------------------------------------------------------------- yönetim
-const host = location.hostname.endsWith(".github.io") ? location.hostname : "";
-const REPO = host ? host.split(".")[0] + "/" + host : "penomen06/penomen06.github.io";
-function form(file, title, fields = {}){
-  const p = new URLSearchParams({template: file, title});
-  for (const [k, v] of Object.entries(fields)) if (v) p.set(k, v);
-  return `https://github.com/${REPO}/issues/new?${p}`;
-}
-function isAdmin(){
-  const want = new URLSearchParams(location.search).has("yonetim");
-  try { if (want) localStorage.setItem("yonetim", "1"); return want || localStorage.getItem("yonetim") === "1"; }
-  catch { return want; }
-}
-if (isAdmin()) document.body.classList.add("yonetim");
-$("#a-exit").onclick = () => {
-  try { localStorage.removeItem("yonetim"); } catch {}
-  location.href = location.pathname;
-};
-$("#a-add").href = form("1-haber-ekle.yml", "[Haber] ");
-$("#a-log").href = `https://github.com/${REPO}/issues?q=is%3Aissue`;
-$("#a-src").onclick = () => $("#panel").classList.toggle("open");
-
-function adminLinks(){
-  $("#a-set").href = form("4-site-ayarlari.yml", "[Ayarlar] Site ayarları", {
-    baslik: cfg.title, altyazi: cfg.subtitle, renk: cfg.accent, altbilgi: cfg.footer,
-    adet: String(cfg.per_feed || ""), kelimeler: (cfg.blocked_words || []).join("\n")});
-  const cats = cfg.categories || {};
-  $("#panel-in").innerHTML = `<a class="lnk" target="_blank" rel="noopener" href="${esc(form("5-kaynak-kategori.yml", "[Kaynak] Yeni kaynak"))}">＋ Yeni kaynak veya kategori ekle</a>` +
-    Object.entries(cats).map(([k, label]) => `<h4>${esc(label)}
-      <a class="lnk" style="font-weight:500;font-size:12px;margin-left:8px" target="_blank" rel="noopener" href="${esc(form("5-kaynak-kategori.yml", "[Kaynak] " + label + " adını değiştir", {kategori: label}))}">adını değiştir / kaldır</a></h4>
-      <ul>${(feeds[k] || []).map(u => `<li>${esc(u)} — <a class="lnk" target="_blank" rel="noopener" href="${esc(form("5-kaynak-kategori.yml", "[Kaynak] Kaldır", {kategori: label, rss: u}))}">kaldır</a></li>`).join("") || "<li>Kaynak yok</li>"}</ul>`).join("") +
-    `<p style="font-size:12px;color:var(--muted);margin:14px 0 0">Formda yapmak istediğin işlemi "İşlem" kutusundan seç. Gönderdikten 1–2 dakika sonra sitede görünür.</p>`;
-}
-
-function adminRow(item){
-  if (!item.id) return "";
-  const t = item.title.slice(0, 60);
-  return `<div class="adm"><span>ID <code>${esc(item.id)}</code></span>
-    <a target="_blank" rel="noopener" href="${esc(form("2-haber-duzenle.yml", "[Düzenle] " + t, {haber_id: item.id, baslik: item.title, aciklama: (item.summary || "").length < 4000 ? item.summary : "", resim: item.image, link: item.link}))}">✏️ Düzenle / manşet</a>
-    <a target="_blank" rel="noopener" href="${esc(form("3-haber-sil.yml", "[Sil] " + t, {haber_id: item.id}))}">🗑️ Sil</a></div>`;
-}
-
-// ---------------------------------------------------------------- görünüm
-function ago(iso){
-  const s = (Date.now() - new Date(iso)) / 1000;
-  if (s < 60) return "az önce";
-  if (s < 3600) return Math.floor(s/60) + " dk önce";
-  if (s < 86400) return Math.floor(s/3600) + " sa önce";
-  return new Date(iso).toLocaleDateString("tr-TR", {day:"numeric", month:"long"});
-}
-const img = item => safeUrl(item.image) ? `<img src="${esc(item.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
-const wrapLink = (item, inner) => item.id ? `<a href="#/haber/${encodeURIComponent(item.id)}">${inner}</a>` : inner;
-// kart önizlemesi için metindeki resimleri ve fazla boşlukları temizler
-const preview = t => String(t || "").replace(/!\[[^\]]*\]\([^)]*\)|<img[^>]*>/gi, " ").replace(/\s+/g, " ").trim();
-function chip(item){
-  if (item.source === "Editör") return `<span class="chip" style="--c:var(--editor)">Editör</span>`;
-  const keys = Object.keys(cfg.categories || {});
-  const label = (cfg.categories || {})[item.category] || item.category;
-  return `<span class="chip" style="--c:${PALETTE[Math.max(0, keys.indexOf(item.category)) % PALETTE.length]}">${esc(label)}</span>`;
-}
-const foot = item => `<div class="foot"><span>${esc(item.source)}</span><span>${ago(item.date)}</span></div>`;
-const card = item => `<article class="card">${wrapLink(item, img(item))}
-    <div class="body">${chip(item)}<h3>${wrapLink(item, esc(item.title))}</h3>
-      ${item.summary ? `<p>${esc(preview(item.summary))}</p>` : ""}${foot(item)}${adminRow(item)}</div></article>`;
-
-function render(){
-  let list = all.filter(i => cat === "hepsi" ? true : cat === "editor" ? i.manual : i.category === cat);
-  if (query) list = list.filter(i => (i.title + " " + i.summary).toLocaleLowerCase("tr").includes(query));
-  const lead = !query && (list.find(i => i.pinned) || list.find(i => i.image));
-  $("#hero").innerHTML = lead ? `<div class="hero">${wrapLink(lead, img(lead))}
-      <div>${chip(lead)}<h2>${wrapLink(lead, esc(lead.title))}</h2><p>${esc(preview(lead.summary).slice(0, 260))}</p>${foot(lead)}${adminRow(lead)}</div></div>` : "";
-  const rest = list.filter(i => i !== lead);
-  $("#grid").innerHTML = rest.slice(0, shown).map(card).join("") || (lead ? "" : `<div class="empty">Bu bölümde henüz haber yok.</div>`);
-  $("#more").hidden = rest.length <= shown;
-}
-
-// ---------------------------------------------------------------- haber sayfası
-function bodyHtml(raw){
-  const imgs = [];
-  const marked = String(raw || "")
-    .replace(/!\[[^\]]*\]\((https?:\/\/[^)\s]+)\)|<img[^>]*src="(https?:\/\/[^"]+)"[^>]*>/gi,
-      (_, a, b) => `\u0000${imgs.push(a || b) - 1}\u0000`);
-  return marked.split(/\n\s*\n/).map(par => {
-    const h = esc(par.trim())
-      .replace(/https?:\/\/[^\s<]+/g, u => `<a href="${u}" target="_blank" rel="noopener">${u}</a>`)
-      .replace(/\n/g, "<br>")
-      .replace(/\u0000(\d+)\u0000/g, (_, i) => `</p><img src="${esc(imgs[i])}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><p>`);
-    return h ? `<p>${h}</p>` : "";
-  }).join("").replace(/<p>(\s|<br>)*<\/p>/g, "");
-}
-
-function showArticle(id){
-  const item = all.find(i => String(i.id) === id);
-  const el = $("#article");
-  if (!item){
-    el.innerHTML = `<button class="back" onclick="location.hash=''">← Ana sayfa</button><div class="empty">Bu haber artık yayında değil.</div>`;
-    $("#related").innerHTML = "";
-    return;
-  }
-  const date = new Date(item.date).toLocaleString("tr-TR", {day:"numeric", month:"long", year:"numeric", hour:"2-digit", minute:"2-digit"});
-  const link = safeUrl(item.link);
-  const cover = safeUrl(item.image) ? `<img class="cover" src="${esc(item.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
-  const text = item.manual
-    ? bodyHtml(item.summary) + (link ? `<p class="note">Kaynak: <a href="${esc(link)}" target="_blank" rel="noopener">${esc(new URL(link).hostname)}</a></p>` : "")
-    : (item.summary ? `<p>${esc(item.summary)}</p>` : "") + (link ? `<a class="src" href="${esc(link)}" target="_blank" rel="noopener">Haberin devamını ${esc(item.source)} sitesinde oku →</a>
-       <p class="note">Bu özet ${esc(item.source)} tarafından yayınlanmıştır.</p>` : "");
-  const related = all.filter(i => i !== item && i.category === item.category).slice(0, 6);
-  el.innerHTML = `<button class="back" onclick="location.hash=''">← Tüm haberler</button>
-    ${chip(item)}<h1>${esc(item.title)}</h1>
-    <div class="by">${esc(item.source)} · ${date}</div>${cover}
-    <div class="text">${text}</div>${adminRow(item)}`;
-  $("#related").innerHTML = related.length ? `<h2>Benzer haberler</h2><div class="grid">${related.map(card).join("")}</div>` : "";
-  document.title = item.title + " · " + cfg.title;
-}
-
-let lastHash = null;
-function route(){
-  const m = location.hash.match(/^#\/haber\/(.+)$/);
-  document.body.classList.toggle("okuma", !!m);
-  if (m) showArticle(decodeURIComponent(m[1]));
-  else { $("#related").innerHTML = ""; document.title = cfg.title; }
-  if (location.hash !== lastHash) window.scrollTo(0, 0);  // otomatik yenilemede sayfa kaymasın
-  lastHash = location.hash;
-}
-window.addEventListener("hashchange", route);
-
-function applySettings(){
-  document.title = cfg.title;
-  $("#title").innerHTML = esc(cfg.title).replace("&amp;", "<span>&amp;</span>");
-  $("#sub").textContent = cfg.subtitle;
-  $("#foot").textContent = cfg.footer;
-  if (/^#[0-9a-f]{6}$/i.test(cfg.accent || "")) document.documentElement.style.setProperty("--accent", cfg.accent);
-  const tabs = [["hepsi", "Tümü"], ...Object.entries(cfg.categories || {}), ["editor", "Editörün Seçtikleri"]];
-  if (!tabs.some(([k]) => k === cat)) cat = "hepsi";
-  document.querySelectorAll("#tabs .tab").forEach(b => b.remove());
-  $("#q").insertAdjacentHTML("beforebegin", tabs.map(([k, l]) =>
-    `<button class="tab${k === cat ? " on" : ""}" data-c="${esc(k)}">${esc(l)}</button>`).join(""));
-  document.querySelectorAll("#tabs .tab").forEach(b => b.onclick = () => {
-    cat = b.dataset.c; shown = 24; if (location.hash) location.hash = "";
-    document.querySelectorAll("#tabs .tab").forEach(x => x.classList.toggle("on", x === b));
-    render();
-  });
-}
-
-async function load(){
-  const get = f => fetch(f + "?t=" + Date.now()).then(r => r.ok ? r.json() : null).catch(() => null);
-  const [news, manual, settings, fd] = await Promise.all(
-    ["data/news.json", "data/manual.json", "data/settings.json", "data/feeds.json"].map(get));
-  cfg = Object.assign({title: "Gündem & Teknoloji", subtitle: "Otomatik güncellenir", footer: "",
-    categories: {teknoloji: "Teknoloji", gundem: "Gündem"}}, settings || {});
-  feeds = fd || {};
-  all = [...(manual || []), ...(news?.items || [])]
-    .sort((a, b) => (b.pinned|0) - (a.pinned|0) || new Date(b.date) - new Date(a.date));
-  $("#upd").textContent = news?.updated ? "Son güncelleme: " + ago(news.updated) : "";
-  applySettings(); adminLinks(); render(); route();
-}
-
-$("#q").oninput = e => { query = e.target.value.trim().toLocaleLowerCase("tr"); shown = 24; render(); };
-$("#more").onclick = () => { shown += 24; render(); };
-load();
-setInterval(load, 5 * 60 * 1000);
-</script>
+<footer class="wrap"><p>Haber başlıkları ve özetleri ilgili kaynaklardan alınır; tamamı için habere tıklayın.</p><p><a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">Site haritası</a></p></footer>
+<script src="/assets/app.js" defer></script>
 </body>
 </html>

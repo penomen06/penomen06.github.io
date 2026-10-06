@@ -7,7 +7,9 @@ Kendi haberini de telefondan bile resim ve linkle ekleyebilirsin.
 
 | Parça | Görevi |
 |---|---|
-| `index.html` | Sitenin kendisi (kategoriler, arama, manşet, karanlık mod) |
+| `scripts/build_pages.py` | Anasayfa, kategori ve haber sayfalarını, site haritasını ve RSS'i üretir (SEO) |
+| `assets/style.css`, `assets/app.js` | Sitenin tasarımı ve tarayıcıdaki davranışı |
+| `index.html`, `haber/`, `kategori/` | Otomatik üretilen sayfalar — elle düzenleme, her çalışmada yeniden yazılır |
 | `data/feeds.json` | Haberlerin çekildiği RSS kaynakları — istediğin kadar ekle/çıkar |
 | `scripts/fetch_news.py` | Kaynaklardan haberleri çekip `data/news.json`'a yazar |
 | `.github/workflows/haberleri-cek.yml` | Bu betiği her 30 dakikada bir GitHub'da otomatik çalıştırır |
@@ -49,6 +51,16 @@ Formlara doğrudan da ulaşabilirsin: https://github.com/penomen06/penomen06.git
 - Yeni bir kategori adıyla kaynak eklersen menüde o kategori sekmesi kendiliğinden açılır.
 - Formlarda bir hata olursa (yanlış renk kodu, olmayan ID gibi) hiçbir şey değişmez; form nedenini yazarak kapanır.
 - Sadece depo sahibinin (senin) gönderdiği formlar işlenir. Yapılan tüm işlemler "📋 Geçmiş"te durur.
+
+## Arama motorları (SEO)
+
+- Her haberin kendi adresi var: `/haber/haber-basligi-ID/`. Kategoriler: `/kategori/teknoloji/` vb.
+- Sayfalar içerikle dolu gelir; başlık, açıklama, paylaşım kartı (Open Graph) ve Google haber yapısal verisi (NewsArticle) içerir.
+- `sitemap.xml`, `robots.txt` ve sitenin kendi RSS'i (`feed.xml`) otomatik güncellenir.
+- **Kendi yazdığın haberler** Google'da dizinlenir. Otomatik gelen haberler başka sitelerin özetleri olduğu için
+  "noindex" ile işaretlenir; böylece Google siteni kopya içerikle cezalandırmaz. Google'da yükselmenin yolu
+  kendi yazdığın özgün haberlerdir.
+- Site açıklaması ve Google Search Console doğrulama kodu ⚙️ Site Ayarları formundan değiştirilir.
 
 ## Notlar
 - GitHub zamanlanmış görevleri yoğunlukta birkaç dakika gecikmeli çalıştırabilir.

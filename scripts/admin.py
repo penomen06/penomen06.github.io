@@ -136,6 +136,7 @@ def cmd_duzenle(f, n):
     elif m == "Sabitlemeyi kaldır":
         item["pinned"] = False
         changes.append("manşetten çıkarıldı")
+    item["updated"] = datetime.now(timezone.utc).isoformat()
     manual = [item if i["id"] == item["id"] else i for i in load("manual.json", [])]
     save("manual.json", manual)
     if not changes:
@@ -168,6 +169,15 @@ def cmd_ayarlar(f, n):
         s["title"] = f["Site adı"].strip()[:60]; changes.append("site adı")
     if f.get("Üst yazı"):
         s["subtitle"] = f["Üst yazı"].strip()[:80]; changes.append("üst yazı")
+    if f.get("Site açıklaması"):
+        s["description"] = re.sub(r"\s+", " ", f["Site açıklaması"]).strip()[:300]; changes.append("site açıklaması")
+    if f.get("Google doğrulama kodu"):
+        g = f["Google doğrulama kodu"].strip()
+        m = re.search(r'content="([^"]+)"', g)
+        g = "" if g == "-" else (m.group(1) if m else g)
+        if g and not re.fullmatch(r"[A-Za-z0-9_\-]{10,100}", g):
+            raise Hata("Google doğrulama kodu anlaşılmadı. Search Console'daki etiketi olduğu gibi yapıştır.")
+        s["google_verification"] = g; changes.append("Google doğrulama kodu")
     if f.get("Vurgu rengi"):
         c = f["Vurgu rengi"].strip()
         c = c if c.startswith("#") else "#" + c

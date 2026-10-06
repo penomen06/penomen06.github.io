@@ -11,12 +11,15 @@ TEMPLATES = ROOT / ".github" / "ISSUE_TEMPLATE"
 DEFAULT_SETTINGS = {
     "title": "Gündem & Teknoloji",
     "subtitle": "Otomatik güncellenir",
+    "description": "Teknoloji ve gündemden en güncel haberler; her 30 dakikada bir otomatik güncellenir.",
     "accent": "#e4402d",
     "footer": "Haber başlıkları ve özetleri ilgili kaynaklardan alınır; tamamı için habere tıklayın.",
     "categories": {"teknoloji": "Teknoloji", "gundem": "Gündem"},
     "per_feed": 15,
     "blocked_words": [],
     "blocked_links": [],
+    "google_verification": "",
+    "site_url": "",
 }
 
 
@@ -99,10 +102,12 @@ def write_templates(s, feeds):
         "4-site-ayarlari.yml": _form("⚙️ Site Ayarları", "Sitenin adını, rengini, yazılarını ve filtrelerini değiştir. Boş bıraktığın alanlar değişmez.", "[Ayarlar] ", "ayarlar", [
             _field("input", "baslik", "Site adı", "Örn: Gündem & Teknoloji (& işareti renkli görünür)"),
             _field("input", "altyazi", "Üst yazı", "Başlığın yanındaki kısa yazı"),
+            _field("textarea", "aciklama", "Site açıklaması", "Google arama sonuçlarında sitenin altında görünen 1-2 cümle (en fazla ~160 karakter)"),
             _field("input", "renk", "Vurgu rengi", "Renk kodu, örn: #e4402d (kırmızı), #2f5bea (mavi), #0f8a5f (yeşil)"),
             _field("textarea", "altbilgi", "Alt bilgi", "Sayfanın en altındaki yazı"),
             _field("input", "adet", "Her kaynaktan haber sayısı", "1 ile 50 arası bir sayı"),
             _field("textarea", "kelimeler", "Engellenen kelimeler", "Bu kelimeleri içeren otomatik haberler gösterilmez. Her satıra bir kelime. Listeyi boşaltmak için sadece - yaz."),
+            _field("input", "google", "Google doğrulama kodu", "Google Search Console'un verdiği HTML etiketi ya da içindeki kod. Silmek için - yaz."),
         ]),
         "5-kaynak-kategori.yml": _form("📡 Kaynak ve Kategori", "Haber kaynağı (RSS) ekle/kaldır, kategori aç/kaldır/adını değiştir.", "[Kaynak] ", "kaynak", [
             _dropdown("islem", "İşlem", ["Kaynak ekle", "Kaynak kaldır", "Kategori adını değiştir", "Kategoriyi kaldır"]),
