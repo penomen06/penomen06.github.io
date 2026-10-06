@@ -74,6 +74,17 @@ footer a{color:#fff;text-decoration:underline}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 a.tab{display:inline-block}
 
+/* ---- paylaşım ---- */
+.share{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:0 0 22px}
+.share-bottom{margin:26px 0 6px;padding-top:18px;border-top:1px solid var(--line)}
+.share-label{font:600 13px Inter;color:var(--muted);margin-right:2px}
+.sh{border:0;border-radius:999px;padding:8px 14px;font:600 13px Inter;color:#fff;cursor:pointer;line-height:1.2;transition:transform .12s,filter .12s}
+.sh:hover{transform:translateY(-1px);filter:brightness(1.08)}
+.sh-wa{background:#1fa855}.sh-x{background:#111}.sh-fb{background:#1877f2}.sh-tg{background:#229ed9}.sh-in{background:#0a66c2}
+.sh-native{background:var(--accent);color:var(--on-accent)}
+.sh-copy{background:var(--card);color:var(--ink);border:1px solid var(--line)}
+@media (prefers-color-scheme:dark){.sh-x{background:#000;box-shadow:inset 0 0 0 1px #3a4766}}
+
 /* ---- yönetim modu ---- */
 #admin{display:none;background:#16161a;color:#f6f4ef;font-size:14px}
 body.yonetim #admin{display:block}

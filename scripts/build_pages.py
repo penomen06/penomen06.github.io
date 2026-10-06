@@ -146,6 +146,7 @@ def head(s, base, *, title, desc, path, image="", kind="website", robots="index,
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:url" content="{e(url)}">
 <meta property="og:image" content="{e(img)}">
+{'<meta property="og:image:width" content="1200">' + chr(10) + '<meta property="og:image:height" content="630">' + chr(10) if not image else ""}<meta property="og:image:alt" content="{e(title)}">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="{e(s['title'])}" href="/feed.xml">
@@ -269,6 +270,25 @@ def list_page(s, base, items, updated, *, key, title, h1, desc, path):
 """ + tail(s, ""))
 
 
+def share_bar(base, item, where):
+    """Paylaşım butonları; hepsi bu sitedeki haber sayfasının adresini paylaşır."""
+    from urllib.parse import quote
+    url = base + item["url"]
+    u, t = quote(url, safe=""), quote(item["title"], safe="")
+    links = [
+        ("WhatsApp", "wa", f"https://wa.me/?text={t}%20{u}"),
+        ("X", "x", f"https://twitter.com/intent/tweet?text={t}&url={u}"),
+        ("Facebook", "fb", f"https://www.facebook.com/sharer/sharer.php?u={u}"),
+        ("Telegram", "tg", f"https://t.me/share/url?url={u}&text={t}"),
+        ("LinkedIn", "in", f"https://www.linkedin.com/sharing/share-offsite/?url={u}"),
+    ]
+    btns = "".join(f'<a class="sh sh-{k}" href="{e(h)}" target="_blank" rel="noopener" aria-label="{n} ile paylaş">{n}</a>' for n, k, h in links)
+    return (f'<div class="share share-{where}" data-url="{e(url)}" data-title="{e(item["title"])}">'
+            f'<span class="share-label">Paylaş:</span>'
+            f'<button class="sh sh-native" type="button" hidden>📤 Paylaş</button>{btns}'
+            f'<button class="sh sh-copy" type="button">🔗 Bağlantıyı kopyala</button></div>')
+
+
 def article_page(s, base, item, updated):
     manual = bool(item.get("manual"))
     link = safe_url(item.get("link"))
@@ -317,8 +337,10 @@ def article_page(s, base, item, updated):
   {chip(item, s)}
   <h1>{e(item['title'])}</h1>
   <div class="by">{e(item['source'])} · <time datetime="{e(item['date'])}">{e(tr_date(item['date']))}</time></div>
+  {share_bar(base, item, "top")}
   {img_tag(item, "cover", item['title'], eager=True)}
   <div class="text">{text}</div>
+  {share_bar(base, item, "bottom")}
   <div id="adm-slot"></div>
 </article>
 <section id="related" class="related"></section>

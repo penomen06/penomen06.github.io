@@ -121,5 +121,25 @@ if (PAGE === "list"){
   $("#q").oninput = e => { query = e.target.value.trim().toLocaleLowerCase("tr"); shown = 24; renderList(); };
   $("#more").onclick = () => { shown += 24; renderList(); };
 }
+// ---------------------------------------------------------------- paylaşım
+document.querySelectorAll(".share").forEach(box => {
+  const {url, title} = box.dataset;
+  const native = box.querySelector(".sh-native");
+  if (navigator.share && native){            // telefonda kendi paylaşım menüsü
+    native.hidden = false;
+    native.onclick = () => navigator.share({title, url}).catch(() => {});
+  }
+  const copy = box.querySelector(".sh-copy");
+  copy.onclick = async () => {
+    try { await navigator.clipboard.writeText(url); }
+    catch {
+      const t = document.createElement("textarea"); t.value = url; document.body.append(t);
+      t.select(); document.execCommand("copy"); t.remove();
+    }
+    const old = copy.textContent; copy.textContent = "✅ Kopyalandı";
+    setTimeout(() => copy.textContent = old, 1800);
+  };
+});
+
 load();
 setInterval(load, 5 * 60 * 1000);
