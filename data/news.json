@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-06T13:24:47.246596+00:00",
+ "updated": "2026-10-06T13:31:14.026590+00:00",
  "items": [
+  {
+   "id": "45763b2b",
+   "title": "İsveç, Polonya'ya Patriot hava savunma sistemi gönderecek",
+   "summary": "İsveç Başbakanı Ulf Kristersson, NATO'nun doğu kanadının güvenliği için Polonya'ya Patriot hava savunma sistemi gönderme kararı aldıklarını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/isvec-polonyaya-patriot-hava-savunma-sistemi-gonderecek/4079868",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-06T13:26:18+00:00",
+   "url": "/haber/isvec-polonya-ya-patriot-hava-savunma-sistemi-gonderecek-45763b2b/"
+  },
+  {
+   "id": "7c00919d",
+   "title": "Mistral, 1 trilyon parametreye sahip açık ağırlıklı modeli Large 4’ü duyurdu",
+   "summary": "Avrupa merkezli yapay zeka şirketi Mistral, en iyi açık ağırlıklı model olarak tanımladığı Large 4’ü “API” üzerinden kullanıma açtı. Şirketin “Le Chonk” lakabını taktığı model, 1 trilyon parametreye sahip olmasına…",
+   "link": "https://www.log.com.tr/mistral-1-trilyon-parametreye-sahip-acik-agirlikli-modeli-large-4u-duyurdu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2024/07/mistral-large-2-isimli-yeni-buyuk-dil-modelini-duyurdu-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-06T13:25:37+00:00",
+   "url": "/haber/mistral-1-trilyon-parametreye-sahip-acik-agirlikli-modeli-large-4-u-du-7c00919d/"
+  },
+  {
+   "id": "fa6b5c4f",
+   "title": "Apple Bu Ay Yeni Etkinlik Yapmaya Hazırlanıyor: İşte Tanıtılacak 2 Ürün",
+   "summary": "Apple'ın bu ay düzenleyeceği iki farklı etkinlikle yeni akıllı ev merkezini ve OLED ekranlı MacBook Ultra modelini tanıtması bekleniyor.",
+   "link": "https://www.webtekno.com/apple-yeni-etkinlik-tanitilacak-2-urun-h226450.html",
+   "image": "https://imgrosetta.webtekno.com/file/690752/690752-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-06T13:23:04+00:00",
+   "url": "/haber/apple-bu-ay-yeni-etkinlik-yapmaya-hazirlaniyor-iste-tanitilacak-2-urun-fa6b5c4f/"
+  },
+  {
+   "id": "a6d2148e",
+   "title": "Honda Ekim 2026 Fiyat Listesi",
+   "summary": "Honda Ekim 2026 fiyat listesi belli oldu. Jazz, HR-V, ZR-V, Prelude ve CR-V'nin güncel fiyatlarını ve kampanyalı satış fiyatlarını inceliyoruz.",
+   "link": "https://www.webtekno.com/ekim-2026-honda-fiyat-listesi-h226465.html",
+   "image": "https://imgrosetta.webtekno.com/file/690880/690880-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-06T13:22:35+00:00",
+   "url": "/haber/honda-ekim-2026-fiyat-listesi-a6d2148e/"
+  },
+  {
+   "id": "d9413754",
+   "title": "Toyota Ekim 2026 Fiyat Listesi Açıklandı: Yeni Hilux Listede!",
+   "summary": "Toyota, Ekim 2026 dönemi için geçerli güncel fiyat listesini yayınladı. Markanın fiyat listesinde Corolla, Corolla Hybrid, Corolla Cross Hybrid, Toyota C-HR Hybrid, Corolla Hatchback Hybrid, Yaris Cross Hybrid, Yaris…",
+   "link": "https://www.webtekno.com/toyota-ekim-2026-fiyat-listesi-h226456.html",
+   "image": "https://imgrosetta.webtekno.com/file/690865/690865-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-06T13:22:22+00:00",
+   "url": "/haber/toyota-ekim-2026-fiyat-listesi-aciklandi-yeni-hilux-listede-d9413754/"
+  },
+  {
+   "id": "b5825bea",
+   "title": "Claude Arayüzüne Türkçe Dil Desteği Geldi (Geç de Olsa...)",
+   "summary": "Anthropic, yapay zekâ modeli Claude için arayüzde Türkçe dil desteğini kullanıma sundu.",
+   "link": "https://www.webtekno.com/claude-arayuzune-turkce-dil-destegi-geldi-h226468.html",
+   "image": "https://imgrosetta.webtekno.com/file/690877/690877-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-06T13:21:50+00:00",
+   "url": "/haber/claude-arayuzune-turkce-dil-destegi-geldi-gec-de-olsa-b5825bea/"
+  },
+  {
+   "id": "2a31165a",
+   "title": "PlayStation Stars Çok Yakında Kapanıyor: Puanlarınızı Harcamayı Unutmayın!",
+   "summary": "Sony'nin sadakat programı PlayStation Stars, 2 Kasım 2026'da kapanıyor.",
+   "link": "https://www.webtekno.com/playstation-stars-cok-yakinda-kapaniyor-h226474.html",
+   "image": "https://imgrosetta.webtekno.com/file/690790/690790-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-06T13:21:47+00:00",
+   "url": "/haber/playstation-stars-cok-yakinda-kapaniyor-puanlarinizi-harcamayi-unutmay-2a31165a/"
+  },
+  {
+   "id": "40c28f04",
+   "title": "Yıllardır Eleştiriliyordu: Samsung, Galaxy S27 Ultra'da Bu Soruna Çözüm Buldu!",
+   "summary": "Galaxy S27 Ultra, 5.700 mAh kapasite batarya ile birlikte şarj süresini kısaltacak yeni akıllı şarj teknolojisine sahip olacak.",
+   "link": "https://www.webtekno.com/samsung-galaxy-s27-ultra-bu-soruna-cozum-buldu-h226457.html",
+   "image": "https://imgrosetta.webtekno.com/file/690787/690787-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-06T13:21:29+00:00",
+   "url": "/haber/yillardir-elestiriliyordu-samsung-galaxy-s27-ultra-da-bu-soruna-cozum-40c28f04/"
+  },
   {
    "id": "f52e261b",
    "title": "Cumhurbaşkanı Erdoğan: Yapay zeka emeği devre dışı bıraktı",
@@ -11,6 +99,17 @@
    "category": "gundem",
    "date": "2026-10-06T13:21:26+00:00",
    "url": "/haber/cumhurbaskani-erdogan-yapay-zeka-emegi-devre-disi-birakti-f52e261b/"
+  },
+  {
+   "id": "b26a84f6",
+   "title": "vivo V80 Tanıtıldı: İşte Fiyatı ve Özellikleri",
+   "summary": "vivo; bataryasından ekranına kadar her detayıyla dikkat çekmeyi başaran yeni V80 modelini tanıttı.",
+   "link": "https://www.webtekno.com/vivo-v80-tanitildi-ozellikleri-fiyati-h226447.html",
+   "image": "https://imgrosetta.webtekno.com/file/690814/690814-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-06T13:21:21+00:00",
+   "url": "/haber/vivo-v80-tanitildi-iste-fiyati-ve-ozellikleri-b26a84f6/"
   },
   {
    "id": "56fea452",
@@ -209,17 +308,6 @@
    "category": "gundem",
    "date": "2026-10-06T12:22:58+00:00",
    "url": "/haber/tff-yonetim-kurulu-uyesi-mevlut-aktan-gorevinden-istifa-etti-937acb6a/"
-  },
-  {
-   "id": "b51257ff",
-   "title": "İspanya hükümeti konut krizine karşı iki yeni kararname kabul etti",
-   "summary": "İspanya'da azınlık sol koalisyon hükümeti, geçen hafta mecliste reddedilen konut krizine karşı çözümleri içeren kararnamelerin ardından bu sorunla ilgili yeni iki kararname kabul etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/ispanya-hukumeti-konut-krizine-karsi-iki-yeni-kararname-kabul-etti/4079777",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-06T12:20:34+00:00",
-   "url": "/haber/ispanya-hukumeti-konut-krizine-karsi-iki-yeni-kararname-kabul-etti-b51257ff/"
   },
   {
    "id": "d1d75081",
@@ -717,17 +805,6 @@
    "url": "/haber/sivas-ta-dogada-gerilim-bozayilar-birbirine-girdi-b23d3447/"
   },
   {
-   "id": "82e92295",
-   "title": "HUAWEI MatePad Air İncelemesi",
-   "summary": "Yeni HUAWEI MatePad Air, bir tabletin taşınabilirliğini bilgisayarın iş yapabilme kapasitesiyle birleştirmeye odaklanan bir cihaz.",
-   "link": "https://www.webtekno.com/huawei-matepad-air-incelemesi-h226258.html",
-   "image": "https://imgrosetta.webtekno.com/file/690442/690442-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T09:17:00+00:00",
-   "url": "/haber/huawei-matepad-air-incelemesi-82e92295/"
-  },
-  {
    "id": "0be3a42f",
    "title": "Bahçeli: Erdoğan'ın bir daha aday olabilmesi için TBMM'de 'seçimlerin yenilenmesi' kararı alınmalı",
    "summary": "MHP Genel Başkanı Devlet Bahçeli, 2028'de seçim çağrısı yaparak Cumhur İttifakı'nın adayının Recep Tayyip Erdoğan olduğunu söyledi. Partisinin TBMM'deki grup toplantısında konuşan Bahçeli, Cumhurbaşkanı'nın üçüncü…",
@@ -814,50 +891,6 @@
    "category": "teknoloji",
    "date": "2026-10-06T08:50:00+00:00",
    "url": "/haber/abd-de-yollarda-kullanilmasina-izin-cikan-vergiden-muaf-kirmizi-dizel-3cbef255/"
-  },
-  {
-   "id": "21a2c146",
-   "title": "Rusya'da Veba Alarmı: Laboratuvardaki Kazadan Karantinaya, İşte Tüm Yaşananlar ve Uzman Görüşleri!",
-   "summary": "Rusya'da bir laboratuvar kazasından ortaya çıktığı iddia edilen veba tehlikesine dair tüm yaşananları ve uzman görüşlerini sizler için bir araya getirdik.",
-   "link": "https://www.webtekno.com/rusya-veba-yasananlar-ve-uzman-gorusleri-h226435.html",
-   "image": "https://imgrosetta.webtekno.com/file/690776/690776-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T08:49:57+00:00",
-   "url": "/haber/rusya-da-veba-alarmi-laboratuvardaki-kazadan-karantinaya-iste-tum-yasa-21a2c146/"
-  },
-  {
-   "id": "2131eeba",
-   "title": "Dünyada Kaç Samsung Galaxy Telefon Kullanıcısı Olduğu Açıklandı",
-   "summary": "Samsung, dünyada kaç kişinin Samsung Galaxy telefon kullandığını açıkladı.",
-   "link": "https://www.webtekno.com/dunyada-kac-samsung-galaxy-telefon-kullanicisi-var-h226411.html",
-   "image": "https://imgrosetta.webtekno.com/file/690730/690730-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T08:49:40+00:00",
-   "url": "/haber/dunyada-kac-samsung-galaxy-telefon-kullanicisi-oldugu-aciklandi-2131eeba/"
-  },
-  {
-   "id": "c9b9c553",
-   "title": "OPPO F35 ve F35 Pro Tanıtıldı: İşte Özellikleri ve Fiyatları",
-   "summary": "OPPO, orta segmentte konumlanan yeni telefonları F35 ve F35 Pro'yu tanıttı.",
-   "link": "https://www.webtekno.com/oppo-f35-ve-f35-pro-tanitildi-fiyatlari-ozellikleri-h226408.html",
-   "image": "https://imgrosetta.webtekno.com/file/690724/690724-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T08:49:28+00:00",
-   "url": "/haber/oppo-f35-ve-f35-pro-tanitildi-iste-ozellikleri-ve-fiyatlari-c9b9c553/"
-  },
-  {
-   "id": "c83bb7cd",
-   "title": "Fiat Fiyat Listesi - Ekim 2026",
-   "summary": "Fiat’ın Ekim 2026 binek araç fiyat listesi açıklandı. Egea Sedan, Egea Cross, Grande Panda Elektrikli, Topolino, Grande Panda Hibrit, 600 ve 500e modellerinin fiyatlarını açıklıyoruz.",
-   "link": "https://www.webtekno.com/ekim-2026-fiat-fiyat-listesi-h226429.html",
-   "image": "https://imgrosetta.webtekno.com/file/690766/690766-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T08:48:51+00:00",
-   "url": "/haber/fiat-fiyat-listesi-ekim-2026-c83bb7cd/"
   },
   {
    "id": "5c90e356",
@@ -990,39 +1023,6 @@
    "category": "gundem",
    "date": "2026-10-06T07:29:00+00:00",
    "url": "/haber/gunes-ve-ruzgardan-elektrik-uretiminde-tarihi-rekor-26253ee8/"
-  },
-  {
-   "id": "ae3bbda4",
-   "title": "Anthropic, Claude’a Türkçe arayüz desteği ekledi",
-   "summary": "Claude, Türkçe olarak iletişim kurulabilen bir yapay zeka sistemiydi ancak Türkçe arayüz desteğine sahip değildi. Anthropic bugün bu garip duruma son vererek dil seçenekleri arasına Türkçeyi de ekledi. Anthropic,…",
-   "link": "https://www.log.com.tr/anthropic-claude-a-turkce-arayuz-destegi-ekledi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-06_10-19-12_SXnCi-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-06T07:26:36+00:00",
-   "url": "/haber/anthropic-claude-a-turkce-arayuz-destegi-ekledi-ae3bbda4/"
-  },
-  {
-   "id": "a3901fc8",
-   "title": "2026 Steam Sonbahar İndirimi: Fiyatı Düşen En İyi Hikâyeli Oyunlar",
-   "summary": "Oyuncuların dört gözle beklediği Steam Sonbahar İndirimi sonunda başladı. Biz de sizler için indirimlerde fiyatı düşen en iyi hikâyeli oyunları listeledik.",
-   "link": "https://www.webtekno.com/2026-steam-sonbahar-indirimi-en-iyi-hikayeli-oyunlar-h226414.html",
-   "image": "https://imgrosetta.webtekno.com/file/690733/690733-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T07:20:58+00:00",
-   "url": "/haber/2026-steam-sonbahar-indirimi-fiyati-dusen-en-iyi-hik-yeli-oyunlar-a3901fc8/"
-  },
-  {
-   "id": "dc7d9f0e",
-   "title": "Google'dan Gemini'ye Yeni Özellik: Yapay Zekâ Sizin Yerinize Yakınlarınızı Arayacak!",
-   "summary": "Google, Pixel 11 modellerinde Gemini'nin kullanıcı adına arkadaş ve aile üyelerini arayıp mesaj iletmesini sağlayacak yeni bir özellik geliştiriyor.",
-   "link": "https://www.webtekno.com/gemini-yapay-zeka-sizin-yerinize-yakinlarinizi-arayacak-h226420.html",
-   "image": "https://imgrosetta.webtekno.com/file/690742/690742-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T07:20:41+00:00",
-   "url": "/haber/google-dan-gemini-ye-yeni-ozellik-yapay-zek-sizin-yerinize-yakinlarini-dc7d9f0e/"
   },
   {
    "id": "12cae22e",
