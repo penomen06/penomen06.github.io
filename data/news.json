@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-07T21:31:04.343631+00:00",
+ "updated": "2026-10-07T21:57:13.242177+00:00",
  "items": [
+  {
+   "id": "acfb1f78",
+   "title": "16 yaşındaki çocuk bıçaklanarak öldürüldü",
+   "summary": "Gaziantep'in Şahinbey ilçesinde çıkan bıçaklı kavgada 16 yaşındaki çocuk kaldırıldığı hastanede yaşamını yitirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/16-yasindaki-cocuk-bicaklanarak-olduruldu-1745304",
+   "image": "https://images.ntv.com.tr/images/GAZIANTEP’TE-16-YASINDAKI-COCUK-BICAKLAN_1542991_459240-762452.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-07T21:42:16+00:00",
+   "url": "/haber/16-yasindaki-cocuk-bicaklanarak-olduruldu-acfb1f78/"
+  },
+  {
+   "id": "3225fcec",
+   "title": "Bakan Bolat: Türkiye-ABD ticareti en geç 2028'de 50 milyar doları yakalayabilir",
+   "summary": "Ticaret Bakanı Ömer Bolat, \"Türkiye ve ABD arasındaki toplam ticarette en geç 2028'de 50 milyar doları yakalayabileceğiz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-turkiye-abd-ticareti-en-gec-2028de-50-milyar-dolari-yakalayabilir/4081585",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T21:41:01+00:00",
+   "url": "/haber/bakan-bolat-turkiye-abd-ticareti-en-gec-2028-de-50-milyar-dolari-yakal-3225fcec/"
+  },
   {
    "id": "d87d5beb",
    "title": "Office 2021 Desteği Sona Eriyor: İşte Yapabileceğiniz 5 Seçenek",
@@ -99,6 +121,28 @@
    "category": "gundem",
    "date": "2026-10-07T20:45:08+00:00",
    "url": "/haber/turkiye-nin-washington-buyukelciligi-nde-geleneksel-caz-konseri-duzenl-4d21f065/"
+  },
+  {
+   "id": "d0ffa542",
+   "title": "Almanya'da casusluk suçlamasıyla gözaltına alınan eski Federal İstihbarat Servisi Başkanı tutuklandı",
+   "summary": "Almanya'da casusluk suçlamasıyla gözaltına alınan eski Federal İstihbarat Servisi (BND) Başkanı August Hanning'in tutuklandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyada-casusluk-suclamasiyla-gozaltina-alinan-eski-federal-istihbarat-servisi-baskani-tutuklandi/4081532",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T20:43:07+00:00",
+   "url": "/haber/almanya-da-casusluk-suclamasiyla-gozaltina-alinan-eski-federal-istihba-d0ffa542/"
+  },
+  {
+   "id": "8a058596",
+   "title": "Milli yüzücü Emre Onuş'un hedefi dünya şampiyonasında madalya",
+   "summary": "Yüzmede Avrupa ikinciliği ve 14 Türkiye şampiyonluğu bulunan milli sporcu Emre Onuş (18), bu yıl elde ettiği başarıların ardından gelecek yıl düzenlenecek dünya şampiyonasında madalya kazanmayı hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-yuzucu-emre-onusun-hedefi-dunya-sampiyonasinda-madalya/4081523",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T20:36:01+00:00",
+   "url": "/haber/milli-yuzucu-emre-onus-un-hedefi-dunya-sampiyonasinda-madalya-8a058596/"
   },
   {
    "id": "1243cd82",
@@ -277,17 +321,6 @@
    "url": "/haber/2026-onarilabilirlik-raporu-yayimlandi-apple-ve-samsung-neden-dipte-9557733d/"
   },
   {
-   "id": "3fb85429",
-   "title": "Galata Kulesi Filistin bayrağının renklerine büründü",
-   "summary": "İstanbul'un simge yapılarından Galata Kulesi'ne Filistin bayrağı yansıtıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/galata-kulesi-filistin-bayraginin-renklerine-burundu/4081455",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T19:25:55+00:00",
-   "url": "/haber/galata-kulesi-filistin-bayraginin-renklerine-burundu-3fb85429/"
-  },
-  {
    "id": "c4aef0aa",
    "title": "Isı pompasını kurmadan önce evde nasıl görüneceğini gösteren uygulama",
    "summary": "Isı pompası kurulmadan önce evin 3D taramasını yaparak sistemin nerede, nasıl duracağını gösteren uygulama geliştirildi. Uygulama, kurulumu ve maliyeti önceden gösterebilecek.",
@@ -297,17 +330,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T19:18:00+00:00",
    "url": "/haber/isi-pompasini-kurmadan-once-evde-nasil-gorunecegini-gosteren-uygulama-c4aef0aa/"
-  },
-  {
-   "id": "2294d5e0",
-   "title": "Kupada 2. eleme turunda bugün 24 maç oynandı",
-   "summary": "Ziraat Türkiye Kupası 2. eleme turunda bugün 24 karşılaşma yapıldı.",
-   "link": "https://www.aa.com.tr/tr/spor/kupada-2-eleme-turunda-bugun-24-mac-oynandi/4081438",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T19:17:26+00:00",
-   "url": "/haber/kupada-2-eleme-turunda-bugun-24-mac-oynandi-2294d5e0/"
   },
   {
    "id": "4d9c5659",
@@ -385,17 +407,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T18:30:09+00:00",
    "url": "/haber/ilginc-iddia-iphone-18-pro-ve-iphone-duo-16gb-ram-le-gelecekti-ae81168c/"
-  },
-  {
-   "id": "08d234c6",
-   "title": "İsrail'in Gazze'de uyguladığı soykırım birçok ilde protesto edildi",
-   "summary": "İsrail'in Ekim 2023'ten bu yana Gazze'de uyguladığı soykırım birçok ilde protesto edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/israilin-gazzede-uyguladigi-soykirim-bircok-ilde-protesto-edildi/4081386",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T18:25:01+00:00",
-   "url": "/haber/israil-in-gazze-de-uyguladigi-soykirim-bircok-ilde-protesto-edildi-08d234c6/"
   },
   {
    "id": "81ffec79",
@@ -1111,17 +1122,6 @@
    "category": "gundem",
    "date": "2026-10-07T10:17:00+00:00",
    "url": "/haber/berna-lacin-hakkinda-halki-kin-ve-dusmanliga-tahrik-sorusturmasi-bbed6831/"
-  },
-  {
-   "id": "6ec8fd16",
-   "title": "Markete çıplak giren mühendis müşterilere saldırdı",
-   "summary": "İstanbul'da mühendis olduğu öğrenilen bir kişi, markete çıplak bir şekilde girerek müşterilere saldırdı.",
-   "link": "https://www.ntv.com.tr/turkiye/markete-ciplak-giren-muhendis-musterilere-saldirdi-1745223",
-   "image": "https://images.ntv.com.tr/images/KAGITHANE’DE-CIPLAK-HALDE-MARKETE-GIRIP-_1541307_458741-688427(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-07T09:22:22+00:00",
-   "url": "/haber/markete-ciplak-giren-muhendis-musterilere-saldirdi-6ec8fd16/"
   },
   {
    "id": "b7561d94",
