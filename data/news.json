@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-07T16:01:20.907498+00:00",
+ "updated": "2026-10-07T16:31:14.164804+00:00",
  "items": [
+  {
+   "id": "f803e9ce",
+   "title": "PlayStation Portal OLED geliyor: İlk sertifikasını aldı",
+   "summary": "Sony, yeni PlayStation cihazlarını sertifikalandırdı. CFI-Y2000 ve CFI-Y2105 modelleri, daha önce ortaya atılan OLED ekranlı PlayStation Portal'ı doğruluyor olabilir.",
+   "link": "https://www.donanimhaber.com/playstation-portal-oled-geliyor-ilk-sertifikasini-aldi--211346",
+   "image": "https://www.donanimhaber.com/images/images/haber/211346/1200x675playstation-portal-oled-geliyor-ilk-sertifikasini-aldi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-07T16:21:00+00:00",
+   "url": "/haber/playstation-portal-oled-geliyor-ilk-sertifikasini-aldi-f803e9ce/"
+  },
+  {
+   "id": "d44d6555",
+   "title": "Fatma Betül Sayan Kaya ve eşi İlyas Kaya ifade verdi",
+   "summary": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü fon soruşturmaları kapsamında, Fatma Betül Sayan Kaya ve eşi İlyas Kaya, şüpheli sıfatıyla 7 Ekim'de ifade verdi.",
+   "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b52c/live/6b6dbce0-c242-11f1-b2a8-994b2a5598cb.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-07T16:11:43+00:00",
+   "url": "/haber/fatma-betul-sayan-kaya-ve-esi-ilyas-kaya-ifade-verdi-d44d6555/"
+  },
+  {
+   "id": "0fbc791c",
+   "title": "Çelik Kubbe’nin Tüm Sistemleri Bu Videoda! TEKNOFEST Güneydoğu vLog",
+   "summary": "TEKNOFEST coşkusu bu kez Şanlıurfa’da devam ederken, festival alanının en dikkat çeken ve heyecan uyandıran noktalarından biri ASELSAN standı ile Türkiye’nin gökyüzündeki yeni kalkanı olan Çelik Kubbe oldu. Yalnızca…",
+   "link": "https://shiftdelete.net/celik-kubbenin-tum-sistemleri-bu-videoda-teknofest-guneydogu-vlog",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-07T16:08:45+00:00",
+   "url": "/haber/celik-kubbe-nin-tum-sistemleri-bu-videoda-teknofest-guneydogu-vlog-0fbc791c/"
+  },
+  {
+   "id": "25fe2d80",
+   "title": "İstanbul'da \"Türkiye-Çekya Sürdürülebilir Geri Dönüşüm Forumu\" düzenlendi",
+   "summary": "Türkiye ve Çekya'dan kamu kurumları, yerel yönetimler, iş dünyası ve geri dönüşüm sektörünün temsilcilerini bir araya getiren \"Türkiye-Çekya Sürdürülebilir Geri Dönüşüm Forumu\", İstanbul'da gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-turkiye-cekya-surdurulebilir-geri-donusum-forumu-duzenlendi/4081276",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T16:07:34+00:00",
+   "url": "/haber/istanbul-da-turkiye-cekya-surdurulebilir-geri-donusum-forumu-duzenlend-25fe2d80/"
+  },
+  {
+   "id": "4d9c5659",
+   "title": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay: 'AKP kimsesizlerin kimsesidir'",
+   "summary": "Mutlak butlan kararı sonrası haziran ayında CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay bugün AKP'ye katıldı.",
+   "link": "https://www.bbc.com/turkce/articles/cmlyl2rx4xjvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/12c6/live/5d678f10-c231-11f1-be2f-0fbd447d6e43.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-07T16:05:00+00:00",
+   "url": "/haber/izmir-buyuksehir-belediye-baskani-cemil-tugay-akp-kimsesizlerin-kimses-4d9c5659/"
+  },
   {
    "id": "ac676bfc",
    "title": "Samsung'dan AOD güncellemesi: Can sıkıcı sorun çözüldü",
@@ -77,17 +132,6 @@
    "category": "gundem",
    "date": "2026-10-07T15:36:32+00:00",
    "url": "/haber/borsa-gunu-dususle-tamamladi-7a83d40b/"
-  },
-  {
-   "id": "d44d6555",
-   "title": "Fatma Betül Sayan Kaya ve eşi İlyas Kaya ifadeye çağrıldı",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü fon soruşturmaları kapsamında, Fatma Betül Sayan Kaya ve eşi İlyas Kaya, şüpheli sıfatıyla 7 Ekim'de ifadeye çağırıldı.",
-   "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b52c/live/6b6dbce0-c242-11f1-b2a8-994b2a5598cb.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-07T15:28:23+00:00",
-   "url": "/haber/fatma-betul-sayan-kaya-ve-esi-ilyas-kaya-ifadeye-cagrildi-d44d6555/"
   },
   {
    "id": "e64bf675",
@@ -176,17 +220,6 @@
    "category": "gundem",
    "date": "2026-10-07T14:51:54+00:00",
    "url": "/haber/celik-fon-koordinasyon-kurulu-vatandaslarimizin-haklarinin-korunmasi-i-adf2712e/"
-  },
-  {
-   "id": "4d9c5659",
-   "title": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay: 'AKP kimsesizlerin kimsesidir'",
-   "summary": "Mutlak butlan kararı sonrası haziran ayında CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay bugün AKP'ye katıldı.",
-   "link": "https://www.bbc.com/turkce/articles/cmlyl2rx4xjvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/12c6/live/5d678f10-c231-11f1-be2f-0fbd447d6e43.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-07T14:50:08+00:00",
-   "url": "/haber/izmir-buyuksehir-belediye-baskani-cemil-tugay-akp-kimsesizlerin-kimses-4d9c5659/"
   },
   {
    "id": "d2aa3bc8",
@@ -640,17 +673,6 @@
    "url": "/haber/togg-icin-kapsamli-ota-guncellemesi-cikti-iste-yeni-ozellikler-45add71e/"
   },
   {
-   "id": "7b0dbfd9",
-   "title": "60 saniyede ekonomide bugün (07 Ekim 2026)",
-   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-07-ekim-2026/4081083",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T13:07:47+00:00",
-   "url": "/haber/60-saniyede-ekonomide-bugun-07-ekim-2026-7b0dbfd9/"
-  },
-  {
    "id": "a650e18b",
    "title": "SpaceX Uzay Güvenliği Standartlarını Artırmak İçin Çağrıda Bulunuyor",
    "summary": "SpaceX, alçak Dünya yörüngesindeki kaza risklerini azaltmak için tüm uydu operatörlerini gerçek zamanlı veri paylaşımına ve yeni güvenlik standartlarına davet ediyor.",
@@ -816,15 +838,15 @@
    "url": "/haber/yeni-bmw-f-450-gs-turkiye-de-satisa-sunuldu-c00fe847/"
   },
   {
-   "id": "d69593d3",
-   "title": "Fatma Betül Sayan Kaya ile eşi ifade veriyor",
-   "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında, Fatma Betül Sayan Kaya ile eşi İlyas Kaya adliyede ifade veriyor.",
-   "link": "https://www.trthaber.com/haber/gundem/fatma-betul-sayan-kaya-ile-esi-ifade-veriyor-959423.html",
+   "id": "af4ab5bd",
+   "title": "Fatma Betül Sayan Kaya ile eşinin ifadeleri alındı",
+   "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında, Fatma Betül Sayan Kaya ile eşi İlyas Kaya adliyede ifade verdi.",
+   "link": "https://www.trthaber.com/haber/gundem/fatma-betul-sayan-kaya-ile-esinin-ifadeleri-alindi-959423.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2490000/fatma-betul-sayan-kaya-aa-2491961.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-07T12:20:00+00:00",
-   "url": "/haber/fatma-betul-sayan-kaya-ile-esi-ifade-veriyor-d69593d3/"
+   "url": "/haber/fatma-betul-sayan-kaya-ile-esinin-ifadeleri-alindi-af4ab5bd/"
   },
   {
    "id": "a9f34381",
@@ -847,17 +869,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T12:00:01+00:00",
    "url": "/haber/hyundai-nin-yeni-elektrikli-suv-modeli-goruntulendi-yeni-ioniq-mi-geli-840c5764/"
-  },
-  {
-   "id": "7732afd8",
-   "title": "GTA 6 PC'ye çıkış yapmadan oynanabilecek mi? Xbox'tan yanıt geldi",
-   "summary": "GTA 6'nın Xbox üzerinden bulutla PC'ye gelebileceği yönünde birçok iddia paylaşıldı. Ancak Xbox yöneticisi Matthew Ball'dan konu hakkında net cevap geldi. Peki GTA 6 PC'ye bulut üzerinden gelecek mi?",
-   "link": "https://www.donanimhaber.com/gta-6-pc-ye-bulut-uzerinden-gelecek-mi-xbox-tan-yanit-geldi--211331",
-   "image": "https://www.donanimhaber.com/images/images/haber/211331/1200x675gta-6-pc-ye-bulut-uzerinden-gelecek-mi-xbox-tan-yanit-geldi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-07T11:56:00+00:00",
-   "url": "/haber/gta-6-pc-ye-cikis-yapmadan-oynanabilecek-mi-xbox-tan-yanit-geldi-7732afd8/"
   },
   {
    "id": "760a3c62",
@@ -1100,17 +1111,6 @@
    "category": "gundem",
    "date": "2026-10-07T08:32:30+00:00",
    "url": "/haber/900-gram-50-lira-denizden-fiskirdi-tezgah-onunde-kuyruk-oldu-yirmiser-52d03eb9/"
-  },
-  {
-   "id": "d7657865",
-   "title": "Emmy Ödülleri 2027’den İtibaren Prime Video’da Yayınlanacak",
-   "summary": "Emmy Ödülleri Prime Video platformuna taşınıyor. 2027 yılından itibaren başlayacak altı yıllık anlaşmanın detayları belli oldu.",
-   "link": "https://shiftdelete.net/emmy-odulleri-prime-video-yayin-haklari",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-07T08:30:51+00:00",
-   "url": "/haber/emmy-odulleri-2027-den-itibaren-prime-video-da-yayinlanacak-d7657865/"
   },
   {
    "id": "a8e08558",
