@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T22:01:19.776829+00:00",
+ "updated": "2026-10-07T22:31:11.321465+00:00",
  "items": [
   {
    "id": "b5da0e3d",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-07T22:00:00+00:00",
+   "date": "2026-10-07T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b5da0e3d/"
+  },
+  {
+   "id": "06f97b93",
+   "title": "Togg T10X'lere yeni TruOS güncellemesi geldi: İşte tüm yenilikler!",
+   "summary": "Togg T10X için yeni TruOS 2.1.3 güncellemesini yayınladı. Bilgi-eğlence sistemi, yüz tanıma, kamera, navigasyon ve sürüş özelliklerinde önemli iyileştirmeler geliyor.",
+   "link": "https://www.donanimhaber.com/togg-t10x-lere-yeni-truos-guncellemesi-geldi-iste-yenilikler--211355",
+   "image": "https://www.donanimhaber.com/images/images/haber/211355/1200x675togg-t10x-lere-yeni-truos-guncellemesi-geldi-iste-yenilikler.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-07T22:16:23+00:00",
+   "url": "/haber/togg-t10x-lere-yeni-truos-guncellemesi-geldi-iste-tum-yenilikler-06f97b93/"
+  },
+  {
+   "id": "44ed35e2",
+   "title": "İran, ABD'nin müzakerelerde sunduğu önerilere yanıtını arabulucular üzerinden iletecek",
+   "summary": "İran, ABD'nin müzakerelerde sunduğu önerilere ilişkin yanıtını arabulucular aracılığıyla ileteceğini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-abdnin-muzakerelerde-sundugu-onerilere-yanitini-arabulucular-uzerinden-iletecek/4081589",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T22:04:37+00:00",
+   "url": "/haber/iran-abd-nin-muzakerelerde-sundugu-onerilere-yanitini-arabulucular-uze-44ed35e2/"
+  },
+  {
+   "id": "d44d6555",
+   "title": "Fatma Betül Sayan Kaya ve eşi İlyas Kaya ifade verdi: 'Özel bilgi ve yönlendirme almadık'",
+   "summary": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü fon soruşturmaları kapsamında, Fatma Betül Sayan Kaya ve eşi İlyas Kaya, şüpheli sıfatıyla 7 Ekim'de ifade verdi.",
+   "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b52c/live/6b6dbce0-c242-11f1-b2a8-994b2a5598cb.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-07T22:02:14+00:00",
+   "url": "/haber/fatma-betul-sayan-kaya-ve-esi-ilyas-kaya-ifade-verdi-ozel-bilgi-ve-yon-d44d6555/"
   },
   {
    "id": "acfb1f78",
@@ -277,17 +310,6 @@
    "url": "/haber/ukrayna-devlet-baskani-zelenskiy-rusya-nin-saldirilarinda-25-kisinin-o-7e3026f5/"
   },
   {
-   "id": "5904fd38",
-   "title": "Kültür ve Turizm Bakanlığı Devlet Çoksesli Korosu Şefi Erdem, IFCM başkanı oldu",
-   "summary": "Kültür ve Turizm Bakanlığı Devlet Çoksesli Korosu Şefi Burak Onur Erdem, Uluslararası Koro Müziği Federasyonu (IFCM) Başkanlığına seçildi.",
-   "link": "https://www.aa.com.tr/tr/kultur/kultur-ve-turizm-bakanligi-devlet-coksesli-korosu-sefi-erdem-ifcm-baskani-oldu/4081471",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T19:42:22+00:00",
-   "url": "/haber/kultur-ve-turizm-bakanligi-devlet-coksesli-korosu-sefi-erdem-ifcm-bask-5904fd38/"
-  },
-  {
    "id": "fcbd19b5",
    "title": "İstanbul'da \"Filistin Dayanışma Günleri\" etkinlikleri düzenleniyor",
    "summary": "Üsküdar'da, Filistin halkıyla dayanışmayı büyütmek amacıyla ülke genelinde başlatılan \"Filistin Dayanışma Günleri\" kapsamında çeşitli etkinlikler gerçekleştiriliyor.",
@@ -464,17 +486,6 @@
    "url": "/haber/oyuncu-berna-lacin-izmir-paylasimi-nedeniyle-gozaltina-alindi-ba80aca8/"
   },
   {
-   "id": "06f97b93",
-   "title": "Togg T10X'lere yeni TruOS güncellemesi geldi: İşte tüm yenilikler!",
-   "summary": "Togg T10X için yeni TruOS 1.7.2 güncellemesini yayınladı. Bilgi-eğlence sistemi, yüz tanıma, kamera, navigasyon ve sürüş özelliklerinde önemli iyileştirmeler geliyor.",
-   "link": "https://www.donanimhaber.com/togg-t10x-lere-yeni-truos-guncellemesi-geldi-iste-yenilikler--211355",
-   "image": "https://www.donanimhaber.com/images/images/haber/211355/1200x675togg-t10x-lere-yeni-truos-guncellemesi-geldi-iste-yenilikler.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-07T17:46:00+00:00",
-   "url": "/haber/togg-t10x-lere-yeni-truos-guncellemesi-geldi-iste-tum-yenilikler-06f97b93/"
-  },
-  {
    "id": "b316e1bb",
    "title": "Yeni MacBook Pro Yolda: Büyük Tasarım Değişikliği",
    "summary": "Apple, yeni MacBook Pro modellerinde OLED ekran, dokunmatik özellikler ve Dynamic Island ile büyük bir güncellemeye hazırlanıyor.",
@@ -484,17 +495,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T17:30:53+00:00",
    "url": "/haber/yeni-macbook-pro-yolda-buyuk-tasarim-degisikligi-b316e1bb/"
-  },
-  {
-   "id": "d44d6555",
-   "title": "Fatma Betül Sayan Kaya ve eşi İlyas Kaya ifade verdi: 'Özel bilgi ve yönlendirme almadık'",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü fon soruşturmaları kapsamında, Fatma Betül Sayan Kaya ve eşi İlyas Kaya, şüpheli sıfatıyla 7 Ekim'de ifade verdi.",
-   "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b52c/live/6b6dbce0-c242-11f1-b2a8-994b2a5598cb.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-07T17:27:18+00:00",
-   "url": "/haber/fatma-betul-sayan-kaya-ve-esi-ilyas-kaya-ifade-verdi-ozel-bilgi-ve-yon-d44d6555/"
   },
   {
    "id": "dbf26c39",
