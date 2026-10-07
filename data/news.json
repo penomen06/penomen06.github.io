@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T23:01:21.817590+00:00",
+ "updated": "2026-10-07T23:31:13.163030+00:00",
  "items": [
   {
    "id": "b5da0e3d",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-07T23:00:00+00:00",
+   "date": "2026-10-07T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b5da0e3d/"
+  },
+  {
+   "id": "6557e328",
+   "title": "İçişleri Bakan Yardımcısı Turan: AK Parti'yi AK Parti yapan garibana sahip çıkma iradesidir",
+   "summary": "İçişleri Bakan Yardımcısı Bülent Turan, \"AK Parti'yi AK Parti yapan 86 yıldan beri açılmayan Ayasofya'yı açma, garibana sahip çıkma iradesidir. Her türlü mazlumun yanında olma iddiasıdır.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakan-yardimcisi-turan-ak-partiyi-ak-parti-yapan-garibana-sahip-cikma-iradesidir/4081600",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T22:58:51+00:00",
+   "url": "/haber/icisleri-bakan-yardimcisi-turan-ak-parti-yi-ak-parti-yapan-garibana-sa-6557e328/"
   },
   {
    "id": "6818aa68",
@@ -275,17 +286,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T20:04:00+00:00",
    "url": "/haber/japonya-batarya-projelerinde-frene-basti-arazisi-olmayan-sebekeye-bagl-9f622aa8/"
-  },
-  {
-   "id": "094c33bf",
-   "title": "Sanayi ve Teknoloji Bakanı Kacır: Küresel imalat sanayi katma değerindeki payımızı iki katına çıkardık",
-   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Küresel imalat sanayi katma değerindeki payımızı iki katına çıkardık.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/sanayi-ve-teknoloji-bakani-kacir-kuresel-imalat-sanayi-katma-degerindeki-payimizi-iki-katina-cikardik/4081495",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T20:02:48+00:00",
-   "url": "/haber/sanayi-ve-teknoloji-bakani-kacir-kuresel-imalat-sanayi-katma-degerinde-094c33bf/"
   },
   {
    "id": "1d0e6042",
