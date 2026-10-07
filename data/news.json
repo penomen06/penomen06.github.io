@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-07T18:01:23.180345+00:00",
+ "updated": "2026-10-07T18:31:09.659486+00:00",
  "items": [
+  {
+   "id": "ae81168c",
+   "title": "İlginç İddia: iPhone 18 Pro ve iPhone Duo 16GB RAM’le Gelecekti",
+   "summary": "Apple'ın iPhone 18 Pro RAM kapasitesi için başlangıçta 16GB planladığı iddia ediliyor. İşte yeni iPhone modelleri ve bellek detayları.",
+   "link": "https://shiftdelete.net/iphone-18-pro-ve-duo-ram-plani",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-07T18:30:09+00:00",
+   "url": "/haber/ilginc-iddia-iphone-18-pro-ve-iphone-duo-16gb-ram-le-gelecekti-ae81168c/"
+  },
+  {
+   "id": "81ffec79",
+   "title": "Intel İşlemcili Surface Laptop 15 Yine Öne Geçti",
+   "summary": "Microsoft’un Windows ekosisteminde ARM mimarisine geçiş ısrarı sürerken, yeni nesil test sonuçları dengeleri bir kez daha x86 lehine çeviriyor. Şirketin kurumsal müşteriler için satışa sunduğu Intel Panther Lake…",
+   "link": "https://shiftdelete.net/intel-islemcili-surface-laptop-15-yine-one-gecti",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-07T18:22:14+00:00",
+   "url": "/haber/intel-islemcili-surface-laptop-15-yine-one-gecti-81ffec79/"
+  },
+  {
+   "id": "7cfb42e1",
+   "title": "Nvidia RTX Spark İşlemcili Microsoft Surface Laptop Ultra Tanıtıldı",
+   "summary": "Microsoft, üst düzey profesyonelleri ve içerik üreticilerini hedefleyen yeni amiral gemisi taşınabilir bilgisayarı Surface Laptop Ultra’yı resmi olarak duyurdu. Nvidia’nın Arm tabanlı yeni nesil RTX Spark N1X işlemci…",
+   "link": "https://shiftdelete.net/nvidia-rtx-spark-islemcili-microsoft-surface-laptop-ultra-tanitildi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-07T18:19:38+00:00",
+   "url": "/haber/nvidia-rtx-spark-islemcili-microsoft-surface-laptop-ultra-tanitildi-7cfb42e1/"
+  },
+  {
+   "id": "564e1c78",
+   "title": "Microsoft’tan Windows ve Surface Hamlesi: Otonom Yapay Zeka Dönemi Başlıyor",
+   "summary": "Microsoft, San Francisco’da gerçekleştirdiği son Windows ve Surface etkinliğinde işletim sisteminin ve donanım ekosisteminin geleceğine dair kritik duyurular yaptı. Şirket CEO’su Satya Nadella, Windows ve Cihazlar…",
+   "link": "https://shiftdelete.net/microsofttan-windows-ve-surface-hamlesi-otonom-yapay-zeka-donemi-basliyor",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-07T18:16:40+00:00",
+   "url": "/haber/microsoft-tan-windows-ve-surface-hamlesi-otonom-yapay-zeka-donemi-basl-564e1c78/"
+  },
+  {
+   "id": "fa7d82bf",
+   "title": "Suudi Arabistan: Abha ve Riyad'daki havalimanlarını hedef alan saldırılarda 3 kişi hayatını kaybetti",
+   "summary": "Suudi Arabistan, Abha ve Riyad'daki havalimanlarını hedef alan saldırılarda 3 kişinin hayatını kaybettiğini ve 36 kişinin yaralandığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-abha-ve-riyaddaki-havalimanlarini-hedef-alan-saldirilarda-3-kisi-hayatini-kaybetti/4081372",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T18:08:08+00:00",
+   "url": "/haber/suudi-arabistan-abha-ve-riyad-daki-havalimanlarini-hedef-alan-saldiril-fa7d82bf/"
+  },
+  {
+   "id": "71e62d71",
+   "title": "Aynı ağırlıkta daha fazla enerji depolayan batarya: Üretimi de daha ucuz",
+   "summary": "Fraunhofer ISE, aynı ağırlıkta yüzde 15’e kadar daha fazla enerji depolayan yeni batarya tasarımı geliştirdi. Yeni tasarım lityum, sodyum ve çinko iyon hücrelerde test edildi.",
+   "link": "https://www.donanimhaber.com/ayni-agirlikta-daha-fazla-enerji-depolayan-batarya--211357",
+   "image": "https://www.donanimhaber.com/images/images/haber/211357/1200x675ayni-agirlikta-daha-fazla-enerji-depolayan-batarya.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-07T18:08:00+00:00",
+   "url": "/haber/ayni-agirlikta-daha-fazla-enerji-depolayan-batarya-uretimi-de-daha-ucu-71e62d71/"
+  },
+  {
+   "id": "edbb11f1",
+   "title": "Türkiye'deki 9 üniversitede \"Yedi Bölge Tek Ses: Filistin Sözlüğü\" programları düzenlendi",
+   "summary": "Filistin Akademik Düşünce Platformu, Türkiye'nin 7 bölgesindeki 9 üniversitede \"Yedi Bölge Tek Ses: Filistin Sözlüğü\" programı düzenledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyedeki-9-universitede-yedi-bolge-tek-ses-filistin-sozlugu-programlari-duzenlendi/4081366",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T18:03:45+00:00",
+   "url": "/haber/turkiye-deki-9-universitede-yedi-bolge-tek-ses-filistin-sozlugu-progra-edbb11f1/"
+  },
   {
    "id": "06bc10f4",
    "title": "Türkiye'nin Üsküp Büyükelçisi Aktaş, Kuzey Makedonya Cumhurbaşkanı Davkova’ya güven mektubunu sundu",
@@ -275,28 +352,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T16:00:00+00:00",
    "url": "/haber/samsung-dan-aod-guncellemesi-can-sikici-sorun-cozuldu-ac676bfc/"
-  },
-  {
-   "id": "560a772b",
-   "title": "İran'a yönelik saldırılarda ABD'nin en az 81 hava aracı kayboldu veya hasar gördü",
-   "summary": "ABD Kongresi tarafından yapılan araştırmada, şubat ayının sonundan bu yana İran'a yönelik saldırılarda ABD ordusuna ait en az 81 hava aracı kayboldu veya hasar gördü.",
-   "link": "https://www.aa.com.tr/tr/dunya/irana-yonelik-saldirilarda-abdnin-en-az-81-hava-araci-kayboldu-veya-hasar-gordu/4081261",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T15:50:50+00:00",
-   "url": "/haber/iran-a-yonelik-saldirilarda-abd-nin-en-az-81-hava-araci-kayboldu-veya-560a772b/"
-  },
-  {
-   "id": "ad485972",
-   "title": "IEA üyeleri stratejik petrol rezervlerinin piyasaya sürülmesini hızlandıracak",
-   "summary": "Uluslararası Enerji Ajansı (IEA) üyesi ülkeler, Hürmüz Boğazı krizinin enerji piyasaları üzerindeki etkilerinin devam etmesi nedeniyle stratejik petrol rezervlerinin piyasaya sürülmesini hızlandıracak.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/iea-uyeleri-stratejik-petrol-rezervlerinin-piyasaya-surulmesini-hizlandiracak/4081259",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T15:49:24+00:00",
-   "url": "/haber/iea-uyeleri-stratejik-petrol-rezervlerinin-piyasaya-surulmesini-hizlan-ad485972/"
   },
   {
    "id": "40711dbc",
@@ -695,17 +750,6 @@
    "url": "/haber/tasfiye-edilen-fonlardaki-yatirimcilara-odemeler-nasil-yapilacak-e7a39b04/"
   },
   {
-   "id": "78b23040",
-   "title": "HBO Max ve Paramount+ zamanla birleşerek tek bir platform olacak",
-   "summary": "Warner Bros.'u satın alarak HBO Max'in de yeni sahibi hâline gelen Paramount, platforma dair planlarını resmi olarak paylaştı. İki platformu paket hâlinde sunmak sadece kısa vadeli bir çözüm olacak.",
-   "link": "https://www.donanimhaber.com/hbo-max-ve-paramount-zamanla-birlesecek--211336",
-   "image": "https://www.donanimhaber.com/images/images/haber/211336/1200x675hbo-max-ve-paramount-zamanla-birlesecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-07T13:22:00+00:00",
-   "url": "/haber/hbo-max-ve-paramount-zamanla-birleserek-tek-bir-platform-olacak-78b23040/"
-  },
-  {
    "id": "4e29de64",
    "title": "Fon tasfiye rehberi netleşti",
    "summary": "455 bin kişiyi ilgilendiren fon tasfiyesinde ödeme takvimi ve ödeme yöntemi netleşti. Hangi fonların öncelikle tasfiye edileceği içeren ayrıntılı ödeme rehberi oluşturuldu.",
@@ -937,17 +981,6 @@
    "url": "/haber/cumhurbaskani-erdogan-putin-ile-gorustu-f2285e31/"
   },
   {
-   "id": "a28222e9",
-   "title": "Trump Mobile Abonelerinin Verileri Sızdı",
-   "summary": "Trump Mobile abonelerine ait 3.615 kişinin verileri bilgisayar korsanları tarafından ele geçirildi. Güvenlik ihlali ve sızıntının detayları haberimizde.",
-   "link": "https://shiftdelete.net/trump-mobile-abonelerinin-verileri-sizdi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-07T11:39:37+00:00",
-   "url": "/haber/trump-mobile-abonelerinin-verileri-sizdi-a28222e9/"
-  },
-  {
    "id": "33d06985",
    "title": "Cumhurbaşkanı Erdoğan, Putin ile görüştü",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Rusya Devlet Başkanı Vladimir Putin ile telefonda görüştü.",
@@ -1003,17 +1036,6 @@
    "url": "/haber/sehit-polis-turkoglu-icin-toren-duzenlendi-fa52da1e/"
   },
   {
-   "id": "41c48dc7",
-   "title": "Android Auto için Minimum Android Sürümü Belirlendi",
-   "summary": "Android Auto kullanmak için gereken minimum Android sürümü güncellendi. Desteklenen sürümleri öğrenin ve telefonunuzun uyumluluğunu nasıl kontrol edeceğinizi keşfedin.",
-   "link": "https://shiftdelete.net/android-auto-icin-minimum-android-surumu-belirlendi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-07T10:30:52+00:00",
-   "url": "/haber/android-auto-icin-minimum-android-surumu-belirlendi-41c48dc7/"
-  },
-  {
    "id": "bbed6831",
    "title": "Berna Laçin hakkında halkı kin ve düşmanlığa tahrik soruşturması",
    "summary": "Ankara Cumhuriyet Başsavcılığı, sosyal medya hesabından yaptığı paylaşım nedeniyle Berna Laçin hakkında soruşturma başlattı.",
@@ -1025,17 +1047,6 @@
    "url": "/haber/berna-lacin-hakkinda-halki-kin-ve-dusmanliga-tahrik-sorusturmasi-bbed6831/"
   },
   {
-   "id": "5b1c36e2",
-   "title": "iPod Özleyenlere Müjde: Seneye Geliyor",
-   "summary": "2027 yılında piyasaya sürülmesi planlanan iPod benzeri müzik çalar Sudo, 250 dolarlık fiyatı ve clickwheel tasarımıyla dikkat çekiyor.",
-   "link": "https://shiftdelete.net/sudo-ipod-benzeri-muzik-calar-2027",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-07T10:00:54+00:00",
-   "url": "/haber/ipod-ozleyenlere-mujde-seneye-geliyor-5b1c36e2/"
-  },
-  {
    "id": "bf73ff99",
    "title": "TBMM Başkanvekilliği'nden istifa etmişti. Bekir Bozdağ'ın yerine gelen isim belli oldu",
    "summary": "Sağlık sorunları nedeniyle görevinden istifa eden yerine Bekir Bozdağ'ın yerine Meclis Başkanvekilliği görevini AK Parti Tokat Milletvekili Yusuf Beyazıt devralacak.",
@@ -1045,17 +1056,6 @@
    "category": "gundem",
    "date": "2026-10-07T09:31:21+00:00",
    "url": "/haber/tbmm-baskanvekilligi-nden-istifa-etmisti-bekir-bozdag-in-yerine-gelen-bf73ff99/"
-  },
-  {
-   "id": "4a9b30bb",
-   "title": "Galaxy S25 FE’ye AirDrop Desteği Geldi: iPhone ile Dosya Paylaşabileceksiniz",
-   "summary": "Samsung Galaxy S25 FE, One UI 9.0 güncellemesi ile iPhone cihazlarla Quick Share üzerinden dosya paylaşım desteğine kavuştu.",
-   "link": "https://shiftdelete.net/samsung-galaxy-s25-fe-quick-share-airdrop-destegi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-07T09:30:55+00:00",
-   "url": "/haber/galaxy-s25-fe-ye-airdrop-destegi-geldi-iphone-ile-dosya-paylasabilecek-4a9b30bb/"
   },
   {
    "id": "67bcc869",
