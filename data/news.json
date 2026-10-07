@@ -1,6 +1,160 @@
 {
- "updated": "2026-10-07T14:01:27.226949+00:00",
+ "updated": "2026-10-07T14:31:21.685993+00:00",
  "items": [
+  {
+   "id": "887de7a4",
+   "title": "Galaxy S25 FE'ye AirDrop ile paylaşım özelliği geldi",
+   "summary": "Samsung, kararlı One UI 9 güncellemesiyle birlikte Galaxy S25 FE modeline Quick Share üzerinden Apple cihazlarıyla dosya paylaşma \"AirDrop\" desteğini ekledi.",
+   "link": "https://www.donanimhaber.com/samsung-galaxy-s25-fe-ye-airdrop-destegi-geldi--211347",
+   "image": "https://www.donanimhaber.com/images/images/haber/211347/1200x675samsung-galaxy-s25-fe-ye-airdrop-destegi-geldi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-07T14:30:00+00:00",
+   "url": "/haber/galaxy-s25-fe-ye-airdrop-ile-paylasim-ozelligi-geldi-887de7a4/"
+  },
+  {
+   "id": "e40b237a",
+   "title": "Meta’nın Muse’u artık iPad’de de kullanılabiliyor",
+   "summary": "Meta, geçtiğimiz ay tanıttığı kişisel yapay zeka asistanı Muse’u iPhone’lar sonrasında iPad’lere de getirdi. Android sürümü ve macOS uygulaması da bulunan Muse, en temel haliyle verilen görevleri 7/24 çalışarak yerine…",
+   "link": "https://www.log.com.tr/metanin-museu-artik-ipadde-de-kullanilabiliyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-07_17-27-22_XlyiX-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-07T14:28:27+00:00",
+   "url": "/haber/meta-nin-muse-u-artik-ipad-de-de-kullanilabiliyor-e40b237a/"
+  },
+  {
+   "id": "9af984e9",
+   "title": "Ring, batarya bitme endişesini ortadan kaldıran yeni akıllı kilidini tanıttı",
+   "summary": "Amazon’un bugün resmi olarak tanıttığı yeni akıllı kilit modeli Ring Smart Lock, bataryanın bitmesi endişesini gövdesindeki döndürülebilir buton sayesinde ortadan kaldırıyor. Butonun birkaç tur döndürülmesiyle kilidi…",
+   "link": "https://www.log.com.tr/ring-batarya-bitme-endisesini-ortadan-kaldiran-yeni-akilli-kilidini-tanitti/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-07_17-22-59_yw8bY-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-07T14:24:23+00:00",
+   "url": "/haber/ring-batarya-bitme-endisesini-ortadan-kaldiran-yeni-akilli-kilidini-ta-9af984e9/"
+  },
+  {
+   "id": "18aef2f1",
+   "title": "GTA 6'ya Dair Onlarca Yeni Detay Ortaya Çıktı (Aklınızı Kaybedeceksiniz)",
+   "summary": "IGN'in Rockstar North'tan Rob Nelson ile gerçekleştirdiği röportajın yayınlanmasıyla GTA 6'ya dair onlarca yeni detay ortaya çıktı.",
+   "link": "https://www.webtekno.com/gta-6-onlarca-yeni-detay-ortaya-cikti-h226577.html",
+   "image": "https://imgrosetta.webtekno.com/file/691249/691249-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-07T14:20:57+00:00",
+   "url": "/haber/gta-6-ya-dair-onlarca-yeni-detay-ortaya-cikti-aklinizi-kaybedeceksiniz-18aef2f1/"
+  },
+  {
+   "id": "18d64177",
+   "title": "Google, yapay zeka üretimi görseller, videolar ve ses kliplerinin tespit edilmesine yönelik geliştirdiği SynthID Detector’ü kullanıma sundu",
+   "summary": "SynthID Detector adı verilen internet sitesi, Google, OpenAI, Nvidia ve Kakao’nun yapay zeka araçlarıyla oluşturulan görsel, video ve ses kliplerinin tespit edilmesine imkan tanıyor. DeepMind’ın geliştirdiği dijital…",
+   "link": "https://www.log.com.tr/google-yapay-zeka-uretimi-gorseller-videolar-ve-ses-kliplerinin-tespit-edilmesine-yonelik-gelistirdigi-synthid-detectoru-kullanima-sundu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-07_17-07-37_csrPE-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-07T14:14:55+00:00",
+   "url": "/haber/google-yapay-zeka-uretimi-gorseller-videolar-ve-ses-kliplerinin-tespit-18d64177/"
+  },
+  {
+   "id": "e94fd013",
+   "title": "Sony PlayStation Portal OLED Modeli Geliyor",
+   "summary": "Sony, yeni PlayStation Portal modelini hazırlıyor. CFI-Y2000 ve CFI-Y2105 kodlu cihazların OLED ekran ve Android 15 ile gelmesi bekleniyor.",
+   "link": "https://shiftdelete.net/sony-playstation-portal-oled-modeli-geliyor",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-07T14:11:47+00:00",
+   "url": "/haber/sony-playstation-portal-oled-modeli-geliyor-e94fd013/"
+  },
+  {
+   "id": "b1af2f6f",
+   "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan: Toplumumuzun kendine has dinamikleri var",
+   "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, \"Bizim toplumumuzun kendine has dinamikleri var. Yeter ki bu dinamikleri yeniden açığa çıkarabilelim, kendi kültürel milli özelliklerimizi açığa…",
+   "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-toplumumuzun-kendine-has-dinamikleri-var/4081157",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T14:09:26+00:00",
+   "url": "/haber/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-toplumumuzun-kendine-b1af2f6f/"
+  },
+  {
+   "id": "583589d7",
+   "title": "1 Milyon TL'ye Kadar Alınabilecek Sorunsuz 2. El Otomatik Otomobiller",
+   "summary": "1 milyon TL'ye kadar alınabilecek sorunsuz ikinci el otomatik otomobilleri inceledik. Listemizde Corsa, Honda Jazz gibi pek çok seçenek yer alıyor.",
+   "link": "https://www.webtekno.com/1-milyon-tl-sorunsuz-otomatik-vites-2-el-otomobiller-h226490.html",
+   "image": "https://imgrosetta.webtekno.com/file/690976/690976-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-07T14:09:19+00:00",
+   "url": "/haber/1-milyon-tl-ye-kadar-alinabilecek-sorunsuz-2-el-otomatik-otomobiller-583589d7/"
+  },
+  {
+   "id": "f3340b87",
+   "title": "Galaxy S27 Ultra'nın Fiyatı İçin Kritik Karar: Samsung, Snapdragon'dan Vazgeçebilir!",
+   "summary": "Samsung, Galaxy S27 serisi için Exynos 2700 üretimine başlasa da Galaxy S27 Ultra'nın işlemcisi, maliyet nedeniyle belirsizliğini koruyor.",
+   "link": "https://www.webtekno.com/galaxy-s27-ultra-fiyati-icin-kritik-karar-h226576.html",
+   "image": "https://imgrosetta.webtekno.com/file/691210/691210-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-07T14:07:55+00:00",
+   "url": "/haber/galaxy-s27-ultra-nin-fiyati-icin-kritik-karar-samsung-snapdragon-dan-v-f3340b87/"
+  },
+  {
+   "id": "d12ea6c4",
+   "title": "Karakter Tutarlılığı ve Uygun Fiyat Bir Arada: Google Nano Banana 2.1 Neler Sunuyor?",
+   "summary": "Google, Nano Banana 2.1 ile 4K görüntü üretimini yarı fiyatına çekti. Yeni yapay zekâ modeli, karakter tutarlılığı ve maske tabanlı düzenleme tarafında da yenilik getiriyor.",
+   "link": "https://www.webtekno.com/google-nano-banana-2-1-karakter-tutarliligi-uygun-fiyat-h226574.html",
+   "image": "https://imgrosetta.webtekno.com/file/691234/691234-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-07T14:07:42+00:00",
+   "url": "/haber/karakter-tutarliligi-ve-uygun-fiyat-bir-arada-google-nano-banana-2-1-n-d12ea6c4/"
+  },
+  {
+   "id": "10ca51fa",
+   "title": "Fransa'da öğrenci protestoları: Ses bombası kullanımı durduruldu",
+   "summary": "Fransa, bu hafta başında 15 yaşındaki bir çocuğun elinin koptuğu olayın ardından, ülkeyi saran öğrenci protestolarına müdahalede ses bombası kullanımını durdurdu.",
+   "link": "https://www.bbc.com/turkce/articles/cmy830w77vyeo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1405/live/7a1aaaa0-c256-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-07T14:06:19+00:00",
+   "url": "/haber/fransa-da-ogrenci-protestolari-ses-bombasi-kullanimi-durduruldu-10ca51fa/"
+  },
+  {
+   "id": "376ab8e2",
+   "title": "ALES başvuruları başladı",
+   "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığınca düzenlenen Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı (2026-ALES/3) başvuruları başladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ales-basvurulari-basladi/4081152",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T14:06:09+00:00",
+   "url": "/haber/ales-basvurulari-basladi-376ab8e2/"
+  },
+  {
+   "id": "152abc1f",
+   "title": "Fransa’nın en büyük pili çevrimiçi oldu: 100 bin kişiye elektrik verecek",
+   "summary": "Fransa’nın en büyük bataryası hizmete girdi. Tesis, şebekeyi dengeleyecek ve Marne bölgesindeki konutların elektrik ihtiyacının yaklaşık yüzde 20’sini depolayabilecek.",
+   "link": "https://www.donanimhaber.com/fransa-nin-en-buyuk-pili-cevrimici-oldu--211343",
+   "image": "https://www.donanimhaber.com/images/images/haber/211343/1200x675fransa-nin-en-buyuk-pili-cevrimici-oldu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-07T14:06:00+00:00",
+   "url": "/haber/fransa-nin-en-buyuk-pili-cevrimici-oldu-100-bin-kisiye-elektrik-verece-152abc1f/"
+  },
+  {
+   "id": "95b52873",
+   "title": "AnTuTu Eylül 2026 En Güçlü Android Cihazları Açıkladı: Zirve Değişmedi",
+   "summary": "Popüler kıyaslama platformu AnTuTu, Eylül 2026 dönemine ait en yüksek performans sergileyen Android akıllı telefon ve tablet modellerini paylaştı. Amiral gemisi akıllı telefon kategorisinde REDMAGIC 11S Pro+ liderliğini…",
+   "link": "https://shiftdelete.net/antutu-eylul-2026-en-guclu-android-cihazlari-acikladi-zirve-degismedi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-07T14:05:13+00:00",
+   "url": "/haber/antutu-eylul-2026-en-guclu-android-cihazlari-acikladi-zirve-degismedi-95b52873/"
+  },
   {
    "id": "78fff0df",
    "title": "Razer Wolverine V4 Kontrolcü Serisini Tanıttı",
@@ -255,17 +409,6 @@
    "url": "/haber/putin-iran-ve-abd-arasindaki-diplomatik-surecte-rol-almaya-hazir-olduk-6a2e6513/"
   },
   {
-   "id": "1615eb16",
-   "title": "Filistin'e Destek Platformu Gazze'deki soykırımın bilançosunu açıkladı",
-   "summary": "Filistin'e Destek Platformunca hazırlanan \"3 Yıl: Soykırım-İnsani, Ekonomik ve Kurumsal Etkilerin Kapsamlı Bilançosu\" başlıklı rapor, Gazze'de 3 yılı aşan işgal ve soykırımın etkilerini ortaya koydu.",
-   "link": "https://www.aa.com.tr/tr/gundem/filistine-destek-platformu-gazzedeki-soykirimin-bilancosunu-acikladi/4081092",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T13:16:51+00:00",
-   "url": "/haber/filistin-e-destek-platformu-gazze-deki-soykirimin-bilancosunu-acikladi-1615eb16/"
-  },
-  {
    "id": "4e29de64",
    "title": "Fon tasfiye rehberi netleşti",
    "summary": "455 bin kişiyi ilgilendiren fon tasfiyesinde ödeme takvimi ve ödeme yöntemi netleşti. Hangi fonların öncelikle tasfiye edileceği içeren ayrıntılı ödeme rehberi oluşturuldu.",
@@ -299,17 +442,6 @@
    "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-17-fonda-odeme-yarin-basliyor-1d5b70f2/"
   },
   {
-   "id": "cc86d8b1",
-   "title": "Terör örgütü PKK üyesi olmakla suçlanan belediye başkan yardımcılarının yargılandığı davada karar",
-   "summary": "Terör örgütü PKK/KCK'nın yönetiminde belediyelere örgüt mensuplarının yerleştirildiği iddiasıyla Kartal ve Ataşehir belediye başkan yardımcılarının da aralarında bulunduğu 10 sanığın yargılandığı davada, karar açıklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/teror-orgutu-pkk-uyesi-olmakla-suclanan-belediye-baskan-yardimcilarinin-yargilandigi-davada-karar/4081089",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T13:13:32+00:00",
-   "url": "/haber/teror-orgutu-pkk-uyesi-olmakla-suclanan-belediye-baskan-yardimcilarini-cc86d8b1/"
-  },
-  {
    "id": "45add71e",
    "title": "Togg için Kapsamlı OTA Güncellemesi Çıktı: İşte Yeni Özellikler",
    "summary": "Togg, akıllı cihaz modelleri için kapsamlı bir kablosuz yazılım (OTA) güncellemesi yayınladı. Yeni paketle birlikte T10X ve T10F kullanıcılarının deneyimini doğrudan etkileyen şarj süreçlerinden bilgi-eğlence ekranına,…",
@@ -330,6 +462,28 @@
    "category": "gundem",
    "date": "2026-10-07T13:10:59+00:00",
    "url": "/haber/gastroantep-kultur-yolu-festivali-kapsaminda-zeugma-mozaik-muzesi-nde-f1adbb5d/"
+  },
+  {
+   "id": "7b0dbfd9",
+   "title": "60 saniyede ekonomide bugün (07 Ekim 2026)",
+   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-07-ekim-2026/4081083",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T13:07:47+00:00",
+   "url": "/haber/60-saniyede-ekonomide-bugun-07-ekim-2026-7b0dbfd9/"
+  },
+  {
+   "id": "d5553bf0",
+   "title": "60 saniyede bugün (07 Ekim 2026)",
+   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-07-ekim-2026/4081079",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T13:06:04+00:00",
+   "url": "/haber/60-saniyede-bugun-07-ekim-2026-d5553bf0/"
   },
   {
    "id": "58a1747c",
@@ -519,6 +673,17 @@
    "url": "/haber/forza-horizon-6-playstation-5-e-2027-nin-basinda-cikacak-3fa96307/"
   },
   {
+   "id": "2c5eaa56",
+   "title": "Almanya katil İsrail'i neden koşulsuz destekliyor?",
+   "summary": "Soykırımcı İsrail'in Gazze'ye yönelik saldırıları ve ablukası dünyanın dört bir yanında protesto edilirken, Almanya'da Filistin'e destek amacıyla düzenlenen eylemlerde ciddi hak ihlalleri yaşanıyor. Peki Almanya'nın…",
+   "link": "https://www.trthaber.com/haber/dunya/almanya-katil-israili-neden-kosulsuz-destekliyor-959369.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/almanyanin-israil-destegi-2494123.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-07T12:30:00+00:00",
+   "url": "/haber/almanya-katil-israil-i-neden-kosulsuz-destekliyor-2c5eaa56/"
+  },
+  {
    "id": "c00fe847",
    "title": "Yeni BMW F 450 GS, Türkiye’de satışa sunuldu",
    "summary": "Resmi açıklamaya göre yeni BMW F 450 GS, Exclusive donanımında 699.870 TL, Sport donanımında 714.380 TL, GS Trophy donanımında ise 745.959 TL’lik satış fiyatına sahip. “BMW Motorrad’ın A2 sınıfına özel geliştirdiği Yeni…",
@@ -528,17 +693,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T12:25:03+00:00",
    "url": "/haber/yeni-bmw-f-450-gs-turkiye-de-satisa-sunuldu-c00fe847/"
-  },
-  {
-   "id": "cf56ffcf",
-   "title": "Samsung Galaxy Tab S12 ailesi Türkiye’de satışa sunuldu",
-   "summary": "Tüm detaylarına burada yer verdiğimiz yeni tablet modeli Samsung Galaxy Tab S12+ için açıklanan resmi Türkiye başlangıç fiyatı 67.499 TL, üstteki “çentikli” model Galaxy Tab S12 Ultra’nın Türkiye başlangıç fiyatı ise…",
-   "link": "https://www.log.com.tr/samsung-galaxy-tab-s12-ailesi-turkiyede-satisa-sunuldu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-07_15-20-56_A4a74-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-07T12:22:11+00:00",
-   "url": "/haber/samsung-galaxy-tab-s12-ailesi-turkiye-de-satisa-sunuldu-cf56ffcf/"
   },
   {
    "id": "4d9c5659",
@@ -684,17 +838,6 @@
    "url": "/haber/cumhurbaskani-erdogan-putin-ile-gorustu-33d06985/"
   },
   {
-   "id": "d1e1c95b",
-   "title": "AK Parti MYK toplandı",
-   "summary": "AK Parti Merkez Yürütme Kurulu (MYK), Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan'ın başkanlığında toplandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-myk-toplandi/4080939",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T11:31:59+00:00",
-   "url": "/haber/ak-parti-myk-toplandi-d1e1c95b/"
-  },
-  {
    "id": "86fea016",
    "title": "Yeni Transformers filmi Steven Spielberg ve Michael Bay'e emanet",
    "summary": "Transformers serisini yeniden beyaz perdeye döndürmek için çalışmalara başlayan Paramount, seriyi usta yönetmen Steven Spielberg'in kontrolüne bırakıyor. Yönetmen olarak ise Michael Bay düşünülüyor.",
@@ -737,17 +880,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T11:16:53+00:00",
    "url": "/haber/huawei-freebuds-neo-incelemesi-abef0db5/"
-  },
-  {
-   "id": "4471dc53",
-   "title": "Apple ve LG Güçlerini Birleştiriyor: İşte Ortaklıktan Doğacak Ürünler",
-   "summary": "Apple ve LG, akıllı ev pazarına yönelik yeni bir iş birliği için hazırlık yapıyor. İki şirket, farklı alanlardaki uzmanlıklarını bir araya getirerek yeni bir ürün ailesi üzerinde çalışıyor.",
-   "link": "https://www.webtekno.com/apple-lg-guclerini-birlestiriyor-iste-ortakliktan-dogacak-urunler-h226546.html",
-   "image": "https://imgrosetta.webtekno.com/file/691145/691145-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-07T11:12:23+00:00",
-   "url": "/haber/apple-ve-lg-guclerini-birlestiriyor-iste-ortakliktan-dogacak-urunler-4471dc53/"
   },
   {
    "id": "660894c1",
@@ -805,39 +937,6 @@
    "url": "/haber/amd-yapay-zeka-icin-2027-de-cip-uretimini-artiracak-7918e556/"
   },
   {
-   "id": "e4d32976",
-   "title": "Amazon Prime Alışveriş Festivali'nde Günün En İyi İndirimleri",
-   "summary": "5- 12 Ekim tarihleri arasında devam edecek kampanyanın detaylarına ve kaçırmamanız gereken bazı fırsatlara gelin birlikte göz atalım.",
-   "link": "https://www.webtekno.com/amazon-da-prime-alisveris-festivali-devam-ediyor-iste-gunun-en-iyi-indirimleri-h226513.html",
-   "image": "https://imgrosetta.webtekno.com/file/691030/691030-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-07T10:43:38+00:00",
-   "url": "/haber/amazon-prime-alisveris-festivali-nde-gunun-en-iyi-indirimleri-e4d32976/"
-  },
-  {
-   "id": "20482f47",
-   "title": "Opel Ekim 2026 Fiyat Listesi Belli Oldu: Grandland Elektrik'te 715 Bin TL İndirim!",
-   "summary": "Opel, Ekim 2026 dönemi için geçerli güncel fiyat listesini açıkladı. Güncel listede Corsa, Corsa Elektrik, Frontera, Frontera Elektrik, Mokka, Mokka GSE, Astra, Grandland ve Grandland Elektrik modelleri bulunuyor.",
-   "link": "https://www.webtekno.com/opel-ekim-2026-fiyat-listesi-h226528.html",
-   "image": "https://imgrosetta.webtekno.com/file/691135/691135-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-07T10:34:09+00:00",
-   "url": "/haber/opel-ekim-2026-fiyat-listesi-belli-oldu-grandland-elektrik-te-715-bin-20482f47/"
-  },
-  {
-   "id": "7546b4af",
-   "title": "Ne Kablo Var Ne Fiş: Asfalttan Elektrik Çeken Akıllı Lastik Üretildi!",
-   "summary": "Elektrikli otobüslerin duraklarda beklerken kablosuz şarj olmasını sağlayan bir lastik teknolojisi geliştirildi.",
-   "link": "https://www.webtekno.com/ne-kablo-var-ne-fis-asfalttan-elektrik-ceken-akilli-lastik-h226522.html",
-   "image": "https://imgrosetta.webtekno.com/file/691060/691060-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-07T10:34:04+00:00",
-   "url": "/haber/ne-kablo-var-ne-fis-asfalttan-elektrik-ceken-akilli-lastik-uretildi-7546b4af/"
-  },
-  {
    "id": "41c48dc7",
    "title": "Android Auto için Minimum Android Sürümü Belirlendi",
    "summary": "Android Auto kullanmak için gereken minimum Android sürümü güncellendi. Desteklenen sürümleri öğrenin ve telefonunuzun uyumluluğunu nasıl kontrol edeceğinizi keşfedin.",
@@ -871,17 +970,6 @@
    "url": "/haber/berna-lacin-hakkinda-halki-kin-ve-dusmanliga-tahrik-sorusturmasi-bbed6831/"
   },
   {
-   "id": "efadce49",
-   "title": "Hakan Tosun cinayetinde iki sanığa kasten öldürme suçundan müebbet hapis cezası",
-   "summary": "Gazeteci, belgeselci ve ekoloji aktivisti Hakan Tosun cinayeti davasında mahkeme yargılanan her iki sanığın da kasten öldürme suçundan müebbet hapsine hükmetti.",
-   "link": "https://www.bbc.com/turkce/articles/c3v6lv5w05no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9277/live/a52ed800-277a-11f1-b297-95b0a0a8331e.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-07T10:05:24+00:00",
-   "url": "/haber/hakan-tosun-cinayetinde-iki-saniga-kasten-oldurme-sucundan-muebbet-hap-efadce49/"
-  },
-  {
    "id": "5b1c36e2",
    "title": "iPod Özleyenlere Müjde: Seneye Geliyor",
    "summary": "2027 yılında piyasaya sürülmesi planlanan iPod benzeri müzik çalar Sudo, 250 dolarlık fiyatı ve clickwheel tasarımıyla dikkat çekiyor.",
@@ -902,39 +990,6 @@
    "category": "gundem",
    "date": "2026-10-07T09:59:13+00:00",
    "url": "/haber/istanbul-un-gunduzu-sicak-gecesi-soguk-akom-paylasti-8-derece-birden-d-1d610973/"
-  },
-  {
-   "id": "fcda92ee",
-   "title": "Nvidia 617.42 sürücüsünü yayınladı: DLSS 4.5 desteği genişliyor",
-   "summary": "Nvidia, GeForce Game Ready 617.42 sürücüsünü yayınladı. Yeni sürüm Modern Warfare 4, Dragon's Dogma 2 ve STAR WARS: Galactic Racer için optimizasyon getiriyor.",
-   "link": "https://www.donanimhaber.com/nvidia-617-42-surucusunu-yayinladi-dlss-4-5-destegi-genisliyor--211321",
-   "image": "https://www.donanimhaber.com/images/images/haber/211321/1200x675nvidia-617-42-surucusunu-yayinladi-dlss-4-5-destegi-genisliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-07T09:56:00+00:00",
-   "url": "/haber/nvidia-617-42-surucusunu-yayinladi-dlss-4-5-destegi-genisliyor-fcda92ee/"
-  },
-  {
-   "id": "9e0afa9e",
-   "title": "Google, veri merkezleri için nükleer enerjiye yatırım yapıyor",
-   "summary": "Google, ABD’nin önde gelen nükleer santral işletmecisi Constellation ile altı santral sahasının yenilenmesi için 20 yıllık bir anlaşma imzaladı. 4,3 milyar dolarlık iş birliği kapsamında yapılan elektrik satın alma…",
-   "link": "https://www.log.com.tr/google-veri-merkezleri-icin-nukleer-enerjiye-yatirim-yapiyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/06/Google-ust-duzey-yapay-zeka-arastirmacilarini-elinden-kaciriyor-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-07T09:36:28+00:00",
-   "url": "/haber/google-veri-merkezleri-icin-nukleer-enerjiye-yatirim-yapiyor-9e0afa9e/"
-  },
-  {
-   "id": "f821aa98",
-   "title": "OpenAI CEO'su Sam Altman'dan AI açıklaması: \"Bazı kötü şeyler olacak\"",
-   "summary": "OpenAI CEO'su Sam Altman, yapay zekanın bazı kötü sonuçlar doğurmasının kabul edilmesi gerektiğini söyledi. Altman, ancak büyük felaket risklerinin kabul edilemeyeceğini belirtti.",
-   "link": "https://www.donanimhaber.com/openai-ceo-su-yapay-zeka-icin-uyariyor-bazi-kotu-seyler-olacak--211328",
-   "image": "https://www.donanimhaber.com/images/images/haber/211328/1200x675openai-ceo-su-yapay-zeka-icin-uyariyor-bazi-kotu-seyler-olacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-07T09:35:00+00:00",
-   "url": "/haber/openai-ceo-su-sam-altman-dan-ai-aciklamasi-bazi-kotu-seyler-olacak-f821aa98/"
   },
   {
    "id": "bf73ff99",
@@ -968,28 +1023,6 @@
    "category": "gundem",
    "date": "2026-10-07T09:28:12+00:00",
    "url": "/haber/cumhurbaskani-erdogan-dan-fon-sorusturmasi-aciklamasi-sahtekarlik-yapa-67bcc869/"
-  },
-  {
-   "id": "0c0f7061",
-   "title": "ChatGPT için faydalı bir “toplantı” eklentisi duyuruldu",
-   "summary": "OpenAI, ChatGPT için “Meetings” adında faydalı bir toplantı eklentisi hazırladı. Gerekli izinler verildikten sonra sanal ya da yüz yüze toplantılardaki konuşmaları dinleyen eklenti, kişiye özel toplantı notları ve…",
-   "link": "https://www.log.com.tr/chatgpt-icin-faydali-bir-toplanti-eklentisi-duyuruldu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-07_12-19-39_UWOZf-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-07T09:25:45+00:00",
-   "url": "/haber/chatgpt-icin-faydali-bir-toplanti-eklentisi-duyuruldu-0c0f7061/"
-  },
-  {
-   "id": "9e2672d4",
-   "title": "Bakan Bolat AB ülkelerinin Ankara büyükelçileriyle buluştu",
-   "summary": "Ticaret Bakanı Ömer Bolat, Avrupa Birliği (AB) üyesi ülkelerin Ankara büyükelçileriyle bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-ab-ulkelerinin-ankara-buyukelcileriyle-bulustu/4080747",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T09:24:56+00:00",
-   "url": "/haber/bakan-bolat-ab-ulkelerinin-ankara-buyukelcileriyle-bulustu-9e2672d4/"
   },
   {
    "id": "6ec8fd16",
@@ -1100,28 +1133,6 @@
    "category": "gundem",
    "date": "2026-10-07T08:15:28+00:00",
    "url": "/haber/karadeniz-de-vurulan-turk-sahipli-gemideki-10-kisilik-murettebatin-tam-f619d79f/"
-  },
-  {
-   "id": "d54d09f5",
-   "title": "Samsung Galaxy S24 için One UI 9.0 Yayınlandı",
-   "summary": "Samsung, Galaxy S24 serisi için Android 17 tabanlı One UI 9.0 güncellemesini yayınladı. İşte yeni arayüzün getirdiği yenilikler ve detaylar.",
-   "link": "https://shiftdelete.net/galaxy-s24-one-ui-9-0-guncellemesi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-07T08:00:58+00:00",
-   "url": "/haber/samsung-galaxy-s24-icin-one-ui-9-0-yayinlandi-d54d09f5/"
-  },
-  {
-   "id": "1a9040d1",
-   "title": "Adobe Yazılımlarına Ücretsiz Alternatifler: ArtCraft Serisi Tanıtıldı",
-   "summary": "Adobe Photoshop, Illustrator ve Premiere gibi popüler yazılımlara ücretsiz alternatifler sunan ArtCraft serisi tanıtıldı. Rust ile geliştirilen açık kaynaklı uygulamalar hakkında tüm detaylar.",
-   "link": "https://shiftdelete.net/adobe-yazilimlarina-ucretsiz-alternatifler-artcraft-serisi-tanitildi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-07T07:48:19+00:00",
-   "url": "/haber/adobe-yazilimlarina-ucretsiz-alternatifler-artcraft-serisi-tanitildi-1a9040d1/"
   },
   {
    "id": "e152a2d8",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-10-06T12:01:45+00:00",
    "url": "/haber/akin-gurlek-bir-islem-yapilmayacak-algisi-yanlis-92fb24ef/"
-  },
-  {
-   "id": "29e2ff62",
-   "title": "Bakan Gürlek: Fon konusunda önleyici tedbirler aldık",
-   "summary": "Adalet Bakanı Akın Gürlek, \"(Fon soruşturması) 17 Eylül itibarıyla fonların tasfiyesine karar verildi. Karar verildiği an biz verilen soruşturma izinleri kapsamında bütün önleyici tedbirleri aldık\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-konusunda-onleyici-tedbirler-aldik-959282.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2492000/akin-gurlek-2493669.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-06T09:15:00+00:00",
-   "url": "/haber/bakan-gurlek-fon-konusunda-onleyici-tedbirler-aldik-29e2ff62/"
   },
   {
    "id": "335f27fd",
