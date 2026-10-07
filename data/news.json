@@ -1,6 +1,215 @@
 {
- "updated": "2026-10-07T08:31:11.812044+00:00",
+ "updated": "2026-10-07T09:01:22.478784+00:00",
  "items": [
+  {
+   "id": "0d6bb1f1",
+   "title": "Mistral Large 4 Tanıtıldı: 1 Trilyon Parametreli Avrupalı Yapay Zeka Modeli",
+   "summary": "Mistral AI'ın yeni modeli Mistral Large 4 özellikleri, 1 trilyon parametre yapısı ve yasal süreçlerdeki başarısıyla öne çıkıyor. Detaylar haberimizde.",
+   "link": "https://shiftdelete.net/mistral-large-4-ozellikleri-tanitildi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-07T09:00:02+00:00",
+   "url": "/haber/mistral-large-4-tanitildi-1-trilyon-parametreli-avrupali-yapay-zeka-mo-0d6bb1f1/"
+  },
+  {
+   "id": "b7561d94",
+   "title": "AKP'nin İzmir marşlı paylaşımı neden tartışılıyor?",
+   "summary": "Mutlak butlan kararı sonrası haziran ayında CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın 7 Ekim'de AKP'ye katılması bekleniyor. AKP'nin resmi hesabından da 6 Ekim akşamı İzmir paylaşımı yapıldı.",
+   "link": "https://www.bbc.com/turkce/articles/cqkgk74ededlo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1dc0/live/3dfdd810-c195-11f1-a64c-550be9e3c66b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-07T08:59:46+00:00",
+   "url": "/haber/akp-nin-izmir-marsli-paylasimi-neden-tartisiliyor-b7561d94/"
+  },
+  {
+   "id": "67bcc869",
+   "title": "Cumhurbaşkanı Erdoğan: Mesafeleri kapatacak toplumsal zemine ihtiyacımız var",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, muhalefet partilerinden sorumlu bir üslup kullanmalarını istedi. Erdoğan, \"AK Parti olarak milletin hayrına olacak hiçbir meselede diyalogdan kaçınmayız.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-mesafeleri-kapatacak-toplumsal-zemine-ihtiyacimiz-var-1745217",
+   "image": "https://images.ntv.com.tr/images/AA-20261007-42681334-42681331-CUMHURBASKANI_VE_AK_PARTI_GENEL_BASKANI_RECEP_TAYYIP_ERDOGAN-697320.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-07T08:59:15+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-mesafeleri-kapatacak-toplumsal-zemine-ihtiyacimi-67bcc869/"
+  },
+  {
+   "id": "4a944ef9",
+   "title": "Bursa'da depozito sisteminde günlük 1 milyon ambalajın sayılması hedefleniyor",
+   "summary": "Bursa'da 1 Temmuz'da uygulanmaya başlayan depozito sistemi kapsamında bugüne kadar 20 milyonun üzerinde ambalaj toplanırken, yıl sonuna kadar günlük 1 milyon ambalajın sayma ve doğrulama işleminin gerçekleştirilmesi…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bursada-depozito-sisteminde-gunluk-1-milyon-ambalajin-sayilmasi-hedefleniyor/4080655",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T08:55:24+00:00",
+   "url": "/haber/bursa-da-depozito-sisteminde-gunluk-1-milyon-ambalajin-sayilmasi-hedef-4a944ef9/"
+  },
+  {
+   "id": "8d72f9eb",
+   "title": "Cemil Tugay AK Parti'ye katılıyor. İşte ilk sözleri",
+   "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay AK Parti'ye katılıyor. Tugay'a rozetini Cumhurbaşkanı Recep Tayyip Erdoğan takacak.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-cemil-tugay-ak-parti-genel-merkezinde-1745195",
+   "image": "https://images.ntv.com.tr/images/AA-20260930-42614709-42614707-CUMHURBASKANI_ERDOGAN_IZMIR_BUYUKSEHIR_BELEDIYE_BASKANI_TUGAYI_KABUL_ETTI-677626.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-07T08:53:39+00:00",
+   "url": "/haber/cemil-tugay-ak-parti-ye-katiliyor-iste-ilk-sozleri-8d72f9eb/"
+  },
+  {
+   "id": "efadce49",
+   "title": "Hakan Tosun cinayetinde karar beklenen duruşma bugün görülüyor",
+   "summary": "Gazeteci, belgeselci ve ekoloji aktivisti Hakan Tosun cinayeti davasında karar duruşması 7 Ekim'e ertelendi.",
+   "link": "https://www.bbc.com/turkce/articles/c3v6lv5w05no?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9277/live/a52ed800-277a-11f1-b297-95b0a0a8331e.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-07T08:53:38+00:00",
+   "url": "/haber/hakan-tosun-cinayetinde-karar-beklenen-durusma-bugun-goruluyor-efadce49/"
+  },
+  {
+   "id": "3df0d8ce",
+   "title": "Artık Facebook da Instagram Gibi Olacak: Reels Odaklı Ana Ekran Geliyor!",
+   "summary": "Facebook, kullanıcıları doğrudan tam ekran Reels akışıyla karşılayan yeni video odaklı ana ekran tasarımını test ediyor.",
+   "link": "https://www.webtekno.com/facebook-reels-odakli-ana-ekran-geliyor-h226525.html",
+   "image": "https://imgrosetta.webtekno.com/file/691000/691000-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-07T08:47:49+00:00",
+   "url": "/haber/artik-facebook-da-instagram-gibi-olacak-reels-odakli-ana-ekran-geliyor-3df0d8ce/"
+  },
+  {
+   "id": "923e0679",
+   "title": "CS2'deki Hile Sorununa Akılalmaz Çözüm: \"Hesap Değil Oyuncu Banlayan Sistem\" Geliştirildi!",
+   "summary": "CS2 için geliştirilen yepyeni biyometrik sistem, klavye ve fare kullanım tarzınızı analiz ederek hilecilerin hesaplarını değil kendilerini banlıyor.",
+   "link": "https://www.webtekno.com/cs2-hile-sorununa-akilalmaz-cozum-h226519.html",
+   "image": "https://imgrosetta.webtekno.com/file/690988/690988-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-07T08:47:40+00:00",
+   "url": "/haber/cs2-deki-hile-sorununa-akilalmaz-cozum-hesap-degil-oyuncu-banlayan-sis-923e0679/"
+  },
+  {
+   "id": "a9627cae",
+   "title": "\"Yapay Zeka İşimizi Alır mı?\" Sorusuna Net Örnek: BMW'de Yöneticilerin %20'si Gidecek!",
+   "summary": "BMW, yapay zekâ kullanımını artırırken yönetim kadrosundaki pozisyonların yaklaşık yüzde 20'sini kaldırmaya hazırlanıyor.",
+   "link": "https://www.webtekno.com/bmw-yapay-zeka-yonetici-yuzde-20-gidecek-h226516.html",
+   "image": "https://imgrosetta.webtekno.com/file/691055/691055-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-07T08:47:04+00:00",
+   "url": "/haber/yapay-zeka-isimizi-alir-mi-sorusuna-net-ornek-bmw-de-yoneticilerin-20-a9627cae/"
+  },
+  {
+   "id": "d9fce98c",
+   "title": "Emine Erdoğan: Gazze'de üç yıldır insanlığın gözü önünde bir halkın kökleri sökülmeye çalışılıyor",
+   "summary": "Emine Erdoğan, Gazze'de üç yıldır insanlığın gözü önünde bir halkın köklerinin sökülmeye, hafızasının silinmeye, yarınlarının elinden alınmaya çalışıldığını belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-gazzede-uc-yildir-insanligin-gozu-onunde-bir-halkin-kokleri-sokulmeye-calisiliyor/4080638",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T08:46:54+00:00",
+   "url": "/haber/emine-erdogan-gazze-de-uc-yildir-insanligin-gozu-onunde-bir-halkin-kok-d9fce98c/"
+  },
+  {
+   "id": "69eb4a46",
+   "title": "Volvo Ekim 2026 Fiyat Listesi Belli Oldu: ES90 da Listede!",
+   "summary": "Volvo, Ekim 2026 dönemi için geçerli güncel otomobil fiyat listesini yayınladı. Markanın 1 Ekim 2026 tarihli yeni listesinde EX30, EX30 Cross Country, EX40, EC40, V60, XC60 ve XC90 modellerine ES90 da eklendi.",
+   "link": "https://www.webtekno.com/volvo-ekim-2026-fiyat-listesi-h226480.html",
+   "image": "https://imgrosetta.webtekno.com/file/691069/691069-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-07T08:45:40+00:00",
+   "url": "/haber/volvo-ekim-2026-fiyat-listesi-belli-oldu-es90-da-listede-69eb4a46/"
+  },
+  {
+   "id": "19b6f5b2",
+   "title": "Gazze'de meme kanseriyle mücadele eden kadınlar teşhis ve tedaviye erişmekte zorlanıyor",
+   "summary": "Gazze Şeridi'ndeki yaşam koşulları kadınların sağlık kontrollerini ertelemesine yol açarken, mamografi cihazlarının bakım ve onarımında yaşanan güçlükler meme kanserinin erken teşhisini zorlaştırıyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-meme-kanseriyle-mucadele-eden-kadinlar-teshis-ve-tedaviye-erismekte-zorlaniyor/4080634",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T08:45:36+00:00",
+   "url": "/haber/gazze-de-meme-kanseriyle-mucadele-eden-kadinlar-teshis-ve-tedaviye-eri-19b6f5b2/"
+  },
+  {
+   "id": "a0afc4a8",
+   "title": "Hava sıcaklıkları yurdun batı kesimlerinden başlayarak artacak",
+   "summary": "Hava sıcaklıklarının yurdun batı kesimlerinden başlayarak artacağı, hafta sonunda kuzey ve batı kesimlerde mevsim normallerinin biraz üzerinde seyredeceği tahmin ediliyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/hava-sicakliklari-yurdun-bati-kesimlerinden-baslayarak-artacak/4080631",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T08:44:47+00:00",
+   "url": "/haber/hava-sicakliklari-yurdun-bati-kesimlerinden-baslayarak-artacak-a0afc4a8/"
+  },
+  {
+   "id": "3a168f36",
+   "title": "Apple ve LG’den yeni akıllı ev ürünleri geliyor: İşte ilk detaylar",
+   "summary": "Apple’ın akıllı ev hamlesi için LG ile birlikte yeni cihazlar geliştirdiği öne sürüldü. İddiaya göre akıllı kilit, kapı zili ve güvenlik kameraları LG markasıyla satışa çıkacak.",
+   "link": "https://www.donanimhaber.com/apple-ve-lg-den-akilli-ev-urunleri-geliyor-iste-ilk-detaylar--211325",
+   "image": "https://www.donanimhaber.com/images/images/haber/211325/1200x675apple-ve-lg-den-akilli-ev-urunleri-geliyor-iste-ilk-detaylar.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-07T08:40:00+00:00",
+   "url": "/haber/apple-ve-lg-den-yeni-akilli-ev-urunleri-geliyor-iste-ilk-detaylar-3a168f36/"
+  },
+  {
+   "id": "6a743bd8",
+   "title": "Cumhurbaşkanı Erdoğan konuşuyor",
+   "summary": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, AK Parti Kongre Merkezi'nde AK Parti Milletvekilleri ile Yasama Yılı Açılış Toplantısı'nda konuşuyor.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-959386.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2470000/recep-tayyip-erdogan-aa-2471602.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-07T08:37:00+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-konusuyor-6a743bd8/"
+  },
+  {
+   "id": "552badb2",
+   "title": "Filistinliler, Gazze’de bitmeyen soykırım ve sürgünün 3. yılını \"Her yılı 100 yıl gibi\" değerlendiriyor",
+   "summary": "İsrail'in Gazze Şeridi’ne yönelik saldırıları ve sürdürdüğü soykırım 3. yılını geride bırakırken, Han Yunus'un el-Mevasi bölgesindeki çadırlara mahkûm edilen yüz binlerce Filistinli, açlık, yokluk ve derin kayıpların…",
+   "link": "https://www.aa.com.tr/tr/dunya/filistinliler-gazze-de-bitmeyen-soykirim-ve-surgunun-3-yilini-her-yili-100-yil-gibi-degerlendiriyor/4080620",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T08:36:46+00:00",
+   "url": "/haber/filistinliler-gazze-de-bitmeyen-soykirim-ve-surgunun-3-yilini-her-yili-552badb2/"
+  },
+  {
+   "id": "0bcb7df5",
+   "title": "Uluslararası işbirlikleri uzay çalışmalarının gelişmesinde önemli rol oynuyor",
+   "summary": "Türkiye'nin ilk astronotu Tuğgeneral Alper Gezeravcı, Türkiye'nin savunma ve havacılık alanında geliştirdiği altyapıyı uzay çalışmalarına entegre etmeye yönelik önemli adımlar attığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/uluslararasi-isbirlikleri-uzay-calismalarinin-gelismesinde-onemli-rol-oynuyor/4080615",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T08:34:23+00:00",
+   "url": "/haber/uluslararasi-isbirlikleri-uzay-calismalarinin-gelismesinde-onemli-rol-0bcb7df5/"
+  },
+  {
+   "id": "52d03eb9",
+   "title": "900 gram 50 lira, denizden fışkırdı. Tezgah önünde kuyruk oldu, yirmişer tane alıyorlar",
+   "summary": "Karadeniz'de palamut avının bollaşmasıyla birlikte fiyatlar yarı yarıya düştü. Balık tezgahının önünde kuyruk oluştu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-900-gram-50-lira-denizden-fiskirdi-tezgah-onunde-kuyruk-oldu-yirmiser-tane-aliyorlar-1745213",
+   "image": "https://images.ntv.com.tr/images/AW804398_03-819893.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-07T08:32:30+00:00",
+   "url": "/haber/900-gram-50-lira-denizden-fiskirdi-tezgah-onunde-kuyruk-oldu-yirmiser-52d03eb9/"
+  },
+  {
+   "id": "2e023980",
+   "title": "Her Araçta Bulunması Gereken Aksesuarlar",
+   "summary": "Her araçta bulunması gereken, hayati öneme sahip aksesuar ve ekipmanları açıklıyoruz.",
+   "link": "https://www.webtekno.com/her-aracta-bulunmasi-gereken-aksesuarlar-h225826.html",
+   "image": "https://imgrosetta.webtekno.com/file/689380/689380-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-07T08:31:04+00:00",
+   "url": "/haber/her-aracta-bulunmasi-gereken-aksesuarlar-2e023980/"
+  },
   {
    "id": "d7657865",
    "title": "Emmy Ödülleri 2027’den İtibaren Prime Video’da Yayınlanacak",
@@ -11,17 +220,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T08:30:51+00:00",
    "url": "/haber/emmy-odulleri-2027-den-itibaren-prime-video-da-yayinlanacak-d7657865/"
-  },
-  {
-   "id": "f3400517",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 07 Ekim 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 07 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-07-ekim-2026-1745141",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-07T08:30:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f3400517/"
   },
   {
    "id": "1d610973",
@@ -35,37 +233,26 @@
    "url": "/haber/istanbul-un-gunduzu-sicak-gecesi-soguk-akom-paylasti-8-derece-birden-d-1d610973/"
   },
   {
-   "id": "4c24ae80",
-   "title": "İngiltere Uzay Ajansı Eş Direktörü Bunn, birlikte çalışıldığında daha güçlü olunacak çok alan olduğunu söyledi",
-   "summary": "İngiltere Uzay Ajansı Eş Direktörü Alice Bunn, \"Birlikte çalıştığımızda çok daha güçlü olacağımız pek çok farklı alan var.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ingiltere-uzay-ajansi-es-direktoru-bunn-birlikte-calisildiginda-daha-guclu-olunacak-cok-alan-oldugunu-soyledi/4080608",
+   "id": "5b3be4f7",
+   "title": "Gazze'de 3 yıllık İsrail soykırımı kadınları ölüm, kayıp, düşük ve güvensiz doğumlarla karşı karşıya bıraktı",
+   "summary": "İsrail'in Gazze'de sürdürdüğü saldırıların 3. yılında veriler, kadın ve kız çocuklarının öldürülme, yaralanma ve kaybolmanın yanı sıra düşük, güvensiz doğum ve yetersiz beslenme gibi ağır sonuçlarla karşı karşıya…",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-3-yillik-israil-soykirimi-kadinlari-olum-kayip-dusuk-ve-guvensiz-dogumlarla-karsi-karsiya-birakti/4080601",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-07T08:27:47+00:00",
-   "url": "/haber/ingiltere-uzay-ajansi-es-direktoru-bunn-birlikte-calisildiginda-daha-g-4c24ae80/"
+   "date": "2026-10-07T08:23:37+00:00",
+   "url": "/haber/gazze-de-3-yillik-israil-soykirimi-kadinlari-olum-kayip-dusuk-ve-guven-5b3be4f7/"
   },
   {
-   "id": "c5c61b40",
-   "title": "Barselona'nın IAC 2029 adaylığında iklim ve su dayanıklılığı öne çıkıyor",
-   "summary": "Katalonya Bölge Hükümeti Dijital Politika Sekreteri Maria Galindo, Uluslararası Uzay Kongresi'ne (IAC) 2029'da Barselona'nın ev sahipliği yapmasının Uluslararası Uzay Federasyonunun (IAF) değerleri ve hedefleriyle…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/barselonanin-iac-2029-adayliginda-iklim-ve-su-dayanikliligi-one-cikiyor/4080603",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
+   "id": "a8e08558",
+   "title": "İzmir Büyükşehir Belediye Başkanı Tugay AK Parti'ye geçiyor",
+   "summary": "AK Parti Genel Sekreteri Eyyüp Kadir İnan, İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın bugün AK Parti'ye katılacağını bildirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/izmir-buyuksehir-belediye-baskani-tugay-ak-partiye-geciyor-959384.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1496000/ak-parti-genel-merkezi-1496813.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
-   "date": "2026-10-07T08:25:19+00:00",
-   "url": "/haber/barselona-nin-iac-2029-adayliginda-iklim-ve-su-dayanikliligi-one-cikiy-c5c61b40/"
-  },
-  {
-   "id": "5e0426c0",
-   "title": "Axiom Baş Astronotu Lopez-Alegria, Türkiye'nin uzay alanında geleceğinin parlak olduğunu söyledi",
-   "summary": "Axiom Space Baş Astronotu Lopez-Alegria, \"İlk uçuşunuzu 2024'te Alper ile yaptınız, ilk Kongre ise burada 2026'da oldu. Uydunuz, Türksat 6A var. Ay'a gezici keşif aracı göndereceksiniz. Türkiye için gelecek çok parlak.\"…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/axiom-bas-astronotu-lopez-alegria-turkiyenin-uzay-alaninda-geleceginin-parlak-oldugunu-soyledi/4080602",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T08:24:23+00:00",
-   "url": "/haber/axiom-bas-astronotu-lopez-alegria-turkiye-nin-uzay-alaninda-gelecegini-5e0426c0/"
+   "date": "2026-10-07T08:23:00+00:00",
+   "url": "/haber/izmir-buyuksehir-belediye-baskani-tugay-ak-parti-ye-geciyor-a8e08558/"
   },
   {
    "id": "2c2a6b99",
@@ -79,6 +266,17 @@
    "url": "/haber/spacex-tum-uydu-isletmecilerini-yorunge-verilerini-paylasmaya-ve-yukse-2c2a6b99/"
   },
   {
+   "id": "ee8e3ea2",
+   "title": "Dubaili yatırımcıların Türkiye'de lojistik sektörüne ilgisi artıyor",
+   "summary": "Dubai Ticaret Odası Türkiye Ofisi Baş Temsilcisi Mert Danişger, Dubaili yatırımcıların Türkiye'de özellikle lojistik sektörünü yakından takip ettiğini belirterek, lojistik altyapısının yatırımcıların ilgilendiği alanlar…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/dubaili-yatirimcilarin-turkiyede-lojistik-sektorune-ilgisi-artiyor/4080596",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T08:20:30+00:00",
+   "url": "/haber/dubaili-yatirimcilarin-turkiye-de-lojistik-sektorune-ilgisi-artiyor-ee8e3ea2/"
+  },
+  {
    "id": "a1bb1e24",
    "title": "Hyundai'den elektrikli ticari hamlesi: Yeni STARIA Cargo tanıtıldı",
    "summary": "Hyundai, tamamen elektrikli yeni hafif ticari aracı STARIA Cargo'yu resmi olarak duyurdu. 2026 Paris Otomobil Fuarı'nda ilk kez sergilenecek modelin menzili, şarj hızı ve teknik detayları açıklandı.",
@@ -90,48 +288,15 @@
    "url": "/haber/hyundai-den-elektrikli-ticari-hamlesi-yeni-staria-cargo-tanitildi-a1bb1e24/"
   },
   {
-   "id": "4fd3da90",
-   "title": "Moldova'nın Ankara Büyükelçisi Serebrian'dan Ankara-Kişinev ilişkilerine övgü",
-   "summary": "Moldova'nın Ankara Büyükelçisi Oleg Serebrian, Türkiye ve Moldova ilişkilerini çok iyi ve dostane olarak nitelendirerek \"Türkiye, Moldova için çok iyi ve yakın bir dost.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/moldovanin-ankara-buyukelcisi-serebriandan-ankara-kisinev-iliskilerine-ovgu/4080582",
+   "id": "91a312dd",
+   "title": "Başkentten 9 ayda 13,8 milyar dolarlık ihracat",
+   "summary": "Ankara'dan bu yılın 9 aylık döneminde yapılan ihracat, geçen yılın aynı dönemine göre yüzde 21,3 artarak 13 milyar 847 milyon 342 bin dolara yükseldi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/baskentten-9-ayda-13-8-milyar-dolarlik-ihracat/4080588",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-07T08:15:55+00:00",
-   "url": "/haber/moldova-nin-ankara-buyukelcisi-serebrian-dan-ankara-kisinev-iliskileri-4fd3da90/"
-  },
-  {
-   "id": "7712c76d",
-   "title": "BM Sözcüsü Shamdasani, İsrail'in hesap vermemesinin saldırıları körüklediğine dikkati çekti",
-   "summary": "Birleşmiş Milletler (BM) İnsan Hakları Yüksek Komiserliği Sözcüsü Ravina Shamdasani, İsrail'in ateşkese rağmen saldırdığı Gazze'de kronik olarak yaşanan hesap verebilirlik eksikliğinin, saldırıları körükleyen…",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-sozcusu-shamdasani-israilin-hesap-vermemesinin-saldirilari-korukledigine-dikkati-cekti/4080581",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T08:15:44+00:00",
-   "url": "/haber/bm-sozcusu-shamdasani-israil-in-hesap-vermemesinin-saldirilari-korukle-7712c76d/"
-  },
-  {
-   "id": "8d72f9eb",
-   "title": "Cemil Tugay AK Parti'ye katılıyor. İşte ilk sözleri",
-   "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay AK Parti'ye katılıyor. Tugay'a rozetini Cumhurbaşkanı Recep Tayyip Erdoğan takacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-cemil-tugay-ak-parti-genel-merkezinde-1745195",
-   "image": "https://images.ntv.com.tr/images/AA-20260930-42614709-42614707-CUMHURBASKANI_ERDOGAN_IZMIR_BUYUKSEHIR_BELEDIYE_BASKANI_TUGAYI_KABUL_ETTI-677626.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-07T08:13:13+00:00",
-   "url": "/haber/cemil-tugay-ak-parti-ye-katiliyor-iste-ilk-sozleri-8d72f9eb/"
-  },
-  {
-   "id": "d38b9e03",
-   "title": "Sigorta sektörünün prim üretimi 1 trilyon liraya yaklaştı",
-   "summary": "Sigorta sektörünün bu yılın ağustos sonu itibarıyla toplam prim üretiminin yıllık bazda yüzde 28,1 artışla 971,8 milyar liraya ulaşması, sektörün büyüklüğünü ve sunduğu güvence kapasitesini ortaya koydu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/sigorta-sektorunun-prim-uretimi-1-trilyon-liraya-yaklasti/4080576",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T08:13:10+00:00",
-   "url": "/haber/sigorta-sektorunun-prim-uretimi-1-trilyon-liraya-yaklasti-d38b9e03/"
+   "date": "2026-10-07T08:18:05+00:00",
+   "url": "/haber/baskentten-9-ayda-13-8-milyar-dolarlik-ihracat-91a312dd/"
   },
   {
    "id": "8fa5d6c3",
@@ -145,61 +310,6 @@
    "url": "/haber/kktc-deki-feribot-faciasinda-bir-cesede-daha-ulasildi-can-kaybi-24-e-y-8fa5d6c3/"
   },
   {
-   "id": "cef9d48a",
-   "title": "Hollanda'da Müslüman ve yabancı düşmanlığı hayatın her alanında yükselişte",
-   "summary": "Hollanda'da DENK Partisi Milletvekili Doğukan Ergin, ülkede yabancı ve Müslüman düşmanlığının yasalardan spora, iş piyasasından eğitime kadar hayatın her alanında ciddi şekilde kötüleştiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/hollandada-musluman-ve-yabanci-dusmanligi-hayatin-her-alaninda-yukseliste/4080566",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T08:09:16+00:00",
-   "url": "/haber/hollanda-da-musluman-ve-yabanci-dusmanligi-hayatin-her-alaninda-yuksel-cef9d48a/"
-  },
-  {
-   "id": "a00db973",
-   "title": "Avrupa Uzay Ajansından uzayda silahlanma uyarısı ve Türkiye ile işbirliği mesajı",
-   "summary": "Avrupa Uzay Ajansı (ESA) Genel Direktörü Josef Aschbacher, ABD'nin uzaya silah konuşlandırdığını kabul etmesine ilişkin, \"Avrupa uzayda silah konuşlandırmıyor, en azından ESA bunu yapmıyor. Yine de bu yakından izlememiz…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/avrupa-uzay-ajansindan-uzayda-silahlanma-uyarisi-ve-turkiye-ile-isbirligi-mesaji/4080563",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T08:07:42+00:00",
-   "url": "/haber/avrupa-uzay-ajansindan-uzayda-silahlanma-uyarisi-ve-turkiye-ile-isbirl-a00db973/"
-  },
-  {
-   "id": "ea0629e7",
-   "title": "Cenevre, IAC 2029'da uzay diplomasisinin merkezi olmayı hedefliyor",
-   "summary": "Swissmem CEO'su Stefan Brupbacher, Cenevre'nin Uluslararası Uzay Kongresi (IAC) 2029'da diplomasinin merkezi olarak ev sahibi olması gerektiğini belirtti.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/cenevre-iac-2029da-uzay-diplomasisinin-merkezi-olmayi-hedefliyor/4080561",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T08:07:07+00:00",
-   "url": "/haber/cenevre-iac-2029-da-uzay-diplomasisinin-merkezi-olmayi-hedefliyor-ea0629e7/"
-  },
-  {
-   "id": "5ade62b2",
-   "title": "IMF Başkanı Georgieva'dan liderlere enerji şoku, bütçe ve yapay zeka uyarısı",
-   "summary": "IMF Başkanı Georgieva, küresel ekonominin yapay zeka, enerji fiyatları ve kamu borçları ile büyük bir belirsizlik ve hızlı değişim döneminden geçtiğini belirterek, düşük büyüme oranlarını yukarı taşımak için acil…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/imf-baskani-georgievadan-liderlere-enerji-soku-butce-ve-yapay-zeka-uyarisi/4080557",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T08:06:45+00:00",
-   "url": "/haber/imf-baskani-georgieva-dan-liderlere-enerji-soku-butce-ve-yapay-zeka-uy-5ade62b2/"
-  },
-  {
-   "id": "aea92027",
-   "title": "Mevsim geçişleri ruh sağlığını etkiliyor",
-   "summary": "Mevsim geçişlerinin ruh sağlığı üzerinde etkili olduğu ancak bir değerlendirme yapılabilmesi için isteksizlik, moral bozukluğu, eskiden yapılan aktivitelerden keyif alınmaması gibi bulguların en az iki hafta sürmesi…",
-   "link": "https://www.aa.com.tr/tr/gundem/mevsim-gecisleri-ruh-sagligini-etkiliyor/4080556",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T08:06:36+00:00",
-   "url": "/haber/mevsim-gecisleri-ruh-sagligini-etkiliyor-aea92027/"
-  },
-  {
    "id": "0f165abf",
    "title": "Çeşme Belediyesi'ne yolsuzluk operasyonu. Başkan yardımcısına gözaltı kararı",
    "summary": "Çeşme Belediyesine yönelik İhalelerde ve alımlarda usulsüzlük yapıldığı iddiaları üzerine operasyon düzenlendi. 12 kişi hakkında gözaltı kararı verildi.",
@@ -211,37 +321,59 @@
    "url": "/haber/cesme-belediyesi-ne-yolsuzluk-operasyonu-baskan-yardimcisina-gozalti-k-0f165abf/"
   },
   {
-   "id": "5fea565d",
-   "title": "Yapay zekadaki telif ihlallerine karşı yerli veri tabanı ihtiyacı öne çıkıyor",
-   "summary": "Global şirketlerin tüm dünyadan kitap siparişi vererek dijitalleştirme çabası, gelecekte kültürlerin tek bir kaynağa bağlı kalacağı yönündeki endişeleri de beraberinde getirdi.",
-   "link": "https://www.aa.com.tr/tr/kultur/yapay-zekadaki-telif-ihlallerine-karsi-yerli-veri-tabani-ihtiyaci-one-cikiyor/4080555",
+   "id": "8270253a",
+   "title": "Kadın milli güreşçiler olimpiyat hedefiyle Erzincan'da güç depoluyor",
+   "summary": "Erzincan'da milli takımın genç kadın güreşçileri Elmira Yasin ve Özlem Gürsoy, Avrupa ve dünya şampiyonalarındaki derecelerinin ardından gözlerini Los Angeles 2028 Olimpiyatları'na çevirdi.",
+   "link": "https://www.aa.com.tr/tr/spor/kadin-milli-guresciler-olimpiyat-hedefiyle-erzincanda-guc-depoluyor/4080545",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-07T08:06:32+00:00",
-   "url": "/haber/yapay-zekadaki-telif-ihlallerine-karsi-yerli-veri-tabani-ihtiyaci-one-5fea565d/"
+   "date": "2026-10-07T08:04:55+00:00",
+   "url": "/haber/kadin-milli-guresciler-olimpiyat-hedefiyle-erzincan-da-guc-depoluyor-8270253a/"
   },
   {
-   "id": "4e0e30ef",
-   "title": "MHP Siyaset ve Liderlik Okulu'nda 24. dönem 10 Ekim'de başlıyor",
-   "summary": "MHP Genel Başkan Yardımcısı Topcu, partisinin 24. dönem Siyaset ve Liderlik Okulu'nun 10 Ekim'de başlayacağını belirterek, \"Hedef, gerçekten siyaseti bilen, ehil gençlerin siyasete girmesi.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/mhp-siyaset-ve-liderlik-okulunda-24-donem-10-ekimde-basliyor/4080554",
+   "id": "e43f631c",
+   "title": "Kapadokya'da sonbahar Uzak Doğulu turistlerle hareketlendi",
+   "summary": "Turizm sezonunun yıl boyunca sürdüğü Kapadokya'da, çok sayıda turizm aktivitesine katılan Uzak Doğulu turistler sonbaharda hareketliliği artırdı.",
+   "link": "https://www.aa.com.tr/tr/kultur/kapadokyada-sonbahar-uzak-dogulu-turistlerle-hareketlendi/4080542",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-07T08:06:13+00:00",
-   "url": "/haber/mhp-siyaset-ve-liderlik-okulu-nda-24-donem-10-ekim-de-basliyor-4e0e30ef/"
+   "date": "2026-10-07T08:04:45+00:00",
+   "url": "/haber/kapadokya-da-sonbahar-uzak-dogulu-turistlerle-hareketlendi-e43f631c/"
   },
   {
-   "id": "11969bd7",
-   "title": "\"Hiçbir zaman geç değil\" diyerek sigarayı bıraktılar",
-   "summary": "Tekirdağ'da sigara içmeye genç yaşlarda başlayan Necmettin Durmuş, Ruksan Talebi ve Alper Şimşek bağımlılıktan kurtuldu.",
-   "link": "https://www.aa.com.tr/tr/gundem/hicbir-zaman-gec-degil-diyerek-sigarayi-biraktilar/4080539",
+   "id": "3e658163",
+   "title": "İsrail’de Netanyahu karşıtlığı siyasi bir alternatife dönüşebilir mi?",
+   "summary": "Araştırmaların gösterdiği ortak husus Netanyahu’nun önceki seçimlerdeki üstünlüğünü kaybettiği fakat muhalefetin de henüz işler bir hükümet çoğunluğu kuramadığıdır.",
+   "link": "https://www.aa.com.tr/tr/analiz/israil-de-netanyahu-karsitligi-siyasi-bir-alternatife-donusebilir-mi/4080537",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-07T08:03:35+00:00",
-   "url": "/haber/hicbir-zaman-gec-degil-diyerek-sigarayi-biraktilar-11969bd7/"
+   "date": "2026-10-07T08:03:14+00:00",
+   "url": "/haber/israil-de-netanyahu-karsitligi-siyasi-bir-alternatife-donusebilir-mi-3e658163/"
+  },
+  {
+   "id": "cd6a2ccc",
+   "title": "İsveçli futbolcu Rafferty'nin Kasımpaşa tercihiyle doğru bir adım attığına inancı tam",
+   "summary": "Kasımpaşa'nın İsveçli futbolcusu Marcus Rafferty, lacivert-beyazlı takıma transfer olup doğru bir adım attığına inandığını vurgulayarak, iyi bir yolda olduklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/isvecli-futbolcu-raffertynin-kasimpasa-tercihiyle-dogru-bir-adim-attigina-inanci-tam/4080535",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T08:02:40+00:00",
+   "url": "/haber/isvecli-futbolcu-rafferty-nin-kasimpasa-tercihiyle-dogru-bir-adim-atti-cd6a2ccc/"
+  },
+  {
+   "id": "b43d35d3",
+   "title": "Emirgan İlkokulu 156 yıllık binasında eğitimi sürdürüyor",
+   "summary": "Sarıyer'in tarihi semti Emirgan'da 1870 yılında Hidiv İsmail Paşa tarafından yaptırılan Emirgan İlkokulu, tarihi binasında öğrencileri eğitimle buluşturmayı sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/emirgan-ilkokulu-156-yillik-binasinda-egitimi-surduruyor/4080532",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T08:01:47+00:00",
+   "url": "/haber/emirgan-ilkokulu-156-yillik-binasinda-egitimi-surduruyor-b43d35d3/"
   },
   {
    "id": "d54d09f5",
@@ -264,6 +396,17 @@
    "category": "teknoloji",
    "date": "2026-10-07T08:00:00+00:00",
    "url": "/haber/samsung-iki-telefonu-daha-listeden-cikardi-artik-guncelleme-gelmeyecek-0a814d7e/"
+  },
+  {
+   "id": "d4eef295",
+   "title": "Derinkuyu'nun binlerce yıllık yaşam bilgisi çağdaş sanatla geleceğe taşınıyor",
+   "summary": "Sanatçı Gürkan Maruf Mıhçı'nın Derinkuyu Yeraltı Şehri'nin binlerce yıllık yaşam kültürünü dijital teknolojilerle buluşturduğu \"Aftermath Of The Climate Crisis: Derinkuyu Revived\" adlı eseri, Kapadokya Bienali'nde…",
+   "link": "https://www.aa.com.tr/tr/kultur/derinkuyunun-binlerce-yillik-yasam-bilgisi-cagdas-sanatla-gelecege-tasiniyor/4080519",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T07:52:44+00:00",
+   "url": "/haber/derinkuyu-nun-binlerce-yillik-yasam-bilgisi-cagdas-sanatla-gelecege-ta-d4eef295/"
   },
   {
    "id": "3b6e5b3b",
@@ -330,17 +473,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T07:46:23+00:00",
    "url": "/haber/ekim-2026-turkiye-deki-en-ucuz-elektrikli-otomobiller-1fe1db79/"
-  },
-  {
-   "id": "ad2c18c8",
-   "title": "İzmir'de Çeşme Belediyesine yönelik operasyonda 9 şüpheli gözaltına alındı",
-   "summary": "İzmir'de Çeşme Belediyesine yönelik \"suç örgütü kurma, yönetme ve üye olma\", \"rüşvet\", \"irtikap\" ve \"resmi belgede sahtecilik\" iddiasıyla yürütülen soruşturma kapsamında jandarma ekipleri, hakkında gözaltı kararı…",
-   "link": "https://www.aa.com.tr/tr/gundem/izmirde-cesme-belediyesine-yonelik-operasyonda-9-supheli-gozaltina-alindi/4080512",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T07:45:22+00:00",
-   "url": "/haber/izmir-de-cesme-belediyesine-yonelik-operasyonda-9-supheli-gozaltina-al-ad2c18c8/"
   },
   {
    "id": "d860ffd7",
@@ -517,17 +649,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T06:48:07+00:00",
    "url": "/haber/aselsan-dan-195-milyon-dolarlik-yeni-sozlesme-eb445678/"
-  },
-  {
-   "id": "b7561d94",
-   "title": "AKP'nin İzmir marşlı paylaşımı neden tartışılıyor?",
-   "summary": "Mutlak butlan kararı sonrası haziran ayında CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın 7 Ekim'de AKP'ye katılması bekleniyor. AKP'nin resmi hesabından da 6 Ekim akşamı İzmir paylaşımı yapıldı.",
-   "link": "https://www.bbc.com/turkce/articles/cqkgk74ededlo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1dc0/live/3dfdd810-c195-11f1-a64c-550be9e3c66b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-07T06:44:36+00:00",
-   "url": "/haber/akp-nin-izmir-marsli-paylasimi-neden-tartisiliyor-b7561d94/"
   },
   {
    "id": "1830b48e",
@@ -717,17 +838,6 @@
    "url": "/haber/dunya-3-yildir-tarihin-en-buyuk-katliamina-tanik-oluyor-5ce2c78b/"
   },
   {
-   "id": "cff0cb41",
-   "title": "Elektrikli Hafif Ticari: Hyundai STARIA Cargo Tanıtıldı",
-   "summary": "Hyundai'nin yeni elektrikli hafif ticari araç modeli STARIA Cargo, 450 km menzili ve 800V mimarisiyle dikkat çekiyor. İşte aracın detayları.",
-   "link": "https://shiftdelete.net/hyundai-staria-cargo-tanitildi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-07T05:00:57+00:00",
-   "url": "/haber/elektrikli-hafif-ticari-hyundai-staria-cargo-tanitildi-cff0cb41/"
-  },
-  {
    "id": "053cc4dc",
    "title": "Son dakika Denizli'de deprem mi oldu? Az önce deprem Denizli'de nerede oldu? Denizli deprem Kandilli ve AFAD son depremler listesi 07 Ekim 2026",
    "summary": "Son dakika Denizli deprem haberleri.. Denizli'de deprem mi oldu? Az önce deprem Denizli'de nerede oldu? Denizli Kandilli ve AFAD son depremler.. 07 Ekim 2026 Denizli deprem son dakika haberleri haberin detayında...…",
@@ -858,17 +968,6 @@
    "category": "gundem",
    "date": "2026-10-06T22:05:06+00:00",
    "url": "/haber/akp-den-1-milyon-tl-ye-kadar-odemeler-icin-kanun-teklifi-hazirligi-e7a39b04/"
-  },
-  {
-   "id": "7ccd7413",
-   "title": "KKTC'deki feribot faciası. Ulaşılan iki cesedin kimliği belirlendi",
-   "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) Girne açıklarında 30 Ağustos'ta batan yolcu gemisindeki kayıpları arama çalışmalarında bulunan iki cesedin Mahmut Demir ve Özgür Gönül'e ait olduğu belirlendi.",
-   "link": "https://www.ntv.com.tr/turkiye/kktcdeki-feribot-faciasi-ulasilan-iki-cesedin-kimligi-belirlendi-1745142",
-   "image": "https://images.ntv.com.tr/images/girnekaza-860070.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-06T21:32:30+00:00",
-   "url": "/haber/kktc-deki-feribot-faciasi-ulasilan-iki-cesedin-kimligi-belirlendi-7ccd7413/"
   },
   {
    "id": "221a712a",
@@ -1025,17 +1124,6 @@
    "url": "/haber/elektrikli-otobusler-tekerleklerden-sarj-olacak-iste-ilginc-teknoloji-4a47a425/"
   },
   {
-   "id": "9038bf23",
-   "title": "Samsung, akıllı ev platformu SmartThings'i yeniledi",
-   "summary": "Samsung, SmartThings uygulamasını yeniledi. Akıllı ev platformu, yeni arayüz, SmartThings Now önerileri, cihaz kartları ile yeni, kompakt gezinme çubuğu ve fazlasını sunuyor.",
-   "link": "https://www.donanimhaber.com/samsung-smartthings-e-buyuk-guncelleme-iste-yenilikler--211296",
-   "image": "https://www.donanimhaber.com/images/images/haber/211296/1200x675samsung-smartthings-e-buyuk-guncelleme-iste-yenilikler.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-06T17:20:00+00:00",
-   "url": "/haber/samsung-akilli-ev-platformu-smartthings-i-yeniledi-9038bf23/"
-  },
-  {
    "id": "22086b38",
    "title": "AB'den yeni genişleme yaklaşımı: Türkiye nasıl etkilenecek?",
    "summary": "Avrupa Komisyonu, aday ülkelerin üyelik öncesinde AB politikalarına ve iç pazara kademeli entegrasyonunu öngören yeni genişleme yaklaşımını açıkladı. Türkiye de bu çerçevenin kapsamına girse de, AB ile ilişkilerdeki…",
@@ -1058,39 +1146,6 @@
    "url": "/haber/dunyanin-en-guclu-10-arabasi-4e05fa61/"
   },
   {
-   "id": "9063b522",
-   "title": "Tesla’nın Satışlarında Şaşırtan Sonuç: İki Model Hariç Diğerleri Dibi Gördü!",
-   "summary": "Tesla, 2026'nın üçüncü çeyreğinde beklentileri aşarak 486.532 teslimat yapsa da Cybertruck ve diğer modellerin satışı tabiri caizse dibi gördü.",
-   "link": "https://www.webtekno.com/tesla-satislarinda-sasirtan-sonuc-h226489.html",
-   "image": "https://imgrosetta.webtekno.com/file/690919/690919-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T14:47:52+00:00",
-   "url": "/haber/tesla-nin-satislarinda-sasirtan-sonuc-iki-model-haric-digerleri-dibi-g-9063b522/"
-  },
-  {
-   "id": "de0382af",
-   "title": "YouTube Shorts'ta Büyük Değişiklik: Bu Videolar Artık Karşınıza Çıkmayacak!",
-   "summary": "Google, YouTube Shorts'ta emeksiz ve kopya videoların erişimini azaltarak özgün içerikleri öne çıkaracak yeni bir algoritma güncellemesi duyurdu.",
-   "link": "https://www.webtekno.com/youtube-shorts-buyuk-degisiklik-h226486.html",
-   "image": "https://imgrosetta.webtekno.com/file/690910/690910-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T14:47:25+00:00",
-   "url": "/haber/youtube-shorts-ta-buyuk-degisiklik-bu-videolar-artik-karsiniza-cikmaya-de0382af/"
-  },
-  {
-   "id": "1d599ad7",
-   "title": "AKP Grup Başkanvekili Özlem Zengin: 'Mersin'deki görüntülerle ilgili soruşturma başlatıldı'",
-   "summary": "AKP Grup Başkanvekili Özlem Zengin, Mersin Büyükşehir Belediyesi'ne yönelik operasyonda bir ev araması sırasında kapıyı açan bir kadının pijamalı görüntülerinin basına sızdırılmasıyla ilgili soruşturma başlatıldığını…",
-   "link": "https://www.bbc.com/turkce/articles/c60e08nlj7qno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edb2/live/9b1c9150-c193-11f1-aa62-b37233e4aed8.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-06T14:43:36+00:00",
-   "url": "/haber/akp-grup-baskanvekili-ozlem-zengin-mersin-deki-goruntulerle-ilgili-sor-1d599ad7/"
-  },
-  {
    "id": "362193bf",
    "title": "Fon tasfiyesine ilişkin kanun teklifi Meclis'e sunulacak",
    "summary": "Tasfiye edilen fonlara ilişkin yeni bir gelişme yaşandı. Meclis'e tasfiye edilen fonlarla ilgili yeni bir kanun teklifi sunulacak. 11 maddelik kanun teklifinin ekim ayı içinde yasalaşması bekleniyor.",
@@ -1100,39 +1155,6 @@
    "category": "gundem",
    "date": "2026-10-06T14:42:00+00:00",
    "url": "/haber/fon-tasfiyesine-iliskin-kanun-teklifi-meclis-e-sunulacak-362193bf/"
-  },
-  {
-   "id": "d7bc30b3",
-   "title": "Hangisi Sana Daha Uygun: Casper Excalibur G915 mi Casper Excalibur G920 mi?",
-   "summary": "Bütçene göre, sınırları zorlayan üstün performans arasında seçim yapmanı kolaylaştıracak kapsamlı Excalibur rehberi.",
-   "link": "https://www.webtekno.com/hangisi-sana-daha-uygun-casper-excalibur-g915-mi-casper-excalibur-g920-mi-h226270.html",
-   "image": "https://imgrosetta.webtekno.com/file/690470/690470-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T14:39:38+00:00",
-   "url": "/haber/hangisi-sana-daha-uygun-casper-excalibur-g915-mi-casper-excalibur-g920-d7bc30b3/"
-  },
-  {
-   "id": "82e91f9a",
-   "title": "Sam Altman, Yapay Zekânın Geleceğiyle İlgili Açık Konuştu: \"Bazı Kötü Şeyler Olabilir Ama...\"",
-   "summary": "OpenAI CEO'su Sam Altman, yapay zekânın büyük faydaları uğruna toplumun siber saldırı ve dolandırıcılık gibi riskleri göze alması gerektiğini söyledi.",
-   "link": "https://www.webtekno.com/sam-altman-yapay-zekanin-gelecegiyle-ilgili-acik-konustu-h226484.html",
-   "image": "https://imgrosetta.webtekno.com/file/690868/690868-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T14:05:31+00:00",
-   "url": "/haber/sam-altman-yapay-zekanin-gelecegiyle-ilgili-acik-konustu-bazi-kotu-sey-82e91f9a/"
-  },
-  {
-   "id": "b9374d90",
-   "title": "Realme, P4s Lite'ı Duyurdu: İşte Özellikleri ve Fiyatı",
-   "summary": "Realme, giriş segmentinde konumlanan 7000 mAh bataryalı telefonu P4s Lite’ı sessiz sedasız duyurdu",
-   "link": "https://www.webtekno.com/realme-p4s-lite-duyuruldu-h226444.html",
-   "image": "https://imgrosetta.webtekno.com/file/690811/690811-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-06T14:04:48+00:00",
-   "url": "/haber/realme-p4s-lite-i-duyurdu-iste-ozellikleri-ve-fiyati-b9374d90/"
   },
   {
    "id": "92fb24ef",
@@ -1199,28 +1221,6 @@
    "category": "gundem",
    "date": "2026-10-06T08:15:00+00:00",
    "url": "/haber/hursat-2027-de-goreve-baslayacak-4037d60c/"
-  },
-  {
-   "id": "b1438c72",
-   "title": "Yapay zeka insanlara görev verip para ödeyecek",
-   "summary": "Günümüzde neredeyse tüm meselelerin bir şekilde bağlandığı yapay zeka teknolojileri yine gündemin üst sıralarında… Yapay zekanın insanlara belirlenen konumlarda görev verip karşılığında para ödeyeceği senaryolar…",
-   "link": "https://www.trthaber.com/haber/gundem/yapay-zeka-insanlara-gorev-verip-para-odeyecek-959257.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2492000/yapay-zeka-para-getty-2493617.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-06T08:00:00+00:00",
-   "url": "/haber/yapay-zeka-insanlara-gorev-verip-para-odeyecek-b1438c72/"
-  },
-  {
-   "id": "26253ee8",
-   "title": "Güneş ve rüzgardan elektrik üretiminde tarihi rekor",
-   "summary": "Güneş ve rüzgar kaynaklı toplam elektrik üretiminde ağustosta 9,9 milyar kilovatsaat ile tüm zamanların en yüksek seviyesine çıkılarak tarihi rekor kırıldı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/gunes-ve-ruzgardan-elektrik-uretiminde-tarihi-rekor-959255.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1684000/gunes-enerjisi-ruzgar-enerjisi-yenilenebilir-enerji-aa-1684736.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-06T07:29:00+00:00",
-   "url": "/haber/gunes-ve-ruzgardan-elektrik-uretiminde-tarihi-rekor-26253ee8/"
   },
   {
    "id": "4448b43b",
