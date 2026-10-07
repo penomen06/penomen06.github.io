@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T01:01:17.851443+00:00",
+ "updated": "2026-10-07T01:31:11.385636+00:00",
  "items": [
   {
    "id": "f3400517",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-07T01:00:00+00:00",
+   "date": "2026-10-07T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f3400517/"
+  },
+  {
+   "id": "96d823e3",
+   "title": "Çorum'daki feci kazada 4 kişi hayatını kaybetti",
+   "summary": "Çorum'da otomobil ile cipin çarpıştığı kazada biri çocuk 4 kişi hayatını kaybetti, 1 kişi ağır yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/corumdaki-feci-kazada-4-kisi-hayatini-kaybetti-1745150",
+   "image": "https://images.ntv.com.tr/images/AW804132_07-478993.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-07T01:08:10+00:00",
+   "url": "/haber/corum-daki-feci-kazada-4-kisi-hayatini-kaybetti-96d823e3/"
   },
   {
    "id": "9321b5de",
@@ -374,17 +385,6 @@
    "category": "gundem",
    "date": "2026-10-06T20:19:37+00:00",
    "url": "/haber/ali-emre-balli-aracinda-olu-bulundu-a59355ed/"
-  },
-  {
-   "id": "d23b25f7",
-   "title": "Fon krizinde Meclis'e 10 maddelik teklif geliyor. Ödemeler nasıl yapılacak?",
-   "summary": "AK Parti, fonların tasfiyesi ve yatırımcılara yapılacak geri ödemelere ilişkin yaklaşık 10 maddelik kanun teklifini cuma ya da pazartesi günü TBMM Başkanlığı'na sunacak.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-krizinde-meclise-10-maddelik-teklif-geliyor-odemeler-nasil-yapilacak-1745118",
-   "image": "https://images.ntv.com.tr/images/tbmm-546585.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-06T20:19:27+00:00",
-   "url": "/haber/fon-krizinde-meclis-e-10-maddelik-teklif-geliyor-odemeler-nasil-yapila-d23b25f7/"
   },
   {
    "id": "60bb632f",
