@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-07T17:31:35.550616+00:00",
+ "updated": "2026-10-07T18:01:23.180345+00:00",
  "items": [
+  {
+   "id": "06bc10f4",
+   "title": "Türkiye'nin Üsküp Büyükelçisi Aktaş, Kuzey Makedonya Cumhurbaşkanı Davkova’ya güven mektubunu sundu",
+   "summary": "Türkiye'nin yeni Üsküp Büyükelçisi Alper Aktaş, güven mektubunu Kuzey Makedonya Cumhurbaşkanı Gordana Siljanovska Davkova'ya sundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/turkiyenin-uskup-buyukelcisi-aktas-kuzey-makedonya-cumhurbaskani-davkova-ya-guven-mektubunu-sundu/4081355",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T17:56:40+00:00",
+   "url": "/haber/turkiye-nin-uskup-buyukelcisi-aktas-kuzey-makedonya-cumhurbaskani-davk-06bc10f4/"
+  },
+  {
+   "id": "9218b640",
+   "title": "İçişleri Bakan Yardımcısı Turan: Çocukların dijital ortamdaki faaliyetleri, aileler tarafından takip edilmeli",
+   "summary": "İçişleri Bakan Yardımcısı Turan, güvenlik, eğitim, aile ve sağlık başta olmak üzere farklı alanlarda eş zamanlı çalışmalar yürütülmesi gerektiğini belirterek, \"Çocukların dijital ortamdaki faaliyetleri, aileler…",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakan-yardimcisi-turan-cocuklarin-dijital-ortamdaki-faaliyetleri-aileler-tarafindan-takip-edilmeli/4081353",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T17:52:29+00:00",
+   "url": "/haber/icisleri-bakan-yardimcisi-turan-cocuklarin-dijital-ortamdaki-faaliyetl-9218b640/"
+  },
+  {
+   "id": "d83703d2",
+   "title": "Eski Sağlık Bakanı Halil Şıvgın'ı anma programı düzenlendi",
+   "summary": "Eski Sağlık Bakanı Halil Şıvgın, vefatının birinci yılında Ankara Hacı Bayram Veli Üniversitesinde düzenlenen programla anıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/eski-saglik-bakani-halil-sivgini-anma-programi-duzenlendi/4081352",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T17:51:18+00:00",
+   "url": "/haber/eski-saglik-bakani-halil-sivgin-i-anma-programi-duzenlendi-d83703d2/"
+  },
+  {
+   "id": "ba80aca8",
+   "title": "Oyuncu Berna Laçin İzmir paylaşımı nedeniyle gözaltına alındı",
+   "summary": "Sinema, dizi oyuncusu ve sunucu Berna Laçin hakkında İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AKP'ye geçmesine verdiği tepkiyle ilgili soruşturma açıldı.",
+   "link": "https://www.bbc.com/turkce/articles/c687zx901xdno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14dd/live/7eb7d840-c23c-11f1-b390-9f59a375fdd2.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-07T17:46:02+00:00",
+   "url": "/haber/oyuncu-berna-lacin-izmir-paylasimi-nedeniyle-gozaltina-alindi-ba80aca8/"
+  },
+  {
+   "id": "06f97b93",
+   "title": "Togg T10X'lere yeni TruOS güncellemesi geldi: İşte tüm yenilikler!",
+   "summary": "Togg T10X için yeni TruOS 1.7.2 güncellemesini yayınladı. Bilgi-eğlence sistemi, yüz tanıma, kamera, navigasyon ve sürüş özelliklerinde önemli iyileştirmeler geliyor.",
+   "link": "https://www.donanimhaber.com/togg-t10x-lere-yeni-truos-guncellemesi-geldi-iste-yenilikler--211355",
+   "image": "https://www.donanimhaber.com/images/images/haber/211355/1200x675togg-t10x-lere-yeni-truos-guncellemesi-geldi-iste-yenilikler.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-07T17:46:00+00:00",
+   "url": "/haber/togg-t10x-lere-yeni-truos-guncellemesi-geldi-iste-tum-yenilikler-06f97b93/"
+  },
   {
    "id": "b316e1bb",
    "title": "Yeni MacBook Pro Yolda: Büyük Tasarım Değişikliği",
@@ -242,28 +297,6 @@
    "category": "gundem",
    "date": "2026-10-07T15:49:24+00:00",
    "url": "/haber/iea-uyeleri-stratejik-petrol-rezervlerinin-piyasaya-surulmesini-hizlan-ad485972/"
-  },
-  {
-   "id": "9ebd7927",
-   "title": "Avrupa'nın uzay keşif hedefleri IAC 2026'da ele alındı",
-   "summary": "Uluslararası Uzay Federasyonu (IAF) tarafından yapılan 77. Uluslararası Uzay Kongresi'nde (IAC) Avrupa'nın uzay keşif faaliyetlerinin yol haritası ele alındı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/avrupanin-uzay-kesif-hedefleri-iac-2026da-ele-alindi/4081258",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T15:47:46+00:00",
-   "url": "/haber/avrupa-nin-uzay-kesif-hedefleri-iac-2026-da-ele-alindi-9ebd7927/"
-  },
-  {
-   "id": "383481d1",
-   "title": "\"Gazze'de Bir Gün\" fotoğraf sergisi İzmir'de açıldı",
-   "summary": "İzmir'de Anadolu Ajansı (AA) ile Ege Üniversitesi (EÜ) işbirliğiyle hazırlanan \"Gazze'de Bir Gün\" fotoğraf sergisi ziyarete açıldı.",
-   "link": "https://www.aa.com.tr/tr/kultur/gazzede-bir-gun-fotograf-sergisi-izmirde-acildi/4081255",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T15:43:28+00:00",
-   "url": "/haber/gazze-de-bir-gun-fotograf-sergisi-izmir-de-acildi-383481d1/"
   },
   {
    "id": "40711dbc",
@@ -563,17 +596,6 @@
    "url": "/haber/kyk-burs-ve-kredi-basvurusu-2026-gsb-kyk-burs-ve-kredi-basvurulari-bas-de2f8f76/"
   },
   {
-   "id": "4504dbb8",
-   "title": "İngiltere'de Filistin destekçisi üniversite öğrencileri ile İsrail yanlıları karşı karşıya geldi",
-   "summary": "İsrail'in Gazze'ye yönelik soykırımı üçüncü yılını doldururken Filistin'e destek amacıyla İngiltere'nin başkenti Londra'da yürüyüş düzenleyen üniversite öğrencileri, İsrail yanlısı bir grupla karşı karşıya geldi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ingilterede-filistin-destekcisi-universite-ogrencileri-ile-israil-yanlilari-karsi-karsiya-geldi/4081117",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T13:39:05+00:00",
-   "url": "/haber/ingiltere-de-filistin-destekcisi-universite-ogrencileri-ile-israil-yan-4504dbb8/"
-  },
-  {
    "id": "52648b1b",
    "title": "Skoda, Octavia’yı “tam hibrit” olarak da sunacak",
    "summary": "Halihazırda “hafif hibrit” ve “fişli hibrit” altyapılarını kullanan Skoda, popüler modeli Octavia’yı artık “tam hibrit” olarak da satışa sunacak. İlk defa kullanılacağı aktarılan bu yeni tam hibrit sistemde 1,5 litrelik…",
@@ -682,17 +704,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T13:22:00+00:00",
    "url": "/haber/hbo-max-ve-paramount-zamanla-birleserek-tek-bir-platform-olacak-78b23040/"
-  },
-  {
-   "id": "dc4daee4",
-   "title": "Amazon'da Flaş Fırsatlar başladı: ASUS notebook, klavye, cam temizleme robotu ve dahası",
-   "summary": "Amazon'da 6 Ekim'e özel Flaş Fırsatlarda Aula klavye, Duracell pil, JBL hoparlör, Marshall kulaklık, Cif, Domestos ve Omo ürünleri indirime girdi. Kısa süreliğine geçerli bu fırsatları kaçırmayın.",
-   "link": "https://www.donanimhaber.com/amazon-da-gunun-flas-firsatlar-i-7-ekim-2026--211351",
-   "image": "https://www.donanimhaber.com/images/images/haber/211351/1200x675amazon-da-gunun-flas-firsatlar-i-7-ekim-2026.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-07T13:19:23+00:00",
-   "url": "/haber/amazon-da-flas-firsatlar-basladi-asus-notebook-klavye-cam-temizleme-ro-dc4daee4/"
   },
   {
    "id": "4e29de64",
@@ -968,17 +979,6 @@
    "category": "gundem",
    "date": "2026-10-07T11:25:41+00:00",
    "url": "/haber/esenyurt-taki-bir-lisede-bicakli-kavga-2ddbcc3e/"
-  },
-  {
-   "id": "ba80aca8",
-   "title": "Oyuncu Berna Laçin hakkında İzmir paylaşımı nedeniyle soruşturma açıldı",
-   "summary": "Sinema, dizi oyuncusu ve sunucu Berna Laçin hakkında İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AKP'ye geçmesine verdiği tepkiyle ilgili soruşturma açıldı.",
-   "link": "https://www.bbc.com/turkce/articles/c687zx901xdno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14dd/live/7eb7d840-c23c-11f1-b390-9f59a375fdd2.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-07T11:09:37+00:00",
-   "url": "/haber/oyuncu-berna-lacin-hakkinda-izmir-paylasimi-nedeniyle-sorusturma-acild-ba80aca8/"
   },
   {
    "id": "ebafb5ba",
