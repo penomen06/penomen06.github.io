@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T00:31:07.606823+00:00",
+ "updated": "2026-10-07T01:01:17.851443+00:00",
  "items": [
   {
    "id": "f3400517",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-07T00:30:00+00:00",
+   "date": "2026-10-07T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f3400517/"
+  },
+  {
+   "id": "9321b5de",
+   "title": "Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği Resmi Gazete'de",
+   "summary": "Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+   "link": "https://www.ntv.com.tr/turkiye/engelli-bireylere-yonelik-ozel-bakim-merkezleri-yonetmeligi-resmi-gazetede-1745149",
+   "image": "https://images.ntv.com.tr/images/engelli-384212.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-07T00:50:41+00:00",
+   "url": "/haber/engelli-bireylere-yonelik-ozel-bakim-merkezleri-yonetmeligi-resmi-gaze-9321b5de/"
   },
   {
    "id": "11607afc",
@@ -825,17 +836,6 @@
    "category": "teknoloji",
    "date": "2026-10-06T14:21:02+00:00",
    "url": "/haber/paramount-warner-bros-u-110-milyar-dolara-satin-aldi-7d4621fe/"
-  },
-  {
-   "id": "cd63572e",
-   "title": "Mersin’deki görüntülere AK Partili Özlem Zengin’den tepki: İçişleri soruşturma başlattı",
-   "summary": "Mersin’de bir ev araması sırasında kapıyı açan kadının görüntülerinin basına sızdırılmasına AK Partili Zengin tepki gösterdi. Olayla ilgili İçişleri Bakanlığı'nın soruşturma başlattığı bildirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/mersindeki-goruntulere-ak-partili-ozlem-zenginden-tepki-icisleri-sorusturma-baslatti-1745117",
-   "image": "https://images.ntv.com.tr/images/ozlem-zengin-aa-1526337-787276.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-06T14:20:42+00:00",
-   "url": "/haber/mersin-deki-goruntulere-ak-partili-ozlem-zengin-den-tepki-icisleri-sor-cd63572e/"
   },
   {
    "id": "82e91f9a",
