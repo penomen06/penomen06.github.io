@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T22:31:11.321465+00:00",
+ "updated": "2026-10-07T23:01:21.817590+00:00",
  "items": [
   {
    "id": "b5da0e3d",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-07T22:30:00+00:00",
+   "date": "2026-10-07T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b5da0e3d/"
+  },
+  {
+   "id": "6818aa68",
+   "title": "Balıkesir'in Bandırma ilçesinde yağ fabrikasında yangın çıktı",
+   "summary": "Balıkesir'in Bandırma ilçesinde, yağ fabrikasında çıkan yangına müdahale ediliyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/balikesirin-bandirma-ilcesinde-yag-fabrikasinda-yangin-cikti/4081599",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T22:47:59+00:00",
+   "url": "/haber/balikesir-in-bandirma-ilcesinde-yag-fabrikasinda-yangin-cikti-6818aa68/"
+  },
+  {
+   "id": "453e44c0",
+   "title": "Ticaret Bakanı Bolat hakkındaki iddiaları yalanladı",
+   "summary": "Ticaret Bakanı Bolat, fon soruşturmaları kapsamında 7 yatırım kuruluşuna yönelik incelemeler üzerinden adının gündeme getirilmeye çalışılmasının, tümüyle bir kara propaganda, sosyal ve siyasal linç avcılığının yeni bir…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-hakkindaki-iddialari-yalanladi/4081597",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T22:41:14+00:00",
+   "url": "/haber/ticaret-bakani-bolat-hakkindaki-iddialari-yalanladi-453e44c0/"
   },
   {
    "id": "06f97b93",
@@ -286,28 +308,6 @@
    "category": "gundem",
    "date": "2026-10-07T19:50:30+00:00",
    "url": "/haber/yemen-deki-husiler-suudi-arabistan-24-saatte-156-hava-saldirisi-ve-fuz-f7c892fb/"
-  },
-  {
-   "id": "75312e1a",
-   "title": "Yener İnce'den Singo, Osimhen ve Sallai'nin sağlık durumuna ilişkin açıklama",
-   "summary": "Galatasaray Kulübü Doktoru Yener İnce, sakatlıkları devam eden Singo, Osimhen ve Sallai'nin tedavilerinin sürdüğünü söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/yener-inceden-singo-osimhen-ve-sallainin-saglik-durumuna-iliskin-aciklama/4081474",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T19:44:36+00:00",
-   "url": "/haber/yener-ince-den-singo-osimhen-ve-sallai-nin-saglik-durumuna-iliskin-aci-75312e1a/"
-  },
-  {
-   "id": "7e3026f5",
-   "title": "Ukrayna Devlet Başkanı Zelenskiy, Rusya'nın saldırılarında 25 kişinin öldüğünü bildirdi",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rus ordusunun ülkesine düzenlediği hava saldırıları nedeniyle 25 kişinin öldüğünü ve 100 kişinin yaralandığını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-devlet-baskani-zelenskiy-rusyanin-saldirilarinda-25-kisinin-oldugunu-bildirdi/4081472",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T19:42:55+00:00",
-   "url": "/haber/ukrayna-devlet-baskani-zelenskiy-rusya-nin-saldirilarinda-25-kisinin-o-7e3026f5/"
   },
   {
    "id": "fcbd19b5",
