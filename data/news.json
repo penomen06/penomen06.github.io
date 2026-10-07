@@ -1,16 +1,137 @@
 {
- "updated": "2026-10-07T09:12:46.572012+00:00",
+ "updated": "2026-10-07T09:31:05.194549+00:00",
  "items": [
+  {
+   "id": "4a9b30bb",
+   "title": "Galaxy S25 FE’ye AirDrop Desteği Geldi: iPhone ile Dosya Paylaşabileceksiniz",
+   "summary": "Samsung Galaxy S25 FE, One UI 9.0 güncellemesi ile iPhone cihazlarla Quick Share üzerinden dosya paylaşım desteğine kavuştu.",
+   "link": "https://shiftdelete.net/samsung-galaxy-s25-fe-quick-share-airdrop-destegi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-07T09:30:55+00:00",
+   "url": "/haber/galaxy-s25-fe-ye-airdrop-destegi-geldi-iphone-ile-dosya-paylasabilecek-4a9b30bb/"
+  },
+  {
+   "id": "4d9c5659",
+   "title": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay AKP'ye katıldı",
+   "summary": "Mutlak butlan kararı sonrası haziran ayında CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay bugün AKP'ye katıldı.",
+   "link": "https://www.bbc.com/turkce/articles/cmlyl2rx4xjvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/12c6/live/5d678f10-c231-11f1-be2f-0fbd447d6e43.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-07T09:29:15+00:00",
+   "url": "/haber/izmir-buyuksehir-belediye-baskani-cemil-tugay-akp-ye-katildi-4d9c5659/"
+  },
+  {
+   "id": "15bcab60",
+   "title": "İsrail, 3 yıldır sürdürdüğü soykırımda Filistin sporuna da darbe vurdu",
+   "summary": "İsrail'in Ekim 2023'te başlayan Gazze soykırımının 3. yılı geride kalırken bu süre zarfında 1000'den fazla sporcu öldürüldü, 300'e yakın spor tesisi zarar gördü.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-3-yildir-surdurdugu-soykirimda-filistin-sporuna-da-darbe-vurdu/4080757",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T09:28:22+00:00",
+   "url": "/haber/israil-3-yildir-surdurdugu-soykirimda-filistin-sporuna-da-darbe-vurdu-15bcab60/"
+  },
   {
    "id": "67bcc869",
    "title": "Cumhurbaşkanı Erdoğan'dan fon soruşturması açıklaması: Sahtekarlık yapanlar hesabını verecek",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon soruşturmasına ilişkin yaptığı açıklamada, \"Milletin hakkına girenler, haksız kazanç sağlayanlar, sahtekarlık yapanlar hesabını verecekler.\" dedi.",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon soruşturmasında gerekli adımların atıldığını belirterek, \"Memlekete hizmet yolunda önümüzde çıkan kim olursa olsun, kenara alır yürümeye devam ederiz.\" dedi.",
    "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-mesafeleri-kapatacak-toplumsal-zemine-ihtiyacimiz-var-1745217",
    "image": "https://images.ntv.com.tr/images/AA-20261007-42681334-42681331-CUMHURBASKANI_VE_AK_PARTI_GENEL_BASKANI_RECEP_TAYYIP_ERDOGAN-697320.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-07T09:07:41+00:00",
+   "date": "2026-10-07T09:28:12+00:00",
    "url": "/haber/cumhurbaskani-erdogan-dan-fon-sorusturmasi-aciklamasi-sahtekarlik-yapa-67bcc869/"
+  },
+  {
+   "id": "8d72f9eb",
+   "title": "Cemil Tugay AK Parti'ye katıldı",
+   "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay AK Parti'ye katıldı. Cumhurbaşkanı Recep Tayyip Erdoğan, Tugay'a \"Hoş geldin.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-cemil-tugay-ak-parti-genel-merkezinde-1745195",
+   "image": "https://images.ntv.com.tr/images/AA-20261007-42681310-42681308-CUMHURBASKANI_VE_AK_PARTI_GENEL_BASKANI_RECEP_TAYYIP_ERDOGAN-416825.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-07T09:26:05+00:00",
+   "url": "/haber/cemil-tugay-ak-parti-ye-katildi-8d72f9eb/"
+  },
+  {
+   "id": "0c0f7061",
+   "title": "ChatGPT için faydalı bir “toplantı” eklentisi duyuruldu",
+   "summary": "OpenAI, ChatGPT için “Meetings” adında faydalı bir toplantı eklentisi hazırladı. Gerekli izinler verildikten sonra sanal ya da yüz yüze toplantılardaki konuşmaları dinleyen eklenti, kişiye özel toplantı notları ve…",
+   "link": "https://www.log.com.tr/chatgpt-icin-faydali-bir-toplanti-eklentisi-duyuruldu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-07_12-19-39_UWOZf-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-07T09:25:45+00:00",
+   "url": "/haber/chatgpt-icin-faydali-bir-toplanti-eklentisi-duyuruldu-0c0f7061/"
+  },
+  {
+   "id": "6ec8fd16",
+   "title": "Markete çıplak giren mühendis müşterilere saldırdı",
+   "summary": "İstanbul'da mühendis olduğu öğrenilen bir kişi, markete çıplak bir şekilde girerek müşterilere saldırdı.",
+   "link": "https://www.ntv.com.tr/turkiye/markete-ciplak-giren-muhendis-musterilere-saldirdi-1745223",
+   "image": "https://images.ntv.com.tr/images/KAGITHANE’DE-CIPLAK-HALDE-MARKETE-GIRIP-_1541307_458741-688427(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-07T09:22:22+00:00",
+   "url": "/haber/markete-ciplak-giren-muhendis-musterilere-saldirdi-6ec8fd16/"
+  },
+  {
+   "id": "85155783",
+   "title": "Cemil Tugay kimdir, AK Parti'ye mi katılıyor? İzmir Belediye Başkanı Cemil Tugay'ın hayatı",
+   "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, son dönemde kamuoyunda ve siyaset kulislerinde adı sıklıkla anılan isimler arasında yer alıyor. 18 Haziran'da ayrıldığı CHP'nin ardından İzmir'de belediye başkanlığı…",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-cemil-tugay-kimdir-ak-partiye-mi-katiliyor-izmir-belediye-baskani-cemil-tugayin-hayati-1745225",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_915bf79b73c9fbeb9a0b0e2599482cfd-925472.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-07T09:22:22+00:00",
+   "url": "/haber/cemil-tugay-kimdir-ak-parti-ye-mi-katiliyor-izmir-belediye-baskani-cem-85155783/"
+  },
+  {
+   "id": "bf73ff99",
+   "title": "TBMM Başkanvekilliği'nden istifa etmişti. Bekir Bozdağ'ın yerine gelen isim belli oldu",
+   "summary": "Sağlık sorunları nedeniyle görevinden istifa eden yerine Bekir Bozdağ'ın yerine Meclis Başkanvekilliği görevini AK Parti Tokat Milletvekili Yusuf Beyazıt devralacak.",
+   "link": "https://www.ntv.com.tr/turkiye/bekir-bozdag-tbmm-baskanvekilliginden-istifa-etmisti-yerine-gelecek-isim-belli-oldu-1745224",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-07120053-909048(2).png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-07T09:20:26+00:00",
+   "url": "/haber/tbmm-baskanvekilligi-nden-istifa-etmisti-bekir-bozdag-in-yerine-gelen-bf73ff99/"
+  },
+  {
+   "id": "b7561d94",
+   "title": "AKP'nin İzmir marşlı paylaşımı neden tartışılıyor?",
+   "summary": "Mutlak butlan kararı sonrası haziran ayında CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın 7 Ekim'de AKP'ye katılması bekleniyor. AKP'nin resmi hesabından da 6 Ekim akşamı İzmir paylaşımı yapıldı.",
+   "link": "https://www.bbc.com/turkce/articles/cqkgk74ededlo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1dc0/live/3dfdd810-c195-11f1-a64c-550be9e3c66b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-07T09:17:46+00:00",
+   "url": "/haber/akp-nin-izmir-marsli-paylasimi-neden-tartisiliyor-b7561d94/"
+  },
+  {
+   "id": "a0542b96",
+   "title": "Amazon'da Prime Alışveriş Festivali sürüyor: İşte bugüne özel fırsatlar",
+   "summary": "Amazon Prime Alışveriş Festivali'nde 7 Ekim'e özel öne çıkan indirimleri sizin için bir araya getirdik. Telefondan bilgisayara, televizyondan süpürgeye çok sayıda üründe bugüne özel indirim var.",
+   "link": "https://www.donanimhaber.com/amazon-da-gunun-one-cikan-indirimleri-7-ekim-2026--211330",
+   "image": "https://www.donanimhaber.com/images/images/haber/211330/1200x675amazon-da-gunun-one-cikan-indirimleri-7-ekim-2026.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-07T09:14:00+00:00",
+   "url": "/haber/amazon-da-prime-alisveris-festivali-suruyor-iste-bugune-ozel-firsatlar-a0542b96/"
+  },
+  {
+   "id": "6d437124",
+   "title": "Malezya’da bir Chery OMODA 5’in arka aksı komple yerinden çıktı",
+   "summary": "Malezya’dan gelen şaşırtıcı fotoğraflarda, kırılan arka aksı lastikleriyle birlikte komple yerinden çıkan bir Chery OMODA 5 karşımıza çıkıyor. Henüz ayrıntılı bir açıklama yapılmadı, ancak durumun yandan alınan bir…",
+   "link": "https://www.log.com.tr/malezyada-bir-chery-omoda-5in-arka-aksi-komple-yerinden-cikti/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-07_12-06-11_31MHC-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-07T09:12:54+00:00",
+   "url": "/haber/malezya-da-bir-chery-omoda-5-in-arka-aksi-komple-yerinden-cikti-6d437124/"
   },
   {
    "id": "e7a39b04",
@@ -79,17 +200,6 @@
    "url": "/haber/mistral-large-4-tanitildi-1-trilyon-parametreli-avrupali-yapay-zeka-mo-0d6bb1f1/"
   },
   {
-   "id": "b7561d94",
-   "title": "AKP'nin İzmir marşlı paylaşımı neden tartışılıyor?",
-   "summary": "Mutlak butlan kararı sonrası haziran ayında CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın 7 Ekim'de AKP'ye katılması bekleniyor. AKP'nin resmi hesabından da 6 Ekim akşamı İzmir paylaşımı yapıldı.",
-   "link": "https://www.bbc.com/turkce/articles/cqkgk74ededlo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1dc0/live/3dfdd810-c195-11f1-a64c-550be9e3c66b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-07T08:59:46+00:00",
-   "url": "/haber/akp-nin-izmir-marsli-paylasimi-neden-tartisiliyor-b7561d94/"
-  },
-  {
    "id": "f077eec7",
    "title": "İsrail soykırımı nedeniyle Gazze'de enkaz altında kalan 8 bin kişinin naaşının çıkarılması 8 yıl sürebilir",
    "summary": "Gazze Şeridi Sivil Savunma Teşkilatı Sözcüsü Mahmud Basal, İsrail saldırılarında teşkilatın 16 merkezinden 14'ünün yıkıldığını ve enkaz altındaki yaklaşık 8 bin kişinin cenazesini çıkarmanın mevcut şartlarda 8 yıl…",
@@ -121,17 +231,6 @@
    "category": "gundem",
    "date": "2026-10-07T08:55:24+00:00",
    "url": "/haber/bursa-da-depozito-sisteminde-gunluk-1-milyon-ambalajin-sayilmasi-hedef-4a944ef9/"
-  },
-  {
-   "id": "8d72f9eb",
-   "title": "Cemil Tugay AK Parti'ye katılıyor. İşte ilk sözleri",
-   "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay AK Parti'ye katılıyor. Tugay'a rozetini Cumhurbaşkanı Recep Tayyip Erdoğan takacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-cemil-tugay-ak-parti-genel-merkezinde-1745195",
-   "image": "https://images.ntv.com.tr/images/AA-20260930-42614709-42614707-CUMHURBASKANI_ERDOGAN_IZMIR_BUYUKSEHIR_BELEDIYE_BASKANI_TUGAYI_KABUL_ETTI-677626.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-07T08:53:39+00:00",
-   "url": "/haber/cemil-tugay-ak-parti-ye-katiliyor-iste-ilk-sozleri-8d72f9eb/"
   },
   {
    "id": "efadce49",
@@ -220,17 +319,6 @@
    "category": "gundem",
    "date": "2026-10-07T08:37:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-rabbim-omur-verdikce-hizmetten-el-cekmeyecegiz-a715336e/"
-  },
-  {
-   "id": "0bcb7df5",
-   "title": "Uluslararası işbirlikleri uzay çalışmalarının gelişmesinde önemli rol oynuyor",
-   "summary": "Türkiye'nin ilk astronotu Tuğgeneral Alper Gezeravcı, Türkiye'nin savunma ve havacılık alanında geliştirdiği altyapıyı uzay çalışmalarına entegre etmeye yönelik önemli adımlar attığını söyledi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/uluslararasi-isbirlikleri-uzay-calismalarinin-gelismesinde-onemli-rol-oynuyor/4080615",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T08:34:23+00:00",
-   "url": "/haber/uluslararasi-isbirlikleri-uzay-calismalarinin-gelismesinde-onemli-rol-0bcb7df5/"
   },
   {
    "id": "52d03eb9",
@@ -332,6 +420,17 @@
    "url": "/haber/hyundai-den-elektrikli-ticari-hamlesi-yeni-staria-cargo-tanitildi-a1bb1e24/"
   },
   {
+   "id": "e7e06458",
+   "title": "TRT 2 yeni yayın dönemine 12 Ekim'de başlıyor",
+   "summary": "TRT 2, yeni yayın döneminde kültür, sanat, sinema, edebiyat, müzik ve düşünce dünyasından farklı içerikleri izleyiciyle buluşturacak.",
+   "link": "https://www.aa.com.tr/tr/kultur/trt-2-yeni-yayin-donemine-12-ekimde-basliyor/4080586",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T08:16:24+00:00",
+   "url": "/haber/trt-2-yeni-yayin-donemine-12-ekim-de-basliyor-e7e06458/"
+  },
+  {
    "id": "53e98c56",
    "title": "Opera ve balenin perdesi Anadolu'nun ilçelerinde açılacak",
    "summary": "Devlet Opera ve Balesi (DOB) Genel Müdürlüğü, opera ve baleyi Anadolu'nun dört bir yanına taşımak için düzenlediği Anadolu Opera ve Bale Festivali'nin üçüncüsünde Midyat, Divriği, Akhisar ve Kadirli gibi birçok ilçeyi…",
@@ -352,6 +451,17 @@
    "category": "gundem",
    "date": "2026-10-07T08:10:18+00:00",
    "url": "/haber/kktc-deki-feribot-faciasinda-bir-cesede-daha-ulasildi-can-kaybi-24-e-y-8fa5d6c3/"
+  },
+  {
+   "id": "57aa1915",
+   "title": "Trabzonspor, Samsun maçına deplasmandaki 153 günlük hasreti dindirmek için çıkacak",
+   "summary": "Trendyol Süper Lig'in ilk 6 haftasında 10 puan toplayan Trabzonspor, Samsunspor karşısında deplasmanda sezonun ilk galibiyetini almanın mücadelesini verecek.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-samsun-macina-deplasmandaki-153-gunluk-hasreti-dindirmek-icin-cikacak/4080565",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-07T08:08:59+00:00",
+   "url": "/haber/trabzonspor-samsun-macina-deplasmandaki-153-gunluk-hasreti-dindirmek-i-57aa1915/"
   },
   {
    "id": "0f165abf",
@@ -387,17 +497,6 @@
    "url": "/haber/kapadokya-da-sonbahar-uzak-dogulu-turistlerle-hareketlendi-e43f631c/"
   },
   {
-   "id": "cd6a2ccc",
-   "title": "İsveçli futbolcu Rafferty'nin Kasımpaşa tercihiyle doğru bir adım attığına inancı tam",
-   "summary": "Kasımpaşa'nın İsveçli futbolcusu Marcus Rafferty, lacivert-beyazlı takıma transfer olup doğru bir adım attığına inandığını vurgulayarak, iyi bir yolda olduklarını söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/isvecli-futbolcu-raffertynin-kasimpasa-tercihiyle-dogru-bir-adim-attigina-inanci-tam/4080535",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T08:02:40+00:00",
-   "url": "/haber/isvecli-futbolcu-rafferty-nin-kasimpasa-tercihiyle-dogru-bir-adim-atti-cd6a2ccc/"
-  },
-  {
    "id": "d54d09f5",
    "title": "Samsung Galaxy S24 için One UI 9.0 Yayınlandı",
    "summary": "Samsung, Galaxy S24 serisi için Android 17 tabanlı One UI 9.0 güncellemesini yayınladı. İşte yeni arayüzün getirdiği yenilikler ve detaylar.",
@@ -418,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T08:00:00+00:00",
    "url": "/haber/samsung-iki-telefonu-daha-listeden-cikardi-artik-guncelleme-gelmeyecek-0a814d7e/"
-  },
-  {
-   "id": "d4eef295",
-   "title": "Derinkuyu'nun binlerce yıllık yaşam bilgisi çağdaş sanatla geleceğe taşınıyor",
-   "summary": "Sanatçı Gürkan Maruf Mıhçı'nın Derinkuyu Yeraltı Şehri'nin binlerce yıllık yaşam kültürünü dijital teknolojilerle buluşturduğu \"Aftermath Of The Climate Crisis: Derinkuyu Revived\" adlı eseri, Kapadokya Bienali'nde…",
-   "link": "https://www.aa.com.tr/tr/kultur/derinkuyunun-binlerce-yillik-yasam-bilgisi-cagdas-sanatla-gelecege-tasiniyor/4080519",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-07T07:52:44+00:00",
-   "url": "/haber/derinkuyu-nun-binlerce-yillik-yasam-bilgisi-cagdas-sanatla-gelecege-ta-d4eef295/"
   },
   {
    "id": "3b6e5b3b",
@@ -794,17 +882,6 @@
    "url": "/haber/hakkari-kars-ve-ardahan-da-yuksek-kesimler-beyaza-burundu-381e92d1/"
   },
   {
-   "id": "b38d5c82",
-   "title": "1.000 beygirlik elektrikli “Jaguar Type 01” görücüye çıkarıldı",
-   "summary": "Uzun süredir gündemde olan tamamen elektrikli Jaguar Type 01, bugün nihayet resmi olarak tanıtıldı. Jaguar için yeni bir dönemin kapısını aralayan model, tasarımsal açıdan şirketin iki yıl önce sergilediği Type 00…",
-   "link": "https://www.log.com.tr/1-000-beygirlik-elektrikli-jaguar-type-01-gorucuye-cikarildi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-07_09-04-23_hLRsJ-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-07T06:01:50+00:00",
-   "url": "/haber/1-000-beygirlik-elektrikli-jaguar-type-01-gorucuye-cikarildi-b38d5c82/"
-  },
-  {
    "id": "870a54bf",
    "title": "Samsung Galaxy A Kullancılarına Kötü Haber: Güncelleme Desteği Bitti",
    "summary": "Samsung Galaxy A23 5G güncelleme desteği sona erdi. Popüler orta segment telefon artık yeni Android veya güvenlik güncellemelerini almayacak.",
@@ -814,28 +891,6 @@
    "category": "teknoloji",
    "date": "2026-10-07T06:00:58+00:00",
    "url": "/haber/samsung-galaxy-a-kullancilarina-kotu-haber-guncelleme-destegi-bitti-870a54bf/"
-  },
-  {
-   "id": "f37fcc38",
-   "title": "Apple ve LG, birlikte akıllı ev ürünleri geliştiriyor",
-   "summary": "Bloomberg’den Mark Gurman’a göre Apple ve LG, kameralı kapı zili, termostat, akıllı kilit, sıcaklık sensörü ve farklı güvenlik kameraları üzerinde çalışıyor. Doğrudan LG tarafından üretilip satılacağı aktarılan bu yeni…",
-   "link": "https://www.log.com.tr/apple-ve-lg-birlikte-akilli-ev-urunleri-gelistiriyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/09/apple-onumuzdeki-ekim-ayinda-bu-yeni-urunleri-tanitabilir-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-07T05:44:23+00:00",
-   "url": "/haber/apple-ve-lg-birlikte-akilli-ev-urunleri-gelistiriyor-f37fcc38/"
-  },
-  {
-   "id": "5cc74e4a",
-   "title": "Apple Bu Ay İki Farklı Etkinlik Yapabilir",
-   "summary": "Apple Ekim ayı ürün lansmanı kapsamında yeni MacBook modelleri, OLED ekranlı iPad mini ve daha fazlasını tanıtmayı planlıyor.",
-   "link": "https://shiftdelete.net/apple-ekim-ayi-urun-lansmani-beklentileri",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-07T05:30:46+00:00",
-   "url": "/haber/apple-bu-ay-iki-farkli-etkinlik-yapabilir-5cc74e4a/"
   },
   {
    "id": "edc475fa",
@@ -915,17 +970,6 @@
    "url": "/haber/engelli-bireylere-yonelik-ozel-bakim-merkezleri-yonetmeligi-resmi-gaze-9321b5de/"
   },
   {
-   "id": "4993cdfb",
-   "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 07 Ekim 2026",
-   "summary": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 07 Ekim 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-07-ekim-2026-1745148",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-07T00:10:00+00:00",
-   "url": "/haber/son-dakika-mugla-da-deprem-mi-oldu-az-once-deprem-mugla-da-nerede-oldu-4993cdfb/"
-  },
-  {
    "id": "51dec5d0",
    "title": "7 Ekim saldırılarının üçüncü yılı: Türkiye-İsrail ilişkileri nasıl değişti?",
    "summary": "Hamas'ın 7 Ekim 2023 saldırılarıyla başlayan süreç, Ortadoğu'da güç dengelerini sarsan ve bölgesel çatışmaları genişleten yeni bir dönemin kapısını araladı. İsrail'in Gazze'den İran, Suriye ve Lübnan'a uzanan…",
@@ -946,28 +990,6 @@
    "category": "gundem",
    "date": "2026-10-06T23:03:14+00:00",
    "url": "/haber/rusya-da-veba-arastirma-merkezindeki-calisanin-olumuyle-ilgili-neler-b-2155e29b/"
-  },
-  {
-   "id": "c4af31f9",
-   "title": "Ankara'da uygulama noktasında polislere ateş açıldı. Bir polis şehit oldu",
-   "summary": "Ankara'nın Pursaklar ilçesinde uygulama noktasında durdurulan bir araçtan ateş açılması sonucunda polis memuru Ahmet Türkoğlu şehit oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/ankarada-uygulama-noktasinda-polislere-ates-acildi-bir-polis-sehit-oldu-1745144",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-07015908-901987.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-06T23:01:06+00:00",
-   "url": "/haber/ankara-da-uygulama-noktasinda-polislere-ates-acildi-bir-polis-sehit-ol-c4af31f9/"
-  },
-  {
-   "id": "7f84adfc",
-   "title": "Boğaz'da yolcu vapuru 200 yıllık yalıya çarptı",
-   "summary": "Derin Mermerci'nin Boğaz kenarındaki tarihi Kazasker Necmettin Efendi Yalısı'na yolcu vapuru çarptı. O anları Derin Mermerci sosyal medya hesabından paylaştı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-bogazda-yolcu-vapuru-200-yillik-yaliya-carpti-1745145",
-   "image": "https://images.ntv.com.tr/images/AW804128_02-899322.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-06T22:41:09+00:00",
-   "url": "/haber/bogaz-da-yolcu-vapuru-200-yillik-yaliya-carpti-7f84adfc/"
   },
   {
    "id": "10667088",
@@ -1113,17 +1135,6 @@
    "url": "/haber/yeni-bmw-ix4-tanitim-oncesi-sizdi-elektrikli-x4-boyle-gorunecek-8e762ea4/"
   },
   {
-   "id": "06143c51",
-   "title": "Daron Acemoğlu: İşsizlik yapay zekâ yüzünden 10 yılda üç katına çıkabilir",
-   "summary": "Nobel ödüllü MIT profesörü Daron Acemoğlu, yapay zekânın sebep olabileceği ekonomik ve toplumsal sıkıntılar hakkında dikkat çekici uyarılarına bir yenisini daha ekledi: İşsizlik üç katına çıkabilir!",
-   "link": "https://www.donanimhaber.com/daron-acemoglu-issizlik-10-yilda-uc-katina-cikabilir--211315",
-   "image": "https://www.donanimhaber.com/images/images/haber/211315/1200x675daron-acemoglu-issizlik-10-yilda-uc-katina-cikabilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-06T19:00:00+00:00",
-   "url": "/haber/daron-acemoglu-issizlik-yapay-zeka-yuzunden-10-yilda-uc-katina-cikabil-06143c51/"
-  },
-  {
    "id": "4e16dacd",
    "title": "İstanbul'da uluslararası forex dolandırıcılığı operasyonunda 95 kişi yakalandı",
    "summary": "İstanbul'da yatırım vaadiyle uluslararası düzeyde forex dolandırıcılığı yaptığı tespit edilen 95 zanlı gözaltına alındı.",
@@ -1177,17 +1188,6 @@
    "category": "gundem",
    "date": "2026-10-06T11:41:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-nitelikli-yuksekogretimi-anadolu-nun-dort-bir-ya-6862c4d1/"
-  },
-  {
-   "id": "7e94f7aa",
-   "title": "Nobel Fizik Ödülü, uzaydan gelen 'hayalet parçacıkların' izini süren Francis Halzen'a verildi",
-   "summary": "Belçikalı fizikçi Prof. Francis Halzen, uzaydan gelen parçacıkları tespit ederek evrenin uzak bölgelerine ışık tutan bir gözlemevinin kurulmasındaki öncü çalışmalarıyla Nobel Fizik Ödülü'nü kazandı.",
-   "link": "https://www.bbc.com/turkce/articles/c62e9kyw0xp0o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50c9/live/8079db00-c175-11f1-a64c-550be9e3c66b.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-06T11:11:38+00:00",
-   "url": "/haber/nobel-fizik-odulu-uzaydan-gelen-hayalet-parcaciklarin-izini-suren-fran-7e94f7aa/"
   },
   {
    "id": "8893783d",
