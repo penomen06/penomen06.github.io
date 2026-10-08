@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-08T21:01:14.623181+00:00",
+ "updated": "2026-10-08T21:28:57.156111+00:00",
  "items": [
+  {
+   "id": "5a317ace",
+   "title": "Ukrayna: Rusya'nın yolcu otobüsüne düzenlediği saldırıda 30 kişi hayatını kaybetti",
+   "summary": "Ukrayna Devlet Acil Durum Servisi (DSNS), Rus ordusunun Donetsk bölgesindeki Kramatorsk şehrinde yolcu otobüsünü hedef alması sonucu 30 kişinin yaşamını yitirdiğini ve 18 kişinin yaralandığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusyanin-yolcu-otobusune-duzenledigi-saldirida-30-kisi-hayatini-kaybetti/4082829",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T21:10:29+00:00",
+   "url": "/haber/ukrayna-rusya-nin-yolcu-otobusune-duzenledigi-saldirida-30-kisi-hayati-5a317ace/"
+  },
+  {
+   "id": "ed21da73",
+   "title": "Milli güreşçi Hakan Büyükçıngıl iki dünya şampiyonluğu peşinde",
+   "summary": "Milli güreşçi Hakan Büyükçıngıl, hem 23 yaş altı hem de büyüklerde dünya şampiyonluğunu hedeflediğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-guresci-hakan-buyukcingil-iki-dunya-sampiyonlugu-pesinde/4082827",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T21:07:14+00:00",
+   "url": "/haber/milli-guresci-hakan-buyukcingil-iki-dunya-sampiyonlugu-pesinde-ed21da73/"
+  },
+  {
+   "id": "7390218a",
+   "title": "İsrail basını: Trump, İsrail seçimleri öncesinde İran'a saldırı düzenlemeyi planlıyor",
+   "summary": "İsrail basını, ABD Başkanı Donald Trump'ın 27 Ekim'de yapılacak İsrail parlamento seçimleri öncesinde İran'a saldırı düzenlemeyi planladığını iddia etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-trump-israil-secimleri-oncesinde-irana-saldiri-duzenlemeyi-planliyor/4082824",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T21:01:51+00:00",
+   "url": "/haber/israil-basini-trump-israil-secimleri-oncesinde-iran-a-saldiri-duzenlem-7390218a/"
+  },
   {
    "id": "e65c1f1e",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 09 Ekim 2026",
@@ -211,28 +244,6 @@
    "url": "/haber/bakan-gurlek-ten-israil-in-filistin-adalet-bakani-nin-uluslararasi-ada-86cc15d2/"
   },
   {
-   "id": "f42cd022",
-   "title": "Putin, bölgedeki çatışmanın çözümü için İran'a destek vermeye hazır olduğunu belirtti",
-   "summary": "Rusya Devlet Başkanı Vladimir Putin, İran'ın, bölgedeki çatışmaların barışçıl yollarla çözülmesine yönelik girişimlerini desteklediklerini ve bu konuda İran'a her türlü yardımı sağlamaya hazır olduklarını söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/putin-bolgedeki-catismanin-cozumu-icin-irana-destek-vermeye-hazir-oldugunu-belirtti/4082745",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T19:40:25+00:00",
-   "url": "/haber/putin-bolgedeki-catismanin-cozumu-icin-iran-a-destek-vermeye-hazir-old-f42cd022/"
-  },
-  {
-   "id": "54f5a79e",
-   "title": "Zimbabve'de şiddetli dolu yağışının ardından Masvingo eyaletinde \"afet durumu\" ilan edildi",
-   "summary": "Zimbabve'de 17 binden fazla haneyi etkileyen şiddetli dolu yağışının ardından ülkenin güneydoğusundaki Masvingo eyaletinde \"afet durumu\" ilan edildiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/zimbabvede-siddetli-dolu-yagisinin-ardindan-masvingo-eyaletinde-afet-durumu-ilan-edildi/4082744",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T19:35:04+00:00",
-   "url": "/haber/zimbabve-de-siddetli-dolu-yagisinin-ardindan-masvingo-eyaletinde-afet-54f5a79e/"
-  },
-  {
    "id": "15920ba7",
    "title": "Güneş, rüzgar ve su Türkiye’nin elektriğinin yarısından fazlasını karşıladı",
    "summary": "Türkiye’de ağustosta elektriğin yüzde 56,4’ü yenilenebilir kaynaklardan üretildi. Güneş ve rüzgarın toplam üretimi 9,9 milyar kWh’ye çıkarak tüm zamanların rekorunu kırdı.",
@@ -363,17 +374,6 @@
    "category": "teknoloji",
    "date": "2026-10-08T17:15:35+00:00",
    "url": "/haber/1-5-milyon-kisi-buraya-geldi-celik-kubbe-kaan-ve-kizilelma-teknofest-g-29a24962/"
-  },
-  {
-   "id": "bc41a45a",
-   "title": "17. Sea to Sky Enduro Motosiklet Yarışları'nın \"plaj\" etabını Mitch Brightmore kazandı",
-   "summary": "Dört kıtada 8 yarıştan oluşan 2026 FIM Hard Enduro Dünya Şampiyonası'nın 7'nci etabı Sea to Sky Enduro Motosiklet Yarışı'nın \"plaj\" etabını İngiliz sporcu Mitch Brightmore zirvede tamamladı.",
-   "link": "https://www.aa.com.tr/tr/spor/17-sea-to-sky-enduro-motosiklet-yarislarinin-plaj-etabini-mitch-brightmore-kazandi/4082653",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T17:12:15+00:00",
-   "url": "/haber/17-sea-to-sky-enduro-motosiklet-yarislari-nin-plaj-etabini-mitch-brigh-bc41a45a/"
   },
   {
    "id": "aede9674",
