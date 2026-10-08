@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-08T14:31:05.267875+00:00",
+ "updated": "2026-10-08T15:01:13.191128+00:00",
  "items": [
+  {
+   "id": "0a5c8b67",
+   "title": "Telefon Tavsiyeleri - Ekim 2026",
+   "summary": "Telefon tavsiyeleri serisinde çeşitli fiyatlar ve niteliklerde tavsiyelerde bulunuyoruz.",
+   "link": "https://www.donanimhaber.com/telefon-tavsiyeleri--211397",
+   "image": "https://www.donanimhaber.com/images/images/haber/211397/1200x675telefon-tavsiyeleri.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-08T15:00:13+00:00",
+   "url": "/haber/telefon-tavsiyeleri-ekim-2026-0a5c8b67/"
+  },
+  {
+   "id": "d4356d8b",
+   "title": "Google Haritalar'a Akaryakıt Fiyatları Eklendi (Bundan Türkiye'ye de Lazım)",
+   "summary": "Google Haritalar, İngiltere'deki kullanıcıların en ucuz benzin ve motorini bulabilmesi için anlık akaryakıt fiyatlarını göstermeye başladı.",
+   "link": "https://www.webtekno.com/google-haritalar-akaryakit-fiyatlari-eklendi-h226675.html",
+   "image": "https://imgrosetta.webtekno.com/file/691394/691394-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-08T14:47:56+00:00",
+   "url": "/haber/google-haritalar-a-akaryakit-fiyatlari-eklendi-bundan-turkiye-ye-de-la-d4356d8b/"
+  },
+  {
+   "id": "71584f5d",
+   "title": "Fransa'da elektrik fiyatları 800 saat boyunca sıfırın altına indi",
+   "summary": "Fransa'da elektrik fiyatlarının sıfır veya negatif seyrettiği süre 2026'da 800 saate ulaşarak rekor kırdı. Artan fiyat dalgalanması, batarya depolama sistemlerini giderek daha kârlı hâle getiriyor.",
+   "link": "https://www.donanimhaber.com/fransa-da-elektrigin-fiyati-800-saat-boyunca-sifirin-altina-indi--211386",
+   "image": "https://www.donanimhaber.com/images/images/haber/211386/1200x675fransa-da-elektrigin-fiyati-800-saat-boyunca-sifirin-altina-indi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-08T14:45:00+00:00",
+   "url": "/haber/fransa-da-elektrik-fiyatlari-800-saat-boyunca-sifirin-altina-indi-71584f5d/"
+  },
+  {
+   "id": "0fc85862",
+   "title": "THY eylül ayında 9 milyon yolcu taşıdı",
+   "summary": "Türk Hava Yolları (THY) eylül ayında 9 milyon yolcuya hizmet verirken, yılın 9 ayında taşıdığı yolcu sayısını 73 milyona yükseltti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/thy-eylul-ayinda-9-milyon-yolcu-tasidi/4082519",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T14:42:18+00:00",
+   "url": "/haber/thy-eylul-ayinda-9-milyon-yolcu-tasidi-0fc85862/"
+  },
   {
    "id": "fcbd0ce2",
    "title": "Yeni BMW iX4 tanıtıldı! 10 dakikada 296 km menzil kazandırıyor",
@@ -189,15 +233,15 @@
    "url": "/haber/dto-kuresel-mal-ticareti-icin-buyume-tahminini-yuzde-3-9-a-yukseltti-h-b7b0a256/"
   },
   {
-   "id": "e9e2b125",
-   "title": "Basketbolda 2026-2027 sezonunun yayın programı",
+   "id": "a937d645",
+   "title": "Basketbolda 2026-2027 sezonunun televizyon yayın adresleri belli oldu",
    "summary": "Basketbolda 2026-2027 sezonunda Türkiye'de televizyon yayını yapılacak organizasyonların adresleri belli oldu.",
-   "link": "https://www.aa.com.tr/tr/spor/basketbolda-2026-2027-sezonunun-yayin-programi/4082423",
+   "link": "https://www.aa.com.tr/tr/spor/basketbolda-2026-2027-sezonunun-televizyon-yayin-adresleri-belli-oldu/4082423",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-08T13:47:10+00:00",
-   "url": "/haber/basketbolda-2026-2027-sezonunun-yayin-programi-e9e2b125/"
+   "url": "/haber/basketbolda-2026-2027-sezonunun-televizyon-yayin-adresleri-belli-oldu-a937d645/"
   },
   {
    "id": "f3fcb122",
@@ -330,17 +374,6 @@
    "category": "teknoloji",
    "date": "2026-10-08T13:25:58+00:00",
    "url": "/haber/playstation-da-oyuncularin-secimi-indirimleri-basladi-kacirmamaniz-ger-d96e7e7f/"
-  },
-  {
-   "id": "b8227198",
-   "title": "ABD'li milyarder Bezos, Ay’da kalıcı üs kurmayı planladıklarını açıkladı",
-   "summary": "Amazon ve uzay şirketi Blue Origin'in kurucusu ABD'li milyarder Jeff Bezos, Ay’a kısa süreli seferler yerine kalıcı ve ekonomik olarak sürdürülebilir bir üs kurmak amacıyla gitmeyi planladıklarını söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdli-milyarder-bezos-ay-da-kalici-us-kurmayi-planladiklarini-acikladi/4082390",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T13:22:50+00:00",
-   "url": "/haber/abd-li-milyarder-bezos-ay-da-kalici-us-kurmayi-planladiklarini-aciklad-b8227198/"
   },
   {
    "id": "763f5b96",
@@ -772,17 +805,6 @@
    "url": "/haber/israil-in-saldirilarinda-1014-kisi-kaybeden-filistin-sporu-sahalara-ye-1abc7aec/"
   },
   {
-   "id": "1a15f720",
-   "title": "Akıllı Sensörler Yıkama Süresini Nasıl Optimize Ediyor?",
-   "summary": "Yeni nesil çamaşır makinelerinin içindeki yükü ve miktarını analiz ederek yıkama süresini adeta baştan yazdığı teknoloji tam olarak nasıl çalışıyor?",
-   "link": "https://www.webtekno.com/akilli-sensorler-yikama-suresini-nasil-optimize-ediyor-h226636.html",
-   "image": "https://imgrosetta.webtekno.com/file/691441/691441-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-08T11:21:51+00:00",
-   "url": "/haber/akilli-sensorler-yikama-suresini-nasil-optimize-ediyor-1a15f720/"
-  },
-  {
    "id": "e0000b8c",
    "title": "Bakan Fidan: Mekke İttifakı savunma anlaşmasıdır",
    "summary": "Dışişleri Bakanı Hakan Fidan, Mekke İttifakı'nın bir savunma anlaşması olduğunu söyledi. Bakan Fidan, \"Türkiye bir ülke toprağına asker gönderip orada bir saldırıda olmayacak.\" dedi.",
@@ -937,17 +959,6 @@
    "url": "/haber/microsoft-6-000-dolarlik-bilgisayarini-tanitti-surface-rtx-spark-dev-b-b5ed2596/"
   },
   {
-   "id": "7a82bde0",
-   "title": "AMD FSR 4 için kapsamı genişletiyor: El konsollarına da geliyor",
-   "summary": "AMD, FSR 4 teknolojisini masaüstü ekran kartlarının dışına taşıyor. Yapay zeka destekli yükseltme teknolojisi 2026 sonuna kadar APU, oyuncu laptopu ve el konsollarına gelecek.",
-   "link": "https://www.donanimhaber.com/amd-fsr-4-icin-kapsami-genisletiyor-el-konsollarina-da-geliyor--211373",
-   "image": "https://www.donanimhaber.com/images/images/haber/211373/1200x675amd-fsr-4-icin-kapsami-genisletiyor-el-konsollarina-da-geliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-08T09:56:00+00:00",
-   "url": "/haber/amd-fsr-4-icin-kapsami-genisletiyor-el-konsollarina-da-geliyor-7a82bde0/"
-  },
-  {
    "id": "36471a67",
    "title": "Christa Pike yeniden idamla karşı karşıya kalabilir mi?",
    "summary": "İdam mahkumu Christa Pike'ın infazının eyalet adına başarısızlıkla sonuçlanması, Tennessee adalet sistemini daha önce hiç karşılaşmadığı bir duruma soktu.",
@@ -1001,17 +1012,6 @@
    "category": "gundem",
    "date": "2026-10-08T09:37:09+00:00",
    "url": "/haber/tezgahlar-bereketli-fiyati-dustu-yuzler-guldu-494710f1/"
-  },
-  {
-   "id": "80ed900b",
-   "title": "Doktor yetkisi verilen yapay zekâ hastaları inceleyip ilaç yazacak",
-   "summary": "Yapay zekânın doktorların yerini alıp alamayacağı tartışılırken ABD'den dikkat çeken bir adım geldi. Yeni program, yapay zekaya hastaları inceleyip reçete yazma yetkisi veriyor.",
-   "link": "https://www.donanimhaber.com/dunyada-ilk-abd-de-yapay-zekaya-doktor-yetkisi-verildi--211371",
-   "image": "https://www.donanimhaber.com/images/images/haber/211371/1200x675dunyada-ilk-abd-de-yapay-zekaya-doktor-yetkisi-verildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-08T09:34:00+00:00",
-   "url": "/haber/doktor-yetkisi-verilen-yapay-zeka-hastalari-inceleyip-ilac-yazacak-80ed900b/"
   },
   {
    "id": "e4506139",
