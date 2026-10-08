@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-08T18:31:08.897566+00:00",
+ "updated": "2026-10-08T19:01:21.970999+00:00",
  "items": [
+  {
+   "id": "15920ba7",
+   "title": "Güneş, rüzgar ve su Türkiye’nin elektriğinin yarısından fazlasını karşıladı",
+   "summary": "Türkiye’de ağustosta elektriğin yüzde 56,4’ü yenilenebilir kaynaklardan üretildi. Güneş ve rüzgarın toplam üretimi 9,9 milyar kWh’ye çıkarak tüm zamanların rekorunu kırdı.",
+   "link": "https://www.donanimhaber.com/turkiye-elektriginin-yarisindan-fazlasini-yenilenebilirden-uretti--211400",
+   "image": "https://www.donanimhaber.com/images/images/haber/211400/1200x675turkiye-elektriginin-yarisindan-fazlasini-yenilenebilirden-uretti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-08T18:55:00+00:00",
+   "url": "/haber/gunes-ruzgar-ve-su-turkiye-nin-elektriginin-yarisindan-fazlasini-karsi-15920ba7/"
+  },
+  {
+   "id": "c57a3aaa",
+   "title": "Polis memuru Türkoğlu'nun şehit edilmesine ilişkin soruşturmada 5 şüpheli tutuklandı",
+   "summary": "Ankara Cumhuriyet Başsavcılığınca polis memuru Ahmet Türkoğlu'nun şehit edilmesine ilişkin yürütülen soruşturmada gözaltına alınan 5 şüpheli tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/polis-memuru-turkoglunun-sehit-edilmesine-iliskin-sorusturmada-5-supheli-tutuklandi/4082721",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T18:40:58+00:00",
+   "url": "/haber/polis-memuru-turkoglu-nun-sehit-edilmesine-iliskin-sorusturmada-5-suph-c57a3aaa/"
+  },
+  {
+   "id": "f43b7ec6",
+   "title": "Milli para tekvandocular, Fransa'da 6 madalya kazandı",
+   "summary": "Milli sporcular, Fransa'nın başkenti Paris'te düzenlenen Para Tekvando Grand Prix'sinde 1 altın, 1 gümüş ve 4 bronz olmak üzere toplam 6 madalya elde etti.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-para-tekvandocular-fransada-6-madalya-kazandi/4082717",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T18:39:08+00:00",
+   "url": "/haber/milli-para-tekvandocular-fransa-da-6-madalya-kazandi-f43b7ec6/"
+  },
+  {
+   "id": "3f7220bf",
+   "title": "A101 marketler Orient ve Tissot kol saatleri satıyor",
+   "summary": "8 Ekim A101 Ekstra teknoloji ürünleri arasında Orient ve Tissot markasına ait kol saatleri, iPhone 18 Pro Max 2TB, Samsung Galaxy Tab A11 gibi ürünler yer alıyor.",
+   "link": "https://www.donanimhaber.com/8-ekim-a101-ekstra-katalogunda-neler-var--211402",
+   "image": "https://www.donanimhaber.com/images/images/haber/211402/1200x6758-ekim-a101-ekstra-katalogunda-neler-var.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-08T18:32:00+00:00",
+   "url": "/haber/a101-marketler-orient-ve-tissot-kol-saatleri-satiyor-3f7220bf/"
+  },
+  {
+   "id": "8acbc806",
+   "title": "Rusya'nın Ukrayna'da otobüsleri hedef aldığı saldırıda en az 30 kişi öldü",
+   "summary": "Ukrayna, Rusya'yı Kramatorsk kentindeki cephe hattında kalabalık iki aracı hedef alarak mümkün olduğunca çok sivili öldürmekle suçladı.",
+   "link": "https://www.bbc.com/turkce/articles/crvg9pkz0v89o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-08T18:31:45+00:00",
+   "url": "/haber/rusya-nin-ukrayna-da-otobusleri-hedef-aldigi-saldirida-en-az-30-kisi-o-8acbc806/"
+  },
+  {
+   "id": "68631406",
+   "title": "Kabe'de Müslümanlar sağanak altında akşam namazı kıldı",
+   "summary": "Suudi Arabistan'ın Mekke kentinde etkili olan sağanak yağmur altında, Müslümanlar Kabe'de akşam namazını eda etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/kabede-muslumanlar-saganak-altinda-aksam-namazi-kildi/4082706",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T18:27:40+00:00",
+   "url": "/haber/kabe-de-muslumanlar-saganak-altinda-aksam-namazi-kildi-68631406/"
+  },
   {
    "id": "f3cefa6c",
    "title": "Uluslararası Uzay İstasyonu'nda görevi biten 4 astronot 8 ay sonra Dünya'ya döndü",
@@ -233,17 +299,6 @@
    "url": "/haber/apple-yeni-akilli-ev-urunlerini-13-ekim-de-tanitacak-d4371e0b/"
   },
   {
-   "id": "d4e1d85e",
-   "title": "BMGK, Sudan'ın Darfur bölgesine yönelik yaptırımları 2 ay daha uzattı",
-   "summary": "Birleşmiş Milletler Güvenlik Konseyi (BMGK), Sudan'ın Darfur bölgesine yönelik silah ambargosunu 2 ay daha uzattı.",
-   "link": "https://www.aa.com.tr/tr/dunya/bmgk-sudanin-darfur-bolgesine-yonelik-yaptirimlari-2-ay-daha-uzatti/4082641",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T17:01:35+00:00",
-   "url": "/haber/bmgk-sudan-in-darfur-bolgesine-yonelik-yaptirimlari-2-ay-daha-uzatti-d4e1d85e/"
-  },
-  {
    "id": "82f5fc19",
    "title": "İstanbul Ekonomi Forumu'nda \"Yapay Zeka ve Küresel Ekonomi: Fırsatlar ve Riskler\" paneli düzenlendi",
    "summary": "TCMB Başkan Yardımcısı Karahan, merkez bankalarının finans alanında sorumlu yapay zeka standartlarını belirlemede öncü olması ve yapay zeka sistemlerinin kamu yararına hizmet etmesini sağlaması gerektiğini söyledi.",
@@ -253,28 +308,6 @@
    "category": "gundem",
    "date": "2026-10-08T16:47:16+00:00",
    "url": "/haber/istanbul-ekonomi-forumu-nda-yapay-zeka-ve-kuresel-ekonomi-firsatlar-ve-82f5fc19/"
-  },
-  {
-   "id": "cdeeb6e1",
-   "title": "Filistinli Hüseyin, fanatik İsraillilerin saldırılarından sonra \"bayraklı tacizlerine\" de maruz kalıyor",
-   "summary": "İşgal altındaki Batı Şeria'nın Nablus kentinde yaşayan Mueyyed Hüseyin, Filistin topraklarını gasbeden İsraillilerin saldırılarının yanı sıra evinin ve iş yerinin önüne İsrail bayrakları dikilerek taciz ediliyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/filistinli-huseyin-fanatik-israillilerin-saldirilarindan-sonra-bayrakli-tacizlerine-de-maruz-kaliyor/4082631",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T16:44:39+00:00",
-   "url": "/haber/filistinli-huseyin-fanatik-israillilerin-saldirilarindan-sonra-bayrakl-cdeeb6e1/"
-  },
-  {
-   "id": "4dc3a7f2",
-   "title": "Kamu Personeli Danışma Kurulu, Bakan Işıkhan'ın başkanlığında toplandı",
-   "summary": "Çalışma ve Sosyal Güvenlik Bakanı Işıkhan, \"Kamu personel sisteminde ihtiyaç duyulan düzenlemeleri sosyal tarafların görüş ve önerilerini dikkate alarak, ortak akıl ve istişare anlayışı içerisinde şekillendirmeyi…",
-   "link": "https://www.aa.com.tr/tr/gundem/kamu-personeli-danisma-kurulu-bakan-isikhanin-baskanliginda-toplandi/4082619",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T16:36:08+00:00",
-   "url": "/haber/kamu-personeli-danisma-kurulu-bakan-isikhan-in-baskanliginda-toplandi-4dc3a7f2/"
   },
   {
    "id": "2e2662c7",
@@ -341,6 +374,17 @@
    "category": "teknoloji",
    "date": "2026-10-08T15:52:00+00:00",
    "url": "/haber/yeni-ipad-mini-oled-ekranla-geliyor-ama-uzucu-bir-detay-var-e667d94b/"
+  },
+  {
+   "id": "56a14014",
+   "title": "Bilal Erdoğan: Kendi kültürünü bilen insan, dünyaya söyleyecek sözü olan insandır",
+   "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, \"Kendi kültürünü bilen insan, dünyaya söyleyecek sözü olan insandır. Bizim hedefimiz de çocuklarımızı ve gençlerimizi bu şekilde yetiştirmek olmalı.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bilal-erdogan-kendi-kulturunu-bilen-insan-dunyaya-soyleyecek-sozu-olan-insandir/4082581",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T15:46:28+00:00",
+   "url": "/haber/bilal-erdogan-kendi-kulturunu-bilen-insan-dunyaya-soyleyecek-sozu-olan-56a14014/"
   },
   {
    "id": "cd6a19f6",
@@ -453,17 +497,6 @@
    "url": "/haber/yeni-bmw-ix4-tanitildi-10-dakikada-296-km-menzil-kazandiriyor-fcbd0ce2/"
   },
   {
-   "id": "521a76e3",
-   "title": "Sony'nin yeni patenti oyun dünyasını değiştirebilir: Boss'lar artık öğrenecek",
-   "summary": "Sony'nin yeni patent başvurusu, oyunlardaki boss ve NPC'lerin oyuncunun tepki süresi, kaçınma oranı ve tekrar denemelerine göre davranışlarını değiştirebileceğini gösteriyor.",
-   "link": "https://www.donanimhaber.com/sony-nin-yeni-patenti-oyun-dunyasini-degistirebilir-iste-nedeni--211388",
-   "image": "https://www.donanimhaber.com/images/images/haber/211388/1200x675sony-nin-yeni-patenti-oyun-dunyasini-degistirebilir-iste-nedeni.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-08T14:23:00+00:00",
-   "url": "/haber/sony-nin-yeni-patenti-oyun-dunyasini-degistirebilir-boss-lar-artik-ogr-521a76e3/"
-  },
-  {
    "id": "07bba7b2",
    "title": "GTA 6'da Yer Alacak Radyo İstasyonları Açıklandı: Hemen Şimdi Dinleyebilirsiniz!",
    "summary": "GTA 6 radyo istasyonları Bad Bunny, Lana Del Rey ve Robyn gibi yıldız DJ kadrosuyla resmen duyuruldu.",
@@ -473,17 +506,6 @@
    "category": "teknoloji",
    "date": "2026-10-08T14:21:10+00:00",
    "url": "/haber/gta-6-da-yer-alacak-radyo-istasyonlari-aciklandi-hemen-simdi-dinleyebi-07bba7b2/"
-  },
-  {
-   "id": "6ea5056b",
-   "title": "İngiltere Merkez Bankası Başkanı Bailey: Daha büyük şokların istisna olmadığı bir dünyaya hazırlıklı olmalıyız",
-   "summary": "İngiltere Merkez Bankası (BoE) Başkanı Andrew Bailey, küresel finansal sistemin direncini koruduğunu ancak rehavete kapılmamak gerektiğini belirterek, \"Daha büyük şokların istisna olmadığı bir dünyaya hazırlıklı…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ingiltere-merkez-bankasi-baskani-bailey-daha-buyuk-soklarin-istisna-olmadigi-bir-dunyaya-hazirlikli-olmaliyiz/4082489",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T14:21:04+00:00",
-   "url": "/haber/ingiltere-merkez-bankasi-baskani-bailey-daha-buyuk-soklarin-istisna-ol-6ea5056b/"
   },
   {
    "id": "237f7b08",
@@ -506,17 +528,6 @@
    "category": "gundem",
    "date": "2026-10-08T14:05:58+00:00",
    "url": "/haber/akp-li-iki-bakandan-fon-kazanci-sorularina-yanit-eaca2a2b/"
-  },
-  {
-   "id": "8de1a587",
-   "title": "Hindistanlı girişimden sodyum iyon bataryalarda dikkat çeken dayanıklılık iddiası",
-   "summary": "Lityum iyon bataryalara alternatif olarak öne çıkan sodyum iyon teknolojisinde dikkat çeken bir sonuç geldi. Yeni hücre, 1.000 döngü sonunda kapasitesinin yüzde 90'ını korudu.",
-   "link": "https://www.donanimhaber.com/sodyum-iyon-batarya-1-500-den-fazla-sarj-dongusunu-tamamladi--211379",
-   "image": "https://www.donanimhaber.com/images/images/haber/211379/1200x675sodyum-iyon-batarya-1-500-den-fazla-sarj-dongusunu-tamamladi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-08T14:02:00+00:00",
-   "url": "/haber/hindistanli-girisimden-sodyum-iyon-bataryalarda-dikkat-ceken-dayanikli-8de1a587/"
   },
   {
    "id": "4dabb89d",
@@ -1133,17 +1144,6 @@
    "category": "gundem",
    "date": "2026-10-08T06:21:00+00:00",
    "url": "/haber/aselsan-dan-125-milyon-dolarlik-satis-sozlesmesi-7ede882d/"
-  },
-  {
-   "id": "b8a4b559",
-   "title": "Veba salgınının küresel çapta yaşanması mümkün mü?",
-   "summary": "Modern antibiyotikler, hızlı temas takibi ve zatürre vebasının ancak belirtiler ortaya çıktıktan sonra yayılması, salgınların kontrol altına alınmasını geçmişe göre çok daha kolay hale getiriyor.",
-   "link": "https://www.bbc.com/turkce/articles/c933xdegnlkzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/550c/live/2451ae80-c26e-11f1-bc2e-018d645d8d21.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-08T06:06:15+00:00",
-   "url": "/haber/veba-salgininin-kuresel-capta-yasanmasi-mumkun-mu-b8a4b559/"
   },
   {
    "id": "484a1e2b",
