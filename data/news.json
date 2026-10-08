@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-08T17:31:10.650729+00:00",
+ "updated": "2026-10-08T18:01:18.524051+00:00",
  "items": [
+  {
+   "id": "106c01a7",
+   "title": "OpenAI'ın işten çıkardığı araştırmacılardan yapay zekada güvenlik denetimi çağrısı",
+   "summary": "ABD merkezli yapay zeka şirketi OpenAI'daki görevlerine son verilen üç araştırmacı, giderek otonom hale gelen yapay zeka sistemlerindeki güvenlik denetiminin elden bırakılmaması çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openaiin-isten-cikardigi-arastirmacilardan-yapay-zekada-guvenlik-denetimi-cagrisi/4082689",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T17:53:45+00:00",
+   "url": "/haber/openai-in-isten-cikardigi-arastirmacilardan-yapay-zekada-guvenlik-dene-106c01a7/"
+  },
+  {
+   "id": "aede465c",
+   "title": "Xbox Game Pass'e gelecek yeni oyunlar açıklandı: Battlefield 6 ve dahası",
+   "summary": "Microsoft, Ekim ayının ilk yarısında Xbox Game Pass'e eklenecek yeni oyunları duyurdu. Listede Battlefield 6, Valor Mortis ve Forever Ago gibi yapımlar yer alıyor.",
+   "link": "https://www.donanimhaber.com/xbox-game-pass-e-yepyeni-oyunlar-geliyor-battlefield-6-ve-dahasi--211392",
+   "image": "https://www.donanimhaber.com/images/images/haber/211392/1200x675xbox-game-pass-e-yepyeni-oyunlar-geliyor-battlefield-6-ve-dahasi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-08T17:46:00+00:00",
+   "url": "/haber/xbox-game-pass-e-gelecek-yeni-oyunlar-aciklandi-battlefield-6-ve-dahas-aede465c/"
+  },
+  {
+   "id": "916cebe0",
+   "title": "Forza Horizon 6, PlayStation 5 için ocak ayında çıkacak",
+   "summary": "Şu anda Xbox konsollarda ve PC’de oynanabilen Forza Horizon 6’nın PlayStation 5 sürümü, resmi açıklamaya göre 26 Ocak 2027’de çıkacak. Xbox sürümüyle aynı fiyata (Avrupa’da 70 euro) satılacağı belirtilen oyun, sevilen…",
+   "link": "https://www.log.com.tr/forza-horizon-6-playstation-5-icin-ocak-ayinda-cikacak/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-07_15-27-56_wBDX9-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-08T17:37:46+00:00",
+   "url": "/haber/forza-horizon-6-playstation-5-icin-ocak-ayinda-cikacak-916cebe0/"
+  },
+  {
+   "id": "ecd30d42",
+   "title": "KKTC'de batan yolcu gemisindeki son kayıp kişiyi arama çalışmaları sürüyor",
+   "summary": "Batan gemideki kayıpları arama çalışmalarını yürüten Derinsu su altı mühendislik firması yetkilisi Taktak, \"Türk deniz tarihinde en derinden çıkartılan naaşlarımız oldu bunlar.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/kktcde-batan-yolcu-gemisindeki-son-kayip-kisiyi-arama-calismalari-suruyor/4082678",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T17:36:01+00:00",
+   "url": "/haber/kktc-de-batan-yolcu-gemisindeki-son-kayip-kisiyi-arama-calismalari-sur-ecd30d42/"
+  },
+  {
+   "id": "50c52be7",
+   "title": "İstanbul'da 7 katlı bina kısmen çöktü: 3 kişi aranıyor",
+   "summary": "İstanbul Maltepe'de kısmi çökme sonucu enkaz altında kalan 2 kişinin öldüğü, 10 kişinin yaralı kurtarıldığı 7 katlı binanın enkazında bulunduğu değerlendirilen 3 kişiye ulaşmak için kontrollü yıkıma başlandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-7-katli-bina-kismen-coktu-3-kisi-araniyor-959568.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/yikilan-bina-aa-2494521.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-08T17:31:00+00:00",
+   "url": "/haber/istanbul-da-7-katli-bina-kismen-coktu-3-kisi-araniyor-50c52be7/"
+  },
   {
    "id": "1bc3982b",
    "title": "Ticaret Bakanı Bolat'tan \"170 milyon liralık para transferi\" iddiasına ilişkin açıklama",
@@ -99,6 +154,17 @@
    "category": "gundem",
    "date": "2026-10-08T17:01:35+00:00",
    "url": "/haber/bmgk-sudan-in-darfur-bolgesine-yonelik-yaptirimlari-2-ay-daha-uzatti-d4e1d85e/"
+  },
+  {
+   "id": "82f5fc19",
+   "title": "İstanbul Ekonomi Forumu'nda \"Yapay Zeka ve Küresel Ekonomi: Fırsatlar ve Riskler\" paneli düzenlendi",
+   "summary": "TCMB Başkan Yardımcısı Karahan, merkez bankalarının finans alanında sorumlu yapay zeka standartlarını belirlemede öncü olması ve yapay zeka sistemlerinin kamu yararına hizmet etmesini sağlaması gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-ekonomi-forumunda-yapay-zeka-ve-kuresel-ekonomi-firsatlar-ve-riskler-paneli-duzenlendi/4082636",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T16:47:16+00:00",
+   "url": "/haber/istanbul-ekonomi-forumu-nda-yapay-zeka-ve-kuresel-ekonomi-firsatlar-ve-82f5fc19/"
   },
   {
    "id": "cdeeb6e1",
@@ -255,28 +321,6 @@
    "url": "/haber/yeni-apple-watch-lar-cildi-tahris-ediyor-sikayetler-artiyor-cd6a19f6/"
   },
   {
-   "id": "94139375",
-   "title": "Borsa günü yükselişle tamamladı",
-   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,75 değer kazanarak 12.213,58 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4082565",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T15:26:58+00:00",
-   "url": "/haber/borsa-gunu-yukselisle-tamamladi-94139375/"
-  },
-  {
-   "id": "93dbbadb",
-   "title": "MÜSİAD Genel Başkanı Özdemir'den Ticaret Bakanı Bolat'a destek açıklaması",
-   "summary": "Müstakil Sanayici ve İşadamları Derneği (MÜSİAD) Genel Başkanı Burhan Özdemir, Ticaret Bakanı Ömer Bolat hakkında gündeme getirilen iddialara ilişkin açıklamada bulundu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/musiad-genel-baskani-ozdemirden-ticaret-bakani-bolata-destek-aciklamasi/4082564",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T15:26:28+00:00",
-   "url": "/haber/musiad-genel-baskani-ozdemir-den-ticaret-bakani-bolat-a-destek-aciklam-93dbbadb/"
-  },
-  {
    "id": "e7a39b04",
    "title": "17 yatırım fonuna ait ödemeler başladı",
    "summary": "Fon krizinde 1 milyon TL'ye kadar yatırımcı ödemelerinin bugün başlaması bekleniyor. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, 7 Ekim'de TBMM Genel Kurulu'nda bu konuda bilgi verdi.",
@@ -286,17 +330,6 @@
    "category": "gundem",
    "date": "2026-10-08T15:16:50+00:00",
    "url": "/haber/17-yatirim-fonuna-ait-odemeler-basladi-e7a39b04/"
-  },
-  {
-   "id": "d8d94a71",
-   "title": "Avrupa kışa düşük doğal gaz stoklarıyla giriyor",
-   "summary": "Avrupa Birliği (AB), doğal gaz depolarındaki yüzde 72 doluluk oranıyla kışa tarihsel olarak düşük stok seviyelerinde giriyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/avrupa-kisa-dusuk-dogal-gaz-stoklariyla-giriyor/4082548",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T15:12:23+00:00",
-   "url": "/haber/avrupa-kisa-dusuk-dogal-gaz-stoklariyla-giriyor-d8d94a71/"
   },
   {
    "id": "ceca40f8",
@@ -673,28 +706,6 @@
    "url": "/haber/sony-400-den-fazla-xr-patentini-meta-ya-devretti-e5e1958e/"
   },
   {
-   "id": "54f6aea6",
-   "title": "Google, yapay zeka için 20 yıllık nükleer enerji anlaşması yaptı",
-   "summary": "Google, yapay zeka veri merkezlerinin artan elektrik ihtiyacını karşılamak için Constellation ile 20 yıllık nükleer enerji anlaşması yaptı. 890 MW ek kapasite için 4,3 milyar dolar yatırım yapılacak.",
-   "link": "https://www.donanimhaber.com/google-yapay-zeka-icin-20-yillik-nukleer-enerji-anlasmasi-yapti--211380",
-   "image": "https://www.donanimhaber.com/images/images/haber/211380/1200x675google-yapay-zeka-icin-20-yillik-nukleer-enerji-anlasmasi-yapti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-08T12:55:00+00:00",
-   "url": "/haber/google-yapay-zeka-icin-20-yillik-nukleer-enerji-anlasmasi-yapti-54f6aea6/"
-  },
-  {
-   "id": "664f3e50",
-   "title": "Pininfarina ve JAS Motorsport imzalı NSX’in nihai versiyonu görücüye çıktı",
-   "summary": "1990 yılında hayatımıza giren Honda NSX, üretilmiş en güzel ve en ikonik otomobiller arasında gösteriliyor. Akla direkt olarak Formula 1 şampiyonu Ayrton Senna’yı getiren NSX, geçtiğimiz yıl Pininfarina ve JAS…",
-   "link": "https://www.log.com.tr/pininfarina-ve-jas-motorsport-imzali-nsxin-nihai-versiyonu-gorucuye-cikti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-08_15-47-15_qc75N-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-08T12:50:00+00:00",
-   "url": "/haber/pininfarina-ve-jas-motorsport-imzali-nsx-in-nihai-versiyonu-gorucuye-c-664f3e50/"
-  },
-  {
    "id": "ce2af0e7",
    "title": "OpenAI'ın Gençlere Özel ChatGPT'si İncelendi: Gençleri Korumak İçin Çıkarılmıştı Ama Sonuçlar Pek İç Açıcı Değil!",
    "summary": "ChatGPT'nin gençler için özel olarak yayınlanan yeni sürümü, son değerlendirmelerde \"Kabul Edilemez Risk\" seviyesinde değerlendirildi.",
@@ -880,17 +891,6 @@
    "category": "gundem",
    "date": "2026-10-08T11:16:47+00:00",
    "url": "/haber/bakan-fidan-mekke-ittifaki-savunma-anlasmasidir-e0000b8c/"
-  },
-  {
-   "id": "e14e907d",
-   "title": "İstanbul Valisi Gül: Enkaz altında 3 kişi olduğunu düşünüyoruz",
-   "summary": "Maltepe'de bazı katları çöken 7 katlı binadaki iki kişi hayatını kaybetti. İstanbul Valisi Gül, yaralıların hayati tehlikesinin bulunmadığını, enkaz altında 3 kişi olduğunu düşündüklerini söyledi.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbul-valisi-gul-enkaz-altinda-3-kisi-oldugunu-dusunuyoruz-959536.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/maltepe-yikim-2494416.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-08T11:06:00+00:00",
-   "url": "/haber/istanbul-valisi-gul-enkaz-altinda-3-kisi-oldugunu-dusunuyoruz-e14e907d/"
   },
   {
    "id": "c45c7241",
