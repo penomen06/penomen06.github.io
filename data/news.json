@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T23:31:13.163030+00:00",
+ "updated": "2026-10-08T00:01:21.653774+00:00",
  "items": [
   {
    "id": "b5da0e3d",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-07T23:30:00+00:00",
+   "date": "2026-10-08T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b5da0e3d/"
+  },
+  {
+   "id": "2384c922",
+   "title": "Konut krizinin sembolü olmuştu. 70 yıl yaşadığı evine dönemedi",
+   "summary": "Madrid'de 70 yıldan fazla süre kiracı olarak yaşadığı evinden zorla tahliye edilmesi nedeniyle konut protestolarının fitilini ateşleyen 87 yaşındaki Maricarmen Abascal hayatını kaybetti.",
+   "link": "https://www.ntv.com.tr/turkiye/konut-krizinin-sembolu-olmustu-70-yil-yasadigi-evine-donemedi-1745306",
+   "image": "https://images.ntv.com.tr/images/Maricarmen-984995.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-07T23:46:28+00:00",
+   "url": "/haber/konut-krizinin-sembolu-olmustu-70-yil-yasadigi-evine-donemedi-2384c922/"
   },
   {
    "id": "6557e328",
@@ -24,15 +35,15 @@
    "url": "/haber/icisleri-bakan-yardimcisi-turan-ak-parti-yi-ak-parti-yapan-garibana-sa-6557e328/"
   },
   {
-   "id": "6818aa68",
-   "title": "Balıkesir'in Bandırma ilçesinde yağ fabrikasında yangın çıktı",
-   "summary": "Balıkesir'in Bandırma ilçesinde, yağ fabrikasında çıkan yangına müdahale ediliyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/balikesirin-bandirma-ilcesinde-yag-fabrikasinda-yangin-cikti/4081599",
+   "id": "82691913",
+   "title": "Balıkesir'in Bandırma ilçesinde yağ fabrikasında çıkan yangın kontrol altına alındı",
+   "summary": "Balıkesir'in Bandırma ilçesinde yağ fabrikasında çıkan yangın kontrol altına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/balikesirin-bandirma-ilcesinde-yag-fabrikasinda-cikan-yangin-kontrol-altina-alindi/4081599",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-07T22:47:59+00:00",
-   "url": "/haber/balikesir-in-bandirma-ilcesinde-yag-fabrikasinda-yangin-cikti-6818aa68/"
+   "url": "/haber/balikesir-in-bandirma-ilcesinde-yag-fabrikasinda-cikan-yangin-kontrol-82691913/"
   },
   {
    "id": "453e44c0",
@@ -1089,17 +1100,6 @@
    "category": "gundem",
    "date": "2026-10-07T11:25:41+00:00",
    "url": "/haber/esenyurt-taki-bir-lisede-bicakli-kavga-2ddbcc3e/"
-  },
-  {
-   "id": "ebafb5ba",
-   "title": "Gazeteci Hakan Tosun cinayetinde karar verildi",
-   "summary": "Gazeteci Hakan Tosun'un dövülerek öldürülmesine ilişkin davada iki sanığa müebbet hapis cezası verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/gazeteci-hakan-tosun-cinayetinde-karar-verildi-1745248",
-   "image": "https://images.ntv.com.tr/images/hakantosun-979384-226629-658184.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-07T11:08:43+00:00",
-   "url": "/haber/gazeteci-hakan-tosun-cinayetinde-karar-verildi-ebafb5ba/"
   },
   {
    "id": "fa52da1e",
