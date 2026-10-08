@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-08T20:01:09.868984+00:00",
+ "updated": "2026-10-08T20:30:59.726827+00:00",
  "items": [
+  {
+   "id": "796156d3",
+   "title": "Maltepe'de enkaz altındaki üç kişiye ulaşılmaya çalışılıyor",
+   "summary": "İstanbul'un Maltepe ilçesinde yedi katlı bir binadaki çökme sonucu iki kişi hayatını kaybetti. Binanın üç katının çökmesinin ardından enkaz altındaki iki kişi aranıyor.",
+   "link": "https://www.bbc.com/turkce/articles/cj93zg0k2p97o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6fe3/live/7226eba0-c2f7-11f1-b8c6-6d610e41a5d9.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-08T20:11:41+00:00",
+   "url": "/haber/maltepe-de-enkaz-altindaki-uc-kisiye-ulasilmaya-calisiliyor-796156d3/"
+  },
+  {
+   "id": "2bfb9b6e",
+   "title": "Sanayi ve Teknoloji Bakanı Kacır'dan uzay meraklılarına davet",
+   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, uzay ve teknolojiye ilgi duyan herkesi 77. Uluslararası Uzay Kongresi'nin (IAC 2026) Halk Günü'ne davet etti.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/sanayi-ve-teknoloji-bakani-kacirdan-uzay-meraklilarina-davet/4082782",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T20:11:37+00:00",
+   "url": "/haber/sanayi-ve-teknoloji-bakani-kacir-dan-uzay-meraklilarina-davet-2bfb9b6e/"
+  },
+  {
+   "id": "a52d585e",
+   "title": "MİT Başkanı Kalın, Suriye Dışişleri Bakanı Şeybani ile Ankara'da görüştü",
+   "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Suriye Dışişleri Bakanı Esad Hasan Şeybani ile Ankara'da bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-suriye-disisleri-bakani-seybani-ile-ankarada-gorustu/4082780",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T20:11:16+00:00",
+   "url": "/haber/mit-baskani-kalin-suriye-disisleri-bakani-seybani-ile-ankara-da-gorust-a52d585e/"
+  },
+  {
+   "id": "b7942b43",
+   "title": "Norveç'te mobil ağ kesintisi acil çağrıları ve tren seferlerini aksattı",
+   "summary": "Norveç'in telekom şirketi Telenor'un mobil ağındaki kesintinin, acil çağrıların aksamasına ve tren seferlerinin durmasına neden olduğu bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/norvecte-mobil-ag-kesintisi-acil-cagrilari-ve-tren-seferlerini-aksatti/4082772",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T20:05:26+00:00",
+   "url": "/haber/norvec-te-mobil-ag-kesintisi-acil-cagrilari-ve-tren-seferlerini-aksatt-b7942b43/"
+  },
+  {
+   "id": "6af598b9",
+   "title": "Tesla’dan Türkiye’de sürpriz hamle: Full Self-Driving adı tarihe karıştı!",
+   "summary": "Tesla, sürüş destek yazılımının adlandırılması konusunda Avrupa’da stratejik bir değişikliğe gitti. Daha önce “Full Self-Driving Capability” olarak sunulan paket, Türkiye ve Avrupa’daki destek sayfalarında artık “Tesla…",
+   "link": "https://shiftdelete.net/tesladan-turkiyede-surpriz-hamle-full-self-driving-adi-tarihe-karisti",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-08T20:02:58+00:00",
+   "url": "/haber/tesla-dan-turkiye-de-surpriz-hamle-full-self-driving-adi-tarihe-karist-6af598b9/"
+  },
   {
    "id": "11d75413",
    "title": "Zelenskiy, Ukrayna müzakere heyetinin yarın Witkoff ve Kushner ile görüşeceğini belirtti",
@@ -11,6 +66,17 @@
    "category": "gundem",
    "date": "2026-10-08T19:59:12+00:00",
    "url": "/haber/zelenskiy-ukrayna-muzakere-heyetinin-yarin-witkoff-ve-kushner-ile-goru-11d75413/"
+  },
+  {
+   "id": "41ddcb24",
+   "title": "TDT, İstanbul'da Türk Devletleri İşbirliği Günü nedeniyle resepsiyon düzenledi",
+   "summary": "Türk Devletleri Teşkilatı (TDT), 3 Ekim Türk Devletleri İşbirliği Günü ve TDT Genel Sekreteri Kubanıçbek Ömüraliyev'in görev süresinin sona ermesi nedeniyle resepsiyon düzenledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/tdt-istanbulda-turk-devletleri-isbirligi-gunu-nedeniyle-resepsiyon-duzenledi/4082763",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-08T19:58:34+00:00",
+   "url": "/haber/tdt-istanbul-da-turk-devletleri-isbirligi-gunu-nedeniyle-resepsiyon-du-41ddcb24/"
   },
   {
    "id": "58b62d20",
@@ -123,17 +189,6 @@
    "url": "/haber/sivas-ta-kral-2-tudhaliya-donemine-ait-131-civi-yazili-tablet-gun-yuzu-6fd96399/"
   },
   {
-   "id": "7d673a04",
-   "title": "ABD Başkanı Trump, 6 teknoloji liderine ulusal madalya takdim etti",
-   "summary": "ABD Başkanı Donald Trump, teknoloji dünyasında önde gelen 6 isme, Ulusal Bilim Madalyası ile Ulusal Teknoloji ve İnovasyon Madalyası verdi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-baskani-trump-6-teknoloji-liderine-ulusal-madalya-takdim-etti/4082730",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T19:07:03+00:00",
-   "url": "/haber/abd-baskani-trump-6-teknoloji-liderine-ulusal-madalya-takdim-etti-7d673a04/"
-  },
-  {
    "id": "15920ba7",
    "title": "Güneş, rüzgar ve su Türkiye’nin elektriğinin yarısından fazlasını karşıladı",
    "summary": "Türkiye’de ağustosta elektriğin yüzde 56,4’ü yenilenebilir kaynaklardan üretildi. Güneş ve rüzgarın toplam üretimi 9,9 milyar kWh’ye çıkarak tüm zamanların rekorunu kırdı.",
@@ -143,28 +198,6 @@
    "category": "teknoloji",
    "date": "2026-10-08T18:55:00+00:00",
    "url": "/haber/gunes-ruzgar-ve-su-turkiye-nin-elektriginin-yarisindan-fazlasini-karsi-15920ba7/"
-  },
-  {
-   "id": "c57a3aaa",
-   "title": "Polis memuru Türkoğlu'nun şehit edilmesine ilişkin soruşturmada 5 şüpheli tutuklandı",
-   "summary": "Ankara Cumhuriyet Başsavcılığınca polis memuru Ahmet Türkoğlu'nun şehit edilmesine ilişkin yürütülen soruşturmada gözaltına alınan 5 şüpheli tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/polis-memuru-turkoglunun-sehit-edilmesine-iliskin-sorusturmada-5-supheli-tutuklandi/4082721",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T18:40:58+00:00",
-   "url": "/haber/polis-memuru-turkoglu-nun-sehit-edilmesine-iliskin-sorusturmada-5-suph-c57a3aaa/"
-  },
-  {
-   "id": "f43b7ec6",
-   "title": "Milli para tekvandocular, Fransa'da 6 madalya kazandı",
-   "summary": "Milli sporcular, Fransa'nın başkenti Paris'te düzenlenen Para Tekvando Grand Prix'sinde 1 altın, 1 gümüş ve 4 bronz olmak üzere toplam 6 madalya elde etti.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-para-tekvandocular-fransada-6-madalya-kazandi/4082717",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T18:39:08+00:00",
-   "url": "/haber/milli-para-tekvandocular-fransa-da-6-madalya-kazandi-f43b7ec6/"
   },
   {
    "id": "3f7220bf",
@@ -242,17 +275,6 @@
    "category": "teknoloji",
    "date": "2026-10-08T17:37:46+00:00",
    "url": "/haber/forza-horizon-6-playstation-5-icin-ocak-ayinda-cikacak-916cebe0/"
-  },
-  {
-   "id": "ecd30d42",
-   "title": "KKTC'de batan yolcu gemisindeki son kayıp kişiyi arama çalışmaları sürüyor",
-   "summary": "Batan gemideki kayıpları arama çalışmalarını yürüten Derinsu su altı mühendislik firması yetkilisi Taktak, \"Türk deniz tarihinde en derinden çıkartılan naaşlarımız oldu bunlar.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/kktcde-batan-yolcu-gemisindeki-son-kayip-kisiyi-arama-calismalari-suruyor/4082678",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-08T17:36:01+00:00",
-   "url": "/haber/kktc-de-batan-yolcu-gemisindeki-son-kayip-kisiyi-arama-calismalari-sur-ecd30d42/"
   },
   {
    "id": "50c52be7",
@@ -429,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-10-08T15:10:00+00:00",
    "url": "/haber/garmin-enduro-4-yillar-sonra-geri-dondu-ceca40f8/"
-  },
-  {
-   "id": "796156d3",
-   "title": "Maltepe'de enkaz altındaki üç kişiye ulaşmak için kontrollü yıkım",
-   "summary": "İstanbul'un Maltepe ilçesinde yedi katlı bir binadaki çökme sonucu iki kişi hayatını kaybetti. Binanın üç katının çökmesinin ardından enkaz altındaki iki kişi aranıyor.",
-   "link": "https://www.bbc.com/turkce/articles/cj93zg0k2p97o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6fe3/live/7226eba0-c2f7-11f1-b8c6-6d610e41a5d9.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-08T15:05:32+00:00",
-   "url": "/haber/maltepe-de-enkaz-altindaki-uc-kisiye-ulasmak-icin-kontrollu-yikim-796156d3/"
   },
   {
    "id": "ab8b11f3",
@@ -1034,17 +1045,6 @@
    "category": "teknoloji",
    "date": "2026-10-08T09:43:07+00:00",
    "url": "/haber/nvidia-rtx-spark-dizustu-bilgisayarlar-turkiye-pazarinda-satisa-sunuld-810b86a2/"
-  },
-  {
-   "id": "e2bc5a31",
-   "title": "Instagram Edits Uygulamasına Yeni Carousel Oluşturma Özelliği Geldi",
-   "summary": "Instagram Edits, fotoğraf ve videoları birleştiren yeni carousel oluşturma aracını duyurdu. İçerik üreticileri için gelen bu yeniliğin detaylarına göz atın.",
-   "link": "https://shiftdelete.net/instagram-edits-uygulamasina-yeni-carousel-olusturma-ozelligi-geldi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-08T09:41:43+00:00",
-   "url": "/haber/instagram-edits-uygulamasina-yeni-carousel-olusturma-ozelligi-geldi-e2bc5a31/"
   },
   {
    "id": "494710f1",
