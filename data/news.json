@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T23:01:17.177300+00:00",
+ "updated": "2026-10-08T23:30:59.915512+00:00",
  "items": [
   {
    "id": "e65c1f1e",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-08T23:00:00+00:00",
+   "date": "2026-10-08T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-e65c1f1e/"
+  },
+  {
+   "id": "8f3c68f4",
+   "title": "Fon krizi AKP'de nasıl tartışılıyor, hangi adımlar atılabilir?",
+   "summary": "AKP kulislerinde krizin, şimdiye kadar parti yönetiminde en fazla rahatsızlık yaratan konulardan biri olduğu belirtilirken, sadece sorumluların değil, sistemdeki zafiyetlerin de ortaya çıkarılması gerektiği görüşü dile…",
+   "link": "https://www.bbc.com/turkce/articles/cmkg7n4xd0p1o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e82/live/7014fd20-c35b-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-08T23:02:43+00:00",
+   "url": "/haber/fon-krizi-akp-de-nasil-tartisiliyor-hangi-adimlar-atilabilir-8f3c68f4/"
   },
   {
    "id": "73b742d0",
@@ -1100,17 +1111,6 @@
    "category": "gundem",
    "date": "2026-10-08T08:22:00+00:00",
    "url": "/haber/fon-tasfiyesine-iliskin-kanun-teklifi-surecin-seffaf-yurutulmesini-sag-a83db796/"
-  },
-  {
-   "id": "a306931d",
-   "title": "Karadeniz'de gemi saldırıları: Bulgaristan'dan üçlü toplantı hazırlığı",
-   "summary": "Karadeniz'de Romanya ve Bulgaristan açıklarında üç ticari geminin İnsansız Hava Araçlarıyla (İHA) vurulmasının ardından bölgede seyrüsefer güvenliği yeniden gündemin üst sıralarına çıktı.",
-   "link": "https://www.bbc.com/turkce/articles/cw1460g8ez18o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6d8e/live/1c4e0da0-c2e6-11f1-89a3-9b445bfcfe23.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-08T07:36:50+00:00",
-   "url": "/haber/karadeniz-de-gemi-saldirilari-bulgaristan-dan-uclu-toplanti-hazirligi-a306931d/"
   },
   {
    "id": "c82981af",
