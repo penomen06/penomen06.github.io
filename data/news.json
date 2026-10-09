@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T22:30:58.735497+00:00",
+ "updated": "2026-10-09T23:01:08.673382+00:00",
  "items": [
   {
    "id": "ba6b5b8b",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-09T22:30:00+00:00",
+   "date": "2026-10-09T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-ba6b5b8b/"
   },
   {
@@ -68,6 +68,17 @@
    "url": "/haber/iller-bankasinin-sermayesi-250-milyar-liraya-cikarildi-93067264/"
   },
   {
+   "id": "84d571cf",
+   "title": "İran'dan Rubio'ya \"Tarihi gündeme getiren kişi, tarihin tekrarına da hazır olmalıdır\" mesajı",
+   "summary": "İran Ulusal Güvenlik Yüksek Konseyi Sekreteri Muhsin Rızai, ABD Dışişleri Bakanı Marco Rubio’nun Pers İmparatorluğu'nu hedef alan açıklamalarına ilişkin, “Tarihi gündeme getiren kişi, tarihin tekrarına da hazır…",
+   "link": "https://www.aa.com.tr/tr/dunya/irandan-rubioya-tarihi-gundeme-getiren-kisi-tarihin-tekrarina-da-hazir-olmalidir-mesaji/4084115",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-09T21:27:08+00:00",
+   "url": "/haber/iran-dan-rubio-ya-tarihi-gundeme-getiren-kisi-tarihin-tekrarina-da-haz-84d571cf/"
+  },
+  {
    "id": "afb320fe",
    "title": "İzmir'de Bayraklı Belediyesine yönelik rüşvet ve ihale soruşturmasında 15 şüpheli tutuklandı",
    "summary": "İzmir'de Bayraklı Belediyesine yönelik \"suç işlemek amacıyla örgüt kurmak\", \"rüşvet\" ve \"ihaleye fesat karıştırmak\" iddialarına ilişkin soruşturmada, eski Belediye Başkanı Serdar Sandal'ın da aralarında bulunduğu 15…",
@@ -81,7 +92,7 @@
   {
    "id": "4b4883ba",
    "title": "Sosyal medyada yaş sınırlamasına ilişkin yönetmelik Resmi Gazete'de",
-   "summary": "Sosyal medyada yaş sınırlamasını düzenleyen \"Sosyal Ağ Sağlayıcı Tarafından Çocuklara Özgü Ayrıştırılmış Hizmet Sunulmasına ve Yaş Doğrulamaya İlişkin Yönetmelik\" Resmi Gazete'de yayımlandı. Yönetmeliğe göre sosyal…",
+   "summary": "Sosyal medyada yaş sınırlamasına ilişkin yönetmelik Resmi Gazete'de yayımlandı. Yönetmeliğe göre sosyal medya ağ sağlayıcıları 15 yaşını doldurmamış çocuklara hizmet sunamayacak. Yönetmelik 1 Kasım'da yürürlüğe girecek.",
    "link": "https://www.trthaber.com/haber/gundem/sosyal-medyada-yas-sinirlamasina-iliskin-yonetmelik-resmi-gazetede-959702.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2318000/cocuk-telefon-sinirlama-getty-2318444.jpg",
    "source": "TRT Haber Manşet Haberleri",
@@ -264,17 +275,6 @@
    "category": "teknoloji",
    "date": "2026-10-09T20:00:41+00:00",
    "url": "/haber/iqoo-neo12-geliyor-185-hz-oled-ekranli-telefon-af6799b1/"
-  },
-  {
-   "id": "abe80545",
-   "title": "BMGK'de Yemen ve Suudi Arabistan'dan Husilere karşı harekete geçme çağrısı",
-   "summary": "Yemen'in BM Daimi Temsilcisi Al Saadi, ülkedeki İran destekli Husileri saldırıları tırmandırmak, çocukları silah altına almak ve binlerce sivili yerinden etmekle suçlayarak BM Güvenlik Konseyine Husilere karşı harekete…",
-   "link": "https://www.aa.com.tr/tr/dunya/bmgkde-yemen-ve-suudi-arabistandan-husilere-karsi-harekete-gecme-cagrisi/4084032",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-09T19:51:32+00:00",
-   "url": "/haber/bmgk-de-yemen-ve-suudi-arabistan-dan-husilere-karsi-harekete-gecme-cag-abe80545/"
   },
   {
    "id": "a887c81d",
