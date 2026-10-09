@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T22:01:09.993125+00:00",
+ "updated": "2026-10-09T22:30:58.735497+00:00",
  "items": [
   {
    "id": "ba6b5b8b",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-09T22:00:00+00:00",
+   "date": "2026-10-09T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-ba6b5b8b/"
+  },
+  {
+   "id": "58ed8d6e",
+   "title": "Arap Koalisyonu: Yemen'de Husilerin kontrolündeki bölgelerde 136 askeri hedefi imha ettik",
+   "summary": "Suudi Arabistan liderliğindeki Arap Koalisyonu, Yemen'deki İran destekli Husilerin kontrolü altındaki bölgelerde 136 askeri hedefin imha edildiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-yemende-husilerin-kontrolundeki-bolgelerde-136-askeri-hedefi-imha-ettik/4084132",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-09T22:09:33+00:00",
+   "url": "/haber/arap-koalisyonu-yemen-de-husilerin-kontrolundeki-bolgelerde-136-askeri-58ed8d6e/"
+  },
+  {
+   "id": "981c043a",
+   "title": "Trump, Husilerin Riyad'daki havalimanına saldırısından \"memnun olmadığını\" belirtti",
+   "summary": "ABD Başkanı Donald Trump, Yemen'deki İran destekli Husilerin, Suudi Arabistan'ın başkenti Riyad'daki havalimanına yönelik saldırısından \"memnun olmadığını\" söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-husilerin-riyaddaki-havalimanina-saldirisindan-memnun-olmadigini-belirtti/4084131",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-09T22:09:29+00:00",
+   "url": "/haber/trump-husilerin-riyad-daki-havalimanina-saldirisindan-memnun-olmadigin-981c043a/"
   },
   {
    "id": "6c10ba9e",
@@ -46,6 +68,17 @@
    "url": "/haber/iller-bankasinin-sermayesi-250-milyar-liraya-cikarildi-93067264/"
   },
   {
+   "id": "afb320fe",
+   "title": "İzmir'de Bayraklı Belediyesine yönelik rüşvet ve ihale soruşturmasında 15 şüpheli tutuklandı",
+   "summary": "İzmir'de Bayraklı Belediyesine yönelik \"suç işlemek amacıyla örgüt kurmak\", \"rüşvet\" ve \"ihaleye fesat karıştırmak\" iddialarına ilişkin soruşturmada, eski Belediye Başkanı Serdar Sandal'ın da aralarında bulunduğu 15…",
+   "link": "https://www.aa.com.tr/tr/gundem/izmirde-bayrakli-belediyesine-yonelik-rusvet-ve-ihale-sorusturmasinda-15-supheli-tutuklandi/4084114",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-09T21:26:33+00:00",
+   "url": "/haber/izmir-de-bayrakli-belediyesine-yonelik-rusvet-ve-ihale-sorusturmasinda-afb320fe/"
+  },
+  {
    "id": "4b4883ba",
    "title": "Sosyal medyada yaş sınırlamasına ilişkin yönetmelik Resmi Gazete'de",
    "summary": "Sosyal medyada yaş sınırlamasını düzenleyen \"Sosyal Ağ Sağlayıcı Tarafından Çocuklara Özgü Ayrıştırılmış Hizmet Sunulmasına ve Yaş Doğrulamaya İlişkin Yönetmelik\" Resmi Gazete'de yayımlandı. Yönetmeliğe göre sosyal…",
@@ -66,6 +99,17 @@
    "category": "gundem",
    "date": "2026-10-09T21:22:05+00:00",
    "url": "/haber/ak-parti-sozcusu-celik-linc-kampanyasina-izin-vermeyiz-b3717c3c/"
+  },
+  {
+   "id": "be69216d",
+   "title": "Mahmud Abbas, Filistinlilere uluslararası koruma sağlanması için BMGK'yi acil toplantıya çağırdı",
+   "summary": "Filistin Devlet Başkanı Mahmud Abbas, Filistin halkının, Filistinlilerin topraklarını gasbeden İsraillilerin saldırılarından korunması için Birleşmiş Milletler Güvenlik Konseyini (BMGK) acil toplantıya çağırdı.",
+   "link": "https://www.aa.com.tr/tr/dunya/mahmud-abbas-filistinlilere-uluslararasi-koruma-saglanmasi-icin-bmgkyi-acil-toplantiya-cagirdi/4084109",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-09T21:21:53+00:00",
+   "url": "/haber/mahmud-abbas-filistinlilere-uluslararasi-koruma-saglanmasi-icin-bmgk-y-be69216d/"
   },
   {
    "id": "ab1191cd",
@@ -255,17 +299,6 @@
    "url": "/haber/laptoplarda-ekran-kartinin-onemi-harici-vs-dahili-gpu-kiyaslamasi-88fd3ea6/"
   },
   {
-   "id": "3ff9496e",
-   "title": "Trump, Rusya'nın ABD ve küresel piyasalara milyonlarca ton dizel yakıt tedarik edeceğini açıkladı",
-   "summary": "ABD Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ile yaptığı görüşmede, Rusya'nın ABD ve küresel piyasalara milyonlarca ton dizel yakıt tedarik etmesi konusunda mutabık kaldıklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/trump-rusyanin-abd-ve-kuresel-piyasalara-milyonlarca-ton-dizel-yakit-tedarik-edecegini-acikladi/4084019",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-09T19:36:06+00:00",
-   "url": "/haber/trump-rusya-nin-abd-ve-kuresel-piyasalara-milyonlarca-ton-dizel-yakit-3ff9496e/"
-  },
-  {
    "id": "5ead24e3",
    "title": "Samsung’un Yeni Orta Segment Modeli Galaxy A58 Yolda",
    "summary": "Samsung Galaxy A58 sızıntıları, yeni modelin yazılım geliştirme aşamasına geçtiğini gösteriyor. İşte cihaz hakkında bilinenler.",
@@ -299,17 +332,6 @@
    "url": "/haber/netflix-cok-sayida-calisanini-isten-cikarmaya-hazirlaniyor-5215a0e7/"
   },
   {
-   "id": "fb8cbda0",
-   "title": "DMM'den Türkiye ve Azerbaycan ilişkilerine ilişkin açıklama",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi'nden (DMM), Türkiye ve Azerbaycan'ın ortak tarih, kültür ve sarsılmaz bir kardeşlik temelinde yükselen ilişkilerini her alanda kararlılıkla…",
-   "link": "https://www.aa.com.tr/tr/gundem/dmmden-turkiye-ve-azerbaycan-iliskilerine-iliskin-aciklama/4084008",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-09T19:18:11+00:00",
-   "url": "/haber/dmm-den-turkiye-ve-azerbaycan-iliskilerine-iliskin-aciklama-fb8cbda0/"
-  },
-  {
    "id": "6b6501c7",
    "title": "Anthropic, kullanıcıların yapay zeka sistemlerine karşı 'zalimce' davranmasını yasakladı",
    "summary": "Şirket, kullanıcıların artık teknolojiye karşı \"sürekli ve gereksiz\" kötü niyetli davranışlarda bulunamayacaklarını belirtti.",
@@ -341,17 +363,6 @@
    "category": "teknoloji",
    "date": "2026-10-09T19:00:06+00:00",
    "url": "/haber/redmagic-12-pro-geliyor-dunyanin-ilk-rgb-sivi-sogutmali-telefonu-36ea70d1/"
-  },
-  {
-   "id": "3a571562",
-   "title": "Türkiye, Husilerin Suudi Arabistan'daki havalimanlarına saldırılarını kınadı",
-   "summary": "Dışişleri Bakanlığı, Yemen'deki İran destekli Husilerin Suudi Arabistan'daki 2 havalimanını hedef almasını en güçlü biçimde kınadı.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-husilerin-suudi-arabistandaki-havalimanlarina-saldirilarini-kinadi/4083993",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-09T18:59:20+00:00",
-   "url": "/haber/turkiye-husilerin-suudi-arabistan-daki-havalimanlarina-saldirilarini-k-3a571562/"
   },
   {
    "id": "d15bf526",
@@ -429,17 +440,6 @@
    "category": "teknoloji",
    "date": "2026-10-09T18:00:00+00:00",
    "url": "/haber/togg-a-var-ioniq-e-yok-yerli-uretim-hyundai-ioniq-3-kredi-desteginden-3072704d/"
-  },
-  {
-   "id": "7a3fde5b",
-   "title": "Galatasaray, Kasımpaşa'yı son anlarda gelen gollerle yendi",
-   "summary": "Galatasaray, Trendyol Süper Lig'in 7. haftasında konuk ettiği Kasımpaşa'yı son dakikalarda bulduğu gollerle 3-1 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-kasimpasayi-son-anlarda-gelen-gollerle-yendi/4083938",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-09T17:55:12+00:00",
-   "url": "/haber/galatasaray-kasimpasa-yi-son-anlarda-gelen-gollerle-yendi-7a3fde5b/"
   },
   {
    "id": "c9bc9978",
@@ -1014,6 +1014,17 @@
    "url": "/haber/son-dakika-mugla-da-deprem-mi-oldu-az-once-deprem-mugla-da-nerede-oldu-3b60f58b/"
   },
   {
+   "id": "b43e6b49",
+   "title": "Erdoğan: Kim milletin emanetine el uzatırsa karşısında bizi bulur",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Kim milletin hakkına, hukukuna ve emanetine el uzatırsa karşısında bizi bulur; yargısıyla, emniyetiyle, maliyesiyle devletin tüm kurumlarını bulur. Hukukun, meşruiyetin sınırlarını…",
+   "link": "https://www.trthaber.com/haber/gundem/erdogan-kim-milletin-emanetine-el-uzatirsa-karsisinda-bizi-bulur-959661.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/recep-tayyip-erdogan-2494730.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-09T11:54:00+00:00",
+   "url": "/haber/erdogan-kim-milletin-emanetine-el-uzatirsa-karsisinda-bizi-bulur-b43e6b49/"
+  },
+  {
    "id": "115b2b00",
    "title": "Türkiye yeni bir yağışlı sistemin etkisi altına girecek",
    "summary": "Türkiye yeni bir yağışlı sistemin etkisi altına girmeye hazırlanıyor. Hafta sonu yurt genelinde mevsim normalleri civarında seyreden hava sıcaklıkları, önümüzdeki haftanın başından itibaren yerini yağışlı bir sisteme ve…",
@@ -1122,17 +1133,6 @@
    "category": "gundem",
    "date": "2026-10-09T08:31:26+00:00",
    "url": "/haber/gazeteci-selahattin-gunday-in-tutuklulugunun-devamina-karar-verildi-ea9e14e1/"
-  },
-  {
-   "id": "1d38b316",
-   "title": "Cumhurbaşkanı Erdoğan: Adalet devletin üzerine bina edildiği temeldir",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, adaletin sadece hukuki bir kavram değil, insanlığın ortak ideali olduğunu belirterek, \"Adalet; devletin üzerine bina edildiği temeldir\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-adalet-devletin-uzerine-bina-edildigi-temeldir-959630.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/erdogan-2494668.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-09T07:51:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-adalet-devletin-uzerine-bina-edildigi-temeldir-1d38b316/"
   },
   {
    "id": "3d6a1b4a",
