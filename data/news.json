@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-09T05:01:07.074990+00:00",
+ "updated": "2026-10-09T05:30:55.608013+00:00",
  "items": [
+  {
+   "id": "dedb8e23",
+   "title": "Cyberpunk 2077 Beyaz Perdeye Taşınıyor",
+   "summary": "CD Projekt Red, popüler oyunu Cyberpunk 2077 canlı aksiyon film uyarlaması için Paramount Pictures ile iş birliği yaptığını duyurdu.",
+   "link": "https://shiftdelete.net/cyberpunk-2077-canli-aksiyon-film-uyarlamasi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-09T05:30:18+00:00",
+   "url": "/haber/cyberpunk-2077-beyaz-perdeye-tasiniyor-dedb8e23/"
+  },
   {
    "id": "e5211a64",
    "title": "Samsung Galaxy S27 Serisinin Fiyatları Sızdırıldı",
@@ -24,6 +35,17 @@
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-e65c1f1e/"
   },
   {
+   "id": "ca4a5cfb",
+   "title": "Hafta sonu hava nasıl olacak?",
+   "summary": "Meteoroloji'nin yayımladığı tahminlere göre, hafta sonunda yurdun büyük bölümünde yağış beklenmiyor. Cumartesi günü doğu kesimlerde, pazar günü ise Orta ve Doğu Akdeniz ile Güneydoğu Anadolu'nun güneyinde sağanak…",
+   "link": "https://www.trthaber.com/haber/turkiye/hafta-sonu-hava-nasil-olacak-959601.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2028000/hava-durumu-aa-2029675.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-09T04:57:00+00:00",
+   "url": "/haber/hafta-sonu-hava-nasil-olacak-ca4a5cfb/"
+  },
+  {
    "id": "da383539",
    "title": "Yıldız Teknik Üniversitesi Siber Saldırıya Uğradı: 145 Bin Öğrenci ve Personel Etkilendi!",
    "summary": "KVKK, Yıldız Teknik Üniversitesi’nde veri ihlali yaşandığını bildirdi.",
@@ -33,6 +55,17 @@
    "category": "teknoloji",
    "date": "2026-10-09T04:43:55+00:00",
    "url": "/haber/yildiz-teknik-universitesi-siber-saldiriya-ugradi-145-bin-ogrenci-ve-p-da383539/"
+  },
+  {
+   "id": "01c66b11",
+   "title": "Cumhurbaşkanı Erdoğan, Uluslararası Adalet Zirvesi'ne katılacak",
+   "summary": "Cumhurbaşkanı Erdoğan, yoğun mesaisini sürdürüyor. Cumhurbaşkanı Erdoğan, bugün, İstanbul'da Uluslararası Adalet Zirvesi'nde katılımcılara hitap edecek. Daha sonra da Kırklareli'nde Çerkezköy - Kapıkule hızlı tren…",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-uluslararasi-adalet-zirvesine-katilacak-959598.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2492000/erdogan-2493546.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-09T04:42:00+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-uluslararasi-adalet-zirvesi-ne-katilacak-01c66b11/"
   },
   {
    "id": "ab2b72e3",
@@ -57,15 +90,15 @@
    "url": "/haber/spotify-sesli-kitap-hizmeti-turkiye-ye-geliyor-2a4b7e68/"
   },
   {
-   "id": "222e0cb1",
-   "title": "Maltepe'de kısmen çöken 7 katlı binada arama kurtarma çalışmaları tamamlandı",
-   "summary": "Maltepe'de kısmen çöken 7 katlı binanın enkazında 3 kişinin daha cansız bedenine ulaşılmasıyla olayda hayatını kaybedenlerin sayısı 5'e yükseldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/maltepede-kismen-coken-7-katli-binada-arama-kurtarma-calismalari-tamamlandi/4082850",
+   "id": "ec9cd8f0",
+   "title": "İstanbul'da kısmen çöken 7 katlı binada arama kurtarma çalışmaları tamamlandı, can kaybı 5'e yükseldi",
+   "summary": "İstanbul Maltepe'de kısmen çöken 7 katlı binanın enkazında 3 kişinin daha cansız bedenine ulaşılmasıyla olayda hayatını kaybedenlerin sayısı 5'e yükseldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-kismen-coken-7-katli-binada-arama-kurtarma-calismalari-tamamlandi-can-kaybi-5e-yukseldi/4082850",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-09T04:30:48+00:00",
-   "url": "/haber/maltepe-de-kismen-coken-7-katli-binada-arama-kurtarma-calismalari-tama-222e0cb1/"
+   "url": "/haber/istanbul-da-kismen-coken-7-katli-binada-arama-kurtarma-calismalari-tam-ec9cd8f0/"
   },
   {
    "id": "44071b82",
@@ -442,15 +475,15 @@
    "url": "/haber/forza-horizon-6-playstation-5-icin-ocak-ayinda-cikacak-916cebe0/"
   },
   {
-   "id": "c7c7547c",
-   "title": "İstanbul'da 7 katlı bina kısmen çöktü: 5 kişi hayatını kaybetti",
+   "id": "7a15ca9e",
+   "title": "İstanbul'da kısmen çöken 7 katlı binada arama çalışmaları tamamlandı: Can kaybı 5'e yükseldi",
    "summary": "İstanbul Maltepe'de kısmi çökme meydana gelen 7 katlı binada arama kurtarma çalışmaları tamamlandı. Çöken binada hayatını kaybedenlerin sayısı 5'e yükseldi. 10 kişinin de yaralı kurtarıldığı belirtildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-7-katli-bina-kismen-coktu-5-kisi-hayatini-kaybetti-959568.html",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kismen-coken-7-katli-binada-arama-calismalari-tamamlandi-can-kaybi-5e-yukseldi-959568.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/coken-bina-aa-2494532.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-08T17:31:00+00:00",
-   "url": "/haber/istanbul-da-7-katli-bina-kismen-coktu-5-kisi-hayatini-kaybetti-c7c7547c/"
+   "url": "/haber/istanbul-da-kismen-coken-7-katli-binada-arama-calismalari-tamamlandi-c-7a15ca9e/"
   },
   {
    "id": "d3556044",
@@ -871,17 +904,6 @@
    "url": "/haber/openai-in-genclere-ozel-chatgpt-si-incelendi-gencleri-korumak-icin-cik-ce2af0e7/"
   },
   {
-   "id": "e93512ed",
-   "title": "Bakanlık'tan İsmail Saymaz ve Murat Ağırel hakkında suç duyurusu",
-   "summary": "Ticaret Bakanlığı, fon soruşturması kapsamında Ticaret Bakanı Ömer Bolat'a yönelik ifadeleri ve sosyal medya paylaşımları nedeniyle İsmail Saymaz ve Murat Ağırel hakkında suç duyurusunda bulundu.",
-   "link": "https://www.trthaber.com/haber/ekonomi/bakanliktan-ismail-saymaz-ve-murat-agirel-hakkinda-suc-duyurusu-959546.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2334000/ticaret-bakanligi-2334774.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-08T12:32:00+00:00",
-   "url": "/haber/bakanlik-tan-ismail-saymaz-ve-murat-agirel-hakkinda-suc-duyurusu-e93512ed/"
-  },
-  {
    "id": "c3df01bb",
    "title": "Yapay Zeka Gençler için Güvenli mi? ChatGPT For Teens Güvenlik Testinden Geçemedi",
    "summary": "ChatGPT for Teens güvenli mi? Yapılan kapsamlı güvenlik testlerinde genç kullanıcılar için sunulan özellikler kabul edilemez risk kategorisinde görüldü.",
@@ -992,17 +1014,6 @@
    "url": "/haber/bakan-fidan-mekke-ittifaki-savunma-anlasmasidir-e0000b8c/"
   },
   {
-   "id": "c45c7241",
-   "title": "Makyajlı Toyota Yaris Cross Hybrid Türkiye’de! Yeni yüzün fiyatı belli oldu",
-   "summary": "Toyota’nın B-SUV segmentindeki hibrit modeli yenilendi. Makyajlı Toyota Yaris Cross Hybrid Türkiye’de satışa sunuldu ve 2.388.000 TL’den başlayan fiyatla showroomlarda yerini aldı. Yenilenen tasarım, büyüyen ekranlar ve…",
-   "link": "https://shiftdelete.net/makyajli-toyota-yaris-cross-hybrid-turkiyede-yeni-yuzun-fiyati-belli-oldu",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-08T11:00:26+00:00",
-   "url": "/haber/makyajli-toyota-yaris-cross-hybrid-turkiye-de-yeni-yuzun-fiyati-belli-c45c7241/"
-  },
-  {
    "id": "4064deb8",
    "title": "Yahşihan Belediyesi'ne yeni operasyon: Dokuz şüpheli gözaltında",
    "summary": "Kırıkkale'nin Yahşihan Belediyesi'ne yönelik yolsuzluk suçlamasıyla başlatılan soruşturmada ikinci dalga operasyon yapıldı. Operasyonda dokuz şüpheli gözaltına alındı.",
@@ -1100,17 +1111,6 @@
    "category": "gundem",
    "date": "2026-10-08T09:17:36+00:00",
    "url": "/haber/msb-acikladi-turk-askeri-riyad-a-gidecek-mi-b8b4772c/"
-  },
-  {
-   "id": "4e323523",
-   "title": "MSB: Askeri kuvvet ve yeteneklerin Suudi Arabistana sağlanması ve konuşlandırılması için tedbirler görüşülmüştür",
-   "summary": "Milli Savunma Bakanlığı, Mekke Savunma İttifakı Stratejik Siyasi ve Savunma Komitesi toplantısına ilişkin, \"Üzerinde mutabık kalınan askeri kuvvet ve yeteneklerin Suudi Arabistan’a sağlanması ve konuşlandırılması için…",
-   "link": "https://www.trthaber.com/haber/gundem/msb-askeri-kuvvet-ve-yeteneklerin-suudi-arabistana-saglanmasi-ve-konuslandirilmasi-icin-tedbirler-gorusulmustur-959522.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2230000/milli-savunma-bakanligi-2230027.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-08T09:00:00+00:00",
-   "url": "/haber/msb-askeri-kuvvet-ve-yeteneklerin-suudi-arabistana-saglanmasi-ve-konus-4e323523/"
   },
   {
    "id": "a83db796",
