@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T23:01:08.673382+00:00",
+ "updated": "2026-10-09T23:30:59.100131+00:00",
  "items": [
   {
    "id": "ba6b5b8b",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-09T23:00:00+00:00",
+   "date": "2026-10-09T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-ba6b5b8b/"
+  },
+  {
+   "id": "6dacfaa0",
+   "title": "Manisa'da dehşet. Yanan araçta ceset bulundu",
+   "summary": "Akhisar'da gece saatlerinde yanan otomobilde bir erkeğin cansız bedeni bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/manisada-dehset-yanan-aracta-ceset-bulundu-1745609",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-10020739-220490.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-09T23:10:21+00:00",
+   "url": "/haber/manisa-da-dehset-yanan-aracta-ceset-bulundu-6dacfaa0/"
+  },
+  {
+   "id": "bdcb407e",
+   "title": "Sosyal medyada yaş sınırlamasına ilişkin yönetmelik Resmi Gazete'de",
+   "summary": "Sosyal medyada yaş sınırlamasını içeren \"Sosyal Ağ Sağlayıcı Tarafından Çocuklara Özgü Ayrıştırılmış Hizmet Sunulmasına ve Yaş Doğrulamaya İlişkin Yönetmelik\" Resmi Gazete'de yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/-sosyal-medyada-yas-sinirlamasina-iliskin-yonetmelik-resmi-gazetede/4084136",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-09T23:01:58+00:00",
+   "url": "/haber/sosyal-medyada-yas-sinirlamasina-iliskin-yonetmelik-resmi-gazete-de-bdcb407e/"
   },
   {
    "id": "58ed8d6e",
@@ -92,7 +114,7 @@
   {
    "id": "4b4883ba",
    "title": "Sosyal medyada yaş sınırlamasına ilişkin yönetmelik Resmi Gazete'de",
-   "summary": "Sosyal medyada yaş sınırlamasına ilişkin yönetmelik Resmi Gazete'de yayımlandı. Yönetmeliğe göre sosyal medya ağ sağlayıcıları 15 yaşını doldurmamış çocuklara hizmet sunamayacak. Yönetmelik 1 Kasım'da yürürlüğe girecek.",
+   "summary": "Sosyal medyada yaş sınırlamasını içeren \"Sosyal Ağ Sağlayıcı Tarafından Çocuklara Özgü Ayrıştırılmış Hizmet Sunulmasına ve Yaş Doğrulamaya İlişkin Yönetmelik\" Resmi Gazete'de yayımlandı. 1 Kasım'da yürürlüğe girecek…",
    "link": "https://www.trthaber.com/haber/gundem/sosyal-medyada-yas-sinirlamasina-iliskin-yonetmelik-resmi-gazetede-959702.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2318000/cocuk-telefon-sinirlama-getty-2318444.jpg",
    "source": "TRT Haber Manşet Haberleri",
@@ -253,17 +275,6 @@
    "category": "gundem",
    "date": "2026-10-09T20:16:10+00:00",
    "url": "/haber/putin-abd-ye-ve-dunyaya-petrol-tedarik-etmeye-hazir-olduklarini-belirt-e61cba7a/"
-  },
-  {
-   "id": "631865a4",
-   "title": "Türk Dünyası Gençlik Buluşması, Kocaeli'de başladı",
-   "summary": "AK Parti Türk Devletleri ile İlişkiler Başkanlığı koordinasyonunda, Kocaeli Büyükşehir Belediyesinin ev sahipliğinde, \"Ortak Miras, Tek Yürek\" temasıyla düzenlenen \"Türk Dünyası Gençlik Buluşması\"nın açılış programı…",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-genclik-bulusmasi-kocaelide-basladi/4084040",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-09T20:01:27+00:00",
-   "url": "/haber/turk-dunyasi-genclik-bulusmasi-kocaeli-de-basladi-631865a4/"
   },
   {
    "id": "af6799b1",
@@ -1089,17 +1100,6 @@
    "category": "gundem",
    "date": "2026-10-09T10:19:00+00:00",
    "url": "/haber/maltepe-de-kismen-coken-binanin-bilirkisi-on-raporu-trt-haber-de-b274ec6b/"
-  },
-  {
-   "id": "55007162",
-   "title": "AK Parti Genel Sekreteri Eyyüp Kadir İnan, NTV'ye konuştu",
-   "summary": "AK Parti Genel Sekreteri Eyyüp Kadir İnan, İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın partiye katılımıyla ilgili konuşurken \"Tüm ilçelerde mega projelerimizi hayata geçirmek istiyoruz.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/ak-parti-genel-sekreteri-eyyup-kadir-inan-ntvye-konustu-1745537",
-   "image": "https://images.ntv.com.tr/images/Başlıksız-18Nisan202612.29.23-14-520019.jpeg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-09T10:09:27+00:00",
-   "url": "/haber/ak-parti-genel-sekreteri-eyyup-kadir-inan-ntv-ye-konustu-55007162/"
   },
   {
    "id": "9b7d8c48",
