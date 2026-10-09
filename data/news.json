@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-09T15:14:47.706976+00:00",
+ "updated": "2026-10-09T15:31:09.322845+00:00",
  "items": [
+  {
+   "id": "3aa63ee9",
+   "title": "Yapay Zekaya Zorbalık Yapanlara Kötü Haber: Banlanacaksınız",
+   "summary": "Anthropic, 2026 Kullanım Politikası ile Claude yapay zeka modeline yönelik sürekli ve amaçsız kötü davranışları yasakladığını açıkladı.",
+   "link": "https://shiftdelete.net/anthropic-claude-kotu-davranis-yasagi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-09T15:30:17+00:00",
+   "url": "/haber/yapay-zekaya-zorbalik-yapanlara-kotu-haber-banlanacaksiniz-3aa63ee9/"
+  },
+  {
+   "id": "898e5b1d",
+   "title": "TFF'de 5 yönetim kurulu üyesi istifa etti",
+   "summary": "TFF Yönetim Kurulu Üyeleri Mecnun Otyakmaz, Mustafa Bozbağ, Zafer Bahadır Saraç, Bilal Arslan ve Murat Şahin istifa etti.",
+   "link": "https://www.aa.com.tr/tr/spor/tffde-5-yonetim-kurulu-uyesi-istifa-etti/4083763",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-09T15:27:12+00:00",
+   "url": "/haber/tff-de-5-yonetim-kurulu-uyesi-istifa-etti-898e5b1d/"
+  },
+  {
+   "id": "bb415a1e",
+   "title": "AB’nin 2035 içten yanmalı motor yasağı daha da gevşeyebilir",
+   "summary": "Almanya ve Fransa, otomobillerde CO² emisyonlarını azaltma hedefinin yüzde 90 yerine yüzde 80'e çekilmesini ve üreticilere daha uzun süre tanınmasını istiyor.",
+   "link": "https://www.donanimhaber.com/ab-nin-2035-icten-yanmali-motor-yasagi-daha-da-gevseyebilir--211424",
+   "image": "https://www.donanimhaber.com/images/images/haber/211424/1200x675ab-nin-2035-icten-yanmali-motor-yasagi-daha-da-gevseyebilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-09T15:18:00+00:00",
+   "url": "/haber/ab-nin-2035-icten-yanmali-motor-yasagi-daha-da-gevseyebilir-bb415a1e/"
+  },
+  {
+   "id": "fd70df88",
+   "title": "BM: Yemen'de güvenilir bir siyasi süreç olmadan çatışmalar kontrol altına alınamayabilir",
+   "summary": "BM Yemen Özel Temsilcisi Grundberg, çatışmaların birden fazla cepheye yayılmasıyla Yemen’in tam ölçekli bir savaşa geri döndüğünü belirterek, ülkede güvenilir bir siyasi süreç olmadan çatışmaların kontrol altına…",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-yemende-guvenilir-bir-siyasi-surec-olmadan-catismalar-kontrol-altina-alinamayabilir/4083745",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-09T15:11:10+00:00",
+   "url": "/haber/bm-yemen-de-guvenilir-bir-siyasi-surec-olmadan-catismalar-kontrol-alti-fd70df88/"
+  },
   {
    "id": "7042da2f",
    "title": "Hatay'da depremlerin ardından 137'nci cami ibadete açıldı",
@@ -33,6 +77,17 @@
    "category": "teknoloji",
    "date": "2026-10-09T15:01:22+00:00",
    "url": "/haber/7-milyon-liralik-butceyle-ne-alinir-volvo-es90-vs-bmw-i5-mercedes-eqe-3e9403cc/"
+  },
+  {
+   "id": "ff500784",
+   "title": "OPPO 16:9 Ekranlı Geniş Gövdeli Telefon Geliştiriyor",
+   "summary": "OPPO 16:9 ekranlı amiral gemisi modeli üzerinde çalışıyor. LIPO teknolojisi ve 1 mm çerçevelerle dikkat çeken yeni telefonun detayları haberimizde.",
+   "link": "https://shiftdelete.net/oppo-16-9-ekranli-yeni-amiral-gemisi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-09T15:00:09+00:00",
+   "url": "/haber/oppo-16-9-ekranli-genis-govdeli-telefon-gelistiriyor-ff500784/"
   },
   {
    "id": "f2eab8a3",
@@ -222,6 +277,17 @@
    "url": "/haber/enerji-devinin-sistemlerine-sifresiz-erisim-saglayan-acik-bulundu-f363da9c/"
   },
   {
+   "id": "9ab25c2e",
+   "title": "Samsung Galaxy Studio: AirPods Max Rakibi mi Geliyor?",
+   "summary": "Samsung'un AirPods Max'e rakip olarak geliştirdiği ilk kulak üstü kulaklık modeli Samsung Galaxy Studio hakkında ortaya çıkan ilk detaylar.",
+   "link": "https://shiftdelete.net/samsung-galaxy-studio-kulaklik",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-09T14:30:30+00:00",
+   "url": "/haber/samsung-galaxy-studio-airpods-max-rakibi-mi-geliyor-9ab25c2e/"
+  },
+  {
    "id": "59fc14d2",
    "title": "Süpürme ve Silme İşlemi Nasıl Aynı Anda Yapılabiliyor?",
    "summary": "Yüksek hızda hava emişi yapan bir sistemle, suyu zeminle buluşturan bir sistem birbirine karışmadan, aerodinamik olarak nasıl aynı başlıkta çalışabiliyor?",
@@ -354,6 +420,17 @@
    "url": "/haber/uzay-kongresi-antalya-ekonomisine-20-milyon-avro-katki-sagladi-932dad9d/"
   },
   {
+   "id": "4ef1ed69",
+   "title": "SpaceX Büyük Bir Mobil Operatör Olmak İstiyor",
+   "summary": "SpaceX, Starlink mobil operatör olma planı için 800 MHz frekans lisansı satın aldı. Uydu ve karasal ağı birleştiren yeni sistem detayları haberimizde.",
+   "link": "https://shiftdelete.net/spacex-starlink-mobil-operator-plani",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-09T14:00:12+00:00",
+   "url": "/haber/spacex-buyuk-bir-mobil-operator-olmak-istiyor-4ef1ed69/"
+  },
+  {
    "id": "fe499759",
    "title": "Cumhurbaşkanı Erdoğan'dan muhalefete tepki: Siz önce para kulelerinin hesabını verin",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, muhalefeti FETÖ taktikleri kullanmakla suçladı. Haksızlık ve hukuksuzluğun üzerine ciddiyetle gidildiğini söyleyen Erdoğan, \"Yargı, suç işleyenin yakasında.\" dedi.",
@@ -431,17 +508,6 @@
    "url": "/haber/fon-tasfiye-kanunu-meclis-te-4abd1922/"
   },
   {
-   "id": "b2bd3972",
-   "title": "60 saniyede ekonomide bugün (09 Ekim 2026)",
-   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-09-ekim-2026/4083624",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-09T13:33:51+00:00",
-   "url": "/haber/60-saniyede-ekonomide-bugun-09-ekim-2026-b2bd3972/"
-  },
-  {
    "id": "dfe5471f",
    "title": "60 saniyede bugün (09 Ekim 2026)",
    "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
@@ -464,15 +530,15 @@
    "url": "/haber/fon-kanun-teklifi-meclis-baskanligi-na-sunuldu-7b6a2347/"
   },
   {
-   "id": "5fbf3a6b",
-   "title": "54 ildeki kaçakçılık operasyonlarında 294 şüpheli hakkında işlem yapıldı",
-   "summary": "Emniyet Genel Müdürlüğünce 54 ilde kaçakçılığa yönelik düzenlenen operasyonlarda 294 şüpheli hakkında işlem yapıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/54-ildeki-kacakcilik-operasyonlarinda-294-supheli-hakkinda-islem-yapildi/4083616",
+   "id": "8a9c32ea",
+   "title": "PlayStation 3 Oyunları Android’e Geliyor: ARMSX3 Google Play Store’da!",
+   "summary": "ARMSX3 emülatörü artık Google Play Store'da! Android cihazlarda PlayStation 3 oyunlarını çalıştırmanızı sağlayan uygulamanın detayları haberimizde.",
+   "link": "https://shiftdelete.net/armsx3-android-ps3-emulator-google-play",
    "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-09T13:26:16+00:00",
-   "url": "/haber/54-ildeki-kacakcilik-operasyonlarinda-294-supheli-hakkinda-islem-yapil-5fbf3a6b/"
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-09T13:30:31+00:00",
+   "url": "/haber/playstation-3-oyunlari-android-e-geliyor-armsx3-google-play-store-da-8a9c32ea/"
   },
   {
    "id": "7e0795c2",
@@ -860,17 +926,6 @@
    "url": "/haber/forza-horizon-6-ps5-e-ne-zaman-geliyor-iste-cikis-tarihi-d014b9c5/"
   },
   {
-   "id": "2db00b31",
-   "title": "Yapay zekaya eziyet etmek yasaklandı: Anthropic’ten yeni kurallar",
-   "summary": "Anthropic, Claude’a sürekli kötü muamele yapmayı yasakladı. Şirketin yeni kuralları seçimlere müdahale, sahte propaganda, izinsiz gözetim ve silah geliştirme faaliyetlerine de kısıtlamalar getiriyor.",
-   "link": "https://www.donanimhaber.com/yapay-zekaya-eziyet-etmek-yasaklandi-anthropic-ten-yeni-kurallar--211411",
-   "image": "https://www.donanimhaber.com/images/images/haber/211411/1200x675yapay-zekaya-eziyet-etmek-yasaklandi-anthropic-ten-yeni-kurallar.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-09T09:38:00+00:00",
-   "url": "/haber/yapay-zekaya-eziyet-etmek-yasaklandi-anthropic-ten-yeni-kurallar-2db00b31/"
-  },
-  {
    "id": "e57852c0",
    "title": "DarkSword Spyware iPhone’da Tehlike Saçıyor",
    "summary": "Güvenlik araştırmacıları, iPhone cihazlarını hedef alan yeni ve gelişmiş DarkSword spyware varyantı P7'yi keşfetti. İşte yeni siber tehdit hakkında bilmeniz gerekenler.",
@@ -981,17 +1036,6 @@
    "url": "/haber/dugun-cikisi-vurulan-ogretmen-kurtarilamadi-af000d33/"
   },
   {
-   "id": "95eda75d",
-   "title": "NVIDIA RTX Spark ve Windows: PC’yi Yeniden İcat Etme İddiası Apple, AMD, Intel ve Qualcomm’a Karşı Ne Vaat Ediyor?",
-   "summary": "Jensen Huang ve Satya Nadella, San Francisco’da aynı sahneyi paylaşıp Windows bilgisayarların yeni dönemini ilan etti. RTX Spark’lı dizüstüler bugün itibarıyla ön siparişe sunuldu ve 16 Ekim’de satışa çıkıyor. Surface…",
-   "link": "https://shiftdelete.net/nvidia-rtx-spark-ve-windows-pcyi-yeniden-icat-etme-iddiasi-apple-amd-intel-ve-qualcomma-karsi-ne-vaat-ediyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-09T08:31:58+00:00",
-   "url": "/haber/nvidia-rtx-spark-ve-windows-pc-yi-yeniden-icat-etme-iddiasi-apple-amd-95eda75d/"
-  },
-  {
    "id": "ea9e14e1",
    "title": "Gazeteci Selahattin Günday'ın tutukluluğunun devamına karar verildi",
    "summary": "Eski MİT görevlisi Kaşif Kozinoğlu soruşturmasında tutuklanan gazeteci Selahattin Günday'ın avukatı Hüseyin Ersöz, tahliye talebi konusunda bu hafta karar beklediklerini açıkladı.",
@@ -1001,17 +1045,6 @@
    "category": "gundem",
    "date": "2026-10-09T08:31:26+00:00",
    "url": "/haber/gazeteci-selahattin-gunday-in-tutuklulugunun-devamina-karar-verildi-ea9e14e1/"
-  },
-  {
-   "id": "c9e77502",
-   "title": "OpenAI’in Yıllık Geliri Beklentilerin 20 Milyar Dolar Altında Kaldı",
-   "summary": "OpenAI yıllık geliri, daha önce paylaşılan 70 milyar dolarlık tahminin aksine 50 milyar dolar seviyesinde gerçekleşti.",
-   "link": "https://shiftdelete.net/openai-yillik-gelir-beklentisi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-09T08:30:53+00:00",
-   "url": "/haber/openai-in-yillik-geliri-beklentilerin-20-milyar-dolar-altinda-kaldi-c9e77502/"
   },
   {
    "id": "d7fc04d8",
@@ -1047,28 +1080,6 @@
    "url": "/haber/saroz-korfezi-uzerinde-test-akinci-tiha-morfoz-la-vurdu-89ea0678/"
   },
   {
-   "id": "3fa15ff3",
-   "title": "ASELSAN MORFOZ Sahaya Çıktı: Konvansiyonel Mühimmatlar Akıllı Füzeye Dönüşüyor",
-   "summary": "Türk savunma sanayii, yerli mühimmat teknolojilerinde oyunun kurallarını değiştirecek yeni bir kabiliyet daha kazandı. ASELSAN’ın özgün mühendislik gücüyle geliştirdiği yeni nesil kanatlı güdüm kiti MORFOZ, sahaya adım…",
-   "link": "https://shiftdelete.net/aselsan-morfoz-sahaya-cikti-konvansiyonel-muhimmatlar-akilli-fuzeye-donusuyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-09T08:04:06+00:00",
-   "url": "/haber/aselsan-morfoz-sahaya-cikti-konvansiyonel-muhimmatlar-akilli-fuzeye-do-3fa15ff3/"
-  },
-  {
-   "id": "a9c261fb",
-   "title": "Gemini Artık Uygulamalar Arası Görevleri Tek Başına Tamamlayabiliyor",
-   "summary": "Google'ın tanıttığı yeni Google Gemini ajanı, uygulamalar arası çok adımlı görevleri otomatikleştirerek iş süreçlerini hızlandırmayı hedefliyor.",
-   "link": "https://shiftdelete.net/google-yeni-gemini-ajani-ozellikleri",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-09T08:00:26+00:00",
-   "url": "/haber/gemini-artik-uygulamalar-arasi-gorevleri-tek-basina-tamamlayabiliyor-a9c261fb/"
-  },
-  {
    "id": "1d38b316",
    "title": "Cumhurbaşkanı Erdoğan: Adalet devletin üzerine bina edildiği temeldir",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, adaletin sadece hukuki bir kavram değil, insanlığın ortak ideali olduğunu belirterek, \"Adalet; devletin üzerine bina edildiği temeldir\" dedi.",
@@ -1078,17 +1089,6 @@
    "category": "gundem",
    "date": "2026-10-09T07:51:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-adalet-devletin-uzerine-bina-edildigi-temeldir-1d38b316/"
-  },
-  {
-   "id": "d475c24a",
-   "title": "Bayraktar AKINCI, MORFOZ Güdüm Kiti İle Hedefi Tam İsabet Vurdu",
-   "summary": "Baykar tarafından geliştirilen Bayraktar AKINCI Taarruzi İnsansız Hava Aracı (TİHA), MORFOZ Güdüm Kiti ile gerçekleştirilen atış testini başarıyla tamamladı. Paylaşılan bilgiye göre test sırasında hedef tam isabetle…",
-   "link": "https://shiftdelete.net/bayraktar-akinci-morfoz-gudum-kiti-ile-hedefi-tam-isabet-vurdu",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-09T07:39:10+00:00",
-   "url": "/haber/bayraktar-akinci-morfoz-gudum-kiti-ile-hedefi-tam-isabet-vurdu-d475c24a/"
   },
   {
    "id": "3d6a1b4a",
