@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-10T15:01:04.280984+00:00",
+ "updated": "2026-10-10T15:30:58.170108+00:00",
  "items": [
+  {
+   "id": "0f12a863",
+   "title": "Honda’dan elektrikli araçları yolda giderken şarj edecek teknoloji",
+   "summary": "Honda, elektrikli araçları hareket halindeyken kablosuz şarj edecek yol teknolojisi geliştiriyor. İlk etapta ağır ticari araçlara odaklanan sistemin testleri 2027'de başlayacak.",
+   "link": "https://www.donanimhaber.com/honda-dan-elektrikli-araclari-yolda-giderken-sarj-edecek-teknoloj--211455",
+   "image": "https://www.donanimhaber.com/images/images/haber/211455/1200x675honda-dan-elektrikli-araclari-yolda-giderken-sarj-edecek-teknoloj.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-10T15:30:00+00:00",
+   "url": "/haber/honda-dan-elektrikli-araclari-yolda-giderken-sarj-edecek-teknoloji-0f12a863/"
+  },
+  {
+   "id": "1f3f637d",
+   "title": "Eyüpsultan Belediyesi başkanvekili seçiyor",
+   "summary": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen'in tutuklanmasının ardından belediye meclis üyeleri yeni başkanvekilini seçiyor. Oylamada üç tur tamamlandı dördüncü tura geçildi.",
+   "link": "https://www.ntv.com.tr/turkiye/eyupsultan-belediyesi-baskanvekili-seciyor-1745683",
+   "image": "https://images.ntv.com.tr/images/AA-20261010-42713222-42713214-TURKIYENIN_SEHIRLERI-806973.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-10T15:29:33+00:00",
+   "url": "/haber/eyupsultan-belediyesi-baskanvekili-seciyor-1f3f637d/"
+  },
+  {
+   "id": "aa8b0eaf",
+   "title": "ABD'nin Pensilvanya eyaletindeki silahlı saldırıda 9 kişi öldü",
+   "summary": "ABD'nin Pensilvanya eyaletinde düzenlenen silahlı saldırıda, aralarında çocukların da bulunduğu 9 kişi yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-pensilvanya-eyaletindeki-silahli-saldirida-9-kisi-oldu/4084595",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T15:14:51+00:00",
+   "url": "/haber/abd-nin-pensilvanya-eyaletindeki-silahli-saldirida-9-kisi-oldu-aa8b0eaf/"
+  },
+  {
+   "id": "79d80a74",
+   "title": "Cumhurbaşkanı Erdoğan'dan Uluslararası Demokratlar Birliği Genel Kuruluna mesaj",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan Uluslararası Demokratlar Birliği Genel Kurulu için bir video mesaj gönderdi. Erdoğan mesajında, \"Yurt dışında yaşayan kardeşlerimizi asla bırakmayacağız\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-uluslararasi-demokratlar-birligi-genel-kuruluna-mesaj-1745718",
+   "image": "https://images.ntv.com.tr/images/erdogan1-464540.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-10T15:13:52+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-dan-uluslararasi-demokratlar-birligi-genel-kurul-79d80a74/"
+  },
+  {
+   "id": "18abe99f",
+   "title": "Cumhurbaşkanı Erdoğan, UID 9. Olağan Genel Kurulu'na video mesaj gönderdi",
+   "summary": "Cumhurbaşkanı Erdoğan, merkezi Almanya'da bulunan Uluslararası Demokratlar Birliği'nin (UID) 9. Olağan Genel Kurulu'na video mesaj gönderdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-uid-9-olagan-genel-kuruluna-video-mesaj-gonderdi/4084592",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T15:12:42+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-uid-9-olagan-genel-kurulu-na-video-mesaj-gonderd-18abe99f/"
+  },
+  {
+   "id": "a55f6d59",
+   "title": "Ataşehir Belediyesi AKP'ye geçti, Eyüpsultan'da başvanvekilliği seçimi yapılıyor",
+   "summary": "Ataşehir Başkanvekili Murat Güneş ve Eyüpsultan Belediye Başkanı Mithat Bülent Özmen'in tutuklanması sonrası İstanbul Valiliği iki ismin de görevden uzaklaştırıldığını açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/cmy83n4l3qexo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/165c/live/08dab910-c491-11f1-a64c-550be9e3c66b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-10T15:02:01+00:00",
+   "url": "/haber/atasehir-belediyesi-akp-ye-gecti-eyupsultan-da-basvanvekilligi-secimi-a55f6d59/"
+  },
   {
    "id": "895e2453",
    "title": "Bellek Fiyatları Akıl Almıyor: 10 Yıl Önceki Teknolojiye Dönülüyor",
@@ -68,17 +134,6 @@
    "url": "/haber/erzincan-da-28-afet-konutunun-anahtarlari-hak-sahiplerine-teslim-edild-53bbea3b/"
   },
   {
-   "id": "1f3f637d",
-   "title": "Eyüpsultan Belediyesi başkanvekili seçiyor",
-   "summary": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen'in tutuklanmasının ardından belediye meclis üyeleri yeni başkanvekilini seçiyor. Oylamada iki tur tamamlandı üçüncü tura geçildi.",
-   "link": "https://www.ntv.com.tr/turkiye/eyupsultan-belediyesi-baskanvekili-seciyor-1745683",
-   "image": "https://images.ntv.com.tr/images/AA-20261010-42713222-42713214-TURKIYENIN_SEHIRLERI-806973.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-10T14:39:00+00:00",
-   "url": "/haber/eyupsultan-belediyesi-baskanvekili-seciyor-1f3f637d/"
-  },
-  {
    "id": "91bbe9f6",
    "title": "Samsung kulaklıklarda yeni güvenlik önlemi: Isındığında kapanacak!",
    "summary": "Samsung, aşırı ısınan Galaxy Buds kulaklığın güvenlik için kutusundan çıkarılmasını, soğuyana kadar geri koyulmamasını tavsiye ediyordu. Güncellemeyle birlikte bu değişecek.",
@@ -112,6 +167,28 @@
    "url": "/haber/israil-in-gazze-de-3-yildir-surdurdugu-soykirim-isvec-te-protesto-edil-9a786ffa/"
   },
   {
+   "id": "e7510d66",
+   "title": "Corendon Alanyaspor ile Erzurumspor golsüz berabere kaldı",
+   "summary": "Trendyol Süper Lig'in 7. haftasında Corendon Alanyaspor ile Erzurumspor FK 0-0 berabere kaldı.",
+   "link": "https://www.aa.com.tr/tr/spor/corendon-alanyaspor-ile-erzurumspor-golsuz-berabere-kaldi/4084541",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T14:16:49+00:00",
+   "url": "/haber/corendon-alanyaspor-ile-erzurumspor-golsuz-berabere-kaldi-e7510d66/"
+  },
+  {
+   "id": "1ce5b091",
+   "title": "Trabzonspor, deplasmanda Samsunspor'u 3-0 yendi",
+   "summary": "Trendyol Süper Lig'in 7. haftasında Trabzonspor, deplasmanda Samsunspor'u 3-0 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-deplasmanda-samsunsporu-3-0-yendi/4084533",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T14:03:53+00:00",
+   "url": "/haber/trabzonspor-deplasmanda-samsunspor-u-3-0-yendi-1ce5b091/"
+  },
+  {
    "id": "d42bac05",
    "title": "Gboard Kurukuru Tanıtıldı: Google’dan Sıra Dışı Klavye Tasarımı",
    "summary": "Google Japonya, tuşları konveyör bandı üzerinde hareket eden Google Gboard Kurukuru klavye tasarımını paylaştı. Detaylar ve açık kaynak dosyaları burada.",
@@ -143,17 +220,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T14:00:00+00:00",
    "url": "/haber/oppo-nun-yeni-telefonu-16-9-ekrana-ve-1-mm-cercevelere-sahip-olacak-89964e5f/"
-  },
-  {
-   "id": "a55f6d59",
-   "title": "Ataşehir Belediyesi AKP'ye geçti, Eyüpsultan'da başvanvekilliği seçimi yapılıyor",
-   "summary": "Ataşehir Başkanvekili Murat Güneş ve Eyüpsultan Belediye Başkanı Mithat Bülent Özmen'in tutuklanması sonrası İstanbul Valiliği iki ismin de görevden uzaklaştırıldığını açıkladı.",
-   "link": "https://www.bbc.com/turkce/articles/cmy83n4l3qexo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/165c/live/08dab910-c491-11f1-a64c-550be9e3c66b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-10T13:39:37+00:00",
-   "url": "/haber/atasehir-belediyesi-akp-ye-gecti-eyupsultan-da-basvanvekilligi-secimi-a55f6d59/"
   },
   {
    "id": "9061844e",
@@ -233,6 +299,17 @@
    "url": "/haber/icisleri-bakanligi-ndan-33-ilde-gocmen-kacakciligi-operasyonu-47-tutuk-dacb7665/"
   },
   {
+   "id": "76b73c0b",
+   "title": "14 ildeki organize suç operasyonlarında 195 şüpheli hakkında işlem yapıldı",
+   "summary": "İçişleri Bakanlığı, 14 ilde organize suçlarla mücadele kapsamında düzenlenen operasyonlarda 195 şüpheli hakkında adli işlem yapıldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/14-ildeki-organize-suc-operasyonlarinda-195-supheli-hakkinda-islem-yapildi/4084472",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T13:00:51+00:00",
+   "url": "/haber/14-ildeki-organize-suc-operasyonlarinda-195-supheli-hakkinda-islem-yap-76b73c0b/"
+  },
+  {
    "id": "51c13627",
    "title": "Ukrayna’dan Yandex’e Drone Saldırısı: Veri Merkezi Çöktü",
    "summary": "Ukrayna'nın düzenlediği İHA saldırısı, Rusya'nın en büyük teknoloji şirketi Yandex'e ait veri merkezini hedef alarak hizmetleri aksattı.",
@@ -266,17 +343,6 @@
    "url": "/haber/turkiye-offroad-sampiyonasi-nin-final-ayaginda-karasu-etabi-kosuldu-aac645b0/"
   },
   {
-   "id": "884abaf9",
-   "title": "Esenyurt Belediyesine yönelik yolsuzluk soruşturmasında gözaltına alınan 17 şüpheli adliyede",
-   "summary": "Esenyurt Belediyesine yönelik yolsuzluk soruşturması kapsamında düzenlenen operasyonlarda gözaltına alınan aralarında belediye başkan yardımcısının da bulunduğu 17 zanlı adliyeye sevk edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/esenyurt-belediyesine-yonelik-yolsuzluk-sorusturmasinda-gozaltina-alinan-17-supheli-adliyede-/4084466",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T12:50:55+00:00",
-   "url": "/haber/esenyurt-belediyesine-yonelik-yolsuzluk-sorusturmasinda-gozaltina-alin-884abaf9/"
-  },
-  {
    "id": "d582d6aa",
    "title": "Cumhurbaşkanı Erdoğan: Türkiye'nin karşısındakilere fırsat vermeyeceğiz",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Ülkenin hayrına olan her işi engellemeye çalışanlar bugün de yarın da olacaktır.\" diye konuşup Türkiye'nin karşısındakilere fırsat vermeyeceklerini dile getirdi.",
@@ -286,39 +352,6 @@
    "category": "gundem",
    "date": "2026-10-10T12:39:50+00:00",
    "url": "/haber/cumhurbaskani-erdogan-turkiye-nin-karsisindakilere-firsat-vermeyecegiz-d582d6aa/"
-  },
-  {
-   "id": "efec22c1",
-   "title": "Sağlık Bakanı Memişoğlu: Sigara satışında TC kimlik numarası şartı olacak",
-   "summary": "Bakan Memişoğlu, \"Sigarayla ilgili özellikle bazı alanlarda kısıtlamalara gidiyoruz. Esas amacımız şu, belli yaşın altındaki insanlara sigara satılması yasak. Bu satışın TC kimlik numarasını ibraz ederek yapılması…",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-sigara-satisinda-tc-kimlik-numarasi-sarti-olacak/4084453",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T12:36:06+00:00",
-   "url": "/haber/saglik-bakani-memisoglu-sigara-satisinda-tc-kimlik-numarasi-sarti-olac-efec22c1/"
-  },
-  {
-   "id": "7fbfabb8",
-   "title": "Çerkezköy-Kapıkule Hızlı Demiryolu Hattı'nda seferler başladı",
-   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, dün hizmete alınan Çerkezköy-Kapıkule Hızlı Demiryolu Hattı'nda seferlerin başladığını belirterek, \"Yeni hattımızda günde karşılıklı 6 hızlı tren seferi düzenliyoruz.\"…",
-   "link": "https://www.aa.com.tr/tr/gundem/cerkezkoy-kapikule-hizli-demiryolu-hattinda-seferler-basladi/4084440",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T12:21:35+00:00",
-   "url": "/haber/cerkezkoy-kapikule-hizli-demiryolu-hatti-nda-seferler-basladi-7fbfabb8/"
-  },
-  {
-   "id": "6bfb0a66",
-   "title": "İran Dışişleri Bakanı: Netanyahu kumarbaz gibi daha fazla Amerikan kanıyla kendini kurtarmaya çalışıyor",
-   "summary": "İran Dışişleri Bakanı Abbas Erakçi, İsrail Başbakanı Binyamin Netanyahu’nun “Yozlaşmış bir kumarbaz gibi çaresizce daha fazla Amerikan kanı ve servetiyle kendini kurtarmaya çalıştığını” savundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-netanyahu-kumarbaz-gibi-daha-fazla-amerikan-kaniyla-kendini-kurtarmaya-calisiyor/4084436",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T12:15:38+00:00",
-   "url": "/haber/iran-disisleri-bakani-netanyahu-kumarbaz-gibi-daha-fazla-amerikan-kani-6bfb0a66/"
   },
   {
    "id": "70299fb5",
@@ -396,17 +429,6 @@
    "category": "gundem",
    "date": "2026-10-10T11:34:21+00:00",
    "url": "/haber/gazze-de-ateskesin-birinci-yili-her-gun-birileri-olduruluyor-62436a03/"
-  },
-  {
-   "id": "fa6237bc",
-   "title": "Gençlerbirliği ile Amed Sportif Faaliyetler 2-2 berabere kaldı",
-   "summary": "Trendyol Süper Lig'in 7. haftasında Gençlerbirliği ile Amed Sportif Faaliyetler 2-2 berabere kaldı.",
-   "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-ile-amed-sportif-faaliyetler-2-2-berabere-kaldi/4084397",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T11:30:41+00:00",
-   "url": "/haber/genclerbirligi-ile-amed-sportif-faaliyetler-2-2-berabere-kaldi-fa6237bc/"
   },
   {
    "id": "9d4c5590",
@@ -706,17 +728,6 @@
    "url": "/haber/atasehir-belediyesi-baskan-vekilligi-ne-serdar-orhan-secildi-cdb9d159/"
   },
   {
-   "id": "806dabe7",
-   "title": "GeForce Now'a yeni eklenen oyunlar açıklandı: İşte liste",
-   "summary": "Nvidia, GeForce Now kütüphanesine eklenecek yeni oyunları açıkladı. Gears of War: E-Day ve STAR WARS: Galactic Racer dahil 10 oyun daha bulut üzerinden oynanabilecek.",
-   "link": "https://www.donanimhaber.com/geforce-now-a-yeni-eklenen-oyunlar-aciklandi-iste-liste--211453",
-   "image": "https://www.donanimhaber.com/images/images/haber/211453/1200x675geforce-now-a-yeni-eklenen-oyunlar-aciklandi-iste-liste.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-10T08:30:00+00:00",
-   "url": "/haber/geforce-now-a-yeni-eklenen-oyunlar-aciklandi-iste-liste-806dabe7/"
-  },
-  {
    "id": "93523805",
    "title": "Yeni yüksek hızlı tren hattında ilk sefer: \"Saatler sürüyordu, şimdi 55 dakikada gideceğim\"",
    "summary": "Çerkezköy-Kapıkule Hızlı Tren Hattı'nda ilk sefer bu sabah yapıldı. Yolcular, seyahat süresinin kısalmasından ve konforlu ulaşım imkanından duydukları memnuniyeti dile getirdi.",
@@ -924,17 +935,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T07:00:02+00:00",
    "url": "/haber/nokia-nin-hic-gormediginiz-telefon-prototipleri-d0b798ad/"
-  },
-  {
-   "id": "47a9d689",
-   "title": "Kapadokya semalarında Gazze için barış çağrısı",
-   "summary": "Kapadokya’da kefiye desenli sıcak hava balonları Gazze’ye destek için havalandı. Etkinlikte uluslararası topluma sivillerin korunması ve insani yardımların ulaştırılması çağrısı yapıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kapadokya-semalarinda-gazze-icin-baris-cagrisi-1745632",
-   "image": "https://images.ntv.com.tr/images/AW806694_03-765916.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-10T06:42:08+00:00",
-   "url": "/haber/kapadokya-semalarinda-gazze-icin-baris-cagrisi-47a9d689/"
   },
   {
    "id": "d72187c4",
