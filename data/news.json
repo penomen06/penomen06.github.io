@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T05:01:05.499654+00:00",
+ "updated": "2026-10-10T05:30:54.803565+00:00",
  "items": [
   {
    "id": "ba6b5b8b",
@@ -9,8 +9,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-10T05:00:00+00:00",
+   "date": "2026-10-10T05:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-ba6b5b8b/"
+  },
+  {
+   "id": "7af0ca85",
+   "title": "Sosyal Medyada 15 Yaş Sınırı Başlıyor: Yeni Yönetmelik Yayınlandı",
+   "summary": "Resmi Gazete'de yayımlanan sosyal medya yaş doğrulama yönetmeliği ile 15 yaş altı kullanıcılara kısıtlamalar ve e-Devlet doğrulaması geliyor.",
+   "link": "https://shiftdelete.net/sosyal-medya-yas-dogrulama-yonetmeligi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-10T05:26:07+00:00",
+   "url": "/haber/sosyal-medyada-15-yas-siniri-basliyor-yeni-yonetmelik-yayinlandi-7af0ca85/"
+  },
+  {
+   "id": "94c3e9da",
+   "title": "Pastırma yazı başladı: Hava sıcaklığı 30 dereceye ulaşacak",
+   "summary": "Pastırma yazı bugün başlıyor. Bugün tüm yurtta güneş yüzünü gösterecek, yazdan kalma bir gün yaşanacak. Bazı şehirlerde hava sıcaklığı 30 dereceye ulaşacak.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-pastirma-yazi-basladi-hava-sicakligi-30-dereceye-ulasacak-1745620",
+   "image": "https://images.ntv.com.tr/images/sıcak-hava-895185.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-10T05:19:32+00:00",
+   "url": "/haber/pastirma-yazi-basladi-hava-sicakligi-30-dereceye-ulasacak-94c3e9da/"
+  },
+  {
+   "id": "52740f68",
+   "title": "iPhone Air 2 Tasarımı ve Teknik Özellikleri Netleşiyor",
+   "summary": "Apple'ın yeni modeli iPhone Air 2 özellikleri ile dikkat çekiyor. 5,2 mm inceliğe sahip olacak cihazın pil ve kamera detayları netleşiyor.",
+   "link": "https://shiftdelete.net/iphone-air-2-ozellikleri-ve-tasarim-detaylari",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-10T05:00:18+00:00",
+   "url": "/haber/iphone-air-2-tasarimi-ve-teknik-ozellikleri-netlesiyor-52740f68/"
+  },
+  {
+   "id": "29c16708",
+   "title": "Otomatik Vites Geçişlerinde Neden Sarsıntı Olur?",
+   "summary": "Otomatik vites geçişlerinde sarsıntı neden olur? Şanzıman yağından kavrama ve takozlara kadar sert vites geçişine yol açabilecek nedenleri anlatıyoruz.",
+   "link": "https://www.webtekno.com/vites-gecisinde-sarsinti-h224896.html",
+   "image": "https://imgrosetta.webtekno.com/file/685327/685327-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-10T05:00:02+00:00",
+   "url": "/haber/otomatik-vites-gecislerinde-neden-sarsinti-olur-29c16708/"
   },
   {
    "id": "5c81a8fb",
@@ -750,17 +794,6 @@
    "url": "/haber/ab-nin-2035-icten-yanmali-motor-yasagi-daha-da-gevseyebilir-bb415a1e/"
   },
   {
-   "id": "ff500784",
-   "title": "OPPO 16:9 Ekranlı Geniş Gövdeli Telefon Geliştiriyor",
-   "summary": "OPPO 16:9 ekranlı amiral gemisi modeli üzerinde çalışıyor. LIPO teknolojisi ve 1 mm çerçevelerle dikkat çeken yeni telefonun detayları haberimizde.",
-   "link": "https://shiftdelete.net/oppo-16-9-ekranli-yeni-amiral-gemisi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-09T15:00:09+00:00",
-   "url": "/haber/oppo-16-9-ekranli-genis-govdeli-telefon-gelistiriyor-ff500784/"
-  },
-  {
    "id": "731264c5",
    "title": "Hisense \"İçindeki Işığı Hisset\" Lansmanıyla Türkiye Pazarına Giriş Yaptı",
    "summary": "Hisense, yenilikçi televizyon ve akıllı klima modellerini tanıttığı özel bir lansmanla Türkiye pazarına güçlü bir giriş yaptı.",
@@ -836,28 +869,6 @@
    "category": "teknoloji",
    "date": "2026-10-09T14:51:08+00:00",
    "url": "/haber/apple-iphone-18-pro-uretimini-20-ye-varan-oranda-azaltti-peki-neden-0fb39db2/"
-  },
-  {
-   "id": "cedad0d3",
-   "title": "NASA'dan Ekim Ayı İçin Gökyüzü Uyarısı: Kaçırılmaması Gereken 3 Olay",
-   "summary": "Ekim ayında gökyüzü hareketli: Draconid ve Orionid meteor yağmurlarından Avcı Dolunayı'na kadar ay boyunca gözlemleyebileceğimiz pek çok olay var.",
-   "link": "https://www.webtekno.com/nasa-dan-ekim-ayi-icin-gokyuzu-uyarisi-kacirilmamasi-gereken-3-olay-h226765.html",
-   "image": "https://imgrosetta.webtekno.com/file/691828/691828-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-09T14:51:05+00:00",
-   "url": "/haber/nasa-dan-ekim-ayi-icin-gokyuzu-uyarisi-kacirilmamasi-gereken-3-olay-cedad0d3/"
-  },
-  {
-   "id": "9ab25c2e",
-   "title": "Samsung Galaxy Studio: AirPods Max Rakibi mi Geliyor?",
-   "summary": "Samsung'un AirPods Max'e rakip olarak geliştirdiği ilk kulak üstü kulaklık modeli Samsung Galaxy Studio hakkında ortaya çıkan ilk detaylar.",
-   "link": "https://shiftdelete.net/samsung-galaxy-studio-kulaklik",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-09T14:30:30+00:00",
-   "url": "/haber/samsung-galaxy-studio-airpods-max-rakibi-mi-geliyor-9ab25c2e/"
   },
   {
    "id": "69dc44b6",
@@ -1067,17 +1078,6 @@
    "category": "gundem",
    "date": "2026-10-09T11:06:30+00:00",
    "url": "/haber/akin-gurlek-214-kisi-uc-fondan-yaklasik-188-milyar-lira-kar-elde-etti-78e3c18f/"
-  },
-  {
-   "id": "f8036fe2",
-   "title": "Maltepe'deki bina neden çöktü? Bilirkişi ön raporu çıktı",
-   "summary": "Maltepe'de çöken binaya ilişkin hazırlanan bilirkişi ön raporunda kaçak katlar için alınan yıkım kararlarının uygulanmadığı belirtildi. Gözaltındaki mimar ve şantiye şefi kusurlu çıktı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-maltepedeki-bina-neden-coktu-bilirkisi-on-raporu-cikti-1745541",
-   "image": "https://images.ntv.com.tr/images/maltepe-detay-276972.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-09T10:53:47+00:00",
-   "url": "/haber/maltepe-deki-bina-neden-coktu-bilirkisi-on-raporu-cikti-f8036fe2/"
   },
   {
    "id": "ffccb491",
