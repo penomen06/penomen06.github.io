@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-10T10:01:08.610356+00:00",
+ "updated": "2026-10-10T10:30:58.134387+00:00",
  "items": [
+  {
+   "id": "4f938e5a",
+   "title": "Korsan oyunlara darbe: Denuvo hamlesini yaptı",
+   "summary": "Star Wars: Galactic Racer oyunu ile birlikte yeni bir korsa koruması devreye girdi. Koruma bilindik bir yöntemi devre dışı bırakarak oyunun kırılmasını engelliyor.",
+   "link": "https://www.donanimhaber.com/denuvo-dan-yeni-koruma-yontemi--211460",
+   "image": "https://www.donanimhaber.com/images/images/haber/211460/1200x675denuvo-dan-yeni-koruma-yontemi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-10T10:30:00+00:00",
+   "url": "/haber/korsan-oyunlara-darbe-denuvo-hamlesini-yapti-4f938e5a/"
+  },
+  {
+   "id": "3b98163f",
+   "title": "Yeni dönem başlıyor. Artık sigara satışı kimlikle olacak",
+   "summary": "Sağlık Bakanı Kemal Memişoğlu, sigara satışlarında T.C. kimliğin ibraz edilmesini zorunlu hale getirileceğini açıkladı. Memişoğlu, düzenlemenin birkaç hafta içinde Meclis'e sunulacağını söyledi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-yeni-donem-basliyor-artik-sigara-satisi-kimlikle-olacak-1745668",
+   "image": "https://images.ntv.com.tr/images/sigara-908878.webp",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-10T10:12:22+00:00",
+   "url": "/haber/yeni-donem-basliyor-artik-sigara-satisi-kimlikle-olacak-3b98163f/"
+  },
+  {
+   "id": "19e6e6a4",
+   "title": "Audi, kompakt sınıfın dikkat çeken üyesi A3’ün 30. yaşını kutluyor",
+   "summary": "Audi, bu hafta 1996’da yollara çıkarılan kompakt sınıfın dikkat çeken üyesi A3’ün 30. yaşını kutluyor. Toplam üretimi altı milyonu aşan seri hakkında yapılan resmi açıklamada, “Audi A3, 1996 Paris Otomobil Fuarı’ndaki…",
+   "link": "https://www.log.com.tr/audi-kompakt-sinifin-dikkat-ceken-uyesi-a3un-30-yasini-kutluyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-10_13-07-45_5nqZY-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-10T10:10:30+00:00",
+   "url": "/haber/audi-kompakt-sinifin-dikkat-ceken-uyesi-a3-un-30-yasini-kutluyor-19e6e6a4/"
+  },
+  {
+   "id": "a55f6d59",
+   "title": "Ataşehir Belediyesi AKP'ye geçti",
+   "summary": "Ataşehir Başkanvekili Murat Güneş ve Eyüpsultan Belediye Başkanı Mithat Bülent Özmen'in tutuklanması sonrası İstanbul Valiliği iki ismin de görevden uzaklaştırıldığını açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/cmy83n4l3qexo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/165c/live/08dab910-c491-11f1-a64c-550be9e3c66b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-10T10:08:14+00:00",
+   "url": "/haber/atasehir-belediyesi-akp-ye-gecti-a55f6d59/"
+  },
+  {
+   "id": "62f18877",
+   "title": "33 ilde göçmen kaçakçılığı operasyonlarında 51 şüpheli yakalandı",
+   "summary": "Jandarma Genel Komutanlığınca 33 ilde düzenlenen göçmen kaçakçılığı operasyonlarında 51 şüpheli yakalandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/33-ilde-gocmen-kacakciligi-operasyonlarinda-51-supheli-yakalandi/4084329",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T10:05:27+00:00",
+   "url": "/haber/33-ilde-gocmen-kacakciligi-operasyonlarinda-51-supheli-yakalandi-62f18877/"
+  },
   {
    "id": "56402566",
    "title": "OnePlus 16: 185Hz Ekran ve 9000mAh Batarya ile Geliyor",
@@ -13,6 +68,17 @@
    "url": "/haber/oneplus-16-185hz-ekran-ve-9000mah-batarya-ile-geliyor-56402566/"
   },
   {
+   "id": "2e18f37f",
+   "title": "Ankara Gar saldırısının 12. yılı: O gün neler yaşandı?",
+   "summary": "Barış Mitingi için 10 Ekim 2015'te Ankara Garı önünde toplanan kalabalığa IŞİD tarafından düzenlenen ve 103 kişi hayatını kaybettiği bombalı saldırının üzerinden 12 yıl geçti. Peki o gün neler yaşandı?",
+   "link": "https://www.bbc.com/turkce/articles/cd1103ddn9ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5b6/live/69af4fe0-a5a1-11f0-b3f8-1f6f33edd2b1.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-10T10:00:54+00:00",
+   "url": "/haber/ankara-gar-saldirisinin-12-yili-o-gun-neler-yasandi-2e18f37f/"
+  },
+  {
    "id": "931d6218",
    "title": "Microsoft, Intel, AMD ve NVIDIA'dan sürücülerini iyileştirmesini istiyor",
    "summary": "Microsoft, Windows 11'de yaşanan sistem çökmelerini ve sürücü kaynaklı sorunları azaltmak için Intel, AMD ve NVIDIA'nın sürücü geliştirme ve test süreçlerini iyileştirmesini istiyor.",
@@ -22,28 +88,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T10:00:00+00:00",
    "url": "/haber/microsoft-intel-amd-ve-nvidia-dan-suruculerini-iyilestirmesini-istiyor-931d6218/"
-  },
-  {
-   "id": "ba6b5b8b",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Ekim 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-10-ekim-2026-1745602",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-10T10:00:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-ba6b5b8b/"
-  },
-  {
-   "id": "a55f6d59",
-   "title": "Ataşehir Belediyesi AKP'ye geçti",
-   "summary": "Ataşehir Başkanvekili Murat Güneş ve Eyüpsultan Belediye Başkanı Mithat Bülent Özmen'in tutuklanması sonrası İstanbul Valiliği iki ismin de görevden uzaklaştırıldığını açıkladı.",
-   "link": "https://www.bbc.com/turkce/articles/cmy83n4l3qexo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/165c/live/08dab910-c491-11f1-a64c-550be9e3c66b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-10T09:57:58+00:00",
-   "url": "/haber/atasehir-belediyesi-akp-ye-gecti-a55f6d59/"
   },
   {
    "id": "9111d0a2",
@@ -226,7 +270,7 @@
    "title": "Sağlık Bakanı Memişoğlu: Sigara satışı kimlikle olacak",
    "summary": "Sağlık Bakanı Kemal Memişoğlu, sigara ile mücadele kapsamında yeni düzenlemeler hazırladıklarını belirterek, tütün ürünü satışlarında yaş doğrulama sistemine geçileceğini ve sigaranın görünürlüğünün kısıtlanacağını…",
    "link": "https://www.trthaber.com/haber/gundem/saglik-bakani-memisoglu-sigara-satisi-kimlikle-olacak-959736.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/memisoglu-2494830.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/memisoglu-2494833.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-10T08:58:00+00:00",
@@ -330,17 +374,6 @@
    "category": "gundem",
    "date": "2026-10-10T08:33:44+00:00",
    "url": "/haber/istanbul-kongre-turizminden-son-5-yilda-800-milyon-dolari-asan-doviz-g-ad471e12/"
-  },
-  {
-   "id": "0ff92b85",
-   "title": "\"Mavi Medrese\"nin dijital ikizi oluşturuldu",
-   "summary": "Sivas'ta üzerindeki gök mavisi çinilerden dolayı \"Mavi Medrese\" olarak da anılan Gök Medrese'nin üç boyutlu dijital ikizi oluşturuldu.",
-   "link": "https://www.aa.com.tr/tr/kultur/mavi-medresenin-dijital-ikizi-olusturuldu/4084272",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T08:31:38+00:00",
-   "url": "/haber/mavi-medrese-nin-dijital-ikizi-olusturuldu-0ff92b85/"
   },
   {
    "id": "cdb9d159",
@@ -616,17 +649,6 @@
    "category": "gundem",
    "date": "2026-10-10T07:16:51+00:00",
    "url": "/haber/dondurulmus-yumurtalik-dokusundan-nasil-cocuk-sahibi-oldular-759ecd4a/"
-  },
-  {
-   "id": "c154797a",
-   "title": "İddia: “iPhone 18 Pro serisine yönelik talep beklentilerin altında kaldı”",
-   "summary": "Nikkei Asia’nın iddiasına göre iPhone 18 Pro ve 18 Pro Max’e yönelik talep beklentilerin altında kaldı. Apple’ın bu nedenle yeni telefonlarının üretimini şimdiden azalttığı aktarılırken, talebin düşük kalmasında artan…",
-   "link": "https://www.log.com.tr/iddia-iphone-18-pro-serisine-yonelik-talep-beklentilerin-altinda-kaldi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-10_10-05-21_V5iik-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-10T07:10:23+00:00",
-   "url": "/haber/iddia-iphone-18-pro-serisine-yonelik-talep-beklentilerin-altinda-kaldi-c154797a/"
   },
   {
    "id": "fddf304a",
@@ -981,17 +1003,6 @@
    "url": "/haber/sanayide-enerji-maliyetlerini-dusurmenin-yeni-yolu-gunes-enerjisi-dest-efdee06e/"
   },
   {
-   "id": "c9bc9978",
-   "title": "LEGO Marvel Skyline seti duyuruldu",
-   "summary": "LEGO Marvel Skyline seti Marvel yapımlarında bugüne kadar gördüğümüz toplam 14 ikonik mekânı kompakt bir alana sığdırırken efsane araçları da unutmamış.",
-   "link": "https://www.donanimhaber.com/lego-marvel-skyline-geliyor--211429",
-   "image": "https://www.donanimhaber.com/images/images/haber/211429/1200x675lego-marvel-skyline-geliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-09T17:55:00+00:00",
-   "url": "/haber/lego-marvel-skyline-seti-duyuruldu-c9bc9978/"
-  },
-  {
    "id": "1d2fcbc5",
    "title": "AKP'nin fon teklifi Meclis'te: Düzenleme neler öngörüyor?",
    "summary": "Adalet ve Kalkınma Partisi, tasfiye halindeki fon yatırımcılarına yapılacak geri ödemelere ilişkin dokuz maddelik yasa teklifini TBMM Başkanlığı'na sundu. Net yatırım tutarı 1 milyon liranın altında olan yatırımcılar…",
@@ -1177,17 +1188,6 @@
    "category": "gundem",
    "date": "2026-10-09T11:06:30+00:00",
    "url": "/haber/akin-gurlek-214-kisi-uc-fondan-yaklasik-188-milyar-lira-kar-elde-etti-78e3c18f/"
-  },
-  {
-   "id": "ffccb491",
-   "title": "Nobel Barış Ödülü, Gazze savaş suçları soruşturma komisyonu başkanı Navi Pillay'e verildi",
-   "summary": "Eski BM İnsan Hakları Yüksek Komiseri Navi Pillay, 2026 Nobel Barış Ödülü'nü kazandı. Güney Afrikalı hukukçu, Eylül 2025'te İsrail'in \"Gazze'de soykırım işlediği\" sonucuna varan BM soruşturma komisyonuna başkanlık…",
-   "link": "https://www.bbc.com/turkce/articles/c6wyr1ln2z8eo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f6e/live/94ab2740-c3ce-11f1-8fc5-335d62f6730b.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-09T10:46:58+00:00",
-   "url": "/haber/nobel-baris-odulu-gazze-savas-suclari-sorusturma-komisyonu-baskani-nav-ffccb491/"
   },
   {
    "id": "b274ec6b",
