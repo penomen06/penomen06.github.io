@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-10T19:31:00.322997+00:00",
+ "updated": "2026-10-10T20:01:08.610215+00:00",
  "items": [
+  {
+   "id": "85ce3102",
+   "title": "Marmara'da deprem: İstanbul'da da hissedildi. Profesör Okan Tüysüz, fayla ilgili bilgi verdi",
+   "summary": "AFAD'dan yapılan açıklamaya göre Marmara Denizi'nde Yalova merkezli 3,5 büyüklüğünde deprem meydana geldi. Prof. Okan Tüysüz, ntv.com.tr'ye, \"İstanbul ile bağlantılı değil\" bilgisini verdi.",
+   "link": "https://www.ntv.com.tr/turkiye/marmarada-deprem-istanbulda-da-hissedildi-profesor-okan-tuysuz-fayla-ilgili-bilgi-verdi-1745730",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-10224626.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-10T19:48:22+00:00",
+   "url": "/haber/marmara-da-deprem-istanbul-da-da-hissedildi-profesor-okan-tuysuz-fayla-85ce3102/"
+  },
+  {
+   "id": "8f40041a",
+   "title": "Pentagon, İran ile savaşta ölen ABD askerlerinin sayısını 21 olarak güncelledi",
+   "summary": "ABD Savunma Bakanlığı (Pentagon), İran'a karşı saldırılarda hayatını kaybeden Amerikan askeri sayısının bildirilenden daha yüksek olduğunu kabul etti ve resmi sayıyı 21'e yükseltti.",
+   "link": "https://www.aa.com.tr/tr/dunya/pentagon-iran-ile-savasta-olen-abd-askerlerinin-sayisini-21-olarak-guncelledi/4084741",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T19:44:31+00:00",
+   "url": "/haber/pentagon-iran-ile-savasta-olen-abd-askerlerinin-sayisini-21-olarak-gun-8f40041a/"
+  },
+  {
+   "id": "d877036d",
+   "title": "Türkiye, Panama'daki depremden derin üzüntü duyduğunu bildirdi",
+   "summary": "Dışişleri Bakanlığı, Panama'da dün meydana gelen depremin yol açtığı zarardan derin üzüntü duyulduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-panamadaki-depremden-derin-uzuntu-duydugunu-bildirdi/4084739",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T19:38:32+00:00",
+   "url": "/haber/turkiye-panama-daki-depremden-derin-uzuntu-duydugunu-bildirdi-d877036d/"
+  },
   {
    "id": "0c3195cb",
    "title": "Son dakika Yalova'da deprem mi oldu? Az önce deprem Yalova'da nerede oldu? Yalova deprem Kandilli ve AFAD son depremler listesi 10 Ekim 2026",
@@ -22,17 +55,6 @@
    "category": "gundem",
    "date": "2026-10-10T19:28:16+00:00",
    "url": "/haber/rusya-dizel-ihracat-yasagini-kismen-kaldirdi-613f1384/"
-  },
-  {
-   "id": "09b4ce81",
-   "title": "Marmara'da deprem: İstanbul'da da hissedildi",
-   "summary": "AFAD'dan yapılan açıklamaya göre Marmara Denizi'nde Yalova merkezli 3,5 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/marmarada-deprem-istanbulda-da-hissedildi-1745730",
-   "image": "https://images.ntv.com.tr/images/deprem-802935.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-10T19:25:17+00:00",
-   "url": "/haber/marmara-da-deprem-istanbul-da-da-hissedildi-09b4ce81/"
   },
   {
    "id": "c13b6de5",
@@ -211,17 +233,6 @@
    "url": "/haber/fenerbahce-deplasmanda-3-puani-3-golle-aldi-fdb1e360/"
   },
   {
-   "id": "47f41a44",
-   "title": "Nobel Barış Ödülü sahibi Pillay, ABD'nin UCM'ye yaptırımlarının \"kabul edilemez\" olduğunu söyledi",
-   "summary": "Nobel Barış Ödülü'nü alan Güney Afrikalı hukukçu Navanethem Navi Pillay, ABD'nin Uluslararası Ceza Mahkemesine (UCM) yaptırım uygulama kararının \"kabul edilemez\" olduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/nobel-baris-odulu-sahibi-pillay-abdnin-ucmye-yaptirimlarinin-kabul-edilemez-oldugunu-soyledi/4084669",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T17:01:32+00:00",
-   "url": "/haber/nobel-baris-odulu-sahibi-pillay-abd-nin-ucm-ye-yaptirimlarinin-kabul-e-47f41a44/"
-  },
-  {
    "id": "455e4117",
    "title": "Yapay Zeka Polise Asılsız İhbar Gönderdi",
    "summary": "Anthropic'in Claude Haiku 4.5 modeli, Philadelphia polisi tarafından kullanılan bir web sitesine sahte bir cinayet ihbarı gönderdi.",
@@ -242,17 +253,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T17:00:00+00:00",
    "url": "/haber/webb-teleskobu-en-uzak-radyo-patlamasinin-sirrini-cozdu-dd4cb199/"
-  },
-  {
-   "id": "85d8616e",
-   "title": "Bakan Kacır: IAC 2026, bugüne kadarki en büyük ve en görkemli uluslararası uzay kongresi oldu",
-   "summary": "Sanayi ve Teknoloji Bakanı Kacır, 77. Uluslararası Uzay Kongresi'nin (IAC 2026) bugüne kadarki en büyük ve en görkemli uluslararası uzay kongresi olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-iac-2026-bugune-kadarki-en-buyuk-ve-en-gorkemli-uluslararasi-uzay-kongresi-oldu/4084656",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T16:44:59+00:00",
-   "url": "/haber/bakan-kacir-iac-2026-bugune-kadarki-en-buyuk-ve-en-gorkemli-uluslarara-85d8616e/"
   },
   {
    "id": "a6fc9989",
