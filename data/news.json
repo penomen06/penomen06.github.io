@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T23:01:08.714490+00:00",
+ "updated": "2026-10-10T23:30:54.347508+00:00",
  "items": [
   {
    "id": "b1530444",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-10T23:00:00+00:00",
+   "date": "2026-10-10T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b1530444/"
+  },
+  {
+   "id": "332ae3f5",
+   "title": "Filistin Devlet Başkan Yardımcısı Şeyh: Halkımızı katledenler bize vaiz diliyle sesleniyor",
+   "summary": "Filistin Devlet Başkan Yardımcısı Hüseyin eş-Şeyh, Filistin genel seçimlerinin ertelenmesini eleştiren İsrail Dışişleri Bakanı Gideon Saar'a tepki göstererek, ertelemenin İsrail'in suçları ve uygulamaları nedeniyle…",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-devlet-baskan-yardimcisi-seyh-halkimizi-katledenler-bize-vaiz-diliyle-sesleniyor/4084825",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T23:12:46+00:00",
+   "url": "/haber/filistin-devlet-baskan-yardimcisi-seyh-halkimizi-katledenler-bize-vaiz-332ae3f5/"
   },
   {
    "id": "a87c9996",
@@ -242,17 +253,6 @@
    "category": "gundem",
    "date": "2026-10-10T20:22:12+00:00",
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-24-agu-8d07ddc8/"
-  },
-  {
-   "id": "2662e7fc",
-   "title": "DSÖ, Rusya'daki zatürre vakasında bulaş olduğuna dair kanıt bulunmadığını bildirdi",
-   "summary": "Dünya Sağlık Örgütü (DSÖ), Rusya'nın Sibirya bölgesinde nedeni belirlenemeyen zatürre şüphesiyle bir kişinin hayatını kaybetmesinin ardından söz konusu hastalıkla ilgili herhangi bir bulaş olduğuna dair kanıt…",
-   "link": "https://www.aa.com.tr/tr/dunya/dso-rusyadaki-zaturre-vakasinda-bulas-olduguna-dair-kanit-bulunmadigini-bildirdi/4084768",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T20:19:57+00:00",
-   "url": "/haber/dso-rusya-daki-zaturre-vakasinda-bulas-olduguna-dair-kanit-bulunmadigi-2662e7fc/"
   },
   {
    "id": "85ce3102",
