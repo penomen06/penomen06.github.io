@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T21:35:32.778033+00:00",
+ "updated": "2026-10-10T22:01:11.075595+00:00",
  "items": [
   {
    "id": "b1530444",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-10T21:30:01+00:00",
+   "date": "2026-10-10T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b1530444/"
+  },
+  {
+   "id": "e14d884e",
+   "title": "Giresun Belediye Başkanvekili Kara, Yeni Parti’den istifa etti",
+   "summary": "Giresun Belediye Başkanvekili Alptuğ Kaan Kara, Yeni Parti’den istifa ederek, bağımsız meclis üyeleri arasına katıldı. Kara’nın belediye başkanvekilliği görevini ise sürdürdüğü bildirildi.",
+   "link": "https://www.ntv.com.tr/turkiye/giresun-belediye-baskanvekili-kara-yeni-partiden-istifa-etti-1745742",
+   "image": "https://images.ntv.com.tr/images/AW807189_01-629548.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-10T21:53:00+00:00",
+   "url": "/haber/giresun-belediye-baskanvekili-kara-yeni-parti-den-istifa-etti-e14d884e/"
   },
   {
    "id": "71b890da",
@@ -33,6 +44,28 @@
    "category": "gundem",
    "date": "2026-10-10T21:15:37+00:00",
    "url": "/haber/bakan-ciftci-den-fon-sorusturmasi-aciklamasi-devletimiz-hicbir-zaman-v-bcb9dbf3/"
+  },
+  {
+   "id": "74ee7e9f",
+   "title": "Eski ABD yetkilisinden, Netanyahu'nun esir takasını engelleyerek \"Gazze'de savaşı 6 ay uzattığı\" itirafı",
+   "summary": "Eski ABD Başkanı Joe Biden yönetiminde görev yapan üst düzey yetkililerden Phil Gordon, İsrail Başbakanı Binyamin Netanyahu'nun Temmuz 2024'te Hamas'ın kabul ettiği esir takası anlaşmasını engelleyerek Gazze'deki savaşı…",
+   "link": "https://www.aa.com.tr/tr/dunya/eski-abd-yetkilisinden-netanyahunun-esir-takasini-engelleyerek-gazzede-savasi-6-ay-uzattigi-itirafi/4084795",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T21:09:43+00:00",
+   "url": "/haber/eski-abd-yetkilisinden-netanyahu-nun-esir-takasini-engelleyerek-gazze-74ee7e9f/"
+  },
+  {
+   "id": "207ce46e",
+   "title": "\"Afife\" balesi 28 yıl sonra sanatseverlerle buluştu",
+   "summary": "Türk tiyatrosunun öncü isimlerinden Afife Jale'nin mücadele dolu yaşamını konu alan modern bale prodüksiyonu \"Afife\", Atatürk Kültür Merkezi (AKM) Türk Telekom Opera Salonu'nda gerçekleştirilen prömiyeriyle…",
+   "link": "https://www.aa.com.tr/tr/kultur/afife-balesi-28-yil-sonra-sanatseverlerle-bulustu/4084793",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T21:08:44+00:00",
+   "url": "/haber/afife-balesi-28-yil-sonra-sanatseverlerle-bulustu-207ce46e/"
   },
   {
    "id": "0a4b0b3b",
@@ -253,28 +286,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T18:00:00+00:00",
    "url": "/haber/whatsapp-android-uygulamasinda-yeni-kisiler-sekmesini-test-ediyor-5e0997f1/"
-  },
-  {
-   "id": "945fa185",
-   "title": "ABD'de Demokratlardan Trump'ın Rusya'dan dizel alımına ilişkin anlaşmasına tepki",
-   "summary": "ABD'de bazı Demokrat siyasetçiler, Başkan Donald Trump'ın Rusya Devlet Başkanı Vladimir Putin ile dizel yakıt anlaşması yapmasına tepki gösterdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-demokratlardan-trumpin-rusyadan-dizel-alimina-iliskin-anlasmasina-tepki/4084698",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T17:41:48+00:00",
-   "url": "/haber/abd-de-demokratlardan-trump-in-rusya-dan-dizel-alimina-iliskin-anlasma-945fa185/"
-  },
-  {
-   "id": "157b4798",
-   "title": "Devrim Muhafızları Ordusu: Hürmüz Boğazı’nda bir süper tanker mayına çarptı",
-   "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı’nda alternatif güney rotası üzerinden ayrılmaya çalışan bir süper tankerin deniz mayınına çarptığını ve çarpma sonrası patlama meydana geldiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-bir-super-tanker-mayina-carpti/4084696",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T17:39:17+00:00",
-   "url": "/haber/devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-bir-super-tanker-mayina-ca-157b4798/"
   },
   {
    "id": "cd24b149",
@@ -627,17 +638,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T12:00:00+00:00",
    "url": "/haber/intel-in-gelismis-cip-paketleme-teknolojisi-devlerin-radarinda-bes-sir-3bc36b17/"
-  },
-  {
-   "id": "4379b80a",
-   "title": "Akın Gürlek duyurdu: İki faili meçhul cinayet daha aydınlatıldı",
-   "summary": "Adalet Bakanı Akın Gürlek, Kırşehir ve Samsun'da işlenen iki cinayetin aydınlatıldığını, soruşturmalar kapsamında 4 şüphelinin tutuklandığını açıkladı.",
-   "link": "https://www.ntv.com.tr/turkiye/akin-gurlek-duyurdu-iki-faili-mechul-cinayet-daha-aydinlatildi-1745682",
-   "image": "https://images.ntv.com.tr/images/gürlek-823399-438409.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-10T11:44:57+00:00",
-   "url": "/haber/akin-gurlek-duyurdu-iki-faili-mechul-cinayet-daha-aydinlatildi-4379b80a/"
   },
   {
    "id": "62436a03",
