@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T22:01:11.075595+00:00",
+ "updated": "2026-10-10T22:30:57.389989+00:00",
  "items": [
   {
    "id": "b1530444",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-10T22:00:00+00:00",
+   "date": "2026-10-10T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b1530444/"
+  },
+  {
+   "id": "0fd2a25e",
+   "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 11 Ekim 2026",
+   "summary": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 11 Ekim 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-11-ekim-2026-1745744",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-10T22:20:00+00:00",
+   "url": "/haber/son-dakika-mugla-da-deprem-mi-oldu-az-once-deprem-mugla-da-nerede-oldu-0fd2a25e/"
+  },
+  {
+   "id": "bd6e14aa",
+   "title": "Suudi Arabistan: Riyad'daki Kral Halid Uluslararası Havalimanı'na dün düzenlenen saldırıda 12 kişi hayatını kaybetti",
+   "summary": "Suudi Arabistan, Riyad'daki Kral Halid Uluslararası Havalimanı'na dün düzenlenen saldırıda 12 kişinin hayatını kaybettiğini, 309 kişinin yaralandığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/live-blog/suudi-arabistan-riyaddaki-kral-halid-uluslararasi-havalimanina-dun-duzenlenen-saldirida-12-kisi-hayatini-kaybetti/6810",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T22:00:08+00:00",
+   "url": "/haber/suudi-arabistan-riyad-daki-kral-halid-uluslararasi-havalimani-na-dun-d-bd6e14aa/"
+  },
+  {
+   "id": "4ca01043",
+   "title": "Riyad'daki havalimanına düzenlenen saldırıda 12 kişi hayatını kaybetti",
+   "summary": "Suudi Arabistan Sivil Havacılık Genel Kurulu (GACA), başkent Riyad'daki Kral Halid Uluslararası Havalimanı'nı hedef alan saldırıda hayatını kaybedenlerin sayısının 12'ye, yaralı sayısının ise 309'a yükseldiğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/riyaddaki-havalimanina-duzenlenen-saldirida-12-kisi-hayatini-kaybetti-959785.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/riyad-2494849.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-10T21:59:00+00:00",
+   "url": "/haber/riyad-daki-havalimanina-duzenlenen-saldirida-12-kisi-hayatini-kaybetti-4ca01043/"
   },
   {
    "id": "e14d884e",
@@ -46,6 +79,17 @@
    "url": "/haber/bakan-ciftci-den-fon-sorusturmasi-aciklamasi-devletimiz-hicbir-zaman-v-bcb9dbf3/"
   },
   {
+   "id": "dc91ee94",
+   "title": "Oryantiringde uluslararası başarıların temeli altyapıda atılıyor",
+   "summary": "Türkiye Oryantiring Federasyonu Başkanı Atilla Güler, uluslararası yarışmalarda elde edilen başarıların sürdürülebilir hale getirilmesi için altyapı çalışmalarına ağırlık verdiklerini belirterek \"Geleceğin milli…",
+   "link": "https://www.aa.com.tr/tr/spor/oryantiringde-uluslararasi-basarilarin-temeli-altyapida-atiliyor/4084797",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T21:11:31+00:00",
+   "url": "/haber/oryantiringde-uluslararasi-basarilarin-temeli-altyapida-atiliyor-dc91ee94/"
+  },
+  {
    "id": "74ee7e9f",
    "title": "Eski ABD yetkilisinden, Netanyahu'nun esir takasını engelleyerek \"Gazze'de savaşı 6 ay uzattığı\" itirafı",
    "summary": "Eski ABD Başkanı Joe Biden yönetiminde görev yapan üst düzey yetkililerden Phil Gordon, İsrail Başbakanı Binyamin Netanyahu'nun Temmuz 2024'te Hamas'ın kabul ettiği esir takası anlaşmasını engelleyerek Gazze'deki savaşı…",
@@ -66,6 +110,17 @@
    "category": "gundem",
    "date": "2026-10-10T21:08:44+00:00",
    "url": "/haber/afife-balesi-28-yil-sonra-sanatseverlerle-bulustu-207ce46e/"
+  },
+  {
+   "id": "76879cfe",
+   "title": "İsrail basını: Trump ve Netanyahu son haftalarda İran'a saldırı konusunda görüşmeler yürütüyor",
+   "summary": "İsrail basını, ABD Başkanı Donald Trump ile İsrail Başbakanı Binyamin Netanyahu arasında son haftalarda İran'a saldırılar konusunda yoğun görüşme trafiği yapıldığını ileri sürdü.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-trump-ve-netanyahu-son-haftalarda-irana-saldiri-konusunda-gorusmeler-yurutuyor/4084792",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T21:08:04+00:00",
+   "url": "/haber/israil-basini-trump-ve-netanyahu-son-haftalarda-iran-a-saldiri-konusun-76879cfe/"
   },
   {
    "id": "0a4b0b3b",
@@ -255,17 +310,6 @@
    "url": "/haber/ak-parti-grup-baskanvekili-zengin-den-ozgur-ozel-in-aciklamasina-tepki-ae3bff36/"
   },
   {
-   "id": "0243d27b",
-   "title": "Trump: Bence Ukrayna'nın yeni bir başkan edinme vakti geldi",
-   "summary": "ABD Başkanı Trump, Ukrayna'nın Rusya'daki petrol rafinerilerine saldırması ve anlaşma yanlısı olmaması nedeniyle Devlet Başkanı Zelenskiy yerine \"yeni bir başkan edinmesi\" gerektiğini savundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-bence-ukraynanin-yeni-bir-baskan-edinme-vakti-geldi/4084714",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T18:12:18+00:00",
-   "url": "/haber/trump-bence-ukrayna-nin-yeni-bir-baskan-edinme-vakti-geldi-0243d27b/"
-  },
-  {
    "id": "787caf7f",
    "title": "Dizüstü Bilgisayar Fiyatları Artacak: Satışlar Düşecek",
    "summary": "TrendForce raporuna göre 2027 laptop fiyatları ve pazar durumu, artan bileşen maliyetleri nedeniyle zorlu bir döneme giriyor.",
@@ -286,17 +330,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T18:00:00+00:00",
    "url": "/haber/whatsapp-android-uygulamasinda-yeni-kisiler-sekmesini-test-ediyor-5e0997f1/"
-  },
-  {
-   "id": "cd24b149",
-   "title": "Kartal Koşuyolu Eğitim ve Araştırma Hastanesinin çatısında çıkan yangın söndürüldü",
-   "summary": "Kartal Koşuyolu Yüksek İhtisas Eğitim ve Araştırma Hastanesinin tadilat yapılan boş ek binasının çatısında çıkan yangın söndürüldü.",
-   "link": "https://www.aa.com.tr/tr/gundem/-kartal-kosuyolu-egitim-ve-arastirma-hastanesinin-catisinda-cikan-yangin-sonduruldu/4084692",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T17:34:28+00:00",
-   "url": "/haber/kartal-kosuyolu-egitim-ve-arastirma-hastanesinin-catisinda-cikan-yangi-cd24b149/"
   },
   {
    "id": "63384cd1",
@@ -418,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T16:00:00+00:00",
    "url": "/haber/google-fitbit-edge-tanitim-tarihi-aciklandi-iste-beklenen-ozellikler-bea299c7/"
-  },
-  {
-   "id": "576414e8",
-   "title": "Eyüpsultan Belediyesi başkanvekili seçimi. CHP'li Cafer Parlak kazandı",
-   "summary": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen'in tutuklanmasının ardından belediye meclis üyeleri yeni başkanvekilini seçti. CHP'nin adayı Cafer Parlak başkanvekili seçildi.",
-   "link": "https://www.ntv.com.tr/turkiye/eyupsultan-belediyesi-baskanvekili-secimi-chpli-cafer-parlak-kazandi-1745683",
-   "image": "https://images.ntv.com.tr/images/AA-20261010-42713222-42713214-TURKIYENIN_SEHIRLERI-806973.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-10T15:54:48+00:00",
-   "url": "/haber/eyupsultan-belediyesi-baskanvekili-secimi-chp-li-cafer-parlak-kazandi-576414e8/"
   },
   {
    "id": "0f12a863",
@@ -561,17 +583,6 @@
    "category": "gundem",
    "date": "2026-10-10T13:15:56+00:00",
    "url": "/haber/pastirma-sicaklari-kisa-surecek-istanbul-a-uc-gun-yagmur-yagacak-sicak-d8e70323/"
-  },
-  {
-   "id": "03564dc6",
-   "title": "Londra Helal Forumu 2026 başladı",
-   "summary": "Küresel helal ekonomisinin büyüme potansiyeli, yatırım fırsatları, yeni pazarlar ve bu alandaki uluslararası ticaret işbirliklerinin iki gün boyunca masaya yatırılacağı \"Londra Helal Forumu 2026\" başladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/londra-helal-forumu-2026-basladi-/4084491",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T13:13:35+00:00",
-   "url": "/haber/londra-helal-forumu-2026-basladi-03564dc6/"
   },
   {
    "id": "51c13627",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-10-09T05:42:00+00:00",
    "url": "/haber/bakan-gurlek-187-milyar-liralik-haksiz-kazanc-tespiti-yapildi-34b51147/"
-  },
-  {
-   "id": "5acda237",
-   "title": "Polis memuru Türkoğlu'nun şehit edilmesine ilişkin 5 şüpheli tutuklandı",
-   "summary": "Ankara Cumhuriyet Başsavcılığınca polis memuru Ahmet Türkoğlu'nun şehit edilmesine ilişkin yürütülen soruşturmada gözaltına alınan 5 şüpheli tutuklandı.",
-   "link": "https://www.trthaber.com/haber/gundem/polis-memuru-turkoglunun-sehit-edilmesine-iliskin-5-supheli-tutuklandi-959586.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/sehit-polis-turkoglu-sorusturmasi-iha-2494530.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-09T01:46:00+00:00",
-   "url": "/haber/polis-memuru-turkoglu-nun-sehit-edilmesine-iliskin-5-supheli-tutukland-5acda237/"
   },
   {
    "id": "8f3c68f4",
