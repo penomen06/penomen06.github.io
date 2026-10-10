@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T01:01:09.726901+00:00",
+ "updated": "2026-10-10T01:30:58.516069+00:00",
  "items": [
   {
    "id": "ba6b5b8b",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-10T01:00:00+00:00",
+   "date": "2026-10-10T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-ba6b5b8b/"
+  },
+  {
+   "id": "2671b0f6",
+   "title": "Maltepe'de kısmen çöken binanın enkazında çalışmalar tamamlandı",
+   "summary": "Maltepe'de, ilk üç katının çökmesi sonucunda 5 kişinin hayatını kaybettiği 7 katlı binanın enkazında çalışmalar tamamlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/maltepede-kismen-coken-binanin-enkazinda-calismalar-tamamlandi/4084145",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T01:07:31+00:00",
+   "url": "/haber/maltepe-de-kismen-coken-binanin-enkazinda-calismalar-tamamlandi-2671b0f6/"
   },
   {
    "id": "96d49e2c",
@@ -275,17 +286,6 @@
    "category": "gundem",
    "date": "2026-10-09T20:20:00+00:00",
    "url": "/haber/son-dakika-mersin-de-deprem-mi-oldu-az-once-deprem-mersin-de-nerede-ol-3125edcc/"
-  },
-  {
-   "id": "e61cba7a",
-   "title": "Putin, ABD'ye ve dünyaya petrol tedarik etmeye hazır olduklarını belirtti",
-   "summary": "Rusya Devlet Başkanı Vladimir Putin, ABD ve küresel piyasalara petrol ve petrol ürünleri tedarik etmeye hazır olduklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/putin-abdye-ve-dunyaya-petrol-tedarik-etmeye-hazir-olduklarini-belirtti/4084056",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-09T20:16:10+00:00",
-   "url": "/haber/putin-abd-ye-ve-dunyaya-petrol-tedarik-etmeye-hazir-olduklarini-belirt-e61cba7a/"
   },
   {
    "id": "af6799b1",
