@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-10T17:30:54.264257+00:00",
+ "updated": "2026-10-10T17:48:45.304903+00:00",
  "items": [
+  {
+   "id": "945fa185",
+   "title": "ABD'de Demokratlardan Trump'ın Rusya'dan dizel alımına ilişkin anlaşmasına tepki",
+   "summary": "ABD'de bazı Demokrat siyasetçiler, Başkan Donald Trump'ın Rusya Devlet Başkanı Vladimir Putin ile dizel yakıt anlaşması yapmasına tepki gösterdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-demokratlardan-trumpin-rusyadan-dizel-alimina-iliskin-anlasmasina-tepki/4084698",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T17:41:48+00:00",
+   "url": "/haber/abd-de-demokratlardan-trump-in-rusya-dan-dizel-alimina-iliskin-anlasma-945fa185/"
+  },
+  {
+   "id": "157b4798",
+   "title": "Devrim Muhafızları Ordusu: Hürmüz Boğazı’nda bir süper tanker mayına çarptı",
+   "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı’nda alternatif güney rotası üzerinden ayrılmaya çalışan bir süper tankerin deniz mayınına çarptığını ve çarpma sonrası patlama meydana geldiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-bir-super-tanker-mayina-carpti/4084696",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T17:39:17+00:00",
+   "url": "/haber/devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-bir-super-tanker-mayina-ca-157b4798/"
+  },
+  {
+   "id": "63384cd1",
+   "title": "Uzaktan eğitim ve online dersler için laptop modelleri",
+   "summary": "Uzaktan eğitim için en iyi laptoplar online ders, ödev ve günlük kullanım için performans, pil ömrü ve taşınabilirliği bir araya getiriyor. Peki ders için en iyi laptop hangisi?",
+   "link": "https://www.donanimhaber.com/uzaktan-egitim-ve-online-dersler-icin-laptop-modelleri--211417",
+   "image": "https://www.donanimhaber.com/images/images/haber/211417/1200x675uzaktan-egitim-ve-online-dersler-icin-laptop-modelleri.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-10T17:30:00+00:00",
+   "url": "/haber/uzaktan-egitim-ve-online-dersler-icin-laptop-modelleri-63384cd1/"
+  },
   {
    "id": "2de79fc3",
    "title": "Kartal'da hastanenin çatısında yangın",
@@ -11,6 +44,17 @@
    "category": "gundem",
    "date": "2026-10-10T17:29:41+00:00",
    "url": "/haber/kartal-da-hastanenin-catisinda-yangin-2de79fc3/"
+  },
+  {
+   "id": "25cfc3f0",
+   "title": "İngiltere’de hayvanat bahçesinin kaplan bölümüne giren şahıs hayatını kaybetti",
+   "summary": "İngiltere'nin Yorkshire bölgesindeki bir hayvanat bahçesinde Bengal kaplanı bölümüne giren şahıs, kaplanın saldırması sonucu hayatını kaybetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-de-hayvanat-bahcesinin-kaplan-bolumune-giren-sahis-hayatini-kaybetti/4084680",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T17:25:59+00:00",
+   "url": "/haber/ingiltere-de-hayvanat-bahcesinin-kaplan-bolumune-giren-sahis-hayatini-25cfc3f0/"
   },
   {
    "id": "22877caf",
@@ -233,6 +277,17 @@
    "url": "/haber/abd-de-isaias-kasirgasi-nedeniyle-2-kisi-oldu-800-binden-fazla-kisi-el-59e6f70a/"
   },
   {
+   "id": "a75aea3e",
+   "title": "Türk Dünyası Sigorta Birliği 2. Genel Kurulu yapıldı",
+   "summary": "Türk Dünyası Sigorta Birliği 2. Genel Kurulu, uluslararası sektör temsilcilerinin katılımıyla Gaziantep'te düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-dunyasi-sigorta-birligi-2-genel-kurulu-yapildi-/4084605",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T15:33:37+00:00",
+   "url": "/haber/turk-dunyasi-sigorta-birligi-2-genel-kurulu-yapildi-a75aea3e/"
+  },
+  {
    "id": "0f12a863",
    "title": "Honda’dan elektrikli araçları yolda giderken şarj edecek teknoloji",
    "summary": "Honda, elektrikli araçları hareket halindeyken kablosuz şarj edecek yol teknolojisi geliştiriyor. İlk etapta ağır ticari araçlara odaklanan sistemin testleri 2027'de başlayacak.",
@@ -242,28 +297,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T15:30:00+00:00",
    "url": "/haber/honda-dan-elektrikli-araclari-yolda-giderken-sarj-edecek-teknoloji-0f12a863/"
-  },
-  {
-   "id": "52b54368",
-   "title": "Londra'da yüz binlerce kişi Filistin'e destek için yürüdü",
-   "summary": "İngiltere'nin başkenti Londra'da yüz binlerce kişi, İsrail'in Gazze'de 3. yılını dolduran soykırımına tepki göstererek yürüyüş düzenledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/londrada-yuz-binlerce-kisi-filistine-destek-icin-yurudu/4084599",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T15:23:15+00:00",
-   "url": "/haber/londra-da-yuz-binlerce-kisi-filistin-e-destek-icin-yurudu-52b54368/"
-  },
-  {
-   "id": "aa8b0eaf",
-   "title": "ABD'nin Pensilvanya eyaletindeki silahlı saldırıda 9 kişi öldü",
-   "summary": "ABD'nin Pensilvanya eyaletinde düzenlenen silahlı saldırıda, aralarında çocukların da bulunduğu 9 kişi yaşamını yitirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdnin-pensilvanya-eyaletindeki-silahli-saldirida-9-kisi-oldu/4084595",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T15:14:51+00:00",
-   "url": "/haber/abd-nin-pensilvanya-eyaletindeki-silahli-saldirida-9-kisi-oldu-aa8b0eaf/"
   },
   {
    "id": "79d80a74",
@@ -277,15 +310,15 @@
    "url": "/haber/cumhurbaskani-erdogan-dan-uluslararasi-demokratlar-birligi-genel-kurul-79d80a74/"
   },
   {
-   "id": "18abe99f",
-   "title": "Cumhurbaşkanı Erdoğan, UID 9. Olağan Genel Kurulu'na video mesaj gönderdi",
-   "summary": "Cumhurbaşkanı Erdoğan, merkezi Almanya'da bulunan Uluslararası Demokratlar Birliği'nin (UID) 9. Olağan Genel Kurulu'na video mesaj gönderdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-uid-9-olagan-genel-kuruluna-video-mesaj-gonderdi/4084592",
+   "id": "b7610fff",
+   "title": "Londra Helal Forumu'nda helal turizm ekonomisindeki köklü değişim ele alındı",
+   "summary": "Küresel helal ekonomisindeki büyüme potansiyeli ve yatırım fırsatlarının tartışıldığı Londra Helal Forumu'nda, helal turizm ekonomisinin köklü bir değişimden geçtiği ve gençlerin bu alanda giderek daha büyük bir kitle…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/londra-helal-forumunda-helal-turizm-ekonomisindeki-koklu-degisim-ele-alindi/4084591",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-10T15:12:42+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-uid-9-olagan-genel-kurulu-na-video-mesaj-gonderd-18abe99f/"
+   "date": "2026-10-10T15:11:18+00:00",
+   "url": "/haber/londra-helal-forumu-nda-helal-turizm-ekonomisindeki-koklu-degisim-ele-b7610fff/"
   },
   {
    "id": "895e2453",
@@ -341,17 +374,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T14:30:00+00:00",
    "url": "/haber/samsung-kulakliklarda-yeni-guvenlik-onlemi-isindiginda-kapanacak-91bbe9f6/"
-  },
-  {
-   "id": "e7510d66",
-   "title": "Corendon Alanyaspor ile Erzurumspor golsüz berabere kaldı",
-   "summary": "Trendyol Süper Lig'in 7. haftasında Corendon Alanyaspor ile Erzurumspor FK 0-0 berabere kaldı.",
-   "link": "https://www.aa.com.tr/tr/spor/corendon-alanyaspor-ile-erzurumspor-golsuz-berabere-kaldi/4084541",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T14:16:49+00:00",
-   "url": "/haber/corendon-alanyaspor-ile-erzurumspor-golsuz-berabere-kaldi-e7510d66/"
   },
   {
    "id": "d42bac05",
@@ -429,17 +451,6 @@
    "category": "gundem",
    "date": "2026-10-10T13:12:28+00:00",
    "url": "/haber/icisleri-bakanligi-ndan-33-ilde-gocmen-kacakciligi-operasyonu-47-tutuk-dacb7665/"
-  },
-  {
-   "id": "76b73c0b",
-   "title": "14 ildeki organize suç operasyonlarında 195 şüpheli hakkında işlem yapıldı",
-   "summary": "İçişleri Bakanlığı, 14 ilde organize suçlarla mücadele kapsamında düzenlenen operasyonlarda 195 şüpheli hakkında adli işlem yapıldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/14-ildeki-organize-suc-operasyonlarinda-195-supheli-hakkinda-islem-yapildi/4084472",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T13:00:51+00:00",
-   "url": "/haber/14-ildeki-organize-suc-operasyonlarinda-195-supheli-hakkinda-islem-yap-76b73c0b/"
   },
   {
    "id": "51c13627",
@@ -627,17 +638,6 @@
    "category": "gundem",
    "date": "2026-10-10T10:00:54+00:00",
    "url": "/haber/ankara-gar-saldirisinin-12-yili-o-gun-neler-yasandi-2e18f37f/"
-  },
-  {
-   "id": "931d6218",
-   "title": "Microsoft, Intel, AMD ve NVIDIA'dan sürücülerini iyileştirmesini istiyor",
-   "summary": "Microsoft, Windows 11'de yaşanan sistem çökmelerini ve sürücü kaynaklı sorunları azaltmak için Intel, AMD ve NVIDIA'nın sürücü geliştirme ve test süreçlerini iyileştirmesini istiyor.",
-   "link": "https://www.donanimhaber.com/microsoft-windows-11-suruculerinin-iyilestirmesini-istiyor--211446",
-   "image": "https://www.donanimhaber.com/images/images/haber/211446/1200x675microsoft-windows-11-suruculerinin-iyilestirmesini-istiyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-10T10:00:00+00:00",
-   "url": "/haber/microsoft-intel-amd-ve-nvidia-dan-suruculerini-iyilestirmesini-istiyor-931d6218/"
   },
   {
    "id": "decf26c2",
