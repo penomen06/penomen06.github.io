@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-10T15:30:58.170108+00:00",
+ "updated": "2026-10-10T16:01:07.460115+00:00",
  "items": [
+  {
+   "id": "bcb9e039",
+   "title": "Google Translate’e Ses Temizleme Özelliği Geliyor",
+   "summary": "Google Translate, sesli girişleri temizleyen ve Rambler'a benzeyen Smart assist özelliğini test ediyor. İşte yeni çeviri aracının detayları.",
+   "link": "https://shiftdelete.net/google-translate-smart-assist-ozelligi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-10T16:00:39+00:00",
+   "url": "/haber/google-translate-e-ses-temizleme-ozelligi-geliyor-bcb9e039/"
+  },
+  {
+   "id": "bea299c7",
+   "title": "Google Fitbit Edge tanıtım tarihi açıklandı: İşte beklenen özellikler",
+   "summary": "Google, Fitbit Edge fitness takip cihazını 12 Ekim 2026'da tanıtmaya hazırlanıyor. AMOLED ekranı, pil ömrü ve tasarımına ilişkin sızıntılar, yeni cihazın özelliklerine ışık tutuyor.",
+   "link": "https://www.donanimhaber.com/google-fitbit-edge-tanitim-tarihi-aciklandi-iste-beklenenler--211468",
+   "image": "https://www.donanimhaber.com/images/images/haber/211468/1200x675google-fitbit-edge-tanitim-tarihi-aciklandi-iste-beklenenler.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-10T16:00:00+00:00",
+   "url": "/haber/google-fitbit-edge-tanitim-tarihi-aciklandi-iste-beklenen-ozellikler-bea299c7/"
+  },
+  {
+   "id": "576414e8",
+   "title": "Eyüpsultan Belediyesi başkanvekili seçimi. CHP'li Cafer Parlak kazandı",
+   "summary": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen'in tutuklanmasının ardından belediye meclis üyeleri yeni başkanvekilini seçti. CHP'nin adayı Cafer Parlak başkanvekili seçildi.",
+   "link": "https://www.ntv.com.tr/turkiye/eyupsultan-belediyesi-baskanvekili-secimi-chpli-cafer-parlak-kazandi-1745683",
+   "image": "https://images.ntv.com.tr/images/AA-20261010-42713222-42713214-TURKIYENIN_SEHIRLERI-806973.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-10T15:54:48+00:00",
+   "url": "/haber/eyupsultan-belediyesi-baskanvekili-secimi-chp-li-cafer-parlak-kazandi-576414e8/"
+  },
+  {
+   "id": "a6fc9989",
+   "title": "Riyad'da havaalanına saldırı sonrası tahliye haberleri",
+   "summary": "Yemen'deki Husi isyancılarının Suudi Arabistan'ın başkenti Riyad'daki uluslararası havaalanına yönelik iki saldırısından sadece birkaç gün sonra, havaalanına tekrar saldırı düzenlendiği bildiriliyor.",
+   "link": "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a39/live/690b5420-c4b9-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-10T15:37:24+00:00",
+   "url": "/haber/riyad-da-havaalanina-saldiri-sonrasi-tahliye-haberleri-a6fc9989/"
+  },
+  {
+   "id": "59e6f70a",
+   "title": "ABD'de Isaias Kasırgası nedeniyle 2 kişi öldü, 800 binden fazla kişi elektriksiz kaldı",
+   "summary": "Isaias Kasırgası'nın etkisini sürdürdüğü ABD'nin güney eyaletlerinde 2 kişi hayatını kaybetti, 800 binden fazla kişi elektriksiz kaldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-isaias-kasirgasi-nedeniyle-2-kisi-oldu-800-binden-fazla-kisi-elektriksiz-kaldi/4084606",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T15:33:46+00:00",
+   "url": "/haber/abd-de-isaias-kasirgasi-nedeniyle-2-kisi-oldu-800-binden-fazla-kisi-el-59e6f70a/"
+  },
   {
    "id": "0f12a863",
    "title": "Honda’dan elektrikli araçları yolda giderken şarj edecek teknoloji",
@@ -13,15 +68,15 @@
    "url": "/haber/honda-dan-elektrikli-araclari-yolda-giderken-sarj-edecek-teknoloji-0f12a863/"
   },
   {
-   "id": "1f3f637d",
-   "title": "Eyüpsultan Belediyesi başkanvekili seçiyor",
-   "summary": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen'in tutuklanmasının ardından belediye meclis üyeleri yeni başkanvekilini seçiyor. Oylamada üç tur tamamlandı dördüncü tura geçildi.",
-   "link": "https://www.ntv.com.tr/turkiye/eyupsultan-belediyesi-baskanvekili-seciyor-1745683",
-   "image": "https://images.ntv.com.tr/images/AA-20261010-42713222-42713214-TURKIYENIN_SEHIRLERI-806973.jpg",
-   "source": "ntv.com.tr",
+   "id": "52b54368",
+   "title": "Londra'da yüz binlerce kişi Filistin'e destek için yürüdü",
+   "summary": "İngiltere'nin başkenti Londra'da yüz binlerce kişi, İsrail'in Gazze'de 3. yılını dolduran soykırımına tepki göstererek yürüyüş düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/londrada-yuz-binlerce-kisi-filistine-destek-icin-yurudu/4084599",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-10T15:29:33+00:00",
-   "url": "/haber/eyupsultan-belediyesi-baskanvekili-seciyor-1f3f637d/"
+   "date": "2026-10-10T15:23:15+00:00",
+   "url": "/haber/londra-da-yuz-binlerce-kisi-filistin-e-destek-icin-yurudu-52b54368/"
   },
   {
    "id": "aa8b0eaf",
@@ -332,17 +387,6 @@
    "url": "/haber/yeni-byd-seagull-on-siparise-acildi-15-bin-dolardan-baslayacak-8b349426/"
   },
   {
-   "id": "aac645b0",
-   "title": "Türkiye Offroad Şampiyonası'nın final ayağında Karasu etabı koşuldu",
-   "summary": "Türkiye Otomobil Sporları Federasyonunun (TOSFED) faaliyet takviminde yer alan PETLAS 2026 Türkiye Offroad Şampiyonası'nın 6. ve final ayağı, Karasu etabıyla sürdü.",
-   "link": "https://www.aa.com.tr/tr/spor/turkiye-offroad-sampiyonasinin-final-ayaginda-karasu-etabi-kosuldu/4084467",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T12:52:03+00:00",
-   "url": "/haber/turkiye-offroad-sampiyonasi-nin-final-ayaginda-karasu-etabi-kosuldu-aac645b0/"
-  },
-  {
    "id": "d582d6aa",
    "title": "Cumhurbaşkanı Erdoğan: Türkiye'nin karşısındakilere fırsat vermeyeceğiz",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Ülkenin hayrına olan her işi engellemeye çalışanlar bugün de yarın da olacaktır.\" diye konuşup Türkiye'nin karşısındakilere fırsat vermeyeceklerini dile getirdi.",
@@ -407,17 +451,6 @@
    "category": "gundem",
    "date": "2026-10-10T11:44:57+00:00",
    "url": "/haber/akin-gurlek-duyurdu-iki-faili-mechul-cinayet-daha-aydinlatildi-4379b80a/"
-  },
-  {
-   "id": "82e043cb",
-   "title": "Bakan Uraloğlu: Hedefimiz küresel havacılığın karar mekanizmalarında daha güçlü bir Türkiye",
-   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Hedefimiz açık, daha fazla ülke, nokta, frekans, daha güçlü kargo ağı ve küresel havacılığın karar mekanizmalarında daha güçlü bir Türkiye.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-hedefimiz-kuresel-havaciligin-karar-mekanizmalarinda-daha-guclu-bir-turkiye/4084405",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T11:40:32+00:00",
-   "url": "/haber/bakan-uraloglu-hedefimiz-kuresel-havaciligin-karar-mekanizmalarinda-da-82e043cb/"
   },
   {
    "id": "62436a03",
@@ -640,17 +673,6 @@
    "url": "/haber/battlefield-6-nin-5-sezonuyla-gelen-yenilikler-duyuruldu-434630f7/"
   },
   {
-   "id": "05aef436",
-   "title": "Geriye Dönüş #8 LG G2",
-   "summary": "LG'nin 2013 yılında piyasaya sürdüğü amiral gemisi LG G2 döneminin dikkat çeken ve üst segment bir telefon olmasına ülkemizde geniş kitlelere ulaşabilen telefon modeli olmasıyla akıllara kazınmıştı.",
-   "link": "https://www.donanimhaber.com/geriye-donus-8-lg-g2--211445",
-   "image": "https://www.donanimhaber.com/images/images/haber/211445/1200x675geriye-donus-8-lg-g2.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-10T09:00:17+00:00",
-   "url": "/haber/geriye-donus-8-lg-g2-05aef436/"
-  },
-  {
    "id": "f5449e7c",
    "title": "PlayStation 2 Neden Bu Kadar Çok Sattı?",
    "summary": "PlayStation 2 neden 160 milyondan fazla sattı? PS2’yi tarihin en başarılı konsollarından biri yapan detayları inceliyoruz.",
@@ -860,17 +882,6 @@
    "url": "/haber/nikon-un-small-world-yarismasinda-video-kategorisinin-kazanani-yapay-z-c24b823d/"
   },
   {
-   "id": "2bb68b5a",
-   "title": "Dünya Ruh Sağlığı Günü: Duygusal tükenmişliği nasıl önleyebiliriz?",
-   "summary": "Kaygılı, tedirgin, stresli ve tükenmiş mi hissediyorsunuz? Eskiden zor gelmeyen işler, üstünüze mi gelmeye başladı? Dr Radha Modgil duygusal tükenmişliği fark etmenize ve üstesinden gelmenize yardımcı olacak bazı…",
-   "link": "https://www.bbc.com/turkce/articles/crz65pl0lw60o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20fc/live/79f6c010-c3e4-11f1-badc-154546719036.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-10T07:17:43+00:00",
-   "url": "/haber/dunya-ruh-sagligi-gunu-duygusal-tukenmisligi-nasil-onleyebiliriz-2bb68b5a/"
-  },
-  {
    "id": "ab17bdc1",
    "title": "Apple’ın Planları Yolunda Gitmiyor: iPhone 18 Pro Üretiminde Kesinti Kararı",
    "summary": "Apple, yeni tanıttığı iPhone 18 Pro ve iPhone 18 Pro Max modellerinde parça üretimini azaltma kararı aldı. Yapay zeka veri merkezlerinin yarattığı küresel bellek darboğazı nedeniyle yükselen maliyetler ve bu artışın…",
@@ -1012,17 +1023,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T04:00:02+00:00",
    "url": "/haber/start-stop-neden-devreye-girmiyor-8b6c145f/"
-  },
-  {
-   "id": "bf8ea4dc",
-   "title": "Microsoft 365 Aile Aboneleri Artık Yapay Zeka Özelliklerini Paylaşabilecek",
-   "summary": "Microsoft 365 aile yapay zeka paylaşımı özelliği ile Copilot erişimi ve depolama alanı plan üyeleri arasında paylaşılabilecek.",
-   "link": "https://shiftdelete.net/microsoft-365-aile-yapay-zeka-paylasimi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-09T21:30:04+00:00",
-   "url": "/haber/microsoft-365-aile-aboneleri-artik-yapay-zeka-ozelliklerini-paylasabil-bf8ea4dc/"
   },
   {
    "id": "4b4883ba",
