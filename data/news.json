@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-10T17:01:06.281934+00:00",
+ "updated": "2026-10-10T17:30:54.264257+00:00",
  "items": [
+  {
+   "id": "2de79fc3",
+   "title": "Kartal'da hastanenin çatısında yangın",
+   "summary": "Kartal Koşuyolu Yüksek İhtisas Eğitim ve Araştırma Hastanesi'nin çatısında yangın çıktı. Olay yerine sevk edilen itfaiye ekiplerinin yangına müdahalesi sürüyor.",
+   "link": "https://www.ntv.com.tr/turkiye/kartalda-hastanenin-catisinda-yangin-1745727",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-10202040-859796.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-10T17:29:41+00:00",
+   "url": "/haber/kartal-da-hastanenin-catisinda-yangin-2de79fc3/"
+  },
+  {
+   "id": "22877caf",
+   "title": "Ankara'da yarın bazı yollar araç trafiğine kapatılacak",
+   "summary": "Ankara'da yarın düzenlenecek \"Cumhurbaşkanlığı Yarı Maratonu\" nedeniyle bazı yollar araç trafiğine kapalı olacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/ankarada-yarin-bazi-yollar-arac-trafigine-kapatilacak/4084677",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T17:20:27+00:00",
+   "url": "/haber/ankara-da-yarin-bazi-yollar-arac-trafigine-kapatilacak-22877caf/"
+  },
+  {
+   "id": "47f41a44",
+   "title": "Nobel Barış Ödülü sahibi Pillay, ABD'nin UCM'ye yaptırımlarının \"kabul edilemez\" olduğunu söyledi",
+   "summary": "Nobel Barış Ödülü'nü alan Güney Afrikalı hukukçu Navanethem Navi Pillay, ABD'nin Uluslararası Ceza Mahkemesine (UCM) yaptırım uygulama kararının \"kabul edilemez\" olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/nobel-baris-odulu-sahibi-pillay-abdnin-ucmye-yaptirimlarinin-kabul-edilemez-oldugunu-soyledi/4084669",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T17:01:32+00:00",
+   "url": "/haber/nobel-baris-odulu-sahibi-pillay-abd-nin-ucm-ye-yaptirimlarinin-kabul-e-47f41a44/"
+  },
   {
    "id": "455e4117",
    "title": "Yapay Zeka Polise Asılsız İhbar Gönderdi",
@@ -37,7 +70,7 @@
   {
    "id": "151f1e83",
    "title": "İYV Başkanı Necmeddin Bilal Erdoğan, Türkiye'nin çok daha güçlü olduğunu belirtti",
-   "summary": "Galatasaray Kulübünde Dursun Özbek başkanlığındaki yönetim kurulu, 1 Haziran 2025-31 Mayıs 2026 dönemindeki faaliyetlerinden dolayı ibra edildi.",
+   "summary": "İlim Yayma Vakfı (İYV) Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, Türkiye'nin artık 25 yıl önceki Türkiye olmadığını, daha güçlü bir Türkiye olduğunu söyledi.",
    "link": "https://www.aa.com.tr/tr/gundem/iyv-baskani-necmeddin-bilal-erdogan-turkiyenin-cok-daha-guclu-oldugunu-belirtti/4084653",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -277,17 +310,6 @@
    "url": "/haber/google-chat-hdr-emoji-destegiyle-daha-canli-gorunebilir-d8704061/"
   },
   {
-   "id": "9d401cda",
-   "title": "Formula 1 Singapur Grand Prix'sinde pole pozisyonu Max Verstappen'in",
-   "summary": "Formula 1 Dünya Şampiyonası'nda sezonun 17. etabı Singapur Grand Prix'sine, Red Bull Racing'in Hollandalı pilotu Max Verstappen ilk sıradan başlayacak.",
-   "link": "https://www.aa.com.tr/tr/spor/formula-1-singapur-grand-prixsinde-pole-pozisyonu-max-verstappenin/4084574",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T14:55:13+00:00",
-   "url": "/haber/formula-1-singapur-grand-prix-sinde-pole-pozisyonu-max-verstappen-in-9d401cda/"
-  },
-  {
    "id": "4cf35edf",
    "title": "Son dakika Erzincan'da deprem mi oldu? Az önce deprem Erzincan'da nerede oldu? Erzincan deprem Kandilli ve AFAD son depremler listesi 10 Ekim 2026",
    "summary": "Son dakika Erzincan deprem haberleri.. Erzincan'da deprem mi oldu? Az önce deprem Erzincan'da nerede oldu? Erzincan Kandilli ve AFAD son depremler.. 10 Ekim 2026 Erzincan deprem son dakika haberleri haberin detayında...…",
@@ -330,17 +352,6 @@
    "category": "gundem",
    "date": "2026-10-10T14:16:49+00:00",
    "url": "/haber/corendon-alanyaspor-ile-erzurumspor-golsuz-berabere-kaldi-e7510d66/"
-  },
-  {
-   "id": "1ce5b091",
-   "title": "Trabzonspor, deplasmanda Samsunspor'u 3-0 yendi",
-   "summary": "Trendyol Süper Lig'in 7. haftasında Trabzonspor, deplasmanda Samsunspor'u 3-0 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-deplasmanda-samsunsporu-3-0-yendi/4084533",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T14:03:53+00:00",
-   "url": "/haber/trabzonspor-deplasmanda-samsunspor-u-3-0-yendi-1ce5b091/"
   },
   {
    "id": "d42bac05",
@@ -858,17 +869,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T07:35:29+00:00",
    "url": "/haber/nothing-in-alt-markasi-cmf-nin-yeni-hoparlorleri-sizdirildi-a1314d61/"
-  },
-  {
-   "id": "2e11a643",
-   "title": "Kıbrıslı Türk profesör Harvard'da dekan oldu",
-   "summary": "Kıbrıslı Türk bilim insanı Prof. Dr. Rıfat Atun, Harvard Üniversitesi T.H. Chan Halk Sağlığı Okulu Eğitim ve İnovasyon Dekanlığı görevine getirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/kibrisli-turk-profesor-harvardda-dekan-oldu-1745635",
-   "image": "https://images.ntv.com.tr/images/ELJANNS7LBOX7CODVT72F5LCB4-516358.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-10T07:30:46+00:00",
-   "url": "/haber/kibrisli-turk-profesor-harvard-da-dekan-oldu-2e11a643/"
   },
   {
    "id": "b4feb7d5",
