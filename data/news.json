@@ -1,16 +1,71 @@
 {
- "updated": "2026-10-10T12:31:01.373740+00:00",
+ "updated": "2026-10-10T13:00:57.433567+00:00",
  "items": [
   {
+   "id": "51c13627",
+   "title": "Ukrayna’dan Yandex’e Drone Saldırısı: Veri Merkezi Çöktü",
+   "summary": "Ukrayna'nın düzenlediği İHA saldırısı, Rusya'nın en büyük teknoloji şirketi Yandex'e ait veri merkezini hedef alarak hizmetleri aksattı.",
+   "link": "https://shiftdelete.net/yandex-veri-merkezi-iha-saldirisi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-10T13:00:16+00:00",
+   "url": "/haber/ukrayna-dan-yandex-e-drone-saldirisi-veri-merkezi-coktu-51c13627/"
+  },
+  {
+   "id": "aac645b0",
+   "title": "Türkiye Offroad Şampiyonası'nın final ayağında Karasu etabı koşuldu",
+   "summary": "Türkiye Otomobil Sporları Federasyonunun (TOSFED) faaliyet takviminde yer alan PETLAS 2026 Türkiye Offroad Şampiyonası'nın 6. ve final ayağı, Karasu etabıyla sürdü.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-offroad-sampiyonasinin-final-ayaginda-karasu-etabi-kosuldu/4084467",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T12:52:03+00:00",
+   "url": "/haber/turkiye-offroad-sampiyonasi-nin-final-ayaginda-karasu-etabi-kosuldu-aac645b0/"
+  },
+  {
+   "id": "884abaf9",
+   "title": "Esenyurt Belediyesine yönelik yolsuzluk soruşturmasında gözaltına alınan 17 şüpheli adliyede",
+   "summary": "Esenyurt Belediyesine yönelik yolsuzluk soruşturması kapsamında düzenlenen operasyonlarda gözaltına alınan aralarında belediye başkan yardımcısının da bulunduğu 17 zanlı adliyeye sevk edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/esenyurt-belediyesine-yonelik-yolsuzluk-sorusturmasinda-gozaltina-alinan-17-supheli-adliyede-/4084466",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T12:50:55+00:00",
+   "url": "/haber/esenyurt-belediyesine-yonelik-yolsuzluk-sorusturmasinda-gozaltina-alin-884abaf9/"
+  },
+  {
    "id": "d582d6aa",
-   "title": "Cumhurbaşkanı Erdoğan: İlim Yayma Cemiyeti bir çınara dönüştü",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ilim yayma mücadelesinin nice engele rağmen büyüdüğünü ifade edip \"İlim Yayma Cemiyeti bir çınara dönüştü.\" dedi.",
+   "title": "Cumhurbaşkanı Erdoğan: Türkiye'nin karşısındakilere fırsat vermeyeceğiz",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Ülkenin hayrına olan her işi engellemeye çalışanlar bugün de yarın da olacaktır.\" diye konuşup Türkiye'nin karşısındakilere fırsat vermeyeceklerini dile getirdi.",
    "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-ilim-yayma-cemiyeti-bir-cinara-donustu-1745681",
-   "image": "https://images.ntv.com.tr/images/erdoğanilim-959077.png",
+   "image": "https://images.ntv.com.tr/images/ERDOĞAN-SON-277153.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-10T12:24:53+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-ilim-yayma-cemiyeti-bir-cinara-donustu-d582d6aa/"
+   "date": "2026-10-10T12:39:50+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-turkiye-nin-karsisindakilere-firsat-vermeyecegiz-d582d6aa/"
+  },
+  {
+   "id": "d8e70323",
+   "title": "Pastırma sıcakları kısa sürecek: İstanbul'a üç gün yağmur yağacak, sıcaklık 7 derece düşecek",
+   "summary": "Pastırma sıcakları başladı. Bugün yazdan kalma bir gün yaşanıyor. Ancak pastırma yazı kısa sürecek. Hava sıcaklığının 7 derece düşeceği İstanbul'a üç gün yağmur yağacak.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-pastirma-sicaklari-kisa-surecek-istanbula-uc-gun-yagmur-yagacak-sicaklik-7-derece-dusecek-1745688",
+   "image": "https://images.ntv.com.tr/images/istanbul-yağmur-315879.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-10T12:36:54+00:00",
+   "url": "/haber/pastirma-sicaklari-kisa-surecek-istanbul-a-uc-gun-yagmur-yagacak-sicak-d8e70323/"
+  },
+  {
+   "id": "efec22c1",
+   "title": "Sağlık Bakanı Memişoğlu: Sigara satışında TC kimlik numarası şartı olacak",
+   "summary": "Bakan Memişoğlu, \"Sigarayla ilgili özellikle bazı alanlarda kısıtlamalara gidiyoruz. Esas amacımız şu, belli yaşın altındaki insanlara sigara satılması yasak. Bu satışın TC kimlik numarasını ibraz ederek yapılması…",
+   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-sigara-satisinda-tc-kimlik-numarasi-sarti-olacak/4084453",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T12:36:06+00:00",
+   "url": "/haber/saglik-bakani-memisoglu-sigara-satisinda-tc-kimlik-numarasi-sarti-olac-efec22c1/"
   },
   {
    "id": "7fbfabb8",
@@ -90,6 +145,17 @@
    "url": "/haber/eyupsultan-belediyesi-baskanvekili-seciyor-1f3f637d/"
   },
   {
+   "id": "70299fb5",
+   "title": "Erdoğan: Teknooligarklara karşı en büyük güvencemiz Teknofest gençliği olacak",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Tekno-oligarkların insanı, tabiatı, gökyüzünü, hatta ve hatta uzayı metalaştıran tahakkümcü zihniyeti karşısında en büyük güvencemiz TEKNOFEST gençliği olacaktır. Elbette İlim Yayma…",
+   "link": "https://www.trthaber.com/haber/gundem/erdogan-tekno-oligarklara-karsi-en-buyuk-guvencemiz-teknofest-gencligi-olacak-959752.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/recep-tayyip-erdogan-2494837.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-10T12:04:00+00:00",
+   "url": "/haber/erdogan-teknooligarklara-karsi-en-buyuk-guvencemiz-teknofest-gencligi-70299fb5/"
+  },
+  {
    "id": "cb637e0c",
    "title": "iPhone Duo Alanlara Apple’dan Jest: Size Özel Olacak",
    "summary": "iPhone Duo sahipleri, ABD'deki Apple Store'lardan yapacakları alımlarda kişiselleştirilmiş açılış ekranı sürprizi ile karşılaşacak.",
@@ -143,6 +209,17 @@
    "category": "gundem",
    "date": "2026-10-10T11:34:21+00:00",
    "url": "/haber/gazze-de-ateskesin-birinci-yili-her-gun-birileri-olduruluyor-62436a03/"
+  },
+  {
+   "id": "fa6237bc",
+   "title": "Gençlerbirliği ile Amed Sportif Faaliyetler 2-2 berabere kaldı",
+   "summary": "Trendyol Süper Lig'in 7. haftasında Gençlerbirliği ile Amed Sportif Faaliyetler 2-2 berabere kaldı.",
+   "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-ile-amed-sportif-faaliyetler-2-2-berabere-kaldi/4084397",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T11:30:41+00:00",
+   "url": "/haber/genclerbirligi-ile-amed-sportif-faaliyetler-2-2-berabere-kaldi-fa6237bc/"
   },
   {
    "id": "9d4c5590",
@@ -211,26 +288,15 @@
    "url": "/haber/gastroantep-kultur-yolu-festivali-paneller-ve-etkinliklerle-devam-ediy-c57c4f06/"
   },
   {
-   "id": "750ad7ee",
-   "title": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul Kongre Merkezi'nde \"İlim Yayma Cemiyeti 75. Yıl Buluşması\" programında konuşuyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4084375",
+   "id": "88537a27",
+   "title": "Cumhurbaşkanı Erdoğan: Tekno-oligarkların zihniyeti karşısında en büyük güvencemiz TEKNOFEST gençliği olacak",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul Kongre Merkezi'nde \"İlim Yayma Cemiyeti 75. Yıl Buluşması\" programında konuştu.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-tekno-oligarklarin-zihniyeti-karsisinda-en-buyuk-guvencemiz-teknofest-gencligi-olacak/4084375",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-10T11:03:59+00:00",
-   "url": "/haber/canli-cumhurbaskani-erdogan-konusuyor-750ad7ee/"
-  },
-  {
-   "id": "f445c28e",
-   "title": "VakıfBanklı voleybolcu Deniz Uyanık, bu sene ilkleri yaşadığı için mutlu",
-   "summary": "VakıfBanklı voleybolcu Deniz Uyanık, yazı A Milli Kadın Voleybol Takımı ile geçirmenin ve iki altın madalya kazanmanın kendi gelişimi açısından önemli olduğunu söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/vakifbankli-voleybolcu-deniz-uyanik-bu-sene-ilkleri-yasadigi-icin-mutlu/4084372",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T11:00:41+00:00",
-   "url": "/haber/vakifbankli-voleybolcu-deniz-uyanik-bu-sene-ilkleri-yasadigi-icin-mutl-f445c28e/"
+   "url": "/haber/cumhurbaskani-erdogan-tekno-oligarklarin-zihniyeti-karsisinda-en-buyuk-88537a27/"
   },
   {
    "id": "800ec49c",
@@ -255,17 +321,6 @@
    "url": "/haber/300-tl-lik-tek-bir-civata-yuzunden-1-7-milyon-skoda-geri-cagrildi-25cbbcc5/"
   },
   {
-   "id": "74177ccc",
-   "title": "Kremlin: Putin, İran'ın çatışmaya çözüm önerisini Trump'a iletti",
-   "summary": "Kremlin Sözcüsü Dmitriy Peskov, Rusya Devlet Başkanı Vladimir Putin'in İran tarafının çatışmanın olası çözümüne ilişkin görüşünü ABD Başkanı Donald Trump'a ilettiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/kremlin-putin-iranin-catismaya-cozum-onerisini-trumpa-iletti/4084367",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T10:53:26+00:00",
-   "url": "/haber/kremlin-putin-iran-in-catismaya-cozum-onerisini-trump-a-iletti-74177ccc/"
-  },
-  {
    "id": "1b7c3fc5",
    "title": "Amazon Prime Alışveriş Festivali'nde Günün En İyi İndirimleri",
    "summary": "Amazon'da büyük indirimler devam ediyor. Günün en iyi fırsatları burada!",
@@ -275,28 +330,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T10:50:44+00:00",
    "url": "/haber/amazon-prime-alisveris-festivali-nde-gunun-en-iyi-indirimleri-1b7c3fc5/"
-  },
-  {
-   "id": "a602f02f",
-   "title": "İstanbul'da İETT otobüsü kazasında 4 kişi yaralandı",
-   "summary": "Sultangazi'de kontrolden çıkan İETT otobüsünün istinat duvarına ve kaldırıma çarpması sonucu 4 yolcu yaralandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-iett-otobusu-kazasinda-4-kisi-yaralandi/4084365",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T10:47:37+00:00",
-   "url": "/haber/istanbul-da-iett-otobusu-kazasinda-4-kisi-yaralandi-a602f02f/"
-  },
-  {
-   "id": "23baf36b",
-   "title": "AB'den ABD'ye Uluslararası Ceza Mahkemesine yönelik yaptırımları geri çekme çağrısı",
-   "summary": "Avrupa Birliği (AB), ABD'nin Uluslararası Ceza Mahkemesine (UCM) kurum olarak yaptırım uygulama kararından derin üzüntü duyduğunu belirterek, Washington'a bu önlemleri geri çekme çağrısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/abden-abdye-uluslararasi-ceza-mahkemesine-yonelik-yaptirimlari-geri-cekme-cagrisi/4084364",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T10:46:16+00:00",
-   "url": "/haber/ab-den-abd-ye-uluslararasi-ceza-mahkemesine-yonelik-yaptirimlari-geri-23baf36b/"
   },
   {
    "id": "4f938e5a",
@@ -860,17 +893,6 @@
    "url": "/haber/bedas-elektrik-kesintisi-icin-uyardi-15-ilcede-elektrik-kesintisi-yasa-566d12d1/"
   },
   {
-   "id": "907821cc",
-   "title": "İstanbul'un ölüme davetiye çıkaran binaları. Yıkıldı yıkılacak korkusuyla yaşıyorlar",
-   "summary": "Maltepe'de üç katı çöken bina sonrası İstanbul'da benzer durumdaki binalarla ilgili alarm verildi. Megakentin her ilçesinde risk taşıyan, tehlike saçan birçok apartman var. Haber: Erva Bal",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulun-olume-davetiye-cikaran-binalari-yikildi-yikilacak-korkusuyla-yasiyorlar-1745625",
-   "image": "https://images.ntv.com.tr/images/kaçak-1-520030.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-10T05:55:05+00:00",
-   "url": "/haber/istanbul-un-olume-davetiye-cikaran-binalari-yikildi-yikilacak-korkusuy-907821cc/"
-  },
-  {
    "id": "7af0ca85",
    "title": "Sosyal Medyada 15 Yaş Sınırı Başlıyor: Yeni Yönetmelik Yayınlandı",
    "summary": "Resmi Gazete'de yayımlanan sosyal medya yaş doğrulama yönetmeliği ile 15 yaş altı kullanıcılara kısıtlamalar ve e-Devlet doğrulaması geliyor.",
@@ -979,17 +1001,6 @@
    "category": "teknoloji",
    "date": "2026-10-09T20:30:51+00:00",
    "url": "/haber/intel-raptor-lake-next-islemcileri-2027-de-geliyor-0ede0654/"
-  },
-  {
-   "id": "af6799b1",
-   "title": "iQOO Neo12 Geliyor: 185 Hz OLED Ekranlı Telefon",
-   "summary": "iQOO Neo12 özellikleri sızdırıldı. 185 Hz OLED ekran ve Snapdragon 8 Elite Gen 5 işlemci ile gelmesi beklenen telefonun detayları haberimizde.",
-   "link": "https://shiftdelete.net/iqoo-neo12-ozellikleri-185-hz-oled-ekran",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-09T20:00:41+00:00",
-   "url": "/haber/iqoo-neo12-geliyor-185-hz-oled-ekranli-telefon-af6799b1/"
   },
   {
    "id": "a887c81d",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-10-09T05:42:00+00:00",
    "url": "/haber/bakan-gurlek-187-milyar-liralik-haksiz-kazanc-tespiti-yapildi-34b51147/"
-  },
-  {
-   "id": "ca4a5cfb",
-   "title": "Hafta sonu hava nasıl olacak?",
-   "summary": "Meteoroloji'nin yayımladığı tahminlere göre, hafta sonunda yurdun büyük bölümünde yağış beklenmiyor. Cumartesi günü doğu kesimlerde, pazar günü ise Orta ve Doğu Akdeniz ile Güneydoğu Anadolu'nun güneyinde sağanak…",
-   "link": "https://www.trthaber.com/haber/turkiye/hafta-sonu-hava-nasil-olacak-959601.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2028000/hava-durumu-aa-2029675.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-09T04:57:00+00:00",
-   "url": "/haber/hafta-sonu-hava-nasil-olacak-ca4a5cfb/"
   },
   {
    "id": "5acda237",
