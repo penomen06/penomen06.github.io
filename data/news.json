@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-11T16:01:13.633039+00:00",
+ "updated": "2026-10-11T16:31:02.399931+00:00",
  "items": [
+  {
+   "id": "503e47bb",
+   "title": "Yalova'da 2,9 büyüklüğünde deprem. İstanbul'da da hissedildi",
+   "summary": "AFAD'dan yapılan açıklamaya göre Marmara Denizi'nde 2,9 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-hissedilen-bir-deprem-meydana-geldi-1745868",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-11191132-773456.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-11T16:12:51+00:00",
+   "url": "/haber/yalova-da-2-9-buyuklugunde-deprem-istanbul-da-da-hissedildi-503e47bb/"
+  },
+  {
+   "id": "35cb4b98",
+   "title": "Dışişleri'nden Suudi Arabistan'daki havalimanına yönelik Husi saldırısına kınama",
+   "summary": "Dışişleri Bakanlığı, Husilerin Suudi Arabistan’daki Kral Halid Uluslararası Havalimanı’na yönelik saldırısını kınadı.",
+   "link": "https://www.ntv.com.tr/turkiye/disislerinden-suudi-arabistandaki-havalimanina-yonelik-husi-saldirisina-kinama-1745862",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_1ebb04affd8cef300b711f1c04ad9a6d-275745-814122.webp",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-11T16:06:31+00:00",
+   "url": "/haber/disisleri-nden-suudi-arabistan-daki-havalimanina-yonelik-husi-saldiris-35cb4b98/"
+  },
   {
    "id": "5cf78b89",
    "title": "Skoda’dan Dev Geri Çağırma: 1.7 Milyon Araç Servise Çağrıldı",
@@ -22,6 +44,17 @@
    "category": "teknoloji",
    "date": "2026-10-11T16:00:00+00:00",
    "url": "/haber/xiaomi-10-000-mah-ultra-ince-manyetik-power-bank-tanitildi-3cda5bcd/"
+  },
+  {
+   "id": "7c5ed8fc",
+   "title": "İletişim Başkanı Duran'dan İsrail Savunma Bakanı Katz'ın açıklamalarına tepki",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"İsrail yönetiminin tehditleri, provokasyonları ve karalama kampanyaları, ülkemizin hak ve adaletten yana duruşunu değiştirmeyecektir.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-israil-savunma-bakani-katzin-aciklamalarina-tepki/4085347",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T16:00:00+00:00",
+   "url": "/haber/iletisim-baskani-duran-dan-israil-savunma-bakani-katz-in-aciklamalarin-7c5ed8fc/"
   },
   {
    "id": "8dc674db",
@@ -90,15 +123,15 @@
    "url": "/haber/manisa-da-11-kisinin-oldugu-kaza-ani-kamerada-5d3dabc0/"
   },
   {
-   "id": "503e47bb",
-   "title": "İstanbul'da hissedilen bir deprem meydana geldi",
-   "summary": "AFAD'dan yapılan açıklamaya göre Marmara Denizi'nde 2,9 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbulda-hissedilen-bir-deprem-meydana-geldi-1745868",
-   "image": "https://images.ntv.com.tr/images/deprem-2-995400.jpg",
-   "source": "ntv.com.tr",
+   "id": "ef0a011e",
+   "title": "Formula 1 Singapur Grand Prix'sini Max Verstappen kazandı",
+   "summary": "Formula 1 Dünya Şampiyonası'nda sezonun 17. yarışı Singapur Grand Prix'sini, Red Bull takımından Hollandalı pilot Max Verstappen kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/formula-1-singapur-grand-prixsini-max-verstappen-kazandi/4085332",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-11T15:40:45+00:00",
-   "url": "/haber/istanbul-da-hissedilen-bir-deprem-meydana-geldi-503e47bb/"
+   "date": "2026-10-11T15:34:55+00:00",
+   "url": "/haber/formula-1-singapur-grand-prix-sini-max-verstappen-kazandi-ef0a011e/"
   },
   {
    "id": "7c048753",
@@ -332,17 +365,6 @@
    "url": "/haber/bm-cibuti-aciklarindaki-gemi-kazasinda-109-kisi-hayatini-kaybetti-ve-1-c4533d38/"
   },
   {
-   "id": "35cb4b98",
-   "title": "Dışişleri'nden Suudi Arabistan'daki havalimanına yönelik Husi saldırısına kınama",
-   "summary": "Dışişleri Bakanlığı, Husilerin Suudi Arabistan’daki Kral Halid Uluslararası Havalimanı’na yönelik saldırısını kınadı.",
-   "link": "https://www.ntv.com.tr/turkiye/disislerinden-suudi-arabistandaki-havalimanina-yonelik-husi-saldirisina-kinama-1745862",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_1ebb04affd8cef300b711f1c04ad9a6d-275745-814122.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-11T13:53:32+00:00",
-   "url": "/haber/disisleri-nden-suudi-arabistan-daki-havalimanina-yonelik-husi-saldiris-35cb4b98/"
-  },
-  {
    "id": "8181da04",
    "title": "Bakan Gürlek: 7 bin 818 operasyon yapıldı, 32 bin 882 şüpheli tutuklandı",
    "summary": "Adalet Bakanı Akın Gürlek, uyuşturucu, yasa dışı bahis, sanal kumar ve suç örgütlerine yönelik 8 ayda 7 bin 818 operasyon gerçekleştirildiğini, 32 bin 882 şüphelinin tutuklandığını açıkladı. Bakan Gürlek, mali…",
@@ -352,17 +374,6 @@
    "category": "gundem",
    "date": "2026-10-11T13:48:00+00:00",
    "url": "/haber/bakan-gurlek-7-bin-818-operasyon-yapildi-32-bin-882-supheli-tutuklandi-8181da04/"
-  },
-  {
-   "id": "3fcabb35",
-   "title": "İsrail, Alman gazeteci Bilanceri'nin ülkeye girişini yasakladı",
-   "summary": "İsrail, kaleme aldığı makalelerde ülkeyi \"apartheid devleti\" olarak nitelendirdiği ve Tel Aviv'e yönelik ekonomik ve askeri yaptırım çağrısında bulunduğu gerekçesiyle Alman gazeteci Serena Bilanceri'nin ülkeye girişini…",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-alman-gazeteci-bilancerinin-ulkeye-girisini-yasakladi/4085216",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T13:46:43+00:00",
-   "url": "/haber/israil-alman-gazeteci-bilanceri-nin-ulkeye-girisini-yasakladi-3fcabb35/"
   },
   {
    "id": "1fd96a42",
@@ -385,17 +396,6 @@
    "category": "gundem",
    "date": "2026-10-11T13:38:23+00:00",
    "url": "/haber/manisa-daki-feci-kazanin-nedeni-ne-uzmanlar-kritik-uyarilari-siraladi-ebfd784d/"
-  },
-  {
-   "id": "2d6e70ab",
-   "title": "Netanyahu'nun yolsuzluk iddianamesini hazırlayan eski Başsavcı Mandelblit tanık olarak ifade verdi",
-   "summary": "İsrail Başbakanı Binyamin Netanyahu'nun yolsuzluktan yargılandığı davanın iddianamesini hazırlayan eski Başsavcı Avichai Mandelblit, bu kez Netanyahu’nun avukatlarının talebiyle savunma tanığı olarak mahkemede ifade…",
-   "link": "https://www.aa.com.tr/tr/dunya/netanyahunun-yolsuzluk-iddianamesini-hazirlayan-eski-bassavci-mandelblit-tanik-olarak-ifade-verdi/4085198",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T13:38:06+00:00",
-   "url": "/haber/netanyahu-nun-yolsuzluk-iddianamesini-hazirlayan-eski-bassavci-mandelb-2d6e70ab/"
   },
   {
    "id": "f997dec9",
