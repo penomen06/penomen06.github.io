@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-11T17:01:08.930587+00:00",
+ "updated": "2026-10-11T17:31:02.402476+00:00",
  "items": [
+  {
+   "id": "97c193b9",
+   "title": "İş ve kurumsal kullanım için en iyi iş laptopları",
+   "summary": "En iyi iş laptopları performans, pil ömrü ve güvenlik özellikleriyle öne çıkıyor. İş bilgisayarı önerileri arayanlar için farklı kullanım senaryolarına uygun modelleri bir araya getirdik.",
+   "link": "https://www.donanimhaber.com/is-ve-kurumsal-kullanim-icin-en-iyi-is-laptoplari--211394",
+   "image": "https://www.donanimhaber.com/images/images/haber/211394/1200x675is-ve-kurumsal-kullanim-icin-en-iyi-is-laptoplari.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-11T17:30:00+00:00",
+   "url": "/haber/is-ve-kurumsal-kullanim-icin-en-iyi-is-laptoplari-97c193b9/"
+  },
+  {
+   "id": "970808c6",
+   "title": "İsrailli bakanın açıklamalarına Türkiye'den sert tepti",
+   "summary": "İsrail Savunma Bakanı Israel Katz’ın Türkiye'yi ve Cumhurbaşkanı Erdoğan'ı hedef alan sözlerine Türkiye'den sert tepkiler geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/iletisim-baskani-durandan-israilli-bakana-tepki-1745870",
+   "image": "https://images.ntv.com.tr/images/duran-570381.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-11T17:08:53+00:00",
+   "url": "/haber/israilli-bakanin-aciklamalarina-turkiye-den-sert-tepti-970808c6/"
+  },
+  {
+   "id": "a6fc9989",
+   "title": "Riyad'daki havalimanında 13 kişinin öldüğü saldırıyı Husiler üstlendi",
+   "summary": "Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen saldırıda en az 12 kişi hayatını kaybetti, 300 kişi yaralandı. Yemen'deki Husi isyancılar saldırıyı doğrudan üstlenmezken,…",
+   "link": "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/724b/live/2fb59880-c503-11f1-9785-db6b858f3ee9.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-11T17:07:02+00:00",
+   "url": "/haber/riyad-daki-havalimaninda-13-kisinin-oldugu-saldiriyi-husiler-ustlendi-a6fc9989/"
+  },
   {
    "id": "77c70b40",
    "title": "Sürücü Hatalarına Son: Microsoft Windows 11 Seferberliğini Başlattı",
@@ -11,6 +44,17 @@
    "category": "teknoloji",
    "date": "2026-10-11T17:00:37+00:00",
    "url": "/haber/surucu-hatalarina-son-microsoft-windows-11-seferberligini-baslatti-77c70b40/"
+  },
+  {
+   "id": "f6ff4da9",
+   "title": "Erişilebilir amiral gemisi deneyimi; Samsung Galaxy S26 FE incelemesi",
+   "summary": "Samsung, Galaxy S26 FE ile üst segment akıllı telefon deneyimini daha ulaşılabilir bir noktaya taşımayı hedefliyor. 6,7 inç Dinamik AMOLED ekranı, 120 Hz yenileme hızı, Exynos 2500 işlemcisi, üçlü kamera sistemi ve…",
+   "link": "https://www.log.com.tr/samsung-galaxy-s26-fe-incelemesi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/Samsung-Galaxy-S26-FE-2655-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-11T17:00:18+00:00",
+   "url": "/haber/erisilebilir-amiral-gemisi-deneyimi-samsung-galaxy-s26-fe-incelemesi-f6ff4da9/"
   },
   {
    "id": "003cd505",
@@ -154,17 +198,6 @@
    "category": "gundem",
    "date": "2026-10-11T15:55:34+00:00",
    "url": "/haber/yurt-genelinde-8-ayda-duzenlenen-operasyonlarda-32-bin-882-supheli-tut-8dc674db/"
-  },
-  {
-   "id": "970808c6",
-   "title": "İletişim Başkanı Duran'dan İsrailli bakana tepki",
-   "summary": "İletişim Başkanı Burhanettin Duran, \"İsrail Savunma Bakanı Katz’ın ifadeleri, İsrail’de yaklaşan seçimler öncesinde içine düştükleri siyasi çaresizliğin bir göstergesidir\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/iletisim-baskani-durandan-israilli-bakana-tepki-1745870",
-   "image": "https://images.ntv.com.tr/images/duran-570381.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-11T15:54:06+00:00",
-   "url": "/haber/iletisim-baskani-duran-dan-israilli-bakana-tepki-970808c6/"
   },
   {
    "id": "44424abf",
@@ -330,17 +363,6 @@
    "category": "gundem",
    "date": "2026-10-11T14:53:41+00:00",
    "url": "/haber/can-oncu-supersport-estoril-ayaginin-ikinci-yarisinda-4-oldu-42bd989c/"
-  },
-  {
-   "id": "a6fc9989",
-   "title": "Riyad'da havalimanına saldırı: 12 ölü, 300 yaralı",
-   "summary": "Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen saldırıda en az 12 kişi hayatını kaybetti, 300 kişi yaralandı. Yemen'deki Husi isyancılar saldırıyı doğrudan üstlenmezken,…",
-   "link": "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/724b/live/2fb59880-c503-11f1-9785-db6b858f3ee9.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-11T14:38:47+00:00",
-   "url": "/haber/riyad-da-havalimanina-saldiri-12-olu-300-yarali-a6fc9989/"
   },
   {
    "id": "6f9737c3",
@@ -772,17 +794,6 @@
    "url": "/haber/manisa-da-yolcu-otobusu-ile-cekici-carpisti-11-olu-27-yarali-79275adf/"
   },
   {
-   "id": "527d42ba",
-   "title": "A101 marketler elektrikli çocuk motosikleti ve elektrikli golf arabası satacak",
-   "summary": "15 Ekim A101 aktüel teknoloji ürünleri arasında Weigo markasına ait elektrikli çocuk motosikleti ve Volta markasına ait VG2 elektrikli golf arabası yer alıyor.",
-   "link": "https://www.donanimhaber.com/15-ekim-a101-aktuel-katalogunda-neler-var--211476",
-   "image": "https://www.donanimhaber.com/images/images/haber/211476/1200x67515-ekim-a101-aktuel-katalogunda-neler-var.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-11T09:30:00+00:00",
-   "url": "/haber/a101-marketler-elektrikli-cocuk-motosikleti-ve-elektrikli-golf-arabasi-527d42ba/"
-  },
-  {
    "id": "8bd6ab8c",
    "title": "BYD’nin tasarladığı ilk insansı robot modeli ortaya çıktı",
    "summary": "Çinli otomobil devi BYD, geçtiğimiz aylarda birçok rakibi gibi insansı robot modelleri üzerinde de çalıştığını resmi olarak doğrulamıştı. Geliştirdiği ilk insansı robotun tasarımı alınan patentler üzerinden ortaya çıkan…",
@@ -1034,17 +1045,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T10:50:44+00:00",
    "url": "/haber/amazon-prime-alisveris-festivali-nde-gunun-en-iyi-indirimleri-1b7c3fc5/"
-  },
-  {
-   "id": "19e6e6a4",
-   "title": "Audi, kompakt sınıfın dikkat çeken üyesi A3’ün 30. yaşını kutluyor",
-   "summary": "Audi, bu hafta 1996’da yollara çıkarılan kompakt sınıfın dikkat çeken üyesi A3’ün 30. yaşını kutluyor. Toplam üretimi altı milyonu aşan seri hakkında yapılan resmi açıklamada, “Audi A3, 1996 Paris Otomobil Fuarı’ndaki…",
-   "link": "https://www.log.com.tr/audi-kompakt-sinifin-dikkat-ceken-uyesi-a3un-30-yasini-kutluyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-10_13-07-45_5nqZY-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-10T10:10:30+00:00",
-   "url": "/haber/audi-kompakt-sinifin-dikkat-ceken-uyesi-a3-un-30-yasini-kutluyor-19e6e6a4/"
   },
   {
    "id": "4a38bdf7",
