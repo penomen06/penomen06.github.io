@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T22:30:55.844133+00:00",
+ "updated": "2026-10-11T23:01:07.695301+00:00",
  "items": [
   {
    "id": "4322793a",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-11T22:30:00+00:00",
+   "date": "2026-10-11T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-4322793a/"
+  },
+  {
+   "id": "793cef5e",
+   "title": "İstanbul Boğazı'nda gemi arızası. Kıyıya metreler kala durabildi",
+   "summary": "Malta bayraklı, kimyasal madde taşıyan gemi makine arızası nedeniyle Kanlıca önlerinde sürüklendi ve kıyıya metreler kala durabildi. Boğaz trafiği bir süre çift yönlü olarak askıya alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbul-bogazinda-gemi-arizasi-kiyiya-metreler-kala-durabildi-1745875",
+   "image": "https://images.ntv.com.tr/images/gemison-726455(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-11T22:39:37+00:00",
+   "url": "/haber/istanbul-bogazi-nda-gemi-arizasi-kiyiya-metreler-kala-durabildi-793cef5e/"
   },
   {
    "id": "f5005b23",
@@ -33,17 +44,6 @@
    "category": "gundem",
    "date": "2026-10-11T21:45:56+00:00",
    "url": "/haber/mhp-li-milletvekili-ve-il-baskaninin-konvoyunda-kaza-1-olu-7-yarali-c5e901b0/"
-  },
-  {
-   "id": "793cef5e",
-   "title": "İstanbul Boğazı'nda gemi arızası. Kıyıya metreler kala durabildi",
-   "summary": "Malta bayraklı, kimyasal madde taşıyan gemi makine arızası nedeniyle Kanlıca önlerinde sürüklendi ve kıyıya metreler kala durabildi. Boğaz trafiği bir süre çift yönlü olarak askıya alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbul-bogazinda-gemi-arizasi-kiyiya-metreler-kala-durabildi-1745875",
-   "image": "https://images.ntv.com.tr/images/gemison-726455(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-11T21:27:12+00:00",
-   "url": "/haber/istanbul-bogazi-nda-gemi-arizasi-kiyiya-metreler-kala-durabildi-793cef5e/"
   },
   {
    "id": "35cb4b98",
