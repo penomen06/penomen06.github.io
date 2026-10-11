@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-11T15:01:13.844060+00:00",
+ "updated": "2026-10-11T15:31:02.607446+00:00",
  "items": [
+  {
+   "id": "dd3783ae",
+   "title": "Trump Rusya ve Ukrayna arasında 'enerji ateşkesini' duyurdu, Zelenskiy 'yeni duyuyorum' dedi",
+   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında \"derhal yürürlüğe girecek\" bir \"enerji ateşkesi\" konusunda anlaşmaya varıldığını ve her iki tarafın da bunu kabul ettiğini söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/cm4g198rqngpo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c29/live/41b18ac0-c586-11f1-9a39-31b474234113.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-11T15:26:33+00:00",
+   "url": "/haber/trump-rusya-ve-ukrayna-arasinda-enerji-ateskesini-duyurdu-zelenskiy-ye-dd3783ae/"
+  },
+  {
+   "id": "194cd44f",
+   "title": "Milli atıcı Safiye Temizdemir, Avrupa Şampiyonası'nda altın madalya kazandı",
+   "summary": "Milli sporcu Safiye Temizdemir, Yunanistan'da devam eden Avrupa Plak Atışları Şampiyonası'nda altın madalya kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-atici-safiye-temizdemir-avrupa-sampiyonasinda-altin-madalya-kazandi/4085322",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T15:24:17+00:00",
+   "url": "/haber/milli-atici-safiye-temizdemir-avrupa-sampiyonasi-nda-altin-madalya-kaz-194cd44f/"
+  },
+  {
+   "id": "ca780516",
+   "title": "Manisa'da katliam gibi kaza: 11 can kaybı var",
+   "summary": "Manisa'da İzmir-İstanbul otobanında tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi, biri ağır 27 kişi yaralandı. Kazaya karışan iki şoför ve otobüsün sahibi de gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-manisada-katliam-gibi-kaza-11-can-kaybi-var-1745808",
+   "image": "https://images.ntv.com.tr/iha/manisakaza-817411",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-11T15:24:05+00:00",
+   "url": "/haber/manisa-da-katliam-gibi-kaza-11-can-kaybi-var-ca780516/"
+  },
+  {
+   "id": "e81dcb41",
+   "title": "Amazon'da Günün En İyi İndirimleri",
+   "summary": "5- 12 Ekim tarihleri arasında devam eden kampanyanın detaylarına ve kaçırmamanız gereken bazı fırsatlara gelin birlikte göz atalım.",
+   "link": "https://www.webtekno.com/amazon-da-prime-alisveris-festivali-nde-sona-yaklasiyoruz-iste-gunun-en-iyi-indirimleri-h226795.html",
+   "image": "https://imgrosetta.webtekno.com/file/691030/691030-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-11T15:09:15+00:00",
+   "url": "/haber/amazon-da-gunun-en-iyi-indirimleri-e81dcb41/"
+  },
+  {
+   "id": "b983e1a0",
+   "title": "Apple’dan MacBook Pro Sürprizi: M7 İşlemcili Yeni Model Yolda",
+   "summary": "Apple, 2027 baharında M7 işlemcili ve yeni tasarımlı giriş seviyesi MacBook Pro modelini piyasaya sürmeye hazırlanıyor. İşte detaylar.",
+   "link": "https://shiftdelete.net/yeni-macbook-pro-tasarimi-2027",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-11T15:00:27+00:00",
+   "url": "/haber/apple-dan-macbook-pro-surprizi-m7-islemcili-yeni-model-yolda-b983e1a0/"
+  },
   {
    "id": "a41dbd08",
    "title": "Claude’un kontrolsüz işlemi, polise sahte cinayet ihbarı gönderdi",
@@ -11,6 +66,17 @@
    "category": "teknoloji",
    "date": "2026-10-11T15:00:00+00:00",
    "url": "/haber/claude-un-kontrolsuz-islemi-polise-sahte-cinayet-ihbari-gonderdi-a41dbd08/"
+  },
+  {
+   "id": "42bd989c",
+   "title": "Can Öncü, Supersport Estoril ayağının ikinci yarışında 4. oldu",
+   "summary": "Motosiklet sürücüsü Can Öncü, Dünya Supersport Şampiyonası'nın Portekiz'deki 11. ayağının ikinci yarışında 4'üncülüğü elde etti.",
+   "link": "https://www.aa.com.tr/tr/spor/can-oncu-supersport-estoril-ayaginin-ikinci-yarisinda-4-oldu/4085299",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T14:53:41+00:00",
+   "url": "/haber/can-oncu-supersport-estoril-ayaginin-ikinci-yarisinda-4-oldu-42bd989c/"
   },
   {
    "id": "19cabfa3",
@@ -66,6 +132,17 @@
    "category": "teknoloji",
    "date": "2026-10-11T14:20:43+00:00",
    "url": "/haber/apple-in-13-ekim-de-tanitacagi-urunlerle-ilgili-yeni-detaylar-paylasil-9a77f8cf/"
+  },
+  {
+   "id": "016169e4",
+   "title": "Arca Çorum FK, deplasmanda Gaziantep FK'yi yendi",
+   "summary": "Trendyol Süper Lig'in 7. haftasında Arca Çorum FK, deplasmanda Gaziantep FK'yi 3-0 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/arca-corum-fk-deplasmanda-gaziantep-fkyi-yendi/4085250",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T14:08:03+00:00",
+   "url": "/haber/arca-corum-fk-deplasmanda-gaziantep-fk-yi-yendi-016169e4/"
   },
   {
    "id": "efc8e927",
@@ -132,17 +209,6 @@
    "category": "gundem",
    "date": "2026-10-11T13:53:32+00:00",
    "url": "/haber/disisleri-nden-suudi-arabistan-daki-havalimanina-yonelik-husi-saldiris-35cb4b98/"
-  },
-  {
-   "id": "ca780516",
-   "title": "Manisa'da katliam gibi kaza: 11 can kaybı var",
-   "summary": "Manisa'da İzmir-İstanbul otobanında tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi, biri ağır 27 kişi yaralandı. Kazaya karışan iki şoför de gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-manisada-katliam-gibi-kaza-11-can-kaybi-var-1745808",
-   "image": "https://images.ntv.com.tr/iha/manisakaza-817411",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-11T13:48:07+00:00",
-   "url": "/haber/manisa-da-katliam-gibi-kaza-11-can-kaybi-var-ca780516/"
   },
   {
    "id": "8181da04",
@@ -376,28 +442,6 @@
    "url": "/haber/su-urunleri-denetimlerinde-bu-yil-128-8-milyon-lira-ceza-kesildi-a596a53a/"
   },
   {
-   "id": "f891f81d",
-   "title": "AK Parti Genel Başkan Yardımcısı Zorlu: Kırım'daki durumu işgal olarak görüyoruz",
-   "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, \"Kırım'daki şu an fiili durumu, yaşanan gelişmeleri bir yasa dışı ilhak yani işgal olarak görüyoruz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-kirimdaki-durumu-isgal-olarak-goruyoruz/4085139",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T12:06:53+00:00",
-   "url": "/haber/ak-parti-genel-baskan-yardimcisi-zorlu-kirim-daki-durumu-isgal-olarak-f891f81d/"
-  },
-  {
-   "id": "b86d0957",
-   "title": "Görev sırasında rahatsızlanan Uzman Çavuş Güneş şehit oldu",
-   "summary": "Milli Savunma Bakanlığı (MSB), görev sırasında rahatsızlanan Kara Kuvvetleri Komutanlığı emrinde görevli Piyade Uzman Çavuş Yusuf Güneş'in şehit olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/gorev-sirasinda-rahatsizlanan-uzman-cavus-gunes-sehit-oldu/4085138",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T12:03:58+00:00",
-   "url": "/haber/gorev-sirasinda-rahatsizlanan-uzman-cavus-gunes-sehit-oldu-b86d0957/"
-  },
-  {
    "id": "40dc70db",
    "title": "Xiaomi’den Ultra İnce 10000mAh Manyetik Power Bank",
    "summary": "Xiaomi 10000mAh 45W manyetik power bank, silikon-karbon batarya teknolojisi ve ultra ince tasarımıyla dikkat çekiyor. İşte yeni cihazın detayları.",
@@ -429,17 +473,6 @@
    "category": "gundem",
    "date": "2026-10-11T12:00:00+00:00",
    "url": "/haber/bir-askerimiz-sehit-oldu-323b135b/"
-  },
-  {
-   "id": "55c57121",
-   "title": "Türkiye'nin 90'lardan günümüze değişiminin öyküsü raflarda",
-   "summary": "Gazeteci-yazar Ferhat Demircan'ın kaleme aldığı, 1990'lı yıllarda hız kazanan ekonomik dönüşümün insana ve toplumsal yaşama etkilerini odağına alan \"Baksana Şu Talihin İşine\" adlı roman raflarda yerini aldı.",
-   "link": "https://www.aa.com.tr/tr/kultur/turkiyenin-90lardan-gunumuze-degisiminin-oykusu-raflarda/4085136",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T11:57:37+00:00",
-   "url": "/haber/turkiye-nin-90-lardan-gunumuze-degisiminin-oykusu-raflarda-55c57121/"
   },
   {
    "id": "44424abf",
@@ -550,17 +583,6 @@
    "category": "teknoloji",
    "date": "2026-10-11T10:58:45+00:00",
    "url": "/haber/tei-genel-muduru-elektrikli-araclari-kampuse-almiyoruz-01b0df6c/"
-  },
-  {
-   "id": "9061844e",
-   "title": "Delhi'deki 'hamamböceği' eylemlerinin liderleri serbest bırakıldı",
-   "summary": "Hindistan'ın başkenti Delhi'de Z kuşağının önderliğindeki Hamamböceği Halk Partisi'nin (CJP) seçim reformlarına karşı düzenlediği gösteri sırasında gözaltına alınan binlerce kişi serbest bırakıldı. Serbest bırakılanlar…",
-   "link": "https://www.bbc.com/turkce/articles/c6ly3kpjp9zjo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/09cf/live/654d9660-c499-11f1-9a39-31b474234113.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-11T10:46:54+00:00",
-   "url": "/haber/delhi-deki-hamambocegi-eylemlerinin-liderleri-serbest-birakildi-9061844e/"
   },
   {
    "id": "31b2870c",
@@ -1003,17 +1025,6 @@
    "url": "/haber/yapay-zeka-polise-asilsiz-ihbar-gonderdi-455e4117/"
   },
   {
-   "id": "bcb9e039",
-   "title": "Google Translate’e Ses Temizleme Özelliği Geliyor",
-   "summary": "Google Translate, sesli girişleri temizleyen ve Rambler'a benzeyen Smart assist özelliğini test ediyor. İşte yeni çeviri aracının detayları.",
-   "link": "https://shiftdelete.net/google-translate-smart-assist-ozelligi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-10T16:00:39+00:00",
-   "url": "/haber/google-translate-e-ses-temizleme-ozelligi-geliyor-bcb9e039/"
-  },
-  {
    "id": "1b7c3fc5",
    "title": "Amazon Prime Alışveriş Festivali'nde Günün En İyi İndirimleri",
    "summary": "Amazon'da büyük indirimler devam ediyor. Günün en iyi fırsatları burada!",
@@ -1243,17 +1254,6 @@
    "category": "teknoloji",
    "date": "2026-10-09T14:53:34+00:00",
    "url": "/haber/dort-astronotun-8-aylik-uzay-macerasi-bitti-rekorlar-uzay-yuruyusleri-b9570d3a/"
-  },
-  {
-   "id": "056ce173",
-   "title": "Anthropic'ten Dikkat Çeken Karar: Kullanıcılar Claude ile Konuşurken Artık Bu Kurala Uymak Zorunda!",
-   "summary": "Anthropic, yapay zekâ modeli Claude'a yönelik düzenli kötü muameleyi yasaklayarak makine bilinci ve refahı tartışmasını yeniden alevlendirdi.",
-   "link": "https://www.webtekno.com/kullanicilar-claude-ile-konusurken-artik-bu-kurala-uymak-zorunda-h226759.html",
-   "image": "https://imgrosetta.webtekno.com/file/691756/691756-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-09T14:53:18+00:00",
-   "url": "/haber/anthropic-ten-dikkat-ceken-karar-kullanicilar-claude-ile-konusurken-ar-056ce173/"
   },
   {
    "id": "78e3c18f",
