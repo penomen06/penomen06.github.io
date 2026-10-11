@@ -1,16 +1,159 @@
 {
- "updated": "2026-10-11T15:31:02.607446+00:00",
+ "updated": "2026-10-11T16:01:13.633039+00:00",
  "items": [
   {
+   "id": "5cf78b89",
+   "title": "Skoda’dan Dev Geri Çağırma: 1.7 Milyon Araç Servise Çağrıldı",
+   "summary": "Skoda, direksiyon sistemindeki bir cıvata sorunu nedeniyle 1.7 milyondan fazla aracını geri çağırma kararı aldı. Detaylar haberimizde.",
+   "link": "https://shiftdelete.net/skoda-1-7-milyon-arac-geri-cagirma",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-11T16:00:21+00:00",
+   "url": "/haber/skoda-dan-dev-geri-cagirma-1-7-milyon-arac-servise-cagrildi-5cf78b89/"
+  },
+  {
+   "id": "3cda5bcd",
+   "title": "Xiaomi 10.000 mAh ultra ince manyetik power bank tanıtıldı",
+   "summary": "Xiaomi, silikon-karbon anot teknolojisiyle geliştirilen 10.000 mAh kapasiteli, 45W kablolu ve 20W manyetik kablosuz şarj destekli ultra ince power bank modelini tanıttı.",
+   "link": "https://www.donanimhaber.com/xiaomi-10-000-mah-ultra-ince-manyetik-power-bank-tanitildi--211480",
+   "image": "https://www.donanimhaber.com/images/images/haber/211480/1200x675xiaomi-10-000-mah-ultra-ince-manyetik-power-bank-tanitildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-11T16:00:00+00:00",
+   "url": "/haber/xiaomi-10-000-mah-ultra-ince-manyetik-power-bank-tanitildi-3cda5bcd/"
+  },
+  {
+   "id": "8dc674db",
+   "title": "Yurt genelinde 8 ayda düzenlenen operasyonlarda 32 bin 882 şüpheli tutuklandı",
+   "summary": "Adalet Bakanı Akın Gürlek, yurt genelinde 8 ayda gerçekleştirilen 7 bin 818 operasyonda 32 bin 882 şüphelinin tutuklandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/yurt-genelinde-8-ayda-duzenlenen-operasyonlarda-32-bin-882-supheli-tutuklandi/4085345",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T15:55:34+00:00",
+   "url": "/haber/yurt-genelinde-8-ayda-duzenlenen-operasyonlarda-32-bin-882-supheli-tut-8dc674db/"
+  },
+  {
    "id": "dd3783ae",
-   "title": "Trump Rusya ve Ukrayna arasında 'enerji ateşkesini' duyurdu, Zelenskiy 'yeni duyuyorum' dedi",
+   "title": "Trump, Rusya ve Ukrayna arasında 'enerji ateşkesini' duyurdu",
    "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında \"derhal yürürlüğe girecek\" bir \"enerji ateşkesi\" konusunda anlaşmaya varıldığını ve her iki tarafın da bunu kabul ettiğini söyledi.",
    "link": "https://www.bbc.com/turkce/articles/cm4g198rqngpo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c29/live/41b18ac0-c586-11f1-9a39-31b474234113.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-10-11T15:26:33+00:00",
-   "url": "/haber/trump-rusya-ve-ukrayna-arasinda-enerji-ateskesini-duyurdu-zelenskiy-ye-dd3783ae/"
+   "date": "2026-10-11T15:54:42+00:00",
+   "url": "/haber/trump-rusya-ve-ukrayna-arasinda-enerji-ateskesini-duyurdu-dd3783ae/"
+  },
+  {
+   "id": "970808c6",
+   "title": "İletişim Başkanı Duran'dan İsrailli bakana tepki",
+   "summary": "İletişim Başkanı Burhanettin Duran, \"İsrail Savunma Bakanı Katz’ın ifadeleri, İsrail’de yaklaşan seçimler öncesinde içine düştükleri siyasi çaresizliğin bir göstergesidir\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/iletisim-baskani-durandan-israilli-bakana-tepki-1745870",
+   "image": "https://images.ntv.com.tr/images/duran-570381.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-11T15:54:06+00:00",
+   "url": "/haber/iletisim-baskani-duran-dan-israilli-bakana-tepki-970808c6/"
+  },
+  {
+   "id": "44424abf",
+   "title": "Zelenskiy'den 'gitmeli' diyen Trump'a yanıt: 'İki aylık ateşkes sağlarsanız, seçimler yapılacak'",
+   "summary": "ABD Başkanı Donald Trump, Rusya ile imzaladıkları dizel yakıt anlaşmasını eleştiren Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin \"gitme vaktinin geldiğini\" söyledi. Zelenskiy'den yanıt geldi.",
+   "link": "https://www.bbc.com/turkce/articles/ck5yn6vj8lq0o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8cec/live/17c18300-c58b-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-11T15:49:23+00:00",
+   "url": "/haber/zelenskiy-den-gitmeli-diyen-trump-a-yanit-iki-aylik-ateskes-saglarsani-44424abf/"
+  },
+  {
+   "id": "7aa9d2eb",
+   "title": "Milli sporcular, Yıldızlar Avrupa Boks Şampiyonası'nı 6 madalyayla tamamladı",
+   "summary": "Türkiye, Karadağ'da düzenlenen Yıldızlar Avrupa Boks Şampiyonası'nı 2'si altın olmak üzere toplam 6 madalyayla tamamladı.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-sporcular-yildizlar-avrupa-boks-sampiyonasini-6-madalyayla-tamamladi/4085336",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T15:46:51+00:00",
+   "url": "/haber/milli-sporcular-yildizlar-avrupa-boks-sampiyonasi-ni-6-madalyayla-tama-7aa9d2eb/"
+  },
+  {
+   "id": "5d3dabc0",
+   "title": "Manisa'da 11 kişinin öldüğü kaza anı kamerada",
+   "summary": "Manisa'da tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi. Görüntülerde kavşağı kaçıran otobüs şoförünün, geri geri gitmeye çalıştığı, çekicinin otobüse arkadan çarptığı görülüyor",
+   "link": "https://www.ntv.com.tr/turkiye/video-manisada-11-kisinin-oldugu-kaza-ani-kamerada-1745869",
+   "image": "https://images.ntv.com.tr/images/MANISADA-TUR-OTOBUSU-DEVRILDI-COK-SAYI_1548897_460930-928522-838415.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-11T15:42:16+00:00",
+   "url": "/haber/manisa-da-11-kisinin-oldugu-kaza-ani-kamerada-5d3dabc0/"
+  },
+  {
+   "id": "503e47bb",
+   "title": "İstanbul'da hissedilen bir deprem meydana geldi",
+   "summary": "AFAD'dan yapılan açıklamaya göre Marmara Denizi'nde 2,9 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-hissedilen-bir-deprem-meydana-geldi-1745868",
+   "image": "https://images.ntv.com.tr/images/deprem-2-995400.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-11T15:40:45+00:00",
+   "url": "/haber/istanbul-da-hissedilen-bir-deprem-meydana-geldi-503e47bb/"
+  },
+  {
+   "id": "7c048753",
+   "title": "İran: CENTCOM Komutanı BAE ordusunu kullanarak Hürmüz Boğazı’nda kaçakçılığı yönetiyor",
+   "summary": "İran Ulusal Güvenlik Yüksek Konseyi Sekreteri Muhsin Rızai, ABD Merkez Kuvvetler Komutanlığı (CENTCOM) Komutanı Amiral Brad Cooper’ın, Birleşik Arap Emirlikleri ordusunu da kullanarak Hürmüz Boğazı’ndaki petrol…",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-centcom-komutani-bae-ordusunu-kullanarak-hurmuz-bogazi-nda-kacakciligi-yonetiyor/4085331",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T15:34:50+00:00",
+   "url": "/haber/iran-centcom-komutani-bae-ordusunu-kullanarak-hurmuz-bogazi-nda-kacakc-7c048753/"
+  },
+  {
+   "id": "fbdd0c56",
+   "title": "Yemek sipariş sektörünü bekleyen büyük tehlike: Yapay zeka",
+   "summary": "Yapay zeka asistanları, yemek sipariş sektöründe dengeleri değiştirebilir. Yeni girişimler, siparişleri doğrudan restoranlara ileterek komisyon maliyetlerini azaltmayı hedefliyor.",
+   "link": "https://www.donanimhaber.com/yemek-siparis-sektorunu-bekleyen-buyuk-tehlike-yapay-zeka--211484",
+   "image": "https://www.donanimhaber.com/images/images/haber/211484/1200x675yemek-siparis-sektorunu-bekleyen-buyuk-tehlike-yapay-zeka.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-11T15:30:00+00:00",
+   "url": "/haber/yemek-siparis-sektorunu-bekleyen-buyuk-tehlike-yapay-zeka-fbdd0c56/"
+  },
+  {
+   "id": "20f0b0e6",
+   "title": "Zelenskiy, seçimler için \"Rusya ile 60 günlük tam ateşkes\" çağrısı yaptı",
+   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD Başkanı Donald Trump'ın Ukrayna'da yeni lider seçilmesi gerektiği yönündeki açıklamasına karşılık, ülkesinde seçimlerin yapılması için Rusya ile 60 günlük tam ateşkes ilan…",
+   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-secimler-icin-rusya-ile-60-gunluk-tam-ateskes-cagrisi-yapti/4085329",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T15:29:08+00:00",
+   "url": "/haber/zelenskiy-secimler-icin-rusya-ile-60-gunluk-tam-ateskes-cagrisi-yapti-20f0b0e6/"
+  },
+  {
+   "id": "62cb781b",
+   "title": "İngiltere Deniz Ticaret Operasyonları: Hürmüz Boğazı'nda vurulan bir tankerde yangın çıktı",
+   "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'ndan çıkış yapan bir tankerin kaynağı belirlenemeyen bir mühimmatla vurulduğunu ve gemide yangın çıktığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-vurulan-bir-tankerde-yangin-cikti/4085328",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T15:28:59+00:00",
+   "url": "/haber/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazi-nda-vurulan-bir-ta-62cb781b/"
+  },
+  {
+   "id": "2629efce",
+   "title": "Hull City ile Everton arasındaki 4 gollü maçta kazanan çıkmadı",
+   "summary": "İngiltere Premier Lig'in 6. haftasında oynanan maçta Hull City ile Everton 2-2 berabere kaldı.",
+   "link": "https://www.aa.com.tr/tr/spor/hull-city-ile-everton-arasindaki-4-gollu-macta-kazanan-cikmadi/4085326",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T15:27:55+00:00",
+   "url": "/haber/hull-city-ile-everton-arasindaki-4-gollu-macta-kazanan-cikmadi-2629efce/"
   },
   {
    "id": "194cd44f",
@@ -22,17 +165,6 @@
    "category": "gundem",
    "date": "2026-10-11T15:24:17+00:00",
    "url": "/haber/milli-atici-safiye-temizdemir-avrupa-sampiyonasi-nda-altin-madalya-kaz-194cd44f/"
-  },
-  {
-   "id": "ca780516",
-   "title": "Manisa'da katliam gibi kaza: 11 can kaybı var",
-   "summary": "Manisa'da İzmir-İstanbul otobanında tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi, biri ağır 27 kişi yaralandı. Kazaya karışan iki şoför ve otobüsün sahibi de gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-manisada-katliam-gibi-kaza-11-can-kaybi-var-1745808",
-   "image": "https://images.ntv.com.tr/iha/manisakaza-817411",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-11T15:24:05+00:00",
-   "url": "/haber/manisa-da-katliam-gibi-kaza-11-can-kaybi-var-ca780516/"
   },
   {
    "id": "e81dcb41",
@@ -288,17 +420,6 @@
    "url": "/haber/iphone-da-bu-ozelligi-kapatin-pili-ve-interneti-tuketiyor-eb859f96/"
   },
   {
-   "id": "89b2a3ec",
-   "title": "Anadolu Ajansı foto muhabirleri ve kameramanları Siena Uluslararası Fotoğraf Ödülleri'ne damga vurdu",
-   "summary": "İtalya'da düzenlenen \"Siena Uluslararası Fotoğraf Ödülleri\"nde, Anadolu Ajansı (AA) foto muhabirleri ve kameramanları farklı kategorilerde ödüllere layık görüldü.",
-   "link": "https://www.aa.com.tr/tr/kurumsal-haberler/anadolu-ajansi-foto-muhabirleri-ve-kameramanlari-siena-uluslararasi-fotograf-odullerine-damga-vurdu/4085182",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T13:19:18+00:00",
-   "url": "/haber/anadolu-ajansi-foto-muhabirleri-ve-kameramanlari-siena-uluslararasi-fo-89b2a3ec/"
-  },
-  {
    "id": "c8e78fc8",
    "title": "ChatGPT 1980'ler trendi için gerçekte hangi bilgilerinizi topluyor?",
    "summary": "Dünya çapında milyonlarca insan, özçekimlerini nostaljik fotoğraflara dönüştürmek için ChatGPT ve diğer yapay zeka destekli araçları kullanıyor ama uzmanlar, kullanıcıların farkında ettiklerinden çok daha fazlasını…",
@@ -376,28 +497,6 @@
    "url": "/haber/akp-nin-fon-teklifi-meclis-te-duzenleme-neler-ongoruyor-1d2fcbc5/"
   },
   {
-   "id": "58550d46",
-   "title": "A Milli Futbol Takımı'nda yolların ayrıldığı teknik direktör Montella'dan veda mesajı",
-   "summary": "A Milli Futbol Takımı'nda yolların ayrıldığı teknik direktör Vincenzo Montella, veda mesajı yayımladı.",
-   "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takiminda-yollarin-ayrildigi-teknik-direktor-montelladan-veda-mesaji/4085150",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T12:30:57+00:00",
-   "url": "/haber/a-milli-futbol-takimi-nda-yollarin-ayrildigi-teknik-direktor-montella-58550d46/"
-  },
-  {
-   "id": "f241d37a",
-   "title": "Yurdun güneydoğu kesimleri için gök gürültülü sağanak uyarısı",
-   "summary": "Meteoroloji, yurdun güneydoğu kesimleri için gök gürültülü sağanak uyarısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/yurdun-guneydogu-kesimleri-icin-gok-gurultulu-saganak-uyarisi/4085149",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T12:28:38+00:00",
-   "url": "/haber/yurdun-guneydogu-kesimleri-icin-gok-gurultulu-saganak-uyarisi-f241d37a/"
-  },
-  {
    "id": "eaca2a2b",
    "title": "Bakan Bolat: '170 milyon lira para çekme değil, sukuk işlemlerinin toplamı'",
    "summary": "Mersin'deki parti mitinginde konuşan Özgür Özel, \"Mahinur Hanım, senin baban incindi, ellerinden öperim\" dedi.",
@@ -429,17 +528,6 @@
    "category": "gundem",
    "date": "2026-10-11T12:21:15+00:00",
    "url": "/haber/gorev-sirasinda-rahatsizlanan-asker-sehit-oldu-2ba9f988/"
-  },
-  {
-   "id": "a596a53a",
-   "title": "Su ürünleri denetimlerinde bu yıl 128,8 milyon lira ceza kesildi",
-   "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, su ürünleri kaynaklarını korumak ve yasa dışı avcılığı önlemek amacıyla yürüttükleri denetimlerde kurallara uymayanlara bu yıl 128,8 milyon lira idari para cezası uyguladıklarını…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/su-urunleri-denetimlerinde-bu-yil-128-8-milyon-lira-ceza-kesildi/4085143",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T12:15:49+00:00",
-   "url": "/haber/su-urunleri-denetimlerinde-bu-yil-128-8-milyon-lira-ceza-kesildi-a596a53a/"
   },
   {
    "id": "40dc70db",
@@ -475,17 +563,6 @@
    "url": "/haber/bir-askerimiz-sehit-oldu-323b135b/"
   },
   {
-   "id": "44424abf",
-   "title": "Trump'tan Rus dizeli anlaşmasını eleştiren Zelenskiy'e tepki: 'Artık gitmeli'",
-   "summary": "ABD Başkanı Donald Trump, Rusya ile imzaladıkları dizel yakıt anlaşmasını eleştiren Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin \"gitme vaktinin geldiğini\" söyledi. Zelenskiy, Rusya'ya yönelik yaptırımları askıya alan…",
-   "link": "https://www.bbc.com/turkce/articles/ck5yn6vj8lq0o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8c49/live/850032c0-c470-11f1-94f2-dbc7ff6db92b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-11T11:49:23+00:00",
-   "url": "/haber/trump-tan-rus-dizeli-anlasmasini-elestiren-zelenskiy-e-tepki-artik-git-44424abf/"
-  },
-  {
    "id": "b1396939",
    "title": "Fon tasfiye teklifi Meclis'te. Teklif 14 Ekim'de TBMM Plan ve Bütçe Komisyonu'nda ele alınacak",
    "summary": "Soruşturma konusu fonların tasfiye sürecinde yatırımcılara yapılacak ödemelere ilişkin yasa teklifi bu hafta görüşülmeye başlanacak.",
@@ -508,17 +585,6 @@
    "url": "/haber/nvidia-dan-oyunculara-yeni-darbe-rtx-5090-uretimi-sona-eriyor-9097c359/"
   },
   {
-   "id": "6382da45",
-   "title": "TÜMOSAN Konyaspor ile İstanbul Başakşehir berabere kaldı",
-   "summary": "Trendyol Süper Lig'in 7. haftasında oynanan TÜMOSAN Konyaspor-İstanbul Başakşehir maçı 0-0 bitti.",
-   "link": "https://www.aa.com.tr/tr/spor/tumosan-konyaspor-ile-istanbul-basaksehir-berabere-kaldi/4085107",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T11:29:12+00:00",
-   "url": "/haber/tumosan-konyaspor-ile-istanbul-basaksehir-berabere-kaldi-6382da45/"
-  },
-  {
    "id": "d0d14fb1",
    "title": "İdam girişiminden sağ kurtulan Christa Pike 10 gün sonra taburcu edildi",
    "summary": "Pike'ın avukatları, müvekkillerinin geçen ay uygulanan iki ölümcül iğneden kurtulduktan sonra kendisine bakan sağlık ekibine \"minnettar\" olduğunu söylüyor.",
@@ -528,17 +594,6 @@
    "category": "gundem",
    "date": "2026-10-11T11:25:59+00:00",
    "url": "/haber/idam-girisiminden-sag-kurtulan-christa-pike-10-gun-sonra-taburcu-edild-d0d14fb1/"
-  },
-  {
-   "id": "b69e54e9",
-   "title": "İsrail hapishanelerindeki Suriyeli tutukluların ailelerinden Şam’da gösteri",
-   "summary": "İsrail hapishanelerindeki Suriyeli tutukluların aileleri, yakınlarının akıbetinin açıklanması ve zorla alıkonulan tutukluların durumuna ilişkin bilgi verilmesi talebiyle Suriye’nin başkenti Şam’da gösteri düzenledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-hapishanelerindeki-suriyeli-tutuklularin-ailelerinden-sam-da-gosteri/4085096",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T11:14:21+00:00",
-   "url": "/haber/israil-hapishanelerindeki-suriyeli-tutuklularin-ailelerinden-sam-da-go-b69e54e9/"
   },
   {
    "id": "a227cd76",
@@ -805,17 +860,6 @@
    "url": "/haber/iddia-rtx-5090-uretimden-kalkiyor-24-gb-rtx-5080-geliyor-0267ac7a/"
   },
   {
-   "id": "38a4cee5",
-   "title": "Emine Erdoğan'dan Dünya Kız Çocukları Günü mesajı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"Dünya Kız Çocukları Günü\"nü kutladı.",
-   "link": "https://www.ntv.com.tr/turkiye/emine-erdogandan-dunya-kiz-cocuklari-gunu-mesaji-1745796",
-   "image": "https://images.ntv.com.tr/images/emineerdoğan-854548.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-11T08:45:34+00:00",
-   "url": "/haber/emine-erdogan-dan-dunya-kiz-cocuklari-gunu-mesaji-38a4cee5/"
-  },
-  {
    "id": "3c17a398",
    "title": "10.000 mAh bataryalı Vivo V80 Lite 5G, Türkiye’de satışa sunuldu",
    "summary": "Vivo V80 Lite 5G, Türkiye’de 6 GB RAM + 128 GB depolamalı sürümüyle 37.999 TL’den, 6 GB RAM + 256 GB depolamalı sürümüyle ise 41.999 TL’den satışa sunuldu. Telefon 6,83 inç boyutunda 1.5K’lık 120 Hz AMOLED ekranla…",
@@ -825,28 +869,6 @@
    "category": "teknoloji",
    "date": "2026-10-11T08:44:18+00:00",
    "url": "/haber/10-000-mah-bataryali-vivo-v80-lite-5g-turkiye-de-satisa-sunuldu-3c17a398/"
-  },
-  {
-   "id": "f92eb932",
-   "title": "Sony'nin sunmadığı özellik PS5'e geldi: PS2 disklerine destek",
-   "summary": "Sony'nin PS5 için sunmadığı PS2 disk desteği, mod geliştiricilerin çalışmasıyla mümkün hale geldi. Ancak oyunları doğrudan diskten başlatmak için bazı koşullar gerekiyor.",
-   "link": "https://www.donanimhaber.com/sony-nin-sunmadigi-ozellik-ps5-e-geldi-ps2-disklerine-destek--211472",
-   "image": "https://www.donanimhaber.com/images/images/haber/211472/1200x675sony-nin-sunmadigi-ozellik-ps5-e-geldi-ps2-disklerine-destek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-11T08:30:00+00:00",
-   "url": "/haber/sony-nin-sunmadigi-ozellik-ps5-e-geldi-ps2-disklerine-destek-f92eb932/"
-  },
-  {
-   "id": "085d53c1",
-   "title": "Ankara'da \"Nefes Merkezi\" açıldı. Engelli bireyler merkezlere yılda 30 güne kadar bırakılabilecek",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Ankara'da engellilere ve ailelerine yönelik ilk \"Nefes Merkezi\"nin açılışını yaptı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-ankarada-nefes-merkezi-acildi-engelli-bireyler-merkezlere-yilda-30-gune-kadar-birakilabilecek-1745789",
-   "image": "https://images.ntv.com.tr/anadolu-ajansi/20261011_2_76404887_129912837_Web.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-11T08:24:30+00:00",
-   "url": "/haber/ankara-da-nefes-merkezi-acildi-engelli-bireyler-merkezlere-yilda-30-gu-085d53c1/"
   },
   {
    "id": "87c61125",
@@ -926,17 +948,6 @@
    "url": "/haber/antalya-daki-77-uluslararasi-uzay-kongresi-rekor-katilimla-tamamlandi-09e978d9/"
   },
   {
-   "id": "b2ff0cd6",
-   "title": "Yeni zam kapıda mı? AMD, GDDR6 bellek fiyatlarını artırdı",
-   "summary": "AMD, 1 Ekim itibarıyla iş ortaklarına yönelik GDDR6 bellek fiyatlarını artırdı. Yeni maliyetlerin özellikle Radeon RX 9000 serisi ekran kartlarının fiyatlarına yansıması bekleniyor.",
-   "link": "https://www.donanimhaber.com/yeni-zam-kapida-mi-amd-gddr6-bellek-fiyatlarini-artirdi--211475",
-   "image": "https://www.donanimhaber.com/images/images/haber/211475/1200x675yeni-zam-kapida-mi-amd-gddr6-bellek-fiyatlarini-artirdi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-11T07:30:00+00:00",
-   "url": "/haber/yeni-zam-kapida-mi-amd-gddr6-bellek-fiyatlarini-artirdi-b2ff0cd6/"
-  },
-  {
    "id": "66357249",
    "title": "İsrail tartışması Türkiye-Azerbaycan ilişkilerini nasıl etkiliyor?",
    "summary": "Türkiye'de Azerbaycan'ın İsrail ile ilişkilerine yönelik eleştiriler artarken, Azerbaycan'da bu eleştiriler rahatsızlıkla karşılanıyor. İlham Aliyev, Yeni Azerbaycan Partisi Kurultayı'ndaki konuşmasında, \"Bizim…",
@@ -1012,17 +1023,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T18:00:31+00:00",
    "url": "/haber/dizustu-bilgisayar-fiyatlari-artacak-satislar-dusecek-787caf7f/"
-  },
-  {
-   "id": "455e4117",
-   "title": "Yapay Zeka Polise Asılsız İhbar Gönderdi",
-   "summary": "Anthropic'in Claude Haiku 4.5 modeli, Philadelphia polisi tarafından kullanılan bir web sitesine sahte bir cinayet ihbarı gönderdi.",
-   "link": "https://shiftdelete.net/anthropic-yapay-zeka-modeli-sahte-ihbar",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-10T17:00:51+00:00",
-   "url": "/haber/yapay-zeka-polise-asilsiz-ihbar-gonderdi-455e4117/"
   },
   {
    "id": "1b7c3fc5",
