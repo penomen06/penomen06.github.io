@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-11T10:01:09.204427+00:00",
+ "updated": "2026-10-11T10:31:02.122631+00:00",
  "items": [
+  {
+   "id": "ca780516",
+   "title": "Manisa'da katliam gibi kaza: 11 can kaybı var",
+   "summary": "İzmir-İstanbul otobanında tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi, biri ağır 27 kişi yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-manisada-katliam-gibi-kaza-11-can-kaybi-var-1745808",
+   "image": "https://images.ntv.com.tr/iha/manisakaza-817411",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-11T10:28:47+00:00",
+   "url": "/haber/manisa-da-katliam-gibi-kaza-11-can-kaybi-var-ca780516/"
+  },
+  {
+   "id": "1e78ab0a",
+   "title": "ABD'nin 'canlı yayında idam infazı' planına Vatikan'dan tepki: 'Akılalmaz bir durum'",
+   "summary": "ABD yönetiminin, 13 askeri öldüren ABD ordusunda eski binbaşı Nidal Hasan'ın idam mangasıyla infazının canlı yayınlanacağını açıklamasına Hristiyan dünyasından tepki geldi. Vatikan'ın 'başbakanı' sayılan Kardinal…",
+   "link": "https://www.bbc.com/turkce/articles/cqrmy7w0jpj3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-11T10:21:40+00:00",
+   "url": "/haber/abd-nin-canli-yayinda-idam-infazi-planina-vatikan-dan-tepki-akilalmaz-1e78ab0a/"
+  },
+  {
+   "id": "81f8d955",
+   "title": "Üsküp'teki Çayır Belediyesinde Türkçe 13 yıldır resmi dil olarak kullanılıyor",
+   "summary": "Kuzey Makedonya'nın başkenti Üsküp'e bağlı Çayır Belediyesinde Türkçenin resmi dil kabul edilmesinin üzerinden 13 yıl geçti.",
+   "link": "https://www.aa.com.tr/tr/kultur/uskupteki-cayir-belediyesinde-turkce-13-yildir-resmi-dil-olarak-kullaniliyor/4085051",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T10:14:32+00:00",
+   "url": "/haber/uskup-teki-cayir-belediyesinde-turkce-13-yildir-resmi-dil-olarak-kulla-81f8d955/"
+  },
+  {
+   "id": "66b0d924",
+   "title": "Ukrayna: Rusya enerji altyapımıza saldırmazsa rafinerilerine saldırıları durdurmaya hazırız",
+   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya'nın ülkesindeki enerji altyapısını hedef almayı bırakması halinde Rus petrol rafinerilerine saldırıları durdurmaya hazır olduklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusya-enerji-altyapimiza-saldirmazsa-rafinerilerine-saldirilari-durdurmaya-haziriz/4085050",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T10:08:08+00:00",
+   "url": "/haber/ukrayna-rusya-enerji-altyapimiza-saldirmazsa-rafinerilerine-saldirilar-66b0d924/"
+  },
+  {
+   "id": "bd6ee95e",
+   "title": "Aldıkları desteklerle yıllar süren sigara bağımlılığından kurtuldular",
+   "summary": "Ardahan ve Kilis'te sigara bağımlılığından kurtulup dumansız hayata \"merhaba\" diyenler, süreçte yaşadıklarını anlatıp bağımlılara tavsiyelerde bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/aldiklari-desteklerle-yillar-suren-sigara-bagimliligindan-kurtuldular/4085048",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T10:06:13+00:00",
+   "url": "/haber/aldiklari-desteklerle-yillar-suren-sigara-bagimliligindan-kurtuldular-bd6ee95e/"
+  },
   {
    "id": "ee0fd08c",
    "title": "Oppo Find N7’nin Kamera ve Ekran Detayları Ortaya Çıktı",
@@ -24,15 +79,15 @@
    "url": "/haber/hyperos-4-guncellemesini-alacak-ilk-xiaomi-ve-redmi-modelleri-belli-ol-a91a9815/"
   },
   {
-   "id": "ca780516",
-   "title": "Manisa'da katliam gibi kaza: 11 can kaybı var",
-   "summary": "İzmir-İstanbul otobanında tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi, 27 kişi yaralandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-manisada-katliam-gibi-kaza-11-can-kaybi-var-1745808",
-   "image": "https://images.ntv.com.tr/iha/manisakaza-817411",
-   "source": "ntv.com.tr",
+   "id": "5aeb3797",
+   "title": "Manisa'da çekici ile tur otobüsü çarpıştı, 11 kişi hayatını kaybetti, 27 kişi yaralandı",
+   "summary": "Manisa'nın Akhisar ilçesinde çekici ile tur otobüsünün çarpışması sonucu 11 kişi hayatını kaybetti, 27 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/manisada-cekici-ile-tur-otobusu-carpisti-11-kisi-hayatini-kaybetti-27-kisi-yaralandi/4085043",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-11T09:58:38+00:00",
-   "url": "/haber/manisa-da-katliam-gibi-kaza-11-can-kaybi-var-ca780516/"
+   "date": "2026-10-11T09:59:42+00:00",
+   "url": "/haber/manisa-da-cekici-ile-tur-otobusu-carpisti-11-kisi-hayatini-kaybetti-27-5aeb3797/"
   },
   {
    "id": "1fd96a42",
@@ -101,6 +156,17 @@
    "url": "/haber/turistik-dogu-ekspresi-seferleri-21-aralik-ta-baslayacak-bdf55dca/"
   },
   {
+   "id": "79275adf",
+   "title": "Manisa'da yolcu otobüsü ile çekici çarpıştı: 11 ölü, 27 yaralı",
+   "summary": "Manisa'nın Akhisar ilçesinde çekici ile tur otobüsünün çarpışması sonucu 11 kişi hayatını kaybetti, 27 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/gundem/manisada-yolcu-otobusu-ile-cekici-carpisti-11-olu-27-yarali-959803.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/kaza-dha-2494910.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-11T09:32:00+00:00",
+   "url": "/haber/manisa-da-yolcu-otobusu-ile-cekici-carpisti-11-olu-27-yarali-79275adf/"
+  },
+  {
    "id": "bfeb34a7",
    "title": "Süphan Dağı'nın zirvesi karla kaplandı",
    "summary": "Türkiye'nin üçüncü en yüksek zirvesi olan 4 bin 58 metre rakımlı Süphan Dağı'nın zirvesi kar yağışıyla beyaza büründü.",
@@ -143,17 +209,6 @@
    "category": "teknoloji",
    "date": "2026-10-11T09:16:30+00:00",
    "url": "/haber/anthropic-ic-testlerde-yapay-zeka-modellerinin-internet-erisimini-kapa-8e5276bd/"
-  },
-  {
-   "id": "d97eec43",
-   "title": "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyine hava ve topçu saldırıları düzenledi",
-   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldeleri hava ve topçu saldırılarıyla hedef aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-ve-topcu-saldirilari-duzenledi/4085009",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T09:16:27+00:00",
-   "url": "/haber/israil-ordusu-ateskese-ragmen-lubnan-in-guneyine-hava-ve-topcu-saldiri-d97eec43/"
   },
   {
    "id": "4d9c5659",
@@ -266,17 +321,6 @@
    "url": "/haber/10-000-mah-bataryali-vivo-v80-lite-5g-turkiye-de-satisa-sunuldu-3c17a398/"
   },
   {
-   "id": "ad31ca67",
-   "title": "Klaros Kutsal Alanı'nda kazılar iki farklı alanda sürüyor",
-   "summary": "İzmir'in Menderes ilçesindeki Klaros Kutsal Alanı'nda, ziyaretçilerin konakladığı yapılar ile Roma İmparatorluğu dönemine ait 7 mekanın bulunduğu yapı biriminde kazı çalışmaları devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/klaros-kutsal-alaninda-kazilar-iki-farkli-alanda-suruyor/4084976",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T08:35:47+00:00",
-   "url": "/haber/klaros-kutsal-alani-nda-kazilar-iki-farkli-alanda-suruyor-ad31ca67/"
-  },
-  {
    "id": "75042edb",
    "title": "Cumhurbaşkanı Erdoğan: Ortaklığımız haritaların çizdiği sınırların ötesinde",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan Türk dünyasına ilişkin, \"Bizim ortaklığımız haritaların çizdiği sınırların fersah fersah ötesindedir.\" dedi.",
@@ -363,28 +407,6 @@
    "category": "gundem",
    "date": "2026-10-11T08:15:46+00:00",
    "url": "/haber/genel-menajer-schurmann-in-dunya-kulupler-sampiyonasi-nda-favorisi-tak-d8fa5503/"
-  },
-  {
-   "id": "d46fd841",
-   "title": "Sabit kanatlı taktik İHA ailesi ÇEPNİ sahaya çıktı",
-   "summary": "Türk savunma sanayisi bünyesinde geliştirilen sabit kanatlı taktik İHA ailesi ÇEPNİ göreve başladı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/sabit-kanatli-taktik-iha-ailesi-cepni-sahaya-cikti/4084948",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T08:14:18+00:00",
-   "url": "/haber/sabit-kanatli-taktik-iha-ailesi-cepni-sahaya-cikti-d46fd841/"
-  },
-  {
-   "id": "3e39d253",
-   "title": "Putin'in özel temsilcisi Dmitriyev, Musk'ın şirketini Rusya ile ABD arasında tünel inşa etmeye çağırdı",
-   "summary": "Rusya Devlet Başkanı Vladimir Putin'in uluslararası ekonomik işbirliğinden sorumlu özel temsilcisi Kiril Dmitriyev, ABD'li iş insanı Elon Musk'ın şirketi The Boring Company'ye Rusya ile ABD arasında tünel inşa etme…",
-   "link": "https://www.aa.com.tr/tr/dunya/putinin-ozel-temsilcisi-dmitriyev-muskin-sirketini-rusya-ile-abd-arasinda-tunel-insa-etmeye-cagirdi/4084945",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T08:12:01+00:00",
-   "url": "/haber/putin-in-ozel-temsilcisi-dmitriyev-musk-in-sirketini-rusya-ile-abd-ara-3e39d253/"
   },
   {
    "id": "38a90f0d",
@@ -926,17 +948,6 @@
    "url": "/haber/audi-kompakt-sinifin-dikkat-ceken-uyesi-a3-un-30-yasini-kutluyor-19e6e6a4/"
   },
   {
-   "id": "2e18f37f",
-   "title": "Ankara Gar saldırısının 12. yılı: O gün neler yaşandı?",
-   "summary": "Barış Mitingi için 10 Ekim 2015'te Ankara Garı önünde toplanan kalabalığa IŞİD tarafından düzenlenen ve 103 kişi hayatını kaybettiği bombalı saldırının üzerinden 12 yıl geçti. Peki o gün neler yaşandı?",
-   "link": "https://www.bbc.com/turkce/articles/cd1103ddn9ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5b6/live/69af4fe0-a5a1-11f0-b3f8-1f6f33edd2b1.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-10T10:00:54+00:00",
-   "url": "/haber/ankara-gar-saldirisinin-12-yili-o-gun-neler-yasandi-2e18f37f/"
-  },
-  {
    "id": "4a38bdf7",
    "title": "Türk dünyasından gelen futbolcular Türk statüsünde sayılacak",
    "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, Türk dünyasından Türkiye'ye gelen futbolcuların yabancı değil \"Türk statüsünde\" oynaması ve iki yılda bir \"Türk Kupası\" futbol turnuvası düzenlenmesi için çalışma…",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-10-09T11:54:00+00:00",
    "url": "/haber/erdogan-kim-milletin-emanetine-el-uzatirsa-karsisinda-bizi-bulur-b43e6b49/"
-  },
-  {
-   "id": "115b2b00",
-   "title": "Türkiye yeni bir yağışlı sistemin etkisi altına girecek",
-   "summary": "Türkiye yeni bir yağışlı sistemin etkisi altına girmeye hazırlanıyor. Hafta sonu yurt genelinde mevsim normalleri civarında seyreden hava sıcaklıkları, önümüzdeki haftanın başından itibaren yerini yağışlı bir sisteme ve…",
-   "link": "https://www.trthaber.com/haber/gundem/turkiye-yeni-bir-yagisli-sistemin-etkisi-altina-girecek-959657.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2320000/istanbul-saganak-2321279.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-09T11:18:00+00:00",
-   "url": "/haber/turkiye-yeni-bir-yagisli-sistemin-etkisi-altina-girecek-115b2b00/"
   },
   {
    "id": "78e3c18f",
