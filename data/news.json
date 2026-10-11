@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-11T13:01:10.398448+00:00",
+ "updated": "2026-10-11T13:28:35.792788+00:00",
  "items": [
+  {
+   "id": "a6fc9989",
+   "title": "Riyad'da havalimanına saldırı: 12 ölü, 300 yaralı",
+   "summary": "Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen saldırıda en az 12 kişi hayatını kaybetti, 300 kişi yaralandı. Yemen'deki Husi isyancılar saldırıyı doğrudan üstlenmezken,…",
+   "link": "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/724b/live/2fb59880-c503-11f1-9785-db6b858f3ee9.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-11T13:17:07+00:00",
+   "url": "/haber/riyad-da-havalimanina-saldiri-12-olu-300-yarali-a6fc9989/"
+  },
+  {
+   "id": "c8e78fc8",
+   "title": "ChatGPT 1980'ler trendi için gerçekte hangi bilgilerinizi topluyor?",
+   "summary": "Dünya çapında milyonlarca insan, özçekimlerini nostaljik fotoğraflara dönüştürmek için ChatGPT ve diğer yapay zeka destekli araçları kullanıyor ama uzmanlar, kullanıcıların farkında ettiklerinden çok daha fazlasını…",
+   "link": "https://www.bbc.com/turkce/articles/c65ynv5l89keo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3275/live/8a6c3f30-bcad-11f1-a3e9-bbda6f9b9e25.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-11T13:04:42+00:00",
+   "url": "/haber/chatgpt-1980-ler-trendi-icin-gercekte-hangi-bilgilerinizi-topluyor-c8e78fc8/"
+  },
   {
    "id": "23e3a804",
    "title": "Elektrikli Araçlar Giderken Şarj Olacak: Honda’dan Yeni Teknoloji",
@@ -299,15 +321,15 @@
    "url": "/haber/idam-girisiminden-sag-kurtulan-christa-pike-10-gun-sonra-taburcu-edild-d0d14fb1/"
   },
   {
-   "id": "887ed4e8",
-   "title": "Arap ülkeleri, Suudi Arabistan'daki Kral Halid Uluslararası Havalimanı’na saldırıyı kınadı",
-   "summary": "Arap ülkeleri, Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'na Husiler tarafından düzenlenen ve 12 kişinin ölümüne, 309 kişinin yaralanmasına yol açan saldırıyı kınayarak tepki gösterdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-ulkeleri-suudi-arabistandaki-kral-halid-uluslararasi-havalimani-na-saldiriyi-kinadi/4085097",
+   "id": "93d717d5",
+   "title": "Suudi Arabistan'daki Kral Halid Uluslararası Havalimanı'na yönelik saldırıya dünyadan tepkiler",
+   "summary": "Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'na Husiler tarafından düzenlenen ve 12 kişinin ölümüne, 309 kişinin yaralanmasına yol açan saldırıya dünyanın birçok ülkesi tepki gösterdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistandaki-kral-halid-uluslararasi-havalimanina-yonelik-saldiriya-dunyadan-tepkiler/4085097",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-11T11:14:34+00:00",
-   "url": "/haber/arap-ulkeleri-suudi-arabistan-daki-kral-halid-uluslararasi-havalimani-887ed4e8/"
+   "url": "/haber/suudi-arabistan-daki-kral-halid-uluslararasi-havalimani-na-yonelik-sal-93d717d5/"
   },
   {
    "id": "b69e54e9",
@@ -651,17 +673,6 @@
    "url": "/haber/cumhurbaskani-erdogan-ortakligimiz-haritalarin-cizdigi-sinirlarin-otes-75042edb/"
   },
   {
-   "id": "a6fc9989",
-   "title": "Riyad'da havalimanına saldırı: 12 ölü, 300 yaralı",
-   "summary": "Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen saldırıda en az 12 kişi hayatını kaybetti, 300 kişi yaralandı. Yemen'deki Husi isyancılar saldırıyı doğrudan üstlenmezken,…",
-   "link": "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/724b/live/2fb59880-c503-11f1-9785-db6b858f3ee9.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-11T08:30:59+00:00",
-   "url": "/haber/riyad-da-havalimanina-saldiri-12-olu-300-yarali-a6fc9989/"
-  },
-  {
    "id": "f92eb932",
    "title": "Sony'nin sunmadığı özellik PS5'e geldi: PS2 disklerine destek",
    "summary": "Sony'nin PS5 için sunmadığı PS2 disk desteği, mod geliştiricilerin çalışmasıyla mümkün hale geldi. Ancak oyunları doğrudan diskten başlatmak için bazı koşullar gerekiyor.",
@@ -968,17 +979,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T15:00:30+00:00",
    "url": "/haber/bellek-fiyatlari-akil-almiyor-10-yil-onceki-teknolojiye-donuluyor-895e2453/"
-  },
-  {
-   "id": "62436a03",
-   "title": "Gazze'de ateşkesin birinci yılı: 'Her gün birileri öldürülüyor'",
-   "summary": "Ateşkesin birinci yıldönümünde Filistinlilerin çoğu hala sıkışık çadır kentlerde yaşıyor ve ABD'nin savaşı sona erdirme planı büyük ölçüde tıkanmış durumda.",
-   "link": "https://www.bbc.com/turkce/articles/cqpvgmm9gyeyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d71/live/8af61620-c233-11f1-a64c-550be9e3c66b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-10T11:34:21+00:00",
-   "url": "/haber/gazze-de-ateskesin-birinci-yili-her-gun-birileri-olduruluyor-62436a03/"
   },
   {
    "id": "1b7c3fc5",
