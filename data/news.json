@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T23:30:54.347508+00:00",
+ "updated": "2026-10-11T00:01:13.718719+00:00",
  "items": [
   {
    "id": "b1530444",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-10T23:30:00+00:00",
+   "date": "2026-10-11T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b1530444/"
+  },
+  {
+   "id": "a6fc9989",
+   "title": "Riyad'da havalimanına saldırı: 12 ölü, 309 yaralı",
+   "summary": "Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen saldırıda en az 12 kişi hayatını kaybetti, 309 kişi yaralandı. Yemen'deki Husi isyancılar, birkaç gün önce aynı havalimanını hedef…",
+   "link": "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/724b/live/2fb59880-c503-11f1-9785-db6b858f3ee9.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-10T23:35:21+00:00",
+   "url": "/haber/riyad-da-havalimanina-saldiri-12-olu-309-yarali-a6fc9989/"
   },
   {
    "id": "332ae3f5",
@@ -22,6 +33,28 @@
    "category": "gundem",
    "date": "2026-10-10T23:12:46+00:00",
    "url": "/haber/filistin-devlet-baskan-yardimcisi-seyh-halkimizi-katledenler-bize-vaiz-332ae3f5/"
+  },
+  {
+   "id": "d18f6868",
+   "title": "İsrail'deki Arap lider Cebbarin: Ortak Liste, Netanyahu hükümetini düşürebilecek güçte",
+   "summary": "İsrail'deki Filistinlileri temsil eden Hadash, Taal ve Balad partilerinin oluşturduğu Ortak Liste'nin lideri Yusuf Cebbarin, yaklaşan seçimlerde Binyamin Netanyahu hükümetini düşürebileceklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israildeki-arap-lider-cebbarin-ortak-liste-netanyahu-hukumetini-dusurebilecek-gucte/4084824",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T23:07:05+00:00",
+   "url": "/haber/israil-deki-arap-lider-cebbarin-ortak-liste-netanyahu-hukumetini-dusur-d18f6868/"
+  },
+  {
+   "id": "9ddf9445",
+   "title": "TUSAŞ Motor Sanayii Genel Müdürü Akşit: Yabancı elektrikli arabaları artık kampüsün içine sokmuyoruz",
+   "summary": "TUSAŞ Motor Sanayii (TEI) Genel Müdürü Mahmut Faruk Akşit, \"Biz Türkiye olarak, ASELSAN, ROKETSAN, HAVELSAN ve TEI olarak yabancı elektrikli arabaları artık kampüsün içine sokmuyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/tusas-motor-sanayii-genel-muduru-aksit-yabanci-elektrikli-arabalari-artik-kampusun-icine-sokmuyoruz/4084822",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-10T22:59:37+00:00",
+   "url": "/haber/tusas-motor-sanayii-genel-muduru-aksit-yabanci-elektrikli-arabalari-ar-9ddf9445/"
   },
   {
    "id": "a87c9996",
@@ -211,28 +244,6 @@
    "url": "/haber/israil-basini-trump-ve-netanyahu-son-haftalarda-iran-a-saldiri-konusun-76879cfe/"
   },
   {
-   "id": "0a4b0b3b",
-   "title": "İçişleri Bakanı Çiftçi: Fon Koordinasyon Kurulu çalışmalarına devam ediyor",
-   "summary": "İçişleri Bakanı Çiftçi, Fon Koordinasyon Kurulunun çalışmalarına devam ettiğini belirterek, \"Devletin hazinesinden, bütçeden kesinlikle bu konuyla ilgili herhangi bir para ödenmeyecek.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-fon-koordinasyon-kurulu-calismalarina-devam-ediyor/4084780",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T20:46:03+00:00",
-   "url": "/haber/icisleri-bakani-ciftci-fon-koordinasyon-kurulu-calismalarina-devam-edi-0a4b0b3b/"
-  },
-  {
-   "id": "707ac35d",
-   "title": "Milli sporcu Hakan Akkaya, Avrupa Para Eskrim Şampiyonası'nda bronz madalya kazandı",
-   "summary": "Milli sporcu Hakan Akkaya, Büyük Britanya'da düzenlenen Avrupa Para Eskrim Şampiyonası'nda bronz madalya kazandı.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-sporcu-hakan-akkaya-avrupa-para-eskrim-sampiyonasinda-bronz-madalya-kazandi/4084779",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-10T20:44:02+00:00",
-   "url": "/haber/milli-sporcu-hakan-akkaya-avrupa-para-eskrim-sampiyonasi-nda-bronz-mad-707ac35d/"
-  },
-  {
    "id": "d63fb523",
    "title": "Bu girişim, yapay zekâyı kullanarak orman yangınlarını NASA'dan bile hızlı tespit ediyor",
    "summary": "2026 Earthshot Prize finalistleri arasına giren Satellites on Fire, yapay zekâ ve termal uydu görüntülerini kullanarak orman yangınlarını NASA'dan ortalama 35 dakika daha hızlı tespit edebiliyor.",
@@ -374,17 +385,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T17:00:00+00:00",
    "url": "/haber/webb-teleskobu-en-uzak-radyo-patlamasinin-sirrini-cozdu-dd4cb199/"
-  },
-  {
-   "id": "a6fc9989",
-   "title": "Riyad'da havaalanına saldırıda yaralananlar oldu",
-   "summary": "Yemen'deki Husi isyancılarının Suudi Arabistan'ın başkenti Riyad'daki uluslararası havaalanına yönelik iki saldırısından sadece birkaç gün sonra, havaalanına tekrar saldırı düzenlendiği bildiriliyor.",
-   "link": "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a39/live/690b5420-c4b9-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-10T16:39:27+00:00",
-   "url": "/haber/riyad-da-havaalanina-saldirida-yaralananlar-oldu-a6fc9989/"
   },
   {
    "id": "178be091",
