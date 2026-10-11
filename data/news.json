@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-11T14:31:00.668923+00:00",
+ "updated": "2026-10-11T15:01:13.844060+00:00",
  "items": [
+  {
+   "id": "a41dbd08",
+   "title": "Claude’un kontrolsüz işlemi, polise sahte cinayet ihbarı gönderdi",
+   "summary": "Anthropic, Claude modellerinin otomatik testler sırasında Philadelphia polisine sahte cinayet ihbarı gönderdiğini açıkladı. Polis, ihbarın spam olarak işaretlendiğini bildirdi.",
+   "link": "https://www.donanimhaber.com/claude-un-kontrolsuz-islemi-polise-sahte-ihbar-gonderdi--211479",
+   "image": "https://www.donanimhaber.com/images/images/haber/211479/1200x675claude-un-kontrolsuz-islemi-polise-sahte-ihbar-gonderdi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-11T15:00:00+00:00",
+   "url": "/haber/claude-un-kontrolsuz-islemi-polise-sahte-cinayet-ihbari-gonderdi-a41dbd08/"
+  },
+  {
+   "id": "19cabfa3",
+   "title": "Trump: Rusya ve Ukrayna arasındaki savaşta enerji ateşkesi ilan edilmiştir",
+   "summary": "ABD Başkanı Donald Trump, Ukrayna ile Rusya arasında enerji altyapılarına saldırmama konusunda bir \"ateşkes sağlandığını\" duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ve-ukrayna-arasindaki-savasta-enerji-ateskesi-ilan-edilmistir/4085290",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T14:45:51+00:00",
+   "url": "/haber/trump-rusya-ve-ukrayna-arasindaki-savasta-enerji-ateskesi-ilan-edilmis-19cabfa3/"
+  },
+  {
+   "id": "a6fc9989",
+   "title": "Riyad'da havalimanına saldırı: 12 ölü, 300 yaralı",
+   "summary": "Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen saldırıda en az 12 kişi hayatını kaybetti, 300 kişi yaralandı. Yemen'deki Husi isyancılar saldırıyı doğrudan üstlenmezken,…",
+   "link": "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/724b/live/2fb59880-c503-11f1-9785-db6b858f3ee9.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-11T14:38:47+00:00",
+   "url": "/haber/riyad-da-havalimanina-saldiri-12-olu-300-yarali-a6fc9989/"
+  },
   {
    "id": "6f9737c3",
    "title": "Sony, akıllı telefonlar için Eclipsa Audio sertifikalı mikrofonunu tanıttı",
@@ -77,6 +110,17 @@
    "category": "gundem",
    "date": "2026-10-11T13:53:59+00:00",
    "url": "/haber/bakan-gurlek-bilancoyu-acikladi-sekiz-ayda-32-bin-882-kisi-tutuklandi-09c5787e/"
+  },
+  {
+   "id": "c4533d38",
+   "title": "BM: Cibuti açıklarındaki gemi kazasında 109 kişi hayatını kaybetti ve 116'dan fazla kişi kayıp",
+   "summary": "Birleşmiş Milletler Uluslararası Göç Örgütü (IOM), Cibuti açıklarında meydana gelen gemi kazasında 15'i çocuk olmak üzere 109 kişinin hayatını kaybettiğini ve 116'dan fazla kişinin ise kayıp olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-109-kisi-hayatini-kaybetti-ve-116dan-fazla-kisi-kayip/4085230",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T13:53:54+00:00",
+   "url": "/haber/bm-cibuti-aciklarindaki-gemi-kazasinda-109-kisi-hayatini-kaybetti-ve-1-c4533d38/"
   },
   {
    "id": "35cb4b98",
@@ -187,17 +231,6 @@
    "category": "gundem",
    "date": "2026-10-11T13:19:18+00:00",
    "url": "/haber/anadolu-ajansi-foto-muhabirleri-ve-kameramanlari-siena-uluslararasi-fo-89b2a3ec/"
-  },
-  {
-   "id": "a6fc9989",
-   "title": "Riyad'da havalimanına saldırı: 12 ölü, 300 yaralı",
-   "summary": "Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen saldırıda en az 12 kişi hayatını kaybetti, 300 kişi yaralandı. Yemen'deki Husi isyancılar saldırıyı doğrudan üstlenmezken,…",
-   "link": "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/724b/live/2fb59880-c503-11f1-9785-db6b858f3ee9.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-11T13:17:07+00:00",
-   "url": "/haber/riyad-da-havalimanina-saldiri-12-olu-300-yarali-a6fc9989/"
   },
   {
    "id": "c8e78fc8",
@@ -407,17 +440,6 @@
    "category": "gundem",
    "date": "2026-10-11T11:57:37+00:00",
    "url": "/haber/turkiye-nin-90-lardan-gunumuze-degisiminin-oykusu-raflarda-55c57121/"
-  },
-  {
-   "id": "8994cb6f",
-   "title": "TR-YÖS/2'nin temel soru kitapçığı ve cevap anahtarı erişime açıldı",
-   "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığınca 2026 Türkiye Yurt Dışından Öğrenci Kabul Sınavı'nın (TR-YÖS/2) temel soru kitapçığı ile cevap anahtarı yayımlandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/tr-yos-2nin-temel-soru-kitapcigi-ve-cevap-anahtari-erisime-acildi/4085134",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T11:51:33+00:00",
-   "url": "/haber/tr-yos-2-nin-temel-soru-kitapcigi-ve-cevap-anahtari-erisime-acildi-8994cb6f/"
   },
   {
    "id": "44424abf",
@@ -794,17 +816,6 @@
    "url": "/haber/sony-nin-sunmadigi-ozellik-ps5-e-geldi-ps2-disklerine-destek-f92eb932/"
   },
   {
-   "id": "d8cfcc98",
-   "title": "Beyindeki nikotin reseptörleri üç günde sönüyor",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, nikotin bağımlılığı sona erdiğinde beyindeki nikotin reseptörlerinin üç günde kapanmaya başladığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/beyindeki-nikotin-reseptorleri-uc-gunde-sonuyor/4084967",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T08:26:09+00:00",
-   "url": "/haber/beyindeki-nikotin-reseptorleri-uc-gunde-sonuyor-d8cfcc98/"
-  },
-  {
    "id": "085d53c1",
    "title": "Ankara'da \"Nefes Merkezi\" açıldı. Engelli bireyler merkezlere yılda 30 güne kadar bırakılabilecek",
    "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Ankara'da engellilere ve ailelerine yönelik ilk \"Nefes Merkezi\"nin açılışını yaptı.",
@@ -924,17 +935,6 @@
    "category": "teknoloji",
    "date": "2026-10-11T07:00:18+00:00",
    "url": "/haber/whatsapp-android-icin-yeni-rehber-ozelliklerini-test-ediyor-207499db/"
-  },
-  {
-   "id": "f00da045",
-   "title": "Epic Games'in yeni ücretsiz oyunları belli oldu: İşte bu haftanın oyunları",
-   "summary": "Epic Games Store, 15-22 Ekim tarihleri arasında Agent A: A puzzle in disguise ve Bad Cheese oyunlarını ücretsiz olarak sunacak. İşte bu haftanın oyunları.",
-   "link": "https://www.donanimhaber.com/epic-games-in-yeni-ucretsiz-oyunlari-belli-oldu--211474",
-   "image": "https://www.donanimhaber.com/images/images/haber/211474/1200x675epic-games-in-yeni-ucretsiz-oyunlari-belli-oldu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-11T06:30:00+00:00",
-   "url": "/haber/epic-games-in-yeni-ucretsiz-oyunlari-belli-oldu-iste-bu-haftanin-oyunl-f00da045/"
   },
   {
    "id": "9f8a0962",
