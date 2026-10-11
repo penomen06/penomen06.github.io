@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-11T11:01:14.262619+00:00",
+ "updated": "2026-10-11T11:31:00.706717+00:00",
  "items": [
+  {
+   "id": "9097c359",
+   "title": "Nvidia’dan oyunculara yeni darbe: RTX 5090 üretimi sona eriyor",
+   "summary": "Önce konnektör yanma problemleri ortaya çıkan sonrasında da üretim sıkıntısı başlayan GeForce RTX 5090 ekran kartı şimdi tamamen üretimden kaldırıldı.",
+   "link": "https://www.donanimhaber.com/geforce-rtx-5090-krizi-buyuyor--211478",
+   "image": "https://www.donanimhaber.com/images/images/haber/211478/1200x675geforce-rtx-5090-krizi-buyuyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-11T11:30:00+00:00",
+   "url": "/haber/nvidia-dan-oyunculara-yeni-darbe-rtx-5090-uretimi-sona-eriyor-9097c359/"
+  },
+  {
+   "id": "d0d14fb1",
+   "title": "İdam girişiminden sağ kurtulan Christa Pike 10 gün sonra taburcu edildi",
+   "summary": "Pike'ın avukatları, müvekkillerinin geçen ay uygulanan iki ölümcül iğneden kurtulduktan sonra kendisine bakan sağlık ekibine \"minnettar\" olduğunu söylüyor.",
+   "link": "https://www.bbc.com/turkce/articles/cqzrdnvg1mz2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/05ed/live/df926130-c4d0-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-11T11:25:59+00:00",
+   "url": "/haber/idam-girisiminden-sag-kurtulan-christa-pike-10-gun-sonra-taburcu-edild-d0d14fb1/"
+  },
+  {
+   "id": "ca780516",
+   "title": "Manisa'da katliam gibi kaza: 11 can kaybı var",
+   "summary": "İzmir-İstanbul otobanında tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi, biri ağır 27 kişi yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-manisada-katliam-gibi-kaza-11-can-kaybi-var-1745808",
+   "image": "https://images.ntv.com.tr/iha/manisakaza-817411",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-11T11:24:57+00:00",
+   "url": "/haber/manisa-da-katliam-gibi-kaza-11-can-kaybi-var-ca780516/"
+  },
+  {
+   "id": "887ed4e8",
+   "title": "Arap ülkeleri, Suudi Arabistan'daki Kral Halid Uluslararası Havalimanı’na saldırıyı kınadı",
+   "summary": "Arap ülkeleri, Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'na Husiler tarafından düzenlenen ve 12 kişinin ölümüne, 309 kişinin yaralanmasına yol açan saldırıyı kınayarak tepki gösterdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-ulkeleri-suudi-arabistandaki-kral-halid-uluslararasi-havalimani-na-saldiriyi-kinadi/4085097",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T11:14:34+00:00",
+   "url": "/haber/arap-ulkeleri-suudi-arabistan-daki-kral-halid-uluslararasi-havalimani-887ed4e8/"
+  },
+  {
+   "id": "a227cd76",
+   "title": "Kabine yarın toplanıyor. Gündemde hangi konular var?",
+   "summary": "Cumhurbaşkanlığı Kabinesi yarın toplanıyor. Toplantının ana gündem başlıklarının fon soruşturması ile terörsüz Türkiye süreci olması bekleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-gundemde-hangi-konular-var-1745835",
+   "image": "https://images.ntv.com.tr/images/kabine-925856.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-11T11:03:39+00:00",
+   "url": "/haber/kabine-yarin-toplaniyor-gundemde-hangi-konular-var-a227cd76/"
+  },
+  {
+   "id": "4712f279",
+   "title": "İsrail ordusu, Batı Şeria'da eski esirlerin de aralarında bulunduğu 18 Filistinliyi gözaltına aldı",
+   "summary": "İsrail ordusunun, işgal altındaki Batı Şeria'nın farklı bölgelerinde düzenlediği baskınlarda eski esirlerin de aralarında bulunduğu 18 Filistinliyi gözaltına aldığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seriada-eski-esirlerin-de-aralarinda-bulundugu-18-filistinliyi-gozaltina-aldi/4085091",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T11:02:37+00:00",
+   "url": "/haber/israil-ordusu-bati-seria-da-eski-esirlerin-de-aralarinda-bulundugu-18-4712f279/"
+  },
+  {
+   "id": "008e975e",
+   "title": "Fransa'daki lise eylemlerinde polis hakkında cinsel şiddet şikayeti",
+   "summary": "Fransa'da 3 haftayı aşkın süredir devam eden lise eylemlerinde bir kadın, bir polisin kendisine cinsel şiddet uyguladığı iddiasıyla şikayette bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransadaki-lise-eylemlerinde-polis-hakkinda-cinsel-siddet-sikayeti/4085090",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T11:02:26+00:00",
+   "url": "/haber/fransa-daki-lise-eylemlerinde-polis-hakkinda-cinsel-siddet-sikayeti-008e975e/"
+  },
   {
    "id": "a9924757",
    "title": "Yeni Denuvo Güncellemesi Oyun Kırma Yöntemlerini Engelliyor",
@@ -55,6 +132,17 @@
    "category": "gundem",
    "date": "2026-10-11T10:53:04+00:00",
    "url": "/haber/terapi-temelli-dijital-platform-asemli-egitim-altyapisini-eve-tasiyor-e7279c6b/"
+  },
+  {
+   "id": "5c684226",
+   "title": "Bakan Memişoğlu: Önceliğimiz 18 yaş altındaki çocuklarımızı tütünün zararlı etkilerinden korumak",
+   "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Vatandaşlarımız müsterih olsun, önceliğimiz 18 yaş altındaki çocuklarımıza yaş doğrulaması yaparak tütün ürünü satışını önlemek ve onları tütünün zararlı etkilerinden korumaktır.\"…",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-onceligimiz-18-yas-altindaki-cocuklarimizi-tutunun-zararli-etkilerinden-korumak/4085080",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T10:51:46+00:00",
+   "url": "/haber/bakan-memisoglu-onceligimiz-18-yas-altindaki-cocuklarimizi-tutunun-zar-5c684226/"
   },
   {
    "id": "9061844e",
@@ -132,17 +220,6 @@
    "category": "gundem",
    "date": "2026-10-11T10:33:57+00:00",
    "url": "/haber/trafikte-gergin-anlar-ters-yone-giren-surucu-ile-motokurye-arasinda-ta-18477053/"
-  },
-  {
-   "id": "ca780516",
-   "title": "Manisa'da katliam gibi kaza: 11 can kaybı var",
-   "summary": "İzmir-İstanbul otobanında tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi, biri ağır 27 kişi yaralandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-manisada-katliam-gibi-kaza-11-can-kaybi-var-1745808",
-   "image": "https://images.ntv.com.tr/iha/manisakaza-817411",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-11T10:32:06+00:00",
-   "url": "/haber/manisa-da-katliam-gibi-kaza-11-can-kaybi-var-ca780516/"
   },
   {
    "id": "fafed4f7",
@@ -264,28 +341,6 @@
    "category": "teknoloji",
    "date": "2026-10-11T09:46:42+00:00",
    "url": "/haber/microsoft-ceo-su-satya-nadella-guvenli-yapay-zeka-icin-yapilmasi-gerek-95d20295/"
-  },
-  {
-   "id": "44df5ff4",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz, AA Editör Masası'na konuk olacak",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Anadolu Ajansı (AA) Editör Masası'na katılacak.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-aa-editor-masasina-konuk-olacak/4085028",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T09:42:31+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-aa-editor-masasi-na-konuk-olacak-44df5ff4/"
-  },
-  {
-   "id": "bdf55dca",
-   "title": "Turistik Doğu Ekspresi seferleri 21 Aralık'ta başlayacak",
-   "summary": "Ulaştırma ve Altyapı Bakanı Uraloğlu, \"Ankara-Kars yönündeki seferlerimiz 21 Aralık 2026-10 Mart 2027, Kars-Ankara yönündeki seferlerimiz 23 Aralık 2026-12 Mart 2027 dönemlerinde yapılacak.\" ifadesini kullandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/turistik-dogu-ekspresi-seferleri-21-aralikta-baslayacak/4085022",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T09:35:57+00:00",
-   "url": "/haber/turistik-dogu-ekspresi-seferleri-21-aralik-ta-baslayacak-bdf55dca/"
   },
   {
    "id": "79275adf",
@@ -486,17 +541,6 @@
    "url": "/haber/uzaya-veri-merkezi-kurulumunda-maliyet-engeli-one-cikiyor-6902fd3a/"
   },
   {
-   "id": "38a90f0d",
-   "title": "Sağlık çalışanları sigara bağımlılığından poliklinikteki tedaviyle kurtuldu",
-   "summary": "Hatay ve Çanakkale'de uzun yıllar sigara kullanan sağlık çalışanları Anıl Kabadayı ve Sertaç Giresunlu, poliklinikteki tedaviyle bağımlılıklarından kurtulup yeniden rahat nefes almaya başladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-calisanlari-sigara-bagimliligindan-poliklinikteki-tedaviyle-kurtuldu/4084939",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T08:09:05+00:00",
-   "url": "/haber/saglik-calisanlari-sigara-bagimliligindan-poliklinikteki-tedaviyle-kur-38a90f0d/"
-  },
-  {
    "id": "87c61125",
    "title": "TUSAŞ Motor Sanayii Genel Müdürü Akşit: Yabancı elektrikli arabaları kampüsün içine sokmuyoruz",
    "summary": "TUSAŞ Motor Sanayii (TEI) Genel Müdürü Mahmut Faruk Akşit, \"Biz Türkiye olarak ASELSAN, ROKETSAN, HAVELSAN ve TEI olarak yabancı elektrikli arabaları artık kampüsün içine sokmuyoruz. Çünkü çok fazla sensör var, kamera,…",
@@ -506,17 +550,6 @@
    "category": "gundem",
    "date": "2026-10-11T08:04:00+00:00",
    "url": "/haber/tusas-motor-sanayii-genel-muduru-aksit-yabanci-elektrikli-arabalari-ka-87c61125/"
-  },
-  {
-   "id": "eb595468",
-   "title": "TBMM'de bu hafta Türk Kızılay Kanunu Teklifi ele alınacak",
-   "summary": "TBMM Genel Kurulu, Türk Kızılay Derneğinin görev alanına giren faaliyetleri daha etkin bir yapıda yürütebilmesi için görev ve yetkileriyle hak ve muafiyetleri düzenleyen Türk Kızılay Kanunu Teklifi'ni görüşecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/tbmmde-bu-hafta-turk-kizilay-kanunu-teklifi-ele-alinacak/4084922",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T08:02:19+00:00",
-   "url": "/haber/tbmm-de-bu-hafta-turk-kizilay-kanunu-teklifi-ele-alinacak-eb595468/"
   },
   {
    "id": "a4cf8830",
@@ -706,17 +739,6 @@
    "url": "/haber/epic-games-in-yeni-ucretsiz-oyunlari-belli-oldu-iste-bu-haftanin-oyunl-f00da045/"
   },
   {
-   "id": "b0cbeef4",
-   "title": "Cemil Tugay AK Parti kararını ilk kez anlattı. \"Erdoğan bana güven verdi\"",
-   "summary": "AK Parti'ye katılan İzmir Büyükşehir Belediye Başkanı Cemil Tugay, \"İzmir için çok iyi olacak, ateşten gömlek giydim ama doğru yaptığıma inanıyorum.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cemil-tugay-ak-parti-kararini-ilk-kez-anlatti-erdogan-bana-guven-verdi-1745759",
-   "image": "https://images.ntv.com.tr/images/CemilTugayAKparti-605391.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-11T06:23:06+00:00",
-   "url": "/haber/cemil-tugay-ak-parti-kararini-ilk-kez-anlatti-erdogan-bana-guven-verdi-b0cbeef4/"
-  },
-  {
    "id": "9f8a0962",
    "title": "Samsung Galaxy S27 Ultra’nın Ekran Özellikleri Sızdı",
    "summary": "Samsung Galaxy S27 Ultra ekran özellikleri sızdı. Yeni modelde DC karartma, M16 OLED panel ve geliştirilmiş Privacy Display bekleniyor.",
@@ -836,17 +858,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T17:00:51+00:00",
    "url": "/haber/yapay-zeka-polise-asilsiz-ihbar-gonderdi-455e4117/"
-  },
-  {
-   "id": "dd4cb199",
-   "title": "Webb Teleskobu, en uzak radyo patlamasının sırrını çözdü",
-   "summary": "James Webb Uzay Teleskobu, şimdiye kadar tespit edilen en uzak hızlı radyo patlamasının kaynağındaki küçük galaksiyi belirledi. İşte yeni gelişmenin ayrıntıları:",
-   "link": "https://www.donanimhaber.com/webb-teleskobu-en-uzak-radyo-patlamasinin-sirrini-cozdu--211469",
-   "image": "https://www.donanimhaber.com/images/images/haber/211469/1200x675webb-teleskobu-en-uzak-radyo-patlamasinin-sirrini-cozdu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-10T17:00:00+00:00",
-   "url": "/haber/webb-teleskobu-en-uzak-radyo-patlamasinin-sirrini-cozdu-dd4cb199/"
   },
   {
    "id": "178be091",
@@ -1023,17 +1034,6 @@
    "category": "gundem",
    "date": "2026-10-10T08:31:00+00:00",
    "url": "/haber/atasehir-belediyesi-baskan-vekilligi-ne-serdar-orhan-secildi-cdb9d159/"
-  },
-  {
-   "id": "47f057a3",
-   "title": "Sözcü editörü Mustafa Balcı ve gazeteci Şaban Sevinç tutuklandı, Ağırel ve Saymaz'a ev hapsi",
-   "summary": "Kamu görevlilerinin tasfiye sürecindeki fonlardan haksız kazanç elde ettiği iddialarını haberleştiren dört gazeteci hakkında soruşturma başlatıldı. Sözcü gazetesi editörü Mustafa Balcı ve gazeteci Şaban Sevinç…",
-   "link": "https://www.bbc.com/turkce/articles/cwvg0e409xp3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6bc/live/8985bf80-c3ef-11f1-9a39-31b474234113.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-10T08:03:01+00:00",
-   "url": "/haber/sozcu-editoru-mustafa-balci-ve-gazeteci-saban-sevinc-tutuklandi-agirel-47f057a3/"
   },
   {
    "id": "660404eb",
