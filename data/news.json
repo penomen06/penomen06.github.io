@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-11T16:31:02.399931+00:00",
+ "updated": "2026-10-11T17:01:08.930587+00:00",
  "items": [
+  {
+   "id": "77c70b40",
+   "title": "Sürücü Hatalarına Son: Microsoft Windows 11 Seferberliğini Başlattı",
+   "summary": "Microsoft, Windows 11'in kararlılığını artırmak için Intel, AMD ve NVIDIA ile birlikte yeni bir Windows 11 sürücü kalite girişimi başlattı.",
+   "link": "https://shiftdelete.net/windows-11-surucu-kalite-girisimi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-11T17:00:37+00:00",
+   "url": "/haber/surucu-hatalarina-son-microsoft-windows-11-seferberligini-baslatti-77c70b40/"
+  },
+  {
+   "id": "003cd505",
+   "title": "WhatsApp iOS güncellemesi, Liquid Glass sohbet tasarımını yeniliyor",
+   "summary": "WhatsApp, iOS uygulamasında Liquid Glass tasarımını yeni sohbet gezinme düğmesiyle geliştiriyor. Güncelleme, kişi bilgilerine ve sık kullanılan sohbet araçlarına erişimi kolaylaştırıyor.",
+   "link": "https://www.donanimhaber.com/whatsapp-guncellemesi-liquid-glass-sohbet-tasarimini-yeniliyor--211481",
+   "image": "https://www.donanimhaber.com/images/images/haber/211481/1200x675whatsapp-guncellemesi-liquid-glass-sohbet-tasarimini-yeniliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-11T17:00:00+00:00",
+   "url": "/haber/whatsapp-ios-guncellemesi-liquid-glass-sohbet-tasarimini-yeniliyor-003cd505/"
+  },
+  {
+   "id": "dd3783ae",
+   "title": "Trump'ın duyurduğu 'enerji ateşkesine' Ukrayna'dan destek geldi, Rusya sessiz",
+   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında \"derhal yürürlüğe girecek\" bir \"enerji ateşkesi\" konusunda anlaşmaya varıldığını ve her iki tarafın da bunu kabul ettiğini söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/cm4g198rqngpo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0339/live/16acefa0-c594-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-11T16:53:24+00:00",
+   "url": "/haber/trump-in-duyurdugu-enerji-ateskesine-ukrayna-dan-destek-geldi-rusya-se-dd3783ae/"
+  },
+  {
+   "id": "2ca20801",
+   "title": "Sakarya'da vatandaşlar, Gazze'deki soykırıma \"Sinvar pozuyla\" tepki verdi",
+   "summary": "Sakarya'da vatandaşlar, İsrail'in 3 yıldır Gazze'de devam eden soykırımına tepki amacıyla oluşturulan fotoğraf alanında poz verdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/sakaryada-vatandaslar-gazzedeki-soykirima-sinvar-pozuyla-tepki-verdi/4085381",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T16:52:01+00:00",
+   "url": "/haber/sakarya-da-vatandaslar-gazze-deki-soykirima-sinvar-pozuyla-tepki-verdi-2ca20801/"
+  },
+  {
+   "id": "73778288",
+   "title": "Zelenskiy: Ukrayna ateşkesi destekliyor ve Rusya'nın da desteklemesi önemli",
+   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD Başkanı Donald Trump'ın, Ukrayna ile Rusya arasında enerji altyapılarına saldırmama konusunda bir \"ateşkes sağlandığını\" duyurmasına ilişkin enerji ateşkesini…",
+   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-ukrayna-ateskesi-destekliyor-ve-rusyanin-da-desteklemesi-onemli/4085376",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T16:39:13+00:00",
+   "url": "/haber/zelenskiy-ukrayna-ateskesi-destekliyor-ve-rusya-nin-da-desteklemesi-on-73778288/"
+  },
+  {
+   "id": "0cd70b9d",
+   "title": "AB, Rusya ile Ukrayna arasında enerji altyapısını koruyacak ateşkesi destekliyor",
+   "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Rusya ve Ukrayna arasında enerji altyapısı ile küresel gıda arzını koruyacak ateşkesi desteklediğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-rusya-ile-ukrayna-arasinda-enerji-altyapisini-koruyacak-ateskesi-destekliyor/4085373",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T16:31:52+00:00",
+   "url": "/haber/ab-rusya-ile-ukrayna-arasinda-enerji-altyapisini-koruyacak-ateskesi-de-0cd70b9d/"
+  },
+  {
+   "id": "a47b7984",
+   "title": "Mars’ta oluşması imkansız denilen bulutun sırrı çözüldü",
+   "summary": "Mars’ta her gün oluşan ve üç saatte 1.800 kilometreye ulaşan gizemli bulutun sırrı çözüldü. Araştırma, imkansız olduğu düşünülen bir fiziksel sürecin Mars’ta gerçekleşebileceğini gösteriyor.",
+   "link": "https://www.donanimhaber.com/mars-ta-olusmasi-imkansiz-denilen-bulutun-sirri-cozuldu--211483",
+   "image": "https://www.donanimhaber.com/images/images/haber/211483/1200x675mars-ta-olusmasi-imkansiz-denilen-bulutun-sirri-cozuldu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-11T16:30:00+00:00",
+   "url": "/haber/mars-ta-olusmasi-imkansiz-denilen-bulutun-sirri-cozuldu-a47b7984/"
+  },
   {
    "id": "503e47bb",
    "title": "Yalova'da 2,9 büyüklüğünde deprem. İstanbul'da da hissedildi",
@@ -22,6 +99,17 @@
    "category": "gundem",
    "date": "2026-10-11T16:06:31+00:00",
    "url": "/haber/disisleri-nden-suudi-arabistan-daki-havalimanina-yonelik-husi-saldiris-35cb4b98/"
+  },
+  {
+   "id": "ca43d15c",
+   "title": "Osmaniye merkezli 8 ilde yasa dışı bahis suçuna yönelik operasyonlarda 59 şüpheli yakalandı",
+   "summary": "İçişleri Bakanlığı, Osmaniye merkezli 8 ilde yasa dışı bahis suçuna yönelik operasyonlarda 59 şüphelinin gözaltına alındığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/osmaniye-merkezli-8-ilde-yasa-disi-bahis-sucuna-yonelik-operasyonlarda-59-supheli-yakalandi/4085356",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-11T16:05:52+00:00",
+   "url": "/haber/osmaniye-merkezli-8-ilde-yasa-disi-bahis-sucuna-yonelik-operasyonlarda-ca43d15c/"
   },
   {
    "id": "5cf78b89",
@@ -66,17 +154,6 @@
    "category": "gundem",
    "date": "2026-10-11T15:55:34+00:00",
    "url": "/haber/yurt-genelinde-8-ayda-duzenlenen-operasyonlarda-32-bin-882-supheli-tut-8dc674db/"
-  },
-  {
-   "id": "dd3783ae",
-   "title": "Trump, Rusya ve Ukrayna arasında 'enerji ateşkesini' duyurdu",
-   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında \"derhal yürürlüğe girecek\" bir \"enerji ateşkesi\" konusunda anlaşmaya varıldığını ve her iki tarafın da bunu kabul ettiğini söyledi.",
-   "link": "https://www.bbc.com/turkce/articles/cm4g198rqngpo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c29/live/41b18ac0-c586-11f1-9a39-31b474234113.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-11T15:54:42+00:00",
-   "url": "/haber/trump-rusya-ve-ukrayna-arasinda-enerji-ateskesini-duyurdu-dd3783ae/"
   },
   {
    "id": "970808c6",
@@ -211,6 +288,17 @@
    "url": "/haber/amazon-da-gunun-en-iyi-indirimleri-e81dcb41/"
   },
   {
+   "id": "759ecd4a",
+   "title": "Kanser, erken menopoz ve yıllar süren mücadele: 23 yıllık dokudan nasıl bebek sahibi oldular?",
+   "summary": "Kassandra Bacon'dan 23 yıl önce alınan biyopsiler başarılı bir şekilde tekrar vücuduna nakledildi ve bu sayede 44 yaşında bir oğul dünyaya getirebildi.",
+   "link": "https://www.bbc.com/turkce/articles/cmly04918v0go?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db1f/live/c0175270-c17e-11f1-8d91-2120227880fe.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-11T15:06:37+00:00",
+   "url": "/haber/kanser-erken-menopoz-ve-yillar-suren-mucadele-23-yillik-dokudan-nasil-759ecd4a/"
+  },
+  {
    "id": "b983e1a0",
    "title": "Apple’dan MacBook Pro Sürprizi: M7 İşlemcili Yeni Model Yolda",
    "summary": "Apple, 2027 baharında M7 işlemcili ve yeni tasarımlı giriş seviyesi MacBook Pro modelini piyasaya sürmeye hazırlanıyor. İşte detaylar.",
@@ -242,17 +330,6 @@
    "category": "gundem",
    "date": "2026-10-11T14:53:41+00:00",
    "url": "/haber/can-oncu-supersport-estoril-ayaginin-ikinci-yarisinda-4-oldu-42bd989c/"
-  },
-  {
-   "id": "19cabfa3",
-   "title": "Trump: Rusya ve Ukrayna arasındaki savaşta enerji ateşkesi ilan edilmiştir",
-   "summary": "ABD Başkanı Donald Trump, Ukrayna ile Rusya arasında enerji altyapılarına saldırmama konusunda bir \"ateşkes sağlandığını\" duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ve-ukrayna-arasindaki-savasta-enerji-ateskesi-ilan-edilmistir/4085290",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T14:45:51+00:00",
-   "url": "/haber/trump-rusya-ve-ukrayna-arasindaki-savasta-enerji-ateskesi-ilan-edilmis-19cabfa3/"
   },
   {
    "id": "a6fc9989",
@@ -332,17 +409,6 @@
    "url": "/haber/tesla-avrupa-da-full-self-driving-adini-degistirdi-yeni-isim-tesla-ass-02c9f310/"
   },
   {
-   "id": "e0c05fbf",
-   "title": "Türkiye, Husilerin Riyad'daki havalimanına saldırısını en güçlü şekilde kınadı",
-   "summary": "Dışişleri Bakanlığı, Yemen'deki İran destekli Husilerin Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'nı bir kez daha hedef almasını en güçlü şekilde kınadı.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-husilerin-riyaddaki-havalimanina-saldirisini-en-guclu-sekilde-kinadi/4085233",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T13:56:29+00:00",
-   "url": "/haber/turkiye-husilerin-riyad-daki-havalimanina-saldirisini-en-guclu-sekilde-e0c05fbf/"
-  },
-  {
    "id": "09c5787e",
    "title": "Bakan Gürlek bilançoyu açıkladı. Sekiz ayda 32 bin 882 kişi tutuklandı",
    "summary": "Adalet Bakanı Akın Gürlek, son 8 ayda uyuşturucu, yasa dışı bahis, sanal kumar ve organize suç örgütlerine yönelik soruşturmalarda 32 bin 882 kişinin tutuklandığını açıkladı.",
@@ -352,17 +418,6 @@
    "category": "gundem",
    "date": "2026-10-11T13:53:59+00:00",
    "url": "/haber/bakan-gurlek-bilancoyu-acikladi-sekiz-ayda-32-bin-882-kisi-tutuklandi-09c5787e/"
-  },
-  {
-   "id": "c4533d38",
-   "title": "BM: Cibuti açıklarındaki gemi kazasında 109 kişi hayatını kaybetti ve 116'dan fazla kişi kayıp",
-   "summary": "Birleşmiş Milletler Uluslararası Göç Örgütü (IOM), Cibuti açıklarında meydana gelen gemi kazasında 15'i çocuk olmak üzere 109 kişinin hayatını kaybettiğini ve 116'dan fazla kişinin ise kayıp olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-109-kisi-hayatini-kaybetti-ve-116dan-fazla-kisi-kayip/4085230",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T13:53:54+00:00",
-   "url": "/haber/bm-cibuti-aciklarindaki-gemi-kazasinda-109-kisi-hayatini-kaybetti-ve-1-c4533d38/"
   },
   {
    "id": "8181da04",
@@ -429,17 +484,6 @@
    "category": "gundem",
    "date": "2026-10-11T13:04:42+00:00",
    "url": "/haber/chatgpt-1980-ler-trendi-icin-gercekte-hangi-bilgilerinizi-topluyor-c8e78fc8/"
-  },
-  {
-   "id": "a70af2e5",
-   "title": "60 saniyede bugün (11 Ekim 2026)",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-11-ekim-2026/4085173",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-11T13:03:45+00:00",
-   "url": "/haber/60-saniyede-bugun-11-ekim-2026-a70af2e5/"
   },
   {
    "id": "23e3a804",
@@ -629,17 +673,6 @@
    "url": "/haber/volkswagen-yeni-elektrikli-otomobilini-dev-misir-patlatma-makinesinde-d9127787/"
   },
   {
-   "id": "01b0df6c",
-   "title": "TEI Genel Müdürü: “Elektrikli araçları kampüse almıyoruz”",
-   "summary": "TEI Genel Müdürü Akşit, yapay zekanın elektrikli araçları füzeye dönüştürebileceği uyarısında bulunarak savunma sanayisinde yabancı elektrikli araçların kampüslere alınmadığını açıkladı.",
-   "link": "https://www.donanimhaber.com/tusas-yapay-zeka-elektrikli-arabalari-fuzeye-donusturuyor--211482",
-   "image": "https://www.donanimhaber.com/images/images/haber/211482/1200x675tusas-yapay-zeka-elektrikli-arabalari-fuzeye-donusturuyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-11T10:58:45+00:00",
-   "url": "/haber/tei-genel-muduru-elektrikli-araclari-kampuse-almiyoruz-01b0df6c/"
-  },
-  {
    "id": "31b2870c",
    "title": "\"Mansur Yavaş başka partiye katılacak\" iddiasına yalanlama",
    "summary": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş'ın, bir partiye katılacağı iddiası yalanlandı.",
@@ -682,17 +715,6 @@
    "category": "teknoloji",
    "date": "2026-10-11T10:30:00+00:00",
    "url": "/haber/edifier-den-oyuncular-icin-soundbar-fafed4f7/"
-  },
-  {
-   "id": "1e78ab0a",
-   "title": "ABD'nin 'canlı yayında idam infazı' planına Vatikan'dan tepki: 'Akılalmaz bir durum'",
-   "summary": "ABD yönetiminin, 13 askeri öldüren ABD ordusunda eski binbaşı Nidal Hasan'ın idam mangasıyla infazının canlı yayınlanacağını açıklamasına Hristiyan dünyasından tepki geldi. Vatikan'ın 'başbakanı' sayılan Kardinal…",
-   "link": "https://www.bbc.com/turkce/articles/cqrmy7w0jpj3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-11T10:21:40+00:00",
-   "url": "/haber/abd-nin-canli-yayinda-idam-infazi-planina-vatikan-dan-tepki-akilalmaz-1e78ab0a/"
   },
   {
    "id": "bbdc105a",
@@ -803,17 +825,6 @@
    "category": "teknoloji",
    "date": "2026-10-11T09:07:18+00:00",
    "url": "/haber/qualcomm-ceo-su-yapay-zeka-sirketleri-100-milyar-parametreli-yapay-zek-a5fb679c/"
-  },
-  {
-   "id": "cc72fe76",
-   "title": "İnternet 24 saat kapanırsa ne olur: para, uçuşlar, hastaneler ve gerçek vakalarla saat saat bilanço",
-   "summary": "İnternet kesintileri nelere sebep oluyor? Facebook kendi kapısında kaldı, Kanada 26 saat bağlantısız yaşadı. Dünya genelinde internet bir günlüğüne kesilirse ne olur? Gerçek vakalarla anlatıyoruz.",
-   "link": "https://www.donanimhaber.com/internet-24-saat-kapanirsa-ucuslar-hastaneler-ve-gercek-vakalar--211458",
-   "image": "https://www.donanimhaber.com/images/images/haber/211458/1200x675internet-24-saat-kapanirsa-ucuslar-hastaneler-ve-gercek-vakalar.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-11T09:01:32+00:00",
-   "url": "/haber/internet-24-saat-kapanirsa-ne-olur-para-ucuslar-hastaneler-ve-gercek-v-cc72fe76/"
   },
   {
    "id": "4fdb9ebe",
@@ -1012,17 +1023,6 @@
    "category": "teknoloji",
    "date": "2026-10-10T19:00:17+00:00",
    "url": "/haber/netflix-te-kuculme-isten-cikarmalar-basliyor-c13b6de5/"
-  },
-  {
-   "id": "787caf7f",
-   "title": "Dizüstü Bilgisayar Fiyatları Artacak: Satışlar Düşecek",
-   "summary": "TrendForce raporuna göre 2027 laptop fiyatları ve pazar durumu, artan bileşen maliyetleri nedeniyle zorlu bir döneme giriyor.",
-   "link": "https://shiftdelete.net/2027-laptop-fiyatlari-ve-pazar-beklentileri",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-10T18:00:31+00:00",
-   "url": "/haber/dizustu-bilgisayar-fiyatlari-artacak-satislar-dusecek-787caf7f/"
   },
   {
    "id": "1b7c3fc5",
