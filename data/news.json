@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-12T10:31:00.432384+00:00",
+ "updated": "2026-10-12T11:01:11.521539+00:00",
  "items": [
+  {
+   "id": "b6136440",
+   "title": "Bahçeli'nin 'Yürütmede Erdoğan, yasamada MHP' formülü ne anlama geliyor?",
+   "summary": "MHP lidernin açıklamaları, partisinin Cumhur İttifakı'ndan vazgeçmeden ittifak içindeki konumunu güçlendirme arayışı olarak yorumlanıyor. Ankara'dan Ayşe Sayın'ın haberi.",
+   "link": "https://www.bbc.com/turkce/articles/crx23gv7xdgqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8289/live/e97d38e0-c62a-11f1-a509-ab6554d795a2.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-12T10:54:17+00:00",
+   "url": "/haber/bahceli-nin-yurutmede-erdogan-yasamada-mhp-formulu-ne-anlama-geliyor-b6136440/"
+  },
+  {
+   "id": "70b6e11b",
+   "title": "Peugeot RCZ geri döndü! 500 beygir güç ve katı hal batarya",
+   "summary": "Peugeot RCZ, 500 beygirlik elektrikli yeni konseptle geri döndü. Katı hal bataryalı RCZ Vision, 600 km menzil ve 10 dakikada hızlı şarj hedeflerken markanın gelecekteki tasarım diline de ışık tutuyor.",
+   "link": "https://www.donanimhaber.com/peugeot-rcz-geri-dondu-500-beygir-guc-ve-kati-hal-batarya--211508",
+   "image": "https://www.donanimhaber.com/images/images/haber/211508/1200x675peugeot-rcz-geri-dondu-500-beygir-guc-ve-kati-hal-batarya.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-12T10:54:00+00:00",
+   "url": "/haber/peugeot-rcz-geri-dondu-500-beygir-guc-ve-kati-hal-batarya-70b6e11b/"
+  },
+  {
+   "id": "8ed537f3",
+   "title": "Yaban hayatı popülasyonu 52 yılda yüzde 73 azaldı",
+   "summary": "Dünya Doğayı Koruma Vakfının \"2026 Yaşayan Gezegen Raporu\"nda, enerji, gıda ve finans sistemlerinde olumlu eşik noktalarını tetikleyecek adımlar atılması halinde doğanın toparlanabileceği vurgulandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/yaban-hayati-populasyonu-52-yilda-yuzde-73-azaldi/4086007",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T10:52:54+00:00",
+   "url": "/haber/yaban-hayati-populasyonu-52-yilda-yuzde-73-azaldi-8ed537f3/"
+  },
+  {
+   "id": "964c9d8e",
+   "title": "Rusya'da İsrail'den gönderilen pakette radyoaktif uçak saati bulundu",
+   "summary": "Rusya Federal Gümrük Servisi (FTS), İsrail'den gönderilen bir pakette, doğal radyasyon seviyesinin 20 katı radyasyon yayan uçak saati tespit edildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyada-israilden-gonderilen-pakette-radyoaktif-ucak-saati-bulundu/4085985",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T10:34:37+00:00",
+   "url": "/haber/rusya-da-israil-den-gonderilen-pakette-radyoaktif-ucak-saati-bulundu-964c9d8e/"
+  },
+  {
+   "id": "8767301e",
+   "title": "\"Amerikalı DeepSeek\" denen Beam, yapay zekâ dünyasına iddialı bir giriş yaptı",
+   "summary": "Bugüne kadar genelde Çin'den gelen devasa açık modellere bir yenisi daha eklendi. Ancak Beam adlı bu açık modelin arkasında Çinli bir şirket değil, Amerikalı bir girişim var.",
+   "link": "https://www.donanimhaber.com/amerikali-deepseek-denen-beam-yapay-zekasiyla-dikkat-cekiyor--211504",
+   "image": "https://www.donanimhaber.com/images/images/haber/211504/1200x675amerikali-deepseek-denen-beam-yapay-zekasiyla-dikkat-cekiyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-12T10:33:00+00:00",
+   "url": "/haber/amerikali-deepseek-denen-beam-yapay-zeka-dunyasina-iddiali-bir-giris-y-8767301e/"
+  },
   {
    "id": "83dd32bd",
    "title": "Otomobiliniz Verilerinizi Üçüncü Taraflara Gönderiyor Olabilir",
@@ -35,6 +90,17 @@
    "url": "/haber/gaming-mouse-onerisi-arayanlar-icin-en-iyi-mouse-lar-2026-76e6c0f8/"
   },
   {
+   "id": "806e0d0f",
+   "title": "Mersin'de sağanak su baskınlarına neden oldu",
+   "summary": "Mersin'in Silifke ilçesinde etkili olan sağanak nedeniyle bazı ev ve iş yerlerini su bastı, sürücüler yollarda mahsur kaldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mersinde-saganak-su-baskinlarina-neden-oldu-/4085968",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T10:18:33+00:00",
+   "url": "/haber/mersin-de-saganak-su-baskinlarina-neden-oldu-806e0d0f/"
+  },
+  {
    "id": "6bd2993d",
    "title": "BYD Ekim 2026 Fiyat Listesi, Güncel Kampanyalar ve Kredi Fırsatları",
    "summary": "BYD Ekim 2026 sıfır araç fiyatları ve kampanyaları! Güncel BYD fiyat listesini, indirimleri ve avantajlı kredi fırsatlarını inceleyin.",
@@ -44,6 +110,17 @@
    "category": "teknoloji",
    "date": "2026-10-12T10:18:08+00:00",
    "url": "/haber/byd-ekim-2026-fiyat-listesi-guncel-kampanyalar-ve-kredi-firsatlari-6bd2993d/"
+  },
+  {
+   "id": "4d36efd1",
+   "title": "Rusya: Ateşkes değil, uzun vadeli barış istiyoruz",
+   "summary": "Kremlin Sözcüsü Dmitriy Peskov, Ukrayna'da geçici ateşkes yerine uzun vadeli barış istediklerini ve bunun için ellerinden geleni yapmaya hazır olduklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-ateskes-degil-uzun-vadeli-baris-istiyoruz/4085967",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T10:18:05+00:00",
+   "url": "/haber/rusya-ateskes-degil-uzun-vadeli-baris-istiyoruz-4d36efd1/"
   },
   {
    "id": "f6544c19",
@@ -233,28 +310,6 @@
    "url": "/haber/turkiye-deki-havalimanlarinda-9-ayda-193-milyondan-fazla-yolcu-tasindi-a0939f2d/"
   },
   {
-   "id": "a953c287",
-   "title": "Marmara'nın batısı ile Kuzey Ege kıyıları için gök gürültülü sağanak uyarısı",
-   "summary": "Marmara'nın batısı ile Kuzey Ege kıyıları için gök gürültülü sağanak uyarısında bulunuldu.",
-   "link": "https://www.aa.com.tr/tr/gundem/marmaranin-batisi-ile-kuzey-ege-kiyilari-icin-gok-gurultulu-saganak-uyarisi/4085928",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T09:48:28+00:00",
-   "url": "/haber/marmara-nin-batisi-ile-kuzey-ege-kiyilari-icin-gok-gurultulu-saganak-u-a953c287/"
-  },
-  {
-   "id": "2fe28a7d",
-   "title": "AB, havalimanlarında uygulanan Giriş/Çıkış Sistemi'ndeki aksaklıklardan üye ülkeleri sorumlu tuttu",
-   "summary": "Avrupa Birliği (AB) Komisyonunun İçişleri ve Göçten Sorumlu Üyesi Magnus Brunner, biyometrik sınır kontrol sistemi Giriş/Çıkış Sistemi'nin (EES) uygulanmasında yaşanan aksaklıklardan üye ülkeleri sorumlu tuttu.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-havalimanlarinda-uygulanan-giris-cikis-sistemindeki-aksakliklardan-uye-ulkeleri-sorumlu-tuttu/4085927",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T09:46:41+00:00",
-   "url": "/haber/ab-havalimanlarinda-uygulanan-giris-cikis-sistemi-ndeki-aksakliklardan-2fe28a7d/"
-  },
-  {
    "id": "26911233",
    "title": "Türkiye Otomotiv Sanayisinde İlk 9 Ayın Bilançosu Belli Oldu: Üretim Geriledi, İhracat Geliri Arttı!",
    "summary": "Otomotiv Sanayii Derneği (OSD), 2026 yılının Ocak-Eylül dönemine ait üretim, pazar ve ihracat verilerini açıkladı. Yılın ilk 9 ayında Türkiye’nin toplam taşıt üretimi bir önceki yılın aynı dönemine göre yüzde 5,9…",
@@ -277,17 +332,6 @@
    "url": "/haber/cocukluk-caginda-kanser-nasil-belirtiler-gosteriyor-5d0b67ac/"
   },
   {
-   "id": "79b1b217",
-   "title": "Antalya'da midibüsün devrilmesi sonucu 17 kişi yaralandı",
-   "summary": "Antalya'nın Aksu ilçesinde midibüsün devrilmesi sonucu 1'i ağır 17 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/antalyada-midibusun-devrilmesi-sonucu-17-kisi-yaralandi/4085913",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T09:40:44+00:00",
-   "url": "/haber/antalya-da-midibusun-devrilmesi-sonucu-17-kisi-yaralandi-79b1b217/"
-  },
-  {
    "id": "5c343063",
    "title": "Yapay zeka destekli işe alım patformu: Hireall",
    "summary": "İlan yazımından aday değerlendirmeye, video mülakattan teklif yönetimine kadar işe alım sürecinin farklı aşamalarında yapay zeka kullanan Hireall kullanıma açıldı. Youthall’un 12 yılı aşkın işe alım ve kariyer…",
@@ -297,28 +341,6 @@
    "category": "teknoloji",
    "date": "2026-10-12T09:40:40+00:00",
    "url": "/haber/yapay-zeka-destekli-ise-alim-patformu-hireall-5c343063/"
-  },
-  {
-   "id": "2940cb83",
-   "title": "Türkiye, COP31'de iklim değişikliğiyle mücadele için \"harekete geçme zamanı\" mesajı verecek",
-   "summary": "Enerji ve Tabii Kaynaklar Bakanı Bayraktar, Türkiye'nin COP31 aracılığıyla elektrifikasyon, enerji güvenliği ve iklim değişikliğiyle mücadelede küresel topluma güçlü mesaj vermeyi hedeflediğini belirterek, \"Artık…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-cop31de-iklim-degisikligiyle-mucadele-icin-harekete-gecme-zamani-mesaji-verecek/4085910",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T09:38:48+00:00",
-   "url": "/haber/turkiye-cop31-de-iklim-degisikligiyle-mucadele-icin-harekete-gecme-zam-2940cb83/"
-  },
-  {
-   "id": "80f1db91",
-   "title": "18 ilde yaklaşık 7 bin mezar taşı ve kitabe belgelendi",
-   "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Türk-İslam Dönemi Mezar Taşları ve Kitabeleri Ulusal Envanter Projesi kapsamında bugüne kadar 18 ilde yaklaşık 7 bin eserin belgeleme işlemlerini gerçekleştirdiklerini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/kultur/18-ilde-yaklasik-7-bin-mezar-tasi-ve-kitabe-belgelendi/4085909",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T09:37:46+00:00",
-   "url": "/haber/18-ilde-yaklasik-7-bin-mezar-tasi-ve-kitabe-belgelendi-80f1db91/"
   },
   {
    "id": "66569ddb",
@@ -332,15 +354,15 @@
    "url": "/haber/abd-de-1937-dan-beri-yapilmayan-halka-acik-idamlar-neden-yeniden-basli-66569ddb/"
   },
   {
-   "id": "7c6998c2",
-   "title": "Audi'nin küresel araç teslimatları üçüncü çeyrekte yaklaşık yüzde 20 düştü",
-   "summary": "Volkswagen Grubu'nun markası Audi'nin küresel araç teslimatları, Çin'deki pazar daralmasının etkisiyle yılın üçüncü çeyreğinde yüzde 19,7 azalarak 314 bin 900'e geriledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/audinin-kuresel-arac-teslimatlari-ucuncu-ceyrekte-yaklasik-yuzde-20-dustu/4085907",
+   "id": "8fbfb7c3",
+   "title": "Belçika'da kamu çalışanları greve gitti",
+   "summary": "Belçika'da kamu çalışanları, hükümetin bütçe ve tasarruf politikalarını protesto etmek için greve gitti.",
+   "link": "https://www.aa.com.tr/tr/dunya/belcikada-kamu-calisanlari-greve-gitti/4085904",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-12T09:35:28+00:00",
-   "url": "/haber/audi-nin-kuresel-arac-teslimatlari-ucuncu-ceyrekte-yaklasik-yuzde-20-d-7c6998c2/"
+   "date": "2026-10-12T09:33:21+00:00",
+   "url": "/haber/belcika-da-kamu-calisanlari-greve-gitti-8fbfb7c3/"
   },
   {
    "id": "8ea35b21",
@@ -594,6 +616,17 @@
    "category": "teknoloji",
    "date": "2026-10-12T08:00:49+00:00",
    "url": "/haber/yeni-ipad-gecikecek-2027-ye-ertelendi-bb50ef1d/"
+  },
+  {
+   "id": "896e1e72",
+   "title": "Mısırlı Bakan Şerif Fethi, Mısır ve Türkiye gibi ülkelerin güvenli şekilde turist ağırlayabildiğini söyledi",
+   "summary": "Mısır Turizm ve Eski Eserler Bakanı Şerif Fethi, \"Orta Doğu'daki gelişmelerin bölgenin tamamını kapsayan bir türbülans olarak nitelendirilmesine karşıyım. Çünkü Orta Doğu'nun tamamı bu süreçten etkilenmiyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/misirli-bakan-serif-fethi-misir-ve-turkiye-gibi-ulkelerin-guvenli-sekilde-turist-agirlayabildigini-soyledi/4085753",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T08:00:30+00:00",
+   "url": "/haber/misirli-bakan-serif-fethi-misir-ve-turkiye-gibi-ulkelerin-guvenli-seki-896e1e72/"
   },
   {
    "id": "c55a7662",
@@ -1047,39 +1080,6 @@
    "url": "/haber/elon-musk-donald-trump-istedi-diye-spacexai-in-ismini-spacexsi-yapti-98aa3a9a/"
   },
   {
-   "id": "0beb7e95",
-   "title": "Apple HomeView geliyor: Akıllı evin komuta merkezi olacak",
-   "summary": "Apple'ın 13 Ekim'de \"Welcome Home\" etkinliğinde duyuracağı smart home hub cihazının adının Apple HomeView olacağı ortaya çıktı. İşte akıllı ev merkezinin beklenen özellikleri:",
-   "link": "https://www.donanimhaber.com/apple-homeview-geliyor-akilli-evin-komuta-merkezi-olacak--211487",
-   "image": "https://www.donanimhaber.com/images/images/haber/211487/1200x675apple-homeview-geliyor-akilli-evin-komuta-merkezi-olacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-11T19:00:00+00:00",
-   "url": "/haber/apple-homeview-geliyor-akilli-evin-komuta-merkezi-olacak-0beb7e95/"
-  },
-  {
-   "id": "5b6b65e6",
-   "title": "Blade Runner 2099 dizisinden beklenen fragman geldi",
-   "summary": "Bilim-kurgu efsanesi Blade Runner, bir devam dizisiyle geri dönüyor! Amazon Prime Video, heyecanla beklenen Blade Runner 2099 dizisinden ilk uzun fragmanı yayınladı.",
-   "link": "https://www.donanimhaber.com/blade-runner-2099-dizisinden-ilk-fragman-geldi--211488",
-   "image": "https://www.donanimhaber.com/images/images/haber/211488/1200x675blade-runner-2099-dizisinden-ilk-fragman-geldi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-11T18:35:02+00:00",
-   "url": "/haber/blade-runner-2099-dizisinden-beklenen-fragman-geldi-5b6b65e6/"
-  },
-  {
-   "id": "3110d56b",
-   "title": "Fon krizi nasıl başladı, bugüne kadar geçen süreçte neler yaşandı?",
-   "summary": "Eylül ayında Borsa İstanbul'da sert düşüşlere yol açan fon krizi gündemdeki yerini koruyor. Peki, krizin patlak vermesinden bu yana hangi gelişmeler yaşandı?",
-   "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95d7/live/f93ca920-c56f-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-11T12:59:56+00:00",
-   "url": "/haber/fon-krizi-nasil-basladi-bugune-kadar-gecen-surecte-neler-yasandi-3110d56b/"
-  },
-  {
    "id": "1d2fcbc5",
    "title": "AKP'nin fon teklifi Meclis'te: Düzenleme neler öngörüyor?",
    "summary": "Adalet ve Kalkınma Partisi, tasfiye halindeki fon yatırımcılarına yapılacak geri ödemelere ilişkin dokuz maddelik yasa teklifini TBMM Başkanlığı'na sundu. Net yatırım tutarı 1 milyon liranın altında olan yatırımcılar…",
@@ -1114,7 +1114,7 @@
   },
   {
    "id": "66d1b288",
-   "title": "Milli Şair Ersoy'un bilinmeyenleri \"Bütün Yönleriyle Mehmed Akif Ersoy\" kitabında anlatıldı",
+   "title": "Milli şair Ersoy'un bilinmeyenleri \"Bütün Yönleriyle Mehmed Akif Ersoy\" kitabında anlatıldı",
    "summary": "İstiklal Marşı'nın şairi Mehmed Akif Ersoy'un edebiyatçı kimliğinin yanı sıra Milli Mücadele'deki faaliyetleri, özel yaşamı ve musikiye ilgisi, Dr. İzzet Kaçar'ın hazırladığı \"Bütün Yönleriyle Mehmed Akif Ersoy\"…",
    "link": "https://www.aa.com.tr/tr/kultur/milli-sair-ersoyun-bilinmeyenleri-butun-yonleriyle-mehmed-akif-ersoy-kitabinda-anlatildi/4084930",
    "image": "",
