@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T01:01:10.342949+00:00",
+ "updated": "2026-10-12T01:30:58.661728+00:00",
  "items": [
   {
    "id": "4322793a",
@@ -9,19 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-12T01:00:00+00:00",
+   "date": "2026-10-12T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-4322793a/"
   },
   {
-   "id": "93f35936",
+   "id": "f5005b23",
+   "title": "Dört ülkeden Husi saldırılarına ortak tepki",
+   "summary": "R4 Grubu Devletleri Türkiye, Mısır, Pakistan ve Suudi Arabistan, Riyad'da sivillerin ölümüne neden olan saldırıları kınadı.",
+   "link": "https://www.ntv.com.tr/turkiye/dort-ulkeden-husi-saldirilarina-ortak-tepki-1745874",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_8b190721fe4a0359a8877a4278930925-787307.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-12T01:08:36+00:00",
+   "url": "/haber/dort-ulkeden-husi-saldirilarina-ortak-tepki-f5005b23/"
+  },
+  {
+   "id": "fd634c5f",
    "title": "Suudi Arabistan: Kral Halid Uluslararası Havalimanı'na yönelik dünkü saldırıda 1 kişi öldü, 11 kişi yaralandı",
    "summary": "Suudi Arabistan Sivil Havacılık Genel Kurulu (GACA), Riyad'daki Kral Halid Uluslararası Havalimanı'nı hedef alan saldırıda 1 kişinin hayatını kaybettiğini, 11 kişinin yaralandığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-kral-halid-uluslararasi-havalimanina-yonelik-dunku-saldirida-1-kisi-oldu-11-kisi-yaralandi/4085518",
+   "link": "https://www.aa.com.tr/tr/live-blog/suudi-arabistan-kral-halid-uluslararasi-havalimanina-yonelik-dunku-saldirida-1-kisi-oldu-11-kisi-yaralandi/6831",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-11T22:55:29+00:00",
-   "url": "/haber/suudi-arabistan-kral-halid-uluslararasi-havalimani-na-yonelik-dunku-sa-93f35936/"
+   "url": "/haber/suudi-arabistan-kral-halid-uluslararasi-havalimani-na-yonelik-dunku-sa-fd634c5f/"
   },
   {
    "id": "793cef5e",
@@ -33,17 +44,6 @@
    "category": "gundem",
    "date": "2026-10-11T22:39:37+00:00",
    "url": "/haber/istanbul-bogazi-nda-gemi-arizasi-kiyiya-metreler-kala-durabildi-793cef5e/"
-  },
-  {
-   "id": "f5005b23",
-   "title": "Dört ülkeden Husi saldırılarına ortak tepki",
-   "summary": "R4 Grubu Devletleri Türkiye, Mısır, Pakistan ve Suudi Arabistan, Riyad'da sivillerin ölümüne neden olan saldırıları kınadı.",
-   "link": "https://www.ntv.com.tr/turkiye/dort-ulkeden-husi-saldirilarina-ortak-tepki-1745874",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_8b190721fe4a0359a8877a4278930925-787307.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-11T22:17:41+00:00",
-   "url": "/haber/dort-ulkeden-husi-saldirilarina-ortak-tepki-f5005b23/"
   },
   {
    "id": "c5e901b0",
