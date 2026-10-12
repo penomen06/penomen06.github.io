@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T21:31:03.200088+00:00",
+ "updated": "2026-10-12T22:01:10.956640+00:00",
  "items": [
   {
    "id": "9caff0c5",
@@ -9,8 +9,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-12T21:30:00+00:00",
+   "date": "2026-10-12T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9caff0c5/"
+  },
+  {
+   "id": "deea84d1",
+   "title": "Trump, Rusya-Ukrayna enerji ateşkesi anlaşmasını \"her iki tarafın da\" ihlal ettiğini savundu",
+   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında varılan enerji ateşkesi anlaşmasının \"her iki taraftan da\" ihlal edildiğini, ancak anlaşmanın geçerli olduğunu savundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ukrayna-enerji-ateskesi-anlasmasini-her-iki-tarafin-da-ihlal-ettigini-savundu/4086690",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T21:47:21+00:00",
+   "url": "/haber/trump-rusya-ukrayna-enerji-ateskesi-anlasmasini-her-iki-tarafin-da-ihl-deea84d1/"
+  },
+  {
+   "id": "3ea0ff91",
+   "title": "Polonya'daki Starlink istasyonuna sabotaj şüphesiyle iki Türk vatandaşı gözaltına alındı",
+   "summary": "Alman polisi, Polonya'daki bir Starlink iletişim istasyonunu ateşe verdiklerinden şüphelenilen iki Türk vatandaşını gözaltına aldı.",
+   "link": "https://www.bbc.com/turkce/articles/ck3wvxqqed14o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bd9/live/9c932360-c683-11f1-9a39-31b474234113.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-12T21:39:45+00:00",
+   "url": "/haber/polonya-daki-starlink-istasyonuna-sabotaj-suphesiyle-iki-turk-vatandas-3ea0ff91/"
+  },
+  {
+   "id": "0efe5a6b",
+   "title": "İsrail Cumhurbaşkanı Herzog, Pillay'a Nobel Barış Ödülü verilmesinin \"alaycı bir karar\" olduğunu savundu",
+   "summary": "İsrail Cumhurbaşkanı Isaac Herzog, Güney Afrikalı hukukçu Navanethem Navi Pillay'a Nobel Barış Ödülü verilmesinin \"alaycı bir karar\" olduğunu iddia etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-herzog-pillaya-nobel-baris-odulu-verilmesinin-alayci-bir-karar-oldugunu-savundu/4086687",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T21:34:37+00:00",
+   "url": "/haber/israil-cumhurbaskani-herzog-pillay-a-nobel-baris-odulu-verilmesinin-al-0efe5a6b/"
+  },
+  {
+   "id": "ed76603f",
+   "title": "Rusya: Avrupa'ya 2022'den bu yana 320 milyar dolarlık enerji kaynağı sattık",
+   "summary": "Rusya Başbakan Yardımcısı Aleksandr Novak, Avrupa Birliği (AB) ülkelerine 2022'den bu yana 320,7 milyar dolarlık enerji kaynağı ihraç ettiklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-avrupaya-2022den-bu-yana-320-milyar-dolarlik-enerji-kaynagi-sattik/4086685",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T21:33:46+00:00",
+   "url": "/haber/rusya-avrupa-ya-2022-den-bu-yana-320-milyar-dolarlik-enerji-kaynagi-sa-ed76603f/"
+  },
+  {
+   "id": "06287520",
+   "title": "İngiltere Başbakanı Burnham, Rusya'nın 2016'daki Brexit referandumuna müdahale ettiğini söyledi",
+   "summary": "İngiltere Başbakanı Andy Burnham, 2016'da ülkesinin Avrupa Birliği'nden (AB) ayrıldığı referanduma (Brexit) Rusya'nın müdahale ettiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-basbakani-burnham-rusyanin-2016daki-brexit-referandumuna-mudahale-ettigini-soyledi/4086684",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T21:30:55+00:00",
+   "url": "/haber/ingiltere-basbakani-burnham-rusya-nin-2016-daki-brexit-referandumuna-m-06287520/"
   },
   {
    "id": "95ff2c07",
@@ -55,6 +110,28 @@
    "category": "teknoloji",
    "date": "2026-10-12T21:10:49+00:00",
    "url": "/haber/motorola-razr-fold-turkiye-de-satisa-sunuldu-defcb617/"
+  },
+  {
+   "id": "3fcebf4b",
+   "title": "İran'da İlhanlılar ve Kaçarlar'ın eşsiz mirası: Mutellib Han Camisi",
+   "summary": "İran’ın Batı Azerbaycan eyaletine bağlı Hoy kentinde yer alan ve İlhanlılar (1256-1353) döneminde inşa edilen kubbesiz Mutellib Han Camisi Kaçar Hanedanlığı döneminde yıkılan kısımlarının yeniden inşa edilmesi ile…",
+   "link": "https://www.aa.com.tr/tr/kultur/iranda-ilhanlilar-ve-kacarlarin-essiz-mirasi-mutellib-han-camisi/4086676",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T21:07:46+00:00",
+   "url": "/haber/iran-da-ilhanlilar-ve-kacarlar-in-essiz-mirasi-mutellib-han-camisi-3fcebf4b/"
+  },
+  {
+   "id": "0018dbb8",
+   "title": "Fenerbahçe Medicana Erkek Voleybol Takımı Başantrenörü Taner Atik, başarıya inanıyor",
+   "summary": "Fenerbahçe Medicana Erkek Voleybol Takımı Başantrenörü Taner Atik, yeni sezonda takıma katılan oyuncularla güzel bir sinerji yakaladıklarını ve başarılı olacaklarına inandığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-medicana-erkek-voleybol-takimi-basantrenoru-taner-atik-basariya-inaniyor/4086675",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T21:04:55+00:00",
+   "url": "/haber/fenerbahce-medicana-erkek-voleybol-takimi-basantrenoru-taner-atik-basa-0018dbb8/"
   },
   {
    "id": "f4bee66c",
@@ -200,17 +277,6 @@
    "url": "/haber/enerji-depolama-pazarinda-muazzam-buyume-bekleniyor-kapasite-7-twh-i-a-5195a761/"
   },
   {
-   "id": "e341e5e5",
-   "title": "Trendyol Süper Lig'de Galatasaray haftayı lider tamamladı",
-   "summary": "Trendyol Süper Lig'de 7. haftanın perdesi kapandı. Haftayı galibiyetle kapatan Galatasaray, puanını 16'ya çıkardı ve liderliğe yükseldi.",
-   "link": "https://www.aa.com.tr/tr/spor/trendyol-super-ligde-galatasaray-haftayi-lider-tamamladi/4086607",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T19:36:30+00:00",
-   "url": "/haber/trendyol-super-lig-de-galatasaray-haftayi-lider-tamamladi-e341e5e5/"
-  },
-  {
    "id": "bf50e108",
    "title": "Fortwo’nun varisi Smart #2 geldi: Kısa boy, uzun menzil",
    "summary": "Smart, 2024’te üretimi sona eren Fortwo’nun doğrudan varisi olan Smart #2’yi 2026 Paris Otomobil Fuarı’nda tanıttı. Markanın ilk modelinin yollara çıkmasının üzerinden 30 yıl geçmişken gelen iki kişilik şehir otomobili,…",
@@ -231,28 +297,6 @@
    "category": "teknoloji",
    "date": "2026-10-12T19:24:00+00:00",
    "url": "/haber/carl-pei-apple-i-yerden-yere-vurdu-iphone-duo-para-tuzagi-625045f9/"
-  },
-  {
-   "id": "5e99f2a3",
-   "title": "ABD'nin Riyad Büyükelçiliği: Suudi Arabistan'daki saldırıları görüntüleyen ABD vatandaşları gözaltına alındı",
-   "summary": "ABD'nin Riyad Büyükelçiliği, Suudi Arabistan'da son dönemde düzenlenen saldırıları ve hava savunma müdahalelerini görüntüleyen ABD vatandaşlarının gözaltına alındığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdnin-riyad-buyukelciligi-suudi-arabistandaki-saldirilari-goruntuleyen-abd-vatandaslari-gozaltina-alindi/4086600",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T19:23:51+00:00",
-   "url": "/haber/abd-nin-riyad-buyukelciligi-suudi-arabistan-daki-saldirilari-goruntule-5e99f2a3/"
-  },
-  {
-   "id": "4ce6119c",
-   "title": "Polonya Başbakanı Tusk: Casus yazılım üzerinden hassas verilerin, İsrail'e aktarılması devlete karşı suç",
-   "summary": "Polonya Başbakanı Donald Tusk, önceki hükümet döneminde kullanılan Pegasus casus yazılımı aracılığıyla Polonya vatandaşlarına ait hassas verilerin, İsrail tarafına aktarılmasını \"devlete karşı işlenmiş ağır bir suç\"…",
-   "link": "https://www.aa.com.tr/tr/dunya/polonya-basbakani-tusk-casus-yazilim-uzerinden-hassas-verilerin-israile-aktarilmasi-devlete-karsi-suc/4086596",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T19:16:58+00:00",
-   "url": "/haber/polonya-basbakani-tusk-casus-yazilim-uzerinden-hassas-verilerin-israil-4ce6119c/"
   },
   {
    "id": "4fe2f135",
@@ -310,17 +354,6 @@
    "url": "/haber/egea-nin-yerine-gelen-yeni-fiat-fastback-i-inceledik-turkler-tasarladi-db69d220/"
   },
   {
-   "id": "f36816f3",
-   "title": "2026 Voleybol Erkekler AXA Sigorta Şampiyonlar Kupası'nı Galatasaray Madeş Mobilya kazandı",
-   "summary": "2026 Voleybol Erkekler AXA Sigorta Şampiyonlar Kupası'nı, Ziraat Bankkart'ı 3-1 yenen Galatasaray Madeş Mobilya kazandı.",
-   "link": "https://www.aa.com.tr/tr/spor/2026-voleybol-erkekler-axa-sigorta-sampiyonlar-kupasini-galatasaray-mades-mobilya-kazandi/4086581",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T18:46:31+00:00",
-   "url": "/haber/2026-voleybol-erkekler-axa-sigorta-sampiyonlar-kupasi-ni-galatasaray-m-f36816f3/"
-  },
-  {
    "id": "484d1245",
    "title": "Güneş enerjisini depolamak artık doğal gazla elektrik üretmekten daha ucuz",
    "summary": "Wood Mackenzie raporuna göre dört saatlik batarya depolama, incelenen 43 pazarın tamamında doğal gaz türbinlerinden daha ucuz hale geldi. Güneş enerjisi de maliyet avantajını koruyor.",
@@ -365,17 +398,6 @@
    "url": "/haber/suudi-arabistan-da-patlama-sesleri-duyuldu-769868c9/"
   },
   {
-   "id": "ceaf6117",
-   "title": "Göztepe, deplasmanda Eyüpspor'u farklı yendi",
-   "summary": "Trendyol Süper Lig'de 7. haftanın son maçında Göztepe, deplasmanda Eyüpspor'u 4-0 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/goztepe-deplasmanda-eyupsporu-farkli-yendi/4086543",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T18:01:56+00:00",
-   "url": "/haber/goztepe-deplasmanda-eyupspor-u-farkli-yendi-ceaf6117/"
-  },
-  {
    "id": "d6acda74",
    "title": "HelixSR Modu Steam Deck’e DLSS 3.7 Desteği Getiriyor",
    "summary": "HelixSR modu, Steam Deck ve AMD el konsollarına DLSS 3.7 desteği getirerek FSR 4'ten daha hızlı ve kaliteli bir yükseltme deneyimi sunuyor.",
@@ -418,17 +440,6 @@
    "category": "teknoloji",
    "date": "2026-10-12T17:30:57+00:00",
    "url": "/haber/odtu-nun-ay-araci-cheri-2030-da-firlatilacak-a470e2ec/"
-  },
-  {
-   "id": "a023d3ef",
-   "title": "TBMM Başkanı Kurtulmuş: Hemen sınır bölgemizde asla ve asla terör örgütünün hiçbir şekilde unsuru kalmayacak",
-   "summary": "TBMM Başkanı Kurtulmuş, \"Metina bölgesinde örgütün elinde bulunan bazı mağaraların devlet kurumlarına devriyle ilgili süreçte önemli bir adım atıldı. Böylece hemen sınır bölgemizde asla ve asla terör örgütünün hiçbir…",
-   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-hemen-sinir-bolgemizde-asla-ve-asla-teror-orgutunun-hicbir-sekilde-unsuru-kalmayacak/4086513",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T17:17:48+00:00",
-   "url": "/haber/tbmm-baskani-kurtulmus-hemen-sinir-bolgemizde-asla-ve-asla-teror-orgut-a023d3ef/"
   },
   {
    "id": "07834998",
@@ -1144,17 +1155,6 @@
    "category": "gundem",
    "date": "2026-10-12T07:17:00+00:00",
    "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-ekonomimizin-temelleri-saglam-8f5cfef9/"
-  },
-  {
-   "id": "2dda18a6",
-   "title": "Rusya NATO ülkelerine saldırabilir mi?",
-   "summary": "Moskova'daki yetkililer Rusya'nın NATO'nun genişlemesinden mağdur olduğunu söylüyor, ittifakı Rusya'nın Baltık Denizi'ndeki toprağı Kaliningrad'ı ablukaya alma planları yapmakla suçluyor. Peki Rusya'nın NATO'ya saldırı…",
-   "link": "https://www.bbc.com/turkce/articles/c6g7x0d0le0jo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ead6/live/05ac3c20-c5a7-11f1-9f28-03371a5c8220.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-12T06:17:08+00:00",
-   "url": "/haber/rusya-nato-ulkelerine-saldirabilir-mi-2dda18a6/"
   },
   {
    "id": "3dda960b",
