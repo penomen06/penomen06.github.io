@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-12T20:01:14.075475+00:00",
+ "updated": "2026-10-12T20:30:59.707402+00:00",
  "items": [
+  {
+   "id": "9f9af3e1",
+   "title": "Güneş panellerinde bilinen sınırlar aşılabilir: Yeni yöntem enerji kaybını azaltıyor",
+   "summary": "Güneş hücrelerinin verimliliğini sınırlayan fiziksel engellerden birini aşmayı hedefleyen İspanyol araştırmacılar, teorik verimlilik sınırını %33'ten %43'e çıkarabilecek yeni bir yöntem geliştirdi.",
+   "link": "https://www.donanimhaber.com/gunes-panellerinde-bilinen-sinirlar-asilabilir--211532",
+   "image": "https://www.donanimhaber.com/images/images/haber/211532/1200x675gunes-panellerinde-bilinen-sinirlar-asilabilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-12T20:30:00+00:00",
+   "url": "/haber/gunes-panellerinde-bilinen-sinirlar-asilabilir-yeni-yontem-enerji-kayb-9f9af3e1/"
+  },
+  {
+   "id": "259fce9b",
+   "title": "Esenyurt'ta mobilya atölyesinde çıkan yangına müdahale ediliyor",
+   "summary": "Esenyurt'ta mobilya atölyesinde çıkan yangına itfaiye ekipleri müdahale ediyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/esenyurtta-mobilya-atolyesinde-cikan-yangina-mudahale-ediliyor/4086630",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T20:17:23+00:00",
+   "url": "/haber/esenyurt-ta-mobilya-atolyesinde-cikan-yangina-mudahale-ediliyor-259fce9b/"
+  },
+  {
+   "id": "b67b9fd5",
+   "title": "Ukrayna, Rusya’nın yapay zeka ve bulut altyapısını vurdu: Yandex çöktü",
+   "summary": "Ukrayna, Rusya’daki Yandex veri merkezlerine dronlar ile saldırılar düzenledi. Saldırılar sonucunda ülkenin yapay zeka ve bulut hizmetlerinde geniş çaplı kesintiler yaşandı.",
+   "link": "https://www.donanimhaber.com/ukrayna-rusya-nin-yapay-zeka-altyapisini-vurdu-yandex-coktu--211536",
+   "image": "https://www.donanimhaber.com/images/images/haber/211536/1200x675ukrayna-rusya-nin-yapay-zeka-altyapisini-vurdu-yandex-coktu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-12T20:07:00+00:00",
+   "url": "/haber/ukrayna-rusya-nin-yapay-zeka-ve-bulut-altyapisini-vurdu-yandex-coktu-b67b9fd5/"
+  },
+  {
+   "id": "eae34983",
+   "title": "KKTC'de \"Türk Dünyası Diyalogları: Ortak Gelecek, Ortak Vizyon\" paneli düzenlendi",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, Kuzey Kıbrıs Türk Cumhuriyeti'nde (KKTC), \"Türk Dünyası Diyalogları: Ortak Gelecek, Ortak Vizyon\" başlıklı panel düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kktcde-turk-dunyasi-diyaloglari-ortak-gelecek-ortak-vizyon-paneli-duzenlendi/4086623",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T20:01:09+00:00",
+   "url": "/haber/kktc-de-turk-dunyasi-diyaloglari-ortak-gelecek-ortak-vizyon-paneli-duz-eae34983/"
+  },
+  {
+   "id": "83e61322",
+   "title": "Alpine A310 Vision, Porsche 911’e rakip efsaneyi geri çağırıyor",
+   "summary": "Renault çatısı altındaki Alpine, 2026 Paris Otomobil Fuarı’nda A310 Vision adlı konsept otomobilini tanıttı. Konsept, 1971 ile 1984 yılları arasında üretilen ve döneminde Porsche 911’e rakip olarak konumlanan orijinal…",
+   "link": "https://shiftdelete.net/alpine-a310-vision-porsche-911e-rakip-efsaneyi-geri-cagiriyor",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-12T20:00:34+00:00",
+   "url": "/haber/alpine-a310-vision-porsche-911-e-rakip-efsaneyi-geri-cagiriyor-83e61322/"
+  },
   {
    "id": "5195a761",
    "title": "Enerji depolama pazarında muazzam büyüme bekleniyor: Kapasite 7 TWh'ı aşacak",
@@ -66,6 +121,17 @@
    "category": "gundem",
    "date": "2026-10-12T19:16:58+00:00",
    "url": "/haber/polonya-basbakani-tusk-casus-yazilim-uzerinden-hassas-verilerin-israil-4ce6119c/"
+  },
+  {
+   "id": "4fe2f135",
+   "title": "CNN: Musk, 276 milyon dolarlık bağışla Cumhuriyetçilerin ara seçimlerde en büyük destekçisi oldu",
+   "summary": "ABD'li iş insanı Elon Musk’ın 3 Kasım'da gerçekleşecek ara seçimler için en az 276 milyon dolar harcayarak Cumhuriyetçi Parti’nin en büyük bağışçısı olduğu belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/cnn-musk-276-milyon-dolarlik-bagisla-cumhuriyetcilerin-ara-secimlerde-en-buyuk-destekcisi-oldu/4086595",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-12T19:16:54+00:00",
+   "url": "/haber/cnn-musk-276-milyon-dolarlik-bagisla-cumhuriyetcilerin-ara-secimlerde-4fe2f135/"
   },
   {
    "id": "7c7a502b",
@@ -299,28 +365,6 @@
    "url": "/haber/yeni-otomobiller-kisisel-verileri-reklam-sirketleriyle-paylasiyor-tesl-07834998/"
   },
   {
-   "id": "c3a486af",
-   "title": "AB Yüksek Temsilcisi Kallas, üye ülkelerin UCM'yi koruma konusunda kararlı olduğunu söyledi",
-   "summary": "Avrupa Birliği (AB) Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, ABD'nin Uluslararası Ceza Mahkemesine (UCM) yönelik yaptırım kararlarının ardından üye ülkelerin, Mahkemeyi koruma konusunda…",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-yuksek-temsilcisi-kallas-uye-ulkelerin-ucmyi-koruma-konusunda-kararli-oldugunu-soyledi/4086507",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T17:08:52+00:00",
-   "url": "/haber/ab-yuksek-temsilcisi-kallas-uye-ulkelerin-ucm-yi-koruma-konusunda-kara-c3a486af/"
-  },
-  {
-   "id": "14d9e714",
-   "title": "Barcelona Teknik Direktörü Hansi Flick: Buradaki atmosfere hazır olmalıyız",
-   "summary": "Barcelona Teknik Direktörü Hansi Flick, UEFA Şampiyonlar Ligi'nin ikinci haftasında yarın konuk olacakları Galatasaray'ın büyük bir takım olduğunu ve buna uygun oynadığını söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/barcelona-teknik-direktoru-hansi-flick-buradaki-atmosfere-hazir-olmaliyiz/4086506",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T17:06:06+00:00",
-   "url": "/haber/barcelona-teknik-direktoru-hansi-flick-buradaki-atmosfere-hazir-olmali-14d9e714/"
-  },
-  {
    "id": "32b9bcac",
    "title": "Çin, güneş batınca da elektrik üreten dev güneş santralini açtı",
    "summary": "Çin, fazla güneş elektriğini ısı olarak depolayıp gece de elektrik üretebilen 1 GW'lık hibrit santrali devreye aldı. Tesisin yılda 2,2 TWh elektrik üretmesi bekleniyor.",
@@ -330,17 +374,6 @@
    "category": "teknoloji",
    "date": "2026-10-12T16:48:00+00:00",
    "url": "/haber/cin-gunes-batinca-da-elektrik-ureten-dev-gunes-santralini-acti-32b9bcac/"
-  },
-  {
-   "id": "aedc3e54",
-   "title": "Bakan Bayraktar, Riyad'da mevkidaşlarıyla enerji iş birliğini görüştü",
-   "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Riyad temasları kapsamında Suudi Arabistan, Irak, Özbekistan ve Libyalı mevkidaşlarıyla yenilenebilir enerji, elektrik ve hidrokarbon projelerinde iş birliğinin…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-riyadda-mevkidaslariyla-enerji-is-birligini-gorustu/4086482",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T16:42:53+00:00",
-   "url": "/haber/bakan-bayraktar-riyad-da-mevkidaslariyla-enerji-is-birligini-gorustu-aedc3e54/"
   },
   {
    "id": "d127e44f",
@@ -475,17 +508,6 @@
    "url": "/haber/abd-den-hipersonik-fuzelere-karsi-yeni-onleyici-fuze-b41eb232/"
   },
   {
-   "id": "8f724880",
-   "title": "Renault'ya panoramik ekran geliyor: E-Space konsepti tanıtıldı",
-   "summary": "Renault, E-Space Concept’le SUV’lara alternatif sunuyor. 6 kişilik elektrikli konsept MPV; dönebilen koltukları, cam tavanı ve yeni Rafale ve Scenic’e de gelecek panoramik ekranıyla da dikkat çekiyor.",
-   "link": "https://www.donanimhaber.com/renault-ya-panoramik-ekran-geliyor-e-space-konsepti-tanitildi--211518",
-   "image": "https://www.donanimhaber.com/images/images/haber/211518/1200x675renault-ya-panoramik-ekran-geliyor-e-space-konsepti-tanitildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-12T15:20:00+00:00",
-   "url": "/haber/renault-ya-panoramik-ekran-geliyor-e-space-konsepti-tanitildi-8f724880/"
-  },
-  {
    "id": "c4b6f936",
    "title": "Tasarımda Ciddi Değişim Geçiren Yeni Hyundai Bayon Tanıtıldı: İşte Yeni Tasarımı ve Özellikler!",
    "summary": "Yeni Hyundai Bayon, büyüyen boyutları, hibrit motoru ve modern teknolojileriyle sınıf atlayarak karşımızda.",
@@ -495,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-10-12T15:14:57+00:00",
    "url": "/haber/tasarimda-ciddi-degisim-geciren-yeni-hyundai-bayon-tanitildi-iste-yeni-c4b6f936/"
-  },
-  {
-   "id": "b8eee977",
-   "title": "Micro RGB Artık Aramızda | Samsung R85H Televizyon İnceleme",
-   "summary": "Samsung Micro RGB R85H 4K Vision AI Smart TV modeli geleneksel LED ve Mini LED teknolojilerinin ötesine geçmeyi hedefleyen Micro RGB arka aydınlatma mimarisiyle geliyor.",
-   "link": "https://www.donanimhaber.com/samsung-r85h-televizyon-inceleme--211526",
-   "image": "https://www.donanimhaber.com/images/images/haber/211526/1200x675samsung-r85h-televizyon-inceleme.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-12T15:00:04+00:00",
-   "url": "/haber/micro-rgb-artik-aramizda-samsung-r85h-televizyon-inceleme-b8eee977/"
   },
   {
    "id": "9f6c1ee8",
@@ -605,17 +616,6 @@
    "category": "teknoloji",
    "date": "2026-10-12T14:21:18+00:00",
    "url": "/haber/whatsapp-a-mesaj-zamanlama-ozelligi-geliyor-yakinlarinizin-dogum-gunun-8143dde5/"
-  },
-  {
-   "id": "752bcee2",
-   "title": "İzmit’in yeni SUV’u: Yeni Hyundai Bayon Paris’te tanıtıldı",
-   "summary": "Yeni Hyundai Bayon, 12 Ekim’de kapılarını açan Paris Otomobil Fuarı’nda dünya prömiyerini yaptı. Model aylardır teaser görselleriyle gündemdeydi, gerçek haliyle ise ilk kez Paris’te görüldü. Türkiye açısından haberin en…",
-   "link": "https://shiftdelete.net/izmitin-yeni-suvu-yeni-hyundai-bayon-pariste-tanitildi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-12T14:15:07+00:00",
-   "url": "/haber/izmit-in-yeni-suv-u-yeni-hyundai-bayon-paris-te-tanitildi-752bcee2/"
   },
   {
    "id": "34cc352a",
