@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T21:31:26.410467+00:00",
+ "updated": "2026-10-13T22:01:09.935620+00:00",
  "items": [
   {
    "id": "13ae9cf4",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-13T21:30:00+00:00",
+   "date": "2026-10-13T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13ae9cf4/"
+  },
+  {
+   "id": "2b74272c",
+   "title": "Tupac Shakur cinayetinde 30 yıl sonra ilk mahkumiyet kararı",
+   "summary": "Eski çete lideri Duane \"Keffe D\" Davis, Tupac Shakur'un öldürülmesini organize etmekten en az 40 yıl hapis cezasına çarptırıldı. Davis'in mahkumiyeti, yaklaşık 30 yıldır hayranlarının takip ettiği faili meçhul…",
+   "link": "https://www.bbc.com/turkce/articles/c30451lp1n9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b73/live/79965b50-9a89-11f1-b792-a710e56a11dc.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-13T21:39:43+00:00",
+   "url": "/haber/tupac-shakur-cinayetinde-30-yil-sonra-ilk-mahkumiyet-karari-2b74272c/"
   },
   {
    "id": "dc6e3d38",
@@ -1078,17 +1089,6 @@
    "category": "gundem",
    "date": "2026-10-13T12:28:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-turkiye-suudi-arabistan-in-yaninda-6ea57b8e/"
-  },
-  {
-   "id": "2aa4bee4",
-   "title": "Breaking Bad dizisinin yıldızı RJ Mitte 34 yaşında hayatını kaybetti",
-   "summary": "Serebral palsiyle yaşayan Mitte, Emmy ödüllü drama dizisinde Walter White Jr. rolünü canlandırıyordu.",
-   "link": "https://www.bbc.com/turkce/articles/cm8xz8jezr44o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be8c/live/324c62b0-c6f5-11f1-9a39-31b474234113.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-13T11:03:24+00:00",
-   "url": "/haber/breaking-bad-dizisinin-yildizi-rj-mitte-34-yasinda-hayatini-kaybetti-2aa4bee4/"
   },
   {
    "id": "1ddeff48",
