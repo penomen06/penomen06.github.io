@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-13T17:01:20.542814+00:00",
+ "updated": "2026-10-13T17:31:01.259154+00:00",
  "items": [
+  {
+   "id": "e9ff2713",
+   "title": "SİVRİSİNEK'lerden Ateş Serbest-2026 Tatbikatı'nda sürü uçuşu ve tam isabetli operasyon",
+   "summary": "Baykar tarafından geliştirilen SİVRİSİNEK Akıllı Dolanan Mühimmat, Ateş Serbest-2026 Tatbikatı kapsamında sürü kabiliyetini sergiledi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/sivrisineklerden-ates-serbest-2026-tatbikatinda-suru-ucusu-ve-tam-isabetli-operasyon/4087702",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T17:26:41+00:00",
+   "url": "/haber/sivrisinek-lerden-ates-serbest-2026-tatbikati-nda-suru-ucusu-ve-tam-is-e9ff2713/"
+  },
+  {
+   "id": "ad2f15db",
+   "title": "ColorOS 17 tanıtıldı: İşte özellikleri ve dağıtım takvimi",
+   "summary": "OPPO, Android 17 tabanlı ColorOS 17 arayüzünü tanıttı. Önemli performans iyileştirmeleri, yapay zeka destekli gelişmiş özelliklerle gelen yazılım hangi cihazlara sunulacak?",
+   "link": "https://www.donanimhaber.com/coloros-17-tanitildi-iste-ozellikleri-ve-dagitim-takvimi--211570",
+   "image": "https://www.donanimhaber.com/images/images/haber/211570/1200x675coloros-17-tanitildi-iste-ozellikleri-ve-dagitim-takvimi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-13T17:17:00+00:00",
+   "url": "/haber/coloros-17-tanitildi-iste-ozellikleri-ve-dagitim-takvimi-ad2f15db/"
+  },
+  {
+   "id": "07ead8dc",
+   "title": "AKP'den, gazeteciler Şaban Sevinç, Timur Soykan ve Yeni Partili Zeynel Emre'ye tazminat davası",
+   "summary": "AKP Genel Sekreteri Eyüp Kadir İnan, partisinin BirGün TV ve kanalın programcısı Timur Soykan, gazeteci Şaban Sevinç ve Yeni Parti Sözcüsü Zeynel Emre'ye toplam 1,6 milyon liralık manevi tazminat davası açtığını duyurdu.",
+   "link": "https://www.bbc.com/turkce/articles/cmz7x9nz928vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/91d2/live/89925050-c729-11f1-b881-4391ac746e04.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-13T17:15:22+00:00",
+   "url": "/haber/akp-den-gazeteciler-saban-sevinc-timur-soykan-ve-yeni-partili-zeynel-e-07ead8dc/"
+  },
+  {
+   "id": "374d69d9",
+   "title": "Türkiye'nin NATO Temsilcisi, Karadeniz'de bir ateşkes için iki tarafla çalıştıklarını söyledi",
+   "summary": "Türkiye'nin NATO Nezdinde Daimi Temsilcisi Büyükelçi Basat Öztürk, Karadeniz'de sivil mallar taşıyan ticari gemilerin hedef alınmasını önlemek amacıyla geçici ve kısmi bir ateşkes sağlanması için Rusya ve Ukrayna ile…",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-nato-temsilcisi-karadenizde-bir-ateskes-icin-iki-tarafla-calistiklarini-soyledi/4087698",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T17:15:10+00:00",
+   "url": "/haber/turkiye-nin-nato-temsilcisi-karadeniz-de-bir-ateskes-icin-iki-tarafla-374d69d9/"
+  },
+  {
+   "id": "f0f8b3e7",
+   "title": "İletişim Başkanlığının \"Türkiye Bilişim Ödülleri 2026\" başvuruları başladı",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı himayesinde gerçekleştirilen ve Türkiye Bilişim Derneği (TBD) tarafından düzenlenen \"Türkiye Bilişim Ödülleri\"ne başvurular başladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanliginin-turkiye-bilisim-odulleri-2026-basvurulari-basladi/4087694",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T17:14:09+00:00",
+   "url": "/haber/iletisim-baskanliginin-turkiye-bilisim-odulleri-2026-basvurulari-basla-f0f8b3e7/"
+  },
   {
    "id": "62770e94",
    "title": "Nvidia DLSS 5 Güncellendi: Performans İkiye Katlanırken Bellek Kullanımı Düştü",
@@ -398,17 +453,6 @@
    "url": "/haber/apple-siri-ai-ile-guclendirilen-yeni-apple-tv-4k-modelini-tanitti-30b9a939/"
   },
   {
-   "id": "b3f701a5",
-   "title": "İran: Umman ile Hürmüz Boğazı için gerekli mutabakata vardık",
-   "summary": "İran Dışişleri Bakan Yardımcısı Kazım Garibabadi Hürmüz Boğazı’ndaki geçiş düzenlemelerine ilişkin, “Umman ile Hürmüz Boğazı için gerekli mutabakata vardıklarını” belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-umman-ile-hurmuz-bogazi-icin-gerekli-mutabakata-vardik/4087562",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T15:13:30+00:00",
-   "url": "/haber/iran-umman-ile-hurmuz-bogazi-icin-gerekli-mutabakata-vardik-b3f701a5/"
-  },
-  {
    "id": "af857f60",
    "title": "Fon Koordinasyon Kurulu beşinci toplantısını gerçekleştirdi",
    "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında, Fon Koordinasyon Kurulu beşinci toplantısını gerçekleştirdi. İletişim Başkanlığı, geçtiğimiz hafta 43 bin 643 yatırımcıya toplam 6,4 milyar lira ödeme yapıldığını…",
@@ -418,17 +462,6 @@
    "category": "gundem",
    "date": "2026-10-13T15:08:00+00:00",
    "url": "/haber/fon-koordinasyon-kurulu-besinci-toplantisini-gerceklestirdi-af857f60/"
-  },
-  {
-   "id": "a7d72761",
-   "title": "Deniz ticaretinde 9 ayda 412,1 milyon ton yük elleçlendi",
-   "summary": "Ulaştırma ve Altyapı Bakanlığı, yılın ilk 9 ayında deniz ticaretinde 412,1 milyon ton yükün elleçlendiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/deniz-ticaretinde-9-ayda-412-1-milyon-ton-yuk-elleclendi/4087554",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T15:06:40+00:00",
-   "url": "/haber/deniz-ticaretinde-9-ayda-412-1-milyon-ton-yuk-elleclendi-a7d72761/"
   },
   {
    "id": "38292558",
@@ -451,17 +484,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T15:05:29+00:00",
    "url": "/haber/anonim-instagram-story-izleme-nasil-yapilir-bb17d56c/"
-  },
-  {
-   "id": "302e8b38",
-   "title": "TBMM Başkanı Kurtulmuş, AKPM Başkanı Bayr ile görüştü",
-   "summary": "TBMM Başkanı Numan Kurtulmuş, Türkiye'ye resmi ziyaret gerçekleştiren Avrupa Konseyi Parlamenter Meclisi (AKPM) Başkanı Petra Bayr ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-akpm-baskani-bayr-ile-gorustu/4087549",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T15:01:08+00:00",
-   "url": "/haber/tbmm-baskani-kurtulmus-akpm-baskani-bayr-ile-gorustu-302e8b38/"
   },
   {
    "id": "19005763",
@@ -715,17 +737,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T13:39:08+00:00",
    "url": "/haber/apple-siri-ai-destekli-yeni-homepod-mini-2-yi-tanitti-iste-ozellikleri-8b78f4e6/"
-  },
-  {
-   "id": "728ae3e6",
-   "title": "Türkiye'deki havalimanları 9 ayda 193,1 milyon yolcu taşıdı",
-   "summary": "Türkiye'deki havalimanları 2026'nın ilk 9 ayında 193,1 milyon yolcuya hizmet verdi. Peki, en yoğun havalimanları hangileri oldu ve turizm merkezlerinde kaç yolcu ağırlandı?",
-   "link": "https://www.donanimhaber.com/turkiye-deki-havalimanlari-9-ayda-193-1-milyon-yolcu-tasidi--211564",
-   "image": "https://www.donanimhaber.com/images/images/haber/211564/1200x675turkiye-deki-havalimanlari-9-ayda-193-1-milyon-yolcu-tasidi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-13T13:39:00+00:00",
-   "url": "/haber/turkiye-deki-havalimanlari-9-ayda-193-1-milyon-yolcu-tasidi-728ae3e6/"
   },
   {
    "id": "e7b408f7",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-10-11T07:35:00+00:00",
    "url": "/haber/antalya-daki-77-uluslararasi-uzay-kongresi-rekor-katilimla-tamamlandi-09e978d9/"
-  },
-  {
-   "id": "47f057a3",
-   "title": "Sözcü editörü Mustafa Balcı ve gazeteci Şaban Sevinç tutuklandı, Ağırel ve Saymaz'a ev hapsi",
-   "summary": "Kamu görevlilerinin tasfiye sürecindeki fonlardan haksız kazanç elde ettiği iddialarını haberleştiren dört gazeteci hakkında soruşturma başlatıldı. Sözcü gazetesi editörü Mustafa Balcı ve gazeteci Şaban Sevinç…",
-   "link": "https://www.bbc.com/turkce/articles/cwvg0e409xp3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6bc/live/8985bf80-c3ef-11f1-9a39-31b474234113.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-10T08:03:01+00:00",
-   "url": "/haber/sozcu-editoru-mustafa-balci-ve-gazeteci-saban-sevinc-tutuklandi-agirel-47f057a3/"
   },
   {
    "id": "78e3c18f",
