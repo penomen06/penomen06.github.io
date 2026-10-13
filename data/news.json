@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T00:01:13.287229+00:00",
+ "updated": "2026-10-13T00:30:56.771600+00:00",
  "items": [
   {
    "id": "9caff0c5",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-13T00:00:00+00:00",
+   "date": "2026-10-13T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9caff0c5/"
+  },
+  {
+   "id": "9083ae71",
+   "title": "İsrail basını: Netanyahu Husilere müdahale etmek istiyor, Prens Selman karşı çıkıyor",
+   "summary": "İsrail basını, Başbakan Binyamin Netanyahu'nun Yemen'deki Husilere müdahale etmek istediğini, buna karşın Suudi Arabistan Veliaht Prensi Muhammed bin Selman'ın buna karşı çıktığını iddia etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-husilere-mudahale-etmek-istiyor-prens-selman-karsi-cikiyor/4086709",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T00:07:00+00:00",
+   "url": "/haber/israil-basini-netanyahu-husilere-mudahale-etmek-istiyor-prens-selman-k-9083ae71/"
+  },
+  {
+   "id": "f93b6eb4",
+   "title": "Türkiye'de son dönemde artan okul saldırıları bize ne anlatıyor?",
+   "summary": "Türkiye'nin farklı kentlerindeki bazı okullarda bu yıl düzenlenen saldırılarda 10'dan fazla öğrenci hayatını kaybetti. Peki bu saldırılar bize ne anlatıyor?",
+   "link": "https://www.bbc.com/turkce/articles/c84g17z41dyeo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5638/live/abfbe050-c645-11f1-b47f-e3f9cf703bc3.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-13T00:05:51+00:00",
+   "url": "/haber/turkiye-de-son-donemde-artan-okul-saldirilari-bize-ne-anlatiyor-f93b6eb4/"
   },
   {
    "id": "17fdc458",
@@ -308,17 +330,6 @@
    "category": "gundem",
    "date": "2026-10-12T20:49:31+00:00",
    "url": "/haber/ikby-baskani-barzani-terorsuz-turkiye-adimlar-istedigimiz-hizda-olmaya-38ca4906/"
-  },
-  {
-   "id": "7ef2093f",
-   "title": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da 12 saatte Filistinli çiftçilere 14 saldırı düzenledi",
-   "summary": "Filistin Duvar ve Yerleşim Direniş Komisyonu, işgal altındaki Batı Şeria'da İsrail ordusunun ve Filistin topraklarını gasbeden İsraillilerin, 12 saat içinde Filistinli çiftçilere, tarım arazilerine yönelik 14 saldırı…",
-   "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-12-saatte-filistinli-ciftcilere-14-saldiri-duzenledi/4086641",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T20:40:19+00:00",
-   "url": "/haber/filistin-topraklarini-gasbeden-israilliler-bati-seria-da-12-saatte-fil-7ef2093f/"
   },
   {
    "id": "9f9af3e1",
@@ -1067,17 +1078,6 @@
    "category": "gundem",
    "date": "2026-10-12T10:11:01+00:00",
    "url": "/haber/iski-duyurdu-yarin-basliyor-bu-mahallelerde-16-saat-su-kesintisi-olaca-221259eb/"
-  },
-  {
-   "id": "52c1a2ac",
-   "title": "Suriye, Mekke İttifakı'na katılabilir mi?",
-   "summary": "Suriye'de bir medya kuruluşu, ülkenin Husilerle süren çatışmada Suudi Arabistan'a destek verme ihtimalini değerlendirdi.",
-   "link": "https://www.bbc.com/turkce/articles/cme8ryl0432yo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7078/live/ab1d4a80-c621-11f1-b048-6946f232cb95.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-12T09:55:04+00:00",
-   "url": "/haber/suriye-mekke-ittifaki-na-katilabilir-mi-52c1a2ac/"
   },
   {
    "id": "5d0b67ac",
