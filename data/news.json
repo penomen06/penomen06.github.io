@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-13T20:01:12.707493+00:00",
+ "updated": "2026-10-13T20:31:01.081461+00:00",
  "items": [
+  {
+   "id": "13032618",
+   "title": "Galatasaray Barcelona karşısında 4-1 geride",
+   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'ndeki ikinci karşılaşmasında İspanyol devi Barcelona'yı konuk ediyor. İlk yarı 1-1 berabere sonra ererken Barcelona ikinci yarısının ilk dakikalarında peşpeşe attığı gollerle 3-1 öne…",
+   "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d70a/live/6f0afe80-c73d-11f1-9085-f95bdc648acc.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-13T20:29:44+00:00",
+   "url": "/haber/galatasaray-barcelona-karsisinda-4-1-geride-13032618/"
+  },
+  {
+   "id": "d3c505b9",
+   "title": "Dizüstü bilgisayar konforunda en iyi klavyeli tablet modelleri",
+   "summary": "Klavyeli tablet modelleri, taşınabilirlik ve dizüstü bilgisayar konforunu bir araya getiriyor. En iyi klavyeli tablet önerilerini; ekran, performans, klavye ve fiyat açısından inceledik.",
+   "link": "https://www.donanimhaber.com/en-iyi-klavyeli-tablet-modelleri-ekim-2026--211184",
+   "image": "https://www.donanimhaber.com/images/images/haber/211184/1200x675en-iyi-klavyeli-tablet-modelleri-ekim-2026.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-13T20:27:05+00:00",
+   "url": "/haber/dizustu-bilgisayar-konforunda-en-iyi-klavyeli-tablet-modelleri-d3c505b9/"
+  },
+  {
+   "id": "d46d3bde",
+   "title": "Fransa vizesinde yeni dönem: Randevu sistemi değişiyor",
+   "summary": "Fransa, Türkiye'den yapılan Schengen vizesi başvurularında randevu sistemini değiştiriyor. 15 Ekim'den itibaren turistik ve özel ziyaret amaçlı başvurularda bekleme listesi uygulamasına geçilecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-fransa-vizesinde-yeni-donem-randevu-sistemi-degisiyor-1746193",
+   "image": "https://images.ntv.com.tr/images/vize5-215858.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-13T20:15:14+00:00",
+   "url": "/haber/fransa-vizesinde-yeni-donem-randevu-sistemi-degisiyor-d46d3bde/"
+  },
+  {
+   "id": "9ae30c66",
+   "title": "AMD RDNA 5 ekran kartları için tarih verildi: Nvidia'dan önce gelebilir",
+   "summary": "AMD'nin RDNA 5 ekran kartlarını ne zaman tanıtacağı ortaya çıktı. Yeni mimari, Nvidia GeForce RTX 6000 serisinden önce tanıtılabilir. İşte beklenen tarih...",
+   "link": "https://www.donanimhaber.com/amd-rdna-5-ekran-kartlari-icin-tarih-ortaya-cikti--211582",
+   "image": "https://www.donanimhaber.com/images/images/haber/211582/1200x675amd-rdna-5-ekran-kartlari-icin-tarih-ortaya-cikti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-13T20:06:00+00:00",
+   "url": "/haber/amd-rdna-5-ekran-kartlari-icin-tarih-verildi-nvidia-dan-once-gelebilir-9ae30c66/"
+  },
   {
    "id": "2559d881",
    "title": "OpenAI: “Ofislerimizden birine gizlenmiş gelişmiş bir kayıt cihazı bulduk”",
@@ -11,17 +55,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T19:57:59+00:00",
    "url": "/haber/openai-ofislerimizden-birine-gizlenmis-gelismis-bir-kayit-cihazi-buldu-2559d881/"
-  },
-  {
-   "id": "13032618",
-   "title": "Galatasaray Barcelona karşılaşmasında ilk yarı 1-1 berabere sona erdi",
-   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'ndeki ikinci karşılaşmasında İspanyol devi Barcelona'yı konuk ediyor. Mücadelede ilk yarı 1-1 berabere sonra erdi.",
-   "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d70a/live/6f0afe80-c73d-11f1-9085-f95bdc648acc.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-13T19:52:53+00:00",
-   "url": "/haber/galatasaray-barcelona-karsilasmasinda-ilk-yari-1-1-berabere-sona-erdi-13032618/"
   },
   {
    "id": "f75e611d",
@@ -259,7 +292,7 @@
    "title": "İletişim Başkanı Duran: Dijital alanı güvenli kılmak en önemli görevimizdir",
    "summary": "İletişim Başkanı Duran, \"İletişim Başkanlığı olarak süreli ve süresiz yayınlarımızla, panellerimiz, eğitim programlarımız ve iletişim fakültelerinde öncülük ettiğimiz kulüplerle ülkemizin dijital esenliğine katkı…",
    "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-dijital-alani-guvenli-kilmak-en-onemli-gorevimizdir-960034.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2382000/burhanettin-duranaa-2383206.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/burhanettin-duranaa-2495499.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-13T17:48:00+00:00",
@@ -552,17 +585,6 @@
    "url": "/haber/azerbaycan-daki-basortusu-yasagiyla-ilgili-neler-biliniyor-turkiye-de-eb0aae87/"
   },
   {
-   "id": "0c6e9712",
-   "title": "Seat kapanacak mı? CEO'dan açıklama ve 15 yıl servis sözü",
-   "summary": "Seat’ın 2029’da kapatılacağı iddialarına markanın CEO’sundan yanıt geldi. Markus Haupt kesin karar alınmadığını söylerken olası bir kapanışta bile araçlara 15 yıl servis desteği verileceğini açıkladı.",
-   "link": "https://www.donanimhaber.com/seat-kapanacak-mi-ceo-dan-aciklama-ve-15-yil-servis-sozu--211563",
-   "image": "https://www.donanimhaber.com/images/images/haber/211563/1200x675seat-kapanacak-mi-ceo-dan-aciklama-ve-15-yil-servis-sozu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-13T15:29:00+00:00",
-   "url": "/haber/seat-kapanacak-mi-ceo-dan-aciklama-ve-15-yil-servis-sozu-0c6e9712/"
-  },
-  {
    "id": "24df10b5",
    "title": "Hangi Casper Excalibur 27'' Oyuncu Monitörünü Seçmelisin?",
    "summary": "Casper Excalibur'un yüksek yenileme hızına sahip oyuncu monitörleri, hem bütçenizi koruyor hem de oyun keyfinizi zirveye taşıyor.",
@@ -627,17 +649,6 @@
    "category": "gundem",
    "date": "2026-10-13T15:08:00+00:00",
    "url": "/haber/fon-koordinasyon-kurulu-besinci-toplantisini-gerceklestirdi-af857f60/"
-  },
-  {
-   "id": "38292558",
-   "title": "Apple, iPhone Duo'da sıra dışı bir soğutma teknolojisi kullandı",
-   "summary": "Apple'ın ilk katlanabilir telefonu iPhone Duo için geliştirdiği yeni soğutma teknolojisi, menteşeyi yalnızca mekanik bir parça olmaktan çıkarıyor ve soğutma sistemi olarak kullanıyor.",
-   "link": "https://www.donanimhaber.com/apple-iphone-duo-da-sira-disi-bir-sogutma-teknolojisi-kullandi--211574",
-   "image": "https://www.donanimhaber.com/images/images/haber/211574/1200x675apple-iphone-duo-da-sira-disi-bir-sogutma-teknolojisi-kullandi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-13T15:06:00+00:00",
-   "url": "/haber/apple-iphone-duo-da-sira-disi-bir-sogutma-teknolojisi-kullandi-38292558/"
   },
   {
    "id": "bb17d56c",
@@ -1056,17 +1067,6 @@
    "category": "gundem",
    "date": "2026-10-13T12:16:59+00:00",
    "url": "/haber/otobus-soforu-ile-kavga-eden-sahis-semsiye-ile-saldirdi-1c0dc9fc/"
-  },
-  {
-   "id": "97021b62",
-   "title": "39 ilde yatırım dolandırıcılığı operasyonu. 159 şüpheli gözaltında",
-   "summary": "Ankara merkezli yatırım dolandırıcılığı soruşturmasında 39 ilde düzenlenen eş zamanlı operasyonlarla 159 şüpheli gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/39-ilde-yatirim-dolandiriciligi-operasyonu-159-supheli-gozaltinda-1746158",
-   "image": "https://images.ntv.com.tr/images/gözaltı-449255.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-13T12:15:44+00:00",
-   "url": "/haber/39-ilde-yatirim-dolandiriciligi-operasyonu-159-supheli-gozaltinda-97021b62/"
   },
   {
    "id": "2aa4bee4",
