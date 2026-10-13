@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-13T16:01:14.059034+00:00",
+ "updated": "2026-10-13T16:24:25.221635+00:00",
  "items": [
+  {
+   "id": "3fd48e6b",
+   "title": "Spiker Serap Belovacıklı hakkında soruşturma başlatıldı",
+   "summary": "Sözcü TV spikeri Serap Belovacıklı hakkında bir sosyal medya paylaşımında kullandığı ifadeler nedeniyle soruşturma başlatıldı. Belovacıklı, 14 Ekim Çarşamba günü savcılığa ifade verecek.",
+   "link": "https://www.bbc.com/turkce/articles/cqe9l21zgl3xo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/864c/live/3ac40cc0-c71a-11f1-a82f-35874a3aae81.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-13T16:13:41+00:00",
+   "url": "/haber/spiker-serap-belovacikli-hakkinda-sorusturma-baslatildi-3fd48e6b/"
+  },
+  {
+   "id": "29641585",
+   "title": "AMD Helion tanıtıldı: Tek sunucuda on binlerce işlemci çekirdeği olacak",
+   "summary": "AMD, tek rafta 32.768 Zen 6 çekirdeği barındırabilen Helion platformunu tanıttı. Yapay zeka ajanları için geliştirilen yeni altyapı, CPU ve GPU destekli iki farklı yapılandırmayla geliyor.",
+   "link": "https://www.donanimhaber.com/amd-helion-tanitildi-tek-sunucuda-32-768-zen-6-cekirdegi--211579",
+   "image": "https://www.donanimhaber.com/images/images/haber/211579/1200x675amd-helion-tanitildi-tek-sunucuda-32-768-zen-6-cekirdegi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-13T16:12:00+00:00",
+   "url": "/haber/amd-helion-tanitildi-tek-sunucuda-on-binlerce-islemci-cekirdegi-olacak-29641585/"
+  },
+  {
+   "id": "af71d38f",
+   "title": "ABD Adalet Bakanlığı, mahkeme kararına rağmen Trump reklamlarının kaldırılmaması nedeniyle özür diledi",
+   "summary": "ABD Adalet Bakanlığı, Başkan Donald Trump'ın yer aldığı seçim kampanyasını andıran reklamlarının, mahkeme kararına rağmen yayınlanmaya devam etmesi nedeniyle özür diledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-adalet-bakanligi-mahkeme-kararina-ragmen-trump-reklamlarinin-kaldirilmamasi-nedeniyle-ozur-diledi/4087634",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T16:10:24+00:00",
+   "url": "/haber/abd-adalet-bakanligi-mahkeme-kararina-ragmen-trump-reklamlarinin-kaldi-af71d38f/"
+  },
+  {
+   "id": "ccc5d10b",
+   "title": "Google’ın yeni yapay zeka modeli Gemini 4 Argon kullanıma sunuldu",
+   "summary": "Google tarafından 30 Eylül’de duyurulan yeni üst seviye yapay zeka modeli Gemini 4 Argon, bugün sonunda genel olarak kullanıma sunuldu. Google AI Pro ve AI Ultra abonelerine açılan model hakkında şirket, “Karmaşık ve…",
+   "link": "https://www.log.com.tr/googlein-yeni-yapay-zeka-modeli-gemini-4-argon-kullanima-sunuldu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-01_08-16-41_YJHFF_FHD-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-13T16:07:58+00:00",
+   "url": "/haber/google-in-yeni-yapay-zeka-modeli-gemini-4-argon-kullanima-sunuldu-ccc5d10b/"
+  },
+  {
+   "id": "5f73e3e2",
+   "title": "Osman Kavala'nın yeniden yargılanma başvurusu AİHM kararına rağmen reddedildi",
+   "summary": "İstanbul 13. Ağır Ceza Mahkemesi, Avrupa İnsan Hakları Mahkemesi (AİHM) Büyük Dairesi'nin Osman Kavala hakkında verdiği hak ihlali kararına karşın, yeniden yargılama talebini reddetti.",
+   "link": "https://www.bbc.com/turkce/articles/czdzpy2p570o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d53/live/ca6b55a0-9fcd-11f1-8dfa-d5875b87c784.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-13T16:07:26+00:00",
+   "url": "/haber/osman-kavala-nin-yeniden-yargilanma-basvurusu-aihm-kararina-ragmen-red-5f73e3e2/"
+  },
+  {
+   "id": "81f0c91c",
+   "title": "ABD Başkanı Trump: Cumhurbaşkanı Erdoğan’la görüşebilirim, kendisi benim yakın dostum",
+   "summary": "ABD Başkanı Trump, Yemen’deki son duruma ilişkin olarak, \"Cumhurbaşkanı Erdoğan’la görüşebilirim. Kendisi benim yakın dostum. Cumhurbaşkanı Erdoğan’a büyük saygı duyuyorum.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-cumhurbaskani-erdogan-la-gorusebilirim-kendisi-benim-yakin-dostum/4087629",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T16:05:39+00:00",
+   "url": "/haber/abd-baskani-trump-cumhurbaskani-erdogan-la-gorusebilirim-kendisi-benim-81f0c91c/"
+  },
+  {
+   "id": "6bdd1781",
+   "title": "İddia: “GTA 6’nın PC sürümü 2027’nin ilk çeyreğinde gelebilir”",
+   "summary": "Birden fazla kaynağa dayandırılan bir iddiaya göre GTA 6’nın PC sürümü resmi olarak 2027’nin ilk çeyreğinde yayınlanabilir. Bu konuda elbette henüz resmi bir açıklama yok ancak normalde 2027 sonunda çıkacağı düşünülen…",
+   "link": "https://www.log.com.tr/iddia-gta-6nin-pc-surumu-2027nin-ilk-ceyreginde-gelebilir/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-11_11-52-46_PgIX9-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-13T16:04:36+00:00",
+   "url": "/haber/iddia-gta-6-nin-pc-surumu-2027-nin-ilk-ceyreginde-gelebilir-6bdd1781/"
+  },
+  {
+   "id": "97507837",
+   "title": "Yeni Parti'nin fon iddialarına Bakan Göktaş'tan yanıt. \"Büyük iftiralara maruz kaldık\"",
+   "summary": "NTV'ye özel açıklamalarda bulunan Bakan Mahinur Özdemir Göktaş, fon soruşturmasında babasının adının geçtiği iddiasına tepki gösterdi. Göktaş, \"Büyük iftiralara maruz kaldık.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/yeni-partinin-fon-iddialarina-bakan-goktastan-yanit-buyuk-iftiralara-maruz-kaldik-1746168",
+   "image": "https://images.ntv.com.tr/images/bakangöktaş-520035(2).png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-13T16:01:11+00:00",
+   "url": "/haber/yeni-parti-nin-fon-iddialarina-bakan-goktas-tan-yanit-buyuk-iftiralara-97507837/"
+  },
   {
    "id": "af825457",
    "title": "AnTuTu Eylül Ayı Sıralaması Yayınlandı: Xiaomi Zirveye Yerleşti",
@@ -11,17 +99,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T16:00:46+00:00",
    "url": "/haber/antutu-eylul-ayi-siralamasi-yayinlandi-xiaomi-zirveye-yerlesti-af825457/"
-  },
-  {
-   "id": "5f73e3e2",
-   "title": "AİHM kararına karşın, Kavala'nın yeniden yargılanma başvurusu reddedildi",
-   "summary": "İstanbul 13. Ağır Ceza Mahkemesi, Avrupa İnsan Hakları Mahkemesi (AİHM) Büyük Dairesi'nin Osman Kavala hakkında verdiği hak ihlali kararına karşın, yeniden yargılama talebini reddetti.",
-   "link": "https://www.bbc.com/turkce/articles/czdzpy2p570o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d53/live/ca6b55a0-9fcd-11f1-8dfa-d5875b87c784.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-13T15:55:23+00:00",
-   "url": "/haber/aihm-kararina-karsin-kavala-nin-yeniden-yargilanma-basvurusu-reddedild-5f73e3e2/"
   },
   {
    "id": "ee35eb49",
@@ -145,17 +222,6 @@
    "url": "/haber/hangi-casper-excalibur-27-oyuncu-monitorunu-secmelisin-24df10b5/"
   },
   {
-   "id": "3fd48e6b",
-   "title": "Spiker Serap Belovacıklı hakkında soruşturma başlatıldı",
-   "summary": "Sözcü TV spikeri Serap Belovacıklı hakkında bir sosyal medya paylaşımında kullandığı ifadeler nedeniyle soruşturma başlatıldı. Belovacıklı, 14 Ekim Çarşamba günü savcılığa ifade verecek.",
-   "link": "https://www.bbc.com/turkce/articles/cqe9l21zgl3xo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/864c/live/3ac40cc0-c71a-11f1-a82f-35874a3aae81.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-13T15:28:38+00:00",
-   "url": "/haber/spiker-serap-belovacikli-hakkinda-sorusturma-baslatildi-3fd48e6b/"
-  },
-  {
    "id": "bd395cff",
    "title": "İstanbul'da akşam saatlerinde trafik yoğunluğu yüzde 89'a çıktı",
    "summary": "İstanbul'da akşam saatlerinde yağışlı havanın da etkisiyle trafik yoğunluğu yüzde 89'a ulaştı.",
@@ -187,6 +253,28 @@
    "category": "gundem",
    "date": "2026-10-13T15:21:16+00:00",
    "url": "/haber/borsa-gunu-yukselisle-tamamladi-f1c743df/"
+  },
+  {
+   "id": "81d62dc6",
+   "title": "Mehmetçik, \"Ateş Serbest\"te hedefleri tam isabetle vurdu",
+   "summary": "Türk Silahlı Kuvvetlerinin (TSK) ateş gücünün sergilendiği \"Ateş Serbest-2026\" tatbikatında hedefler, aralarında milli imkanlarla üretilen sistem ve silahların da bulunduğu envanterdeki unsurlarla tam isabetle vurularak…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/mehmetcik-ates-serbestte-hedefleri-tam-isabetle-vurdu/4087565",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T15:18:31+00:00",
+   "url": "/haber/mehmetcik-ates-serbest-te-hedefleri-tam-isabetle-vurdu-81d62dc6/"
+  },
+  {
+   "id": "8ab5e77a",
+   "title": "ASELSAN teknolojileri Ateş Serbest-2026’da göz doldurdu",
+   "summary": "Türk Silahlı Kuvvetlerinin ateş gücünü sergilediği Ateş Serbest-2026 faaliyetinde ASELSAN’ın hava savunma, elektronik harp, radar ve yönlendirilmiş enerji sistemleri öne çıktı.",
+   "link": "https://www.aa.com.tr/tr/gundem/aselsan-teknolojileri-ates-serbest-2026-da-goz-doldurdu/4087564",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T15:16:59+00:00",
+   "url": "/haber/aselsan-teknolojileri-ates-serbest-2026-da-goz-doldurdu-8ab5e77a/"
   },
   {
    "id": "95aec429",
@@ -365,17 +453,6 @@
    "url": "/haber/yeni-apple-tv-4k-tanitildi-iste-ozellikleri-ve-fiyati-b10cfa46/"
   },
   {
-   "id": "e337715c",
-   "title": "Bakan Fidan, İranlı mevkidaşı Erakçi ile telefonda görüştü",
-   "summary": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Erakçi ile telefon görüşmesi yaptı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-iranli-mevkidasi-erakci-ile-telefonda-gorustu/4087515",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T14:39:01+00:00",
-   "url": "/haber/bakan-fidan-iranli-mevkidasi-erakci-ile-telefonda-gorustu-e337715c/"
-  },
-  {
    "id": "04625a33",
    "title": "Apple, yeni akıllı ev cihazı HomeView’u tanıttı: Ev kontrolü ve eğlence tek ekranda",
    "summary": "Apple HomeView tanıtıldı: Akıllı ev yönetimi, müzik ve görüntülü görüşme özelliklerini tek cihazda buluşturan HomeView, 7 inç ekranı ve Siri desteğiyle geliyor.",
@@ -407,28 +484,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T14:31:05+00:00",
    "url": "/haber/siri-remote-4-nesil-turkiye-de-satisa-cikti-iste-fiyati-ve-ozellikleri-d569f272/"
-  },
-  {
-   "id": "9107d561",
-   "title": "Kaş'ta denizde 3 hortum oluştu",
-   "summary": "Antalya'nın Kaş ilçesinde denizde aynı anda 3 hortum meydana geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/kasta-denizde-3-hortum-olustu/4087507",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T14:30:09+00:00",
-   "url": "/haber/kas-ta-denizde-3-hortum-olustu-9107d561/"
-  },
-  {
-   "id": "069cc1f6",
-   "title": "Beyaz Saray, ABD'nin Atina Büyükelçisi Guilfoyle'un istifasının istendiğini açıkladı",
-   "summary": "Beyaz Saray Sözcüsü Katie Zacharia, \"hediye kabul etme ve yönetim yetkililerine erişim sağlama karşılığında para talep etme\" iddialarıyla gündeme gelen ABD'nin Atina Büyükelçisi Kimberly Guilfoyle'un istifasının…",
-   "link": "https://www.aa.com.tr/tr/dunya/beyaz-saray-abdnin-atina-buyukelcisi-guilfoyleun-istifasinin-istendigini-acikladi/4087506",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T14:29:52+00:00",
-   "url": "/haber/beyaz-saray-abd-nin-atina-buyukelcisi-guilfoyle-un-istifasinin-istendi-069cc1f6/"
   },
   {
    "id": "040e9000",
@@ -519,17 +574,6 @@
    "url": "/haber/apple-akilli-ev-ekosistemini-genisletiyor-yeni-apple-home-collection-t-4efd4cda/"
   },
   {
-   "id": "97507837",
-   "title": "Yeni Parti'nin fon iddialarına Bakan Göktaş'tan yanıt. \"Büyük iftiralara maruz kaldık\"",
-   "summary": "NTV'ye özel açıklamalarda bulunan Bakan Mahinur Özdemir Göktaş, fon soruşturmasında babasının adının geçtiği iddiasına tepki gösterdi. Göktaş, \"Büyük iftiralara maruz kaldık.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/yeni-partinin-fon-iddialarina-bakan-goktastan-yanit-buyuk-iftiralara-maruz-kaldik-1746168",
-   "image": "https://images.ntv.com.tr/images/bakangöktaş-520035(2).png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-13T14:01:40+00:00",
-   "url": "/haber/yeni-parti-nin-fon-iddialarina-bakan-goktas-tan-yanit-buyuk-iftiralara-97507837/"
-  },
-  {
    "id": "30f01d9d",
    "title": "Nvidia, DLSS Frame Generation için geliştirilen performans modunu duyurdu",
    "summary": "Nvidia, DLSS Frame Generation adlı kare oluşturma sistemi için geliştirdiği yeni performans modunu duyurdu. GeForce RTX 40 ve GeForce RTX 50 serisi ekran kartları için sunulacak mod, şirketin açıklamasına göre Nvidia…",
@@ -594,17 +638,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T13:43:57+00:00",
    "url": "/haber/antutu-eylul-ayinin-en-guclu-android-telefonlarini-acikladi-2b31ccf7/"
-  },
-  {
-   "id": "331fee45",
-   "title": "Aston Villa Teknik Direktörü Unai Emery: Kazanmayı umuyoruz ama Fenerbahçe'den de çok fazla beklenti var",
-   "summary": "Aston Villa Teknik Direktör Unai Emery, UEFA Şampiyonlar Ligi 2. haftasında yarın Fenerbahçe ile yapacakları maçın zor geçeceğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/aston-villa-teknik-direktoru-unai-emery-kazanmayi-umuyoruz-ama-fenerbahceden-de-cok-fazla-beklenti-var/4087446",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T13:40:08+00:00",
-   "url": "/haber/aston-villa-teknik-direktoru-unai-emery-kazanmayi-umuyoruz-ama-fenerba-331fee45/"
   },
   {
    "id": "8b78f4e6",
@@ -849,17 +882,6 @@
    "url": "/haber/vivo-x500-pro-max-in-turkiye-satis-tarihi-aciklandi-e9278e8f/"
   },
   {
-   "id": "14fa2470",
-   "title": "Nvidia, DLSS 5’in performansını iki katına çıkarıyor",
-   "summary": "Nvidia, geçen ay NBA 2K27 ile resmi olarak kullanıma sunduğu DLSS 5 teknolojisinin performansını artıracak bir güncelleme yayınlayacak. Şirketin açıklamasına göre GPU’ya ciddi bir yük bindiren DLSS 5’in 3D-Guided Neural…",
-   "link": "https://www.log.com.tr/nvidia-dlss-5in-performansini-iki-katina-cikariyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-13_15-40-38_AB6XM-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-13T12:45:41+00:00",
-   "url": "/haber/nvidia-dlss-5-in-performansini-iki-katina-cikariyor-14fa2470/"
-  },
-  {
    "id": "447590be",
    "title": "Yaş doğrulamasıyla sigara satışı. Bakan Memişoğlu: HES veya karekod gibi örneklere bakıyoruz",
    "summary": "Sağlık Bakanı Kemal Memişoğlu, 18 yaş altına sigara satışının nasıl engelleneceğini ve kimlik doğrulamasının nasıl yapılacağını anlattı.",
@@ -869,28 +891,6 @@
    "category": "gundem",
    "date": "2026-10-13T12:42:28+00:00",
    "url": "/haber/yas-dogrulamasiyla-sigara-satisi-bakan-memisoglu-hes-veya-karekod-gibi-447590be/"
-  },
-  {
-   "id": "294b8273",
-   "title": "Honor’dan tam 12.070 mAh bataryalı bir telefon geliyor",
-   "summary": "Honor, 21 Ekim tarihinde Win 2, Win RT 2 ve Win Turbo 2 adlı üç yeni akıllı telefon modelini karşımıza çıkaracak. Sızdırılan bilgilere göre Win RT 2, aktif fanla soğutulan Snapdragon 8 Elite Gen 5 işlemciyle çalışıyor,…",
-   "link": "https://www.log.com.tr/honordan-tam-12-070-mah-bataryali-bir-telefon-geliyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-13_15-35-07_YnkGg-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-13T12:38:08+00:00",
-   "url": "/haber/honor-dan-tam-12-070-mah-bataryali-bir-telefon-geliyor-294b8273/"
-  },
-  {
-   "id": "9f2366ec",
-   "title": "Microsoft’tan Nvidia’ya büyük darbe: Yeni Maia 300 çipi fark yaratıyor",
-   "summary": "Microsoft, Nvidia GPU’larına bağımlılığı azaltmayı hedefleyen Maia 300 yapay zeka çipini duyurdu. Yeni çipin 2027’de devreye girmesiyle yapay zeka pazarında dengeler değişebilir.",
-   "link": "https://www.donanimhaber.com/microsoft-tan-nvidia-ya-buyuk-darbe-maia-300-cipi-tanitildi--211557",
-   "image": "https://www.donanimhaber.com/images/images/haber/211557/1200x675microsoft-tan-nvidia-ya-buyuk-darbe-maia-300-cipi-tanitildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-13T12:34:00+00:00",
-   "url": "/haber/microsoft-tan-nvidia-ya-buyuk-darbe-yeni-maia-300-cipi-fark-yaratiyor-9f2366ec/"
   },
   {
    "id": "a6c74fff",
