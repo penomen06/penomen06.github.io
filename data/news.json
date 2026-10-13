@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T21:01:11.286915+00:00",
+ "updated": "2026-10-13T21:30:56.523972+00:00",
  "items": [
   {
    "id": "13ae9cf4",
@@ -9,30 +9,74 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-13T21:00:00+00:00",
+   "date": "2026-10-13T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13ae9cf4/"
+  },
+  {
+   "id": "dc6e3d38",
+   "title": "Papa 14. Leo ameliyat oldu: Kanser nedeniyle akciğerinden parça alındı",
+   "summary": "Akciğerinde nodül tespit edildiği için ameliyata alınan Katolik Kilisesi lideri Papa 14. Leo'nun kanser (akciğer adenokarsinomu) olduğu ve akciğerinin sağ alt lobunun alındığı açıklandı.",
+   "link": "https://www.bbc.com/turkce/articles/cm5yn0wpded5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7cf7/live/6eb780a0-c627-11f1-a509-ab6554d795a2.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-13T21:25:34+00:00",
+   "url": "/haber/papa-14-leo-ameliyat-oldu-kanser-nedeniyle-akcigerinden-parca-alindi-dc6e3d38/"
+  },
+  {
+   "id": "7109e212",
+   "title": "Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+   "summary": "Vatikan Devlet Başkanı Papa 14. Leo'nun, akciğerinde tespit edilen kitle (nodül) nedeniyle dünkü ameliyatının başarılı geçtiği ve öncesindeki testlerde şüphelenildiği gibi akciğer kanseri tanısının doğrulandığı…",
+   "link": "https://www.aa.com.tr/tr/dunya/ameliyat-geciren-papa-14-leoya-akciger-kanseri-tanisi-kondu/4087891",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T21:13:14+00:00",
+   "url": "/haber/ameliyat-geciren-papa-14-leo-ya-akciger-kanseri-tanisi-kondu-7109e212/"
   },
   {
    "id": "13032618",
    "title": "Galatasaray Şampiyonlar Ligi'nde Barcelona'ya 4-1 mağlup oldu",
-   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'ndeki ikinci karşılaşmasında İspanyol devi Barcelona'yı konuk etti. İlk yarı 1-1 berabere sonra ererken Barcelona ikinci yarıda attığı gollerle 4-1 öne geçti.",
+   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'ndeki ikinci karşılaşmasında İspanyol devi Barcelona'yı konuk etti. İlk yarı 1-1 berabere sonra ererken Barcelona ikinci yarıda attığı gollerle maçı 4-1 kazandı.",
    "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d70a/live/6f0afe80-c73d-11f1-9085-f95bdc648acc.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-10-13T20:57:05+00:00",
+   "date": "2026-10-13T21:08:04+00:00",
    "url": "/haber/galatasaray-sampiyonlar-ligi-nde-barcelona-ya-4-1-maglup-oldu-13032618/"
   },
   {
-   "id": "a6d7acdd",
-   "title": "Galatasaray, Barcelona'ya 4-1 yenildi",
-   "summary": "",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-barcelonaya-4-1-yenildi/4087879",
+   "id": "bf4c5d7a",
+   "title": "UEFA Şampiyonlar Ligi'nin ikinci haftası 9 maçla başladı",
+   "summary": "Avrupa futbolunun kulüp düzeyindeki bir numaralı turnuvasının lig aşamasında, ikinci haftanın ilk gününde 9 karşılaşma oynandı.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginin-ikinci-haftasi-9-macla-basladi/4087888",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T21:06:12+00:00",
+   "url": "/haber/uefa-sampiyonlar-ligi-nin-ikinci-haftasi-9-macla-basladi-bf4c5d7a/"
+  },
+  {
+   "id": "942c98cb",
+   "title": "Galatasaray, Barcelona'ya mağlup oldu",
+   "summary": "Şampiyonlar Ligi'nde Galatasaray, evinde öne geçtiği mücadelede Barcelona'ya 4-1 mağlup oldu. Sarı-kırmızılıların tek golü Batrakov'dan geldi.",
+   "link": "https://www.trthaber.com/haber/spor/galatasaray-barcelonaya-maglup-oldu-960043.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/galatasarayaa-2495502.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-13T21:06:00+00:00",
+   "url": "/haber/galatasaray-barcelona-ya-maglup-oldu-942c98cb/"
+  },
+  {
+   "id": "d88a99ad",
+   "title": "Barcelona'ya 4-1 yenilen Galatasaray, \"Devler Ligi\"nde puanla tanışamadı",
+   "summary": "UEFA Şampiyonlar Ligi'nin ikinci haftasında konuk ettiği İspanya temsilcisi Barcelona'ya 4-1 yenilen Galatasaray, organizasyonda henüz puanla tanışamadı.",
+   "link": "https://www.aa.com.tr/tr/spor/barcelonaya-4-1-yenilen-galatasaray-devler-liginde-puanla-tanisamadi/4087879",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-13T20:56:26+00:00",
-   "url": "/haber/galatasaray-barcelona-ya-4-1-yenildi-a6d7acdd/"
+   "url": "/haber/barcelona-ya-4-1-yenilen-galatasaray-devler-ligi-nde-puanla-tanisamadi-d88a99ad/"
   },
   {
    "id": "cb7a66d1",
@@ -407,17 +451,6 @@
    "category": "gundem",
    "date": "2026-10-13T17:48:00+00:00",
    "url": "/haber/iletisim-baskani-duran-dijital-alani-guvenli-kilmak-en-onemli-gorevimi-70852964/"
-  },
-  {
-   "id": "6da128f0",
-   "title": "İsrail ordusu ve Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da 12 saatte 25 saldırı düzenledi",
-   "summary": "İsrail ordusu ve Filistin topraklarını gasbeden İsrailliler, Batı Şeria'nın farklı bölgelerinde 12 saat içerisinde Filistinli çiftçilere yönelik 25 saldırı gerçekleştirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ve-filistin-topraklarini-gasbeden-israilliler-bati-seriada-12-saatte-25-saldiri-duzenledi/4087709",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T17:45:04+00:00",
-   "url": "/haber/israil-ordusu-ve-filistin-topraklarini-gasbeden-israilliler-bati-seria-6da128f0/"
   },
   {
    "id": "22616440",
@@ -827,28 +860,6 @@
    "url": "/haber/instagram-profesyonel-hesaptan-cikma-nasil-yapilir-622cde61/"
   },
   {
-   "id": "fff8ea21",
-   "title": "Küresel İslami finans liderlerini Londra'da buluşturan 5. AlBaraka Zirvesi başladı",
-   "summary": "5. AlBaraka Zirvesi, bu yıl Londra'da 13-14 Ekim'de \"Eylemde Etik: Temelleri Yeniden İnşa Etmek ve İslami Ekonominin Küresel Etkisini İleri Taşımak\" temasıyla düzenleniyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-islami-finans-liderlerini-londrada-bulusturan-5-albaraka-zirvesi-basladi/4087467",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T13:51:48+00:00",
-   "url": "/haber/kuresel-islami-finans-liderlerini-londra-da-bulusturan-5-albaraka-zirv-fff8ea21/"
-  },
-  {
-   "id": "12cae22e",
-   "title": "Mersin'de belediye başkan vekilliğine CHP'li Gülşah Yıldırım Genç seçildi",
-   "summary": "Gülşah Yıldırım Genç, Mersin Büyükşehir Belediye Başkanı Vahap Seçer'in tutuklanmasının ve görevden uzaklaştırılmasının ardından yerine geçecek başkan vekili oldu.",
-   "link": "https://www.bbc.com/turkce/articles/c8zxzx1nnl6wo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/527a/live/cff31840-c6ed-11f1-bc1b-8dfa7c975faa.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-13T13:50:37+00:00",
-   "url": "/haber/mersin-de-belediye-baskan-vekilligine-chp-li-gulsah-yildirim-genc-seci-12cae22e/"
-  },
-  {
    "id": "efc92b8c",
    "title": "Formula 1, 2030 “V8” motorlara geri dönecek",
    "summary": "Formula 1’de 2014 yılından bu yana kullanılan 1.6 litrelik V6 turbo hibrit motorlar, verilen güzel habere göre 2030’da tarih olacak. FIA Başkanı Mohammed Ben Sulayem, 2030’da elektrik desteği şimdiye kıyasla çok daha…",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-10-11T12:51:41+00:00",
    "url": "/haber/akp-nin-fon-teklifi-meclis-te-duzenleme-neler-ongoruyor-1d2fcbc5/"
-  },
-  {
-   "id": "09e978d9",
-   "title": "Antalya'daki 77. Uluslararası Uzay Kongresi rekor katılımla tamamlandı",
-   "summary": "Sanayi ve Teknoloji Bakanlığı koordinasyonunda Antalya'da gerçekleştirilen 77. Uluslararası Uzay Kongresi, 111 ülkeden 18 bini aşkın katılımcısıyla organizasyon tarihinin rekoruna imza attı.",
-   "link": "https://www.trthaber.com/haber/gundem/antalyadaki-77-uluslararasi-uzay-kongresi-rekor-katilimla-tamamlandi-959794.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/77-uluslararasi-uzay-kongresi-aa-2494904.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-11T07:35:00+00:00",
-   "url": "/haber/antalya-daki-77-uluslararasi-uzay-kongresi-rekor-katilimla-tamamlandi-09e978d9/"
   },
   {
    "id": "78e3c18f",
