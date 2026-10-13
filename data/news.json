@@ -1,16 +1,60 @@
 {
- "updated": "2026-10-13T19:31:02.309551+00:00",
+ "updated": "2026-10-13T20:01:12.707493+00:00",
  "items": [
   {
+   "id": "2559d881",
+   "title": "OpenAI: “Ofislerimizden birine gizlenmiş gelişmiş bir kayıt cihazı bulduk”",
+   "summary": "ChatGPT’yi geliştiren OpenAI, bu sürpriz durumla ilgili olarak resmi X hesabı üzerinden yaptığı açıklamada, “Ofislerimizden birine gizlenmiş gelişmiş bir kayıt cihazı bulduk. Cihazın ne olduğunu ve nereden geldiğini…",
+   "link": "https://www.log.com.tr/openai-ofislerimizden-birine-gizlenmis-gelismis-bir-kayit-cihazi-bulduk/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/03/openai-sora-2yi-yakinda-chatgptye-de-entegre-edebilir-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-13T19:57:59+00:00",
+   "url": "/haber/openai-ofislerimizden-birine-gizlenmis-gelismis-bir-kayit-cihazi-buldu-2559d881/"
+  },
+  {
    "id": "13032618",
-   "title": "Galatasaray Şampiyonlar Ligi'nde Barcelona'yı konuk ediyor",
-   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'ndeki ikinci karşılaşmasında İspanyol devi Barcelona'yı konuk ediyor. Maçın ilk çeyreklik bölümünde oyunun kontrolü büyük ölçüde Barcelona'daydı.",
+   "title": "Galatasaray Barcelona karşılaşmasında ilk yarı 1-1 berabere sona erdi",
+   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'ndeki ikinci karşılaşmasında İspanyol devi Barcelona'yı konuk ediyor. Mücadelede ilk yarı 1-1 berabere sonra erdi.",
    "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c7c5/live/cd2216f0-c73a-11f1-bc2e-018d645d8d21.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d70a/live/6f0afe80-c73d-11f1-9085-f95bdc648acc.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-10-13T19:23:25+00:00",
-   "url": "/haber/galatasaray-sampiyonlar-ligi-nde-barcelona-yi-konuk-ediyor-13032618/"
+   "date": "2026-10-13T19:52:53+00:00",
+   "url": "/haber/galatasaray-barcelona-karsilasmasinda-ilk-yari-1-1-berabere-sona-erdi-13032618/"
+  },
+  {
+   "id": "f75e611d",
+   "title": "Trump: Erdoğan Husiler konusunda 'istediğimi yapacaktır'",
+   "summary": "Donald Trump, Suudi Arabistan'ı desteklemek üzere, Yemen'e olası bir askeri müdahaleye Türkiye'nin de katılmasını isteyebileceğini söyledi. ABD Başkanı, 13 Ekim'de Alaska'da katılacağı bir mitingine doğru yola çıkmadan…",
+   "link": "https://www.bbc.com/turkce/articles/ckz7x9g347yzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b425/live/d147af50-c73b-11f1-9085-f95bdc648acc.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-13T19:47:29+00:00",
+   "url": "/haber/trump-erdogan-husiler-konusunda-istedigimi-yapacaktir-f75e611d/"
+  },
+  {
+   "id": "3ac280f8",
+   "title": "No Man’s Sky, iPhone ve iPad’e geliyor: İşte çıkış tarihi",
+   "summary": "10 yıllık uzay keşif oyunu No Man’s Sky, iPhone ve iPad’e geliyor. Mobil sürüm, oyunun kapsamını büyük ölçüde korurken bazı özelliklerden ve çok oyunculu moddan yoksun olacak.",
+   "link": "https://www.donanimhaber.com/no-man-s-sky-iphone-ve-ipad-e-geliyor-iste-cikis-tarihi--211573",
+   "image": "https://www.donanimhaber.com/images/images/haber/211573/1200x675no-man-s-sky-iphone-ve-ipad-e-geliyor-iste-cikis-tarihi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-13T19:45:00+00:00",
+   "url": "/haber/no-man-s-sky-iphone-ve-ipad-e-geliyor-iste-cikis-tarihi-3ac280f8/"
+  },
+  {
+   "id": "0783f13d",
+   "title": "İsrailli siyasetçi Liberman, Netanyahu'nun seçim öncesi İran, Hamas veya Hizbullah'a saldırabileceğini söyledi",
+   "summary": "Eski İsrail Savunma Bakanı ve muhalif siyasetçi Avigdor Liberman, Başbakan Binyamin Netanyahu'nun yaklaşan genel seçimler öncesinde koltuğunu korumak amacıyla İran, Hamas veya Hizbullah'a yönelik askeri bir operasyon…",
+   "link": "https://www.aa.com.tr/tr/dunya/israilli-siyasetci-liberman-netanyahunun-secim-oncesi-iran-hamas-veya-hizbullaha-saldirabilecegini-soyledi/4087803",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T19:29:04+00:00",
+   "url": "/haber/israilli-siyasetci-liberman-netanyahu-nun-secim-oncesi-iran-hamas-veya-0783f13d/"
   },
   {
    "id": "39f0e937",
@@ -77,6 +121,17 @@
    "category": "teknoloji",
    "date": "2026-10-13T19:00:41+00:00",
    "url": "/haber/peugeot-hypersquare-israri-suruyor-kare-direksiyon-2027-de-yollarda-d423e870/"
+  },
+  {
+   "id": "fdcf8065",
+   "title": "DMM, TSK'nın \"Resulayn'da bulunan bazı köy sakinlerinin evlerine dönüşünü engellediği\" iddialarını yalanladı",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Türk Silahlı Kuvvetleri Suriye-Resulayn'da bulunan bazı köylerin sakinlerinin evlerine dönüşünü engelliyor.\" yönündeki iddiaları yalanladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/dmm-tsknin-resulaynda-bulunan-bazi-koy-sakinlerinin-evlerine-donusunu-engelledigi-iddialarini-yalanladi/4087782",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T18:58:55+00:00",
+   "url": "/haber/dmm-tsk-nin-resulayn-da-bulunan-bazi-koy-sakinlerinin-evlerine-donusun-fdcf8065/"
   },
   {
    "id": "58d79ccc",
@@ -198,6 +253,17 @@
    "category": "gundem",
    "date": "2026-10-13T17:50:23+00:00",
    "url": "/haber/istanbul-cumhuriyet-bassavciligindan-sermaye-piyasasi-islemleri-sorust-7a02fb1d/"
+  },
+  {
+   "id": "70852964",
+   "title": "İletişim Başkanı Duran: Dijital alanı güvenli kılmak en önemli görevimizdir",
+   "summary": "İletişim Başkanı Duran, \"İletişim Başkanlığı olarak süreli ve süresiz yayınlarımızla, panellerimiz, eğitim programlarımız ve iletişim fakültelerinde öncülük ettiğimiz kulüplerle ülkemizin dijital esenliğine katkı…",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-dijital-alani-guvenli-kilmak-en-onemli-gorevimizdir-960034.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2382000/burhanettin-duranaa-2383206.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-13T17:48:00+00:00",
+   "url": "/haber/iletisim-baskani-duran-dijital-alani-guvenli-kilmak-en-onemli-gorevimi-70852964/"
   },
   {
    "id": "6da128f0",
@@ -398,15 +464,15 @@
    "url": "/haber/osman-kavala-nin-yeniden-yargilanma-basvurusu-aihm-kararina-ragmen-red-5f73e3e2/"
   },
   {
-   "id": "c8aa2b6f",
-   "title": "ABD Başkanı Trump, Ukrayna ile istihbarat paylaşımını durdurmadıklarını açıkladı",
-   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasındaki enerji ateşkesinin her iki ülke tarafından da ihlal edildiğini, buna karşılık kendilerinin Kiev'le istihbarat paylaşımına devam ettiklerini belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-ukrayna-ile-istihbarat-paylasimini-durdurmadiklarini-acikladi/4087629",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
+   "id": "49de80e7",
+   "title": "NATO Genel Sekreter Yardımcısı Shekerinska: Türkiye'de uzun süredir fiili bir sanayi devrimine tanık oluyoruz",
+   "summary": "NATO Genel Sekreter Yardımcısı Radmila Shekerinska, \"Türk savunma sanayisinde mükemmel örneklere sahibiz; zira orada (Türkiye'de) sadece son birkaç yılda değil, uzun süredir fiili bir sanayi devrimine tanık oluyoruz.\"…",
+   "link": "https://www.trthaber.com/haber/dunya/nato-genel-sekreter-yardimcisi-shekerinska-turkiyede-uzun-suredir-fiili-bir-sanayi-devrimine-tanik-oluyoruz-960024.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2462000/turk-savunma-sanayii-manset-2462792.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
-   "date": "2026-10-13T16:05:39+00:00",
-   "url": "/haber/abd-baskani-trump-ukrayna-ile-istihbarat-paylasimini-durdurmadiklarini-c8aa2b6f/"
+   "date": "2026-10-13T16:06:00+00:00",
+   "url": "/haber/nato-genel-sekreter-yardimcisi-shekerinska-turkiye-de-uzun-suredir-fii-49de80e7/"
   },
   {
    "id": "6bdd1781",
@@ -464,17 +530,6 @@
    "url": "/haber/jeep-in-avrupa-daki-populer-suv-u-donuyor-yeni-nesil-resmen-dogrulandi-ef52696d/"
   },
   {
-   "id": "60546a2f",
-   "title": "Yeni Hyundai IONIQ 3 ilk sürüş! Fiyatlar ve donanımlar nasıl?",
-   "summary": "Hyundai IONIQ 3 ile gerçekleştirdiğimiz ilk sürüş videosunda IONIQ 3 fiyatları, IONIQ 3 donanımları, IONIQ 3 uzun yol tüketimi ve sürüş dinamikleri hakkında bilgiler bulabilirsiniz.",
-   "link": "https://www.donanimhaber.com/yeni-hyundai-ioniq-3-ilk-surus-fiyatlar-ve-donanimlar-nasil--211589",
-   "image": "https://www.donanimhaber.com/images/images/haber/211589/1200x675yeni-hyundai-ioniq-3-ilk-surus-fiyatlar-ve-donanimlar-nasil.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-13T15:37:19+00:00",
-   "url": "/haber/yeni-hyundai-ioniq-3-ilk-surus-fiyatlar-ve-donanimlar-nasil-60546a2f/"
-  },
-  {
    "id": "321f05ea",
    "title": "Lamborghini esintili Omoda 4 Paris’te Avrupa’ya merhaba dedi",
    "summary": "Chery grubunun markası Omoda, kompakt SUV modeli Omoda 4’ü Paris Otomobil Fuarı’nda Avrupa’da ilk kez sergiledi. 12-18 Ekim tarihleri arasında düzenlenen fuar, Omoda ve Jaecoo için aynı zamanda bu etkinlikteki ilk…",
@@ -528,17 +583,6 @@
    "category": "gundem",
    "date": "2026-10-13T15:18:31+00:00",
    "url": "/haber/mehmetcik-ates-serbest-te-hedefleri-tam-isabetle-vurdu-81d62dc6/"
-  },
-  {
-   "id": "8ab5e77a",
-   "title": "ASELSAN teknolojileri Ateş Serbest-2026’da göz doldurdu",
-   "summary": "Türk Silahlı Kuvvetlerinin ateş gücünü sergilediği Ateş Serbest-2026 faaliyetinde ASELSAN’ın hava savunma, elektronik harp, radar ve yönlendirilmiş enerji sistemleri öne çıktı.",
-   "link": "https://www.aa.com.tr/tr/gundem/aselsan-teknolojileri-ates-serbest-2026-da-goz-doldurdu/4087564",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T15:16:59+00:00",
-   "url": "/haber/aselsan-teknolojileri-ates-serbest-2026-da-goz-doldurdu-8ab5e77a/"
   },
   {
    "id": "95aec429",
@@ -970,17 +1014,6 @@
    "url": "/haber/apple-yeni-akilli-ev-cihazi-homeview-u-tanitti-6058435d/"
   },
   {
-   "id": "e9278e8f",
-   "title": "Vivo X500 Pro Max’in Türkiye satış tarihi açıklandı",
-   "summary": "Özellikle kamera sistemiyle öne çıkan üst seviye amiral gemisi Vivo X500 Pro Max, Türkiye’ye Siyah ve Gri renk seçenekleri ile gelecek ve ön kayıtlar 20 Ekim’de, ön satış ise 27 Ekim’de başlayacak. Vivo Türkiye’nin…",
-   "link": "https://www.log.com.tr/vivo-x500-pro-maxin-turkiye-satis-tarihi-aciklandi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-13_15-48-36_XxsqS-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-13T12:52:03+00:00",
-   "url": "/haber/vivo-x500-pro-max-in-turkiye-satis-tarihi-aciklandi-e9278e8f/"
-  },
-  {
    "id": "447590be",
    "title": "Yaş doğrulamasıyla sigara satışı. Bakan Memişoğlu: HES veya karekod gibi örneklere bakıyoruz",
    "summary": "Sağlık Bakanı Kemal Memişoğlu, 18 yaş altına sigara satışının nasıl engelleneceğini ve kimlik doğrulamasının nasıl yapılacağını anlattı.",
@@ -1124,17 +1157,6 @@
    "url": "/haber/etimesgut-belediyesi-ne-yolsuzluk-sorusturmasi-25-gozalti-a62c4000/"
   },
   {
-   "id": "f93b6eb4",
-   "title": "Türkiye'de son dönemde artan okul saldırıları bize ne anlatıyor?",
-   "summary": "Türkiye'nin farklı kentlerindeki bazı okullarda bu yıl düzenlenen saldırılarda 10'dan fazla öğrenci hayatını kaybetti. Peki bu saldırılar bize ne anlatıyor?",
-   "link": "https://www.bbc.com/turkce/articles/c84g17z41dyeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5638/live/abfbe050-c645-11f1-b47f-e3f9cf703bc3.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-13T00:05:51+00:00",
-   "url": "/haber/turkiye-de-son-donemde-artan-okul-saldirilari-bize-ne-anlatiyor-f93b6eb4/"
-  },
-  {
    "id": "769868c9",
    "title": "Suudi Arabistan'da patlama sesleri duyuldu",
    "summary": "Suudi Arabistan'ın başkenti Riyad'da erken uyarı sisteminin tehlike alarmı vermesinin ardından kentte 3 ayrı patlama sesi duyuldu.",
@@ -1201,17 +1223,6 @@
    "url": "/haber/cevdet-yilmaz-ddk-butun-kurumlari-inceliyor-307dee83/"
   },
   {
-   "id": "8f5cfef9",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Ekonomimizin temelleri sağlam",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz: \"Ekonomimizin temelleri sağlam, makroekonomik görünümümüz son derece sağlam. Özellikle de dünya ile mukayese ettiğimizde büyümemiz devam ediyor\"",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-ekonomimizin-temelleri-saglam-959868.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/cevdet-yilmazaa-2495092.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-12T07:17:00+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-ekonomimizin-temelleri-saglam-8f5cfef9/"
-  },
-  {
    "id": "3dda960b",
    "title": "Sıcaklıklar sert düşecek, yurt genelinde sağanak etkili olacak",
    "summary": "Yeni haftada bir süredir mevsim normalleri civarında ve üzerinde seyreden hava sıcaklıkları hissedilir derecede azalarak mevsim normallerinin altına düşecek. Hafta boyunca yurt genelinde gök gürültülü sağanak bekleniyor.",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-10-11T12:51:41+00:00",
    "url": "/haber/akp-nin-fon-teklifi-meclis-te-duzenleme-neler-ongoruyor-1d2fcbc5/"
-  },
-  {
-   "id": "323b135b",
-   "title": "Bir askerimiz şehit oldu",
-   "summary": "Milli Savunma Bakanlığı, görev sırasında rahatsızlanan Kara Kuvvetleri Komutanlığı emrinde görevli Piyade Uzman Çavuş Yusuf Güneş'in şehit olduğunu açıkladı.",
-   "link": "https://www.trthaber.com/haber/gundem/bir-askerimiz-sehit-oldu-959815.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2416000/sehit-stok-aa-2416698.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-11T12:00:00+00:00",
-   "url": "/haber/bir-askerimiz-sehit-oldu-323b135b/"
   },
   {
    "id": "09e978d9",
