@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-13T16:31:02.391706+00:00",
+ "updated": "2026-10-13T17:01:20.542814+00:00",
  "items": [
+  {
+   "id": "62770e94",
+   "title": "Nvidia DLSS 5 Güncellendi: Performans İkiye Katlanırken Bellek Kullanımı Düştü",
+   "summary": "Nvidia, DLSS 5 güncellemesini duyurdu. Performansı iki katına çıkaran ve VRAM kullanımını %20 azaltan yeni teknoloji, Hogwarts Legacy gibi oyunlara geliyor.",
+   "link": "https://shiftdelete.net/nvidia-dlss-5-guncellendi-performans-ikiye-katlanirken-bellek-kullanimi-dustu",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-13T17:00:46+00:00",
+   "url": "/haber/nvidia-dlss-5-guncellendi-performans-ikiye-katlanirken-bellek-kullanim-62770e94/"
+  },
+  {
+   "id": "b551e2dc",
+   "title": "Türkiye-AB: Gümrük birliğinin güncellenmesi ve sanayi müzakerelerinde son durum ne?",
+   "summary": "Türkiye bir yandan 30 yıldır yürürlükte olan gümrük birliğinin güncellenmesi diğer yandan da AB'nin yeni sanayi politikalarıyla \"Made in EU\" yaklaşımının dışında kalmamak için yoğun çaba harcıyor. Gerek Türk iş…",
+   "link": "https://www.bbc.com/turkce/articles/cqp8gj9ljpl5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b469/live/aaeaaea0-c71a-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-13T16:57:46+00:00",
+   "url": "/haber/turkiye-ab-gumruk-birliginin-guncellenmesi-ve-sanayi-muzakerelerinde-s-b551e2dc/"
+  },
+  {
+   "id": "eaf05763",
+   "title": "AnTuTu açıkladı: İşte en hızlı Android tabletler",
+   "summary": "Benchmark ve kıyaslama platformu AnTuTu, Eylül 2026'nın en güçlü Android tablet modellerini açıkladı. Sıralamada zirveyi Xiaomi alırken, iQOO ve RedMagic üst sıralarda yer alıyor.",
+   "link": "https://www.donanimhaber.com/antutu-acikladi-iste-en-hizli-android-tabletler--211562",
+   "image": "https://www.donanimhaber.com/images/images/haber/211562/1200x675antutu-acikladi-iste-en-hizli-android-tabletler.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-13T16:55:00+00:00",
+   "url": "/haber/antutu-acikladi-iste-en-hizli-android-tabletler-eaf05763/"
+  },
+  {
+   "id": "d234aac5",
+   "title": "Gökçe bebeğin şüpheli ölümü. Hastanede yanlış ilaç mı verildi?",
+   "summary": "Antalya'da diş çıkardığı için ateşi yükselen bebek, hastanede tedavi görüp taburcu edildikten bir gün sonra öldü. Acılı aile, bebeklerine hastanede yanlış ilaç verildiğini öne sürüyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-gokce-bebegin-supheli-olumu-hastanede-yanlis-ilac-mi-verildi-1746182",
+   "image": "https://images.ntv.com.tr/images/HASTANEDEN-TABURCU-OLDUKTAN-1-GUN-SONRA-_1553034_462159-462397.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-13T16:34:11+00:00",
+   "url": "/haber/gokce-bebegin-supheli-olumu-hastanede-yanlis-ilac-mi-verildi-d234aac5/"
+  },
+  {
+   "id": "04e6d18f",
+   "title": "İlk büyük yapay zeka girişimlerinden birisi iflas etti: Sadece 5 yıl dayanabildi",
+   "summary": "Yapay zeka dünyasının ilk girişimlerinden Character.AI iflas başvurusunda bulundu. Şirketin bazı varlıklarını Disney 20 milyon dolara devralabilir. Platformun geleceği ise belirsizliğini koruyor.",
+   "link": "https://www.donanimhaber.com/ilk-buyuk-yapay-zeka-girisimlerinden-birisi-iflas-etti--211569",
+   "image": "https://www.donanimhaber.com/images/images/haber/211569/1200x675ilk-buyuk-yapay-zeka-girisimlerinden-birisi-iflas-etti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-13T16:33:00+00:00",
+   "url": "/haber/ilk-buyuk-yapay-zeka-girisimlerinden-birisi-iflas-etti-sadece-5-yil-da-04e6d18f/"
+  },
   {
    "id": "438a2f00",
    "title": "iPhone Devir Sayısı Nedir, Kaç Olmalı?",
@@ -79,15 +134,15 @@
    "url": "/haber/osman-kavala-nin-yeniden-yargilanma-basvurusu-aihm-kararina-ragmen-red-5f73e3e2/"
   },
   {
-   "id": "81f0c91c",
-   "title": "ABD Başkanı Trump: Cumhurbaşkanı Erdoğan’la görüşebilirim, kendisi benim yakın dostum",
-   "summary": "ABD Başkanı Trump, Yemen’deki son duruma ilişkin olarak, \"Cumhurbaşkanı Erdoğan’la görüşebilirim. Kendisi benim yakın dostum. Cumhurbaşkanı Erdoğan’a büyük saygı duyuyorum.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-cumhurbaskani-erdogan-la-gorusebilirim-kendisi-benim-yakin-dostum/4087629",
+   "id": "c8aa2b6f",
+   "title": "ABD Başkanı Trump, Ukrayna ile istihbarat paylaşımını durdurmadıklarını açıkladı",
+   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasındaki enerji ateşkesinin her iki ülke tarafından da ihlal edildiğini, buna karşılık kendilerinin Kiev'le istihbarat paylaşımına devam ettiklerini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-ukrayna-ile-istihbarat-paylasimini-durdurmadiklarini-acikladi/4087629",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-13T16:05:39+00:00",
-   "url": "/haber/abd-baskani-trump-cumhurbaskani-erdogan-la-gorusebilirim-kendisi-benim-81f0c91c/"
+   "url": "/haber/abd-baskani-trump-ukrayna-ile-istihbarat-paylasimini-durdurmadiklarini-c8aa2b6f/"
   },
   {
    "id": "6bdd1781",
@@ -464,17 +519,6 @@
    "url": "/haber/apple-dan-350-dolarlik-akilli-kilit-kapiya-yaklasilinca-otomatik-acili-6d97e3ee/"
   },
   {
-   "id": "b10cfa46",
-   "title": "Yeni Apple TV 4K tanıtıldı: İşte özellikleri ve fiyatı",
-   "summary": "Apple, Welcome Home ürün lansman etkinliğinde yeni Apple TV 4K modelini duyurdu. 4. nesil Apple TV 4K, Siri AI desteği, A19 çip, Bul özellikli daha akıllı uzaktan kumanda ile geliyor.",
-   "link": "https://www.donanimhaber.com/yeni-apple-tv-4k-tanitildi-iste-ozellikleri-ve-fiyati--211581",
-   "image": "https://www.donanimhaber.com/images/images/haber/211581/1200x675yeni-apple-tv-4k-tanitildi-iste-ozellikleri-ve-fiyati.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-13T14:42:14+00:00",
-   "url": "/haber/yeni-apple-tv-4k-tanitildi-iste-ozellikleri-ve-fiyati-b10cfa46/"
-  },
-  {
    "id": "04625a33",
    "title": "Apple, yeni akıllı ev cihazı HomeView’u tanıttı: Ev kontrolü ve eğlence tek ekranda",
    "summary": "Apple HomeView tanıtıldı: Akıllı ev yönetimi, müzik ve görüntülü görüşme özelliklerini tek cihazda buluşturan HomeView, 7 inç ekranı ve Siri desteğiyle geliyor.",
@@ -739,17 +783,6 @@
    "url": "/haber/vivo-x500-pro-max-turkiye-icin-duyuruldu-on-siparis-firsatlari-ve-ozel-cc4cf56d/"
   },
   {
-   "id": "fabbc3b5",
-   "title": "Gece siyahı PS5 tanıtıldı: GTA 6 ile aynı gün satışa çıkacak!",
-   "summary": "Sony, PlayStation 5 Digital Edition Midnight Black modelini tanıttı. Ancak, siyah PS5 dijital sürüm, GTA 6 ile aynı gün 19 Kasım'da satışa sunulacak. İşte fiyatı ve diğer detaylar:",
-   "link": "https://www.donanimhaber.com/siyah-playstation-5-tanitildi-gta-6-ile-ayni-gun-satisa-cikacak--211568",
-   "image": "https://www.donanimhaber.com/images/images/haber/211568/1200x675siyah-playstation-5-tanitildi-gta-6-ile-ayni-gun-satisa-cikacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-13T13:18:00+00:00",
-   "url": "/haber/gece-siyahi-ps5-tanitildi-gta-6-ile-ayni-gun-satisa-cikacak-fabbc3b5/"
-  },
-  {
    "id": "79b88cdd",
    "title": "Apple HomeView Tanıtıldı: Akıllı Ev Yönetimi ve Eğlence Tek Bir Ekranda Buluşuyor!",
    "summary": "Apple, yüz tanıma özellikli 7 inç Liquid Retina ekranı ve Siri AI desteğiyle yeni akıllı ev merkezi HomeView'u resmî olarak tanıttı.",
@@ -915,17 +948,6 @@
    "url": "/haber/cumhurbaskani-erdogan-prens-selman-ile-gorustu-a6c74fff/"
   },
   {
-   "id": "a3f05a4f",
-   "title": "İspanya, HÜRJET Siparişini 45 Uçağa Çıkarmayı Planlıyor",
-   "summary": "Türk Havacılık ve Uzay Sanayii (TUSAŞ) Genel Müdürü Mehmet Demiroğlu, Kastamonu’da düzenlenen “Mavi Vatandan Gök Vatana Millî Teknoloji Hamlesi” programında şirketin havacılık projeleri ve ihracat faaliyetlerine ilişkin…",
-   "link": "https://shiftdelete.net/ispanya-hurjet-siparisini-45-ucaga-cikarmayi-planliyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-13T12:30:01+00:00",
-   "url": "/haber/ispanya-hurjet-siparisini-45-ucaga-cikarmayi-planliyor-a3f05a4f/"
-  },
-  {
    "id": "02f0c03a",
    "title": "Bahçeli ve Kılıçdaroğlu arasında sürpriz görüşme",
    "summary": "MHP Genel Başkanı Devlet Bahçeli ile CHP Genel Başkanı Kemal Kılıçdaroğlu bir araya geldi.",
@@ -1014,17 +1036,6 @@
    "url": "/haber/breaking-bad-dizisinin-yildizi-rj-mitte-34-yasinda-hayatini-kaybetti-2aa4bee4/"
   },
   {
-   "id": "1f0892a0",
-   "title": "AK Parti'den Zeynel Emre, Şaban Sevinç ve Timur Soykan'a tazminat davası",
-   "summary": "AK Parti, itibar zedelenmesi gerekçesiyle gazeteciler Şaban Sevinç, Timur Soykan, BirGün TV ve Yeni Parti Sözcüsü Zeynel Emre hakkında toplam 1 milyon 600 bin liralık manevi tazminat davası açtı.",
-   "link": "https://www.ntv.com.tr/turkiye/ak-partiden-zeynel-emre-saban-sevinc-ve-timur-soykana-tazminat-davasi-1746139",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_ba81cb25775db0bae54095c3179e48de-898888.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-13T10:50:22+00:00",
-   "url": "/haber/ak-parti-den-zeynel-emre-saban-sevinc-ve-timur-soykan-a-tazminat-davas-1f0892a0/"
-  },
-  {
    "id": "1ddeff48",
    "title": "BBC görüntüledi: Yemen çölünde küresel etkilere sahip bir savaş sürüyor",
    "summary": "Yemen'deki iç savaş artık dünyanın görmezden gelemeyeceği bir hal aldı. Fakat liman kenti Aden'de yaralılarla dolu hastanelerden bakıldığında jeopolitik hesaplar çok uzaktaymış gibi görünüyor. BBC'den Orla Guerin'in…",
@@ -1067,17 +1078,6 @@
    "category": "gundem",
    "date": "2026-10-13T07:30:00+00:00",
    "url": "/haber/avrupa-nin-yeni-kabusu-market-dolaplarina-siber-saldiri-mi-yapildi-9f215228/"
-  },
-  {
-   "id": "8eb45a21",
-   "title": "Etimesgut Belediyesi'ne yeni operasyonda 25 gözaltı",
-   "summary": "Ankara'da Erdal Beşikçioğlu'nun tutuklu olduğu Etimesgut Belediyesi soruşturmasında yeni gözaltılar yapıldı.",
-   "link": "https://www.bbc.com/turkce/articles/cq5630yz169o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d56b/live/693a32d0-94d6-11f1-9229-0f9d840c190e.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-13T07:06:54+00:00",
-   "url": "/haber/etimesgut-belediyesi-ne-yeni-operasyonda-25-gozalti-8eb45a21/"
   },
   {
    "id": "51d7a15e",
