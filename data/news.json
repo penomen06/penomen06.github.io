@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-13T22:31:01.527125+00:00",
+ "updated": "2026-10-13T23:01:09.520954+00:00",
  "items": [
+  {
+   "id": "63671c38",
+   "title": "Otobüs şoförleri kazaya davetiye çıkardı. Yine geri manevra ve seyir halinde sürücü değişimi",
+   "summary": "Manisa'da 11 kişinin öldüğü kazanın bir benzeri Yalova-Bursa yolunda meydana gelecekti. Sapağı kaçıran otobüs şoförünün geri manevrası faciaya davetiye çıkardı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-otobus-soforleri-kazaya-davetiye-cikardi-yine-geri-manevra-ve-seyir-halinde-surucu-degisimi-1746205",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-14011621-288980.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-13T22:41:41+00:00",
+   "url": "/haber/otobus-soforleri-kazaya-davetiye-cikardi-yine-geri-manevra-ve-seyir-ha-63671c38/"
+  },
   {
    "id": "13ae9cf4",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 14 Ekim 2026",
@@ -13,15 +24,15 @@
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13ae9cf4/"
   },
   {
-   "id": "5e7d3bcc",
+   "id": "45675468",
    "title": "Suudi Arabistan Enerji Bakanlığı: Aramco'nun Zahran’daki idari binası hedef alındı",
    "summary": "Suudi Arabistan Enerji Bakanlığı, ülkenin doğusunda bulunan Zahran kentindeki ulusal petrol şirketi Suudi Aramco’nun bir binasının hedef alındığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-enerji-bakanligi-aramconun-zahran-daki-idari-binasi-hedef-alindi/4087924",
+   "link": "https://www.aa.com.tr/tr/live-blog/suudi-arabistan-enerji-bakanligi-aramconun-zahran-daki-idari-binasi-hedef-alindi/6869",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-13T22:15:04+00:00",
-   "url": "/haber/suudi-arabistan-enerji-bakanligi-aramco-nun-zahran-daki-idari-binasi-h-5e7d3bcc/"
+   "url": "/haber/suudi-arabistan-enerji-bakanligi-aramco-nun-zahran-daki-idari-binasi-h-45675468/"
   },
   {
    "id": "ec5b786a",
@@ -35,6 +46,28 @@
    "url": "/haber/ingiltere-arjantin-in-falkland-adalari-ndaki-petrol-projesine-iliskin-ec5b786a/"
   },
   {
+   "id": "fdff4659",
+   "title": "Fenerbahçe Teknik Direktörü İsmail Kartal: Buradan iyi bir sonuçla ayrılmayı düşünüyoruz",
+   "summary": "EFA Şampiyonlar Ligi'nin ikinci haftasında yarın İngiltere'nin Aston Villa takımıyla deplasmanda karşılaşacak Fenerbahçe'de teknik direktör İsmail Kartal, tüm planlarını galibiyet üzerine kurduklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-teknik-direktoru-ismail-kartal-buradan-iyi-bir-sonucla-ayrilmayi-dusunuyoruz/4087911",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T21:54:36+00:00",
+   "url": "/haber/fenerbahce-teknik-direktoru-ismail-kartal-buradan-iyi-bir-sonucla-ayri-fdff4659/"
+  },
+  {
+   "id": "39132300",
+   "title": "ABD, Gazze'nin askerden arındırılmasında \"gerçek ilerleme\" kaydedildiğini bildirdi",
+   "summary": "ABD Dışişleri Bakanlığı, Şarm El-Şeyh Anlaşması'nın birinci yıl dönümünde, ABD ve ortaklarının, Hamas yönetiminden uzak, İsrail için uzun vadeli güvenlik ve sivil yönetimi tesis etme yolunda \"gerçek ilerleme\"…",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-gazzenin-askerden-arindirilmasinda-gercek-ilerleme-kaydedildigini-bildirdi/4087910",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T21:53:42+00:00",
+   "url": "/haber/abd-gazze-nin-askerden-arindirilmasinda-gercek-ilerleme-kaydedildigini-39132300/"
+  },
+  {
    "id": "571bacd1",
    "title": "Yemen Başkanlık Konseyi Başkanı: Yemen Şafağı operasyonu Suudi Arabistan'ın desteğiyle hedefine ilerliyor",
    "summary": "Yemen Başkanlık Konseyi Başkanı Reşad el-Uleymi, \"Yemen Şafağı\" operasyonunun Suudi Arabistan'ın desteğiyle nihai hedefine doğru \"kararlılıkla\" ilerlediğini belirtti.",
@@ -46,6 +79,17 @@
    "url": "/haber/yemen-baskanlik-konseyi-baskani-yemen-safagi-operasyonu-suudi-arabista-571bacd1/"
   },
   {
+   "id": "f21aecbf",
+   "title": "Güney Kore'de 2 öğrencinin üniversite sınavında yapay zeka destekli gözlük kullandığı tespit edildi",
+   "summary": "Güney Kore'de 2 kişi, üniversiteye giriş sınavında yapay zeka destekli gözlük kullanırken yakalandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/guney-korede-2-ogrencinin-universite-sinavinda-yapay-zeka-destekli-gozluk-kullandigi-tespit-edildi/4087903",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T21:49:33+00:00",
+   "url": "/haber/guney-kore-de-2-ogrencinin-universite-sinavinda-yapay-zeka-destekli-go-f21aecbf/"
+  },
+  {
    "id": "23c87939",
    "title": "TRT'nin \"Geleceğin İletişimcileri Yarışması\"nda ödüller sahiplerini buldu",
    "summary": "TRT'nin bu yıl 12'ncisini organize ettiği \"TRT Geleceğin İletişimcileri Yarışması\"nın ödül töreni MEB Şura Salonu'nda yapıldı.",
@@ -55,6 +99,28 @@
    "category": "gundem",
    "date": "2026-10-13T21:46:47+00:00",
    "url": "/haber/trt-nin-gelecegin-iletisimcileri-yarismasi-nda-oduller-sahiplerini-bul-23c87939/"
+  },
+  {
+   "id": "6f680409",
+   "title": "Afrika Grand Prix'si 2030'lu yıllarda Formula 1 takvimine dönecek",
+   "summary": "Afrika Grand Prix'si, 2030'lu yılların başlarından itibaren Formula 1 Dünya Şampiyonası takvimine dahil edilecek.",
+   "link": "https://www.aa.com.tr/tr/spor/afrika-grand-prixsi-2030lu-yillarda-formula-1-takvimine-donecek/4087897",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T21:44:32+00:00",
+   "url": "/haber/afrika-grand-prix-si-2030-lu-yillarda-formula-1-takvimine-donecek-6f680409/"
+  },
+  {
+   "id": "d342e9e7",
+   "title": "Mavi sularda yelken açan yabancı sporcular, Bodrum'un iklimine hayran kaldı",
+   "summary": "Muğla'nın Bodrum ilçesinde devam eden ILCA 21 Yaş Altı Avrupa Yelken Şampiyonası'na katılan yabancı sporcular, Türkiye'nin iklimine hayran kaldı.",
+   "link": "https://www.aa.com.tr/tr/spor/mavi-sularda-yelken-acan-yabanci-sporcular-bodrumun-iklimine-hayran-kaldi/4087896",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T21:40:42+00:00",
+   "url": "/haber/mavi-sularda-yelken-acan-yabanci-sporcular-bodrum-un-iklimine-hayran-k-d342e9e7/"
   },
   {
    "id": "2b74272c",
@@ -189,28 +255,6 @@
    "url": "/haber/genc-milli-halterciler-avrupa-sampiyonasi-nin-ikinci-gununde-4-u-altin-84f7d280/"
   },
   {
-   "id": "5881c5ef",
-   "title": "Ticaret Bakanı Bolat, Türkiye'nin AB'nin sanayi politikalarında eşit ortak olarak yer almasını istedi",
-   "summary": "Ticaret Bakanı Ömer Bolat, Türkiye'nin Avrupa Birliği'nin (AB) yeni sanayi stratejilerine tamamen dahil edilmesi gerektiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-turkiyenin-abnin-sanayi-politikalarinda-esit-ortak-olarak-yer-almasini-istedi/4087853",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T20:38:23+00:00",
-   "url": "/haber/ticaret-bakani-bolat-turkiye-nin-ab-nin-sanayi-politikalarinda-esit-or-5881c5ef/"
-  },
-  {
-   "id": "ea5961cf",
-   "title": "İran, Fairford Üssü olayıyla ilgili suçlamalar nedeniyle İngiltere Büyükelçisini Dışişleri Bakanlığına çağırdı",
-   "summary": "İran Dışişleri Bakanlığı, İngiltere'de ABD tarafından kullanılan RAF Fairford Hava Üssü'ne yönelik saldırı şüphesinde Tahran'ın rolü olduğu yönündeki iddialar nedeniyle İngiltere’nin Tahran Büyükelçisi Hugo Shorter’ı…",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-fairford-ussu-olayiyla-ilgili-suclamalar-nedeniyle-ingiltere-buyukelcisini-disisleri-bakanligina-cagirdi/4087848",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T20:35:53+00:00",
-   "url": "/haber/iran-fairford-ussu-olayiyla-ilgili-suclamalar-nedeniyle-ingiltere-buyu-ea5961cf/"
-  },
-  {
    "id": "1e111e89",
    "title": "AMD, 192 çekirdekli yeni EPYC Verano işlemcisini sergiledi",
    "summary": "AMD, yapay zeka ajanlarına odaklanan yeni EPYC Verano işlemcisini sergiledi. 192 çekirdeğe kadar çıkan model, SOCAMM2 bellek desteğiyle birlikte 2027'de geliyor.",
@@ -220,17 +264,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T20:34:00+00:00",
    "url": "/haber/amd-192-cekirdekli-yeni-epyc-verano-islemcisini-sergiledi-1e111e89/"
-  },
-  {
-   "id": "2033f8e0",
-   "title": "Fenerbahçe Tarfin konuk ettiği Zalgiris'i 99-80 yendi",
-   "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 5. haftasında Fenerbahçe Tarfin, konuk ettiği Litvanya temsilcisi Zalgiris'i 99-80 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-konuk-ettigi-zalgirisi-99-80-yendi/4087841",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T20:27:45+00:00",
-   "url": "/haber/fenerbahce-tarfin-konuk-ettigi-zalgiris-i-99-80-yendi-2033f8e0/"
   },
   {
    "id": "d3c505b9",
@@ -299,17 +332,6 @@
    "url": "/haber/no-man-s-sky-iphone-ve-ipad-e-geliyor-iste-cikis-tarihi-3ac280f8/"
   },
   {
-   "id": "0783f13d",
-   "title": "İsrailli siyasetçi Liberman, Netanyahu'nun seçim öncesi İran, Hamas veya Hizbullah'a saldırabileceğini söyledi",
-   "summary": "Eski İsrail Savunma Bakanı ve muhalif siyasetçi Avigdor Liberman, Başbakan Binyamin Netanyahu'nun yaklaşan genel seçimler öncesinde koltuğunu korumak amacıyla İran, Hamas veya Hizbullah'a yönelik askeri bir operasyon…",
-   "link": "https://www.aa.com.tr/tr/dunya/israilli-siyasetci-liberman-netanyahunun-secim-oncesi-iran-hamas-veya-hizbullaha-saldirabilecegini-soyledi/4087803",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T19:29:04+00:00",
-   "url": "/haber/israilli-siyasetci-liberman-netanyahu-nun-secim-oncesi-iran-hamas-veya-0783f13d/"
-  },
-  {
    "id": "39f0e937",
    "title": "AI Günlükleri: Yapay zekâ dünyasında bu hafta (13 Ekim 2026)",
    "summary": "Yapay zekâ dünyasında bu hafta neler yaşandı; yeni neler tanıtıldı? \"AI Günlükleri\" serimizde, hızla büyüyen bu alanda neler olup bittiğini haftalık olarak kayıt altına almaya devam ediyoruz.",
@@ -363,17 +385,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T19:00:41+00:00",
    "url": "/haber/peugeot-hypersquare-israri-suruyor-kare-direksiyon-2027-de-yollarda-d423e870/"
-  },
-  {
-   "id": "fdcf8065",
-   "title": "DMM, TSK'nın \"Resulayn'da bulunan bazı köy sakinlerinin evlerine dönüşünü engellediği\" iddialarını yalanladı",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Türk Silahlı Kuvvetleri Suriye-Resulayn'da bulunan bazı köylerin sakinlerinin evlerine dönüşünü engelliyor.\" yönündeki iddiaları yalanladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/dmm-tsknin-resulaynda-bulunan-bazi-koy-sakinlerinin-evlerine-donusunu-engelledigi-iddialarini-yalanladi/4087782",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-13T18:58:55+00:00",
-   "url": "/haber/dmm-tsk-nin-resulayn-da-bulunan-bazi-koy-sakinlerinin-evlerine-donusun-fdcf8065/"
   },
   {
    "id": "58d79ccc",
@@ -1067,17 +1078,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T12:57:47+00:00",
    "url": "/haber/apple-yeni-akilli-ev-cihazi-homeview-u-tanitti-6058435d/"
-  },
-  {
-   "id": "447590be",
-   "title": "Yaş doğrulamasıyla sigara satışı. Bakan Memişoğlu: HES veya karekod gibi örneklere bakıyoruz",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, 18 yaş altına sigara satışının nasıl engelleneceğini ve kimlik doğrulamasının nasıl yapılacağını anlattı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-yas-dogrulamasiyla-sigara-satisi-bakan-memisoglu-hes-veya-karekod-gibi-orneklere-bakiyoruz-1746162",
-   "image": "https://images.ntv.com.tr/images/sigaraiçilmez-879570.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-13T12:42:28+00:00",
-   "url": "/haber/yas-dogrulamasiyla-sigara-satisi-bakan-memisoglu-hes-veya-karekod-gibi-447590be/"
   },
   {
    "id": "6ea57b8e",
