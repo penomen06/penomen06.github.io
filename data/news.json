@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T02:01:15.324029+00:00",
+ "updated": "2026-10-13T02:31:03.970817+00:00",
  "items": [
   {
    "id": "9caff0c5",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-13T02:00:00+00:00",
+   "date": "2026-10-13T02:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9caff0c5/"
+  },
+  {
+   "id": "b47f372d",
+   "title": "IMF dünya ekonomisinin bu yıl yüzde 3,1 büyümesini öngörüyor",
+   "summary": "Uluslararası Para Fonu (IMF), küresel ekonomik büyüme tahminini bu yıl için yüzde 3'ten yüzde 3,1'e çıkardı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/imf-dunya-ekonomisinin-bu-yil-yuzde-3-1-buyumesini-ongoruyor/4086724",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-13T02:23:53+00:00",
+   "url": "/haber/imf-dunya-ekonomisinin-bu-yil-yuzde-3-1-buyumesini-ongoruyor-b47f372d/"
   },
   {
    "id": "62258b83",
@@ -242,17 +253,6 @@
    "category": "gundem",
    "date": "2026-10-12T21:25:09+00:00",
    "url": "/haber/abd-baskani-trump-husiler-yanlis-isler-yapiyorlar-hem-de-cok-yanlis-95ff2c07/"
-  },
-  {
-   "id": "b15c3284",
-   "title": "Suudi Arabistan'ın Hamis Muşayt vilayetinde Husiler tarafından fırlatılan 2 balistik füze engellendi",
-   "summary": "Suudi Arabistan liderliğindeki Arap Koalisyonu, Suudi Arabistan'ın Hamis Muşayt vilayetine Husiler tarafından fırlatılan iki balistik füzenin engellendiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-hamis-musayt-vilayetinde-husiler-tarafindan-firlatilan-2-balistik-fuze-engellendi/4086680",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-12T21:15:32+00:00",
-   "url": "/haber/suudi-arabistan-in-hamis-musayt-vilayetinde-husiler-tarafindan-firlati-b15c3284/"
   },
   {
    "id": "defcb617",
