@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T23:30:59.210215+00:00",
+ "updated": "2026-10-13T00:01:13.287229+00:00",
  "items": [
   {
    "id": "9caff0c5",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-12T23:30:00+00:00",
+   "date": "2026-10-13T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9caff0c5/"
+  },
+  {
+   "id": "17fdc458",
+   "title": "Elektrikli skuter düzenlemesi. İşletmelere yönelik cezalar güncellendi",
+   "summary": "Elektrikli skuter yönetmeliğinde değişiklik yapılmasına dair yönetmelik Resmi Gazete'de yayımlandı. Düzenlemeyle işletmelere yönelik idari para cezaları yeniden belirlendi.",
+   "link": "https://www.ntv.com.tr/turkiye/elektrikli-skuter-duzenlemesi-isletmelere-yonelik-cezalar-guncellendi-1746036",
+   "image": "https://images.ntv.com.tr/images/images-779387.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-12T23:47:46+00:00",
+   "url": "/haber/elektrikli-skuter-duzenlemesi-isletmelere-yonelik-cezalar-guncellendi-17fdc458/"
+  },
+  {
+   "id": "c1218428",
+   "title": "Titanic'in tek siyah yolcusu kimdi?",
+   "summary": "Joseph Laroche, 1912'de Titanic faciasında hayatını kaybettiğinde 25 yaşındaydı.",
+   "link": "https://www.bbc.com/turkce/articles/c65yn5wq79g2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ba3/live/3a6cbec0-c319-11f1-bd97-fbe5a3482cde.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-12T23:45:49+00:00",
+   "url": "/haber/titanic-in-tek-siyah-yolcusu-kimdi-c1218428/"
   },
   {
    "id": "2aa4bee4",
@@ -1069,17 +1091,6 @@
    "url": "/haber/cocukluk-caginda-kanser-nasil-belirtiler-gosteriyor-5d0b67ac/"
   },
   {
-   "id": "66569ddb",
-   "title": "ABD'de 1937'dan beri yapılmayan halka açık idamlar neden yeniden başlıyor?",
-   "summary": "Pentagon, Fort Hood saldırganı Nidal Hasan'ın infazının canlı yayınlanacağını söylüyor, ancak uzmanlar yetkililerin ülkeyi yanlış anladığını öne sürüyor.",
-   "link": "https://www.bbc.com/turkce/articles/cq398ve0de4yo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca0b/live/df708420-c48a-11f1-a915-a1cdb09cbaf6.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-12T09:37:12+00:00",
-   "url": "/haber/abd-de-1937-dan-beri-yapilmayan-halka-acik-idamlar-neden-yeniden-basli-66569ddb/"
-  },
-  {
    "id": "fd62773d",
    "title": "Uludağ'da yeni dönem. Dört mevsim turizm için planlar yürürlükte",
    "summary": "Uludağ'ı dört mevsim turizm merkezine dönüştürmeyi amaçlayan imar planları yürürlüğe girdi. Yeni düzenlemelerle ulaşım, otopark ve yaya alanları yeniden şekillenecek.",
@@ -1133,17 +1144,6 @@
    "category": "gundem",
    "date": "2026-10-12T07:49:08+00:00",
    "url": "/haber/cevdet-yilmaz-ddk-butun-kurumlari-inceliyor-307dee83/"
-  },
-  {
-   "id": "ca1708df",
-   "title": "Anadolu'nun taşlara kazınmış tarihi kayıt altına alınıyor",
-   "summary": "Kültür ve Turizm Bakanlığı, 18 ilde yaklaşık 7 bin mezar taşı ve kitabeyi belgeledi. Tarihi eserlerin ortak bir dijital veri tabanında toplanması hedefleniyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-anadolunun-taslara-kazinmis-tarihi-kayit-altina-aliniyor-1745933",
-   "image": "https://images.ntv.com.tr/images/GÖRSEL-250569.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-12T07:41:12+00:00",
-   "url": "/haber/anadolu-nun-taslara-kazinmis-tarihi-kayit-altina-aliniyor-ca1708df/"
   },
   {
    "id": "8f5cfef9",
