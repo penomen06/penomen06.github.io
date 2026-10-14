@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T00:35:37.099995+00:00",
+ "updated": "2026-10-14T01:01:15.166783+00:00",
  "items": [
   {
    "id": "13ae9cf4",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-14T00:30:00+00:00",
+   "date": "2026-10-14T01:00:01+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13ae9cf4/"
+  },
+  {
+   "id": "6e77e007",
+   "title": "Ankara'da taksici, müşterisini kurşunladı",
+   "summary": "Ankara'nın Yenimahalle ilçesinde bir taksici, yolcusunu varış noktasına bırakmasının ardından müşterisine arkasından tabanca ile ateş etti. Silahlı saldırı sonucunda müşteri ağır yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/ankarada-taksici-musterisini-kursunladi-1746209",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-14035014-963200.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-14T00:53:41+00:00",
+   "url": "/haber/ankara-da-taksici-musterisini-kursunladi-6e77e007/"
   },
   {
    "id": "b60a069b",
@@ -935,17 +946,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T13:50:03+00:00",
    "url": "/haber/formula-1-2030-v8-motorlara-geri-donecek-efc92b8c/"
-  },
-  {
-   "id": "43cff37f",
-   "title": "Mersin Büyükşehir Belediye Başkanvekili CHP'li Gülşah Yıldırım Genç oldu",
-   "summary": "Mersin'de Vahap Seçer'in görevden uzaklaştırılması nedeniyle yapılan başkanvekili seçimini tek aday olan CHP'li Meclis Üyesi Gülşah Yıldırım Genç kazandı.",
-   "link": "https://www.ntv.com.tr/turkiye/mersin-buyuksehir-belediye-baskanvekili-chpli-gulsah-yildirim-genc-oldu-1746171",
-   "image": "https://images.ntv.com.tr/images/mersinbelediyebaşkanvekili-973702(3).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-13T13:45:08+00:00",
-   "url": "/haber/mersin-buyuksehir-belediye-baskanvekili-chp-li-gulsah-yildirim-genc-ol-43cff37f/"
   },
   {
    "id": "2b31ccf7",
