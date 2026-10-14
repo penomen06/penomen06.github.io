@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-14T10:01:12.442557+00:00",
+ "updated": "2026-10-14T10:31:04.963150+00:00",
  "items": [
+  {
+   "id": "a1c78042",
+   "title": "OpenAI Ofislerinde Gizli Kayıt Cihazı Skandalı Ortaya Çıktı",
+   "summary": "OpenAI ofislerinde gizli bir kayıt cihazı bulundu. Şirket, durumu FBI'a bildirdi ve ilgili çalışanın işine son verildi. Veri güvenliği konusunda güncel bilgiler.",
+   "link": "https://shiftdelete.net/openai-ofislerinde-gizli-kayit-cihazi-skandali-ortaya-cikti",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-14T10:30:50+00:00",
+   "url": "/haber/openai-ofislerinde-gizli-kayit-cihazi-skandali-ortaya-cikti-a1c78042/"
+  },
+  {
+   "id": "b2390d67",
+   "title": "BYD'nin en ucuz elektriklisi büyüdü: Lidarlı Seagull 20 Ekim'de tanıtılacak",
+   "summary": "BYD Seagull, ikinci neslinde 42,5 cm uzuyor ve lidar sensörüne kavuşuyor. 20 Ekim’de tanıtılacak elektrikli hatchback, yeni kabini ve 95 kW motoruyla gelirken hızlı şarjlı Blade batarya da bekleniyor.",
+   "link": "https://www.donanimhaber.com/byd-nin-en-ucuz-elektriklisi-seagull-buyudu-iste-yeni-goruntuler--211610",
+   "image": "https://www.donanimhaber.com/images/images/haber/211610/1200x675byd-nin-en-ucuz-elektriklisi-seagull-buyudu-iste-yeni-goruntuler.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-14T10:17:00+00:00",
+   "url": "/haber/byd-nin-en-ucuz-elektriklisi-buyudu-lidarli-seagull-20-ekim-de-tanitil-b2390d67/"
+  },
+  {
+   "id": "9b17018e",
+   "title": "Herkes Kendi Android Uygulamasını Yapabilecek: Google Play'den Yeni Özellik!",
+   "summary": "Google Play, kullanıcıların yapay zekâ yardımıyla geliştirdikleri kişisel Android uygulamalarını bir geliştirici hesabı açmadan kendi telefonlarında çalıştırmasına imkân tanıyor.",
+   "link": "https://www.webtekno.com/herkes-kendi-android-uygulamasini-yapabilecek-google-playden-yeni-ozellik-h227056.html",
+   "image": "https://imgrosetta.webtekno.com/file/692545/692545-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-14T10:13:19+00:00",
+   "url": "/haber/herkes-kendi-android-uygulamasini-yapabilecek-google-play-den-yeni-oze-9b17018e/"
+  },
+  {
+   "id": "dccf5467",
+   "title": "Annesiyle birlikte ölü bulunan Hifa İkra'nın istismar davasında baba bugün yargılanıyor",
+   "summary": "İstanbul'da Zeytinburnu sahilinde 2 Mart 2026 akşamı sekiz yaşındaki kızı Hifa İkra Şengüler ile birlikte ölü bulunan Fatmanur Çelik davasında baba A. Şengüler yargılanıyor.",
+   "link": "https://www.bbc.com/turkce/articles/c5y66k386l3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c81f/live/85fef550-c7b6-11f1-b41f-d7a6cb474575.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-14T10:10:41+00:00",
+   "url": "/haber/annesiyle-birlikte-olu-bulunan-hifa-ikra-nin-istismar-davasinda-baba-b-dccf5467/"
+  },
+  {
+   "id": "678f5478",
+   "title": "İran Devrim Muhafızları: ABD'nin yeni bir saldırı başlatması akıl dışı olsa da bu ihtimal var",
+   "summary": "İran Devrim Muhafızları Ordusu Sözcüsü Tuğgeneral Hüseyin Muhibbi, ABD’nin İran’a yeni bir saldırı başlatmasının “akıl dışı” olacağını ancak bu ihtimalin mevcut olduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-abdnin-yeni-bir-saldiri-baslatmasi-akil-disi-olsa-da-bu-ihtimal-var/4088340",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T10:10:40+00:00",
+   "url": "/haber/iran-devrim-muhafizlari-abd-nin-yeni-bir-saldiri-baslatmasi-akil-disi-678f5478/"
+  },
+  {
+   "id": "5ad92abf",
+   "title": "Dışişleri Bakanı Hakan Fidan Azerbaycan'a gidiyor",
+   "summary": "Dışişleri Bakanı Hakan Fidan, yarın Azerbaycan'a gidiyor. Fidan, Asya'da İşbirliği ve Güven Artırıcı Önlemler Konferansı Devlet ve Hükümet Başkanları Konseyi Yedinci Toplantısı'na katılacak.",
+   "link": "https://www.ntv.com.tr/turkiye/disisleri-bakani-hakan-fidan-azerbaycana-gidiyor-1746288",
+   "image": "https://images.ntv.com.tr/images/fidan-933387(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-14T10:07:43+00:00",
+   "url": "/haber/disisleri-bakani-hakan-fidan-azerbaycan-a-gidiyor-5ad92abf/"
+  },
+  {
+   "id": "d84c4af1",
+   "title": "İmamoğlu'nun savunması başladı: 'Sürecin aktörleri Türk yargısı önünde hesap verecek'",
+   "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, İstanbul Büyükşehir Belediyesi (İBB) davasında yaklaşık 600 gün sonra savunma yapıyor.",
+   "link": "https://www.bbc.com/turkce/articles/cmy93v7l7pleo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d91/live/23e1f900-9aeb-11f1-930b-57cfba7235f9.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-14T10:06:12+00:00",
+   "url": "/haber/imamoglu-nun-savunmasi-basladi-surecin-aktorleri-turk-yargisi-onunde-h-d84c4af1/"
+  },
+  {
+   "id": "01b8289d",
+   "title": "Çin'in dış ticaret fazlası 20 ayın zirvesinde",
+   "summary": "Çin'in dış ticaret fazlası eylülde 133,5 milyar dolarla Ocak 2025'ten bu yana en yüksek seviyeye ulaştı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cinin-dis-ticaret-fazlasi-20-ayin-zirvesinde/4088336",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T10:05:15+00:00",
+   "url": "/haber/cin-in-dis-ticaret-fazlasi-20-ayin-zirvesinde-01b8289d/"
+  },
+  {
+   "id": "acfa713d",
+   "title": "Van Kalesi'nin zirvesindeki camiden ezan sesini duyurmak için her gün binlerce adım atıyor",
+   "summary": "Van Kalesi'nin zirvesinde bulunan ve 3 yıl önce restore edilerek ibadete açılan tarihi Süleyman Han Camisi'nde imam vekili olarak görev yapan Sibğatullah Bilmez, her gün dik ve zorlu yolda binlerce adım atarak vakit…",
+   "link": "https://www.aa.com.tr/tr/kultur/van-kalesinin-zirvesindeki-camiden-ezan-sesini-duyurmak-icin-her-gun-binlerce-adim-atiyor/4088333",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T10:02:38+00:00",
+   "url": "/haber/van-kalesi-nin-zirvesindeki-camiden-ezan-sesini-duyurmak-icin-her-gun-acfa713d/"
+  },
+  {
+   "id": "6d48e54b",
+   "title": "Bakan Fidan, Bakü'deki CICA Devlet ve Hükümet Başkanları Toplantısı'na katılacak",
+   "summary": "Dışişleri Bakanı Hakan Fidan, yarın Azerbaycan'ın başkenti Bakü'de düzenlenecek olan, Asya'da İşbirliği ve Güven Artırıcı Önlemler Konferansı (CICA) Devlet ve Hükümet Başkanları Konseyi Yedinci Toplantısı'na katılacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-bakudeki-cica-devlet-ve-hukumet-baskanlari-toplantisina-katilacak/4088332",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T10:02:24+00:00",
+   "url": "/haber/bakan-fidan-baku-deki-cica-devlet-ve-hukumet-baskanlari-toplantisi-na-6d48e54b/"
+  },
   {
    "id": "cf842d31",
    "title": "Kompakt Performans Canavarı: Honor WIN Pad Tasarımı Ortaya Çıktı",
@@ -99,17 +209,6 @@
    "category": "gundem",
    "date": "2026-10-14T09:37:53+00:00",
    "url": "/haber/dolar-endeksi-abd-enflasyonu-oncesinde-yukselisine-ara-verdi-9e632333/"
-  },
-  {
-   "id": "d84c4af1",
-   "title": "İBB davasında Ekrem İmamoğlu savunmasına başladı",
-   "summary": "Silivri'deki İBB davasında, tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu savunma yapıyor.",
-   "link": "https://www.bbc.com/turkce/articles/cmy93v7l7pleo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d91/live/23e1f900-9aeb-11f1-930b-57cfba7235f9.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-14T09:36:37+00:00",
-   "url": "/haber/ibb-davasinda-ekrem-imamoglu-savunmasina-basladi-d84c4af1/"
   },
   {
    "id": "ff493765",
@@ -244,17 +343,6 @@
    "url": "/haber/hitit-universitesi-akademisyenlerinin-gelistirdigi-kapali-tup-sinterle-cd72d902/"
   },
   {
-   "id": "639fa38c",
-   "title": "Tekirdağ ve Muğla'da olumsuz hava günlük yaşamı etkiliyor",
-   "summary": "Tekirdağ ve Muğlada etkili olan sağanak ve hayatı olumsuz etkiledi. Bodrum'da denizde sürüklenen 15 metrelik yelkenli tekne, Kumbahçe Mahallesi sahilinde karaya oturdu.",
-   "link": "https://www.aa.com.tr/tr/gundem/tekirdag-ve-muglada-olumsuz-hava-gunluk-yasami-etkiliyor/4088277",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T09:26:26+00:00",
-   "url": "/haber/tekirdag-ve-mugla-da-olumsuz-hava-gunluk-yasami-etkiliyor-639fa38c/"
-  },
-  {
    "id": "a9488084",
    "title": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifi komisyonda",
    "summary": "TBMM Plan ve Bütçe Komisyonunda, Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi'nin görüşmelerine başlandı.",
@@ -266,17 +354,6 @@
    "url": "/haber/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-a9488084/"
   },
   {
-   "id": "8809579c",
-   "title": "Türk tiyatrosunun emektar meddahı: Erol Günaydın",
-   "summary": "Türk tiyatrosunda meddahlık geleneğinin önemli temsilcilerinden oyuncu, yönetmen ve senarist Erol Günaydın'ın vefatının üzerinden 14 yıl geçti.",
-   "link": "https://www.aa.com.tr/tr/portre/turk-tiyatrosunun-emektar-meddahi-erol-gunaydin/4088266",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T09:18:24+00:00",
-   "url": "/haber/turk-tiyatrosunun-emektar-meddahi-erol-gunaydin-8809579c/"
-  },
-  {
    "id": "2cec795f",
    "title": "İstanbul'da iş çıkış saatine dikkat. Fırtına geliyor, Anadolu yakasında hava patlayacak",
    "summary": "İstanbul'da etkili olan kuvvetli sağanak ve fırtına için yeni uyarı yapıldı. Akşam saatlerine kadar Avrupa yakasında etkili olacak fırtına, 17.00'den sonra Anadolu yakasını etkisi altına alacak.",
@@ -286,17 +363,6 @@
    "category": "gundem",
    "date": "2026-10-14T09:16:45+00:00",
    "url": "/haber/istanbul-da-is-cikis-saatine-dikkat-firtina-geliyor-anadolu-yakasinda-2cec795f/"
-  },
-  {
-   "id": "f932ba41",
-   "title": "Pakistan'dan ABD ve İran'a \"İslamabad Mutabakatı taahhütlerine sadık kalın\" çağrısı",
-   "summary": "Pakistan Cumhurbaşkanı Asıf Ali Zerdari, ABD ve İran'a itidal ve bu ülkelerden haziranda varılan \"İslamabad Mutabakatı\" kapsamındaki taahhütlerine sadık kalmaları çağrısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/pakistandan-abd-ve-irana-islamabad-mutabakati-taahhutlerine-sadik-kalin-cagrisi/4088264",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T09:16:41+00:00",
-   "url": "/haber/pakistan-dan-abd-ve-iran-a-islamabad-mutabakati-taahhutlerine-sadik-ka-f932ba41/"
   },
   {
    "id": "48aa4332",
@@ -574,17 +640,6 @@
    "url": "/haber/bana-da-fotograflari-atsana-devri-bitiyor-mu-google-fotograflar-dan-ye-6907ea47/"
   },
   {
-   "id": "0bad0577",
-   "title": "Bizans ve Osmanlı'nın izlerini bir arada taşıyan Yedikule Kapısı",
-   "summary": "İstanbul kara surlarının Marmara Denizi'ne yaklaştığı güney bölümünde bulunan Yedikule Kapısı, Bizans döneminden Osmanlı'ya uzanan geçmişi, farklı dönemlerde geçirdiği onarımlar ve günümüze ulaşan mimarisiyle kentin…",
-   "link": "https://www.aa.com.tr/tr/kultur/bizans-ve-osmanlinin-izlerini-bir-arada-tasiyan-yedikule-kapisi/4088131",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T08:03:49+00:00",
-   "url": "/haber/bizans-ve-osmanli-nin-izlerini-bir-arada-tasiyan-yedikule-kapisi-0bad0577/"
-  },
-  {
    "id": "05ecceb0",
    "title": "Türkiye Kano Federasyonunun hedefi 2028'de olimpiyat kotası, 2032'de madalya",
    "summary": "Türkiye Kano Federasyonu Başkanı Alper Cavit Kabakçı, 2028 Los Angeles Olimpiyat Oyunları'na katılım kotası almak ve 2032'de madalya kazanacak bir kadro oluşturmak için çalışmaları sürdürdüklerini bildirdi.",
@@ -649,17 +704,6 @@
    "category": "teknoloji",
    "date": "2026-10-14T07:40:00+00:00",
    "url": "/haber/onlarca-sivrisinek-suru-halinde-ucarak-saldiri-kabiliyetini-sergiledi-24c8e68b/"
-  },
-  {
-   "id": "4f67b340",
-   "title": "Casper Laptoplar Güvenilir mi?",
-   "summary": "Casper'ın Nirvana ve Excalibur serilerini fiyat, performans, malzeme kalitesi ve servis süreçleri üzerinden masaya yatırıyoruz.",
-   "link": "https://www.webtekno.com/casper-laptoplar-guvenilir-mi-h226894.html",
-   "image": "https://imgrosetta.webtekno.com/file/691270/691270-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-14T07:37:48+00:00",
-   "url": "/haber/casper-laptoplar-guvenilir-mi-4f67b340/"
   },
   {
    "id": "cc671bc5",
@@ -926,17 +970,6 @@
    "url": "/haber/halk-tv-nin-sahibine-mali-sorusturma-3ecd6691/"
   },
   {
-   "id": "fcdd7d49",
-   "title": "GTA 6 PC’ye Ne Zaman Gelecek? İşte Sızdırılan Tarih",
-   "summary": "GTA 6 PC çıkış tarihi ile ilgili yeni iddialar gündemde. Oyunun bilgisayar sürümünün 2027'nin ilk çeyreğinde gelebileceği konuşuluyor.",
-   "link": "https://shiftdelete.net/gta-6-pc-cikis-tarihi-iddiasi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-14T05:30:23+00:00",
-   "url": "/haber/gta-6-pc-ye-ne-zaman-gelecek-iste-sizdirilan-tarih-fcdd7d49/"
-  },
-  {
    "id": "d36dfa14",
    "title": "Resmi Gazete'de bugün neler var? (14 Ekim 2026 Resmi Gazete kararları)",
    "summary": "Resmi Gazete'de 14 Ekim 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Günün öne çıkan kararları arasında coğrafi verilerin toplanması ve paylaşımına ilişkin izin süreçlerini belirleyen yönetmelik…",
@@ -979,17 +1012,6 @@
    "category": "gundem",
    "date": "2026-10-14T01:50:50+00:00",
    "url": "/haber/dmm-den-resulayn-iddialarina-yanit-6ba7b62d/"
-  },
-  {
-   "id": "1717cbc2",
-   "title": "Ankara'da taksici, müşterisini kurşunladı",
-   "summary": "Ankara'nın Yenimahalle ilçesinde bir taksici, yolcusunu varış noktasına bırakmasının ardından müşterisine arkasından tabanca ile ateş etti. Silahlı saldırı sonucunda müşteri ağır yaralandı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-ankarada-taksici-musterisini-kursunladi-1746211",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-14035014-963200.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-14T01:15:14+00:00",
-   "url": "/haber/ankara-da-taksici-musterisini-kursunladi-1717cbc2/"
   },
   {
    "id": "1fc2e05a",
@@ -1036,17 +1058,6 @@
    "url": "/haber/papa-14-leo-akciger-kanseri-ameliyati-oldu-dc6e3d38/"
   },
   {
-   "id": "13032618",
-   "title": "Galatasaray Şampiyonlar Ligi'nde Barcelona'ya 4-1 mağlup oldu",
-   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'ndeki ikinci karşılaşmasında İspanyol devi Barcelona'yı konuk etti. İlk yarı 1-1 berabere sonra ererken Barcelona ikinci yarıda attığı gollerle maçı 4-1 kazandı.",
-   "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fabe/live/37655520-c78d-11f1-a8b8-794c6d066348.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-13T21:08:04+00:00",
-   "url": "/haber/galatasaray-sampiyonlar-ligi-nde-barcelona-ya-4-1-maglup-oldu-13032618/"
-  },
-  {
    "id": "2351845a",
    "title": "Fransa, doğada yok olmayan “sonsuz kimyasallara” savaş açtı",
    "summary": "İnsan kanından Arktik buzullarına kadar yayılan “sonsuz kimyasallara” karşı Fransa'da çıkarılan yasa, PFAS kirliliğini azaltmayı hedeflerken diğer ülkeler için de örnek oluşturuyor.",
@@ -1067,17 +1078,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T20:34:00+00:00",
    "url": "/haber/amd-192-cekirdekli-yeni-epyc-verano-islemcisini-sergiledi-1e111e89/"
-  },
-  {
-   "id": "d3c505b9",
-   "title": "Dizüstü bilgisayar konforunda en iyi klavyeli tablet modelleri",
-   "summary": "Klavyeli tablet modelleri, taşınabilirlik ve dizüstü bilgisayar konforunu bir araya getiriyor. En iyi klavyeli tablet önerilerini; ekran, performans, klavye ve fiyat açısından inceledik.",
-   "link": "https://www.donanimhaber.com/en-iyi-klavyeli-tablet-modelleri-ekim-2026--211184",
-   "image": "https://www.donanimhaber.com/images/images/haber/211184/1200x675en-iyi-klavyeli-tablet-modelleri-ekim-2026.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-13T20:27:05+00:00",
-   "url": "/haber/dizustu-bilgisayar-konforunda-en-iyi-klavyeli-tablet-modelleri-d3c505b9/"
   },
   {
    "id": "f75e611d",
