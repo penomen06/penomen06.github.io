@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T23:31:02.488761+00:00",
+ "updated": "2026-10-14T00:01:13.513438+00:00",
  "items": [
   {
    "id": "13ae9cf4",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-13T23:30:00+00:00",
+   "date": "2026-10-14T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13ae9cf4/"
+  },
+  {
+   "id": "e577bc6a",
+   "title": "İstanbul'da fırtına çıkacak. Saat verip, ilçe ilçe uyarı geldi",
+   "summary": "Bu hafta neredeyse her gün sağanak yağış var. İstanbul'da bugün şiddetini iyice artıracak yağışla beraber fırtına bekleniyor. AKOM ve İstanbul Valiliği saat vererek, ilçe ilçe uyarıda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-firtina-cikacak-saat-verip-ilce-ilce-uyari-geldi-1746206",
+   "image": "https://images.ntv.com.tr/images/AW809361_04-447283.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-13T23:50:10+00:00",
+   "url": "/haber/istanbul-da-firtina-cikacak-saat-verip-ilce-ilce-uyari-geldi-e577bc6a/"
+  },
+  {
+   "id": "1fc2e05a",
+   "title": "Suudi Arabistan Yemen'de akaryakıt deposunu vurdu; Riyad yakınlarında füze saldırısı engellendi",
+   "summary": "Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, TBMM'deki grup toplantısında Husilerin saldırılarını artırdığı Suudi Arabistan'a karşı \"caydırıcı güç\" kullanılmasının seçenekler arasında olabileceğini söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/cqj9kevpyl4ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d55/live/ede3ab50-c75e-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-13T23:43:04+00:00",
+   "url": "/haber/suudi-arabistan-yemen-de-akaryakit-deposunu-vurdu-riyad-yakinlarinda-f-1fc2e05a/"
   },
   {
    "id": "2e2f4135",
@@ -651,17 +673,6 @@
    "url": "/haber/iddia-gta-6-nin-pc-surumu-2027-nin-ilk-ceyreginde-gelebilir-6bdd1781/"
   },
   {
-   "id": "97507837",
-   "title": "Yeni Parti'nin fon iddialarına Bakan Göktaş'tan yanıt. \"Büyük iftiralara maruz kaldık\"",
-   "summary": "NTV'ye özel açıklamalarda bulunan Bakan Mahinur Özdemir Göktaş, fon soruşturmasında babasının adının geçtiği iddiasına tepki gösterdi. Göktaş, \"Büyük iftiralara maruz kaldık.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/yeni-partinin-fon-iddialarina-bakan-goktastan-yanit-buyuk-iftiralara-maruz-kaldik-1746168",
-   "image": "https://images.ntv.com.tr/images/bakangöktaş-520035(2).png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-13T16:01:11+00:00",
-   "url": "/haber/yeni-parti-nin-fon-iddialarina-bakan-goktas-tan-yanit-buyuk-iftiralara-97507837/"
-  },
-  {
    "id": "af825457",
    "title": "AnTuTu Eylül Ayı Sıralaması Yayınlandı: Xiaomi Zirveye Yerleşti",
    "summary": "AnTuTu Eylül ayı performans sıralaması açıklandı. Xiaomi, amiral gemisi ve tablet kategorilerinde zirveye yerleşerek donanım gücünü bir kez daha kanıtladı.",
@@ -1100,17 +1111,6 @@
    "category": "gundem",
    "date": "2026-10-13T12:28:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-turkiye-suudi-arabistan-in-yaninda-6ea57b8e/"
-  },
-  {
-   "id": "1ddeff48",
-   "title": "BBC görüntüledi: Yemen çölünde küresel etkilere sahip bir savaş sürüyor",
-   "summary": "Yemen'deki iç savaş artık dünyanın görmezden gelemeyeceği bir hal aldı. Fakat liman kenti Aden'de yaralılarla dolu hastanelerden bakıldığında jeopolitik hesaplar çok uzaktaymış gibi görünüyor. BBC'den Orla Guerin'in…",
-   "link": "https://www.bbc.com/turkce/articles/cq98z5wnz4xeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa95/live/86e0e5d0-c682-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-13T10:37:24+00:00",
-   "url": "/haber/bbc-goruntuledi-yemen-colunde-kuresel-etkilere-sahip-bir-savas-suruyor-1ddeff48/"
   },
   {
    "id": "8cbfe1e0",
