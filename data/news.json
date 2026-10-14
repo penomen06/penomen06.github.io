@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T04:01:05.929451+00:00",
+ "updated": "2026-10-14T04:31:02.101726+00:00",
  "items": [
   {
    "id": "13ae9cf4",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-14T04:00:00+00:00",
+   "date": "2026-10-14T04:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13ae9cf4/"
+  },
+  {
+   "id": "e620d62f",
+   "title": "Mali şube ekipleri Halk TV binasında arama yapıyor",
+   "summary": "Mali Suçlarla Mücadele Şube Müdürlüğü ekipleri Halk TV'nin İstanbul'daki binasında arama yapıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/mali-sube-ekipleri-halk-tv-binasinda-arama-yapiyor-1746219",
+   "image": "https://images.ntv.com.tr/images/Medya-336039.jfif",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-14T04:27:49+00:00",
+   "url": "/haber/mali-sube-ekipleri-halk-tv-binasinda-arama-yapiyor-e620d62f/"
   },
   {
    "id": "ca163266",
@@ -671,17 +682,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T16:55:00+00:00",
    "url": "/haber/antutu-acikladi-iste-en-hizli-android-tabletler-eaf05763/"
-  },
-  {
-   "id": "d234aac5",
-   "title": "Gökçe bebeğin şüpheli ölümü. Hastanede yanlış ilaç mı verildi?",
-   "summary": "Antalya'da diş çıkardığı için ateşi yükselen bebek, hastanede tedavi görüp taburcu edildikten bir gün sonra öldü. Acılı aile, bebeklerine hastanede yanlış ilaç verildiğini öne sürüyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-gokce-bebegin-supheli-olumu-hastanede-yanlis-ilac-mi-verildi-1746182",
-   "image": "https://images.ntv.com.tr/images/HASTANEDEN-TABURCU-OLDUKTAN-1-GUN-SONRA-_1553034_462159-462397.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-13T16:34:11+00:00",
-   "url": "/haber/gokce-bebegin-supheli-olumu-hastanede-yanlis-ilac-mi-verildi-d234aac5/"
   },
   {
    "id": "04e6d18f",
