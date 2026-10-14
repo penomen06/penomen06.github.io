@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-14T19:01:11.725476+00:00",
+ "updated": "2026-10-14T19:30:57.760278+00:00",
  "items": [
+  {
+   "id": "11c9e183",
+   "title": "Meta’da Veri İhlali: 1.500 Çalışan Etkilendi",
+   "summary": "Meta GitHub kaynak kod sızıntısı ile 1.500 çalışanın verileri ve şirket sırları ele geçirildi. Olayın detayları ve alınan önlemler haberimizde.",
+   "link": "https://shiftdelete.net/meta-github-kaynak-kod-sizintisi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-14T19:30:44+00:00",
+   "url": "/haber/meta-da-veri-ihlali-1-500-calisan-etkilendi-11c9e183/"
+  },
+  {
+   "id": "d50827a5",
+   "title": "İstanbul'da sağanak yağış: Sel, su baskınları ve Vali Gülden dışarı çıkmayın uyarısı",
+   "summary": "İstanbul'da etkisini artıran sağanak yağış yüzünden kentin birçok kesiminden sel ve su baskınları haberleri geliyor. İlde 15 Ekim'de okullar tatil edildi. Vali Gül halka zorunlu olmadıkça evlerinden çıkmamaları çağırısı…",
+   "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/10c9/live/9937c540-c7f5-11f1-9a39-31b474234113.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-14T19:28:58+00:00",
+   "url": "/haber/istanbul-da-saganak-yagis-sel-su-baskinlari-ve-vali-gulden-disari-cikm-d50827a5/"
+  },
+  {
+   "id": "51819d04",
+   "title": "Türkiye Teknoloji Geliştirme Vakfı Günü ve ödül töreni düzenlendi",
+   "summary": "Türkiye Teknoloji Geliştirme Vakfı (TTGV) Günü kapsamında teknolojide değişim öncüsü olan kişi ve kuruluşlara ödül verildi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-teknoloji-gelistirme-vakfi-gunu-ve-odul-toreni-duzenlendi/4088998",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T19:16:24+00:00",
+   "url": "/haber/turkiye-teknoloji-gelistirme-vakfi-gunu-ve-odul-toreni-duzenlendi-51819d04/"
+  },
+  {
+   "id": "9a4950e9",
+   "title": "Netflix, 1000 kişiyi işten çıkarıyor: Şirketin tarihindeki en büyük küçülme",
+   "summary": "Son yıllarda müthiş bir hızda büyüyerek dünyanın en büyük medya şirketlerinden birine dönüşen Netflix, şimdi küçülmeye başladı. Şirket, 1000 kişiyi işten çıkaracağını açıkladı.",
+   "link": "https://www.donanimhaber.com/netflix-1000-kisiyi-isten-cikariyor--211634",
+   "image": "https://www.donanimhaber.com/images/images/haber/211634/1200x675netflix-1000-kisiyi-isten-cikariyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-14T19:16:00+00:00",
+   "url": "/haber/netflix-1000-kisiyi-isten-cikariyor-sirketin-tarihindeki-en-buyuk-kucu-9a4950e9/"
+  },
+  {
+   "id": "c0815d76",
+   "title": "Fenerbahçe, Şampiyonlar Ligi'nde Aston Villa'ya konuk oluyor",
+   "summary": "UEFA Şampiyonlar Ligi'nde mücadele eden Türk temsilcilerden Fenerbahçe, ligin ikinci hafta maçında bu akşam İngiltere Premier Lig takımlarından Aston Villa'ya konuk oluyor",
+   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd28/live/5e8b98a0-c803-11f1-9a39-31b474234113.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-14T19:14:37+00:00",
+   "url": "/haber/fenerbahce-sampiyonlar-ligi-nde-aston-villa-ya-konuk-oluyor-c0815d76/"
+  },
+  {
+   "id": "3f74e2fb",
+   "title": "Şimdi rakipleri düşünsün! ''Steelseries Rival Pro ve Sensei Pro incelemesi''",
+   "summary": "Steelseries aşırı iyi bir geri dönüş yaptı, Pixart 3955 üzerine kurulu TrueMove 42K Pro 800IPS sensörü, 6GHz UWB bağlantı desteği, yeni Web sürücüsü, tüm detaylar videomuzda.",
+   "link": "https://www.donanimhaber.com/rakipleri-yok-etmeye-geldiler-steelseries-rival-sensei-pro--211644",
+   "image": "https://www.donanimhaber.com/images/images/haber/211644/1200x675rakipleri-yok-etmeye-geldiler-steelseries-rival-sensei-pro.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-14T19:02:53+00:00",
+   "url": "/haber/simdi-rakipleri-dusunsun-steelseries-rival-pro-ve-sensei-pro-incelemes-3f74e2fb/"
+  },
+  {
+   "id": "ebac8d4c",
+   "title": "Yemen'de tırmanan askeri gerilim insani krizi derinleştirdi",
+   "summary": "BM, Yemen'de 800 bin kişiye gıda yardımının ulaştırılamadığını duyururken, Kızılhaç, hastanelerin benzeri görülmemiş bir yaralı akını karşısında çökme noktasına geldiği uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-tirmanan-askeri-gerilim-insani-krizi-derinlestirdi/4088991",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T19:01:54+00:00",
+   "url": "/haber/yemen-de-tirmanan-askeri-gerilim-insani-krizi-derinlestirdi-ebac8d4c/"
+  },
   {
    "id": "16184874",
    "title": "PS5 Artık Nintendo Oyunlarını ve Windows 7’yi Çalıştırabiliyor",
@@ -11,6 +88,28 @@
    "category": "teknoloji",
    "date": "2026-10-14T19:00:32+00:00",
    "url": "/haber/ps5-artik-nintendo-oyunlarini-ve-windows-7-yi-calistirabiliyor-16184874/"
+  },
+  {
+   "id": "4b691a71",
+   "title": "Battlefield 6 5. sezon başladı; işte detaylar",
+   "summary": "Battlefield 6 ve Battlefield REDSEC’in 5. Sezonu, dün başlayan ilk aşamayla (Siege of Las Vegas) birlikte iki yeni harita (Vegas Strip ve Area 51), Battle Royale moduna yönelik yüksek tempolu yenilikler ve yakında oyuna…",
+   "link": "https://www.log.com.tr/battlefield-6-5-sezon-basladi-yeni-haritalar-ve-modlar/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/battlefield-6-38-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-14T19:00:25+00:00",
+   "url": "/haber/battlefield-6-5-sezon-basladi-iste-detaylar-4b691a71/"
+  },
+  {
+   "id": "de156878",
+   "title": "Yemen Başbakanı Zindani: Husilerin Taiz'i kuşatması ve sivilleri hedef alması savaş suçudur",
+   "summary": "Yemen Başbakanı Şayi Muhsin ez-Zindani, Husilerin sivilleri hedef almaya ve Taiz kentini kuşatmaya devam etmesinin zaman aşımına uğramayacak bir \"savaş suçu\" olduğunu belirterek, sorumluların cezasız kalmayacağını…",
+   "link": "https://www.aa.com.tr/tr/dunya/yemen-basbakani-zindani-husilerin-taizi-kusatmasi-ve-sivilleri-hedef-almasi-savas-sucudur/4088987",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T18:58:38+00:00",
+   "url": "/haber/yemen-basbakani-zindani-husilerin-taiz-i-kusatmasi-ve-sivilleri-hedef-de156878/"
   },
   {
    "id": "de7f803b",
@@ -33,6 +132,17 @@
    "category": "teknoloji",
    "date": "2026-10-14T18:54:00+00:00",
    "url": "/haber/nasa-artemis-ii-gorevine-ait-800-gb-tan-fazla-veriyi-erisime-acti-b4ab4d4f/"
+  },
+  {
+   "id": "10bd28d2",
+   "title": "STM’nin sürü İHA'ları Ateş Serbest-2026'ya damga vurdu",
+   "summary": "STM Savunma Teknolojileri Mühendislik ve Ticaret AŞ tarafından geliştirilen insansız hava araçları, Ateş Serbest-2026 Tatbikatı'nda başarıyla görev yaptı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/stm-nin-suru-ihalari-ates-serbest-2026ya-damga-vurdu/4088975",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T18:38:26+00:00",
+   "url": "/haber/stm-nin-suru-iha-lari-ates-serbest-2026-ya-damga-vurdu-10bd28d2/"
   },
   {
    "id": "0e0122df",
@@ -134,28 +244,6 @@
    "url": "/haber/google-dan-android-auto-icin-buyuk-guncelleme-898f0682/"
   },
   {
-   "id": "d50827a5",
-   "title": "İstanbul'da sağanak yağış: Sel, su baskınları ve yoğun trafik",
-   "summary": "İstanbul'da etkisini artıran sağanak yağış yüzünden kentin birçok kesiminden sel ve su baskınları haberleri geliyor. İlde 15 Ekim'de okullar tatil edildi. Vali Gül halka zorunlu olmadıkça evlerinden çıkmamaları çağırısı…",
-   "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/10c9/live/9937c540-c7f5-11f1-9a39-31b474234113.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-14T17:55:02+00:00",
-   "url": "/haber/istanbul-da-saganak-yagis-sel-su-baskinlari-ve-yogun-trafik-d50827a5/"
-  },
-  {
-   "id": "516e44e0",
-   "title": "Küresel piyasalarda altın ve gümüş fiyatları ABD enflasyon verisi sonrası geriliyor",
-   "summary": "Küresel piyasalarda altın ve gümüşün ons fiyatı, ABD'de enflasyon verilerinin beklentilerin üzerinde gelmesinin ardından düşüş kaydetti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-altin-ve-gumus-fiyatlari-abd-enflasyon-verisi-sonrasi-geriliyor/4088935",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T17:49:46+00:00",
-   "url": "/haber/kuresel-piyasalarda-altin-ve-gumus-fiyatlari-abd-enflasyon-verisi-sonr-516e44e0/"
-  },
-  {
    "id": "d55bc8ab",
    "title": "Trump, Japonya'nın ABD'de iki çip fabrikası için 21 milyar dolara kadar yatırım yapacağını açıkladı",
    "summary": "ABD Başkanı Donald Trump, Japonya'nın New York eyaletinde GlobalFoundries tarafından işletilecek iki yarı iletken üretim tesisi için 21 milyar dolara kadar yatırım yapacağını duyurdu.",
@@ -176,17 +264,6 @@
    "category": "gundem",
    "date": "2026-10-14T17:49:01+00:00",
    "url": "/haber/cumhurbaskanligi-yuksek-istisare-kurulu-toplandi-b1d15c38/"
-  },
-  {
-   "id": "c439f378",
-   "title": "İstanbul'da sağanak nedeniyle birçok ilçede su baskınları yaşanıyor",
-   "summary": "İstanbul'da etkili olan sağanak nedeniyle birçok ilçede caddeler, sokaklar, alt geçitler ve tüneller suyla doldu, bazı ilçelerde toprak kayması yaşandı, araçlar suyla dolan yollarda mahsur kaldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-saganak-nedeniyle-bircok-ilcede-su-baskinlari-yasaniyor/4088929",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T17:45:07+00:00",
-   "url": "/haber/istanbul-da-saganak-nedeniyle-bircok-ilcede-su-baskinlari-yasaniyor-c439f378/"
   },
   {
    "id": "d46e8895",
@@ -222,17 +299,6 @@
    "url": "/haber/chp-den-halk-tv-aciklamasi-faturayi-kilicdaroglu-na-cikarmak-hadsizlik-19b4953e/"
   },
   {
-   "id": "9eede700",
-   "title": "Ticaret Bakanı Bolat, Brüksel'de Belçika ve AB yetkilileriyle görüştü",
-   "summary": "Bakan Bolat'ın Brüksel temasları kapsamında, Türkiye'nin AB'nin yeni sanayi düzenlemelerine dahil edilmesi, ortak üretim ve tedarik zincirlerinin korunması ve ticari ilişkilerin geliştirilmesi gibi çeşitli konular ele…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-brukselde-belcika-ve-ab-yetkilileriyle-gorustu/4088913",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T17:31:52+00:00",
-   "url": "/haber/ticaret-bakani-bolat-bruksel-de-belcika-ve-ab-yetkilileriyle-gorustu-9eede700/"
-  },
-  {
    "id": "61279ea2",
    "title": "No Man’s Sky Mobil Cihazlara Geliyor: İşte Tarih",
    "summary": "No Man’s Sky iPhone ve iPad için 28 Ekim'de çıkıyor. Oyunun sistem gereksinimleri, desteklenen modeller ve mobil sürüm detayları haberimizde.",
@@ -266,17 +332,6 @@
    "url": "/haber/abd-savunma-bakani-hegseth-otonom-bir-harp-komutanligina-ihtiyacimiz-v-13872015/"
   },
   {
-   "id": "aa94353d",
-   "title": "\"Türkiye'nin Yeni Anayasa Gündemi\" başlıklı toplantı düzenlendi",
-   "summary": "Çankaya Köşkü'nde, Cumhurbaşkanlığı Hukuk Politikaları Kurulunun \"Türkiye'nin Yeni Anayasa Gündemi\" başlıklı toplantısı gerçekleştirildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-yeni-anayasa-gundemi-baslikli-toplanti-duzenlendi/4088900",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T17:21:54+00:00",
-   "url": "/haber/turkiye-nin-yeni-anayasa-gundemi-baslikli-toplanti-duzenlendi-aa94353d/"
-  },
-  {
    "id": "7ca5bf74",
    "title": "Suudi Arabistan'da \"Six Kings Slam\" tenis turnuvası aralık ayına ertelendi",
    "summary": "Suudi Arabistan'da düzenlenen \"Riyad Sezonu\" kapsamında 21-24 Ekim tarihlerinde yapılması planlanan 3. \"Six Kings Slam\" tenis turnuvası, organizasyonel ve lojistik gerekçelerle 27-30 Aralık tarihlerine ertelendi.",
@@ -299,17 +354,6 @@
    "url": "/haber/elektrikli-motosiklet-menzil-rekoru-kirildi-tek-sarjla-436-km-c6184769/"
   },
   {
-   "id": "c0815d76",
-   "title": "Fenerbahçe, Şampiyonlar Ligi'nde Aston Villa'ya konuk oluyor",
-   "summary": "UEFA Şampiyonlar Ligi'nde mücadele eden Türk temsilcilerden Fenerbahçe, ligin ikinci hafta maçında bu akşam İngiltere Premier Lig takımlarından Aston Villa'ya konuk oluyor",
-   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b7dd/live/088ccf00-c7e5-11f1-b712-6f93dfe07e87.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-14T17:03:13+00:00",
-   "url": "/haber/fenerbahce-sampiyonlar-ligi-nde-aston-villa-ya-konuk-oluyor-c0815d76/"
-  },
-  {
    "id": "8b654e82",
    "title": "OnePlus 16 Satışa Çıktı: İlk Saatte 70 Bin Adet Satıldı",
    "summary": "OnePlus 16, Çin'deki satışlarının ilk saatinde 70 bini aşarak dikkat çekti. İşte OnePlus 16 satış rakamları ve cihazın öne çıkan teknik özellikleri.",
@@ -319,17 +363,6 @@
    "category": "teknoloji",
    "date": "2026-10-14T17:00:48+00:00",
    "url": "/haber/oneplus-16-satisa-cikti-ilk-saatte-70-bin-adet-satildi-8b654e82/"
-  },
-  {
-   "id": "32d15e44",
-   "title": "AKSUNGUR İHA, TOLUN mühimmatıyla ilk atışını gerçekleştirdi",
-   "summary": "Yüksek faydalı yük kapasiteli AKSUNGUR İnsansız Hava Aracı (İHA), Tam Atım Güdümlü Mühimmat TOLUN P ile yaptığı ilk atışta hedefi tam isabetle vurdu.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aksungur-iha-tolun-muhimmatiyla-ilk-atisini-gerceklestirdi/4088883",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T16:58:11+00:00",
-   "url": "/haber/aksungur-iha-tolun-muhimmatiyla-ilk-atisini-gerceklestirdi-32d15e44/"
   },
   {
    "id": "19c12c28",
@@ -453,15 +486,15 @@
    "url": "/haber/ekrem-imamoglu-savunmasinin-ilk-gununde-halk-tv-fon-krizi-ve-yasaklana-d84c4af1/"
   },
   {
-   "id": "4bed33ed",
-   "title": "İstanbul'da eğitime 1 gün ara verildi",
-   "summary": "İstanbul Valiliği, olumsuz hava koşulları nedeniyle kent genelinde yüz yüze eğitime yarın ara verildiğini açıkladı.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-egitime-1-gun-ara-verildi-960119.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/saganak-aa-2495819.jpg",
+   "id": "895a864d",
+   "title": "İstanbul'da dereler taştı, yollar göle döndü",
+   "summary": "İstanbul'da etkili olan sağanak nedeniyle kent genelinde su baskınları yaşandı, yollar, alt geçitler ve tüneller suyla doldu. Olumsuz hava koşulları nedeniyle kent genelinde yüz yüze eğitime yarın ara verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-dereler-tasti-yollar-gole-dondu-960119.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/taskin-aa-2495822.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-14T15:38:00+00:00",
-   "url": "/haber/istanbul-da-egitime-1-gun-ara-verildi-4bed33ed/"
+   "url": "/haber/istanbul-da-dereler-tasti-yollar-gole-dondu-895a864d/"
   },
   {
    "id": "5ef255e8",
@@ -495,6 +528,17 @@
    "category": "teknoloji",
    "date": "2026-10-14T15:30:35+00:00",
    "url": "/haber/whatsapp-ta-hesabi-olmayanlari-arayabileceksiniz-a5c791c5/"
+  },
+  {
+   "id": "ff7b4cda",
+   "title": "Ticaret Bakanı Bolat'tan \"AB'nin sanayi düzenlemesi Türkiye-AB ortaklığını zedelememeli\" uyarısı",
+   "summary": "Bolat, Türkiye ile AB arasındaki sanayi entegrasyonunun dikkate alınması gerektiğini belirterek, \"Türkiye ve AB açısından bu ortaklığı ve Gümrük Birliği ortaklığını zedelemeyecek bir karar çıkması gerektiğini güçlü…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolattan-abnin-sanayi-duzenlemesi-turkiye-ab-ortakligini-zedelememeli-uyarisi/4088787",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T15:22:52+00:00",
+   "url": "/haber/ticaret-bakani-bolat-tan-ab-nin-sanayi-duzenlemesi-turkiye-ab-ortaklig-ff7b4cda/"
   },
   {
    "id": "ccea8ff6",
@@ -585,17 +629,6 @@
    "url": "/haber/youtube-yorumlarina-gif-ve-gorsel-destegi-geliyor-tarih-ortaya-cikti-c1681de5/"
   },
   {
-   "id": "25a9bdec",
-   "title": "Apple HomeView'un uygulama desteği sınırlı olacak!",
-   "summary": "Yeni Apple HomeView akıllı ev ekranı, uygulama mağazası içermiyor, bu nedenle cihaz üzerinde uygulama indirmenin bir yolu yok. Peki, üçüncü taraf uygulamalar nasıl kullanılacak?",
-   "link": "https://www.donanimhaber.com/apple-homeview-un-uygulama-destegi-sinirli-olacak--211628",
-   "image": "https://www.donanimhaber.com/images/images/haber/211628/1200x675apple-homeview-un-uygulama-destegi-sinirli-olacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-14T14:21:00+00:00",
-   "url": "/haber/apple-homeview-un-uygulama-destegi-sinirli-olacak-25a9bdec/"
-  },
-  {
    "id": "d0ce8595",
    "title": "WhatsApp: “Artık istediğiniz herkesi WhatsApp aramasına davet edebilirsiniz”",
    "summary": "“Bugün WhatsApp aramalarını her zamankinden daha erişilebilir hale getiriyoruz. Konuk olarak arama sayesinde artık WhatsApp hesabına sahip olmasa bile herkesi bir WhatsApp aramasına katılmaya davet edebilirsiniz. Bu,…",
@@ -649,17 +682,6 @@
    "category": "teknoloji",
    "date": "2026-10-14T13:59:49+00:00",
    "url": "/haber/anker-solix-s2000-turkiye-de-7e287964/"
-  },
-  {
-   "id": "2bdae2a9",
-   "title": "1.2 PureTech motor mağdurlarına Stellantis'ten özür: 50 özel ekip devrede",
-   "summary": "Stellantis CEO'su Antonio Filosa, 1.2 PureTech motorlardaki arızalar ve Takata hava yastıkları nedeniyle müşterilerden özür diledi. Ayrıca bu sorunlarla ilgili 50 özel ekibin görev yaptığını açıkladı.",
-   "link": "https://www.donanimhaber.com/1-2-puretech-motor-magdurlarina-stellantis-ten-ozur-50-ozel-ekip--211632",
-   "image": "https://www.donanimhaber.com/images/images/haber/211632/1200x6751-2-puretech-motor-magdurlarina-stellantis-ten-ozur-50-ozel-ekip.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-14T13:57:00+00:00",
-   "url": "/haber/1-2-puretech-motor-magdurlarina-stellantis-ten-ozur-50-ozel-ekip-devre-2bdae2a9/"
   },
   {
    "id": "33037965",
@@ -871,17 +893,6 @@
    "url": "/haber/mahmutbey-habipler-yolunda-su-baskini-trafik-durdu-1ea98644/"
   },
   {
-   "id": "df46eecb",
-   "title": "Nothing, iki farklı akıllı gözlük üzerinde çalışıyor",
-   "summary": "Roland Quandt’ın elde ettiği bilgilere göre Nothing şu anda iki farklı akıllı gözlük modeli üzerinde çalışıyor. Quandt, şirketin pazara ilk olarak ses odaklı kamerasız bir model çıkaracağını belirtiyor. Mikrofon ve…",
-   "link": "https://www.log.com.tr/nothing-iki-farkli-akilli-gozluk-uzerinde-calisiyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-14_15-35-54_eotKY-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-14T12:37:50+00:00",
-   "url": "/haber/nothing-iki-farkli-akilli-gozluk-uzerinde-calisiyor-df46eecb/"
-  },
-  {
    "id": "8cd8f6ea",
    "title": "İşgalci İsrail askerlerinden TRT yayınına müdahale",
    "summary": "Batı Şeria’da işgalci İsrailliler bir camiyi daha kundakladı. Saldırıyı dünyaya duyurmak için orada bulunan TRT Haber ekibi, katil İsrail askerleri tarafından bölgeden uzaklaştırıldı.",
@@ -1023,17 +1034,6 @@
    "category": "gundem",
    "date": "2026-10-14T10:51:55+00:00",
    "url": "/haber/16-yasindaki-gulden-30-bicak-darbesiyle-oldurulmustu-delilleri-gizleye-3841bfcd/"
-  },
-  {
-   "id": "a1c78042",
-   "title": "OpenAI Ofislerinde Gizli Kayıt Cihazı Skandalı Ortaya Çıktı",
-   "summary": "OpenAI ofislerinde gizli bir kayıt cihazı bulundu. Şirket, durumu FBI'a bildirdi ve ilgili çalışanın işine son verildi. Veri güvenliği konusunda güncel bilgiler.",
-   "link": "https://shiftdelete.net/openai-ofislerinde-gizli-kayit-cihazi-skandali-ortaya-cikti",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-14T10:30:50+00:00",
-   "url": "/haber/openai-ofislerinde-gizli-kayit-cihazi-skandali-ortaya-cikti-a1c78042/"
   },
   {
    "id": "5ad92abf",
