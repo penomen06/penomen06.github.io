@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-14T18:01:08.602662+00:00",
+ "updated": "2026-10-14T18:31:02.012930+00:00",
  "items": [
+  {
+   "id": "2cec795f",
+   "title": "İstanbul'da sağanak yağış ne kadar sürecek?",
+   "summary": "İstanbul'da yapılan uyarıların ardından kuvvetli sağanak etkili oluyor. Gün içinde Avrupa Yakası'nda etkili olan yağış, akşam ve gece saatlerinde Anadolu Yakası'nda devam edecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-is-cikis-saatine-dikkat-firtina-geliyor-anadolu-yakasinda-hava-patlayacak-1746280",
+   "image": "https://images.ntv.com.tr/images/AA-20261014-42755808-42755799-ISTANBULDA_SAGANAK_ETKILI_OLDU-607158.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-14T18:29:48+00:00",
+   "url": "/haber/istanbul-da-saganak-yagis-ne-kadar-surecek-2cec795f/"
+  },
+  {
+   "id": "34d8c50f",
+   "title": "İçişleri Bakanı Çiftçi'den İstanbul ve Antalya'daki kuvvetli yağışlara ilişkin paylaşım",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, İstanbul ve Antalya'da etkili olan kuvvetli sağanağın yol açtığı olumsuzluklara karşı 10 bin 293 personel ile 3 bin 118 araç ve iş makinesinin sahada görev yaptığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-istanbul-ve-antalyadaki-kuvvetli-yagislara-iliskin-paylasim/4088966",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T18:22:45+00:00",
+   "url": "/haber/icisleri-bakani-ciftci-den-istanbul-ve-antalya-daki-kuvvetli-yagislara-34d8c50f/"
+  },
+  {
+   "id": "c59eac7f",
+   "title": "CATL, sodyum iyon bataryalarını Avrupa'da yaygınlaştırmak için harekete geçti",
+   "summary": "CATL, Avrupa'da sodyum iyon bataryaları yaygınlaştırmak için Intilion ile anlaştı. İki şirket, önümüzdeki beş yılda 3 GWh'ye kadar enerji depolama projesi geliştirmeyi hedefliyor.",
+   "link": "https://www.donanimhaber.com/catl-avrupa-da-sodyum-iyon-yatirimlarini-artiriyor--211615",
+   "image": "https://www.donanimhaber.com/images/images/haber/211615/1200x675catl-avrupa-da-sodyum-iyon-yatirimlarini-artiriyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-14T18:10:00+00:00",
+   "url": "/haber/catl-sodyum-iyon-bataryalarini-avrupa-da-yayginlastirmak-icin-harekete-c59eac7f/"
+  },
+  {
+   "id": "a9c54244",
+   "title": "İstanbul'da sağanak nedeniyle 2 bin 518 ihbar yapıldı",
+   "summary": "İstanbul Valiliği, kentte etkili olan sağanak nedeniyle AFAD ve 112 Acil Çağrı Merkezi'ne 2 bin 518 ihbar ulaştığını, olumsuzluklara müdahale için 8 bin personel ile 2 bin araç ve iş makinesinin görev yaptığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-saganak-nedeniyle-2-bin-518-ihbar-yapildi/4088950",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T18:02:05+00:00",
+   "url": "/haber/istanbul-da-saganak-nedeniyle-2-bin-518-ihbar-yapildi-a9c54244/"
+  },
   {
    "id": "898f0682",
    "title": "Google’dan Android Auto için Büyük Güncelleme",
@@ -57,6 +101,17 @@
    "url": "/haber/istanbul-da-saganak-nedeniyle-bircok-ilcede-su-baskinlari-yasaniyor-c439f378/"
   },
   {
+   "id": "d46e8895",
+   "title": "NATO gemilerine hizmet veren şirkete yönelik soruşturma kapsamında 3 ülkede operasyon düzenlendi",
+   "summary": "Avrupa Birliği (AB) Ceza Adaleti İşbirliği Ajansı (Eurojust) koordinasyonunda, NATO’ya ait askeri gemilere hizmet sağlayan bir şirkete yönelik dolandırıcılık ve rüşvet iddiaları kapsamında Norveç, Almanya ve Romanya'da…",
+   "link": "https://www.aa.com.tr/tr/dunya/nato-gemilerine-hizmet-veren-sirkete-yonelik-sorusturma-kapsaminda-3-ulkede-operasyon-duzenlendi/4088924",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T17:42:47+00:00",
+   "url": "/haber/nato-gemilerine-hizmet-veren-sirkete-yonelik-sorusturma-kapsaminda-3-u-d46e8895/"
+  },
+  {
    "id": "e09175aa",
    "title": "En uzun güncelleme desteği sunan TV markaları",
    "summary": "Akıllı televizyonlarda yazılım desteği markadan markaya değişiyor. Peki Samsung, LG, Sony, TCL ve diğer TV üreticileri kaç yıl güncelleme sunuyor, en uzun desteği hangi marka veriyor?",
@@ -110,6 +165,28 @@
    "category": "teknoloji",
    "date": "2026-10-14T17:30:19+00:00",
    "url": "/haber/no-man-s-sky-mobil-cihazlara-geliyor-iste-tarih-61279ea2/"
+  },
+  {
+   "id": "0b65d2e5",
+   "title": "Trabzonspor Teknik Direktörü Reis: Konferans Ligi'ndeki hedefimiz çok iyi başlangıç yapmak",
+   "summary": "UEFA Konferans Ligi'nin ilk haftasında yarın Finlandiya ekibi KuPS Kuopio ile deplasmanda karşılaşacak Trabzonspor'da teknik direktör Thomas Reis, hedeflerinin en iyilerini verip galip gelerek çok iyi başlangıç yapmak…",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-teknik-direktoru-reis-konferans-ligindeki-hedefimiz-cok-iyi-baslangic-yapmak/4088904",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T17:26:51+00:00",
+   "url": "/haber/trabzonspor-teknik-direktoru-reis-konferans-ligi-ndeki-hedefimiz-cok-i-0b65d2e5/"
+  },
+  {
+   "id": "13872015",
+   "title": "ABD Savunma Bakanı Hegseth: Otonom bir harp komutanlığına ihtiyacımız var",
+   "summary": "ABD Savunma Bakanı Pete Hegseth, otonom savaşın geleceği üzerine düzenlenen panelde, bu teknolojiye duydukları ihtiyacın altını çizdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-savunma-bakani-hegseth-otonom-bir-harp-komutanligina-ihtiyacimiz-var/4088903",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T17:25:58+00:00",
+   "url": "/haber/abd-savunma-bakani-hegseth-otonom-bir-harp-komutanligina-ihtiyacimiz-v-13872015/"
   },
   {
    "id": "aa94353d",
@@ -178,17 +255,6 @@
    "url": "/haber/israil-de-gozler-27-ekim-de-yapilacak-meclis-secimlerine-cevrildi-65168b6b/"
   },
   {
-   "id": "9889a34f",
-   "title": "Tahran-İstanbul seferini yapan yolcu uçağı Tebriz'e acil iniş yaptı",
-   "summary": "İran'ın başkenti Tahran'dan İstanbul'a giden İran Airtour Havayollarına ait Airbus A320 tipi yolcu uçağının teknik arıza nedeniyle Tebriz Uluslararası Havalimanı'na acil iniş yaptığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/tahran-istanbul-seferini-yapan-yolcu-ucagi-tebrize-acil-inis-yapti/4088884",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T17:04:11+00:00",
-   "url": "/haber/tahran-istanbul-seferini-yapan-yolcu-ucagi-tebriz-e-acil-inis-yapti-9889a34f/"
-  },
-  {
    "id": "c0815d76",
    "title": "Fenerbahçe, Şampiyonlar Ligi'nde Aston Villa'ya konuk oluyor",
    "summary": "UEFA Şampiyonlar Ligi'nde mücadele eden Türk temsilcilerden Fenerbahçe, ligin ikinci hafta maçında bu akşam İngiltere Premier Lig takımlarından Aston Villa'ya konuk oluyor",
@@ -255,28 +321,6 @@
    "url": "/haber/ps-plus-ekim-2026-oyunlari-aciklandi-extra-ve-premium-0fc0902c/"
   },
   {
-   "id": "f2048c33",
-   "title": "İletişim Başkanı Duran: Dezenformasyon konusunu önceliklerimizin birinci sırasına koyduk",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanı Duran, \"Hem Türkiye olarak hem de Cumhurbaşkanlığı İletişim Başkanlığı olarak dezenformasyon konusunu önceliklerimizin birinci sırasına koyduk.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-dezenformasyon-konusunu-onceliklerimizin-birinci-sirasina-koyduk/4088872",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T16:39:52+00:00",
-   "url": "/haber/iletisim-baskani-duran-dezenformasyon-konusunu-onceliklerimizin-birinc-f2048c33/"
-  },
-  {
-   "id": "d5831399",
-   "title": "TFF Başkanı Hacıosmanoğlu, teknik direktör Montella ile vedalaştı",
-   "summary": "Türkiye Futbol Federasyonu (TFF) Başkanı İbrahim Hacıosmanoğlu, A Milli Takım ile yollarını ayıran İtalyan teknik direktör Vincenzo Montella ile makamında bir araya gelerek vedalaştı.",
-   "link": "https://www.aa.com.tr/tr/spor/tff-baskani-haciosmanoglu-teknik-direktor-montella-ile-vedalasti/4088870",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T16:39:25+00:00",
-   "url": "/haber/tff-baskani-haciosmanoglu-teknik-direktor-montella-ile-vedalasti-d5831399/"
-  },
-  {
    "id": "494a50df",
    "title": "Changan ve CATL’den batarya hamlesi: Hedef 1.500 km üzeri menzil",
    "summary": "Changan ve CATL, ortak batarya üretim kapasitesini 75 GWh’ye çıkarıyor. İş birliği katı hâl ve sodyum iyon bataryaları da kapsarken Changan, yeni hücreleriyle 1.500 km üzeri menzil sunmayı hedefliyor.",
@@ -308,17 +352,6 @@
    "category": "gundem",
    "date": "2026-10-14T16:28:00+00:00",
    "url": "/haber/fon-sorusturmasinda-eski-spk-baskani-gonul-icin-sorusturma-izni-verild-9e077182/"
-  },
-  {
-   "id": "baa71090",
-   "title": "İsrail Genelkurmay Başkanı, \"tüm cephelerde gerginliğin tırmanma ihtimalinin arttığını\" ileri sürdü",
-   "summary": "İsrail Genelkurmay Başkanı Eyal Zamir, ülkede yapılacak genel seçimler öncesinde İran'a yönelik saldırı olasılığı tartışılırken \"tüm cephelerde tehlike seviyesinin ve buna bağlı olarak gerginliğin tırmanma ihtimalinin…",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-genelkurmay-baskani-tum-cephelerde-gerginligin-tirmanma-ihtimalinin-arttigini-ileri-surdu/4088849",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T16:24:40+00:00",
-   "url": "/haber/israil-genelkurmay-baskani-tum-cephelerde-gerginligin-tirmanma-ihtimal-baa71090/"
   },
   {
    "id": "895bc09f",
@@ -418,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-10-14T15:30:35+00:00",
    "url": "/haber/whatsapp-ta-hesabi-olmayanlari-arayabileceksiniz-a5c791c5/"
-  },
-  {
-   "id": "2cec795f",
-   "title": "İstanbul'da sağanak yağış ne kadar sürecek?",
-   "summary": "İstanbul'da yapılan uyarıların ardından kuvvetli sağanak etkili oluyor. Gün içinde Avrupa Yakası'nda etkili olan yağış, akşam ve gece saatlerinde Anadolu Yakası'nda devam edecek.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-is-cikis-saatine-dikkat-firtina-geliyor-anadolu-yakasinda-hava-patlayacak-1746280",
-   "image": "https://images.ntv.com.tr/images/sağanak-500079.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-14T15:25:11+00:00",
-   "url": "/haber/istanbul-da-saganak-yagis-ne-kadar-surecek-2cec795f/"
   },
   {
    "id": "ccea8ff6",
@@ -695,17 +717,6 @@
    "url": "/haber/apple-yeni-mac-modellerini-ve-oled-ipad-mini-yi-27-ekim-de-tanitabilir-7d9194db/"
   },
   {
-   "id": "b498604c",
-   "title": "Xbox Labs duyuruldu: Oyunlar daha fazla platforma geliyor",
-   "summary": "Microsoft, oyunların farklı platformlarda çalıştırılmasını sağlayan projeleri araştırmak için Xbox Labs'i kurdu. Ekip, yapay zeka destekli oyun geliştirme ve yeniden derleme üzerine çalışacak.",
-   "link": "https://www.donanimhaber.com/xbox-labs-duyuruldu-oyunlar-daha-fazla-platforma-geliyor--211614",
-   "image": "https://www.donanimhaber.com/images/images/haber/211614/1200x675xbox-labs-duyuruldu-oyunlar-daha-fazla-platforma-geliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-14T13:38:00+00:00",
-   "url": "/haber/xbox-labs-duyuruldu-oyunlar-daha-fazla-platforma-geliyor-b498604c/"
-  },
-  {
    "id": "22843f12",
    "title": "GTA 6'dan Yeni Bir Sızıntı Daha Geldi: Cyberleek'ten Açıklama Var!",
    "summary": "Cyberleek, GTA 6'ya dair \"son\" bir sızıntı daha yayımladı ve önemli bir açıklamada bulundu.",
@@ -946,17 +957,6 @@
    "category": "gundem",
    "date": "2026-10-14T11:37:40+00:00",
    "url": "/haber/kripto-dunyasinda-balina-james-olarak-taniniyor-besiktas-ta-yakalandi-bf96faf6/"
-  },
-  {
-   "id": "3d5d8f17",
-   "title": "Küresel İslami finans liderlerini Londra'da buluşturan 5. AlBaraka Zirvesi'nin ikinci günü",
-   "summary": "5. AlBaraka Zirvesi, Londra'da \"Eylemde Etik: Temelleri Yeniden İnşa Etmek ve İslami Ekonominin Küresel Etkisini İleri Taşımak\" temasıyla düzenleniyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-islami-finans-liderlerini-londrada-bulusturan-5-albaraka-zirvesinin-ikinci-gunu/4088448",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T11:32:35+00:00",
-   "url": "/haber/kuresel-islami-finans-liderlerini-londra-da-bulusturan-5-albaraka-zirv-3d5d8f17/"
   },
   {
    "id": "3f7d0a27",
