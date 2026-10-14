@@ -1,6 +1,171 @@
 {
- "updated": "2026-10-14T09:01:19.511632+00:00",
+ "updated": "2026-10-14T09:31:04.670641+00:00",
  "items": [
+  {
+   "id": "c893d47e",
+   "title": "Anthropic Claude Fable 5.5 için Geri Sayım Başladı",
+   "summary": "Anthropic, Claude Fable 5.5 modelini bu hafta çıkarıyor. Şirket botnet riskine karşı uyarırken, Meta yeni Active Memory özellikli modellerini tanıttı.",
+   "link": "https://shiftdelete.net/claude-fable-5-5-anthropic-meta-muse-wonder",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-14T09:30:06+00:00",
+   "url": "/haber/anthropic-claude-fable-5-5-icin-geri-sayim-basladi-c893d47e/"
+  },
+  {
+   "id": "03535baf",
+   "title": "Netflix, 2030 Dünya Kupası Maçlarının Yayın Haklarını Satın Aldı",
+   "summary": "Netflix, 2030 Dünya Kupası’nın İspanya ve Andorra’daki yayın haklarını satın aldı. Tüm organizasyon, bu iki ülkede yalnızca Netflix’ten yayımlanacak.",
+   "link": "https://www.webtekno.com/netflix-2030-dunya-kupasi-maclarinin-yayin-haklari-aldi-h227042.html",
+   "image": "https://imgrosetta.webtekno.com/file/692497/692497-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-14T09:28:48+00:00",
+   "url": "/haber/netflix-2030-dunya-kupasi-maclarinin-yayin-haklarini-satin-aldi-03535baf/"
+  },
+  {
+   "id": "8809579c",
+   "title": "Türk tiyatrosunun emektar meddahı: Erol Günaydın",
+   "summary": "Türk tiyatrosunda meddahlık geleneğinin önemli temsilcilerinden oyuncu, yönetmen ve senarist Erol Günaydın'ın vefatının üzerinden 14 yıl geçti.",
+   "link": "https://www.aa.com.tr/tr/portre/turk-tiyatrosunun-emektar-meddahi-erol-gunaydin/4088266",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T09:18:24+00:00",
+   "url": "/haber/turk-tiyatrosunun-emektar-meddahi-erol-gunaydin-8809579c/"
+  },
+  {
+   "id": "2cec795f",
+   "title": "İstanbul'da iş çıkış saatine dikkat. Fırtına geliyor, Anadolu yakasında hava patlayacak",
+   "summary": "İstanbul'da etkili olan kuvvetli sağanak ve fırtına için yeni uyarı yapıldı. Akşam saatlerine kadar Avrupa yakasında etkili olacak fırtına, 17.00'den sonra Anadolu yakasını etkisi altına alacak.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-is-cikis-saatine-dikkat-firtina-geliyor-anadolu-yakasinda-hava-patlayacak-1746280",
+   "image": "https://images.ntv.com.tr/images/sağanak-500079.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-14T09:16:45+00:00",
+   "url": "/haber/istanbul-da-is-cikis-saatine-dikkat-firtina-geliyor-anadolu-yakasinda-2cec795f/"
+  },
+  {
+   "id": "f932ba41",
+   "title": "Pakistan'dan ABD ve İran'a \"İslamabad Mutabakatı taahhütlerine sadık kalın\" çağrısı",
+   "summary": "Pakistan Cumhurbaşkanı Asıf Ali Zerdari, ABD ve İran'a itidal ve bu ülkelerden haziranda varılan \"İslamabad Mutabakatı\" kapsamındaki taahhütlerine sadık kalmaları çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/pakistandan-abd-ve-irana-islamabad-mutabakati-taahhutlerine-sadik-kalin-cagrisi/4088264",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T09:16:41+00:00",
+   "url": "/haber/pakistan-dan-abd-ve-iran-a-islamabad-mutabakati-taahhutlerine-sadik-ka-f932ba41/"
+  },
+  {
+   "id": "75d7bcd1",
+   "title": "Endonezya, orman yangınlarının birkaç hafta içinde söndürülmesini hedefliyor",
+   "summary": "Endonezya Çevre Bakanı Jumhur Hidayat, ülkede aylardır süren orman yangınlarının birkaç hafta içinde söndürülmesini hedeflediklerini söyledi.​​​​​​​",
+   "link": "https://www.aa.com.tr/tr/dunya/endonezya-orman-yanginlarinin-birkac-hafta-icinde-sondurulmesini-hedefliyor/4088263",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T09:16:09+00:00",
+   "url": "/haber/endonezya-orman-yanginlarinin-birkac-hafta-icinde-sondurulmesini-hedef-75d7bcd1/"
+  },
+  {
+   "id": "48aa4332",
+   "title": "İstanbul'u sağanak ve fırtına vurdu. Yollar göle döndü, bir kadın suya kapıldı",
+   "summary": "Peş peşe yapılan uyarıların ardından sağanak yağışın şiddetlendiği İstanbul'da yollar göle döndü. Esenyurt'ta suya kapılan kadın, vatandaşların yardımıyla kurtarıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulu-saganak-ve-firtina-vurdu-yollar-gole-dondu-bir-kadin-suya-kapildi-1746241",
+   "image": "https://images.ntv.com.tr/images/Esenyurt-991392.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-14T09:14:38+00:00",
+   "url": "/haber/istanbul-u-saganak-ve-firtina-vurdu-yollar-gole-dondu-bir-kadin-suya-k-48aa4332/"
+  },
+  {
+   "id": "841acad0",
+   "title": "Halk TV'ye kayyum atandı. Mali şube ekipleri Halk TV binasında arama yapıyor",
+   "summary": "Mali Suçlarla Mücadele Şube Müdürlüğü ekipleri sabahın erken saatlerinde Halk TV'nin İstanbul'daki ofisinde arama başlattı. Kanala kayyum atandı, yayınlar durduruldu.",
+   "link": "https://www.ntv.com.tr/turkiye/halk-tvye-kayyum-atandi-mali-sube-ekipleri-halk-tv-binasinda-arama-yapiyor-1746219",
+   "image": "https://images.ntv.com.tr/images/Medya-336039.jfif",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-14T09:11:44+00:00",
+   "url": "/haber/halk-tv-ye-kayyum-atandi-mali-sube-ekipleri-halk-tv-binasinda-arama-ya-841acad0/"
+  },
+  {
+   "id": "f8b30885",
+   "title": "Castlevania: Belmont’s Curse İnceleme",
+   "summary": "Tek oyunculu, safkan bir Metroidvania tarzı Castlevania oyunu oynamayalı neredeyse yirmi yıl olmuş. Düşününce gerçekten inanılmaz bir süre. Seriye ilk adımımı bundan on yılı aşkın bir süre önce efsanevi Symphony of the…",
+   "link": "https://shiftdelete.net/castlevania-belmonts-curse-inceleme",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-14T09:10:51+00:00",
+   "url": "/haber/castlevania-belmont-s-curse-inceleme-f8b30885/"
+  },
+  {
+   "id": "617c8a87",
+   "title": "Sony, korsan PS5 oyun indirme mağazasını kapattı!",
+   "summary": "Binlerce PS4 ve PS5 oyununu ücretsiz olarak sunan resmi olmayan oyun mağazası Overdrive'ın, Sony Interactive Entertainment tarafından açılan dava sonrasında kapandığı bildirildi. İşte ayrıntılar:",
+   "link": "https://www.donanimhaber.com/sony-korsan-ps5-oyun-indirme-magazasini-kapatti--211605",
+   "image": "https://www.donanimhaber.com/images/images/haber/211605/1200x675sony-korsan-ps5-oyun-indirme-magazasini-kapatti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-14T09:10:00+00:00",
+   "url": "/haber/sony-korsan-ps5-oyun-indirme-magazasini-kapatti-617c8a87/"
+  },
+  {
+   "id": "da7bfaae",
+   "title": "Yeni Steam İstemci Güncellemesi Yayımlandı: İşte Yeni Geniş Ekran Modu Görünümü ve Dahası!",
+   "summary": "Yeni Steam istemci güncellemesiyle geniş ekran modu için yeni bir görünüm kullanıcılara sunuldu.",
+   "link": "https://www.webtekno.com/yeni-steam-istemci-guncellemesi-yayimlandi-h227074.html",
+   "image": "https://imgrosetta.webtekno.com/file/692527/692527-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-14T09:06:45+00:00",
+   "url": "/haber/yeni-steam-istemci-guncellemesi-yayimlandi-iste-yeni-genis-ekran-modu-da7bfaae/"
+  },
+  {
+   "id": "def6a1e7",
+   "title": "TURKA, TÜVTÜRK’ün istasyonlarını devralmak üzere görüşmelere başladı",
+   "summary": "İHA’da yer alan habere göre araç muayene sürecini 15 Ağustos 2007’den itibaren 20 yıl boyunca üstlenecek TURKA ile TÜVTÜRK arasında, mevcut muayene istasyonlarının devralınmasına yönelik iyi niyet anlaşması imzalandı.…",
+   "link": "https://www.log.com.tr/turka-tuvturkun-istasyonlarini-devralmak-uzere-gorusmelere-basladi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-14_12-02-55_Z8Wa1-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-14T09:06:07+00:00",
+   "url": "/haber/turka-tuvturk-un-istasyonlarini-devralmak-uzere-gorusmelere-basladi-def6a1e7/"
+  },
+  {
+   "id": "71f18396",
+   "title": "İBB davasında Ekrem İmamoğlu savunma yapıyor",
+   "summary": "Tutuklandıktan sonra İstanbul Büyükşehir Belediye (İBB) Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu, bugün mahkemede 19 ay sonra savunma yapıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/ibb-davasinda-ekrem-imamoglu-savunma-yapacak-1746242",
+   "image": "https://images.ntv.com.tr/images/ekrem-immao_C4_9Flu-379689-952440-791278-376635.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-14T09:03:31+00:00",
+   "url": "/haber/ibb-davasinda-ekrem-imamoglu-savunma-yapiyor-71f18396/"
+  },
+  {
+   "id": "b9fc507d",
+   "title": "İspanya'da konut krizi: Sanchez erken seçimle neyi hedefliyor?",
+   "summary": "Parlamentonun konut krizine yönelik önlemleri reddetmesinin ardından Sanchez, yükselen toplumsal tepkiyi seçim gündeminin merkezine yerleştirerek tartışmayı yolsuzluk iddialarından sosyal adalet meselesine taşımak…",
+   "link": "https://www.aa.com.tr/tr/analiz/-ispanyada-konut-krizi-sanchez-erken-secimle-neyi-hedefliyor/4088238",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T09:02:39+00:00",
+   "url": "/haber/ispanya-da-konut-krizi-sanchez-erken-secimle-neyi-hedefliyor-b9fc507d/"
+  },
+  {
+   "id": "d81f86e8",
+   "title": "Kuş görünümlü roket-dron tasarımı patentle tescillendi",
+   "summary": "Kahramanmaraş Sütçü İmam Üniversitesinde (KSÜ) hazırlanan \"Kuş Görünümlü Kanatlı Kamikaze Roket Dron\" tasarımı, Türk Patent ve Marka Kurumunca ulusal patentle tescillendi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/kus-gorunumlu-roket-dron-tasarimi-patentle-tescillendi/4088236",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T09:01:39+00:00",
+   "url": "/haber/kus-gorunumlu-roket-dron-tasarimi-patentle-tescillendi-d81f86e8/"
+  },
   {
    "id": "496e7a6d",
    "title": "iPhone Duo için İlk Güncelleme Hazır",
@@ -11,17 +176,6 @@
    "category": "teknoloji",
    "date": "2026-10-14T09:00:24+00:00",
    "url": "/haber/iphone-duo-icin-ilk-guncelleme-hazir-496e7a6d/"
-  },
-  {
-   "id": "48aa4332",
-   "title": "İstanbul'u sağanak ve fırtına vurdu. Yollar göle döndü, bir kadın suya kapıldı",
-   "summary": "Peş peşe gelen uyarıların ardından sağanak yağışın şiddetlendiği İstanbul'da yollar göle döndü. Esenyurt'ta suya kapılan kadın vatandaşların yardımıyla kurtarıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulu-saganak-ve-firtina-vurdu-yollar-gole-dondu-bir-kadin-suya-kapildi-1746241",
-   "image": "https://images.ntv.com.tr/images/Esenyurt-991392.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-14T08:59:59+00:00",
-   "url": "/haber/istanbul-u-saganak-ve-firtina-vurdu-yollar-gole-dondu-bir-kadin-suya-k-48aa4332/"
   },
   {
    "id": "11c1d639",
@@ -35,15 +189,15 @@
    "url": "/haber/honor-dan-12-070-mah-bataryali-telefon-geliyor-bugune-kadarki-en-buyuk-11c1d639/"
   },
   {
-   "id": "71f18396",
-   "title": "İBB davasında Ekrem İmamoğlu savunma yapıyor",
-   "summary": "Tutuklandıktan sonra İstanbul Büyükşehir Belediye (İBB) Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu, bugün mahkemede 19 ay sonra savunma savunma yapıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/ibb-davasinda-ekrem-imamoglu-savunma-yapacak-1746242",
-   "image": "https://images.ntv.com.tr/images/ekrem-immao_C4_9Flu-379689-952440-791278-376635.png",
-   "source": "ntv.com.tr",
+   "id": "655c38ab",
+   "title": "Bakan Uraloğlu: Ankara-Samsun hızlı demir yolu hattının Delice-Çorum etabında ilerleme yüzde 40'ı aştı",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Delice'den başlayıp Samsun'a ulaşacak Ankara-Kırıkkale-Çorum-Samsun Hızlı Demir Yolu Projesi'nin Delice-Çorum kesiminde yüzde 40'ın üzerinde ilerleme sağlandığını…",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-ankara-samsun-hizli-demir-yolu-hattinin-delice-corum-etabinda-ilerleme-yuzde-40i-asti/4088222",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-14T08:57:48+00:00",
-   "url": "/haber/ibb-davasinda-ekrem-imamoglu-savunma-yapiyor-71f18396/"
+   "date": "2026-10-14T08:53:19+00:00",
+   "url": "/haber/bakan-uraloglu-ankara-samsun-hizli-demir-yolu-hattinin-delice-corum-et-655c38ab/"
   },
   {
    "id": "d1eb833c",
@@ -167,39 +321,6 @@
    "url": "/haber/netflix-ten-strateji-degisikligi-narnia-once-49-gun-sinemada-olacak-da270622/"
   },
   {
-   "id": "6b7c340f",
-   "title": "İşgalin silemediği görsel panorama \"Kudüs'ün Hafızası\" Anadolu Ajansı Arşivi'nde",
-   "summary": "Osmanlı İmparatorluğu'ndan bugüne Filistin'in mimari ve sosyal tarihini kesintisiz görsel panoramayla sunan \"Kudüs'ün Hafızası\" koleksiyonu, Anadolu Ajansı (AA) Arşivi üzerinden kamuoyunun erişimine açılıyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/isgalin-silemedigi-gorsel-panorama-kudusun-hafizasi-anadolu-ajansi-arsivinde/4088178",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T08:23:53+00:00",
-   "url": "/haber/isgalin-silemedigi-gorsel-panorama-kudus-un-hafizasi-anadolu-ajansi-ar-6b7c340f/"
-  },
-  {
-   "id": "d91e0d0b",
-   "title": "Küresel petrol arzı eylülde günlük 2,5 milyon varil arttı",
-   "summary": "Uluslararası Enerji Ajansı (IEA), Körfez'deki üreticilerin üretim ve ihracatını artırmasıyla küresel petrol arzının eylülde önceki aya göre günlük 2 milyon 500 bin varil artarak 102 milyon 320 bin varile yükseldiğini…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-petrol-arzi-eylulde-gunluk-2-5-milyon-varil-artti/4088177",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T08:23:45+00:00",
-   "url": "/haber/kuresel-petrol-arzi-eylulde-gunluk-2-5-milyon-varil-artti-d91e0d0b/"
-  },
-  {
-   "id": "87551b8d",
-   "title": "Orta Doğu'nun petrol ve petrol ürünleri ihracatı son bir haftada sert düştü",
-   "summary": "Hürmüz Boğazı'ndan günlük ticari gemi geçişlerinin yeniden keskin şekilde azalması ve Babülmendeb Boğazı'ndan geçişlere yönelik endişeler, Orta Doğu'nun petrol ve petrol ürünleri ihracatını yeniden baskı altına aldı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/orta-dogunun-petrol-ve-petrol-urunleri-ihracati-son-bir-haftada-sert-dustu/4088173",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T08:22:01+00:00",
-   "url": "/haber/orta-dogu-nun-petrol-ve-petrol-urunleri-ihracati-son-bir-haftada-sert-87551b8d/"
-  },
-  {
    "id": "7c8eab27",
    "title": "Bir kez tattı, 10 yıldır vazgeçemiyor. Tatlıya, çaya hatta suya bile pul biber atıyor",
    "summary": "Samsun'da yaşayan Caner Özsercan, 10 yıldır yediği, içtiği her şeye pul biber atıyor. \"Acısız günüm yok\" diyen Özsercan, tatlıdan çaya, sudan yoğurda birçok şeyi pul biberle tüketiyor.",
@@ -209,17 +330,6 @@
    "category": "gundem",
    "date": "2026-10-14T08:21:40+00:00",
    "url": "/haber/bir-kez-tatti-10-yildir-vazgecemiyor-tatliya-caya-hatta-suya-bile-pul-7c8eab27/"
-  },
-  {
-   "id": "5edd944d",
-   "title": "Eylül ayı son 56 yılın en sıcak 13'üncü eylülü oldu",
-   "summary": "Türkiye'de 2026 yılı eylül ayı, ortalama 21,5 derece sıcaklıkla son 56 yılın en sıcak 13'üncü eylül ayı olarak kayıtlara geçti.",
-   "link": "https://www.aa.com.tr/tr/gundem/eylul-ayi-son-56-yilin-en-sicak-13uncu-eylulu-oldu/4088172",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T08:21:29+00:00",
-   "url": "/haber/eylul-ayi-son-56-yilin-en-sicak-13-uncu-eylulu-oldu-5edd944d/"
   },
   {
    "id": "fecb37cd",
@@ -266,17 +376,6 @@
    "url": "/haber/turkiye-yillik-14-8-milyon-adetlik-akilli-telefon-uretim-kapasitesine-323d0e83/"
   },
   {
-   "id": "6d58c303",
-   "title": "Güneş panelli kumaşlar kişisel cihazlara enerji sağlayabilecek",
-   "summary": "Bireylerin akıllı saat ve cep telefonu gibi cihazlarının enerji ihtiyacını kumaşlara entegre edilen güneş panelleriyle karşılayabilmesi, geleceğin dağıtık ve kişiselleştirilmiş enerji sisteminin önemli bileşenlerinden…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/gunes-panelli-kumaslar-kisisel-cihazlara-enerji-saglayabilecek/4088166",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T08:18:32+00:00",
-   "url": "/haber/gunes-panelli-kumaslar-kisisel-cihazlara-enerji-saglayabilecek-6d58c303/"
-  },
-  {
    "id": "16904d20",
    "title": "Antalya yılın başından bu yana 14 milyon yabancı turist ağırladı",
    "summary": "Akdeniz Turistik Otelciler ve İşletmeciler Birliği Başkanı Kavaloğlu, Antalya'nın yılın başından bu yana 14 milyon yabancı turisti konuk ettiğini, bunun küresel alandaki savaşlara ve ekonomik durgunluklara rağmen önemli…",
@@ -286,17 +385,6 @@
    "category": "gundem",
    "date": "2026-10-14T08:17:47+00:00",
    "url": "/haber/antalya-yilin-basindan-bu-yana-14-milyon-yabanci-turist-agirladi-16904d20/"
-  },
-  {
-   "id": "685b5cee",
-   "title": "Ayrılıkçı Sırp siyasetçi Dodik'in İsrail'le yakınlaşması Bosna Hersek'te bölünme iddialarını gündeme taşıdı",
-   "summary": "Bosna Hersek'in iki entitesinden biri olan Sırp Cumhuriyeti'nin (RS) eski başkanı Sırp siyasetçi Milorad Dodik'in son dönemde İsrail ile yakınlaşması, ülkedeki ayrılıkçı söylemleri yeniden gündeme getirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ayrilikci-sirp-siyasetci-dodikin-israille-yakinlasmasi-bosna-hersekte-bolunme-iddialarini-gundeme-tasidi/4088157",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T08:11:23+00:00",
-   "url": "/haber/ayrilikci-sirp-siyasetci-dodik-in-israil-le-yakinlasmasi-bosna-hersek-685b5cee/"
   },
   {
    "id": "75b646e3",
@@ -365,6 +453,17 @@
    "url": "/haber/bana-da-fotograflari-atsana-devri-bitiyor-mu-google-fotograflar-dan-ye-6907ea47/"
   },
   {
+   "id": "5d892b86",
+   "title": "Gayrimenkul satışında \"güvenli ödeme\" dönemi",
+   "summary": "Gayrimenkul alım satımında sahte dekont, para transferinin iptal edilmesi ve nakit taşıma risklerine karşı “Güvenli Ödeme Sistemi” dönemi başlıyor. Ticaret Bakanlığı’nın yaptığı düzenleme 1 Aralık’ta zorunlu hale…",
+   "link": "https://www.trthaber.com/haber/ekonomi/gayrimenkul-satisinda-guvenli-odeme-donemi-960079.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/gayrimenkul-2495556.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-14T08:04:00+00:00",
+   "url": "/haber/gayrimenkul-satisinda-guvenli-odeme-donemi-5d892b86/"
+  },
+  {
    "id": "9fa2849f",
    "title": "OpenAI’da casusluk alarmı: Ofiste sofistike kayıt cihazı bulundu",
    "summary": "OpenAI’ın yönetici toplantı odasına gizlice ses kayıt cihazı yerleştirdiği öne sürülen mühendis tutuklandı. Şüphelinin, şirketin gizli yapay zeka projeleri hakkında bilgi topladığı iddia ediliyor.",
@@ -374,17 +473,6 @@
    "category": "teknoloji",
    "date": "2026-10-14T08:02:00+00:00",
    "url": "/haber/openai-da-casusluk-alarmi-ofiste-sofistike-kayit-cihazi-bulundu-9fa2849f/"
-  },
-  {
-   "id": "6e34f317",
-   "title": "Aydınlı Anaokulu 109 yıllık eğitim mirasını geleceğe taşıyor",
-   "summary": "Tuzla'daki Aydınlı Anaokulu, Osmanlı'nın son dönemlerinde başlayan eğitim geçmişi ve bir asrı aşan tarihi yapısıyla kentin köklü eğitim kurumları arasında yer alıyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/aydinli-anaokulu-109-yillik-egitim-mirasini-gelecege-tasiyor/4088122",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T08:00:47+00:00",
-   "url": "/haber/aydinli-anaokulu-109-yillik-egitim-mirasini-gelecege-tasiyor-6e34f317/"
   },
   {
    "id": "2322a41f",
@@ -444,7 +532,7 @@
   {
    "id": "d84c4af1",
    "title": "İBB davasında Ekrem İmamoğlu savunmasına başlıyor",
-   "summary": "Silivri'deki İBB davasında bugün tutuklandıktan sonra görevden alınan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu savunma yapacak.",
+   "summary": "Silivri'deki İBB davasında, tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu bugün savunma yapacak.",
    "link": "https://www.bbc.com/turkce/articles/cmy93v7l7pleo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d91/live/23e1f900-9aeb-11f1-930b-57cfba7235f9.jpg",
    "source": "BBC Turkish",
@@ -517,6 +605,17 @@
    "category": "teknoloji",
    "date": "2026-10-14T07:21:56+00:00",
    "url": "/haber/bmw-m-in-ceo-su-manuel-vites-sunmak-gittikce-zorlasiyor-868991e5/"
+  },
+  {
+   "id": "fd03b838",
+   "title": "Suudi Arabistan'ın başkenti Riyad'da saldırı uyarısı sonrası patlama sesleri duyuldu",
+   "summary": "Yemen'deki İran destekli Husilerin hedef aldığı Suudi Arabistan'ın başkenti Riyad'da saldırı uyarısı sonrası patlama sesleri duyuldu.",
+   "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanin-baskenti-riyadda-saldiri-uyarisi-sonrasi-patlama-sesleri-duyuldu-960071.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/riyad-reu-2494912.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-14T07:16:00+00:00",
+   "url": "/haber/suudi-arabistan-in-baskenti-riyad-da-saldiri-uyarisi-sonrasi-patlama-s-fd03b838/"
   },
   {
    "id": "566cc138",
@@ -673,17 +772,6 @@
    "url": "/haber/samsung-galaxy-s27-ultra-ile-gizlilik-ekrani-seviye-atliyor-d1605755/"
   },
   {
-   "id": "1efb6af5",
-   "title": "Steam için büyük ekim güncellemesi yayınlandı",
-   "summary": "Steam için bugün büyük bir güncelleme yayınlandı. Güncellemenin ilk yeniliği, geniş ekran modu için getirilen büyük görsel seçeneği oldu. Seçilen oyunun kapak tasarımını ana ekranın tamamına yayan bu mod, Ayarlar > Ana…",
-   "link": "https://www.log.com.tr/steam-icin-buyuk-ekim-guncellemesi-yayinlandi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-14_09-11-36_eIRuT-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-14T06:20:35+00:00",
-   "url": "/haber/steam-icin-buyuk-ekim-guncellemesi-yayinlandi-1efb6af5/"
-  },
-  {
    "id": "19b4953e",
    "title": "Halk TV'ye kayyum atamasına ne tepkiler geliyor?",
    "summary": "Halk TV'ye yapılan kayyum atamasına sendika ve siyasilerden tepki geliyor.",
@@ -728,6 +816,17 @@
    "url": "/haber/ios-27-2-beta-4-yayinlandi-iste-yenilikler-a1291f93/"
   },
   {
+   "id": "beb99f86",
+   "title": "Amasra'daki patlamada hayatını kaybeden 43 madenci anıldı",
+   "summary": "Türkiye Taşkömürü Kurumu (TTK) Amasra Müessesesine ait maden ocağında 14 Ekim 2022'deki patlamada yaşamını yitiren 43 madenci anıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/amasradaki-patlamada-hayatini-kaybeden-43-madenci-anildi/4087968",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-14T05:57:26+00:00",
+   "url": "/haber/amasra-daki-patlamada-hayatini-kaybeden-43-madenci-anildi-beb99f86/"
+  },
+  {
    "id": "ec777168",
    "title": "İstanbul'da sağanak etkili oluyor; yollar göle döndü",
    "summary": "İstanbul'da sabah saatlerinde sağanak etkili olmaya başladı. Kentin birçok ilçesinde şiddetini artıran yağışın ardından sürücüler trafikte güçlükle ilerledi.",
@@ -748,17 +847,6 @@
    "category": "teknoloji",
    "date": "2026-10-14T05:54:48+00:00",
    "url": "/haber/1-000-km-menzilli-byd-great-han-satisa-cikti-35-000-dolardan-basliyor-84ae172a/"
-  },
-  {
-   "id": "841acad0",
-   "title": "Halk TV'ye kayyum atandı. Mali şube ekipleri Halk TV binasında arama yapıyor",
-   "summary": "Mali Suçlarla Mücadele Şube Müdürlüğü ekipleri sabahın erken saatlerinde Halk TV'nin İstanbul'daki ofisinde arama başlattı. Kanala kayyum atandı, yayınlar durduruldu.",
-   "link": "https://www.ntv.com.tr/turkiye/halk-tvye-kayyum-atandi-mali-sube-ekipleri-halk-tv-binasinda-arama-yapiyor-1746219",
-   "image": "https://images.ntv.com.tr/images/Medya-336039.jfif",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-14T05:50:43+00:00",
-   "url": "/haber/halk-tv-ye-kayyum-atandi-mali-sube-ekipleri-halk-tv-binasinda-arama-ya-841acad0/"
   },
   {
    "id": "54ac90ae",
@@ -838,17 +926,6 @@
    "url": "/haber/openai-ofisine-gizli-bir-dinleme-cihazi-yerlestirildigini-acikladi-17ab98d5/"
   },
   {
-   "id": "e32a9d7c",
-   "title": "Turkcell ve TÜBİTAK’tan 6G Teknolojileri için Stratejik İş Birliği",
-   "summary": "Turkcell ve TÜBİTAK 6G iş birliği ile geliştirilen yerli akıllı yüzey prototipleri, gerçek saha koşullarında başarıyla test edildi.",
-   "link": "https://shiftdelete.net/turkcell-tubitak-6g-is-birligi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-14T04:30:09+00:00",
-   "url": "/haber/turkcell-ve-tubitak-tan-6g-teknolojileri-icin-stratejik-is-birligi-e32a9d7c/"
-  },
-  {
    "id": "04ae1cd6",
    "title": "İstanbul'da sağanak hayatı olumsuz etkiledi",
    "summary": "İstanbul'da dün akşam başlayan ve aralıklarla süren sağanak, kent genelinde hayatı olumsuz etkiledi.",
@@ -858,39 +935,6 @@
    "category": "gundem",
    "date": "2026-10-14T04:12:00+00:00",
    "url": "/haber/istanbul-da-saganak-hayati-olumsuz-etkiledi-04ae1cd6/"
-  },
-  {
-   "id": "5c815530",
-   "title": "OpenAI’da Dinleme Cihazı Skandalı: FBI Devreye Girdi",
-   "summary": "OpenAI'ın San Francisco ofisinde gizli bir dinleme cihazı bulundu. Olayla ilgili bir mühendis tutuklanırken, veri sızıntısı olmadığı açıklandı.",
-   "link": "https://shiftdelete.net/openai-ofisinde-gizli-dinleme-cihazi-skandali",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-14T04:00:09+00:00",
-   "url": "/haber/openai-da-dinleme-cihazi-skandali-fbi-devreye-girdi-5c815530/"
-  },
-  {
-   "id": "ca163266",
-   "title": "Turkcell ve TÜBİTAK'tan 6G İş Birliği",
-   "summary": "Turkcell ve TÜBİTAK, 6G teknolojileri konusunda stratejik bir iş birliğine imza attı.",
-   "link": "https://www.webtekno.com/turkcell-tubitak-6g-is-birligi-h227029.html",
-   "image": "https://imgrosetta.webtekno.com/file/692468/692468-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-14T03:54:28+00:00",
-   "url": "/haber/turkcell-ve-tubitak-tan-6g-is-birligi-ca163266/"
-  },
-  {
-   "id": "4892d4ce",
-   "title": "Google'ın En Güçlü Modeli Gemini 4 Argon, Kullanıma Sunuldu",
-   "summary": "Google'ın şimdiye kadarki en güçlü modeli olarak nitelendirdiği Gemini 4 Argon, geniş çapta kullanıma sunuldu.",
-   "link": "https://www.webtekno.com/google-gemini-4-argon-kullanima-sunuldu-h227026.html",
-   "image": "https://imgrosetta.webtekno.com/file/692464/692464-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-14T03:47:26+00:00",
-   "url": "/haber/google-in-en-guclu-modeli-gemini-4-argon-kullanima-sunuldu-4892d4ce/"
   },
   {
    "id": "a6b4fdd1",
@@ -913,17 +957,6 @@
    "category": "gundem",
    "date": "2026-10-14T01:50:50+00:00",
    "url": "/haber/dmm-den-resulayn-iddialarina-yanit-6ba7b62d/"
-  },
-  {
-   "id": "6e77e007",
-   "title": "Ankara'da taksici, müşterisini kurşunladı",
-   "summary": "Ankara'nın Yenimahalle ilçesinde bir taksici, yolcusunu varış noktasına bırakmasının ardından müşterisine arkasından tabanca ile ateş etti. Silahlı saldırı sonucunda müşteri ağır yaralandı.",
-   "link": "https://www.ntv.com.tr/turkiye/ankarada-taksici-musterisini-kursunladi-1746209",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-14035014-963200.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-14T01:16:07+00:00",
-   "url": "/haber/ankara-da-taksici-musterisini-kursunladi-6e77e007/"
   },
   {
    "id": "1717cbc2",
@@ -971,14 +1004,14 @@
   },
   {
    "id": "dc6e3d38",
-   "title": "Papa 14. Leo ameliyat oldu: Kanser nedeniyle akciğerinden parça alındı",
+   "title": "Papa 14. Leo akciğer kanseri ameliyatı oldu",
    "summary": "Akciğerinde nodül tespit edildiği için ameliyata alınan Katolik Kilisesi lideri Papa 14. Leo'nun kanser (akciğer adenokarsinomu) olduğu ve akciğerinin sağ alt lobunun alındığı açıklandı.",
    "link": "https://www.bbc.com/turkce/articles/cm5yn0wpded5o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7cf7/live/6eb780a0-c627-11f1-a509-ab6554d795a2.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-10-13T21:25:34+00:00",
-   "url": "/haber/papa-14-leo-ameliyat-oldu-kanser-nedeniyle-akcigerinden-parca-alindi-dc6e3d38/"
+   "url": "/haber/papa-14-leo-akciger-kanseri-ameliyati-oldu-dc6e3d38/"
   },
   {
    "id": "13032618",
@@ -1056,17 +1089,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T19:45:00+00:00",
    "url": "/haber/no-man-s-sky-iphone-ve-ipad-e-geliyor-iste-cikis-tarihi-3ac280f8/"
-  },
-  {
-   "id": "39f0e937",
-   "title": "AI Günlükleri: Yapay zekâ dünyasında bu hafta (13 Ekim 2026)",
-   "summary": "Yapay zekâ dünyasında bu hafta neler yaşandı; yeni neler tanıtıldı? \"AI Günlükleri\" serimizde, hızla büyüyen bu alanda neler olup bittiğini haftalık olarak kayıt altına almaya devam ediyoruz.",
-   "link": "https://www.donanimhaber.com/yapay-zeka-dunyasinda-bu-hafta-13-ekim-2026--211578",
-   "image": "https://www.donanimhaber.com/images/images/haber/211578/1200x675yapay-zeka-dunyasinda-bu-hafta-13-ekim-2026.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-13T19:22:00+00:00",
-   "url": "/haber/ai-gunlukleri-yapay-zeka-dunyasinda-bu-hafta-13-ekim-2026-39f0e937/"
   },
   {
    "id": "70852964",
@@ -1223,17 +1245,6 @@
    "url": "/haber/husiler-kimdir-nasil-bu-kadar-guclendiler-4b1f4675/"
   },
   {
-   "id": "769868c9",
-   "title": "Suudi Arabistan'da patlama sesleri duyuldu",
-   "summary": "Suudi Arabistan'ın başkenti Riyad'da erken uyarı sisteminin tehlike alarmı vermesinin ardından kentte 3 ayrı patlama sesi duyuldu.",
-   "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanda-patlama-sesleri-duyuldu-959930.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1474000/suudi-arabistan-1475709.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-12T18:12:00+00:00",
-   "url": "/haber/suudi-arabistan-da-patlama-sesleri-duyuldu-769868c9/"
-  },
-  {
    "id": "5330c5d0",
    "title": "Cumhurbaşkanı Erdoğan: Haksız kazanç elde eden kim olursa olsun bedelini ödeyecek",
    "summary": "Fon soruşturmasıyla ilgili soruşturmaların titizlikle devam ettiğini ifade eden Cumhurbaşkanı Erdoğan \"Milletimizin hak ve hukukunun korunması kırmızı çizgimizdir. Spekülasyon ve manipülasyon yoluyla haksız kazanç…",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-10-12T14:26:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-haksiz-kazanc-elde-eden-kim-olursa-olsun-bedelin-5330c5d0/"
-  },
-  {
-   "id": "ee2dd90e",
-   "title": "Görev sırasında şehit olan askerimiz son yolculuğuna uğurlandı",
-   "summary": "Ankara'da görev sırasında rahatsızlanan ve kaldırıldığı hastanede şehit olan Piyade Uzman Çavuş Yusuf Güneş'in cenazesi, memleketi Kahramanmaraş'ta toprağa verildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/gorev-sirasinda-sehit-olan-askerimiz-son-yolculuguna-ugurlandi-959902.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/sehit-cenaze-aa-2495116.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-12T11:24:00+00:00",
-   "url": "/haber/gorev-sirasinda-sehit-olan-askerimiz-son-yolculuguna-ugurlandi-ee2dd90e/"
   },
   {
    "id": "106221c5",
