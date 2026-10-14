@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T01:01:15.166783+00:00",
+ "updated": "2026-10-14T01:31:00.407101+00:00",
  "items": [
   {
    "id": "13ae9cf4",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-14T01:00:01+00:00",
+   "date": "2026-10-14T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13ae9cf4/"
   },
   {
@@ -20,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-14035014-963200.png",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-14T00:53:41+00:00",
+   "date": "2026-10-14T01:16:07+00:00",
    "url": "/haber/ankara-da-taksici-musterisini-kursunladi-6e77e007/"
+  },
+  {
+   "id": "1717cbc2",
+   "title": "Ankara'da taksici, müşterisini kurşunladı",
+   "summary": "Ankara'nın Yenimahalle ilçesinde bir taksici, yolcusunu varış noktasına bırakmasının ardından müşterisine arkasından tabanca ile ateş etti. Silahlı saldırı sonucunda müşteri ağır yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-ankarada-taksici-musterisini-kursunladi-1746211",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-14035014-963200.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-14T01:15:14+00:00",
+   "url": "/haber/ankara-da-taksici-musterisini-kursunladi-1717cbc2/"
   },
   {
    "id": "b60a069b",
@@ -825,17 +836,6 @@
    "category": "teknoloji",
    "date": "2026-10-13T14:45:17+00:00",
    "url": "/haber/sony-den-gta-6-surprizi-simsiyah-ps5-digital-edition-geliyor-245fd80d/"
-  },
-  {
-   "id": "9446c7eb",
-   "title": "Bakan Fidan, İranlı mevkidaşı Arakçi ile telefonda görüştü",
-   "summary": "Dışişleri Bakanı Hakan Fidan, İranlı mevkidaşı Abbas Arakçi ile telefonda görüştü.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-fidan-iranli-mevkidasi-arakci-ile-telefonda-gorustu-1746176",
-   "image": "https://images.ntv.com.tr/images/fidan-arakçi-767799",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-13T14:33:21+00:00",
-   "url": "/haber/bakan-fidan-iranli-mevkidasi-arakci-ile-telefonda-gorustu-9446c7eb/"
   },
   {
    "id": "040e9000",
