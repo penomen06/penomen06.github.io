@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-15T21:01:15.430206+00:00",
+ "updated": "2026-10-15T21:18:04.860004+00:00",
  "items": [
+  {
+   "id": "e0ab8767",
+   "title": "Bekir Bayrakdar, Hazine ve Maliye Bakan Yardımcısı oldu",
+   "summary": "Gelir İdaresi Başkanı Bekir Bayrakdar, Hazine ve Maliye Bakan Yardımcılığı görevine atandı.",
+   "link": "https://www.ntv.com.tr/turkiye/hazine-ve-maliye-bakanligina-yeni-atama-bekir-bayrakdar-bakan-yardimcisi-oldu-1746510",
+   "image": "https://images.ntv.com.tr/images/images_20261015210635-976701.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-15T21:16:45+00:00",
+   "url": "/haber/bekir-bayrakdar-hazine-ve-maliye-bakan-yardimcisi-oldu-e0ab8767/"
+  },
   {
    "id": "b7da116f",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 16 Ekim 2026",
@@ -13,15 +24,26 @@
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b7da116f/"
   },
   {
-   "id": "94bb56cf",
-   "title": "Sel faciasında can kaybı 3'e yükseldi. İki ilde 6 kişi aranıyor",
-   "summary": "İstanbul'da sel felaketinde can kaybı 3'e yükseldi. İstanbul'da 5, Kocaeli'de ise 1 kişi ise aranıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbuldaki-sel-faciasinda-can-kaybi-3e-yukseldi-4-kisi-araniyor-1746453",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-15224347-646390.png",
-   "source": "ntv.com.tr",
+   "id": "7ddbc088",
+   "title": "Suna Kan Anma Haftası kapsamında \"Bir Ustanın İzinde\" konseri düzenlendi",
+   "summary": "Türk keman sanatının usta isimlerinden keman virtüözü ve Devlet Sanatçısı Suna Kan'ın anısına düzenlenen anma haftası, Cumhurbaşkanlığı Senfoni Orkestrasınca gerçekleştirilen \"Bir Ustanın İzinde\" konseriyle başladı.",
+   "link": "https://www.aa.com.tr/tr/kultur/suna-kan-anma-haftasi-kapsaminda-bir-ustanin-izinde-konseri-duzenlendi/4090412",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-15T20:58:05+00:00",
-   "url": "/haber/sel-faciasinda-can-kaybi-3-e-yukseldi-iki-ilde-6-kisi-araniyor-94bb56cf/"
+   "date": "2026-10-15T20:56:25+00:00",
+   "url": "/haber/suna-kan-anma-haftasi-kapsaminda-bir-ustanin-izinde-konseri-duzenlendi-7ddbc088/"
+  },
+  {
+   "id": "f49a1c04",
+   "title": "Porsche Mobil 1 Supercup, 2027'de İstanbul Park'ta düzenlenecek",
+   "summary": "Porsche Mobil 1 Supercup, 1-3 Ekim 2027 tarihlerinde TOSFED İstanbul Park'ta gerçekleştirilecek Formula 1 Türkiye Grand Prix'si kapsamında düzenlenecek.",
+   "link": "https://www.aa.com.tr/tr/spor/porsche-mobil-1-supercup-2027de-istanbul-parkta-duzenlenecek/4090411",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T20:55:33+00:00",
+   "url": "/haber/porsche-mobil-1-supercup-2027-de-istanbul-park-ta-duzenlenecek-f49a1c04/"
   },
   {
    "id": "54fb9af3",
@@ -48,7 +70,7 @@
   {
    "id": "46701f2c",
    "title": "Beşiktaş, UEFA Avrupa Ligi'nde 2'de 2 yaptı",
-   "summary": "Beşiktaş, UEFA Avrupa Ligi'nde Hoffenheim'ı 3-2 yendi.",
+   "summary": "UEFA Avrupa Ligi'nin ikinci haftasında Beşiktaş, deplasmanda Almanya ekibi Hoffenheim'ı 3-2 mağlup etti.",
    "link": "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-2de-2-yapti/4090409",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -275,28 +297,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T19:00:00+00:00",
    "url": "/haber/turkiye-eylulde-en-cok-bu-otomobil-markalarini-tercih-etti-09f8021b/"
-  },
-  {
-   "id": "1ff833fb",
-   "title": "Bakan Çiftçi: İstanbul ve Kocaeli’deki yağışlarda 3 kişi hayatını kaybetti, kayıp 6 kişi aranıyor",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, İstanbul'da şiddetli yağış sonucu 3 kişinin hayatını kaybettiğini, hakkında kayıp ihbarı yapılan İstanbul'da 5, Kocaeli'de 1 olmak üzere 6 kişi için arama çalışmalarının aralıksız…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-istanbul-ve-kocaeli-deki-yagislarda-3-kisi-hayatini-kaybetti-kayip-6-kisi-araniyor/4090333",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T18:59:13+00:00",
-   "url": "/haber/bakan-ciftci-istanbul-ve-kocaeli-deki-yagislarda-3-kisi-hayatini-kaybe-1ff833fb/"
-  },
-  {
-   "id": "d72c5679",
-   "title": "BM: Batı Şeria'da zeytin hasadı döneminde yapılan saldırılar, şimdiden geçen yılın rakamlarını geçti",
-   "summary": "Birleşmiş Milletler (BM), işgal altındaki Batı Şeria'da zeytin hasadıyla uğraşan halka, Filistinlilerin topraklarını gasbeden İsrailliler tarafından yapılan saldırıların sayısının geçen yılki rakamları aştığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-bati-seriada-zeytin-hasadi-doneminde-yapilan-saldirilar-simdiden-gecen-yilin-rakamlarini-gecti/4090329",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T18:50:09+00:00",
-   "url": "/haber/bm-bati-seria-da-zeytin-hasadi-doneminde-yapilan-saldirilar-simdiden-g-d72c5679/"
   },
   {
    "id": "a2d29ac0",
