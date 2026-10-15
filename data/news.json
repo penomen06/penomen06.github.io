@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T22:31:04.987900+00:00",
+ "updated": "2026-10-15T23:01:12.847117+00:00",
  "items": [
   {
    "id": "b7da116f",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-15T22:30:00+00:00",
+   "date": "2026-10-15T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b7da116f/"
+  },
+  {
+   "id": "c2395dc8",
+   "title": "Erzincan-Erzurum kara yolu heyelanın ardından yeniden ulaşıma açıldı",
+   "summary": "Erzincan'da sağanak sonrası meydana gelen heyelan nedeniyle kapanan Erzincan-Erzurum kara yolu, Sansa Deresi mevkisinde ekiplerin yürüttüğü temizlik çalışmalarının ardından yeniden ulaşıma açıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/erzincan-erzurum-kara-yolu-heyelanin-ardindan-yeniden-ulasima-acildi/4090444",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T22:28:19+00:00",
+   "url": "/haber/erzincan-erzurum-kara-yolu-heyelanin-ardindan-yeniden-ulasima-acildi-c2395dc8/"
   },
   {
    "id": "8c8c9a67",
@@ -583,17 +594,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T15:00:11+00:00",
    "url": "/haber/turkiye-ilk-f-35-ler-icin-abd-ile-temaslarini-surduruyor-222c6869/"
-  },
-  {
-   "id": "1582a537",
-   "title": "Türkiye Innovation Week 2026'da ilk gün sona erdi",
-   "summary": "Türkiye İhracatçılar Meclisi (TİM) tarafından Ticaret Bakanlığının desteğiyle, \"Humanity 6.0-İnsanlığın Yeni Evresi\" temasıyla Haliç Kongre Merkezi'nde düzenlenen TIW26'nın ilk günü sona erdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-innovation-week-2026da-ilk-gun-sona-erdi/4090094",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T14:59:30+00:00",
-   "url": "/haber/turkiye-innovation-week-2026-da-ilk-gun-sona-erdi-1582a537/"
   },
   {
    "id": "f193644d",
