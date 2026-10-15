@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T00:30:57.779072+00:00",
+ "updated": "2026-10-15T01:01:09.187303+00:00",
  "items": [
   {
    "id": "151c536b",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-15T00:30:00+00:00",
+   "date": "2026-10-15T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-151c536b/"
+  },
+  {
+   "id": "9accb0bd",
+   "title": "İrlandalı yazar Rooney'nin kitapları, Palestine Action'a desteği nedeniyle İngiltere'de satıştan kaldırılıyor",
+   "summary": "İrlandalı yazar Sally Rooney, İngiltere'de yasaklı örgüt ilan edilen \"Palestine Action\" grubuna verdiği destek nedeniyle kitaplarını bu ülkede satıştan çekmek zorunda kaldığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/irlandali-yazar-rooneynin-kitaplari-palestine-actiona-destegi-nedeniyle-ingilterede-satistan-kaldiriliyor/4089156",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T00:19:12+00:00",
+   "url": "/haber/irlandali-yazar-rooney-nin-kitaplari-palestine-action-a-destegi-nedeni-9accb0bd/"
   },
   {
    "id": "81873b76",
@@ -231,17 +242,6 @@
    "category": "gundem",
    "date": "2026-10-14T20:49:49+00:00",
    "url": "/haber/fenerbahce-aston-villa-deplasmaninda-darmadagin-8a8e8e53/"
-  },
-  {
-   "id": "8ed29c6b",
-   "title": "Fatih'te su birikintisinde elektrik akımına kapılan çocuk hayatını kaybetti",
-   "summary": "İstanbul Valiliği, Fatih'te su birikintisinde elektrik akımına yapılan M.I'nın (14) hayatını kaybettiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/fatihte-su-birikintisinde-elektrik-akimina-kapilan-cocuk-hayatini-kaybetti/4089077",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T20:47:30+00:00",
-   "url": "/haber/fatih-te-su-birikintisinde-elektrik-akimina-kapilan-cocuk-hayatini-kay-8ed29c6b/"
   },
   {
    "id": "b0bc298b",
