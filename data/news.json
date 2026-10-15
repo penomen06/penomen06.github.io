@@ -1,17 +1,6 @@
 {
- "updated": "2026-10-15T21:18:04.860004+00:00",
+ "updated": "2026-10-15T21:31:04.925864+00:00",
  "items": [
-  {
-   "id": "e0ab8767",
-   "title": "Bekir Bayrakdar, Hazine ve Maliye Bakan Yardımcısı oldu",
-   "summary": "Gelir İdaresi Başkanı Bekir Bayrakdar, Hazine ve Maliye Bakan Yardımcılığı görevine atandı.",
-   "link": "https://www.ntv.com.tr/turkiye/hazine-ve-maliye-bakanligina-yeni-atama-bekir-bayrakdar-bakan-yardimcisi-oldu-1746510",
-   "image": "https://images.ntv.com.tr/images/images_20261015210635-976701.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-15T21:16:45+00:00",
-   "url": "/haber/bekir-bayrakdar-hazine-ve-maliye-bakan-yardimcisi-oldu-e0ab8767/"
-  },
   {
    "id": "b7da116f",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 16 Ekim 2026",
@@ -20,8 +9,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-15T21:00:00+00:00",
+   "date": "2026-10-15T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b7da116f/"
+  },
+  {
+   "id": "7fa75f9f",
+   "title": "İBB davası. İmamoğlu'nun savunması 2. gününde devam etti",
+   "summary": "Tutuklandıktan sonra İstanbul Büyükşehir Belediye (İBB) Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu, 99. duruşmada savunmasına devam etti.",
+   "link": "https://www.ntv.com.tr/turkiye/ibb-davasi-imamoglunun-savunmasi-2-gununde-devam-ediyor-1746497",
+   "image": "https://images.ntv.com.tr/images/ekrem-immao_C4_9Flu-379689-952440-791278-376635-525328.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-15T21:23:14+00:00",
+   "url": "/haber/ibb-davasi-imamoglu-nun-savunmasi-2-gununde-devam-etti-7fa75f9f/"
+  },
+  {
+   "id": "2f0a91a6",
+   "title": "Bakan Kurum: Birimlerimiz, koordinasyon merkezine gelen 9 bin 755 ihbarın 7 bin 800'üne anında müdahalede bulundu",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"39 ilçemizde 53 istinat duvarı aşırı yağış sebebiyle yıkıldı. Tam 9 bin 755 ihbar bu koordinasyon merkezine geldi ve birimlerimiz 7 bin 800'üne anında…",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-birimlerimiz-koordinasyon-merkezine-gelen-9-bin-755-ihbarin-7-bin-800une-aninda-mudahalede-bulundu/4090431",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T21:22:36+00:00",
+   "url": "/haber/bakan-kurum-birimlerimiz-koordinasyon-merkezine-gelen-9-bin-755-ihbari-2f0a91a6/"
+  },
+  {
+   "id": "d50827a5",
+   "title": "İstanbul için yeni yağış uyarısı: Can kaybı 3'e yükseldi, 5 kişi kayıp",
+   "summary": "İstanbul Valisi Davut Gül, 14 Ekim'de şiddetlenen yağışlarda üç kişinin hayatını kaybettiğini, beş kişi için de kayıp başvurusu yapıldığını açıkladı. İstanbul'da 15 Ekim'de akşam saatlerinde açıklama yapan Gül, şiddetli…",
+   "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/763d/live/c33ef4e0-c8a8-11f1-9c75-6ff1271de385.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-15T21:22:18+00:00",
+   "url": "/haber/istanbul-icin-yeni-yagis-uyarisi-can-kaybi-3-e-yukseldi-5-kisi-kayip-d50827a5/"
+  },
+  {
+   "id": "e0ab8767",
+   "title": "Bekir Bayrakdar, Hazine ve Maliye Bakan Yardımcısı oldu",
+   "summary": "Gelir İdaresi Başkanı Bekir Bayrakdar, Hazine ve Maliye Bakan Yardımcılığı görevine atandı.",
+   "link": "https://www.ntv.com.tr/turkiye/hazine-ve-maliye-bakanligina-yeni-atama-bekir-bayrakdar-bakan-yardimcisi-oldu-1746510",
+   "image": "https://images.ntv.com.tr/images/images_20261015210635-976701.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-15T21:18:31+00:00",
+   "url": "/haber/bekir-bayrakdar-hazine-ve-maliye-bakan-yardimcisi-oldu-e0ab8767/"
+  },
+  {
+   "id": "491aacd3",
+   "title": "Kolombiya: İsrail'i tecrit etmek amacıyla kurulan Lahey Grubu'ndan ayrılma talebini ilettik",
+   "summary": "Kolombiya'da 7 Ağustos'ta göreve başlayan Abelardo de la Espriella hükümeti, İsrail'in tecrit edilmesi gerekçesiyle Lahey Grubu'ndaki üyelik ve eş başkanlık görevinden çekildiğini resmen duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/kolombiya-israili-tecrit-etmek-amaciyla-kurulan-lahey-grubundan-ayrilma-talebini-ilettik/4090416",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T20:59:58+00:00",
+   "url": "/haber/kolombiya-israil-i-tecrit-etmek-amaciyla-kurulan-lahey-grubu-ndan-ayri-491aacd3/"
   },
   {
    "id": "7ddbc088",
@@ -178,6 +222,17 @@
    "url": "/haber/muhammed-salah-trabzonspor-formasiyla-avrupa-kupalarinda-ilk-golunu-at-261b02b9/"
   },
   {
+   "id": "d80b8356",
+   "title": "Bakan Kurum: Hasar tespit çalışması başladı",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"İhbarların hepsine en hızlı şekilde müdahale ediliyor.\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-hasar-tespit-calismasi-basladi-960229.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2302000/murat-kurum-2303046.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-15T19:42:00+00:00",
+   "url": "/haber/bakan-kurum-hasar-tespit-calismasi-basladi-d80b8356/"
+  },
+  {
    "id": "07ead8dc",
    "title": "Gazeteci ve Halk TV yazarı Bahadır Özgür gözaltına alındı",
    "summary": "Gazeteci ve Halk TV yazarı Bahadır Özgür gözaltına alındı. Özgür'ün gözaltına alındığını kayyum atanan kanalın genel yayın yönetmeni Bengü Şap Babaeker, X hesabından duyurdu.",
@@ -255,17 +310,6 @@
    "url": "/haber/kaliforniya-da-ev-tipi-bataryalar-rekor-kiriyor-sebekeye-745-mw-guc-sa-9f1ff4fd/"
   },
   {
-   "id": "556382f0",
-   "title": "UEFA Avrupa Ligi'nin ikinci haftasında 8 maç yapıldı",
-   "summary": "Avrupa futbolunun kulüp düzeyindeki iki numaralı turnuvasının ikinci haftasında TSİ 19.45'te başlayan karşılaşmalar sona erdi.",
-   "link": "https://www.aa.com.tr/tr/spor/uefa-avrupa-liginin-ikinci-haftasinda-8-mac-yapildi/4090346",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T19:19:21+00:00",
-   "url": "/haber/uefa-avrupa-ligi-nin-ikinci-haftasinda-8-mac-yapildi-556382f0/"
-  },
-  {
    "id": "ed122eff",
    "title": "Trabzonspor, UEFA Konferans Ligi'ndeki ilk maçını 4-2 kazandı",
    "summary": "Türkiye'yi UEFA Konferans Ligi'nde temsil eden Trabzonspor, turnuvanın ilk hafta maçında Finlandiya ekibi KuPS Kuopio'ya konuk oluyor.",
@@ -275,17 +319,6 @@
    "category": "gundem",
    "date": "2026-10-15T19:11:31+00:00",
    "url": "/haber/trabzonspor-uefa-konferans-ligi-ndeki-ilk-macini-4-2-kazandi-ed122eff/"
-  },
-  {
-   "id": "26c83aab",
-   "title": "Fransa'da sarı yelekliler 17 Ekim'de 1000'den fazla noktada eylem yapacak",
-   "summary": "Fransa'da sarı yelekliler 17 Ekim'de ülke genelinde 1000'den fazla noktada eylem düzenleyecek.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yelekliler-17-ekimde-1000den-fazla-noktada-eylem-yapacak/4090343",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T19:10:49+00:00",
-   "url": "/haber/fransa-da-sari-yelekliler-17-ekim-de-1000-den-fazla-noktada-eylem-yapa-26c83aab/"
   },
   {
    "id": "09f8021b",
@@ -497,17 +530,6 @@
    "url": "/haber/imamoglu-hakkinda-savunmasindaki-ifadeler-nedeniyle-sorusturma-acildi-8a50256e/"
   },
   {
-   "id": "7fa75f9f",
-   "title": "İBB davası. İmamoğlu'nun savunması 2. gününde devam ediyor.",
-   "summary": "Tutuklandıktan sonra İstanbul Büyükşehir Belediye (İBB) Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu'nun mahkemedeki savunması sürüyor.",
-   "link": "https://www.ntv.com.tr/turkiye/ibb-davasi-imamoglunun-savunmasi-2-gununde-devam-ediyor-1746497",
-   "image": "https://images.ntv.com.tr/images/ekrem-immao_C4_9Flu-379689-952440-791278-376635-525328.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-15T15:44:22+00:00",
-   "url": "/haber/ibb-davasi-imamoglu-nun-savunmasi-2-gununde-devam-ediyor-7fa75f9f/"
-  },
-  {
    "id": "e2339e7e",
    "title": "Sony'den jailbreak adımı: PS5'i güncellemeyenler PSN'e erişemeyecek!",
    "summary": "PSN'e giriş yapmak için Sony artık 14.10 yazılım sürümünün kullanılmasını şart koşuyor. Zorunlu güncellemenin temel amacı; PS5'teki yaygın jailbreak sorununa doğrudan müdahale etmek.",
@@ -528,17 +550,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T15:19:00+00:00",
    "url": "/haber/call-of-duty-3-20-yil-sonra-4k-ve-180-fps-destegiyle-pc-ye-getirildi-283c22e9/"
-  },
-  {
-   "id": "d50827a5",
-   "title": "İstanbul için yeni yağış uyarısı: Can kaybı 3'e yükseldi, 5 kişi kayıp",
-   "summary": "İstanbul Valisi Davut Gül, 14 Ekim'de şiddetlenen yağışlarda üç kişinin hayatını kaybettiğini, beş kişi için de kayıp başvurusu yapıldığını açıkladı. İstanbul'da 15 Ekim'de akşam saatlerinde açıklama yapan Gül, şiddetli…",
-   "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/763d/live/c33ef4e0-c8a8-11f1-9c75-6ff1271de385.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-15T15:03:10+00:00",
-   "url": "/haber/istanbul-icin-yeni-yagis-uyarisi-can-kaybi-3-e-yukseldi-5-kisi-kayip-d50827a5/"
   },
   {
    "id": "3d699449",
@@ -1221,17 +1232,6 @@
    "category": "gundem",
    "date": "2026-10-14T09:36:00+00:00",
    "url": "/haber/sarkici-alpay-hayatini-kaybetti-ff493765/"
-  },
-  {
-   "id": "c0ba6429",
-   "title": "Ateş Serbest2026 tatbikatında TSK'nın ateş gücü sergilendi",
-   "summary": "Milli Savunma Bakanlığı (MSB), Türk Silahlı Kuvvetlerinin (TSK) ateş gücünün sergilendiği \"Ateş Serbest-2026\" tatbikatının tamamlandığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/savunma/ates-serbest-2026-tatbikatinda-tsknin-ates-gucu-sergilendi-960078.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/ates-serbest-tatbikati-dha-2495558.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-14T07:50:00+00:00",
-   "url": "/haber/ates-serbest2026-tatbikatinda-tsk-nin-ates-gucu-sergilendi-c0ba6429/"
   },
   {
    "id": "3ecd6691",
