@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-15T20:01:18.119441+00:00",
+ "updated": "2026-10-15T20:31:02.803032+00:00",
  "items": [
+  {
+   "id": "1dcf4a5e",
+   "title": "Irak Meclisi, başbakan yardımcıları ile boş kalan bakanlıklar için yeni isimleri onayladı",
+   "summary": "Irak Meclisi, başbakan yardımcılarıyla kabinede boş kalan bakanlıklar için aday olanları seçti. Irak Türkmen Cephesi Başkanı Muhammed Seman Ağa da Devlet Bakanı olarak seçildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/irak-meclisi-basbakan-yardimcilari-ile-bos-kalan-bakanliklar-icin-yeni-isimleri-onayladi/4090386",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T20:18:02+00:00",
+   "url": "/haber/irak-meclisi-basbakan-yardimcilari-ile-bos-kalan-bakanliklar-icin-yeni-1dcf4a5e/"
+  },
+  {
+   "id": "1fc2e05a",
+   "title": "Husiler'in Yemen Başkanlık Sarayına saldırısında iki güvenlik görevlisi öldü",
+   "summary": "Yemen'in güneyindeki liman kenti Aden'de, uluslararası alanda tanınan hükümetin merkezi olan başkanlık sarayını hedef alan Husilerin füze saldırısında iki güvenlik görevlisi hayatını kaybetti.",
+   "link": "https://www.bbc.com/turkce/articles/cqj9kevpyl4ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a51/live/c1dc6110-c7cb-11f1-9e10-4dcbd31d4273.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-15T20:17:28+00:00",
+   "url": "/haber/husiler-in-yemen-baskanlik-sarayina-saldirisinda-iki-guvenlik-gorevlis-1fc2e05a/"
+  },
+  {
+   "id": "db30fe57",
+   "title": "Çip devi ASML'nin gelirleri rekor kırıyor: Siparişler 2030'a uzandı",
+   "summary": "ASML, 2026’nın üçüncü çeyreğinde 13,06 milyar dolarlık rekor gelir elde etti. Yapay zekaya talep nedeniyle şirket, mevcut üretim kapasitesinin 2027 ve 2028 yıllarında yetersiz kalabileceğini açıkladı.",
+   "link": "https://www.donanimhaber.com/asml-nin-gelirleri-rekor-kiriyor-siparisler-2030-a-uzandi--211685",
+   "image": "https://www.donanimhaber.com/images/images/haber/211685/1200x675asml-nin-gelirleri-rekor-kiriyor-siparisler-2030-a-uzandi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-15T20:15:00+00:00",
+   "url": "/haber/cip-devi-asml-nin-gelirleri-rekor-kiriyor-siparisler-2030-a-uzandi-db30fe57/"
+  },
   {
    "id": "94bb56cf",
    "title": "Sel faciasında can kaybı 3'e yükseldi. İki ilde 6 kişi aranıyor",
@@ -9,8 +42,19 @@
    "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-15224347-646390.png",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-15T20:00:37+00:00",
+   "date": "2026-10-15T20:06:58+00:00",
    "url": "/haber/sel-faciasinda-can-kaybi-3-e-yukseldi-iki-ilde-6-kisi-araniyor-94bb56cf/"
+  },
+  {
+   "id": "99445c51",
+   "title": "Trump, Fort Hood saldırganının infazını canlı yayınlama planını iptal etti",
+   "summary": "Trump, bazı kişilerin 60 yılı aşkın süredir gerçekleşen ilk askeri infaz olan Nidal Hasan'ın öldürülmesini \"izlemek istemeyeceğini\" söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/c8qln213pge3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-15T20:06:37+00:00",
+   "url": "/haber/trump-fort-hood-saldirganinin-infazini-canli-yayinlama-planini-iptal-e-99445c51/"
   },
   {
    "id": "f83cb3de",
@@ -88,6 +132,17 @@
    "category": "gundem",
    "date": "2026-10-15T19:24:22+00:00",
    "url": "/haber/istanbul-da-afet-koordinasyon-toplantisi-duzenlendi-0c45943a/"
+  },
+  {
+   "id": "deeb36cf",
+   "title": "Bakan Kacır: Türkiye, sahip olduğu siyasi ve ekonomik istikrarla geleceğe güvenle ilerliyor",
+   "summary": "Sanayi ve Teknoloji Bakanı Kacır, Türkiye'nin sahip olduğu siyasi ve ekonomik istikrarla geleceğe güvenle ilerlediğini belirterek, \"Yolumuz açık, istikbalimiz parlak, istikametimiz aydınlıktır.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-turkiye-sahip-oldugu-siyasi-ve-ekonomik-istikrarla-gelecege-guvenle-ilerliyor/4090349",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T19:23:20+00:00",
+   "url": "/haber/bakan-kacir-turkiye-sahip-oldugu-siyasi-ve-ekonomik-istikrarla-geleceg-deeb36cf/"
   },
   {
    "id": "dd0d025b",
@@ -255,28 +310,6 @@
    "url": "/haber/cure-art-gallery-ahmet-oran-ve-ekrem-yalcindag-in-eserlerinin-yer-aldi-4031ac09/"
   },
   {
-   "id": "595a68ad",
-   "title": "İsrail'in Gazze'ye ve Megazi Mülteci Kampı'na düzenlediği saldırılarda 3 Filistinli yaralandı",
-   "summary": "İsrail ordusunun Gazze kentinde ve Gazze Şeridi'nin orta kesimindeki Megazi Mülteci Kampı'nda düzenlediği hava saldırılarında 3 Filistinli yaralandı, hedef alınan binalar yıkıldı, çevredeki evlerde hasar meydana geldi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-ve-megazi-multeci-kampina-duzenledigi-saldirilarda-3-filistinli-yaralandi/4090294",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T18:11:59+00:00",
-   "url": "/haber/israil-in-gazze-ye-ve-megazi-multeci-kampi-na-duzenledigi-saldirilarda-595a68ad/"
-  },
-  {
-   "id": "8bc1852f",
-   "title": "ABD, Lukoil'in Rusya dışındaki akaryakıt istasyonlarına yönelik yaptırım muafiyetini uzattı",
-   "summary": "ABD Hazine Bakanlığı, yaptırım uyguladığı Rus petrol şirketi Lukoil'in Rusya dışında faaliyet gösteren akaryakıt istasyonlarıyla ilgili belirli işlemlere 24 Nisan 2027'ye kadar izin verdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-lukoilin-rusya-disindaki-akaryakit-istasyonlarina-yonelik-yaptirim-muafiyetini-uzatti/4090291",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T18:09:07+00:00",
-   "url": "/haber/abd-lukoil-in-rusya-disindaki-akaryakit-istasyonlarina-yonelik-yaptiri-8bc1852f/"
-  },
-  {
    "id": "2221c0e3",
    "title": "Huawei’den enflasyona karşı teknoloji güvencesi",
    "summary": "Huawei MatePad Air ve MatePad Pro 12 modellerini tercih edenler; ekran kırılmasından sıvı temasına, pil sağlığından anakart onarımına kadar kapsamlı servis ayrıcalıklarından ücretsiz şekilde yararlanıyor. Huawei,…",
@@ -297,17 +330,6 @@
    "category": "gundem",
    "date": "2026-10-15T18:00:00+00:00",
    "url": "/haber/bakan-ciftci-mahsur-kalan-3-bin-55-kisi-kurtarildi-fb4acb37/"
-  },
-  {
-   "id": "e5d32b78",
-   "title": "ABD tarafından alıkonulan Maduro, New York'taki mahkemede hakkındaki suçlamaları reddetti",
-   "summary": "ABD'nin 3 Ocak'taki askeri müdahalesi sonucu alıkonulan Venezuela Devlet Başkanı Nicolas Maduro, New York'taki mahkemede hakkındaki \"işkence\" suçlamalarını kabul etmedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-tarafindan-alikonulan-maduro-new-yorktaki-mahkemede-hakkindaki-suclamalari-reddetti/4090281",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T17:55:14+00:00",
-   "url": "/haber/abd-tarafindan-alikonulan-maduro-new-york-taki-mahkemede-hakkindaki-su-e5d32b78/"
   },
   {
    "id": "3b376d53",
@@ -431,15 +453,15 @@
    "url": "/haber/dizi-film-ve-coklu-gorev-icin-en-iyi-buyuk-ekran-tabletler-e8abea0c/"
   },
   {
-   "id": "c18f5d66",
-   "title": "4 ilde eğitime ara verildi",
-   "summary": "Yarın beklenen aşırı yağış ve kuvvetli rüzgar nedeniyle 4 ilde eğitime ara verildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/4-ilde-egitime-ara-verildi-960217.html",
+   "id": "c9ce482b",
+   "title": "5 ilde eğitime ara verildi",
+   "summary": "Etkili olması beklenen aşırı yağış ve kuvvetli rüzgar nedeniyle 5 ilde eğitime ara verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/5-ilde-egitime-ara-verildi-960217.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/saganak-aa-2495781.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-15T16:02:00+00:00",
-   "url": "/haber/4-ilde-egitime-ara-verildi-c18f5d66/"
+   "url": "/haber/5-ilde-egitime-ara-verildi-c9ce482b/"
   },
   {
    "id": "98688755",
@@ -528,6 +550,17 @@
    "category": "teknoloji",
    "date": "2026-10-15T15:00:11+00:00",
    "url": "/haber/turkiye-ilk-f-35-ler-icin-abd-ile-temaslarini-surduruyor-222c6869/"
+  },
+  {
+   "id": "1582a537",
+   "title": "Türkiye Innovation Week 2026'da ilk gün sona erdi",
+   "summary": "Türkiye İhracatçılar Meclisi (TİM) tarafından Ticaret Bakanlığının desteğiyle, \"Humanity 6.0-İnsanlığın Yeni Evresi\" temasıyla Haliç Kongre Merkezi'nde düzenlenen TIW26'nın ilk günü sona erdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-innovation-week-2026da-ilk-gun-sona-erdi/4090094",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T14:59:30+00:00",
+   "url": "/haber/turkiye-innovation-week-2026-da-ilk-gun-sona-erdi-1582a537/"
   },
   {
    "id": "f193644d",
@@ -715,17 +748,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T14:16:32+00:00",
    "url": "/haber/abd-de-8-eyalet-openai-a-dava-acti-da7e4db3/"
-  },
-  {
-   "id": "0b945169",
-   "title": "GTA 6 çıkış fragmanı yayınlandı: İşte Vice City'nin büyüleyici görüntüleri!",
-   "summary": "GTA 6 çıkış fragmanı yayınlandı. Oyunun görsel detaylarını ve Vice City atmosferini gözler önüne seren fragmanla birlikte GTA 6 için son düzlüğe girildi.",
-   "link": "https://www.donanimhaber.com/gta-6-cikis-fragmani-yayinlandi-buyuleyici-goruntuler-bir-arada--211681",
-   "image": "https://www.donanimhaber.com/images/images/haber/211681/1200x675gta-6-cikis-fragmani-yayinlandi-buyuleyici-goruntuler-bir-arada.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-15T14:15:32+00:00",
-   "url": "/haber/gta-6-cikis-fragmani-yayinlandi-iste-vice-city-nin-buyuleyici-goruntul-0b945169/"
   },
   {
    "id": "39e24a08",
@@ -1168,17 +1190,6 @@
    "url": "/haber/cumhurbaskanligi-yuksek-istisare-kurulu-toplandi-44df3538/"
   },
   {
-   "id": "1fc2e05a",
-   "title": "Husiler, Suudi Arabistan'daki petrol devi Aramco'yu hedef aldı",
-   "summary": "Yemen'deki Husiler, Suudi Arabistan öncülüğündeki koalisyonun Yemen'in başkenti Sana yakınlarındaki bir yakıt deposunu vurmasının ardından, Suudi Arabistan'daki devlet petrol şirketi Aramco'yu hedef aldı.",
-   "link": "https://www.bbc.com/turkce/articles/cqj9kevpyl4ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a51/live/c1dc6110-c7cb-11f1-9e10-4dcbd31d4273.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-14T13:19:01+00:00",
-   "url": "/haber/husiler-suudi-arabistan-daki-petrol-devi-aramco-yu-hedef-aldi-1fc2e05a/"
-  },
-  {
    "id": "60b8cc2c",
    "title": "Başörtüsü protestoları Aliyev hükümeti için tehdit mi?",
    "summary": "Cumhurbaşkanı İlham Aliyev'in hükümeti, başörtüsü nedeniyle düzenlenen protestolar karşısında zor bir tercih ile karşı karşıya. Geri adım atmak, yetkililerin baskıya boyun eğdiği şeklinde görülebilir; sert bir tutum ise…",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-10-13T19:47:29+00:00",
    "url": "/haber/trump-erdogan-husiler-konusunda-istedigimi-yapacaktir-f75e611d/"
-  },
-  {
-   "id": "1ddeff48",
-   "title": "BBC görüntüledi: Yemen çölünde küresel etkilere sahip bir savaş sürüyor",
-   "summary": "Yemen'deki iç savaş artık dünyanın görmezden gelemeyeceği bir hal aldı. Fakat liman kenti Aden'de yaralılarla dolu hastanelerden bakıldığında jeopolitik hesaplar çok uzaktaymış gibi görünüyor. BBC'den Orla Guerin'in…",
-   "link": "https://www.bbc.com/turkce/articles/cq98z5wnz4xeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa95/live/86e0e5d0-c682-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-13T10:37:24+00:00",
-   "url": "/haber/bbc-goruntuledi-yemen-colunde-kuresel-etkilere-sahip-bir-savas-suruyor-1ddeff48/"
   },
   {
    "id": "4b1f4675",
