@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-15T04:30:53.914902+00:00",
+ "updated": "2026-10-15T05:01:05.862153+00:00",
  "items": [
+  {
+   "id": "540f5b73",
+   "title": "Apple’ın 27 Ekim Etkinliğinde Tanıtacağı Yeni Ürünler Belli Oldu",
+   "summary": "Apple, 27 Ekim'de yeni MacBook Pro tanıtım tarihi için hazırlanıyor. OLED iPad mini ve M6 işlemcili Mac modelleri hakkında detaylar haberimizde.",
+   "link": "https://shiftdelete.net/apple-yeni-mac-modelleri-oled-ipad-mini-27-ekim",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-15T05:00:09+00:00",
+   "url": "/haber/apple-in-27-ekim-etkinliginde-tanitacagi-yeni-urunler-belli-oldu-540f5b73/"
+  },
+  {
+   "id": "6d588f09",
+   "title": "Nvidia Çin’de kan kaybediyor, Huawei yükseliyor",
+   "summary": "Halen Çin pazarında en büyük yapay zekâ yonga tedarikçisi olsa da Nvidia yavaş yavaş pazarı Huawei başta olmak üzere Çinli yonga tasarımlarına teslim etmek üzere.",
+   "link": "https://www.donanimhaber.com/huawei-ve-nvidia-rekabeti--211641",
+   "image": "https://www.donanimhaber.com/images/images/haber/211641/1200x675huawei-ve-nvidia-rekabeti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-15T05:00:00+00:00",
+   "url": "/haber/nvidia-cin-de-kan-kaybediyor-huawei-yukseliyor-6d588f09/"
+  },
+  {
+   "id": "151c536b",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Ekim 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-ekim-2026-1746349",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-15T05:00:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-151c536b/"
+  },
+  {
+   "id": "4b3b99b7",
+   "title": "İstanbul'da aksayan bazı tramvay ve metro seferleri yeniden başladı",
+   "summary": "İstanbul'da etkili olan kuvvetli sağanak nedeniyle aksayan bazı metro ve tramvay hatlarındaki seferler yağışın azalmasıyla yeniden yapılmaya başlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-aksayan-bazi-tramvay-ve-metro-seferleri-yeniden-basladi/4089182",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T04:53:13+00:00",
+   "url": "/haber/istanbul-da-aksayan-bazi-tramvay-ve-metro-seferleri-yeniden-basladi-4b3b99b7/"
+  },
   {
    "id": "4d757db8",
    "title": "Stellantis 1.2 PureTech Motor Sorunları için Özür Diledi",
@@ -13,17 +57,6 @@
    "url": "/haber/stellantis-1-2-puretech-motor-sorunlari-icin-ozur-diledi-4d757db8/"
   },
   {
-   "id": "151c536b",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Ekim 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-ekim-2026-1746349",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-15T04:30:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-151c536b/"
-  },
-  {
    "id": "73bfef11",
    "title": "Sportif Tasarımlı Yeni Skoda Epiq Sportline Tanıtıldı!",
    "summary": "Skoda, tamamen elektrikli kompakt SUV modeli Epiq'in sportif detaylara ve zengin standart donanımlara sahip yeni Sportline versiyonunu Paris Otomobil Fuarı'nda tanıttı.",
@@ -33,6 +66,17 @@
    "category": "teknoloji",
    "date": "2026-10-15T04:03:52+00:00",
    "url": "/haber/sportif-tasarimli-yeni-skoda-epiq-sportline-tanitildi-73bfef11/"
+  },
+  {
+   "id": "0931b762",
+   "title": "İstanbul'u sağanak vurdu: Yollar göle döndü, araçlar suya gömüldü",
+   "summary": "İstanbul'da etkili olan kuvvetli yağış hayatı derinden etkiledi. Kentin birçok yerinde yollar göle döndü, araçlar suya gömüldü, ev ve işyerlerini su bastı. Yollarda mahsur kalanlar kepçeyle kurtarıldı. Metrekareye düşen…",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulu-saganak-vurdu-yollar-gole-dondu-araclar-suya-gomuldu-960146.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/istanbul-saganakaa-2495833.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-15T04:03:00+00:00",
+   "url": "/haber/istanbul-u-saganak-vurdu-yollar-gole-dondu-araclar-suya-gomuldu-0931b762/"
   },
   {
    "id": "479a9c09",
@@ -308,17 +352,6 @@
    "category": "gundem",
    "date": "2026-10-14T20:49:49+00:00",
    "url": "/haber/fenerbahce-aston-villa-deplasmaninda-darmadagin-8a8e8e53/"
-  },
-  {
-   "id": "b0bc298b",
-   "title": "Anadolu Efes sahasında Bayern Münih'e 101-93 mağlup oldu",
-   "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 5. haftasında Anadolu Efes, sahasında Almanya ekibi Bayern Münih'e 101-93 mağlup oldu.",
-   "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-sahasinda-bayern-munihe-101-93-maglup-oldu/4089073",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-14T20:44:17+00:00",
-   "url": "/haber/anadolu-efes-sahasinda-bayern-munih-e-101-93-maglup-oldu-b0bc298b/"
   },
   {
    "id": "fc716741",
@@ -651,17 +684,6 @@
    "url": "/haber/ps-plus-ekim-2026-oyunlari-aciklandi-extra-ve-premium-0fc0902c/"
   },
   {
-   "id": "494a50df",
-   "title": "Changan ve CATL’den batarya hamlesi: Hedef 1.500 km üzeri menzil",
-   "summary": "Changan ve CATL, ortak batarya üretim kapasitesini 75 GWh’ye çıkarıyor. İş birliği katı hâl ve sodyum iyon bataryaları da kapsarken Changan, yeni hücreleriyle 1.500 km üzeri menzil sunmayı hedefliyor.",
-   "link": "https://www.donanimhaber.com/changan-ve-catl-den-batarya-hamlesi-hedef-1-500-km-uzeri-menzil--211621",
-   "image": "https://www.donanimhaber.com/images/images/haber/211621/1200x675changan-ve-catl-den-batarya-hamlesi-hedef-1-500-km-uzeri-menzil.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-14T16:36:00+00:00",
-   "url": "/haber/changan-ve-catl-den-batarya-hamlesi-hedef-1-500-km-uzeri-menzil-494a50df/"
-  },
-  {
    "id": "c1ba390a",
    "title": "Yeni Epic Games Başlatıcısı Yapay Zeka ile Yenilendi",
    "summary": "Yeni Epic Games Başlatıcısı özellikleri neler? Yapay zeka destekli \"vibe coding\" ile geliştirilen yeni sürümün detaylarına göz atın.",
@@ -706,17 +728,6 @@
    "url": "/haber/ekrem-imamoglu-savunmasinin-ilk-gununde-halk-tv-fon-krizi-ve-yasaklana-d84c4af1/"
   },
   {
-   "id": "895a864d",
-   "title": "İstanbul'da dereler taştı, yollar göle döndü",
-   "summary": "İstanbul'da etkili olan sağanak nedeniyle kent genelinde su baskınları yaşandı, yollar, alt geçitler ve tüneller suyla doldu. Olumsuz hava koşulları nedeniyle kent genelinde yüz yüze eğitime yarın ara verildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-dereler-tasti-yollar-gole-dondu-960119.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/taskin-aa-2495825.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-14T15:38:00+00:00",
-   "url": "/haber/istanbul-da-dereler-tasti-yollar-gole-dondu-895a864d/"
-  },
-  {
    "id": "d50a3033",
    "title": "Ukrayna, SpaceX’in Starlink üzerinden drone operasyonlarını kesintiye uğrattığını iddia ediyor",
    "summary": "Ukrayna, Elon Musk’ın özel uzay şirketi SpaceX’in işlettiği uydu internet hizmeti Starlink’in bölgedeki erişimine önceden haber verilmeden kısıtlama getirildiğini ve bunun ülkenin Rusya’ya yönelik drone operasyonlarını…",
@@ -726,17 +737,6 @@
    "category": "teknoloji",
    "date": "2026-10-14T15:30:41+00:00",
    "url": "/haber/ukrayna-spacex-in-starlink-uzerinden-drone-operasyonlarini-kesintiye-u-d50a3033/"
-  },
-  {
-   "id": "a5c791c5",
-   "title": "WhatsApp’ta Hesabı Olmayanları Arayabileceksiniz",
-   "summary": "WhatsApp hesabı olmadan arama yapmayı sağlayan yeni konuk özelliği ile herkesi görüşmelerinize davet edebilirsiniz. Detaylar haberimizde.",
-   "link": "https://shiftdelete.net/whatsapp-hesabi-olmadan-arama-ozelligi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-14T15:30:35+00:00",
-   "url": "/haber/whatsapp-ta-hesabi-olmayanlari-arayabileceksiniz-a5c791c5/"
   },
   {
    "id": "b8a707e1",
