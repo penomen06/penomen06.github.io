@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T23:01:12.847117+00:00",
+ "updated": "2026-10-15T23:31:07.433295+00:00",
  "items": [
   {
    "id": "b7da116f",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-15T23:00:00+00:00",
+   "date": "2026-10-15T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b7da116f/"
+  },
+  {
+   "id": "b6afac21",
+   "title": "Yeni Street Fighter filmi nasıl olmuş? İşte ilk yorumlar",
+   "summary": "Bu hafta vizyona girecek olan yeni Street Fighter filmi nasıl olmuş? Basın gösteriminin gerçekleşmesi sonrası filme dair ilk eleştiriler de geldi. İşte ilk yorumlar...",
+   "link": "https://www.donanimhaber.com/yeni-street-fighter-filmi-nasil-olmus-iste-yorumlar--211677",
+   "image": "https://www.donanimhaber.com/images/images/haber/211677/1200x675yeni-street-fighter-filmi-nasil-olmus-iste-yorumlar.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-15T23:12:43+00:00",
+   "url": "/haber/yeni-street-fighter-filmi-nasil-olmus-iste-ilk-yorumlar-b6afac21/"
   },
   {
    "id": "c2395dc8",
@@ -440,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T17:28:00+00:00",
    "url": "/haber/kia-nin-en-ucuz-elektriklisi-ev2-euro-ncap-testine-girdi-iste-sonuc-608d1cf3/"
-  },
-  {
-   "id": "b6afac21",
-   "title": "Yeni Street Fighter filmi nasıl olmuş? İşte ilk yorumlar",
-   "summary": "Bu hafta vizyona girecek olan yeni Street Fighter filmi nasıl olmuş? Basın gösteriminin gerçekleşmesi sonrası filme dair ilk eleştiriler de geldi. İşte ilk yorumlar...",
-   "link": "https://www.donanimhaber.com/yeni-street-fighter-filmi-nasil-olmus-iste-yorumlar--211677",
-   "image": "https://www.donanimhaber.com/images/images/haber/211677/1200x675yeni-street-fighter-filmi-nasil-olmus-iste-yorumlar.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-15T17:11:00+00:00",
-   "url": "/haber/yeni-street-fighter-filmi-nasil-olmus-iste-ilk-yorumlar-b6afac21/"
   },
   {
    "id": "7be89cc7",
