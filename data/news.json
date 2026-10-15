@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-15T17:45:01.690072+00:00",
+ "updated": "2026-10-15T18:01:16.782494+00:00",
  "items": [
+  {
+   "id": "e5d32b78",
+   "title": "ABD tarafından alıkonulan Maduro, New York'taki mahkemede hakkındaki suçlamaları reddetti",
+   "summary": "ABD'nin 3 Ocak'taki askeri müdahalesi sonucu alıkonulan Venezuela Devlet Başkanı Nicolas Maduro, New York'taki mahkemede hakkındaki \"işkence\" suçlamalarını kabul etmedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-tarafindan-alikonulan-maduro-new-yorktaki-mahkemede-hakkindaki-suclamalari-reddetti/4090281",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T17:55:14+00:00",
+   "url": "/haber/abd-tarafindan-alikonulan-maduro-new-york-taki-mahkemede-hakkindaki-su-e5d32b78/"
+  },
+  {
+   "id": "04460273",
+   "title": "Lübnan, ABD'den \"saldırılarını durdurması için İsrail'e baskı yapmasını\" istedi",
+   "summary": "Lübnan Cumhurbaşkanı Joseph Avn, ABD Dışişleri Bakanı Marco Rubio'dan, Lübnan'ın güneyindeki köy ve beldelere yönelik saldırılarını durdurması için İsrail'e baskı yapmasını istedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/lubnan-abdden-saldirilarini-durdurmasi-icin-israile-baski-yapmasini-istedi/4090275",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T17:50:46+00:00",
+   "url": "/haber/lubnan-abd-den-saldirilarini-durdurmasi-icin-israil-e-baski-yapmasini-04460273/"
+  },
+  {
+   "id": "cf5eabef",
+   "title": "Türkiye Sigorta Genel Müdürü Taha Çakmak istifa etti",
+   "summary": "Türkiye Sigorta Genel Müdürü Taha Çakmak, görevinden istifa etti.",
+   "link": "https://www.ntv.com.tr/turkiye/turkiye-sigorta-genel-muduru-taha-cakmak-istifa-etti-1746503",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_98824e6bb78e578bd689763b4b46fa28_20261015173512-918912.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-15T17:46:56+00:00",
+   "url": "/haber/turkiye-sigorta-genel-muduru-taha-cakmak-istifa-etti-cf5eabef/"
+  },
+  {
+   "id": "2cf197be",
+   "title": "TBMM Başkanı Kurtulmuş, Kanada Avam Meclisi Başkanı Scarpaleggia ile görüştü",
+   "summary": "Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, Avrupa Parlamento Başkanları Konferansı dolayısıyla bulunduğu İtalya'nın başkenti Roma'da, Kanada Avam Meclisi Başkanı Francis Scarpaleggia ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-kanada-avam-meclisi-baskani-scarpaleggia-ile-gorustu/4090267",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T17:44:40+00:00",
+   "url": "/haber/tbmm-baskani-kurtulmus-kanada-avam-meclisi-baskani-scarpaleggia-ile-go-2cf197be/"
+  },
   {
    "id": "da86da4b",
    "title": "Sel nedeniyle kuyudan su tahliyesi yapan işçi hayatını kaybetti",
@@ -145,17 +189,6 @@
    "url": "/haber/cumhurbaskani-erdogan-sahada-tum-tedbirler-alinmakta-72ebb896/"
   },
   {
-   "id": "fe37aa00",
-   "title": "Elon Musk, Amazon'a rakip bir girişim başlatma fikrini gündeme getirdi",
-   "summary": "ABD'li iş insanı, Tesla ve SpaceX'in Üst Yöneticisi (CEO) Elon Musk, Grok yapay zeka asistanlarının sipariş vermesini engellemesi nedeniyle perakende devi Amazon'a rakip olabilecek bir girişim başlatma fikrini ortaya…",
-   "link": "https://www.aa.com.tr/tr/dunya/elon-musk-amazona-rakip-bir-girisim-baslatma-fikrini-gundeme-getirdi/4090201",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T16:33:02+00:00",
-   "url": "/haber/elon-musk-amazon-a-rakip-bir-girisim-baslatma-fikrini-gundeme-getirdi-fe37aa00/"
-  },
-  {
    "id": "47f069c3",
    "title": "Putin, Ukrayna'nın rafinerilere saldırılarında ciddi hasar oluşmadığını söyledi",
    "summary": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna'nın ülkedeki petrol rafinerilerine yönelik son saldırılarında ciddi bir hasar meydana gelmediğini belirterek, Kiev yönetiminin saldırıların sonuçlarını düşünmesi gerektiğini…",
@@ -209,17 +242,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T16:26:00+00:00",
    "url": "/haber/bmw-i3-tek-sarjla-1-213-kilometre-yol-katetti-67d9b181/"
-  },
-  {
-   "id": "c964d88f",
-   "title": "İran ordusu, Hürmüz Boğazı'nın doğusunda bir geminin alev aldığını duyurdu",
-   "summary": "İran Donanması, Hürmüz Boğazı'nın doğusunda takip sistemini kapatarak yol alan bir petrol tankerinde yangın çıktığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinin-dogusunda-bir-geminin-alev-aldigini-duyurdu/4090183",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T16:17:41+00:00",
-   "url": "/haber/iran-ordusu-hurmuz-bogazi-nin-dogusunda-bir-geminin-alev-aldigini-duyu-c964d88f/"
   },
   {
    "id": "c3494cf2",
@@ -319,17 +341,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T15:28:21+00:00",
    "url": "/haber/redmagic-12-pro-tanitildi-eksiksiz-oyun-telefonu-1a879fe5/"
-  },
-  {
-   "id": "bc1f14b4",
-   "title": "İstanbul'da elektrik akımına kapılarak ölen çocuğun cenazesi Düzce'de defnedildi",
-   "summary": "İstanbul'un Fatih ilçesinde su birikintisinde elektrik akımına kapılarak hayatını kaybeden 14 yaşındaki Mahmut Işıldak'ın cenazesi memleketi Düzce'de toprağa verildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-elektrik-akimina-kapilarak-olen-cocugun-cenazesi-duzcede-defnedildi/4090123",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T15:19:10+00:00",
-   "url": "/haber/istanbul-da-elektrik-akimina-kapilarak-olen-cocugun-cenazesi-duzce-de-bc1f14b4/"
   },
   {
    "id": "283c22e9",
@@ -1034,17 +1045,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T10:30:09+00:00",
    "url": "/haber/ates-serbest-2026-tatbikati-tamamlandi-tsk-nin-ates-gucu-sergilendi-163b9625/"
-  },
-  {
-   "id": "891bd8f2",
-   "title": "MSB: Beklentimiz CAATSA yaptırımlarının kaldırılmasıdır",
-   "summary": "Milli Savunma Bakanlığı (MSB) Amerika Birleşik Devletleri'ne (ABD) müttefiklik ruhuyla bağdaşmayan CAATSA yaptırımlarının kaldırılmasına yönelik bir çağrı yaptı.",
-   "link": "https://www.ntv.com.tr/turkiye/msb-beklentimiz-caatsa-yaptirimlarinin-kaldirilmasidir-1746438",
-   "image": "https://images.ntv.com.tr/images/AA-20261015-42761400-42761390-MSBDE_BASIN_BILGILENDIRME_TOPLANTISI_YAPILDI-843693(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-15T09:33:44+00:00",
-   "url": "/haber/msb-beklentimiz-caatsa-yaptirimlarinin-kaldirilmasidir-891bd8f2/"
   },
   {
    "id": "cae20e1e",
