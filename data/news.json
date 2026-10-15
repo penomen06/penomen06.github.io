@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T03:01:10.626388+00:00",
+ "updated": "2026-10-15T03:31:02.639153+00:00",
  "items": [
   {
    "id": "151c536b",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-15T03:00:00+00:00",
+   "date": "2026-10-15T03:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-151c536b/"
+  },
+  {
+   "id": "de7f803b",
+   "title": "6 ilde okullar tatil edildi. İstanbul Valisi Gül'den \"dışarı çıkmayın\" uyarısı",
+   "summary": "İstanbul da dahil 6 ilde şiddetli yağış nedeniyle okullar bugün tatil edildi. Motosikletlerin trafiğe çıkmaları yasaklandı. Vali Gül'den de önemli bir uyarı geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-yarin-okullar-tatil-edildi-1746328",
+   "image": "https://images.ntv.com.tr/images/AA-20261014-42753888-42753884-ISTANBULDA_SAGANAK_ETKILI_OLDU-262537.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-15T03:29:58+00:00",
+   "url": "/haber/6-ilde-okullar-tatil-edildi-istanbul-valisi-gul-den-disari-cikmayin-uy-de7f803b/"
   },
   {
    "id": "9accb0bd",
@@ -33,17 +44,6 @@
    "category": "gundem",
    "date": "2026-10-14T23:29:58+00:00",
    "url": "/haber/abd-de-yargic-trump-yonetiminin-washington-daki-golf-sahasinda-yaptigi-81873b76/"
-  },
-  {
-   "id": "de7f803b",
-   "title": "5 ilde okullar tatil edildi. İstanbul Valisi Gül'den \"dışarı çıkmayın\" uyarısı",
-   "summary": "İstanbul da dahil 6 ilde şiddetli yağış nedeniyle okullar bugün tatil edildi. Motosikletlerin trafiğe çıkmaları yasaklandı. Vali Gül'den de önemli bir uyarı geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbulda-yarin-okullar-tatil-edildi-1746328",
-   "image": "https://images.ntv.com.tr/images/AA-20261014-42753888-42753884-ISTANBULDA_SAGANAK_ETKILI_OLDU-262537.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-14T23:23:22+00:00",
-   "url": "/haber/5-ilde-okullar-tatil-edildi-istanbul-valisi-gul-den-disari-cikmayin-uy-de7f803b/"
   },
   {
    "id": "dbf82bba",
