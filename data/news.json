@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T23:31:07.433295+00:00",
+ "updated": "2026-10-15T23:49:23.829765+00:00",
  "items": [
   {
    "id": "b7da116f",
@@ -13,6 +13,17 @@
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b7da116f/"
   },
   {
+   "id": "a9db64fe",
+   "title": "BM'nin raporu, dönüşüm yaşayan toplumlardaki kapsayıcılık sorununa işaret ediyor",
+   "summary": "Birleşmiş Milletler (BM) Ekonomik ve Sosyal İşler Dairesi (DESA) tarafından yayımlanan yıllık raporda, dönüşüm yaşayan toplumlarda insanların sosyal imkanlar açısından içinde bulunduğu dengesiz duruma dikkat çekildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bmnin-raporu-donusum-yasayan-toplumlardaki-kapsayicilik-sorununa-isaret-ediyor/4090456",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T23:28:21+00:00",
+   "url": "/haber/bm-nin-raporu-donusum-yasayan-toplumlardaki-kapsayicilik-sorununa-isar-a9db64fe/"
+  },
+  {
    "id": "b6afac21",
    "title": "Yeni Street Fighter filmi nasıl olmuş? İşte ilk yorumlar",
    "summary": "Bu hafta vizyona girecek olan yeni Street Fighter filmi nasıl olmuş? Basın gösteriminin gerçekleşmesi sonrası filme dair ilk eleştiriler de geldi. İşte ilk yorumlar...",
@@ -22,6 +33,61 @@
    "category": "teknoloji",
    "date": "2026-10-15T23:12:43+00:00",
    "url": "/haber/yeni-street-fighter-filmi-nasil-olmus-iste-ilk-yorumlar-b6afac21/"
+  },
+  {
+   "id": "4b86028a",
+   "title": "Lufthansa, Frankfurt varışlı uçuşlarında yakıt sıkıntısı nedeniyle fazla yakıt taşınması talimatı verdi",
+   "summary": "Alman hava yolu şirketi Lufthansa, Almanya'nın en büyük havalimanı olan Frankfurt'taki yakıt arzında yaşanan sıkışıklık nedeniyle Frankfurt varışlı seferlerde uçaklara ihtiyaçtan fazla yakıt yüklenmesi talimatı verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/lufthansa-frankfurt-varisli-ucuslarinda-yakit-sikintisi-nedeniyle-fazla-yakit-tasinmasi-talimati-verdi/4090454",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T23:05:06+00:00",
+   "url": "/haber/lufthansa-frankfurt-varisli-ucuslarinda-yakit-sikintisi-nedeniyle-fazl-4b86028a/"
+  },
+  {
+   "id": "b7cde9a1",
+   "title": "Çorum FK, Çaykur Rizespor'u konuk edecek",
+   "summary": "Arca Çorum FK, Trendyol Süper Lig'in 8. haftasında evinde Çaykur Rizespor ile karşılaşacak.",
+   "link": "https://www.aa.com.tr/tr/spor/corum-fk-caykur-rizesporu-konuk-edecek/4090453",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T23:03:10+00:00",
+   "url": "/haber/corum-fk-caykur-rizespor-u-konuk-edecek-b7cde9a1/"
+  },
+  {
+   "id": "37291dc7",
+   "title": "Afrika yemekleri Türk damak tadına sanıldığı kadar uzak değil",
+   "summary": "İstanbul'da Afrika'nın farklı bölgelerine özgü lezzetler sunan restoranlar, kıtanın mutfak kültürünü Türk müşterilerle buluştururken Afrika ve Türk yemekleri arasındaki benzerlikleri de ortaya koyuyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/afrika-yemekleri-turk-damak-tadina-sanildigi-kadar-uzak-degil/4090452",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T23:01:52+00:00",
+   "url": "/haber/afrika-yemekleri-turk-damak-tadina-sanildigi-kadar-uzak-degil-37291dc7/"
+  },
+  {
+   "id": "082fd36f",
+   "title": "Fanatik İsrailliler Batı Şeria'da Filistinli çiftçinin asırlık zeytin ağaçlarını kırdı ve mahsulünü çaldı",
+   "summary": "Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria'da çoğunlukla Hristiyanların yaşadığı Taybe beldesinde Filistinli çiftçi Beşir Naim'in arazisine ulaşmasını engelledikten sonra asırlık zeytin…",
+   "link": "https://www.aa.com.tr/tr/dunya/fanatik-israilliler-bati-seriada-filistinli-ciftcinin-asirlik-zeytin-agaclarini-kirdi-ve-mahsulunu-caldi/4090450",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T22:58:40+00:00",
+   "url": "/haber/fanatik-israilliler-bati-seria-da-filistinli-ciftcinin-asirlik-zeytin-082fd36f/"
+  },
+  {
+   "id": "6cff7b8e",
+   "title": "Zelenskiy'den Brüksel'de hava savunması ve ilave F-16 desteği çağrısı",
+   "summary": "Ukrayna Devlet Başkanı Zelenskiy, Brüksel'de Belçika Kralı Philippe ve Başbakan Bart De Wever ile yaptığı görüşmelerde, ülkesinin hava savunmasının güçlendirilmesi ve ilave F-16 savaş uçaklarının bir an önce teslim…",
+   "link": "https://www.aa.com.tr/tr/dunya/zelenskiyden-brukselde-hava-savunmasi-ve-ilave-f-16-destegi-cagrisi/4090448",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T22:53:20+00:00",
+   "url": "/haber/zelenskiy-den-bruksel-de-hava-savunmasi-ve-ilave-f-16-destegi-cagrisi-6cff7b8e/"
   },
   {
    "id": "c2395dc8",
@@ -167,17 +233,6 @@
    "url": "/haber/porsche-mobil-1-supercup-2027-de-istanbul-park-ta-duzenlenecek-f49a1c04/"
   },
   {
-   "id": "54fb9af3",
-   "title": "İsrail Başbakanı Netanyahu, kurulacak yeni hükümette kilit bakanlıkları elinde tutmayı planlıyor",
-   "summary": "İsrail Başbakanı Binyamin Netanyahu, seçimleri kazanması ve hükümeti kurması durumunda Savunma, Ulusal Güvenlik ve Adalet bakanlıklarını elinde tutma niyetinde olduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-basbakani-netanyahu-kurulacak-yeni-hukumette-kilit-bakanliklari-elinde-tutmayi-planliyor/4090410",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T20:53:42+00:00",
-   "url": "/haber/israil-basbakani-netanyahu-kurulacak-yeni-hukumette-kilit-bakanliklari-54fb9af3/"
-  },
-  {
    "id": "adc99bb2",
    "title": "UEFA Avrupa Ligi: Beşiktaş, Hoffenheim'ı deplasmanda 3-2 yendi",
    "summary": "UEFA Avrupa Ligi'nde mücadele eden Beşiktaş, turnuvanın ikinci hafta maçında Alman temsilcisi Hoffenheim'a konuk olduğu maçtan 3-2'lik galibiyetle ayrıldı.",
@@ -187,17 +242,6 @@
    "category": "gundem",
    "date": "2026-10-15T20:52:58+00:00",
    "url": "/haber/uefa-avrupa-ligi-besiktas-hoffenheim-i-deplasmanda-3-2-yendi-adc99bb2/"
-  },
-  {
-   "id": "46701f2c",
-   "title": "Beşiktaş, UEFA Avrupa Ligi'nde 2'de 2 yaptı",
-   "summary": "UEFA Avrupa Ligi'nin ikinci haftasında Beşiktaş, deplasmanda Almanya ekibi Hoffenheim'ı 3-2 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-2de-2-yapti/4090409",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T20:52:23+00:00",
-   "url": "/haber/besiktas-uefa-avrupa-ligi-nde-2-de-2-yapti-46701f2c/"
   },
   {
    "id": "2627d613",
@@ -222,17 +266,6 @@
    "url": "/haber/uskudar-belediye-baskanvekili-gultekin-trafik-kazasinda-hayatini-kaybe-dd0d025b/"
   },
   {
-   "id": "1dcf4a5e",
-   "title": "Irak Meclisi, başbakan yardımcıları ile boş kalan bakanlıklar için yeni isimleri onayladı",
-   "summary": "Irak Meclisi, başbakan yardımcılarıyla kabinede boş kalan bakanlıklar için aday olanları seçti. Irak Türkmen Cephesi Başkanı Muhammed Seman Ağa da Devlet Bakanı olarak seçildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/irak-meclisi-basbakan-yardimcilari-ile-bos-kalan-bakanliklar-icin-yeni-isimleri-onayladi/4090386",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T20:18:02+00:00",
-   "url": "/haber/irak-meclisi-basbakan-yardimcilari-ile-bos-kalan-bakanliklar-icin-yeni-1dcf4a5e/"
-  },
-  {
    "id": "1fc2e05a",
    "title": "Husiler'in Yemen Başkanlık Sarayına saldırısında iki güvenlik görevlisi öldü",
    "summary": "Yemen'in güneyindeki liman kenti Aden'de, uluslararası alanda tanınan hükümetin merkezi olan başkanlık sarayını hedef alan Husilerin füze saldırısında iki güvenlik görevlisi hayatını kaybetti.",
@@ -253,17 +286,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T20:15:00+00:00",
    "url": "/haber/cip-devi-asml-nin-gelirleri-rekor-kiriyor-siparisler-2030-a-uzandi-db30fe57/"
-  },
-  {
-   "id": "3573ed10",
-   "title": "Kürşad Zorlu: Her bir devletimiz egemenlik hukukuna sonuna kadar saygılı",
-   "summary": "AK Parti Genel Başkan Yardımcısı Zorlu, Türkiye ve Azerbaycan'ın ilerleyiş tarzında farklılıklar olabileceğini belirterek, iki ülkenin birbirinin egemenlik hukukuna saygı duyduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/gundem/kursad-zorlu-her-bir-devletimiz-egemenlik-hukukuna-sonuna-kadar-saygili/4090378",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T20:07:09+00:00",
-   "url": "/haber/kursad-zorlu-her-bir-devletimiz-egemenlik-hukukuna-sonuna-kadar-saygil-3573ed10/"
   },
   {
    "id": "99445c51",
@@ -319,17 +341,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T19:38:17+00:00",
    "url": "/haber/sisecam-dan-togg-t10f-e-akilli-cam-tavan-perdeye-gerek-kalmayabilir-d659502a/"
-  },
-  {
-   "id": "deeb36cf",
-   "title": "Bakan Kacır: Türkiye, sahip olduğu siyasi ve ekonomik istikrarla geleceğe güvenle ilerliyor",
-   "summary": "Sanayi ve Teknoloji Bakanı Kacır, Türkiye'nin sahip olduğu siyasi ve ekonomik istikrarla geleceğe güvenle ilerlediğini belirterek, \"Yolumuz açık, istikbalimiz parlak, istikametimiz aydınlıktır.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-turkiye-sahip-oldugu-siyasi-ve-ekonomik-istikrarla-gelecege-guvenle-ilerliyor/4090349",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T19:23:20+00:00",
-   "url": "/haber/bakan-kacir-turkiye-sahip-oldugu-siyasi-ve-ekonomik-istikrarla-geleceg-deeb36cf/"
   },
   {
    "id": "9f1ff4fd",
@@ -871,17 +882,6 @@
    "url": "/haber/kultur-ve-turizm-bakani-ersoy-dan-rusya-ile-ucak-seferlerini-artirma-h-06611224/"
   },
   {
-   "id": "7ba1d3fa",
-   "title": "Dışişleri Bakanı Fidan: Türkiye-Azerbaycan arasında 'iki devlet, tek millet' prensibi kendisini bütün alanlarda gösterdi",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Türkiye-Azerbaycan arasında \"iki devlet, tek millet\" prensibinin kendisini bütün alanlarda gösterdiğini ifade ederek, \"Liderlerimiz arasında sarsılmaz bir dostluk ve kardeşlik bağı vardır.\"…",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-turkiye-azerbaycan-arasinda-iki-devlet-tek-millet-prensibi-kendisini-butun-alanlarda-gosterdi/4089926",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T13:40:54+00:00",
-   "url": "/haber/disisleri-bakani-fidan-turkiye-azerbaycan-arasinda-iki-devlet-tek-mill-7ba1d3fa/"
-  },
-  {
    "id": "00ef7e00",
    "title": "Ticaret Bakanlığı, cep telefonu satışına yönelik yeni taksit düzenlemeleri gerçekleştirdi",
    "summary": "Ticaret Bakanlığı tarafından yapılan açıklamada, “Mal ve hizmet satışında taksitlendirme süreleri; kredi kartı, alışveriş kredisi ve tüketici finansmanı yoluyla yapılan satışlardan BDDK tarafından, bu yöntemlerin…",
@@ -1201,17 +1201,6 @@
    "url": "/haber/cumhurbaskanligi-yuksek-istisare-kurulu-toplandi-44df3538/"
   },
   {
-   "id": "60b8cc2c",
-   "title": "Başörtüsü protestoları Aliyev hükümeti için tehdit mi?",
-   "summary": "Cumhurbaşkanı İlham Aliyev'in hükümeti, başörtüsü nedeniyle düzenlenen protestolar karşısında zor bir tercih ile karşı karşıya. Geri adım atmak, yetkililerin baskıya boyun eğdiği şeklinde görülebilir; sert bir tutum ise…",
-   "link": "https://www.bbc.com/turkce/articles/cmzxl14edpk7o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d74d/live/ec5bbeb0-c751-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-14T13:17:51+00:00",
-   "url": "/haber/basortusu-protestolari-aliyev-hukumeti-icin-tehdit-mi-60b8cc2c/"
-  },
-  {
    "id": "40e0403d",
    "title": "Bahçeli: Türkiye ve Azerbaycan aynı gönül coğrafyasının iki güçlü devletidir",
    "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Ege’den Hazar’a, geçmişten geleceğe Türkiye ve Azerbaycan aynı gönül coğrafyasının iki güçlü devletidir\" açıklamasını yaptı. TDT Zirvesi'nin tarihi önem taşıdığına vurgu yapan Bahçeli,…",
@@ -1254,6 +1243,17 @@
    "category": "gundem",
    "date": "2026-10-13T19:47:29+00:00",
    "url": "/haber/trump-erdogan-husiler-konusunda-istedigimi-yapacaktir-f75e611d/"
+  },
+  {
+   "id": "a6fc9989",
+   "title": "Husiler neden Suudi Arabistan'ı hedef alıyor?",
+   "summary": "Yemen'deki Husiler Suudi Arabistan'a yönelik saldırılarını şiddetlendirdi. Kral Halid Uluslararası Havalimanı'na 10 Ekim Cumartesi günü düzenlenen saldırıda 13 kişi öldürüldü, 300'den fazla kişi kişi yaralanmıştı.",
+   "link": "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/724b/live/2fb59880-c503-11f1-9785-db6b858f3ee9.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-13T08:10:10+00:00",
+   "url": "/haber/husiler-neden-suudi-arabistan-i-hedef-aliyor-a6fc9989/"
   },
   {
    "id": "4b1f4675",
