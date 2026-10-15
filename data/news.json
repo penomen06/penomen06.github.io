@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:31:04.925864+00:00",
+ "updated": "2026-10-15T22:01:27.543978+00:00",
  "items": [
   {
    "id": "b7da116f",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-15T21:30:00+00:00",
+   "date": "2026-10-15T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b7da116f/"
+  },
+  {
+   "id": "a219d506",
+   "title": "Atama kararları Resmi Gazete'de. Devlet Opera ve Balesi Genel Müdürlüğüne Can Atilla getirildi",
+   "summary": "Bazı atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/atama-kararlari-resmi-gazetede-devlet-opera-ve-balesi-genel-mudurlugune-can-atilla-getirildi-1746512",
+   "image": "https://images.ntv.com.tr/images/resmigazete'debugün-214086.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-15T21:33:00+00:00",
+   "url": "/haber/atama-kararlari-resmi-gazete-de-devlet-opera-ve-balesi-genel-mudurlugu-a219d506/"
   },
   {
    "id": "7fa75f9f",
@@ -55,6 +66,28 @@
    "category": "gundem",
    "date": "2026-10-15T21:18:31+00:00",
    "url": "/haber/bekir-bayrakdar-hazine-ve-maliye-bakan-yardimcisi-oldu-e0ab8767/"
+  },
+  {
+   "id": "263768b0",
+   "title": "UEFA Konferans Ligi'nin ilk haftası, 8 maçla sona erdi",
+   "summary": "Avrupa futbolunun kulüp düzeyindeki üç numaralı turnuvasının ilk haftasında TSİ 22.00'de başlayan karşılaşmalar tamamlandı.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-konferans-liginin-ilk-haftasi-8-macla-sona-erdi/4090425",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T21:10:33+00:00",
+   "url": "/haber/uefa-konferans-ligi-nin-ilk-haftasi-8-macla-sona-erdi-263768b0/"
+  },
+  {
+   "id": "f2f893d7",
+   "title": "UEFA Avrupa Ligi'nin ikinci haftası 10 maçla sona erdi",
+   "summary": "Avrupa futbolunun kulüp düzeyindeki iki numaralı turnuvasının ikinci haftasında TSİ 22.00'de başlayan karşılaşmalar tamamlandı.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-avrupa-liginin-ikinci-haftasi-10-macla-sona-erdi/4090424",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T21:07:52+00:00",
+   "url": "/haber/uefa-avrupa-ligi-nin-ikinci-haftasi-10-macla-sona-erdi-f2f893d7/"
   },
   {
    "id": "491aacd3",
@@ -222,15 +255,15 @@
    "url": "/haber/muhammed-salah-trabzonspor-formasiyla-avrupa-kupalarinda-ilk-golunu-at-261b02b9/"
   },
   {
-   "id": "d80b8356",
-   "title": "Bakan Kurum: Hasar tespit çalışması başladı",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"İhbarların hepsine en hızlı şekilde müdahale ediliyor.\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-hasar-tespit-calismasi-basladi-960229.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2302000/murat-kurum-2303046.jpg",
+   "id": "d1419cf3",
+   "title": "Bakan Kurum: Ayazağa'da 300 iş yeri, 200 araç hasar tespiti yapıldı",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, İstanbul'daki sel felaketinde 48 toprak kayması vakası yaşandığını belirterek \" \"Şu ana kadar yapılan tespitler çerçevesinde sadece Ayazağa'da 300 iş yeri, 200…",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-ayazagada-300-is-yeri-200-arac-hasar-tespiti-yapildi-960229.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/murat-kurum-aa-2496229.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-15T19:42:00+00:00",
-   "url": "/haber/bakan-kurum-hasar-tespit-calismasi-basladi-d80b8356/"
+   "url": "/haber/bakan-kurum-ayazaga-da-300-is-yeri-200-arac-hasar-tespiti-yapildi-d1419cf3/"
   },
   {
    "id": "07ead8dc",
@@ -255,17 +288,6 @@
    "url": "/haber/sisecam-dan-togg-t10f-e-akilli-cam-tavan-perdeye-gerek-kalmayabilir-d659502a/"
   },
   {
-   "id": "b989fb57",
-   "title": "ABD yönetimi İran'a yönelik yeni yaptırımlar açıkladı",
-   "summary": "ABD Hazine Bakanlığı, İran'ın uluslararası finans sistemine erişimini engellemeyi amaçlayan yaptırımlar kapsamında İran bağlantılı 16 kişi ve 10 kuruluşu yaptırım listesine ekledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-yonetimi-irana-yonelik-yeni-yaptirimlar-acikladi-/4090354",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T19:32:01+00:00",
-   "url": "/haber/abd-yonetimi-iran-a-yonelik-yeni-yaptirimlar-acikladi-b989fb57/"
-  },
-  {
    "id": "8a114386",
    "title": "UEFA Konferans Ligi'nde 2026-2027 sezonu 10 maçla başladı",
    "summary": "Avrupa futbolunun kulüp düzeyindeki üç numaralı turnuvasının ilk haftasında 10 karşılaşma oynandı.",
@@ -275,17 +297,6 @@
    "category": "gundem",
    "date": "2026-10-15T19:31:33+00:00",
    "url": "/haber/uefa-konferans-ligi-nde-2026-2027-sezonu-10-macla-basladi-8a114386/"
-  },
-  {
-   "id": "0c45943a",
-   "title": "İstanbul'da Afet Koordinasyon Toplantısı düzenlendi",
-   "summary": "İstanbul Valiliği, kentte etkili olan yağışa karşı yürütülen çalışmalara ilişkin Afet Koordinasyon Toplantısı'nın Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum'un başkanlığında düzenlendiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-afet-koordinasyon-toplantisi-duzenlendi/4090350",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T19:24:22+00:00",
-   "url": "/haber/istanbul-da-afet-koordinasyon-toplantisi-duzenlendi-0c45943a/"
   },
   {
    "id": "deeb36cf",
@@ -825,17 +836,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T13:50:42+00:00",
    "url": "/haber/motorlu-tasitlardan-toplanan-otv-9-ayda-539-milyar-tl-yi-gecti-4f420c58/"
-  },
-  {
-   "id": "eaf04f74",
-   "title": "İstanbul'da yağış ne zaman duracak? Tarih verildi tehlike sürüyor. Bitti derken yenisi geliyor",
-   "summary": "Sel felaketini yaşayan İstanbul'da yağışlar hafifledi ancak megakente yarın sabahtan itibaren Balkanlar üzerinden yeni bir yağışlı ve soğuk hava sistemi giriş yapacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-yagis-ne-zaman-duracak-tarih-verildi-tehlike-suruyor-bitti-derken-yenisi-geliyor-1746455",
-   "image": "https://images.ntv.com.tr/images/AA-20261014-42754983-42754981-ISTANBULDA_SAGANAK_ETKILI_OLDU-942823.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-15T13:46:48+00:00",
-   "url": "/haber/istanbul-da-yagis-ne-zaman-duracak-tarih-verildi-tehlike-suruyor-bitti-eaf04f74/"
   },
   {
    "id": "bc766f6b",
