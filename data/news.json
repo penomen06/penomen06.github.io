@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-15T19:01:21.361716+00:00",
+ "updated": "2026-10-15T19:31:11.402685+00:00",
  "items": [
+  {
+   "id": "0c45943a",
+   "title": "İstanbul'da Afet Koordinasyon Toplantısı düzenlendi",
+   "summary": "İstanbul Valiliği, kentte etkili olan yağışa karşı yürütülen çalışmalara ilişkin Afet Koordinasyon Toplantısı'nın Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum'un başkanlığında düzenlendiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-afet-koordinasyon-toplantisi-duzenlendi/4090350",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T19:24:22+00:00",
+   "url": "/haber/istanbul-da-afet-koordinasyon-toplantisi-duzenlendi-0c45943a/"
+  },
+  {
+   "id": "dd0d025b",
+   "title": "Üsküdar Belediye Başkanvekili Gültekin trafik kazasında hayatını kaybetti",
+   "summary": "Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin Düzce'de geçirdiği kazada hayatını kaybetti. Gültekin'in Türkiye Belediyeler Birliği başkan vekilliği seçimine katılmak üzere Ankara'ya gittiği kaydedildi.",
+   "link": "https://www.bbc.com/turkce/articles/cqp8gyrdn2yxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d426/live/1f9022c0-c898-11f1-b0a4-81e564f1cfaa.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-15T19:23:07+00:00",
+   "url": "/haber/uskudar-belediye-baskanvekili-gultekin-trafik-kazasinda-hayatini-kaybe-dd0d025b/"
+  },
+  {
+   "id": "9f1ff4fd",
+   "title": "Kaliforniya'da ev tipi bataryalar rekor kırıyor: Şebekeye 745 MW güç sağladılar",
+   "summary": "Kaliforniya'da sıcak hava dalgası elektrik talebini artırırken ev tipi bataryalar devreye girdi. 745 MW'lık rekor güç, binlerce evin şebekeye nasıl destek olabildiğini gösterdi.",
+   "link": "https://www.donanimhaber.com/kaliforniya-da-ev-tipi-bataryalar-rekor-kiriyor--211679",
+   "image": "https://www.donanimhaber.com/images/images/haber/211679/1200x675kaliforniya-da-ev-tipi-bataryalar-rekor-kiriyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-15T19:22:00+00:00",
+   "url": "/haber/kaliforniya-da-ev-tipi-bataryalar-rekor-kiriyor-sebekeye-745-mw-guc-sa-9f1ff4fd/"
+  },
+  {
+   "id": "556382f0",
+   "title": "UEFA Avrupa Ligi'nin ikinci haftasında 8 maç yapıldı",
+   "summary": "Avrupa futbolunun kulüp düzeyindeki iki numaralı turnuvasının ikinci haftasında TSİ 19.45'te başlayan karşılaşmalar sona erdi.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-avrupa-liginin-ikinci-haftasinda-8-mac-yapildi/4090346",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T19:19:21+00:00",
+   "url": "/haber/uefa-avrupa-ligi-nin-ikinci-haftasinda-8-mac-yapildi-556382f0/"
+  },
+  {
+   "id": "adc99bb2",
+   "title": "Beşiktaş, UEFA Avrupa Ligi'nde Hoffenheim deplasmanında",
+   "summary": "UEFA Avrupa Ligi'nde mücadele eden Beşiktaş, turnuvanın ikinci hafta maçında Alman temsilcisi Hoffenheim'a konuk oluyor.",
+   "link": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/847d/live/a8c6f210-c8cc-11f1-9a39-31b474234113.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-15T19:16:29+00:00",
+   "url": "/haber/besiktas-uefa-avrupa-ligi-nde-hoffenheim-deplasmaninda-adc99bb2/"
+  },
+  {
+   "id": "ed122eff",
+   "title": "Trabzonspor, UEFA Konferans Ligi'ndeki ilk maçını 4-2 kazandı",
+   "summary": "Türkiye'yi UEFA Konferans Ligi'nde temsil eden Trabzonspor, turnuvanın ilk hafta maçında Finlandiya ekibi KuPS Kuopio'ya konuk oluyor.",
+   "link": "https://www.bbc.com/turkce/articles/ckwy43vwz4wyo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/646c/live/dcd35630-c8cb-11f1-a64c-550be9e3c66b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-15T19:11:31+00:00",
+   "url": "/haber/trabzonspor-uefa-konferans-ligi-ndeki-ilk-macini-4-2-kazandi-ed122eff/"
+  },
+  {
+   "id": "26c83aab",
+   "title": "Fransa'da sarı yelekliler 17 Ekim'de 1000'den fazla noktada eylem yapacak",
+   "summary": "Fransa'da sarı yelekliler 17 Ekim'de ülke genelinde 1000'den fazla noktada eylem düzenleyecek.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yelekliler-17-ekimde-1000den-fazla-noktada-eylem-yapacak/4090343",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T19:10:49+00:00",
+   "url": "/haber/fransa-da-sari-yelekliler-17-ekim-de-1000-den-fazla-noktada-eylem-yapa-26c83aab/"
+  },
   {
    "id": "09f8021b",
    "title": "Türkiye, eylülde en çok bu otomobil markalarını tercih etti",
@@ -13,15 +90,26 @@
    "url": "/haber/turkiye-eylulde-en-cok-bu-otomobil-markalarini-tercih-etti-09f8021b/"
   },
   {
-   "id": "ed122eff",
-   "title": "Trabzonspor, UEFA Konferans Ligi'ndeki ilk maçını 4-2 kazandı",
-   "summary": "Türkiye'yi UEFA Konferans Ligi'nde temsil eden Trabzonspor, turnuvanın ilk hafta maçında Finlandiya ekibi KuPS Kuopio'ya konuk oluyor.",
-   "link": "https://www.bbc.com/turkce/articles/ckwy43vwz4wyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c36/live/cef444f0-c8a5-11f1-a573-f1e461934384.jpg",
-   "source": "BBC Turkish",
+   "id": "1ff833fb",
+   "title": "Bakan Çiftçi: İstanbul ve Kocaeli’deki yağışlarda 3 kişi hayatını kaybetti, kayıp 6 kişi aranıyor",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, İstanbul'da şiddetli yağış sonucu 3 kişinin hayatını kaybettiğini, hakkında kayıp ihbarı yapılan İstanbul'da 5, Kocaeli'de 1 olmak üzere 6 kişi için arama çalışmalarının aralıksız…",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-istanbul-ve-kocaeli-deki-yagislarda-3-kisi-hayatini-kaybetti-kayip-6-kisi-araniyor/4090333",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-15T18:46:18+00:00",
-   "url": "/haber/trabzonspor-uefa-konferans-ligi-ndeki-ilk-macini-4-2-kazandi-ed122eff/"
+   "date": "2026-10-15T18:59:13+00:00",
+   "url": "/haber/bakan-ciftci-istanbul-ve-kocaeli-deki-yagislarda-3-kisi-hayatini-kaybe-1ff833fb/"
+  },
+  {
+   "id": "d72c5679",
+   "title": "BM: Batı Şeria'da zeytin hasadı döneminde yapılan saldırılar, şimdiden geçen yılın rakamlarını geçti",
+   "summary": "Birleşmiş Milletler (BM), işgal altındaki Batı Şeria'da zeytin hasadıyla uğraşan halka, Filistinlilerin topraklarını gasbeden İsrailliler tarafından yapılan saldırıların sayısının geçen yılki rakamları aştığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-bati-seriada-zeytin-hasadi-doneminde-yapilan-saldirilar-simdiden-gecen-yilin-rakamlarini-gecti/4090329",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-15T18:50:09+00:00",
+   "url": "/haber/bm-bati-seria-da-zeytin-hasadi-doneminde-yapilan-saldirilar-simdiden-g-d72c5679/"
   },
   {
    "id": "a2d29ac0",
@@ -138,7 +226,7 @@
    "title": "Bakan Çiftçi: Mahsur kalan 3 bin 55 kişi kurtarıldı",
    "summary": "İçişleri Bakanı Mustafa Çiftçi, \"İstanbul genelinde mahsur kalan 3 bin 55 vatandaşımız, AFAD, Sahil Güvenlik, jandarma ve belediye ekiplerimizin çalışmalarıyla kurtarılmıştır. İstanbul'da 5, Kocaeli'de 1 vatandaşımızı…",
    "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-mahsur-kalan-3-bin-55-kisi-kurtarildi-960225.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/mustafa-ciftci-2495183.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/mustafa-ciftci-aa-2496224.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-15T18:00:00+00:00",
@@ -222,17 +310,6 @@
    "url": "/haber/fifa-baskani-infantino-dunya-kupasi-ni-yatirimcilara-acma-fikri-nedeni-e169c731/"
   },
   {
-   "id": "293c1e2e",
-   "title": "ABD'de Kongre'ye ve seçim ofislerine gönderilen \"şüpheli mektuplar\" soruşturuluyor",
-   "summary": "ABD'de Federal Soruşturma Bürosu (FBI), Posta Servisi (USPS) ve Kongre Polisi, ülke genelinde Kongre üyelerinin ve seçim yetkililerinin ofislerine gönderilen ve \"bilinmeyen maddeler içeren şüpheli mektuplarla\" ilgili…",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-kongreye-ve-secim-ofislerine-gonderilen-supheli-mektuplar-sorusturuluyor/4090249",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T17:28:19+00:00",
-   "url": "/haber/abd-de-kongre-ye-ve-secim-ofislerine-gonderilen-supheli-mektuplar-soru-293c1e2e/"
-  },
-  {
    "id": "608d1cf3",
    "title": "Kia'nın en ucuz elektriklisi EV2, Euro NCAP testine girdi: İşte sonuç",
    "summary": "Kia'nın en ucuz elektrikli modeli EV2, Euro NCAP'in yenilenen zorlu güvenlik testlerinde sınandı. Çarpışma koruması ve sürüş asistanları mercek altına alınan modelin karnesi açıklandı.",
@@ -242,17 +319,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T17:28:00+00:00",
    "url": "/haber/kia-nin-en-ucuz-elektriklisi-ev2-euro-ncap-testine-girdi-iste-sonuc-608d1cf3/"
-  },
-  {
-   "id": "c4a63e25",
-   "title": "Türkiye Sigorta Genel Müdürü Taha Çakmak, görevinden istifa etti",
-   "summary": "Türkiye Sigorta ve Türkiye Hayat Emeklilik Genel Müdürü Taha Çakmak, görevinden istifa etti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-sigorta-genel-muduru-taha-cakmak-gorevinden-istifa-etti/4090245",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T17:23:19+00:00",
-   "url": "/haber/turkiye-sigorta-genel-muduru-taha-cakmak-gorevinden-istifa-etti-c4a63e25/"
   },
   {
    "id": "b6afac21",
@@ -297,17 +363,6 @@
    "category": "gundem",
    "date": "2026-10-15T16:33:46+00:00",
    "url": "/haber/cumhurbaskani-erdogan-sahada-tum-tedbirler-alinmakta-72ebb896/"
-  },
-  {
-   "id": "47f069c3",
-   "title": "Putin, Ukrayna'nın rafinerilere saldırılarında ciddi hasar oluşmadığını söyledi",
-   "summary": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna'nın ülkedeki petrol rafinerilerine yönelik son saldırılarında ciddi bir hasar meydana gelmediğini belirterek, Kiev yönetiminin saldırıların sonuçlarını düşünmesi gerektiğini…",
-   "link": "https://www.aa.com.tr/tr/dunya/putin-ukraynanin-rafinerilere-saldirilarinda-ciddi-hasar-olusmadigini-soyledi/4090195",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T16:27:45+00:00",
-   "url": "/haber/putin-ukrayna-nin-rafinerilere-saldirilarinda-ciddi-hasar-olusmadigini-47f069c3/"
   },
   {
    "id": "67d9b181",
@@ -376,17 +431,6 @@
    "url": "/haber/imamoglu-hakkinda-savunmasindaki-ifadeler-nedeniyle-sorusturma-acildi-8a50256e/"
   },
   {
-   "id": "6dabc7bc",
-   "title": "TBMM Başkanı Kurtulmuş, Ürdün Senatosu Başkanı Faisal Al Fayez ile bir araya geldi",
-   "summary": "TBMM Başkanı Numan Kurtulmuş, Ürdün Senatosu Başkanı Faisal Al Fayez ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-urdun-senatosu-baskani-faisal-al-fayez-ile-bir-araya-geldi/4090161",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T15:51:30+00:00",
-   "url": "/haber/tbmm-baskani-kurtulmus-urdun-senatosu-baskani-faisal-al-fayez-ile-bir-6dabc7bc/"
-  },
-  {
    "id": "7fa75f9f",
    "title": "İBB davası. İmamoğlu'nun savunması 2. gününde devam ediyor.",
    "summary": "Tutuklandıktan sonra İstanbul Büyükşehir Belediye (İBB) Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu'nun mahkemedeki savunması sürüyor.",
@@ -418,17 +462,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T15:19:00+00:00",
    "url": "/haber/call-of-duty-3-20-yil-sonra-4k-ve-180-fps-destegiyle-pc-ye-getirildi-283c22e9/"
-  },
-  {
-   "id": "dd0d025b",
-   "title": "Üsküdar Belediye Başkanvekili Gültekin trafik kazasında hayatını kaybetti",
-   "summary": "Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin Düzce'de geçirdiği kazada hayatını kaybetti. Gültekin'in Türkiye Belediyeler Birliği başkan vekilliği seçimine katılmak üzere Ankara'ya gittiği kaydedildi.",
-   "link": "https://www.bbc.com/turkce/articles/cqp8gyrdn2yxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d426/live/1f9022c0-c898-11f1-b0a4-81e564f1cfaa.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-15T15:17:19+00:00",
-   "url": "/haber/uskudar-belediye-baskanvekili-gultekin-trafik-kazasinda-hayatini-kaybe-dd0d025b/"
   },
   {
    "id": "d50827a5",
@@ -473,17 +506,6 @@
    "category": "gundem",
    "date": "2026-10-15T14:56:05+00:00",
    "url": "/haber/bahceli-den-sel-aciklamasi-devletimiz-tum-kurumlariyla-sahadadir-f193644d/"
-  },
-  {
-   "id": "adc99bb2",
-   "title": "Beşiktaş, UEFA Avrupa Ligi'nde Hoffenheim deplasmanında",
-   "summary": "UEFA Avrupa Ligi'nde mücadele eden Beşiktaş, turnuvanın ikinci hafta maçında Alman temsilcisi Hoffenheim'a konuk oluyor.",
-   "link": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8ae/live/3d2daae0-c8a8-11f1-9c75-6ff1271de385.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-15T14:54:04+00:00",
-   "url": "/haber/besiktas-uefa-avrupa-ligi-nde-hoffenheim-deplasmaninda-adc99bb2/"
   },
   {
    "id": "3e5ffadf",
@@ -616,17 +638,6 @@
    "category": "gundem",
    "date": "2026-10-15T14:23:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-devletimizin-tum-kurumlari-sahada-tedbirleri-ali-7bb9dc57/"
-  },
-  {
-   "id": "379cb168",
-   "title": "CS2 Kasalarını, Skinlerini ve Envanterlerini Keşfetmek İçin En İyi 5 Platform",
-   "summary": "Steam Marketplace zaten varken oyuncuların neden üçüncü taraf platformları kullandığını merak ediyor olabilirsiniz. Cevap basit: Bu platformlar, Steam’de bulunmayan farklı özellikler, indirimler ve başka seçenekler…",
-   "link": "https://shiftdelete.net/cs2-kasalarini-skinlerini-ve-envanterlerini-kesfetmek-icin-en-iyi-5-platform",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-15T14:20:03+00:00",
-   "url": "/haber/cs2-kasalarini-skinlerini-ve-envanterlerini-kesfetmek-icin-en-iyi-5-pl-379cb168/"
   },
   {
    "id": "ba0c0c29",
@@ -814,28 +825,6 @@
    "category": "gundem",
    "date": "2026-10-15T13:45:05+00:00",
    "url": "/haber/kultur-ve-turizm-bakani-ersoy-dan-rusya-ile-ucak-seferlerini-artirma-h-06611224/"
-  },
-  {
-   "id": "d345cd87",
-   "title": "1 milyardan fazla dolandırıcılık mesajı gönderen siber ağ çökertildi",
-   "summary": "Microsoft ve Japonya, 150’den fazla ülkede 1 milyardan fazla dolandırıcılık mesajı gönderen ağı çökertti. Operasyonda 20 binden fazla hesap devre dışı bırakıldı.",
-   "link": "https://www.donanimhaber.com/1-milyardan-fazla-dolandiricilik-mesaji-gonderen-ag-cokertildi--211670",
-   "image": "https://www.donanimhaber.com/images/images/haber/211670/1200x6751-milyardan-fazla-dolandiricilik-mesaji-gonderen-ag-cokertildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-15T13:44:00+00:00",
-   "url": "/haber/1-milyardan-fazla-dolandiricilik-mesaji-gonderen-siber-ag-cokertildi-d345cd87/"
-  },
-  {
-   "id": "b33f9059",
-   "title": "DASAL'ın insansız sistemleri Ateş Serbest 2026 Tatbikatı'nda operasyonel yeteneklerini sergiledi",
-   "summary": "DASAL Havacılık Teknolojilerinin insansız hava araçları, Ateş Serbest-2026 Tatbikatı'nda otonom kabiliyetleri ve sahadaki stratejik performanslarıyla tam not aldı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/dasalin-insansiz-sistemleri-ates-serbest-2026-tatbikatinda-operasyonel-yeteneklerini-sergiledi/4089921",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T13:37:17+00:00",
-   "url": "/haber/dasal-in-insansiz-sistemleri-ates-serbest-2026-tatbikati-nda-operasyon-b33f9059/"
   },
   {
    "id": "c37a118f",
@@ -1078,6 +1067,17 @@
    "category": "teknoloji",
    "date": "2026-10-15T10:30:09+00:00",
    "url": "/haber/ates-serbest-2026-tatbikati-tamamlandi-tsk-nin-ates-gucu-sergilendi-163b9625/"
+  },
+  {
+   "id": "0272a28f",
+   "title": "Netflix 1000 Çalışanını İşten Çıkarıyor: Şirket Tarihinin En Büyük Küçülme Kararı",
+   "summary": "Netflix, artan rekabet ve değişen kullanıcı tercihleri nedeniyle 1000 çalışanını işten çıkarıyor. Şirket tarihinin en büyük küçülme kararı detayları.",
+   "link": "https://shiftdelete.net/netflix-1000-calisanini-isten-cikariyor",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-15T10:00:15+00:00",
+   "url": "/haber/netflix-1000-calisanini-isten-cikariyor-sirket-tarihinin-en-buyuk-kucu-0272a28f/"
   },
   {
    "id": "cae20e1e",
