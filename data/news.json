@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:01:08.626407+00:00",
+ "updated": "2026-10-16T22:30:56.576400+00:00",
  "items": [
   {
    "id": "2f073c52",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-16T22:00:01+00:00",
+   "date": "2026-10-16T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2f073c52/"
+  },
+  {
+   "id": "d1ce3d07",
+   "title": "AFAD: Sağanakla mücadele çalışmalarında 60 bin 395 personel ile 8 bin 927 araç görev yapmaktadır",
+   "summary": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), ülke genelinde etkili olan yağışlarla mücadelede 60 bin 395 personel ve 1060 AFAD gönüllüsü ile 8 bin 927 aracın görev yaptığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/afad-saganakla-mucadele-calismalarinda-60-bin-395-personel-ile-8-bin-927-arac-gorev-yapmaktadir/4091584",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T22:16:53+00:00",
+   "url": "/haber/afad-saganakla-mucadele-calismalarinda-60-bin-395-personel-ile-8-bin-9-d1ce3d07/"
   },
   {
    "id": "d2c15837",
@@ -22,6 +33,39 @@
    "category": "teknoloji",
    "date": "2026-10-16T21:50:00+00:00",
    "url": "/haber/ucan-tesla-nin-teknik-ozellikleri-aciklandi-1-341-beygir-guc-0-8-saniy-d2c15837/"
+  },
+  {
+   "id": "dd056b8b",
+   "title": "Otizmli Ahsen, sosyalleşmesi için yönlendirildiği atletizmde şampiyonluklara imza attı",
+   "summary": "Osmaniye'de atletizme başlayan 15 yaşındaki otizmli Ahsen Tuana Kurt, uzun atlama, 400 ve 800 metre yarışlarında Türkiye şampiyonluklarının yanı sıra rekorlar da kırdı.",
+   "link": "https://www.aa.com.tr/tr/spor/otizmli-ahsen-sosyallesmesi-icin-yonlendirildigi-atletizmde-sampiyonluklara-imza-atti/4091568",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T21:38:28+00:00",
+   "url": "/haber/otizmli-ahsen-sosyallesmesi-icin-yonlendirildigi-atletizmde-sampiyonlu-dd056b8b/"
+  },
+  {
+   "id": "d5ba743d",
+   "title": "Milli kick boksçu Berat, dünya şampiyonluğu hayalini gerçekleştirdiği için gururlu",
+   "summary": "Kariyerinde 60'tan fazla madalya bulunan milli kick boksçu Berat Önal, İtalya'da düzenlenen Gençler Dünya Şampiyonası'nda 6 maç kazanarak altın madalyaya ulaştı ve yıllardır kurduğu dünya şampiyonluğu hayalini…",
+   "link": "https://www.aa.com.tr/tr/spor/milli-kick-bokscu-berat-dunya-sampiyonlugu-hayalini-gerceklestirdigi-icin-gururlu/4091566",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T21:38:08+00:00",
+   "url": "/haber/milli-kick-bokscu-berat-dunya-sampiyonlugu-hayalini-gerceklestirdigi-i-d5ba743d/"
+  },
+  {
+   "id": "db413a58",
+   "title": "Bayburt'un köyünden Avrupa'ya uzanan müzecilik başarısı",
+   "summary": "Bayburt'ta Anadolu'nun kültürel mirasını, geleneksel yaşamını ve mimari dokusunu yaşatan Kenan Yavuz Etnografya Müzesi, Avrupa'daki dördüncü ödülüne layık görüldü.",
+   "link": "https://www.aa.com.tr/tr/kultur/bayburtun-koyunden-avrupaya-uzanan-muzecilik-basarisi/4091564",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T21:36:09+00:00",
+   "url": "/haber/bayburt-un-koyunden-avrupa-ya-uzanan-muzecilik-basarisi-db413a58/"
   },
   {
    "id": "e8dcbd6f",
@@ -44,6 +88,17 @@
    "category": "gundem",
    "date": "2026-10-16T21:35:05+00:00",
    "url": "/haber/ust-uste-iki-kez-balkan-sampiyonu-olan-hakkarili-havin-in-hedefi-dunya-5f641f24/"
+  },
+  {
+   "id": "1af84d5c",
+   "title": "Modern Pentatlon Milli Takımı Erciyes'te güç depoluyor",
+   "summary": "Modern Pentatlon Milli Takımı sporcuları, Erciyes Yüksek İrtifa Kamp Merkezi'nde güç depolayarak 1850 rakımda şampiyonalara hazırlanıyor.",
+   "link": "https://www.aa.com.tr/tr/spor/modern-pentatlon-milli-takimi-erciyeste-guc-depoluyor/4091558",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T21:34:27+00:00",
+   "url": "/haber/modern-pentatlon-milli-takimi-erciyes-te-guc-depoluyor-1af84d5c/"
   },
   {
    "id": "dd2b1c04",
@@ -233,28 +288,6 @@
    "url": "/haber/yeni-nesil-kursun-asit-bataryalar-avustralya-da-test-edilmeye-baslandi-46c03db7/"
   },
   {
-   "id": "eb73550b",
-   "title": "Bakan Göktaş: Sıfır Atık vizyonunu daha fazla vatandaşa ulaştırmak için çalışmalarımızı sürdüreceğiz",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Sıfır Atık\" vizyonunu daha fazla aileye, haneye ve vatandaşa ulaştırmak için çalışmaları sürdüreceklerini belirtti.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-sifir-atik-vizyonunu-daha-fazla-vatandasa-ulastirmak-icin-calismalarimizi-surdurecegiz/4091491",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T19:47:00+00:00",
-   "url": "/haber/bakan-goktas-sifir-atik-vizyonunu-daha-fazla-vatandasa-ulastirmak-icin-eb73550b/"
-  },
-  {
-   "id": "3861e789",
-   "title": "İletişim Başkanlığınca Paris'te \"İstanbul: Bir Şehir, Bin Bakış\" sergisi düzenlenecek",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından 19-20 Ekim'de Fransa'nın başkenti Paris'te \"İstanbul: Bir Şehir, Bin Bakış\" sergisi düzenlenecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanliginca-pariste-istanbul-bir-sehir-bin-bakis-sergisi-duzenlenecek/4091483",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T19:44:31+00:00",
-   "url": "/haber/iletisim-baskanliginca-paris-te-istanbul-bir-sehir-bin-bakis-sergisi-d-3861e789/"
-  },
-  {
    "id": "37a09a93",
    "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 16 Ekim 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
    "summary": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca…",
@@ -264,17 +297,6 @@
    "category": "gundem",
    "date": "2026-10-16T19:40:43+00:00",
    "url": "/haber/on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-16-ekim-202-37a09a93/"
-  },
-  {
-   "id": "e41fbd73",
-   "title": "CENTCOM: İran'ın en az 25 milyar dolar değerindeki ham petrol ihracatı engellendi",
-   "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın en az 25 milyar dolar değerindeki ham petrol ihracatını engellediklerini ve yaklaşık 350 milyon dolar değerindeki dijital kripto varlığın dondurulmasına destek…",
-   "link": "https://www.aa.com.tr/tr/dunya/centcom-iranin-en-az-25-milyar-dolar-degerindeki-ham-petrol-ihracati-engellendi/4091476",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T19:33:35+00:00",
-   "url": "/haber/centcom-iran-in-en-az-25-milyar-dolar-degerindeki-ham-petrol-ihracati-e41fbd73/"
   },
   {
    "id": "d221fb69",
@@ -297,17 +319,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T19:32:00+00:00",
    "url": "/haber/guney-kore-ilk-adimi-atti-insansi-robotlar-insanlarla-yan-yana-calisab-98c62944/"
-  },
-  {
-   "id": "dbbf9b0b",
-   "title": "Kamu personeline gelecek yıl 6,3 trilyon lira ödeme yapılacak",
-   "summary": "Genel bütçe kapsamındaki kamu idareleri personeline gelecek yıl 6,3 trilyon lira nakdi ödeme planlanıyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kamu-personeline-gelecek-yil-6-3-trilyon-lira-odeme-yapilacak/4091473",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T19:24:02+00:00",
-   "url": "/haber/kamu-personeline-gelecek-yil-6-3-trilyon-lira-odeme-yapilacak-dbbf9b0b/"
   },
   {
    "id": "79ff27f9",
@@ -385,17 +396,6 @@
    "category": "gundem",
    "date": "2026-10-16T18:20:28+00:00",
    "url": "/haber/valilik-duyurdu-uskudar-belediyesi-nde-baskanvekili-20-ekim-de-secilec-694963cc/"
-  },
-  {
-   "id": "a441dc92",
-   "title": "Süper Lig'de haftanın açılış maçında Çorum FK, Çaykur Rizespor'u 2-1 yendi",
-   "summary": "Trendyol Süper Lig'de 8. haftanın açılış maçında Arca Çorum FK, konuk ettiği Çaykur Rizespor'u 2-1 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/super-ligde-haftanin-acilis-macinda-corum-fk-caykur-rizesporu-2-1-yendi/4091401",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T18:15:56+00:00",
-   "url": "/haber/super-lig-de-haftanin-acilis-macinda-corum-fk-caykur-rizespor-u-2-1-ye-a441dc92/"
   },
   {
    "id": "feb97d6b",
