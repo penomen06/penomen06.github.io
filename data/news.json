@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-16T18:31:04.330872+00:00",
+ "updated": "2026-10-16T19:01:09.294860+00:00",
  "items": [
+  {
+   "id": "caab6fca",
+   "title": "ABD'nin bütçe açığı 2026 mali yılında 2 trilyon dolara yaklaştı",
+   "summary": "ABD federal hükümetinin bütçe açığı, 2026 mali yılında önceki yıla kıyasla yüzde 12 artarak 1,99 trilyon dolara yükseldi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdnin-butce-acigi-2026-mali-yilinda-2-trilyon-dolara-yaklasti/4091441",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T18:53:49+00:00",
+   "url": "/haber/abd-nin-butce-acigi-2026-mali-yilinda-2-trilyon-dolara-yaklasti-caab6fca/"
+  },
+  {
+   "id": "39471b0a",
+   "title": "PlayStation'dan yeni Frame Generation patenti: Kare tahmini geliyor",
+   "summary": "PlayStation, kare oluşturma teknolojilerindeki en büyük sorunlardan biri olan giriş gecikmesini azaltabilecek yeni bir sistem için patent aldı. Teknoloji, oyuncu hareketlerini önceden tahmin edecek.",
+   "link": "https://www.donanimhaber.com/playstation-dan-yeni-frame-generation-patenti-kare-tahmini--211725",
+   "image": "https://www.donanimhaber.com/images/images/haber/211725/1200x675playstation-dan-yeni-frame-generation-patenti-kare-tahmini.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-16T18:48:00+00:00",
+   "url": "/haber/playstation-dan-yeni-frame-generation-patenti-kare-tahmini-geliyor-39471b0a/"
+  },
+  {
+   "id": "43b811a1",
+   "title": "Üsküdar Belediye Başkan Vekili seçimi 20 Ekim'de yapılacak",
+   "summary": "İstanbul Valiliği, Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin'in trafik kazasında hayatını kaybetmesi nedeniyle Belediye Meclisinin yeni başkan vekilinin seçilmesi için 20 Ekim'de toplanacağını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/uskudar-belediye-baskan-vekili-secimi-20-ekimde-yapilacak/4091431",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T18:41:01+00:00",
+   "url": "/haber/uskudar-belediye-baskan-vekili-secimi-20-ekim-de-yapilacak-43b811a1/"
+  },
+  {
+   "id": "84cb1024",
+   "title": "Trump, Beyaz Saray Sözcüsü Zacharia'nın görevden ayrılabileceğini açıkladı",
+   "summary": "ABD Başkanı Trump, kısa süre önce göreve başlayan Beyaz Saray Sözcüsü Katie Zacharia'nın hakkındaki tartışmaların yoğunlaşmasının ardından \"görevden ayrılabileceği\" sinyalini verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-beyaz-saray-sozcusu-zacharianin-gorevden-ayrilabilecegini-acikladi/4091430",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T18:40:24+00:00",
+   "url": "/haber/trump-beyaz-saray-sozcusu-zacharia-nin-gorevden-ayrilabilecegini-acikl-84cb1024/"
+  },
+  {
+   "id": "485b8fec",
+   "title": "Şehit yakınları ve gaziler için 2027 yılı bütçesinde 30 milyar lira ayrıldı",
+   "summary": "Merkezi yönetim bütçesinden 2027 yılı için şehit yakınları ve gazilere 30 milyar 25 milyon 113 bin lira tahsis edilmesi planlandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sehit-yakinlari-ve-gaziler-icin-2027-yili-butcesinde-30-milyar-lira-ayrildi/4091423",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T18:35:58+00:00",
+   "url": "/haber/sehit-yakinlari-ve-gaziler-icin-2027-yili-butcesinde-30-milyar-lira-ay-485b8fec/"
+  },
   {
    "id": "c27db709",
    "title": "Sony yeni Walkman serisini tanıttı: Fiyatı 5.899 dolara kadar çıkıyor!",
@@ -11,6 +66,17 @@
    "category": "teknoloji",
    "date": "2026-10-16T18:26:00+00:00",
    "url": "/haber/sony-yeni-walkman-serisini-tanitti-fiyati-5-899-dolara-kadar-cikiyor-c27db709/"
+  },
+  {
+   "id": "56a02c4c",
+   "title": "Trump \"Starlink'in Ukrayna ordusuna sağladığı internetin kesilmesini emrettiği\" iddialarını yalanladı",
+   "summary": "ABD Başkanı Donald Trump, \"Starlink'in Ukrayna ordusuna sağladığı internetin kesilmesi ya da yavaşlatılmasını emrettiği\" yönündeki haberlerin doğru olmadığını belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-starlinkin-ukrayna-ordusuna-sagladigi-internetin-kesilmesini-emrettigi-iddialarini-yalanladi/4091408",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T18:22:25+00:00",
+   "url": "/haber/trump-starlink-in-ukrayna-ordusuna-sagladigi-internetin-kesilmesini-em-56a02c4c/"
   },
   {
    "id": "b91ca4e5",
@@ -244,28 +310,6 @@
    "url": "/haber/israilli-bakan-katz-italya-daki-sumud-filosu-sorusturmasina-dahil-edil-9739ebe2/"
   },
   {
-   "id": "1d60dfbf",
-   "title": "Türkiye'nin BM Daimi Temsilcisi Yıldız, COP31'in somut sonuçlar elde etme amacını vurguladı",
-   "summary": "Türkiye'nin BM Daimi Temsilcisi Yıldız, kasımda Türkiye’nin başkanlığında düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nın somut sonuçlar elde etmeye odaklanacağını…",
-   "link": "https://www.aa.com.tr/tr/dunya/turkiyenin-bm-daimi-temsilcisi-yildiz-cop31in-somut-sonuclar-elde-etme-amacini-vurguladi/4091345",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T17:06:21+00:00",
-   "url": "/haber/turkiye-nin-bm-daimi-temsilcisi-yildiz-cop31-in-somut-sonuclar-elde-et-1d60dfbf/"
-  },
-  {
-   "id": "41b95873",
-   "title": "İsrail'in hapishanelerde alıkoyduğu Filistinli çocukların çoğuna hücre cezası verdiği ortaya çıktı",
-   "summary": "İsrail hapishanelerinde alıkonulan Filistinli çocukların yarısından fazlasının 2025'te en az bir kez hücrelere atıldığı ortaya çıktı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-hapishanelerde-alikoydugu-filistinli-cocuklarin-coguna-hucre-cezasi-verdigi-ortaya-cikti/4091340",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T17:01:52+00:00",
-   "url": "/haber/israil-in-hapishanelerde-alikoydugu-filistinli-cocuklarin-coguna-hucre-41b95873/"
-  },
-  {
    "id": "ed212b71",
    "title": "NVIDIA RTX 5090 Piyasada Yok: Üretim Sona mı Erdi?",
    "summary": "NVIDIA’nın Blackwell mimarili amiral gemisi ekran kartı GeForce RTX 5090 için dikkat çekici bir gelişme yaşandı. RTX 5090 üretimi hakkındaki sonlandırma iddiaları gündemdeki yerini korurken model, NVIDIA’nın resmi…",
@@ -288,17 +332,6 @@
    "url": "/haber/turkiye-de-elektrikli-araclar-ne-kadar-petrol-tasarrufu-sagliyor-805bd2d5/"
   },
   {
-   "id": "3abd59d3",
-   "title": "BM'den \"Batı Şeria'da ABD'li gazeteciye yapılan saldırının soruşturulması\" çağrısı",
-   "summary": "Birleşmiş Milletler (BM), işgal altındaki Batı Şeria'da Filistinlilerin topraklarını gasbetmeye çalışan İsrailliler tarafından ABD'li bir gazeteciye yönelik saldırının soruşturulması çağrısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/bmden-bati-seriada-abdli-gazeteciye-yapilan-saldirinin-sorusturulmasi-cagrisi/4091331",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T16:55:02+00:00",
-   "url": "/haber/bm-den-bati-seria-da-abd-li-gazeteciye-yapilan-saldirinin-sorusturulma-3abd59d3/"
-  },
-  {
    "id": "225f89f9",
    "title": "Cumhurbaşkanı Erdoğan, Kamboçya Başbakanı Manet'i kabul etti",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti.",
@@ -319,28 +352,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T16:36:00+00:00",
    "url": "/haber/almanya-gunes-enerjisi-santrali-icin-uyardi-internete-baglamayin-e92f10cd/"
-  },
-  {
-   "id": "6a66ed8e",
-   "title": "Rusya ve ABD \"ortak veri merkezleri\" kurmayı görüşüyor",
-   "summary": "Rusya Devlet Başkanı Putin'in Özel Temsilcisi Dmitriyev, ABD ile nükleer santrallerden yararlanılarak \"ortak veri merkezleri\" kurulmasına yönelik projeleri görüştüklerini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ve-abd-ortak-veri-merkezleri-kurmayi-gorusuyor/4091296",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T16:26:35+00:00",
-   "url": "/haber/rusya-ve-abd-ortak-veri-merkezleri-kurmayi-gorusuyor-6a66ed8e/"
-  },
-  {
-   "id": "d505f4b1",
-   "title": "Bakan Bayraktar, enerjide küresel zorluklar karşısında işbirliğinin şart olduğunu söyledi",
-   "summary": "Enerji ve Tabii Kaynaklar Bakanı Bayraktar, küresel enerji piyasalarında yaşanan zorlukların aşılması için ülkeler arasında daha geniş kapsamlı işbirliğine ihtiyaç duyulduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-enerjide-kuresel-zorluklar-karsisinda-isbirliginin-sart-oldugunu-soyledi/4091290",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T16:20:29+00:00",
-   "url": "/haber/bakan-bayraktar-enerjide-kuresel-zorluklar-karsisinda-isbirliginin-sar-d505f4b1/"
   },
   {
    "id": "7cbf48fa",
@@ -627,17 +638,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T14:30:27+00:00",
    "url": "/haber/tesla-yerden-havalanabilen-roadster-in-nasil-gelistirildigini-ozel-bir-3ceceb70/"
-  },
-  {
-   "id": "421a805c",
-   "title": "Razer, ANC özellikli kablosuz oyuncu kulaklığı Barracuda V2 Pro'yu tanıttı",
-   "summary": "Razer Barracuda V2 Pro, Bluetooth, Aktif Gürültü Engelleme (ANC) ve PC oyunları için THX Spatial Audio+ özelliklerine sahip, hem oyun hem de günlük kullanım odaklı kablosuz kulaklık olarak tanıtıldı.",
-   "link": "https://www.donanimhaber.com/razer-barracuda-v2-pro-gaming-kulaklik-tanitildi-iste-fiyati--211704",
-   "image": "https://www.donanimhaber.com/images/images/haber/211704/1200x675razer-barracuda-v2-pro-gaming-kulaklik-tanitildi-iste-fiyati.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-16T14:19:00+00:00",
-   "url": "/haber/razer-anc-ozellikli-kablosuz-oyuncu-kulakligi-barracuda-v2-pro-yu-tani-421a805c/"
   },
   {
    "id": "d39543f6",
