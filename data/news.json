@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:30:56.576400+00:00",
+ "updated": "2026-10-16T23:01:05.857676+00:00",
  "items": [
   {
    "id": "2f073c52",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-16T22:30:00+00:00",
+   "date": "2026-10-16T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2f073c52/"
+  },
+  {
+   "id": "d2c15837",
+   "title": "Uçan Tesla'nın teknik özellikleri açıklandı: 1.341 beygir güç, 0.8 saniyede 0-100 km/s!",
+   "summary": "Tesla, uçabilen yeni nesil Roadster'ın teknik özelliklerini paylaştı. Yeni model, 1.341 beygir güç, 500 kW hızlı şarj desteği ve 1 saniyenin altında 0-100 km/s hızlanma gibi iddialı özelliklere sahip.",
+   "link": "https://www.donanimhaber.com/yeni-tesla-roadster-in-teknik-ozellikleri-aciklandi--211741",
+   "image": "https://www.donanimhaber.com/images/images/haber/211741/1200x675yeni-tesla-roadster-in-teknik-ozellikleri-aciklandi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-16T22:47:15+00:00",
+   "url": "/haber/ucan-tesla-nin-teknik-ozellikleri-aciklandi-1-341-beygir-guc-0-8-saniy-d2c15837/"
   },
   {
    "id": "d1ce3d07",
@@ -24,15 +35,26 @@
    "url": "/haber/afad-saganakla-mucadele-calismalarinda-60-bin-395-personel-ile-8-bin-9-d1ce3d07/"
   },
   {
-   "id": "d2c15837",
-   "title": "Uçan Tesla'nın teknik özellikleri açıklandı: 1.341 beygir güç, 0.8 saniyede 0-100 km/s!",
-   "summary": "Tesla, uçabilen yeni nesil Roadster'ın teknik özelliklerini paylaştı. Yeni model, 1.341 beygir güç, 500 kW hızlı şarj desteği ve 1 saniyenin altında 0-100 km/s hızlanma gibi iddialı özelliklere sahip.",
-   "link": "https://www.donanimhaber.com/yeni-tesla-roadster-in-teknik-ozellikleri-aciklandi--211741",
-   "image": "https://www.donanimhaber.com/images/images/haber/211741/1200x675yeni-tesla-roadster-in-teknik-ozellikleri-aciklandi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-16T21:50:00+00:00",
-   "url": "/haber/ucan-tesla-nin-teknik-ozellikleri-aciklandi-1-341-beygir-guc-0-8-saniy-d2c15837/"
+   "id": "1df2e2e6",
+   "title": "Arap Koalisyonu, Husilerin silah kaçakçılığı yaptığı bot ve araçların hedef alındığı görüntüleri yayınladı",
+   "summary": "Yemen'de meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, Husilerin Hudeyde'ye deniz yoluyla silah kaçırmak için kullandığı deniz araçları ve kara nakil vasıtalarının hedef alındığı anlara…",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-silah-kacakciligi-yaptigi-bot-ve-araclarin-hedef-alindigi-goruntuleri-yayinladi/4091578",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T21:55:09+00:00",
+   "url": "/haber/arap-koalisyonu-husilerin-silah-kacakciligi-yaptigi-bot-ve-araclarin-h-1df2e2e6/"
+  },
+  {
+   "id": "164126f1",
+   "title": "Panama'da 9 Ekim'deki 7,7'lik deprem sonrası 746 artçı sarsıntı meydana geldi",
+   "summary": "Orta Amerika ülkesi Panama'da, 9 Ekim'deki 7,7 büyüklüğünde deprem sonrası 746 artçı sarsıntının meydana geldiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/panamada-9-ekimdeki-7-7lik-deprem-sonrasi-746-artci-sarsinti-meydana-geldi/4091577",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T21:54:49+00:00",
+   "url": "/haber/panama-da-9-ekim-deki-7-7-lik-deprem-sonrasi-746-artci-sarsinti-meydan-164126f1/"
   },
   {
    "id": "dd056b8b",
@@ -99,6 +121,17 @@
    "category": "gundem",
    "date": "2026-10-16T21:34:27+00:00",
    "url": "/haber/modern-pentatlon-milli-takimi-erciyes-te-guc-depoluyor-1af84d5c/"
+  },
+  {
+   "id": "0d43af4c",
+   "title": "İklim değişikliği Afrika'da tarım yöntemlerini dönüştürüyor",
+   "summary": "İklim değişikliği, artan gıda ihtiyacını karşılamaya çalışan Afrikalı çiftçileri yerel tohumlardan geleneksel tarım bilgisine ve yapay zekaya uzanan farklı çözümleri bir arada kullanmaya yönelterek kıtada tarım…",
+   "link": "https://www.aa.com.tr/tr/dunya/iklim-degisikligi-afrikada-tarim-yontemlerini-donusturuyor/4091556",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T21:33:47+00:00",
+   "url": "/haber/iklim-degisikligi-afrika-da-tarim-yontemlerini-donusturuyor-0d43af4c/"
   },
   {
    "id": "dd2b1c04",
@@ -222,17 +255,6 @@
    "url": "/haber/gta-6-arabalari-miami-sokaklarinda-goruldu-37144a1c/"
   },
   {
-   "id": "e917046e",
-   "title": "Putin, Donetsk için önemli Dobropolye şehrini aldıklarını bildirdi",
-   "summary": "Rusya Devlet Başkanı Putin, Rus ordusunun Donetsk bölgesindeki Dobropolye şehrini kontrol altına aldığını belirterek, \"Bu durum, Donetsk Halk Cumhuriyeti'nin sınırlarına ulaşmak için doğrudan bir yol açmaktadır.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/putin-donetsk-icin-onemli-dobropolye-sehrini-aldiklarini-bildirdi/4091511",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T20:16:36+00:00",
-   "url": "/haber/putin-donetsk-icin-onemli-dobropolye-sehrini-aldiklarini-bildirdi-e917046e/"
-  },
-  {
    "id": "4a2a9669",
    "title": "Çin’de kömür dönemi bitiyor: Güneş enerjisi ilk sıraya çıktı",
    "summary": "Çin’de güneş enerjisi kurulu gücü kömürü geride bırakarak ilk sıraya çıktı. Ülkenin toplam elektrik kapasitesinin yüzde 60,8’i yenilenebilir kaynaklardan oluşuyor.",
@@ -242,28 +264,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T20:16:00+00:00",
    "url": "/haber/cin-de-komur-donemi-bitiyor-gunes-enerjisi-ilk-siraya-cikti-4a2a9669/"
-  },
-  {
-   "id": "791613d2",
-   "title": "Bakan Göktaş, selden etkilenen Sarıyer Ayazağa'yı ziyaret etti",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Göktaş, sel ve su baskınlarının yaşandığı İstanbul'da 212 personel ve 39 araçla sürekli sahada olduklarını belirterek, \"İhtiyaç duyan hanelerimize psikososyal destek çalışmalarıyla destek…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-selden-etkilenen-sariyer-ayazagayi-ziyaret-etti/4091506",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T20:08:17+00:00",
-   "url": "/haber/bakan-goktas-selden-etkilenen-sariyer-ayazaga-yi-ziyaret-etti-791613d2/"
-  },
-  {
-   "id": "46f2a108",
-   "title": "Güney Amerika ülkelerinde El Nino'nun yol açtığı seller nedeniyle binlerce kişi tahliye edildi",
-   "summary": "Güney Amerika ülkeleri Arjantin, Paraguay ve Uruguay'da, El Nino hava olayının etkisiyle meydana gelen şiddetli yağışların yol açtığı seller nedeniyle binlerce kişi tahliye edildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/guney-amerika-ulkelerinde-el-ninonun-yol-actigi-seller-nedeniyle-binlerce-kisi-tahliye-edildi/4091505",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T20:07:35+00:00",
-   "url": "/haber/guney-amerika-ulkelerinde-el-nino-nun-yol-actigi-seller-nedeniyle-binl-46f2a108/"
   },
   {
    "id": "c57512e3",
