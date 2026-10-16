@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T03:30:56.928640+00:00",
+ "updated": "2026-10-16T04:01:10.603181+00:00",
  "items": [
   {
    "id": "b7da116f",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-16T03:30:00+00:00",
+   "date": "2026-10-16T04:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b7da116f/"
+  },
+  {
+   "id": "4836a15c",
+   "title": "Yeni Tesla Roadster'ın Uçtuğu Anlar [Video]",
+   "summary": "Yeni Tesla Roadster, roket teknolojileri sayesinde uçabiliyor. İşte o anlar.",
+   "link": "https://www.webtekno.com/tesla-roadster-ucma-videolari-h227272.html",
+   "image": "https://imgrosetta.webtekno.com/file/693047/693047-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-16T03:44:20+00:00",
+   "url": "/haber/yeni-tesla-roadster-in-uctugu-anlar-video-4836a15c/"
+  },
+  {
+   "id": "6f8f455e",
+   "title": "Uçabilen Araba Tesla Roadster Tanıtıldı",
+   "summary": "Tesla, uzun yıllardır beklenen yeni Roadster modelini tanıttı. Araba, kelimenin tam anlamıyla uçuyor.",
+   "link": "https://www.webtekno.com/ucan-araba-tesla-roadster-tanitildi-h227269.html",
+   "image": "https://imgrosetta.webtekno.com/file/693046/693046-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-16T03:28:25+00:00",
+   "url": "/haber/ucabilen-araba-tesla-roadster-tanitildi-6f8f455e/"
   },
   {
    "id": "576f8037",
@@ -792,28 +814,6 @@
    "category": "teknoloji",
    "date": "2026-10-15T14:15:04+00:00",
    "url": "/haber/amazon-bee-frontier-ve-eclipse-adindaki-iki-yeni-yapay-zeka-cihazini-t-39e24a08/"
-  },
-  {
-   "id": "b1d5facf",
-   "title": "Geleceğe Dönüş'ün Efsanesi Gerçek Oluyor: DeLorean Uçan Otomobil Yarışına Katılıyor!",
-   "summary": "DeLorean, bu kez gerçek dünyada uçan otomobil yarışlarına katılmaya hazırlanıyor.",
-   "link": "https://www.webtekno.com/gelecege-donusun-efsanesi-gercek-oluyor-delorean-ucan-otomobil-yarisina-katiliyor-h227254.html",
-   "image": "https://imgrosetta.webtekno.com/file/693007/693007-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-15T14:14:53+00:00",
-   "url": "/haber/gelecege-donus-un-efsanesi-gercek-oluyor-delorean-ucan-otomobil-yarisi-b1d5facf/"
-  },
-  {
-   "id": "2b664d5b",
-   "title": "Arc Raiders'a Beklenen Özellik Geldi: Artık Diğer Oyunculardan Korkmadan Oynayabilirsiniz!",
-   "summary": "Arc Raiders, 20 Ekim'e kadar sürecek yeni testiyle oyunculara diğer oyuncuların tehdidi olmadan sadece PvE oynama imkânı sunuyor.",
-   "link": "https://www.webtekno.com/arc-raiders-beklenen-ozellik-geldi-h227245.html",
-   "image": "https://imgrosetta.webtekno.com/file/692965/692965-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-15T14:14:20+00:00",
-   "url": "/haber/arc-raiders-a-beklenen-ozellik-geldi-artik-diger-oyunculardan-korkmada-2b664d5b/"
   },
   {
    "id": "c3a509ee",
