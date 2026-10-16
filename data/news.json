@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-16T18:01:12.807873+00:00",
+ "updated": "2026-10-16T18:19:55.132186+00:00",
  "items": [
+  {
+   "id": "0e7599cb",
+   "title": "İstanbul'da hafta sonu bazı sınavlar iptal edildi",
+   "summary": "İstanbul Valiliği ve Kocaeli Valiliği, beklenen şiddetli yağışlar nedeniyle hafta sonu bazı eğitim faaliyetlerine ara verileceğini ve bazı sınavların ertelendiğini bildirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-hafta-sonu-bazi-sinavlar-iptal-edildi-1746628",
+   "image": "https://images.ntv.com.tr/images/sınav2-155363.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-16T18:14:45+00:00",
+   "url": "/haber/istanbul-da-hafta-sonu-bazi-sinavlar-iptal-edildi-0e7599cb/"
+  },
+  {
+   "id": "151beef4",
+   "title": "Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin son yolculuğuna uğurlandı",
+   "summary": "Trafik kazasında hayatını kaybeden Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin, son yolculuğuna uğurlandı. Cenaze törenine Cumhurbaşkanı Recep Tayyip Erdoğan da katıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/uskudar-belediye-baskanvekili-dundar-ziya-gultekin-son-yolculuguna-ugurlaniyor-1746591",
+   "image": "https://images.ntv.com.tr/images/cenaze-376402.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-16T18:07:37+00:00",
+   "url": "/haber/uskudar-belediye-baskanvekili-dundar-ziya-gultekin-son-yolculuguna-ugu-151beef4/"
+  },
+  {
+   "id": "52782899",
+   "title": "BUDO'nun yarın yapılacak 12 seferi iptal edildi",
+   "summary": "Bursa Deniz Otobüsleri'nin (BUDO) yarın yapılması planlanan 12 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/budonun-yarin-yapilacak-12-seferi-iptal-edildi-1746634",
+   "image": "https://images.ntv.com.tr/images/BUDO1-728942.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-16T18:06:36+00:00",
+   "url": "/haber/budo-nun-yarin-yapilacak-12-seferi-iptal-edildi-52782899/"
+  },
+  {
+   "id": "feb97d6b",
+   "title": "Panasonic konutlar için yeni R454C havadan suya ısı pompasını duyurdu",
+   "summary": "Panasonic R454C yeni ısı pompası serisi farklı ısıtma kapasiteleri ile müstakil evlerden ziyade daire tabanlı konutlarda kullanılmak için tasarlanmış.",
+   "link": "https://www.donanimhaber.com/panasonic-r454c-isi-pompasi-tanitildi--211720",
+   "image": "https://www.donanimhaber.com/images/images/haber/211720/1200x675panasonic-r454c-isi-pompasi-tanitildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-16T18:04:00+00:00",
+   "url": "/haber/panasonic-konutlar-icin-yeni-r454c-havadan-suya-isi-pompasini-duyurdu-feb97d6b/"
+  },
+  {
+   "id": "b7de654f",
+   "title": "AB, yüksek enerji fiyatlarına karşı yeni önlemler hazırlıyor",
+   "summary": "AB Komisyonu Başkanı Von der Leyen, yüksek enerji fiyatlarının etkilerini hafifletmek için metan düzenlemesinin uygulanmasını 1 yıl erteleyeceklerini, ve geçici kamu yardımı çerçevesini genişleteceklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ab-yuksek-enerji-fiyatlarina-karsi-yeni-onlemler-hazirliyor/4091391",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T18:03:10+00:00",
+   "url": "/haber/ab-yuksek-enerji-fiyatlarina-karsi-yeni-onlemler-hazirliyor-b7de654f/"
+  },
+  {
+   "id": "6f516911",
+   "title": "Reklam Görmek Yetiyor: İsrail Telefonlara Sızıyor",
+   "summary": "İnternet reklamları üzerinden gerçekleştirilen yeni bir sıfır tıklama casus yazılım saldırısı ortaya çıkarıldı. Citizen Lab ve Confiant araştırmacıları, İsrail merkezli Discover-Tech’in dijital reklam altyapısını…",
+   "link": "https://shiftdelete.net/reklam-gormek-yetiyor-israil-telefonlara-siziyor",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-16T18:00:16+00:00",
+   "url": "/haber/reklam-gormek-yetiyor-israil-telefonlara-siziyor-6f516911/"
+  },
   {
    "id": "d0b91cac",
    "title": "TİHEK'ten ilkokul öğrencilerine yönelik \"İnsan Hakları Atölyesi\"",
@@ -11,6 +77,17 @@
    "category": "gundem",
    "date": "2026-10-16T17:57:00+00:00",
    "url": "/haber/tihek-ten-ilkokul-ogrencilerine-yonelik-insan-haklari-atolyesi-d0b91cac/"
+  },
+  {
+   "id": "89db3f85",
+   "title": "ÖSYM İstanbul'da hafta sonu yapılacak sınavları erteledi",
+   "summary": "ÖSYM, İstanbul'da hafta sonu beklenen şiddetli yağış nedeniyle kentte gerçekleştirilecek sınavların ertelendiğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/turkiye/osym-istanbulda-hafta-sonu-yapilacak-sinavlari-erteledi-960357.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1476000/sinav-1476155.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-16T17:54:00+00:00",
+   "url": "/haber/osym-istanbul-da-hafta-sonu-yapilacak-sinavlari-erteledi-89db3f85/"
   },
   {
    "id": "1474defb",
@@ -211,17 +288,6 @@
    "url": "/haber/almanya-gunes-enerjisi-santrali-icin-uyardi-internete-baglamayin-e92f10cd/"
   },
   {
-   "id": "ed27d24c",
-   "title": "Emine Erdoğan, Kamboçya Başbakanı Manet'in eşi Chanmony ile görüştü",
-   "summary": "Emine Erdoğan, Kamboçya Başbakanı Hun Manet'in eşi Pich Chanmony ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-kambocya-basbakani-manetin-esi-chanmony-ile-gorustu/4091306",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T16:35:42+00:00",
-   "url": "/haber/emine-erdogan-kambocya-basbakani-manet-in-esi-chanmony-ile-gorustu-ed27d24c/"
-  },
-  {
    "id": "6a66ed8e",
    "title": "Rusya ve ABD \"ortak veri merkezleri\" kurmayı görüşüyor",
    "summary": "Rusya Devlet Başkanı Putin'in Özel Temsilcisi Dmitriyev, ABD ile nükleer santrallerden yararlanılarak \"ortak veri merkezleri\" kurulmasına yönelik projeleri görüştüklerini bildirdi.",
@@ -297,17 +363,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T16:00:25+00:00",
    "url": "/haber/msi-prestige-n16-flip-ai-satin-alma-rehberi-size-en-uygun-bellek-kapas-efcba1e7/"
-  },
-  {
-   "id": "0e7599cb",
-   "title": "İstanbul'da hafta sonu bazı sınavlar iptal edildi",
-   "summary": "İstanbul Valiliği, kentte beklenen şiddetli yağış nedeniyle yarın ve 18 Ekim'de bazı eğitim faaliyetlerine ara verileceğini bildirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbulda-hafta-sonu-bazi-sinavlar-iptal-edildi-1746628",
-   "image": "https://images.ntv.com.tr/images/sınav2-155363.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-16T15:59:22+00:00",
-   "url": "/haber/istanbul-da-hafta-sonu-bazi-sinavlar-iptal-edildi-0e7599cb/"
   },
   {
    "id": "4faefd77",
@@ -627,28 +682,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T13:45:04+00:00",
    "url": "/haber/istanbul-da-bir-skywell-et5-daha-yandi-3487cfc7/"
-  },
-  {
-   "id": "151beef4",
-   "title": "Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin son yolculuğuna uğurlandı",
-   "summary": "Trafik kazasında hayatını kaybeden Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin, son yolculuğuna uğurlandı. Cenaze törenine Cumhurbaşkanı Recep Tayyip Erdoğan da katıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/uskudar-belediye-baskanvekili-dundar-ziya-gultekin-son-yolculuguna-ugurlaniyor-1746591",
-   "image": "https://images.ntv.com.tr/images/cenaze-376402.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-16T13:37:51+00:00",
-   "url": "/haber/uskudar-belediye-baskanvekili-dundar-ziya-gultekin-son-yolculuguna-ugu-151beef4/"
-  },
-  {
-   "id": "faebf8ae",
-   "title": "Çekimleri durdurulan The Batman 2'yi farklı bir yönetmen tamamlayacak",
-   "summary": "Geçtiğimiz hafta sürpriz bir kararla çekimleri durdurulan The Batman 2, prodüksiyonu tamamlayabilmek için önemli bir değişikliğe gidiyor. İşte yönetmen koltuğunu devralacak yeni isim.",
-   "link": "https://www.donanimhaber.com/the-batman-2-yi-farkli-bir-yonetmen-tamamlayacak--211697",
-   "image": "https://www.donanimhaber.com/images/images/haber/211697/1200x675the-batman-2-yi-farkli-bir-yonetmen-tamamlayacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-16T13:35:00+00:00",
-   "url": "/haber/cekimleri-durdurulan-the-batman-2-yi-farkli-bir-yonetmen-tamamlayacak-faebf8ae/"
   },
   {
    "id": "bfdcd5ee",
@@ -1025,28 +1058,6 @@
    "url": "/haber/en-iyi-camasir-makinesi-5-tavsiye-00cc4f42/"
   },
   {
-   "id": "e8a9b0bb",
-   "title": "Yeni MacBook Pro’nun İşlemcisi Belli Oldu",
-   "summary": "Apple'ın OLED ekranlı MacBook Pro modelleri ve M7 işlemcili cihazları için güncel yol haritası ortaya çıktı. Detaylar haberimizde.",
-   "link": "https://shiftdelete.net/m7-islemcili-macbook-pro-yol-haritasi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-16T09:30:59+00:00",
-   "url": "/haber/yeni-macbook-pro-nun-islemcisi-belli-oldu-e8a9b0bb/"
-  },
-  {
-   "id": "4237c5ce",
-   "title": "Özgür Özel'e yakın isimler aylardır tartışılıyordu. CHP'de 48 kişi ihraç edildi",
-   "summary": "CHP'de çoğu Yeni Parti Genel Başkanı Özgür Özel'e yakınlığıyla bilinen 48 isim ihraç edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-ozgur-ozele-yakin-isimler-aylardir-tartisiliyordu-chpde-48-kisi-ihrac-edildi-1746573",
-   "image": "https://images.ntv.com.tr/images/images-739460.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-16T09:24:30+00:00",
-   "url": "/haber/ozgur-ozel-e-yakin-isimler-aylardir-tartisiliyordu-chp-de-48-kisi-ihra-4237c5ce/"
-  },
-  {
    "id": "dbd3b0de",
    "title": "Microsoft, Windows 11’in telefon bağlantı altyapısını güçlendiriyor",
    "summary": "Microsoft, Windows 11 işletim sisteminin “Phone Link” temelli telefon bağlantı altyapısını güçlendiriyor. Bu sistem sayesinde telefonlar PC’den yönetilebiliyor, PC’ler telefon üzerinden kapatılabiliyor ya da yeniden…",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-10-15T06:19:40+00:00",
    "url": "/haber/zayiflama-ignelerini-cok-kucuk-dozlarda-yapmak-guvenli-mi-f91bebad/"
-  },
-  {
-   "id": "56522ced",
-   "title": "Fon düzenlemelerini içeren kanun teklifi komisyondan geçti",
-   "summary": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifi, TBMM Plan ve Bütçe Komisyonu'nda kabul edildi.",
-   "link": "https://www.trthaber.com/haber/gundem/fon-duzenlemelerini-iceren-kanun-teklifi-komisyondan-gecti-960126.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2488000/fon-sorusturmasi-2489782.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-14T18:50:00+00:00",
-   "url": "/haber/fon-duzenlemelerini-iceren-kanun-teklifi-komisyondan-gecti-56522ced/"
   },
   {
    "id": "60b8cc2c",
