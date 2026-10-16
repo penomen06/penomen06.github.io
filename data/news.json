@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-16T15:01:09.544753+00:00",
+ "updated": "2026-10-16T15:31:03.680403+00:00",
  "items": [
+  {
+   "id": "c0ebde2a",
+   "title": "Elektrikli araçlarda yangın riski: Volkswagen geri çağırmaya hazırlanıyor",
+   "summary": "Volkswagen, bazı elektrikli modellerindeki batarya hücrelerinde tespit edilen üretim hataları nedeniyle geri çağırmaya hazırlanıyor. Etkilenen araçlara yüzde 80 şarj sınırı getirilmesi planlanıyor.",
+   "link": "https://www.donanimhaber.com/volkswagen-yangin-riski-nedeniyle-elektriklilerini-geri-cagiracak--211729",
+   "image": "https://www.donanimhaber.com/images/images/haber/211729/1200x675volkswagen-yangin-riski-nedeniyle-elektriklilerini-geri-cagiracak.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-16T15:30:00+00:00",
+   "url": "/haber/elektrikli-araclarda-yangin-riski-volkswagen-geri-cagirmaya-hazirlaniy-c0ebde2a/"
+  },
+  {
+   "id": "de845638",
+   "title": "İmamoğlu'ndan Kılıçdaroğlu'na 'Dava siyasi değil' tepkisi: 'Senin alnını karışlarım'",
+   "summary": "İBB davasında savunmasını sürdüren Ekrem İmamoğlu, Kemal Kılıçdaroğlu’nun davanın siyasi olmadığı yönündeki sözlerine “Senin alnını karışlarım” diyerek tepki gösterdi. Davanın temelinde “İstanbul İttifakı”nın başarısına…",
+   "link": "https://www.bbc.com/turkce/articles/c63dj1xgdkgxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7857/live/ef9bae40-c950-11f1-8879-9d9deeb686e1.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-16T15:25:05+00:00",
+   "url": "/haber/imamoglu-ndan-kilicdaroglu-na-dava-siyasi-degil-tepkisi-senin-alnini-k-de845638/"
+  },
+  {
+   "id": "6c3d1d76",
+   "title": "Türkiye Sigorta Birliğinden sel ve su baskını sonrasında yapılması gerekenlere ilişkin açıklama",
+   "summary": "Türkiye Sigorta Birliği (TSB), sel ve su baskınlarının ardından can güvenliğinin korunması, hasarların belgelenmesi, sigorta süreçlerinin yürütülmesi ve olası zararların azaltılması için dikkat edilmesi gerekenleri…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-sigorta-birliginden-sel-ve-su-baskini-sonrasinda-yapilmasi-gerekenlere-iliskin-aciklama/4091218",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T15:21:53+00:00",
+   "url": "/haber/turkiye-sigorta-birliginden-sel-ve-su-baskini-sonrasinda-yapilmasi-ger-6c3d1d76/"
+  },
+  {
+   "id": "51514d8b",
+   "title": "Bolu'nun yüksek kesimlerinde lapa lapa kar. Kartalkaya beyaza büründü",
+   "summary": "Bolu'nun yüksek kesimlerinde kar etkisini artırdı, Düzce'nin yüksek rakımlarında ise sağanak yerini kara bıraktı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-bolunun-yuksek-kesimlerinde-kar-etkisini-artirdi-1746627",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-16181310-535517.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-16T15:21:30+00:00",
+   "url": "/haber/bolu-nun-yuksek-kesimlerinde-lapa-lapa-kar-kartalkaya-beyaza-burundu-51514d8b/"
+  },
+  {
+   "id": "cbb40a83",
+   "title": "Bakan Yumaklı: Türkiye, üç biyocoğrafik bölgenin kesişiminde yer alan, zengin biyolojik çeşitliliğe sahip bir ülke",
+   "summary": "Bakan Yumaklı, Türkiye'nin üç biyocoğrafik bölgenin kesişiminde yer alan, zengin biyolojik çeşitliliğe sahip bir ülke olduğuna işaret ederek, \"Bu zenginliği korumayı gelecek nesillere karşı sorumluluğumuz olarak…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-turkiye-uc-biyocografik-bolgenin-kesisiminde-yer-alan-zengin-biyolojik-cesitlilige-sahip-bir-ulke/4091208",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T15:08:45+00:00",
+   "url": "/haber/bakan-yumakli-turkiye-uc-biyocografik-bolgenin-kesisiminde-yer-alan-ze-cbb40a83/"
+  },
+  {
+   "id": "d180ecba",
+   "title": "MSCI'dan Türkiye kararı: Piyasa sınıflandırması nasıl değişebilir?",
+   "summary": "Küresel endeks şirketi Morgan Stanley Capital International (MSCI), Türkiye'deki endekslerine dair bazı işlemleri dondurduğunu açıkladı. Şirket, Türkiye'de hisse senetleri konusunda gerekli önlemlerin alınmaması…",
+   "link": "https://www.bbc.com/turkce/articles/cm75przp0ldvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb4a/live/4ef8cdb0-c96e-11f1-a6e6-417671ef62cb.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-16T15:06:22+00:00",
+   "url": "/haber/msci-dan-turkiye-karari-piyasa-siniflandirmasi-nasil-degisebilir-d180ecba/"
+  },
+  {
+   "id": "39f257eb",
+   "title": "Sinemada bu hafta: Street Fighter, NAZA, Aşk ve Yaşam (16 Ekim 2026)",
+   "summary": "Bu hafta sinema salonlarında 10 yeni film gösterime girerken, dijital platformlara da yeni filmler geliyor. İşte bu hafta sinemaseverleri bekleyen yeni filmler:",
+   "link": "https://www.donanimhaber.com/sinemada-bu-hafta-9-ekim-2026--211712",
+   "image": "https://www.donanimhaber.com/images/images/haber/211712/1200x675sinemada-bu-hafta-9-ekim-2026.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-16T15:03:00+00:00",
+   "url": "/haber/sinemada-bu-hafta-street-fighter-naza-ask-ve-yasam-16-ekim-2026-39f257eb/"
+  },
   {
    "id": "1a9a9625",
    "title": "619 Km Menzilli Elektrikli Mercedes GLA İlk Bakış!",
@@ -695,17 +772,6 @@
    "url": "/haber/league-of-legends-classic-icin-yolun-sonu-son-tarih-paylasildi-118ed170/"
   },
   {
-   "id": "de845638",
-   "title": "İmamoğlu'nun savunması: 'AKP döneminde 2,5 milyar dolarlık kamu zararı tespit ettik'",
-   "summary": "İBB davasında savunmasını sürdüren Ekrem İmamoğlu, belediyenin AKP yönetimindeki dönemine ilişkin 33 dosyada toplam 2,5 milyar dolarlık kamu zararı tespit ettiklerini söyledi",
-   "link": "https://www.bbc.com/turkce/articles/c63dj1xgdkgxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7857/live/ef9bae40-c950-11f1-8879-9d9deeb686e1.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-16T11:11:05+00:00",
-   "url": "/haber/imamoglu-nun-savunmasi-akp-doneminde-2-5-milyar-dolarlik-kamu-zarari-t-de845638/"
-  },
-  {
    "id": "2708deed",
    "title": "Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin, son yolculuğuna uğurlandı",
    "summary": "Düzce'de trafik kazası sonucu hayatını kaybeden Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin için Marmara İlahiyat Camii'nde cenaze töreni düzenlendi.",
@@ -750,17 +816,6 @@
    "url": "/haber/samsung-galaxy-s27-ultra-da-snapdragon-8-elite-extreme-gen-6-islemcide-a67079ba/"
   },
   {
-   "id": "fc3495b1",
-   "title": "Amazon, Grok Bot’u engelledi: Elon Musk, rakip alışveriş platformu kurabilir",
-   "summary": "Elon Musk, Grok Bot’un Amazon’da engellenmesinin ardından şirkete rakip bir alışveriş platformu kurabileceklerini söyledi. Açıklama, X bünyesinde yeni bir alışveriş hizmeti ihtimalini gündeme getirdi.",
-   "link": "https://www.donanimhaber.com/amazon-grok-bot-u-engelledi-elon-musk-rakip-platform-kurabilir--211708",
-   "image": "https://www.donanimhaber.com/images/images/haber/211708/1200x675amazon-grok-bot-u-engelledi-elon-musk-rakip-platform-kurabilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-16T10:42:00+00:00",
-   "url": "/haber/amazon-grok-bot-u-engelledi-elon-musk-rakip-alisveris-platformu-kurabi-fc3495b1/"
-  },
-  {
    "id": "6138dda6",
    "title": "Tesla Uçan Otomobilini Duyurdu! 0-100 km/s 0.8 Saniye: Yeni Roadster SpaceX İle Çıldırdı!",
    "summary": "Tesla’nın uzun yıllardır beklenen yeni nesil Roadster modeli, SpaceX iş birliğiyle geliştirilen ve otomotiv dünyasında sınırları zorlayan uçuş ve itki kabiliyetleriyle resmen duyuruldu. 2006’daki ilk elektrikli spor…",
@@ -781,17 +836,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T10:30:19+00:00",
    "url": "/haber/qualcomm-ve-transsion-2031-e-kadar-5g-lisans-anlasmasini-uzatti-080fb305/"
-  },
-  {
-   "id": "9d6abc0c",
-   "title": "Microsoft Windows 11'i hızlandırdı: RAM kullanımı düşüyor",
-   "summary": "Microsoft, Windows 11'i özellikle düşük RAM'li bilgisayarlarda hızlandıran yeni optimizasyonlar yaptı. İşletim sistemi artık daha az bellek tüketirken uygulamalar arasında daha akıcı çalışacak.",
-   "link": "https://www.donanimhaber.com/microsoft-windows-11-i-hizlandirdi-ram-kullanimi-dusuyor--211703",
-   "image": "https://www.donanimhaber.com/images/images/haber/211703/1200x675microsoft-windows-11-i-hizlandirdi-ram-kullanimi-dusuyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-16T10:20:00+00:00",
-   "url": "/haber/microsoft-windows-11-i-hizlandirdi-ram-kullanimi-dusuyor-9d6abc0c/"
   },
   {
    "id": "6ecf89fe",
@@ -836,17 +880,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T10:00:03+00:00",
    "url": "/haber/sandisk-ten-arac-ici-ve-ev-guvenlik-kameralarina-ozel-guardian-serisi-4a5931bf/"
-  },
-  {
-   "id": "2781fc11",
-   "title": "Aylin Kotil, Emir Sarıgül ve Ömer Sarıgül'e gözaltı",
-   "summary": "Yeni Partili Mustafa Sarıgül'ün eski eşi Aylin Kotil, oğulları Emir Sarıgül ile Ömer Sarıgül ve gazeteci Murat Ağırel hakkında gözaltı kararı verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/aylin-kotil-emir-sarigul-ve-omer-sarigule-gozalti-1746529",
-   "image": "https://images.ntv.com.tr/images/SARIGÜL-159898.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-16T09:58:26+00:00",
-   "url": "/haber/aylin-kotil-emir-sarigul-ve-omer-sarigul-e-gozalti-2781fc11/"
   },
   {
    "id": "253adbeb",
@@ -948,17 +981,6 @@
    "url": "/haber/microsoft-windows-11-in-telefon-baglanti-altyapisini-guclendiriyor-dbd3b0de/"
   },
   {
-   "id": "ed9169ee",
-   "title": "Türkiye'de spor turizmi pazarı yaklaşık 1,4 milyar dolara ulaştı",
-   "summary": "Türkiye'de spor turizmi pazarı, uluslararası spor organizasyonları, kamplar ve golfün katkısıyla 1,1-1,4 milyar dolara ulaşırken pazardaki bu harcamaların yüzde 50-60'ını yabancı ziyaretçiler oluşturuyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyede-spor-turizmi-pazari-yaklasik-1-4-milyar-dolara-ulasti/4090771",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T09:19:06+00:00",
-   "url": "/haber/turkiye-de-spor-turizmi-pazari-yaklasik-1-4-milyar-dolara-ulasti-ed9169ee/"
-  },
-  {
    "id": "e841eb21",
    "title": "Tesla roket teknolojisi destekli 'uçan' spor aracını tanıttı",
    "summary": "Elektriki araç devi Tesla, 15 Ekim'de yaptığı sunumda, yeniden tasarlanmış \"uçan\" Roadster modelini dikkat çeken bir gösteriyle tanıttı.",
@@ -1023,17 +1045,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T08:34:54+00:00",
    "url": "/haber/yeni-audi-q4-e-tron-turkiye-de-satisa-sunuldu-iste-fiyati-66403e0c/"
-  },
-  {
-   "id": "87322465",
-   "title": "YTB Başkanı Turus, Kuzey Afrika'da 2 milyonu aşkın Türk kökenli nüfus olduğunu belirtti",
-   "summary": "YTB Başkanı Abdulhadi Turus, Kuzey Afrika'daki Türk kökenli toplulukların nüfusuna ilişkin araştırmaların önem taşıdığını belirterek,\"Bugün tam net sayıyı bilmesek de Kuzey Afrika'da 2 milyonu aşkın Türk kökenli nüfus…",
-   "link": "https://www.aa.com.tr/tr/dunya/ytb-baskani-turus-kuzey-afrikada-2-milyonu-askin-turk-kokenli-nufus-oldugunu-belirtti/4090682",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T08:11:53+00:00",
-   "url": "/haber/ytb-baskani-turus-kuzey-afrika-da-2-milyonu-askin-turk-kokenli-nufus-o-87322465/"
   },
   {
    "id": "70fac654",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-10-14T13:17:51+00:00",
    "url": "/haber/basortusu-protestolari-aliyev-hukumeti-icin-tehdit-mi-60b8cc2c/"
-  },
-  {
-   "id": "3b567f15",
-   "title": "Halk TV nasıl kuruldu, CHP'yle ilişkileri nasıldı, yayın sürecinde neler yaşandı?",
-   "summary": "CHP ile uzun yıllar yakın ilişkiler içinde anılan Halk TV, 2005'ten bu yana Türkiye'nin muhalif medya kuruluşlarından biri olarak öne çıkmıştı.",
-   "link": "https://www.bbc.com/turkce/articles/cvp8gj66nzrpo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8872/live/25bfb370-c7be-11f1-b41f-d7a6cb474575.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-14T12:57:38+00:00",
-   "url": "/haber/halk-tv-nasil-kuruldu-chp-yle-iliskileri-nasildi-yayin-surecinde-neler-3b567f15/"
   },
   {
    "id": "a44f10a5",
