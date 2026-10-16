@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:31:01.382630+00:00",
+ "updated": "2026-10-16T01:01:50.240081+00:00",
  "items": [
   {
    "id": "b7da116f",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-16T00:30:00+00:00",
+   "date": "2026-10-16T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-b7da116f/"
+  },
+  {
+   "id": "576f8037",
+   "title": "İsrail basını: Ordu, İran veya Hizbullah ile olası bir gerilime hazırlanıyor",
+   "summary": "İsrail ordusunun, 27 Ekim'de yapılması planlanan genel seçimlere iki haftadan az bir süre kala İran veya Lübnan'daki Hizbullah ile olası gerilim ihtimaline karşı son günlerde askeri teyakkuz seviyesini yükselttiği…",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-ordu-iran-veya-hizbullah-ile-olasi-bir-gerilime-hazirlaniyor/4090464",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T00:27:53+00:00",
+   "url": "/haber/israil-basini-ordu-iran-veya-hizbullah-ile-olasi-bir-gerilime-hazirlan-576f8037/"
   },
   {
    "id": "8b67114a",
@@ -165,17 +176,6 @@
    "category": "gundem",
    "date": "2026-10-15T21:23:14+00:00",
    "url": "/haber/ibb-davasi-imamoglu-nun-savunmasi-2-gununde-devam-etti-7fa75f9f/"
-  },
-  {
-   "id": "2f0a91a6",
-   "title": "Bakan Kurum: Birimlerimiz, koordinasyon merkezine gelen 9 bin 755 ihbarın 7 bin 800'üne anında müdahalede bulundu",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"39 ilçemizde 53 istinat duvarı aşırı yağış sebebiyle yıkıldı. Tam 9 bin 755 ihbar bu koordinasyon merkezine geldi ve birimlerimiz 7 bin 800'üne anında…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-birimlerimiz-koordinasyon-merkezine-gelen-9-bin-755-ihbarin-7-bin-800une-aninda-mudahalede-bulundu/4090431",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-15T21:22:36+00:00",
-   "url": "/haber/bakan-kurum-birimlerimiz-koordinasyon-merkezine-gelen-9-bin-755-ihbari-2f0a91a6/"
   },
   {
    "id": "d50827a5",
