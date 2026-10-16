@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:01:05.857676+00:00",
+ "updated": "2026-10-16T23:30:58.734038+00:00",
  "items": [
   {
    "id": "2f073c52",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-16T23:00:00+00:00",
+   "date": "2026-10-16T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2f073c52/"
+  },
+  {
+   "id": "45ded160",
+   "title": "Suudi Arabistan'ın Abha ve Hamis Muşayt kentlerinde erken uyarı sistemi devreye alındı",
+   "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin güneyindeki Abha ve Hamis Muşayt kentleri için erken uyarı sisteminin devreye alındığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-abha-ve-hamis-musayt-kentlerinde-erken-uyari-sistemi-devreye-alindi/4091591",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T23:06:43+00:00",
+   "url": "/haber/suudi-arabistan-in-abha-ve-hamis-musayt-kentlerinde-erken-uyari-sistem-45ded160/"
+  },
+  {
+   "id": "54ac90ae",
+   "title": "Halk TV'ye kayyum atanan soruşturmada dört kişiye tutuklama, dört kişiye ev hapsi, dört kişi adli kontrolle serbest",
+   "summary": "İstanbul Cumhuriyet Başsavcılığı'nın, kanalın sahibi Cafer Mahiroğlu'na yönelik soruşturmasınde gözaltına alınan 12 kişinden 4'ü tutuklandı, 4 kişiye ise ev hapsi cezası verildi, dört kişi de adli kontrolle serbest…",
+   "link": "https://www.bbc.com/turkce/articles/cmy0eyerev48o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ed9/live/afe25ea0-c7cc-11f1-9e10-4dcbd31d4273.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-16T23:04:09+00:00",
+   "url": "/haber/halk-tv-ye-kayyum-atanan-sorusturmada-dort-kisiye-tutuklama-dort-kisiy-54ac90ae/"
+  },
+  {
+   "id": "14e5cfe5",
+   "title": "İsrail askerleri Batı Şeria'da 3 Filistinliyi gözaltına aldı, 3 kişiyi yaraladı",
+   "summary": "İsrail askerleri, işgal altındaki Batı Şeria'nın kuzeyindeki Cenin kentinde 3 Filistinliyi gözaltına aldı, 3 Filistinliyi de darbederek yaraladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriada-3-filistinliyi-gozaltina-aldi-3-kisiyi-yaraladi/4091590",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T23:03:18+00:00",
+   "url": "/haber/israil-askerleri-bati-seria-da-3-filistinliyi-gozaltina-aldi-3-kisiyi-14e5cfe5/"
   },
   {
    "id": "d2c15837",
@@ -33,6 +66,17 @@
    "category": "gundem",
    "date": "2026-10-16T22:16:53+00:00",
    "url": "/haber/afad-saganakla-mucadele-calismalarinda-60-bin-395-personel-ile-8-bin-9-d1ce3d07/"
+  },
+  {
+   "id": "9d4b0d43",
+   "title": "BMGK, Guterres'in yerine önerilecek aday için ilk kez \"renk kodlu\" ön oylama yaptı",
+   "summary": "Birleşmiş Milletler Güvenlik Konseyi (BMGK), bu yıl sonunda görev süresi bitecek olan Genel Sekreter Antonio Guterres'in yerine aday olacak 7 isim için ilk kez \"renk kodlu\" ön yoklama yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/bmgk-guterresin-yerine-onerilecek-aday-icin-ilk-kez-renk-kodlu-on-oylama-yapti/4091581",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T22:07:45+00:00",
+   "url": "/haber/bmgk-guterres-in-yerine-onerilecek-aday-icin-ilk-kez-renk-kodlu-on-oyl-9d4b0d43/"
   },
   {
    "id": "1df2e2e6",
@@ -211,17 +255,6 @@
    "url": "/haber/honor-magicos-11-kuresel-takvimi-aciklandi-guncelleme-hangi-modellere-496bead5/"
   },
   {
-   "id": "86c64c05",
-   "title": "Beşiktaş'ta Orkun Kökçü'nün sağ ayak tabanında kısmi yırtık tespit edildi",
-   "summary": "Beşiktaş'ın milli futbolcusu Orkun Kökçü'nün sağ ayak tabanında kısmi plantar fasya yırtığı ve topuk yağ yastığı travmatik ayrışma tespit edildi.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktasta-orkun-kokcunun-sag-ayak-tabaninda-kismi-yirtik-tespit-edildi/4091532",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T20:45:14+00:00",
-   "url": "/haber/besiktas-ta-orkun-kokcu-nun-sag-ayak-tabaninda-kismi-yirtik-tespit-edi-86c64c05/"
-  },
-  {
    "id": "413e54d7",
    "title": "A101 marketlerde akıllı ısıtıcı geçidi",
    "summary": "15 Ekim A101 Ekstra teknoloji ürünleri arasında Xiaomi Mi Smart Space Heater S akıllı elektrikli ısıtıcı ve Philips 3000 seramik fanlı akıllı ısıtıcı yer alıyor.",
@@ -231,17 +264,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T20:38:00+00:00",
    "url": "/haber/a101-marketlerde-akilli-isitici-gecidi-413e54d7/"
-  },
-  {
-   "id": "cde6ca19",
-   "title": "Rusya: Dizel ticaretindeki arz açığı dünya ticaretinin yüzde 25'ine ulaştı",
-   "summary": "Rusya Başbakan Yardımcısı Aleksandr Novak, küresel dizel piyasasındaki arz açığının dünya ticaretinin yaklaşık yüzde 25'ine ulaştığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ticaretindeki-arz-acigi-dunya-ticaretinin-yuzde-25ine-ulasti/4091523",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T20:35:26+00:00",
-   "url": "/haber/rusya-dizel-ticaretindeki-arz-acigi-dunya-ticaretinin-yuzde-25-ine-ula-cde6ca19/"
   },
   {
    "id": "37144a1c",
@@ -297,17 +319,6 @@
    "category": "gundem",
    "date": "2026-10-16T19:40:43+00:00",
    "url": "/haber/on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-16-ekim-202-37a09a93/"
-  },
-  {
-   "id": "d221fb69",
-   "title": "\"4. Uluslararası Digital Film Festival İstanbul\" başladı",
-   "summary": "\"4. Uluslararası Digital Film Festival İstanbul\" (DFFI), Atatürk Kültür Merkezi (AKM) Yeşilçam Sineması'nda gerçekleştirilen açılış töreniyle başladı.",
-   "link": "https://www.aa.com.tr/tr/kultur/4-uluslararasi-digital-film-festival-istanbul-basladi/4091475",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T19:33:02+00:00",
-   "url": "/haber/4-uluslararasi-digital-film-festival-istanbul-basladi-d221fb69/"
   },
   {
    "id": "98c62944",
@@ -1034,17 +1045,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T10:30:19+00:00",
    "url": "/haber/qualcomm-ve-transsion-2031-e-kadar-5g-lisans-anlasmasini-uzatti-080fb305/"
-  },
-  {
-   "id": "6ecf89fe",
-   "title": "Türkiye Sigorta Genel Müdürü Taha Çakmak istifa etti",
-   "summary": "Gazeteci İsmail Saymaz, Taha Çakmak'ın Türkiye Hayat Emeklilik'e ait 100 milyon TL'nin Tera fonunda kaybedilmesinden sorumlu tutulduğunu duyurmuştu.",
-   "link": "https://www.bbc.com/turkce/articles/cmx2dg4z8qqwo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce59/live/36678580-c940-11f1-8c38-abe947e72d6d.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-16T10:08:28+00:00",
-   "url": "/haber/turkiye-sigorta-genel-muduru-taha-cakmak-istifa-etti-6ecf89fe/"
   },
   {
    "id": "d50827a5",
