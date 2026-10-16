@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-16T21:01:11.926211+00:00",
+ "updated": "2026-10-16T21:30:55.568401+00:00",
  "items": [
   {
-   "id": "dd2b1c04",
-   "title": "SPK'dan yeni kararlar: Hedef Portföy fonları olağan tasfiye sürecine dahil edildi",
-   "summary": "Sermaye Piyasası Kurulu (SPK), Vişne Madencilik ve Işıklar Enerji hisselerindeki işlemler nedeniyle 37 kişi hakkında suç duyurusu kararı aldı.",
-   "link": "https://www.ntv.com.tr/turkiye/spkdan-yeni-kararlar-37-kisi-hakkinda-suc-duyurusu-1746645",
-   "image": "https://images.ntv.com.tr/images/spk-729624.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-16T21:00:24+00:00",
-   "url": "/haber/spk-dan-yeni-kararlar-hedef-portfoy-fonlari-olagan-tasfiye-surecine-da-dd2b1c04/"
+   "id": "c673d208",
+   "title": "Küresel saat sisteminde tarihi değişim: Artık saniye uygulaması kaldırılıyor",
+   "summary": "Dünya’nın dönüş hızındaki değişimler nedeniyle artık saniye uygulaması 2027’de kaldırılıyor. Yeni sistemle dijital altyapılardaki kesintilerin önüne geçilmesi hedefleniyor.",
+   "link": "https://www.donanimhaber.com/kuresel-saat-sistemi-degisiyor-artik-saniye-uygulamasi-kalkiyor--211736",
+   "image": "https://www.donanimhaber.com/images/images/haber/211736/1200x675kuresel-saat-sistemi-degisiyor-artik-saniye-uygulamasi-kalkiyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-16T21:30:00+00:00",
+   "url": "/haber/kuresel-saat-sisteminde-tarihi-degisim-artik-saniye-uygulamasi-kaldiri-c673d208/"
   },
   {
    "id": "2f073c52",
@@ -20,8 +20,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-16T21:00:00+00:00",
+   "date": "2026-10-16T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2f073c52/"
+  },
+  {
+   "id": "dd2b1c04",
+   "title": "SPK'dan yeni kararlar: Hedef Portföy fonları olağan tasfiye sürecine dahil edildi",
+   "summary": "SPK, Hedef Portföy'ün tasfiye kapsamındaki fonlarını ara ödeme düzenlemesinden çıkararak tasfiye işlemlerine başlanmasına karar verdi. Kurul ayrıca 37 kişi hakkında suç duyurusunda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/spkdan-yeni-kararlar-37-kisi-hakkinda-suc-duyurusu-1746645",
+   "image": "https://images.ntv.com.tr/images/spk-729624.webp",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-16T21:25:05+00:00",
+   "url": "/haber/spk-dan-yeni-kararlar-hedef-portfoy-fonlari-olagan-tasfiye-surecine-da-dd2b1c04/"
+  },
+  {
+   "id": "2be01825",
+   "title": "Sözleşmeli 31 bin 54 sağlık personelinin istihdamına ilişkin karar Resmi Gazete'de",
+   "summary": "Sözleşmeli 31 bin 54 sağlık personeli istihdamı kapsamındaki hizmet birimlerinin tespit edilmesine ilişkin Cumhurbaşkanlığı kararı Resmi Gazete'de yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/sozlesmeli-31-bin-54-saglik-personelinin-istihdamina-iliskin-karar-resmi-gazetede/4091551",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T21:24:58+00:00",
+   "url": "/haber/sozlesmeli-31-bin-54-saglik-personelinin-istihdamina-iliskin-karar-res-2be01825/"
+  },
+  {
+   "id": "0e7599cb",
+   "title": "İstanbul'da hafta sonu bazı sınavlar iptal edildi",
+   "summary": "İstanbul Valiliği ve Kocaeli Valiliği, beklenen şiddetli yağışlar nedeniyle hafta sonu bazı eğitim faaliyetlerine ara verileceğini ve bazı sınavların ertelendiğini bildirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-hafta-sonu-bazi-sinavlar-iptal-edildi-1746628",
+   "image": "https://images.ntv.com.tr/images/sınav2-155363.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-16T21:15:45+00:00",
+   "url": "/haber/istanbul-da-hafta-sonu-bazi-sinavlar-iptal-edildi-0e7599cb/"
+  },
+  {
+   "id": "52782899",
+   "title": "BUDO'nun yarın yapılacak 12 seferi iptal edildi",
+   "summary": "Bursa Deniz Otobüsleri'nin (BUDO) bugün yapılması planlanan 12 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/budonun-yarin-yapilacak-12-seferi-iptal-edildi-1746634",
+   "image": "https://images.ntv.com.tr/images/BUDO1-728942.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-16T21:15:17+00:00",
+   "url": "/haber/budo-nun-yarin-yapilacak-12-seferi-iptal-edildi-52782899/"
+  },
+  {
+   "id": "6a320ba9",
+   "title": "İçişleri Bakanlığı yurtta beklenen sağanak ve fırtınaya karşı uyardı",
+   "summary": "İçişleri Bakanlığı, bugün yurt genelinde beklenen kuvvetli yağış ve fırtına nedeniyle vatandaşları dikkatli ve tedbirli olmaları konusunda uyardı.",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakanligi-yurtta-beklenen-saganak-ve-firtinaya-karsi-uyardi/4091545",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-16T21:07:37+00:00",
+   "url": "/haber/icisleri-bakanligi-yurtta-beklenen-saganak-ve-firtinaya-karsi-uyardi-6a320ba9/"
   },
   {
    "id": "496bead5",
@@ -277,17 +332,6 @@
    "url": "/haber/asml-nin-uretim-kapasitesi-artan-cip-talebine-yetisemiyor-b4361a0e/"
   },
   {
-   "id": "caab6fca",
-   "title": "ABD'nin bütçe açığı 2026 mali yılında 2 trilyon dolara yaklaştı",
-   "summary": "ABD federal hükümetinin bütçe açığı, 2026 mali yılında önceki yıla kıyasla yüzde 12 artarak 1,99 trilyon dolara yükseldi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abdnin-butce-acigi-2026-mali-yilinda-2-trilyon-dolara-yaklasti/4091441",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T18:53:49+00:00",
-   "url": "/haber/abd-nin-butce-acigi-2026-mali-yilinda-2-trilyon-dolara-yaklasti-caab6fca/"
-  },
-  {
    "id": "39471b0a",
    "title": "PlayStation'dan yeni Frame Generation patenti: Kare tahmini geliyor",
    "summary": "PlayStation, kare oluşturma teknolojilerindeki en büyük sorunlardan biri olan giriş gecikmesini azaltabilecek yeni bir sistem için patent aldı. Teknoloji, oyuncu hareketlerini önceden tahmin edecek.",
@@ -297,17 +341,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T18:48:00+00:00",
    "url": "/haber/playstation-dan-yeni-frame-generation-patenti-kare-tahmini-geliyor-39471b0a/"
-  },
-  {
-   "id": "84cb1024",
-   "title": "Trump, Beyaz Saray Sözcüsü Zacharia'nın görevden ayrılabileceğini açıkladı",
-   "summary": "ABD Başkanı Trump, kısa süre önce göreve başlayan Beyaz Saray Sözcüsü Katie Zacharia'nın hakkındaki tartışmaların yoğunlaşmasının ardından \"görevden ayrılabileceği\" sinyalini verdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-beyaz-saray-sozcusu-zacharianin-gorevden-ayrilabilecegini-acikladi/4091430",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T18:40:24+00:00",
-   "url": "/haber/trump-beyaz-saray-sozcusu-zacharia-nin-gorevden-ayrilabilecegini-acikl-84cb1024/"
   },
   {
    "id": "c27db709",
@@ -352,28 +385,6 @@
    "category": "gundem",
    "date": "2026-10-16T18:15:56+00:00",
    "url": "/haber/super-lig-de-haftanin-acilis-macinda-corum-fk-caykur-rizespor-u-2-1-ye-a441dc92/"
-  },
-  {
-   "id": "0e7599cb",
-   "title": "İstanbul'da hafta sonu bazı sınavlar iptal edildi",
-   "summary": "İstanbul Valiliği ve Kocaeli Valiliği, beklenen şiddetli yağışlar nedeniyle hafta sonu bazı eğitim faaliyetlerine ara verileceğini ve bazı sınavların ertelendiğini bildirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbulda-hafta-sonu-bazi-sinavlar-iptal-edildi-1746628",
-   "image": "https://images.ntv.com.tr/images/sınav2-155363.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-16T18:14:45+00:00",
-   "url": "/haber/istanbul-da-hafta-sonu-bazi-sinavlar-iptal-edildi-0e7599cb/"
-  },
-  {
-   "id": "52782899",
-   "title": "BUDO'nun yarın yapılacak 12 seferi iptal edildi",
-   "summary": "Bursa Deniz Otobüsleri'nin (BUDO) yarın yapılması planlanan 12 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/budonun-yarin-yapilacak-12-seferi-iptal-edildi-1746634",
-   "image": "https://images.ntv.com.tr/images/BUDO1-728942.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-16T18:06:36+00:00",
-   "url": "/haber/budo-nun-yarin-yapilacak-12-seferi-iptal-edildi-52782899/"
   },
   {
    "id": "feb97d6b",
@@ -484,17 +495,6 @@
    "category": "gundem",
    "date": "2026-10-16T16:44:27+00:00",
    "url": "/haber/cumhurbaskani-erdogan-kambocya-basbakani-manet-i-kabul-etti-225f89f9/"
-  },
-  {
-   "id": "e92f10cd",
-   "title": "Almanya, güneş enerjisi santrali için uyardı: İnternete bağlamayın",
-   "summary": "Almanya, güneş enerjisi santrallerine yönelik siber saldırı riskine karşı harekete geçti. Yeni tavsiyeler, kontrol sistemlerinin internete kapatılmasını ve ek güvenlik önlemleri alınmasını öngörüyor.",
-   "link": "https://www.donanimhaber.com/almanya-dan-gunes-enerjisi-icin-siber-guvenlik-uyarisi--211733",
-   "image": "https://www.donanimhaber.com/images/images/haber/211733/1200x675almanya-dan-gunes-enerjisi-icin-siber-guvenlik-uyarisi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-16T16:36:00+00:00",
-   "url": "/haber/almanya-gunes-enerjisi-santrali-icin-uyardi-internete-baglamayin-e92f10cd/"
   },
   {
    "id": "1b0c34b9",
