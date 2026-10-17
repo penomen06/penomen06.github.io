@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-17T13:01:09.996539+00:00",
+ "updated": "2026-10-17T13:10:14.310101+00:00",
  "items": [
+  {
+   "id": "c4f00b5f",
+   "title": "İmamoğlu savunmasının dördüncü günü: 'Bu bir siyasi davadır'",
+   "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, 14 Ekim'de başladığı İBB davasındaki savunmasını dördüncü gününde tamamladı.",
+   "link": "https://www.bbc.com/turkce/articles/cmlyd2xp1jxwo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b208/live/956aaff0-ca1f-11f1-a718-8f4bc8d2cdf5.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-17T13:05:22+00:00",
+   "url": "/haber/imamoglu-savunmasinin-dorduncu-gunu-bu-bir-siyasi-davadir-c4f00b5f/"
+  },
+  {
+   "id": "1bfc0ab9",
+   "title": "Huawei’den Avrupa’nın dijital ve yeşil dönüşümüne destek",
+   "summary": "Huawei, Floransa’da düzenlenen Huawei Connect Europe 2026’da, Avrupa’nın dijital ve yeşil dönüşümünü desteklemek amacıyla geliştirdiği SCALE çerçevesini tanıttı. Şirket, 5.000’i aşkın iş ortağıyla yürüttüğü iş…",
+   "link": "https://www.log.com.tr/huaweiden-avrupanin-dijital-ve-yesil-donusumune-destek/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2016/04/default-image.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-17T13:00:58+00:00",
+   "url": "/haber/huawei-den-avrupa-nin-dijital-ve-yesil-donusumune-destek-1bfc0ab9/"
+  },
+  {
+   "id": "bebca0e1",
+   "title": "İran Dışişleri Bakanı Erakçi: Yedi günlük programı açıkladık, seçim ABD'nin",
+   "summary": "İran Dışişleri Bakanı Abbas Erakçi, ülkesinin Hürmüz Boğazı’nın açılması için öne sürdüğü şartlara ilişkin, “Yedi günlük programı açıkladık, seçim ABD'nin.” dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-yedi-gunluk-programi-acikladik-secim-abdnin/4091989",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T13:00:49+00:00",
+   "url": "/haber/iran-disisleri-bakani-erakci-yedi-gunluk-programi-acikladik-secim-abd-bebca0e1/"
+  },
   {
    "id": "d652f149",
    "title": "ŞOK Marketlere Oyuncu Ekipmanlarını Geliyor",
@@ -24,15 +57,15 @@
    "url": "/haber/windows-11-ile-akilli-telefon-entegrasyonu-genisliyor-iste-yeni-ozelli-31dce38c/"
   },
   {
-   "id": "c4f00b5f",
-   "title": "İmamoğlu savunmasının dördüncü günü: 'Bu bir siyasi davadır'",
-   "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, 14 Ekim'de başladığı İBB davasındaki savunmasına dördüncü gününde devam etti.",
-   "link": "https://www.bbc.com/turkce/articles/cmlyd2xp1jxwo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b208/live/956aaff0-ca1f-11f1-a718-8f4bc8d2cdf5.jpg",
-   "source": "BBC Turkish",
+   "id": "0b6719de",
+   "title": "İsrail'in Gazze'deki El-Ehli Baptist Hastanesi katliamının üzerinden 3 yıl geçti",
+   "summary": "İsrail'in 17 Ekim 2023'te Gazze kentindeki El-Ehli Baptist Hastanesi'ne düzenlediği, yüzlerce Filistinlinin hayatını kaybetmesine neden olan saldırının üzerinden 3 yıl geçti.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzedeki-el-ehli-baptist-hastanesi-katliaminin-uzerinden-3-yil-gecti/4091985",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-17T12:56:55+00:00",
-   "url": "/haber/imamoglu-savunmasinin-dorduncu-gunu-bu-bir-siyasi-davadir-c4f00b5f/"
+   "date": "2026-10-17T12:55:26+00:00",
+   "url": "/haber/israil-in-gazze-deki-el-ehli-baptist-hastanesi-katliaminin-uzerinden-3-0b6719de/"
   },
   {
    "id": "9c1f20da",
@@ -332,17 +365,6 @@
    "url": "/haber/turkiye-nin-jeotermal-deneyimi-cop31-de-uluslararasi-gundeme-tasinacak-a51ac6e7/"
   },
   {
-   "id": "952d981f",
-   "title": "Gençlerin ilgisiyle İstanbul'da berber ve kuaför işletmelerinin sayısı 17 bini aştı",
-   "summary": "İstanbul'da berber ve kuaför işletmelerinin sayısı, gençlerin kendi işini kurma isteği ve mesleğe olan ilgisiyle yıl başından bu yana 886 artarak 17 bin 198'e ulaştı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/genclerin-ilgisiyle-istanbulda-berber-ve-kuafor-isletmelerinin-sayisi-17-bini-asti/4091902",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T10:49:37+00:00",
-   "url": "/haber/genclerin-ilgisiyle-istanbul-da-berber-ve-kuafor-isletmelerinin-sayisi-952d981f/"
-  },
-  {
    "id": "480b00bb",
    "title": "İzmir'in yüksek kesimlerine kar yağdı",
    "summary": "İzmir'in Ödemiş ilçesindeki Bozdağ Kayak Merkezi'nde kar etkili oldu.",
@@ -352,17 +374,6 @@
    "category": "gundem",
    "date": "2026-10-17T10:47:46+00:00",
    "url": "/haber/izmir-in-yuksek-kesimlerine-kar-yagdi-480b00bb/"
-  },
-  {
-   "id": "f8a350c6",
-   "title": "Bakan Bayraktar, Gabar'dan yakında yeni petrol müjdesi verebileceklerini söyledi",
-   "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin petrol ve doğal gaz arama çalışmalarını sürdürdüğünü belirterek, yakın zamanda Gabar'daki petrol üretim sahasından yeni keşif müjdesi verebileceklerini…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-gabardan-yakinda-yeni-petrol-mujdesi-verebileceklerini-soyledi/4091897",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T10:47:02+00:00",
-   "url": "/haber/bakan-bayraktar-gabar-dan-yakinda-yeni-petrol-mujdesi-verebileceklerin-f8a350c6/"
   },
   {
    "id": "e86ab21e",
@@ -671,17 +682,6 @@
    "category": "gundem",
    "date": "2026-10-17T08:27:49+00:00",
    "url": "/haber/eski-damadindan-kira-isteyen-kayinpedere-yargitay-dan-kotu-haber-45d02050/"
-  },
-  {
-   "id": "7921fc2f",
-   "title": "Her bisikleti elektrikli bisiklete dönüştüren yeni çözüm: “Spiny 2”",
-   "summary": "Kitle fonlama platformu Kickstarter’da 213 bin dolardan fazla destek toplayan Spiny 2, sıradan bisikletleri elektrikli bisiklete dönüştürebiliyor. Şirkete göre yalnızca 3 saniyede takılıp kullanıma hazır hale gelen 2,2…",
-   "link": "https://www.log.com.tr/her-bisikleti-elektrikli-bisiklete-donusturen-yeni-cozum-spiny-2/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-17_11-24-54_LFU8Y-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-17T08:27:21+00:00",
-   "url": "/haber/her-bisikleti-elektrikli-bisiklete-donusturen-yeni-cozum-spiny-2-7921fc2f/"
   },
   {
    "id": "1ad36e3b",
