@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T21:01:05.836952+00:00",
+ "updated": "2026-10-17T21:30:55.847953+00:00",
  "items": [
   {
    "id": "6c5095cc",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-17T21:00:00+00:00",
+   "date": "2026-10-17T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-6c5095cc/"
+  },
+  {
+   "id": "4d14fb30",
+   "title": "Suudi Arabistan'ın başkenti Riyad ile Abha ve Hamis Muşayt kentlerinde erken uyarı sistemi devreye alındı",
+   "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, başkent Riyad ile ülkenin güneyindeki Abha ve Hamis Muşayt kentleri için erken uyarı sisteminin devreye alındığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-baskenti-riyad-ile-abha-ve-hamis-musayt-kentlerinde-erken-uyari-sistemi-devreye-alindi/4092316",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T21:25:33+00:00",
+   "url": "/haber/suudi-arabistan-in-baskenti-riyad-ile-abha-ve-hamis-musayt-kentlerinde-4d14fb30/"
+  },
+  {
+   "id": "cb39ccb9",
+   "title": "Bakan Bolat duyurdu. Selden etkilenen esnafa destek",
+   "summary": "Ticaret Bakanı Ömer Bolat,, İstanbul'daki sel felaketinden etkilenen esnaflara 80 milyon lira nakdi destek sağlanacağını duyurdu.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-bolat-duyurdu-selden-etkilenen-esnafa-destek-1746778",
+   "image": "https://images.ntv.com.tr/images/AA-20261016-42778907-42778906-CLEANUP_AND_WATER_DRAINAGE_OPERATIONS_CONTINUE_IN_ISTANBUL-212900.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-17T21:13:35+00:00",
+   "url": "/haber/bakan-bolat-duyurdu-selden-etkilenen-esnafa-destek-cb39ccb9/"
   },
   {
    "id": "1c8885e3",
@@ -110,6 +132,17 @@
    "category": "teknoloji",
    "date": "2026-10-17T20:00:47+00:00",
    "url": "/haber/dell-ceo-su-bellek-kitligi-2027-yilinda-daha-da-kotulesecek-53074d3d/"
+  },
+  {
+   "id": "090c78a9",
+   "title": "İstanbul'da selden etkilenen esnafa 80 milyon lira nakdi destek",
+   "summary": "Ticaret Bakanı Ömer Bolat, İstanbul'da meydana gelen yağışlara dikkati çekerek, \"Sel felaketinden etkilenen esnafımızın, acil ihtiyaçlarının karşılanması amacıyla 80 milyon lira nakdi destek sağlanacaktır\" ifadesini…",
+   "link": "https://www.trthaber.com/haber/gundem/istanbulda-selden-etkilenen-esnafa-80-milyon-lira-nakdi-destek-960439.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/istanbul-sel-aa-2496565.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-17T20:00:00+00:00",
+   "url": "/haber/istanbul-da-selden-etkilenen-esnafa-80-milyon-lira-nakdi-destek-090c78a9/"
   },
   {
    "id": "9e09d81f",
@@ -277,6 +310,17 @@
    "url": "/haber/turkiye-nin-baku-buyukelciliginden-bakan-fidan-hakkindaki-iddialara-ya-e4e396eb/"
   },
   {
+   "id": "1be39aca",
+   "title": "Türkiye, uluslararası keskin nişancı yarışmasında birinci oldu",
+   "summary": "Türkiye, 20 ülkeden 96 personelin katıldığı 8. BORAN Uluslararası Keskin Nişancı Yarışması'nda birincilik elde etti. Polis Özel Harekat Başkanlığı takımı birinci, Özel Kuvvetler Komutanlığı takımı ikinci, Kara…",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-uluslararasi-keskin-nisanci-yarismasinda-birinci-oldu-960438.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/keskin-nisanci-yarisma-aa-2496564.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-17T17:55:00+00:00",
+   "url": "/haber/turkiye-uluslararasi-keskin-nisanci-yarismasinda-birinci-oldu-1be39aca/"
+  },
+  {
    "id": "54f58b04",
    "title": "Cumhurbaşkanı Erdoğan, vefatının 8. yılında Ara Güler'i andı",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, duayen foto muhabiri Ara Güler'i vefatının 8'inci yılında yad etti.",
@@ -297,17 +341,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T17:47:44+00:00",
    "url": "/haber/tamamen-elektrikli-mercedes-amg-gt-suv-tanitildi-f6883cc4/"
-  },
-  {
-   "id": "070ec174",
-   "title": "Çin'in rezervindeki ABD devlet tahvilleri 18 yılın en düşük seviyesine geriledi",
-   "summary": "Çin, ağustosta rezervindeki ABD devlet tahvillerini azaltmayı sürdürürken, varlık mevcudu son 18 yılın en düşük seviyesine indi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cinin-rezervindeki-abd-devlet-tahvilleri-18-yilin-en-dusuk-seviyesine-geriledi/4092205",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T17:45:39+00:00",
-   "url": "/haber/cin-in-rezervindeki-abd-devlet-tahvilleri-18-yilin-en-dusuk-seviyesine-070ec174/"
   },
   {
    "id": "cdab2a30",
@@ -354,6 +387,17 @@
    "url": "/haber/imamoglu-ibb-davasindaki-savunmasini-dorduncu-gunde-tamamladi-c4f00b5f/"
   },
   {
+   "id": "10b1c0ef",
+   "title": "Bakan Kurum: 10 ilde turuncu, 26 ilde sarı kodlu uyarı var",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, yarın 10 il için turuncu, 26 il için sarı kodlu meteorolojik uyarı yapıldığını belirterek, vatandaşlardan olası olumsuzluklara karşı dikkatli olmalarını istedi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-10-ilde-turuncu-26-ilde-sari-kodlu-uyari-var-960433.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2492000/istanbul-saganakaa-2492064.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-17T17:06:00+00:00",
+   "url": "/haber/bakan-kurum-10-ilde-turuncu-26-ilde-sari-kodlu-uyari-var-10b1c0ef/"
+  },
+  {
    "id": "740e5c92",
    "title": "Yüksek ses kalitesiyle öne çıkıyor, değiştirilebilir pille fark yaratıyor; Sennheiser Momentum True Wireless 5 incelemesi",
    "summary": "Sennheiser, kablosuz kulaklık tarafındaki deneyimini yeni nesil Momentum True Wireless 5 modeliyle sürdürüyor. Şirketin üst düzey kulak içi kulaklık ailesinin yeni üyesi olan model; ses kalitesi, aktif gürültü…",
@@ -396,6 +440,17 @@
    "category": "gundem",
    "date": "2026-10-17T16:57:51+00:00",
    "url": "/haber/fenerbahce-galatasaray-maci-oncesi-moral-buldu-30777a01/"
+  },
+  {
+   "id": "51101528",
+   "title": "'İmamoğlu çıkar amaçlı suç örgütü' davasında ara karar",
+   "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 53'ü tutuklu 436 sanığın yargılandığı davanın 101. duruşmasında 7 sanığın tahliyesine karar verildi. Duruşma, 2 Kasım Pazartesi gününe ertelendi.",
+   "link": "https://www.trthaber.com/haber/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinda-ara-karar-960432.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2456000/imamoglu-dava-2457293.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-17T16:31:00+00:00",
+   "url": "/haber/imamoglu-cikar-amacli-suc-orgutu-davasinda-ara-karar-51101528/"
   },
   {
    "id": "9f062cf1",
@@ -660,17 +715,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T12:36:35+00:00",
    "url": "/haber/qualcomm-galaxy-s27-ultra-uzerinden-ortaya-atilan-snapdragon-8-elite-e-22ae2dee/"
-  },
-  {
-   "id": "a8238566",
-   "title": "Sel faciasında kaybolan 3 kişi aranıyor",
-   "summary": "İstanbul'da meydana gelen selin ardından kayıp 3 kişiyi arama çalışmaları devam ediyor.",
-   "link": "https://www.ntv.com.tr/turkiye/sel-faciasinda-kaybolan-3-kisi-araniyor-1746737",
-   "image": "https://images.ntv.com.tr/images/kayıp-912053.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-17T12:02:21+00:00",
-   "url": "/haber/sel-faciasinda-kaybolan-3-kisi-araniyor-a8238566/"
   },
   {
    "id": "f01d510b",
@@ -1025,17 +1069,6 @@
    "url": "/haber/bati-seria-da-yahudi-yerlesimciler-zeytin-hasadina-saldirdi-6e981153/"
   },
   {
-   "id": "89db3f85",
-   "title": "ÖSYM İstanbul'da hafta sonu yapılacak sınavları erteledi",
-   "summary": "ÖSYM, İstanbul'da hafta sonu beklenen şiddetli yağış nedeniyle kentte gerçekleştirilecek sınavların ertelendiğini açıkladı.",
-   "link": "https://www.trthaber.com/haber/turkiye/osym-istanbulda-hafta-sonu-yapilacak-sinavlari-erteledi-960357.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1476000/sinav-1476155.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-16T17:54:00+00:00",
-   "url": "/haber/osym-istanbul-da-hafta-sonu-yapilacak-sinavlari-erteledi-89db3f85/"
-  },
-  {
    "id": "91fc7c7b",
    "title": "Kocaeli'de sağanak sonucu kaybolan kişinin cesedi bulundu",
    "summary": "Kocaeli'de etkili olan sağanak sonucu kayıp ihbarı yapılan kişinin cesedine ulaşıldı.",
@@ -1223,28 +1256,6 @@
    "url": "/haber/erdogan-sermaye-piyasalarini-terorize-etmek-ekonominin-altini-oymaktir-3a56af8f/"
   },
   {
-   "id": "c1d02779",
-   "title": "Alo Adalet 135, tüm adliyelerde hizmete sunuldu",
-   "summary": "Adalet Bakanı Akın Gürlek, 1 Eylül'de 3 adliyede pilot olarak uygulamaya alınan Alo Adalet 135 hattının bugün itibarıyla 81 ildeki tüm adliyelerde hizmete sunulduğunu duyurdu.",
-   "link": "https://www.trthaber.com/haber/gundem/alo-adalet-135-tum-adliyelerde-hizmete-sunuldu-960309.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/alo-adalet-2496387.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-16T11:39:00+00:00",
-   "url": "/haber/alo-adalet-135-tum-adliyelerde-hizmete-sunuldu-c1d02779/"
-  },
-  {
-   "id": "2708deed",
-   "title": "Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin, son yolculuğuna uğurlandı",
-   "summary": "Düzce'de trafik kazası sonucu hayatını kaybeden Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin için Marmara İlahiyat Camii'nde cenaze töreni düzenlendi.",
-   "link": "https://www.trthaber.com/haber/gundem/uskudar-belediye-baskan-vekili-dundar-ziya-gultekin-son-yolculuguna-ugurlandi-960307.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/cenaze-gultekin-2496370.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-16T11:06:00+00:00",
-   "url": "/haber/uskudar-belediye-baskan-vekili-dundar-ziya-gultekin-son-yolculuguna-ug-2708deed/"
-  },
-  {
    "id": "253adbeb",
    "title": "Halk TV'nin ardından: YouTube televizyonun yerini tutabilir mi?",
    "summary": "Türkiye’de eleştirel yayın yapan medya kuruluşlarının azalması, farklı seslerin duyulmasını ve kamuoyunun haber alma imkânlarını nasıl etkiliyor? Halk TV’ye kayyum atanmasının ardından uzmanlar, medyada çoğulculuğun…",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-10-16T09:57:13+00:00",
    "url": "/haber/halk-tv-nin-ardindan-youtube-televizyonun-yerini-tutabilir-mi-253adbeb/"
-  },
-  {
-   "id": "e560a173",
-   "title": "İstanbul'da para aklama soruşturması: 6 gözaltı kararı",
-   "summary": "İstanbul Cumhuriyet Başsavcılığınca kaynağı belirsiz paraların aklanması ve tehdit iddialarına yönelik yürütülen soruşturma kapsamında, Murat Ağırel, Emir Sarıgül ve Aylin Kotil'in de aralarında bulunduğu 6 şüpheli…",
-   "link": "https://www.trthaber.com/haber/gundem/istanbulda-para-aklama-sorusturmasi-6-gozalti-karari-960260.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2416000/istanbul-adalet-sarayi-2416161.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-16T05:45:00+00:00",
-   "url": "/haber/istanbul-da-para-aklama-sorusturmasi-6-gozalti-karari-e560a173/"
   }
  ]
 }
