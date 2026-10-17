@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-17T21:30:55.847953+00:00",
+ "updated": "2026-10-17T21:43:23.516821+00:00",
  "items": [
+  {
+   "id": "6e071ab0",
+   "title": "Takasbank'tan TPP ve TEFAS iddialarına ilişkin açıklama",
+   "summary": "Takasbank, Takasbank Para Piyasası (TPP) aracılığıyla belirli kişi ve kuruluşlara finansman sağlandığı yönündeki iddialara ilişkin açıklama yaptı.",
+   "link": "https://www.ntv.com.tr/turkiye/takasbanktan-tpp-ve-tefas-iddialarina-iliskin-aciklama-1746780",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_a6fcbf20ee73c226c4117d77ea6f8332-640765.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-17T21:33:24+00:00",
+   "url": "/haber/takasbank-tan-tpp-ve-tefas-iddialarina-iliskin-aciklama-6e071ab0/"
+  },
   {
    "id": "6c5095cc",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Ekim 2026",
@@ -24,6 +35,17 @@
    "url": "/haber/suudi-arabistan-in-baskenti-riyad-ile-abha-ve-hamis-musayt-kentlerinde-4d14fb30/"
   },
   {
+   "id": "74c687c6",
+   "title": "Sağanak İstanbul'un Anadolu Yakası'nda hayatı olumsuz etkiledi",
+   "summary": "İstanbul'da aralıklarla devam eden sağanak Anadolu Yakası'nda hayatı olumsuz etkiledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/saganak-istanbulun-anadolu-yakasinda-hayati-olumsuz-etkiledi/4092315",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T21:25:30+00:00",
+   "url": "/haber/saganak-istanbul-un-anadolu-yakasi-nda-hayati-olumsuz-etkiledi-74c687c6/"
+  },
+  {
    "id": "cb39ccb9",
    "title": "Bakan Bolat duyurdu. Selden etkilenen esnafa destek",
    "summary": "Ticaret Bakanı Ömer Bolat,, İstanbul'daki sel felaketinden etkilenen esnaflara 80 milyon lira nakdi destek sağlanacağını duyurdu.",
@@ -33,6 +55,17 @@
    "category": "gundem",
    "date": "2026-10-17T21:13:35+00:00",
    "url": "/haber/bakan-bolat-duyurdu-selden-etkilenen-esnafa-destek-cb39ccb9/"
+  },
+  {
+   "id": "bd353252",
+   "title": "ABD'de, Trump yönetimine karşı \"Krallara Hayır\" protestosu düzenlendi",
+   "summary": "ABD genelinde, \"Krallara Hayır (No Kings)\" protestolarında bir araya gelenler, Başkan Donald Trump'ın politikalarına yönelik tepkilerini ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-trump-yonetimine-karsi-krallara-hayir-protestosu-duzenlendi/4092308",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T21:11:22+00:00",
+   "url": "/haber/abd-de-trump-yonetimine-karsi-krallara-hayir-protestosu-duzenlendi-bd353252/"
   },
   {
    "id": "1c8885e3",
@@ -299,17 +332,6 @@
    "url": "/haber/qualcomm-dan-snapdragon-8-elite-extreme-gen-6-nin-isinma-iddialarina-y-589f3e89/"
   },
   {
-   "id": "e4e396eb",
-   "title": "Türkiye'nin Bakü Büyükelçiliğinden Bakan Fidan hakkındaki iddialara yalanlama",
-   "summary": "Türkiye'nin Bakü Büyükelçiliği, Dışişleri Bakanı Hakan Fidan'ın Azerbaycan ziyareti sırasında \"gizli görüşme gerçekleştirdiği\"ne ilişkin bazı haberlerde yer alan iddiaların asılsız olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/turkiyenin-baku-buyukelciliginden-bakan-fidan-hakkindaki-iddialara-yalanlama/4092215",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T17:58:46+00:00",
-   "url": "/haber/turkiye-nin-baku-buyukelciliginden-bakan-fidan-hakkindaki-iddialara-ya-e4e396eb/"
-  },
-  {
    "id": "1be39aca",
    "title": "Türkiye, uluslararası keskin nişancı yarışmasında birinci oldu",
    "summary": "Türkiye, 20 ülkeden 96 personelin katıldığı 8. BORAN Uluslararası Keskin Nişancı Yarışması'nda birincilik elde etti. Polis Özel Harekat Başkanlığı takımı birinci, Özel Kuvvetler Komutanlığı takımı ikinci, Kara…",
@@ -319,17 +341,6 @@
    "category": "gundem",
    "date": "2026-10-17T17:55:00+00:00",
    "url": "/haber/turkiye-uluslararasi-keskin-nisanci-yarismasinda-birinci-oldu-1be39aca/"
-  },
-  {
-   "id": "54f58b04",
-   "title": "Cumhurbaşkanı Erdoğan, vefatının 8. yılında Ara Güler'i andı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, duayen foto muhabiri Ara Güler'i vefatının 8'inci yılında yad etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-vefatinin-8-yilinda-ara-guleri-andi/4092207",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T17:50:52+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-vefatinin-8-yilinda-ara-guler-i-andi-54f58b04/"
   },
   {
    "id": "f6883cc4",
@@ -660,17 +671,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T14:00:00+00:00",
    "url": "/haber/cin-den-gelismis-cip-uretimi-icin-kritik-adim-yerli-euv-isik-kaynagi-g-fc6da9dc/"
-  },
-  {
-   "id": "34ab8ffd",
-   "title": "Sel sonrası İstanbul'un şebeke suyuna kanalizasyon suyu mu karıştı? İSKİ'den açıklama",
-   "summary": "İSKİ, İstanbul'da sel faciasının ardından şebeke suyuna kanalizasyon suyu karıştığı ve musluk suyunun tüketilmemesi gerektiği iddiasını yalanladı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sel-sonrasi-istanbulun-sebeke-suyuna-kanalizasyon-suyu-mu-karisti-iskiden-aciklama-1746742",
-   "image": "https://images.ntv.com.tr/images/11-106641.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-17T13:23:31+00:00",
-   "url": "/haber/sel-sonrasi-istanbul-un-sebeke-suyuna-kanalizasyon-suyu-mu-karisti-isk-34ab8ffd/"
   },
   {
    "id": "1bfc0ab9",
