@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-17T15:01:09.219128+00:00",
+ "updated": "2026-10-17T15:30:57.469240+00:00",
  "items": [
+  {
+   "id": "27ea0e96",
+   "title": "NASA’nın Mars aracı rekor kırdı: Gözünü 100 kilometreye dikti",
+   "summary": "NASA’nın Perseverance aracı, Mars’ta 45,22 kilometre yol katederek rekor kırdı. İlk görev hedefini çoktan aşan keşif aracının 100 kilometreye ulaşması bekleniyor.",
+   "link": "https://www.donanimhaber.com/nasa-nin-mars-araci-rekor-kirdi-gozunu-100-kilometreye-dikti--211755",
+   "image": "https://www.donanimhaber.com/images/images/haber/211755/1200x675nasa-nin-mars-araci-rekor-kirdi-gozunu-100-kilometreye-dikti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-17T15:30:00+00:00",
+   "url": "/haber/nasa-nin-mars-araci-rekor-kirdi-gozunu-100-kilometreye-dikti-27ea0e96/"
+  },
+  {
+   "id": "d0975b2f",
+   "title": "Bağdat’ta Haşdi Şabi karargahı yakınında patlama meydana geldi",
+   "summary": "Irak’ın başkenti Bağdat’ta Haşdi Şabi güçlerinin konuşlandığı karargahın yakınında patlama meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bagdat-ta-hasdi-sabi-karargahi-yakininda-patlama-meydana-geldi/4092116",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T15:20:48+00:00",
+   "url": "/haber/bagdat-ta-hasdi-sabi-karargahi-yakininda-patlama-meydana-geldi-d0975b2f/"
+  },
   {
    "id": "72dc9118",
    "title": "Honor Win 2 Performans Testinde Zirveye Oynuyor",
@@ -22,6 +44,17 @@
    "category": "teknoloji",
    "date": "2026-10-17T15:00:00+00:00",
    "url": "/haber/oneplus-ace-7-pro-nun-cift-renkli-tasarimi-ortaya-cikti-ad2d1e22/"
+  },
+  {
+   "id": "145a49ae",
+   "title": "Yapay zeka ajanlarının siber güvenlikte kullanımı eğitimi",
+   "summary": "Kamu Siber Güvenlik Derneği tarafından Ankara Yıldırım Beyazıt Üniversitesi ev sahipliğinde düzenlenen \"Siber Güvenlik Eğitim Serisi - 6\" kapsamında, \"Uygulamalı Agentic Siber Güvenlik Eğitimi\" gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yapay-zeka-ajanlarinin-siber-guvenlikte-kullanimi-egitimi/4092108",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T14:59:44+00:00",
+   "url": "/haber/yapay-zeka-ajanlarinin-siber-guvenlikte-kullanimi-egitimi-145a49ae/"
   },
   {
    "id": "5a92d4d7",
@@ -110,6 +143,28 @@
    "category": "gundem",
    "date": "2026-10-17T14:17:50+00:00",
    "url": "/haber/disisleri-bakani-hakan-fidan-irak-ta-iran-irak-ve-misirli-mevkidaslari-cdab2a30/"
+  },
+  {
+   "id": "05611e13",
+   "title": "Amed Sportif Faaliyetler, sahasında TÜMOSAN Konyaspor'u 1-0 yendi",
+   "summary": "Trendyol Süper Lig'in 8. haftasında Amed Sportif Faaliyetler, sahasında TÜMOSAN Konyaspor'u 1-0 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/amed-sportif-faaliyetler-sahasinda-tumosan-konyasporu-1-0-yendi/4092062",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T14:05:35+00:00",
+   "url": "/haber/amed-sportif-faaliyetler-sahasinda-tumosan-konyaspor-u-1-0-yendi-05611e13/"
+  },
+  {
+   "id": "97f7241e",
+   "title": "Galatasaray, Gençlerbirliği karşısında 3 puanı tek golle aldı",
+   "summary": "Trendyol Süper Lig'in 8. haftasında Galatasaray, deplasmanda Gençlerbirliği'ni 1-0 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-genclerbirligi-karsisinda-3-puani-tek-golle-aldi/4092057",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T14:01:32+00:00",
+   "url": "/haber/galatasaray-genclerbirligi-karsisinda-3-puani-tek-golle-aldi-97f7241e/"
   },
   {
    "id": "79a37fc1",
@@ -409,28 +464,6 @@
    "url": "/haber/honor-win-2-antutu-testinde-5-7-milyon-puanla-rekor-kirdi-7c6cca32/"
   },
   {
-   "id": "9cd8f506",
-   "title": "1. Tıp ve Adalet Sempozyumu İstanbul'da başladı",
-   "summary": "Sağlık Bakanlığı ile Adalet Bakanlığı işbirliğinde düzenlenen 1. Tıp ve Adalet Sempozyumu başladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/1-tip-ve-adalet-sempozyumu-istanbulda-basladi/4091941",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T11:51:05+00:00",
-   "url": "/haber/1-tip-ve-adalet-sempozyumu-istanbul-da-basladi-9cd8f506/"
-  },
-  {
-   "id": "f581e0b2",
-   "title": "Bakan Gürlek: Devlet, milletine hizmet etmekle yükümlüdür",
-   "summary": "Adalet Bakanı Akın Gürlek, devletin millete hizmet etmekle yükümlü olduğunu belirterek, \"Bütün kurumların ortak sorumluluğu, vatandaşların huzur ve güven içinde yaşayacağı adil şartları oluşturmak ve birey ile toplumun…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-devlet-milletine-hizmet-etmekle-yukumludur/4091940",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T11:49:57+00:00",
-   "url": "/haber/bakan-gurlek-devlet-milletine-hizmet-etmekle-yukumludur-f581e0b2/"
-  },
-  {
    "id": "f150b60a",
    "title": "Selde tebessüm ettiren anlar. Jandarma bebeği kucağında uyutarak kurtardı",
    "summary": "Sakarya'da bir jandarma personelinin, selden teleferik sistemiyle kurtardığı bebeği kucağında uyutması yürekleri ısıttı.",
@@ -440,17 +473,6 @@
    "category": "gundem",
    "date": "2026-10-17T11:48:32+00:00",
    "url": "/haber/selde-tebessum-ettiren-anlar-jandarma-bebegi-kucaginda-uyutarak-kurtar-f150b60a/"
-  },
-  {
-   "id": "e6b4dfb5",
-   "title": "Bakan Memişoğlu: Vatandaşlarımızın sağlık hizmetlerine erişimini kolaylaştırdık",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Modern şehir hastanelerimiz, gelişmiş tıp teknolojimiz ve fedakar sağlık çalışanlarımızla vatandaşlarımızın sağlık hizmetlerine erişimini kolaylaştırdık.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-vatandaslarimizin-saglik-hizmetlerine-erisimini-kolaylastirdik/4091937",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T11:48:31+00:00",
-   "url": "/haber/bakan-memisoglu-vatandaslarimizin-saglik-hizmetlerine-erisimini-kolayl-e6b4dfb5/"
   },
   {
    "id": "22d49d1f",
@@ -561,17 +583,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T10:31:02+00:00",
    "url": "/haber/elon-musk-x-te-artik-gorsel-acidan-kotu-gorunen-reklamlara-izin-verilm-a71020d7/"
-  },
-  {
-   "id": "7bd195ae",
-   "title": "Cumhurbaşkanı Erdoğan: 2026 yılı bitmeden 38 bin hekim dışı personel alma ilanına çıkacağız",
-   "summary": "Cumhurbaşkanı Erdoğan, \"2026 yılı bitmeden 38 bin hekim dışı personel alma ilanına çıkacağımızın müjdesini burada sizlerle paylaşıyorum.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-2026-yili-bitmeden-38-bin-hekim-disi-personel-alma-ilanina-cikacagiz/4091871",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T10:15:07+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-2026-yili-bitmeden-38-bin-hekim-disi-personel-al-7bd195ae/"
   },
   {
    "id": "f80b311f",
@@ -825,17 +836,6 @@
    "category": "gundem",
    "date": "2026-10-17T07:34:00+00:00",
    "url": "/haber/meclis-te-butce-maratonu-21-ekim-de-baslayacak-0f4c3317/"
-  },
-  {
-   "id": "cd55b2d3",
-   "title": "Apple Intelligence sonunda Çin'e geliyor: Siri AI yine yok",
-   "summary": "Apple, yapay zeka özelliklerini Çin'deki iPhone kullanıcılarına sunmaya hazırlanıyor. Ancak Apple Intelligence, ülkedeki yasal düzenlemeler nedeniyle bazı önemli özelliklerden yoksun olacak.",
-   "link": "https://www.donanimhaber.com/apple-intelligence-sonunda-cin-e-geliyor-siri-ai-yine-yok--211749",
-   "image": "https://www.donanimhaber.com/images/images/haber/211749/1200x675apple-intelligence-sonunda-cin-e-geliyor-siri-ai-yine-yok.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-17T07:30:00+00:00",
-   "url": "/haber/apple-intelligence-sonunda-cin-e-geliyor-siri-ai-yine-yok-cd55b2d3/"
   },
   {
    "id": "7e56d7af",
