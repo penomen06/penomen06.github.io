@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-17T16:38:24.642794+00:00",
+ "updated": "2026-10-17T17:01:05.359459+00:00",
  "items": [
+  {
+   "id": "0b0630c5",
+   "title": "Google Play’de Sahte WhatsApp Tehlikesi: 500 Bin Kişi İndirmiş",
+   "summary": "Google Play'de orijinalini taklit eden sahte WhatsApp uygulaması 500 bin indirmeyi aştı. Kullanıcıları uyaran detaylar haberimizde.",
+   "link": "https://shiftdelete.net/google-play-sahte-whatsapp-uygulamasi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-17T17:00:21+00:00",
+   "url": "/haber/google-play-de-sahte-whatsapp-tehlikesi-500-bin-kisi-indirmis-0b0630c5/"
+  },
+  {
+   "id": "339b8578",
+   "title": "Telegram, kişiselleştirilmiş haber akışı özelliği geliştiriyor",
+   "summary": "Telegram, macOS beta sürümünde ortaya çıkan yeni haber akışı özelliğiyle takip edilen kanalları ve kişiselleştirilmiş içerik önerilerini tek bir bölümde birleştirmeye hazırlanıyor.",
+   "link": "https://www.donanimhaber.com/telegram-kisisellestirilmis-haber-akisi-ozelligi-gelistiriyor--211768",
+   "image": "https://www.donanimhaber.com/images/images/haber/211768/1200x675telegram-kisisellestirilmis-haber-akisi-ozelligi-gelistiriyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-17T17:00:00+00:00",
+   "url": "/haber/telegram-kisisellestirilmis-haber-akisi-ozelligi-gelistiriyor-339b8578/"
+  },
+  {
+   "id": "a034d94a",
+   "title": "İBB davasında yeni gelişme. 7 tutuklu sanık tahliye edildi",
+   "summary": "İstanbul Büyükşehir Belediyesi'ne yönelik yolsuzluk davasında 7 tutuklu sanık tahliye edildi. Kararın ardından davada 46 tutuklu sanık kaldı.",
+   "link": "https://www.ntv.com.tr/turkiye/ibb-davasinda-yeni-gelisme-7-tutuklu-sanik-tahliye-edildi-1746765",
+   "image": "https://images.ntv.com.tr/images/ibbbinası-486561(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-17T16:49:32+00:00",
+   "url": "/haber/ibb-davasinda-yeni-gelisme-7-tutuklu-sanik-tahliye-edildi-a034d94a/"
+  },
+  {
+   "id": "65fc2dd2",
+   "title": "Savunma ve havacılık sanayisi 2026'da 15 milyar dolarlık yeni iş aldı",
+   "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Görgün, 2026 içinde sektördeki firmalarla 15 milyar dolarlık yeni sözleşme imzaladığını, yıl sonuna kadar bu rakamın 20 milyar dolara ulaşmasını öngördüklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/savunma-ve-havacilik-sanayisi-2026da-15-milyar-dolarlik-yeni-is-aldi/4092177",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T16:45:00+00:00",
+   "url": "/haber/savunma-ve-havacilik-sanayisi-2026-da-15-milyar-dolarlik-yeni-is-aldi-65fc2dd2/"
+  },
+  {
+   "id": "03454237",
+   "title": "Savunma ve havacılık sanayisi 2026'da 15 milyar dolarlık yeni iş aldı",
+   "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, 2026 içinde sektördeki firmalarla 15 milyar dolarlık yeni sözleşme imzaladığını, yıl sonuna kadar bu rakamın 20 milyar dolara ulaşmasını öngördüklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/savunma-ve-havacilik-sanayisi-2026da-15-milyar-dolarlik-yeni-is-aldi/4092176",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T16:45:00+00:00",
+   "url": "/haber/savunma-ve-havacilik-sanayisi-2026-da-15-milyar-dolarlik-yeni-is-aldi-03454237/"
+  },
+  {
+   "id": "30deaa46",
+   "title": "Cumhurbaşkanı Erdoğan'dan yazar Cevat Özkaya için taziye",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, kolon kanseri nedeniyle 72 yaşında hayatını kaybeden Pınar Yayınları'nın kurucularından, Genel Yayın Yönetmeni ve yazar Cevat Özkaya için taziye mesajı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-yazar-cevat-ozkaya-icin-taziye/4092173",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T16:40:58+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-dan-yazar-cevat-ozkaya-icin-taziye-30deaa46/"
+  },
   {
    "id": "9f062cf1",
    "title": "Tüm mantar ilaçlarına dirençli ölümcül mantar geri döndü",
@@ -11,17 +77,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T16:30:00+00:00",
    "url": "/haber/tum-mantar-ilaclarina-direncli-olumcul-mantar-geri-dondu-9f062cf1/"
-  },
-  {
-   "id": "a034d94a",
-   "title": "İBB davasında yeni gelişme. 7 tutuklu sanık tahliye edildi",
-   "summary": "İstanbul Büyükşehir Belediyesi'ne yönelik yolsuzluk davasında 7 tutuklu sanık tahliye edildi. Kararın ardından davada 46 tutuklu sanık kaldı.",
-   "link": "https://www.ntv.com.tr/turkiye/ibb-davasinda-yeni-gelisme-7-tutuklu-sanik-tahliye-edildi-1746765",
-   "image": "https://images.ntv.com.tr/images/ibbbinası-486561(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-17T16:29:00+00:00",
-   "url": "/haber/ibb-davasinda-yeni-gelisme-7-tutuklu-sanik-tahliye-edildi-a034d94a/"
   },
   {
    "id": "9ee43831",
@@ -245,14 +300,14 @@
   },
   {
    "id": "c4f00b5f",
-   "title": "İmamoğlu savunmasının dördüncü günü: 'Bu bir siyasi davadır'",
+   "title": "İmamoğlu İBB davasındaki savunmasını dördüncü günde tamamladı, çapraz sorgu yapıldı",
    "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, 14 Ekim'de başladığı İBB davasındaki savunmasını dördüncü gününde tamamladı.",
    "link": "https://www.bbc.com/turkce/articles/cmlyd2xp1jxwo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b208/live/956aaff0-ca1f-11f1-a718-8f4bc8d2cdf5.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-10-17T14:31:29+00:00",
-   "url": "/haber/imamoglu-savunmasinin-dorduncu-gunu-bu-bir-siyasi-davadir-c4f00b5f/"
+   "url": "/haber/imamoglu-ibb-davasindaki-savunmasini-dorduncu-gunde-tamamladi-capraz-s-c4f00b5f/"
   },
   {
    "id": "965d1518",
@@ -332,28 +387,6 @@
    "url": "/haber/cin-den-gelismis-cip-uretimi-icin-kritik-adim-yerli-euv-isik-kaynagi-g-fc6da9dc/"
   },
   {
-   "id": "358c3453",
-   "title": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da Batılı diplomatların araçlarına saldırdı",
-   "summary": "Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria'da çoğunlukla Hristiyanların yaşadığı Taybe beldesindeki zeytin hasadına giden Fransız, Belçikalı ve Polonyalı diplomatların araçlarına saldırdı.",
-   "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-batili-diplomatlarin-araclarina-saldirdi/4092033",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T13:39:46+00:00",
-   "url": "/haber/filistin-topraklarini-gasbeden-israilliler-bati-seria-da-batili-diplom-358c3453/"
-  },
-  {
-   "id": "74d5fba9",
-   "title": "Terörist Mihraç Ural'ın yakalanması Reyhanlı saldırısında yakınlarını kaybedenlerin acısını hafifletti",
-   "summary": "Hatay'ın Reyhanlı ilçesinde 2013 yılında 53 kişinin hayatını kaybettiği bombalı saldırıların sanığı terörist Mihraç Ural'ın yakalanması, yakınlarını kaybeden ailelere buruk sevinç yaşattı.",
-   "link": "https://www.aa.com.tr/tr/gundem/terorist-mihrac-uralin-yakalanmasi-reyhanli-saldirisinda-yakinlarini-kaybedenlerin-acisini-hafifletti/4092032",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T13:39:16+00:00",
-   "url": "/haber/terorist-mihrac-ural-in-yakalanmasi-reyhanli-saldirisinda-yakinlarini-74d5fba9/"
-  },
-  {
    "id": "1b127a86",
    "title": "Milli motosikletçi Can Öncü, İspanya'da 3'üncü oldu",
    "summary": "Milli motosikletçi Can Öncü, İspanya'da Dünya Supersport Şampiyonası'nda 3. olarak podyuma çıkma sevinci yaşadı.",
@@ -418,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T13:00:58+00:00",
    "url": "/haber/huawei-den-avrupa-nin-dijital-ve-yesil-donusumune-destek-1bfc0ab9/"
-  },
-  {
-   "id": "bebca0e1",
-   "title": "İran Dışişleri Bakanı Erakçi: Yedi günlük programı açıkladık, seçim ABD'nin",
-   "summary": "İran Dışişleri Bakanı Abbas Erakçi, ülkesinin Hürmüz Boğazı’nın açılması için öne sürdüğü şartlara ilişkin, “Yedi günlük programı açıkladık, seçim ABD'nin.” dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-yedi-gunluk-programi-acikladik-secim-abdnin/4091989",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T13:00:49+00:00",
-   "url": "/haber/iran-disisleri-bakani-erakci-yedi-gunluk-programi-acikladik-secim-abd-bebca0e1/"
   },
   {
    "id": "d652f149",
@@ -671,17 +693,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T10:00:02+00:00",
    "url": "/haber/bir-donemin-efsanesi-gta-san-andreas-ve-basari-hikayesi-e05bf1a0/"
-  },
-  {
-   "id": "fa8fd087",
-   "title": "Sahte WhatsApp uygulaması Google Play'de 500 bin indirmeyi aştı",
-   "summary": "WhatsApp'ın tasarımını ve açıklama metinlerini taklit eden sahte bir uygulama, Google Play'de 500 binden fazla indirildi. Uygulamanın reklamlı arama sonuçlarında da gösterildiği bildirildi.",
-   "link": "https://www.donanimhaber.com/sahte-whatsapp-uygulamasi-google-play-de-500-bin-indirmeyi-asti--211757",
-   "image": "https://www.donanimhaber.com/images/images/haber/211757/1200x675sahte-whatsapp-uygulamasi-google-play-de-500-bin-indirmeyi-asti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-17T10:00:00+00:00",
-   "url": "/haber/sahte-whatsapp-uygulamasi-google-play-de-500-bin-indirmeyi-asti-fa8fd087/"
   },
   {
    "id": "bf1602ac",
@@ -946,17 +957,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T06:00:45+00:00",
    "url": "/haber/whatsapp-android-de-tasarimini-kucuk-de-olsa-yeniliyor-f1918120/"
-  },
-  {
-   "id": "a8bf8a1e",
-   "title": "iPhone 18 Pro ve Pro Max Rekor Kırdı",
-   "summary": "Apple'ın iPhone 18 Pro ve Pro Max modelleri Çin pazarında 4 milyon satışı aşarak büyük bir rekora imza attı. İşte satış rakamları ve detaylar.",
-   "link": "https://shiftdelete.net/iphone-18-pro-ve-pro-max-rekor-kirdi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-17T05:45:58+00:00",
-   "url": "/haber/iphone-18-pro-ve-pro-max-rekor-kirdi-a8bf8a1e/"
   },
   {
    "id": "1ec36c10",
