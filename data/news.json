@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-17T17:01:05.359459+00:00",
+ "updated": "2026-10-17T17:30:58.330762+00:00",
  "items": [
+  {
+   "id": "6107d8ca",
+   "title": "Küçükçekmece’de 7 katlı bina tahliye edildi. Çatlama sesleri geldi",
+   "summary": "Küçükçekmece’de, bir dairenin banyosundaki fayanslardaki çatlama ve binada çatlama sesleri nedeniyle 7 katlı bina tedbir amacıyla tahliye edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/kucukcekmecede-7-katli-bina-tahliye-edildi-catlama-sesleri-geldi-1746767",
+   "image": "https://images.ntv.com.tr/images/AW812541_01-311153.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-17T17:24:33+00:00",
+   "url": "/haber/kucukcekmece-de-7-katli-bina-tahliye-edildi-catlama-sesleri-geldi-6107d8ca/"
+  },
+  {
+   "id": "c4f00b5f",
+   "title": "İmamoğlu İBB davasındaki savunmasını dördüncü günde tamamladı",
+   "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, 14 Ekim'de başladığı İBB davasındaki savunmasını dördüncü gününde tamamladı.",
+   "link": "https://www.bbc.com/turkce/articles/cmlyd2xp1jxwo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b208/live/956aaff0-ca1f-11f1-a718-8f4bc8d2cdf5.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-17T17:09:34+00:00",
+   "url": "/haber/imamoglu-ibb-davasindaki-savunmasini-dorduncu-gunde-tamamladi-c4f00b5f/"
+  },
+  {
+   "id": "ae7c9e48",
+   "title": "Takasbank'tan TPP ve TEFAS işlemlerine ilişkin açıklama",
+   "summary": "İstanbul Takas ve Saklama Bankası, Takasbank Para Piyasası üzerinden belirli kişi ve kuruluşlara finansman sağlandığı yönündeki iddiaların gerçeği yansıtmadığını belirterek, bankanın kendi kaynaklarından herhangi bir…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/takasbanktan-tpp-ve-tefas-islemlerine-iliskin-aciklama/4092190",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T17:02:43+00:00",
+   "url": "/haber/takasbank-tan-tpp-ve-tefas-islemlerine-iliskin-aciklama-ae7c9e48/"
+  },
+  {
+   "id": "740e5c92",
+   "title": "Yüksek ses kalitesiyle öne çıkıyor, değiştirilebilir pille fark yaratıyor; Sennheiser Momentum True Wireless 5 incelemesi",
+   "summary": "Sennheiser, kablosuz kulaklık tarafındaki deneyimini yeni nesil Momentum True Wireless 5 modeliyle sürdürüyor. Şirketin üst düzey kulak içi kulaklık ailesinin yeni üyesi olan model; ses kalitesi, aktif gürültü…",
+   "link": "https://www.log.com.tr/sennheiser-momentum-true-wireless-5-incelemesi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/09/sennheiser-133-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-17T17:00:25+00:00",
+   "url": "/haber/yuksek-ses-kalitesiyle-one-cikiyor-degistirilebilir-pille-fark-yaratiy-740e5c92/"
+  },
   {
    "id": "0b0630c5",
    "title": "Google Play’de Sahte WhatsApp Tehlikesi: 500 Bin Kişi İndirmiş",
@@ -24,6 +68,17 @@
    "url": "/haber/telegram-kisisellestirilmis-haber-akisi-ozelligi-gelistiriyor-339b8578/"
   },
   {
+   "id": "0c2a4bc1",
+   "title": "Bakan Kurum: Yarın 10 ilimiz için turuncu, 26 ilimiz için sarı kodlu uyarı bulunuyor",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, yarın 10 il için turuncu, 26 il için sarı kodlu meteorolojik uyarı yapıldığını belirterek, vatandaşlardan olası olumsuzluklara karşı dikkatli olmalarını istedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-yarin-10-ilimiz-icin-turuncu-26-ilimiz-icin-sari-kodlu-uyari-bulunuyor/4092188",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T16:59:59+00:00",
+   "url": "/haber/bakan-kurum-yarin-10-ilimiz-icin-turuncu-26-ilimiz-icin-sari-kodlu-uya-0c2a4bc1/"
+  },
+  {
    "id": "a034d94a",
    "title": "İBB davasında yeni gelişme. 7 tutuklu sanık tahliye edildi",
    "summary": "İstanbul Büyükşehir Belediyesi'ne yönelik yolsuzluk davasında 7 tutuklu sanık tahliye edildi. Kararın ardından davada 46 tutuklu sanık kaldı.",
@@ -33,17 +88,6 @@
    "category": "gundem",
    "date": "2026-10-17T16:49:32+00:00",
    "url": "/haber/ibb-davasinda-yeni-gelisme-7-tutuklu-sanik-tahliye-edildi-a034d94a/"
-  },
-  {
-   "id": "65fc2dd2",
-   "title": "Savunma ve havacılık sanayisi 2026'da 15 milyar dolarlık yeni iş aldı",
-   "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Görgün, 2026 içinde sektördeki firmalarla 15 milyar dolarlık yeni sözleşme imzaladığını, yıl sonuna kadar bu rakamın 20 milyar dolara ulaşmasını öngördüklerini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/savunma-ve-havacilik-sanayisi-2026da-15-milyar-dolarlik-yeni-is-aldi/4092177",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T16:45:00+00:00",
-   "url": "/haber/savunma-ve-havacilik-sanayisi-2026-da-15-milyar-dolarlik-yeni-is-aldi-65fc2dd2/"
   },
   {
    "id": "03454237",
@@ -299,17 +343,6 @@
    "url": "/haber/adana-da-saganak-su-baskinlarina-neden-oldu-f03e5e02/"
   },
   {
-   "id": "c4f00b5f",
-   "title": "İmamoğlu İBB davasındaki savunmasını dördüncü günde tamamladı, çapraz sorgu yapıldı",
-   "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, 14 Ekim'de başladığı İBB davasındaki savunmasını dördüncü gününde tamamladı.",
-   "link": "https://www.bbc.com/turkce/articles/cmlyd2xp1jxwo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b208/live/956aaff0-ca1f-11f1-a718-8f4bc8d2cdf5.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-17T14:31:29+00:00",
-   "url": "/haber/imamoglu-ibb-davasindaki-savunmasini-dorduncu-gunde-tamamladi-capraz-s-c4f00b5f/"
-  },
-  {
    "id": "965d1518",
    "title": "Tablet karşılaştırma rehberi: Hangi donanım kime uygun?",
    "summary": "Hangi tableti almalıyım, iş, oyun, günlük kullanım için hangi tableti almak mantıklı diyenler buraya! Sizin için en uygun tablet önerileri tablet karşılaştırma rehberinde sizlerle.",
@@ -385,17 +418,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T14:00:00+00:00",
    "url": "/haber/cin-den-gelismis-cip-uretimi-icin-kritik-adim-yerli-euv-isik-kaynagi-g-fc6da9dc/"
-  },
-  {
-   "id": "1b127a86",
-   "title": "Milli motosikletçi Can Öncü, İspanya'da 3'üncü oldu",
-   "summary": "Milli motosikletçi Can Öncü, İspanya'da Dünya Supersport Şampiyonası'nda 3. olarak podyuma çıkma sevinci yaşadı.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-motosikletci-can-oncu-ispanyada-3uncu-oldu-/4092027",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T13:37:14+00:00",
-   "url": "/haber/milli-motosikletci-can-oncu-ispanya-da-3-uncu-oldu-1b127a86/"
   },
   {
    "id": "3d801da3",
@@ -572,17 +594,6 @@
    "category": "gundem",
    "date": "2026-10-17T11:47:34+00:00",
    "url": "/haber/istanbul-da-selin-surukledigi-araclar-otoparka-cekildi-22d49d1f/"
-  },
-  {
-   "id": "9e6c6c7e",
-   "title": "Toplumsal şiddet neden artıyor?",
-   "summary": "Ankara’da düzenlenen Ulusal Psikiyatri Kongresi’nde, ruh sağlığının güncel sorunları masaya yatırıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-toplumsal-siddet-neden-artiyor-1746725",
-   "image": "https://images.ntv.com.tr/images/iStock-1248753658-845217.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-17T11:32:26+00:00",
-   "url": "/haber/toplumsal-siddet-neden-artiyor-9e6c6c7e/"
   },
   {
    "id": "981d2d52",
@@ -814,17 +825,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T08:37:22+00:00",
    "url": "/haber/turk-hava-yollari-ve-cfm-600-den-fazla-leap-1b-motoru-icin-mutabakat-a-5a49605a/"
-  },
-  {
-   "id": "48315ad4",
-   "title": "Jeep, 2030 yılına kadar Avrupa’daki ürün gamını altı modele kadar genişletmeyi hedefliyor",
-   "summary": "Jeep, 2030 yılına kadar Avrupa’daki ürün gamını altı modele kadar genişletmeyi hedeflediğini duyurdu. Bu konuda şirketten yapılan resmi açıklamada, “Jeep, Paris Otomobil Fuarı’nda Avrupa’daki büyüme planının yeni…",
-   "link": "https://www.log.com.tr/jeep-2030-yilina-kadar-urun-gamini-alti-modele-kadar-genisletmeyi-hedefliyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-17_11-32-14_BB4bD-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-17T08:33:27+00:00",
-   "url": "/haber/jeep-2030-yilina-kadar-avrupa-daki-urun-gamini-alti-modele-kadar-genis-48315ad4/"
   },
   {
    "id": "f79e218d",
