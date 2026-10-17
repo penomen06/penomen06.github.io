@@ -1,6 +1,160 @@
 {
- "updated": "2026-10-17T07:01:07.707068+00:00",
+ "updated": "2026-10-17T07:30:58.720726+00:00",
  "items": [
+  {
+   "id": "e51ca6cf",
+   "title": "Apple, App Store kurallarını yapay zekayla üretilen cinsel içeriklere karşı sıkılaştırdı",
+   "summary": "Apple, App Store kurallarında yaptığı güncellemeyle artık yapay zeka araçlarıyla üretilenler de dahil olmak üzere rıza dışı mahrem/cinsel içerikleri görüntüleri, uygulamaların “önceden” engellemesi ve kaldırması gereken…",
+   "link": "https://www.log.com.tr/apple-app-store-kurallarini-yapay-zekayla-uretilen-cinsel-iceriklere-karsi-sikilastirdi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2023/12/apple-app-store-icin-yeni-bir-abonelik-temelli-fiyatlandirma-sistemi-duyurdu-22-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-17T07:27:50+00:00",
+   "url": "/haber/apple-app-store-kurallarini-yapay-zekayla-uretilen-cinsel-iceriklere-k-e51ca6cf/"
+  },
+  {
+   "id": "37941167",
+   "title": "Yüzde sıfıra kadar düşmüştü, baraj doluluk oranı son yağışlarla fırladı",
+   "summary": "Bursa'da geçen yıl yüzde 0,25'e kadar düşen baraj doluluk oranlarında, son yağışların da etkisiyle bir yılda büyük değişim yaşandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-yuzde-sifira-kadar-dusmustu-baraj-doluluk-orani-son-yagislarla-firladi-1746683",
+   "image": "https://images.ntv.com.tr/images/AW812095_04copy-844608.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-17T07:21:52+00:00",
+   "url": "/haber/yuzde-sifira-kadar-dusmustu-baraj-doluluk-orani-son-yagislarla-firladi-37941167/"
+  },
+  {
+   "id": "f4296fd5",
+   "title": "İngiltere Deniz Ticaret Operasyonları: Suudi Arabistan’ın 68 mil kuzeydoğusunda bir petrol tankeri vuruldu",
+   "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Basra Körfezi’nde bir petrol tankerinin, kaynağı bilinmeyen bir mühimmatla vurulduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-suudi-arabistan-in-68-mil-kuzeydogusunda-bir-petrol-tankeri-vuruldu/4091666",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T07:20:39+00:00",
+   "url": "/haber/ingiltere-deniz-ticaret-operasyonlari-suudi-arabistan-in-68-mil-kuzeyd-f4296fd5/"
+  },
+  {
+   "id": "cc89bc6c",
+   "title": "İsrail’in ateşkese rağmen Gazze Şeridi'nde düzenlediği saldırıda 1 Filistinli hayatını kaybetti",
+   "summary": "İsrail ordusunun ateşkes anlaşmasına rağmen Gazze kentinin kuzeydoğusundaki Tuffah Mahallesi’nde bir grup sivili hedef aldığı saldırıda 1 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-in-ateskese-ragmen-gazze-seridinde-duzenledigi-saldirida-1-filistinli-hayatini-kaybetti/4091658",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T07:18:12+00:00",
+   "url": "/haber/israil-in-ateskese-ragmen-gazze-seridi-nde-duzenledigi-saldirida-1-fil-cc89bc6c/"
+  },
+  {
+   "id": "7e56d7af",
+   "title": "Starlink interneti Ukrayna savaş alanında neden bu kadar önemli?",
+   "summary": "Ukrayna'daki askeri iletişimin omurgasını oluşturan Starlink, ülke genelindeki askeri güçlere hayati önem taşıyan yüksek hızlı internet hizmeti sağlıyor.",
+   "link": "https://www.bbc.com/turkce/articles/cx1l3dz05r8go?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ce9/live/0d443230-c809-11f1-aff0-65f8bbf884f7.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-17T07:18:05+00:00",
+   "url": "/haber/starlink-interneti-ukrayna-savas-alaninda-neden-bu-kadar-onemli-7e56d7af/"
+  },
+  {
+   "id": "64828db8",
+   "title": "Maaş beklentisi iş başvurularında nasıl konuşulmalı, Türkiye'de durum ne?",
+   "summary": "Uzmanlar, iş görüşmesinde mevcut maaşınız sorulursa ne yapmanız gerektiğini açıklıyor.",
+   "link": "https://www.bbc.com/turkce/articles/ck87z0273qqlo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e493/live/17316b80-bd89-11f1-a2ad-3160f44bb180.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-17T07:16:49+00:00",
+   "url": "/haber/maas-beklentisi-is-basvurularinda-nasil-konusulmali-turkiye-de-durum-n-64828db8/"
+  },
+  {
+   "id": "d2e7f263",
+   "title": "İnsan boyunun inişli ve çıkışlı tarihinde kritik dönüm noktaları neler?",
+   "summary": "Bugün 100 yıl öncesine göre yaklaşık 10 cm daha uzunuz ancak bu artış kesintisiz gerçekleşmedi.",
+   "link": "https://www.bbc.com/turkce/articles/ck240qpgj39do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9fd/live/eee46610-c3c7-11f1-bc2e-018d645d8d21.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-17T07:15:45+00:00",
+   "url": "/haber/insan-boyunun-inisli-ve-cikisli-tarihinde-kritik-donum-noktalari-neler-d2e7f263/"
+  },
+  {
+   "id": "8ef7df28",
+   "title": "İstanbul'a düşen 'rekor' yağışın sele dönüşmesi nasıl önlenebilirdi?",
+   "summary": "İstanbul'da, 14 Ekim'den beri aralıklı olarak süren yağışlar resmi kayıtların başlamasından bu yana kentte yaşanan en şiddetli hava olayları arasında yerini aldı. BBC Türkçe'ye konuşan uzmanlar yağışın şiddetinden daha…",
+   "link": "https://www.bbc.com/turkce/articles/c687zjl55p3qo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/16ac/live/e9683150-c9fb-11f1-bb10-89ce65f72e2c.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-17T07:14:29+00:00",
+   "url": "/haber/istanbul-a-dusen-rekor-yagisin-sele-donusmesi-nasil-onlenebilirdi-8ef7df28/"
+  },
+  {
+   "id": "e82ac3c6",
+   "title": "“Bir fragman yaşadık”: İstanbul’u bekleyen sel tehlikesi",
+   "summary": "NTV ekranlarında Seda Öğretir’in sunduğu Zincirleme Reaksiyon’da bu hafta iklim değişikliği, sel felaketleri ve şehirleşmenin doğaya etkileri konuşuldu.",
+   "link": "https://www.ntv.com.tr/turkiye/video-bir-fragman-yasadik-istanbulu-bekleyen-sel-tehlikesi-1746676",
+   "image": "https://images.ntv.com.tr/images/Başlıksız-18Nisan202612.29.23-14-714152.jpeg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-17T07:11:48+00:00",
+   "url": "/haber/bir-fragman-yasadik-istanbul-u-bekleyen-sel-tehlikesi-e82ac3c6/"
+  },
+  {
+   "id": "e784ae17",
+   "title": "ABD Başkanı Trump'tan \"Obama ve Clintonların itibarını halen yerle bir edebileceği\" yorumu",
+   "summary": "ABD Başkanı Donald Trump, eski ABD başkanları Barack Obama ve Bill Clinton'ın yanı sıra eski Dışişleri Bakanı Hillary Clinton'ın itibarını halen \"yerle bir edebilme şansına sahip olduğunu\" savundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-obama-ve-clintonlarin-itibarini-halen-yerle-bir-edebilecegi-yorumu/4091653",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T07:08:54+00:00",
+   "url": "/haber/abd-baskani-trump-tan-obama-ve-clintonlarin-itibarini-halen-yerle-bir-e784ae17/"
+  },
+  {
+   "id": "00fcdc2b",
+   "title": "Körüklü Efe çizmesinin son ustası",
+   "summary": "İzmir'de Efelerin mirası körüklü çizme geleneğini 65 yıldır yaşatan son usta, mesleğini devredecek çırak bulamıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-koruklu-efe-cizmesi-tarih-olmak-uzere-65-yillik-son-usta-cirak-bulamiyor-1746675",
+   "image": "https://images.ntv.com.tr/images/AW812054_01-588247.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-17T07:08:27+00:00",
+   "url": "/haber/koruklu-efe-cizmesinin-son-ustasi-00fcdc2b/"
+  },
+  {
+   "id": "17b0282f",
+   "title": "Sel sonrası sigorta mesaisi. Kasko poliçesinde bu madde yoksa ödeme yapılmıyor",
+   "summary": "Sel faciasının ardından sigorta şirketleri yoğun mesaide. Sel mağdurlarının zararı nasıl giderilecek? Hangi sigorta poliçesi neleri kapsıyor? İşte mağdurların izlemesi gereken yollar.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sel-sonrasi-sigorta-mesaisi-kasko-policesinde-bu-ayrintiya-dikkat-1746672",
+   "image": "https://images.ntv.com.tr/images/sel33-623225.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-17T07:06:05+00:00",
+   "url": "/haber/sel-sonrasi-sigorta-mesaisi-kasko-policesinde-bu-madde-yoksa-odeme-yap-17b0282f/"
+  },
+  {
+   "id": "14a93855",
+   "title": "Türkiye Sigorta Basketbol Süper Ligi'nde yarın derbi heyecanı yaşanacak",
+   "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin 4. haftasındaki derbide Beşiktaş, yarın Galatasaray MCT Technic'i konuk edecek.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-sigorta-basketbol-super-liginde-yarin-derbi-heyecani-yasanacak/4091652",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T07:04:36+00:00",
+   "url": "/haber/turkiye-sigorta-basketbol-super-ligi-nde-yarin-derbi-heyecani-yasanaca-14a93855/"
+  },
+  {
+   "id": "053d2caf",
+   "title": "Apple: “iPhone Duo’ya yönelik ‘olağanüstü’ bir talep var”",
+   "summary": "Dün Türkiye başta olmak üzere birçok ülkede ön siparişe açılan katlanabilir telefon iPhone Duo’nun teslim tarihi, kısa sürede 2027’ye sarktı. Ses getiren bu durum hakkında bir açıklama yapan Apple, iPhone Duo’ya yönelik…",
+   "link": "https://www.log.com.tr/apple-iphone-duoya-yonelik-olaganustu-bir-talep-var/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-17_10-01-28_Twevf-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-17T07:02:22+00:00",
+   "url": "/haber/apple-iphone-duo-ya-yonelik-olaganustu-bir-talep-var-053d2caf/"
+  },
   {
    "id": "12a82958",
    "title": "NVIDIA DLSS 5 ile Oyunlarda Yüzde 40 Performans Artışı Sağlıyor",
@@ -22,6 +176,17 @@
    "category": "gundem",
    "date": "2026-10-17T07:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2f073c52/"
+  },
+  {
+   "id": "423e7e16",
+   "title": "Yemen’de Husilerin saldırılarında 3 sivil hayatını kaybetti, 5 kişi yaralandı",
+   "summary": "Yemen’in güneybatısındaki Taiz ilinde İran destekli Husilerin düzenlediği bombardımanda 2’si kadın 3 sivil hayatını kaybetti, 2’si kadın 5 sivil yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemen-de-husilerin-saldirilarinda-3-sivil-hayatini-kaybetti-5-kisi-yaralandi/4091647",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T06:58:25+00:00",
+   "url": "/haber/yemen-de-husilerin-saldirilarinda-3-sivil-hayatini-kaybetti-5-kisi-yar-423e7e16/"
   },
   {
    "id": "342d7562",
@@ -79,6 +244,17 @@
    "url": "/haber/gaziantep-fk-super-lig-de-yarin-deplasmanda-basaksehir-ile-karsilasaca-2a98b8bc/"
   },
   {
+   "id": "7c9ce766",
+   "title": "İran'dan Trump'ın \"bombaların anası\" tehdidine yanıt: Bombanın adı ve büyüklüğü önemli değil",
+   "summary": "İran Savunma Bakan Vekili Seyyid Mecid İbnu'r Rıza, ABD Başkanı Donald Trump'ın İran'a karşı \"bombaların anası\" olarak bilinen GBU-43/B bombasını kullanabileceği yönündeki mesajına ilişkin, \"Bombaların isimlerinin ve…",
+   "link": "https://www.aa.com.tr/tr/dunya/irandan-trumpin-bombalarin-anasi-tehdidine-yanit-bombanin-adi-ve-buyuklugu-onemli-degil/4091635",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T06:46:31+00:00",
+   "url": "/haber/iran-dan-trump-in-bombalarin-anasi-tehdidine-yanit-bombanin-adi-ve-buy-7c9ce766/"
+  },
+  {
    "id": "03ebfafc",
    "title": "Interpol kırmızı bültenle arıyordu. Kripto para dolandırıcısı İstanbul'da yakalandı",
    "summary": "ABD ve Finlandiya’da 1 milyar dolarlık kripto varlık dolandırıcılığı yaptığı iddiasıyla, Interpol'un kırmızı bültenle aradığı ABD'li Richard James Schueler İstanbul'da yakalandı.",
@@ -101,15 +277,15 @@
    "url": "/haber/turkiye-deki-guncel-elektrikli-arac-ve-sarj-noktasi-sayisi-aciklandi-e-83f92463/"
   },
   {
-   "id": "17b0282f",
-   "title": "Sel sonrası sigorta mesaisi. Kasko poliçesinde bu madde yoksa ödeme yapılmıyor",
-   "summary": "Sel faciasının ardından sigorta şirketleri yoğun mesaide. Peki mağdurlar, selin verdiği zararı nasıl giderecek? Hangi sigorta poliçesi neleri kapsıyor? İşte mağdurların izlemesi gereken yollar.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sel-sonrasi-sigorta-mesaisi-kasko-policesinde-bu-ayrintiya-dikkat-1746672",
-   "image": "https://images.ntv.com.tr/images/sel33-623225.jpg",
-   "source": "ntv.com.tr",
+   "id": "e752de92",
+   "title": "Kurallara aykırı bozulabilir gıda taşımacılığı yapanlara 12 bin 758 lira ceza verilecek",
+   "summary": "Bozulabilir gıda maddelerinin taşınmasına ilişkin kurallara aykırı hareket edenlere 12 bin 758 lira idari para cezası uygulanacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/kurallara-aykiri-bozulabilir-gida-tasimaciligi-yapanlara-12-bin-758-lira-ceza-verilecek/4091633",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-17T06:36:14+00:00",
-   "url": "/haber/sel-sonrasi-sigorta-mesaisi-kasko-policesinde-bu-madde-yoksa-odeme-yap-17b0282f/"
+   "date": "2026-10-17T06:36:19+00:00",
+   "url": "/haber/kurallara-aykiri-bozulabilir-gida-tasimaciligi-yapanlara-12-bin-758-li-e752de92/"
   },
   {
    "id": "657d42e1",
@@ -200,17 +376,6 @@
    "url": "/haber/iphone-18-pro-ve-pro-max-rekor-kirdi-a8bf8a1e/"
   },
   {
-   "id": "f56b43c8",
-   "title": "Anonim ve limited şirketlerin asgari sermaye uyum süresi 2027 sonuna uzatıldı",
-   "summary": "Anonim ve limited şirketlerin yeni asgari sermaye tutarlarına uyum süresinin 31 Aralık 2027'ye kadar uzatılması kararlaştırıldı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/anonim-ve-limited-sirketlerin-asgari-sermaye-uyum-suresi-2027-sonuna-uzatildi/4091612",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T05:08:46+00:00",
-   "url": "/haber/anonim-ve-limited-sirketlerin-asgari-sermaye-uyum-suresi-2027-sonuna-u-f56b43c8/"
-  },
-  {
    "id": "1ec36c10",
    "title": "Gemini YouTube ile Nasıl Kullanılır?",
    "summary": "Gemini YouTube ile nasıl kullanılır? YouTube videosu bulma, videoları özetleme ve içerik hakkında Gemini'a soru sorma yöntemlerini anlatıyoruz.",
@@ -242,17 +407,6 @@
    "category": "gundem",
    "date": "2026-10-17T04:12:00+00:00",
    "url": "/haber/istanbul-a-turuncu-kodlu-uyari-kuvvetli-yagis-ve-firtina-bekleniyor-ae923309/"
-  },
-  {
-   "id": "013131b6",
-   "title": "Filistin Para Otoritesi: Yerel bankacılık sektörü Gazze'nin yeniden imarına liderlik etmeye hazır",
-   "summary": "Filistin Para Otoritesi (Merkez Bankası) Başkanı Yahya Şennar, Gazze Şeridi'nin yeniden imarının, bankacılık ile özel sektörün toparlanma çabalarının ve imar projelerinin Filistin yönetiminin öncülüğünde…",
-   "link": "https://www.aa.com.tr/tr/dunya/filistin-para-otoritesi-yerel-bankacilik-sektoru-gazzenin-yeniden-imarina-liderlik-etmeye-hazir/4091596",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-17T01:19:39+00:00",
-   "url": "/haber/filistin-para-otoritesi-yerel-bankacilik-sektoru-gazze-nin-yeniden-ima-013131b6/"
   },
   {
    "id": "d50827a5",
@@ -288,39 +442,6 @@
    "url": "/haber/fransa-daki-ogrenci-eylemleri-ulke-kirilma-noktasinda-mi-5655301c/"
   },
   {
-   "id": "45ded160",
-   "title": "Suudi Arabistan'ın Abha ve Hamis Muşayt kentlerinde erken uyarı sistemi devreye alındı",
-   "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin güneyindeki Abha ve Hamis Muşayt kentleri için erken uyarı sisteminin devreye alındığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-abha-ve-hamis-musayt-kentlerinde-erken-uyari-sistemi-devreye-alindi/4091591",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T23:06:43+00:00",
-   "url": "/haber/suudi-arabistan-in-abha-ve-hamis-musayt-kentlerinde-erken-uyari-sistem-45ded160/"
-  },
-  {
-   "id": "54ac90ae",
-   "title": "Halk TV'ye kayyum atanan soruşturmada dört kişiye tutuklama, dört kişiye ev hapsi, dört kişi adli kontrolle serbest",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı'nın, kanalın sahibi Cafer Mahiroğlu'na yönelik soruşturmasınde gözaltına alınan 12 kişinden 4'ü tutuklandı, 4 kişiye ise ev hapsi cezası verildi, dört kişi de adli kontrolle serbest…",
-   "link": "https://www.bbc.com/turkce/articles/cmy0eyerev48o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ed9/live/afe25ea0-c7cc-11f1-9e10-4dcbd31d4273.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-16T23:04:09+00:00",
-   "url": "/haber/halk-tv-ye-kayyum-atanan-sorusturmada-dort-kisiye-tutuklama-dort-kisiy-54ac90ae/"
-  },
-  {
-   "id": "14e5cfe5",
-   "title": "İsrail askerleri Batı Şeria'da 3 Filistinliyi gözaltına aldı, 3 kişiyi yaraladı",
-   "summary": "İsrail askerleri, işgal altındaki Batı Şeria'nın kuzeyindeki Cenin kentinde 3 Filistinliyi gözaltına aldı, 3 Filistinliyi de darbederek yaraladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriada-3-filistinliyi-gozaltina-aldi-3-kisiyi-yaraladi/4091590",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T23:03:18+00:00",
-   "url": "/haber/israil-askerleri-bati-seria-da-3-filistinliyi-gozaltina-aldi-3-kisiyi-14e5cfe5/"
-  },
-  {
    "id": "d2c15837",
    "title": "Uçan Tesla'nın teknik özellikleri açıklandı: 1.341 beygir güç, 0.8 saniyede 0-100 km/s!",
    "summary": "Tesla, uçabilen yeni nesil Roadster'ın teknik özelliklerini paylaştı. Yeni model, 1.341 beygir güç, 500 kW hızlı şarj desteği ve 1 saniyenin altında 0-100 km/s hızlanma gibi iddialı özelliklere sahip.",
@@ -330,39 +451,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T22:47:15+00:00",
    "url": "/haber/ucan-tesla-nin-teknik-ozellikleri-aciklandi-1-341-beygir-guc-0-8-saniy-d2c15837/"
-  },
-  {
-   "id": "9d4b0d43",
-   "title": "BMGK, Guterres'in yerine önerilecek aday için ilk kez \"renk kodlu\" ön oylama yaptı",
-   "summary": "Birleşmiş Milletler Güvenlik Konseyi (BMGK), bu yıl sonunda görev süresi bitecek olan Genel Sekreter Antonio Guterres'in yerine aday olacak 7 isim için ilk kez \"renk kodlu\" ön yoklama yaptı.",
-   "link": "https://www.aa.com.tr/tr/dunya/bmgk-guterresin-yerine-onerilecek-aday-icin-ilk-kez-renk-kodlu-on-oylama-yapti/4091581",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T22:07:45+00:00",
-   "url": "/haber/bmgk-guterres-in-yerine-onerilecek-aday-icin-ilk-kez-renk-kodlu-on-oyl-9d4b0d43/"
-  },
-  {
-   "id": "164126f1",
-   "title": "Panama'da 9 Ekim'deki 7,7'lik deprem sonrası 746 artçı sarsıntı meydana geldi",
-   "summary": "Orta Amerika ülkesi Panama'da, 9 Ekim'deki 7,7 büyüklüğünde deprem sonrası 746 artçı sarsıntının meydana geldiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/panamada-9-ekimdeki-7-7lik-deprem-sonrasi-746-artci-sarsinti-meydana-geldi/4091577",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T21:54:49+00:00",
-   "url": "/haber/panama-da-9-ekim-deki-7-7-lik-deprem-sonrasi-746-artci-sarsinti-meydan-164126f1/"
-  },
-  {
-   "id": "0d43af4c",
-   "title": "İklim değişikliği Afrika'da tarım yöntemlerini dönüştürüyor",
-   "summary": "İklim değişikliği, artan gıda ihtiyacını karşılamaya çalışan Afrikalı çiftçileri yerel tohumlardan geleneksel tarım bilgisine ve yapay zekaya uzanan farklı çözümleri bir arada kullanmaya yönelterek kıtada tarım…",
-   "link": "https://www.aa.com.tr/tr/dunya/iklim-degisikligi-afrikada-tarim-yontemlerini-donusturuyor/4091556",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T21:33:47+00:00",
-   "url": "/haber/iklim-degisikligi-afrika-da-tarim-yontemlerini-donusturuyor-0d43af4c/"
   },
   {
    "id": "c673d208",
@@ -893,17 +981,6 @@
    "url": "/haber/istanbul-da-bir-skywell-et5-daha-yandi-3487cfc7/"
   },
   {
-   "id": "bfdcd5ee",
-   "title": "Sağanağın faturası ağır oldu: İstinat duvarları çöktü, binalar boşaltıldı",
-   "summary": "Türkiye genelinde iki gündür etkili olan şiddetli sağanak yağışlar, Sakarya başta olmak üzere Kocaeli, Zonguldak ve Yalova'da sel, heyelan ve büyük çaplı yıkımlara neden oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/video-saganagin-faturasi-agir-oldu-istinat-duvarlari-coktu-binalar-bosaltildi-1746618",
-   "image": "https://images.ntv.com.tr/images/dfdfdf-428753.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-16T13:28:37+00:00",
-   "url": "/haber/saganagin-faturasi-agir-oldu-istinat-duvarlari-coktu-binalar-bosaltild-bfdcd5ee/"
-  },
-  {
    "id": "5b0942bf",
    "title": "Windows 11'in Bellek Kullanımı İyileşiyor: 8 GB RAM'li Bilgisayarlara Destek",
    "summary": "Microsoft, Windows 11'in bellek yönetimini ve tepki süresini iyileştiren yenilikler sunuyor. Özellikle 8 GB RAM'li bilgisayarları hedefleyen düzenlemeler, sistemin daha akıcı çalışmasına yardımcı olmayı amaçlıyor.",
@@ -1001,50 +1078,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T12:45:57+00:00",
    "url": "/haber/iphone-duo-nun-teslim-tarihi-kisa-surede-ocak-ayinin-sonuna-kadar-gitt-6487c7c0/"
-  },
-  {
-   "id": "ccb664bc",
-   "title": "Play Store’daki sahte “WhatsApp” ve “Chrome” uygulamalarına dikkat",
-   "summary": "Kullanıcılar, Google Play Store’da orijinal sürümlerle birebir aynı görünen WhatsApp ve Chrome uygulamaları olduğunu fark etti. Geçtiğimiz ay yayınlanan sahte WhatsApp’ın sponsorlu tanıtımlar sayesinde kısa sürede 500…",
-   "link": "https://www.log.com.tr/play-storedaki-sahte-whatsapp-ve-chrome-uygulamalarina-dikkat/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-16_15-28-37_MaOD9-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-16T12:37:19+00:00",
-   "url": "/haber/play-store-daki-sahte-whatsapp-ve-chrome-uygulamalarina-dikkat-ccb664bc/"
-  },
-  {
-   "id": "d09274a3",
-   "title": "Kırmızı bültenle aran şüpheli, estetik ameliyatla kimlik değiştirmek isterken yakalandı",
-   "summary": "Almanya'da 4 milyon dolarlık dolandırıcılıkla suçlanan şüpheli, İstanbul'da sahte kimlikle estetik ameliyat olmak isterken yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/kirmizi-bultenle-aran-supheli-estetik-ameliyatla-kimlik-degistirmek-isterken-yakalandi-1746599",
-   "image": "https://images.ntv.com.tr/images/AW811581_01-250336(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-16T12:32:41+00:00",
-   "url": "/haber/kirmizi-bultenle-aran-supheli-estetik-ameliyatla-kimlik-degistirmek-is-d09274a3/"
-  },
-  {
-   "id": "47c7c27d",
-   "title": "Bedelli askerlikte 28 günlük eğitim kalkacak mı? Açıklama yapıldı, gerçek anlaşıldı",
-   "summary": "Dezenformasyonla Mücadele Merkezi, bedelli askerlikte 28 günlük temel eğitimin kaldırılacağı iddialarını yalanladı.",
-   "link": "https://www.ntv.com.tr/turkiye/bedelli-askerlikte-28-gunluk-egitim-kalkacak-mi-aciklama-yapildi-gercek-anlasildi-1746603",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_9285eec8236aaa480b5a4553780b245c-566136.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-16T12:26:55+00:00",
-   "url": "/haber/bedelli-askerlikte-28-gunluk-egitim-kalkacak-mi-aciklama-yapildi-gerce-47c7c27d/"
-  },
-  {
-   "id": "f6ade325",
-   "title": "Dubai polisinin lüks otomobil filosuna son katılan model Lamborghini Temerario oldu",
-   "summary": "Dubai polisinin süper / hiper otomobillerden oluşan lüks filosuna son katılan model, iddialı Lamborghini Temerario oldu. Dubai polisi bu lüks araçları otobanlardaki yüksek hızlı kovalamacalarda kullanmıyor, daha çok…",
-   "link": "https://www.log.com.tr/dubai-polisinin-luks-otomobil-filosuna-son-katilan-model-lamborghini-temerario-oldu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-16_15-23-11_bxaRj-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-16T12:23:36+00:00",
-   "url": "/haber/dubai-polisinin-luks-otomobil-filosuna-son-katilan-model-lamborghini-t-f6ade325/"
   },
   {
    "id": "e84dc3e5",
@@ -1168,17 +1201,6 @@
    "url": "/haber/cevdet-yilmaz-butcemiz-refah-ve-donusum-butcesidir-26c962fa/"
   },
   {
-   "id": "67558ed4",
-   "title": "AKP yönetiminden Azerbaycan açıklaması: Sorunlarımızı aile içinde konuşuruz",
-   "summary": "AKP Genel Başkan Yardımcısı Kürşad Zorlu, Türkiye ve Azerbaycan ilişkilerinde gerilim yaratan konulara değinmeden, \"Devletlerimizin ilerleyiş tarzında farklılıklar olabilir\" açıklaması yaptı.",
-   "link": "https://www.bbc.com/turkce/articles/cmrly08xjerro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6443/live/46ec00f0-c929-11f1-bcc7-a3638a736ce9.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-16T06:19:42+00:00",
-   "url": "/haber/akp-yonetiminden-azerbaycan-aciklamasi-sorunlarimizi-aile-icinde-konus-67558ed4/"
-  },
-  {
    "id": "e560a173",
    "title": "İstanbul'da para aklama soruşturması: 6 gözaltı kararı",
    "summary": "İstanbul Cumhuriyet Başsavcılığınca kaynağı belirsiz paraların aklanması ve tehdit iddialarına yönelik yürütülen soruşturma kapsamında, Murat Ağırel, Emir Sarıgül ve Aylin Kotil'in de aralarında bulunduğu 6 şüpheli…",
@@ -1188,17 +1210,6 @@
    "category": "gundem",
    "date": "2026-10-16T05:45:00+00:00",
    "url": "/haber/istanbul-da-para-aklama-sorusturmasi-6-gozalti-karari-e560a173/"
-  },
-  {
-   "id": "7845c7f4",
-   "title": "Murat Ağırel ev hapsindeyken gözaltına alındı",
-   "summary": "Fon krizine ilişkin yayınlar nedeniyle \"halkı yanıltıcı bilgiyi alenen yayma\" suçundan ev hapsinde olan gazeteci Murat Ağırel yeniden gözaltına alındı.",
-   "link": "https://www.bbc.com/turkce/articles/cmn04q2lnnrxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2dc7/live/ec786eb0-c923-11f1-831b-17a2ee1bd8f5.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-16T05:42:03+00:00",
-   "url": "/haber/murat-agirel-ev-hapsindeyken-gozaltina-alindi-7845c7f4/"
   },
   {
    "id": "3f95d292",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-10-15T16:02:00+00:00",
    "url": "/haber/6-ilde-egitime-ara-verildi-c08cb60c/"
-  },
-  {
-   "id": "258ce423",
-   "title": "Türkiye, Suudi Arabistan'a askeri destek için hangi seçenekleri değerlendiriyor?",
-   "summary": "Ankara'nın öncelikleri Mekke Ortak Savunma Anlaşması'nı Meclis'ten geçirmek ve yurt dışına asker gönderme iznini içeren tezkereyi yine Meclis'in onayına sunmak. Öne çıkan seçenek ise Suudi Arabistan'ın savunma…",
-   "link": "https://www.bbc.com/turkce/articles/cm36958j5rd6o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a60d/live/b88d8bd0-c8a1-11f1-929c-0b57deb4f9df.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-15T14:44:19+00:00",
-   "url": "/haber/turkiye-suudi-arabistan-a-askeri-destek-icin-hangi-secenekleri-degerle-258ce423/"
   },
   {
    "id": "f91bebad",
