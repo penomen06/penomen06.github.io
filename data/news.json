@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:30:58.734038+00:00",
+ "updated": "2026-10-17T00:01:13.352523+00:00",
  "items": [
   {
    "id": "2f073c52",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-16T23:30:00+00:00",
+   "date": "2026-10-17T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2f073c52/"
+  },
+  {
+   "id": "d50827a5",
+   "title": "İstanbul'daki yağışlarda can kaybı dörde çıktı",
+   "summary": "İstanbul'da 14 Ekim'deki yağışlar nedeniyle can kaybı sayısı dörde yükseldi.",
+   "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1cd9/live/8e5f4290-c8a6-11f1-a64c-550be9e3c66b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-16T23:37:49+00:00",
+   "url": "/haber/istanbul-daki-yagislarda-can-kaybi-dorde-cikti-d50827a5/"
+  },
+  {
+   "id": "08377ae7",
+   "title": "Arnavutluk'taki protestolarla ilgili neler biliniyor?",
+   "summary": "Arnavutluk'un başkenti Tiran'da aylardır hükümet karşıtı \"Flamingo\" hareketinin protestoları oluyordu. Fakat Salı günü başlayan olaylar farklı bir boyutta.",
+   "link": "https://www.bbc.com/turkce/articles/cmy83gg8vdpqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62ad/live/a3f113b0-c953-11f1-8879-9d9deeb686e1.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-16T23:31:02+00:00",
+   "url": "/haber/arnavutluk-taki-protestolarla-ilgili-neler-biliniyor-08377ae7/"
+  },
+  {
+   "id": "5655301c",
+   "title": "Fransa'daki öğrenci eylemleri: Ülke kırılma noktasında mı?",
+   "summary": "Fransa Başbakanı, öğrenci öfkesinin bir silah olarak kullanıldığını öne sürdü. Sendikalar ve diğer protestocular da bugün yeniden sokaklara çıkmaya hazırlanıyor.",
+   "link": "https://www.bbc.com/turkce/articles/c51kd8vm9912o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4304/live/031ef450-c946-11f1-a64c-550be9e3c66b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-16T23:29:36+00:00",
+   "url": "/haber/fransa-daki-ogrenci-eylemleri-ulke-kirilma-noktasinda-mi-5655301c/"
   },
   {
    "id": "45ded160",
@@ -1047,17 +1080,6 @@
    "url": "/haber/qualcomm-ve-transsion-2031-e-kadar-5g-lisans-anlasmasini-uzatti-080fb305/"
   },
   {
-   "id": "d50827a5",
-   "title": "İstanbul'daki yağışlarda can kaybı dörde çıktı",
-   "summary": "İstanbul'da 14 Ekim'deki yağışlar nedeniyle can kaybı sayısı dörde yükseldi.",
-   "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1cd9/live/8e5f4290-c8a6-11f1-a64c-550be9e3c66b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-16T10:03:15+00:00",
-   "url": "/haber/istanbul-daki-yagislarda-can-kaybi-dorde-cikti-d50827a5/"
-  },
-  {
    "id": "4a5931bf",
    "title": "Sandisk’ten araç içi ve ev güvenlik kameralarına özel Guardian serisi",
    "summary": "Sandisk, tüketicilerin önemli anları kaydetmek ve izlemek için güvendiği, kesintisiz çalışan kamera ve sistemler için özel olarak geliştirilmiş yüksek dayanıklılığa sahip depolama çözümlerinden oluşan yeni bir ürün…",
@@ -1243,28 +1265,6 @@
    "category": "gundem",
    "date": "2026-10-15T06:19:40+00:00",
    "url": "/haber/zayiflama-ignelerini-cok-kucuk-dozlarda-yapmak-guvenli-mi-f91bebad/"
-  },
-  {
-   "id": "60b8cc2c",
-   "title": "Başörtüsü protestoları Aliyev hükümeti için tehdit mi?",
-   "summary": "Cumhurbaşkanı İlham Aliyev'in hükümeti, başörtüsü nedeniyle düzenlenen protestolar karşısında zor bir tercih ile karşı karşıya. Geri adım atmak, yetkililerin baskıya boyun eğdiği şeklinde görülebilir; sert bir tutum ise…",
-   "link": "https://www.bbc.com/turkce/articles/cmzxl14edpk7o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d74d/live/ec5bbeb0-c751-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-14T13:17:51+00:00",
-   "url": "/haber/basortusu-protestolari-aliyev-hukumeti-icin-tehdit-mi-60b8cc2c/"
-  },
-  {
-   "id": "a44f10a5",
-   "title": "Dünyanın en eski gemi batığı Antalya'da keşfedildi",
-   "summary": "Arkeologlar, batığın 4.700 yıla kadar eski olduğunu ve Erken Tunç Çağı'na ait olduğunu söylüyor.",
-   "link": "https://www.bbc.com/turkce/articles/cr15jvepdewxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-14T11:21:19+00:00",
-   "url": "/haber/dunyanin-en-eski-gemi-batigi-antalya-da-kesfedildi-a44f10a5/"
   }
  ]
 }
