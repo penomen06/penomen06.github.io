@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-17T05:01:03.965815+00:00",
+ "updated": "2026-10-17T05:30:56.834254+00:00",
  "items": [
+  {
+   "id": "2f073c52",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Ekim 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-ekim-2026-1746646",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-17T05:30:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2f073c52/"
+  },
+  {
+   "id": "f56b43c8",
+   "title": "Anonim ve limited şirketlerin asgari sermaye uyum süresi 2027 sonuna uzatıldı",
+   "summary": "Anonim ve limited şirketlerin yeni asgari sermaye tutarlarına uyum süresinin 31 Aralık 2027'ye kadar uzatılması kararlaştırıldı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/anonim-ve-limited-sirketlerin-asgari-sermaye-uyum-suresi-2027-sonuna-uzatildi/4091612",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T05:08:46+00:00",
+   "url": "/haber/anonim-ve-limited-sirketlerin-asgari-sermaye-uyum-suresi-2027-sonuna-u-f56b43c8/"
+  },
   {
    "id": "1ec36c10",
    "title": "Gemini YouTube ile Nasıl Kullanılır?",
@@ -13,15 +35,26 @@
    "url": "/haber/gemini-youtube-ile-nasil-kullanilir-1ec36c10/"
   },
   {
-   "id": "2f073c52",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Ekim 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-ekim-2026-1746646",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
+   "id": "7e8c1d53",
+   "title": "Türkiye'nin ilk yüzer üretim platformu Mavi Vatan'a açılıyor",
+   "summary": "Karadeniz'deki Sakarya Gaz Sahası'nda doğal gaz üretimini ikiye katlayacak Türkiye'nin ilk yüzer üretim platformu \"Osman Gazi\", bugün Filyos'tan Mavi Vatan'daki görev yerine uğurlanacak.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ilk-yuzer-uretim-platformu-mavi-vatana-aciliyor-960375.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/osman-gazi-2496499.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
-   "date": "2026-10-17T05:00:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2f073c52/"
+   "date": "2026-10-17T04:41:00+00:00",
+   "url": "/haber/turkiye-nin-ilk-yuzer-uretim-platformu-mavi-vatan-a-aciliyor-7e8c1d53/"
+  },
+  {
+   "id": "ae923309",
+   "title": "İstanbul'a turuncu kodlu uyarı: Kuvvetli yağış ve fırtına bekleniyor",
+   "summary": "İstanbul genelinde bugün olumsuz hava koşulları etkili olacak. Kent için \"turuncu\" kodlu meteorolojik uyarı yapılırken, kuvvetli sağanak ve fırtınaya karşı dikkatli olunması istendi.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbula-turuncu-kodlu-uyari-kuvvetli-yagis-ve-firtina-bekleniyor-960372.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/saganak-2496498.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-17T04:12:00+00:00",
+   "url": "/haber/istanbul-a-turuncu-kodlu-uyari-kuvvetli-yagis-ve-firtina-bekleniyor-ae923309/"
   },
   {
    "id": "013131b6",
@@ -253,17 +286,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T21:30:00+00:00",
    "url": "/haber/kuresel-saat-sisteminde-tarihi-degisim-artik-saniye-uygulamasi-kaldiri-c673d208/"
-  },
-  {
-   "id": "2be01825",
-   "title": "Sözleşmeli 31 bin 54 sağlık personelinin istihdamına ilişkin karar Resmi Gazete'de",
-   "summary": "Sözleşmeli 31 bin 54 sağlık personeli istihdamı kapsamındaki hizmet birimlerinin tespit edilmesine ilişkin Cumhurbaşkanlığı kararı Resmi Gazete'de yayımlandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/sozlesmeli-31-bin-54-saglik-personelinin-istihdamina-iliskin-karar-resmi-gazetede/4091551",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T21:24:58+00:00",
-   "url": "/haber/sozlesmeli-31-bin-54-saglik-personelinin-istihdamina-iliskin-karar-res-2be01825/"
   },
   {
    "id": "0e7599cb",
@@ -1201,17 +1223,6 @@
    "url": "/haber/bakan-kurum-ayazaga-da-300-is-yeri-200-arac-hasar-tespiti-yapildi-d1419cf3/"
   },
   {
-   "id": "a2d29ac0",
-   "title": "Trabzonspor KuPS Kuopio'yu 4 golle geçti",
-   "summary": "Trabzonspor, UEFA Konferans Ligi'nde KuPS Kuopio'yu 4-2 yendi.",
-   "link": "https://www.trthaber.com/haber/gundem/trabzonspor-kups-kuopioyu-4-golle-gecti-960226.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/trabzonspor-aa-2496223.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-15T18:42:00+00:00",
-   "url": "/haber/trabzonspor-kups-kuopio-yu-4-golle-gecti-a2d29ac0/"
-  },
-  {
    "id": "fb4acb37",
    "title": "Bakan Çiftçi: Mahsur kalan 3 bin 55 kişi kurtarıldı",
    "summary": "İçişleri Bakanı Mustafa Çiftçi, \"İstanbul genelinde mahsur kalan 3 bin 55 vatandaşımız, AFAD, Sahil Güvenlik, jandarma ve belediye ekiplerimizin çalışmalarıyla kurtarılmıştır. İstanbul'da 5, Kocaeli'de 1 vatandaşımızı…",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-10-15T14:44:19+00:00",
    "url": "/haber/turkiye-suudi-arabistan-a-askeri-destek-icin-hangi-secenekleri-degerle-258ce423/"
-  },
-  {
-   "id": "1d6b3b57",
-   "title": "Türkiye'nin 53 yeni silahı ilk kez sahnede",
-   "summary": "Çelik irade, sarsılmaz disiplin, tam isabet... Türk Silahlı Kuvvetlerimizin üstün ateş gücünü, yüksek koordinasyon kabiliyetini ve harekat etkinliğini ortaya koyduğu Ateş Serbest-2026 faaliyeti başarıyla tamamlandı.…",
-   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-53-yeni-silahi-ilk-kez-sahnede-960196.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/53-yeni-silah-sistemi-2496141.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-15T12:30:00+00:00",
-   "url": "/haber/turkiye-nin-53-yeni-silahi-ilk-kez-sahnede-1d6b3b57/"
   },
   {
    "id": "f91bebad",
