@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T01:01:08.341384+00:00",
+ "updated": "2026-10-17T01:30:55.901322+00:00",
  "items": [
   {
    "id": "2f073c52",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-17T00:30:00+00:00",
+   "date": "2026-10-17T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2f073c52/"
+  },
+  {
+   "id": "013131b6",
+   "title": "Filistin Para Otoritesi: Yerel bankacılık sektörü Gazze'nin yeniden imarına liderlik etmeye hazır",
+   "summary": "Filistin Para Otoritesi (Merkez Bankası) Başkanı Yahya Şennar, Gazze Şeridi'nin yeniden imarının, bankacılık ile özel sektörün toparlanma çabalarının ve imar projelerinin Filistin yönetiminin öncülüğünde…",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-para-otoritesi-yerel-bankacilik-sektoru-gazzenin-yeniden-imarina-liderlik-etmeye-hazir/4091596",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-17T01:19:39+00:00",
+   "url": "/haber/filistin-para-otoritesi-yerel-bankacilik-sektoru-gazze-nin-yeniden-ima-013131b6/"
   },
   {
    "id": "d50827a5",
@@ -264,17 +275,6 @@
    "category": "gundem",
    "date": "2026-10-16T21:15:17+00:00",
    "url": "/haber/budo-nun-yarin-yapilacak-12-seferi-iptal-edildi-52782899/"
-  },
-  {
-   "id": "6a320ba9",
-   "title": "İçişleri Bakanlığı yurtta beklenen sağanak ve fırtınaya karşı uyardı",
-   "summary": "İçişleri Bakanlığı, bugün yurt genelinde beklenen kuvvetli yağış ve fırtına nedeniyle vatandaşları dikkatli ve tedbirli olmaları konusunda uyardı.",
-   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakanligi-yurtta-beklenen-saganak-ve-firtinaya-karsi-uyardi/4091545",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-16T21:07:37+00:00",
-   "url": "/haber/icisleri-bakanligi-yurtta-beklenen-saganak-ve-firtinaya-karsi-uyardi-6a320ba9/"
   },
   {
    "id": "496bead5",
