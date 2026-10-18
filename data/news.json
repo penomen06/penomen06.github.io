@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-18T13:30:59.099045+00:00",
+ "updated": "2026-10-18T14:01:08.313450+00:00",
  "items": [
+  {
+   "id": "58593f0e",
+   "title": "Telegram’a Kişiselleştirilmiş Haber Akışı Özelliği Geliyor",
+   "summary": "Telegram, takip edilen kanalları ve önerileri bir araya getiren yeni bir Telegram kişiselleştirilmiş haber akışı özelliği üzerinde çalışıyor.",
+   "link": "https://shiftdelete.net/telegram-kisisellestirilmis-haber-akisi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-18T14:00:48+00:00",
+   "url": "/haber/telegram-a-kisisellestirilmis-haber-akisi-ozelligi-geliyor-58593f0e/"
+  },
+  {
+   "id": "3ec85486",
+   "title": "Samsung, One UI 10 ile büyük değişime hazırlanıyor",
+   "summary": "Yeni sürümün, görsel değişikliklerin yanında, uygulamalar arasındaki geçişleri kolaylaştırması, yapay zeka özelliklerini geliştirmesi ve Galaxy S28 serisiyle tanıtılması bekleniyor.",
+   "link": "https://www.donanimhaber.com/samsung-one-ui-10-ile-buyuk-degisime-hazirlaniyor--211773",
+   "image": "https://www.donanimhaber.com/images/images/haber/211773/1200x675samsung-one-ui-10-ile-buyuk-degisime-hazirlaniyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-18T14:00:00+00:00",
+   "url": "/haber/samsung-one-ui-10-ile-buyuk-degisime-hazirlaniyor-3ec85486/"
+  },
+  {
+   "id": "44f99ed1",
+   "title": "Cumhurbaşkanı Erdoğan şair Nuri Pakdil'i andı",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Kudüs Şairi\" Nuri Pakdil'i vefatının 7. yıl dönümünde yad etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-sair-nuri-pakdili-andi/4092721",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T13:55:35+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-sair-nuri-pakdil-i-andi-44f99ed1/"
+  },
+  {
+   "id": "6db3cc3c",
+   "title": "Fenerbahçe Futbol Direktörü Oğuz Çetin'den Marco Asensio açıklaması",
+   "summary": "Fenerbahçe Futbol Direktörü Oğuz Çetin, futbolculardan Marco Asensio ile teknik direktör İsmail Kartal arasında herhangi bir sorunun bulunmadığını ve Asensio'nun ameliyat edileceğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-futbol-direktoru-oguz-cetinden-marco-asensio-aciklamasi/4092718",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T13:48:24+00:00",
+   "url": "/haber/fenerbahce-futbol-direktoru-oguz-cetin-den-marco-asensio-aciklamasi-6db3cc3c/"
+  },
   {
    "id": "066dc3d3",
    "title": "Nvidia'dan RTX 5090 iddialarına yanıt: Üretim durmadı, satışlar sürecek!",
@@ -220,28 +264,6 @@
    "category": "teknoloji",
    "date": "2026-10-18T12:00:00+00:00",
    "url": "/haber/apple-m6-pro-ve-m6-max-islemcilerini-atlayarak-m7-serisine-gecebilir-d23d25e5/"
-  },
-  {
-   "id": "3caf9afe",
-   "title": "Cumhurbaşkanı Erdoğan, Azerbaycan’ın \"Bağımsızlığın Yeniden Sağlanması Günü\"nü kutladı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan’ın \"Bağımsızlığın Yeniden Sağlanması Günü\"nü tebrik etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycan-in-bagimsizligin-yeniden-saglanmasi-gununu-kutladi/4092633",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T11:56:48+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-azerbaycan-in-bagimsizligin-yeniden-saglanmasi-g-3caf9afe/"
-  },
-  {
-   "id": "ef1af27a",
-   "title": "Yemen'de Husilerin kuşatması altındaki Taiz'de yakıt ve gaz sıkıntısı insani krizi derinleştiriyor",
-   "summary": "Yemen'in güneybatısındaki yoğun nüfuslu Taiz kentinde İran destekli Husilerin ikmal yollarını kapatması ve çevresindeki çatışmaların yoğunlaşması, insani ve ekonomik koşulları ağırlaştırıyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemende-husilerin-kusatmasi-altindaki-taizde-yakit-ve-gaz-sikintisi-insani-krizi-derinlestiriyor/4092628",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T11:52:39+00:00",
-   "url": "/haber/yemen-de-husilerin-kusatmasi-altindaki-taiz-de-yakit-ve-gaz-sikintisi-ef1af27a/"
   },
   {
    "id": "67841e59",
@@ -860,17 +882,6 @@
    "url": "/haber/koleksiyonculara-ozel-gta-6-diski-cin-de-satisa-cikti-eb7efcb2/"
   },
   {
-   "id": "b6585e4b",
-   "title": "True Detective'in 5. sezonu iki yıldız oyuncuyu bir araya getirecek",
-   "summary": "True Detective'in 5. sezonu için hazırlıkların hız kazanmasıyla birlikte başrol oyuncuları da belli oldu HBO, yeni sezon için sinema dünyasından tanıdığımız iki ünlü isimle anlaştı.",
-   "link": "https://www.donanimhaber.com/true-detective-5-sezon-iki-yildiz-oyuncuyu-bir-araya-getirecek--211771",
-   "image": "https://www.donanimhaber.com/images/images/haber/211771/1200x675true-detective-5-sezon-iki-yildiz-oyuncuyu-bir-araya-getirecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-17T18:30:00+00:00",
-   "url": "/haber/true-detective-in-5-sezonu-iki-yildiz-oyuncuyu-bir-araya-getirecek-b6585e4b/"
-  },
-  {
    "id": "ff1ae9e4",
    "title": "Qualcomm Snapdragon 8 Elite Extreme Gen 6’da Isınma Sorunu mu Var?",
    "summary": "Qualcomm CMO'su Don McGuire, Snapdragon 8 Elite Extreme Gen 6 ısınma sorunu iddialarını reddetti ancak paylaşımı yeni soru işaretleri doğurdu.",
@@ -968,17 +979,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T15:00:55+00:00",
    "url": "/haber/honor-win-2-performans-testinde-zirveye-oynuyor-72dc9118/"
-  },
-  {
-   "id": "79a37fc1",
-   "title": "BİM LG QNED Televizyon Satacak",
-   "summary": "BİM 18 Ekim aktüel kataloğu ile satışa sunulacak LG QNED televizyon modelleri ve fiyatları belli oldu. Detaylar haberimizde.",
-   "link": "https://shiftdelete.net/bim-18-ekim-aktuel-lg-qned-tv",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-17T14:00:21+00:00",
-   "url": "/haber/bim-lg-qned-televizyon-satacak-79a37fc1/"
   },
   {
    "id": "1bfc0ab9",
