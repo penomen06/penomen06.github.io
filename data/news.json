@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-18T16:01:08.766167+00:00",
+ "updated": "2026-10-18T16:30:57.879148+00:00",
  "items": [
+  {
+   "id": "9379a74f",
+   "title": "İtalya'da dünkü olaylı protestoların bilançosu ağır oldu",
+   "summary": "İtalya'da dün hayat pahalılığı ve hükümet karşıtı protesto gösterilerinde çıkan şiddet olaylarında, 28 kişinin gözaltına alındığı, 161 kişinin yaralandığı ve 1 milyon avro civarında maddi hasar oluştuğu bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/italyada-dunku-olayli-protestolarin-bilancosu-agir-oldu/4092819",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T16:23:42+00:00",
+   "url": "/haber/italya-da-dunku-olayli-protestolarin-bilancosu-agir-oldu-9379a74f/"
+  },
+  {
+   "id": "be5ee16d",
+   "title": "Elon Musk'ın Cumhuriyetçilere yaptığı milyonlarca dolarlık bağış ne anlatıyor?",
+   "summary": "Elon Musk, ABD’deki ara seçimler öncesinde Cumhuriyetçilere 200 milyon dolardan fazla bağış yaparken, desteğin özellikle şirketlerini taşıdığı Teksas’ta yoğunlaşması dikkat çekiyor",
+   "link": "https://www.bbc.com/turkce/articles/c620r7vg0e7wo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb9c/live/ffd0d920-c9a5-11f1-ad54-aba20166b422.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-18T16:10:56+00:00",
+   "url": "/haber/elon-musk-in-cumhuriyetcilere-yaptigi-milyonlarca-dolarlik-bagis-ne-an-be5ee16d/"
+  },
+  {
+   "id": "e906070c",
+   "title": "İletişim Başkanlığından Altıncı Fon Kurulu Toplantısı'na ilişkin açıklama",
+   "summary": "İletişim Başkanlığı, A1 Portföy Yönetim Şirketi AŞ, Bulls Portföy Yönetim Şirketi AŞ ve Pardus Portföy Yönetim Şirketi AŞ'nin yönetimindeki 45 binin üzerindeki kişiye 40,8 milyar lira tutarında ayni ve nakdi tasfiye…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/iletisim-baskanligindan-altinci-fon-kurulu-toplantisina-iliskin-aciklama/4092808",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T16:06:53+00:00",
+   "url": "/haber/iletisim-baskanligindan-altinci-fon-kurulu-toplantisi-na-iliskin-acikl-e906070c/"
+  },
   {
    "id": "6fabdd6b",
    "title": "OpenAI İnsansı Robot Dünyasına Giriyor",
@@ -13,6 +46,17 @@
    "url": "/haber/openai-insansi-robot-dunyasina-giriyor-6fabdd6b/"
   },
   {
+   "id": "34808ca5",
+   "title": "Fon Kurulu altıncı kez toplandı. 45 binin üzerinde kişiye 40,8 milyar liralık ödeme yapıldı",
+   "summary": "Fon Koordinasyon Kurulu, altıncı kez toplandı. Bugüne kadar 45 binin üzerinde kişiye toplam yaklaşık 40,8 milyar TL'lik tasfiye işleminin tamamlandığı belirtildi.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-kurulu-altinci-kez-toplandi-tasfiye-surecindeki-fon-sayisi-131den-65e-dustu-1746900",
+   "image": "https://images.ntv.com.tr/images/AA-20261002-42631394-42631392-IKINCI_FON_KURULU_TOPLANTISI-472145-573138.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-18T16:00:32+00:00",
+   "url": "/haber/fon-kurulu-altinci-kez-toplandi-45-binin-uzerinde-kisiye-40-8-milyar-l-34808ca5/"
+  },
+  {
    "id": "e77e50ab",
    "title": "iPhone Duo için mağazalarda stok krizi yaşanabilir",
    "summary": "Apple iPhone Duo stoklarının lansman gününde mağazalarda bulunmayabileceği bildiriliyor. Ön siparişlerde yaşanan gecikmeler, sınırlı üretim ve yoğun talep cihazın teslimat sürecini etkileyebilir.",
@@ -22,17 +66,6 @@
    "category": "teknoloji",
    "date": "2026-10-18T16:00:00+00:00",
    "url": "/haber/iphone-duo-icin-magazalarda-stok-krizi-yasanabilir-e77e50ab/"
-  },
-  {
-   "id": "34808ca5",
-   "title": "Fon Kurulu altıncı kez toplandı. Tasfiye sürecindeki fon sayısı 131'den 65'e düştü",
-   "summary": "Fon Koordinasyon Kurulu, altıncı kez toplandı. Bugüne kadar 45 binin üzerinde kişiye toplam yaklaşık 40,8 milyar TL'lik tasfiye işleminin tamamlandığı belirtildi.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-kurulu-altinci-kez-toplandi-tasfiye-surecindeki-fon-sayisi-131den-65e-dustu-1746900",
-   "image": "https://images.ntv.com.tr/images/AA-20261002-42631394-42631392-IKINCI_FON_KURULU_TOPLANTISI-472145-573138.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-18T15:57:24+00:00",
-   "url": "/haber/fon-kurulu-altinci-kez-toplandi-tasfiye-surecindeki-fon-sayisi-131-den-34808ca5/"
   },
   {
    "id": "13038c97",
@@ -299,17 +332,6 @@
    "url": "/haber/belcika-nin-baskenti-bruksel-deki-protestolarda-150-kisi-gozaltina-ali-19eae2e7/"
   },
   {
-   "id": "67282a9b",
-   "title": "BM Genel Sekreteri Guterres: Kıbrıs'ta güven tesisini engelleyen eylemler cesaret kırıcı",
-   "summary": "Guterres, KKTC Cumhurbaşkanı Erhürman’ın, Kıbrıslı Türklerin kültürel, siyasi ve diplomatik faaliyetlerinin engellenmesine ilişkin mektubuna verdiği yanıtta, \"(Kıbrıs'ta) Güven tesisini engelleyen eylemler cesaret…",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreteri-guterres-kibrista-guven-tesisini-engelleyen-eylemler-cesaret-kirici/4092697",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T13:14:52+00:00",
-   "url": "/haber/bm-genel-sekreteri-guterres-kibris-ta-guven-tesisini-engelleyen-eyleml-67282a9b/"
-  },
-  {
    "id": "5cda1aee",
    "title": "Cumhurbaşkanı Erdoğan, vefatının 5. yılında Özdemir Bayraktar'ı andı",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Milli Teknoloji Hamlesi idealinin ve milli SİHA'ların öncü ismi Özdemir Bayraktar'ı vefatının 5. yılında andı.",
@@ -319,17 +341,6 @@
    "category": "gundem",
    "date": "2026-10-18T13:12:25+00:00",
    "url": "/haber/cumhurbaskani-erdogan-vefatinin-5-yilinda-ozdemir-bayraktar-i-andi-5cda1aee/"
-  },
-  {
-   "id": "20cc7307",
-   "title": "Filistinli aktivist Filistin topraklarını gasbeden İsraillilerin Batı Şeria'daki son saldırısını AA'ya anlattı",
-   "summary": "Filistinli aktivist Makhamreh, Filistin topraklarını gasbeden İsraillilerin işgal altındaki Batı Şeria'nın Main beldesine düzenlediği son saldırıya ilişkin, \"Askerler rastgele ateş açarak yerleşimcilerin bu hırsızlığı…",
-   "link": "https://www.aa.com.tr/tr/dunya/filistinli-aktivist-filistin-topraklarini-gasbeden-israillilerin-bati-seriadaki-son-saldirisini-aaya-anlatti/4092693",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T13:10:20+00:00",
-   "url": "/haber/filistinli-aktivist-filistin-topraklarini-gasbeden-israillilerin-bati-20cc7307/"
   },
   {
    "id": "1d136522",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-10-16T09:57:13+00:00",
    "url": "/haber/halk-tv-nin-ardindan-youtube-televizyonun-yerini-tutabilir-mi-253adbeb/"
-  },
-  {
-   "id": "0ad83cbe",
-   "title": "'Menopozu saklıyorsanız, ihtiyacınız olan yardımı alamıyorsunuz demektir'",
-   "summary": "Neredeyse nüfusun yarısını hayatlarının bir döneminde etkilemesine rağmen, perimenopoz ve menopoz belirtileri utanca ve damgalanmaya yol açıyor.",
-   "link": "https://www.bbc.com/turkce/articles/c86vy94e675o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/313c/live/02cbf540-ff46-11f0-9b3d-2378886e61fd.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-03-08T10:44:23+00:00",
-   "url": "/haber/menopozu-sakliyorsaniz-ihtiyaciniz-olan-yardimi-alamiyorsunuz-demektir-0ad83cbe/"
   }
  ]
 }
