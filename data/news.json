@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-18T18:01:07.827493+00:00",
+ "updated": "2026-10-18T18:31:04.089358+00:00",
  "items": [
+  {
+   "id": "3b0bb59a",
+   "title": "Fransa'da protestolar: 1800'den fazla gözaltı, binalar ateşe verildi",
+   "summary": "Fransa'da okullardaki zor koşulları ve hayat pahalılığını protesto etmek için Cumartesi günü düzenlenen gösteriler sırasında ülke genelinde şiddet olayları yaşandı",
+   "link": "https://www.bbc.com/turkce/articles/cw8rzp2e2v5xo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e74b/live/9f3e6fb0-cad5-11f1-9a39-31b474234113.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-18T18:18:13+00:00",
+   "url": "/haber/fransa-da-protestolar-1800-den-fazla-gozalti-binalar-atese-verildi-3b0bb59a/"
+  },
+  {
+   "id": "5967a043",
+   "title": "Sony’den PlayStation’da Gecikmeyi Azaltan Kare Üretim Yöntemi",
+   "summary": "Sony'nin yeni PlayStation frame generation patenti, yapay zekâ ile FPS artırırken giriş gecikmesini azaltmayı hedefliyor.",
+   "link": "https://shiftdelete.net/sony-playstation-frame-generation-patenti",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-18T18:00:57+00:00",
+   "url": "/haber/sony-den-playstation-da-gecikmeyi-azaltan-kare-uretim-yontemi-5967a043/"
+  },
   {
    "id": "9e8daeb9",
    "title": "Honor, dahili kablolu iki yeni powerbank modelini tanıttı",
@@ -66,6 +88,17 @@
    "category": "gundem",
    "date": "2026-10-18T17:24:02+00:00",
    "url": "/haber/istanbul-da-sel-kayip-iki-kisinin-daha-cenazesine-ulasildi-d50827a5/"
+  },
+  {
+   "id": "c6c2e875",
+   "title": "Süper Lig'de Başakşehir, Gaziantep FK'yı mağlup etti",
+   "summary": "İstanbul Başakşehir, Trendyol Süper Lig'in 8. haftasında konuk ettiği Gaziantep FK'yi 2-1 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/super-ligde-basaksehir-gaziantep-fkyi-maglup-etti/4092853",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T17:15:17+00:00",
+   "url": "/haber/super-lig-de-basaksehir-gaziantep-fk-yi-maglup-etti-c6c2e875/"
   },
   {
    "id": "2cff158f",
@@ -321,17 +354,6 @@
    "url": "/haber/ayazaga-da-son-durum-binalar-yikildi-enkaz-kaldiriliyor-ae359f62/"
   },
   {
-   "id": "3b0bb59a",
-   "title": "Fransa'da protestolar: Bin 800'den fazla gözaltı, binalar ateşe verildi",
-   "summary": "Fransa'da okullardaki zor koşulları ve hayat pahalılığını protesto etmek için Cumartesi günü düzenlenen gösteriler sırasında ülke genelinde şiddet olayları yaşandı",
-   "link": "https://www.bbc.com/turkce/articles/cw8rzp2e2v5xo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e74b/live/9f3e6fb0-cad5-11f1-9a39-31b474234113.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-18T14:32:10+00:00",
-   "url": "/haber/fransa-da-protestolar-bin-800-den-fazla-gozalti-binalar-atese-verildi-3b0bb59a/"
-  },
-  {
    "id": "634f1880",
    "title": "230 bin TL'lik iPhone Duo'nun stokları tükendi: Apple'dan açıklama geldi",
    "summary": "Apple, iPhone Duo'ya olan talebin olağanüstü olduğunu belirtti. Türkiye'de 230.000 TL başlangıç fiyatıyla satılan katlanabilir iPhone'un teslim tarihi şu anda 2027 Ocak gözüküyor.",
@@ -385,17 +407,6 @@
    "category": "teknoloji",
    "date": "2026-10-18T14:00:00+00:00",
    "url": "/haber/samsung-one-ui-10-ile-buyuk-degisime-hazirlaniyor-3ec85486/"
-  },
-  {
-   "id": "12f2a80d",
-   "title": "Erzincan-Erzurum kara yolundaki heyelan ve ekiplerin çalışması dronla görüntülendi",
-   "summary": "Erzincan-Erzurum kara yolundaki heyelanın büyüklüğü ve ekiplerin heyelan nedeniyle kapanan yolun bir şeridini ulaşıma açmak için yürüttüğü çalışmalar dronla görüntülendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/erzincan-erzurum-kara-yolundaki-heyelan-ve-ekiplerin-calismasi-dronla-goruntulendi/4092716",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T13:46:01+00:00",
-   "url": "/haber/erzincan-erzurum-kara-yolundaki-heyelan-ve-ekiplerin-calismasi-dronla-12f2a80d/"
   },
   {
    "id": "066dc3d3",
@@ -924,17 +935,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T19:00:44+00:00",
    "url": "/haber/x-te-kotu-gozuken-reklamlar-tarih-oluyor-0c90cead/"
-  },
-  {
-   "id": "ff1ae9e4",
-   "title": "Qualcomm Snapdragon 8 Elite Extreme Gen 6’da Isınma Sorunu mu Var?",
-   "summary": "Qualcomm CMO'su Don McGuire, Snapdragon 8 Elite Extreme Gen 6 ısınma sorunu iddialarını reddetti ancak paylaşımı yeni soru işaretleri doğurdu.",
-   "link": "https://shiftdelete.net/snapdragon-8-elite-extreme-gen-6-isinma-sorunu",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-17T18:00:50+00:00",
-   "url": "/haber/qualcomm-snapdragon-8-elite-extreme-gen-6-da-isinma-sorunu-mu-var-ff1ae9e4/"
   },
   {
    "id": "1be39aca",
