@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-18T13:01:14.144512+00:00",
+ "updated": "2026-10-18T13:13:14.639859+00:00",
  "items": [
+  {
+   "id": "ac64bb94",
+   "title": "Orionid meteor yağmuru: Ne zaman gerçekleşecek ve nasıl görebilirsiniz?",
+   "summary": "Gökyüzü geceleri dünyanın dört bir yanından izlenebilecek Orionid meteor yağmuru ile aydınlanacak. NASA \"yılın en güzel meteor yağmurlarından biri\" olarak tanımlıyor.",
+   "link": "https://www.bbc.com/turkce/articles/cgq4d81wj99o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f1c/live/1b496550-a053-11f0-b687-23a5afa8b42e.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-18T13:06:36+00:00",
+   "url": "/haber/orionid-meteor-yagmuru-ne-zaman-gerceklesecek-ve-nasil-gorebilirsiniz-ac64bb94/"
+  },
   {
    "id": "afcec7db",
    "title": "Huawei, Starlight adıyla yeni bir akıllı telefon markası kurmaya hazırlanıyor",
@@ -11,6 +22,17 @@
    "category": "teknoloji",
    "date": "2026-10-18T13:00:00+00:00",
    "url": "/haber/huawei-starlight-adiyla-yeni-bir-akilli-telefon-markasi-kurmaya-hazirl-afcec7db/"
+  },
+  {
+   "id": "1924a4ac",
+   "title": "Pendik-Gebze sınırında sel sularına kapılan 2 kişiden biri bulundu",
+   "summary": "İstanbul Valisi Gül, Pendik-Gebze sınırında sel sularına kapılan 2 kişiye ilişkin, \"Gebze'de olan kaza neticesinde oradaki vatandaşlarımız Pendik'e sürüklendiler. Aranan kişilerden biri bulundu, diğerinin arama…",
+   "link": "https://www.aa.com.tr/tr/gundem/pendik-gebze-sinirinda-sel-sularina-kapilan-2-kisiden-biri-bulundu/4092683",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T12:57:40+00:00",
+   "url": "/haber/pendik-gebze-sinirinda-sel-sularina-kapilan-2-kisiden-biri-bulundu-1924a4ac/"
   },
   {
    "id": "d50827a5",
@@ -275,17 +297,6 @@
    "category": "gundem",
    "date": "2026-10-18T11:18:11+00:00",
    "url": "/haber/fed-e-iliskin-sahin-beklentiler-ve-kuresel-buyumeye-yonelik-endiseler-bf4a6726/"
-  },
-  {
-   "id": "abf0246a",
-   "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Azerbaycan'ın bağımsızlığının yıl dönümünü kutladı",
-   "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Azerbaycan'ın bağımsızlığının yeniden kazanılmasının yıl dönümünü kutladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-azerbaycanin-bagimsizliginin-yil-donumunu-kutladi/4092609",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T11:13:11+00:00",
-   "url": "/haber/ak-parti-genel-baskan-yardimcisi-zorlu-azerbaycan-in-bagimsizliginin-y-abf0246a/"
   },
   {
    "id": "ec568f7d",
@@ -1232,17 +1243,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T13:10:31+00:00",
    "url": "/haber/mini-ekim-2026-sifir-arac-fiyat-listesi-indirimler-guncel-kampanyalar-c08f39eb/"
-  },
-  {
-   "id": "a79b7ce9",
-   "title": "Türkiye ve Azerbaycan hangi konularda farklılaşıyor?",
-   "summary": "“Tek millet, iki devlet” ilkesiyle son 10 yılda ilişkilerini her alanda derinleştiren ve stratejik ortak seviyesine çıkartan Türkiye ve Azerbaycan, Bakü’nün ilk ve orta dereceli okullarda \"başörtüsü yasağı\" getirmesi ve…",
-   "link": "https://www.bbc.com/turkce/articles/c9ly087xjkp0o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/86be/live/e70e7830-c95e-11f1-9081-f19b8af087ed.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-16T12:47:12+00:00",
-   "url": "/haber/turkiye-ve-azerbaycan-hangi-konularda-farklilasiyor-a79b7ce9/"
   },
   {
    "id": "253adbeb",
