@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T22:01:10.591286+00:00",
+ "updated": "2026-10-18T22:30:59.022871+00:00",
  "items": [
   {
    "id": "9c42419c",
@@ -9,8 +9,74 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-18T22:00:00+00:00",
+   "date": "2026-10-18T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c42419c/"
+  },
+  {
+   "id": "4112bd91",
+   "title": "Eğitim için Isparta’ya giden ekip kanyonda kayboldu: 1 ölü, 13 kayıp",
+   "summary": "İstanbul'dan Isparta’ya eğitime gelen aralarında gönüllülerin de bulunduğu İHH ekibi kanyonda kayboldu. 1 kişi eğitimler sırasında hayatını kaybederken, 13 kişiye ulaşılmaya çalışılıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/egitim-icin-ispartaya-ekip-kanyonda-kayboldu-1-olu-13-kayip-1746916",
+   "image": "https://images.ntv.com.tr/images/EGITIM-ICIN-ISPARTA’YA-GELEN-IHH-GONULLU_1561932_464758-950213.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-18T22:21:46+00:00",
+   "url": "/haber/egitim-icin-isparta-ya-giden-ekip-kanyonda-kayboldu-1-olu-13-kayip-4112bd91/"
+  },
+  {
+   "id": "080b3495",
+   "title": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da Filistinlilerin 120 zeytin ağacına daha zarar verdi",
+   "summary": "Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria'daki Beytüllahim kentinde Filistinlilerin temel geçim kaynaklarından olan 120 zeytin ağacını kesti.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-filistinlilerin-120-zeytin-agacina-daha-zarar-verdi/4092937",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T21:51:31+00:00",
+   "url": "/haber/filistin-topraklarini-gasbeden-israilliler-bati-seria-da-filistinliler-080b3495/"
+  },
+  {
+   "id": "925840ed",
+   "title": "İran Dışişleri Bakanı Erakçi: Netanyahu, hapse girmemek için ABD'yi savaşa sürüklüyor",
+   "summary": "İran Dışişleri Bakanı Abbas Erakçi, İsrail Başbakanı Binyamin Netanyahu'yu, hapse girmemek için ABD'yi İran ile bir başka savaşa sürüklemekle suçladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-netanyahu-hapse-girmemek-icin-abdyi-savasa-surukluyor/4092933",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T21:40:41+00:00",
+   "url": "/haber/iran-disisleri-bakani-erakci-netanyahu-hapse-girmemek-icin-abd-yi-sava-925840ed/"
+  },
+  {
+   "id": "087f9e40",
+   "title": "Belçika'daki protestolarda gözaltı sayısı 195'e çıktı",
+   "summary": "Belçika'nın Brüksel ve Liege kentlerinde eğitim politikalarına ve bütçe kesintilerine karşı dün düzenlenen protestolarda 195 kişinin gözaltına alındığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/belcikadaki-protestolarda-gozalti-sayisi-195e-cikti/4092932",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T21:40:32+00:00",
+   "url": "/haber/belcika-daki-protestolarda-gozalti-sayisi-195-e-cikti-087f9e40/"
+  },
+  {
+   "id": "7fab7515",
+   "title": "Karşıyaka Basketbol'da öncelik güvenli bölge, sonraki hedef play-off",
+   "summary": "Mali sıkıntılar ve borç yüküne rağmen Türkiye Sigorta Basketbol Süper Ligi'nde sezona 2 galibiyetle başlayan Karşıyaka Basketbol, öncelikle ligde kalma endişesi yaşamadan sezonu tamamlamayı, ardından play-off yarışında…",
+   "link": "https://www.aa.com.tr/tr/spor/karsiyaka-basketbolda-oncelik-guvenli-bolge-sonraki-hedef-play-off/4092931",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T21:36:24+00:00",
+   "url": "/haber/karsiyaka-basketbol-da-oncelik-guvenli-bolge-sonraki-hedef-play-off-7fab7515/"
+  },
+  {
+   "id": "e7373f24",
+   "title": "Trump, Ukrayna'nın Rusya'daki dizel rafinerilerini hedef almasını eleştirdi",
+   "summary": "ABD Başkanı Trump, barış görüşmelerinde \"büyük ilerleme\" iddia ederken Ukrayna Devlet Başkanı Vladimir Zelenskiy'i küresel dizel pazarına ciddi zarar veren Rusya'daki dizel rafinerilerine saldırıları ve savaşı bitirmek…",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-ukraynanin-rusyadaki-dizel-rafinerilerini-hedef-almasini-elestirdi/4092930",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T21:34:17+00:00",
+   "url": "/haber/trump-ukrayna-nin-rusya-daki-dizel-rafinerilerini-hedef-almasini-elest-e7373f24/"
   },
   {
    "id": "e6f006b3",
@@ -77,17 +143,6 @@
    "category": "gundem",
    "date": "2026-10-18T20:07:25+00:00",
    "url": "/haber/trabzon-da-silahli-saldirida-bir-kisiyi-yaraladilar-2-supheli-istanbul-2384a3aa/"
-  },
-  {
-   "id": "4112bd91",
-   "title": "Eğitim için Isparta’ya ekip kanyonda kayboldu: 1 ölü, 13 kayıp",
-   "summary": "İstanbul'dan Isparta’ya eğitime gelen aralarında gönüllülerin de bulunduğu İHH ekibi kanyonda kayboldu. 1 kişi eğitimler sırasında hayatını kaybederken, 13 kişiye ulaşılmaya çalışılıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/egitim-icin-ispartaya-ekip-kanyonda-kayboldu-1-olu-13-kayip-1746916",
-   "image": "https://images.ntv.com.tr/images/EGITIM-ICIN-ISPARTA’YA-GELEN-IHH-GONULLU_1561932_464758-950213.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-18T20:03:22+00:00",
-   "url": "/haber/egitim-icin-isparta-ya-ekip-kanyonda-kayboldu-1-olu-13-kayip-4112bd91/"
   },
   {
    "id": "23f61d2c",
@@ -222,17 +277,6 @@
    "url": "/haber/xbox-game-pass-bu-ayin-sonunda-sekiz-oyuna-veda-edecek-0da2c79a/"
   },
   {
-   "id": "a206d7bd",
-   "title": "Yemen'de hükümet güçlerinin, Husiler karşısında farklı kentlerdeki ilerleyişi sürüyor",
-   "summary": "Yemen'de hükümet güçleri, Taiz vilayetinin güneyindeki bir bölgeyi geri alırken Marib ile Cevf'teki Husi mevzilerine insansız hava araçlarıyla (İHA) saldırı düzenledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemende-hukumet-guclerinin-husiler-karsisinda-farkli-kentlerdeki-ilerleyisi-suruyor/4092870",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T18:11:47+00:00",
-   "url": "/haber/yemen-de-hukumet-guclerinin-husiler-karsisinda-farkli-kentlerdeki-iler-a206d7bd/"
-  },
-  {
    "id": "eecabaaf",
    "title": "Isparta'da kanyonda mahsur kalan 14 kişilik İHH gönüllülerinden 1 kişi hayatını kaybetti",
    "summary": "Isparta'nın Sütçüler ilçesindeki Yazılı Kanyon mevkisinde mahsur kalan 14 kişilik İHH gönüllü grubundan bir kişinin cansız bedenine ulaşıldı.",
@@ -264,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-10-18T18:00:00+00:00",
    "url": "/haber/honor-dahili-kablolu-iki-yeni-powerbank-modelini-tanitti-9e8daeb9/"
-  },
-  {
-   "id": "c4e42b79",
-   "title": "Isparta'da kanyonda mahsur kalan İHH gönüllülerinden biri hayatını kaybetti",
-   "summary": "Isparta'nın Sütçüler ilçesindeki Yazılı Kanyon mevkisinde mahsur kalan 14 kişilik İHH gönüllü grubundan bir kişinin cansız bedenine ulaşıldı. Mahsur kalan 13 kişiyi kurtarma çalışmaları sürüyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/ispartada-kanyonda-mahsur-kalan-ihh-gonullulerinden-biri-hayatini-kaybetti/4092865",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T17:55:08+00:00",
-   "url": "/haber/isparta-da-kanyonda-mahsur-kalan-ihh-gonullulerinden-biri-hayatini-kay-c4e42b79/"
   },
   {
    "id": "692c8211",
@@ -332,17 +365,6 @@
    "url": "/haber/rusya-zelenskiy-moskova-ile-muzakere-istemiyor-72283978/"
   },
   {
-   "id": "c6c2e875",
-   "title": "Süper Lig'de Başakşehir, Gaziantep FK'yı mağlup etti",
-   "summary": "İstanbul Başakşehir, Trendyol Süper Lig'in 8. haftasında konuk ettiği Gaziantep FK'yi 2-1 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/super-ligde-basaksehir-gaziantep-fkyi-maglup-etti/4092853",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T17:15:17+00:00",
-   "url": "/haber/super-lig-de-basaksehir-gaziantep-fk-yi-maglup-etti-c6c2e875/"
-  },
-  {
    "id": "2cff158f",
    "title": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
    "summary": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
@@ -354,17 +376,6 @@
    "url": "/haber/sans-topu-sonuclari-sorgulama-ekrani-26-agustos-mpi-sans-topu-sonuclar-2cff158f/"
   },
   {
-   "id": "b30b9502",
-   "title": "Milli halterci Tuana Süren, Avrupa Gençler Şampiyonası'nda 3 altın madalya elde etti",
-   "summary": "Avrupa Gençler ve 23 Yaş Altı Halter Şampiyonası'na katılan Tuana Süren, genç kadınlar +86 kilo kategorisinde 3 altın madalya kazandı.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-halterci-tuana-suren-avrupa-gencler-sampiyonasinda-3-altin-madalya-elde-etti/4092847",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T17:00:15+00:00",
-   "url": "/haber/milli-halterci-tuana-suren-avrupa-gencler-sampiyonasi-nda-3-altin-mada-b30b9502/"
-  },
-  {
    "id": "e6a9edd9",
    "title": "YouTube'un yeni yapay zeka özelliği, video izlenmelerini azaltabilir",
    "summary": "YouTube, ABD'de test ettiği yapay zeka destekli arama önizlemeleriyle videolara tıklamadan yanıt sunmayı hedefliyor. Yeni özellik, içerik üreticilerinin izlenme trafiğini ve gelirlerini etkileyebilir.",
@@ -374,17 +385,6 @@
    "category": "teknoloji",
    "date": "2026-10-18T17:00:00+00:00",
    "url": "/haber/youtube-un-yeni-yapay-zeka-ozelligi-video-izlenmelerini-azaltabilir-e6a9edd9/"
-  },
-  {
-   "id": "2f2d1c89",
-   "title": "Anket: ABD'de ara seçimler yaklaşırken halkın yüzde 71'ine göre ülke \"yanlış yolda\"",
-   "summary": "ABD'de 3 Kasım'da düzenlenecek ara seçim öncesi yapılan ankette, katılımcıların yüzde 71'i ülkenin \"yanlış yolda\" ilerlediğini düşündüğünü belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/anket-abdde-ara-secimler-yaklasirken-halkin-yuzde-71ine-gore-ulke-yanlis-yolda/4092843",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T16:53:57+00:00",
-   "url": "/haber/anket-abd-de-ara-secimler-yaklasirken-halkin-yuzde-71-ine-gore-ulke-ya-2f2d1c89/"
   },
   {
    "id": "e7109dbc",
@@ -444,7 +444,7 @@
   {
    "id": "13038c97",
    "title": "Altıncı Fon Kurulu Toplantısı gerçekleştirdi",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında, Altıncı Fon Kurulu Toplantısı gerçekleştirdi. İletişim Başkanlığı'ndan yapılan açıklamada, önümüzdeki hafta, başta para piyasası fonlarında yer alanlar olmak üzere…",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında, Altıncı Fon Kurulu Toplantısı gerçekleştirildi. İletişim Başkanlığı'ndan yapılan açıklamada, önümüzdeki hafta, başta para piyasası fonlarında yer alanlar olmak üzere…",
    "link": "https://www.trthaber.com/haber/gundem/altinci-fon-kurulu-toplantisi-gerceklestirdi-960475.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/fon-kurulu-toplantisi-trt-2496671.jpg",
    "source": "TRT Haber Manşet Haberleri",
