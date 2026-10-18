@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-18T12:31:01.722435+00:00",
+ "updated": "2026-10-18T13:01:14.144512+00:00",
  "items": [
+  {
+   "id": "afcec7db",
+   "title": "Huawei, Starlight adıyla yeni bir akıllı telefon markası kurmaya hazırlanıyor",
+   "summary": "Huawei'nin yeni bir akıllı telefon markası üzerinde çalıştığı belirtiliyor. Starlight adıyla piyasaya çıkması beklenen markanın, performans odaklı ve uygun fiyatlı modellerle öne çıkacak.",
+   "link": "https://www.donanimhaber.com/huawei-starlight-adiyla-yeni-bir-telefon-markasi-kuruyor--211769",
+   "image": "https://www.donanimhaber.com/images/images/haber/211769/1200x675huawei-starlight-adiyla-yeni-bir-telefon-markasi-kuruyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-18T13:00:00+00:00",
+   "url": "/haber/huawei-starlight-adiyla-yeni-bir-akilli-telefon-markasi-kurmaya-hazirl-afcec7db/"
+  },
+  {
+   "id": "d50827a5",
+   "title": "İstanbul'da sel: Kayıp iki kişinin daha cesedine ulaşıldı",
+   "summary": "İstanbul'da etkili olan sağanak yağış sonrasında Ayazağa'da meydana gelen selde kaybolan bir kişinin daha cesedine ulaşıldı, iki kişi hâlâ aranıyor. Pendik'te kaybolan iki kişiden birinin de cesedine ulaşıldı.…",
+   "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8870/live/f5e193a0-cac7-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-18T12:55:07+00:00",
+   "url": "/haber/istanbul-da-sel-kayip-iki-kisinin-daha-cesedine-ulasildi-d50827a5/"
+  },
+  {
+   "id": "240835b3",
+   "title": "İran’ın yeni Savunma Bakanı Ahlaki'den ilk açıklama: Siyonistlerle savaşmak için parmağımız tetikte hazırız",
+   "summary": "İran’ın yeni Savunma Bakanı Mehrdad Ahlaki Kitapçi, İsrail’in İran’a yönelik olası saldırılarına karşı hazırlık içerisinde olduklarını belirterek, \"Siyonistlerle savaşmak için parmağımız tetikte hazırız.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-in-yeni-savunma-bakani-ahlakiden-ilk-aciklama-siyonistlerle-savasmak-icin-parmagimiz-tetikte-haziriz/4092678",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T12:52:18+00:00",
+   "url": "/haber/iran-in-yeni-savunma-bakani-ahlaki-den-ilk-aciklama-siyonistlerle-sava-240835b3/"
+  },
+  {
+   "id": "6c2ccbcf",
+   "title": "Belçika'nın Kudüs Başkonsolosu, Filistin topraklarını gasbeden İsraillilerin saldırılarını anlattı",
+   "summary": "İşgal altındaki Batı Şeria'nın Taybe beldesinde Filistin topraklarını gasbeden maskeli İsraillilerin saldırısına uğrayan diplomatlardan Belçika'nın Kudüs Başkonsolosu Anick Van Calster, \"Şiddet, gerçekten yeni bir…",
+   "link": "https://www.aa.com.tr/tr/dunya/belcikanin-kudus-baskonsolosu-filistin-topraklarini-gasbeden-israillilerin-saldirilarini-anlatti/4092677",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T12:45:04+00:00",
+   "url": "/haber/belcika-nin-kudus-baskonsolosu-filistin-topraklarini-gasbeden-israilli-6c2ccbcf/"
+  },
   {
    "id": "1d0f3c8c",
    "title": "İstanbul'daki sel faciasında can kaybı 5'e yükseldi",
@@ -9,8 +53,19 @@
    "image": "https://images.ntv.com.tr/images/haliç-108629.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-18T12:22:34+00:00",
+   "date": "2026-10-18T12:44:05+00:00",
    "url": "/haber/istanbul-daki-sel-faciasinda-can-kaybi-5-e-yukseldi-1d0f3c8c/"
+  },
+  {
+   "id": "8a09657a",
+   "title": "İletişim Başkanı Duran, Özdemir Bayraktar'ı vefatının 5. yılında andı",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Milli Teknoloji Hamlesi idealinin ve milli SİHA'ların öncü ismi Özdemir Bayraktar'ı vefatının beşinci yılında rahmetle andı.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-ozdemir-bayraktari-vefatinin-5-yilinda-andi/4092670",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T12:31:04+00:00",
+   "url": "/haber/iletisim-baskani-duran-ozdemir-bayraktar-i-vefatinin-5-yilinda-andi-8a09657a/"
   },
   {
    "id": "6e981153",
@@ -112,17 +167,6 @@
    "url": "/haber/cumhurbaskani-erdogan-dan-azerbaycan-a-kutlama-mesaji-67841e59/"
   },
   {
-   "id": "d50827a5",
-   "title": "İstanbul'da sel: Ölü sayısı beşe yükseldi",
-   "summary": "İstanbul'da etkili olan sağanak yağış sonrasında Ayazağa'da meydana gelen selde kaybolan bir kişinin daha cesedine ulaşıldı. Böylelikle kentte selde hayatını kaybedenlerin sayısı beşe yükseldi.",
-   "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8870/live/f5e193a0-cac7-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-18T11:50:38+00:00",
-   "url": "/haber/istanbul-da-sel-olu-sayisi-bese-yukseldi-d50827a5/"
-  },
-  {
    "id": "4cf539bd",
    "title": "Yağış bitiyor, sıcaklık artıyor. İstanbul'da yeni haftada hava nasıl olacak?",
    "summary": "İstanbul'a felaketi getiren yağışlar bugünden itibaren bölgeyi terk ediyor. Sıcaklıklar ise yeni haftada kademeli olarak artacak.",
@@ -143,6 +187,17 @@
    "category": "gundem",
    "date": "2026-10-18T11:47:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-azerbaycan-in-bagimsizlik-gunu-nu-kutladi-99173966/"
+  },
+  {
+   "id": "6a7768fd",
+   "title": "Kasımpaşa sahasından 3 puanla ayrıldı",
+   "summary": "Kasımpaşa, Trendyol Süper Lig'in 8. haftasında konuk ettiği Samsunspor'u 4-1 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-sahasindan-3-puanla-ayrildi/4092624",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T11:46:08+00:00",
+   "url": "/haber/kasimpasa-sahasindan-3-puanla-ayrildi-6a7768fd/"
   },
   {
    "id": "2fd9de43",
@@ -244,17 +299,6 @@
    "url": "/haber/kyk-burs-sonuclari-sorgulama-ekrani-2026-kyk-burs-sonuclari-aciklandi-ec568f7d/"
   },
   {
-   "id": "679171ca",
-   "title": "Sakarya'da dere taşkınında bebeği halat düzeneğiyle kurtaran AFAD personeli, o anları anlattı",
-   "summary": "Sakarya'da sağanak sonucu dere taşkınında aralarında bir bebeğin de olduğu 8 kişiyi halat düzeneğiyle kurtaran AFAD personelinin sorumlu ekip amiri, o an yaşadıklarını paylaştı.",
-   "link": "https://www.aa.com.tr/tr/gundem/sakaryada-dere-taskininda-bebegi-halat-duzenegiyle-kurtaran-afad-personeli-o-anlari-anlatti/4092602",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T11:07:21+00:00",
-   "url": "/haber/sakarya-da-dere-taskininda-bebegi-halat-duzenegiyle-kurtaran-afad-pers-679171ca/"
-  },
-  {
    "id": "ed2dd4f7",
    "title": "Mağazadan iPhone Duo Satın Almak İsteyenlere Kötü Haber",
    "summary": "iPhone Duo stok durumu ile ilgili yeni raporlar, lansman gününde mağazadan doğrudan satın almanın zor olabileceğini gösteriyor. Detaylar haberimizde.",
@@ -264,39 +308,6 @@
    "category": "teknoloji",
    "date": "2026-10-18T11:00:00+00:00",
    "url": "/haber/magazadan-iphone-duo-satin-almak-isteyenlere-kotu-haber-ed2dd4f7/"
-  },
-  {
-   "id": "6c5e1dc2",
-   "title": "İstanbul'daki selde kaybolan 1 kişinin daha cansız bedenine ulaşıldı",
-   "summary": "İstanbul'daki selde kaybolan bir kişinin daha cansız bedeninin bulunmasıyla afette hayatını kaybedenlerin sayısı 5'e yükseldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-selde-kaybolan-1-kisinin-daha-cansiz-bedenine-ulasildi/4092595",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T10:56:38+00:00",
-   "url": "/haber/istanbul-daki-selde-kaybolan-1-kisinin-daha-cansiz-bedenine-ulasildi-6c5e1dc2/"
-  },
-  {
-   "id": "ab84a292",
-   "title": "Gazze'de yaklaşık 3 yıl sonra enkazdan çıkarılan 75 Filistinlinin naaşı toprağa verildi",
-   "summary": "İsrail ordusunun Aralık 2023'te Gazze kentinin doğusundaki Derec Mahallesi'ne düzenlediği saldırıda hayatını kaybeden, aralarında kadın ve çocukların da bulunduğu 75 Filistinlinin naaşı, yaklaşık 3 yıl sonra enkazdan…",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzede-yaklasik-3-yil-sonra-enkazdan-cikarilan-75-filistinlinin-naasi-topraga-verildi/4092593",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T10:54:39+00:00",
-   "url": "/haber/gazze-de-yaklasik-3-yil-sonra-enkazdan-cikarilan-75-filistinlinin-naas-ab84a292/"
-  },
-  {
-   "id": "ef995f0b",
-   "title": "Akciğer ameliyatı geçiren Papa 14. Leo, Vatikan'da ilk kez halkın karşısına çıktı",
-   "summary": "Vatikan Devlet Başkanı Papa 14. Leo, 13 Ekim'de akciğerindeki kitlenin (nodül) alınması için geçirdiği operasyonun ardından Vatikan'da ilk kez halkın karşısına çıktığı pazar duasında, aktivitelerine yavaş yavaş geri…",
-   "link": "https://www.aa.com.tr/tr/dunya/akciger-ameliyati-geciren-papa-14-leo-vatikanda-ilk-kez-halkin-karsisina-cikti/4092592",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T10:53:00+00:00",
-   "url": "/haber/akciger-ameliyati-geciren-papa-14-leo-vatikan-da-ilk-kez-halkin-karsis-ef995f0b/"
   },
   {
    "id": "6a8302be",
@@ -310,26 +321,26 @@
    "url": "/haber/2026-yilinin-9-aylik-surecinde-60-cinayet-dosyasi-aydinlatildi-6a8302be/"
   },
   {
-   "id": "8d2f3510",
-   "title": "Ilgaz Dağı kar yağışıyla beyaza büründü",
-   "summary": "Kastamonu'nun yüksek kesimlerinde etkili olan kar yağışı sonrası Ilgaz Dağı beyaza büründü.",
-   "link": "https://www.aa.com.tr/tr/gundem/ilgaz-dagi-kar-yagisiyla-beyaza-burundu/4092587",
+   "id": "56274056",
+   "title": "Uşak, Karabük ve Kastamonu'nun yüksek kesimleri karla kaplandı",
+   "summary": "Uşak, Karabük ve Kastamonu'da etkili olan kar yağışının ardından yüksek kesimler beyaza büründü.",
+   "link": "https://www.aa.com.tr/tr/gundem/usak-karabuk-ve-kastamonunun-yuksek-kesimleri-karla-kaplandi/4092587",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-18T10:41:41+00:00",
-   "url": "/haber/ilgaz-dagi-kar-yagisiyla-beyaza-burundu-8d2f3510/"
+   "url": "/haber/usak-karabuk-ve-kastamonu-nun-yuksek-kesimleri-karla-kaplandi-56274056/"
   },
   {
-   "id": "f69eb03b",
-   "title": "İstanbul'daki selde can kaybı 5'e yükseldi",
-   "summary": "İstanbul'daki selde kaybolan bir kişinin daha cesedi bulunmasıyla afette hayatını kaybedenlerin sayısı 5'e yükseldi.",
-   "link": "https://www.trthaber.com/haber/gundem/istanbuldaki-selde-can-kaybi-5e-yukseldi-960463.html",
+   "id": "3441c91b",
+   "title": "Selde can kaybı 6'ya yükseldi",
+   "summary": "İstanbul ve Kocaeli'deki selde kaybolan iki kişinin daha cesedinin bulunmasıyla afette hayatını kaybedenlerin sayısı 6'ya yükseldi.",
+   "link": "https://www.trthaber.com/haber/gundem/selde-can-kaybi-6ya-yukseldi-960463.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/arama-2496634.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-18T10:37:00+00:00",
-   "url": "/haber/istanbul-daki-selde-can-kaybi-5-e-yukseldi-f69eb03b/"
+   "url": "/haber/selde-can-kaybi-6-ya-yukseldi-3441c91b/"
   },
   {
    "id": "3b0bb59a",
@@ -880,17 +891,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T17:47:44+00:00",
    "url": "/haber/tamamen-elektrikli-mercedes-amg-gt-suv-tanitildi-f6883cc4/"
-  },
-  {
-   "id": "3d73d81f",
-   "title": "Füzyon enerjisinde ezber bozan hamle: Masaüstü reaktör geliyor",
-   "summary": "Cambridge Heavy Industries, masa üzerine sığan küçük bir füzyon reaktörü geliştiriyor. Şirket, iki ana lazerle enerji üretmeyi ve gelecekte kendi füzyon santralini kurmayı hedefliyor.",
-   "link": "https://www.donanimhaber.com/masaustu-nukleer-fuzyon-reaktoru-gelistiriliyor--211754",
-   "image": "https://www.donanimhaber.com/images/images/haber/211754/1200x675masaustu-nukleer-fuzyon-reaktoru-gelistiriliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-17T17:30:00+00:00",
-   "url": "/haber/fuzyon-enerjisinde-ezber-bozan-hamle-masaustu-reaktor-geliyor-3d73d81f/"
   },
   {
    "id": "10b1c0ef",
