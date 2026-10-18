@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T21:01:07.682483+00:00",
+ "updated": "2026-10-18T21:30:57.455407+00:00",
  "items": [
   {
    "id": "9c42419c",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-18T21:00:00+00:00",
+   "date": "2026-10-18T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c42419c/"
+  },
+  {
+   "id": "e6f006b3",
+   "title": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı’nda bir petrol tankerinin mayına çarptığını açıkladı",
+   "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın güneyinde İran'ın belirlediği güzergah ve kuralları ihlal ettiği öne sürülen bir petrol tankerinin deniz mayınına çarptığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-bir-petrol-tankerinin-mayina-carptigini-acikladi/4092928",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T21:04:51+00:00",
+   "url": "/haber/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-bir-petrol-tankerinin-e6f006b3/"
+  },
+  {
+   "id": "bc4c36a5",
+   "title": "Milli futbolcu Arda Güler'in gol attığı maçta Real Madrid, Sevilla'yı 4-1 yendi",
+   "summary": "İspanya LaLiga ekiplerinden Real Madrid, milli futbolcu Arda Güler'in 1 gol attığı maçta Sevilla'yı 4-1 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-futbolcu-arda-gulerin-gol-attigi-macta-real-madrid-sevillayi-4-1-yendi/4092927",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T21:03:47+00:00",
+   "url": "/haber/milli-futbolcu-arda-guler-in-gol-attigi-macta-real-madrid-sevilla-yi-4-bc4c36a5/"
   },
   {
    "id": "d7b72796",
@@ -211,6 +233,17 @@
    "url": "/haber/yemen-de-hukumet-guclerinin-husiler-karsisinda-farkli-kentlerdeki-iler-a206d7bd/"
   },
   {
+   "id": "eecabaaf",
+   "title": "Isparta'da kanyonda mahsur kalan 14 kişilik İHH gönüllülerinden 1 kişi hayatını kaybetti",
+   "summary": "Isparta'nın Sütçüler ilçesindeki Yazılı Kanyon mevkisinde mahsur kalan 14 kişilik İHH gönüllü grubundan bir kişinin cansız bedenine ulaşıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/ispartada-kanyonda-mahsur-kalan-14-kisilik-ihh-gonullulerinden-1-kisi-hayatini-kaybetti-960479.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/ihh-kanyon-aa-2496670.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-18T18:04:00+00:00",
+   "url": "/haber/isparta-da-kanyonda-mahsur-kalan-14-kisilik-ihh-gonullulerinden-1-kisi-eecabaaf/"
+  },
+  {
    "id": "5967a043",
    "title": "Sony’den PlayStation’da Gecikmeyi Azaltan Kare Üretim Yöntemi",
    "summary": "Sony'nin yeni PlayStation frame generation patenti, yapay zekâ ile FPS artırırken giriş gecikmesini azaltmayı hedefliyor.",
@@ -354,17 +387,6 @@
    "url": "/haber/anket-abd-de-ara-secimler-yaklasirken-halkin-yuzde-71-ine-gore-ulke-ya-2f2d1c89/"
   },
   {
-   "id": "ca4f4a3d",
-   "title": "İsrail askerlerinden \"Gazze'de sivillerin hedef alındığı ve evlerin sistematik yıkıldığı\" itirafları",
-   "summary": "İsrail'in Gazze'deki saldırılarına katılan askerler, sivillerin hedef alındığını, silahsız Filistinlilerin öldürüldüğünü, konutların sistematik biçimde yıkıldığını ve Filistinlilerin insan kalkanı olarak kullanıldığını…",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerinden-gazzede-sivillerin-hedef-alindigi-ve-evlerin-sistematik-yikildigi-itiraflari/4092823",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T16:33:43+00:00",
-   "url": "/haber/israil-askerlerinden-gazze-de-sivillerin-hedef-alindigi-ve-evlerin-sis-ca4f4a3d/"
-  },
-  {
    "id": "e7109dbc",
    "title": "Grafik tasarım ve render için laptop tavsiyeleri",
    "summary": "Tasarım, 3D modelleme ve render için güçlü laptop önerisi arayanlar buraya! İşte grafik tasarımcılar, mimarlar ve içerik üreticileri için en iyi dizüstü bilgisayarlar:",
@@ -418,17 +440,6 @@
    "category": "teknoloji",
    "date": "2026-10-18T16:00:00+00:00",
    "url": "/haber/iphone-duo-icin-magazalarda-stok-krizi-yasanabilir-e77e50ab/"
-  },
-  {
-   "id": "83e133c5",
-   "title": "İletişim Başkanlığı, Konya Kitap Günleri'nde",
-   "summary": "Konya Büyükşehir Belediyesi tarafından bu yıl 13'üncüsü düzenlenen Konya Kitap Günleri'nde Cumhurbaşkanlığı İletişim Başkanlığı standı yoğun ilgi görüyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/iletisim-baskanligi-konya-kitap-gunlerinde/4092799",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T15:50:43+00:00",
-   "url": "/haber/iletisim-baskanligi-konya-kitap-gunleri-nde-83e133c5/"
   },
   {
    "id": "13038c97",
@@ -858,17 +869,6 @@
    "category": "teknoloji",
    "date": "2026-10-18T07:00:51+00:00",
    "url": "/haber/cinliler-bunu-da-yapti-gta-6-diski-cin-de-satisa-sunuldu-ab34538a/"
-  },
-  {
-   "id": "8c2fa9cc",
-   "title": "Sosyal medyada mevzuata aykırı ilan paylaşan işletmelere 15,2 milyon ceza",
-   "summary": "Ticaret Bakanlığı, sosyal medyada mevzuata aykırı ilan veren toplam 152 emlak ve galeri işletmesine bugüne kadar 15,2 milyon lira idari para cezası uygulandığını açıkladı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-152-milyon-ceza-960448.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2284000/sosyal-medya-aa-2285552.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-18T06:36:00+00:00",
-   "url": "/haber/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-15-2-milyon-c-8c2fa9cc/"
   },
   {
    "id": "799fe5a3",
