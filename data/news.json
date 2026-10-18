@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-18T15:31:02.017258+00:00",
+ "updated": "2026-10-18T16:01:08.766167+00:00",
  "items": [
+  {
+   "id": "6fabdd6b",
+   "title": "OpenAI İnsansı Robot Dünyasına Giriyor",
+   "summary": "OpenAI, insansı robot projesi üzerinde çalışıyor. Sam Altman, 2027 yılında bir demo hedeflediklerini ve odaklarının robotun beyni olduğunu belirtti.",
+   "link": "https://shiftdelete.net/openai-insansi-robot-projesi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-18T16:00:50+00:00",
+   "url": "/haber/openai-insansi-robot-dunyasina-giriyor-6fabdd6b/"
+  },
+  {
+   "id": "e77e50ab",
+   "title": "iPhone Duo için mağazalarda stok krizi yaşanabilir",
+   "summary": "Apple iPhone Duo stoklarının lansman gününde mağazalarda bulunmayabileceği bildiriliyor. Ön siparişlerde yaşanan gecikmeler, sınırlı üretim ve yoğun talep cihazın teslimat sürecini etkileyebilir.",
+   "link": "https://www.donanimhaber.com/iphone-duo-icin-magazalarda-stok-krizi-yasanabilir--211783",
+   "image": "https://www.donanimhaber.com/images/images/haber/211783/1200x675iphone-duo-icin-magazalarda-stok-krizi-yasanabilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-18T16:00:00+00:00",
+   "url": "/haber/iphone-duo-icin-magazalarda-stok-krizi-yasanabilir-e77e50ab/"
+  },
+  {
+   "id": "34808ca5",
+   "title": "Fon Kurulu altıncı kez toplandı. Tasfiye sürecindeki fon sayısı 131'den 65'e düştü",
+   "summary": "Fon Koordinasyon Kurulu, altıncı kez toplandı. Bugüne kadar 45 binin üzerinde kişiye toplam yaklaşık 40,8 milyar TL'lik tasfiye işleminin tamamlandığı belirtildi.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-kurulu-altinci-kez-toplandi-tasfiye-surecindeki-fon-sayisi-131den-65e-dustu-1746900",
+   "image": "https://images.ntv.com.tr/images/AA-20261002-42631394-42631392-IKINCI_FON_KURULU_TOPLANTISI-472145-573138.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-18T15:57:24+00:00",
+   "url": "/haber/fon-kurulu-altinci-kez-toplandi-tasfiye-surecindeki-fon-sayisi-131-den-34808ca5/"
+  },
+  {
+   "id": "13038c97",
+   "title": "Altıncı Fon Kurulu Toplantısı gerçekleştirdi",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında, Altıncı Fon Kurulu Toplantısı gerçekleştirdi. İletişim Başkanlığı'ndan yapılan açıklamada, önümüzdeki hafta, başta para piyasası fonlarında yer alanlar olmak üzere…",
+   "link": "https://www.trthaber.com/haber/gundem/altinci-fon-kurulu-toplantisi-gerceklestirdi-960475.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2492000/fon-kurulu-trt-2492926.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-18T15:43:00+00:00",
+   "url": "/haber/altinci-fon-kurulu-toplantisi-gerceklestirdi-13038c97/"
+  },
   {
    "id": "39201676",
    "title": "250 MW'lık güneş santralinde sıra dışı proje: Ceylan yetiştirilecek",
@@ -11,6 +55,17 @@
    "category": "teknoloji",
    "date": "2026-10-18T15:30:00+00:00",
    "url": "/haber/250-mw-lik-gunes-santralinde-sira-disi-proje-ceylan-yetistirilecek-39201676/"
+  },
+  {
+   "id": "e4f7bab6",
+   "title": "Trump, İsrail seçimlerinde Netanyahu'ya desteğini açıkladı",
+   "summary": "ABD Başkanı Donald Trump, İsrail’de 27 Ekim’de yapılacak seçimler için İsrail Başbakanı Binyamin Netanyahu'ya destek verdiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-israil-secimlerinde-netanyahuya-destegini-acikladi/4092771",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T15:26:22+00:00",
+   "url": "/haber/trump-israil-secimlerinde-netanyahu-ya-destegini-acikladi-e4f7bab6/"
   },
   {
    "id": "1d0f3c8c",
@@ -90,15 +145,15 @@
    "url": "/haber/ayazaga-da-son-durum-binalar-yikildi-enkaz-kaldiriliyor-ae359f62/"
   },
   {
-   "id": "e9524823",
-   "title": "Kırklareli'nde ilaç fabrikasında çıkan yangına müdahale ediliyor",
-   "summary": "Kırklareli'nin Vize ilçesinde bir ilaç fabrikasında çıkan yangına müdahale ediliyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/kirklarelinde-ilac-fabrikasinda-cikan-yangina-mudahale-ediliyor/4092747",
+   "id": "53003b8c",
+   "title": "Kırklareli'nde ilaç fabrikasında çıkan yangın kontrol altına alındı",
+   "summary": "Kırklareli'nin Vize ilçesinde ilaç fabrikasında çıkan yangın, kontrol altına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/kirklarelinde-ilac-fabrikasinda-cikan-yangin-kontrol-altina-alindi/4092747",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-18T14:33:19+00:00",
-   "url": "/haber/kirklareli-nde-ilac-fabrikasinda-cikan-yangina-mudahale-ediliyor-e9524823/"
+   "url": "/haber/kirklareli-nde-ilac-fabrikasinda-cikan-yangin-kontrol-altina-alindi-53003b8c/"
   },
   {
    "id": "3b0bb59a",
@@ -321,17 +376,6 @@
    "url": "/haber/huawei-starlight-adiyla-yeni-bir-akilli-telefon-markasi-kurmaya-hazirl-afcec7db/"
   },
   {
-   "id": "1924a4ac",
-   "title": "Pendik-Gebze sınırında sel sularına kapılan 2 kişiden biri bulundu",
-   "summary": "İstanbul Valisi Gül, Pendik-Gebze sınırında sel sularına kapılan 2 kişiye ilişkin, \"Gebze'de olan kaza neticesinde oradaki vatandaşlarımız Pendik'e sürüklendiler. Aranan kişilerden biri bulundu, diğerinin arama…",
-   "link": "https://www.aa.com.tr/tr/gundem/pendik-gebze-sinirinda-sel-sularina-kapilan-2-kisiden-biri-bulundu/4092683",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T12:57:40+00:00",
-   "url": "/haber/pendik-gebze-sinirinda-sel-sularina-kapilan-2-kisiden-biri-bulundu-1924a4ac/"
-  },
-  {
    "id": "d50827a5",
    "title": "İstanbul'da sel: Kayıp iki kişinin daha cesedine ulaşıldı",
    "summary": "İstanbul'da etkili olan sağanak yağış sonrasında Ayazağa'da meydana gelen selde kaybolan bir kişinin daha cesedine ulaşıldı, iki kişi hâlâ aranıyor. Pendik'te kaybolan iki kişiden birinin de cesedine ulaşıldı.…",
@@ -550,17 +594,6 @@
    "category": "teknoloji",
    "date": "2026-10-18T09:48:06+00:00",
    "url": "/haber/iddia-playstation-6-nin-yalnizca-ram-ve-ssd-maliyeti-680-dolarin-uzeri-dd7845ba/"
-  },
-  {
-   "id": "864bfeed",
-   "title": "Resmi Gazete'de bugün. 18 Ekim 2026 tarihli Resmi Gazete kararları neler?",
-   "summary": "Resmi Gazete'de 18 Ekim 2026 tarihli kararlar yayımlandı. Günün gündeminde kamu kurumlarının düzenleme ve uygulama yönetmelikleri kararları da yer aldı.",
-   "link": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-18-ekim-2026-tarihli-resmi-gazete-kararlari-neler-1746792",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_d6a254b33abdc49866289-774765.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-18T09:47:25+00:00",
-   "url": "/haber/resmi-gazete-de-bugun-18-ekim-2026-tarihli-resmi-gazete-kararlari-nele-864bfeed/"
   },
   {
    "id": "2e037b71",
@@ -794,17 +827,6 @@
    "url": "/haber/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-15-2-milyon-c-8c2fa9cc/"
   },
   {
-   "id": "23be5954",
-   "title": "Klasikten vazgeçmeyenlere: F/P odaklı en iyi 1080p Full HD monitörler",
-   "summary": "1080p monitör modelleri, günlük kullanımda net görüntü ve uygun fiyat arayanlardan oyunculara kadar geniş bir kitleye hitap ediyor. İşte farklı bütçelere uygun Full HD monitör seçenekleri…",
-   "link": "https://www.donanimhaber.com/en-iyi-1080p-full-hd-monitorler--211666",
-   "image": "https://www.donanimhaber.com/images/images/haber/211666/1200x675en-iyi-1080p-full-hd-monitorler.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-18T06:30:00+00:00",
-   "url": "/haber/klasikten-vazgecmeyenlere-f-p-odakli-en-iyi-1080p-full-hd-monitorler-23be5954/"
-  },
-  {
    "id": "6868f3d5",
    "title": "Firari üç FETÖ'cü İstanbul'da yakalandı",
    "summary": "Haklarında arama kaydı bulunan Fetullahçı Terör Örgütü (FETÖ) üyesi üç firari şüpheli, İstanbul'da düzenlenen eş zamanlı operasyonlarla yakalandı.",
@@ -836,17 +858,6 @@
    "category": "teknoloji",
    "date": "2026-10-18T06:00:28+00:00",
    "url": "/haber/turkiye-de-elektrikli-arac-sayisi-491-bini-asti-iste-detaylar-c42b765e/"
-  },
-  {
-   "id": "fdb9210e",
-   "title": "İstanbul'da toprak kayması nedeniyle 9 katlı bina tahliye edildi",
-   "summary": "İstanbul Pendik'te 9 katlı binanın önünde bulunan inşaat alanında toprak kayması meydana geldi. Sitenin bahçesinin bitişiğindeki bölümün de etkilendiği toprak kayması nedeniyle apartman sakinleri binadan tahliye edildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-toprak-kaymasi-nedeniyle-9-katli-bina-tahliye-edildi-960444.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/istanbul-bina-tahliyedha-2496570.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-18T05:46:00+00:00",
-   "url": "/haber/istanbul-da-toprak-kaymasi-nedeniyle-9-katli-bina-tahliye-edildi-fdb9210e/"
   },
   {
    "id": "082f761c",
@@ -957,17 +968,6 @@
    "category": "teknoloji",
    "date": "2026-10-17T17:00:25+00:00",
    "url": "/haber/yuksek-ses-kalitesiyle-one-cikiyor-degistirilebilir-pille-fark-yaratiy-740e5c92/"
-  },
-  {
-   "id": "0b0630c5",
-   "title": "Google Play’de Sahte WhatsApp Tehlikesi: 500 Bin Kişi İndirmiş",
-   "summary": "Google Play'de orijinalini taklit eden sahte WhatsApp uygulaması 500 bin indirmeyi aştı. Kullanıcıları uyaran detaylar haberimizde.",
-   "link": "https://shiftdelete.net/google-play-sahte-whatsapp-uygulamasi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-17T17:00:21+00:00",
-   "url": "/haber/google-play-de-sahte-whatsapp-tehlikesi-500-bin-kisi-indirmis-0b0630c5/"
   },
   {
    "id": "51101528",
