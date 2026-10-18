@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-18T16:30:57.879148+00:00",
+ "updated": "2026-10-18T16:51:27.287420+00:00",
  "items": [
+  {
+   "id": "475ddb85",
+   "title": "Baskı sanatının öncü ismi: Süleyman Saim Tekcan",
+   "summary": "Türk özgün baskı sanatının ve modern resminin öncü isimlerinden, akademisyen, ressam ve sinema oyuncusu Prof. Dr. Süleyman Saim Tekcan, akademik ve sanatsal çalışmalarıyla iz bıraktı.",
+   "link": "https://www.aa.com.tr/tr/kultur/baski-sanatinin-oncu-ismi-suleyman-saim-tekcan/4092825",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T16:35:19+00:00",
+   "url": "/haber/baski-sanatinin-oncu-ismi-suleyman-saim-tekcan-475ddb85/"
+  },
+  {
+   "id": "ca4f4a3d",
+   "title": "İsrail askerlerinden \"Gazze'de sivillerin hedef alındığı ve evlerin sistematik yıkıldığı\" itirafları",
+   "summary": "İsrail'in Gazze'deki saldırılarına katılan askerler, sivillerin hedef alındığını, silahsız Filistinlilerin öldürüldüğünü, konutların sistematik biçimde yıkıldığını ve Filistinlilerin insan kalkanı olarak kullanıldığını…",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerinden-gazzede-sivillerin-hedef-alindigi-ve-evlerin-sistematik-yikildigi-itiraflari/4092823",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T16:33:43+00:00",
+   "url": "/haber/israil-askerlerinden-gazze-de-sivillerin-hedef-alindigi-ve-evlerin-sis-ca4f4a3d/"
+  },
+  {
+   "id": "e7109dbc",
+   "title": "Grafik tasarım ve render için laptop tavsiyeleri",
+   "summary": "Tasarım, 3D modelleme ve render için güçlü laptop önerisi arayanlar buraya! İşte grafik tasarımcılar, mimarlar ve içerik üreticileri için en iyi dizüstü bilgisayarlar:",
+   "link": "https://www.donanimhaber.com/grafik-tasarim-ve-render-icin-laptop-tavsiyeleri--211625",
+   "image": "https://www.donanimhaber.com/images/images/haber/211625/1200x675grafik-tasarim-ve-render-icin-laptop-tavsiyeleri.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-18T16:30:00+00:00",
+   "url": "/haber/grafik-tasarim-ve-render-icin-laptop-tavsiyeleri-e7109dbc/"
+  },
   {
    "id": "9379a74f",
    "title": "İtalya'da dünkü olaylı protestoların bilançosu ağır oldu",
@@ -11,6 +44,17 @@
    "category": "gundem",
    "date": "2026-10-18T16:23:42+00:00",
    "url": "/haber/italya-da-dunku-olayli-protestolarin-bilancosu-agir-oldu-9379a74f/"
+  },
+  {
+   "id": "2ec207ce",
+   "title": "Yunanistan'ın Rodop ilinde ormanlık alanda yangın çıktı",
+   "summary": "Yunanistan'ın Rodop ilinde ormanlık alanda yangın çıktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/yunanistanin-rodop-ilinde-ormanlik-alanda-yangin-cikti/4092816",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T16:20:23+00:00",
+   "url": "/haber/yunanistan-in-rodop-ilinde-ormanlik-alanda-yangin-cikti-2ec207ce/"
   },
   {
    "id": "be5ee16d",
@@ -66,6 +110,17 @@
    "category": "teknoloji",
    "date": "2026-10-18T16:00:00+00:00",
    "url": "/haber/iphone-duo-icin-magazalarda-stok-krizi-yasanabilir-e77e50ab/"
+  },
+  {
+   "id": "83e133c5",
+   "title": "İletişim Başkanlığı, Konya Kitap Günleri'nde",
+   "summary": "Konya Büyükşehir Belediyesi tarafından bu yıl 13'üncüsü düzenlenen Konya Kitap Günleri'nde Cumhurbaşkanlığı İletişim Başkanlığı standı yoğun ilgi görüyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/iletisim-baskanligi-konya-kitap-gunlerinde/4092799",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-18T15:50:43+00:00",
+   "url": "/haber/iletisim-baskanligi-konya-kitap-gunleri-nde-83e133c5/"
   },
   {
    "id": "13038c97",
@@ -266,28 +321,6 @@
    "url": "/haber/samsung-one-ui-10-ile-buyuk-degisime-hazirlaniyor-3ec85486/"
   },
   {
-   "id": "44f99ed1",
-   "title": "Cumhurbaşkanı Erdoğan şair Nuri Pakdil'i andı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Kudüs Şairi\" Nuri Pakdil'i vefatının 7. yıl dönümünde yad etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-sair-nuri-pakdili-andi/4092721",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T13:55:35+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-sair-nuri-pakdil-i-andi-44f99ed1/"
-  },
-  {
-   "id": "6db3cc3c",
-   "title": "Fenerbahçe Futbol Direktörü Oğuz Çetin'den Marco Asensio açıklaması",
-   "summary": "Fenerbahçe Futbol Direktörü Oğuz Çetin, futbolculardan Marco Asensio ile teknik direktör İsmail Kartal arasında herhangi bir sorunun bulunmadığını ve Asensio'nun ameliyat edileceğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-futbol-direktoru-oguz-cetinden-marco-asensio-aciklamasi/4092718",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T13:48:24+00:00",
-   "url": "/haber/fenerbahce-futbol-direktoru-oguz-cetin-den-marco-asensio-aciklamasi-6db3cc3c/"
-  },
-  {
    "id": "12f2a80d",
    "title": "Erzincan-Erzurum kara yolundaki heyelan ve ekiplerin çalışması dronla görüntülendi",
    "summary": "Erzincan-Erzurum kara yolundaki heyelanın büyüklüğü ve ekiplerin heyelan nedeniyle kapanan yolun bir şeridini ulaşıma açmak için yürüttüğü çalışmalar dronla görüntülendi.",
@@ -332,17 +365,6 @@
    "url": "/haber/belcika-nin-baskenti-bruksel-deki-protestolarda-150-kisi-gozaltina-ali-19eae2e7/"
   },
   {
-   "id": "5cda1aee",
-   "title": "Cumhurbaşkanı Erdoğan, vefatının 5. yılında Özdemir Bayraktar'ı andı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Milli Teknoloji Hamlesi idealinin ve milli SİHA'ların öncü ismi Özdemir Bayraktar'ı vefatının 5. yılında andı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-vefatinin-5-yilinda-ozdemir-bayraktari-andi/4092695",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T13:12:25+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-vefatinin-5-yilinda-ozdemir-bayraktar-i-andi-5cda1aee/"
-  },
-  {
    "id": "1d136522",
    "title": "60 saniyede bugün (18 Ekim 2026)",
    "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
@@ -363,17 +385,6 @@
    "category": "gundem",
    "date": "2026-10-18T13:06:36+00:00",
    "url": "/haber/orionid-meteor-yagmuru-ne-zaman-gerceklesecek-ve-nasil-gorebilirsiniz-ac64bb94/"
-  },
-  {
-   "id": "9e8aa6eb",
-   "title": "Türk Yıldızları, Kayseri'de gösteri uçuşu yaptı",
-   "summary": "Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları, Kayseri'de gösteri uçuşu gerçekleştirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-yildizlari-kayseride-gosteri-ucusu-yapti/4092689",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T13:04:02+00:00",
-   "url": "/haber/turk-yildizlari-kayseri-de-gosteri-ucusu-yapti-9e8aa6eb/"
   },
   {
    "id": "afcec7db",
@@ -759,17 +770,6 @@
    "category": "teknoloji",
    "date": "2026-10-18T08:00:37+00:00",
    "url": "/haber/bu-tabletlere-sahipseniz-dikkat-guncelleme-destegi-bitiyor-b8690226/"
-  },
-  {
-   "id": "ef2e2c14",
-   "title": "Dar masalar ve E-Spor için standart: 24 İnç monitör tavsiyeleri",
-   "summary": "24 inç monitör modelleri, dar masalarda fazla yer kaplamadan oyun oynamak isteyenler için ideal seçenekler arasında yer alıyor. Peki hangi model tercih edilmeli? İşte öne çıkan seçenekler…",
-   "link": "https://www.donanimhaber.com/dar-masalar-ve-e-spor-icin-24-inc-monitor-tavsiyeleri--211662",
-   "image": "https://www.donanimhaber.com/images/images/haber/211662/1200x675dar-masalar-ve-e-spor-icin-24-inc-monitor-tavsiyeleri.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-18T07:30:00+00:00",
-   "url": "/haber/dar-masalar-ve-e-spor-icin-standart-24-inc-monitor-tavsiyeleri-ef2e2c14/"
   },
   {
    "id": "a2fd7129",
