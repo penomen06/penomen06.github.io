@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-19T03:30:55.489245+00:00",
+ "updated": "2026-10-19T04:01:04.470953+00:00",
  "items": [
+  {
+   "id": "8583413d",
+   "title": "Samsung’un Yeni Arayüzü One UI 10 Nasıl Olacak? İşte Detaylar",
+   "summary": "Samsung, One UI 10 ile uygulama merkezli yapıdan bütünleşik deneyime geçiyor. Yeni arayüzün Galaxy S28 serisiyle tanıtılması bekleniyor.",
+   "link": "https://shiftdelete.net/samsung-one-ui-10-degisim",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-19T04:00:27+00:00",
+   "url": "/haber/samsung-un-yeni-arayuzu-one-ui-10-nasil-olacak-iste-detaylar-8583413d/"
+  },
   {
    "id": "9c42419c",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Ekim 2026",
@@ -9,8 +20,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-19T03:30:00+00:00",
+   "date": "2026-10-19T04:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c42419c/"
+  },
+  {
+   "id": "c0e5c6b2",
+   "title": "İddia: PS6'nın Bellek ve Depolama Maliyetleri PS5'ten Pahalı!",
+   "summary": "İddiaya göre PlayStation 6'nın bellek ve depolama bileşenlerinin toplam maliyeti 680 doları geride bıraktı.",
+   "link": "https://www.webtekno.com/ps6-bellek-depolama-maliyetleri-ps5-pahali-iddia-h227380.html",
+   "image": "https://imgrosetta.webtekno.com/file/693358/693358-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-19T03:58:58+00:00",
+   "url": "/haber/iddia-ps6-nin-bellek-ve-depolama-maliyetleri-ps5-ten-pahali-c0e5c6b2/"
+  },
+  {
+   "id": "3525db31",
+   "title": "ABD'nin BAE'deki büyükelçiliği vatandaşlarını Orta Doğu'daki güvenlik risklerine karşı uyardı",
+   "summary": "ABD'nin Birleşik Arap Emirlikleri'ndeki (BAE) büyükelçiliği, çatışmaların hızla yayılabileceği uyarısında bulunarak Orta Doğu'daki Amerikan vatandaşlarına daha dikkatli olmaları çağrısı yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-baedeki-buyukelciligi-vatandaslarini-orta-dogudaki-guvenlik-risklerine-karsi-uyardi/4092960",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T03:52:16+00:00",
+   "url": "/haber/abd-nin-bae-deki-buyukelciligi-vatandaslarini-orta-dogu-daki-guvenlik-3525db31/"
+  },
+  {
+   "id": "5751b837",
+   "title": "1.169 Beygirlik Mercedes-AMG GT SUV Tanıtıldı",
+   "summary": "Mercedes-AMG, yeni elektrikli süper-SUV modeli GT SUV'u resmi olarak tanıttı.",
+   "link": "https://www.webtekno.com/mercedes-amg-gt-suv-tanitildi-h227377.html",
+   "image": "https://imgrosetta.webtekno.com/file/693355/693355-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-19T03:46:40+00:00",
+   "url": "/haber/1-169-beygirlik-mercedes-amg-gt-suv-tanitildi-5751b837/"
+  },
+  {
+   "id": "b6dfe60a",
+   "title": "Batı Şeria'da Filistin topraklarını gasbeden İsraillilerin saldırısında 2 Filistinli yaralandı",
+   "summary": "İşgal altındaki Batı Şeria'da Filistin topraklarını gasbeden İsraillilerin saldırısında 2 Filistinli yaralandı, İsrail ordusu da Filistinlilere ait bir araca ateş açarak çeşitli bölgelere baskınlar düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bati-seriada-filistin-topraklarini-gasbeden-israillilerin-saldirisinda-2-filistinli-yaralandi/4092959",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T03:46:37+00:00",
+   "url": "/haber/bati-seria-da-filistin-topraklarini-gasbeden-israillilerin-saldirisind-b6dfe60a/"
   },
   {
    "id": "4112bd91",
@@ -222,17 +277,6 @@
    "url": "/haber/avcilar-da-yol-verme-tartismasi-3-kisiye-araciyla-carpti-4-gozalti-var-80a605fe/"
   },
   {
-   "id": "73272f7d",
-   "title": "RAMS Park ve Aslanvadi'de aşırı yağışların ardından inceleme yapıldı",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı İstanbul İl Müdürlüğü, aşırı yağışların ardından RAMS Park Stadyumu ve Aslanvadi Projesi şantiye alanında yapılan teknik incelemelerde herhangi bir olumsuzluğa…",
-   "link": "https://www.aa.com.tr/tr/spor/rams-park-ve-aslanvadide-asiri-yagislarin-ardindan-inceleme-yapildi/4092901",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T19:33:21+00:00",
-   "url": "/haber/rams-park-ve-aslanvadi-de-asiri-yagislarin-ardindan-inceleme-yapildi-73272f7d/"
-  },
-  {
    "id": "c2249b67",
    "title": "Mide ve bağırsaklarından 750 gram uyuşturucu çıktı",
    "summary": "Bitlis’te durdurulan yolcu otobüsündeki yabancı uyruklu bir şüphelinin çekilen röntgen ve tomografi görüntülerinde, mide ve bağırsaklarında 758 gram metamfetamin tespit edildi.",
@@ -407,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-10-18T16:30:00+00:00",
    "url": "/haber/grafik-tasarim-ve-render-icin-laptop-tavsiyeleri-e7109dbc/"
-  },
-  {
-   "id": "652b68c6",
-   "title": "Kremlin: Kiev'in saldırılarına cevabımızın sonuçlarını alıyoruz",
-   "summary": "Kremlin Sözcüsü Dmitriy Peskov, Ukrayna'nın insansız hava araçlarıyla Rusya'nın St. Petersburg şehrine yönelik saldırısına sistematik cevap verdiklerini belirterek, Kiev'in saldırı kapasitesini azaltmayı amaçladıklarını…",
-   "link": "https://www.aa.com.tr/tr/dunya/kremlin-kievin-saldirilarina-cevabimizin-sonuclarini-aliyoruz/4092822",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-18T16:29:54+00:00",
-   "url": "/haber/kremlin-kiev-in-saldirilarina-cevabimizin-sonuclarini-aliyoruz-652b68c6/"
   },
   {
    "id": "be5ee16d",
@@ -948,17 +981,6 @@
    "url": "/haber/istanbul-da-selden-etkilenen-esnafa-80-milyon-lira-nakdi-destek-090c78a9/"
   },
   {
-   "id": "0c90cead",
-   "title": "X’te Kötü Gözüken Reklamlar Tarih Oluyor",
-   "summary": "Elon Musk, X platformunda görsel açıdan kötü ve abartılı reklamlara yasak getirileceğini duyurdu. İşte yeni reklam politikası hakkında detaylar.",
-   "link": "https://shiftdelete.net/x-reklam-estetik-standartlari",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-17T19:00:44+00:00",
-   "url": "/haber/x-te-kotu-gozuken-reklamlar-tarih-oluyor-0c90cead/"
-  },
-  {
    "id": "1be39aca",
    "title": "Türkiye, uluslararası keskin nişancı yarışmasında birinci oldu",
    "summary": "Türkiye, 20 ülkeden 96 personelin katıldığı 8. BORAN Uluslararası Keskin Nişancı Yarışması'nda birincilik elde etti. Polis Özel Harekat Başkanlığı takımı birinci, Özel Kuvvetler Komutanlığı takımı ikinci, Kara…",
@@ -1243,28 +1265,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T13:28:22+00:00",
    "url": "/haber/windows-11-in-bellek-kullanimi-iyilesiyor-8-gb-ram-li-bilgisayarlara-d-5b0942bf/"
-  },
-  {
-   "id": "94bbc92d",
-   "title": "Suzuki Ekim 2026 Sıfır Araç Fiyat Listesi, Güncel Kampanyalar ve Kredi Fırsatları",
-   "summary": "Suzuki Ekim 2026 sıfır araç fiyatlarını, indirimleri ve güncel kampanyaları inceliyoruz.",
-   "link": "https://www.webtekno.com/suzuki-ekim-2026-fiyat-indirim-kredi-kampanya-h227335.html",
-   "image": "https://imgrosetta.webtekno.com/file/693280/693280-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-16T13:10:43+00:00",
-   "url": "/haber/suzuki-ekim-2026-sifir-arac-fiyat-listesi-guncel-kampanyalar-ve-kredi-94bbc92d/"
-  },
-  {
-   "id": "c08f39eb",
-   "title": "MINI Ekim 2026 Sıfır Araç Fiyat Listesi, İndirimler, Güncel Kampanyalar ve Kredi Fırsatları",
-   "summary": "Ekim 2026 MINI modellerinde uygulanan indirim, kredi fırsatları ve güncel kampanyaları inceleyebilirsiniz.",
-   "link": "https://www.webtekno.com/ekim-2026-mini-fiyat-indirim-kredi-kampanya-h227318.html",
-   "image": "https://imgrosetta.webtekno.com/file/693197/693197-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-16T13:10:31+00:00",
-   "url": "/haber/mini-ekim-2026-sifir-arac-fiyat-listesi-indirimler-guncel-kampanyalar-c08f39eb/"
   }
  ]
 }
