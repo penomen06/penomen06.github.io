@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T00:31:01.158032+00:00",
+ "updated": "2026-10-19T01:01:09.085163+00:00",
  "items": [
   {
    "id": "9c42419c",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-19T00:30:00+00:00",
+   "date": "2026-10-19T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c42419c/"
+  },
+  {
+   "id": "4112bd91",
+   "title": "Eğitim için Isparta’ya giden ekip kanyonda kayboldu: 1 ölü, 10 kayıp",
+   "summary": "İstanbul'dan Isparta’ya eğitime gelen aralarında gönüllülerin de bulunduğu İHH ekibi kanyonda kayboldu. 1 kişi hayatını kaybederken, kayıp 13 kişiden 3'ü kurtarıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/egitim-icin-ispartaya-ekip-kanyonda-kayboldu-1-olu-13-kayip-1746916",
+   "image": "https://images.ntv.com.tr/images/EGITIM-ICIN-ISPARTA’YA-GELEN-IHH-GONULLU_1561932_464758-950213.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-19T00:35:36+00:00",
+   "url": "/haber/egitim-icin-isparta-ya-giden-ekip-kanyonda-kayboldu-1-olu-10-kayip-4112bd91/"
   },
   {
    "id": "ebe15500",
@@ -22,17 +33,6 @@
    "category": "gundem",
    "date": "2026-10-18T23:33:59+00:00",
    "url": "/haber/bir-yardim-kurulusu-suriye-de-cocuklarin-kaybolmasi-konusunda-neden-he-ebe15500/"
-  },
-  {
-   "id": "4112bd91",
-   "title": "Eğitim için Isparta’ya giden ekip kanyonda kayboldu: 1 ölü, 13 kayıp",
-   "summary": "İstanbul'dan Isparta’ya eğitime gelen aralarında gönüllülerin de bulunduğu İHH ekibi kanyonda kayboldu. 1 kişi eğitimler sırasında hayatını kaybederken, 13 kişiye ulaşılmaya çalışılıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/egitim-icin-ispartaya-ekip-kanyonda-kayboldu-1-olu-13-kayip-1746916",
-   "image": "https://images.ntv.com.tr/images/EGITIM-ICIN-ISPARTA’YA-GELEN-IHH-GONULLU_1561932_464758-950213.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-18T22:21:46+00:00",
-   "url": "/haber/egitim-icin-isparta-ya-giden-ekip-kanyonda-kayboldu-1-olu-13-kayip-4112bd91/"
   },
   {
    "id": "080b3495",
