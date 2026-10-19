@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-19T17:31:05.665979+00:00",
+ "updated": "2026-10-19T17:45:08.002084+00:00",
  "items": [
+  {
+   "id": "be3b7655",
+   "title": "Samsung, yeni nesil HBM çipleri için TSMC teknolojisini kullanacak",
+   "summary": "Samsung, Nvidia’nın yeni nesil HBM bellekleri için TSMC’nin 3 nm üretim sürecini kullanacak. Şirket, artan talebe karşı kendi 2 nm üretim seçeneğini de değerlendiriyor.",
+   "link": "https://www.donanimhaber.com/samsung-yeni-hbm-cipleri-icin-tsmc-teknolojisini-kullanacak--211829",
+   "image": "https://www.donanimhaber.com/images/images/haber/211829/1200x675samsung-yeni-hbm-cipleri-icin-tsmc-teknolojisini-kullanacak.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-19T17:44:00+00:00",
+   "url": "/haber/samsung-yeni-nesil-hbm-cipleri-icin-tsmc-teknolojisini-kullanacak-be3b7655/"
+  },
+  {
+   "id": "ab22d349",
+   "title": "Apple Pro and Tell Etkinliğinde Dokunmatik Ekranlı MacBook Tanıtılacak",
+   "summary": "Apple, 28 Ekim'de düzenleyeceği \"Pro and Tell\" etkinliğinde dokunmatik ekranlı MacBook Pro ve yeni M6 işlemcili iMac modellerini tanıtmaya hazırlanıyor.",
+   "link": "https://shiftdelete.net/apple-pro-and-tell-etkinliginde-dokunmatik-ekranli-macbook-tanitilacak",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-19T17:41:27+00:00",
+   "url": "/haber/apple-pro-and-tell-etkinliginde-dokunmatik-ekranli-macbook-tanitilacak-ab22d349/"
+  },
+  {
+   "id": "732ea283",
+   "title": "iOS 27.2 RC Yayınladı",
+   "summary": "Apple, iOS 27.2 Release Candidate sürümünü geliştiricilere sundu. Yeni Siri dil destekleri, tasarım güncellemeleri ve daha fazlası hakkında detaylar haberimizde.",
+   "link": "https://shiftdelete.net/ios-27-2-rc-yayinladi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-19T17:39:27+00:00",
+   "url": "/haber/ios-27-2-rc-yayinladi-732ea283/"
+  },
   {
    "id": "7988097b",
    "title": "Türk Savunma Sanayii 2026’da 15 Milyar Dolarlık Yeni Sözleşme İmzaladı",
@@ -110,6 +143,17 @@
    "category": "gundem",
    "date": "2026-10-19T16:44:21+00:00",
    "url": "/haber/turkiye-nin-ev-sahipligi-yapacagi-cop31-roma-daki-panelde-kapsamli-ele-a66385ec/"
+  },
+  {
+   "id": "0a0cf7a5",
+   "title": "Trump'tan kadın sağlığı araştırmalarını güçlendirmeyi amaçlayan Başkanlık Kararnamesi'ne imza",
+   "summary": "ABD Başkanı Donald Trump, eşi Melania Trump’ın öncülük ettiği ve kadın sağlığı konusunda federal araştırmaları güçlendirmeyi amaçlayan Başkanlık Kararnamesi'ni imzaladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/trumptan-kadin-sagligi-arastirmalarini-guclendirmeyi-amaclayan-baskanlik-kararnamesine-imza/4093763",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T16:43:45+00:00",
+   "url": "/haber/trump-tan-kadin-sagligi-arastirmalarini-guclendirmeyi-amaclayan-baskan-0a0cf7a5/"
   },
   {
    "id": "87777f8a",
@@ -508,17 +552,6 @@
    "url": "/haber/elon-musk-abd-deki-her-cocuga-spacex-hissesi-verecek-b2d5f422/"
   },
   {
-   "id": "2a7cadc2",
-   "title": "UEFA'dan 3 Türk hakeme görev",
-   "summary": "UEFA, FIFA kokartlı Uğur Çakmak, Hakan Tezcan ve Ayberg Öz'ü 2028 FIFA Futsal Dünya Kupası Grup Eleme turunda oynanacak Moldova-Fransa maçında görevlendirdi.",
-   "link": "https://www.aa.com.tr/tr/spor/uefadan-3-turk-hakeme-gorev/4093668",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T14:26:04+00:00",
-   "url": "/haber/uefa-dan-3-turk-hakeme-gorev-2a7cadc2/"
-  },
-  {
    "id": "463b3210",
    "title": "8 Oyun Daha Game Pass'ten Kaldırılıyor (Oynamak İstiyorsanız Son Şansınız) [Ekim 2026]",
    "summary": "Her ay onlarca oyunu satın almadan oynama imkânı sunan Game Pass'in kütüphanesinden bu ay kaldırılacak ekstra 8 oyun daha açıklandı. Bu listedeki oyunları yakında oynamak için satın almanız gerekecek.",
@@ -772,17 +805,6 @@
    "url": "/haber/opera-dan-dijital-detoks-odakli-yeni-tarayici-opera-air-tanitildi-9b09c0e0/"
   },
   {
-   "id": "48dca295",
-   "title": "Kontrolden çıkan yapay zekâ, kaynak yaratmak için bir kripto cüzdanını ele geçirdi",
-   "summary": "OpenAI, testler sırasında kontrolden çıkan bir yapay zekânın, kendisine gereken finansal kaynağı yaratmak için erişim izni olmayan bir kripto cüzdanını ele geçirdiğini açıkladı.",
-   "link": "https://www.donanimhaber.com/kontrolden-cikan-yapay-zeka-kripto-cuzdanindaki-parayi-bosaltti--211810",
-   "image": "https://www.donanimhaber.com/images/images/haber/211810/1200x675kontrolden-cikan-yapay-zeka-kripto-cuzdanindaki-parayi-bosaltti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-19T12:39:00+00:00",
-   "url": "/haber/kontrolden-cikan-yapay-zeka-kaynak-yaratmak-icin-bir-kripto-cuzdanini-48dca295/"
-  },
-  {
    "id": "d8d9f94d",
    "title": "Xiaomi 18 Pro serisi yakında Türkiye’de satışa sunulacak",
    "summary": "Xiaomi Türkiye, tüm ayrıntılarına buradaki haberimizde yer verdiğimiz Xiaomi 18 Pro serisi için bugün ilk sosyal medya paylaşımlarına başladı. Satış için net bir tarih ya da fiyat paylaşılmıyor ancak yeni amiral gemisi…",
@@ -792,17 +814,6 @@
    "category": "teknoloji",
    "date": "2026-10-19T12:37:26+00:00",
    "url": "/haber/xiaomi-18-pro-serisi-yakinda-turkiye-de-satisa-sunulacak-d8d9f94d/"
-  },
-  {
-   "id": "c74f1354",
-   "title": "iQOO Neo12 9000 mAh Batarya ve 185 Hz Ekranla Geliyor",
-   "summary": "iQOO Neo12, 9000 mAh bataryası, Snapdragon 8 Elite işlemcisi ve 185 Hz 2K ekranıyla 28 Ekim'de tanıtılıyor. İşte yeni oyuncu telefonunun tüm detayları.",
-   "link": "https://shiftdelete.net/iqoo-neo12-9000-mah-batarya-ve-185-hz-ekranla-geliyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-19T12:30:41+00:00",
-   "url": "/haber/iqoo-neo12-9000-mah-batarya-ve-185-hz-ekranla-geliyor-c74f1354/"
   },
   {
    "id": "f50c2751",
@@ -880,17 +891,6 @@
    "category": "gundem",
    "date": "2026-10-19T12:24:46+00:00",
    "url": "/haber/fransa-da-eylemler-basbakandan-kismi-sokaga-cikma-yasagi-cagrisi-5ecd8464/"
-  },
-  {
-   "id": "58eb6c24",
-   "title": "OLED Ekranlı Yeni iPad Mini İçin Çıkış Tarihi Belli Oldu: Apple Store Hazırlıkları Başladı",
-   "summary": "Apple, tablet tarafında kullanıcıların uzun süredir beklediği en önemli güncellemelerden biri için nihayet düğmeye basıyor. Kompakt tasarımı ve yüksek performansı bir arada sunarak geniş bir kullanıcı kitlesine ulaşan…",
-   "link": "https://shiftdelete.net/oled-ekranli-yeni-ipad-mini-icin-cikis-tarihi-belli-oldu-apple-store-hazirliklari-basladi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-19T12:00:55+00:00",
-   "url": "/haber/oled-ekranli-yeni-ipad-mini-icin-cikis-tarihi-belli-oldu-apple-store-h-58eb6c24/"
   },
   {
    "id": "dad61032",
