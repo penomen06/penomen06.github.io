@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T23:30:59.731167+00:00",
+ "updated": "2026-10-19T00:01:11.627715+00:00",
  "items": [
   {
    "id": "9c42419c",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-18T23:30:00+00:00",
+   "date": "2026-10-19T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c42419c/"
+  },
+  {
+   "id": "ebe15500",
+   "title": "Bir yardım kuruluşu, Suriye'de çocukların kaybolması konusunda neden hedefte?",
+   "summary": "Uluslararası yardım kuruluşu SOS Çocuk Köyleri, 140'tan fazla çocuğun Suriye güvenlik güçleri tarafından yönetimlerindeki yetimhanelere götürüldüğünü kabul etti. Ancak kuruluş olaydaki rolüne dair raporu yayımlamama…",
+   "link": "https://www.bbc.com/turkce/articles/cq8ez6dlpx32o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5a5/live/58915c90-c7dc-11f1-a64c-550be9e3c66b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-18T23:33:59+00:00",
+   "url": "/haber/bir-yardim-kurulusu-suriye-de-cocuklarin-kaybolmasi-konusunda-neden-he-ebe15500/"
   },
   {
    "id": "4112bd91",
@@ -1254,17 +1265,6 @@
    "category": "teknoloji",
    "date": "2026-10-16T13:10:31+00:00",
    "url": "/haber/mini-ekim-2026-sifir-arac-fiyat-listesi-indirimler-guncel-kampanyalar-c08f39eb/"
-  },
-  {
-   "id": "253adbeb",
-   "title": "Halk TV'nin ardından: YouTube televizyonun yerini tutabilir mi?",
-   "summary": "Türkiye’de eleştirel yayın yapan medya kuruluşlarının azalması, farklı seslerin duyulmasını ve kamuoyunun haber alma imkânlarını nasıl etkiliyor? Halk TV’ye kayyum atanmasının ardından uzmanlar, medyada çoğulculuğun…",
-   "link": "https://www.bbc.com/turkce/articles/cr93zypzqyp8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa2f/live/7400ec60-c945-11f1-9a39-31b474234113.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-16T09:57:13+00:00",
-   "url": "/haber/halk-tv-nin-ardindan-youtube-televizyonun-yerini-tutabilir-mi-253adbeb/"
   }
  ]
 }
