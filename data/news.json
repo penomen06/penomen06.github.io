@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:01:07.900107+00:00",
+ "updated": "2026-10-19T23:30:56.839912+00:00",
  "items": [
   {
    "id": "1b431cbe",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-19T23:00:00+00:00",
+   "date": "2026-10-19T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-1b431cbe/"
+  },
+  {
+   "id": "6eafd120",
+   "title": "Fon teklifi bugün Genel Kurul'a geliyor",
+   "summary": "Tasfiyesine karar verilen fonlara ilişkin kanun teklifi bugün Genel Kurul'da görüşülecek. Teklifle yatırımcılara 1 milyon liraya kadar ara ödeme yapılacak.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-teklifi-bugun-genel-kurula-geliyor-1747074",
+   "image": "https://images.ntv.com.tr/images/tbmm-240302.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-19T23:28:24+00:00",
+   "url": "/haber/fon-teklifi-bugun-genel-kurul-a-geliyor-6eafd120/"
+  },
+  {
+   "id": "62b57bff",
+   "title": "Uydu görüntülerinde Kim Jong Un'un havuzlu - kaydıraklı gemisi",
+   "summary": "Kuzey Kore'nin Wonsan kıyılarında, 2026 Temmuz ayından Ekim ortasına kadar kaydedilen uydu görüntülerinde 80 metrelik lüks bir deniz aracı defalarca yer aldı.",
+   "link": "https://www.bbc.com/turkce/articles/c5pvgkw482xro?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-19T23:24:38+00:00",
+   "url": "/haber/uydu-goruntulerinde-kim-jong-un-un-havuzlu-kaydirakli-gemisi-62b57bff/"
+  },
+  {
+   "id": "2cb77b2d",
+   "title": "DEM Parti ve Yeni Parti görüşmesinde hangi mesajlar öne çıktı?",
+   "summary": "DEM Parti Eş Genel Başkanları Tülay Hatimoğulları ve Tuncer Bakırhan'ın Yeni Parti Genel Başkanı Özgür Özel'le görüşmesinde, Kürt sorununun çözümü için yürütülen süreçte gelinen aşama ve atılması gereken yeni adımlar…",
+   "link": "https://www.bbc.com/turkce/articles/cxj0l72j0qy9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b9c/live/4593ddd0-cc04-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-19T23:23:21+00:00",
+   "url": "/haber/dem-parti-ve-yeni-parti-gorusmesinde-hangi-mesajlar-one-cikti-2cb77b2d/"
   },
   {
    "id": "c089d8a9",
@@ -893,17 +926,6 @@
    "url": "/haber/cenaze-toreninde-dikkat-ceken-anlar-kemal-kilicdaroglu-ile-ozgur-ozel-5f9a9f4b/"
   },
   {
-   "id": "6c6ed249",
-   "title": "Cumhurbaşkanı Erdoğan: Husilerin Suudi Arabistan'a saldırısı gerilimi tırmandırdı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Husilerin Suudi Arabistan'a yönelik saldırılarının bölgedeki gerilimi daha da artırdığını söyledi.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-husilerin-suudi-arabistana-saldirisi-gerilimi-tirmandirdi-1747003",
-   "image": "https://images.ntv.com.tr/images/AA-20261019-42801561-42801553-TURKISH_PRESIDENT_RECEP_TAYYIP_ERDOGAN-331440.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-19T13:17:40+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-husilerin-suudi-arabistan-a-saldirisi-gerilimi-t-6c6ed249/"
-  },
-  {
    "id": "d842c78d",
    "title": "Teslimat Robotunun Yolunu Kesen Kadına Gözaltı: İnsanların Hakkını Savunmak İstemiş",
    "summary": "Philadelphia'da teslimat robotunun yolunu kesen kadına gözaltı işlemi uygulandı. Otonom sistemlerin iş gücüne etkisi tartışılıyor.",
@@ -1199,28 +1221,6 @@
    "category": "gundem",
    "date": "2026-10-18T08:06:00+00:00",
    "url": "/haber/meclis-te-butce-maratonu-basliyor-cc3da812/"
-  },
-  {
-   "id": "f0d1cb3a",
-   "title": "Neandertallerin yaşamında şiddet ne kadar yaygındı?",
-   "summary": "Arkeologlar, Kuzey Irak'taki bir mağarada bulunan, 75 bin yıl önce ölmüş bir Neandertal'in göğsünde açılan yaranın, en eski şiddet kanıtlarından biri olabileceğini söylüyor.",
-   "link": "https://www.bbc.com/turkce/articles/cq3dj43dr8vdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/052f/live/ca6f9ca0-c8a4-11f1-929c-0b57deb4f9df.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-18T07:07:07+00:00",
-   "url": "/haber/neandertallerin-yasaminda-siddet-ne-kadar-yaygindi-f0d1cb3a/"
-  },
-  {
-   "id": "fa5de74e",
-   "title": "Nobel ödüllerinde cinsiyet ayrımı var mı: 'İstatistiklere göre cevap: Evet'",
-   "summary": "Tıp, fizik, kimya ve 1969 yılından bu yana verilen ekonomi gibi bilim alanlarındaki ödüllerde kadınların tarihsel temsiliyeti özellikle düşük. 1901 ve 2026 yılları arasında bu dört disiplinde verilen 769 ödülden…",
-   "link": "https://www.bbc.com/turkce/articles/c63el5jql99po?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c54/live/8283b8b0-c6ef-11f1-bc1b-8dfa7c975faa.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-18T07:04:35+00:00",
-   "url": "/haber/nobel-odullerinde-cinsiyet-ayrimi-var-mi-istatistiklere-gore-cevap-eve-fa5de74e/"
   },
   {
    "id": "799fe5a3",
