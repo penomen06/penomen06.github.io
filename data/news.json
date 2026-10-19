@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-19T16:31:06.752794+00:00",
+ "updated": "2026-10-19T17:01:10.538964+00:00",
  "items": [
+  {
+   "id": "f3ba146d",
+   "title": "Uncharted Üçlemesi PC Portu ile 120 FPS’e Ulaştı",
+   "summary": "Uncharted: The Nathan Drake Collection serisi, hayran yapımı unofficial PC portu ile DLSS ve 120 FPS desteğine kavuştu. İşte detaylar.",
+   "link": "https://shiftdelete.net/uncharted-uclemesi-pc-portu-ile-120-fpse-ulasti",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-19T17:00:00+00:00",
+   "url": "/haber/uncharted-uclemesi-pc-portu-ile-120-fps-e-ulasti-f3ba146d/"
+  },
+  {
+   "id": "97f99685",
+   "title": "Satılamayan ürünlerin küresel ekonomiye maliyeti 1 trilyon doları aşıyor",
+   "summary": "Dünya genelinde satılamayan ürünler ve gıda israfı, her yıl 1 trilyon doları aşan ekonomik kayba yol açıyor. Türkiye’de kişi başına yıllık gıda israfı 163 kilograma ulaşıyor.",
+   "link": "https://www.donanimhaber.com/satilamayan-urunlerin-kuresel-ekonomiye-maliyeti-1-trilyon-dolar--211823",
+   "image": "https://www.donanimhaber.com/images/images/haber/211823/1200x675satilamayan-urunlerin-kuresel-ekonomiye-maliyeti-1-trilyon-dolar.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-19T16:59:00+00:00",
+   "url": "/haber/satilamayan-urunlerin-kuresel-ekonomiye-maliyeti-1-trilyon-dolari-asiy-97f99685/"
+  },
+  {
+   "id": "097eb237",
+   "title": "Kenya'da 'açlık tarikatı'nın lideri 191 cinayetten suçlu bulundu",
+   "summary": "Kenya'daki bir kıyamet günü tarikatının lideri Paul Mackenzie, biri dışında hepsi çocuk 191 kişiyi öldürmekten suçlu bulundu.",
+   "link": "https://www.bbc.com/turkce/articles/cqx297mxlj40o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-19T16:55:58+00:00",
+   "url": "/haber/kenya-da-aclik-tarikati-nin-lideri-191-cinayetten-suclu-bulundu-097eb237/"
+  },
+  {
+   "id": "81bdf15e",
+   "title": "İstanbul'da kara para aklama soruşturmasında 15 şüpheliye tutuklama talebi",
+   "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin soruşturma kapsamında gözaltına alınan 15 şüpheli, tutuklama talebiyle sulh ceza…",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-kara-para-aklama-sorusturmasinda-15-supheliye-tutuklama-talebi/4093778",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T16:52:42+00:00",
+   "url": "/haber/istanbul-da-kara-para-aklama-sorusturmasinda-15-supheliye-tutuklama-ta-81bdf15e/"
+  },
+  {
+   "id": "a66385ec",
+   "title": "Türkiye'nin ev sahipliği yapacağı COP31, Roma'daki panelde kapsamlı ele alındı",
+   "summary": "Türkiye'nin kasım ayında Antalya'da ev sahipliği yapacağı Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31), Roma'daki panelde kapsamlı ele alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-ev-sahipligi-yapacagi-cop31-romadaki-panelde-kapsamli-ele-alindi/4093764",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T16:44:21+00:00",
+   "url": "/haber/turkiye-nin-ev-sahipligi-yapacagi-cop31-roma-daki-panelde-kapsamli-ele-a66385ec/"
+  },
+  {
+   "id": "87777f8a",
+   "title": "Nvidia RTX 50, 40 ve 30 serisi için yeni araç: BIOS değiştirmeden özelleştirme",
+   "summary": "Nvidia ekran kartlarında güç ve voltaj sınırlarını değiştirmek için yeni bir araç geliştirildi. RTX 50, 40 ve 30 serisini destekleyen yazılım, RTX 5080'i 500W güç limitinde çalıştırdı. İşte detaylar…",
+   "link": "https://www.donanimhaber.com/nvidia-ekran-kartlarinda-yeni-donem-bios-ozellestirme-geliyor--211828",
+   "image": "https://www.donanimhaber.com/images/images/haber/211828/1200x675nvidia-ekran-kartlarinda-yeni-donem-bios-ozellestirme-geliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-19T16:37:00+00:00",
+   "url": "/haber/nvidia-rtx-50-40-ve-30-serisi-icin-yeni-arac-bios-degistirmeden-ozelle-87777f8a/"
+  },
+  {
+   "id": "305dde9e",
+   "title": "TMSF, Tera Yatırım Teknoloji Holding'e kayyum olarak atandı",
+   "summary": "Tasarruf Mevduatı Sigorta Fonu (TMSF), Tera Yatırım Teknoloji Holding'e kayyum olarak atandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tmsf-tera-yatirim-teknoloji-holdinge-kayyum-olarak-atandi/4093756",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T16:36:52+00:00",
+   "url": "/haber/tmsf-tera-yatirim-teknoloji-holding-e-kayyum-olarak-atandi-305dde9e/"
+  },
   {
    "id": "d890d6a4",
    "title": "Kara para aklama soruşturması. 15 kişi hakkında tutuklama talebi",
@@ -211,15 +288,15 @@
    "url": "/haber/uskudar-belediyesi-yarin-ucuncu-kez-baskanvekilini-sececek-e299bd04/"
   },
   {
-   "id": "2ad505e7",
-   "title": "Dijital Üniversite Platformu başvuruları yarın sona erecek",
-   "summary": "Yükseköğretim Kurulu (YÖK) himayesinde hayata geçirilen Dijital Üniversite Platformu için başvurular yarın sona erecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/dijital-universite-platformu-basvurulari-yarin-sona-erecek/4093707",
+   "id": "e95f3759",
+   "title": "Dijital Üniversite Platformu için başvuru süresi 26 Ekim'e uzatıldı",
+   "summary": "Yükseköğretim Kurulu (YÖK) himayesinde hayata geçirilen Dijital Üniversite Platformu'na başvuru süresi 26 Ekim'e uzatıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/dijital-universite-platformu-icin-basvuru-suresi-26-ekime-uzatildi/4093707",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-19T15:02:38+00:00",
-   "url": "/haber/dijital-universite-platformu-basvurulari-yarin-sona-erecek-2ad505e7/"
+   "url": "/haber/dijital-universite-platformu-icin-basvuru-suresi-26-ekim-e-uzatildi-e95f3759/"
   },
   {
    "id": "c6863517",
@@ -552,17 +629,6 @@
    "url": "/haber/yasa-disi-ureme-hucresi-ticaretine-operasyon-41-kadin-811-kez-yumurta-3c2cfbd2/"
   },
   {
-   "id": "148b0e98",
-   "title": "Bakan Işıkhan: Yeşil dönüşümün çalışma barışını koruyarak çalışmak hayati bir önem arz etmektedir",
-   "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, \"Yeşil dönüşümün çalışma barışını koruyarak ve tüm işgücü piyasası paydaşları için, her düzeyde aktif işbirliği ve koordinasyon içerisinde çalışmak hayati bir önem arz…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-isikhan-yesil-donusumun-calisma-barisini-koruyarak-calismak-hayati-bir-onem-arz-etmektedir/4093616",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T13:36:12+00:00",
-   "url": "/haber/bakan-isikhan-yesil-donusumun-calisma-barisini-koruyarak-calismak-haya-148b0e98/"
-  },
-  {
    "id": "88dad43a",
    "title": "Yapay Zeka Şirketi Anthropic’ten Sosyal Sorumluluk Hamlesi",
    "summary": "Anthropic, toplumsal fayda projelerini desteklemek amacıyla hisselerinin yüzde 5'ini yeni kurduğu Anthropic kamu yararı fonu bünyesine aktarıyor.",
@@ -660,28 +726,6 @@
    "category": "teknoloji",
    "date": "2026-10-19T12:48:35+00:00",
    "url": "/haber/samsung-galaxy-s27-serisi-ocak-ayinin-basinda-tanitilabilir-cbc40bb1/"
-  },
-  {
-   "id": "cdf21962",
-   "title": "60 saniyede ekonomide bugün (19 Ekim 2026)",
-   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-19-ekim-2026/4093523",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T12:47:15+00:00",
-   "url": "/haber/60-saniyede-ekonomide-bugun-19-ekim-2026-cdf21962/"
-  },
-  {
-   "id": "26952f8d",
-   "title": "60 saniyede bugün (19 Ekim 2026)",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-19-ekim-2026/4093522",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T12:46:41+00:00",
-   "url": "/haber/60-saniyede-bugun-19-ekim-2026-26952f8d/"
   },
   {
    "id": "9b09c0e0",
@@ -816,28 +860,6 @@
    "url": "/haber/cin-in-ihracatini-yasaklamak-istedigi-gunes-enerjisi-teknolojisi-8446f4d2/"
   },
   {
-   "id": "78bfac20",
-   "title": "Cindy Crawford'dan 27 yaşında ölen oğluna veda paylaşımı: 'Yüreğimiz paramparça'",
-   "summary": "Süper model Cindy Crawford, oğlu Presley Gerber'in ölümü nedeniyle kendisi ve ailesinin çok büyük bir üzüntü içinde olduğunu söyledi.",
-   "link": "https://www.bbc.com/turkce/articles/cm0qklj05v5xo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7bf/live/01c95af0-cbad-11f1-821f-c5d07d801cca.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-19T12:08:24+00:00",
-   "url": "/haber/cindy-crawford-dan-27-yasinda-olen-ogluna-veda-paylasimi-yuregimiz-par-78bfac20/"
-  },
-  {
-   "id": "a86d21cc",
-   "title": "Ödüllü Test Haftası'nda ikinci hafta tamamlandı: İşte kazananlar ve yeni haftanın ödülleri",
-   "summary": "DonanımHaber Ödüllü Test Haftası'nda ikinci haftanın yarışması tamamlandı. Teknoloji, otomobil ve sinema temalı testlerde dereceye giren kullanıcılar ve kazandıkları ödüller belli oldu.",
-   "link": "https://www.donanimhaber.com/odullu-test-haftasi-nda-ikinci-hafta-tamamlandi-iste-kazananlar--211824",
-   "image": "https://www.donanimhaber.com/images/images/haber/211824/1200x675odullu-test-haftasi-nda-ikinci-hafta-tamamlandi-iste-kazananlar.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-19T12:07:00+00:00",
-   "url": "/haber/odullu-test-haftasi-nda-ikinci-hafta-tamamlandi-iste-kazananlar-ve-yen-a86d21cc/"
-  },
-  {
    "id": "58eb6c24",
    "title": "OLED Ekranlı Yeni iPad Mini İçin Çıkış Tarihi Belli Oldu: Apple Store Hazırlıkları Başladı",
    "summary": "Apple, tablet tarafında kullanıcıların uzun süredir beklediği en önemli güncellemelerden biri için nihayet düğmeye basıyor. Kompakt tasarımı ve yüksek performansı bir arada sunarak geniş bir kullanıcı kitlesine ulaşan…",
@@ -871,17 +893,6 @@
    "url": "/haber/camasir-yikarken-tasarruf-saglayan-sistemler-nasil-calisiyor-f354bc4a/"
   },
   {
-   "id": "6268ea5b",
-   "title": "Avrupa rekor kırdı ama yetmedi: Küresel elektrikli araç satışları geriledi",
-   "summary": "Küresel elektrikli araç satışları eylülde yüzde 2 geriledi. Avrupa aylık satış rekorunu yenilerken Çin ve Kuzey Amerika’daki düşüş, dünya genelindeki büyümeyi sınırladı.",
-   "link": "https://www.donanimhaber.com/avrupa-nin-rekoru-yetmedi-kuresel-elektrikli-satislari-geriledi--211814",
-   "image": "https://www.donanimhaber.com/images/images/haber/211814/1200x675avrupa-nin-rekoru-yetmedi-kuresel-elektrikli-satislari-geriledi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-19T11:55:00+00:00",
-   "url": "/haber/avrupa-rekor-kirdi-ama-yetmedi-kuresel-elektrikli-arac-satislari-geril-6268ea5b/"
-  },
-  {
    "id": "bc253858",
    "title": "Fransa nefesini tutmuş bekliyor: Şimdi ne olacak?",
    "summary": "Cumartesi günü yaşananlar, Fransa genelinde insanları sarstı ve kaygılandırdı. Göz yaşartıcı gazla kaplanan kentlerin, görünüşe göre hiçbir engelle karşılaşmadan hareket eden yağmacıların ve yanan kamu binalarının…",
@@ -902,17 +913,6 @@
    "category": "teknoloji",
    "date": "2026-10-19T11:30:24+00:00",
    "url": "/haber/tusas-in-2035-hedefi-150-kaan-200-hurjet-10-000-iha-6b14457c/"
-  },
-  {
-   "id": "f13365d5",
-   "title": "HMD Vibe 2 Max: 108MP Kamera ve Güçlü Batarya Detayları ile Sızdı",
-   "summary": "HMD Vibe 2 Max sızdırıldı! 108MP kamera, 6.000mAh batarya ve Unisoc T9100 işlemci ile gelen yeni HMD akıllı telefonun tüm teknik özelliklerini keşfedin.",
-   "link": "https://shiftdelete.net/hmd-vibe-2-max-108mp-kamera-ve-guclu-batarya-detaylari-ile-sizdi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-19T11:15:39+00:00",
-   "url": "/haber/hmd-vibe-2-max-108mp-kamera-ve-guclu-batarya-detaylari-ile-sizdi-f13365d5/"
   },
   {
    "id": "f5dbfef0",
