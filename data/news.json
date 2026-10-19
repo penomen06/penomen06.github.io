@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-19T11:01:05.997951+00:00",
+ "updated": "2026-10-19T11:13:20.803176+00:00",
  "items": [
+  {
+   "id": "1d2630eb",
+   "title": "505 km menzil ve Lidar: 13.800 dolarlık Leapmotor A10s tanıtıldı",
+   "summary": "Leapmotor, küçük elektrikli SUV modeli A10’un daha sportif ve konforlu versiyonu A10s’i tanıttı. Çin’de 13.800 dolardan satışa çıkan model, 505 km menzil ve lidar destekli sürüş asistanları sunuyor.",
+   "link": "https://www.donanimhaber.com/505-km-menzil-ve-lidar-13-800-dolarlik-leapmotor-a10s-tanitildi--211806",
+   "image": "https://www.donanimhaber.com/images/images/haber/211806/1200x675505-km-menzil-ve-lidar-13-800-dolarlik-leapmotor-a10s-tanitildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-19T11:11:00+00:00",
+   "url": "/haber/505-km-menzil-ve-lidar-13-800-dolarlik-leapmotor-a10s-tanitildi-1d2630eb/"
+  },
+  {
+   "id": "b0e84ad2",
+   "title": "Alihan Kuriş suç örgütüne yeni dalga operasyon. 12 ilde 22 şüpheli gözaltına alındı",
+   "summary": "Alihan Kuriş suç örgütüne yönelik Ankara merkezli 12 ilde düzenlenen operasyonda haklarında gözaltı kararı verilen 38 şüpheliden 22'si yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-alihan-kuris-suc-orgutune-yeni-dalga-operasyon-12-ilde-22-supheli-gozaltina-alindi-1746941",
+   "image": "https://images.ntv.com.tr/images/alihan-kuriş-513083.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-19T11:10:55+00:00",
+   "url": "/haber/alihan-kuris-suc-orgutune-yeni-dalga-operasyon-12-ilde-22-supheli-goza-b0e84ad2/"
+  },
+  {
+   "id": "563e6ad0",
+   "title": "Yeryüzü Doktorları, üç ülkede sağlık hizmetleri kapasitesini artırıyor",
+   "summary": "Yeryüzü Doktorları, Yemen, Somali ve Suriye'de hizmet kapasitesini artırarak ihtiyaç sahiplerinin sağlık hizmetlerine erişimini güçlendiriyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/yeryuzu-doktorlari-uc-ulkede-saglik-hizmetleri-kapasitesini-artiriyor/4093354",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T11:10:51+00:00",
+   "url": "/haber/yeryuzu-doktorlari-uc-ulkede-saglik-hizmetleri-kapasitesini-artiriyor-563e6ad0/"
+  },
+  {
+   "id": "29bbc131",
+   "title": "Katar, savunma sanayisini geliştirmek için yerli üretim merkezi kuracağını duyurdu",
+   "summary": "Katar Başbakan Yardımcısı ve Savunma İşlerinden Sorumlu Devlet Bakanı Suud bin Abdurrahman Al Sani, ülkesinin savunma kapasitesini güçlendirmek amacıyla yakında yerli bir savunma üretim merkezi kuracağını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-savunma-sanayisini-gelistirmek-icin-yerli-uretim-merkezi-kuracagini-duyurdu/4093349",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T11:08:26+00:00",
+   "url": "/haber/katar-savunma-sanayisini-gelistirmek-icin-yerli-uretim-merkezi-kuracag-29bbc131/"
+  },
+  {
+   "id": "70918d42",
+   "title": "İstanbul Valisi Gül: İstanbul'da selden etkilenenlerin zararları bugün ödenmeye başlanacak",
+   "summary": "İstanbul Valisi Davut Gül, kentte meydana gelen sel ve su baskınlarına ilişkin, \"Kabaca 3 bin ev ve iş yerinin ciddi anlamda zarar gördüğünü tespit ettik ve bunların zarar ziyanları da bugün itibarıyla ödenmeye…",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-valisi-gul-istanbulda-selden-etkilenenlerin-zararlari-bugun-odenmeye-baslanacak/4093343",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T11:04:21+00:00",
+   "url": "/haber/istanbul-valisi-gul-istanbul-da-selden-etkilenenlerin-zararlari-bugun-70918d42/"
+  },
   {
    "id": "9c1f31b7",
    "title": "Apple’dan Akıllı Ev Kategorisinde Robotik Hamle: HomeView Max Geliyor!",
@@ -13,15 +68,26 @@
    "url": "/haber/apple-dan-akilli-ev-kategorisinde-robotik-hamle-homeview-max-geliyor-9c1f31b7/"
   },
   {
-   "id": "b0e84ad2",
-   "title": "Alihan Kuriş suç örgütüne yeni dalga operasyon. 12 ilde 22 şüpheli gözaltına alındı",
-   "summary": "Alihan Kuriş suç örgütüne yönelik Ankara merkezli 12 ilde düzenlenen operasyonda haklarında gözaltı kararı verilen 38 şüpheliden 22'si yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-alihan-kuris-suc-orgutune-yeni-dalga-operasyon-12-ilde-22-supheli-gozaltina-alindi-1746941",
-   "image": "https://images.ntv.com.tr/images/alihan-kuriş-513083.jpg",
+   "id": "3f9aff67",
+   "title": "Redmi Note 17 serisi için kampanya duyuruldu; işte detaylar",
+   "summary": "Evofone, 22 Eylül itibarıyla müşteri teslimli satışlarına başladığı Redmi Note 17 Serisi için Xiaomi’nin sunduğu kapsamlı bir kullanıcı avantajları paketini duyurdu. Kampanya, cihazın fiziksel hasarlarına karşı uzun…",
+   "link": "https://www.log.com.tr/redmi-note-17-serisi-evofoneun-mi-storelarinda-ekran-ve-batarya-guvencesi-kampanyayla-geliyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/Redmi-Note-17-244-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-19T11:00:14+00:00",
+   "url": "/haber/redmi-note-17-serisi-icin-kampanya-duyuruldu-iste-detaylar-3f9aff67/"
+  },
+  {
+   "id": "9c42419c",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Ekim 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-ekim-2026-1746922",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-19T10:59:10+00:00",
-   "url": "/haber/alihan-kuris-suc-orgutune-yeni-dalga-operasyon-12-ilde-22-supheli-goza-b0e84ad2/"
+   "date": "2026-10-19T11:00:05+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c42419c/"
   },
   {
    "id": "0fa3e4e8",
@@ -79,6 +145,17 @@
    "url": "/haber/katlanabilir-iphone-un-batarya-kapasitesi-belli-oldu-918bd71c/"
   },
   {
+   "id": "042dd447",
+   "title": "Atatürk'ün eseri \"Nutuk\" sekiz dilde dünyaya ulaşacak",
+   "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Atatürk'ün eseri Nutuk'un İngilizce, Almanca, Fransızca, Kazakça, Rusça, Urduca, Farsça ve Türkmence özel baskılarının hazırlandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/kultur/ataturkun-eseri-nutuk-sekiz-dilde-dunyaya-ulasacak/4093324",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T10:49:20+00:00",
+   "url": "/haber/ataturk-un-eseri-nutuk-sekiz-dilde-dunyaya-ulasacak-042dd447/"
+  },
+  {
    "id": "4c82df17",
    "title": "Yemen basını: Husilerin Yemen'deki askeri kampa düzenlediği saldırıda 50'den fazla kişi öldü ve yaralandı",
    "summary": "Yemen basını, Yemen'de İran destekli Husilerin Şebve vilayetindeki El-Alam Askeri Eğitim Kampı'na düzenlediği balistik füze saldırısında 50'den fazla kişinin hayatını kaybettiğini ve yaralandığını bildirdi.",
@@ -88,6 +165,17 @@
    "category": "gundem",
    "date": "2026-10-19T10:47:52+00:00",
    "url": "/haber/yemen-basini-husilerin-yemen-deki-askeri-kampa-duzenledigi-saldirida-5-4c82df17/"
+  },
+  {
+   "id": "8d134728",
+   "title": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, “Muhtarlar Günü Buluşması” programında konuşuyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4093319",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T10:46:43+00:00",
+   "url": "/haber/canli-cumhurbaskani-erdogan-konusuyor-8d134728/"
   },
   {
    "id": "424560bf",
@@ -121,17 +209,6 @@
    "category": "teknoloji",
    "date": "2026-10-19T10:30:42+00:00",
    "url": "/haber/yavaslayan-android-tv-ler-yapay-zeka-ile-hizlaniyor-aa423e5c/"
-  },
-  {
-   "id": "9c42419c",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Ekim 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-ekim-2026-1746922",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-19T10:30:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c42419c/"
   },
   {
    "id": "fbdcbb44",
@@ -233,17 +310,6 @@
    "url": "/haber/japonya-mars-in-uydusundan-ornek-getirerek-bir-ilke-imza-atmaya-hazirl-96b94e06/"
   },
   {
-   "id": "bb845407",
-   "title": "Elon Musk: Gelecek yıl Amerika'daki her çocuğa SpaceX hisselerimden birini vereceğim",
-   "summary": "ABD'li milyarder Elon Musk, gelecek yıl ABD'deki \"her bir çocuğa\" üst yöneticisi olduğu SpaceX şirketindeki \"hisselerinden birini\" vereceğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/elon-musk-gelecek-yil-amerikadaki-her-cocuga-spacex-hisselerimden-birini-verecegim/4093267",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T10:04:24+00:00",
-   "url": "/haber/elon-musk-gelecek-yil-amerika-daki-her-cocuga-spacex-hisselerimden-bir-bb845407/"
-  },
-  {
    "id": "d4d1e411",
    "title": "DLSS Teknolojileri AMD Ekran Kartlarında Çalışıyor",
    "summary": "Nvidia'nın kilit DLSS teknolojileri, yeni DLSS-NR on AMD projesi sayesinde artık AMD ekran kartlarında kullanılabiliyor. Detaylar ve performans artışı hakkında bilgi alın.",
@@ -299,28 +365,6 @@
    "url": "/haber/alihan-kuris-sorusturmasinda-22-kisi-daha-gozaltina-alindi-83a3fc12/"
   },
   {
-   "id": "aa65acca",
-   "title": "\"Türkiye'nin Oscar'ı\" Altın Portakal, 63'üncü kez sinemanın en iyilerini ödüllendirecek",
-   "summary": "Türkiye'nin en köklü film organizasyonlarından Uluslararası Antalya Altın Portakal Film Festivali, Türk ve dünya sinemasından çok sayıda yönetmen, senarist ve aktörü 24-31 Ekim'de Antalya'da buluşturacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/turkiyenin-oscari-altin-portakal-63uncu-kez-sinemanin-en-iyilerini-odullendirecek/4093258",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T09:53:08+00:00",
-   "url": "/haber/turkiye-nin-oscar-i-altin-portakal-63-uncu-kez-sinemanin-en-iyilerini-aa65acca/"
-  },
-  {
-   "id": "20bfe4dc",
-   "title": "Selden etkilenen Ayazağa'da kentsel dönüşüm ofisi hizmete açıldı",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Kentsel Dönüşüm Başkanı Hakkı Alp, sel ve su baskınlarından etkilenen Sarıyer ilçesine bağlı Ayazağa Mahallesi'nde kurulan Kentsel Dönüşüm Ofisi'nde vatandaşlarla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/selden-etkilenen-ayazagada-kentsel-donusum-ofisi-hizmete-acildi/4093253",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T09:49:19+00:00",
-   "url": "/haber/selden-etkilenen-ayazaga-da-kentsel-donusum-ofisi-hizmete-acildi-20bfe4dc/"
-  },
-  {
    "id": "de26a85e",
    "title": "Türkiye ihracatında 9 ayda 211 milyar dolarlık rekor",
    "summary": "Türkiye'nin ocak-eylül dönemi ihracatı yıllık bazda yüzde 5,2 artarak 211 milyar dolara ulaşırken, 26 sektörden 18'i ihracatını artırdı. En yüksek artış yüzde 42 ile yaş meyve ve sebze sektöründe kaydedildi.",
@@ -363,28 +407,6 @@
    "category": "teknoloji",
    "date": "2026-10-19T09:43:00+00:00",
    "url": "/haber/opel-astra-nin-fiyatini-dusurdu-daha-ucuz-versiyonda-neler-eksildi-e01620a3/"
-  },
-  {
-   "id": "156422be",
-   "title": "\"Yetkilendirilmiş Yükümlü Statüleri\" için gümrüklerde AB ile karşılıklı tanımada geri sayım",
-   "summary": "Ticaret Bakanlığı, Türkiye ile AB arasında yetkilendirilmiş yükümlü firmalara ait sertifika ve statü bilgilerinin taraf gümrük idareleri arasında elektronik ortamda paylaşılmasına yönelik teknik çalışmalarda son aşamaya…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/yetkilendirilmis-yukumlu-statuleri-icin-gumruklerde-ab-ile-karsilikli-tanimada-geri-sayim/4093240",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T09:42:13+00:00",
-   "url": "/haber/yetkilendirilmis-yukumlu-statuleri-icin-gumruklerde-ab-ile-karsilikli-156422be/"
-  },
-  {
-   "id": "1b2aa57b",
-   "title": "İspanya'nın doğusunda şiddetli yağışlar etkili olmaya devam ediyor",
-   "summary": "İspanya'nın doğusundaki Valensiya, Katalonya ve Balear Adaları bölgelerini iki gündür etkisi altına alan şiddetli yağışlar yaşamı felç etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/ispanyanin-dogusunda-siddetli-yagislar-etkili-olmaya-devam-ediyor/4093223",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T09:34:09+00:00",
-   "url": "/haber/ispanya-nin-dogusunda-siddetli-yagislar-etkili-olmaya-devam-ediyor-1b2aa57b/"
   },
   {
    "id": "fff3d8d8",
@@ -1058,17 +1080,6 @@
    "url": "/haber/mide-ve-bagirsaklarindan-750-gram-uyusturucu-cikti-c2249b67/"
   },
   {
-   "id": "b21cb687",
-   "title": "PlayStation 6'nın RAM ve SSD maliyeti tartışma yarattı",
-   "summary": "PlayStation 6 konsolunun donanım maliyetlerine dair yeni veriler paylaşıldı. Yalnızca RAM ve SSD'nin maliyetinin 680 doları aştığı söyleniyor. Bu rakam sosyal medyada tartışmaya yol açtı.",
-   "link": "https://www.donanimhaber.com/ps6-nin-ram-ve-ssd-maliyeti-tartisma-yaratti--211778",
-   "image": "https://www.donanimhaber.com/images/images/haber/211778/1200x675ps6-nin-ram-ve-ssd-maliyeti-tartisma-yaratti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-18T19:00:00+00:00",
-   "url": "/haber/playstation-6-nin-ram-ve-ssd-maliyeti-tartisma-yaratti-b21cb687/"
-  },
-  {
    "id": "eecabaaf",
    "title": "Isparta'da kanyonda mahsur kalan 14 kişilik İHH gönüllülerinden 1 kişi hayatını kaybetti",
    "summary": "Isparta'nın Sütçüler ilçesindeki Yazılı Kanyon mevkisinde mahsur kalan 14 kişilik İHH gönüllü grubundan bir kişinin cansız bedenine ulaşıldı.",
@@ -1144,17 +1155,6 @@
    "category": "gundem",
    "date": "2026-10-18T10:19:02+00:00",
    "url": "/haber/manifest-in-wembley-konserinde-neler-yasandi-1741f5eb/"
-  },
-  {
-   "id": "dd7845ba",
-   "title": "İddia: “PlayStation 6’nın yalnızca RAM ve SSD maliyeti 680 doların üzerinde”",
-   "summary": "Güvenilir kaynaklardan KeplerL2’nin son iddiasına göre PlayStation 6’nın yalnızca RAM ve SSD maliyeti tam 680 doları aşıyor. Diğer bileşenlerle birlikte parça / üretim maliyetinin 1.000 doları geçtiği hesaplanan konsol,…",
-   "link": "https://www.log.com.tr/iddia-playstation-6nin-yalnizca-ram-ve-ssd-maliyeti-680-dolarin-uzerinde/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/04/playstation-6-ile-beraber-tanitilacak-el-konsolu-icin-yeni-iddialar-geldi-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-18T09:48:06+00:00",
-   "url": "/haber/iddia-playstation-6-nin-yalnizca-ram-ve-ssd-maliyeti-680-dolarin-uzeri-dd7845ba/"
   },
   {
    "id": "cc3da812",
