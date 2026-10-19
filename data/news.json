@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-19T21:01:08.406371+00:00",
+ "updated": "2026-10-19T21:31:00.027420+00:00",
  "items": [
+  {
+   "id": "5e562eee",
+   "title": "Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atandı. Sütcü ve Gönül görevden alındı",
+   "summary": "Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atandı. SPK Başkanı Sütcü ile KGK Başkanı Gönül ise görevden alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/hazine-ve-maliye-bakan-yardimciligina-kutluhan-taskin-atandi-1747070",
+   "image": "https://images.ntv.com.tr/images/mainart-son-dakika-haber-520714.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-19T21:24:30+00:00",
+   "url": "/haber/hazine-ve-maliye-bakan-yardimciligina-kutluhan-taskin-atandi-sutcu-ve-5e562eee/"
+  },
+  {
+   "id": "501c0d04",
+   "title": "SPK Başkanı Mahmut Sütcü görevden alındı",
+   "summary": "Resmi Gazete'de yayımlanan Cumhurbaşkanı kararıyla Sermaye Piyasası Kurulu (SPK) Başkanı Mahmut Sütcü görevden alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/spk-baskani-mahmut-sutcu-gorevden-alindi/4093980",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T21:21:14+00:00",
+   "url": "/haber/spk-baskani-mahmut-sutcu-gorevden-alindi-501c0d04/"
+  },
+  {
+   "id": "51c7a1b6",
+   "title": "Bomba ihbarı sebebiyle \"Milano-Cidde\" uçağı Roma'ya acil iniş yaptı",
+   "summary": "İtalya'nın Milano kentinden Suudi Arabistan'ın Cidde kentine gitmek için havalanan bir yolcu uçağı, \"bomba\" ihbarı üzerine Roma Fiumicino Havalimanı'na acil iniş yaptı. Güvenlik kontrollerinde, ihbarın asılsız olduğu…",
+   "link": "https://www.aa.com.tr/tr/dunya/bomba-ihbari-sebebiyle-milano-cidde-ucagi-romaya-acil-inis-yapti/4093974",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T21:08:50+00:00",
+   "url": "/haber/bomba-ihbari-sebebiyle-milano-cidde-ucagi-roma-ya-acil-inis-yapti-51c7a1b6/"
+  },
+  {
+   "id": "bc253858",
+   "title": "Fransa nefesini tutmuş bekliyor: Şimdi ne olacak?",
+   "summary": "Cumartesi günü yaşananlar, Fransa genelinde insanları sarstı ve kaygılandırdı. Göz yaşartıcı gazla kaplanan kentlerin, görünüşe göre hiçbir engelle karşılaşmadan hareket eden yağmacıların ve yanan kamu binalarının…",
+   "link": "https://www.bbc.com/turkce/articles/cqm26kmrx4vro?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d98/live/20d25f80-cbf5-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-19T21:06:51+00:00",
+   "url": "/haber/fransa-nefesini-tutmus-bekliyor-simdi-ne-olacak-bc253858/"
+  },
+  {
+   "id": "5ecd8464",
+   "title": "Fransa'da eylemler sonrası sokağa çıkma yasakları",
+   "summary": "Fransa Başbakanı Sébastien Lecornu, hafta sonu yaşanan protestolar ve yağma olaylarıyla ilgili olağanüstü kabine toplantısı düzenledi. Başbakan, toplantının ardından yaptığı açıklamada, ülkenin bazı bölgelerinde…",
+   "link": "https://www.bbc.com/turkce/articles/cqgm02rx8ng3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6b4/live/a5b14270-cb91-11f1-a64c-550be9e3c66b.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-19T21:03:37+00:00",
+   "url": "/haber/fransa-da-eylemler-sonrasi-sokaga-cikma-yasaklari-5ecd8464/"
+  },
   {
    "id": "1b431cbe",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Ekim 2026",
@@ -143,17 +198,6 @@
    "category": "gundem",
    "date": "2026-10-19T19:53:17+00:00",
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-19-eyl-cda641fb/"
-  },
-  {
-   "id": "bc253858",
-   "title": "Fransa'da Paris ve Nice'te sokağa çıkma yasakları",
-   "summary": "Fransa Başbakanı Sébastien Lecornu, belediye başkanlarına \"gerekli gördükleri yerlerde\" sokağa çıkma yasağı uygulama yetkisi verdiğini açıkladı.",
-   "link": "https://www.bbc.com/turkce/articles/cqm26kmrx4vro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d98/live/20d25f80-cbf5-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-19T19:43:27+00:00",
-   "url": "/haber/fransa-da-paris-ve-nice-te-sokaga-cikma-yasaklari-bc253858/"
   },
   {
    "id": "92858dee",
@@ -299,17 +343,6 @@
    "url": "/haber/portekiz-kampini-terk-eden-ronaldo-ya-255-avro-para-cezasi-70fb8cf3/"
   },
   {
-   "id": "431edd05",
-   "title": "Papa 14. Leo, Ukrayna Devlet Başkanı Zelenskiy ile telefonda görüştü",
-   "summary": "Vatikan Devlet Başkanı Papa 14. Leo'nun, Ukrayna Devlet Başkanı Volodimir Zelenskiy ile Ukrayna'nın Herson bölgesi Oleşki şehrindeki insani krizi görüştüğü bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/papa-14-leo-ukrayna-devlet-baskani-zelenskiy-ile-telefonda-gorustu/4093846",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T18:31:01+00:00",
-   "url": "/haber/papa-14-leo-ukrayna-devlet-baskani-zelenskiy-ile-telefonda-gorustu-431edd05/"
-  },
-  {
    "id": "74d8f5b8",
    "title": "TCG Anadolu, Arnavutluk'ta Neptune Strike 2026 tatbikatına katıldı",
    "summary": "Çok maksatlı amfibi hücum gemisi TCG Anadolu, NATO'nun Neptune Strike 2026 tatbikatının dördüncü ve son aşaması kapsamında Arnavutluk'ta düzenlenen tatbikata katıldı.",
@@ -330,17 +363,6 @@
    "category": "teknoloji",
    "date": "2026-10-19T18:28:00+00:00",
    "url": "/haber/meta-okyanusun-altina-dunyanin-en-yuksek-kapasiteli-internet-kablosunu-69926cfd/"
-  },
-  {
-   "id": "ea3a68f0",
-   "title": "Dışişleri Bakanı Fidan, Belçikalı mevkidaşı Prevot ile Brüksel'de görüştü",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Belçika'nın başkenti Brüksel'de Belçika Başbakan Yardımcısı ve Dışişleri Bakanı Maxime Prevot ile görüştü.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-belcikali-mevkidasi-prevot-ile-brukselde-gorustu/4093844",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T18:26:59+00:00",
-   "url": "/haber/disisleri-bakani-fidan-belcikali-mevkidasi-prevot-ile-bruksel-de-gorus-ea3a68f0/"
   },
   {
    "id": "4203c3bc",
@@ -948,17 +970,6 @@
    "url": "/haber/12-19-ekim-2026-turkiye-de-gecen-hafta-en-cok-izlenen-film-ve-diziler-c4efdb2b/"
   },
   {
-   "id": "5ecd8464",
-   "title": "Fransa'da eylemler: Başbakandan 'kısmi sokağa çıkma yasağı' çağrısı",
-   "summary": "Fransa Başbakanı Sébastien Lecornu, hafta sonu yaşanan protestolar ve yağma olaylarıyla ilgili olağanüstü kabine toplantısı düzenledi. Başbakan, toplantının ardından yaptığı açıklamada, ülkenin bazı bölgelerinde…",
-   "link": "https://www.bbc.com/turkce/articles/cqgm02rx8ng3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6b4/live/a5b14270-cb91-11f1-a64c-550be9e3c66b.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-19T12:24:46+00:00",
-   "url": "/haber/fransa-da-eylemler-basbakandan-kismi-sokaga-cikma-yasagi-cagrisi-5ecd8464/"
-  },
-  {
    "id": "dad61032",
    "title": "PUBG Mobile Yükselen Yıldızlar’da final heyecanı",
    "summary": "PUBG Mobile Yükselen Yıldızlar turnuvasının Türkiye’nin yedi şehrinde düzenlenen bölge elemeleri, 10 binden fazla espor tutkununun katılımıyla tamamlandı. 26-27 Ekim’deki yarı finallerin ardından gözler, 29-30 Ekim’de…",
@@ -1056,17 +1067,6 @@
    "category": "teknoloji",
    "date": "2026-10-19T08:38:17+00:00",
    "url": "/haber/yapay-zeka-yavaslayan-android-tv-leri-de-hizlandirabiliyor-video-de11e38a/"
-  },
-  {
-   "id": "f015d841",
-   "title": "Yaz aylarında kilitlenen bölgeye yeni otoyol. 2,5 saatlik yol 18 dakikaya düştü",
-   "summary": "Mersin'de Çeşmeli-Erdemli-Silifke-Taşucu Otoyolu'nun Çeşmeli-Kızkalesi kesimi hizmete girdi. Yeni otoyolun saatler süren seyahat süresini 18 dakikaya düşürmesi hedefleniyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-yaz-aylarinda-kilitlenen-bolgeye-yeni-otoyol-25-saatlik-yol-18-dakikaya-dustu-1746969",
-   "image": "https://images.ntv.com.tr/images/mersin-yeni-otoyol-211824.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-19T07:52:27+00:00",
-   "url": "/haber/yaz-aylarinda-kilitlenen-bolgeye-yeni-otoyol-2-5-saatlik-yol-18-dakika-f015d841/"
   },
   {
    "id": "ebe15500",
