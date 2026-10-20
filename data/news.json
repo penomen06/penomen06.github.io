@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T23:01:06.894928+00:00",
+ "updated": "2026-10-20T23:30:59.512684+00:00",
  "items": [
   {
    "id": "ddc46040",
@@ -9,8 +9,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-20T23:00:00+00:00",
+   "date": "2026-10-20T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-ddc46040/"
+  },
+  {
+   "id": "5ec75bbf",
+   "title": "BBC tasarruf için 2 kanal ve 1 radyoyu kapatıp bazı çalışanları işten çıkaracağını duyurdu",
+   "summary": "İngiliz kamu yayıncısı BBC, gelecek iki yılda 500 milyon sterlin (yaklaşık 33,2 milyar lira) tasarruf için BBC İskoçya dahil bazı kanal ve radyoları kapatmanın yanı sıra çok sayıda kişiyi işten çıkarma kararı aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/bbc-tasarruf-icin-2-kanal-ve-1-radyoyu-kapatip-bazi-calisanlari-isten-cikaracagini-duyurdu/4095197",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T23:18:47+00:00",
+   "url": "/haber/bbc-tasarruf-icin-2-kanal-ve-1-radyoyu-kapatip-bazi-calisanlari-isten-5ec75bbf/"
+  },
+  {
+   "id": "b0df0fc1",
+   "title": "WSJ: Musk, Starlink'in Ukrayna'da hızının yavaşlatılması emrini verdi",
+   "summary": "ABD'li milyarder Elon Musk'ın, Starlink'in Ukrayna ordusuna sağladığı internet hizmetinin yavaşlatılması emrini verdiği öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/wsj-musk-starlinkin-ukraynada-hizinin-yavaslatilmasi-emrini-verdi/4095196",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T23:18:43+00:00",
+   "url": "/haber/wsj-musk-starlink-in-ukrayna-da-hizinin-yavaslatilmasi-emrini-verdi-b0df0fc1/"
+  },
+  {
+   "id": "6f6d51be",
+   "title": "Spotify, yapay zeka tarafından üretilen 50 milyondan fazla parçayı önerilenler listesinden çıkardı",
+   "summary": "Spotify, bu yıl yapay zeka tarafından üretilen ve \"düşük kaliteli içerik ve spam olarak\" sınıflandırdığı 50 milyondan fazla parçayı önerilenler listesinden çıkardığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/spotify-yapay-zeka-tarafindan-uretilen-50-milyondan-fazla-parcayi-onerilenler-listesinden-cikardi/4095195",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T23:18:38+00:00",
+   "url": "/haber/spotify-yapay-zeka-tarafindan-uretilen-50-milyondan-fazla-parcayi-oner-6f6d51be/"
+  },
+  {
+   "id": "4e5b6946",
+   "title": "İngiltere'de hükümetin hataları nedeniyle Kovid-19'un bakım evlerinde hızla yayıldığı rapor edildi",
+   "summary": "İngiltere'de hükümetin Kovid-19'la mücadelede aldığı kararları inceleyen Kovid-19 Soruşturma Komisyonu'nun hazırladığı 6'ncı raporda, hükümetin hataları nedeniyle virüsün yaşlı bakım evlerinde \"orman yangını gibi\"…",
+   "link": "https://www.aa.com.tr/tr/dunya/ingilterede-hukumetin-hatalari-nedeniyle-kovid-19un-bakim-evlerinde-hizla-yayildigi-rapor-edildi/4095193",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T23:09:15+00:00",
+   "url": "/haber/ingiltere-de-hukumetin-hatalari-nedeniyle-kovid-19-un-bakim-evlerinde-4e5b6946/"
+  },
+  {
+   "id": "f6e45e33",
+   "title": "WSJ: Anthropic, gelecekte ek bilgi işlem kapasitesi için 750 milyar dolar harcayabilir",
+   "summary": "ABD merkezli yapay zeka şirketi Anthropic'in, gelecek yıllarda ek bilgi işlem kapasitesi için 750 milyar dolar harcayabileceği belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/wsj-anthropic-gelecekte-ek-bilgi-islem-kapasitesi-icin-750-milyar-dolar-harcayabilir/4095192",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T23:09:09+00:00",
+   "url": "/haber/wsj-anthropic-gelecekte-ek-bilgi-islem-kapasitesi-icin-750-milyar-dola-f6e45e33/"
   },
   {
    "id": "5719791b",
@@ -90,17 +145,6 @@
    "url": "/haber/spk-pusula-alnus-ve-bulls-yatirim-sirketlerinin-faaliyetleri-durduruld-4c5b6edd/"
   },
   {
-   "id": "c3fc1aa6",
-   "title": "SpaceX'in geliri üçüncü çeyrekte yüzde 161 arttı",
-   "summary": "SpaceX'in geliri, yapay zeka segmentinin ve Starlink abone sayısındaki artışın etkisiyle 2026'nın üçüncü çeyreğinde geçen yılın aynı dönemine kıyasla yüzde 161 yükseldi.",
-   "link": "https://www.aa.com.tr/tr/dunya/spacexin-geliri-ucuncu-ceyrekte-yuzde-161-artti/4095172",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T21:28:35+00:00",
-   "url": "/haber/spacex-in-geliri-ucuncu-ceyrekte-yuzde-161-artti-c3fc1aa6/"
-  },
-  {
    "id": "14d82fd2",
    "title": "ABD Başkanı Trump'a göre İran ile savaş \"çok yakında\" sona erecek",
    "summary": "ABD Başkanı Donald Trump, İran ile savaşın çok yakında sona ereceğini ve petrol fiyatlarının hızla düşeceğini savunarak, İran'ın \"gelecekte de nükleer silaha sahip olmayacağından\" emin olmak istediklerini söyledi.",
@@ -156,39 +200,6 @@
    "url": "/haber/trump-in-kanada-menseli-urunlere-uyguladigi-yuzde-50-lik-tarifelere-ka-3fd16750/"
   },
   {
-   "id": "74105584",
-   "title": "Netflix'in geliri üçüncü çeyrekte yüzde 12 arttı",
-   "summary": "Küresel yayın platformu Netflix'in geliri, bu yılın üçüncü çeyreğinde yıllık bazda yaklaşık yüzde 12 artarak 12,9 milyar dolara yükseldi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/netflixin-geliri-ucuncu-ceyrekte-yuzde-12-artti/4095162",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T21:18:39+00:00",
-   "url": "/haber/netflix-in-geliri-ucuncu-ceyrekte-yuzde-12-artti-74105584/"
-  },
-  {
-   "id": "633c30da",
-   "title": "Irak-İran arasındaki Şeyb Sınır Kapısı’nın kapatıldığı iddia edildi",
-   "summary": "Irak ve İran arasındaki Şeyb Sınır Kapısı’nın, Başbakan Ali ez-Zeydi’nin talimatıyla kapatıldığı öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/irak-iran-arasindaki-seyb-sinir-kapisi-nin-kapatildigi-iddia-edildi/4095157",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T21:12:55+00:00",
-   "url": "/haber/irak-iran-arasindaki-seyb-sinir-kapisi-nin-kapatildigi-iddia-edildi-633c30da/"
-  },
-  {
-   "id": "baa08482",
-   "title": "Filistinlilerin topraklarını gasbeden İsraillilerin Batı Şeria'daki saldırılarında 4 kişi yaralandı",
-   "summary": "Filistinlilerin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın farklı bölgelerinde düzenledikleri saldırılarda 4 Filistinli yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/filistinlilerin-topraklarini-gasbeden-israillilerin-bati-seriadaki-saldirilarinda-4-kisi-yaralandi/4095156",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T21:12:52+00:00",
-   "url": "/haber/filistinlilerin-topraklarini-gasbeden-israillilerin-bati-seria-daki-sa-baa08482/"
-  },
-  {
    "id": "d0b8427a",
    "title": "DSÖ, eşitsizliğin bulaşıcı olmayan hastalık riskleri ile bakıma erişimi şekillendirdiğini bildirdi",
    "summary": "Dünya Sağlık Örgütü (DSÖ), eşitsizliğin bulaşıcı olmayan hastalık risklerini ve bakıma erişimi şekillendirdiğini bildirdi.",
@@ -198,17 +209,6 @@
    "category": "gundem",
    "date": "2026-10-20T21:11:47+00:00",
    "url": "/haber/dso-esitsizligin-bulasici-olmayan-hastalik-riskleri-ile-bakima-erisimi-d0b8427a/"
-  },
-  {
-   "id": "46dd46e4",
-   "title": "UEFA Şampiyonlar Ligi'nin üçüncü haftası 9 maçla başladı",
-   "summary": "Avrupa futbolunun kulüp düzeyindeki bir numaralı turnuvasının lig aşamasında, üçüncü haftanın ilk gününde 9 karşılaşma oynandı.",
-   "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginin-ucuncu-haftasi-9-macla-basladi/4095151",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T21:01:00+00:00",
-   "url": "/haber/uefa-sampiyonlar-ligi-nin-ucuncu-haftasi-9-macla-basladi-46dd46e4/"
   },
   {
    "id": "5bb78bcc",
