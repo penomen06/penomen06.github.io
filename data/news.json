@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:30:56.839912+00:00",
+ "updated": "2026-10-20T00:01:12.820002+00:00",
  "items": [
   {
    "id": "1b431cbe",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-19T23:30:00+00:00",
+   "date": "2026-10-20T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-1b431cbe/"
   },
   {
@@ -20,8 +20,30 @@
    "image": "https://images.ntv.com.tr/images/tbmm-240302.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-19T23:28:24+00:00",
+   "date": "2026-10-19T23:49:25+00:00",
    "url": "/haber/fon-teklifi-bugun-genel-kurul-a-geliyor-6eafd120/"
+  },
+  {
+   "id": "7845c7f4",
+   "title": "Ev hapsinde gözaltına alınan Murat Ağırel tutuklandı",
+   "summary": "Fon krizine ilişkin yayınlar nedeniyle \"halkı yanıltıcı bilgiyi alenen yayma\" suçundan ev hapsinde olan gazeteci Murat Ağırel yeniden gözaltına alındı.",
+   "link": "https://www.bbc.com/turkce/articles/cmn04q2lnnrxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2dc7/live/ec786eb0-c923-11f1-831b-17a2ee1bd8f5.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-19T23:41:58+00:00",
+   "url": "/haber/ev-hapsinde-gozaltina-alinan-murat-agirel-tutuklandi-7845c7f4/"
+  },
+  {
+   "id": "2cb77b2d",
+   "title": "DEM Parti ve Yeni Parti görüşmesinde hangi mesajlar öne çıktı?",
+   "summary": "DEM Parti Eş Genel Başkanları Tülay Hatimoğulları ve Tuncer Bakırhan'ın Yeni Parti Genel Başkanı Özgür Özel'le görüşmesinde, Kürt sorununun çözümü için yürütülen süreçte gelinen aşama ve atılması gereken yeni adımlar…",
+   "link": "https://www.bbc.com/turkce/articles/cxj0l72j0qy9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b9c/live/4593ddd0-cc04-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-19T23:34:25+00:00",
+   "url": "/haber/dem-parti-ve-yeni-parti-gorusmesinde-hangi-mesajlar-one-cikti-2cb77b2d/"
   },
   {
    "id": "62b57bff",
@@ -33,17 +55,6 @@
    "category": "gundem",
    "date": "2026-10-19T23:24:38+00:00",
    "url": "/haber/uydu-goruntulerinde-kim-jong-un-un-havuzlu-kaydirakli-gemisi-62b57bff/"
-  },
-  {
-   "id": "2cb77b2d",
-   "title": "DEM Parti ve Yeni Parti görüşmesinde hangi mesajlar öne çıktı?",
-   "summary": "DEM Parti Eş Genel Başkanları Tülay Hatimoğulları ve Tuncer Bakırhan'ın Yeni Parti Genel Başkanı Özgür Özel'le görüşmesinde, Kürt sorununun çözümü için yürütülen süreçte gelinen aşama ve atılması gereken yeni adımlar…",
-   "link": "https://www.bbc.com/turkce/articles/cxj0l72j0qy9o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b9c/live/4593ddd0-cc04-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-19T23:23:21+00:00",
-   "url": "/haber/dem-parti-ve-yeni-parti-gorusmesinde-hangi-mesajlar-one-cikti-2cb77b2d/"
   },
   {
    "id": "c089d8a9",
@@ -286,17 +297,6 @@
    "category": "teknoloji",
    "date": "2026-10-19T20:20:00+00:00",
    "url": "/haber/spotify-aile-plani-paylasimina-savas-acti-kullanicilar-qr-kodla-dogrul-216763bb/"
-  },
-  {
-   "id": "7845c7f4",
-   "title": "Ev hapsinde gözaltına alınan Murat Ağırel tutuklandı",
-   "summary": "Fon krizine ilişkin yayınlar nedeniyle \"halkı yanıltıcı bilgiyi alenen yayma\" suçundan ev hapsinde olan gazeteci Murat Ağırel yeniden gözaltına alındı.",
-   "link": "https://www.bbc.com/turkce/articles/cmn04q2lnnrxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2dc7/live/ec786eb0-c923-11f1-831b-17a2ee1bd8f5.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-19T19:57:36+00:00",
-   "url": "/haber/ev-hapsinde-gozaltina-alinan-murat-agirel-tutuklandi-7845c7f4/"
   },
   {
    "id": "986ecdf2",
