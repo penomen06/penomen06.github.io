@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T03:30:56.070573+00:00",
+ "updated": "2026-10-20T04:01:08.696109+00:00",
  "items": [
   {
    "id": "1b431cbe",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-20T03:30:00+00:00",
+   "date": "2026-10-20T04:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-1b431cbe/"
+  },
+  {
+   "id": "efbf231f",
+   "title": "Resmen Açıklandı: Apple, 28 Ekim'de Lansman Düzenleyecek",
+   "summary": "Apple, 28 Ekim günü lansman düzenleyeceğini resmen açıkladı. Peki neler tanıtılacak?",
+   "link": "https://www.webtekno.com/apple-28-ekim-lansman-duyurdu-neler-tanitilacak-h227476.html",
+   "image": "https://imgrosetta.webtekno.com/file/693595/693595-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-20T03:50:02+00:00",
+   "url": "/haber/resmen-aciklandi-apple-28-ekim-de-lansman-duzenleyecek-efbf231f/"
   },
   {
    "id": "702fad49",
@@ -1078,17 +1089,6 @@
    "category": "gundem",
    "date": "2026-10-19T11:02:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-demokrasinin-uc-beyi-muhtarlar-ile-bagi-diri-tut-f5dbfef0/"
-  },
-  {
-   "id": "9e80ca28",
-   "title": "\"Yapay Zekâ İşimizi Elimizden Alacak mı?\" Sorusuna Örnek Bir Yanıt: Anthropic’in Çalışma Düzeni Baştan Aşağı Değişti!",
-   "summary": "Anthropic'in çalışma düzeni değişti. Yapay zekâ, junior istihdamını azaltırken çalışanların toplantı saatlerini ve yönetim yükünü artırdı.",
-   "link": "https://www.webtekno.com/yapay-zeka-isimizi-elimizden-alacak-mi-sorusuna-ornek-bir-yanit-h227425.html",
-   "image": "https://imgrosetta.webtekno.com/file/693436/693436-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-19T10:52:38+00:00",
-   "url": "/haber/yapay-zeka-isimizi-elimizden-alacak-mi-sorusuna-ornek-bir-yanit-anthro-9e80ca28/"
   },
   {
    "id": "de11e38a",
