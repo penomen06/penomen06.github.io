@@ -1,6 +1,127 @@
 {
- "updated": "2026-10-20T17:32:13.455118+00:00",
+ "updated": "2026-10-20T18:01:12.337296+00:00",
  "items": [
+  {
+   "id": "89659c9a",
+   "title": "Mercedes’ten Coupe SUV İddialarına Yanıt",
+   "summary": "Mercedes-Benz, Mercedes coupe SUV geleceği hakkındaki iddiaları yanıtladı. Marka, popüler coupe SUV modellerini üretmeye devam edeceğini açıkladı.",
+   "link": "https://shiftdelete.net/mercedes-benz-coupe-suv-modellerinden-vazgecmiyor",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-20T18:00:01+00:00",
+   "url": "/haber/mercedes-ten-coupe-suv-iddialarina-yanit-89659c9a/"
+  },
+  {
+   "id": "9134fc9c",
+   "title": "Matrix-Game 4.0, tek bir RTX 5090 ile gerçek zamanlı oyun dünyaları oluşturuyor",
+   "summary": "60 FPS hızında oyun dünyaları oluşturan bilen Matrix-Game 4.0 adlı yapay zekâ, açık kaynak olarak yayınlandı. Üstelik tek bir RTX 5090 üzerinde bile yerel olarak çalıştırılabiliyor.",
+   "link": "https://www.donanimhaber.com/yapay-zeka-ile-oyun-ureten-matrix-game-4-0-acik-kaynak-oldu--211872",
+   "image": "https://www.donanimhaber.com/images/images/haber/211872/1200x675yapay-zeka-ile-oyun-ureten-matrix-game-4-0-acik-kaynak-oldu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-20T17:59:00+00:00",
+   "url": "/haber/matrix-game-4-0-tek-bir-rtx-5090-ile-gercek-zamanli-oyun-dunyalari-olu-9134fc9c/"
+  },
+  {
+   "id": "c0815d76",
+   "title": "Fenerbahçe, Slavia Prag karşısında ilk yarıda 2-1 önde",
+   "summary": "Fenerbahçe, Şampiyonlar Ligi'nin üçüncü hafta maçında evinde bu akşam Çek Cumhuriyeti temsilcisi Slavia Prag'ı ağırlayacak.",
+   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf2c/live/9e63c330-ccae-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-20T17:50:26+00:00",
+   "url": "/haber/fenerbahce-slavia-prag-karsisinda-ilk-yarida-2-1-onde-c0815d76/"
+  },
+  {
+   "id": "07eed1e4",
+   "title": "Fransa'da savcılık, AP üyesi Hassan'ın 2 yıl siyasetten men edilmesini talep etti",
+   "summary": "Fransa'da savcılık, Filistin asıllı Avrupa Parlamentosu (AP) üyesi Rima Hassan hakkında \"terör propagandası\" yaptığı gerekçesiyle 2 yıl siyasetten men cezası verilmesini talep etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-savcilik-ap-uyesi-hassanin-2-yil-siyasetten-men-edilmesini-talep-etti/4094991",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T17:49:17+00:00",
+   "url": "/haber/fransa-da-savcilik-ap-uyesi-hassan-in-2-yil-siyasetten-men-edilmesini-07eed1e4/"
+  },
+  {
+   "id": "4871703a",
+   "title": "Fenerbahçe-Slavia Prag maçı öncesinde taklit ürün satanlara geçit verilmedi",
+   "summary": "Emniyet güçleri, Fenerbahçe-Slavia Prag maçı öncesinde stat çevresinde taklit ürün satıcılarına geçit vermedi.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-slavia-prag-maci-oncesinde-taklit-urun-satanlara-gecit-verilmedi/4094988",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T17:47:08+00:00",
+   "url": "/haber/fenerbahce-slavia-prag-maci-oncesinde-taklit-urun-satanlara-gecit-veri-4871703a/"
+  },
+  {
+   "id": "bfe22c41",
+   "title": "Yunanistan'da öğrenciler yüksek kiraları ve hayat pahalılığını protesto için çadır kurdu",
+   "summary": "Yunanistan'da öğrenciler, yüksek kiralara ve yaşam maliyetinin yol açtığı sorunlara dikkati çekmek amacıyla Parlamento binası önündeki Sintagma Meydanı'na sembolik olarak çadır kurarak eylem yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/yunanistanda-ogrenciler-yuksek-kiralari-ve-hayat-pahaliligini-protesto-icin-cadir-kurdu/4094987",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T17:45:45+00:00",
+   "url": "/haber/yunanistan-da-ogrenciler-yuksek-kiralari-ve-hayat-pahaliligini-protest-bfe22c41/"
+  },
+  {
+   "id": "42d3032b",
+   "title": "Xiaomi'den 25.000 mAh kapasiteli ve 250W gücünde yeni powerbank",
+   "summary": "Xiaomi'nin yeni powerbank modeli, 25.000 mAh bataryası ve 250W'a ulaşan toplam çıkış gücüyle, dizüstü bilgisayar gibi yüksek güç isteyen cihazları dahi şarj edebiliyor.",
+   "link": "https://www.donanimhaber.com/xiaomi-25-000-mah-bataryali-yeni-powerbank-modelini-tanitti--211873",
+   "image": "https://www.donanimhaber.com/images/images/haber/211873/1200x675xiaomi-25-000-mah-bataryali-yeni-powerbank-modelini-tanitti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-20T17:38:00+00:00",
+   "url": "/haber/xiaomi-den-25-000-mah-kapasiteli-ve-250w-gucunde-yeni-powerbank-42d3032b/"
+  },
+  {
+   "id": "12c009fa",
+   "title": "AMD, FSR 4.1 teknolojisini Xbox Series X, Series S ve el konsollarına getiriyor",
+   "summary": "AMD, ilk olarak Radeon RX 9000 serisi ekran kartları için yayınladığı FSR 4.1 teknolojisini Xbox Series S ve Series X konsollara, dizüstü bilgisayarlara, RX 6000 serisi ekran kartlarına ve Xbox Ally X gibi AMD APU…",
+   "link": "https://www.log.com.tr/amd-fsr-4-1-teknolojisini-xbox-series-x-series-s-ve-el-konsollarina-getiriyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2024/09/amd-fsr4-tamamen-yapay-zeka-tabanli-olacak-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-20T17:33:44+00:00",
+   "url": "/haber/amd-fsr-4-1-teknolojisini-xbox-series-x-series-s-ve-el-konsollarina-ge-12c009fa/"
+  },
+  {
+   "id": "046fb9f7",
+   "title": "Dışişleri Bakanı Fidan, Brüksel'de Avrupa Politika Merkezinde hitapta bulundu",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Belçika'nın başkenti Brüksel’de yerleşik Avrupa Politika Merkezi (European Policy Center) isimli düşünce kuruluşunda bir hitapta bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-brukselde-avrupa-politika-merkezinde-hitapta-bulundu/4094979",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T17:32:57+00:00",
+   "url": "/haber/disisleri-bakani-fidan-bruksel-de-avrupa-politika-merkezinde-hitapta-b-046fb9f7/"
+  },
+  {
+   "id": "ab51fe84",
+   "title": "Türk Telekom Basketbol Takımı, giydiği antrenman formalarıyla COP31'e dikkati çekti",
+   "summary": "Türk Telekom oyuncuları, Antalya'da düzenlenecek COP31 ile ilgili farkındalık yaratmak için BKT Avrupa Kupası B Grubu'nda Siauliai Basketbol ile oynadıkları maç öncesi ısınmaya geri dönüştürülebilir malzemeden üretilmiş…",
+   "link": "https://www.aa.com.tr/tr/spor/turk-telekom-basketbol-takimi-giydigi-antrenman-formalariyla-cop31e-dikkati-cekti/4094978",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T17:31:00+00:00",
+   "url": "/haber/turk-telekom-basketbol-takimi-giydigi-antrenman-formalariyla-cop31-e-d-ab51fe84/"
+  },
+  {
+   "id": "ec2eb045",
+   "title": "Philips’ten iş ve eğlenceyi bir araya getiren iki yeni kavisli QHD monitör",
+   "summary": "Philips monitörleri, ev ve ofis kullanıcılarının yanı sıra oyun severlere de hitap eden iki yeni kavisli modeli 27E3C2500 ve 32E3C2500‘ü tanıttı. QHD çözünürlüğe ve 1500R kavisli VA panele sahip her iki model, günlük…",
+   "link": "https://www.log.com.tr/philipsten-is-ve-eglenceyi-bir-araya-getiren-iki-yeni-kavisli-qhd-monitor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/Philips-24-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-20T17:30:49+00:00",
+   "url": "/haber/philips-ten-is-ve-eglenceyi-bir-araya-getiren-iki-yeni-kavisli-qhd-mon-ec2eb045/"
+  },
   {
    "id": "5c9a803e",
    "title": "Bolu Belediyesine yönelik \"irtikap\" davasında karar açıklandı",
@@ -156,17 +277,6 @@
    "url": "/haber/iletisim-baskani-duran-dan-turkiye-libya-deniz-yetki-alanlari-mutabaka-911c40da/"
   },
   {
-   "id": "719dbfc3",
-   "title": "NATO, Karadeniz'de gemilerin korunması için bölgeye ek unsurlar sevk edecek",
-   "summary": "NATO, Karadeniz'de gemilere yönelik saldırıların ardından bölgeye gözetleme, keşif ve adli inceleme destekleri dahil ek unsurlar gönderileceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/nato-karadenizde-gemilerin-korunmasi-icin-bolgeye-ek-unsurlar-sevk-edecek/4094916",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T16:12:50+00:00",
-   "url": "/haber/nato-karadeniz-de-gemilerin-korunmasi-icin-bolgeye-ek-unsurlar-sevk-ed-719dbfc3/"
-  },
-  {
    "id": "17d404af",
    "title": "Dünyada ilk kez yaralı bir asker cepheden dronla tahliye edildi",
    "summary": "Ukrayna ordusu, cephede yaralanan askerini ateş hattından tahliye etmek için dron kullandı. Bu olay, yaralı bir askeri tahliye etmek için dronun kullanıldığı ilk operasyon olarak tarihe geçti.",
@@ -176,17 +286,6 @@
    "category": "teknoloji",
    "date": "2026-10-20T16:12:00+00:00",
    "url": "/haber/dunyada-ilk-kez-yarali-bir-asker-cepheden-dronla-tahliye-edildi-17d404af/"
-  },
-  {
-   "id": "2f05f70c",
-   "title": "12 Dev Adam Basketbol Okulları 1. etap basketbolcu taramaları başlıyor",
-   "summary": "12 Dev Adam Basketbol Okulları (12 DABO), 2026-2027 dönemi basketbolcu taramalarına Bitlis, Muş, Siirt, Van, Hakkari ve Şırnak illerinde 1. etapla başlayacak.",
-   "link": "https://www.aa.com.tr/tr/spor/12-dev-adam-basketbol-okullari-1-etap-basketbolcu-taramalari-basliyor/4094914",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T16:11:48+00:00",
-   "url": "/haber/12-dev-adam-basketbol-okullari-1-etap-basketbolcu-taramalari-basliyor-2f05f70c/"
   },
   {
    "id": "bc1baa9b",
@@ -222,17 +321,6 @@
    "url": "/haber/yapay-zeka-destekli-yazilim-gelistirmede-asil-farki-ne-yaratacak-b1cec137/"
   },
   {
-   "id": "ab867df6",
-   "title": "Çin, ABD'nin \"ticari sırları çalma\" iddiasıyla Çinli şirketlere yaptırım getirmesine tepki gösterdi",
-   "summary": "Çin, ABD'de ticari sırları çalmaktan hüküm giyen bir Çin vatandaşıyla bağlantılı Çinli şirketlere yaptırım uygulanmasına tepki gösterdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cin-abdnin-ticari-sirlari-calma-iddiasiyla-cinli-sirketlere-yaptirim-getirmesine-tepki-gosterdi-/4094906",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T16:04:06+00:00",
-   "url": "/haber/cin-abd-nin-ticari-sirlari-calma-iddiasiyla-cinli-sirketlere-yaptirim-ab867df6/"
-  },
-  {
    "id": "540449d8",
    "title": "OPPO’dan Katlanabilir Olmayan Geniş Yapılı Yeni Telefon Modeli Geliyor",
    "summary": "OPPO'nun katlanabilir olmayan geniş yapılı yeni telefonu Reno X hakkında sızan teknik detaylar ve beklenen özellikler haberimizde.",
@@ -242,28 +330,6 @@
    "category": "teknoloji",
    "date": "2026-10-20T16:00:49+00:00",
    "url": "/haber/oppo-dan-katlanabilir-olmayan-genis-yapili-yeni-telefon-modeli-geliyor-540449d8/"
-  },
-  {
-   "id": "c1a5b417",
-   "title": "Toplam sanayi üretici fiyat endeksi eylülde aylık yüzde 2,31, yıllık yüzde 29,32 arttı",
-   "summary": "Toplam sanayi üretici fiyat endeksi, eylülde aylık bazda yüzde 2,31, yıllık bazda yüzde 29,32 artış kaydetti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/toplam-sanayi-uretici-fiyat-endeksi-eylulde-aylik-yuzde-2-31-yillik-yuzde-29-32-artti/4094904",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T15:59:37+00:00",
-   "url": "/haber/toplam-sanayi-uretici-fiyat-endeksi-eylulde-aylik-yuzde-2-31-yillik-yu-c1a5b417/"
-  },
-  {
-   "id": "97ea392c",
-   "title": "Merz: Türkiye'den gelen göç Almanya'yı kültürel, ekonomik ve bilimsel açıdan zenginleştirdi",
-   "summary": "Almanya Başbakanı Friedrich Merz, Türkiye'den gelen göç sayesinde Almanya'nın kültürel, ekonomik ve bilimsel açıdan daha zengin hale geldiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/merz-turkiyeden-gelen-goc-almanyayi-kulturel-ekonomik-ve-bilimsel-acidan-zenginlestirdi/4094899",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T15:56:06+00:00",
-   "url": "/haber/merz-turkiye-den-gelen-goc-almanya-yi-kulturel-ekonomik-ve-bilimsel-ac-97ea392c/"
   },
   {
    "id": "f545ec1f",
@@ -508,17 +574,6 @@
    "url": "/haber/ak-parti-sozcusu-celik-fon-seytanlarinin-uzerine-sonuna-kadar-gidecegi-7552312b/"
   },
   {
-   "id": "ad9f88d2",
-   "title": "En iyi kavisli (curved) monitör modelleri",
-   "summary": "Kavisli monitör arayanlar buraya! İşte 300 Hz yenileme hızı, QHD çözünürlük ve geniş ekran seçenekleriyle öne çıkan en iyi kavisli monitör modelleri ve özellikleri.",
-   "link": "https://www.donanimhaber.com/en-iyi-kavisli-curved-monitor-modelleri--211660",
-   "image": "https://www.donanimhaber.com/images/images/haber/211660/1200x675en-iyi-kavisli-curved-monitor-modelleri.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-20T13:41:44+00:00",
-   "url": "/haber/en-iyi-kavisli-curved-monitor-modelleri-ad9f88d2/"
-  },
-  {
    "id": "7b2ce4cd",
    "title": "Yüz fotoğrafınız ne kadar hasta olduğunuzu gösterebilir mi?",
    "summary": "ABD'de yapılan bir araştırma, yapay zeka kullanılarak, bir hastalığın ne kadar ilerlemiş olduğunun hastanın yüz fotoğrafı üzerinden de değerlendirilebileceğini savundu.",
@@ -528,17 +583,6 @@
    "category": "gundem",
    "date": "2026-10-20T13:41:30+00:00",
    "url": "/haber/yuz-fotografiniz-ne-kadar-hasta-oldugunuzu-gosterebilir-mi-7b2ce4cd/"
-  },
-  {
-   "id": "0f754116",
-   "title": "iPhone Duo videosunda can sıkıcı detay: Kat izi sorunu çözülmemiş!",
-   "summary": "Apple'ın katlanabilir iPhone'u henüz alıcılara ulaşmadı ancak erken incelemeler can sıkıcı bir detayı ortaya çıkardı. Görünen o ki, iPhone Duo'da kat izi sorunu tam olarak çözülebilmiş değil.",
-   "link": "https://www.donanimhaber.com/iphone-duo-on-inceleme-kat-izi-sorunu-cozulmemis--211863",
-   "image": "https://www.donanimhaber.com/images/images/haber/211863/1200x675iphone-duo-on-inceleme-kat-izi-sorunu-cozulmemis.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-20T13:40:00+00:00",
-   "url": "/haber/iphone-duo-videosunda-can-sikici-detay-kat-izi-sorunu-cozulmemis-0f754116/"
   },
   {
    "id": "ece6adf5",
@@ -838,17 +882,6 @@
    "url": "/haber/samsung-galaxy-a18-4g-turkiye-de-satisa-sunuldu-513c3782/"
   },
   {
-   "id": "58e03c2a",
-   "title": "OPPO Find X10 serisi, Türkiye’de de satışa sunulacak",
-   "summary": "Bugün OPPO Türkiye tarafından yapılan resmi açıklamaya göre OPPO Find X10 serisi yıl bitmeden önce Türkiye’de de satışa sunulacak. Henüz fiyatların paylaşılmadığı seride, detaylarına buradaki haberimizde yer verdiğimiz…",
-   "link": "https://www.log.com.tr/oppo-find-x10-serisi-turkiyede-de-satisa-sunulacak/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-20_15-16-44_NmA0y-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-20T12:18:07+00:00",
-   "url": "/haber/oppo-find-x10-serisi-turkiye-de-de-satisa-sunulacak-58e03c2a/"
-  },
-  {
    "id": "1ae4ba53",
    "title": "Apple, Yapay Zekâ Destekli Ses Düzenleme Girişimi Samplab'i Satın Aldı",
    "summary": "Apple, Logic Pro ve GarageBand'i güçlendirmek için yapay zekâ tabanlı ses ve polifonik nota düzenleme platformu Samplab'i satın aldı.",
@@ -1058,17 +1091,6 @@
    "url": "/haber/kultepe-de-78-yillik-kazi-tarihinde-bir-ilk-55415936/"
   },
   {
-   "id": "d6f26d9e",
-   "title": "GTA 6 Çıkışı Öncesi PlayStation 5 Cephesinde Kritik Gelişme: 14.10 Sürümü Kırıldı",
-   "summary": "Sony’nin PlayStation 5 konsollarını güvende tutmak için yayınladığı en güncel sistem yazılımı 14.10, bağımsız geliştiriciler tarafından aşıldı. “Gezine” takma adlı geliştiricinin konsolun hata ayıklama (debug)…",
-   "link": "https://shiftdelete.net/gta-6-cikisi-oncesi-playstation-5-cephesinde-kritik-gelisme-14-10-surumu-kirildi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-20T10:04:52+00:00",
-   "url": "/haber/gta-6-cikisi-oncesi-playstation-5-cephesinde-kritik-gelisme-14-10-suru-d6f26d9e/"
-  },
-  {
    "id": "d4b732a1",
    "title": "İstanbul'da tarihi palamut bolluğu: \"1987'den beri böylesini görmedim\"",
    "summary": "İstanbul'da tarihi bir palamut bolluğu yaşanıyor. Balıkçılar, uzun yıllardır bu oranda bolluk görmediklerini anlatırken, palamudun toptan fiyatı 25 liraya kadar geriledi.",
@@ -1133,17 +1155,6 @@
    "category": "gundem",
    "date": "2026-10-20T08:28:00+00:00",
    "url": "/haber/uskudar-belediye-baskan-vekili-belli-oldu-8ee9cccb/"
-  },
-  {
-   "id": "bcaf3167",
-   "title": "MG HS için Türkiye’ye yeni versiyonlar getirildi",
-   "summary": "MG HS için Türkiye’ye getirilen yeni versiyonlar, 2 milyon 385 bin TL’lik “HS Premium” ve 2 milyon 750 bin TL’lik “MG HS Luxury Plus” oldu. “MG HS Premium, şık tasarımı ve geniş yaşam alanını, günlük kullanımı…",
-   "link": "https://www.log.com.tr/mg-hs-icin-turkiyeye-yeni-versiyonlar-getirildi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-20_11-17-42_CzZYD-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-20T08:20:02+00:00",
-   "url": "/haber/mg-hs-icin-turkiye-ye-yeni-versiyonlar-getirildi-bcaf3167/"
   },
   {
    "id": "7845c7f4",
@@ -1221,17 +1232,6 @@
    "category": "gundem",
    "date": "2026-10-19T21:13:00+00:00",
    "url": "/haber/atama-ve-gorevden-alma-kararlari-resmi-gazete-de-e832f1a6/"
-  },
-  {
-   "id": "c0815d76",
-   "title": "Fenerbahçe, Şampiyonlar Ligi'nde evinde Slavia Prag'ı ağırlayacak",
-   "summary": "Fenerbahçe, Şampiyonlar Ligi'nin üçüncü hafta maçında evinde bu akşam Çek Cumhuriyeti temsilcisi Slavia Prag'ı ağırlayacak.",
-   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c93b/live/60046790-cbd5-11f1-aba9-2bb2608f11d9.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-19T20:59:12+00:00",
-   "url": "/haber/fenerbahce-sampiyonlar-ligi-nde-evinde-slavia-prag-i-agirlayacak-c0815d76/"
   },
   {
    "id": "441c8eb8",
