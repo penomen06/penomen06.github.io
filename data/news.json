@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T00:01:12.820002+00:00",
+ "updated": "2026-10-20T00:30:58.019653+00:00",
  "items": [
   {
    "id": "1b431cbe",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-20T00:00:00+00:00",
+   "date": "2026-10-20T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-1b431cbe/"
+  },
+  {
+   "id": "8379361c",
+   "title": "İsrail ordusu Suriye'nin Kuneytra kırsalında baskın düzenledi",
+   "summary": "İsrail ordusunun, Suriye’nin güneyindeki Kuneytra ilinin kırsalında yer alan yerleşim yerlerine baskın yaptığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-suriyenin-kuneytra-kirsalinda-baskin-duzenledi/4093999",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T00:02:41+00:00",
+   "url": "/haber/israil-ordusu-suriye-nin-kuneytra-kirsalinda-baskin-duzenledi-8379361c/"
   },
   {
    "id": "6eafd120",
@@ -22,6 +33,17 @@
    "category": "gundem",
    "date": "2026-10-19T23:49:25+00:00",
    "url": "/haber/fon-teklifi-bugun-genel-kurul-a-geliyor-6eafd120/"
+  },
+  {
+   "id": "a8199ee2",
+   "title": "İsrail, işgal altındaki Batı Şeria'da Filistinlilere ait yaklaşık 183 dönüm araziye el koydu",
+   "summary": "İsrail'in, işgal altındaki Batı Şeria'nın El Halil ve Beytüllahim kentlerinde Filistinlilere ait yaklaşık 183 dönüm araziye el koyduğu bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-isgal-altindaki-bati-seriada-filistinlilere-ait-yaklasik-183-donum-araziye-el-koydu/4093997",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-19T23:47:26+00:00",
+   "url": "/haber/israil-isgal-altindaki-bati-seria-da-filistinlilere-ait-yaklasik-183-d-a8199ee2/"
   },
   {
    "id": "7845c7f4",
@@ -387,17 +409,6 @@
    "url": "/haber/ispanya-da-uzum-baglarina-gunes-panelleri-kuruldu-sonuclar-dikkat-ceki-c97012d7/"
   },
   {
-   "id": "57fe7bfd",
-   "title": "İran’dan vatandaşlarına Fransa, Belçika ve İtalya’ya seyahat uyarısı",
-   "summary": "İran Dışişleri Bakanlığı, vatandaşlarına Fransa, Belçika ve İtalya’ya seyahat etme konusunda uyarıda bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-dan-vatandaslarina-fransa-belcika-ve-italya-ya-seyahat-uyarisi/4093875",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T19:07:45+00:00",
-   "url": "/haber/iran-dan-vatandaslarina-fransa-belcika-ve-italya-ya-seyahat-uyarisi-57fe7bfd/"
-  },
-  {
    "id": "79732aba",
    "title": "İran Cumhurbaşkanı Pezeşkiyan: Bölge ülkeleri ile temel hiçbir anlaşmazlığımız yok",
    "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, temaslarda bulunmak üzere Tahran’a gelen Rusya Dışişleri Bakanı Sergey Lavrov ile gerçekleştirdiği görüşmede, \"Bölge ülkeleri ile temel hiçbir anlaşmazlığımız yok.\" dedi.",
@@ -407,17 +418,6 @@
    "category": "gundem",
    "date": "2026-10-19T19:04:35+00:00",
    "url": "/haber/iran-cumhurbaskani-pezeskiyan-bolge-ulkeleri-ile-temel-hicbir-anlasmaz-79732aba/"
-  },
-  {
-   "id": "f1087f3b",
-   "title": "UEFA, FIFA'dan 42 soruya yanıt vermesini istedi",
-   "summary": "UEFA, FIFA Barış Ödülü, ABD'li futbolcu Folarin Balogun'un ertelenen kırmızı kart cezası ve FIFA Forward Enterprise (FFE) projesiyle ilgili 42 soru için FIFA'dan yanıt istedi.",
-   "link": "https://www.aa.com.tr/tr/spor/uefa-fifadan-42-soruya-yanit-vermesini-istedi-/4093866",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T18:59:32+00:00",
-   "url": "/haber/uefa-fifa-dan-42-soruya-yanit-vermesini-istedi-f1087f3b/"
   },
   {
    "id": "707634a2",
