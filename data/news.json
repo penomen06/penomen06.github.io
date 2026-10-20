@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T00:30:58.019653+00:00",
+ "updated": "2026-10-20T01:01:10.420072+00:00",
  "items": [
   {
    "id": "1b431cbe",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-20T00:30:00+00:00",
+   "date": "2026-10-20T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-1b431cbe/"
+  },
+  {
+   "id": "f15f3acf",
+   "title": "Başkentteki uyuşturucu operasyonu. 47 şüpheli yakalandı",
+   "summary": "Ankara'da uyuşturucu operasyonlarında yakalanan 47 şüpheli hakkında işlem başlatıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/baskentteki-uyusturucu-operasyonu-47-supheli-yakalandi-1747076",
+   "image": "https://images.ntv.com.tr/images/gözaltı-966149.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-20T00:49:34+00:00",
+   "url": "/haber/baskentteki-uyusturucu-operasyonu-47-supheli-yakalandi-f15f3acf/"
   },
   {
    "id": "8379361c",
@@ -913,17 +924,6 @@
    "category": "gundem",
    "date": "2026-10-19T13:19:46+00:00",
    "url": "/haber/arda-guler-madrid-i-degistiriyor-yeni-rolu-kalici-olur-mu-a1dcdc14/"
-  },
-  {
-   "id": "5f9a9f4b",
-   "title": "Cenaze töreninde dikkat çeken anlar. Kemal Kılıçdaroğlu ile Özgür Özel tokalaştı",
-   "summary": "Eski Doğru Yol Partisi (DYP) Manisa Milletvekili Hasan Gülay için TBMM'de düzenlenen cenaze töreninde Özgür Özel ile Kemal Kılıçdaroğlu'nun selamlaşması dikkat çekti.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-cenaze-toreninde-dikkat-ceken-anlar-kemal-kilicdaroglu-ile-ozgur-ozel-tokalasti-1747024",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-19152346-767522.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-19T13:17:58+00:00",
-   "url": "/haber/cenaze-toreninde-dikkat-ceken-anlar-kemal-kilicdaroglu-ile-ozgur-ozel-5f9a9f4b/"
   },
   {
    "id": "d842c78d",
