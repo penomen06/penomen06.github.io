@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:01:18.860974+00:00",
+ "updated": "2026-10-20T21:31:00.826057+00:00",
  "items": [
   {
    "id": "ddc46040",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-20T21:00:00+00:00",
+   "date": "2026-10-20T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-ddc46040/"
+  },
+  {
+   "id": "46dd46e4",
+   "title": "UEFA Şampiyonlar Ligi'nin üçüncü haftası 9 maçla başladı",
+   "summary": "Avrupa futbolunun kulüp düzeyindeki bir numaralı turnuvasının lig aşamasında, üçüncü haftanın ilk gününde 9 karşılaşma oynandı.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginin-ucuncu-haftasi-9-macla-basladi/4095151",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T21:01:00+00:00",
+   "url": "/haber/uefa-sampiyonlar-ligi-nin-ucuncu-haftasi-9-macla-basladi-46dd46e4/"
   },
   {
    "id": "5bb78bcc",
@@ -363,17 +374,6 @@
    "category": "teknoloji",
    "date": "2026-10-20T18:33:00+00:00",
    "url": "/haber/intel-nova-lake-e-icin-uzucu-haber-hibrit-tasarim-olmayacak-9a034533/"
-  },
-  {
-   "id": "ea9ae754",
-   "title": "Bakan Gürlek, Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı'na katıldı",
-   "summary": "Adalet Bakanı Akın Gürlek, \"Müttefik ülke Belçika'nın özellikle FETÖ'nün kendi ülkesindeki yapılanmasına karşı somut ve etkili tedbirler almasını bekliyoruz.\" ifadesini kullandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-toplantisina-katildi/4095014",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T18:29:04+00:00",
-   "url": "/haber/bakan-gurlek-turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-ea9ae754/"
   },
   {
    "id": "208abe5c",
