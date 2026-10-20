@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-20T12:01:10.420749+00:00",
+ "updated": "2026-10-20T12:07:43.037907+00:00",
  "items": [
+  {
+   "id": "0ffd4c5f",
+   "title": "Mekke İttifakı Anlaşması Meclis'te. Ayrıntılar ilk kez NTV'de",
+   "summary": "Suudi Arabistan, Pakistan ve Türkiye arasında imzalanan Mekke İttifakı Anlaşması Meclis'e sunuldu. Ayrıntıları NTV Muhabiri Özgür Akbaş aktardı.",
+   "link": "https://www.ntv.com.tr/turkiye/mekke-ittifaki-anlasmasi-mecliste-1747154",
+   "image": "https://images.ntv.com.tr/images/meclis-217021-401684.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-20T12:07:20+00:00",
+   "url": "/haber/mekke-ittifaki-anlasmasi-meclis-te-ayrintilar-ilk-kez-ntv-de-0ffd4c5f/"
+  },
+  {
+   "id": "1a4ef6f4",
+   "title": "NVIDIA, Yeni Nemotron 3.5 Yapay Zekâ Modellerini Duyurdu",
+   "summary": "NVIDIA, kurumsal yapay zekâ ajanları ve cihaz üzerinde yerel çalışan bilgisayarlar için geliştirdiği yeni yapay zekâ modellerini duyurdu.",
+   "link": "https://www.webtekno.com/nvidia-yeni-yapay-zeka-modelleri-duyurdu-h227513.html",
+   "image": "https://imgrosetta.webtekno.com/file/693709/693709-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-20T12:06:54+00:00",
+   "url": "/haber/nvidia-yeni-nemotron-3-5-yapay-zeka-modellerini-duyurdu-1a4ef6f4/"
+  },
+  {
+   "id": "b7ae7462",
+   "title": "2026 Paris Otomobil Fuarı’ndan Mutlaka Görmeniz Gereken 6 Otomobil",
+   "summary": "En büyük otomobil etkinliklerinden biri olan Paris Otomobil Fuarı tamamlandı. İşte fuarda dikkat çeken modeller.",
+   "link": "https://www.webtekno.com/2026-paris-otomobil-fuari-dikkat-ceken-otomobiller-h227509.html",
+   "image": "https://imgrosetta.webtekno.com/file/693703/693703-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-20T12:06:43+00:00",
+   "url": "/haber/2026-paris-otomobil-fuari-ndan-mutlaka-gormeniz-gereken-6-otomobil-b7ae7462/"
+  },
+  {
+   "id": "6143f560",
+   "title": "Libya Temsilciler Meclisi, Türkiye ile deniz yetki alanı Mutabakat Zabtı'nı onayladı",
+   "summary": "Libya Temsilciler Meclisi, Ulusal Mutabakat Hükümeti ile Türkiye arasında Akdeniz'deki deniz yetki alanlarının sınırlandırılmasına ilişkin imzalanan Mutabakat Zaptı'nı onayladı.",
+   "link": "https://www.ntv.com.tr/dunya/libya-temsilciler-meclisi-turkiye-ile-deniz-yetki-alani-mutabakat-zabtini-onayladi-1747182",
+   "image": "https://images.ntv.com.tr/images/mainart-son-dakika-haber-520714.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-20T12:02:53+00:00",
+   "url": "/haber/libya-temsilciler-meclisi-turkiye-ile-deniz-yetki-alani-mutabakat-zabt-6143f560/"
+  },
+  {
+   "id": "3d99761c",
+   "title": "TGS, Fortune 500 Türkiye listesinde ilk 100'e girdi",
+   "summary": "Türk Hava Yolları (THY) iştiraki Turkish Ground Services (TGS), 2025 yılı net satış gelirlerine göre hazırlanan Fortune 500 Türkiye listesinde 96'ncı sırada yer aldı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tgs-fortune-500-turkiye-listesinde-ilk-100e-girdi/4094616",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T12:02:23+00:00",
+   "url": "/haber/tgs-fortune-500-turkiye-listesinde-ilk-100-e-girdi-3d99761c/"
+  },
   {
    "id": "e25134b6",
    "title": "Netflix’te Büyük Değişim: İçerik Yöneticisi Değişiyor",
@@ -11,6 +66,17 @@
    "category": "teknoloji",
    "date": "2026-10-20T12:00:39+00:00",
    "url": "/haber/netflix-te-buyuk-degisim-icerik-yoneticisi-degisiyor-e25134b6/"
+  },
+  {
+   "id": "213401bd",
+   "title": "Mekke İttifakı Anlaşması Meclis'e sunuldu",
+   "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke İttifakı Anlaşması'na dair kanun teklifi Türkiye Büyük Millet Meclisi Başkanlığına sunuldu.",
+   "link": "https://www.bbc.com/turkce/articles/cwj0l71r8lq9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e4fa/live/6d4addb0-cc7c-11f1-bed8-c51b95c602ec.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-20T11:57:14+00:00",
+   "url": "/haber/mekke-ittifaki-anlasmasi-meclis-e-sunuldu-213401bd/"
   },
   {
    "id": "bd0eaed4",
@@ -136,7 +202,7 @@
   {
    "id": "41f0fcf6",
    "title": "Türkiye-Libya deniz yetki alanları mutabakatına Libya Temsilciler Meclisinden onay",
-   "summary": "Libya Temsilciler Meclisi, Ulusal Mutabakat Hükümeti ile Türkiye arasında Akdeniz'deki deniz yetki alanlarının sınırlandırılmasına ilişkin imzalanan Mutabakat Zaptı'nı onayladı.",
+   "summary": "Libya Temsilciler Meclisi, 2019'da Libya ve Türkiye arasında imzalanan deniz yetki alanlarının belirlenmesine ilişkin mutabakat muhtırasını onayladı.",
    "link": "https://www.aa.com.tr/tr/gundem/turkiye-libya-deniz-yetki-alanlari-mutabakatina-libya-temsilciler-meclisinden-onay/4094562",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -209,17 +275,6 @@
    "category": "teknoloji",
    "date": "2026-10-20T11:24:18+00:00",
    "url": "/haber/abd-icisleri-bakanligi-kamu-kurumlarina-deepseek-kullanimini-yasakladi-f90a5848/"
-  },
-  {
-   "id": "0ffd4c5f",
-   "title": "Mekke İttifakı Anlaşması Meclis'te",
-   "summary": "Suudi Arabistan, Pakistan ve Türkiye arasında imzalanan Mekke İttifakı Anlaşması Meclis'e sunuldu.",
-   "link": "https://www.ntv.com.tr/turkiye/mekke-ittifaki-anlasmasi-mecliste-1747154",
-   "image": "https://images.ntv.com.tr/images/meclis-217021-401684.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-20T11:15:35+00:00",
-   "url": "/haber/mekke-ittifaki-anlasmasi-meclis-te-0ffd4c5f/"
   },
   {
    "id": "0ad4bf8f",
@@ -904,17 +959,6 @@
    "url": "/haber/xiaomi-18-pro-ve-18-pro-max-in-avrupa-fiyatlari-ve-batarya-kapasiteler-7ecde3ee/"
   },
   {
-   "id": "f650a9ff",
-   "title": "Vize vurgununda WhatsApp yazışmaları: Randevu sistemini kilitleyip, 300 euroya satmışlar",
-   "summary": "Vize randevusu garantisi verip botlarla ele geçirdikleri randevuları 300 euroya satan şüphelilere operasyon yapıldı. Operasyonda şebeke üyelerinin WhatsApp yazışmaları ortaya çıktı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-vize-vurgununda-whatsapp-yazismalari-randevu-sistemini-kilitleyip-300-euroya-satmislar-1747106",
-   "image": "https://images.ntv.com.tr/images/vize-yazışmaları-883538.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-20T07:11:42+00:00",
-   "url": "/haber/vize-vurgununda-whatsapp-yazismalari-randevu-sistemini-kilitleyip-300-f650a9ff/"
-  },
-  {
    "id": "76e56fda",
    "title": "Trafik kazasını kazanç kapısı yapanlara operasyon. 77 gözaltı",
    "summary": "Kurgu trafik kazaları üzerinden 17 sigorta şirketinden haksız tazminat temin eden yönelik operasyon düzenlendi.",
@@ -1124,28 +1168,6 @@
    "url": "/haber/istanbul-merkezli-3-ilde-feto-nun-gizli-yapilanmasina-operasyon-15-goz-8d8cc85b/"
   },
   {
-   "id": "0adbfd53",
-   "title": "Fiat’tan Uygun Fiyatlı Küçük Elektrikli Otomobil Geliyor",
-   "summary": "Fiat, Citroen’in yeni 2CV modeliyle aynı platformu paylaşacak küçük ve uygun fiyatlı bir elektrikli otomobil geliştiriyor. Muhtemel ismi ve tasarımı ortaya çıktı.",
-   "link": "https://www.webtekno.com/fiat-uygun-fiyatli-kucuk-elektrikli-otomobil-h227488.html",
-   "image": "https://imgrosetta.webtekno.com/file/693610/693610-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-20T05:18:22+00:00",
-   "url": "/haber/fiat-tan-uygun-fiyatli-kucuk-elektrikli-otomobil-geliyor-0adbfd53/"
-  },
-  {
-   "id": "1f517e95",
-   "title": "Tofaş, Bursa Fabrikası’nda 7,5 Milyonuncu Aracını Üretti",
-   "summary": "tofas-bursa-fabrikasi-7-5-milyon-arac-uretti",
-   "link": "https://www.webtekno.com/tofas-bursa-fabrikasi-nda-7-5-milyonuncu-aracini-uretti-h227485.html",
-   "image": "https://imgrosetta.webtekno.com/file/693604/693604-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-20T04:33:17+00:00",
-   "url": "/haber/tofas-bursa-fabrikasi-nda-7-5-milyonuncu-aracini-uretti-1f517e95/"
-  },
-  {
    "id": "2cb77b2d",
    "title": "DEM Parti ve Yeni Parti görüşmesinde hangi mesajlar öne çıktı?",
    "summary": "DEM Parti Eş Genel Başkanları Tülay Hatimoğulları ve Tuncer Bakırhan'ın Yeni Parti Genel Başkanı Özgür Özel'le görüşmesinde, Kürt sorununun çözümü için yürütülen süreçte gelinen aşama ve atılması gereken yeni adımlar…",
@@ -1221,28 +1243,6 @@
    "category": "gundem",
    "date": "2026-10-19T16:39:51+00:00",
    "url": "/haber/kadinlarin-yumurtalari-yurt-disina-satildi-operasyon-hakkinda-neler-bi-441c8eb8/"
-  },
-  {
-   "id": "d5f45d8c",
-   "title": "Ege Üniversitesi'ndeki köpeklerin toplatılmasında taraflar ne diyor?",
-   "summary": "İzmir'deki Ege Üniversitesi'ndeki bakım alanında yaşayan 170 köpeğin bir kısmının toplanmasıyla başlayan tartışma sürüyor. Rektörlük, üniversite içindeki bakım alanında yaşayan köpeklerin öğrenci ve personele…",
-   "link": "https://www.bbc.com/turkce/articles/cmn4e74v2ex3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b6f2/live/6dbedfd0-cbb9-11f1-81ef-39e22b578b80.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-19T14:20:56+00:00",
-   "url": "/haber/ege-universitesi-ndeki-kopeklerin-toplatilmasinda-taraflar-ne-diyor-d5f45d8c/"
-  },
-  {
-   "id": "001c2b2a",
-   "title": "Ankara'da Mısır Silahlı Kuvvetlerinin Zafer Günü'nün 53. yılı kutlandı",
-   "summary": "Mısır'ın Ankara Büyükelçiliği Savunma Ataşeliğince Mısır Silahlı Kuvvetleri'nin Zafer Günü'nün 53. yılı vesilesiyle resepsiyon düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ankarada-misir-silahli-kuvvetlerinin-zafer-gununun-53-yili-kutlandi/4093624",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-19T13:43:38+00:00",
-   "url": "/haber/ankara-da-misir-silahli-kuvvetlerinin-zafer-gunu-nun-53-yili-kutlandi-001c2b2a/"
   },
   {
    "id": "a1dcdc14",
