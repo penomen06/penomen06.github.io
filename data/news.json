@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T22:30:59.440993+00:00",
+ "updated": "2026-10-20T23:01:06.894928+00:00",
  "items": [
   {
    "id": "ddc46040",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-20T22:30:00+00:00",
+   "date": "2026-10-20T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-ddc46040/"
+  },
+  {
+   "id": "5719791b",
+   "title": "Elon Musk, SpaceX ile Tesla'nın olası birleşme için komiteler kurduğunu belirtti",
+   "summary": "SpaceX ile Tesla'nın Üst Yöneticisi (CEO) Elon Musk, iki şirketin olası bir birleşmeyi değerlendirmek üzere özel komiteler kurduğunu, ancak bu komitelerin henüz bir anlaşmaya varmadığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/elon-musk-spacex-ile-teslanin-olasi-birlesme-icin-komiteler-kurdugunu-belirtti/4095187",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T22:42:02+00:00",
+   "url": "/haber/elon-musk-spacex-ile-tesla-nin-olasi-birlesme-icin-komiteler-kurdugunu-5719791b/"
   },
   {
    "id": "9f030215",
@@ -242,17 +253,6 @@
    "category": "teknoloji",
    "date": "2026-10-20T20:44:00+00:00",
    "url": "/haber/zeytinliklere-agaclara-zarar-vermeyen-gunes-enerjisi-sistemi-968c0aca/"
-  },
-  {
-   "id": "f747f825",
-   "title": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Nutuk'un 8 dile çevrilmesine ilişkin paylaşım",
-   "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, \"Milli mücadeleyi, Cumhuriyet'imizin önemini ve Türk milletinin yeniden uyanışını ortaya koyan Nutuk'un nesillerimizce irdelenmesi ve anlaşılması dileğiyle.\" ifadesini…",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorludan-nutukun-8-dile-cevrilmesine-iliskin-paylasim/4095138",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T20:43:04+00:00",
-   "url": "/haber/ak-parti-genel-baskan-yardimcisi-zorlu-dan-nutuk-un-8-dile-cevrilmesin-f747f825/"
   },
   {
    "id": "dc8da1d5",
