@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-20T20:30:59.581889+00:00",
+ "updated": "2026-10-20T20:50:46.075921+00:00",
  "items": [
+  {
+   "id": "7afbd682",
+   "title": "Sarıyer'de karaya oturan petrol tankeri kurtarıldı",
+   "summary": "Sarıyer Kısırkaya açıklarında sürüklenen Liberya bayraklı tankeri bulunduğu yerden kurtarılarak yüzdürüldü.",
+   "link": "https://www.ntv.com.tr/turkiye/sariyerde-karaya-oturan-petrol-tankeri-kurtarildi-1747222",
+   "image": "https://images.ntv.com.tr/images/SARIYERDE-SURUKLENEN-TANKER-KURTARILDI_1565366_465806copys3-984880.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-20T20:44:31+00:00",
+   "url": "/haber/sariyer-de-karaya-oturan-petrol-tankeri-kurtarildi-7afbd682/"
+  },
+  {
+   "id": "968c0aca",
+   "title": "Zeytinliklere ağaçlara zarar vermeyen güneş enerjisi sistemi",
+   "summary": "İspanya’da zeytinlikleri güneş enerjisi santraline dönüştürecek yeni bir proje başlatıldı. Proje kapsamında zeytin ağaçları korunurken aynı zamanda elektrik üretilmesi hedefleniyor.",
+   "link": "https://www.donanimhaber.com/zeytinliklere-agaclara-zarar-vermeyen-gunes-enerjisi-sistemi--211880",
+   "image": "https://www.donanimhaber.com/images/images/haber/211880/1200x675zeytinliklere-agaclara-zarar-vermeyen-gunes-enerjisi-sistemi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-20T20:44:00+00:00",
+   "url": "/haber/zeytinliklere-agaclara-zarar-vermeyen-gunes-enerjisi-sistemi-968c0aca/"
+  },
+  {
+   "id": "f747f825",
+   "title": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Nutuk'un 8 dile çevrilmesine ilişkin paylaşım",
+   "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, \"Milli mücadeleyi, Cumhuriyet'imizin önemini ve Türk milletinin yeniden uyanışını ortaya koyan Nutuk'un nesillerimizce irdelenmesi ve anlaşılması dileğiyle.\" ifadesini…",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorludan-nutukun-8-dile-cevrilmesine-iliskin-paylasim/4095138",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T20:43:04+00:00",
+   "url": "/haber/ak-parti-genel-baskan-yardimcisi-zorlu-dan-nutuk-un-8-dile-cevrilmesin-f747f825/"
+  },
   {
    "id": "528bd7de",
    "title": "Süper Lig'den 10 kulüp PFDK'ye sevk edildi",
@@ -310,17 +343,6 @@
    "url": "/haber/bakan-gurlek-turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-ea9ae754/"
   },
   {
-   "id": "294eaf3e",
-   "title": "İzmir'de polisin şehit olduğu saldırıya ilişkin davada karar",
-   "summary": "İzmir'in Seferihisar ilçesinde 20 Kasım 2024'te 1 polisin şehit olduğu, 2 polisin yaralandığı silahlı saldırıya ilişkin davada, 2 sanık ağırlaştırılmış müebbet ve 2 polisi yaralamaktan ise 30'ar yıl hapis cezasına…",
-   "link": "https://www.aa.com.tr/tr/gundem/izmirde-polisin-sehit-oldugu-saldiriya-iliskin-davada-karar/4095008",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T18:22:12+00:00",
-   "url": "/haber/izmir-de-polisin-sehit-oldugu-saldiriya-iliskin-davada-karar-294eaf3e/"
-  },
-  {
    "id": "208abe5c",
    "title": "ChatGPT artık eski yazılımları modern hale getirebiliyor",
    "summary": "OpenAI, eski yazılımları modern programlama dillerine taşıma konusunda önemli ilerleme kaydetti. GPT-6.1 Sol, kod dönüşüm testinde yüzde 97,9 doğruluğa ulaştı.",
@@ -495,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-10-20T16:12:00+00:00",
    "url": "/haber/dunyada-ilk-kez-yarali-bir-asker-cepheden-dronla-tahliye-edildi-17d404af/"
-  },
-  {
-   "id": "b1cec137",
-   "title": "Yapay zeka destekli yazılım geliştirmede asıl farkı ne yaratacak?",
-   "summary": "Yapay zeka yazılım geliştirmeyi hızlandırıyor ancak şirketlerin bu avantajı kalıcı hale getirmesi için kalite, güvenlik ve denetim süreçlerini de yeniden ele alması gerekiyor",
-   "link": "https://www.donanimhaber.com/yapay-zeka-destekli-yazilim-gelistirmede-asil-farki-ne-yaratacak--211883",
-   "image": "https://www.donanimhaber.com/images/images/haber/211883/1200x675yapay-zeka-destekli-yazilim-gelistirmede-asil-farki-ne-yaratacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-20T16:08:00+00:00",
-   "url": "/haber/yapay-zeka-destekli-yazilim-gelistirmede-asil-farki-ne-yaratacak-b1cec137/"
   },
   {
    "id": "540449d8",
@@ -1111,17 +1122,6 @@
    "category": "gundem",
    "date": "2026-10-20T10:30:00+00:00",
    "url": "/haber/gorunmeyen-cephe-turkiyenin-elektronik-harp-kabiliyeti-a0a2531d/"
-  },
-  {
-   "id": "eb84e801",
-   "title": "Bakan Uraloğlu: Ulusal Siber Güvenlik Stratejisi kapsamında 18 hedef belirledik",
-   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Ulusal Siber Güvenlik Stratejisi ve Eylem Planı (2024-2028) kapsamında 6 stratejik amaç, 18 hedef ve 61 eylem belirledik.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-uraloglu-ulusal-siber-guvenlik-stratejisi-kapsaminda-18-hedef-belirledik-1747159",
-   "image": "https://images.ntv.com.tr/anadolu-ajansi/AA-20261020-42808676-42808670-BAKAN_URALOGLU_ULUSLARARASI_BILGI_GUVENLIGI_VE_KRIPTOLOJI_KONFERANSINDA_KONUSTU-581092.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-20T10:24:53+00:00",
-   "url": "/haber/bakan-uraloglu-ulusal-siber-guvenlik-stratejisi-kapsaminda-18-hedef-be-eb84e801/"
   },
   {
    "id": "cdb16c6a",
