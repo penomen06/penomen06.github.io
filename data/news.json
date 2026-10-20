@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-20T19:30:58.231186+00:00",
+ "updated": "2026-10-20T20:01:10.567326+00:00",
  "items": [
+  {
+   "id": "6b76c8fc",
+   "title": "Samsung, Galaxy S26 Ultra'daki donma sorununu kabul etti",
+   "summary": "Bazı Galaxy S26 Ultra kullanıcıları, One UI 9'a güncelleme aşamasında cihazın donduğunu bildirmişti. Samsung, bu sorunu kabul edip geçici çözüm yolunu paylaştı.",
+   "link": "https://www.donanimhaber.com/samsung-galaxy-s26-ultra-daki-donma-sorununu-kabul-etti--211867",
+   "image": "https://www.donanimhaber.com/images/images/haber/211867/1200x675samsung-galaxy-s26-ultra-daki-donma-sorununu-kabul-etti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-20T20:00:00+00:00",
+   "url": "/haber/samsung-galaxy-s26-ultra-daki-donma-sorununu-kabul-etti-6b76c8fc/"
+  },
+  {
+   "id": "7f8fd685",
+   "title": "Trump'tan Zelenskiy'e \"artık anlaşma yapmanın zamanı geldi\" mesajı",
+   "summary": "ABD Başkanı Donald Trump, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin artık Rusya ile anlaşma yapma zamanının geldiğini belirterek, \"ABD, Ukrayna için bir servet harcadı, Avrupa da bir servet harcadı. Avrupa şu anda…",
+   "link": "https://www.aa.com.tr/tr/dunya/trumptan-zelenskiye-artik-anlasma-yapmanin-zamani-geldi-mesaji/4095093",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T19:50:14+00:00",
+   "url": "/haber/trump-tan-zelenskiy-e-artik-anlasma-yapmanin-zamani-geldi-mesaji-7f8fd685/"
+  },
+  {
+   "id": "5ef31742",
+   "title": "Libyalı siyasilerden Temsilciler Meclisinin Türkiye-Libya deniz yetki muhtırasını onaylamasına tam destek",
+   "summary": "Libyalı siyasiler, Temsilciler Meclisinin 2019'da Türkiye ve Libya arasında imzalanan deniz yetki alanlarının belirlenmesine ilişkin Mutabakat Muhtırasının onaylanmasına tam destek verdiklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/libyali-siyasilerden-temsilciler-meclisinin-turkiye-libya-deniz-yetki-muhtirasini-onaylamasina-tam-destek/4095086",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T19:43:59+00:00",
+   "url": "/haber/libyali-siyasilerden-temsilciler-meclisinin-turkiye-libya-deniz-yetki-5ef31742/"
+  },
+  {
+   "id": "44e632c6",
+   "title": "Avrupa, Ay’a enerji istasyonu kuruyor: 15 günlük geceye çözüm",
+   "summary": "Avrupa Uzay Ajansı, Ay’da 15 gün süren karanlık dönemde bilimsel cihazlara enerji sağlayacak OASIS sistemini geliştiriyor. Proje, Ay yüzeyindeki araştırmaların yıllarca sürmesini sağlayacak.",
+   "link": "https://www.donanimhaber.com/avrupa-ay-a-enerji-istasyonu-kuruyor-15-gunluk-geceye-cozum--211865",
+   "image": "https://www.donanimhaber.com/images/images/haber/211865/1200x675avrupa-ay-a-enerji-istasyonu-kuruyor-15-gunluk-geceye-cozum.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-20T19:39:00+00:00",
+   "url": "/haber/avrupa-ay-a-enerji-istasyonu-kuruyor-15-gunluk-geceye-cozum-44e632c6/"
+  },
   {
    "id": "f728a214",
    "title": "İsrail'de aşırı sağ, seçim öncesi ilk kez oy kullanacak gençlerde yankı buluyor",
@@ -33,6 +77,17 @@
    "category": "gundem",
    "date": "2026-10-20T19:24:24+00:00",
    "url": "/haber/bakan-fidan-dan-libya-diplomasisi-e8c737b9/"
+  },
+  {
+   "id": "0ac44be9",
+   "title": "Aile ortamında başlayan canlandırmalar çocukları tiyatro sahnesine taşıdı",
+   "summary": "Malatya'da ailelerin desteğiyle tiyatro çalışmalarını sürdüren 14 çocuk, hazırladıkları oyunlarla son bir yılda 6 kez sahne alarak yaklaşık 1000 izleyiciyle buluştu.",
+   "link": "https://www.aa.com.tr/tr/kultur/aile-ortaminda-baslayan-canlandirmalar-cocuklari-tiyatro-sahnesine-tasidi/4095066",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T19:17:01+00:00",
+   "url": "/haber/aile-ortaminda-baslayan-canlandirmalar-cocuklari-tiyatro-sahnesine-tas-0ac44be9/"
   },
   {
    "id": "7c71dbd9",
@@ -123,15 +178,15 @@
    "url": "/haber/81-ile-drone-egitim-ve-uretim-merkezi-projesi-nde-ilk-adim-atiliyor-a9b1f27f/"
   },
   {
-   "id": "00fdefcd",
-   "title": "Fransa'da Paris ve bazı kentlerdeki kısmi sokağa çıkma yasağı uzatıldı",
-   "summary": "Fransa'da şiddet olaylarına sahne olan sarı yeleklilerin eylemlerinin ardından Paris dahil farklı kentlerde kısmi sokağa çıkma yasağını uzatma kararları alındı.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-paris-ve-bazi-kentlerdeki-kismi-sokaga-cikma-yasagi-uzatildi/4095031",
+   "id": "197aeaf1",
+   "title": "Fransa'daki eylemlerde 149 kişi tutuklandı",
+   "summary": "Fransa'da 17 Ekim'de başlayan eylemler kapsamında ortalığı kırıp döken veya yağmalama olaylarına karışan 149 şüpheli tutuklandı. Paris dahil farklı kentlerde kısmi sokağa çıkma yasağı uzatıldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransadaki-eylemlerde-149-kisi-tutuklandi/4095031",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-20T18:46:02+00:00",
-   "url": "/haber/fransa-da-paris-ve-bazi-kentlerdeki-kismi-sokaga-cikma-yasagi-uzatildi-00fdefcd/"
+   "url": "/haber/fransa-daki-eylemlerde-149-kisi-tutuklandi-197aeaf1/"
   },
   {
    "id": "c0815d76",
@@ -288,17 +343,6 @@
    "url": "/haber/fenerbahce-slavia-prag-maci-oncesinde-taklit-urun-satanlara-gecit-veri-4871703a/"
   },
   {
-   "id": "bfe22c41",
-   "title": "Yunanistan'da öğrenciler yüksek kiraları ve hayat pahalılığını protesto için çadır kurdu",
-   "summary": "Yunanistan'da öğrenciler, yüksek kiralara ve yaşam maliyetinin yol açtığı sorunlara dikkati çekmek amacıyla Parlamento binası önündeki Sintagma Meydanı'na sembolik olarak çadır kurarak eylem yaptı.",
-   "link": "https://www.aa.com.tr/tr/dunya/yunanistanda-ogrenciler-yuksek-kiralari-ve-hayat-pahaliligini-protesto-icin-cadir-kurdu/4094987",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T17:45:45+00:00",
-   "url": "/haber/yunanistan-da-ogrenciler-yuksek-kiralari-ve-hayat-pahaliligini-protest-bfe22c41/"
-  },
-  {
    "id": "42d3032b",
    "title": "Xiaomi'den 25.000 mAh kapasiteli ve 250W gücünde yeni powerbank",
    "summary": "Xiaomi'nin yeni powerbank modeli, 25.000 mAh bataryası ve 250W'a ulaşan toplam çıkış gücüyle, dizüstü bilgisayar gibi yüksek güç isteyen cihazları dahi şarj edebiliyor.",
@@ -319,17 +363,6 @@
    "category": "teknoloji",
    "date": "2026-10-20T17:33:44+00:00",
    "url": "/haber/amd-fsr-4-1-teknolojisini-xbox-series-x-series-s-ve-el-konsollarina-ge-12c009fa/"
-  },
-  {
-   "id": "046fb9f7",
-   "title": "Dışişleri Bakanı Fidan, Brüksel'de Avrupa Politika Merkezinde hitapta bulundu",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Belçika'nın başkenti Brüksel’de yerleşik Avrupa Politika Merkezi (European Policy Center) isimli düşünce kuruluşunda bir hitapta bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-brukselde-avrupa-politika-merkezinde-hitapta-bulundu/4094979",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T17:32:57+00:00",
-   "url": "/haber/disisleri-bakani-fidan-bruksel-de-avrupa-politika-merkezinde-hitapta-b-046fb9f7/"
   },
   {
    "id": "ab51fe84",
@@ -363,17 +396,6 @@
    "category": "gundem",
    "date": "2026-10-20T17:30:00+00:00",
    "url": "/haber/tanju-ozcan-a-7-yil-3-ay-15-gun-hapis-cezasi-c9f95479/"
-  },
-  {
-   "id": "5c9a803e",
-   "title": "Bolu Belediyesine yönelik \"irtikap\" davasında karar açıklandı",
-   "summary": "Bolu Belediyesine yönelik \"irtikap\" soruşturması kapsamında belediye başkanlığı görevinden uzaklaştırılan Tanju Özcan'ın da aralarında bulunduğu 19 sanığın yargılandığı davada karar açıklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bolu-belediyesine-yonelik-irtikap-davasinda-karar-aciklandi/4094975",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T17:26:54+00:00",
-   "url": "/haber/bolu-belediyesine-yonelik-irtikap-davasinda-karar-aciklandi-5c9a803e/"
   },
   {
    "id": "6143f560",
@@ -519,17 +541,6 @@
    "url": "/haber/12-cekirdekli-amd-zen-6-16-cekirdek-zen-5-performansina-ulasiyor-62a2a1bb/"
   },
   {
-   "id": "739b0352",
-   "title": "AI Günlükleri: Yapay zekâ dünyasında bu hafta (20 Ekim 2026)",
-   "summary": "Yapay zekâ dünyasında bu hafta neler yaşandı; yeni neler tanıtıldı? \"AI Günlükleri\" serimizde, hızla büyüyen bu alanda neler olup bittiğini haftalık olarak kayıt altına almaya devam ediyoruz.",
-   "link": "https://www.donanimhaber.com/yapay-zeka-dunyasinda-bu-hafta-20-ekim-2026--211862",
-   "image": "https://www.donanimhaber.com/images/images/haber/211862/1200x675yapay-zeka-dunyasinda-bu-hafta-20-ekim-2026.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-20T15:28:00+00:00",
-   "url": "/haber/ai-gunlukleri-yapay-zeka-dunyasinda-bu-hafta-20-ekim-2026-739b0352/"
-  },
-  {
    "id": "46d58d66",
    "title": "Kilometrelerce Sorun Çıkarmayan En Güvenilir Otomatik Şanzımanlar",
    "summary": "İkinci el araç alırken veya sıfır araç seçerken kafanıza takılan otomatik vites korkusuna son veriyoruz. Yüz binlerce kilometreyi şanzıman rektifiyesi görmeden deviren en sağlam otomatik şanzıman türlerini ve…",
@@ -605,17 +616,6 @@
    "category": "gundem",
    "date": "2026-10-20T15:06:18+00:00",
    "url": "/haber/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-nin-tahliyesi-i-c63e06e4/"
-  },
-  {
-   "id": "e3a70d03",
-   "title": "RTX 6060 ne zaman çıkacak? İlk tarih bilgisi paylaşıldı",
-   "summary": "Nvidia'nın yeni nesil ekran kartları için ilk tahminler gelmeye başladı. Bir sızıntıya göre RTX 6060 olarak anılan modelin çıkışı 2029 yılına kadar ertelenebilir.",
-   "link": "https://www.donanimhaber.com/rtx-6060-ne-zaman-cikacak-ilk-tarih-bilgisi-paylasildi--211857",
-   "image": "https://www.donanimhaber.com/images/images/haber/211857/1200x675rtx-6060-ne-zaman-cikacak-ilk-tarih-bilgisi-paylasildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-20T15:06:00+00:00",
-   "url": "/haber/rtx-6060-ne-zaman-cikacak-ilk-tarih-bilgisi-paylasildi-e3a70d03/"
   },
   {
    "id": "61e460d6",
