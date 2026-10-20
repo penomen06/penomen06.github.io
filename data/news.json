@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-20T18:01:12.337296+00:00",
+ "updated": "2026-10-20T18:31:01.346892+00:00",
  "items": [
+  {
+   "id": "ea9ae754",
+   "title": "Bakan Gürlek, Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı'na katıldı",
+   "summary": "Adalet Bakanı Akın Gürlek, \"Müttefik ülke Belçika'nın özellikle FETÖ'nün kendi ülkesindeki yapılanmasına karşı somut ve etkili tedbirler almasını bekliyoruz.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-toplantisina-katildi/4095014",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T18:29:04+00:00",
+   "url": "/haber/bakan-gurlek-turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-ea9ae754/"
+  },
+  {
+   "id": "294eaf3e",
+   "title": "İzmir'de polisin şehit olduğu saldırıya ilişkin davada karar",
+   "summary": "İzmir'in Seferihisar ilçesinde 20 Kasım 2024'te 1 polisin şehit olduğu, 2 polisin yaralandığı silahlı saldırıya ilişkin davada, 2 sanık ağırlaştırılmış müebbet ve 2 polisi yaralamaktan ise 30'ar yıl hapis cezasına…",
+   "link": "https://www.aa.com.tr/tr/gundem/izmirde-polisin-sehit-oldugu-saldiriya-iliskin-davada-karar/4095008",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T18:22:12+00:00",
+   "url": "/haber/izmir-de-polisin-sehit-oldugu-saldiriya-iliskin-davada-karar-294eaf3e/"
+  },
+  {
+   "id": "208abe5c",
+   "title": "ChatGPT artık eski yazılımları modern hale getirebiliyor",
+   "summary": "OpenAI, eski yazılımları modern programlama dillerine taşıma konusunda önemli ilerleme kaydetti. GPT-6.1 Sol, kod dönüşüm testinde yüzde 97,9 doğruluğa ulaştı.",
+   "link": "https://www.donanimhaber.com/chatgpt-artik-eski-yazilimlari-modern-hale-getirebiliyor--211871",
+   "image": "https://www.donanimhaber.com/images/images/haber/211871/1200x675chatgpt-artik-eski-yazilimlari-modern-hale-getirebiliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-20T18:21:00+00:00",
+   "url": "/haber/chatgpt-artik-eski-yazilimlari-modern-hale-getirebiliyor-208abe5c/"
+  },
+  {
+   "id": "9522f1fd",
+   "title": "Tek tek toplanıp özenle kurutuluyor. Kilosu 800 bin TL",
+   "summary": "Karabük'te safran bitkisinin hasadı devam ediyor. Her aşamasında yoğun emek ve dikkat gereken safranın kilosu bu sene 800 bin TL'den satışa sunuluyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-tek-tek-toplanip-ozenle-kurutuluyor-kilosu-800-bin-tl-1747212",
+   "image": "https://images.ntv.com.tr/images/SAFRANBOLU’DA-SAFRAN-HASADI-SURUYOR-KIL_1565193_465731-375544.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-20T18:15:58+00:00",
+   "url": "/haber/tek-tek-toplanip-ozenle-kurutuluyor-kilosu-800-bin-tl-9522f1fd/"
+  },
+  {
+   "id": "c0717173",
+   "title": "Portekiz'e yapılan tarihi ihracatta ikinci lojistik destek gemisi kızağa alındı",
+   "summary": "Türk savunma sanayisinin denizcilik alanındaki öncü şirketi STM Savunma Teknolojileri Mühendislik ve Ticaret AŞ, uluslararası askeri denizcilik projelerinde önemli bir kilometre taşını daha geride bıraktı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/portekize-yapilan-tarihi-ihracatta-ikinci-lojistik-destek-gemisi-kizaga-alindi/4095002",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-20T18:13:06+00:00",
+   "url": "/haber/portekiz-e-yapilan-tarihi-ihracatta-ikinci-lojistik-destek-gemisi-kiza-c0717173/"
+  },
   {
    "id": "89659c9a",
    "title": "Mercedes’ten Coupe SUV İddialarına Yanıt",
@@ -233,17 +288,6 @@
    "url": "/haber/libya-nin-deniz-yetki-mutabakatini-onaylamasi-turkiye-nin-argumanlarin-b9da6b32/"
   },
   {
-   "id": "5033bcb6",
-   "title": "DMM, \"Azerbaycan'da Türk bayrağının indirilmeye çalışıldığı\" iddiasının dezenformasyon içerdiğini bildirdi",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Azerbaycan'da Türk bayrağının indirilmeye çalışıldığı\" yönündeki iddiaların dezenformasyon içerdiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/dmm-azerbaycanda-turk-bayraginin-indirilmeye-calisildigi-iddiasinin-dezenformasyon-icerdigini-bildirdi/4094941",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T16:44:22+00:00",
-   "url": "/haber/dmm-azerbaycan-da-turk-bayraginin-indirilmeye-calisildigi-iddiasinin-d-5033bcb6/"
-  },
-  {
    "id": "914d845b",
    "title": "Samsung Galaxy S27 ve S28 serilerinde 5G modem verimliliğini artıracak",
    "summary": "Samsung, Exynos işlemcili telefonlarda hücresel bağlantı verimliliğini artırmaya hazırlanıyor. Galaxy S27 serisinin daha hızlı M2700, Galaxy S28 ailesinin ise 2nm M2800 modem kullanacağı belirtiliyor.",
@@ -266,17 +310,6 @@
    "url": "/haber/turkiye-nin-yerli-parcacik-hizlandiricisi-tarla-da-ilk-deney-yapildi-43ce827b/"
   },
   {
-   "id": "911c40da",
-   "title": "İletişim Başkanı Duran'dan Türkiye-Libya deniz yetki alanları mutabakatının onaylanmasına ilişkin paylaşım",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanı Duran, Libya Temsilciler Meclisinin, Türkiye ile imzalanan deniz yetki alanları mutabakat muhtırasını oy birliğiyle onaylamasının, önemli ve memnuniyet verici bir adım olduğunu kaydetti.",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-turkiye-libya-deniz-yetki-alanlari-mutabakatinin-onaylanmasina-iliskin-paylasim/4094919",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T16:18:22+00:00",
-   "url": "/haber/iletisim-baskani-duran-dan-turkiye-libya-deniz-yetki-alanlari-mutabaka-911c40da/"
-  },
-  {
    "id": "17d404af",
    "title": "Dünyada ilk kez yaralı bir asker cepheden dronla tahliye edildi",
    "summary": "Ukrayna ordusu, cephede yaralanan askerini ateş hattından tahliye etmek için dron kullandı. Bu olay, yaralı bir askeri tahliye etmek için dronun kullanıldığı ilk operasyon olarak tarihe geçti.",
@@ -297,17 +330,6 @@
    "category": "gundem",
    "date": "2026-10-20T16:10:34+00:00",
    "url": "/haber/tanju-ozcan-hakkinda-7-yil-hapis-cezasi-bc1baa9b/"
-  },
-  {
-   "id": "2f9edf83",
-   "title": "MİT Başkanı Kalın, Libya Ulusal Birlik Hükümeti Başbakanı Dibeybe ile görüştü",
-   "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Libya Ulusal Birlik Hükümeti Başbakanı Abdulhamid Dibeybe ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-libya-ulusal-birlik-hukumeti-basbakani-dibeybe-ile-gorustu/4094909",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-20T16:08:20+00:00",
-   "url": "/haber/mit-baskani-kalin-libya-ulusal-birlik-hukumeti-basbakani-dibeybe-ile-g-2f9edf83/"
   },
   {
    "id": "b1cec137",
@@ -528,17 +550,6 @@
    "category": "teknoloji",
    "date": "2026-10-20T14:24:00+00:00",
    "url": "/haber/iphone-18-ilk-kez-canli-olarak-goruntulendi-iste-tasarimi-b8cbb264/"
-  },
-  {
-   "id": "83246065",
-   "title": "ABD, yeni nesil havacılık paradigmasını test etti: F-22, insansızları yönetti",
-   "summary": "ABD, F-22 Raptor pilotunun YFQ-44A Fury savaş dronunu havada komutlarla yönettiği testi başarıyla tamamladı. Hedef ise tek pilotun birden fazla otonom uçağı yönetmesi.",
-   "link": "https://www.donanimhaber.com/abd-yeni-nesil-havacilik-paradigmasini-test-etti-f-22-insansiz--211860",
-   "image": "https://www.donanimhaber.com/images/images/haber/211860/1200x675abd-yeni-nesil-havacilik-paradigmasini-test-etti-f-22-insansiz.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-20T14:02:00+00:00",
-   "url": "/haber/abd-yeni-nesil-havacilik-paradigmasini-test-etti-f-22-insansizlari-yon-83246065/"
   },
   {
    "id": "9bd21bc3",
@@ -1089,17 +1100,6 @@
    "category": "gundem",
    "date": "2026-10-20T10:06:00+00:00",
    "url": "/haber/kultepe-de-78-yillik-kazi-tarihinde-bir-ilk-55415936/"
-  },
-  {
-   "id": "d4b732a1",
-   "title": "İstanbul'da tarihi palamut bolluğu: \"1987'den beri böylesini görmedim\"",
-   "summary": "İstanbul'da tarihi bir palamut bolluğu yaşanıyor. Balıkçılar, uzun yıllardır bu oranda bolluk görmediklerini anlatırken, palamudun toptan fiyatı 25 liraya kadar geriledi.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbulda-tarihi-palamut-bollugu-1987den-beri-boylesini-gormedim-1747158",
-   "image": "https://images.ntv.com.tr/images/AA-20261020-42807613-42807612-PALAMUTTA_TARIHI_BOLLUK_YASANIYOR-980749.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-20T09:48:29+00:00",
-   "url": "/haber/istanbul-da-tarihi-palamut-bollugu-1987-den-beri-boylesini-gormedim-d4b732a1/"
   },
   {
    "id": "4890bb04",
