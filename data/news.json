@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T01:01:12.564158+00:00",
+ "updated": "2026-10-21T01:30:59.484295+00:00",
  "items": [
   {
    "id": "ddc46040",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-21T01:00:00+00:00",
+   "date": "2026-10-21T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-ddc46040/"
+  },
+  {
+   "id": "a9e0661b",
+   "title": "Milli uydu yörüngede. Fergani’nin altıncı uydusu yörüngeye yerleşti",
+   "summary": "Milli İmkanlarla geliştirilen Fergani Uzay'ın altıncı deneme uydusu uzaya çıktı. Yörüngesine yerleşen uydu göreve başladı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-milli-uydu-yorungede-ferganinin-altinci-uydusu-yorungeye-yerlesti-1747233",
+   "image": "https://images.ntv.com.tr/images/AA-20261020-42815264-42815261-FERGANININ_ALTINCI_UYDUSU_FRG100D4_BASARIYLA_YORUNGESINE_YERLESTI-552677.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-21T01:24:44+00:00",
+   "url": "/haber/milli-uydu-yorungede-fergani-nin-altinci-uydusu-yorungeye-yerlesti-a9e0661b/"
   },
   {
    "id": "59c414e3",
@@ -121,17 +132,6 @@
    "category": "gundem",
    "date": "2026-10-20T22:03:32+00:00",
    "url": "/haber/af-orgutu-ne-gore-ingiliz-universiteleri-filistin-destekcilerini-tehdi-b28c65ad/"
-  },
-  {
-   "id": "6143f560",
-   "title": "Türkiye-Libya deniz yetki alanları mutabakatına Libya Temsilciler Meclisi'nden onay",
-   "summary": "Libya Temsilciler Meclisi, 2019'da Türkiye ile imzalanan deniz yetki alanlarının belirlenmesine ilişkin mutabakat muhtırasını onayladı. Dışişleri, ''Memnuniyet verici.'' açıklamasını yaptı.",
-   "link": "https://www.ntv.com.tr/dunya/libya-temsilciler-meclisi-turkiye-ile-deniz-yetki-alani-mutabakat-zabtini-onayladi-1747182",
-   "image": "https://images.ntv.com.tr/images/2018_Haber_10-EKIM_sondajfatih-3--954801.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-20T22:02:01+00:00",
-   "url": "/haber/turkiye-libya-deniz-yetki-alanlari-mutabakatina-libya-temsilciler-mecl-6143f560/"
   },
   {
    "id": "2c78e688",
