@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:01:14.175912+00:00",
+ "updated": "2026-10-21T21:30:59.631419+00:00",
  "items": [
   {
    "id": "dd60eb66",
@@ -9,8 +9,85 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-21T21:00:00+00:00",
+   "date": "2026-10-21T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "3159f4f8",
+   "title": "PHP krizi konusunda Siber Güvenlik Başkanlığı duyuru yayınladı",
+   "summary": "PHP kodlarında ortaya çıkan iki kritik açık ile ilgili ayrıntıların kötü niyetli saldırganların eline geçmiş olması ihtimali tüm dünyada hükümetleri harekete geçirdi.",
+   "link": "https://www.donanimhaber.com/php-krizi-ulkemizi-alarma-gecirdi--211940",
+   "image": "https://www.donanimhaber.com/images/images/haber/211940/1200x675php-krizi-ulkemizi-alarma-gecirdi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-21T21:27:43+00:00",
+   "url": "/haber/php-krizi-konusunda-siber-guvenlik-baskanligi-duyuru-yayinladi-3159f4f8/"
+  },
+  {
+   "id": "b7bcbaad",
+   "title": "IBM'in geliri üçüncü çeyrekte yüzde 5 arttı",
+   "summary": "ABD merkezli teknoloji şirketi IBM'in geliri, bu yılın üçüncü çeyreğinde yıllık bazda yüzde 5 artarak 17,1 milyar dolara yükseldi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ibmin-geliri-ucuncu-ceyrekte-yuzde-5-artti/4096547",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T21:23:36+00:00",
+   "url": "/haber/ibm-in-geliri-ucuncu-ceyrekte-yuzde-5-artti-b7bcbaad/"
+  },
+  {
+   "id": "f68f286b",
+   "title": "Trump, İran'la savaşın \"yaptığı en iyi işlerden biri\" olduğunu savundu",
+   "summary": "ABD Başkanı Donald Trump, İran'la savaşa girmesinin sebebinin Tahran'ın nükleer silaha sahip olmasını engellemek olduğunu kaydederek, bunun \"yaptığı en iyi işlerden biri\" olduğunu savundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-yaptigi-en-iyi-islerden-biri-oldugunu-savundu/4096546",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T21:23:32+00:00",
+   "url": "/haber/trump-iran-la-savasin-yaptigi-en-iyi-islerden-biri-oldugunu-savundu-f68f286b/"
+  },
+  {
+   "id": "47bc0dff",
+   "title": "GTA 6 pazarlaması büyüyor: Oyundaki bira markaları gerçek oluyor",
+   "summary": "GTA 6'nın pazarlama çalışmaları oyun dünyasının dışına taşınabilir. ABD'de Pißwasser, Patriot ve No Mames Vice City isimli bira etiketleri ortaya çıktı. İşte detaylar...",
+   "link": "https://www.donanimhaber.com/gta-6-pazarlamasi-buyuyor-oyundaki-bira-markalari-gercek-oluyor--211907",
+   "image": "https://www.donanimhaber.com/images/images/haber/211907/1200x675gta-6-pazarlamasi-buyuyor-oyundaki-bira-markalari-gercek-oluyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-21T21:12:00+00:00",
+   "url": "/haber/gta-6-pazarlamasi-buyuyor-oyundaki-bira-markalari-gercek-oluyor-47bc0dff/"
+  },
+  {
+   "id": "471b9dd0",
+   "title": "Tesla'nın karı üçüncü çeyrekte azaldı",
+   "summary": "Amerikan elektrikli otomobil üreticisi Tesla'nın net karı, 2026'nın üçüncü çeyreğinde geçen yılın aynı dönemine kıyasla yüzde 43 azalış kaydetti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/teslanin-kari-ucuncu-ceyrekte-azaldi/4096540",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T21:07:42+00:00",
+   "url": "/haber/tesla-nin-kari-ucuncu-ceyrekte-azaldi-471b9dd0/"
+  },
+  {
+   "id": "328d2f06",
+   "title": "UEFA Şampiyonlar Ligi'nin üçüncü haftası, oynanan 9 maçla tamamlandı",
+   "summary": "Avrupa futbolunun kulüp düzeyindeki bir numaralı turnuvasının lig aşamasında, 9 karşılaşma oynandı.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginin-ucuncu-haftasi-oynanan-9-macla-tamamlandi/4096539",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T21:07:37+00:00",
+   "url": "/haber/uefa-sampiyonlar-ligi-nin-ucuncu-haftasi-oynanan-9-macla-tamamlandi-328d2f06/"
+  },
+  {
+   "id": "ea32782e",
+   "title": "PHP nedir, neden tüm interneti tehdit ediyor?",
+   "summary": "İnternet sitelerinin yaklaşık yüzde 70'inde kullanılan PHP, yapay zeka ile keşfedilen kritik güvenlik açıklarıyla gündemde. Peki PHP nedir ve bu açıklar neden milyonlarca siteyi tehdit ediyor?",
+   "link": "https://www.donanimhaber.com/php-nedir-neden-tum-interneti-tehdit-ediyor--211938",
+   "image": "https://www.donanimhaber.com/images/images/haber/211938/1200x675php-nedir-neden-tum-interneti-tehdit-ediyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-21T21:03:02+00:00",
+   "url": "/haber/php-nedir-neden-tum-interneti-tehdit-ediyor-ea32782e/"
   },
   {
    "id": "88002af1",
@@ -200,17 +277,6 @@
    "url": "/haber/katar-basbakan-yardimcisi-bedir-mutabakati-ulkelerimiz-arasindaki-savu-b3298f23/"
   },
   {
-   "id": "388aa0f3",
-   "title": "UEFA'dan Halil Umut Meler'e görev",
-   "summary": "FIFA kokartlı hakem Halil Umut Meler, UEFA Avrupa Ligi'nde yarın oynanacak Hoffenheim-Lyon maçında görev yapacak.",
-   "link": "https://www.aa.com.tr/tr/spor/uefadan-halil-umut-melere-gorev/4096457",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T19:45:50+00:00",
-   "url": "/haber/uefa-dan-halil-umut-meler-e-gorev-388aa0f3/"
-  },
-  {
    "id": "0c3afbb9",
    "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 21 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
    "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli…",
@@ -222,17 +288,6 @@
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-21-eki-0c3afbb9/"
   },
   {
-   "id": "8dc57950",
-   "title": "Dünya çapında PHP kaynaklı güvenlik açığının giderilmesi için çok sayıda internet sitesi erişime kapatıldı",
-   "summary": "Bir programlama dili olan PHP'deki \"ciddi güvenlik açıklarına\" ilişkin haberlerin ardından dünya çapında hükümet siteleri de dahil olmak üzere çok sayıda internet sitesine tedbir amacıyla erişim kısmen ya da tamamen…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/dunya-capinda-php-kaynakli-guvenlik-aciginin-giderilmesi-icin-cok-sayida-internet-sitesi-erisime-kapatildi/4096454",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T19:43:18+00:00",
-   "url": "/haber/dunya-capinda-php-kaynakli-guvenlik-aciginin-giderilmesi-icin-cok-sayi-8dc57950/"
-  },
-  {
    "id": "f74875f6",
    "title": "Nvidia'nın AI planları büyüyor: Groq 3D DRAM'e geçiyor",
    "summary": "Nvidia bünyesindeki Groq, yeni nesil yapay zeka çiplerinde bellek teknolojisini değiştirmeye hazırlanıyor. Şirketin daha yüksek kapasite için 3D yığınlanmış DRAM kullanacağı ortaya çıktı.",
@@ -242,28 +297,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T19:43:00+00:00",
    "url": "/haber/nvidia-nin-ai-planlari-buyuyor-groq-3d-dram-e-geciyor-f74875f6/"
-  },
-  {
-   "id": "d4c422cd",
-   "title": "Arnavutluk'ta öğrencilerin eğitim koşullarının iyileştirilmesi talebiyle düzenlediği protestolar sürüyor",
-   "summary": "Arnavutluk'un başkenti Tiran'da, üniversite öğrencilerinin eğitim koşullarının iyileştirilmesi talebiyle yaptığı gösteriler devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/arnavutlukta-ogrencilerin-egitim-kosullarinin-iyilestirilmesi-talebiyle-duzenledigi-protestolar-suruyor/4096448",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T19:37:03+00:00",
-   "url": "/haber/arnavutluk-ta-ogrencilerin-egitim-kosullarinin-iyilestirilmesi-talebiy-d4c422cd/"
-  },
-  {
-   "id": "3e10d6f9",
-   "title": "AA foto muhabiri Coşkun, Rusya'daki uluslararası fotoğraf yarışmasında \"Jüri Özel Ödülü\"nü aldı",
-   "summary": "Anadolu Ajansı (AA) foto muhabiri Şebnem Coşkun, 12. Uluslararası Andrey Stenin Basın Fotoğrafçılığı Yarışması'nda \"Jüri Özel Ödülü\"ne layık görüldü.",
-   "link": "https://www.aa.com.tr/tr/kurumsal-haberler/aa-foto-muhabiri-coskun-rusyadaki-uluslararasi-fotograf-yarismasinda-juri-ozel-odulunu-aldi/4096433",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T19:26:45+00:00",
-   "url": "/haber/aa-foto-muhabiri-coskun-rusya-daki-uluslararasi-fotograf-yarismasinda-3e10d6f9/"
   },
   {
    "id": "f7abad2b",
@@ -431,17 +464,6 @@
    "url": "/haber/amazon-nvidia-dan-binlerce-yapay-zeka-cipi-aliyor-ama-hepsini-calistir-c05d7ba3/"
   },
   {
-   "id": "b7dd96a9",
-   "title": "Elon Musk: \"Gelecekte paranın yerini fiziksel ölçüler alabilir\"",
-   "summary": "Elon Musk, robotik ve yapay zekadaki ilerlemelerin geleneksel para sistemini gereksiz hale getireceğini düşünüyor. Musk'a göre paranın yerini enerji, güç ve kütle gibi fiziksel büyüklükler alabilir.",
-   "link": "https://www.donanimhaber.com/elon-musk-gelecekte-paranin-yerini-fiziksel-olculer-alabilir--211917",
-   "image": "https://www.donanimhaber.com/images/images/haber/211917/1200x675elon-musk-gelecekte-paranin-yerini-fiziksel-olculer-alabilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-21T17:34:00+00:00",
-   "url": "/haber/elon-musk-gelecekte-paranin-yerini-fiziksel-olculer-alabilir-b7dd96a9/"
-  },
-  {
    "id": "e89dec7f",
    "title": "Bakan Bayraktar, Türkiye ile Japonya'nın işbirliğini daha ileri taşıyacağını belirtti",
    "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, küresel enerji krizi karşısında Türkiye ile Japonya'nın ikili ve bölgesel işbirliklerini güçlendirerek zorlukların üstesinden birlikte gelebileceğini söyledi.",
@@ -462,28 +484,6 @@
    "category": "gundem",
    "date": "2026-10-21T17:16:32+00:00",
    "url": "/haber/zonguldak-ta-3-katli-bina-coktu-enkaz-altinda-kalan-1-kisi-hayatini-ka-494ad7aa/"
-  },
-  {
-   "id": "9416645c",
-   "title": "Halka arz olacak Anthropic’in ilk 6 aydaki zararı 80 milyar doları aştı",
-   "summary": "Anthropic’in 2026’nın ilk yarısındaki net zararı 80,7 milyar dolara ulaştı. Zararda 72 milyar dolarlık muhasebe gideri etkili olurken şirket, kasım ayında halka arz edilmeye hazırlanıyor.",
-   "link": "https://www.donanimhaber.com/anthropic-in-ilk-6-aydaki-zarari-80-milyar-dolari-asti--211906",
-   "image": "https://www.donanimhaber.com/images/images/haber/211906/1200x675anthropic-in-ilk-6-aydaki-zarari-80-milyar-dolari-asti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-21T17:12:00+00:00",
-   "url": "/haber/halka-arz-olacak-anthropic-in-ilk-6-aydaki-zarari-80-milyar-dolari-ast-9416645c/"
-  },
-  {
-   "id": "a7d98101",
-   "title": "Kablo yok, şarj molası yok: Honda’dan hareket halinde şarj",
-   "summary": "Honda, elektrikli araçları hareket halindeyken kablosuz şarj edebilen yol teknolojisi geliştiriyor. 150 kW’a kadar güç aktarımı hedefleyen sistemin otoyol testleri Nisan 2027’de başlayacak.",
-   "link": "https://www.donanimhaber.com/kablo-yok-sarj-molasi-yok-honda-dan-hareket-halinde-sarj--211918",
-   "image": "https://www.donanimhaber.com/images/images/haber/211918/1200x675kablo-yok-sarj-molasi-yok-honda-dan-hareket-halinde-sarj.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-21T16:50:00+00:00",
-   "url": "/haber/kablo-yok-sarj-molasi-yok-honda-dan-hareket-halinde-sarj-a7d98101/"
   },
   {
    "id": "4f1e1db1",
