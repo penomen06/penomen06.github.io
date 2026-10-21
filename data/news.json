@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:01:12.795579+00:00",
+ "updated": "2026-10-21T22:30:58.517783+00:00",
  "items": [
   {
    "id": "dd60eb66",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-21T22:00:00+00:00",
+   "date": "2026-10-21T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "87809d0e",
+   "title": "Suudi Arabistan: Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişi öldü, 8 kişi yaralandı",
+   "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi, Dammam'daki Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişinin öldüğünü, 8 kişinin yaralandığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-kral-fahd-uluslararasi-havalimanina-duzenlenen-saldirida-1-kisi-oldu-8-kisi-yaralandi/4096567",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T22:22:36+00:00",
+   "url": "/haber/suudi-arabistan-kral-fahd-uluslararasi-havalimani-na-duzenlenen-saldir-87809d0e/"
+  },
+  {
+   "id": "b4886cac",
+   "title": "Kanada ve Ontario eyaleti, ABD tarifelerine karşı 8,7 milyar dolarlık paket açıkladı",
+   "summary": "Kanada Başbakanı Mark Carney ile Ontario eyaletinin Başbakanı Doug Ford, ABD tarifelerinin yarattığı ekonomik belirsizliğe karşı Ontario'daki stratejik sektörleri ve çalışanları desteklemek amacıyla toplam 8,7 milyar…",
+   "link": "https://www.aa.com.tr/tr/dunya/kanada-ve-ontario-eyaleti-abd-tarifelerine-karsi-8-7-milyar-dolarlik-paket-acikladi/4096562",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T22:02:33+00:00",
+   "url": "/haber/kanada-ve-ontario-eyaleti-abd-tarifelerine-karsi-8-7-milyar-dolarlik-p-b4886cac/"
+  },
+  {
+   "id": "779f5cc1",
+   "title": "Macron, Netanyahu ve Trump'ı Fransa'daki eylemleri istismar etmekle suçladı",
+   "summary": "Fransa cumhurbaşkanının yorumu, önümüzdeki haftalarda seçimlerle karşı karşıya olan Binyamin Netanyahu ve Donald Trump'a yönelik açık bir eleştiri niteliğinde.",
+   "link": "https://www.bbc.com/turkce/articles/cwx287g6e702o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b6f4/live/ad9474c0-cd63-11f1-9a39-31b474234113.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-21T21:58:06+00:00",
+   "url": "/haber/macron-netanyahu-ve-trump-i-fransa-daki-eylemleri-istismar-etmekle-suc-779f5cc1/"
   },
   {
    "id": "23c38579",
@@ -275,28 +308,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T20:05:00+00:00",
    "url": "/haber/gunes-enerjisi-santrallerinde-cim-bicme-makinelerinin-yerini-koyunlar-db61240a/"
-  },
-  {
-   "id": "cd506896",
-   "title": "Trump, Rusya-Ukrayna Savaşı'nda çözüme \"hiç olmadığı kadar yakın\" olduklarını belirtti",
-   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını…",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakin-olduklarini-belirtti/4096462",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T19:55:45+00:00",
-   "url": "/haber/trump-rusya-ukrayna-savasi-nda-cozume-hic-olmadigi-kadar-yakin-oldukla-cd506896/"
-  },
-  {
-   "id": "b3298f23",
-   "title": "Katar Başbakan Yardımcısı: Bedir Mutabakatı, ülkelerimiz arasındaki savunma işbirliğine katkı sağlayacak",
-   "summary": "Katar Başbakan Yardımcısı ve Savunma İşlerinden Sorumlu Devlet Bakanı Al Sani, Türkiye, Katar, Pakistan ve Endonezya arasında imzalanan Bedir Mutabakat Zaptı'nın, ülkeler arasındaki savunma işbirliğine önemli katkı…",
-   "link": "https://www.aa.com.tr/tr/dunya/katar-basbakan-yardimcisi-bedir-mutabakati-ulkelerimiz-arasindaki-savunma-isbirligine-katki-saglayacak/4096461",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T19:55:34+00:00",
-   "url": "/haber/katar-basbakan-yardimcisi-bedir-mutabakati-ulkelerimiz-arasindaki-savu-b3298f23/"
   },
   {
    "id": "0c3afbb9",
@@ -1100,17 +1111,6 @@
    "category": "gundem",
    "date": "2026-10-21T11:17:00+00:00",
    "url": "/haber/mhp-genel-baskani-bahceli-mavi-vatan-guclu-turkiye-idealinin-ifadesidi-c4a8d099/"
-  },
-  {
-   "id": "ac64bb94",
-   "title": "Orionid meteor yağmuru bu gece en yoğun evresinde: Nasıl görebilirsiniz?",
-   "summary": "Gökyüzü geceleri dünyanın dört bir yanından izlenebilecek Orionid meteor yağmuru ile aydınlanacak. NASA \"yılın en güzel meteor yağmurlarından biri\" olarak tanımlıyor.",
-   "link": "https://www.bbc.com/turkce/articles/cgq4d81wj99o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f1c/live/1b496550-a053-11f0-b687-23a5afa8b42e.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-21T11:01:47+00:00",
-   "url": "/haber/orionid-meteor-yagmuru-bu-gece-en-yogun-evresinde-nasil-gorebilirsiniz-ac64bb94/"
   },
   {
    "id": "9f201e03",
