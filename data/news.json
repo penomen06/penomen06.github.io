@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-21T18:01:11.202880+00:00",
+ "updated": "2026-10-21T18:31:00.256502+00:00",
  "items": [
+  {
+   "id": "98b11a74",
+   "title": "Yapay zeka modellerini daha ucuza çalıştıran altyapı açık kaynak oldu",
+   "summary": "DeepSeek, yapay zeka modellerini daha verimli çalıştıran DeepInfer altyapısını açık kaynak yaptı. Yazılım, hesaplama maliyetlerini ve enerji tüketimini azaltmayı hedefliyor.",
+   "link": "https://www.donanimhaber.com/ai-modellerini-daha-ucuza-calistiran-altyapi-acik-kaynak-oldu--211916",
+   "image": "https://www.donanimhaber.com/images/images/haber/211916/1200x675ai-modellerini-daha-ucuza-calistiran-altyapi-acik-kaynak-oldu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-21T18:17:00+00:00",
+   "url": "/haber/yapay-zeka-modellerini-daha-ucuza-calistiran-altyapi-acik-kaynak-oldu-98b11a74/"
+  },
+  {
+   "id": "8bff2ec5",
+   "title": "\"Hakemler dosyası\" soruşturması. Ferdi Karadoruk için 8 yıla kadar hapis istemi",
+   "summary": "Hakemler dosyası soruşturmasında tutuklanan TFFHGD İstanbul Şubesi Başkanı Ferdi Karadoruk hakkında 8 yıla kadar hapis talep edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/hakemler-dosyasi-sorusturmasi-ferdi-karadoruk-icin-8-yila-kadar-hapis-istemi-1747382",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_7031168f5251d6e5b0637e12109f1aae-832878.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-21T18:09:35+00:00",
+   "url": "/haber/hakemler-dosyasi-sorusturmasi-ferdi-karadoruk-icin-8-yila-kadar-hapis-8bff2ec5/"
+  },
+  {
+   "id": "24003ce3",
+   "title": "Arap Koalisyonu: Suudi Arabistan'a yönelik 2 İHA saldırısı önlendi",
+   "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Suudi Arabistan'ın doğu ve güney bölgelerinde 2 insansız hava aracının (İHA) engellenerek düşürüldüğünü duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistana-yonelik-2-iha-saldirisi-onlendi/4096359",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T18:08:28+00:00",
+   "url": "/haber/arap-koalisyonu-suudi-arabistan-a-yonelik-2-iha-saldirisi-onlendi-24003ce3/"
+  },
+  {
+   "id": "7f4f3fb2",
+   "title": "BM: Yemen'de çatışmalar nedeniyle ağustos başından bu yana yaklaşık 260 bin kişi yerinden edildi",
+   "summary": "Birleşmiş Milletler (BM), Yemen'de devam eden çatışmalar nedeniyle ağustos başından bu yana yaklaşık 260 bin kişinin evlerini terk etmek zorunda kaldığını belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-yemende-catismalar-nedeniyle-agustos-basindan-bu-yana-yaklasik-260-bin-kisi-yerinden-edildi/4096357",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T18:07:49+00:00",
+   "url": "/haber/bm-yemen-de-catismalar-nedeniyle-agustos-basindan-bu-yana-yaklasik-260-7f4f3fb2/"
+  },
+  {
+   "id": "0b0e591c",
+   "title": "Endonezya'da yangınlar nedeniyle 300 binden fazla akut solunum yolu enfeksiyonu vakası tespit edildi",
+   "summary": "Endonezya’da 7 eyalette devam eden orman yangınları nedeniyle 314 bin 124 akut solunum yolu enfeksiyonu vakasının tespit edildiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/endonezyada-yanginlar-nedeniyle-300-binden-fazla-akut-solunum-yolu-enfeksiyonu-vakasi-tespit-edildi/4096347",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T18:01:18+00:00",
+   "url": "/haber/endonezya-da-yanginlar-nedeniyle-300-binden-fazla-akut-solunum-yolu-en-0b0e591c/"
+  },
   {
    "id": "8612b67d",
    "title": "JinkoSolar’dan çatılar için 510 W güneş paneli!",
@@ -22,6 +77,17 @@
    "category": "gundem",
    "date": "2026-10-21T17:59:55+00:00",
    "url": "/haber/cumhurbaskani-erdogan-ve-aliyev-telefonda-gorustu-beedd969/"
+  },
+  {
+   "id": "33fb3a19",
+   "title": "Cumhurbaşkanı Erdoğan, Bulgaristan Başbakanı Radev ile telefonda görüştü",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Bulgaristan Başbakanı Rumen Radev ile telefon görüşmesi gerçekleştirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bulgaristan-basbakani-radev-ile-telefonda-gorustu/4096345",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T17:58:48+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-bulgaristan-basbakani-radev-ile-telefonda-gorust-33fb3a19/"
   },
   {
    "id": "c05d7ba3",
@@ -255,28 +321,6 @@
    "url": "/haber/deniz-altindaki-yanardag-elektrik-uretti-6-teravatlik-enerji-potansiye-6cda15c8/"
   },
   {
-   "id": "164b56cb",
-   "title": "Zonguldak'ta çöken binada 1 kişi kurtarıldı, 1 kişi öldü",
-   "summary": "Zonguldak'ta çöken binanın enkazında kalan 1 kişi, 1 kişi hayatını kaybetti.",
-   "link": "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binada-1-kisi-kurtarildi-1-kisi-oldu/4096254",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T16:01:38+00:00",
-   "url": "/haber/zonguldak-ta-coken-binada-1-kisi-kurtarildi-1-kisi-oldu-164b56cb/"
-  },
-  {
-   "id": "e820cf0d",
-   "title": "Adalet Bakanı Gürlek'ten sermaye piyasalarındaki manipülatif işlemlere ilişkin açıklama",
-   "summary": "Bakan Gürlek, sermaye piyasalarındaki manipülatif işlemlere dair soruşturmalarda 404 kişi hakkında adli işlem yapıldığını, 88 şüphelinin tutuklandığını, 26 şüphelinin gözaltına alındığını ve 195 kişi için adli kontrol…",
-   "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlekten-sermaye-piyasalarindaki-manipulatif-islemlere-iliskin-aciklama/4096253",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T16:01:27+00:00",
-   "url": "/haber/adalet-bakani-gurlek-ten-sermaye-piyasalarindaki-manipulatif-islemlere-e820cf0d/"
-  },
-  {
    "id": "b1f1447f",
    "title": "HONOR Robot Phone, ”2026’nın En İyi İcatları” listesinde",
    "summary": "ONOR Robot Phone, ‘2026’nın En İyi İcatları’ listesindeHONOR’un yeni bir kategori yaratan devrim niteliğindeki akıllı telefonu Robot Phone, TIME’ın ‘2026’nın En İyi İcatları’ listesine seçildi. Robotik hareket…",
@@ -297,28 +341,6 @@
    "category": "gundem",
    "date": "2026-10-21T15:59:01+00:00",
    "url": "/haber/bakan-gurlek-fon-sorusturmasinda-manipulatif-islem-yapan-88-kisi-tutuk-2d8486f5/"
-  },
-  {
-   "id": "7136d594",
-   "title": "Bangladeş'te yıl başından bu yana dang humması nedeniyle ölenlerin sayısı 364'e çıktı",
-   "summary": "Bangladeş'te dang humması nedeniyle yılbaşından bu yana ülke genelinde hayatını kaybedenlerin sayısı 364’e yükseldi.",
-   "link": "https://www.aa.com.tr/tr/dunya/bangladeste-yil-basindan-bu-yana-dang-hummasi-nedeniyle-olenlerin-sayisi-364e-cikti/4096249",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T15:57:38+00:00",
-   "url": "/haber/banglades-te-yil-basindan-bu-yana-dang-hummasi-nedeniyle-olenlerin-say-7136d594/"
-  },
-  {
-   "id": "4bf95594",
-   "title": "Libya Başkanlık Konseyi Başkan Yardımcısı: Türkiye-Libya muhtırasının onaylanması son derece yerinde bir adım",
-   "summary": "Libya Başkanlık Konseyi Başkan Yardımcısı Musa el-Koni, Temsilciler Meclisinin (TM) Mutabakat Muhtırası'nı onaylamasının son derece yerinde ve zamanında atılmış bir adım olduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/libya-baskanlik-konseyi-baskan-yardimcisi-turkiye-libya-muhtirasinin-onaylanmasi-son-derece-yerinde-bir-adim/4096245",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T15:55:40+00:00",
-   "url": "/haber/libya-baskanlik-konseyi-baskan-yardimcisi-turkiye-libya-muhtirasinin-o-4bf95594/"
   },
   {
    "id": "7a07cf97",
@@ -805,17 +827,6 @@
    "url": "/haber/intel-nova-lake-islemciler-28-cekirdekle-dizustu-bilgisayarlara-geliyo-5bf48209/"
   },
   {
-   "id": "cce1afd2",
-   "title": "Iron Man'den gerçek dünyaya: Robert Downey Jr, AR gözlükleri geliştiren SPECS'e katıldı",
-   "summary": "Robert Downey Jr., Iron Man karakterinde de gördüğümüz teknoloji vizyonunu bu kez beyaz perde dışına taşıyor. Ünlü oyuncu, yeni nesil artırılmış gerçeklik (AR) gözlükleri için göreve başladı.",
-   "link": "https://www.donanimhaber.com/robert-downey-jr-ar-gozlukleri-gelistiren-specs-e-katildi--211882",
-   "image": "https://www.donanimhaber.com/images/images/haber/211882/1200x675robert-downey-jr-ar-gozlukleri-gelistiren-specs-e-katildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-21T13:00:00+00:00",
-   "url": "/haber/iron-man-den-gercek-dunyaya-robert-downey-jr-ar-gozlukleri-gelistiren-cce1afd2/"
-  },
-  {
    "id": "75c88b21",
    "title": "Bayraktar AKINCI'dan mühimmat atış testlerinde tam isabet",
    "summary": "Baykar ve ROKETSAN iş birliğiyle gerçekleştirilen testlerde Bayraktar AKINCI'dan ateşlenen iki MAM-L ve bir Otonom LAÇİN TV mühimmatı hedefleri tam isabetle vurdu.",
@@ -990,17 +1001,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T11:53:27+00:00",
    "url": "/haber/boeing-737-max-ailesinin-en-buyugu-737-10-resmen-onaylandi-e480ed90/"
-  },
-  {
-   "id": "98e94e2a",
-   "title": "Cumhurbaşkanı Erdoğan'dan fon açıklaması: Tasarı yasalaşınca ödemeler hızlanacak",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Meclis'teki fon tasarısının yasalaşmasıyla birlikte tasfiye edilen fonlara ilişkin ödemelerin hızlanacağını söyledi.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-fon-aciklamasi-tasari-yasalasinca-odemeler-hizlanacak-1747330",
-   "image": "https://images.ntv.com.tr/images/AA-20261021-42820667-42820666-AK_PARTY_GROUP_MEETING_IN_ANKARA-620905(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-21T11:52:43+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-dan-fon-aciklamasi-tasari-yasalasinca-odemeler-h-98e94e2a/"
   },
   {
    "id": "677125fa",
