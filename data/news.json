@@ -1,6 +1,182 @@
 {
- "updated": "2026-10-21T13:31:00.212879+00:00",
+ "updated": "2026-10-21T14:01:13.315342+00:00",
  "items": [
+  {
+   "id": "0d152b61",
+   "title": "Apple CEO’su John Ternus İyi Ürün Tasarımının Sırlarını Açıklıyor",
+   "summary": "Apple CEO'su John Ternus, şirketin tasarım felsefesini, işlevsellik ile estetik arasındaki dengeyi ve yapay zeka vizyonunu TIME röportajında anlattı.",
+   "link": "https://shiftdelete.net/apple-ceosu-john-ternus-iyi-urun-tasariminin-sirlarini-acikliyor",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-21T14:00:59+00:00",
+   "url": "/haber/apple-ceo-su-john-ternus-iyi-urun-tasariminin-sirlarini-acikliyor-0d152b61/"
+  },
+  {
+   "id": "1578c344",
+   "title": "Gazeteci İsmail Arı tutuklandı",
+   "summary": "Eski RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine soruşturma açılan BirGün gazetesi muhabiri İsmail Arı tutuklandı.",
+   "link": "https://www.bbc.com/turkce/articles/ck20re4212ylo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62bb/live/60710cc0-cd2d-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-21T13:57:59+00:00",
+   "url": "/haber/gazeteci-ismail-ari-tutuklandi-1578c344/"
+  },
+  {
+   "id": "f2308986",
+   "title": "Manifest'in kurucusu Tolga Akış için istenen ceza belli oldu",
+   "summary": "Manifest grubunun kurucusu, tutuklu menajer Tolga Akış hakkında yürütülen soruşturma tamamlandı. Akış'ın üç yıla kadar hapsi istendi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-manifestin-kurucusu-tolga-akis-icin-istenen-ceza-belli-oldu-1747366",
+   "image": "https://images.ntv.com.tr/son-dakika-gorselleri/son-kirmizi(6).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-21T13:57:45+00:00",
+   "url": "/haber/manifest-in-kurucusu-tolga-akis-icin-istenen-ceza-belli-oldu-f2308986/"
+  },
+  {
+   "id": "3d100c4f",
+   "title": "Muğla merkezli 13 ildeki ihale soruşturmasında 35 şüpheli yakalandı",
+   "summary": "Soruşturma kapsamında, örgüt kurma veya üyelik, rüşvet, ihaleye fesat karıştırma, resmi belgede sahtecilik ve kamu kurumları kullanılarak nitelikli dolandırıcılık suçlarından 35 şüpheli yakalandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mugla-merkezli-13-ildeki-ihale-sorusturmasinda-35-supheli-yakalandi/4096086",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T13:53:14+00:00",
+   "url": "/haber/mugla-merkezli-13-ildeki-ihale-sorusturmasinda-35-supheli-yakalandi-3d100c4f/"
+  },
+  {
+   "id": "01d11960",
+   "title": "OpenAI’ın Yapay Zekâ Ajanları Kendi Güvenlik Sistemlerini Devre Dışı Bıraktı",
+   "summary": "OpenAI’ın yapay zekâ ajanları, kendilerine verilen işleri yaparken onları denetleyen güvenlik sistemlerini de devre dışı bıraktı.",
+   "link": "https://www.webtekno.com/openai-ajanlari-guvenlik-sistemlerini-devre-disi-birakti-h227642.html",
+   "image": "https://imgrosetta.webtekno.com/file/694108/694108-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-21T13:50:10+00:00",
+   "url": "/haber/openai-in-yapay-zeka-ajanlari-kendi-guvenlik-sistemlerini-devre-disi-b-01d11960/"
+  },
+  {
+   "id": "0f0e0333",
+   "title": "Alman ordusu, Rusya kaynaklı sabotaj tehdidini \"ciddi\" seviyesine yükseltti",
+   "summary": "Alman ordusunun, Rusya kaynaklı sabotaj tehdidi değerlendirmesini \"ciddi\" seviyesine çıkardığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/alman-ordusu-rusya-kaynakli-sabotaj-tehdidini-ciddi-seviyesine-yukseltti/4096075",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T13:46:40+00:00",
+   "url": "/haber/alman-ordusu-rusya-kaynakli-sabotaj-tehdidini-ciddi-seviyesine-yukselt-0f0e0333/"
+  },
+  {
+   "id": "9593c210",
+   "title": "TÜSEB İDEA, yerli sağlık teknolojilerinin geliştirilmesi ve test edilmesine imkan sağlıyor",
+   "summary": "Türkiye Sağlık Enstitüleri Başkanlığı (TÜSEB) bünyesindeki İstanbul Deneysel Araştırma Geliştirme ve Eğitim Merkezi (İDEA), yerli sağlık teknolojilerinin geliştirilmesi ve test edilmesinin yanı sıra uygulamalı eğitim…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/tuseb-idea-yerli-saglik-teknolojilerinin-gelistirilmesi-ve-test-edilmesine-imkan-sagliyor/4096071",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T13:45:17+00:00",
+   "url": "/haber/tuseb-idea-yerli-saglik-teknolojilerinin-gelistirilmesi-ve-test-edilme-9593c210/"
+  },
+  {
+   "id": "0512b685",
+   "title": "Süper Lig yayın ihalesi erkene çekildi: Adayların işi zorlaştı",
+   "summary": "TFF, Süper Lig ve 1. Lig yayın ihalesini 13 Ocak 2027'den 30 Kasım 2026'ya çekti. Bu değişiklik ihaleye aday olmayı düşünen şirketlerin planlarını bozmuş olabilir.",
+   "link": "https://www.donanimhaber.com/super-lig-yayin-ihalesi-erkene-cekildi-adaylarin-isi-zorlasti--211920",
+   "image": "https://www.donanimhaber.com/images/images/haber/211920/1200x675super-lig-yayin-ihalesi-erkene-cekildi-adaylarin-isi-zorlasti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-21T13:43:00+00:00",
+   "url": "/haber/super-lig-yayin-ihalesi-erkene-cekildi-adaylarin-isi-zorlasti-0512b685/"
+  },
+  {
+   "id": "4135467c",
+   "title": "Mekke Ortak Savunma Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi TBMM'de",
+   "summary": "Türkiye, Pakistan ve Suudi Arabistan Arasında Ortak Savunma İçin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi, TBMM Başkanlığına sunuldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/mekke-ortak-savunma-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-tbmmde/4096063",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T13:42:04+00:00",
+   "url": "/haber/mekke-ortak-savunma-anlasmasi-nin-onaylanmasinin-uygun-bulunduguna-dai-4135467c/"
+  },
+  {
+   "id": "be621913",
+   "title": "Eski İsrailli istihbaratçı Netanyahu'nun seçim öncesi İran'la savaş planını çılgınlık olarak niteledi",
+   "summary": "Eski İsrailli istihbaratçı Citrinowicz, Başbakan Netanyahu hükümetinin 27 Ekim'deki genel seçimlere sayılı günler kala İran'la yeni bir savaş başlatma planını \"tam bir çılgınlık\" olarak niteledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/eski-israilli-istihbaratci-netanyahunun-secim-oncesi-iranla-savas-planini-cilginlik-olarak-niteledi/4096053",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T13:39:28+00:00",
+   "url": "/haber/eski-israilli-istihbaratci-netanyahu-nun-secim-oncesi-iran-la-savas-pl-be621913/"
+  },
+  {
+   "id": "fea749ee",
+   "title": "GTA 6 Çıkışına Sayılı Günler Kala PS5'e Kritik Bir Güncelleme Geldi",
+   "summary": "Sony, GTA 6 çıkışı öncesinde hızlanan jailbreak girişimlerine karşı PS5 için yeni bir sistem yazılımı güncellemesi yayımladı.",
+   "link": "https://www.webtekno.com/gta-6-cikisina-sayili-gunler-kala-ps5-kritik-bir-guncelleme-geldi-h227641.html",
+   "image": "https://imgrosetta.webtekno.com/file/694111/694111-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-21T13:36:53+00:00",
+   "url": "/haber/gta-6-cikisina-sayili-gunler-kala-ps5-e-kritik-bir-guncelleme-geldi-fea749ee/"
+  },
+  {
+   "id": "dcda55a6",
+   "title": "TikTok, Çocukların İstismar Edildiği Yayınlardan Gelir Elde Etmekle Suçlanıyor",
+   "summary": "TikTok, çocukların cinsel istismara maruz kaldığı canlı yayınlardan gelir elde etmek ve şirket içindeki güvenlik uyarılarını görmezden gelmekle suçlanıyor.",
+   "link": "https://www.webtekno.com/tiktok-cocuk-istismari-videolari-gelir-iddiasi-h227635.html",
+   "image": "https://imgrosetta.webtekno.com/file/694090/694090-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-21T13:36:43+00:00",
+   "url": "/haber/tiktok-cocuklarin-istismar-edildigi-yayinlardan-gelir-elde-etmekle-suc-dcda55a6/"
+  },
+  {
+   "id": "6e79fb18",
+   "title": "BMW’nin Station Wagon Tipindeki İlk Elektrikli 3 Serisi i3 Touring Görüntülendi",
+   "summary": "BMW’nin station wagon tipindeki ilk elektrikli 3 serisi modeli olacak i3 Touring, yollarda test edilirken görüntülendi.",
+   "link": "https://www.webtekno.com/bmw-ilk-station-wagon-elektrikli-3-serisi-i3-touring-goruntulendi-h227632.html",
+   "image": "https://imgrosetta.webtekno.com/file/694081/694081-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-21T13:36:24+00:00",
+   "url": "/haber/bmw-nin-station-wagon-tipindeki-ilk-elektrikli-3-serisi-i3-touring-gor-6e79fb18/"
+  },
+  {
+   "id": "f0b88efb",
+   "title": "Ticaret Bakanı Bolat: Hem otomotivde hem de konut fiyatlarında (artış) manşet enflasyon oranının altında",
+   "summary": "Ticaret Bakanı Ömer Bolat, hayata geçirdikleri düzenlemeler sayesinde hem otomotivde hem de konut fiyatlarında artışın manşet enflasyonun altında kaldığını belirtti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-hem-otomotivde-hem-de-konut-fiyatlarinda-artis-manset-enflasyon-oraninin-altinda/4096045",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T13:36:18+00:00",
+   "url": "/haber/ticaret-bakani-bolat-hem-otomotivde-hem-de-konut-fiyatlarinda-artis-ma-f0b88efb/"
+  },
+  {
+   "id": "071bdfdc",
+   "title": "Samsung’un Akıllı Gözlükleri Henüz Piyasaya Çıkmadan Bir Sorunla Karşı Karşıya",
+   "summary": "Samsung'un Android XR akıllı gözlükleri, teknik özellikleriyle iddialı görünse de tasarımıyla soru işaretleri yaratıyor.",
+   "link": "https://www.webtekno.com/samsung-akilli-gozlukler-piyasaya-cikmadan-bir-sorunla-karsi-karsiya-h227629.html",
+   "image": "https://imgrosetta.webtekno.com/file/694063/694063-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-21T13:36:15+00:00",
+   "url": "/haber/samsung-un-akilli-gozlukleri-henuz-piyasaya-cikmadan-bir-sorunla-karsi-071bdfdc/"
+  },
+  {
+   "id": "69b580cd",
+   "title": "İnsani yardım aktörlerini bir araya getiren AidEx 2026 Fuarı Cenevre'de başladı",
+   "summary": "İnsani yardım ve afet müdahalesi alanında dünyanın önde gelen küresel konferans ve fuarı AidEx 2026, İsviçre'nin Cenevre kentinde başladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/insani-yardim-aktorlerini-bir-araya-getiren-aidex-2026-fuari-cenevrede-basladi/4096037",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T13:33:10+00:00",
+   "url": "/haber/insani-yardim-aktorlerini-bir-araya-getiren-aidex-2026-fuari-cenevre-d-69b580cd/"
+  },
   {
    "id": "4a9ea7b3",
    "title": "WhatsApp, iPhone’da Safari’nin İşini Üstlenmeye Hazırlanıyor",
@@ -44,6 +220,17 @@
    "category": "gundem",
    "date": "2026-10-21T13:20:28+00:00",
    "url": "/haber/israil-ordusu-bati-seria-daki-turmusayya-beldesini-kapali-askeri-bolge-130408dc/"
+  },
+  {
+   "id": "38681c55",
+   "title": "İsrail'in zeytin hasadını engellediği Filistinli: Toprağını karşında görüyorsun ama ulaşamıyorsun",
+   "summary": "İşgal altındaki Batı Şeria’nın Deyr Cerir köyünde İsrail ordusunun araziye erişimi engellemesi ve Filistin topraklarını gasbeden İsraillilerin saldırıları, Filistinli çiftçilerin başlıca geçim kaynağı olan zeytin…",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-zeytin-hasadini-engelledigi-filistinli-topragini-karsinda-goruyorsun-ama-ulasamiyorsun/4096014",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T13:18:56+00:00",
+   "url": "/haber/israil-in-zeytin-hasadini-engelledigi-filistinli-topragini-karsinda-go-38681c55/"
   },
   {
    "id": "cf19dde7",
@@ -99,6 +286,17 @@
    "category": "teknoloji",
    "date": "2026-10-21T13:12:18+00:00",
    "url": "/haber/fiat-yeni-elektrikli-sehir-aracina-koala-adini-verebilir-383d8480/"
+  },
+  {
+   "id": "c634b5aa",
+   "title": "Yemen'de kuşatma altındaki Taiz kenti çevresinde şiddetli çatışmalar yaşanıyor",
+   "summary": "Yemen'in kuşatma altındaki kenti Taiz'in farklı noktalarında, hükümet güçleri ile kuşatma altında tuttukları kente girmeye çalışan İran destekli Husiler arasında şiddetli çatışmalar yaşanıyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-kusatma-altindaki-taiz-kenti-cevresinde-siddetli-catismalar-yasaniyor/4095999",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T13:10:49+00:00",
+   "url": "/haber/yemen-de-kusatma-altindaki-taiz-kenti-cevresinde-siddetli-catismalar-y-c634b5aa/"
   },
   {
    "id": "fea83bf6",
@@ -266,17 +464,6 @@
    "url": "/haber/azerbaycan-31-turk-vatandasini-istenmeyen-kisi-ilan-etti-6caf9fb4/"
   },
   {
-   "id": "e5e22417",
-   "title": "DMM, \"AFAD dalgıçlarının görevi bıraktığı ve su altı arama-kurtarma kapasitesinin yetersiz olduğu\" iddialarını yalanladı",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"AFAD'ın dalgıçlarının toplu olarak görevi bıraktığı ve su altı arama-kurtarma kapasitesinin yetersiz olduğu\" yönündeki iddiaların asılsız…",
-   "link": "https://www.aa.com.tr/tr/gundem/dmm-afad-dalgiclarinin-gorevi-biraktigi-ve-su-alti-arama-kurtarma-kapasitesinin-yetersiz-oldugu-iddialarini-yalanladi/4095974",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T12:49:44+00:00",
-   "url": "/haber/dmm-afad-dalgiclarinin-gorevi-biraktigi-ve-su-alti-arama-kurtarma-kapa-e5e22417/"
-  },
-  {
    "id": "803289ad",
    "title": "Kanada Başbakanı Mark Carney Türkiye'ye geliyor",
    "summary": "Kanada Başbakanı Mark Carney, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine yarın Türkiye'ye geliyor.",
@@ -310,17 +497,6 @@
    "url": "/haber/zyxel-uygun-fiyatli-wifi-7-access-point-modellerini-duyurdu-2cff85e9/"
   },
   {
-   "id": "e4f59ca3",
-   "title": "Kanada Başbakanı Carney yarın Türkiye'ye gelecek",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Kanada Başbakanı Mark Carney'nin yarın Türkiye'ye geleceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/kanada-basbakani-carney-yarin-turkiyeye-gelecek/4095961",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T12:42:29+00:00",
-   "url": "/haber/kanada-basbakani-carney-yarin-turkiye-ye-gelecek-e4f59ca3/"
-  },
-  {
    "id": "f9eae838",
    "title": "Kocaeli Çayırova’da, Renault Trucks ve Volvo Penta markalarına hizmet verecek bir bölgesel dağıtım merkezi açıldı",
    "summary": "Kocaeli Çayırova’da, yaklaşık 2,8 milyon euro yatırımla Renault Trucks ve Volvo Penta markalarına hizmet verecek bir bölgesel dağıtım merkezi açıldı. Bu konuda yapılan resmi açıklamada, “Kocaeli Çayırova’da kurulan…",
@@ -330,17 +506,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T12:41:05+00:00",
    "url": "/haber/kocaeli-cayirova-da-renault-trucks-ve-volvo-penta-markalarina-hizmet-v-f9eae838/"
-  },
-  {
-   "id": "b76f18ab",
-   "title": "Fenerbahçeli Kadınlar Derneği, Batman'da öğrencilerle buluştu",
-   "summary": "Fenerbahçeli Kadınlar Derneği, Batman'daki Borsa İstanbul İlkokulu ve Ortaokulu'nda çocuklar, öğretmenler ve annelerle bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahceli-kadinlar-dernegi-batmanda-ogrencilerle-bulustu/4095957",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T12:41:04+00:00",
-   "url": "/haber/fenerbahceli-kadinlar-dernegi-batman-da-ogrencilerle-bulustu-b76f18ab/"
   },
   {
    "id": "c20ed771",
@@ -398,17 +563,6 @@
    "url": "/haber/youtube-dislike-butonunu-tamamen-gizleyecek-1d0fd479/"
   },
   {
-   "id": "e4bb9a5d",
-   "title": "LAÇİN, Bayraktar AKINCI ile ilk kez TV arayıcı başlığıyla otonom hedef seçme kabiliyetini sergiledi",
-   "summary": "Bayraktar AKINCI mühimmat atış testlerinde, ROKETSAN işbirliğiyle ateşlenen iki MAM-L ve bir Otonom LAÇİN TV mühimmatı hedefleri tam isabetle vurdu.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/lacin-bayraktar-akinci-ile-ilk-kez-tv-arayici-basligiyla-otonom-hedef-secme-kabiliyetini-sergiledi/4095942",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T12:30:20+00:00",
-   "url": "/haber/lacin-bayraktar-akinci-ile-ilk-kez-tv-arayici-basligiyla-otonom-hedef-e4bb9a5d/"
-  },
-  {
    "id": "a59368f2",
    "title": "En ucuz geniş ekran telefon geliyor",
    "summary": "Coolpad Cool X Wide geniş ekranlı akıllı telefonları deneyimlemek isteyen ancak fazla para vermek istemeyen tüketiciler için neredeyse bedava bir fiyat etiketi ile geliyor.",
@@ -464,17 +618,6 @@
    "url": "/haber/bmw-calisanlara-isten-ayrilmalari-icin-para-teklif-ediyor-393d5760/"
   },
   {
-   "id": "f326077c",
-   "title": "İçişleri Bakanı Çiftçi: 625 suç örgütüne 1741 operasyon yaptık",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"625 suç örgütüne, 1741 operasyon yaptık. 22'si uluslararası bağlantılı olan örgütler.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-625-suc-orgutune-1741-operasyon-yaptik/4095923",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T12:19:37+00:00",
-   "url": "/haber/icisleri-bakani-ciftci-625-suc-orgutune-1741-operasyon-yaptik-f326077c/"
-  },
-  {
    "id": "9522a613",
    "title": "Libya ile deniz yetki anlaşması. Bahçeli: Türkiye'nin hak ve menfaatlerini güçlendiren bir gelişme",
    "summary": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, Libya anlaşmasının Türkiye'nin Doğu Akdeniz'de hak ve menfaatlerini güçlendiren önemli bir gelişme olduğunu söyledi.",
@@ -486,17 +629,6 @@
    "url": "/haber/libya-ile-deniz-yetki-anlasmasi-bahceli-turkiye-nin-hak-ve-menfaatleri-9522a613/"
   },
   {
-   "id": "3019ee1a",
-   "title": "MHP Genel Başkanı Bahçeli'den Türkiye-Libya deniz yetki muhtırasının onaylanmasına ilişkin açıklama",
-   "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Dün Trablusgarp'a ulaşmanın yollarını arayan Türkiye'den, bugün Akdeniz'de kendi hak ve hukukunu savunan, kendi rotasını belirleyen ve kendi geleceğine yön veren Türkiye'ye… \"…",
-   "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceliden-turkiye-libya-deniz-yetki-muhtirasinin-onaylanmasina-iliskin-aciklama/4095910",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T12:12:13+00:00",
-   "url": "/haber/mhp-genel-baskani-bahceli-den-turkiye-libya-deniz-yetki-muhtirasinin-o-3019ee1a/"
-  },
-  {
    "id": "4fb6133f",
    "title": "Mercedes iki CLA’yı çarpıştırdı: Batarya ve kabin ne durumda?",
    "summary": "Mercedes-Benz, iki hareketli CLA’yı 56 km/s hızdaki yan çarpışma testinde karşı karşıya getirdi. Sekiz test mankeninin kullanıldığı denemede kabinlerin ve bataryanın korunduğu açıklandı.",
@@ -506,39 +638,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T12:10:00+00:00",
    "url": "/haber/mercedes-iki-cla-yi-carpistirdi-batarya-ve-kabin-ne-durumda-4fb6133f/"
-  },
-  {
-   "id": "93e7b2dd",
-   "title": "YÖK'ün Bilim Kafe projesi Altın Pusula'dan ödülle döndü",
-   "summary": "Yükseköğretim Kurulunun (YÖK) bilimsel bilgiyi toplumun farklı kesimleriyle buluşturmak amacıyla hayata geçirdiği Bilim Kafe Projesi, Altın Pusula Türkiye Halkla İlişkiler Ödülleri'nde birincilik kazandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/yokun-bilim-kafe-projesi-altin-pusuladan-odulle-dondu/4095902",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T12:08:01+00:00",
-   "url": "/haber/yok-un-bilim-kafe-projesi-altin-pusula-dan-odulle-dondu-93e7b2dd/"
-  },
-  {
-   "id": "619dc0b0",
-   "title": "Trabzonspor Teknik Direktörü Reis: Kadromuzdan mutluyum",
-   "summary": "Trabzonspor Teknik Direktörü Thomas Reis, \"İçeride oynadığımız, ev sahibi olduğumuz, puanları da her zaman kazanmak istediğimiz için gelecek olan puanlar umuyorum bizim hanemize yazılacak.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-teknik-direktoru-reis-kadromuzdan-mutluyum/4095898",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T12:03:08+00:00",
-   "url": "/haber/trabzonspor-teknik-direktoru-reis-kadromuzdan-mutluyum-619dc0b0/"
-  },
-  {
-   "id": "a0927295",
-   "title": "Yazar Ahmet Ümit, çevirmen ve yayıncılarıyla İstanbul'da bir araya geldi",
-   "summary": "Yapı Kredi Kültür Sanat Yayıncılık ve Kalem Ajans işbirliğiyle düzenlenen \"İstanbul'dan Dünyaya: Ahmet Ümit'in Kelimelerle Yolculuğu\" başlıklı panel, Yapı Kredi Kültür Sanat binasında gerçekleştirildi.",
-   "link": "https://www.aa.com.tr/tr/kultur/yazar-ahmet-umit-cevirmen-ve-yayincilariyla-istanbulda-bir-araya-geldi/4095891",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T12:01:38+00:00",
-   "url": "/haber/yazar-ahmet-umit-cevirmen-ve-yayincilariyla-istanbul-da-bir-araya-geld-a0927295/"
   },
   {
    "id": "3c2ee266",
@@ -695,17 +794,6 @@
    "url": "/haber/mhp-genel-baskani-bahceli-mavi-vatan-guclu-turkiye-idealinin-ifadesidi-c4a8d099/"
   },
   {
-   "id": "1578c344",
-   "title": "Gazeteci İsmail Arı tutuklama talebiyle hakimliğe savk edildi",
-   "summary": "BirGün gazetesi, gözaltına alınan muhabiri İsmail Arı'nın tutuklama talebiyle hakimliğe sevk edildiğini bildirdi.",
-   "link": "https://www.bbc.com/turkce/articles/ck20re4212ylo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62bb/live/60710cc0-cd2d-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-21T11:05:54+00:00",
-   "url": "/haber/gazeteci-ismail-ari-tutuklama-talebiyle-hakimlige-savk-edildi-1578c344/"
-  },
-  {
    "id": "ac64bb94",
    "title": "Orionid meteor yağmuru bu gece en yoğun evresinde: Nasıl görebilirsiniz?",
    "summary": "Gökyüzü geceleri dünyanın dört bir yanından izlenebilecek Orionid meteor yağmuru ile aydınlanacak. NASA \"yılın en güzel meteor yağmurlarından biri\" olarak tanımlıyor.",
@@ -794,17 +882,6 @@
    "url": "/haber/mercedes-iki-elektrikli-otomobilini-birbirine-carpistirdi-testin-sonuc-32bec911/"
   },
   {
-   "id": "dc1896a7",
-   "title": "Yeni Bir Araştırma, Elektrikli Araçların Pek Bilinmeyen Bir Faydasını Ortaya Çıkardı",
-   "summary": "Yeni bir araştırma, temiz üretim ve uzun ömürlü batarya stratejileriyle karbon salımının 2050'ye kadar %34 azaltılabileceğini gösteriyor.",
-   "link": "https://www.webtekno.com/yeni-bir-arastirma-elektrikli-araclarin-pek-bilinmeyen-bir-faydasini-ortaya-cikardi-h227597.html",
-   "image": "https://imgrosetta.webtekno.com/file/693980/693980-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T10:22:19+00:00",
-   "url": "/haber/yeni-bir-arastirma-elektrikli-araclarin-pek-bilinmeyen-bir-faydasini-o-dc1896a7/"
-  },
-  {
    "id": "4c871bbc",
    "title": "Türkiye, Katar, Pakistan ve Endonezya'dan dev savunma anlaşması",
    "summary": "Katar'ın başkenti Doha'da Katar, Endonezya, Pakistan ve Türkiye arasında çok taraflı 'Bedir' Mutabakat Zaptı imzalandı. Mutabakat, askerî üretim alanında iş birliğini teşvik etmeyi, dört ülkenin askerî kabiliyetlerini…",
@@ -814,17 +891,6 @@
    "category": "gundem",
    "date": "2026-10-21T10:22:00+00:00",
    "url": "/haber/turkiye-katar-pakistan-ve-endonezya-dan-dev-savunma-anlasmasi-4c871bbc/"
-  },
-  {
-   "id": "5cfca859",
-   "title": "ChatGPT’ye Kullanıcıların Çok İşine Yarayacak Gizlilik Özelliği Geldi",
-   "summary": "OpenAI, ChatGPT’ye kullanıcıların hassas sohbetlerini koruma altına alacak “Kilitli Sohbetler” isimli harika bir özellik ekledi.",
-   "link": "https://www.webtekno.com/chatgpt-ozellik-geldi-h227596.html",
-   "image": "https://imgrosetta.webtekno.com/file/693973/693973-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T10:21:52+00:00",
-   "url": "/haber/chatgpt-ye-kullanicilarin-cok-isine-yarayacak-gizlilik-ozelligi-geldi-5cfca859/"
   },
   {
    "id": "9c317a7d",
@@ -882,17 +948,6 @@
    "url": "/haber/ps5-in-14-10-surumu-kirildi-gta-6-oncesi-sony-ye-kritik-haber-52de0b3c/"
   },
   {
-   "id": "9825683f",
-   "title": "iPhone Duo'nun İlk Kutu Açılım Videosu Geldi [Video]",
-   "summary": "Apple’ın ilk katlanabilir telefonu iPhone Duo’nun kutu açılışı videoları yayımlandı.",
-   "link": "https://www.webtekno.com/iphone-duo-ilk-kutu-acilim-videosu-h227593.html",
-   "image": "https://imgrosetta.webtekno.com/file/693970/693970-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T09:49:26+00:00",
-   "url": "/haber/iphone-duo-nun-ilk-kutu-acilim-videosu-geldi-video-9825683f/"
-  },
-  {
    "id": "54a2253b",
    "title": "Murat Kurum'dan Özgür Özel'e sel tepkisi: \"Yalan söyleyerek siyaset yapıyorlar\"",
    "summary": "Çevre Şehircilik ve İklim Bakanı Murat Kurum, sel felaketinin ardından eleştirilerde bulunan Yeni Parti Genel Başkanı Özgür Özel'e \"Yalan söyleyerek siyaset yapıyorlar.\" dedi.",
@@ -946,17 +1001,6 @@
    "category": "gundem",
    "date": "2026-10-21T09:28:45+00:00",
    "url": "/haber/ozgur-ozel-den-ursula-von-der-leyen-e-tepki-taraf-tutmayin-d48587f3/"
-  },
-  {
-   "id": "4a83513e",
-   "title": "Amazon'da Bu Haftanın En Avantajlı Ürünleri",
-   "summary": "Amazon'da fiyatı 500 TL ve altında olan ürünler arasından işinize yarayabilecek olanları sizler için seçtik.",
-   "link": "https://www.webtekno.com/hepsi-500-tl-alti-amazon-da-bu-haftanin-en-avantajli-urunleri-h227575.html",
-   "image": "https://imgrosetta.webtekno.com/file/693922/693922-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T09:24:42+00:00",
-   "url": "/haber/amazon-da-bu-haftanin-en-avantajli-urunleri-4a83513e/"
   },
   {
    "id": "23cd7428",
@@ -1025,17 +1069,6 @@
    "url": "/haber/ureme-hucresi-operasyonu-donor-iki-kadina-turkiye-donusu-gozalti-66416107/"
   },
   {
-   "id": "a084de0f",
-   "title": "Intel ve AMD, x86 İşlemcilerde Yapay Zeka Geliştirmeyi Birleştiriyor",
-   "summary": "Intel ve AMD, PyTorch üzerinde yapay zeka geliştirmeyi basitleştirmek için güçlerini birleştirerek oneDNN kütüphanesini x86 CPU'lar için standart haline getirdi.",
-   "link": "https://shiftdelete.net/intel-ve-amd-x86-islemcilerde-yapay-zeka-gelistirmeyi-birlestiriyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-21T09:00:03+00:00",
-   "url": "/haber/intel-ve-amd-x86-islemcilerde-yapay-zeka-gelistirmeyi-birlestiriyor-a084de0f/"
-  },
-  {
    "id": "d6d96110",
    "title": "Twitch, “Stream Recaps” özelliğini kullanıma sundu",
    "summary": "Amazon bünyesindeki popüler canlı yayın platformu Twitch, yayıncılara yönelik “Stream Recaps” özelliğini kullanıma sundu. Şirketin, “Stream Recaps, canlı yayınlardan alınan klipleri bir araya getirerek takipçilerin…",
@@ -1056,28 +1089,6 @@
    "category": "gundem",
    "date": "2026-10-21T08:48:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-bu-milletin-kardesliginden-artik-ellerinizi-ceki-c82b3717/"
-  },
-  {
-   "id": "1630a234",
-   "title": "Inception, GPT-6 Luna'dan 8 kat daha hızlı olduğunu iddia ettiği Mercury 3'ü tanıttı",
-   "summary": "Inception, yeni yapay zekâsı Mercury 3'ün GPT-6 Luna ve Claude Haiku 5.5 gibi en üst modelleri geride bırakırken sekiz kata kadar daha hızlı çalıştığını iddia ediyor.",
-   "link": "https://www.donanimhaber.com/gpt-6-luna-dan-8-kat-daha-hizli-yapay-zeka-mercury-3--211897",
-   "image": "https://www.donanimhaber.com/images/images/haber/211897/1200x675gpt-6-luna-dan-8-kat-daha-hizli-yapay-zeka-mercury-3.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-21T08:46:00+00:00",
-   "url": "/haber/inception-gpt-6-luna-dan-8-kat-daha-hizli-oldugunu-iddia-ettigi-mercur-1630a234/"
-  },
-  {
-   "id": "70c04430",
-   "title": "Yapay Zekâ Çılgınlığı Samsung’u Harekete Geçirdi: Şirketten Önemli Hamle!",
-   "summary": "Samsung ve SK Hynix, yapay zekâ talebi ve Çinli rakipleriyle mücadele için Çin fabrikalarında gelişmiş çip üretimine geçiyor.",
-   "link": "https://www.webtekno.com/yapay-zeka-cilginligi-samsung-harekete-gecirdi-h227570.html",
-   "image": "https://imgrosetta.webtekno.com/file/693883/693883-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T08:39:36+00:00",
-   "url": "/haber/yapay-zeka-cilginligi-samsung-u-harekete-gecirdi-sirketten-onemli-haml-70c04430/"
   },
   {
    "id": "383b0b9a",
@@ -1111,17 +1122,6 @@
    "category": "gundem",
    "date": "2026-10-21T08:09:54+00:00",
    "url": "/haber/istanbul-daki-selin-ardindan-buyuk-tehlike-evini-su-basanlar-dikkat-6-be4ebea2/"
-  },
-  {
-   "id": "57f20c6f",
-   "title": "Korkunç iddia: 19 yaşındaki genci elektronik sigara mı öldürdü?",
-   "summary": "İtalya'ya üniversite eğitimi için gitmeye hazırlanan yazar Cem Akaş'ın 19 yaşındaki oğlu Can Akaş, şüpheli vefatının ardından İstanbul'da son yolculuğuna uğurlandı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-korkunc-iddia-19-yasindaki-genci-elektronik-sigara-mi-oldurdu-1747309",
-   "image": "https://images.ntv.com.tr/images/iStock-2287471289-538207.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-21T08:06:39+00:00",
-   "url": "/haber/korkunc-iddia-19-yasindaki-genci-elektronik-sigara-mi-oldurdu-57f20c6f/"
   },
   {
    "id": "c6094f0a",
