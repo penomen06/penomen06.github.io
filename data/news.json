@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-21T04:01:08.845119+00:00",
+ "updated": "2026-10-21T04:31:02.407623+00:00",
  "items": [
+  {
+   "id": "ddc46040",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Ekim 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-ekim-2026-1747224",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-21T04:30:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-ddc46040/"
+  },
+  {
+   "id": "8c70bccd",
+   "title": "Dune: Part 3 Yeni Tanıtım Fragmanı Geldi!",
+   "summary": "Dune: Part 3'ten hayranlarını heyecanını tavan yaptıran yepyeni bir kısa teaser paylaşıldı.",
+   "link": "https://www.webtekno.com/dune-part-3-tanitim-fragmani-h227552.html",
+   "image": "https://imgrosetta.webtekno.com/file/693845/693845-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-21T04:09:19+00:00",
+   "url": "/haber/dune-part-3-yeni-tanitim-fragmani-geldi-8c70bccd/"
+  },
   {
    "id": "3a12a822",
    "title": "Apple 6G için Deneyimli Mühendis Arıyor",
@@ -46,6 +68,17 @@
    "url": "/haber/gta-6-nin-on-sipariste-ne-kadar-sattigi-belli-oldu-b7bd3254/"
   },
   {
+   "id": "ec9a0d42",
+   "title": "Bugün hava nasıl olacak?",
+   "summary": "Yurdun kuzey, iç ve doğu kesimlerinde yerel sağanak ve gök gürültülü sağanak beklenirken, iç ve batı bölgelerde sabah saatlerinde pus ile yer yer sis görüleceği tahmin ediliyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/bugun-hava-nasil-olacak-960699.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1530000/hava-durumu-aa-1531801.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-21T03:38:00+00:00",
+   "url": "/haber/bugun-hava-nasil-olacak-ec9a0d42/"
+  },
+  {
    "id": "79613b8d",
    "title": "Yeni Xbox'ın Çıkış Tarihi ve Fiyatı Sızdırıldı!",
    "summary": "Yeni nesil Xbox'ın bekleyenleri üzecek çıkış tarihi ortaya çıktı. Fiyatı da inanılmaz yüksek seviyelerde olabilir.",
@@ -57,15 +90,15 @@
    "url": "/haber/yeni-xbox-in-cikis-tarihi-ve-fiyati-sizdirildi-79613b8d/"
   },
   {
-   "id": "ddc46040",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Ekim 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-ekim-2026-1747224",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
+   "id": "dc6f13f5",
+   "title": "Yurt içi piyasaların gözü faiz kararına çevrildi",
+   "summary": "Piyasaların ve yatırımcıların odağında yer alan Türkiye Cumhuriyet Merkez Bankasının (TCMB) yılın yedinci faiz kararı yarın açıklanacak; beklenti anketine katılan ekonomistler ekim ayında politika faizinin 1 puan…",
+   "link": "https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarin-gozu-faiz-kararina-cevrildi-960698.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2372000/tcmb-merkez-bankasi-faiz-2372054.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
-   "date": "2026-10-21T03:30:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-ddc46040/"
+   "date": "2026-10-21T03:26:00+00:00",
+   "url": "/haber/yurt-ici-piyasalarin-gozu-faiz-kararina-cevrildi-dc6f13f5/"
   },
   {
    "id": "6af7f54a",
@@ -915,17 +948,6 @@
    "url": "/haber/japonya-dan-tarihi-uzay-gorevi-basarili-olursa-bir-ilk-olacak-11d1a761/"
   },
   {
-   "id": "4bdd80e7",
-   "title": "Karşınızda 'Premium' Chery: Chery, Premium Elektrikli Otomobil Markasını Tanıtmaya Hazırlanıyor!",
-   "summary": "Chery, lüks elektrikli alt markası Exlantix ve sportif shooting brake modeli ES GT'yi 2027'de küresel pazara sunmaya hazırlanıyor.",
-   "link": "https://www.webtekno.com/chery-premium-elektrikli-otomobil-markasini-tanitmaya-hazirlaniyor-h227534.html",
-   "image": "https://imgrosetta.webtekno.com/file/693751/693751-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-20T13:08:16+00:00",
-   "url": "/haber/karsinizda-premium-chery-chery-premium-elektrikli-otomobil-markasini-t-4bdd80e7/"
-  },
-  {
    "id": "191f40a7",
    "title": "Binance TR’de Gram ve Çeyrek Altın Referansıyla Kripto İşlem Dönemi Başladı",
    "summary": "Binance TR, Türkiye’deki geleneksel altın birikim alışkanlıklarını kripto varlık dünyasına taşıyan Altın Endeksli Kripto Varlıklar Menüsü’nü devreye aldı. Mobil uygulamanın 4.7.0 ve üzeri sürümleriyle erişime açılan…",
@@ -1201,17 +1223,6 @@
    "url": "/haber/uskudar-belediyesi-nin-yeni-baskanvekili-belli-oldu-e299bd04/"
   },
   {
-   "id": "8ee9cccb",
-   "title": "Üsküdar Belediye Başkan Vekili belli oldu",
-   "summary": "Üsküdar Belediye Meclisi’nde gerçekleştirilen Belediye Başkan Vekilliği seçiminin üçüncü turunda, 24 meclis üyesinin oyunu alan Muhammed Emin Sarıoğlu, Üsküdar Belediye Başkan Vekili oldu.",
-   "link": "https://www.trthaber.com/haber/turkiye/uskudar-belediye-baskan-vekili-belli-oldu-960623.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/emin-sarioglu-2497017.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-20T08:28:00+00:00",
-   "url": "/haber/uskudar-belediye-baskan-vekili-belli-oldu-8ee9cccb/"
-  },
-  {
    "id": "7845c7f4",
    "title": "Ev hapsindeyken tutuklanan Murat Ağırel mahkemede ne savunma yaptı?",
    "summary": "Fon krizine ilişkin yayınlar nedeniyle \"halkı yanıltıcı bilgiyi alenen yayma\" suçundan ev hapsinde olan gazeteci Murat Ağırel yeniden gözaltına alındı.",
@@ -1221,17 +1232,6 @@
    "category": "gundem",
    "date": "2026-10-20T08:00:19+00:00",
    "url": "/haber/ev-hapsindeyken-tutuklanan-murat-agirel-mahkemede-ne-savunma-yapti-7845c7f4/"
-  },
-  {
-   "id": "7891e666",
-   "title": "Devlet Bahçeli: Belediyelerdeki çıkar ilişkileri ahlak yoksunluğudur",
-   "summary": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, \"İstanbul Büyükşehir Belediyesinden başlayarak birçok belediyeye yayılan her türlü çıkar ilişkisi, ceza hukukunu ilgilendiren problem olmanın yanında bir…",
-   "link": "https://www.trthaber.com/haber/gundem/devlet-bahceli-belediyelerdeki-cikar-iliskileri-ahlak-yoksunlugudur-960616.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2434000/bahceli-2435166.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-20T07:48:00+00:00",
-   "url": "/haber/devlet-bahceli-belediyelerdeki-cikar-iliskileri-ahlak-yoksunlugudur-7891e666/"
   },
   {
    "id": "62b57bff",
