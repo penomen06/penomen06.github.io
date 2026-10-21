@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:43:18.861236+00:00",
+ "updated": "2026-10-21T23:01:10.090819+00:00",
  "items": [
   {
    "id": "dd60eb66",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-21T22:30:00+00:00",
+   "date": "2026-10-21T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "af3f39a4",
+   "title": "Microsoft, Çin bağlantılı aktörün yapay zeka kullanarak yüzlerce kuruluşu hedef aldığını belirtti",
+   "summary": "ABD'li teknoloji şirketi Microsoft, Çin devletiyle bağlantılı bir siber aktörün yapay zeka destekli araçlar kullanarak dünya genelinde yüzlerce kuruluşu hedef aldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoft-cin-baglantili-aktorun-yapay-zeka-kullanarak-yuzlerce-kurulusu-hedef-aldigini-belirtti/4096573",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T22:40:45+00:00",
+   "url": "/haber/microsoft-cin-baglantili-aktorun-yapay-zeka-kullanarak-yuzlerce-kurulu-af3f39a4/"
   },
   {
    "id": "a1c8fd60",
@@ -286,17 +297,6 @@
    "category": "gundem",
    "date": "2026-10-21T20:15:00+00:00",
    "url": "/haber/siber-guvenlik-baskanligindan-ulusal-olcekte-uyari-dbc2880f/"
-  },
-  {
-   "id": "b0c69d38",
-   "title": "Türkiye ile İran arasında sınır güvenliği toplantısı yapıldı",
-   "summary": "Türkiye ile İran arasında, sınır güvenliğine ilişkin konuların ele alındığı Mutat Toplantı, İran'ın Maku kentinde gerçekleştirildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-iran-arasinda-sinir-guvenligi-toplantisi-yapildi/4096476",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T20:13:14+00:00",
-   "url": "/haber/turkiye-ile-iran-arasinda-sinir-guvenligi-toplantisi-yapildi-b0c69d38/"
   },
   {
    "id": "db61240a",
