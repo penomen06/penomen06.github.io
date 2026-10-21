@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-21T15:09:38.316900+00:00",
+ "updated": "2026-10-21T15:31:03.795560+00:00",
  "items": [
+  {
+   "id": "5f1dc5b0",
+   "title": "Borsa günü düşüşle tamamladı",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,87 değer kaybederek 11.577,12 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4096198",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T15:26:16+00:00",
+   "url": "/haber/borsa-gunu-dususle-tamamladi-5f1dc5b0/"
+  },
+  {
+   "id": "18d308e2",
+   "title": "AP'deki yolsuzlukla mücadele soruşturması kapsamında aşırı sağcı gruba ait ofisler arandı",
+   "summary": "Avrupa Kamu Savcılığının (EPPO) Avrupa Parlamentosu'ndaki (AP) eski grup hakkında yürüttüğü AP fonlarının usulsüz harcanmasına yönelik soruşturma kapsamında polis, aşırı sağcı Avrupa'nın Vatanseverleri (PfE) grubunun…",
+   "link": "https://www.aa.com.tr/tr/dunya/apdeki-yolsuzlukla-mucadele-sorusturmasi-kapsaminda-asiri-sagci-gruba-ait-ofisler-arandi/4096197",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T15:22:16+00:00",
+   "url": "/haber/ap-deki-yolsuzlukla-mucadele-sorusturmasi-kapsaminda-asiri-sagci-gruba-18d308e2/"
+  },
+  {
+   "id": "9ea2b1c0",
+   "title": "ABD yıllar önce kapattığı üç nükleer santrali yeniden açıyor: Sebebi ise yapay zekâ",
+   "summary": "Yapay zekânın artan enerji ihtiyacı, ABD'yi yıllar önce kapattığı nükleer santrallere geri döndürüyor. Microsoft ve Google'ın da desteklediği üç proje, toplam 2,25 GW elektrik üretecek.",
+   "link": "https://www.donanimhaber.com/abd-kapattigi-uc-nukleer-reaktoru-yeniden-devreye-aliyor--211930",
+   "image": "https://www.donanimhaber.com/images/images/haber/211930/1200x675abd-kapattigi-uc-nukleer-reaktoru-yeniden-devreye-aliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-21T15:22:00+00:00",
+   "url": "/haber/abd-yillar-once-kapattigi-uc-nukleer-santrali-yeniden-aciyor-sebebi-is-9ea2b1c0/"
+  },
+  {
+   "id": "943c52da",
+   "title": "Libya’nın Türkiye anlaşmasını onaylaması Doğu Akdeniz'de dengeleri değiştirebilir mi?",
+   "summary": "Libya Temsilciler Meclisi'nin 2019 yılında Türkiye ile imzalanan Deniz Yetki Alanlarının Sınırlandırılması Anlaşması'nı yedi yıl sonra onaylaması, Doğu Akdeniz'deki süren rekabet ve müzakereler açısından yeni bir…",
+   "link": "https://www.bbc.com/turkce/articles/cwrkyldnkgndo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03d1/live/d0a0d260-cd59-11f1-9a39-31b474234113.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-21T15:18:15+00:00",
+   "url": "/haber/libya-nin-turkiye-anlasmasini-onaylamasi-dogu-akdeniz-de-dengeleri-deg-943c52da/"
+  },
+  {
+   "id": "5560af01",
+   "title": "DMM, Türkiye ile Libya arasındaki Deniz Yetki Alanları Anlaşması'na ilişkin iddiaları yalanladı",
+   "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), Türkiye ile Libya arasındaki Deniz Yetki Alanları Anlaşması'nı hedef alarak Türkiye'nin Doğu Akdeniz'i istikrarsızlaştırdığı yönündeki iddiaların…",
+   "link": "https://www.aa.com.tr/tr/gundem/dmm-turkiye-ile-libya-arasindaki-deniz-yetki-alanlari-anlasmasina-iliskin-iddialari-yalanladi/4096194",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T15:16:44+00:00",
+   "url": "/haber/dmm-turkiye-ile-libya-arasindaki-deniz-yetki-alanlari-anlasmasi-na-ili-5560af01/"
+  },
+  {
+   "id": "cdcc1543",
+   "title": "26 bin liraya hurdacıya satılmıştı, 35 gün sonra bulundu",
+   "summary": "Yalova ile Japonya’nın Tonami kenti arasındaki dostluğun simgesi olan 37 yıllık \"Barış Çanı\" hurdacıda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-26-bin-liraya-hurdaciya-satilmisti-35-gun-sonra-bulundu-1747372",
+   "image": "https://images.ntv.com.tr/images/37-YILLIK-‘BARIS-CANI’-CALINDIKTAN-35-GU_1566813_466233-381244.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-21T15:16:32+00:00",
+   "url": "/haber/26-bin-liraya-hurdaciya-satilmisti-35-gun-sonra-bulundu-cdcc1543/"
+  },
+  {
+   "id": "759d0c98",
+   "title": "Kremlin: Rusya-Ukrayna-ABD üçlü müzakerelerini kasımda yeniden başlatmaya hazırız",
+   "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya'nın ABD ve Ukrayna ile üçlü müzakereleri kasım ayında yeniden başlatmaya hazır olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kremlin-rusya-ukrayna-abd-uclu-muzakerelerini-kasimda-yeniden-baslatmaya-haziriz/4096191",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T15:12:09+00:00",
+   "url": "/haber/kremlin-rusya-ukrayna-abd-uclu-muzakerelerini-kasimda-yeniden-baslatma-759d0c98/"
+  },
+  {
+   "id": "213401bd",
+   "title": "Mekke İttifakı Anlaşması TBMM Dışişleri Komisyonu'na sunuldu",
+   "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke İttifakı Anlaşması'na dair kanun teklifi, Türkiye Büyük Millet Meclisi Başkanlığının ardından TBMM Dışişleri Komisyonu'na sevk edildi.",
+   "link": "https://www.bbc.com/turkce/articles/cwj0l71r8lq9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e4fa/live/6d4addb0-cc7c-11f1-bed8-c51b95c602ec.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-21T15:08:28+00:00",
+   "url": "/haber/mekke-ittifaki-anlasmasi-tbmm-disisleri-komisyonu-na-sunuldu-213401bd/"
+  },
+  {
+   "id": "f53a3480",
+   "title": "Range Rover'da Neden Genelde Motor Arızası Görülüyor?",
+   "summary": "Range Rover motor arızalarının arkasındaki nedenleri, Ingenium ve TDV6 gibi sorunlu motorları Webtekno'da inceliyoruz.",
+   "link": "https://www.webtekno.com/range-rover-neden-motor-arizasiyla-aniliyor-h227608.html",
+   "image": "https://imgrosetta.webtekno.com/file/694072/694072-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-21T15:07:06+00:00",
+   "url": "/haber/range-rover-da-neden-genelde-motor-arizasi-goruluyor-f53a3480/"
+  },
+  {
+   "id": "cfab655d",
+   "title": "Kürşad Zorlu'dan Türk dünyasına uygun Özbek alfabesinin yürürlüğe girmesine ilişkin açıklama",
+   "summary": "AK Parti Genel Başkan Yardımcısı, Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Türk dünyasına uygun Özbek alfabesinin Özbekistan Cumhurbaşkanı Şevket Mirziyoyev tarafından imzalanarak yürürlüğe girmesinden…",
+   "link": "https://www.aa.com.tr/tr/gundem/kursad-zorludan-turk-dunyasina-uygun-ozbek-alfabesinin-yururluge-girmesine-iliskin-aciklama/4096183",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T15:06:00+00:00",
+   "url": "/haber/kursad-zorlu-dan-turk-dunyasina-uygun-ozbek-alfabesinin-yururluge-girm-cfab655d/"
+  },
   {
    "id": "c9360330",
    "title": "Football Manager 27, 5 Gün Boyunca Ücretsiz Oynanabilecek: İşte Bilmeniz Gerekenler!",
@@ -22,6 +132,17 @@
    "category": "teknoloji",
    "date": "2026-10-21T15:05:36+00:00",
    "url": "/haber/boeing-in-yillardir-beklenen-ucagina-onay-cikti-teslimatlar-basliyor-ef3aeb31/"
+  },
+  {
+   "id": "ab2cff11",
+   "title": "Trabzonspor'un eski futbolcusu Giorgi Nemsadze hayatını kaybetti",
+   "summary": "Trabzonspor Kulübü, eski futbolcusu Giorgi Nemsadze'nin hayatını kaybettiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-eski-futbolcusu-giorgi-nemsadze-hayatini-kaybetti/4096182",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T15:05:34+00:00",
+   "url": "/haber/trabzonspor-un-eski-futbolcusu-giorgi-nemsadze-hayatini-kaybetti-ab2cff11/"
   },
   {
    "id": "ac588e9e",
@@ -88,17 +209,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T14:58:34+00:00",
    "url": "/haber/nvidia-ceo-sundan-regulasyon-birligi-ne-mesaj-teknolojin-yoksa-yonetem-b1d81ed7/"
-  },
-  {
-   "id": "943c52da",
-   "title": "Libya’nın Türkiye anlaşmasını onaylaması Doğu Akdeniz'de dengeleri değiştirebilir mi?",
-   "summary": "Libya Temsilciler Meclisi'nin 2019 yılında Türkiye ile imzalanan Deniz Yetki Alanlarının Sınırlandırılması Anlaşması'nı yedi yıl sonra onaylaması, Doğu Akdeniz'deki süren rekabet ve müzakereler açısından yeni bir…",
-   "link": "https://www.bbc.com/turkce/articles/cwrkyldnkgndo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03d1/live/d0a0d260-cd59-11f1-9a39-31b474234113.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-21T14:56:07+00:00",
-   "url": "/haber/libya-nin-turkiye-anlasmasini-onaylamasi-dogu-akdeniz-de-dengeleri-deg-943c52da/"
   },
   {
    "id": "5b1a8a70",
@@ -277,17 +387,6 @@
    "url": "/haber/gazeteci-ismail-ari-tutuklandi-1578c344/"
   },
   {
-   "id": "961095c1",
-   "title": "AB Komisyonu: SpaceX, Ukrayna'ya yönelik hizmetleri acilen tam kapasiteyle yeniden devreye almalıdır",
-   "summary": "Avrupa Birliği (AB) Komisyonu, Ukrayna'nın kullandığı SpaceX'e ait Starlink uydu sisteminde yavaşlama meydana geldiği iddiaları üzerine şirkete bu hizmetleri acilen yeniden devreye alma çağrısı yaptı.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-komisyonu-spacex-ukraynaya-yonelik-hizmetleri-acilen-tam-kapasiteyle-yeniden-devreye-almalidir/4096100",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T14:06:15+00:00",
-   "url": "/haber/ab-komisyonu-spacex-ukrayna-ya-yonelik-hizmetleri-acilen-tam-kapasitey-961095c1/"
-  },
-  {
    "id": "cf266694",
    "title": "Sony’nin Ses Teknolojileri Boğaziçi Bilişim ve Dağıtım Güvencesiyle Türkiye’de",
    "summary": "Boğaziçi Bilişim ve Dağıtım, Sony ile stratejik bir iş birliğine imza attı.",
@@ -308,17 +407,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T14:05:00+00:00",
    "url": "/haber/internet-trafigi-tehlikede-iran-hurmuz-bogazi-ndan-gecen-dev-kablolari-bd320f12/"
-  },
-  {
-   "id": "ebc2e384",
-   "title": "Fransa'nın Toulon şehrinde hafta sonu yapılacak gösteriler yasaklandı",
-   "summary": "Fransa’da 17 Ekim’de şiddet olaylarının yaşandığı sarı yelekliler eylemlerinin ardından hükümet bazı şehirlerde kısmi sokağa çıkma yasağı dahil tedbirleri sıkılaştırırken Toulon şehrinde 24 Ekim’de yapılması planlanan…",
-   "link": "https://www.aa.com.tr/tr/dunya/fransanin-toulon-sehrinde-hafta-sonu-yapilacak-gosteriler-yasaklandi/4096097",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T14:03:09+00:00",
-   "url": "/haber/fransa-nin-toulon-sehrinde-hafta-sonu-yapilacak-gosteriler-yasaklandi-ebc2e384/"
   },
   {
    "id": "a8997611",
@@ -420,17 +508,6 @@
    "url": "/haber/whatsapp-iphone-da-safari-nin-isini-ustlenmeye-hazirlaniyor-4a9ea7b3/"
   },
   {
-   "id": "46653a44",
-   "title": "60 saniyede ekonomide bugün (21 Ekim 2026)",
-   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-21-ekim-2026/4096020",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T13:21:43+00:00",
-   "url": "/haber/60-saniyede-ekonomide-bugun-21-ekim-2026-46653a44/"
-  },
-  {
    "id": "aab9faa7",
    "title": "Omoda’dan Duster’a rakip yeni SUV: X konsepti tanıtıldı",
    "summary": "Omoda, yeni X konseptiyle daha sert görünümlü SUV’ların ipuçlarını verdi. 200 mm yerden yükseklik sunan model, fiziksel kontrol düğmeleri ve 90 metreye kadar gece görüş sistemiyle geliyor.",
@@ -451,17 +528,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T13:20:50+00:00",
    "url": "/haber/yeni-geforce-game-ready-surucusu-advanced-shader-delivery-destegiyle-g-92769022/"
-  },
-  {
-   "id": "7f99bdb7",
-   "title": "60 saniyede bugün (21 Ekim 2026)",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-21-ekim-2026/4096016",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T13:20:24+00:00",
-   "url": "/haber/60-saniyede-bugun-21-ekim-2026-7f99bdb7/"
   },
   {
    "id": "cf19dde7",
@@ -497,17 +563,6 @@
    "url": "/haber/fiat-yeni-elektrikli-sehir-aracina-koala-adini-verebilir-383d8480/"
   },
   {
-   "id": "c634b5aa",
-   "title": "Yemen'de kuşatma altındaki Taiz kenti çevresinde şiddetli çatışmalar yaşanıyor",
-   "summary": "Yemen'in kuşatma altındaki kenti Taiz'in farklı noktalarında, hükümet güçleri ile kuşatma altında tuttukları kente girmeye çalışan İran destekli Husiler arasında şiddetli çatışmalar yaşanıyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemende-kusatma-altindaki-taiz-kenti-cevresinde-siddetli-catismalar-yasaniyor/4095999",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T13:10:49+00:00",
-   "url": "/haber/yemen-de-kusatma-altindaki-taiz-kenti-cevresinde-siddetli-catismalar-y-c634b5aa/"
-  },
-  {
    "id": "fea83bf6",
    "title": "Demis Hassabis: “Yapay genel zeka iki ya da üç yıl uzakta”",
    "summary": "Google DeepMind’ın kurucularından Demis Hassabis, WSJ’ye verdiği röportajda yapay genel zekanın iki ya da üç yıl uzakta olduğunu söyledi. İngilizcede Artificial General Intelligence (AGI) olarak geçen Yapay Genel Zeka…",
@@ -528,17 +583,6 @@
    "category": "gundem",
    "date": "2026-10-21T13:04:17+00:00",
    "url": "/haber/bedir-mutabakat-zapti-imzalandi-f70c44ed/"
-  },
-  {
-   "id": "86da4905",
-   "title": "Beşiktaş Teknik Direktörü Italiano: Kaptan Orkun Kökçü'nün eksikliğini kalite açısından hissediyoruz",
-   "summary": "UEFA Avrupa Ligi'nin üçüncü haftasında yarın sahasında İngiliz ekibi Crystal Palace ile karşılaşacak Beşiktaş'ta teknik direktör Vincenzo Italiano, kaptan Orkun Kökçü'nün eksikliğini kalite açısından hissettiklerini…",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-teknik-direktoru-italiano-kaptan-orkun-kokcunun-eksikligini-kalite-acisindan-hissediyoruz/4095987",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T13:01:50+00:00",
-   "url": "/haber/besiktas-teknik-direktoru-italiano-kaptan-orkun-kokcu-nun-eksikligini-86da4905/"
   },
   {
    "id": "862d9d18",
@@ -704,17 +748,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T12:31:58+00:00",
    "url": "/haber/elon-musk-in-3-5-trilyon-dolarlik-plani-tesla-ve-spacex-birlesiyor-mu-981a3405/"
-  },
-  {
-   "id": "7423e7ab",
-   "title": "YouTube’dan Tartışma Yaratacak Değişiklik",
-   "summary": "YouTube, yeni bir güncellemeyle beğenmeme butonunu üç noktalı menünün arkasına taşıyor.",
-   "link": "https://www.webtekno.com/youtube-tartisma-yaratacak-degisiklik-h227590.html",
-   "image": "https://imgrosetta.webtekno.com/file/693952/693952-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T12:31:23+00:00",
-   "url": "/haber/youtube-dan-tartisma-yaratacak-degisiklik-7423e7ab/"
   },
   {
    "id": "1d0fd479",
@@ -981,28 +1014,6 @@
    "url": "/haber/turkiye-katar-pakistan-ve-endonezya-dan-dev-savunma-anlasmasi-4c871bbc/"
   },
   {
-   "id": "9c317a7d",
-   "title": "CHP kurultayı davasında İmamoğlu dahil dokuz kişi hakkında ceza istemi",
-   "summary": "CHP'nin 38. Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla açılan ceza davasında savcılık esas hakkındaki mütalaasını sundu.",
-   "link": "https://www.bbc.com/turkce/articles/c2em17304ewo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c069/live/0a7b2020-cd38-11f1-935f-b9c228680c6f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-21T10:21:05+00:00",
-   "url": "/haber/chp-kurultayi-davasinda-imamoglu-dahil-dokuz-kisi-hakkinda-ceza-istemi-9c317a7d/"
-  },
-  {
-   "id": "7632a23d",
-   "title": "Tesla ve SpaceX birleşmesi gündemde: 3,6 trilyon dolarlık dev doğabilir",
-   "summary": "Tesla ve SpaceX, 3,6 trilyon doları aşabilecek birleşme için görüşmelere başladı. Elon Musk'ın desteklediği olası anlaşma, iki şirketin geleceğini tek çatı altında birleştirebilir.",
-   "link": "https://www.donanimhaber.com/elon-musk-acikladi-tesla-ve-spacex-birlesmesi-gundemde--211902",
-   "image": "https://www.donanimhaber.com/images/images/haber/211902/1200x675elon-musk-acikladi-tesla-ve-spacex-birlesmesi-gundemde.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-21T10:14:00+00:00",
-   "url": "/haber/tesla-ve-spacex-birlesmesi-gundemde-3-6-trilyon-dolarlik-dev-dogabilir-7632a23d/"
-  },
-  {
    "id": "13032618",
    "title": "Galatasaray Fransa’da Lille deplasmanında",
    "summary": "Galatasaray, UEFA Şampiyonlar Ligi'ndeki üçüncü karşılaşmasında Fransa’nın Lille ekibiyle karşılaşacak.",
@@ -1111,17 +1122,6 @@
    "category": "gundem",
    "date": "2026-10-21T08:26:00+00:00",
    "url": "/haber/yeni-parti-nin-ismi-degismeyecek-383b0b9a/"
-  },
-  {
-   "id": "b324eacd",
-   "title": "Anayasa Mahkemesi'nin yeni başkanı kim olacak? Seçim süreci yarın başlıyor",
-   "summary": "Anayasa Mahkemesi (AYM) Başkanı Kadir Özkaya'nın görev süresinin 22 Aralık'ta dolacak olması nedeniyle, başkanlık seçimi için süreç yarın başlıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/anayasa-mahkemesinin-yeni-baskani-kim-olacak-secim-sureci-yarin-basliyor-1747310",
-   "image": "https://images.ntv.com.tr/images/aym-488340.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-21T08:16:12+00:00",
-   "url": "/haber/anayasa-mahkemesi-nin-yeni-baskani-kim-olacak-secim-sureci-yarin-basli-b324eacd/"
   },
   {
    "id": "c6094f0a",
