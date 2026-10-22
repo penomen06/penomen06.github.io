@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T23:31:01.931833+00:00",
+ "updated": "2026-10-22T00:01:09.123018+00:00",
  "items": [
   {
    "id": "dd60eb66",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-21T23:30:00+00:00",
+   "date": "2026-10-22T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "65b7a997",
+   "title": "Merkez Bankası faiz kararını açıklayacak: Beklentiler ne yönde?",
+   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) 22 Ekim'deki Para Politikası Kurulu (PPK) toplantısında politika faizini açıklayacak. Merkez Bankası'nın ekim ayı faiz kararına yönelik beklentilerde ise piyasalardaki ayrışma…",
+   "link": "https://www.bbc.com/turkce/articles/cq8rz0d03r2ro?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc0d/live/cd468d30-cd40-11f1-8177-0f8bd59b54c4.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-21T23:56:31+00:00",
+   "url": "/haber/merkez-bankasi-faiz-kararini-aciklayacak-beklentiler-ne-yonde-65b7a997/"
   },
   {
    "id": "af3f39a4",
@@ -1078,17 +1089,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T11:51:37+00:00",
    "url": "/haber/honor-robot-phone-time-tarafindan-2026-nin-en-iyi-icatlari-arasina-sec-677125fa/"
-  },
-  {
-   "id": "65b7a997",
-   "title": "Merkez Bankası faiz kararını açıklayacak, beklentiler ne yönde?",
-   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) 22 Ekim'deki Para Politikası Kurulu (PPK) toplantısında politika faizini açıklayacak. Merkez Bankası'nın ekim ayı faiz kararına yönelik beklentilerde ise piyasalardaki ayrışma…",
-   "link": "https://www.bbc.com/turkce/articles/cq8rz0d03r2ro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc0d/live/cd468d30-cd40-11f1-8177-0f8bd59b54c4.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-21T11:30:04+00:00",
-   "url": "/haber/merkez-bankasi-faiz-kararini-aciklayacak-beklentiler-ne-yonde-65b7a997/"
   },
   {
    "id": "0034125b",
