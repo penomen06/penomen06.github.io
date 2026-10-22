@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:01:07.665613+00:00",
+ "updated": "2026-10-22T08:30:59.069574+00:00",
  "items": [
   {
    "id": "dd60eb66",
@@ -9,8 +9,162 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-22T08:00:00+00:00",
+   "date": "2026-10-22T08:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "8f5c1337",
+   "title": "Mercedes-Benz, iki farklı CLA ile kaza testi yaptı [Video]",
+   "summary": "Mercedes-Benz, hibrit CLA Shooting Brake ve tamamen elektrikli bir CLA ile yaptığı kaza testinin görüntülerini paylaştı. 56 km/sa hızla dünyanın ilk yüksek hızlı kavşak çarpışma testini gerçekleştirdiklerini belirten…",
+   "link": "https://www.log.com.tr/mercedes-benz-iki-farkli-cla-ile-kaza-testi-yapti-video/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-22_11-20-02_IRY9n-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-22T08:24:00+00:00",
+   "url": "/haber/mercedes-benz-iki-farkli-cla-ile-kaza-testi-yapti-video-8f5c1337/"
+  },
+  {
+   "id": "b089dcd1",
+   "title": "İsrail ordusu, Suriye'de BM güçlerinin devriyesini engelledi",
+   "summary": "Suriye'de sınır bölgelerinde işgalini sürdüren İsrail ordusu, Kuneytra kırsalında Birleşmiş Milletler Ateşkes Gözlem Gücü'nün (UNDOF) devriyesini engelledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-suriyede-bm-guclerinin-devriyesini-engelledi/4096815",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:22:50+00:00",
+   "url": "/haber/israil-ordusu-suriye-de-bm-guclerinin-devriyesini-engelledi-b089dcd1/"
+  },
+  {
+   "id": "8c8e7395",
+   "title": "Uçak yolculuğunu daha konforlu hale getiren Türk mühendislere uluslararası ödül",
+   "summary": "Havacılık sektöründe yolcu deneyimini iyileştirmeye yönelik geliştirilen otomasyon sistemi uluslararası ödül aldı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ucak-yolculugunu-daha-konforlu-hale-getiren-turk-muhendislere-uluslararasi-odul/4096813",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:21:47+00:00",
+   "url": "/haber/ucak-yolculugunu-daha-konforlu-hale-getiren-turk-muhendislere-uluslara-8c8e7395/"
+  },
+  {
+   "id": "3c5b62f5",
+   "title": "Ebola salgınının yayılması Afrika'da alarmı artırdı",
+   "summary": "Kongo Demokratik Cumhuriyeti'nde (KDC) ortaya çıkan ve komşu ülkelere yayılan Ebola salgını, Nijerya'da da ilk vakanın tespitiyle Afrika genelinde daha geniş bir coğrafyayı tehdit etmeye başladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/ebola-salgininin-yayilmasi-afrikada-alarmi-artirdi/4096806",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:14:39+00:00",
+   "url": "/haber/ebola-salgininin-yayilmasi-afrika-da-alarmi-artirdi-3c5b62f5/"
+  },
+  {
+   "id": "2b1b1e37",
+   "title": "TOKİ 61 ilde 725 arsayı satışa çıkaracak",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Toplu Konut İdaresi Başkanlığı (TOKİ), Ankara, İstanbul ve İzmir'in de aralarında bulunduğu 61 ildeki 725 arsayı 5 ve 6 Kasım'da açık artırma yöntemiyle satışa sunacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/toki-61-ilde-725-arsayi-satisa-cikaracak/4096805",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:14:07+00:00",
+   "url": "/haber/toki-61-ilde-725-arsayi-satisa-cikaracak-2b1b1e37/"
+  },
+  {
+   "id": "b8f57a76",
+   "title": "İki kritik açık için acil yama yayınlandı: PHP nasıl güncellenir?",
+   "summary": "PHP’de ortaya çıkan kritik güvenlik açıkları, internet sitelerini risk altında bırakıyor. Peki PHP nasıl güncellenir ve siteler bu tür güvenlik açıklarına karşı nasıl korunur?",
+   "link": "https://www.donanimhaber.com/iki-kritik-acik-icin-acil-yama-yayinlandi-php-nasil-guncellenir--211948",
+   "image": "https://www.donanimhaber.com/images/images/haber/211948/1200x675iki-kritik-acik-icin-acil-yama-yayinlandi-php-nasil-guncellenir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-22T08:13:19+00:00",
+   "url": "/haber/iki-kritik-acik-icin-acil-yama-yayinlandi-php-nasil-guncellenir-b8f57a76/"
+  },
+  {
+   "id": "c3ebaf01",
+   "title": "Sanayide katma değerli üretime 2027'de 246,7 milyar liralık kaynak",
+   "summary": "Sanayinin geliştirilmesi, üretim ve yatırımların desteklenmesi için gelecek yıl 246,7 milyar lira ödenek kullanılması planlanırken bu doğrultuda imalat sanayisi ihracatının da 276 milyar dolara ulaştırılması öngörülüyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sanayide-katma-degerli-uretime-2027de-246-7-milyar-liralik-kaynak/4096801",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:13:16+00:00",
+   "url": "/haber/sanayide-katma-degerli-uretime-2027-de-246-7-milyar-liralik-kaynak-c3ebaf01/"
+  },
+  {
+   "id": "e6e03b35",
+   "title": "GÜNDER, COP31'de çatıların güneş enerjisi yatırımları için kiralanmasını önerecek",
+   "summary": "Türkiye Güneş Enerjisi Birliği (GÜNDER), güneş enerjisi yatırımlarını hızlandırmak amacıyla konut, fabrika, otel ve apartman çatılarının lisanslı şirketlere kiralanmasını öngören modelini COP31'de duyurmaya hazırlanıyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/gunder-cop31de-catilarin-gunes-enerjisi-yatirimlari-icin-kiralanmasini-onerecek/4096798",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:11:49+00:00",
+   "url": "/haber/gunder-cop31-de-catilarin-gunes-enerjisi-yatirimlari-icin-kiralanmasin-e6e03b35/"
+  },
+  {
+   "id": "0b10b0ec",
+   "title": "Sel hasarlarında 5 günlük ihbar süresinin aşılması tazminat hakkını ortadan kaldırmıyor",
+   "summary": "Kasko sigortasında sel hasarlarının 5 iş günü içinde bildirilmemesi sigortalının tazminat hakkını tek başına kaldırmazken, geç bildirim nedeniyle zararın artması halinde gecikmenin nedeni ve sigortalının kusuru dikkate…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sel-hasarlarinda-5-gunluk-ihbar-suresinin-asilmasi-tazminat-hakkini-ortadan-kaldirmiyor/4096793",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:08:52+00:00",
+   "url": "/haber/sel-hasarlarinda-5-gunluk-ihbar-suresinin-asilmasi-tazminat-hakkini-or-0b10b0ec/"
+  },
+  {
+   "id": "038aa834",
+   "title": "TİHEK'ten belediyelere engelli yaya geçidi cezası",
+   "summary": "TİHEK, görme engelli bir kişinin işe gidiş ve dönüşlerinde kullandığı güzergahta erişilebilirlik koşullarının sağlanmaması nedeniyle Eskişehir Büyükşehir Belediyesi ile Tepebaşı Belediyesine 50'şer bin lira idari para…",
+   "link": "https://www.aa.com.tr/tr/gundem/tihekten-belediyelere-engelli-yaya-gecidi-cezasi/4096785",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:06:36+00:00",
+   "url": "/haber/tihek-ten-belediyelere-engelli-yaya-gecidi-cezasi-038aa834/"
+  },
+  {
+   "id": "681ca885",
+   "title": "Güçlü dolar ara seçimler öncesinde Trump'ın elini zayıflatabilir",
+   "summary": "ABD'deki ara seçimlere kısa bir süre kala, doların yüksek seviyelerde seyrederek Trump yönetiminin arzuladığının tam tersi yönde hareket etmesi, ABD Başkanı Donald Trump'ın işini zorlaştıran önemli konular arasında yer…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/guclu-dolar-ara-secimler-oncesinde-trumpin-elini-zayiflatabilir/4096783",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:06:14+00:00",
+   "url": "/haber/guclu-dolar-ara-secimler-oncesinde-trump-in-elini-zayiflatabilir-681ca885/"
+  },
+  {
+   "id": "62a3aba3",
+   "title": "Türkiye, deniz ulaşımında üç katına çıkaracağı bütçeyle \"yelkenler fora\" diyecek",
+   "summary": "Türkiye, bu yıl bütçesinde deniz yoluyla ulaşım için ayırdığı 6,8 milyar liralık payı gelecek yıl 18,1 milyar liraya çıkaracak.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-deniz-ulasiminda-uc-katina-cikaracagi-butceyle-yelkenler-fora-diyecek/4096778",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:04:00+00:00",
+   "url": "/haber/turkiye-deniz-ulasiminda-uc-katina-cikaracagi-butceyle-yelkenler-fora-62a3aba3/"
+  },
+  {
+   "id": "c6f90c05",
+   "title": "Anayasa Mahkemesi Başkanlığı için seçim süreci başladı",
+   "summary": "Anayasa Mahkemesi (AYM) Başkanı Kadir Özkaya'nın görev süresinin 22 Aralık'ta dolacak olması nedeniyle yapılacak başkanlık seçimi için süreç bugün itibarıyla başladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/anayasa-mahkemesi-baskanligi-icin-secim-sureci-basladi/4096776",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:03:31+00:00",
+   "url": "/haber/anayasa-mahkemesi-baskanligi-icin-secim-sureci-basladi-c6f90c05/"
+  },
+  {
+   "id": "a639eae0",
+   "title": "Konut satışları eylülde yılın en yüksek seviyesine çıktı",
+   "summary": "Türkiye genelinde konut satışları eylülde 142 bin 390 ile yılın en yüksek seviyesine ulaşırken, sektör temsilcileri birinci el konut satışlarındaki artışın sektörün canlılığı açısından olumlu bir gelişme olduğunu…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/konut-satislari-eylulde-yilin-en-yuksek-seviyesine-cikti/4096774",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:02:47+00:00",
+   "url": "/haber/konut-satislari-eylulde-yilin-en-yuksek-seviyesine-cikti-a639eae0/"
   },
   {
    "id": "a03f7ff1",
@@ -101,17 +255,6 @@
    "url": "/haber/meta-ya-cambridge-analytica-skandali-nedeniyle-25-milyar-dolar-ceza-b60391b1/"
   },
   {
-   "id": "467a0371",
-   "title": "Süper Lig'de 9. hafta heyecanı yarın başlayacak",
-   "summary": "Trendyol Süper Lig'de 9. haftanın perdesi, yarın oynanacak tek maçla açılacak.",
-   "link": "https://www.aa.com.tr/tr/spor/super-ligde-9-hafta-heyecani-yarin-baslayacak/4096748",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T07:39:14+00:00",
-   "url": "/haber/super-lig-de-9-hafta-heyecani-yarin-baslayacak-467a0371/"
-  },
-  {
    "id": "2d8486f5",
    "title": "Fon soruşturması: Eski başbakan danışmanı Ertan Aydın dahil 5 kişi gözaltına alındı",
    "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında beş kişi daha gözaltına alındı. Gözaltına alınanlar arasında eski başbakan danışmanı Ertan Aydın da var.",
@@ -134,17 +277,6 @@
    "url": "/haber/bmw-gonullu-ayrilik-icin-calisanlarina-yuksek-tazminatlar-oneriyor-aac394c6/"
   },
   {
-   "id": "0bae140a",
-   "title": "Milli motosikletçi Deniz Öncü, Avustralya'da piste çıkacak",
-   "summary": "Milli motosikletçi Deniz Öncü, Dünya Moto2 Şampiyonası'nın Avustralya ayağında yarışacak.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-motosikletci-deniz-oncu-avustralyada-piste-cikacak/4096740",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T07:35:14+00:00",
-   "url": "/haber/milli-motosikletci-deniz-oncu-avustralya-da-piste-cikacak-0bae140a/"
-  },
-  {
    "id": "437fc2dc",
    "title": "Alperen Şengün, NBA'de sezona \"double-double\" ile başladı",
    "summary": "Amerikan Basketbol Ligi'nde (NBA) Houston Rockets, milli basketbolcu Alperen Şengün'ün \"double-double\" yaptığı maçta Dallas Mavericks'i 128-110 yendi.",
@@ -154,17 +286,6 @@
    "category": "gundem",
    "date": "2026-10-22T07:34:57+00:00",
    "url": "/haber/alperen-sengun-nba-de-sezona-double-double-ile-basladi-437fc2dc/"
-  },
-  {
-   "id": "7bd1779f",
-   "title": "Brüksel'de öğrenciler üniversite kampüsünün girişini kapattı",
-   "summary": "Belçika'nın başkenti Brüksel'de, öğrenim harçlarına yapılması planlanan zam ve yükseköğretim finansmanındaki kesintilere tepki gösteren öğrenciler, üniversite kampüsünün girişini kapattı.",
-   "link": "https://www.aa.com.tr/tr/dunya/-brukselde-ogrenciler-universite-kampusunun-girisini-kapatti/4096734",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T07:33:04+00:00",
-   "url": "/haber/bruksel-de-ogrenciler-universite-kampusunun-girisini-kapatti-7bd1779f/"
   },
   {
    "id": "17421495",
@@ -178,17 +299,6 @@
    "url": "/haber/honor-win-2-tanitildi-cift-fanli-sogutma-ve-10-100-mah-batarya-17421495/"
   },
   {
-   "id": "9903bc2f",
-   "title": "Yerli turistler yılın ikinci çeyreğinde 155 milyar lira seyahat harcaması yaptı",
-   "summary": "Yerli turistlerin bu yılın nisan-haziran döneminde yurt içinde yaptığı seyahat harcamaları, geçen yılın aynı dönemine göre yüzde 32,6 artarak 154 milyar 998 milyon 4 bin lira oldu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/yerli-turistler-yilin-ikinci-ceyreginde-155-milyar-lira-seyahat-harcamasi-yapti/4096731",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T07:29:18+00:00",
-   "url": "/haber/yerli-turistler-yilin-ikinci-ceyreginde-155-milyar-lira-seyahat-harcam-9903bc2f/"
-  },
-  {
    "id": "f5f89bb0",
    "title": "“Ufak” Mercedes-Benz G-Class, 2028’de satışa sunulacak gibi görünüyor",
    "summary": "Geliştirme çalışmaları uzun süredir devam eden küçük boyutlu Mercedes-Benz G-Class, şirketin CEO’su Ola Källenius’un açıklamasına göre 2028’de satışa sunulacak. Aracın 24 aydan kısa sürede piyasaya çıkacağını söyleyen…",
@@ -198,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T07:26:12+00:00",
    "url": "/haber/ufak-mercedes-benz-g-class-2028-de-satisa-sunulacak-gibi-gorunuyor-f5f89bb0/"
-  },
-  {
-   "id": "88c498bd",
-   "title": "İstanbul'daki sermaye piyasası işlemleri soruşturmalarında 5 gözaltı daha",
-   "summary": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında yapılan incelemeler doğrultusunda 5 şüpheli daha gözaltına alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-sermaye-piyasasi-islemleri-sorusturmalarinda-5-gozalti-daha/4096725",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T07:22:20+00:00",
-   "url": "/haber/istanbul-daki-sermaye-piyasasi-islemleri-sorusturmalarinda-5-gozalti-d-88c498bd/"
   },
   {
    "id": "fd32f600",
@@ -233,17 +332,6 @@
    "url": "/haber/casper-excalibur-g870-aaa-oyunlari-oynatir-mi-d0d06c16/"
   },
   {
-   "id": "52dc9d5e",
-   "title": "Esra Albayrak: Yapay zeka çağının apaçık sayılan kabullerini sorgulamak zorundayız",
-   "summary": "NUN Eğitim ve Kültür Vakfı Yönetim Kurulu Başkanı Dr. Esra Albayrak, \"Yapay zeka çağının apaçık sayılan kabullerini sorgulamak ve insanın en çok da lehine kararlar almak cesaretini göstermek zorundayız.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/esra-albayrak-yapay-zeka-caginin-apacik-sayilan-kabullerini-sorgulamak-zorundayiz/4096716",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T07:17:30+00:00",
-   "url": "/haber/esra-albayrak-yapay-zeka-caginin-apacik-sayilan-kabullerini-sorgulamak-52dc9d5e/"
-  },
-  {
    "id": "c631079f",
    "title": "Ağabeyinin emanetine sahip çıkan kadın, kentte taksicilik yapıyor",
    "summary": "Hatay'da yaşayan 48 yaşındaki Deniz Helvacıoğlu, ağabeyinin taksicilikten emekli olmasının ardından direksiyon başına geçerek taksiciliğe başladı.",
@@ -255,6 +343,17 @@
    "url": "/haber/agabeyinin-emanetine-sahip-cikan-kadin-kentte-taksicilik-yapiyor-c631079f/"
   },
   {
+   "id": "cefca7cb",
+   "title": "Fenerbahçe Tarfin, Basketbol Avrupa Ligi'nde yarın Olympiakos'a konuk olacak",
+   "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 7. haftasında yarın Yunanistan'ın Olympiakos ekibiyle deplasmanda karşılaşacak.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-basketbol-avrupa-liginde-yarin-olympiakosa-konuk-olacak/4096714",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T07:15:34+00:00",
+   "url": "/haber/fenerbahce-tarfin-basketbol-avrupa-ligi-nde-yarin-olympiakos-a-konuk-o-cefca7cb/"
+  },
+  {
    "id": "494ad7aa",
    "title": "Zonguldak'ta 3 katlı bina çöktü. Enkaz altında kalan bir kişi hayatını kaybetti",
    "summary": "Zonguldak'ta 3 katlı bina çöktü. Enkazdan bir kişi yaralı kurtarılırken, bir kişinin ise cansız bedenine ulaşıldı.",
@@ -264,17 +363,6 @@
    "category": "gundem",
    "date": "2026-10-22T07:15:28+00:00",
    "url": "/haber/zonguldak-ta-3-katli-bina-coktu-enkaz-altinda-kalan-bir-kisi-hayatini-494ad7aa/"
-  },
-  {
-   "id": "f3e506f3",
-   "title": "İstanbul Havalimanı'na \"dünyanın en bağlantılı havalimanı\" ödülü",
-   "summary": "İstanbul Havalimanı, küresel havacılık veri ve analiz kuruluşu OAG'nin \"Megahubs 2026\" raporuna göre \"dünyanın en bağlantılı havalimanı\" seçilmesi dolayısıyla ödüle layık görüldü.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimanina-dunyanin-en-baglantili-havalimani-odulu-/4096713",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T07:15:22+00:00",
-   "url": "/haber/istanbul-havalimani-na-dunyanin-en-baglantili-havalimani-odulu-f3e506f3/"
   },
   {
    "id": "fb3fbaa6",
@@ -310,17 +398,6 @@
    "url": "/haber/tesla-direksiyonsuz-cybercab-i-yil-sonunda-bireysel-musterilere-satmay-f6c69485/"
   },
   {
-   "id": "ef705839",
-   "title": "Zonguldak'ta çöken binanın çevresindeki 7 bina tedbiren boşaltıldı",
-   "summary": "Zonguldak'ta 1 kişinin hayatını kaybettiği, 1 kişinin yaralı kurtarıldığı çöken binanın çevresindeki 7 bina tedbiren boşaltıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binanin-cevresindeki-7-bina-tedbiren-bosaltildi/4096700",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T07:04:06+00:00",
-   "url": "/haber/zonguldak-ta-coken-binanin-cevresindeki-7-bina-tedbiren-bosaltildi-ef705839/"
-  },
-  {
    "id": "c6f60b3c",
    "title": "En iyi RGB ışıklı laptop modelleri",
    "summary": "RGB ışıklı laptop ve ışıklı klavyeli laptop arayanlar buraya! İşte güçlü donanımları ve özelleştirilebilir RGB aydınlatmalarıyla öne çıkan en iyi dizüstü bilgisayar modelleri.",
@@ -341,39 +418,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T07:02:19+00:00",
    "url": "/haber/elektronik-urun-aliminda-taksitlerde-degisiklige-gidildigi-iddia-edild-72ae5f47/"
-  },
-  {
-   "id": "d1c6ba83",
-   "title": "Borsa güne düşüşle başladı",
-   "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,32 düşüşle 11.540,61 puandan başladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4096696",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T07:01:42+00:00",
-   "url": "/haber/borsa-gune-dususle-basladi-d1c6ba83/"
-  },
-  {
-   "id": "8ef5c43a",
-   "title": "Gazze'de yakıt eksikliği hastanelerin jeneratörlerini durma ve bozulma noktasına getirdi",
-   "summary": "İsrail ordusunun soykırıma varan saldırılarıyla büyük yıkıma uğrattığı Gazze Şeridi'nde hastanelerde hayati öneme sahip olan jeneratörlerin yakıtlarının tükenmesi nedeniyle durma ve kalıcı olarak bozulma noktasına…",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzede-yakit-eksikligi-hastanelerin-jeneratorlerini-durma-ve-bozulma-noktasina-getirdi/4096687",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T06:58:28+00:00",
-   "url": "/haber/gazze-de-yakit-eksikligi-hastanelerin-jeneratorlerini-durma-ve-bozulma-8ef5c43a/"
-  },
-  {
-   "id": "dfbedd49",
-   "title": "Milli tenisçi Zeynep Sönmez, Japonya Açık'a veda etti",
-   "summary": "Milli tenisçi Zeynep Sönmez, Japonya Açık Kadınlar Tenis Turnuvası'nın 2. turunda ABD'li Ann Li'ye 2-0 mağlup oldu.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-tenisci-zeynep-sonmez-japonya-acika-veda-etti-/4096672",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T06:47:55+00:00",
-   "url": "/haber/milli-tenisci-zeynep-sonmez-japonya-acik-a-veda-etti-dfbedd49/"
   },
   {
    "id": "659b7c8f",
@@ -398,17 +442,6 @@
    "url": "/haber/apple-iphone-duo-siparislerine-iki-adet-siniri-getirdi-ff9b9815/"
   },
   {
-   "id": "23bd0ad7",
-   "title": "ABD, Kanada'yı kasımda düzenlenecek ara seçimlere müdahale etmekle suçladı",
-   "summary": "ABD'nin Ottawa Büyükelçiliği, Kanada hükümetinin ABD'de 3 Kasım'da yapılacak ara seçimlere müdahale etmeye yönelik girişimlerde bulunduğunu savundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-kanadayi-kasimda-duzenlenecek-ara-secimlere-mudahale-etmekle-sucladi/4096666",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T06:44:07+00:00",
-   "url": "/haber/abd-kanada-yi-kasimda-duzenlenecek-ara-secimlere-mudahale-etmekle-sucl-23bd0ad7/"
-  },
-  {
    "id": "75565aef",
    "title": "Game Pass aboneliği olmayanlardan Xbox Cloud Gaming erişimi için istenecek ücretler açıklandı",
    "summary": "Microsoft, yakın zaman önce kasım ayında Xbox Game Pass aboneliği olmayan kişilerin de Türkiye’de resmi olarak kullanılamayan bulut oyun servisi Xbox Cloud Gaming’e erişebileceğini açıklamıştı. Bugün yapılan duyuruya…",
@@ -429,17 +462,6 @@
    "category": "gundem",
    "date": "2026-10-22T06:36:09+00:00",
    "url": "/haber/dunya-capinda-kritik-siber-guvenlik-acigi-turkiye-de-ulusal-olcekte-ta-a80a4061/"
-  },
-  {
-   "id": "3d8bb8f8",
-   "title": "Kanada Başbakanı Carney, Filistin'deki sorunlardan birçok kişinin \"sorumlu\" olduğunu söyledi",
-   "summary": "Kanada Başbakanı Mark Carney, Filistin'de kasımda yapılması planlanan seçimin ertelenmesine ilişkin \"ülkede yaşanan sorunlardan birçok kişinin sorumlu olduğunu\" söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-filistindeki-sorunlardan-bircok-kisinin-sorumlu-oldugunu-soyledi/4096651",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T06:33:44+00:00",
-   "url": "/haber/kanada-basbakani-carney-filistin-deki-sorunlardan-bircok-kisinin-sorum-3d8bb8f8/"
   },
   {
    "id": "b923e0be",
@@ -506,17 +528,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T06:00:00+00:00",
    "url": "/haber/tek-oyunla-49-milyon-dolar-yatirim-oyun-dunyasinda-buyuk-surpriz-1aa9ea4a/"
-  },
-  {
-   "id": "ad63ad39",
-   "title": "Bose, kulaklık üreticisi Skullcandy’i satın aldı",
-   "summary": "Bose, iddialı kulaklık modelleriyle tanınan Skullcandy’i resmi olarak satın aldığını duyurdu. 2026’da tanıttığı Crusher 1080 ANC ve 2025’te görücüye çıkardığı Method 360 ANC modelleri için Bose ile iş birliği…",
-   "link": "https://www.log.com.tr/bose-kulaklik-ureticisi-skullcandyi-satin-aldi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-22_08-52-39_qp0VM-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-22T05:59:40+00:00",
-   "url": "/haber/bose-kulaklik-ureticisi-skullcandy-i-satin-aldi-ad63ad39/"
   },
   {
    "id": "a8d8d2e8",
@@ -770,17 +781,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T20:42:08+00:00",
    "url": "/haber/php-krizi-interneti-vurdu-dunya-capinda-web-siteleri-kapatiliyor-72c615ee/"
-  },
-  {
-   "id": "48694590",
-   "title": "AMD, FSR 4.1 teknolojisini Xbox konsollarına ve el konsollarına getiriyor",
-   "summary": "AMD, FSR 4.1 teknolojisini Xbox Series S ve Series X'e getiriyor. Yeni teknoloji, özellikle donanımı daha sınırlı olan Series S'te oyun performansını ve görüntü kalitesini artırabilir.",
-   "link": "https://www.donanimhaber.com/amd-fsr-4-1-i-xbox-konsollarina-ve-el-konsollarina-getiriyor--211926",
-   "image": "https://www.donanimhaber.com/images/images/haber/211926/1200x675amd-fsr-4-1-i-xbox-konsollarina-ve-el-konsollarina-getiriyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-21T20:27:00+00:00",
-   "url": "/haber/amd-fsr-4-1-teknolojisini-xbox-konsollarina-ve-el-konsollarina-getiriy-48694590/"
   },
   {
    "id": "dbc2880f",
