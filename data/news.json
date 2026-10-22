@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-22T12:01:11.793333+00:00",
+ "updated": "2026-10-22T12:22:16.810749+00:00",
  "items": [
+  {
+   "id": "64613905",
+   "title": "Rus enerji şirketi Novatek, Türkiye'ye LNG tedarikini görüşüyor",
+   "summary": "Novatek'in Başkanı Mihelson, Türkiye'ye sıvılaştırılmış doğal gaz (LNG) tedariki için görüşmeler yürüttüklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/rus-enerji-sirketi-novatek-turkiyeye-lng-tedarikini-gorusuyor/4097190",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T12:14:11+00:00",
+   "url": "/haber/rus-enerji-sirketi-novatek-turkiye-ye-lng-tedarikini-gorusuyor-64613905/"
+  },
+  {
+   "id": "d6d878e8",
+   "title": "Yunanistan basketbolunda kaos",
+   "summary": "Yunanistan Basketbol Federasyonu Başkanı Vangelis Liolios ve Avrupa Ligi hakemi Vasiliki Tsaroucha'nın da aralarında bulunduğu 6 kişinin şike ve rüşvet suçlamalarıyla gözaltına alınması, ülke basketbolunda deprem etkisi…",
+   "link": "https://www.aa.com.tr/tr/spor/yunanistan-basketbolunda-kaos/4097179",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T12:09:26+00:00",
+   "url": "/haber/yunanistan-basketbolunda-kaos-d6d878e8/"
+  },
+  {
+   "id": "4cea32c1",
+   "title": "PHP krizinde son durum: e-Devlet hizmetlerinde kesinti yok",
+   "summary": "PHP altyapısında ortaya çıkan kriz ile birlikte Siber Güvenlik Başkanlığı da aralıksız taramalarını sürdürüyor. Başta e-Devlet olmak üzere hizmetlerde herhangi bir sıkıntıya rastlanmadı.",
+   "link": "https://www.donanimhaber.com/php-krizi-buyuyor--211959",
+   "image": "https://www.donanimhaber.com/images/images/haber/211959/1200x675php-krizi-buyuyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-22T12:07:00+00:00",
+   "url": "/haber/php-krizinde-son-durum-e-devlet-hizmetlerinde-kesinti-yok-4cea32c1/"
+  },
+  {
+   "id": "65b7a997",
+   "title": "Merkez Bankası'nın faizi %36'ya indirme kararı nasıl yorumlandı?",
+   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), politika faizini 100 baz puan indirerek % 36'ya çekti. Böylelikle TCMB politika faizini dokuz ay sonra ilk kez indirmiş oldu.",
+   "link": "https://www.bbc.com/turkce/articles/cq8rz0d03r2ro?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc0d/live/cd468d30-cd40-11f1-8177-0f8bd59b54c4.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-22T12:05:41+00:00",
+   "url": "/haber/merkez-bankasi-nin-faizi-36-ya-indirme-karari-nasil-yorumlandi-65b7a997/"
+  },
+  {
+   "id": "05eb85b7",
+   "title": "TFF, teknik direktör Sergen Yalçın ile 4 yıllık sözleşme imzaladı",
+   "summary": "A Milli Futbol Takımı'nın teknik direktörlüğü konusunda 4 yıllık anlaşmaya varılan Sergen Yalçın için imza töreni düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/spor/tff-teknik-direktor-sergen-yalcin-ile-4-yillik-sozlesme-imzaladi/4097172",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T12:04:14+00:00",
+   "url": "/haber/tff-teknik-direktor-sergen-yalcin-ile-4-yillik-sozlesme-imzaladi-05eb85b7/"
+  },
+  {
+   "id": "2d8486f5",
+   "title": "Fon soruşturması: Eski AKP milletvekili Ertan Aydın dahil 5 kişi gözaltına alındı",
+   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında beş kişi daha gözaltına alındı. Gözaltına alınanlar arasında eski başbakan danışmanı Ertan Aydın da var.",
+   "link": "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2196/live/50f6db80-cdeb-11f1-97f7-a7674fb562de.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-22T12:01:34+00:00",
+   "url": "/haber/fon-sorusturmasi-eski-akp-milletvekili-ertan-aydin-dahil-5-kisi-gozalt-2d8486f5/"
+  },
+  {
+   "id": "3633b07b",
+   "title": "Fransa Cumhurbaşkanı Macron gelecek günlerde sendika dışı eylemlerin her yerde yasaklanacağını açıkladı",
+   "summary": "Macron 17 Ekim’de yağma ve şiddet olaylarının yaşandığı Sarı Yelekliler eylemlerinin ardından güvenlik tedbirlerinin sıkılaştırıldığı Fransa’da sendikaların talebiyle düzenlenmeyen tüm eylemlerin hemen her yerde…",
+   "link": "https://www.aa.com.tr/tr/dunya/fransa-cumhurbaskani-macron-gelecek-gunlerde-sendika-disi-eylemlerin-her-yerde-yasaklanacagini-acikladi/4097168",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T12:00:38+00:00",
+   "url": "/haber/fransa-cumhurbaskani-macron-gelecek-gunlerde-sendika-disi-eylemlerin-h-3633b07b/"
+  },
   {
    "id": "917d0610",
    "title": "Eski Telefonlara LineageOS ve GrapheneOS ile Android 17 Yüklenebiliyor",
@@ -22,6 +99,28 @@
    "category": "gundem",
    "date": "2026-10-22T12:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "6c6afad3",
+   "title": "İletişim Başkanlığından 7. Fon Koordinasyon Kurulu Toplantısı'na ilişkin açıklama",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, \"Sürecin başından bu yana, tasfiye sürecinde olan fonların sayısı 131'den 47'ye düşmüş, 55 bin 755 hesaba toplam 49,7 milyar lira tutarında ayni ve nakdi tasfiye ödemesi…",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-7-fon-koordinasyon-kurulu-toplantisina-iliskin-aciklama/4097167",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T11:58:20+00:00",
+   "url": "/haber/iletisim-baskanligindan-7-fon-koordinasyon-kurulu-toplantisi-na-iliski-6c6afad3/"
+  },
+  {
+   "id": "f1837f57",
+   "title": "Pentagon, 850 adet F-35 üretimi konusunda Lockheed Martin ile çerçeve anlaşmaya vardı",
+   "summary": "ABD Savunma Bakanlığının (Pentagon), Lockheed Martin şirketiyle 10 yılda en az 850 adet \"F-35 Lightning II\" model savaş uçağı üretimini içeren çerçeve anlaşma imzaladığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/pentagon-850-adet-f-35-uretimi-konusunda-lockheed-martin-ile-cerceve-anlasmaya-vardi/4097164",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T11:55:24+00:00",
+   "url": "/haber/pentagon-850-adet-f-35-uretimi-konusunda-lockheed-martin-ile-cerceve-a-f1837f57/"
   },
   {
    "id": "387a2d26",
@@ -88,17 +187,6 @@
    "category": "gundem",
    "date": "2026-10-22T11:43:22+00:00",
    "url": "/haber/altin-portakal-da-surdurulebilir-yapimlara-odul-verilecek-09326432/"
-  },
-  {
-   "id": "65b7a997",
-   "title": "Merkez Bankası faizi %36'ya indirme kararı nasıl yorumlandı?",
-   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), politika faizini 100 baz puan indirerek % 36'ya çekti. Böylelikle TCMB politika faizini dokuz ay sonra ilk kez indirmiş oldu.",
-   "link": "https://www.bbc.com/turkce/articles/cq8rz0d03r2ro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc0d/live/cd468d30-cd40-11f1-8177-0f8bd59b54c4.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-22T11:41:24+00:00",
-   "url": "/haber/merkez-bankasi-faizi-36-ya-indirme-karari-nasil-yorumlandi-65b7a997/"
   },
   {
    "id": "151f6577",
@@ -189,50 +277,6 @@
    "url": "/haber/dunya-capinda-kritik-siber-guvenlik-acigi-turkiye-de-ulusal-olcekte-ta-a80a4061/"
   },
   {
-   "id": "6e606341",
-   "title": "Avustralya'da, platformlarının çocuklara zarar verdiği gerekçesiyle Meta'ya toplu dava açıldı",
-   "summary": "Avustralya'da, Facebook ve Instagram'ın bağımlılığa yol açan tasarımları ve zararlı içerikleri nedeniyle çocukların zarar gördüğü iddiasıyla Meta'ya karşı toplu dava açıldı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/avustralyada-platformlarinin-cocuklara-zarar-verdigi-gerekcesiyle-metaya-toplu-dava-acildi/4097094",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T11:12:16+00:00",
-   "url": "/haber/avustralya-da-platformlarinin-cocuklara-zarar-verdigi-gerekcesiyle-met-6e606341/"
-  },
-  {
-   "id": "ffc0dfb8",
-   "title": "ABD ve İsrail'den seçimlerin gölgesinde İran'a saldırı hazırlığı iddiaları yoğunlaştı",
-   "summary": "İsrail'deki meclis ve ABD'deki Kongre ara seçimleri öncesinde Tel Aviv ile Beyaz Saray arasında yürütülen askeri temaslar hız kazanırken, sızan saldırı planları ve İran sınır hattındaki sortiler Orta Doğu'da savaş…",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-ve-israilden-secimlerin-golgesinde-irana-saldiri-hazirligi-iddialari-yogunlasti/4097081",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T11:06:55+00:00",
-   "url": "/haber/abd-ve-israil-den-secimlerin-golgesinde-iran-a-saldiri-hazirligi-iddia-ffc0dfb8/"
-  },
-  {
-   "id": "50ffb946",
-   "title": "Dışişleri Bakan Yardımcısı Büyükelçi Kulaklıkaya, Sudan ve Gazze'deki durumu değerlendirdi",
-   "summary": "Dışişleri Bakan Yardımcısı Büyükelçi Musa Kulaklıkaya, Sudan'daki duruma işaret ederek \"Temennimiz hemen ateşkesin sağlanması ve barış odaklı yaklaşımların benimsenmesi.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/disisleri-bakan-yardimcisi-buyukelci-kulaklikaya-sudan-ve-gazzedeki-durumu-degerlendirdi/4097073",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T11:04:18+00:00",
-   "url": "/haber/disisleri-bakan-yardimcisi-buyukelci-kulaklikaya-sudan-ve-gazze-deki-d-50ffb946/"
-  },
-  {
-   "id": "b073e3b9",
-   "title": "Merkez Bankası, politika faizini yüzde 36'ya indirdi",
-   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Para Politikası Kurulu (PPK), politika faizi olan bir hafta vadeli repo ihale faiz oranını 100 baz puan indirerek yüzde 36'ya çekti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-politika-faizini-yuzde-36ya-indirdi/4097070",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T11:02:03+00:00",
-   "url": "/haber/merkez-bankasi-politika-faizini-yuzde-36-ya-indirdi-b073e3b9/"
-  },
-  {
    "id": "e9c57c47",
    "title": "Google Chrome Dolandırıcı Web Sitelerine Girdiğinizde Sizi Uyaracak",
    "summary": "Google Chrome, Chrome gelişmiş koruma modu ile şüpheli siteleri tespit ederek kullanıcıları dolandırıcılık girişimlerine karşı uyarıyor.",
@@ -242,17 +286,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T11:00:08+00:00",
    "url": "/haber/google-chrome-dolandirici-web-sitelerine-girdiginizde-sizi-uyaracak-e9c57c47/"
-  },
-  {
-   "id": "3083551b",
-   "title": "Adalet Bakanı Gürlek, 3 faili meçhul cinayetin aydınlatıldığını bildirdi",
-   "summary": "Adalet Bakanı Akın Gürlek, İzmir, Mersin ve Osmaniye'de 10 ila 21 yıl öncesine dayanan 3 faili meçhul cinayetin aydınlatıldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-3-faili-mechul-cinayetin-aydinlatildigini-bildirdi/4097067",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T10:59:26+00:00",
-   "url": "/haber/adalet-bakani-gurlek-3-faili-mechul-cinayetin-aydinlatildigini-bildird-3083551b/"
   },
   {
    "id": "b9f9ad38",
@@ -308,17 +341,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T10:55:15+00:00",
    "url": "/haber/dunyanin-en-buyuk-bataryali-telefonlari-honor-win-rt-2-ve-win-turbo-2-5d8d53ea/"
-  },
-  {
-   "id": "84be8526",
-   "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan: Türkiye bölgesinde daha fazla sorumluluk üstlenen ülkelerden",
-   "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, \"Türkiye, daha barışçıl bir dünyanın mümkün olduğunu savunmaya devam ediyor ve pek çok alanda sorumluluk üstleniyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-turkiye-bolgesinde-daha-fazla-sorumluluk-ustlenen-ulkelerden/4097060",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T10:55:12+00:00",
-   "url": "/haber/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-turkiye-bolgesinde-d-84be8526/"
   },
   {
    "id": "e056a9c6",
@@ -517,17 +539,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T09:48:12+00:00",
    "url": "/haber/turkiye-uc-ulkeyle-bedir-mutabakati-imzaladi-mekke-anlasmasi-ndan-fark-8cc0df00/"
-  },
-  {
-   "id": "2d8486f5",
-   "title": "Fon soruşturması: Eski başbakan danışmanı Ertan Aydın dahil 5 kişi gözaltına alındı",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında beş kişi daha gözaltına alındı. Gözaltına alınanlar arasında eski başbakan danışmanı Ertan Aydın da var.",
-   "link": "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2196/live/50f6db80-cdeb-11f1-97f7-a7674fb562de.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-22T09:48:03+00:00",
-   "url": "/haber/fon-sorusturmasi-eski-basbakan-danismani-ertan-aydin-dahil-5-kisi-goza-2d8486f5/"
   },
   {
    "id": "e8b5e2bb",
@@ -805,6 +816,17 @@
    "url": "/haber/mercedes-benz-iki-farkli-cla-ile-kaza-testi-yapti-video-8f5c1337/"
   },
   {
+   "id": "f49a00c8",
+   "title": "Ampute Futbol Milli Takımı'nda 8 oyuncu ilk kez Dünya Kupası'nda mücadele edecek",
+   "summary": "Ampute Futbol Milli Takımı, 8 yeni oyuncunun yer aldığı kadrosuyla Meksika'da düzenlenecek Dünya Kupası'nda şampiyon ünvanını korumak için hazırlıklarını sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/spor/ampute-futbol-milli-takiminda-8-oyuncu-ilk-kez-dunya-kupasinda-mucadele-edecek/4096790",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T08:07:29+00:00",
+   "url": "/haber/ampute-futbol-milli-takimi-nda-8-oyuncu-ilk-kez-dunya-kupasi-nda-mucad-f49a00c8/"
+  },
+  {
    "id": "4139326a",
    "title": "İstanbul'un kayıp tarihi mirası Sarayburnu'nda 70 yıl sonra yeniden yükseliyor",
    "summary": "İstanbul'un tarihi siluetinden yaklaşık 70 yıl önce silinen Bostancılar Tabhanesi Mescidi, diğer adıyla Yedekçiler Mescidi, Sarayburnu'nda yeniden ihya ediliyor.",
@@ -1003,17 +1025,6 @@
    "url": "/haber/electronic-arts-bioware-i-kapatma-karari-aldi-659b7c8f/"
   },
   {
-   "id": "ff9b9815",
-   "title": "Apple, iPhone Duo siparişlerine iki adet sınırı getirdi",
-   "summary": "iPhone Duo'ya yönelik yoğun talep, Apple'ı ön siparişlerde kısıtlamaya yöneltti. ABD, Japonya, İspanya ve İngiltere'de uygulanan yeni kurala göre bir müşteri en fazla iki cihaz satın alabiliyor.",
-   "link": "https://www.donanimhaber.com/apple-iphone-duo-siparislerine-iki-adet-siniri-getirdi--211931",
-   "image": "https://www.donanimhaber.com/images/images/haber/211931/1200x675apple-iphone-duo-siparislerine-iki-adet-siniri-getirdi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-22T06:47:15+00:00",
-   "url": "/haber/apple-iphone-duo-siparislerine-iki-adet-siniri-getirdi-ff9b9815/"
-  },
-  {
    "id": "75565aef",
    "title": "Game Pass aboneliği olmayanlardan Xbox Cloud Gaming erişimi için istenecek ücretler açıklandı",
    "summary": "Microsoft, yakın zaman önce kasım ayında Xbox Game Pass aboneliği olmayan kişilerin de Türkiye’de resmi olarak kullanılamayan bulut oyun servisi Xbox Cloud Gaming’e erişebileceğini açıklamıştı. Bugün yapılan duyuruya…",
@@ -1122,17 +1133,6 @@
    "category": "gundem",
    "date": "2026-10-21T19:45:31+00:00",
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-21-eki-0c3afbb9/"
-  },
-  {
-   "id": "c4ad487b",
-   "title": "Başakşehir ile Zenit veteranlar dostluk maçında buluştu",
-   "summary": "Başakşehir Futbol Kulübü Başkanı Göksel Gümüşdağ: \"Burada çifte standart var. Bütün dünya görüyor. Futbolda ve tüm spor dallarında İsrail'e bir yaptırım uygulanmazken Rusya'ya uygulanan yaptırım adil değil.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/basaksehir-ile-zenit-veteranlar-dostluk-macinda-bulustu/4096382",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T18:37:04+00:00",
-   "url": "/haber/basaksehir-ile-zenit-veteranlar-dostluk-macinda-bulustu-c4ad487b/"
   },
   {
    "id": "822efdf3",
