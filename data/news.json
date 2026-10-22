@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T07:31:02.882114+00:00",
+ "updated": "2026-10-22T08:01:07.665613+00:00",
  "items": [
   {
    "id": "dd60eb66",
@@ -9,8 +9,184 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-22T07:30:00+00:00",
+   "date": "2026-10-22T08:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "a03f7ff1",
+   "title": "Caviar, 3 Milyon TL’lik Katlanabilir iPhone Duo Serisini Tanıttı",
+   "summary": "Rus şirket Caviar, platin, altın ve elmaslarla süslenmiş 5 milyon rublelik yeni katlanabilir iPhone Duo koleksiyonunu tanıttı. İşte lüks akıllı telefonun detayları.",
+   "link": "https://shiftdelete.net/caviar-3-milyon-tllik-katlanabilir-iphone-duo-serisini-tanitti",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:58:50+00:00",
+   "url": "/haber/caviar-3-milyon-tl-lik-katlanabilir-iphone-duo-serisini-tanitti-a03f7ff1/"
+  },
+  {
+   "id": "ca850ae2",
+   "title": "YÖK'ün Dijital Üniversite Platformu, 16 modülde ücretsiz eğitime başlıyor",
+   "summary": "Yükseköğretim Kurulu (YÖK) himayesinde hayata geçirilen Dijital Üniversite Platformu, yapay zekadan veri analizine, sürdürülebilir finanstan temiz enerji teknolojilerine uzanan 16 farklı modülde ücretsiz çevrim içi…",
+   "link": "https://www.aa.com.tr/tr/gundem/yokun-dijital-universite-platformu-16-modulde-ucretsiz-egitime-basliyor/4096762",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T07:55:58+00:00",
+   "url": "/haber/yok-un-dijital-universite-platformu-16-modulde-ucretsiz-egitime-basliy-ca850ae2/"
+  },
+  {
+   "id": "cfb194e8",
+   "title": "Electronic Arts Efsanevi Oyun Stüdyosu BioWare’i Kapatma Kararı Aldı",
+   "summary": "Electronic Arts, Mass Effect ve Dragon Age'in geliştiricisi BioWare'i kapatma kararı aldı. Yeni Mass Effect oyunu iptal edilirken 400 kişi işten çıkarıldı.",
+   "link": "https://shiftdelete.net/electronic-arts-efsanevi-oyun-studyosu-biowarei-kapatma-karari-aldi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:55:40+00:00",
+   "url": "/haber/electronic-arts-efsanevi-oyun-studyosu-bioware-i-kapatma-karari-aldi-cfb194e8/"
+  },
+  {
+   "id": "19c0efa4",
+   "title": "Apple’dan Türkiye Dahil Birçok Ülkede Kritik iPhone Duo Satışı Kararı",
+   "summary": "iPhone Duo, 23 Ekim’de resmen satışa sunulacak. Ancak Apple’ın açıklamasına göre Türkiye dahil tüm dünyada telefon mağazalarda sınırlı sayıda olacak.",
+   "link": "https://www.webtekno.com/apple-iphone-duo-magazalarda-sinirli-satilacak-h227701.html",
+   "image": "https://imgrosetta.webtekno.com/file/694225/694225-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:55:25+00:00",
+   "url": "/haber/apple-dan-turkiye-dahil-bircok-ulkede-kritik-iphone-duo-satisi-karari-19c0efa4/"
+  },
+  {
+   "id": "4c348507",
+   "title": "Anthropic’in Arka Planda Kendi Başına Çalışabilen Yeni Yapay Zekâ Ajanı Claude Duet Tanıtıldı",
+   "summary": "Anthropic, Meta Muse ve OpenAI Dots’a rakip olarak yeni yapay zekâ asistanı Claude Duet’i duyurdu. Bağlı uygulamalardaki işleri takip edip tamamlayabilen asistan, siz bilgisayarınızın başında değilken de çalışmayı…",
+   "link": "https://www.webtekno.com/anthropic-claude-duet-yapay-zeka-asistani-h227698.html",
+   "image": "https://imgrosetta.webtekno.com/file/694219/694219-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:55:09+00:00",
+   "url": "/haber/anthropic-in-arka-planda-kendi-basina-calisabilen-yeni-yapay-zeka-ajan-4c348507/"
+  },
+  {
+   "id": "06409d5e",
+   "title": "İzmir Büyükşehir Belediyesi'nde Veri İhlali Yaşandı",
+   "summary": "KVKK, İzmir Büyükşehir Belediyesi'nde veri ihlali yaşandığını açıkladı. İşte detaylar.",
+   "link": "https://www.webtekno.com/izmir-buyuksehir-belediyesi-veri-ihlali-h227695.html",
+   "image": "https://imgrosetta.webtekno.com/file/694216/694216-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:54:21+00:00",
+   "url": "/haber/izmir-buyuksehir-belediyesi-nde-veri-ihlali-yasandi-06409d5e/"
+  },
+  {
+   "id": "d5b6df3c",
+   "title": "Baldur’s Gate öksüz kaldı, BioWare kapanıyor",
+   "summary": "Oyun dünyasının son 30 yılına damga vuran BioWare yolun sonuna geldi. İşten çıkarmalar ile stüdyonun kapısına kilit vurulurken projeler de iptal edildi.",
+   "link": "https://www.donanimhaber.com/bioware-yolun-sonuna-geldi--211941",
+   "image": "https://www.donanimhaber.com/images/images/haber/211941/1200x675bioware-yolun-sonuna-geldi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:53:00+00:00",
+   "url": "/haber/baldur-s-gate-oksuz-kaldi-bioware-kapaniyor-d5b6df3c/"
+  },
+  {
+   "id": "b60391b1",
+   "title": "Meta’ya Cambridge Analytica Skandalı Nedeniyle 25 Milyar Dolar Ceza",
+   "summary": "New Mexico mahkemesi, Cambridge Analytica skandalı nedeniyle Meta'ya 25 milyar dolar ceza verdi. Meta karara itiraz edeceğini duyurdu.",
+   "link": "https://shiftdelete.net/metaya-cambridge-analytica-skandali-nedeniyle-25-milyar-dolar-ceza",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:52:44+00:00",
+   "url": "/haber/meta-ya-cambridge-analytica-skandali-nedeniyle-25-milyar-dolar-ceza-b60391b1/"
+  },
+  {
+   "id": "467a0371",
+   "title": "Süper Lig'de 9. hafta heyecanı yarın başlayacak",
+   "summary": "Trendyol Süper Lig'de 9. haftanın perdesi, yarın oynanacak tek maçla açılacak.",
+   "link": "https://www.aa.com.tr/tr/spor/super-ligde-9-hafta-heyecani-yarin-baslayacak/4096748",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T07:39:14+00:00",
+   "url": "/haber/super-lig-de-9-hafta-heyecani-yarin-baslayacak-467a0371/"
+  },
+  {
+   "id": "2d8486f5",
+   "title": "Fon soruşturması: Eski başbakan danışmanı Ertan Aydın dahil 5 kişi gözaltına alındı",
+   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında beş kişi daha gözaltına alındı. Gözaltına alınanlar arasında eski başbakan danışmanı Ertan Aydın da var.",
+   "link": "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2196/live/50f6db80-cdeb-11f1-97f7-a7674fb562de.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-22T07:38:59+00:00",
+   "url": "/haber/fon-sorusturmasi-eski-basbakan-danismani-ertan-aydin-dahil-5-kisi-goza-2d8486f5/"
+  },
+  {
+   "id": "aac394c6",
+   "title": "BMW, gönüllü ayrılık için çalışanlarına yüksek tazminatlar öneriyor",
+   "summary": "BMW, gelecek yılın sonuna kadar 8.000 kişiyi işten çıkarmak istiyor ve bu hedefe daha hızlı ulaşmak için bazı çalışanlarına 650.000 euroyu aşan gönüllü ayrılma tazminatları teklif ediyor. Çalışanların kendilerine…",
+   "link": "https://www.log.com.tr/bmw-gonullu-ayrilik-icin-calisanlarina-yuksek-tazminatlar-oneriyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2025/09/BMW-iX3-30-copy-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:36:44+00:00",
+   "url": "/haber/bmw-gonullu-ayrilik-icin-calisanlarina-yuksek-tazminatlar-oneriyor-aac394c6/"
+  },
+  {
+   "id": "0bae140a",
+   "title": "Milli motosikletçi Deniz Öncü, Avustralya'da piste çıkacak",
+   "summary": "Milli motosikletçi Deniz Öncü, Dünya Moto2 Şampiyonası'nın Avustralya ayağında yarışacak.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-motosikletci-deniz-oncu-avustralyada-piste-cikacak/4096740",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T07:35:14+00:00",
+   "url": "/haber/milli-motosikletci-deniz-oncu-avustralya-da-piste-cikacak-0bae140a/"
+  },
+  {
+   "id": "437fc2dc",
+   "title": "Alperen Şengün, NBA'de sezona \"double-double\" ile başladı",
+   "summary": "Amerikan Basketbol Ligi'nde (NBA) Houston Rockets, milli basketbolcu Alperen Şengün'ün \"double-double\" yaptığı maçta Dallas Mavericks'i 128-110 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/alperen-sengun-nbade-sezona-double-double-ile-basladi/4096739",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T07:34:57+00:00",
+   "url": "/haber/alperen-sengun-nba-de-sezona-double-double-ile-basladi-437fc2dc/"
+  },
+  {
+   "id": "7bd1779f",
+   "title": "Brüksel'de öğrenciler üniversite kampüsünün girişini kapattı",
+   "summary": "Belçika'nın başkenti Brüksel'de, öğrenim harçlarına yapılması planlanan zam ve yükseköğretim finansmanındaki kesintilere tepki gösteren öğrenciler, üniversite kampüsünün girişini kapattı.",
+   "link": "https://www.aa.com.tr/tr/dunya/-brukselde-ogrenciler-universite-kampusunun-girisini-kapatti/4096734",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T07:33:04+00:00",
+   "url": "/haber/bruksel-de-ogrenciler-universite-kampusunun-girisini-kapatti-7bd1779f/"
+  },
+  {
+   "id": "17421495",
+   "title": "Honor Win 2 tanıtıldı: Çift fanlı soğutma ve 10.100 mAh batarya",
+   "summary": "Honor, yeni oyuncu telefonu Win 2'yi tanıttı. Güçlü işlemcisi, çift fanlı soğutma sistemi ve 10.000 mAh bataryasıyla dikkat çeken model neler sunuyor?",
+   "link": "https://www.donanimhaber.com/honor-win-2-tanitildi-iste-ozellikleri-ve-fiyati--211933",
+   "image": "https://www.donanimhaber.com/images/images/haber/211933/1200x675honor-win-2-tanitildi-iste-ozellikleri-ve-fiyati.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:31:00+00:00",
+   "url": "/haber/honor-win-2-tanitildi-cift-fanli-sogutma-ve-10-100-mah-batarya-17421495/"
+  },
+  {
+   "id": "9903bc2f",
+   "title": "Yerli turistler yılın ikinci çeyreğinde 155 milyar lira seyahat harcaması yaptı",
+   "summary": "Yerli turistlerin bu yılın nisan-haziran döneminde yurt içinde yaptığı seyahat harcamaları, geçen yılın aynı dönemine göre yüzde 32,6 artarak 154 milyar 998 milyon 4 bin lira oldu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yerli-turistler-yilin-ikinci-ceyreginde-155-milyar-lira-seyahat-harcamasi-yapti/4096731",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T07:29:18+00:00",
+   "url": "/haber/yerli-turistler-yilin-ikinci-ceyreginde-155-milyar-lira-seyahat-harcam-9903bc2f/"
   },
   {
    "id": "f5f89bb0",
@@ -55,6 +231,17 @@
    "category": "teknoloji",
    "date": "2026-10-22T07:18:59+00:00",
    "url": "/haber/casper-excalibur-g870-aaa-oyunlari-oynatir-mi-d0d06c16/"
+  },
+  {
+   "id": "52dc9d5e",
+   "title": "Esra Albayrak: Yapay zeka çağının apaçık sayılan kabullerini sorgulamak zorundayız",
+   "summary": "NUN Eğitim ve Kültür Vakfı Yönetim Kurulu Başkanı Dr. Esra Albayrak, \"Yapay zeka çağının apaçık sayılan kabullerini sorgulamak ve insanın en çok da lehine kararlar almak cesaretini göstermek zorundayız.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/esra-albayrak-yapay-zeka-caginin-apacik-sayilan-kabullerini-sorgulamak-zorundayiz/4096716",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T07:17:30+00:00",
+   "url": "/haber/esra-albayrak-yapay-zeka-caginin-apacik-sayilan-kabullerini-sorgulamak-52dc9d5e/"
   },
   {
    "id": "c631079f",
@@ -178,6 +365,17 @@
    "url": "/haber/gazze-de-yakit-eksikligi-hastanelerin-jeneratorlerini-durma-ve-bozulma-8ef5c43a/"
   },
   {
+   "id": "dfbedd49",
+   "title": "Milli tenisçi Zeynep Sönmez, Japonya Açık'a veda etti",
+   "summary": "Milli tenisçi Zeynep Sönmez, Japonya Açık Kadınlar Tenis Turnuvası'nın 2. turunda ABD'li Ann Li'ye 2-0 mağlup oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-tenisci-zeynep-sonmez-japonya-acika-veda-etti-/4096672",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T06:47:55+00:00",
+   "url": "/haber/milli-tenisci-zeynep-sonmez-japonya-acik-a-veda-etti-dfbedd49/"
+  },
+  {
    "id": "659b7c8f",
    "title": "Electronic Arts, BioWare’i kapatma kararı aldı",
    "summary": "Electronic Arts (EA), orijinal Baldur’s Gate, Star Wars: Knights of the Old Republic ve Neverwinter Nights’ın yanı sıra Mass Effect ve Dragon Age serileriyle tanınan BioWare’i kapatma kararı aldı. Bu kapsamda bir…",
@@ -233,28 +431,6 @@
    "url": "/haber/dunya-capinda-kritik-siber-guvenlik-acigi-turkiye-de-ulusal-olcekte-ta-a80a4061/"
   },
   {
-   "id": "c5c5b51d",
-   "title": "9. İstanbul Arabuluculuk Konferansı yarın başlayacak",
-   "summary": "9. İstanbul Arabuluculuk Konferansı, Dışişleri Bakanı Hakan Fidan'ın ev sahipliğinde 23-24 Ekim'de gerçekleştirilecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/9-istanbul-arabuluculuk-konferansi-yarin-baslayacak/4096657",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T06:35:01+00:00",
-   "url": "/haber/9-istanbul-arabuluculuk-konferansi-yarin-baslayacak-c5c5b51d/"
-  },
-  {
-   "id": "e4d238aa",
-   "title": "ABD'de Kongre üyesi, İsrail'in Filistinlilere yönelik soykırımının sona ermediğini belirtti",
-   "summary": "ABD Temsilciler Meclisi Üyesi Delia Ramirez, İsrail'in Filistinlilere yönelik soykırımının sona ermediğini vurgulayarak ABD'nin İsrail'e silah yardımını engellemeyi amaçlayan yasa tasarısının kabul edilmesi çağrısında…",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-kongre-uyesi-israilin-filistinlilere-yonelik-soykiriminin-sona-ermedigini-belirtti/4096652",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T06:33:59+00:00",
-   "url": "/haber/abd-de-kongre-uyesi-israil-in-filistinlilere-yonelik-soykiriminin-sona-e4d238aa/"
-  },
-  {
    "id": "3d8bb8f8",
    "title": "Kanada Başbakanı Carney, Filistin'deki sorunlardan birçok kişinin \"sorumlu\" olduğunu söyledi",
    "summary": "Kanada Başbakanı Mark Carney, Filistin'de kasımda yapılması planlanan seçimin ertelenmesine ilişkin \"ülkede yaşanan sorunlardan birçok kişinin sorumlu olduğunu\" söyledi.",
@@ -275,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T06:30:08+00:00",
    "url": "/haber/youtube-dislike-butonu-normal-videolarda-gizlenmeyecek-b923e0be/"
-  },
-  {
-   "id": "eb78ff0a",
-   "title": "Mardin ve Gaziantep'teki iki sulama yapısı uluslararası ödüle layık görüldü",
-   "summary": "Tarım ve Orman Bakanı Yumaklı, Fransa'nın Marsilya kentinde düzenlenen Uluslararası Sulama ve Drenaj Komisyonu (ICID) 2026 Kongresi'nde, Mardin Dara Antik Kenti Su Sistemi ile Gaziantep Oğuzeli Halep Arığı Su…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/mardin-ve-gaziantepteki-iki-sulama-yapisi-uluslararasi-odule-layik-goruldu/4096639",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T06:23:52+00:00",
-   "url": "/haber/mardin-ve-gaziantep-teki-iki-sulama-yapisi-uluslararasi-odule-layik-go-eb78ff0a/"
   },
   {
    "id": "20a2b275",
@@ -332,17 +497,6 @@
    "url": "/haber/carplay-kullanicilari-artik-google-haritalar-da-gemini-ile-sohbet-edeb-06427d52/"
   },
   {
-   "id": "2b6dabf3",
-   "title": "Yurt içinde gözler TCMB'nin faiz kararına çevrildi",
-   "summary": "Küresel piyasalarda, ABD'de teknoloji şirketlerinin bilançolarından alınan sinyaller ve yapay zeka yatırımlarının finansmanıyla ilgili endişelerin sürmesiyle karışık seyir izlenirken, yurt içinde gözler TCMB'nin para…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/yurt-icinde-gozler-tcmbnin-faiz-kararina-cevrildi/4096625",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T06:02:35+00:00",
-   "url": "/haber/yurt-icinde-gozler-tcmb-nin-faiz-kararina-cevrildi-2b6dabf3/"
-  },
-  {
    "id": "1aa9ea4a",
    "title": "Tek oyunla 49 milyon dolar yatırım: Oyun dünyasında büyük sürpriz",
    "summary": "Yıl ortasında Smash Fest! adındaki fizik tabanlı bulmaca oyununu indirmeye sunan Flow Games kısa sürede inanılmaz rakamlara ulaşınca sağlam bir yatırım aldı.",
@@ -365,39 +519,6 @@
    "url": "/haber/bose-kulaklik-ureticisi-skullcandy-i-satin-aldi-ad63ad39/"
   },
   {
-   "id": "1a12dbdf",
-   "title": "Trump, İran ile müzakere yapmadıklarını ve yakında \"bir şeyler olacağını\" söyledi",
-   "summary": "ABD Başkanı Donald Trump, İran ile müzakere yapmadıklarını ve \"öyle ya da böyle yakında bir şeyler olacağını\" söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-iran-ile-muzakere-yapmadiklarini-ve-yakinda-bir-seyler-olacagini-soyledi/4096619",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T05:58:15+00:00",
-   "url": "/haber/trump-iran-ile-muzakere-yapmadiklarini-ve-yakinda-bir-seyler-olacagini-1a12dbdf/"
-  },
-  {
-   "id": "32ce9f4e",
-   "title": "Siber Güvenlik Başkanlığı, PHP açığı hakkında açıklama paylaştı",
-   "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, internet dünyasında büyük ses getiren “PHP” açığı hakkında açıklama paylaştı. Bu açıklamada, “Dünya genelinde yaygın olarak kullanılan PHP yazılım altyapısında kritik güvenlik…",
-   "link": "https://www.log.com.tr/siber-guvenlik-baskanligi-php-acigi-hakkinda-aciklama-paylasti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-22_08-48-01_8DQiZ-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-22T05:50:21+00:00",
-   "url": "/haber/siber-guvenlik-baskanligi-php-acigi-hakkinda-aciklama-paylasti-32ce9f4e/"
-  },
-  {
-   "id": "64ca8992",
-   "title": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren teklifin ilk 5 maddesi kabul edildi",
-   "summary": "TBMM Genel Kurulu'nda Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi'nin birinci bölümünde yer alan 5 madde kabul edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-teklifin-ilk-5-maddesi-kabul-edildi/4096610",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T05:37:21+00:00",
-   "url": "/haber/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-64ca8992/"
-  },
-  {
    "id": "a8d8d2e8",
    "title": "Sipariş bebek operasyonunda yeni tartışma. Doğuran mı \"anne\", yoksa yumurta sahibi mi?",
    "summary": "Sipariş bebek soruşturması sürerken yeni bir tartışma gündeme geldi. \"Anne kim? Doğuran mı, yumurtanın sahibi olan mı?\" sorusu üzerine tıp ve hukuk çevreleri farklı görüşler sundu.",
@@ -407,17 +528,6 @@
    "category": "gundem",
    "date": "2026-10-22T05:31:59+00:00",
    "url": "/haber/siparis-bebek-operasyonunda-yeni-tartisma-doguran-mi-anne-yoksa-yumurt-a8d8d2e8/"
-  },
-  {
-   "id": "cbbb170b",
-   "title": "İran ordusu: Basra Körfezi'nde petrol transferi yapan 4 gemi vuruldu",
-   "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Basra Körfezi'nin kuzey kesiminde petrol yüklerini gemiden gemiye aktaran 4 geminin eş zamanlı vurulduğunu ve yanmaya devam ettiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-basra-korfezinde-petrol-transferi-yapan-4-gemi-vuruldu/4096607",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T05:23:31+00:00",
-   "url": "/haber/iran-ordusu-basra-korfezi-nde-petrol-transferi-yapan-4-gemi-vuruldu-cbbb170b/"
   },
   {
    "id": "ef4a5502",
@@ -440,6 +550,17 @@
    "category": "teknoloji",
    "date": "2026-10-22T05:15:45+00:00",
    "url": "/haber/php-nedir-guvenlik-aciklari-neden-buyuk-tehlike-olusturuyor-73131773/"
+  },
+  {
+   "id": "650a2919",
+   "title": "Rockstar’dan İlginç Hamle: GTA 6’da Yer Alan Markalar Gerçek Hayata Geliyor",
+   "summary": "Rockstar Games'in GTA 6 pazarlaması kapsamında kurgusal bira markaları için ABD'de resmi etiket onayları alındı. Detaylar haberimizde.",
+   "link": "https://shiftdelete.net/gta-6-pazarlamasi-kurgusal-bira-markalari",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-22T05:00:42+00:00",
+   "url": "/haber/rockstar-dan-ilginc-hamle-gta-6-da-yer-alan-markalar-gercek-hayata-gel-650a2919/"
   },
   {
    "id": "255b4d37",
@@ -673,17 +794,6 @@
    "url": "/haber/siber-guvenlik-baskanligindan-ulusal-olcekte-uyari-dbc2880f/"
   },
   {
-   "id": "db61240a",
-   "title": "Güneş enerjisi santrallerinde çim biçme makinelerinin yerini koyunlar alıyor",
-   "summary": "ABD'de yaygınlaşan güneş otlatmacılığı, güneş panellerinin altındaki otları koyunlarla kontrol ederek enerji şirketlerine tasarruf, çiftçilere ise yeni gelir kapısı sunuyor.",
-   "link": "https://www.donanimhaber.com/gunes-tarlalarinda-cim-bicme-makinelerinin-yerini-koyunlar-aliyor--211923",
-   "image": "https://www.donanimhaber.com/images/images/haber/211923/1200x675gunes-tarlalarinda-cim-bicme-makinelerinin-yerini-koyunlar-aliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-21T20:05:00+00:00",
-   "url": "/haber/gunes-enerjisi-santrallerinde-cim-bicme-makinelerinin-yerini-koyunlar-db61240a/"
-  },
-  {
    "id": "0c3afbb9",
    "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 21 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
    "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli…",
@@ -693,17 +803,6 @@
    "category": "gundem",
    "date": "2026-10-21T19:45:31+00:00",
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-21-eki-0c3afbb9/"
-  },
-  {
-   "id": "f74875f6",
-   "title": "Nvidia'nın AI planları büyüyor: Groq 3D DRAM'e geçiyor",
-   "summary": "Nvidia bünyesindeki Groq, yeni nesil yapay zeka çiplerinde bellek teknolojisini değiştirmeye hazırlanıyor. Şirketin daha yüksek kapasite için 3D yığınlanmış DRAM kullanacağı ortaya çıktı.",
-   "link": "https://www.donanimhaber.com/nvidia-nin-ai-planlari-buyuyor-groq-3d-dram-e-geciyor--211910",
-   "image": "https://www.donanimhaber.com/images/images/haber/211910/1200x675nvidia-nin-ai-planlari-buyuyor-groq-3d-dram-e-geciyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-21T19:43:00+00:00",
-   "url": "/haber/nvidia-nin-ai-planlari-buyuyor-groq-3d-dram-e-geciyor-f74875f6/"
   },
   {
    "id": "92dc2f86",
@@ -737,17 +836,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T19:00:33+00:00",
    "url": "/haber/4-gece-32-640-katlama-iphone-duo-mentese-testi-ve-ilk-inceleme-bulgula-111d0825/"
-  },
-  {
-   "id": "cf3bc5f7",
-   "title": "76. Dünya Döküm Kongresi sona erdi",
-   "summary": "Türkiye Döküm Sanayicileri Derneğinin (TÜDÖKSAD) ev sahipliğinde gerçekleştirilen 76. Dünya Döküm Kongresi (WFC 2026), 50'yi aşkın ülkeden 1000'den fazla sektör temsilcisini ağırladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/76-dunya-dokum-kongresi-sona-erdi/4096389",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T18:45:57+00:00",
-   "url": "/haber/76-dunya-dokum-kongresi-sona-erdi-cf3bc5f7/"
   },
   {
    "id": "822efdf3",
@@ -814,17 +902,6 @@
    "category": "gundem",
    "date": "2026-10-21T16:23:14+00:00",
    "url": "/haber/gazeteci-ismail-ari-tutuklandi-4f1e1db1/"
-  },
-  {
-   "id": "2d8486f5",
-   "title": "Bakan Gürlek: Fon soruşturmasında 'manipülatif işlem yapan 88 kişi tutuklandı'",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında 31 kişi hakkında daha gözaltı kararı verildi. 26 kişi gözaltına alındı.",
-   "link": "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f73/live/8af4a810-6745-11f1-b4c1-47ccd10ce929.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-21T15:59:01+00:00",
-   "url": "/haber/bakan-gurlek-fon-sorusturmasinda-manipulatif-islem-yapan-88-kisi-tutuk-2d8486f5/"
   },
   {
    "id": "7a07cf97",
@@ -915,28 +992,6 @@
    "url": "/haber/mercedes-ten-ciddi-ciddi-kucuk-g-serisi-geliyor-tarih-belli-oldu-ac588e9e/"
   },
   {
-   "id": "a2d2cd5f",
-   "title": "Ay’a Süper Bilgisayar Gönderiliyor: İşte Bilgisayarın Tüm Özellikleri",
-   "summary": "Uzay ve kurumsal bilişim teknolojileri alanında faaliyet gösteren Hewlett Packard Enterprise (HPE), Ay’a kompakt bir süper bilgisayar göndermeye hazırlanıyor.",
-   "link": "https://www.webtekno.com/aya-super-bilgisayar-gonderiliyor-iste-bilgisayarin-tum-ozellikleri-h227647.html",
-   "image": "https://imgrosetta.webtekno.com/file/694147/694147-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T15:05:16+00:00",
-   "url": "/haber/ay-a-super-bilgisayar-gonderiliyor-iste-bilgisayarin-tum-ozellikleri-a2d2cd5f/"
-  },
-  {
-   "id": "e0e125c7",
-   "title": "Lille-Galatasaray Maçı TRT 1 Şifreli Kanal Sinyal Yok Sorunu Çözüm",
-   "summary": "Lille-Galatasaray maçı canlı izlemek isteyenlerin yaşayabildiği 'TRT 1 şifreli oldu' ya da 'TRT 1 sinyal yok' sorunlarının çözümü içeriğimizde.",
-   "link": "https://www.webtekno.com/lille-galatasaray-maci-sifreli-kanal-sinyal-yok-cozumu-h227665.html",
-   "image": "https://imgrosetta.webtekno.com/file/694165/694165-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T15:04:59+00:00",
-   "url": "/haber/lille-galatasaray-maci-trt-1-sifreli-kanal-sinyal-yok-sorunu-cozum-e0e125c7/"
-  },
-  {
    "id": "a62f8605",
    "title": "iPhone Duo çıkmadan Apple’a kötü haber: Satış tahminleri aşağı çekildi",
    "summary": "Apple tarafında iPhone Duo heyecanı sürerken yatırımcı cephesinden pek iç açıcı olmayan bir değerlendirme geldi. ABD merkezli yatırım şirketi Loop Capital, Apple hisseleri için tavsiyesini “Al”dan “Tut”a düşürdü.…",
@@ -946,17 +1001,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T15:00:04+00:00",
    "url": "/haber/iphone-duo-cikmadan-apple-a-kotu-haber-satis-tahminleri-asagi-cekildi-a62f8605/"
-  },
-  {
-   "id": "52ff6200",
-   "title": "Subaru, Avrupa’da Benzinli Motorlara Veda Ediyor: 2028’de Yeni Dönem Başlıyor!",
-   "summary": "Subaru, katı AB regülasyonları nedeniyle boxer motorlara veda ederek 2027 sonuna kadar Avrupa'da tamamen elektrikli bir ürün gamına geçiyor.",
-   "link": "https://www.webtekno.com/subaru-avrupa-benzinli-motorlara-veda-ediyor-h227650.html",
-   "image": "https://imgrosetta.webtekno.com/file/694132/694132-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T14:46:37+00:00",
-   "url": "/haber/subaru-avrupa-da-benzinli-motorlara-veda-ediyor-2028-de-yeni-donem-bas-52ff6200/"
   },
   {
    "id": "f2308986",
@@ -1036,17 +1080,6 @@
    "url": "/haber/whatsapp-iphone-da-safari-nin-isini-ustlenmeye-hazirlaniyor-4a9ea7b3/"
   },
   {
-   "id": "cf19dde7",
-   "title": "Claude ile Akıllı TV Hızlandırma Rehberi",
-   "summary": "Yapay zeka modellerinin yalnızca metin üretmekle kalmayıp doğrudan cihazlarımızı optimize edebildiği yeni bir döneme girdik. Bu videoda, Claude üzerinden bir yapay zeka ajanına ADB komutlarıyla akıllı televizyona…",
-   "link": "https://shiftdelete.net/claude-ile-akilli-tv-hizlandirma-rehberi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-21T13:16:38+00:00",
-   "url": "/haber/claude-ile-akilli-tv-hizlandirma-rehberi-cf19dde7/"
-  },
-  {
    "id": "862d9d18",
    "title": "Ahmet Eşref Fakıbaba istifa etti, TBMM'deki sandalye dağılımı değişti",
    "summary": "Ankara Milletvekili Ahmet Eşref Fakıbaba'nın İYİ Parti'den istifa etmesiyle TBMM'deki sandalye dağılımı değişti.",
@@ -1056,17 +1089,6 @@
    "category": "gundem",
    "date": "2026-10-21T13:01:35+00:00",
    "url": "/haber/ahmet-esref-fakibaba-istifa-etti-tbmm-deki-sandalye-dagilimi-degisti-862d9d18/"
-  },
-  {
-   "id": "5bf48209",
-   "title": "Intel Nova Lake İşlemciler 28 Çekirdekle Dizüstü Bilgisayarlara Geliyor",
-   "summary": "Intel'in yeni Nova Lake işlemci serisi detaylandı. 28 çekirdekli Core Ultra 9 4995HX ve 16 çekirdekli 4970H modelleri hakkında tüm teknik bilgiler burada.",
-   "link": "https://shiftdelete.net/intel-nova-lake-islemciler-28-cekirdekle-dizustu-bilgisayarlara-geliyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-21T13:00:58+00:00",
-   "url": "/haber/intel-nova-lake-islemciler-28-cekirdekle-dizustu-bilgisayarlara-geliyo-5bf48209/"
   },
   {
    "id": "75c88b21",
@@ -1089,28 +1111,6 @@
    "category": "gundem",
    "date": "2026-10-21T12:48:22+00:00",
    "url": "/haber/turkiye-dahil-dort-ulkenin-imzaladigi-bedir-mutabakat-zapti-nin-kapsam-97b36d2f/"
-  },
-  {
-   "id": "1d0fd479",
-   "title": "YouTube Dislike Butonunu Tamamen Gizleyecek",
-   "summary": "YouTube, normal videolardaki dislike butonu için yeni bir test başlatıyor. Platformun arayüz değişikliği hakkında merak edilenler haberimizde.",
-   "link": "https://shiftdelete.net/youtube-dislike-butonu-gizleniyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-21T12:30:35+00:00",
-   "url": "/haber/youtube-dislike-butonunu-tamamen-gizleyecek-1d0fd479/"
-  },
-  {
-   "id": "c5dc79d8",
-   "title": "Xbox Game Pass Sistemine Köklü Değişiklik Yolda",
-   "summary": "Microsoft, Xbox Game Pass özelleştirilebilir paketler ile abonelik sistemini daha esnek ve erişilebilir hale getirmeyi planlıyor.",
-   "link": "https://shiftdelete.net/xbox-game-pass-ozellestirilebilir-paketler",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-21T12:00:12+00:00",
-   "url": "/haber/xbox-game-pass-sistemine-koklu-degisiklik-yolda-c5dc79d8/"
   },
   {
    "id": "d3817819",
