@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:01:09.927334+00:00",
+ "updated": "2026-10-22T22:30:58.472200+00:00",
  "items": [
   {
    "id": "cc82f46e",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-22T22:00:00+00:00",
+   "date": "2026-10-22T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-cc82f46e/"
+  },
+  {
+   "id": "20a2b275",
+   "title": "Çukurova Belediye Başkanı Emrah Kozay tutuklandı",
+   "summary": "Adana'da Çukurova Belediyesine yönelik soruşturma kapsamında, aralarında mevcut Belediye Başkanı Emrah Kozay ve önceki dönem belediye başkanı Soner Çetin'in de bulunduğu 44 kişi gözaltına alındı.",
+   "link": "https://www.bbc.com/turkce/articles/cq70pxdzldldo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b61/live/7609bbe0-cb8e-11f1-93a7-b36f3083f4d3.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-22T22:20:23+00:00",
+   "url": "/haber/cukurova-belediye-baskani-emrah-kozay-tutuklandi-20a2b275/"
+  },
+  {
+   "id": "9ff2218c",
+   "title": "ABD Başkanı Trump, petrol kapasitesini artırmak için Savunma Üretim Yasası'nı devreye aldı",
+   "summary": "ABD Başkanı Donald Trump, ülkenin savunma kabiliyetini güçlendirmek ve yurt içi petrol üretim, rafinasyon ve lojistik kapasitesini artırmak amacıyla Savunma Üretim Yasası'nı devreye soktu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yasasini-devreye-aldi/4097885",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T22:05:22+00:00",
+   "url": "/haber/abd-baskani-trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yas-9ff2218c/"
   },
   {
    "id": "51761e19",
@@ -178,17 +200,6 @@
    "url": "/haber/alihan-kuris-sorusturmasinda-19-kisi-daha-tutuklandi-83a3fc12/"
   },
   {
-   "id": "d030a6a4",
-   "title": "\"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında yakalanan 19 şüpheli tutuklandı",
-   "summary": "Ankara Cumhuriyet Başsavcılığınca yürütülen \"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında gözaltına alınan 38 şüpheliden 19'u tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-yakalanan-19-supheli-tutuklandi/4097839",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T20:24:31+00:00",
-   "url": "/haber/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-yakalanan-19-suph-d030a6a4/"
-  },
-  {
    "id": "fe6e9309",
    "title": "iPhone Duo 2, ekran altı Face ID ile gelebilir",
    "summary": "Apple'ın gelecek yıl tanıtması beklenen iPhone Duo 2'nin prototiplerinde ekran altı Face ID teknolojisinin test edildiği bildiriliyor.",
@@ -275,17 +286,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T19:16:55+00:00",
    "url": "/haber/yaparsa-apple-yapar-mi-acaba-iphone-duo-kutu-acilisi-ve-kiyaslamasi-67914e1a/"
-  },
-  {
-   "id": "2d8486f5",
-   "title": "Fon soruşturması: Eski AKP milletvekili Ertan Aydın dahil 5 kişi gözaltına alındı",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında beş kişi daha gözaltına alındı. Gözaltına alınanlar arasında eski başbakan danışmanı Ertan Aydın da var.",
-   "link": "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2196/live/50f6db80-cdeb-11f1-97f7-a7674fb562de.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-22T19:03:37+00:00",
-   "url": "/haber/fon-sorusturmasi-eski-akp-milletvekili-ertan-aydin-dahil-5-kisi-gozalt-2d8486f5/"
   },
   {
    "id": "69e892dc",
