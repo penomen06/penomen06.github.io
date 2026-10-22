@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T03:30:57.440635+00:00",
+ "updated": "2026-10-22T04:01:05.375035+00:00",
  "items": [
   {
    "id": "dd60eb66",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-22T03:30:00+00:00",
+   "date": "2026-10-22T04:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "08300822",
+   "title": "Apple Music Logosu Değişti: İşte Yeni Logo!",
+   "summary": "Apple Music, yeniden markalaşmaya gitti. Bu kapsamda logo da değişti.",
+   "link": "https://www.webtekno.com/apple-music-yeni-logo-h227669.html",
+   "image": "https://imgrosetta.webtekno.com/file/694178/694178-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-22T03:56:07+00:00",
+   "url": "/haber/apple-music-logosu-degisti-iste-yeni-logo-08300822/"
+  },
+  {
+   "id": "2fc6fcf5",
+   "title": "İnternetin Omurgası PHP'de 2 Kritik Güvenlik Açığı",
+   "summary": "İnternet altyapısının temel taşlarından PHP'de iki kritik güvenlik açığı tespit edildi ve dünya genelinde milyonlarca sunucu alarma geçti.",
+   "link": "https://www.webtekno.com/php-guvenlik-acigi-h227668.html",
+   "image": "https://imgrosetta.webtekno.com/file/694174/694174-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-22T03:40:05+00:00",
+   "url": "/haber/internetin-omurgasi-php-de-2-kritik-guvenlik-acigi-2fc6fcf5/"
   },
   {
    "id": "ae544fc3",
@@ -948,17 +970,6 @@
    "url": "/haber/apple-watch-ultra-klonu-honor-watch-fit-6-tanitildi-ebe9a726/"
   },
   {
-   "id": "91dea893",
-   "title": "Apple, iPhone ve Apple Watch Yüzünden Milyarca Dolar Ödemek Zorunda Kalabilir!",
-   "summary": "Taction Technology isimli şirket, Apple'a karşı kazandığı 5,7 milyar dolarlık dev patent davasının ardından ek ücret talep etmeye başladı.",
-   "link": "https://www.webtekno.com/apple-milyarlarca-dolar-odemek-zorunda-kalabilir-h227627.html",
-   "image": "https://imgrosetta.webtekno.com/file/694051/694051-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T12:51:30+00:00",
-   "url": "/haber/apple-iphone-ve-apple-watch-yuzunden-milyarca-dolar-odemek-zorunda-kal-91dea893/"
-  },
-  {
    "id": "36aba26f",
    "title": "Honor, tam 12.070 mAh batarya taşıyan yeni akıllı telefonlarını tanıttı",
    "summary": "Çinli Honor bugün tam 12.070 mAh kapasiteli bataryasıyla dikkat çeken yeni akıllı telefonları WIN RT2 ve WIN Turbo2’yi görücüye çıkardı. Gücünü sırasıyla Snapdragon 8 Elite Gen 5 ve Snapdragon 8s Gen 4 işlemcilerden…",
@@ -1012,17 +1023,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T12:37:44+00:00",
    "url": "/haber/chery-omoda-x-konseptinin-dunya-promiyerini-gerceklestirdi-c20ed771/"
-  },
-  {
-   "id": "981a3405",
-   "title": "Elon Musk'ın 3,5 Trilyon Dolarlık Planı: Tesla ve SpaceX Birleşiyor mu?",
-   "summary": "Elon Musk, teknoloji devleri SpaceX ve Tesla'yı tek çatı altında birleştirme ihtimalini doğruladı.",
-   "link": "https://www.webtekno.com/elon-musk-3-5-trilyon-dolarlik-plan-tesla-ve-spacex-birlesiyor-mu-h227614.html",
-   "image": "https://imgrosetta.webtekno.com/file/694006/694006-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T12:31:58+00:00",
-   "url": "/haber/elon-musk-in-3-5-trilyon-dolarlik-plani-tesla-ve-spacex-birlesiyor-mu-981a3405/"
   },
   {
    "id": "1d0fd479",
