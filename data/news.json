@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T00:01:09.123018+00:00",
+ "updated": "2026-10-22T00:30:58.396622+00:00",
  "items": [
   {
    "id": "dd60eb66",
@@ -9,8 +9,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-22T00:00:00+00:00",
+   "date": "2026-10-22T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "ae544fc3",
+   "title": "BM Özel Raportörü Betancur: Dünyada 82 milyondan fazla kişi ülke içinde yerinden edildi",
+   "summary": "Birleşmiş Milletler (BM) Ülke İçinde Yerinden Edilmiş Kişilerin İnsan Haklarına İlişkin Özel Raportörü Paula Gaviria Betancur, dünya genelinde çatışma, şiddet ve afetler nedeniyle 82 milyondan fazla kişinin ülke içinde…",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-ozel-raportoru-betancur-dunyada-82-milyondan-fazla-kisi-ulke-icinde-yerinden-edildi/4096586",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T00:27:27+00:00",
+   "url": "/haber/bm-ozel-raportoru-betancur-dunyada-82-milyondan-fazla-kisi-ulke-icinde-ae544fc3/"
+  },
+  {
+   "id": "f57090f7",
+   "title": "İsrail'in Gazze Şeridi'ne düzenlediği son saldırılarda 2 Filistinli yaşamını yitirdi",
+   "summary": "İsrail'in Gazze Şeridi'ne gerçekleştirdiği son saldırılarda 2 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazze-seridine-duzenledigi-son-saldirilarda-2-filistinli-yasamini-yitirdi/4096585",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T00:23:43+00:00",
+   "url": "/haber/israil-in-gazze-seridi-ne-duzenledigi-son-saldirilarda-2-filistinli-ya-f57090f7/"
+  },
+  {
+   "id": "6b387385",
+   "title": "ABD ve İsrail'in ABD ara seçimlerinin ardından İran'a yeni saldırı planları yaptığı iddiası",
+   "summary": "ABD ve İsrail'in ABD ara seçimlerinin ardından İran'a yönelik yeni saldırılar için \"somut planlar hazırladığı\" öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-ve-israilin-abd-ara-secimlerinin-ardindan-irana-yeni-saldiri-planlari-yaptigi-iddiasi/4096582",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T00:09:41+00:00",
+   "url": "/haber/abd-ve-israil-in-abd-ara-secimlerinin-ardindan-iran-a-yeni-saldiri-pla-6b387385/"
+  },
+  {
+   "id": "2c78e688",
+   "title": "Kanada'dan Türkiye'ye başbakan düzeyinde ilk resmi ziyaret: 'Yeni bir stratejik ilişkinin başlangıcı'",
+   "summary": "Mark Carney bugün Kanada'dan Türkiye'ye başbakan düzeyinde ilk resmi ziyaret gerçekleştiren ilk lider olacak. Ziyaret hem sembolik hem de çok kapsamlı gündemi nedeniyle Türkiye-Kanada ilişkilerinde tarihi bir dönüm…",
+   "link": "https://www.bbc.com/turkce/articles/c5m2dz18pr4ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/425e/live/d3218050-cc89-11f1-9a39-31b474234113.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-22T00:08:15+00:00",
+   "url": "/haber/kanada-dan-turkiye-ye-basbakan-duzeyinde-ilk-resmi-ziyaret-yeni-bir-st-2c78e688/"
   },
   {
    "id": "65b7a997",
@@ -266,17 +310,6 @@
    "url": "/haber/israil-deki-ankete-gore-netanyahu-blogu-51-sandalyeye-gerilerken-eisen-efaad6ef/"
   },
   {
-   "id": "57a45ce6",
-   "title": "Axios: İsrail, pazartesi İran sınırına yakın noktalarda uçuş gerçekleştirdi",
-   "summary": "İsrail'e ait savaş uçaklarının 19 Ekim Pazartesi günü İran sınırına yakın noktalarda uçuş gerçekleştirerek \"güç gösterisinde\" bulunduğu iddia edildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/axios-israil-pazartesi-iran-sinirina-yakin-noktalarda-ucus-gerceklestirdi/4096495",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T20:35:27+00:00",
-   "url": "/haber/axios-israil-pazartesi-iran-sinirina-yakin-noktalarda-ucus-gerceklesti-57a45ce6/"
-  },
-  {
    "id": "48694590",
    "title": "AMD, FSR 4.1 teknolojisini Xbox konsollarına ve el konsollarına getiriyor",
    "summary": "AMD, FSR 4.1 teknolojisini Xbox Series S ve Series X'e getiriyor. Yeni teknoloji, özellikle donanımı daha sınırlı olan Series S'te oyun performansını ve görüntü kalitesini artırabilir.",
@@ -286,17 +319,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T20:27:00+00:00",
    "url": "/haber/amd-fsr-4-1-teknolojisini-xbox-konsollarina-ve-el-konsollarina-getiriy-48694590/"
-  },
-  {
-   "id": "2307d663",
-   "title": "İsrail askerleri ve Filistin topraklarını gasbeden İsrailliler Batı Şeria'da 12 saatte 23 saldırı gerçekleştirdi",
-   "summary": "İsrail ordusu ile Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın 7 kentinde zeytin hasadı yapan çiftçilere, arazilerine ve dayanışma aktivistlerine 12 saatte 23 saldırı ve ihlal…",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-ve-filistin-topraklarini-gasbeden-israilliler-bati-seriada-12-saatte-23-saldiri-gerceklestirdi/4096478",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T20:17:57+00:00",
-   "url": "/haber/israil-askerleri-ve-filistin-topraklarini-gasbeden-israilliler-bati-se-2307d663/"
   },
   {
    "id": "dbc2880f",
@@ -484,17 +506,6 @@
    "category": "gundem",
    "date": "2026-10-21T17:59:55+00:00",
    "url": "/haber/cumhurbaskani-erdogan-ve-aliyev-telefonda-gorustu-beedd969/"
-  },
-  {
-   "id": "e89dec7f",
-   "title": "Bakan Bayraktar, Türkiye ile Japonya'nın işbirliğini daha ileri taşıyacağını belirtti",
-   "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, küresel enerji krizi karşısında Türkiye ile Japonya'nın ikili ve bölgesel işbirliklerini güçlendirerek zorlukların üstesinden birlikte gelebileceğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiye-ile-japonyanin-isbirligini-daha-ileri-tasiyacagini-belirtti/4096316",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T17:19:02+00:00",
-   "url": "/haber/bakan-bayraktar-turkiye-ile-japonya-nin-isbirligini-daha-ileri-tasiyac-e89dec7f/"
   },
   {
    "id": "494ad7aa",
@@ -1221,17 +1232,6 @@
    "category": "gundem",
    "date": "2026-10-21T06:36:00+00:00",
    "url": "/haber/turkiye-ile-libya-nin-deniz-yetki-anlasmasi-neden-onemli-ab63d3d2/"
-  },
-  {
-   "id": "2c78e688",
-   "title": "Kanada'dan Türkiye'ye başbakan düzeyinde ilk resmi ziyaret: 'Yeni bir stratejik ilişkinin başlangıcı'",
-   "summary": "Mark Carney bugün Kanada'dan Türkiye'ye başbakan düzeyinde ilk resmi ziyaret gerçekleştiren ilk lider olacak. Ziyaret hem sembolik hem de çok kapsamlı gündemi nedeniyle Türkiye-Kanada ilişkilerinde tarihi bir dönüm…",
-   "link": "https://www.bbc.com/turkce/articles/c5m2dz18pr4ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/425e/live/d3218050-cc89-11f1-9a39-31b474234113.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-20T21:39:50+00:00",
-   "url": "/haber/kanada-dan-turkiye-ye-basbakan-duzeyinde-ilk-resmi-ziyaret-yeni-bir-st-2c78e688/"
   },
   {
    "id": "f545ec1f",
