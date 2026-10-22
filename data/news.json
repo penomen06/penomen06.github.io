@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-22T06:33:20.727683+00:00",
+ "updated": "2026-10-22T07:01:08.728903+00:00",
  "items": [
+  {
+   "id": "dd60eb66",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Ekim 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-ekim-2026-1747393",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-22T07:00:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "659b7c8f",
+   "title": "Electronic Arts, BioWare’i kapatma kararı aldı",
+   "summary": "Electronic Arts (EA), orijinal Baldur’s Gate, Star Wars: Knights of the Old Republic ve Neverwinter Nights’ın yanı sıra Mass Effect ve Dragon Age serileriyle tanınan BioWare’i kapatma kararı aldı. Bu kapsamda bir…",
+   "link": "https://www.log.com.tr/electronic-arts-biowarei-kapatma-karari-aldi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-22_09-47-15_3eD1P-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-22T06:47:54+00:00",
+   "url": "/haber/electronic-arts-bioware-i-kapatma-karari-aldi-659b7c8f/"
+  },
+  {
+   "id": "ff9b9815",
+   "title": "Apple, iPhone Duo siparişlerine iki adet sınırı getirdi",
+   "summary": "iPhone Duo'ya yönelik yoğun talep, Apple'ı ön siparişlerde kısıtlamaya yöneltti. ABD, Japonya, İspanya ve İngiltere'de uygulanan yeni kurala göre bir müşteri en fazla iki cihaz satın alabiliyor.",
+   "link": "https://www.donanimhaber.com/apple-iphone-duo-siparislerine-iki-adet-siniri-getirdi--211931",
+   "image": "https://www.donanimhaber.com/images/images/haber/211931/1200x675apple-iphone-duo-siparislerine-iki-adet-siniri-getirdi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-22T06:47:15+00:00",
+   "url": "/haber/apple-iphone-duo-siparislerine-iki-adet-siniri-getirdi-ff9b9815/"
+  },
+  {
+   "id": "23bd0ad7",
+   "title": "ABD, Kanada'yı kasımda düzenlenecek ara seçimlere müdahale etmekle suçladı",
+   "summary": "ABD'nin Ottawa Büyükelçiliği, Kanada hükümetinin ABD'de 3 Kasım'da yapılacak ara seçimlere müdahale etmeye yönelik girişimlerde bulunduğunu savundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-kanadayi-kasimda-duzenlenecek-ara-secimlere-mudahale-etmekle-sucladi/4096666",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T06:44:07+00:00",
+   "url": "/haber/abd-kanada-yi-kasimda-duzenlenecek-ara-secimlere-mudahale-etmekle-sucl-23bd0ad7/"
+  },
+  {
+   "id": "75565aef",
+   "title": "Game Pass aboneliği olmayanlardan Xbox Cloud Gaming erişimi için istenecek ücretler açıklandı",
+   "summary": "Microsoft, yakın zaman önce kasım ayında Xbox Game Pass aboneliği olmayan kişilerin de Türkiye’de resmi olarak kullanılamayan bulut oyun servisi Xbox Cloud Gaming’e erişebileceğini açıklamıştı. Bugün yapılan duyuruya…",
+   "link": "https://www.log.com.tr/game-pass-aboneligi-olmayanlardan-xbox-cloud-gaming-erisimi-icin-istenecek-ucretler-aciklandi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-22_09-31-41_CWwJx-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-22T06:39:23+00:00",
+   "url": "/haber/game-pass-aboneligi-olmayanlardan-xbox-cloud-gaming-erisimi-icin-isten-75565aef/"
+  },
+  {
+   "id": "a80a4061",
+   "title": "Dünya çapında kritik siber güvenlik açığı: 'Türkiye'de ulusal ölçekte tarama başlatıldı'",
+   "summary": "İnternet genelinde yaygın olarak kullanılan bir programlama dili olan PHP'deki güvenlik açıkları, yapay zeka tarafından şimdiye kadar bulunan en önemli açıklar olarak nitelendirildi.",
+   "link": "https://www.bbc.com/turkce/articles/ckjrw0npep1xo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-22T06:36:09+00:00",
+   "url": "/haber/dunya-capinda-kritik-siber-guvenlik-acigi-turkiye-de-ulusal-olcekte-ta-a80a4061/"
+  },
+  {
+   "id": "c5c5b51d",
+   "title": "9. İstanbul Arabuluculuk Konferansı yarın başlayacak",
+   "summary": "9. İstanbul Arabuluculuk Konferansı, Dışişleri Bakanı Hakan Fidan'ın ev sahipliğinde 23-24 Ekim'de gerçekleştirilecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/9-istanbul-arabuluculuk-konferansi-yarin-baslayacak/4096657",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T06:35:01+00:00",
+   "url": "/haber/9-istanbul-arabuluculuk-konferansi-yarin-baslayacak-c5c5b51d/"
+  },
+  {
+   "id": "e4d238aa",
+   "title": "ABD'de Kongre üyesi, İsrail'in Filistinlilere yönelik soykırımının sona ermediğini belirtti",
+   "summary": "ABD Temsilciler Meclisi Üyesi Delia Ramirez, İsrail'in Filistinlilere yönelik soykırımının sona ermediğini vurgulayarak ABD'nin İsrail'e silah yardımını engellemeyi amaçlayan yasa tasarısının kabul edilmesi çağrısında…",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-kongre-uyesi-israilin-filistinlilere-yonelik-soykiriminin-sona-ermedigini-belirtti/4096652",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T06:33:59+00:00",
+   "url": "/haber/abd-de-kongre-uyesi-israil-in-filistinlilere-yonelik-soykiriminin-sona-e4d238aa/"
+  },
+  {
+   "id": "3d8bb8f8",
+   "title": "Kanada Başbakanı Carney, Filistin'deki sorunlardan birçok kişinin \"sorumlu\" olduğunu söyledi",
+   "summary": "Kanada Başbakanı Mark Carney, Filistin'de kasımda yapılması planlanan seçimin ertelenmesine ilişkin \"ülkede yaşanan sorunlardan birçok kişinin sorumlu olduğunu\" söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-filistindeki-sorunlardan-bircok-kisinin-sorumlu-oldugunu-soyledi/4096651",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T06:33:44+00:00",
+   "url": "/haber/kanada-basbakani-carney-filistin-deki-sorunlardan-bircok-kisinin-sorum-3d8bb8f8/"
+  },
   {
    "id": "b923e0be",
    "title": "YouTube: “Dislike butonu normal videolarda gizlenmeyecek”",
@@ -11,17 +110,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T06:30:08+00:00",
    "url": "/haber/youtube-dislike-butonu-normal-videolarda-gizlenmeyecek-b923e0be/"
-  },
-  {
-   "id": "dd60eb66",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Ekim 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-ekim-2026-1747393",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-22T06:30:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
   },
   {
    "id": "8b7d644b",
@@ -77,17 +165,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T06:07:25+00:00",
    "url": "/haber/carplay-kullanicilari-artik-google-haritalar-da-gemini-ile-sohbet-edeb-06427d52/"
-  },
-  {
-   "id": "a80a4061",
-   "title": "Dünya çapında kritik siber güvenlik açığı: 'Türkiye'de ulusal ölçekte tarama başlatıldı'",
-   "summary": "İnternet genelinde yaygın olarak kullanılan bir programlama dili olan PHP'deki güvenlik açıkları, yapay zeka tarafından şimdiye kadar bulunan en önemli açıklar olarak nitelendirildi.",
-   "link": "https://www.bbc.com/turkce/articles/ckjrw0npep1xo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-22T06:07:21+00:00",
-   "url": "/haber/dunya-capinda-kritik-siber-guvenlik-acigi-turkiye-de-ulusal-olcekte-ta-a80a4061/"
   },
   {
    "id": "2b6dabf3",
@@ -354,17 +431,6 @@
    "url": "/haber/israil-in-gazze-seridi-ne-duzenledigi-son-saldirilarda-2-filistinli-ya-f57090f7/"
   },
   {
-   "id": "6b387385",
-   "title": "ABD ve İsrail'in ABD ara seçimlerinin ardından İran'a yeni saldırı planları yaptığı iddiası",
-   "summary": "ABD ve İsrail'in ABD ara seçimlerinin ardından İran'a yönelik yeni saldırılar için \"somut planlar hazırladığı\" öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-ve-israilin-abd-ara-secimlerinin-ardindan-irana-yeni-saldiri-planlari-yaptigi-iddiasi/4096582",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T00:09:41+00:00",
-   "url": "/haber/abd-ve-israil-in-abd-ara-secimlerinin-ardindan-iran-a-yeni-saldiri-pla-6b387385/"
-  },
-  {
    "id": "2c78e688",
    "title": "Kanada'dan Türkiye'ye başbakan düzeyinde ilk resmi ziyaret: 'Yeni bir stratejik ilişkinin başlangıcı'",
    "summary": "Mark Carney bugün Kanada'dan Türkiye'ye başbakan düzeyinde ilk resmi ziyaret gerçekleştiren ilk lider olacak. Ziyaret hem sembolik hem de çok kapsamlı gündemi nedeniyle Türkiye-Kanada ilişkilerinde tarihi bir dönüm…",
@@ -385,50 +451,6 @@
    "category": "gundem",
    "date": "2026-10-21T23:56:31+00:00",
    "url": "/haber/merkez-bankasi-faiz-kararini-aciklayacak-beklentiler-ne-yonde-65b7a997/"
-  },
-  {
-   "id": "af3f39a4",
-   "title": "Microsoft, Çin bağlantılı aktörün yapay zeka kullanarak yüzlerce kuruluşu hedef aldığını belirtti",
-   "summary": "ABD'li teknoloji şirketi Microsoft, Çin devletiyle bağlantılı bir siber aktörün yapay zeka destekli araçlar kullanarak dünya genelinde yüzlerce kuruluşu hedef aldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoft-cin-baglantili-aktorun-yapay-zeka-kullanarak-yuzlerce-kurulusu-hedef-aldigini-belirtti/4096573",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T22:40:45+00:00",
-   "url": "/haber/microsoft-cin-baglantili-aktorun-yapay-zeka-kullanarak-yuzlerce-kurulu-af3f39a4/"
-  },
-  {
-   "id": "a1c8fd60",
-   "title": "Suudi Arabistan'daki Kral Fahd Uluslararası Havalimanı'na yönelik saldırıda 1 kişi öldü, 8 kişi yaralandı",
-   "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi (GACA), Dammam'daki Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişinin öldüğünü, 8 kişinin yaralandığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistandaki-kral-fahd-uluslararasi-havalimanina-yonelik-saldirida-1-kisi-oldu-8-kisi-yaralandi/4096567",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T22:22:36+00:00",
-   "url": "/haber/suudi-arabistan-daki-kral-fahd-uluslararasi-havalimani-na-yonelik-sald-a1c8fd60/"
-  },
-  {
-   "id": "f7ef20f4",
-   "title": "Libya TM Başkanı Abdunnebi: Türkiye ile deniz yetki mutabakatı diğer ülkelerin çıkarlarına zarar vermiyor",
-   "summary": "Libya Temsilciler Meclisi Başkanı Abdunnebi, Türkiye-Libya deniz yetki alanları mutabakatının diğer ülkelerin çıkarlarına zarar vermediğini belirterek, \"Bu anlaşma egemenlik kararıdır ve Libya devletinin kendi…",
-   "link": "https://www.aa.com.tr/tr/dunya/libya-tm-baskani-abdunnebi-turkiye-ile-deniz-yetki-mutabakati-diger-ulkelerin-cikarlarina-zarar-vermiyor/4096564",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T22:15:37+00:00",
-   "url": "/haber/libya-tm-baskani-abdunnebi-turkiye-ile-deniz-yetki-mutabakati-diger-ul-f7ef20f4/"
-  },
-  {
-   "id": "b4886cac",
-   "title": "Kanada ve Ontario eyaleti, ABD tarifelerine karşı 8,7 milyar dolarlık paket açıkladı",
-   "summary": "Kanada Başbakanı Mark Carney ile Ontario eyaletinin Başbakanı Doug Ford, ABD tarifelerinin yarattığı ekonomik belirsizliğe karşı Ontario'daki stratejik sektörleri ve çalışanları desteklemek amacıyla toplam 8,7 milyar…",
-   "link": "https://www.aa.com.tr/tr/dunya/kanada-ve-ontario-eyaleti-abd-tarifelerine-karsi-8-7-milyar-dolarlik-paket-acikladi/4096562",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T22:02:33+00:00",
-   "url": "/haber/kanada-ve-ontario-eyaleti-abd-tarifelerine-karsi-8-7-milyar-dolarlik-p-b4886cac/"
   },
   {
    "id": "779f5cc1",
@@ -651,15 +673,15 @@
    "url": "/haber/yapay-zeka-akrep-zehrine-karsi-318-bin-protein-tasarladi-17-si-testler-2cd562a3/"
   },
   {
-   "id": "0209b633",
-   "title": "ChatGPT sizi gizlice analiz edip psikolojik profilinizi çıkarıyor olabilir",
-   "summary": "Geçtiğimiz günlerde yayımlanan yeni bir araştırma, ChatGPT'nin hafıza özelliğine dair bazı çarpıcı gerçekleri ortaya çıkardı. Yapay zekâ, konuşmalarınızı analiz edip psikolojik profilinizi çıkarıyor.",
-   "link": "https://www.donanimhaber.com/chatgpt-sizi-gizlice-analiz-edip-psikolojik-profilinizi-cikariyor--211905",
-   "image": "https://www.donanimhaber.com/images/images/haber/211905/1200x675chatgpt-sizi-gizlice-analiz-edip-psikolojik-profilinizi-cikariyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-21T18:38:00+00:00",
-   "url": "/haber/chatgpt-sizi-gizlice-analiz-edip-psikolojik-profilinizi-cikariyor-olab-0209b633/"
+   "id": "cf3bc5f7",
+   "title": "76. Dünya Döküm Kongresi sona erdi",
+   "summary": "Türkiye Döküm Sanayicileri Derneğinin (TÜDÖKSAD) ev sahipliğinde gerçekleştirilen 76. Dünya Döküm Kongresi (WFC 2026), 50'yi aşkın ülkeden 1000'den fazla sektör temsilcisini ağırladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/76-dunya-dokum-kongresi-sona-erdi/4096389",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-21T18:45:57+00:00",
+   "url": "/haber/76-dunya-dokum-kongresi-sona-erdi-cf3bc5f7/"
   },
   {
    "id": "822efdf3",
@@ -1003,17 +1025,6 @@
    "url": "/haber/whatsapp-iphone-da-safari-nin-isini-ustlenmeye-hazirlaniyor-4a9ea7b3/"
   },
   {
-   "id": "92769022",
-   "title": "Yeni GeForce Game Ready sürücüsü, “Advanced Shader Delivery” desteğiyle geliyor",
-   "summary": "Nvidia tarafından duyurulduğu kadarıyla yeni GeForce Game Ready Sürücüsü (621.01), Advanced Shader Delivery desteğini de beraberinde getiriyor. Şirketin açıklamasına göre bu teknoloji, her oyuncunun donanım ve sürücü…",
-   "link": "https://www.log.com.tr/yeni-geforce-game-ready-surucusu-advanced-shader-delivery-destegiyle-geliyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-21_16-19-09_alxHG-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-21T13:20:50+00:00",
-   "url": "/haber/yeni-geforce-game-ready-surucusu-advanced-shader-delivery-destegiyle-g-92769022/"
-  },
-  {
    "id": "cf19dde7",
    "title": "Claude ile Akıllı TV Hızlandırma Rehberi",
    "summary": "Yapay zeka modellerinin yalnızca metin üretmekle kalmayıp doğrudan cihazlarımızı optimize edebildiği yeni bir döneme girdik. Bu videoda, Claude üzerinden bir yapay zeka ajanına ADB komutlarıyla akıllı televizyona…",
@@ -1023,17 +1034,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T13:16:38+00:00",
    "url": "/haber/claude-ile-akilli-tv-hizlandirma-rehberi-cf19dde7/"
-  },
-  {
-   "id": "d117e6b3",
-   "title": "Yeni BMW F 450 RR, 2027’nin mayıs ayında Türkiye’de satışa sunulacak",
-   "summary": "Bugün BMW Motorrad tarafından duyurulduğu kadarıyla yeni BMW F 450 RR, 2027’nin mayıs ayında Türkiye’de satışa sunulacak. Henüz fiyatı belli olmayan model için yapılan resmi açıklamada, “Yeni BMW F 450 RR, 420 cc…",
-   "link": "https://www.log.com.tr/yeni-bmw-f-450-rr-2027nin-mayis-ayinda-turkiyede-satisa-sunulacak/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-21_16-13-27_YiabS-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-21T13:15:12+00:00",
-   "url": "/haber/yeni-bmw-f-450-rr-2027-nin-mayis-ayinda-turkiye-de-satisa-sunulacak-d117e6b3/"
   },
   {
    "id": "862d9d18",
