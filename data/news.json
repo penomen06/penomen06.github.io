@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T05:01:06.021683+00:00",
+ "updated": "2026-10-22T05:30:59.530988+00:00",
  "items": [
   {
    "id": "dd60eb66",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-22T05:00:00+00:00",
+   "date": "2026-10-22T05:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "803289ad",
+   "title": "Kanada Başbakanı Mark Carney Türkiye'ye geliyor",
+   "summary": "Kanada Başbakanı Mark Carney, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine bugün Türkiye'ye geliyor.",
+   "link": "https://www.ntv.com.tr/turkiye/kanada-basbakani-mark-carney-turkiyeye-geliyor-1747355",
+   "image": "https://images.ntv.com.tr/images/kanadabaşbakanı-340907",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-22T05:20:37+00:00",
+   "url": "/haber/kanada-basbakani-mark-carney-turkiye-ye-geliyor-803289ad/"
+  },
+  {
+   "id": "73131773",
+   "title": "PHP Nedir? Güvenlik Açıkları Neden Büyük Tehlike Oluşturuyor?",
+   "summary": "Tüm dünya yaygın proglamlama dili PHP'de keşfedilen güvenlik açığıyla çalkalanıyor. Peki nedir bu PHP?",
+   "link": "https://www.webtekno.com/php-nedir-h227680.html",
+   "image": "https://imgrosetta.webtekno.com/file/694198/694198-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-22T05:15:45+00:00",
+   "url": "/haber/php-nedir-guvenlik-aciklari-neden-buyuk-tehlike-olusturuyor-73131773/"
   },
   {
    "id": "255b4d37",
@@ -871,17 +893,6 @@
    "url": "/haber/openai-in-yapay-zeka-ajanlari-kendi-guvenlik-sistemlerini-devre-disi-b-01d11960/"
   },
   {
-   "id": "fea749ee",
-   "title": "GTA 6 Çıkışına Sayılı Günler Kala PS5'e Kritik Bir Güncelleme Geldi",
-   "summary": "Sony, GTA 6 çıkışı öncesinde hızlanan jailbreak girişimlerine karşı PS5 için yeni bir sistem yazılımı güncellemesi yayımladı.",
-   "link": "https://www.webtekno.com/gta-6-cikisina-sayili-gunler-kala-ps5-kritik-bir-guncelleme-geldi-h227641.html",
-   "image": "https://imgrosetta.webtekno.com/file/694111/694111-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T13:36:53+00:00",
-   "url": "/haber/gta-6-cikisina-sayili-gunler-kala-ps5-e-kritik-bir-guncelleme-geldi-fea749ee/"
-  },
-  {
    "id": "4a9ea7b3",
    "title": "WhatsApp, iPhone’da Safari’nin İşini Üstlenmeye Hazırlanıyor",
    "summary": "WhatsApp’ta bir arkadaşınızın gönderdiği linke dokunduğunuzda iPhone’unuz sizi doğrudan Safari’ye ya da varsayılan tarayıcınıza götürüyor. Bu durum yakında değişebilir. WhatsApp, iPhone uygulaması için sohbetlerde…",
@@ -1001,17 +1012,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T12:51:10+00:00",
    "url": "/haber/honor-tam-12-070-mah-batarya-tasiyan-yeni-akilli-telefonlarini-tanitti-36aba26f/"
-  },
-  {
-   "id": "803289ad",
-   "title": "Kanada Başbakanı Mark Carney Türkiye'ye geliyor",
-   "summary": "Kanada Başbakanı Mark Carney, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine yarın Türkiye'ye geliyor.",
-   "link": "https://www.ntv.com.tr/turkiye/kanada-basbakani-mark-carney-turkiyeye-geliyor-1747355",
-   "image": "https://images.ntv.com.tr/images/kanadabaşbakanı-340907",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-21T12:49:00+00:00",
-   "url": "/haber/kanada-basbakani-mark-carney-turkiye-ye-geliyor-803289ad/"
   },
   {
    "id": "97b36d2f",
