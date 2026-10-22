@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T07:01:08.728903+00:00",
+ "updated": "2026-10-22T07:31:02.882114+00:00",
  "items": [
   {
    "id": "dd60eb66",
@@ -9,8 +9,173 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-22T07:00:00+00:00",
+   "date": "2026-10-22T07:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "f5f89bb0",
+   "title": "“Ufak” Mercedes-Benz G-Class, 2028’de satışa sunulacak gibi görünüyor",
+   "summary": "Geliştirme çalışmaları uzun süredir devam eden küçük boyutlu Mercedes-Benz G-Class, şirketin CEO’su Ola Källenius’un açıklamasına göre 2028’de satışa sunulacak. Aracın 24 aydan kısa sürede piyasaya çıkacağını söyleyen…",
+   "link": "https://www.log.com.tr/ufak-mercedes-benz-g-class-2028de-satisa-sunulacak-gibi-gorunuyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-05-22_09-07-56_SClCO_FHD-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:26:12+00:00",
+   "url": "/haber/ufak-mercedes-benz-g-class-2028-de-satisa-sunulacak-gibi-gorunuyor-f5f89bb0/"
+  },
+  {
+   "id": "88c498bd",
+   "title": "İstanbul'daki sermaye piyasası işlemleri soruşturmalarında 5 gözaltı daha",
+   "summary": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında yapılan incelemeler doğrultusunda 5 şüpheli daha gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-sermaye-piyasasi-islemleri-sorusturmalarinda-5-gozalti-daha/4096725",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T07:22:20+00:00",
+   "url": "/haber/istanbul-daki-sermaye-piyasasi-islemleri-sorusturmalarinda-5-gozalti-d-88c498bd/"
+  },
+  {
+   "id": "fd32f600",
+   "title": "Tarihi 11 bin yıl önceye gidiyor. Sayburç köyü dünya basınında",
+   "summary": "Şanlıurfa'nın Sayburç köyünde bahçe duvarı taşlarının incelenmesiyle başlayan kazılarda 11 bin yıllık Neolitik yerleşim açığa çıkarıldı. Köy, dünya basınında da kendine yer buldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-tarihi-11-bin-yil-onceye-gidiyor-sayburc-koyu-dunya-basininda-1747444",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_7c03208e3786d68fafb69-168745.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-22T07:20:47+00:00",
+   "url": "/haber/tarihi-11-bin-yil-onceye-gidiyor-sayburc-koyu-dunya-basininda-fd32f600/"
+  },
+  {
+   "id": "d0d06c16",
+   "title": "Casper Excalibur G870, AAA Oyunları Oynatır mı?",
+   "summary": "Casper Excalibur G870'in RTX 50 serisi seçenekleri, 165 Hz ekranı, yükseltme alanı ve kullanıcı yorumlarıyla ağır oyunlarda ne sunduğunu birlikte bakıyoruz.",
+   "link": "https://www.webtekno.com/casper-excalibur-g870-aaa-oyunlari-oynatir-mi-h227659.html",
+   "image": "https://imgrosetta.webtekno.com/file/691270/691270-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:18:59+00:00",
+   "url": "/haber/casper-excalibur-g870-aaa-oyunlari-oynatir-mi-d0d06c16/"
+  },
+  {
+   "id": "c631079f",
+   "title": "Ağabeyinin emanetine sahip çıkan kadın, kentte taksicilik yapıyor",
+   "summary": "Hatay'da yaşayan 48 yaşındaki Deniz Helvacıoğlu, ağabeyinin taksicilikten emekli olmasının ardından direksiyon başına geçerek taksiciliğe başladı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-agabeyinin-emanetine-sahip-cikan-kadin-kentte-taksicilik-yapiyor-1747448",
+   "image": "https://images.ntv.com.tr/images/AW815618_01-494560.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-22T07:17:23+00:00",
+   "url": "/haber/agabeyinin-emanetine-sahip-cikan-kadin-kentte-taksicilik-yapiyor-c631079f/"
+  },
+  {
+   "id": "494ad7aa",
+   "title": "Zonguldak'ta 3 katlı bina çöktü. Enkaz altında kalan bir kişi hayatını kaybetti",
+   "summary": "Zonguldak'ta 3 katlı bina çöktü. Enkazdan bir kişi yaralı kurtarılırken, bir kişinin ise cansız bedenine ulaşıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/zonguldakta-3-katli-bina-coktu-enkaz-altindaki-1-kisiyi-kurtarma-calismalari-suruyor-1747377",
+   "image": "https://images.ntv.com.tr/images/ZONGULDAK’TA-3-KATLI-BINA-COKTU-ENKAZDA_1566979_466292-843550.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-22T07:15:28+00:00",
+   "url": "/haber/zonguldak-ta-3-katli-bina-coktu-enkaz-altinda-kalan-bir-kisi-hayatini-494ad7aa/"
+  },
+  {
+   "id": "f3e506f3",
+   "title": "İstanbul Havalimanı'na \"dünyanın en bağlantılı havalimanı\" ödülü",
+   "summary": "İstanbul Havalimanı, küresel havacılık veri ve analiz kuruluşu OAG'nin \"Megahubs 2026\" raporuna göre \"dünyanın en bağlantılı havalimanı\" seçilmesi dolayısıyla ödüle layık görüldü.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimanina-dunyanin-en-baglantili-havalimani-odulu-/4096713",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T07:15:22+00:00",
+   "url": "/haber/istanbul-havalimani-na-dunyanin-en-baglantili-havalimani-odulu-f3e506f3/"
+  },
+  {
+   "id": "fb3fbaa6",
+   "title": "Meta’ya Cambridge Analytica skandalıyla bağlantılı davada 25 milyar dolar ceza",
+   "summary": "New Mexico, 2018’de ortaya çıkan Cambridge Analytica skandalıyla bağlantılı dava kapsamında Meta’ya 25 milyar dolar ceza verdi. Karara itiraz edeceklerini açıklayan şirketin hukuk işlerinden sorumlu yöneticisi C.J.…",
+   "link": "https://www.log.com.tr/metaya-cambridge-analytica-skandaliyla-baglantili-davada-25-milyar-dolar-ceza/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/04/meta-son-ceyrekte-20-milyon-kullanici-kaybetti-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:15:14+00:00",
+   "url": "/haber/meta-ya-cambridge-analytica-skandaliyla-baglantili-davada-25-milyar-do-fb3fbaa6/"
+  },
+  {
+   "id": "73249f6f",
+   "title": "GM yeni elektrikli araç platformunu duyurdu: Yüzde 15 daha hafif, yüzde 20 daha verimli",
+   "summary": "General Motors, dördüncü nesil elektrikli araç mimarisini duyurdu. Yeni platform, %20 daha yüksek verimlilik, %15 daha düşük ağırlık ile otomobillerin üretim maliyetlerini düşürmeyi hedefliyor.",
+   "link": "https://www.donanimhaber.com/gm-nin-yeni-elektrikli-araclari-yuzde-15-daha-hafif-olacak--211939",
+   "image": "https://www.donanimhaber.com/images/images/haber/211939/1200x675gm-nin-yeni-elektrikli-araclari-yuzde-15-daha-hafif-olacak.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:09:00+00:00",
+   "url": "/haber/gm-yeni-elektrikli-arac-platformunu-duyurdu-yuzde-15-daha-hafif-yuzde-73249f6f/"
+  },
+  {
+   "id": "f6c69485",
+   "title": "Tesla, direksiyonsuz Cybercab’i yıl sonunda bireysel müşterilere satmaya başlayacak",
+   "summary": "Tesla, doğrudan otonom taksi hizmeti için tasarladığı kompakt otomobil modeli Cybercab’i yıl sonunda bireysel müşterilere satmaya başlayacağını açıkladı. Bu araçla şu anda ABD’deki belirli bölgelerde sürücüsüz yolcu…",
+   "link": "https://www.log.com.tr/tesla-direksiyonsuz-cybercabi-yil-sonunda-bireysel-musterilere-satmaya-baslayacak/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-22_09-51-05_78p8u-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:04:31+00:00",
+   "url": "/haber/tesla-direksiyonsuz-cybercab-i-yil-sonunda-bireysel-musterilere-satmay-f6c69485/"
+  },
+  {
+   "id": "ef705839",
+   "title": "Zonguldak'ta çöken binanın çevresindeki 7 bina tedbiren boşaltıldı",
+   "summary": "Zonguldak'ta 1 kişinin hayatını kaybettiği, 1 kişinin yaralı kurtarıldığı çöken binanın çevresindeki 7 bina tedbiren boşaltıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binanin-cevresindeki-7-bina-tedbiren-bosaltildi/4096700",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T07:04:06+00:00",
+   "url": "/haber/zonguldak-ta-coken-binanin-cevresindeki-7-bina-tedbiren-bosaltildi-ef705839/"
+  },
+  {
+   "id": "c6f60b3c",
+   "title": "En iyi RGB ışıklı laptop modelleri",
+   "summary": "RGB ışıklı laptop ve ışıklı klavyeli laptop arayanlar buraya! İşte güçlü donanımları ve özelleştirilebilir RGB aydınlatmalarıyla öne çıkan en iyi dizüstü bilgisayar modelleri.",
+   "link": "https://www.donanimhaber.com/en-iyi-rgb-klavyeli-laptop-modelleri--211738",
+   "image": "https://www.donanimhaber.com/images/images/haber/211738/1200x675en-iyi-rgb-klavyeli-laptop-modelleri.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:04:00+00:00",
+   "url": "/haber/en-iyi-rgb-isikli-laptop-modelleri-c6f60b3c/"
+  },
+  {
+   "id": "72ae5f47",
+   "title": "Elektronik Ürün Alımında Taksitlerde Değişikliğe Gidildiği İddia Edildi",
+   "summary": "Tablet, televizyon, bilgisayar ve beyaz eşya gibi ürünlerin taksitli alışverişlerinde değişiklik yapıldığı öne sürüldü.",
+   "link": "https://www.webtekno.com/elektronik-urunler-taksit-degisiklik-yapildi-h227692.html",
+   "image": "https://imgrosetta.webtekno.com/file/694208/694208-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-22T07:02:19+00:00",
+   "url": "/haber/elektronik-urun-aliminda-taksitlerde-degisiklige-gidildigi-iddia-edild-72ae5f47/"
+  },
+  {
+   "id": "d1c6ba83",
+   "title": "Borsa güne düşüşle başladı",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,32 düşüşle 11.540,61 puandan başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4096696",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T07:01:42+00:00",
+   "url": "/haber/borsa-gune-dususle-basladi-d1c6ba83/"
+  },
+  {
+   "id": "8ef5c43a",
+   "title": "Gazze'de yakıt eksikliği hastanelerin jeneratörlerini durma ve bozulma noktasına getirdi",
+   "summary": "İsrail ordusunun soykırıma varan saldırılarıyla büyük yıkıma uğrattığı Gazze Şeridi'nde hastanelerde hayati öneme sahip olan jeneratörlerin yakıtlarının tükenmesi nedeniyle durma ve kalıcı olarak bozulma noktasına…",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-yakit-eksikligi-hastanelerin-jeneratorlerini-durma-ve-bozulma-noktasina-getirdi/4096687",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T06:58:28+00:00",
+   "url": "/haber/gazze-de-yakit-eksikligi-hastanelerin-jeneratorlerini-durma-ve-bozulma-8ef5c43a/"
   },
   {
    "id": "659b7c8f",
@@ -112,15 +277,15 @@
    "url": "/haber/youtube-dislike-butonu-normal-videolarda-gizlenmeyecek-b923e0be/"
   },
   {
-   "id": "8b7d644b",
+   "id": "eb78ff0a",
    "title": "Mardin ve Gaziantep'teki iki sulama yapısı uluslararası ödüle layık görüldü",
    "summary": "Tarım ve Orman Bakanı Yumaklı, Fransa'nın Marsilya kentinde düzenlenen Uluslararası Sulama ve Drenaj Komisyonu (ICID) 2026 Kongresi'nde, Mardin Dara Antik Kenti Su Sistemi ile Gaziantep Oğuzeli Halep Arığı Su…",
-   "link": "https://www.aa.com.tr/tr/dunya/mardin-ve-gaziantepteki-iki-sulama-yapisi-uluslararasi-odule-layik-goruldu/4096639",
+   "link": "https://www.aa.com.tr/tr/ekonomi/mardin-ve-gaziantepteki-iki-sulama-yapisi-uluslararasi-odule-layik-goruldu/4096639",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-22T06:23:52+00:00",
-   "url": "/haber/mardin-ve-gaziantep-teki-iki-sulama-yapisi-uluslararasi-odule-layik-go-8b7d644b/"
+   "url": "/haber/mardin-ve-gaziantep-teki-iki-sulama-yapisi-uluslararasi-odule-layik-go-eb78ff0a/"
   },
   {
    "id": "20a2b275",
@@ -145,15 +310,15 @@
    "url": "/haber/anthropic-ten-meta-muse-ve-openai-dots-a-rakip-geldi-claude-duet-6804b7cc/"
   },
   {
-   "id": "60e5612a",
-   "title": "Fon soruşturmasında 5 gözaltı daha",
-   "summary": "İstanbul'da sermaye piyasalarındaki işlemlere ilişkin yürütülen fon soruşturmaları kapsamında haklarında gözaltı kararı çıkarılan 5 kişi daha yakalandı.",
-   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-5-gozalti-daha-960841.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2416000/istanbul-adalet-sarayi-2416161.jpg",
+   "id": "cffec66a",
+   "title": "Fon soruşturmasında 31 şüpheli gözaltında",
+   "summary": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında yapılan incelemeler doğrultusunda 5 şüpheli daha gözaltına alındı. Böylece gözaltına alınanların sayısı 31'e…",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-31-supheli-gozaltinda-960841.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2490000/fon-sorusturmasi-stok-2491313.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-22T06:12:00+00:00",
-   "url": "/haber/fon-sorusturmasinda-5-gozalti-daha-60e5612a/"
+   "url": "/haber/fon-sorusturmasinda-31-supheli-gozaltinda-cffec66a/"
   },
   {
    "id": "06427d52",
@@ -222,28 +387,6 @@
    "url": "/haber/siber-guvenlik-baskanligi-php-acigi-hakkinda-aciklama-paylasti-32ce9f4e/"
   },
   {
-   "id": "803289ad",
-   "title": "Kanada Başbakanı Mark Carney Türkiye'ye geliyor",
-   "summary": "Kanada Başbakanı Mark Carney, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine bugün Türkiye'ye geliyor.",
-   "link": "https://www.ntv.com.tr/turkiye/kanada-basbakani-mark-carney-turkiyeye-geliyor-1747355",
-   "image": "https://images.ntv.com.tr/images/kanadabaşbakanı-340907",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-22T05:49:54+00:00",
-   "url": "/haber/kanada-basbakani-mark-carney-turkiye-ye-geliyor-803289ad/"
-  },
-  {
-   "id": "b4a13795",
-   "title": "KVKK, “İzmir Büyükşehir Belediyesi” için veri ihlal bildirimi geçti",
-   "summary": "Kişisel Verileri Koruma Kurumu (KVKK) bugün resmi sitesi üzerinden İzmir Büyükşehir Belediyesi için bir veri ihlal bildirimi geçti. Süreçle alakalı yapılan resmi açıklamada, “Veri sorumlusu sıfatını haiz olan İzmir…",
-   "link": "https://www.log.com.tr/kvkk-izmir-buyuksehir-belediyesi-icin-veri-ihlal-bildirimi-gecti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2023/07/kvkk-duyurdu-vodafone-toyota-ve-fazlasini-etkileyen-mivento-merkezli-siber-saldiri-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-22T05:46:46+00:00",
-   "url": "/haber/kvkk-izmir-buyuksehir-belediyesi-icin-veri-ihlal-bildirimi-gecti-b4a13795/"
-  },
-  {
    "id": "64ca8992",
    "title": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren teklifin ilk 5 maddesi kabul edildi",
    "summary": "TBMM Genel Kurulu'nda Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi'nin birinci bölümünde yer alan 5 madde kabul edildi.",
@@ -310,28 +453,6 @@
    "url": "/haber/php-guvenlik-aciklari-nedeniyle-dunya-capinda-cok-sayida-site-gecici-o-255b4d37/"
   },
   {
-   "id": "ea79ea70",
-   "title": "Çukurova Belediyesine yönelik operasyonda gözaltına alınan 49 kişi adliyeye sevk edildi",
-   "summary": "Çukurova Belediyesi'ndeki usulsüzlüklere yönelik soruşturmada 19 Ekim'de gözaltına alınan aralarında Çukurova Belediye Başkanı Kozay, geçen dönemki Belediye Başkanı Çetin ve 4 belediye başkan yardımcısının da bulunduğu…",
-   "link": "https://www.aa.com.tr/tr/gundem/cukurova-belediyesine-yonelik-operasyonda-gozaltina-alinan-49-kisi-adliyeye-sevk-edildi-/4096599",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T04:43:19+00:00",
-   "url": "/haber/cukurova-belediyesine-yonelik-operasyonda-gozaltina-alinan-49-kisi-adl-ea79ea70/"
-  },
-  {
-   "id": "955ef8cd",
-   "title": "Tuzla'da ayakkabı fabrikasında çıkan yangın söndürüldü",
-   "summary": "Tuzla'da ayakkabı fabrikasında çıkan yangın itfaiye ekiplerince söndürüldü.",
-   "link": "https://www.aa.com.tr/tr/gundem/tuzlada-ayakkabi-fabrikasinda-cikan-yangin-sonduruldu/4096598",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T04:33:12+00:00",
-   "url": "/haber/tuzla-da-ayakkabi-fabrikasinda-cikan-yangin-sonduruldu-955ef8cd/"
-  },
-  {
    "id": "ef0fbfc5",
    "title": "Tesla’dan İddialı Çıkış: Cybercab Satışları Yıl Sonunda Başlayabilir",
    "summary": "Tesla, direksiyonsuz otonom aracı Cybercab satışlarına yıl sonuna kadar başlamayı planlıyor. İşte otonom araç projesindeki son gelişmeler.",
@@ -341,17 +462,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T04:30:00+00:00",
    "url": "/haber/tesla-dan-iddiali-cikis-cybercab-satislari-yil-sonunda-baslayabilir-ef0fbfc5/"
-  },
-  {
-   "id": "0d809ee0",
-   "title": "Küba Dışişleri Bakanı: ABD ambargoları Küba halkının günlük yaşamını hedef alıyor",
-   "summary": "Küba Dışişleri Bakanı Bruno Rodriguez, ABD'yi Küba halkının günlük yaşamını hedef alan ambargolar uygulamakla suçladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/kuba-disisleri-bakani-abd-ambargolari-kuba-halkinin-gunluk-yasamini-hedef-aliyor/4096597",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T04:27:31+00:00",
-   "url": "/haber/kuba-disisleri-bakani-abd-ambargolari-kuba-halkinin-gunluk-yasamini-he-0d809ee0/"
   },
   {
    "id": "ea9e8b4a",
@@ -407,28 +517,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T03:40:05+00:00",
    "url": "/haber/internetin-omurgasi-php-de-2-kritik-guvenlik-acigi-2fc6fcf5/"
-  },
-  {
-   "id": "ae544fc3",
-   "title": "BM Özel Raportörü Betancur: Dünyada 82 milyondan fazla kişi ülke içinde yerinden edildi",
-   "summary": "Birleşmiş Milletler (BM) Ülke İçinde Yerinden Edilmiş Kişilerin İnsan Haklarına İlişkin Özel Raportörü Paula Gaviria Betancur, dünya genelinde çatışma, şiddet ve afetler nedeniyle 82 milyondan fazla kişinin ülke içinde…",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-ozel-raportoru-betancur-dunyada-82-milyondan-fazla-kisi-ulke-icinde-yerinden-edildi/4096586",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T00:27:27+00:00",
-   "url": "/haber/bm-ozel-raportoru-betancur-dunyada-82-milyondan-fazla-kisi-ulke-icinde-ae544fc3/"
-  },
-  {
-   "id": "f57090f7",
-   "title": "İsrail'in Gazze Şeridi'ne düzenlediği son saldırılarda 2 Filistinli yaşamını yitirdi",
-   "summary": "İsrail'in Gazze Şeridi'ne gerçekleştirdiği son saldırılarda 2 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazze-seridine-duzenledigi-son-saldirilarda-2-filistinli-yasamini-yitirdi/4096585",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T00:23:43+00:00",
-   "url": "/haber/israil-in-gazze-seridi-ne-duzenledigi-son-saldirilarda-2-filistinli-ya-f57090f7/"
   },
   {
    "id": "2c78e688",
@@ -618,17 +706,6 @@
    "url": "/haber/nvidia-nin-ai-planlari-buyuyor-groq-3d-dram-e-geciyor-f74875f6/"
   },
   {
-   "id": "f7abad2b",
-   "title": "Xiaomi katlanabilir tasarımlı yeni araç süpürgesini satışa sundu",
-   "summary": "Xiaomi, uygun fiyatlı yeni araç süpürgesini satışa sundu. 20.000 Pa emiş gücü, katlanabilir tasarımı ve beş farklı aksesuarıyla dikkat çeken cihaz, 40 dakikaya kadar kullanım süresi vadediyor.",
-   "link": "https://www.donanimhaber.com/xiaomi-katlanabilir-tasarimli-yeni-arac-supurgesini-satisa-sundu--211909",
-   "image": "https://www.donanimhaber.com/images/images/haber/211909/1200x675xiaomi-katlanabilir-tasarimli-yeni-arac-supurgesini-satisa-sundu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-21T19:22:00+00:00",
-   "url": "/haber/xiaomi-katlanabilir-tasarimli-yeni-arac-supurgesini-satisa-sundu-f7abad2b/"
-  },
-  {
    "id": "92dc2f86",
    "title": "'Rusya savaşı bitirmek için Ukrayna ve ABD ile görüşmelere yeniden başlamaya hazır'",
    "summary": "Vladimir Putin'in baş danışmanı, savaşın sona erdirilmesi için Rusya'nın ABD ve Ukrayna ile müzakereleri yeniden başlatmaya \"ilkesel olarak hazır\" olduğunu söyledi.",
@@ -660,17 +737,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T19:00:33+00:00",
    "url": "/haber/4-gece-32-640-katlama-iphone-duo-mentese-testi-ve-ilk-inceleme-bulgula-111d0825/"
-  },
-  {
-   "id": "2cd562a3",
-   "title": "Yapay zeka, akrep zehrine karşı 318 bin protein tasarladı: 17'si testleri geçti",
-   "summary": "Anthropic'in yapay zeka modeli Claude, 64 saatte 318 bin protein tasarladı. Laboratuvarda test edilen 211 adaydan 17'si akrep zehrini hedeflemede başarılı oldu.",
-   "link": "https://www.donanimhaber.com/yapay-zeka-akrep-zehrine-karsi-318-bin-protein-tasarladi--211908",
-   "image": "https://www.donanimhaber.com/images/images/haber/211908/1200x675yapay-zeka-akrep-zehrine-karsi-318-bin-protein-tasarladi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-21T19:00:00+00:00",
-   "url": "/haber/yapay-zeka-akrep-zehrine-karsi-318-bin-protein-tasarladi-17-si-testler-2cd562a3/"
   },
   {
    "id": "cf3bc5f7",
@@ -739,17 +805,6 @@
    "url": "/haber/cumhurbaskani-erdogan-ve-aliyev-telefonda-gorustu-beedd969/"
   },
   {
-   "id": "494ad7aa",
-   "title": "Zonguldak'ta 3 katlı bina çöktü. Enkaz altında kalan 1 kişi hayatını kaybetti",
-   "summary": "Zonguldak'ta 3 katlı bina çöktü. Enkazdan bir kişi yaralı kurtarılırken, bir kişinin ise cansız bedenine ulaşıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/zonguldakta-3-katli-bina-coktu-enkaz-altindaki-1-kisiyi-kurtarma-calismalari-suruyor-1747377",
-   "image": "https://images.ntv.com.tr/images/ZONGULDAK’TA-3-KATLI-BINA-COKTU-ENKAZDA_1566979_466292-843550.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-21T17:16:32+00:00",
-   "url": "/haber/zonguldak-ta-3-katli-bina-coktu-enkaz-altinda-kalan-1-kisi-hayatini-ka-494ad7aa/"
-  },
-  {
    "id": "4f1e1db1",
    "title": "Gazeteci İsmail Arı tutuklandı",
    "summary": "Gazeteci İsmail Arı, RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine başlatılan soruşturma kapsamında tutuklandı.",
@@ -759,17 +814,6 @@
    "category": "gundem",
    "date": "2026-10-21T16:23:14+00:00",
    "url": "/haber/gazeteci-ismail-ari-tutuklandi-4f1e1db1/"
-  },
-  {
-   "id": "b1f1447f",
-   "title": "HONOR Robot Phone, ”2026’nın En İyi İcatları” listesinde",
-   "summary": "ONOR Robot Phone, ‘2026’nın En İyi İcatları’ listesindeHONOR’un yeni bir kategori yaratan devrim niteliğindeki akıllı telefonu Robot Phone, TIME’ın ‘2026’nın En İyi İcatları’ listesine seçildi. Robotik hareket…",
-   "link": "https://www.log.com.tr/1035293-2/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/Honor-Robot-Phone-4-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-21T16:00:11+00:00",
-   "url": "/haber/honor-robot-phone-2026-nin-en-iyi-icatlari-listesinde-b1f1447f/"
   },
   {
    "id": "2d8486f5",
@@ -948,17 +992,6 @@
    "url": "/haber/esime-urun-satma-cinayeti-kasabi-bicaklayarak-oldurdu-b1202304/"
   },
   {
-   "id": "183acb29",
-   "title": "Apple, Türkiye dahil birçok ülke için söyledi: “Mağazalarda sınırlı sayıda iPhone Duo satışa sunulacak”",
-   "summary": "Apple, 23 Ekim’de ABD, Avustralya, Avusturya, Belçika, Kanada, Meksika, Almanya, Hollanda, Singapur, İspanya, İsveç, İsviçre, Türkiye ve Birleşik Krallık’taki Apple Store’larda ve İtalya’daki mağazaların çoğunda…",
-   "link": "https://www.log.com.tr/apple-turkiye-dahil-bircok-ulke-icin-soyledi-magazalarda-sinirli-sayida-iphone-duo-satisa-sunulacak/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-17_12-52-13_rYgCd-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-21T14:27:17+00:00",
-   "url": "/haber/apple-turkiye-dahil-bircok-ulke-icin-soyledi-magazalarda-sinirli-sayid-183acb29/"
-  },
-  {
    "id": "704e8872",
    "title": "Silikon Vadisi’nde Türk İmzası: Revo House ve Girişimcilerimiz San Francisco’da!",
    "summary": "San Francisco, girişimcilik dünyasının kalbinin attığı şehirlerden biri. Bu şehirde Meta, Anthropic, OpenAI ve Tesla gibi şirketlerde önemli görevlerde çalışan çok sayıda Türk var; ancak bu isimleri bir araya getiren…",
@@ -968,17 +1001,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T14:15:29+00:00",
    "url": "/haber/silikon-vadisi-nde-turk-imzasi-revo-house-ve-girisimcilerimiz-san-fran-704e8872/"
-  },
-  {
-   "id": "cf266694",
-   "title": "Sony’nin Ses Teknolojileri Boğaziçi Bilişim ve Dağıtım Güvencesiyle Türkiye’de",
-   "summary": "Boğaziçi Bilişim ve Dağıtım, Sony ile stratejik bir iş birliğine imza attı.",
-   "link": "https://www.webtekno.com/sony-ses-teknolojileri-bogazici-bilisim-ve-dagitim-guvencesiyle-turkiyede-h227644.html",
-   "image": "https://imgrosetta.webtekno.com/file/694129/694129-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T14:05:58+00:00",
-   "url": "/haber/sony-nin-ses-teknolojileri-bogazici-bilisim-ve-dagitim-guvencesiyle-tu-cf266694/"
   },
   {
    "id": "a8997611",
@@ -1001,17 +1023,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T14:00:59+00:00",
    "url": "/haber/apple-ceo-su-john-ternus-iyi-urun-tasariminin-sirlarini-acikliyor-0d152b61/"
-  },
-  {
-   "id": "01d11960",
-   "title": "OpenAI’ın Yapay Zekâ Ajanları Kendi Güvenlik Sistemlerini Devre Dışı Bıraktı",
-   "summary": "OpenAI’ın yapay zekâ ajanları, kendilerine verilen işleri yaparken onları denetleyen güvenlik sistemlerini de devre dışı bıraktı.",
-   "link": "https://www.webtekno.com/openai-ajanlari-guvenlik-sistemlerini-devre-disi-birakti-h227642.html",
-   "image": "https://imgrosetta.webtekno.com/file/694108/694108-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T13:50:10+00:00",
-   "url": "/haber/openai-in-yapay-zeka-ajanlari-kendi-guvenlik-sistemlerini-devre-disi-b-01d11960/"
   },
   {
    "id": "4a9ea7b3",
@@ -1089,17 +1100,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T12:30:35+00:00",
    "url": "/haber/youtube-dislike-butonunu-tamamen-gizleyecek-1d0fd479/"
-  },
-  {
-   "id": "3c2ee266",
-   "title": "Annesi tavan çökmesi sonucu gözünü kaybetti: “Böyle bir şey aklımıza gelmezdi”",
-   "summary": "Kayseri'nin Melikgazi ilçesinde tavanın çökmesi sonucu bir gözünü kaybeden yaşlı kadının oğlu, \"Akla, hayale gelecek bir olay değil\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-annesi-tavan-cokmesi-sonucu-gozunu-kaybetti-boyle-bir-sey-aklimiza-gelmezdi-1747352",
-   "image": "https://images.ntv.com.tr/images/image-923641.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-21T12:00:52+00:00",
-   "url": "/haber/annesi-tavan-cokmesi-sonucu-gozunu-kaybetti-boyle-bir-sey-aklimiza-gel-3c2ee266/"
   },
   {
    "id": "c5dc79d8",
