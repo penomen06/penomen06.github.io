@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T04:01:05.375035+00:00",
+ "updated": "2026-10-22T04:30:58.087349+00:00",
  "items": [
+  {
+   "id": "ef0fbfc5",
+   "title": "Tesla’dan İddialı Çıkış: Cybercab Satışları Yıl Sonunda Başlayabilir",
+   "summary": "Tesla, direksiyonsuz otonom aracı Cybercab satışlarına yıl sonuna kadar başlamayı planlıyor. İşte otonom araç projesindeki son gelişmeler.",
+   "link": "https://shiftdelete.net/tesla-cybercab-satis-plani",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-22T04:30:00+00:00",
+   "url": "/haber/tesla-dan-iddiali-cikis-cybercab-satislari-yil-sonunda-baslayabilir-ef0fbfc5/"
+  },
   {
    "id": "dd60eb66",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Ekim 2026",
@@ -9,8 +20,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-22T04:00:00+00:00",
+   "date": "2026-10-22T04:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dd60eb66/"
+  },
+  {
+   "id": "0d809ee0",
+   "title": "Küba Dışişleri Bakanı: ABD ambargoları Küba halkının günlük yaşamını hedef alıyor",
+   "summary": "Küba Dışişleri Bakanı Bruno Rodriguez, ABD'yi Küba halkının günlük yaşamını hedef alan ambargolar uygulamakla suçladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/kuba-disisleri-bakani-abd-ambargolari-kuba-halkinin-gunluk-yasamini-hedef-aliyor/4096597",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T04:27:31+00:00",
+   "url": "/haber/kuba-disisleri-bakani-abd-ambargolari-kuba-halkinin-gunluk-yasamini-he-0d809ee0/"
+  },
+  {
+   "id": "ea9e8b4a",
+   "title": "Siber Güvenlik Başkanlığı, PHP Güvenlik Açıklarıyla İlgili Uyarıda Bulundu",
+   "summary": "Siber Güvenlik Başkanlığı, PHP'de keşfedilen güvenlik açıklarının ardından uyarı yayımladı.",
+   "link": "https://www.webtekno.com/siber-guvenlik-baskanligi-php-uyari-h227674.html",
+   "image": "https://imgrosetta.webtekno.com/file/694183/694183-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-22T04:14:25+00:00",
+   "url": "/haber/siber-guvenlik-baskanligi-php-guvenlik-aciklariyla-ilgili-uyarida-bulu-ea9e8b4a/"
+  },
+  {
+   "id": "79e85b0f",
+   "title": "Efsane Oyun Şirketi BioWare Kapanıyor!",
+   "summary": "Electronic Arts , Mass Effect ile Dragon Age gibi ikonik serilere imza atan efsanevi geliştirici BioWare'i kapatma kararı aldı.",
+   "link": "https://www.webtekno.com/bioware-kapaniyor-h227671.html",
+   "image": "https://imgrosetta.webtekno.com/file/694181/694181-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-22T04:05:58+00:00",
+   "url": "/haber/efsane-oyun-sirketi-bioware-kapaniyor-79e85b0f/"
+  },
+  {
+   "id": "2b031350",
+   "title": "İnternet Siteleri Tehlikede: PHP Tüm Dünyayı Kitledi",
+   "summary": "PHP programlama dilinde keşfedilen iki kritik güvenlik açığı nedeniyle dünya genelinde birçok internet sitesi geçici olarak kapatılıyor.",
+   "link": "https://shiftdelete.net/php-kritik-guvenlik-acigi-internet-siteleri",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-22T04:00:43+00:00",
+   "url": "/haber/internet-siteleri-tehlikede-php-tum-dunyayi-kitledi-2b031350/"
   },
   {
    "id": "08300822",
@@ -319,17 +374,6 @@
    "category": "teknoloji",
    "date": "2026-10-21T20:42:08+00:00",
    "url": "/haber/php-krizi-interneti-vurdu-dunya-capinda-web-siteleri-kapatiliyor-72c615ee/"
-  },
-  {
-   "id": "efaad6ef",
-   "title": "İsrail'deki ankete göre Netanyahu bloğu 51 sandalyeye gerilerken Eisenkot'un bloğu 55'e ulaştı",
-   "summary": "İsrail'de yapılan bir anket, Başbakan Binyamin Netanyahu liderliğindeki bloğun 2 sandalye kaybederek 51'e gerilediğini, Yashar Partisi lideri Gadi Eisenkot'un bloğunun ise 55 sandalyeye ulaştığını ortaya koydu.",
-   "link": "https://www.aa.com.tr/tr/dunya/israildeki-ankete-gore-netanyahu-blogu-51-sandalyeye-gerilerken-eisenkotun-blogu-55e-ulasti/4096505",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-21T20:41:51+00:00",
-   "url": "/haber/israil-deki-ankete-gore-netanyahu-blogu-51-sandalyeye-gerilerken-eisen-efaad6ef/"
   },
   {
    "id": "48694590",
@@ -838,28 +882,6 @@
    "url": "/haber/tiktok-cocuklarin-istismar-edildigi-yayinlardan-gelir-elde-etmekle-suc-dcda55a6/"
   },
   {
-   "id": "6e79fb18",
-   "title": "BMW’nin Station Wagon Tipindeki İlk Elektrikli 3 Serisi i3 Touring Görüntülendi",
-   "summary": "BMW’nin station wagon tipindeki ilk elektrikli 3 serisi modeli olacak i3 Touring, yollarda test edilirken görüntülendi.",
-   "link": "https://www.webtekno.com/bmw-ilk-station-wagon-elektrikli-3-serisi-i3-touring-goruntulendi-h227632.html",
-   "image": "https://imgrosetta.webtekno.com/file/694081/694081-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T13:36:24+00:00",
-   "url": "/haber/bmw-nin-station-wagon-tipindeki-ilk-elektrikli-3-serisi-i3-touring-gor-6e79fb18/"
-  },
-  {
-   "id": "071bdfdc",
-   "title": "Samsung’un Akıllı Gözlükleri Henüz Piyasaya Çıkmadan Bir Sorunla Karşı Karşıya",
-   "summary": "Samsung'un Android XR akıllı gözlükleri, teknik özellikleriyle iddialı görünse de tasarımıyla soru işaretleri yaratıyor.",
-   "link": "https://www.webtekno.com/samsung-akilli-gozlukler-piyasaya-cikmadan-bir-sorunla-karsi-karsiya-h227629.html",
-   "image": "https://imgrosetta.webtekno.com/file/694063/694063-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-21T13:36:15+00:00",
-   "url": "/haber/samsung-un-akilli-gozlukleri-henuz-piyasaya-cikmadan-bir-sorunla-karsi-071bdfdc/"
-  },
-  {
    "id": "4a9ea7b3",
    "title": "WhatsApp, iPhone’da Safari’nin İşini Üstlenmeye Hazırlanıyor",
    "summary": "WhatsApp’ta bir arkadaşınızın gönderdiği linke dokunduğunuzda iPhone’unuz sizi doğrudan Safari’ye ya da varsayılan tarayıcınıza götürüyor. Bu durum yakında değişebilir. WhatsApp, iPhone uygulaması için sohbetlerde…",
@@ -1078,28 +1100,6 @@
    "category": "gundem",
    "date": "2026-10-21T11:54:00+00:00",
    "url": "/haber/kuyumcuya-kursun-yagdirdi-kacmak-icin-kadinin-aracini-gasp-etti-e25cf680/"
-  },
-  {
-   "id": "e480ed90",
-   "title": "Boeing 737 MAX Ailesinin En Büyüğü 737-10 Resmen Onaylandı",
-   "summary": "Havacılık sektörünün uzun süredir merakla beklediği kritik onay nihayet geldi. ABD Federal Havacılık İdaresi (FAA), Boeing’in popüler 737 MAX ailesinin en yüksek kapasiteli üyesi olan 737-10 modelini resmen…",
-   "link": "https://shiftdelete.net/boeing-737-max-ailesinin-en-buyugu-737-10-resmen-onaylandi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-21T11:53:27+00:00",
-   "url": "/haber/boeing-737-max-ailesinin-en-buyugu-737-10-resmen-onaylandi-e480ed90/"
-  },
-  {
-   "id": "677125fa",
-   "title": "HONOR Robot Phone, TIME Tarafından 2026’nın En İyi İcatları Arasına Seçildi",
-   "summary": "HONOR’un ağustos ayında sahneye çıkardığı sıra dışı modeli HONOR Robot Phone, prestijli TIME dergisi tarafından hazırlanan “2026’nın En İyi İcatları” listesinde yerini aldı. Gövdesine entegre 360 derece dönebilen…",
-   "link": "https://shiftdelete.net/honor-robot-phone-time-tarafindan-2026nin-en-iyi-icatlari-arasina-secildi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-21T11:51:37+00:00",
-   "url": "/haber/honor-robot-phone-time-tarafindan-2026-nin-en-iyi-icatlari-arasina-sec-677125fa/"
   },
   {
    "id": "0034125b",
