@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-22T14:01:23.731730+00:00",
+ "updated": "2026-10-22T14:31:00.625359+00:00",
  "items": [
+  {
+   "id": "1acdb5ac",
+   "title": "Yapay zekadan etkilenen mesleklerde istihdam artışı, erkeklerde kadınlara göre daha yüksek",
+   "summary": "ABD merkezli Pew Research Center'ın araştırması, yapay zekadan daha fazla etkilenen mesleklerde erkeklerin istihdamının kadınlara kıyasla daha hızlı arttığını ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yapay-zekadan-etkilenen-mesleklerde-istihdam-artisi-erkeklerde-kadinlara-gore-daha-yuksek/4097400",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T14:22:35+00:00",
+   "url": "/haber/yapay-zekadan-etkilenen-mesleklerde-istihdam-artisi-erkeklerde-kadinla-1acdb5ac/"
+  },
+  {
+   "id": "db903c9a",
+   "title": "Malatya'da depremde 3 kişinin öldüğü apartmanın yıkılmasına ilişkin davada karar çıktı",
+   "summary": "Malatya'da, 6 Şubat 2023'teki Kahramanmaraş merkezli depremlerde 3 kişinin hayatını kaybettiği, 1 kişinin yaralandığı Dağdeviren Apartmanı'nın yıkılmasına ilişkin davada 4 sanığa hapis cezası verildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/malatyada-depremde-3-kisinin-oldugu-apartmanin-yikilmasina-iliskin-davada-karar-cikti/4097396",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T14:18:33+00:00",
+   "url": "/haber/malatya-da-depremde-3-kisinin-oldugu-apartmanin-yikilmasina-iliskin-da-db903c9a/"
+  },
+  {
+   "id": "63757405",
+   "title": "Cloudflare, PHP açıklarına karşı koruma sağladı: Milyonlarca saldırı oldu",
+   "summary": "PHP'deki iki kritik güvenlik açığı için saldırı girişimleri milyonlara ulaştı. Cloudflare tüm planlarda koruma sağlarken kullanıcıları PHP'yi acilen güncellemeye çağırıyor.",
+   "link": "https://www.donanimhaber.com/cloudflare-php-aciklarina-karsi-koruma-sagladi--211958",
+   "image": "https://www.donanimhaber.com/images/images/haber/211958/1200x675cloudflare-php-aciklarina-karsi-koruma-sagladi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-22T14:17:00+00:00",
+   "url": "/haber/cloudflare-php-aciklarina-karsi-koruma-sagladi-milyonlarca-saldiri-old-63757405/"
+  },
+  {
+   "id": "9927bfac",
+   "title": "İsrailli milletvekili ve Meclis adayları Gazze Şeridi'ne yardım taşıyan tırların önünü kesti",
+   "summary": "İsrail'de bir muhalefet milletvekili ile Meclis adayları, Filistin topraklarını gasbeden İsrailliler ve aşırı sağcı gruplarla birlikte Kerem Ebu Salim Sınır Kapısı yakınlarında Gazze Şeridi'ne giden insani yardım…",
+   "link": "https://www.aa.com.tr/tr/dunya/israilli-milletvekili-ve-meclis-adaylari-gazze-seridine-yardim-tasiyan-tirlarin-onunu-kesti/4097378",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T14:01:32+00:00",
+   "url": "/haber/israilli-milletvekili-ve-meclis-adaylari-gazze-seridi-ne-yardim-tasiya-9927bfac/"
+  },
   {
    "id": "c04a4f8e",
    "title": "Xbox’tan Bulut Oyunlar için Saatlik Ücretlendirme Dönemi",
@@ -11,6 +55,17 @@
    "category": "teknoloji",
    "date": "2026-10-22T14:00:04+00:00",
    "url": "/haber/xbox-tan-bulut-oyunlar-icin-saatlik-ucretlendirme-donemi-c04a4f8e/"
+  },
+  {
+   "id": "783c2036",
+   "title": "Yunanistan'da Türk azınlığın itirazlarına rağmen Gümülcine ve İskeçe'ye müftü atandı",
+   "summary": "Yunanistan hükümeti, Batı Trakya Türk Azınlığının müftülerini seçme taleplerine rağmen Gümülcine ve İskeçe müftülüklerine yeni atamalar yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/yunanistanda-turk-azinligin-itirazlarina-ragmen-gumulcine-ve-iskeceye-muftu-atandi/4097376",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T13:58:55+00:00",
+   "url": "/haber/yunanistan-da-turk-azinligin-itirazlarina-ragmen-gumulcine-ve-iskece-y-783c2036/"
   },
   {
    "id": "cc897cf5",
@@ -79,6 +134,39 @@
    "url": "/haber/suudi-arabistan-a-ait-askeri-ucak-yunanistan-a-acil-inis-yapti-fde28058/"
   },
   {
+   "id": "53c94e62",
+   "title": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kanada Başbakanı Mark Carney ile ortak basın toplantısı düzenliyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4097340",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T13:42:51+00:00",
+   "url": "/haber/canli-cumhurbaskani-erdogan-konusuyor-53c94e62/"
+  },
+  {
+   "id": "0d56145f",
+   "title": "60 saniyede ekonomide bugün (22 Ekim 2026)",
+   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-22-ekim-2026/4097329",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T13:39:30+00:00",
+   "url": "/haber/60-saniyede-ekonomide-bugun-22-ekim-2026-0d56145f/"
+  },
+  {
+   "id": "307daaef",
+   "title": "60 saniyede bugün (22 Ekim 2026)",
+   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-22-ekim-2026/4097326",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T13:38:04+00:00",
+   "url": "/haber/60-saniyede-bugun-22-ekim-2026-307daaef/"
+  },
+  {
    "id": "105d548d",
    "title": "SPK'den takas kesinliği ve pay blokajı alt hesabı hususlarına ilişkin açıklama",
    "summary": "SPK, tasfiye sürecinde, özellikle pay blokajı alt hesabı (PBLK) statüsündeki yatırımcılar bakımından, satış talimatlarının verilmiş olması veya sistemde belirli bir kaydın bulunmasının tek başına takasın başladığı…",
@@ -134,6 +222,17 @@
    "url": "/haber/yapay-zeka-64-saatte-akrep-zehrine-karsi-protein-tasarladi-peki-bu-ger-cf6f5b69/"
   },
   {
+   "id": "d3a01795",
+   "title": "Mekke Anlaşması komisyona geliyor",
+   "summary": "TBMM Dışişleri Komisyonu Başkanı Fuat Oktay, Mekke Anlaşması'nın gelecek hafta salı günü Meclis Dışişleri Komisyonu’nda görüşüleceğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-komisyona-geliyor-960917.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2402000/tbmm-2403007.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-22T13:35:00+00:00",
+   "url": "/haber/mekke-anlasmasi-komisyona-geliyor-d3a01795/"
+  },
+  {
    "id": "8899baff",
    "title": "Yeni BMW F 450 RR, Mayıs 2027'de Türkiye'de satışa sunulacak",
    "summary": "S 1000 RR’ın tasarım dilinden ilham alan yeni BMW F 450 RR; 420 cc çift silindirli motoru, 48 HP gücü ve 177 kg’lık sürüşe hazır ağırlığıyla hafiflik, çeviklik ve performansı bir araya getiriyor.",
@@ -178,17 +277,6 @@
    "url": "/haber/dunyadaki-sig-su-mercan-resiflerinin-yuzde-96-si-yok-olma-tehlikesiyle-2f255d31/"
   },
   {
-   "id": "35295e82",
-   "title": "Arnavutluk'ta ülkedeki gösterilerin gündeme alınması talebi mecliste arbedeye sebep oldu",
-   "summary": "Arnavutluk'ta muhalefet partilerinin milletvekillerinin, ülkede 10 gündür süren öğrenci gösterilerinin gündeme alınmasını talep etmesi üzerine mecliste arbede yaşandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/arnavutlukta-ulkedeki-gosterilerin-gundeme-alinmasi-talebi-mecliste-arbedeye-sebep-oldu/4097288",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T13:19:06+00:00",
-   "url": "/haber/arnavutluk-ta-ulkedeki-gosterilerin-gundeme-alinmasi-talebi-mecliste-a-35295e82/"
-  },
-  {
    "id": "0810edb3",
    "title": "İngiltere'de bir emekli, Pokémon kartlarını açık artırmada satarak milyoner oldu",
    "summary": "15 yıldır tavan arasında saklanan bir hazine bulduğunu söylüyor.",
@@ -211,28 +299,6 @@
    "url": "/haber/istanbul-da-aracla-ise-gidip-gelmenin-aylik-maliyeti-ne-kadar-79c12724/"
   },
   {
-   "id": "154eaa62",
-   "title": "Fransa'da, hayvanlarda görülen Shamonda virüsü ilk kez bir insanda tespit edildi",
-   "summary": "Fransa’da, bugüne kadar hayvanlarda görülen Shamonda virüsünün ilk insan vakası doğrulandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-hayvanlarda-gorulen-shamonda-virusu-ilk-kez-bir-insanda-tespit-edildi/4097275",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T13:12:31+00:00",
-   "url": "/haber/fransa-da-hayvanlarda-gorulen-shamonda-virusu-ilk-kez-bir-insanda-tesp-154eaa62/"
-  },
-  {
-   "id": "2200623c",
-   "title": "Gazze'de, İsrail'in un sevkiyatına izin vermemesi nedeniyle fırınların çoğu faaliyetlerini durdurdu",
-   "summary": "Gazze'deki Sosyal Kalkınma Bakanlığı, İsrail'in Gazze Şeridi'ne temel gıda maddeleri ve un girişini engellemesi sebebiyle, kentteki fırınların çoğunun çalışmalarını durdurması sonucu Filistinlilerin hayatının tehdit…",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzede-israilin-un-sevkiyatina-izin-vermemesi-nedeniyle-firinlarin-cogu-faaliyetlerini-durdurdu/4097274",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T13:12:20+00:00",
-   "url": "/haber/gazze-de-israil-in-un-sevkiyatina-izin-vermemesi-nedeniyle-firinlarin-2200623c/"
-  },
-  {
    "id": "9850f303",
    "title": "Sony'nin disk kararına yeni yorum: \"Tepki gösterenler azınlık\"",
    "summary": "Sony'nin 2028'de fiziksel PlayStation oyunlarını sonlandırma kararına yönelik tepkiler sürüyor. Yeni analiz, tepkinin kaynağındaki oyuncu kitlesine dair dikkat çekici veriler sunuyor.",
@@ -244,17 +310,6 @@
    "url": "/haber/sony-nin-disk-kararina-yeni-yorum-tepki-gosterenler-azinlik-9850f303/"
   },
   {
-   "id": "ac9ef878",
-   "title": "Dışişleri Bakanı Fidan, Kanadalı mevkidaşı Anand ile bir araya geldi",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Kanada Dışişleri Bakanı Anita Anand ile görüştü.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-kanadali-mevkidasi-anand-ile-bir-araya-geldi/4097271",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T13:08:11+00:00",
-   "url": "/haber/disisleri-bakani-fidan-kanadali-mevkidasi-anand-ile-bir-araya-geldi-ac9ef878/"
-  },
-  {
    "id": "1c8d073f",
    "title": "20 suç kaydı vardı: Çatıda böyle yakalandı",
    "summary": "Bursa'da uyuşturucu madde kullanmak ve bulundurmak suçundan 3 yıl 10 ay hapis cezasıyla aranan kaçak şahıs bir apartmanın çatı katında saklanırken yakalandı.",
@@ -264,17 +319,6 @@
    "category": "gundem",
    "date": "2026-10-22T13:03:51+00:00",
    "url": "/haber/20-suc-kaydi-vardi-catida-boyle-yakalandi-1c8d073f/"
-  },
-  {
-   "id": "e8dddd02",
-   "title": "İstanbul'da 9. Uluslararası Mavi Karadeniz Kongresi düzenlendi",
-   "summary": "Marmara Üniversitesi Siyasal Bilgiler Fakültesi tarafından 9. Uluslararası Mavi Karadeniz Kongresi düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-9-uluslararasi-mavi-karadeniz-kongresi-duzenlendi/4097265",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T13:02:52+00:00",
-   "url": "/haber/istanbul-da-9-uluslararasi-mavi-karadeniz-kongresi-duzenlendi-e8dddd02/"
   },
   {
    "id": "372972bb",
@@ -310,17 +354,6 @@
    "url": "/haber/iphone-duo-nun-mentese-sistemi-30-binden-fazla-katlamayla-test-edildi-632f31b7/"
   },
   {
-   "id": "dba11aa0",
-   "title": "İstanbul Photo Awards 2026 Sergisi Roma'da açıldı",
-   "summary": "Anadolu Ajansının (AA) düzenlediği İstanbul Photo Awards 2026'nın ikinci sergisi İtalya'nın başkenti Roma'da açıldı.",
-   "link": "https://www.aa.com.tr/tr/kultur/istanbul-photo-awards-2026-sergisi-romada-acildi/4097258",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T12:54:50+00:00",
-   "url": "/haber/istanbul-photo-awards-2026-sergisi-roma-da-acildi-dba11aa0/"
-  },
-  {
    "id": "3934f5b3",
    "title": "PBLK düzenlemesi: Fon teklifinde yapılan değişiklik neden tartışılıyor?",
    "summary": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifinde önemli bir değişiklik yapıldı. 21 Ekim'de Meclis Genel Kurulu'nda görüşülmeye başlanan teklifin 3. maddesinde AKP…",
@@ -330,17 +363,6 @@
    "category": "gundem",
    "date": "2026-10-22T12:54:14+00:00",
    "url": "/haber/pblk-duzenlemesi-fon-teklifinde-yapilan-degisiklik-neden-tartisiliyor-3934f5b3/"
-  },
-  {
-   "id": "34b7f775",
-   "title": "Cumhurbaşkanı Erdoğan, Kanada Başbakanı Carney'i resmi törenle karşıladı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'yi ziyaret eden Kanada Başbakanı Mark Carney'i resmi törenle karşıladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kanada-basbakani-carneyi-resmi-torenle-karsiladi/4097254",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T12:53:11+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-kanada-basbakani-carney-i-resmi-torenle-karsilad-34b7f775/"
   },
   {
    "id": "27365523",
@@ -396,17 +418,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T12:30:02+00:00",
    "url": "/haber/iphone-duo-2-prototiplerinde-ekran-alti-face-id-test-ediliyor-4791d651/"
-  },
-  {
-   "id": "e0e75786",
-   "title": "AK Parti Genel Başkan Yardımcısı Zorlu, \"Bağımsızlıklarının 35. Yılında Türk Devletleri ve TİKA\" programına katıldı",
-   "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, \"Kimi ülkeler gittikleri coğrafyaları cetvelle parçalamış, bölmüş, böyle yönetmeye çalışmış. Biz ise atalarımızın, ecdadımızın mirasının bir gereği olarak oraya gidip gönül…",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-bagimsizliklarinin-35-yilinda-turk-devletleri-ve-tika-programina-katildi/4097209",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T12:26:34+00:00",
-   "url": "/haber/ak-parti-genel-baskan-yardimcisi-zorlu-bagimsizliklarinin-35-yilinda-t-e0e75786/"
   },
   {
    "id": "cd479624",
@@ -627,6 +638,17 @@
    "category": "gundem",
    "date": "2026-10-22T11:14:56+00:00",
    "url": "/haber/dunya-capinda-kritik-siber-guvenlik-acigi-turkiye-de-ulusal-olcekte-ta-a80a4061/"
+  },
+  {
+   "id": "445c6c7f",
+   "title": "TAV, lounge hizmeti Primeclass'ın yeni konseptini Esenboğa Havalimanı'nda tanıttı",
+   "summary": "TAV Havalimanları Ticari İşlerden Sorumlu Grup Başkanı Aude Ferrand:, Türkiye'de ilk kez Ankara'da uyguladığımız bu konsepti, hizmet verdiğimiz her destinasyonun yerel kimliğiyle harmanlayarak global hizmet ağımıza…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tav-lounge-hizmeti-primeclassin-yeni-konseptini-esenboga-havalimaninda-tanitti/4097076",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T11:05:17+00:00",
+   "url": "/haber/tav-lounge-hizmeti-primeclass-in-yeni-konseptini-esenboga-havalimani-n-445c6c7f/"
   },
   {
    "id": "e9c57c47",
@@ -992,17 +1014,6 @@
    "url": "/haber/msb-deniz-yetki-alanlari-muhtirasi-nin-onaylanmasini-memnuniyetle-kars-cfa29db1/"
   },
   {
-   "id": "f913b63d",
-   "title": "Kritik PHP güvenlik yaması yayınlandı! Peki PHP nasıl güncellenir?",
-   "summary": "PHP’de ortaya çıkan kritik güvenlik açıkları, internet sitelerini risk altında bırakıyor. Peki PHP nasıl güncellenir ve siteler bu tür güvenlik açıklarına karşı nasıl korunur?",
-   "link": "https://www.donanimhaber.com/php-surumu-nasil-guncellenir-php-surumu-ogrenme-ve-guncelleme--211948",
-   "image": "https://www.donanimhaber.com/images/images/haber/211948/1200x675php-surumu-nasil-guncellenir-php-surumu-ogrenme-ve-guncelleme.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-22T08:59:00+00:00",
-   "url": "/haber/kritik-php-guvenlik-yamasi-yayinlandi-peki-php-nasil-guncellenir-f913b63d/"
-  },
-  {
    "id": "dcf7b99d",
    "title": "Mark Zuckerberg: “Muse, kullanıcı başına Facebook ve Instagram’dan daha fazla kazandırabilir”",
    "summary": "Meta CEO’su Mark Zuckerberg, şirketin kişisel yapay zeka ajanı Muse’dan para kazanmak için çalışmalara başladığını ve ajanın zamanla kullanıcı başına Facebook ile Instagram’dan daha fazla gelir getirmesini beklediğini…",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-10-21T10:22:00+00:00",
    "url": "/haber/turkiye-katar-pakistan-ve-endonezya-dan-dev-savunma-anlasmasi-4c871bbc/"
-  },
-  {
-   "id": "c82b3717",
-   "title": "Cumhurbaşkanı Erdoğan: Bu milletin kardeşliğinden artık ellerinizi çekin",
-   "summary": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, muhalefetten gelen 'savaştayız' açıklamasına tepki göstererek, \"Bu milletin kardeşliğinden artık ellerinizi çekin; bölerek, ötekileştirerek varacağınız…",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bu-milletin-kardesliginden-artik-ellerinizi-cekin-960745.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/erdogan-2497475.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-21T08:48:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-bu-milletin-kardesliginden-artik-ellerinizi-ceki-c82b3717/"
   },
   {
    "id": "d31c0733",
