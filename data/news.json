@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T23:01:08.739849+00:00",
+ "updated": "2026-10-22T23:30:57.851668+00:00",
  "items": [
   {
    "id": "cc82f46e",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-22T23:00:00+00:00",
+   "date": "2026-10-22T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-cc82f46e/"
+  },
+  {
+   "id": "0d334164",
+   "title": "Almanya'daki iltica başvurularında 'rüşvetle soruşturma' iddiası",
+   "summary": "Haftalık Die Zeit gazetesinin haberine göre suç örgütleri, Almanya'ya iltica etmek isteyenler için Türkiye'de bazı savcılara rüşvet vererek \"Cumhurbaşkanı Erdoğan'a hakaret\" suçlamasıyla ceza soruşturması açtırıyor.…",
+   "link": "https://www.bbc.com/turkce/articles/cmdx3rdpxke1o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc59/live/f2478370-ce29-11f1-a64c-550be9e3c66b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-22T23:09:41+00:00",
+   "url": "/haber/almanya-daki-iltica-basvurularinda-rusvetle-sorusturma-iddiasi-0d334164/"
+  },
+  {
+   "id": "b588ad9d",
+   "title": "Türkiye, Mekke ve Bedir ittifaklarıyla ne hedefliyor?",
+   "summary": "Türkiye, \"bölgesel sahiplenme\" adını verdiği dış politika anlayışı kapsamında Ortadoğu'da güvenlik işbirliğini güçlendirme amaçlı kurumsal adımlar attı. Ankara önce Suudi Arabistan ve Pakistan ile Mekke, sonra da Katar,…",
+   "link": "https://www.bbc.com/turkce/articles/cq77pze3nr2ro?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e54/live/21045a10-ce68-11f1-ab75-d744dbb6f3f7.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-22T23:00:52+00:00",
+   "url": "/haber/turkiye-mekke-ve-bedir-ittifaklariyla-ne-hedefliyor-b588ad9d/"
   },
   {
    "id": "92c44573",
@@ -33,17 +55,6 @@
    "category": "gundem",
    "date": "2026-10-22T22:34:07+00:00",
    "url": "/haber/vatikan-papa-14-leo-ameliyat-sonrasinda-baska-tedaviye-ihtiyac-duymaya-8f024a7f/"
-  },
-  {
-   "id": "20a2b275",
-   "title": "Çukurova Belediye Başkanı Emrah Kozay tutuklandı",
-   "summary": "Adana'da Çukurova Belediyesine yönelik soruşturma kapsamında, aralarında mevcut Belediye Başkanı Emrah Kozay ve önceki dönem belediye başkanı Soner Çetin'in de bulunduğu 44 kişi gözaltına alındı.",
-   "link": "https://www.bbc.com/turkce/articles/cq70pxdzldldo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b61/live/7609bbe0-cb8e-11f1-93a7-b36f3083f4d3.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-22T22:20:23+00:00",
-   "url": "/haber/cukurova-belediye-baskani-emrah-kozay-tutuklandi-20a2b275/"
   },
   {
    "id": "19c06e20",
@@ -332,17 +343,6 @@
    "url": "/haber/super-loto-cekilis-sonuclari-belli-oldu-22-ekim-2026-mpi-super-loto-ka-e332c861/"
   },
   {
-   "id": "ed122eff",
-   "title": "Trabzonspor, UEFA Konferans Ligi'nde Hearts'ı 2-0 yendi",
-   "summary": "Trabzonspor, UEFA Konferans Ligi ikinci hafta maçında İskoç ekibi Hearts'ı 2-0 yendi",
-   "link": "https://www.bbc.com/turkce/articles/ckwy43vwz4wyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9109/live/ace4a9b0-ce48-11f1-9a39-31b474234113.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-22T18:46:53+00:00",
-   "url": "/haber/trabzonspor-uefa-konferans-ligi-nde-hearts-i-2-0-yendi-ed122eff/"
-  },
-  {
    "id": "1c11c8dc",
    "title": "NVIDIA Halos SAFE Tanıtıldı: Otonom Araç Güvenliği Tek Döngüde Toplanıyor",
    "summary": "Yeni çerçeve; simülasyon, yol testleri ve filo verisini birleştirerek L2 sürüş desteğinden L4 robotaksilere kadar güvenliği ölçülebilir kılmayı hedefliyor.",
@@ -451,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T17:41:00+00:00",
    "url": "/haber/behzat-c-icin-surpriz-karar-hbo-max-duyurdugu-yayin-tarihiyle-sasirtti-b83d698a/"
-  },
-  {
-   "id": "3934f5b3",
-   "title": "Fon kanun teklifi Meclis'ten geçti",
-   "summary": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifi Meclis'ten geçti. 21 Ekim'de Meclis Genel Kurulu'nda görüşülmeye başlanan teklifin 3. maddesinde AKP önergesiyle yapılan…",
-   "link": "https://www.bbc.com/turkce/articles/cq62y07ngvepo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/15ac/live/a43291b0-ce02-11f1-8991-296181d7e3de.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-22T17:24:37+00:00",
-   "url": "/haber/fon-kanun-teklifi-meclis-ten-gecti-3934f5b3/"
   },
   {
    "id": "c6cf04b0",
@@ -1265,6 +1254,17 @@
    "category": "gundem",
    "date": "2026-10-21T06:59:42+00:00",
    "url": "/haber/bm-nin-1-5-derece-raporunda-turkiye-ile-ilgili-hangi-uyarilar-var-d31c0733/"
+  },
+  {
+   "id": "7b2ce4cd",
+   "title": "Yüz fotoğrafınız ne kadar hasta olduğunuzu gösterebilir mi?",
+   "summary": "ABD'de yapılan bir araştırma, yapay zeka kullanılarak, bir hastalığın ne kadar ilerlemiş olduğunun hastanın yüz fotoğrafı üzerinden de değerlendirilebileceğini savundu.",
+   "link": "https://www.bbc.com/turkce/articles/cmjwe7y5wx5zo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-20T13:41:30+00:00",
+   "url": "/haber/yuz-fotografiniz-ne-kadar-hasta-oldugunuzu-gosterebilir-mi-7b2ce4cd/"
   }
  ]
 }
