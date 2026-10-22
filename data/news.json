@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:01:09.774731+00:00",
+ "updated": "2026-10-22T21:30:59.735188+00:00",
  "items": [
   {
    "id": "cc82f46e",
@@ -9,19 +9,107 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-22T21:00:00+00:00",
+   "date": "2026-10-22T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-cc82f46e/"
   },
   {
-   "id": "008bc385",
-   "title": "Beşiktaş, Crystal Palace ile berabere kaldı",
-   "summary": "Beşiktaş, UEFA Avrupa Ligi'nde Crystal Palace ile 2-2 berabere kaldı.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-crystal-palace-ile-berabere-kaldi/4097852",
+   "id": "adc99bb2",
+   "title": "Beşiktaş, UEFA Avrupa Ligi'nde Crystal Palace ile berabere kaldı",
+   "summary": "Beşiktaş, UEFA Avrupa Ligi'nin üçüncü hafta maçında Dolmabahçe'de İngiltere Premier Lig takımlarından Crystal Palace ile 2-2 berabere kaldı",
+   "link": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed0d/live/1f307380-ce5f-11f1-9a39-31b474234113.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-22T21:26:01+00:00",
+   "url": "/haber/besiktas-uefa-avrupa-ligi-nde-crystal-palace-ile-berabere-kaldi-adc99bb2/"
+  },
+  {
+   "id": "312e03ff",
+   "title": "ABD Başkanı Trump, İran'la ilgili \"daha ileri gidebileceklerini\" belirtti",
+   "summary": "ABD Başkanı Donald Trump, İran'a birçok açıdan ciddi zarar verdiklerini savunarak, \"Belki biraz daha ileri gidebiliriz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-ilgili-daha-ileri-gidebileceklerini-belirtti/4097877",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T21:24:31+00:00",
+   "url": "/haber/abd-baskani-trump-iran-la-ilgili-daha-ileri-gidebileceklerini-belirtti-312e03ff/"
+  },
+  {
+   "id": "a4b0cea9",
+   "title": "Fon soruşturması: SPK'dan 48 kişi hakkında suç duyurusu",
+   "summary": "Sermaye Piyasası Kurulu (SPK), fon soruşturmasının odağındaki şirketlerden Tera Yatırım, Tera Portföy ve Pusula Portföy'ün yönetiminde yer alan ve bazıları tutuklu olan kişiler de dahil olmak üzere 48 kişi hakkında suç…",
+   "link": "https://www.bbc.com/turkce/articles/cj5yn01wp4p3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edf2/live/78b62780-ce5d-11f1-bc2e-018d645d8d21.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-22T21:24:21+00:00",
+   "url": "/haber/fon-sorusturmasi-spk-dan-48-kisi-hakkinda-suc-duyurusu-a4b0cea9/"
+  },
+  {
+   "id": "afd23825",
+   "title": "UEFA Avrupa Ligi'nin üçüncü haftası, oynanan 18 maçla tamamlandı",
+   "summary": "Avrupa futbolunun kulüp düzeyindeki iki numaralı turnuvasının lig aşamasında, 18 karşılaşma oynandı.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-avrupa-liginin-ucuncu-haftasi-oynanan-18-macla-tamamlandi/4097873",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T21:11:43+00:00",
+   "url": "/haber/uefa-avrupa-ligi-nin-ucuncu-haftasi-oynanan-18-macla-tamamlandi-afd23825/"
+  },
+  {
+   "id": "a05e5940",
+   "title": "Endonezya'da orman yangınları nedeniyle 333 binden fazla kişide akut solunum yolu enfeksiyonu saptandı",
+   "summary": "Endonezya'da aylardır süren orman yangınları nedeniyle 333 binden fazla akut solunum yolu enfeksiyonu vakası kayıtlara geçti.",
+   "link": "https://www.aa.com.tr/tr/dunya/endonezyada-orman-yanginlari-nedeniyle-333-binden-fazla-kiside-akut-solunum-yolu-enfeksiyonu-saptandi/4097859",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T21:04:24+00:00",
+   "url": "/haber/endonezya-da-orman-yanginlari-nedeniyle-333-binden-fazla-kiside-akut-s-a05e5940/"
+  },
+  {
+   "id": "f1728314",
+   "title": "Trump'ın, Musk'ı arayarak Ukrayna'daki Starlink hizmetiyle ilgili kısıtlamaları kaldırmasını istediği savunuldu",
+   "summary": "ABD Başkanı Donald Trump'ın, SpaceX CEO'su Elon Musk'ı arayarak, \"Ukrayna'da askeri düzeydeki Starlink projesine getirdiği sınırlamaları kaldırmasını istediği\" iddia edildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trumpin-muski-arayarak-ukraynadaki-starlink-hizmetiyle-ilgili-kisitlamalari-kaldirmasini-istedigi-savunuldu/4097858",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T21:04:14+00:00",
+   "url": "/haber/trump-in-musk-i-arayarak-ukrayna-daki-starlink-hizmetiyle-ilgili-kisit-f1728314/"
+  },
+  {
+   "id": "9fa411af",
+   "title": "ABD Başkanı Trump'tan LeBron James'e \"milli marş\" tepkisi",
+   "summary": "ABD Başkanı Donald Trump, Amerikan milli marşı okunurken marşı dinlemeyip \"saygısızlık\" yaptığını belirttiği ünlü NBA oyuncusu LeBron James'in Amerikan halkından özür dilemesi gerektiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/spor/abd-baskani-trumptan-lebron-jamese-milli-mars-tepkisi/4097857",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T21:04:06+00:00",
+   "url": "/haber/abd-baskani-trump-tan-lebron-james-e-milli-mars-tepkisi-9fa411af/"
+  },
+  {
+   "id": "1330929f",
+   "title": "UEFA Konferans Ligi'nin ikinci haftası, 18 maçla tamamlandı",
+   "summary": "Avrupa futbolunun kulüp düzeyindeki üç numaralı turnuvasının lig aşamasında, 18 karşılaşma oynandı.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-konferans-liginin-ikinci-haftasi-18-macla-tamamlandi/4097856",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-22T21:01:55+00:00",
+   "url": "/haber/uefa-konferans-ligi-nin-ikinci-haftasi-18-macla-tamamlandi-1330929f/"
+  },
+  {
+   "id": "8258b356",
+   "title": "Beşiktaş, Avrupa'da yoluna yenilgisiz devam etti",
+   "summary": "UEFA Avrupa Ligi'nin 3. haftasında Beşiktaş, geçen sezonu Konferans Ligi şampiyonu olarak tamamlayan Premier Lig ekibi Crystal Palace'la 2-2 berabere kaldı.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-avrupada-yoluna-yenilgisiz-devam-etti/4097852",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-22T20:57:01+00:00",
-   "url": "/haber/besiktas-crystal-palace-ile-berabere-kaldi-008bc385/"
+   "url": "/haber/besiktas-avrupa-da-yoluna-yenilgisiz-devam-etti-8258b356/"
   },
   {
    "id": "23348e2a",
@@ -112,17 +200,6 @@
    "url": "/haber/iphone-duo-2-ekran-alti-face-id-ile-gelebilir-fe6e9309/"
   },
   {
-   "id": "e2f53663",
-   "title": "Anadolu Efes, Beşiktaş'ı 89-80 mağlup etti",
-   "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 7. haftasında Anadolu Efes, sahasında Beşiktaş'ı 89-80 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-besiktasi-89-80-maglup-etti/4097823",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T20:02:03+00:00",
-   "url": "/haber/anadolu-efes-besiktas-i-89-80-maglup-etti-e2f53663/"
-  },
-  {
    "id": "665c2668",
    "title": "Çinli Üreticiler iPhone 18 Pro Özelliklerini Android’e Taşıyor",
    "summary": "Android dünyasında değişken diyaframlı kamera teknolojisi ve çerçevesiz ekran tasarımları, yeni nesil amiral gemisi modelleriyle geri dönüyor.",
@@ -178,17 +255,6 @@
    "url": "/haber/turk-hava-kuvvetleri-ne-2-adet-hurkus-2-daha-geliyor-ac182711/"
   },
   {
-   "id": "375cafe1",
-   "title": "Arnavutluk'ta öğrencilerin eğitim koşullarının iyileştirilmesi talebiyle düzenlediği protestolar sürüyor",
-   "summary": "Arnavutluk'un başkenti Tiran'da, üniversite öğrencilerinin eğitim koşullarının iyileştirilmesi talebiyle yaptığı gösteriler devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/arnavutlukta-ogrencilerin-egitim-kosullarinin-iyilestirilmesi-talebiyle-duzenledigi-protestolar-suruyor/4097798",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T19:21:19+00:00",
-   "url": "/haber/arnavutluk-ta-ogrencilerin-egitim-kosullarinin-iyilestirilmesi-talebiy-375cafe1/"
-  },
-  {
    "id": "533d55ca",
    "title": "Epic Games'in bu haftaki ücretsiz oyunları erişime açıldı",
    "summary": "Epic Games Store ücretsiz oyun fırsatlarına devam ediyor. Son olarak bu hafta sunulacak yeni ücretsiz oyunlar erişime açıldı. İşte bu haftanın ücretsiz oyunları...",
@@ -209,17 +275,6 @@
    "category": "teknoloji",
    "date": "2026-10-22T19:16:55+00:00",
    "url": "/haber/yaparsa-apple-yapar-mi-acaba-iphone-duo-kutu-acilisi-ve-kiyaslamasi-67914e1a/"
-  },
-  {
-   "id": "81a09916",
-   "title": "Filistinlilerin topraklarını gasbeden İsrailliler, Batı Şeria'da 2 kişiyi darbetti, ambulansın camlarını kırdı",
-   "summary": "Filistinlilerin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria'nın farklı bölgelerinde düzenledikleri saldırılarda 2 Filistinliyi darbetti, bir ambulansın camlarını kırdı ve çiftçilerin zeytin toplamasına…",
-   "link": "https://www.aa.com.tr/tr/dunya/filistinlilerin-topraklarini-gasbeden-israilliler-bati-seriada-2-kisiyi-darbetti-ambulansin-camlarini-kirdi/4097794",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T19:16:27+00:00",
-   "url": "/haber/filistinlilerin-topraklarini-gasbeden-israilliler-bati-seria-da-2-kisi-81a09916/"
   },
   {
    "id": "2d8486f5",
@@ -266,28 +321,6 @@
    "url": "/haber/super-loto-cekilis-sonuclari-belli-oldu-22-ekim-2026-mpi-super-loto-ka-e332c861/"
   },
   {
-   "id": "37dcf605",
-   "title": "Fransa ve Belçika'da fırtına nedeniyle \"turuncu alarm\" verildi",
-   "summary": "Fransa'da 15 vilayette ve Belçika'nın bazı bölgelerinde fırtına nedeniyle \"turuncu alarm\" verildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransa-ve-belcikada-firtina-nedeniyle-turuncu-alarm-verildi/4097783",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T18:48:48+00:00",
-   "url": "/haber/fransa-ve-belcika-da-firtina-nedeniyle-turuncu-alarm-verildi-37dcf605/"
-  },
-  {
-   "id": "440b7c3f",
-   "title": "ABD'de kurumsal yatırımcıların konut alımlarını kısıtlayan yasaya yönelik düzenleme taslağı",
-   "summary": "ABD Hazine Bakanlığı, büyük kurumsal yatırımcıların müstakil konut satın almasını kısıtlayan yasanın uygulanmasına ilişkin düzenleme taslağı yayımladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-kurumsal-yatirimcilarin-konut-alimlarini-kisitlayan-yasaya-yonelik-duzenleme-taslagi/4097781",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T18:48:21+00:00",
-   "url": "/haber/abd-de-kurumsal-yatirimcilarin-konut-alimlarini-kisitlayan-yasaya-yone-440b7c3f/"
-  },
-  {
    "id": "ed122eff",
    "title": "Trabzonspor, UEFA Konferans Ligi'nde Hearts'ı 2-0 yendi",
    "summary": "Trabzonspor, UEFA Konferans Ligi ikinci hafta maçında İskoç ekibi Hearts'ı 2-0 yendi",
@@ -319,17 +352,6 @@
    "category": "gundem",
    "date": "2026-10-22T18:45:00+00:00",
    "url": "/haber/trabzonspor-konferans-ligi-nde-yine-kazandi-b6eeadce/"
-  },
-  {
-   "id": "d576d625",
-   "title": "Zelenskiy'den ABD'nin Rusya'ya yaptırımları askıya almasının \"Putin'i güçlendireceği\" mesajı",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD Başkanı Donald Trump'ın Rusya'ya yönelik yaptırımları geçici olarak askıya alması kararının Rusya Devlet Başkanı Vladimir Putin'i \"daha da güçlendireceği\" mesajını verdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/zelenskiyden-abdnin-rusyaya-yaptirimlari-askiya-almasinin-putini-guclendirecegi-mesaji/4097771",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T18:39:36+00:00",
-   "url": "/haber/zelenskiy-den-abd-nin-rusya-ya-yaptirimlari-askiya-almasinin-putin-i-g-d576d625/"
   },
   {
    "id": "1d1a7cb0",
@@ -1234,17 +1256,6 @@
    "url": "/haber/cumhurbaskani-erdogan-azerbaycan-cumhurbaskani-aliyev-ile-gorustu-3e8fefd5/"
   },
   {
-   "id": "0034125b",
-   "title": "Kim Jong Un'un öldüğüne dair neden sürekli söylenti çıkıyor?",
-   "summary": "Asılsız söylentilerin yayılmasının ardından Kuzey Kore devlet medyası, diktatörün kızıyla birlikte çekilmiş fotoğraflarını yayınladı.",
-   "link": "https://www.bbc.com/turkce/articles/c65yne90p44qo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f2b/live/cb87ca70-cc75-11f1-baeb-8d65d4bcd7ab.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-21T11:18:37+00:00",
-   "url": "/haber/kim-jong-un-un-oldugune-dair-neden-surekli-soylenti-cikiyor-0034125b/"
-  },
-  {
    "id": "d31c0733",
    "title": "BM'nin 1,5 derece raporunda Türkiye ile ilgili hangi uyarılar var?",
    "summary": "Birleşmiş Milletler 21 Ekim'de yayımladığı kritik uyarıda, 1,5 derece eşiğiyle ilgili acilen ve sert önlemler çağrısında bulundu. Birleşmiş Milletler Çevre Programı'nın (UNEP) Emissions Gap Report 2026 raporu, ülkelerin…",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-10-21T06:59:42+00:00",
    "url": "/haber/bm-nin-1-5-derece-raporunda-turkiye-ile-ilgili-hangi-uyarilar-var-d31c0733/"
-  },
-  {
-   "id": "7b2ce4cd",
-   "title": "Yüz fotoğrafınız ne kadar hasta olduğunuzu gösterebilir mi?",
-   "summary": "ABD'de yapılan bir araştırma, yapay zeka kullanılarak, bir hastalığın ne kadar ilerlemiş olduğunun hastanın yüz fotoğrafı üzerinden de değerlendirilebileceğini savundu.",
-   "link": "https://www.bbc.com/turkce/articles/cmjwe7y5wx5zo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-20T13:41:30+00:00",
-   "url": "/haber/yuz-fotografiniz-ne-kadar-hasta-oldugunuzu-gosterebilir-mi-7b2ce4cd/"
   }
  ]
 }
