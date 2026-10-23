@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T14:59:30.810631+00:00",
+ "updated": "2026-10-23T15:01:13.713180+00:00",
  "items": [
   {
    "id": "8ba989f0",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/AA-20261023-42840887-42840884-TURKISH_FOREIGN_MINISTER_HAKAN_FIDAN-792150(2).jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-23T14:58:27+00:00",
+   "date": "2026-10-23T14:59:33+00:00",
    "url": "/haber/8-ulkenin-istanbul-bulusmasi-fidan-iran-a-yeni-bir-saldiri-olmamali-8ba989f0/"
+  },
+  {
+   "id": "62bdd7e8",
+   "title": "Filistin topraklarını gasbeden İsraillilerin Batı Şeria'daki saldırısında biri çocuk 3 Filistinli yaralandı",
+   "summary": "Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın kuzeyinde Nablus'a bağlı Burin köyüne düzenlediği baskında taşla saldırması sonucu biri çocuk 3 Filistinli başından yaralandı, zeytin ağaçları…",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israillilerin-bati-seriadaki-saldirisinda-biri-cocuk-3-filistinli-yaralandi/4098771",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T14:54:30+00:00",
+   "url": "/haber/filistin-topraklarini-gasbeden-israillilerin-bati-seria-daki-saldirisi-62bdd7e8/"
   },
   {
    "id": "ca544991",
@@ -462,17 +473,6 @@
    "category": "teknoloji",
    "date": "2026-10-23T13:02:01+00:00",
    "url": "/haber/tam-kare-sensorlu-yeni-kompakt-aynasiz-sigma-fp-2-tanitildi-99bc0656/"
-  },
-  {
-   "id": "88dd23c0",
-   "title": "Togg T10F 4More Kehribar serisi ile yollara çıkıyor",
-   "summary": "Türkiye'nin yerli otomobili Togg'un T10F 4More Kehribar serisi tanıtıldı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor/4098606",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T13:01:38+00:00",
-   "url": "/haber/togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor-88dd23c0/"
   },
   {
    "id": "287ea35c",
