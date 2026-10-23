@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T01:30:56.699006+00:00",
+ "updated": "2026-10-23T02:01:06.599284+00:00",
  "items": [
   {
    "id": "cc82f46e",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-23T01:30:00+00:00",
+   "date": "2026-10-23T02:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-cc82f46e/"
+  },
+  {
+   "id": "ec9b3564",
+   "title": "Trabzonspor'un yıldızı maç sonrası kaza geçirdi",
+   "summary": "Trabzonspor'un kalecisi Andre Onana, UEFA Konferans Ligi'ndeki Hearts maçının ardından evine dönerken zincirleme trafik kazasına karıştı.",
+   "link": "https://www.ntv.com.tr/turkiye/trabzonsporun-yildizi-mac-sonrasi-kaza-gecirdi-1747555",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-23045629-972266(2).png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-23T01:58:58+00:00",
+   "url": "/haber/trabzonspor-un-yildizi-mac-sonrasi-kaza-gecirdi-ec9b3564/"
   },
   {
    "id": "206abb86",
@@ -1111,17 +1122,6 @@
    "category": "gundem",
    "date": "2026-10-22T10:15:00+00:00",
    "url": "/haber/derbinin-hakemi-belli-oldu-0ae55fc1/"
-  },
-  {
-   "id": "ff6e0024",
-   "title": "\"Dedem nerede şehit oldu?\": İşte MSB şehit bilgisi sorgulama ekranı",
-   "summary": "Milli Savunma Bakanlığı (MSB), \"Şehit Bilgi Kapısı\" uygulamasını erişime sundu. \"Dedem nerede şehit oldu?\" sorusuna yanıt arayan vatandaşlar, \"Şehit Bilgi Kapısı\" uygulamasıyla arama yapabiliyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-msb-sehit-bilgisi-sorgulama-ekrani-sosyal-medyada-sehit-bilgi-kapisi-gundem-oldu-1747482",
-   "image": "https://images.ntv.com.tr/images/msb-404610.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-22T10:13:28+00:00",
-   "url": "/haber/dedem-nerede-sehit-oldu-iste-msb-sehit-bilgisi-sorgulama-ekrani-ff6e0024/"
   },
   {
    "id": "b6f58347",
