@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T22:01:08.566222+00:00",
+ "updated": "2026-10-23T22:30:58.595231+00:00",
  "items": [
   {
    "id": "bce1959a",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-23T22:00:00+00:00",
+   "date": "2026-10-23T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-bce1959a/"
+  },
+  {
+   "id": "6aeee673",
+   "title": "İsrail ordusu, Batı Şeria'nın El Halil şehrine \"geniş çaplı askeri operasyon\" başlattığını duyurdu",
+   "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın güneyinde yer alan ve çatışmaların yaşandığı El Halil kentine yönelik \"geniş çaplı askeri operasyon\" başlattığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-serianin-el-halil-sehrine-genis-capli-askeri-operasyon-baslattigini-duyurdu/4099141",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T22:03:22+00:00",
+   "url": "/haber/israil-ordusu-bati-seria-nin-el-halil-sehrine-genis-capli-askeri-opera-6aeee673/"
   },
   {
    "id": "cab1141c",
@@ -24,6 +35,39 @@
    "url": "/haber/kurtulus-savasi-na-katilan-5-askerin-mirascilarina-istiklal-madalyasi-cab1141c/"
   },
   {
+   "id": "57e0fd5b",
+   "title": "Modern dans eseri \"Rüzgar Ağacı\"nın prömiyeri bugün AKM'de gerçekleşecek",
+   "summary": "İstanbul Kültür Sanat Vakfı (İKSV) tarafından düzenlenen \"İstanbul Tiyatro Festivali\" bu yıl 30. edisyonunu kutlarken İstanbul Devlet Opera ve Balesi (İDOB) ile ortak bir prodüksiyona imza atıyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/modern-dans-eseri-ruzgar-agacinin-promiyeri-bugun-akmde-gerceklesecek/4099139",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T21:51:16+00:00",
+   "url": "/haber/modern-dans-eseri-ruzgar-agaci-nin-promiyeri-bugun-akm-de-gerceklesece-57e0fd5b/"
+  },
+  {
+   "id": "ddc3e444",
+   "title": "Güneydoğu'nun en yüksek dağına kayak merkezi kuruluyor",
+   "summary": "Batman'ın Sason ilçesindeki 2 bin 978 metre rakımlı Mereto Dağı'na kayak merkezi kuruluyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/guneydogunun-en-yuksek-dagina-kayak-merkezi-kuruluyor/4099138",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T21:49:37+00:00",
+   "url": "/haber/guneydogu-nun-en-yuksek-dagina-kayak-merkezi-kuruluyor-ddc3e444/"
+  },
+  {
+   "id": "8776c48d",
+   "title": "Lider Kayserispor'da Seferi'den 11 maçta 9 gol",
+   "summary": "Trendyol 1. Lig'in lideri Metro Holding Kayserispor'un golcüsü Taulant Seferi, 11 haftada attığı 9 golle takımına önemli katkı sağladı.",
+   "link": "https://www.aa.com.tr/tr/spor/lider-kayserisporda-seferiden-11-macta-9-gol/4099137",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T21:49:26+00:00",
+   "url": "/haber/lider-kayserispor-da-seferi-den-11-macta-9-gol-8776c48d/"
+  },
+  {
    "id": "b0724ea2",
    "title": "İngiltere Başbakanı Burnham'dan konserve gıda ve şişe suyu depolama tavsiyesi",
    "summary": "İngiltere Başbakanı Andy Burnham, acil durumlara hazırlıklı olmak amacıyla halka konserve gıda ve şişe suyu stoklamalarını tavsiye etti.",
@@ -33,6 +77,17 @@
    "category": "gundem",
    "date": "2026-10-23T21:48:23+00:00",
    "url": "/haber/ingiltere-basbakani-burnham-dan-konserve-gida-ve-sise-suyu-depolama-ta-b0724ea2/"
+  },
+  {
+   "id": "ec5605e5",
+   "title": "UAEA: İran ile ABD arasında diplomatik anlaşmaya varılmadan kalıcı ve istikrarlı bir çözüm olmayacak",
+   "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Grossi, İran'ın nükleer faaliyetlerini doğrulamak için hazırlıkların çoğunu tamamladıklarını, bölgede diplomatik bir anlaşma olmadan kalıcı ve istikrarlı bir…",
+   "link": "https://www.aa.com.tr/tr/dunya/uaea-iran-ile-abd-arasinda-diplomatik-anlasmaya-varilmadan-kalici-ve-istikrarli-bir-cozum-olmayacak/4099135",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T21:46:53+00:00",
+   "url": "/haber/uaea-iran-ile-abd-arasinda-diplomatik-anlasmaya-varilmadan-kalici-ve-i-ec5605e5/"
   },
   {
    "id": "23e31416",
@@ -66,6 +121,17 @@
    "category": "gundem",
    "date": "2026-10-23T21:16:53+00:00",
    "url": "/haber/avrupa-konseyi-gorunurluk-haftasi-vesilesiyle-resepsiyon-duzenlendi-3b6915af/"
+  },
+  {
+   "id": "ee63db87",
+   "title": "ABD'nin Kanada menşeli ürünlere uyguladığı tarifelerin kapsamı değişiyor",
+   "summary": "ABD yönetimi, 30 Ekim itibarıyla Kanada menşeli bazı ürünlere uygulanan yüzde 50 oranındaki gümrük vergilerinin kapsamından bazı makine ve kağıt ürünlerini çıkaracak, yerine belirli vanalar ve halılar gibi ürünleri…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdnin-kanada-menseli-urunlere-uyguladigi-tarifelerin-kapsami-degisiyor/4099112",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T21:15:27+00:00",
+   "url": "/haber/abd-nin-kanada-menseli-urunlere-uyguladigi-tarifelerin-kapsami-degisiy-ee63db87/"
   },
   {
    "id": "e50bfb64",
@@ -299,17 +365,6 @@
    "url": "/haber/urdun-de-kiliseye-silahli-saldiri-7-kisi-oldu-34-yarali-var-e5b41105/"
   },
   {
-   "id": "4ad9f5e9",
-   "title": "Kanada Başbakanlığından Türkiye ile stratejik ortaklığa ilişkin açıklama",
-   "summary": "Kanada Başbakanlığı, Türkiye ile Kanada arasında kapsamlı serbest ticaret anlaşmasına yönelik müzakerelerin ilk turunu 30 Kasım-4 Aralık tarihlerinde Ankara'da gerçekleştireceklerini, 2027'de Türkiye'ye ticaret heyeti…",
-   "link": "https://www.aa.com.tr/tr/dunya/kanada-basbakanligindan-turkiye-ile-stratejik-ortakliga-iliskin-aciklama/4098991",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T18:29:46+00:00",
-   "url": "/haber/kanada-basbakanligindan-turkiye-ile-stratejik-ortakliga-iliskin-acikla-4ad9f5e9/"
-  },
-  {
    "id": "0c39f10e",
    "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 28 Ağustos 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
    "summary": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca…",
@@ -354,17 +409,6 @@
    "url": "/haber/mosseri-den-muse-paylasimi-icerik-ureticilerine-ipuclari-8dbf7ff8/"
   },
   {
-   "id": "830cb954",
-   "title": "Cumhurbaşkanı Erdoğan, Türkiye'ye gelen bazı ülkelerin dışişleri bakanlarını kabul etti",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İtalya'nın da katıldığı R4+E3 Dışişleri Bakanları Toplantısı için İstanbul'a gelen bazı ülkelerin dışişleri bakanlarını kabul etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkiyeye-gelen-bazi-ulkelerin-disisleri-bakanlarini-kabul-etti/4098978",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T18:11:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-turkiye-ye-gelen-bazi-ulkelerin-disisleri-bakanl-830cb954/"
-  },
-  {
    "id": "9c11c864",
    "title": "Kocaelispor, Alanyaspor’u deplasmanda 2 golle geçti",
    "summary": "Trendyol Süper Lig'in 9. haftasında Corendon Alanyaspor-Kocaelispor karşılaşması, konuk takımın 2-1 üstünlüğüyle tamamlandı.",
@@ -385,28 +429,6 @@
    "category": "teknoloji",
    "date": "2026-10-23T18:05:00+00:00",
    "url": "/haber/trump-musk-ukrayna-nin-starlink-erisimini-yeniden-sagladi-6c6b3a87/"
-  },
-  {
-   "id": "7511c694",
-   "title": "Zonguldak'ta çöken binayla ilgili gözaltına alınan 5 şüpheliden 3'ü tutuklandı",
-   "summary": "Zonguldak'ta 1 kişinin hayatını kaybettiği, 1 kişinin yaralı kurtarıldığı binanın çökmesiyle ilgili gözaltına alınan 5 zanlıdan 3'ü tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binayla-ilgili-gozaltina-alinan-5-supheliden-3u-tutuklandi/4098972",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T18:04:59+00:00",
-   "url": "/haber/zonguldak-ta-coken-binayla-ilgili-gozaltina-alinan-5-supheliden-3-u-tu-7511c694/"
-  },
-  {
-   "id": "f147a728",
-   "title": "Çukurova Belediye Başkanı Kozay görevinden uzaklaştırıldı",
-   "summary": "İçişleri Bakanlığı, Çukurova Belediye Başkanı Emrah Kozay'ın görevinden uzaklaştırıldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cukurova-belediye-baskani-kozay-gorevinden-uzaklastirildi/4098968",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T18:02:37+00:00",
-   "url": "/haber/cukurova-belediye-baskani-kozay-gorevinden-uzaklastirildi-f147a728/"
   },
   {
    "id": "1a7ee401",
@@ -1102,17 +1124,6 @@
    "url": "/haber/eski-turkiye-sigorta-genel-muduru-taha-cakmak-gozaltinda-6ecf89fe/"
   },
   {
-   "id": "02b38aa2",
-   "title": "Libyalılar, Türkiye-Libya deniz yetki muhtırasının Akdeniz'deki haklarının güvencesi olduğunu düşünüyor",
-   "summary": "Libyalılar, ülkelerinin meclisinde onaylanan Türkiye-Libya deniz yetki alanlarının sınırlandırılmasına ilişkin mutabakat muhtırasının ülkelerinin Akdeniz'deki haklarını koruyan stratejik bir kalkan olduğunu düşünüyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/libyalilar-turkiye-libya-deniz-yetki-muhtirasinin-akdenizdeki-haklarinin-guvencesi-oldugunu-dusunuyor/4098254",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T09:01:40+00:00",
-   "url": "/haber/libyalilar-turkiye-libya-deniz-yetki-muhtirasinin-akdeniz-deki-haklari-02b38aa2/"
-  },
-  {
    "id": "591e9a23",
    "title": "Zonguldak'ta maden ocağında patlama",
    "summary": "Zonguldak'ın Kilimli ilçesindeki maden ocağında meydana gelen grizu patlaması sonucu 3 kişi hayatını kaybetti, 5 kişi yaralandı.",
@@ -1122,17 +1133,6 @@
    "category": "gundem",
    "date": "2026-10-23T08:16:00+00:00",
    "url": "/haber/zonguldak-ta-maden-ocaginda-patlama-591e9a23/"
-  },
-  {
-   "id": "9474a26f",
-   "title": "İsrail vatandaşı Filistinliler, 27 Ekim seçimlerinde sandığa gitmek ile boykot etmek arasında kaldı",
-   "summary": "İsrail vatandaşı Filistinliler, 27 Ekim'deki seçimlerde aşırı sağcı hükümeti gönderip baskıları azaltmak için sandığa gitmekle, seçimlerin Filistinliler için bir şey değiştirmeyeceği düşüncesiyle boykot etmek arasında…",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-vatandasi-filistinliler-27-ekim-secimlerinde-sandiga-gitmek-ile-boykot-etmek-arasinda-kaldi/4098106",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T08:02:51+00:00",
-   "url": "/haber/israil-vatandasi-filistinliler-27-ekim-secimlerinde-sandiga-gitmek-ile-9474a26f/"
   },
   {
    "id": "53352560",
