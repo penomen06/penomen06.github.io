@@ -7,6 +7,13 @@
   <language>tr</language>
   <atom:link href="https://penomen06.github.io/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>NVIDIA’dan İnternetsiz Çalışan Küçük ve Hızlı Yapay Zeka Modeli: Nemotron 3.5 Bolt</title>
+    <link>https://penomen06.github.io/haber/nvidia-dan-internetsiz-calisan-kucuk-ve-hizli-yapay-zeka-modeli-nemotr-39c5be7b/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/nvidia-dan-internetsiz-calisan-kucuk-ve-hizli-yapay-zeka-modeli-nemotr-39c5be7b/</guid>
+    <pubDate>Fri, 23 Oct 2026 19:05:23 +0000</pubDate>
+    <description>NVIDIA, yerel çalışan sesli asistanlar, oyun karakterleri ve robotlar için geliştirdiği yeni küçük dil modelini herkesin kullanımına açtı. Nemotron 3.5 Bolt E4B 4GB adlı açık model, konuşurken araç çağırıp iş de…</description>
+  </item>
+  <item>
     <title>Yemen ordusu: Son 24 saatte 1392 operasyonda 620 Husi etkisiz hale getirildi</title>
     <link>https://penomen06.github.io/haber/yemen-ordusu-son-24-saatte-1392-operasyonda-620-husi-etkisiz-hale-geti-889d5492/</link>
     <guid isPermaLink="true">https://penomen06.github.io/haber/yemen-ordusu-son-24-saatte-1392-operasyonda-620-husi-etkisiz-hale-geti-889d5492/</guid>
@@ -348,13 +355,6 @@
     <guid isPermaLink="true">https://penomen06.github.io/haber/mercedes-benz-ve-nvidia-yeni-nesil-surucu-destek-ve-otonom-surus-siste-202ee262/</guid>
     <pubDate>Fri, 23 Oct 2026 14:12:27 +0000</pubDate>
     <description>Mercedes-Benz ve Nvidia, yeni nesil sürücü destek ve otonom sürüş sistemlerini birlikte geliştirmek üzere kurduğu ortaklığı genişletme kararı aldı. Bu kapsamda Mercedes-Benz’in otomotiv mühendisliği ile MB.OS yazılım…</description>
-  </item>
-  <item>
-    <title>Bakan Kurum: Antalya&#x27;da bu büyük dönüşüme liderlik edeceğiz</title>
-    <link>https://penomen06.github.io/haber/bakan-kurum-antalya-da-bu-buyuk-donusume-liderlik-edecegiz-3bf0855a/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/bakan-kurum-antalya-da-bu-buyuk-donusume-liderlik-edecegiz-3bf0855a/</guid>
-    <pubDate>Fri, 23 Oct 2026 14:12:27 +0000</pubDate>
-    <description>Bakan Kurum, COP31&#x27;e ilişkin, &quot;Türkiye olarak, kimseyi geride bırakmadan doğu ile batı, kuzey ile güney arasında köprü vazifesi görecek ve tüm medeniyetlerin buluşma noktası olan Türkiye&#x27;de, Antalya&#x27;da bu büyük dönüşüme…</description>
   </item>
 </channel>
 </rss>
