@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-23T09:30:59.898777+00:00",
+ "updated": "2026-10-23T09:58:59.286414+00:00",
  "items": [
+  {
+   "id": "93897780",
+   "title": "Zonguldak'ta maden ocağındaki patlamada 2 işçi öldü, ağır yaralılar var",
+   "summary": "Zonguldak'ın Kilimli ilçesindeki bir madendeki patlamada en az iki işçi hayatını kaybetti, beş işçi de yaralandı.",
+   "link": "https://www.bbc.com/turkce/articles/cke8rqjp7e7do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b06/live/f7e1f000-cec3-11f1-b441-2b33b063138f.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-23T09:53:33+00:00",
+   "url": "/haber/zonguldak-ta-maden-ocagindaki-patlamada-2-isci-oldu-agir-yaralilar-var-93897780/"
+  },
+  {
+   "id": "884864c0",
+   "title": "Linux’taki kritik açıklar yanlışlıkla herkese açık e-posta listesinde paylaşıldı",
+   "summary": "Linux çekirdeğindeki kritik güvenlik açıkları, yamalar tüm sistemlere ulaşmadan herkese açık bir e-posta listesinde yayımlandı. İki kritik açık ise uzaktan kod çalıştırma riski taşıyor.",
+   "link": "https://www.donanimhaber.com/linux-cekirdegindeki-kritik-aciklar-yanlislikla-internete-sizdi--211984",
+   "image": "https://www.donanimhaber.com/images/images/haber/211984/1200x675linux-cekirdegindeki-kritik-aciklar-yanlislikla-internete-sizdi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-23T09:52:00+00:00",
+   "url": "/haber/linux-taki-kritik-aciklar-yanlislikla-herkese-acik-e-posta-listesinde-884864c0/"
+  },
+  {
+   "id": "a4b0cea9",
+   "title": "Fon soruşturmalarında 11 tutuklama daha",
+   "summary": "Sermaye Piyasası Kurulu (SPK), fon soruşturmasının odağındaki şirketlerden Tera Yatırım, Tera Portföy ve Pusula Portföy'ün yönetiminde yer alan ve bazıları tutuklu olan kişiler de dahil olmak üzere 48 kişi hakkında suç…",
+   "link": "https://www.bbc.com/turkce/articles/cj5yn01wp4p3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edf2/live/78b62780-ce5d-11f1-bc2e-018d645d8d21.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-23T09:51:09+00:00",
+   "url": "/haber/fon-sorusturmalarinda-11-tutuklama-daha-a4b0cea9/"
+  },
+  {
+   "id": "e135b122",
+   "title": "Zonguldak'ta maden ocağında patlama: İşte ilk görüntüler",
+   "summary": "Zonguldak'ın Kilimli ilçesinde maden ocağında patlama meydana geldi. Patlamada 3 işçi hayatını kaybetti, 5 işçi ise yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-zonguldakta-maden-ocaginda-patlama-iste-ilk-goruntuler-1747610",
+   "image": "https://images.ntv.com.tr/images/kilimli-madende-göçük-664966.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-23T09:46:00+00:00",
+   "url": "/haber/zonguldak-ta-maden-ocaginda-patlama-iste-ilk-goruntuler-e135b122/"
+  },
+  {
+   "id": "0cdbd0ee",
+   "title": "Bedir Mutabakat Zaptı: Savunma iş birliklerinde derinleşmeye doğru",
+   "summary": "Bedir Mutabakatı'nın savunma sanayii entegrasyonuna sağladığı fayda, teknik savunma eğitimine yaptığı vurgu ve yerli üretime yönelik endüstriyel kullanıma hazır çözümleri, iş birliğine dayalı güvenlik için özgün bir…",
+   "link": "https://www.aa.com.tr/tr/analiz/bedir-mutabakat-zapti-savunma-is-birliklerinde-derinlesmeye-dogru/4098320",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T09:45:09+00:00",
+   "url": "/haber/bedir-mutabakat-zapti-savunma-is-birliklerinde-derinlesmeye-dogru-0cdbd0ee/"
+  },
+  {
+   "id": "f5924288",
+   "title": "Ameliyatta ölüm iddiasına suç duyurusu: Liposuction için girdi, yaşamını yitirdi",
+   "summary": "İstanbul'da bir kadın yağ aldırma ameliyatı (Liposuction) sırasında yaşamını yitirdi. Hastane yönetiminden bir muhatap bulamadıklarını anlatan kadının eşi, sorumlulardan şikayetçi oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/ameliyatta-olum-iddiasina-suc-duyurusu-liposuction-icin-girdi-yasamini-yitirdi-1747613",
+   "image": "https://images.ntv.com.tr/images/ameliyat-ölüm-872032.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-23T09:41:58+00:00",
+   "url": "/haber/ameliyatta-olum-iddiasina-suc-duyurusu-liposuction-icin-girdi-yasamini-f5924288/"
+  },
+  {
+   "id": "8d9bf4ee",
+   "title": "BM: Sudan'da çatışmaların başlamasından bu yana Çad'a kaçanların sayısı 1 milyona yaklaştı",
+   "summary": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği (BMMYK) Sözcüsü Babar Baloch, Sudan'da Nisan 2023'te çatışmaların başlamasından bu yana Çad'a kaçanların sayısının 1 milyona yaklaştığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-sudanda-catismalarin-baslamasindan-bu-yana-cada-kacanlarin-sayisi-1-milyona-yaklasti/4098313",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T09:39:57+00:00",
+   "url": "/haber/bm-sudan-da-catismalarin-baslamasindan-bu-yana-cad-a-kacanlarin-sayisi-8d9bf4ee/"
+  },
+  {
+   "id": "ef62c546",
+   "title": "Seçimler yaklaşırken anketlerde Netanyahu bloğu erimeye devam ediyor",
+   "summary": "İsrail'deki Maariv gazetesinin kamuoyu araştırmasına göre, Başbakan Binyamin Netanyahu önderliğindeki blok, 27 Ekim’de yapılacak seçimlerde 3 milletvekili daha kaybederek mecliste 48 sandalyeye geriledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/secimler-yaklasirken-anketlerde-netanyahu-blogu-erimeye-devam-ediyor/4098312",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T09:39:39+00:00",
+   "url": "/haber/secimler-yaklasirken-anketlerde-netanyahu-blogu-erimeye-devam-ediyor-ef62c546/"
+  },
+  {
+   "id": "984f7045",
+   "title": "SON DAKİKA: Zonguldak'ta maden ocağında patlama. 3 can kaybı",
+   "summary": "Zonguldak'ta özel bir maden ocağında grizu patlaması meydana geldi. İki işçi hayatını kaybederken 5 madenci yaralandı. Mahsur kalan son işçinin de cansız bedenine ulaşıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-zonguldakta-maden-ocaginda-patlama-3-can-kaybi-1747605",
+   "image": "https://images.ntv.com.tr/images/MADEN-OCAGINDA-GRIZU-PATLAMASI-2-OLU-5_1569563_467004-844361.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-23T09:38:26+00:00",
+   "url": "/haber/son-dakika-zonguldak-ta-maden-ocaginda-patlama-3-can-kaybi-984f7045/"
+  },
   {
    "id": "f0535c52",
    "title": "Türkiye’nin Katar’dan Eurofighter Tedarikinde Yeni Aşama",
@@ -35,15 +134,15 @@
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-cc82f46e/"
   },
   {
-   "id": "06ee3568",
-   "title": "SON DAKİKA: Zonguldak'ta maden ocağında patlama. Ölü ve yaralılar var",
-   "summary": "Zonguldak'ta özel bir maden ocağında grizu patlaması meydana geldi. 2 işçi hayatını kaybederken 5 madenci yaralandı. Mahsur kalan bir işçiyi kurtarma çalışmaları sürüyor.",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-zonguldakta-maden-ocaginda-patlama-olu-ve-yaralilar-var-1747605",
-   "image": "https://images.ntv.com.tr/images/MADEN-OCAGINDA-GRIZU-PATLAMASI-2-OLU-5_1569563_467004-844361.jpg",
-   "source": "ntv.com.tr",
+   "id": "fd33a370",
+   "title": "Doğu Türkiye Orta Koridor Demir Yolu Geliştirme Projesi'nin ihalesi 22 Aralık'ta yapılacak",
+   "summary": "Doğu Türkiye Orta Koridor Demir Yolu Geliştirme (ETMIC) Projesi'nin altyapı ve üstyapı işlerinin tasarımı ve inşasına ilişkin ihale, 22 Aralık Salı günü gerçekleştirilecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/dogu-turkiye-orta-koridor-demir-yolu-gelistirme-projesinin-ihalesi-22-aralikta-yapilacak/4098302",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-23T09:29:55+00:00",
-   "url": "/haber/son-dakika-zonguldak-ta-maden-ocaginda-patlama-olu-ve-yaralilar-var-06ee3568/"
+   "date": "2026-10-23T09:29:45+00:00",
+   "url": "/haber/dogu-turkiye-orta-koridor-demir-yolu-gelistirme-projesi-nin-ihalesi-22-fd33a370/"
   },
   {
    "id": "9e72f380",
@@ -77,6 +176,28 @@
    "category": "gundem",
    "date": "2026-10-23T09:21:46+00:00",
    "url": "/haber/sumud-filosu-na-yapilan-silahli-mudahaleye-iliskin-35-sanigin-yargilan-cb082d54/"
+  },
+  {
+   "id": "94a7f5af",
+   "title": "Türkiye Halter Milli Takımı, dünya şampiyonasına hazır",
+   "summary": "Türkiye Halter Milli Takımı, Dünya Şampiyonası hazırlıklarını Kocaeli'de tamamladı.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-halter-milli-takimi-dunya-sampiyonasina-hazir/4098279",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T09:20:01+00:00",
+   "url": "/haber/turkiye-halter-milli-takimi-dunya-sampiyonasina-hazir-94a7f5af/"
+  },
+  {
+   "id": "b4a79a87",
+   "title": "ABD'de Cumhuriyetçi genç seçmenlerin İsrail'e yönelik olumsuz görüşleri artıyor",
+   "summary": "ABD'de yapılan anket, Cumhuriyetçi Parti'nin genç seçmenlerinin İsrail hükümeti ve halkına yönelik olumsuz görüşlerinin, ileri yaştaki Cumhuriyetçilere kıyasla belirgin şekilde yüksek olduğunu ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-cumhuriyetci-genc-secmenlerin-israile-yonelik-olumsuz-gorusleri-artiyor/4098278",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T09:19:43+00:00",
+   "url": "/haber/abd-de-cumhuriyetci-genc-secmenlerin-israil-e-yonelik-olumsuz-gorusler-b4a79a87/"
   },
   {
    "id": "f8e32921",
@@ -123,17 +244,6 @@
    "url": "/haber/epic-games-yapay-zeka-araclariyla-uretimi-merkeze-alan-bir-oyun-gelist-b1645737/"
   },
   {
-   "id": "688efe7b",
-   "title": "Küresel yatırım ve teknoloji dünyası, GO! GLOBAL Türkiye Zirvesi'nde buluştu",
-   "summary": "Küresel teknoloji ve yatırım ekosisteminin önde gelen isimleri ile Türkiye'nin öncü girişimcileri ve AI yeteneklerini İstanbul'da bir araya getiren GO! GLOBAL Türkiye Zirvesi ikinci gününde devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-yatirim-ve-teknoloji-dunyasi-go-global-turkiye-zirvesinde-bulustu/4098267",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T09:10:16+00:00",
-   "url": "/haber/kuresel-yatirim-ve-teknoloji-dunyasi-go-global-turkiye-zirvesi-nde-bul-688efe7b/"
-  },
-  {
    "id": "c51243c6",
    "title": "ASELSAN’dan 442,5 Milyon Dolarlık Yeni İhracat Sözleşmesi",
    "summary": "Türk savunma sanayisinin önde gelen şirketlerinden ASELSAN, uluslararası bir müşteriyle toplam 442,5 milyon dolar değerinde ihracat sözleşmesi imzaladı. Şirketin 23 Ekim 2026 tarihinde duyurduğu anlaşma; radar, insansız…",
@@ -143,17 +253,6 @@
    "category": "teknoloji",
    "date": "2026-10-23T09:09:41+00:00",
    "url": "/haber/aselsan-dan-442-5-milyon-dolarlik-yeni-ihracat-sozlesmesi-c51243c6/"
-  },
-  {
-   "id": "2b9db33f",
-   "title": "Türk zırhlıları orduların yükünü omuzluyor",
-   "summary": "Türk savunma sanayisi bünyesinde geliştirilen paletli zırhlı araçlar, Türkiye'nin yanı sıra 6 dost ve müttefik ülkede modern orduların hareket kabiliyetine, koruma ve ateş gücüne katkı sağlıyor.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-zirhlilari-ordularin-yukunu-omuzluyor/4098263",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T09:08:23+00:00",
-   "url": "/haber/turk-zirhlilari-ordularin-yukunu-omuzluyor-2b9db33f/"
   },
   {
    "id": "2244d8f2",
@@ -178,28 +277,6 @@
    "url": "/haber/istanbul-da-kamu-kurumlarina-cozum-ureten-startuplara-5-milyon-tl-ye-k-228aef57/"
   },
   {
-   "id": "34744809",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz, Macaristan Başbakanı Magyar ile görüştü",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Macaristan Başbakanı Peter Magyar ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-macaristan-basbakani-magyar-ile-gorustu/4098260",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T09:04:58+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-macaristan-basbakani-magyar-ile-gorust-34744809/"
-  },
-  {
-   "id": "24c6b7bc",
-   "title": "Uzmanından dijital detoks yerine sağlıklı kullanım önerisi",
-   "summary": "Akdeniz Üniversitesi Tıp Fakültesi Ruh Sağlığı ve Hastalıkları Öğretim Üyesi Doç. Dr. Ali Erdoğan, sosyal medya ve interneti tamamen bırakmak yerine sağlıklı ve dengeli kullanmanın önemine dikkati çekti.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/uzmanindan-dijital-detoks-yerine-saglikli-kullanim-onerisi/4098259",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T09:04:55+00:00",
-   "url": "/haber/uzmanindan-dijital-detoks-yerine-saglikli-kullanim-onerisi-24c6b7bc/"
-  },
-  {
    "id": "7b4271de",
    "title": "Windows 11 Güncellemesi Ses Sorunlarını Çözüyor",
    "summary": "Microsoft, Windows 11 KB5127648 güncellemesi ile oyun ve uygulamalardaki Dolby Digital AC-3 ses hatasını ve çökme sorunlarını çözüme kavuşturdu.",
@@ -211,28 +288,6 @@
    "url": "/haber/windows-11-guncellemesi-ses-sorunlarini-cozuyor-7b4271de/"
   },
   {
-   "id": "282eb57c",
-   "title": "PTT AŞ 186. yaşında dijital hizmetlerini geliştirmeye odaklandı",
-   "summary": "Posta ve Telgraf Teşkilatı AŞ (PTT AŞ) 186'ncı kuruluş yıl dönümünü kutluyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ptt-as-186-yasinda-dijital-hizmetlerini-gelistirmeye-odaklandi/4098252",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T08:59:40+00:00",
-   "url": "/haber/ptt-as-186-yasinda-dijital-hizmetlerini-gelistirmeye-odaklandi-282eb57c/"
-  },
-  {
-   "id": "4eab0559",
-   "title": "Emine Erdoğan'dan Özbekistan ziyaretine ilişkin paylaşım",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Özbekistan'a gerçekleştirdiği ziyarete ilişkin sosyal medya hesabından paylaşımda bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-ozbekistan-ziyaretine-iliskin-paylasim/4098250",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T08:57:46+00:00",
-   "url": "/haber/emine-erdogan-dan-ozbekistan-ziyaretine-iliskin-paylasim-4eab0559/"
-  },
-  {
    "id": "f5068155",
    "title": "Audi, yeni Q7 ile EuroNCAP’te bir ilke imza attı",
    "summary": "Audi tarafından yapılan açıklamaya göre yeni Q7, Euro NCAP’in 2026 değerlendirmesinde en yüksek derece olan beş yıldızı elde etti. Araç, çarpışma sonrası güvenlik alanında aldığı yüzde 100 puanla da seri üretim modeller…",
@@ -242,17 +297,6 @@
    "category": "teknoloji",
    "date": "2026-10-23T08:57:26+00:00",
    "url": "/haber/audi-yeni-q7-ile-euroncap-te-bir-ilke-imza-atti-f5068155/"
-  },
-  {
-   "id": "0dcf6e28",
-   "title": "Türk Eximbank ile Kanada'nın ihracat destek kuruluşu EDC arasında mutabakat zaptı imzalandı",
-   "summary": "Ticaret Bakanı Ömer Bolat, Türkiye ile Kanada arasında ihracat kredileri alanındaki işbirliğini güçlendirmek amacıyla Türk Eximbank ile bu ülkenin ihracat destek kuruluşu EDC'nin mutabakat zaptı imzaladığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turk-eximbank-ile-kanadanin-ihracat-destek-kurulusu-edc-arasinda-mutabakat-zapti-imzalandi/4098245",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T08:54:00+00:00",
-   "url": "/haber/turk-eximbank-ile-kanada-nin-ihracat-destek-kurulusu-edc-arasinda-muta-0dcf6e28/"
   },
   {
    "id": "c624d91c",
@@ -277,15 +321,15 @@
    "url": "/haber/arac-kiralama-sektoru-2026-da-simdiye-kadar-253-milyar-tl-lik-arac-yat-200d2c63/"
   },
   {
-   "id": "d9ba7693",
-   "title": "ABD'deki idam sırasında mahkumun damarının yırtılma olasılığıyla ilgili uyarıda bulunulduğu iddiası",
-   "summary": "ABD’nin Tennessee eyaletinde 30 Eylül’de iki doz ölümcül ilaç verilmesine rağmen hayatta kalan idam mahkumu Christa Pike’ın damarının infaz sırasında yırtılmış olabileceğine yönelik uyarıda bulunulduğu iddia edildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abddeki-idam-sirasinda-mahkumun-damarinin-yirtilma-olasiligiyla-ilgili-uyarida-bulunuldugu-iddiasi/4098243",
+   "id": "14d877ac",
+   "title": "İsrail'in saldırılarında iki bacağını kaybeden Filistinli çocuk, Türkiye'de yeniden hayata tutundu",
+   "summary": "İsrail'in Filistin'e yönelik saldırılarında evine füze isabet etmesi sonucu enkaz altında kalan ve iki bacağını kaybeden 5 yaşındaki Momin Sameh Alhamss, Türkiye'de yeniden hayata tutundu.",
+   "link": "https://www.aa.com.tr/tr/israilin-gazze-saldirilari/israilin-saldirilarinda-iki-bacagini-kaybeden-filistinli-cocuk-turkiyede-yeniden-hayata-tutundu/4098240",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-23T08:50:51+00:00",
-   "url": "/haber/abd-deki-idam-sirasinda-mahkumun-damarinin-yirtilma-olasiligiyla-ilgil-d9ba7693/"
+   "date": "2026-10-23T08:50:05+00:00",
+   "url": "/haber/israil-in-saldirilarinda-iki-bacagini-kaybeden-filistinli-cocuk-turkiy-14d877ac/"
   },
   {
    "id": "0ea5c430",
@@ -332,26 +376,15 @@
    "url": "/haber/meetup-istanbul-2026-pazarlama-ve-is-dunyasini-bir-araya-getirdi-6f615da8/"
   },
   {
-   "id": "4e3bfc85",
-   "title": "Bakan Kacır: Teknoloji liderlerini Türkiye'nin girişimcilik potansiyeline yatırım yapmaya davet ediyoruz",
-   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Küresel girişim sermayesi fonlarını ve teknoloji liderlerini Türkiye'nin girişimcilik potansiyeline yatırım yapmaya, uzun vadeli ortaklıklar kurmaya davet ediyoruz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-teknoloji-liderlerini-turkiyenin-girisimcilik-potansiyeline-yatirim-yapmaya-davet-ediyoruz/4098231",
+   "id": "64f712a9",
+   "title": "Van depreminin 15. yılında hayatını kaybedenler anıldı",
+   "summary": "Van'da 23 Ekim 2011'de meydana gelen 7,2 büyüklüğündeki depremin 15. yıl dönümünde, hayatını kaybedenler Erciş ilçesinde kabirleri başında anıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/van-depreminin-15-yilinda-hayatini-kaybedenler-anildi/4098222",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-23T08:43:07+00:00",
-   "url": "/haber/bakan-kacir-teknoloji-liderlerini-turkiye-nin-girisimcilik-potansiyeli-4e3bfc85/"
-  },
-  {
-   "id": "e135b122",
-   "title": "Zonguldak'ta maden ocağında patlama: İşte ilk görüntüler",
-   "summary": "Zonguldak'ın Kilimli ilçesinde maden ocağında patlama meydana geldi. Patlamada can kaybı ve yaralılar var. İhbar üzerine maden ocağına çok sayıda ambulans sevk edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-zonguldakta-maden-ocaginda-patlama-iste-ilk-goruntuler-1747610",
-   "image": "https://images.ntv.com.tr/images/kilimli-madende-göçük-664966.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-23T08:33:34+00:00",
-   "url": "/haber/zonguldak-ta-maden-ocaginda-patlama-iste-ilk-goruntuler-e135b122/"
+   "date": "2026-10-23T08:38:32+00:00",
+   "url": "/haber/van-depreminin-15-yilinda-hayatini-kaybedenler-anildi-64f712a9/"
   },
   {
    "id": "147c4e54",
@@ -387,6 +420,39 @@
    "url": "/haber/arka-aksi-kopan-omoda-5-icin-chery-nin-baskanindan-ozur-8-878-arac-ger-0ef0bf32/"
   },
   {
+   "id": "59400add",
+   "title": "Brezilya, COP31'i uygulama odaklı ilerlemeyi sürdürme fırsatı olarak görüyor",
+   "summary": "Brezilya'nın Ankara Büyükelçisi Gilda Neves, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nın (COP31), COP30'da sağlanan uygulama odaklı ilerlemenin sürdürülmesi açısından önemli…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/brezilya-cop31i-uygulama-odakli-ilerlemeyi-surdurme-firsati-olarak-goruyor/4098194",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T08:21:54+00:00",
+   "url": "/haber/brezilya-cop31-i-uygulama-odakli-ilerlemeyi-surdurme-firsati-olarak-go-59400add/"
+  },
+  {
+   "id": "d6d02f86",
+   "title": "Gaziantep Gençlikspor, lige galibiyetle başlamak istiyor",
+   "summary": "SMS Grup Efeler Ligi'nde yeni sezonun sahasındaki ilk maçında Fenerbahçe Medicana'yı konuk edecek Gaziantep Gençlikspor, güçlü rakibi karşısında galibiyet hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/spor/gaziantep-genclikspor-lige-galibiyetle-baslamak-istiyor-/4098193",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T08:21:13+00:00",
+   "url": "/haber/gaziantep-genclikspor-lige-galibiyetle-baslamak-istiyor-d6d02f86/"
+  },
+  {
+   "id": "ad56ebac",
+   "title": "Merinos Voleybol, yenilmezlik serisini sürdürmenin peşinde",
+   "summary": "Arabica Coffee House Kadınlar 1. Ligi B Grubu'nda sezona \"4'te 4\" ile başlayan Merinos Voleybol, Nilüfer Belediyespor'u da yenerek namağlup liderliğini korumayı hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/spor/merinos-voleybol-yenilmezlik-serisini-surdurmenin-pesinde/4098192",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T08:21:06+00:00",
+   "url": "/haber/merinos-voleybol-yenilmezlik-serisini-surdurmenin-pesinde-ad56ebac/"
+  },
+  {
    "id": "ff0dc4d2",
    "title": "Hem laptop hem tablet olarak kullanılabilen 2'si 1 arada cihazlar",
    "summary": "Dizüstü bilgisayar ile tablet arasında mı kaldınız? İşte klavyesi ayrılabilen, 360 derece dönebilen en iyi Windows cihazlar ve klavyeli tabletleri içeren 2'si 1 arada laptop önerileri:",
@@ -420,26 +486,26 @@
    "url": "/haber/ab-den-turklere-vizesiz-avrupa-mesaji-alti-kriter-icin-ust-duzey-talim-9a50cedf/"
   },
   {
-   "id": "d0df82de",
-   "title": "S&P Global Ratings'e göre Türk bankacılık sektöründe riskler yönetilebilir düzeyde",
-   "summary": "S&P Global Ratings Finansal Kuruluşlar Direktörü Argenio, Türk bankacılık sisteminin şoklarla karşı karşıya kaldığını belirterek, \"Tahmin ettiğimizden daha iyi bir ekonomik görünüm olması nedeniyle durumun yönetilebilir…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/sp-global-ratingse-gore-turk-bankacilik-sektorunde-riskler-yonetilebilir-duzeyde/4098152",
+   "id": "eb261dd9",
+   "title": "Derbilerde kartlar havada uçuşuyor",
+   "summary": "Trendyol Süper Lig'in 9. haftasında 26 Ekim Pazartesi günü karşı karşıya gelecek Galatasaray ile Fenerbahçe arasındaki derbilerde son dönemde gösterilen kartların çokluğu dikkati çekiyor.",
+   "link": "https://www.aa.com.tr/tr/spor/derbilerde-kartlar-havada-ucusuyor/4098156",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-23T08:10:57+00:00",
-   "url": "/haber/s-p-global-ratings-e-gore-turk-bankacilik-sektorunde-riskler-yonetileb-d0df82de/"
+   "date": "2026-10-23T08:11:09+00:00",
+   "url": "/haber/derbilerde-kartlar-havada-ucusuyor-eb261dd9/"
   },
   {
-   "id": "38677401",
-   "title": "BES'te katılımcı sayısının 2027'de 19 milyona yükselmesi öngörülüyor",
-   "summary": "Bireysel Emeklilik Sistemi'nde (BES) katılımcı sayısının yıl sonunda 18 milyon 400 bine, 2027'de de 19 milyona ulaşması hedefleniyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/beste-katilimci-sayisinin-2027de-19-milyona-yukselmesi-ongoruluyor/4098132",
+   "id": "d95d6329",
+   "title": "Sivasspor'un hedefi İstanbul'dan 3 puanla dönmek",
+   "summary": "Trendyol 1. Lig ekiplerinden Ekenler Beton Sivasspor'un teknik direktörü İsmet Taşdemir, iyi bir takım olduklarını ve deplasmanda Ümraniyespor ile yapacakları maçı kazanmak istediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/sivassporun-hedefi-istanbuldan-3-puanla-donmek/4098140",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-23T08:07:43+00:00",
-   "url": "/haber/bes-te-katilimci-sayisinin-2027-de-19-milyona-yukselmesi-ongoruluyor-38677401/"
+   "date": "2026-10-23T08:09:19+00:00",
+   "url": "/haber/sivasspor-un-hedefi-istanbul-dan-3-puanla-donmek-d95d6329/"
   },
   {
    "id": "56d9caaf",
@@ -451,28 +517,6 @@
    "category": "gundem",
    "date": "2026-10-23T08:07:09+00:00",
    "url": "/haber/milli-istihbarat-akademisi-israil-in-politikalarina-iliskin-rapor-yayi-56d9caaf/"
-  },
-  {
-   "id": "ed6d8a4c",
-   "title": "Van'ın ilk lisesi, depremlerin ardından yeni binasında eğitim hayatını sürdürüyor",
-   "summary": "Van'ın en köklü eğitim kurumlarından biri olan Van Atatürk Anadolu Lisesi, Cumhuriyet'in ilk yıllarından başlayarak bugüne uzanan asırlık eğitim hizmetini Van depremlerinden sonra yeni binasında sürdürüyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/vanin-ilk-lisesi-depremlerin-ardindan-yeni-binasinda-egitim-hayatini-surduruyor/4098124",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T08:06:46+00:00",
-   "url": "/haber/van-in-ilk-lisesi-depremlerin-ardindan-yeni-binasinda-egitim-hayatini-ed6d8a4c/"
-  },
-  {
-   "id": "6bea4b82",
-   "title": "İstanbul'da 500 yıllık hamamda Türk hamam kültürünün izleri sergileniyor",
-   "summary": "UNESCO Dünya Miras Listesi'ndeki \"İstanbul Tarihi Alanları\" içerisinde bulunan II. Bayezid Türk Hamam Kültürü Müzesi, unutulmaya yüz tutmuş Türk hamam kültürünün yaşatılmasına, tanıtılmasına ve gelecek nesillere…",
-   "link": "https://www.aa.com.tr/tr/kultur/istanbulda-500-yillik-hamamda-turk-hamam-kulturunun-izleri-sergileniyor/4098117",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T08:05:14+00:00",
-   "url": "/haber/istanbul-da-500-yillik-hamamda-turk-hamam-kulturunun-izleri-sergileniy-6bea4b82/"
   },
   {
    "id": "d63ea8db",
@@ -937,17 +981,6 @@
    "url": "/haber/turkiye-mekke-ve-bedir-ittifaklariyla-ne-hedefliyor-b588ad9d/"
   },
   {
-   "id": "a4b0cea9",
-   "title": "Fon soruşturması: SPK'dan 48 kişi hakkında suç duyurusu",
-   "summary": "Sermaye Piyasası Kurulu (SPK), fon soruşturmasının odağındaki şirketlerden Tera Yatırım, Tera Portföy ve Pusula Portföy'ün yönetiminde yer alan ve bazıları tutuklu olan kişiler de dahil olmak üzere 48 kişi hakkında suç…",
-   "link": "https://www.bbc.com/turkce/articles/cj5yn01wp4p3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edf2/live/78b62780-ce5d-11f1-bc2e-018d645d8d21.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-22T21:24:21+00:00",
-   "url": "/haber/fon-sorusturmasi-spk-dan-48-kisi-hakkinda-suc-duyurusu-a4b0cea9/"
-  },
-  {
    "id": "944e5bb7",
    "title": "Vivo Y600 yakında geliyor: 10.000 mAh bataryasıyla Guinness Dünya Rekoru kırdı",
    "summary": "Vivo, 10.000 mAh bataryalı Y600 modelini duyurmaya hazırlanıyor. Cihaz, 32 saat 37 dakikalık kesintisiz canlı yayın testiyle Guinness Dünya Rekorları başarısı elde etti.",
@@ -1025,17 +1058,6 @@
    "url": "/haber/yaparsa-apple-yapar-mi-acaba-iphone-duo-kutu-acilisi-ve-kiyaslamasi-67914e1a/"
   },
   {
-   "id": "69e892dc",
-   "title": "Tesla sahipleri araçlarını robotaksi olarak kullanabilecek: İşte tarih",
-   "summary": "Tesla, araç sahiplerinin otomobillerini robotaksi filosuna dahil etmesine 2027'nin ikinci çeyreğinde izin vermeyi hedefliyor. Ancak teknik ve yasal engeller bu planı geciktirebilir.",
-   "link": "https://www.donanimhaber.com/tesla-sahipleri-araclarini-robotaksi-olarak-kullanabilecek--211968",
-   "image": "https://www.donanimhaber.com/images/images/haber/211968/1200x675tesla-sahipleri-araclarini-robotaksi-olarak-kullanabilecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-22T19:02:00+00:00",
-   "url": "/haber/tesla-sahipleri-araclarini-robotaksi-olarak-kullanabilecek-iste-tarih-69e892dc/"
-  },
-  {
    "id": "e332c861",
    "title": "Süper Loto çekiliş sonuçları belli oldu: 22 Ekim 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
    "summary": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de…",
@@ -1056,17 +1078,6 @@
    "category": "gundem",
    "date": "2026-10-22T18:45:00+00:00",
    "url": "/haber/trabzonspor-konferans-ligi-nde-yine-kazandi-b6eeadce/"
-  },
-  {
-   "id": "58e2ccd1",
-   "title": "Yönetmen Ezel Akay'ın uyuşturucu testi pozitif çıktı",
-   "summary": "Bursa'da 22 Temmuz’daki uyuşturucu operasyonunda gözaltına alınan ve ardından adli kontrolle serbest bırakılan yönetmen Ezel Akay'ın uyuşturucu testi pozitif çıktı.",
-   "link": "https://www.ntv.com.tr/turkiye/yonetmen-ezel-akayin-uyusturucu-testi-pozitif-cikti-1747531",
-   "image": "https://images.ntv.com.tr/images/YONETMEN-EZEL-AKAY-VE-TUTUKLU-KARDESININ_1568823_466800-273684.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-22T17:56:02+00:00",
-   "url": "/haber/yonetmen-ezel-akay-in-uyusturucu-testi-pozitif-cikti-58e2ccd1/"
   },
   {
    "id": "2c78e688",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-10-22T10:38:49+00:00",
    "url": "/haber/libya-nin-karari-turkiye-ab-iliskilerini-etkiler-mi-e12b4416/"
-  },
-  {
-   "id": "6caf9fb4",
-   "title": "Azerbaycan 31 Türk vatandaşını istenmeyen kişi ilan etti, Erdoğan Aliyev ile görüştü",
-   "summary": "Azerbaycan hükümeti 31 Türk vatandaşını, ülkedeki okullarda başörtüsünün yasaklanması sonucu doğuran yönetmelik değişikliğine yönelik açıklamaları ve paylaşımları sonrası “istenmeyen kişi” ilan etti.",
-   "link": "https://www.bbc.com/turkce/articles/cqly0zjd1l87o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08ca/live/17484e60-cd6d-11f1-bbdb-c39c91930f26.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-21T15:33:51+00:00",
-   "url": "/haber/azerbaycan-31-turk-vatandasini-istenmeyen-kisi-ilan-etti-erdogan-aliye-6caf9fb4/"
   },
   {
    "id": "d31c0733",
