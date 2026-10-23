@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T03:01:11.627640+00:00",
+ "updated": "2026-10-23T03:31:00.841505+00:00",
  "items": [
   {
    "id": "cc82f46e",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-23T03:00:00+00:00",
+   "date": "2026-10-23T03:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-cc82f46e/"
+  },
+  {
+   "id": "a5bc21e6",
+   "title": "Arap Koalisyonu: Suudi Arabistan’da dün 11 İHA ve bir balistik füze önlendi",
+   "summary": "Yemen'de Suudi Arabistan öncülüğündeki Arap Koalisyonu, dün, Suudi Arabistan’ın çeşitli bölgelerinde 11 insansız hava aracı (İHA) ile bir balistik füzeyi engelleyerek düşürdüğünü duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistan-da-dun-11-iha-ve-bir-balistik-fuze-onlendi/4097917",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T03:25:55+00:00",
+   "url": "/haber/arap-koalisyonu-suudi-arabistan-da-dun-11-iha-ve-bir-balistik-fuze-onl-a5bc21e6/"
+  },
+  {
+   "id": "c63198dd",
+   "title": "İsrail ordusu, Batı Şeria’da zeytin hasadına yardım eden 11 yabancı aktivisti alıkoydu",
+   "summary": "İsrail askerlerinin ve Filistin topraklarını gasbeden İsraillilerin zeytin hasadını engellediği işgal altındaki Batı Şeria'da, Filistinlilere yardımcı olan 11 yabancı uyruklu aktivistin alıkonulduğu bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seria-da-zeytin-hasadina-yardim-eden-11-yabanci-aktivisti-alikoydu/4097916",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T03:16:56+00:00",
+   "url": "/haber/israil-ordusu-bati-seria-da-zeytin-hasadina-yardim-eden-11-yabanci-akt-c63198dd/"
   },
   {
    "id": "23612a5c",
@@ -222,17 +244,6 @@
    "url": "/haber/besiktas-avrupa-da-yoluna-yenilgisiz-devam-etti-8258b356/"
   },
   {
-   "id": "23348e2a",
-   "title": "Rusya Devlet Başkanı Putin, Ukrayna ile anlaşmaya hazır olduklarını belirtti",
-   "summary": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna ile anlaşmak için hazır olduklarını belirterek, ateşkes değil barış anlaşması ve her iki ülkenin güvenliğinin sağlanmasını istediklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-devlet-baskani-putin-ukrayna-ile-anlasmaya-hazir-olduklarini-belirtti/4097849",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T20:46:52+00:00",
-   "url": "/haber/rusya-devlet-baskani-putin-ukrayna-ile-anlasmaya-hazir-olduklarini-bel-23348e2a/"
-  },
-  {
    "id": "944e5bb7",
    "title": "Vivo Y600 yakında geliyor: 10.000 mAh bataryasıyla Guinness Dünya Rekoru kırdı",
    "summary": "Vivo, 10.000 mAh bataryalı Y600 modelini duyurmaya hazırlanıyor. Cihaz, 32 saat 37 dakikalık kesintisiz canlı yayın testiyle Guinness Dünya Rekorları başarısı elde etti.",
@@ -440,17 +451,6 @@
    "category": "gundem",
    "date": "2026-10-22T17:52:52+00:00",
    "url": "/haber/turkiye-kanada-iliskileri-stratejik-ortaklik-duzeyine-yukseltildi-2c78e688/"
-  },
-  {
-   "id": "338fbdd3",
-   "title": "Fransa'da olası eylemlere karşı Paris'teki Louvre ve bazı müzeler 24 Ekim'de kapalı olacak",
-   "summary": "Fransa'da 17 Ekim'deki Sarı Yelekliler eylemlerinin ardından güvenlik önlemleri artırılırken, olası yeni eylemlere karşı 24 Ekim'de Paris'teki Louvre dahil başlıca müzeler ziyaretçilere kapalı olacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/fransada-olasi-eylemlere-karsi-paristeki-louvre-ve-bazi-muzeler-24-ekimde-kapali-olacak/4097727",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-22T17:50:16+00:00",
-   "url": "/haber/fransa-da-olasi-eylemlere-karsi-paris-teki-louvre-ve-bazi-muzeler-24-e-338fbdd3/"
   },
   {
    "id": "b83d698a",
