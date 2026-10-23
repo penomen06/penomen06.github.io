@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:01:08.941692+00:00",
+ "updated": "2026-10-23T23:30:56.686282+00:00",
  "items": [
   {
    "id": "bce1959a",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-23T23:00:00+00:00",
+   "date": "2026-10-23T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-bce1959a/"
+  },
+  {
+   "id": "72f5f81f",
+   "title": "Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı",
+   "summary": "Uluslararası Para Fonu (IMF), Türkiye'nin mali şeffaflık alanında son 10 yılda önemli gelişme kaydettiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi/4099149",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-23T23:18:04+00:00",
+   "url": "/haber/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi-72f5f81f/"
   },
   {
    "id": "6aeee673",
@@ -157,14 +168,14 @@
   },
   {
    "id": "86b67421",
-   "title": "Trump: İran'a karşı yeni bir askeri operasyon olabilir",
+   "title": "Trump: İran'a yeni bir askeri operasyon olabilir",
    "summary": "ABD Başkanı Donald Trump, Washington'un İran'a karşı yeni bir askeri harekat düzenleyebileceğini söyledi.",
    "link": "https://www.bbc.com/turkce/articles/cm3el0p0j8yjo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d6d/live/3b2a14c0-cf21-11f1-b8f0-99ad639f25e6.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-10-23T20:53:07+00:00",
-   "url": "/haber/trump-iran-a-karsi-yeni-bir-askeri-operasyon-olabilir-86b67421/"
+   "url": "/haber/trump-iran-a-yeni-bir-askeri-operasyon-olabilir-86b67421/"
   },
   {
    "id": "9c149af7",
@@ -319,17 +330,6 @@
    "category": "gundem",
    "date": "2026-10-23T18:58:20+00:00",
    "url": "/haber/yemen-ordusu-son-24-saatte-1392-operasyonda-620-husi-etkisiz-hale-geti-889d5492/"
-  },
-  {
-   "id": "74b75cf6",
-   "title": "Zelenskiy: Ukrayna, ABD ve Rusya'nın katılımıyla üçlü bir toplantı yapılması konusunda anlaştık",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, savaşın bitirilmesi yönünde Rusya-ABD-Ukrayna olarak üçlü görüşmelerin yeniden yapılması için anlaşmaya vardıklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-ukrayna-abd-ve-rusyanin-katilimiyla-uclu-bir-toplanti-yapilmasi-konusunda-anlastik/4099004",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T18:53:12+00:00",
-   "url": "/haber/zelenskiy-ukrayna-abd-ve-rusya-nin-katilimiyla-uclu-bir-toplanti-yapil-74b75cf6/"
   },
   {
    "id": "cb69bce7",
