@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T21:01:10.181916+00:00",
+ "updated": "2026-10-24T21:30:59.438400+00:00",
  "items": [
   {
    "id": "d9180e84",
@@ -9,8 +9,74 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-24T21:00:00+00:00",
+   "date": "2026-10-24T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d9180e84/"
+  },
+  {
+   "id": "86b41182",
+   "title": "Ankara'da meydana gelen askeri araç kazasında Albay Sayit Gökgöz şehit oldu",
+   "summary": "Milli Savunma Bakanlığı, Ankara'da meydana gelen askeri araç kazasında Albay Sayit Gökgöz'ün şehit olduğunu, 2 personelin yaralandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ankarada-meydana-gelen-askeri-arac-kazasinda-albay-sayit-gokgoz-sehit-oldu/4099894",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T21:21:58+00:00",
+   "url": "/haber/ankara-da-meydana-gelen-askeri-arac-kazasinda-albay-sayit-gokgoz-sehit-86b41182/"
+  },
+  {
+   "id": "7e0bf1e3",
+   "title": "Askeri araç kazasında albay şehit oldu",
+   "summary": "Ankara'da meydana gelen askeri araç kazasında Albay Sayit Gökgöz şehit oldu. 2 personel de yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/askeri-arac-kazasinda-albay-sehit-oldu-1747823",
+   "image": "https://images.ntv.com.tr/images/sehitaa-1520246-346266.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-24T21:21:32+00:00",
+   "url": "/haber/askeri-arac-kazasinda-albay-sehit-oldu-7e0bf1e3/"
+  },
+  {
+   "id": "6b1a75f7",
+   "title": "İtalya'da protestolarda polisle göstericiler arasında arbede yaşandı",
+   "summary": "İtalya'nın başkenti Roma'da protesto yürüyüşüne katılan göstericiler, başbakanlık istikametinde yürümek isteyince güvenlik güçleriyle karşı karşıya geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/italyada-protestolarda-polisle-gostericiler-arasinda-arbede-yasandi/4099891",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T21:08:55+00:00",
+   "url": "/haber/italya-da-protestolarda-polisle-gostericiler-arasinda-arbede-yasandi-6b1a75f7/"
+  },
+  {
+   "id": "97743842",
+   "title": "İçişleri Bakanı Çiftçi: Sahipsiz sokak hayvanlarının tamamını topladık",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, sahipsiz sokak hayvanlarıyla ilgili yürütülen çalışmalara ilişkin, \"21 Ekim 2026'da, en son Diyarbakır'da da son sokak hayvanının barınağa alınmasıyla beraber artık bu süreç Türkiye'de…",
+   "link": "https://www.trthaber.com/haber/gundem/icisleri-bakani-ciftci-sahipsiz-sokak-hayvanlarinin-tamamini-topladik-961106.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/mustafa-ciftci-2495183.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-24T21:07:00+00:00",
+   "url": "/haber/icisleri-bakani-ciftci-sahipsiz-sokak-hayvanlarinin-tamamini-topladik-97743842/"
+  },
+  {
+   "id": "0bea4c78",
+   "title": "Albay Sayit Gökgöz askeri araç kazasında şehit oldu",
+   "summary": "Milli Savunma Bakanlığı, Ankara'da meydana gelen askeri araç kazasında Albay Sayit Gökgöz'ün şehit olduğunu, 2 personelin yaralandığını açıklandı.",
+   "link": "https://www.trthaber.com/haber/gundem/albay-sayit-gokgoz-askeri-arac-kazasinda-sehit-oldu-961105.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2450000/sehit-aa-2450186.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-24T21:00:00+00:00",
+   "url": "/haber/albay-sayit-gokgoz-askeri-arac-kazasinda-sehit-oldu-0bea4c78/"
+  },
+  {
+   "id": "93342c95",
+   "title": "TürkiyeKKTC doğal gaz hattı için NAVTEX yayımlandı",
+   "summary": "Türkiye ile KKTC arasında yapılacak doğal gaz boru hattı projesi için NAVTEX yayımlandı. Akdeniz'de belirlenen 12 koordinatta 31 Aralık'a kadar çalışma yürütülecek.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-kktc-dogal-gaz-hatti-icin-navtex-yayimlandi-961104.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2090000/turkiye-kktc-2090504.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-24T20:31:00+00:00",
+   "url": "/haber/turkiyekktc-dogal-gaz-hatti-icin-navtex-yayimlandi-93342c95/"
   },
   {
    "id": "d70d2592",
@@ -387,17 +453,6 @@
    "url": "/haber/atina-nin-bati-trakya-daki-muftuluklere-yaptigi-atamalara-ankara-dan-t-4a89b8ea/"
   },
   {
-   "id": "f39430a8",
-   "title": "Milli güreşçi Yüksel Sarıçiçek, Dünya Şampiyonası'nda finale yükseldi",
-   "summary": "Kazakistan'da düzenlenen Dünya Güreş Şampiyonası'nda grekoromen stil 82 kiloda mücadele eden milli sporcu Yüksel Sarıçiçek, finale çıktı.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-guresci-yuksel-saricicek-dunya-sampiyonasinda-finale-yukseldi/4099726",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T16:11:49+00:00",
-   "url": "/haber/milli-guresci-yuksel-saricicek-dunya-sampiyonasi-nda-finale-yukseldi-f39430a8/"
-  },
-  {
    "id": "a4dabd5b",
    "title": "Renault’dan Tasarım Değişikliği: Gelecekteki Modeller Nasıl Görünecek?",
    "summary": "Renault yeni tasarım dili ile gelecekteki modellerinde daha ölçülü çizgiler ve güçlü bir aile benzerliği hedefliyor. İşte yeni stratejinin detayları.",
@@ -484,17 +539,6 @@
    "category": "gundem",
    "date": "2026-10-24T15:18:00+00:00",
    "url": "/haber/zonguldak-ta-maden-ocagindaki-patlamaya-iliskin-3-kisi-tutuklandi-ba1d8f9f/"
-  },
-  {
-   "id": "59bcebc8",
-   "title": "Belçika'da hükümet karşıtı gösteri gerginliklerin ardından polis müdahalesiyle sona erdi",
-   "summary": "Belçika'nın başkenti Brüksel'de güvenlik güçleri, federal hükümetin politikalarını, eğitim reformlarını ve polis şiddetini protesto etmek amacıyla düzenlenen gösteriye göz yaşartıcı gazla müdahale etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/belcikada-hukumet-karsiti-gosteri-gerginliklerin-ardindan-polis-mudahalesiyle-sona-erdi/4099680",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T15:08:00+00:00",
-   "url": "/haber/belcika-da-hukumet-karsiti-gosteri-gerginliklerin-ardindan-polis-mudah-59bcebc8/"
   },
   {
    "id": "2fd62ee7",
@@ -693,17 +737,6 @@
    "category": "gundem",
    "date": "2026-10-24T12:40:12+00:00",
    "url": "/haber/kara-kuvvetleri-nin-askeri-drone-yarismasi-nda-turkiye-sampiyon-oldu-813b8076/"
-  },
-  {
-   "id": "c5a5d90b",
-   "title": "Büyük tepki çekmişti. Tebligat gitti, zincir marketteki uygulama son buldu",
-   "summary": "Ankara'da bir zincir market, mağazaya giren müşterilerin çantalarını bantladı. Hırsızlık önlemi olduğu savunulan uygulama belediye tebligatıyla son buldu.",
-   "link": "https://www.ntv.com.tr/turkiye/tebligat-gitti-zincir-marketteki-uygulama-son-buldu-1747785",
-   "image": "https://images.ntv.com.tr/images/zincir-market-çanta-586283.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-24T12:18:24+00:00",
-   "url": "/haber/buyuk-tepki-cekmisti-tebligat-gitti-zincir-marketteki-uygulama-son-bul-c5a5d90b/"
   },
   {
    "id": "31a1a7a1",
@@ -1036,17 +1069,6 @@
    "url": "/haber/futbol-turizm-ve-ekonomi-mohammed-salah-cilginligi-trabzon-a-nasil-yan-614264d4/"
   },
   {
-   "id": "ac9462ef",
-   "title": "MHP'de kurultay tarihi belli oldu",
-   "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Partimizin 15'inci Olağan Büyük Kurultayı’nın 7 Şubat 2027 Pazar günü gerçekleştirilmesi kararlaştırılmıştır.\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/mhpde-kurultay-tarihi-belli-oldu-961008.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2026000/mhp-aa-2026291.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-23T13:48:00+00:00",
-   "url": "/haber/mhp-de-kurultay-tarihi-belli-oldu-ac9462ef/"
-  },
-  {
    "id": "656ed81a",
    "title": "1 Milyon TL'ye Kadar Alınabilecek 5 Otomobil",
    "summary": "1 milyon TL'ye kadar alınabilecek, otomatik şanzımanı sağlam 5 otomobili inceliyoruz.",
@@ -1157,17 +1179,6 @@
    "url": "/haber/robux-fiyatlari-hangi-paket-kac-tl-e4f4c003/"
   },
   {
-   "id": "6214d0ea",
-   "title": "Sumud Filosu'na saldırıyla ilgili 35 sanık yargılanıyor",
-   "summary": "Gazze'ye insani yardım taşıyan Küresel Sumud Filosu'na silahlı müdahalede bulunulmasına ilişkin, aralarında İsrail Başbakanı Binyamin Netanyahu'nun da bulunduğu 35 sanığın yargılanmasına başlandı.",
-   "link": "https://www.trthaber.com/haber/gundem/sumud-filosuna-saldiriyla-ilgili-35-sanik-yargilaniyor-961001.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2402000/israil-sumud-kararlilik-saldiri-2403464.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-23T12:14:00+00:00",
-   "url": "/haber/sumud-filosu-na-saldiriyla-ilgili-35-sanik-yargilaniyor-6214d0ea/"
-  },
-  {
    "id": "8a219cc9",
    "title": "İptal Edilen Yeni Mass Effect Oyunun Fragmanı Sızdırıldı",
    "summary": "BioWare’in kapatılmasıyla iptal edilen yeni Mass Effect oyunun fragmanı sızdırıldı. Oyunun ismi de videoda yer aldı.",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-10-23T07:36:07+00:00",
    "url": "/haber/brezilya-secimlerinde-yapay-zeka-ile-yaratilan-kadinlar-uzerinden-para-5f891942/"
-  },
-  {
-   "id": "8160c4e2",
-   "title": "MİA'dan İsrail Yayılmacılığının Anatomisi Raporu",
-   "summary": "Milli İstihbarat Akademisi (MİA), \"İsrail Yayılmacılığının Anatomisi\" başlıklı raporunu yayımladı. Raporda, İsrail'in yayılmacılığının Gazze'de soykırıma dönüşen yeni bir aşamaya geçtiği vurgulanırken, Türkiye'nin…",
-   "link": "https://www.trthaber.com/haber/gundem/miadan-israil-yayilmaciliginin-anatomisi-raporu-960973.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/mia-2497882.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-23T07:17:00+00:00",
-   "url": "/haber/mia-dan-israil-yayilmaciliginin-anatomisi-raporu-8160c4e2/"
   },
   {
    "id": "b588ad9d",
