@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-24T19:01:11.069247+00:00",
+ "updated": "2026-10-24T19:30:58.655908+00:00",
  "items": [
+  {
+   "id": "92f617eb",
+   "title": "PHP'de yeni bir güvenlik açığı daha ortaya çıktı: PHP2Shell'den iki gün sonra yeni uyarı",
+   "summary": "PHP2Shell açıkları için yayımlanan acil yamalardan iki gün sonra yeni bir güvenlik açığı daha ortaya çıktı. PHP, güncelleme yayınlamak yerine bu kez farklı bir yol izliyor.",
+   "link": "https://www.donanimhaber.com/php-de-yeni-bir-kritik-guvenlik-acigi-daha-ortaya-cikti--212051",
+   "image": "https://www.donanimhaber.com/images/images/haber/212051/1200x675php-de-yeni-bir-kritik-guvenlik-acigi-daha-ortaya-cikti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-24T19:30:00+00:00",
+   "url": "/haber/php-de-yeni-bir-guvenlik-acigi-daha-ortaya-cikti-php2shell-den-iki-gun-92f617eb/"
+  },
+  {
+   "id": "02ebe78d",
+   "title": "Zeybekci: Fon meselesinde hem ihmal hem suistimal var",
+   "summary": "AK Parti Genel Başkan Yardımcısı Nihat Zeybekci, fon soruşturmalarıyla ilgili, \"Maalesef bazı kamu kurumlarının yönetiminde de hem ihmal hem suistimal vardır​​​.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/zeybekci-fon-meselesinde-hem-ihmal-hem-suistimal-var-1747818",
+   "image": "https://images.ntv.com.tr/images/AA-20261024-42853107-42853105-AK_PARTI_GENEL_BASKAN_YARDIMCISI_ZEYBEKCI_DENIZLIDE_KONUSTU-897618.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-24T19:29:57+00:00",
+   "url": "/haber/zeybekci-fon-meselesinde-hem-ihmal-hem-suistimal-var-02ebe78d/"
+  },
+  {
+   "id": "98df7205",
+   "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki saldırılarını sürdürdü",
+   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-saldirilarini-surdurdu/4099824",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T19:03:24+00:00",
+   "url": "/haber/israil-ordusu-ateskese-ragmen-lubnan-in-guneyindeki-saldirilarini-surd-98df7205/"
+  },
   {
    "id": "5bacc4c3",
    "title": "OpenAI Yeni Modelleri Çevrim Dışı Ortamda Eğitecek",
@@ -33,6 +66,17 @@
    "category": "gundem",
    "date": "2026-10-24T18:49:57+00:00",
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-24-eki-94c0eab6/"
+  },
+  {
+   "id": "19226756",
+   "title": "New York Belediye Başkanı Mamdani, erken oy kullanmanın başladığı New York'ta oyunu kullandı",
+   "summary": "ABD'de 3 Kasım'da yapılacak Kongre ara seçimleri yaklaşırken erken oy kullanma işlemlerinin başladığı New York'ta, Belediye Başkanı Zohran Mamdani oyunu kullandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/new-york-belediye-baskani-mamdani-erken-oy-kullanmanin-basladigi-new-yorkta-oyunu-kullandi/4099820",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T18:44:18+00:00",
+   "url": "/haber/new-york-belediye-baskani-mamdani-erken-oy-kullanmanin-basladigi-new-y-19226756/"
   },
   {
    "id": "5d5066f4",
@@ -354,17 +398,6 @@
    "url": "/haber/zonguldak-taki-maden-ocaginda-patlamaya-iliskin-3-kisi-tutuklandi-416a7dac/"
   },
   {
-   "id": "ccd3e2e5",
-   "title": "Bakan Fidan, Kuzey Makedonya Devlet Bakanı Zeynula ve Yemen Dışişleri Bakanı Zube'yi İstanbul'da kabul etti",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Kuzey Makedonya Devlet Bakanı ve Türk Demokratik Partisi Genel Başkanı Zülfikar Zeynula ve Yemen Dışişleri Bakanı Afrah ez-Zube ile İstanbul’da bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-kuzey-makedonya-devlet-bakani-zeynula-ve-yemen-disisleri-bakani-zubeyi-istanbulda-kabul-etti/4099716",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T15:55:29+00:00",
-   "url": "/haber/bakan-fidan-kuzey-makedonya-devlet-bakani-zeynula-ve-yemen-disisleri-b-ccd3e2e5/"
-  },
-  {
    "id": "070ce902",
    "title": "Yaklaşık 3 milyon aday katılacak. KPSS için pazar günü nüfus müdürlükleri açık olacak",
    "summary": "İçişleri Bakanı Mustafa Çiftçi, Kamu Personel Seçme Sınavı (KPSS Ortaöğretim) kapsamında nüfus müdürlüklerinin, T.C. kimlik belgeleriyle ilgili sorun yaşayan adaylar için açık olacağını duyurdu.",
@@ -374,17 +407,6 @@
    "category": "gundem",
    "date": "2026-10-24T15:54:47+00:00",
    "url": "/haber/yaklasik-3-milyon-aday-katilacak-kpss-icin-pazar-gunu-nufus-mudurlukle-070ce902/"
-  },
-  {
-   "id": "a20e4254",
-   "title": "Zelenskiy, ordunun kullandığı Starlink internet hizmetinin eski hızına döndüğünü söyledi",
-   "summary": "Ukrayna Devlet Başkanı Zelenskiy, ABD merkezli SpaceX'in Starlink sisteminin Ukrayna ordusuna sunduğu ve yavaşlayan internet hizmetinin \"kısıtlamalardan önceki hıza\" geri döndüğünü bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-ordunun-kullandigi-starlink-internet-hizmetinin-eski-hizina-dondugunu-soyledi/4099713",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T15:48:36+00:00",
-   "url": "/haber/zelenskiy-ordunun-kullandigi-starlink-internet-hizmetinin-eski-hizina-a20e4254/"
   },
   {
    "id": "334e488f",
@@ -695,17 +717,6 @@
    "url": "/haber/honor-700-serisi-sizdirildi-200mp-kamera-ve-9000mah-batarya-ile-geliyo-75044037/"
   },
   {
-   "id": "e05aec79",
-   "title": "Starlink Mobile büyüyor: SpaceX, 80 bin baz istasyonu için görüşüyor",
-   "summary": "Starlink Mobile ile ABD telekomünikasyon pazarına girmeye hazırlanan SpaceX, ülke genelinde en az 80 bin baz istasyonu sahasına erişmek için altyapı şirketleriyle görüşüyor.",
-   "link": "https://www.donanimhaber.com/spacex-starlink-mobile-icin-80-bin-baz-istasyonu-hedefliyor--212022",
-   "image": "https://www.donanimhaber.com/images/images/haber/212022/1200x675spacex-starlink-mobile-icin-80-bin-baz-istasyonu-hedefliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-24T12:00:00+00:00",
-   "url": "/haber/starlink-mobile-buyuyor-spacex-80-bin-baz-istasyonu-icin-gorusuyor-e05aec79/"
-  },
-  {
    "id": "6f05a429",
    "title": "İstanbul dahil 10 şehirde 'Sansüre Hayır, Habere Özgürlük' yürüyüşleri",
    "summary": "İstanbul, Ankara, İzmir ve Diyarbakır dahil 10 şehirde basın özgürlüğü yürüşleri yapılıyor. Eş zamanlı olarak Milliyetçi Hareket Partisi Genel Başkan Yardımcısı Feti Yıldız \"yalan ve yanıltıcı haberlerler dünyanın her…",
@@ -737,17 +748,6 @@
    "category": "gundem",
    "date": "2026-10-24T11:16:00+00:00",
    "url": "/haber/fon-sorusturmasinda-15-supheli-daha-tutuklandi-435a8fbd/"
-  },
-  {
-   "id": "814de6fe",
-   "title": "Sarıgül kardeşlerin tutuklandığı soruşturmada 12 gözaltı daha",
-   "summary": "Sarıgül kardeşlerinde aralarında olduğu suçtan kaynaklanan mal varlığı değerlerini aklama soruşturmasında 14 şüpheli hakkında yakalama kararı verildi. Şüphelilerden 12'si gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/sarigul-kardeslerin-tutuklandigi-sorusturmada-12-gozalti-daha-1747773",
-   "image": "https://images.ntv.com.tr/images/SARIGÜL-457231.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-24T11:13:29+00:00",
-   "url": "/haber/sarigul-kardeslerin-tutuklandigi-sorusturmada-12-gozalti-daha-814de6fe/"
   },
   {
    "id": "5375217d",
