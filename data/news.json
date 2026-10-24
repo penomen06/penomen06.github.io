@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-24T18:31:01.623026+00:00",
+ "updated": "2026-10-24T19:01:11.069247+00:00",
  "items": [
+  {
+   "id": "5bacc4c3",
+   "title": "OpenAI Yeni Modelleri Çevrim Dışı Ortamda Eğitecek",
+   "summary": "OpenAI, güvenlik ihlalleri sonrası yeni yapay zeka modellerini internet erişimi olmadan, kayıtlı içeriklerle eğiteceğini duyurdu.",
+   "link": "https://shiftdelete.net/openai-yapay-zeka-modelleri-egitim-degisikligi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-24T19:00:52+00:00",
+   "url": "/haber/openai-yeni-modelleri-cevrim-disi-ortamda-egitecek-5bacc4c3/"
+  },
+  {
+   "id": "2ad2038a",
+   "title": "ASUS router'lara kritik güncelleme: Parolasız erişim açığı kapatıldı!",
+   "summary": "Tayvanlı teknoloji devi ASUS, çeşitli router (yönlendirici) modellerinde birden fazla ciddi güvenlik açığının keşfedilmesinin ardından acil bir güvenlik güncellemesi yayınladı.",
+   "link": "https://www.donanimhaber.com/asus-router-lara-kritik-guncelleme-buyuk-acik-kapatildi--212041",
+   "image": "https://www.donanimhaber.com/images/images/haber/212041/1200x675asus-router-lara-kritik-guncelleme-buyuk-acik-kapatildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-24T19:00:00+00:00",
+   "url": "/haber/asus-router-lara-kritik-guncelleme-parolasiz-erisim-acigi-kapatildi-2ad2038a/"
+  },
+  {
+   "id": "94c0eab6",
+   "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+   "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli…",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1747817",
+   "image": "https://images.ntv.com.tr/images/sayisal-loto-cekilis-362132.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-24T18:49:57+00:00",
+   "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-24-eki-94c0eab6/"
+  },
+  {
+   "id": "5d5066f4",
+   "title": "Bakan Fidan'dan diplomasi trafiği",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Yemen Dışişleri Bakanı Afrah ez-Zube ile İstanbul’da bir araya geldi. Fidan ayrıca, Katarlı mevkidaşı Muhammed bin Abdurrahman Al Sani ile de görüştü.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-fidandan-diplomasi-trafigi-1747816",
+   "image": "https://images.ntv.com.tr/images/DISISLERI-BAKANI-FIDAN-YEMEN-DISISLERI-_1572469_467772-861585.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-24T18:40:15+00:00",
+   "url": "/haber/bakan-fidan-dan-diplomasi-trafigi-5d5066f4/"
+  },
+  {
+   "id": "4fe9aca5",
+   "title": "İsrail'in kuşattığı El Halil'de Filistinlilerin çıkarıldığı evler askeri mevzilere dönüştürülüyor",
+   "summary": "İsrail ordusunun işgal altındaki Batı Şeria'nın El Halil kentinde başlattığı saldırılar, Filistinlilerin evlerinden zorla çıkarılması, konutların askeri mevzilere dönüştürülmesi ve hareket özgürlüklerinin…",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-kusattigi-el-halilde-filistinlilerin-cikarildigi-evler-askeri-mevzilere-donusturuluyor/4099817",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T18:31:06+00:00",
+   "url": "/haber/israil-in-kusattigi-el-halil-de-filistinlilerin-cikarildigi-evler-aske-4fe9aca5/"
+  },
   {
    "id": "a9ebcc9d",
    "title": "Avengers: Doomsday için yeni bir tanıtım videosu yayınlandı",
@@ -486,17 +541,6 @@
    "url": "/haber/micron-400-katmanli-yeni-nand-bellek-gelistiriyor-yogunluk-ikiye-katla-ef508d6c/"
   },
   {
-   "id": "467f9cb8",
-   "title": "Erzurumspor FK, deplasmanda Gaziantep FK'yi 3-1 mağlup etti",
-   "summary": "Trendyol Süper Lig'in 9. haftasındaki maçta Erzurumspor FK, deplasmanda Gaziantep FK'yi 3-1 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/-erzurumspor-fk-deplasmanda-gaziantep-fkyi-3-1-maglup-etti/4099616",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T13:56:25+00:00",
-   "url": "/haber/erzurumspor-fk-deplasmanda-gaziantep-fk-yi-3-1-maglup-etti-467f9cb8/"
-  },
-  {
    "id": "8b930a20",
    "title": "Türkiye’de de satılacak OPPO Find X10 Pro Max böyle üretiliyor [Video]",
    "summary": "JerryRigEverything kanalının sahibi Zack Nelson, OPPO’nun davetiyle Türkiye’de de satılacak Find X10 Pro Max’in üretim tesisini gezdi. Şirketin telefon üretiminde çok sayıda robottan güç aldığını gözler önüne seren…",
@@ -517,17 +561,6 @@
    "category": "gundem",
    "date": "2026-10-24T13:52:00+00:00",
    "url": "/haber/mardin-de-otomobil-sulama-kanalina-devrildi-6-olu-d034cf1c/"
-  },
-  {
-   "id": "50125836",
-   "title": "Kamu Personel Seçme Sınavı (KPSS) yarın yapılacak. KPSS Ortaöğretim öncesi önemli uyarı",
-   "summary": "Kamu Personel Seçme Sınavı (KPSS) Ortaöğretim Sınavı yarın yapılacak. KPSS Ortaöğretim Sınavı'nda 3 milyon aday ter dökecek. Sınav öncesinde ÖSYM Başkanı Bayram Ali Ersoy, önemli bir çağrıda bulundu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kamu-personel-secme-sinavi-kpss-yarin-yapilacak-kpss-ortaogretim-oncesi-onemli-uyari-1747758",
-   "image": "https://images.ntv.com.tr/images/KPSS-Basvurusu-Nasil-Yapilir-Kapak-Gorseli-878233-609582.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-24T13:37:34+00:00",
-   "url": "/haber/kamu-personel-secme-sinavi-kpss-yarin-yapilacak-kpss-ortaogretim-onces-50125836/"
   },
   {
    "id": "2b460da5",
@@ -695,17 +728,6 @@
    "url": "/haber/fnss-4-500-u-askin-paletli-zirhli-araci-6-ulkenin-envanterine-kazandir-63c9f53e/"
   },
   {
-   "id": "e6125f11",
-   "title": "Yeni Fiat Grizzly'nin uygun fiyatlı baz versiyonu görüntülendi",
-   "summary": "Fiat Grizzly'nin giriş seviyesi versiyonu kamuflajsız olarak görüntülendi. Gösterişli tasarım unsurlarından arındırılan SUV sade tasarımıyla bütçe dostu bir seçenek olacağının sinyallerini veriyor.",
-   "link": "https://www.donanimhaber.com/yeni-fiat-grizzly-nin-uygun-fiyatli-baz-versiyonu-goruntulendi--212037",
-   "image": "https://www.donanimhaber.com/images/images/haber/212037/1200x675yeni-fiat-grizzly-nin-uygun-fiyatli-baz-versiyonu-goruntulendi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-24T11:30:00+00:00",
-   "url": "/haber/yeni-fiat-grizzly-nin-uygun-fiyatli-baz-versiyonu-goruntulendi-e6125f11/"
-  },
-  {
    "id": "435a8fbd",
    "title": "Fon soruşturmasında 15 şüpheli daha tutuklandı",
    "summary": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında gözaltına alınan 22 şüpheliden 15’i tutuklandı, 7 şüpheli hakkında adli kontrol tedbiri uygulandı.",
@@ -737,17 +759,6 @@
    "category": "teknoloji",
    "date": "2026-10-24T11:00:15+00:00",
    "url": "/haber/realme-17-pro-teknik-ozellikleri-sizdi-5375217d/"
-  },
-  {
-   "id": "c856cf4b",
-   "title": "Cumhurbaşkanı Erdoğan: BM Güvenlik Konseyi'nin daha adil yapıya kavuşturulması önemli",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler'in kuruluş yıldönümü nedeniyle yayımladığı mesajda BM Güvenlik Konseyi'nin daha adil bir yapıya kavuşması gerektiğine dikkat çekti.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bm-guvenlik-konseyinin-daha-adil-yapiya-kavusturulmasi-onemli-1747768",
-   "image": "https://images.ntv.com.tr/images/ErdoğanBM-455190.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-24T10:54:41+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-bm-guvenlik-konseyi-nin-daha-adil-yapiya-kavustu-c856cf4b/"
   },
   {
    "id": "bbdd4cad",
@@ -814,17 +825,6 @@
    "category": "teknoloji",
    "date": "2026-10-24T09:32:23+00:00",
    "url": "/haber/ferrari-308-i-gelecege-tasiyan-ozel-model-michelotto-gruppo-4-tributo-d77d9525/"
-  },
-  {
-   "id": "ce079a97",
-   "title": "ABD Füze Üretim Kapasitesini 4 Katına Çıkarıyor",
-   "summary": "ABD, kritik füze sistemlerinin üretimini artırmak amacıyla savunma sanayisindeki en büyük kapasite genişletme girişimlerinden birini yürütüyor. ABD merkezli savunma ve havacılık şirketi RTX, ABD Savunma Bakanlığı ile…",
-   "link": "https://shiftdelete.net/abd-fuze-uretim-kapasitesini-4-katina-cikariyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-24T09:30:02+00:00",
-   "url": "/haber/abd-fuze-uretim-kapasitesini-4-katina-cikariyor-ce079a97/"
   },
   {
    "id": "422c5738",
