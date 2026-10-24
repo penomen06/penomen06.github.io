@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-24T16:01:16.587295+00:00",
+ "updated": "2026-10-24T16:31:04.676195+00:00",
  "items": [
+  {
+   "id": "ca02180b",
+   "title": "Fransa’daki protestolarda internetsiz mesajlaşma uygulaması Bitchat kullanıldı",
+   "summary": "İnternet bağlantısı olmadan mesajlaşma imkanı sunan Bitchat uygulaması, Fransa’da zirveye çıktı. Protestolar, sosyal medya engeli tartışmaları ve mobil şebeke kesintisi indirmeleri artırdı.",
+   "link": "https://www.donanimhaber.com/fransa-daki-protestolara-bitchat-damga-vurdu--212033",
+   "image": "https://www.donanimhaber.com/images/images/haber/212033/1200x675fransa-daki-protestolara-bitchat-damga-vurdu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-24T16:30:00+00:00",
+   "url": "/haber/fransa-daki-protestolarda-internetsiz-mesajlasma-uygulamasi-bitchat-ku-ca02180b/"
+  },
+  {
+   "id": "4a89b8ea",
+   "title": "Atina'nın Batı Trakya'daki üç müftülüğe yaptığı atamalara Ankara'dan tepki",
+   "summary": "Türk Dışişleri Bakanlığı, Yunanistan makamlarına bir çağrı yaparak, Batı Trakya'daki Türk azınlığın seçtiği müftülerin tanınmasını istedi. Gelişme Yunanistan hükümetinin Gümülcine ve İskeçe müftülüklerine beş yıl için…",
+   "link": "https://www.bbc.com/turkce/articles/cje36w30vwd7o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/18ef/live/b29d4990-cfc7-11f1-9ecd-8be45051afbd.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-24T16:28:27+00:00",
+   "url": "/haber/atina-nin-bati-trakya-daki-uc-muftuluge-yaptigi-atamalara-ankara-dan-t-4a89b8ea/"
+  },
+  {
+   "id": "1afbca36",
+   "title": "KALKAN DİHA'nın okyanus şartlarında ilk uçuş denemeleri Hint Okyanusu'nda yapıldı",
+   "summary": "Milli Savunma Bakanlığı, TCG Gelibolu fırkateyninde konuşlu KALKAN Dikey İniş Kalkışlı İnsansız Hava Aracı'nın (DİHA) okyanus şartlarında ilk uçuş denemelerinin Hint Okyanusu'nda gerçekleştirildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/kalkan-dihanin-okyanus-sartlarinda-ilk-ucus-denemeleri-hint-okyanusunda-yapildi/4099741",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T16:24:12+00:00",
+   "url": "/haber/kalkan-diha-nin-okyanus-sartlarinda-ilk-ucus-denemeleri-hint-okyanusu-1afbca36/"
+  },
+  {
+   "id": "7940ab17",
+   "title": "Güllü'nün ölümü davasında gerekçeli karar. Tuğyan'ın hapis cezasında Sultan'ın ifadesi etkili oldu",
+   "summary": "Güllü'nün ölümüne ilişkin davada kızı Tuğyan Ülkem Gülter’e verilen ağırlaştırılmış müebbet hapis cezasının gerekçeli kararı açıklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-gullunun-olumu-davasinda-gerekceli-karar-tugyanin-hapis-cezasinda-sultanin-ifadesi-etkili-oldu-1747812",
+   "image": "https://images.ntv.com.tr/images/güllü-547355(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-24T16:23:03+00:00",
+   "url": "/haber/gullu-nun-olumu-davasinda-gerekceli-karar-tugyan-in-hapis-cezasinda-su-7940ab17/"
+  },
+  {
+   "id": "9b6e7381",
+   "title": "Kurumlar Arası Geçici Görevlendirme Yönetmeliği'nde değişiklik yapıldı",
+   "summary": "Kurumlar Arası Geçici Görevlendirme Yönetmeliği'nde Değişiklik Yapılmasına Dair Yönetmelik Resmi Gazete'de yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/kurumlar-arasi-gecici-gorevlendirme-yonetmeliginde-degisiklik-yapildi/4099739",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T16:21:47+00:00",
+   "url": "/haber/kurumlar-arasi-gecici-gorevlendirme-yonetmeligi-nde-degisiklik-yapildi-9b6e7381/"
+  },
+  {
+   "id": "90cb8490",
+   "title": "YTB Başkanı Turus'tan Yunanistan'ın Gümülcine ve İskeçe'ye müftü atamasına tepki",
+   "summary": "YTB Başkanı Abdulhadi Turus, \"Yunanistan makamlarını, Batı Trakya Türk Azınlığının iradesine saygı göstermeye, seçilmiş müftüleri tanımaya ve bu dayatmacı uygulamalardan vazgeçmeye çağırıyoruz.\" ifadelerini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ytb-baskani-turustan-yunanistanin-gumulcine-ve-iskeceye-muftu-atamasina-tepki/4099727",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T16:13:18+00:00",
+   "url": "/haber/ytb-baskani-turus-tan-yunanistan-in-gumulcine-ve-iskece-ye-muftu-atama-90cb8490/"
+  },
+  {
+   "id": "79225506",
+   "title": "Sırbistan'da halk erken genel seçim için yarın sandık başına gidecek",
+   "summary": "Sırbistan'da seçmenler, erken genel seçimde oy kullanmak için yarın sandık başında olacak.",
+   "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-halk-erken-genel-secim-icin-yarin-sandik-basina-gidecek/4099718",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T16:01:51+00:00",
+   "url": "/haber/sirbistan-da-halk-erken-genel-secim-icin-yarin-sandik-basina-gidecek-79225506/"
+  },
   {
    "id": "a4dabd5b",
    "title": "Renault’dan Tasarım Değişikliği: Gelecekteki Modeller Nasıl Görünecek?",
@@ -288,17 +365,6 @@
    "url": "/haber/erzurumspor-fk-deplasmanda-gaziantep-fk-yi-3-1-maglup-etti-467f9cb8/"
   },
   {
-   "id": "f47b5902",
-   "title": "Mardin'de sulama kanalına devrilen otomobildeki 4'ü çocuk 6 kişi öldü",
-   "summary": "Mardin'in Nusaybin ilçesinde sulama kanalına devrilen otomobildeki 4'ü çocuk 6 kişi hayatını kaybetti.",
-   "link": "https://www.aa.com.tr/tr/gundem/mardinde-sulama-kanalina-devrilen-otomobildeki-4u-cocuk-6-kisi-oldu/4099615",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T13:56:17+00:00",
-   "url": "/haber/mardin-de-sulama-kanalina-devrilen-otomobildeki-4-u-cocuk-6-kisi-oldu-f47b5902/"
-  },
-  {
    "id": "8b930a20",
    "title": "Türkiye’de de satılacak OPPO Find X10 Pro Max böyle üretiliyor [Video]",
    "summary": "JerryRigEverything kanalının sahibi Zack Nelson, OPPO’nun davetiyle Türkiye’de de satılacak Find X10 Pro Max’in üretim tesisini gezdi. Şirketin telefon üretiminde çok sayıda robottan güç aldığını gözler önüne seren…",
@@ -308,17 +374,6 @@
    "category": "teknoloji",
    "date": "2026-10-24T13:53:47+00:00",
    "url": "/haber/turkiye-de-de-satilacak-oppo-find-x10-pro-max-boyle-uretiliyor-video-8b930a20/"
-  },
-  {
-   "id": "5cb21b1b",
-   "title": "İran Devrim Muhafızları Ordu Sözcüsü Muhibbi: Düşmanın en ufak hatasına katbekat cevap vereceğiz",
-   "summary": "İran Devrim Muhafızları Ordu Sözcüsü Muhibbi, ABD ve İsrail’i işaret ederek, \"Düşmanın en ufak hatasına katbekat cevap vereceğiz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordu-sozcusu-muhibbi-dusmanin-en-ufak-hatasina-katbekat-cevap-verecegiz/4099613",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T13:52:58+00:00",
-   "url": "/haber/iran-devrim-muhafizlari-ordu-sozcusu-muhibbi-dusmanin-en-ufak-hatasina-5cb21b1b/"
   },
   {
    "id": "d034cf1c",
@@ -387,17 +442,6 @@
    "url": "/haber/cumhurbaskani-erdogan-kimliksizlestirme-siyasetine-maruz-birakildik-8db45a61/"
   },
   {
-   "id": "095d110f",
-   "title": "60 saniyede bugün (24 Ekim 2026)",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-24-ekim-2026/4099578",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T13:01:51+00:00",
-   "url": "/haber/60-saniyede-bugun-24-ekim-2026-095d110f/"
-  },
-  {
    "id": "aff22761",
    "title": "Sınırları Aşan Casper Oyun Bilgisayarı: Excalibur G920",
    "summary": "Casper Excalibur G920; RTX 5070 Ti, RTX 5080 ve RTX 5090 seçenekleri, i9-14900HX işlemcisi ve 300 Hz QHD ekranıyla ağır oyunlara hazırlanmak isteyenlerin gündemine oturuyor.",
@@ -429,17 +473,6 @@
    "category": "teknoloji",
    "date": "2026-10-24T13:00:00+00:00",
    "url": "/haber/iphone-duo-10-000-kez-katlandi-iste-sonuclar-f96c83c7/"
-  },
-  {
-   "id": "36174e54",
-   "title": "Almanya Başbakanı Merz: Rusya'nın her gün Almanya'yı istikrarsızlaştırmak istediğini görüyoruz",
-   "summary": "Almanya Başbakanı ve Hristiyan Demokrat Birlik Partisi (CDU) Genel Başkanı Friedrich Merz, Rusya’nın Almanya’yı istikrarsızlaştırmak istediğini her gün gördüklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/almanya-basbakani-merz-rusyanin-her-gun-almanyayi-istikrarsizlastirmak-istedigini-goruyoruz/4099573",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T12:59:43+00:00",
-   "url": "/haber/almanya-basbakani-merz-rusya-nin-her-gun-almanya-yi-istikrarsizlastirm-36174e54/"
   },
   {
    "id": "7760698c",
@@ -761,17 +794,6 @@
    "url": "/haber/mg-uzaktan-arac-kontrolu-sunan-ismart-sistemini-turkiye-de-kullanima-s-edfed346/"
   },
   {
-   "id": "024678b9",
-   "title": "Çiğdem'in öldüğü kazada büyük şüphe",
-   "summary": "İstanbul'da otomobille çarpışan motosikletteki yolcu Çiğdem Aktaş yaşamını yitirdi. Motosiklet sürücüsünün ağır yaralandığı kazada, otomobilin ters yönde seyrettiği ileri sürüldü.",
-   "link": "https://www.ntv.com.tr/turkiye/cigdemin-oldugu-kazada-buyuk-suphe-1747751",
-   "image": "https://images.ntv.com.tr/images/çiğdem-kaza-5-841464.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-24T09:17:14+00:00",
-   "url": "/haber/cigdem-in-oldugu-kazada-buyuk-suphe-024678b9/"
-  },
-  {
    "id": "c037b542",
    "title": "iPhone Duo için ilk ekran sorunları gündeme gelmeye başladı",
    "summary": "Apple’ın dün resmi olarak satışa sunduğu ilk katlanabilir telefon modeli iPhone Duo’da şimdiden ekran sorunları baş gösterdi. Sosyal medyada paylaşılan fotoğraflar, birden fazla Duo’nun Samsung Display tarafından…",
@@ -781,17 +803,6 @@
    "category": "teknoloji",
    "date": "2026-10-24T09:10:38+00:00",
    "url": "/haber/iphone-duo-icin-ilk-ekran-sorunlari-gundeme-gelmeye-basladi-c037b542/"
-  },
-  {
-   "id": "a8d9fd1c",
-   "title": "Ucuz elektrikli otomobil yarışı kızıştı: Fiat Koala, BYD Seagull, MG HS ve iCAUR V25 | Oto Gündem",
-   "summary": "Oto Gündem'in bu haftaki bölümünde; 15 bin euronun altında fiyatla gelmesi beklenen yeni Fiat Koala, yenilenen 9.800 dolarlık BYD Seagull, MG HS'nin yeni donanımları ve iCar V25'i konuştuk.",
-   "link": "https://www.donanimhaber.com/ucuz-elektrikli-fiat-koala-yolda-byd-seagull-yenilendi--212032",
-   "image": "https://www.donanimhaber.com/images/images/haber/212032/1200x675ucuz-elektrikli-fiat-koala-yolda-byd-seagull-yenilendi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-24T09:00:45+00:00",
-   "url": "/haber/ucuz-elektrikli-otomobil-yarisi-kizisti-fiat-koala-byd-seagull-mg-hs-v-a8d9fd1c/"
   },
   {
    "id": "3305ff05",
@@ -957,17 +968,6 @@
    "category": "gundem",
    "date": "2026-10-24T06:58:00+00:00",
    "url": "/haber/bagcilar-da-zincirleme-kaza-2-kisi-yaralandi-b33c811e/"
-  },
-  {
-   "id": "b0724ea2",
-   "title": "İngiltere Başbakanı Burnham'dan konserve gıda ve şişe suyu depolama tavsiyesi",
-   "summary": "İngiltere Başbakanı Andy Burnham, acil durumlara hazırlıklı olmak amacıyla halka konserve gıda ve şişe suyu stoklamalarını tavsiye etti.",
-   "link": "https://www.bbc.com/turkce/articles/c8qlnk9l271vo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8aa3/live/61a30b40-cf29-11f1-89f6-f5ef8a187796.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-23T21:48:23+00:00",
-   "url": "/haber/ingiltere-basbakani-burnham-dan-konserve-gida-ve-sise-suyu-depolama-ta-b0724ea2/"
   },
   {
    "id": "4b4e4719",
