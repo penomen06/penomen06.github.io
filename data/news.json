@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:30:58.245351+00:00",
+ "updated": "2026-10-24T23:01:08.757104+00:00",
  "items": [
   {
    "id": "d9180e84",
@@ -9,8 +9,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-24T22:30:00+00:00",
+   "date": "2026-10-24T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d9180e84/"
+  },
+  {
+   "id": "a7c15cac",
+   "title": "Plaj futbolunda 33 ülkeden 48 takım Alanya'da buluşacak",
+   "summary": "Plaj Futbolu Dünya Kulüpler Şampiyonası, 26 Ekim-1 Kasım tarihlerinde Antalya'nın Alanya ilçesinde 5 kıtadan 33 ülkenin 48 takımını buluşturacak.",
+   "link": "https://www.aa.com.tr/tr/spor/plaj-futbolunda-33-ulkeden-48-takim-alanyada-bulusacak/4099909",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T22:14:50+00:00",
+   "url": "/haber/plaj-futbolunda-33-ulkeden-48-takim-alanya-da-bulusacak-a7c15cac/"
+  },
+  {
+   "id": "274c2700",
+   "title": "GAİB'e bağlı 9 ildeki kuru meyve ihracatından 9 ayda 183,9 milyon dolarlık gelir",
+   "summary": "Güneydoğu Anadolu İhracatçı Birliklerine bağlı 9 ilden ocak-eylül döneminde 183,9 milyon dolarlık kuru meyve ihracatı gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/gaibe-bagli-9-ildeki-kuru-meyve-ihracatindan-9-ayda-183-9-milyon-dolarlik-gelir/4099908",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T22:14:14+00:00",
+   "url": "/haber/gaib-e-bagli-9-ildeki-kuru-meyve-ihracatindan-9-ayda-183-9-milyon-dola-274c2700/"
+  },
+  {
+   "id": "a2f07f7d",
+   "title": "Robotik kalp cerrahisi hastaların günlük yaşama dönüşünü hızlandırıyor",
+   "summary": "Karadeniz Teknik Üniversitesi (KTÜ) Farabi Hastanesinde robotik kalp ve damar cerrahisi uygulanmaya başlanırken bu yöntemle ilk kez Rize ve Gümüşhane'den gelen iki hasta ameliyat edildi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/robotik-kalp-cerrahisi-hastalarin-gunluk-yasama-donusunu-hizlandiriyor/4099907",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T22:13:16+00:00",
+   "url": "/haber/robotik-kalp-cerrahisi-hastalarin-gunluk-yasama-donusunu-hizlandiriyor-a2f07f7d/"
+  },
+  {
+   "id": "ab2f6833",
+   "title": "Eber Gölü'ndeki sazlık ve Sarıcaova'daki yanan ormanlarda yaban hayatı izleniyor",
+   "summary": "Afyonkarahisar'da, Eber Gölü'ndeki sazlık ile Sarıcaova'daki yangından etkilenen ormanlık alanlarda yürütülen çalışmalarla, yaban hayvanlarının bölgedeki varlığı ve yangının tür çeşitliliği üzerindeki etkileri…",
+   "link": "https://www.aa.com.tr/tr/gundem/eber-golundeki-sazlik-ve-saricaovadaki-yanan-ormanlarda-yaban-hayati-izleniyor/4099905",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T22:11:37+00:00",
+   "url": "/haber/eber-golu-ndeki-sazlik-ve-saricaova-daki-yanan-ormanlarda-yaban-hayati-ab2f6833/"
   },
   {
    "id": "f7d31c54",
@@ -233,17 +277,6 @@
    "url": "/haber/zeybekci-fon-meselesinde-hem-ihmal-hem-suistimal-var-02ebe78d/"
   },
   {
-   "id": "98df7205",
-   "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki saldırılarını sürdürdü",
-   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-saldirilarini-surdurdu/4099824",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T19:03:24+00:00",
-   "url": "/haber/israil-ordusu-ateskese-ragmen-lubnan-in-guneyindeki-saldirilarini-surd-98df7205/"
-  },
-  {
    "id": "5bacc4c3",
    "title": "OpenAI Yeni Modelleri Çevrim Dışı Ortamda Eğitecek",
    "summary": "OpenAI, güvenlik ihlalleri sonrası yeni yapay zeka modellerini internet erişimi olmadan, kayıtlı içeriklerle eğiteceğini duyurdu.",
@@ -277,17 +310,6 @@
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-24-eki-94c0eab6/"
   },
   {
-   "id": "19226756",
-   "title": "New York Belediye Başkanı Mamdani, erken oy kullanmanın başladığı New York'ta oyunu kullandı",
-   "summary": "ABD'de 3 Kasım'da yapılacak Kongre ara seçimleri yaklaşırken erken oy kullanma işlemlerinin başladığı New York'ta, Belediye Başkanı Zohran Mamdani oyunu kullandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/new-york-belediye-baskani-mamdani-erken-oy-kullanmanin-basladigi-new-yorkta-oyunu-kullandi/4099820",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T18:44:18+00:00",
-   "url": "/haber/new-york-belediye-baskani-mamdani-erken-oy-kullanmanin-basladigi-new-y-19226756/"
-  },
-  {
    "id": "5d5066f4",
    "title": "Bakan Fidan'dan diplomasi trafiği",
    "summary": "Dışişleri Bakanı Hakan Fidan, Yemen Dışişleri Bakanı Afrah ez-Zube ile İstanbul’da bir araya geldi. Fidan ayrıca, Katarlı mevkidaşı Muhammed bin Abdurrahman Al Sani ile de görüştü.",
@@ -297,17 +319,6 @@
    "category": "gundem",
    "date": "2026-10-24T18:40:15+00:00",
    "url": "/haber/bakan-fidan-dan-diplomasi-trafigi-5d5066f4/"
-  },
-  {
-   "id": "4fe9aca5",
-   "title": "İsrail'in kuşattığı El Halil'de Filistinlilerin çıkarıldığı evler askeri mevzilere dönüştürülüyor",
-   "summary": "İsrail ordusunun işgal altındaki Batı Şeria'nın El Halil kentinde başlattığı saldırılar, Filistinlilerin evlerinden zorla çıkarılması, konutların askeri mevzilere dönüştürülmesi ve hareket özgürlüklerinin…",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-kusattigi-el-halilde-filistinlilerin-cikarildigi-evler-askeri-mevzilere-donusturuluyor/4099817",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T18:31:06+00:00",
-   "url": "/haber/israil-in-kusattigi-el-halil-de-filistinlilerin-cikarildigi-evler-aske-4fe9aca5/"
   },
   {
    "id": "a9ebcc9d",
@@ -385,17 +396,6 @@
    "category": "teknoloji",
    "date": "2026-10-24T17:30:00+00:00",
    "url": "/haber/cs2-icin-laptop-onerileri-rekabetci-ayarlarda-fps-ve-kare-suresi-istik-004e19c0/"
-  },
-  {
-   "id": "be244500",
-   "title": "Amed Sportif Faaliyetler, deplasmanda Samsunspor'u 2-1 yendi",
-   "summary": "Trendyol Süper Lig'in 9. haftasında Amed Sportif Faaliyetler, deplasmanda Samsunspor'u 2-1 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/amed-sportif-faaliyetler-deplasmanda-samsunsporu-2-1-yendi/4099771",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T17:05:09+00:00",
-   "url": "/haber/amed-sportif-faaliyetler-deplasmanda-samsunspor-u-2-1-yendi-be244500/"
   },
   {
    "id": "426ab4c5",
