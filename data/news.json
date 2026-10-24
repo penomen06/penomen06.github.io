@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-24T05:01:09.597921+00:00",
+ "updated": "2026-10-24T05:30:59.089084+00:00",
  "items": [
+  {
+   "id": "9599eef1",
+   "title": "Meteoroloji uyardı, tüm yurda yayılacak: Bahar havasından sonra yağmur geliyor",
+   "summary": "Türkiye'nin hafta sonunu güneşli bir gökyüzüyle geçirecek. Bazı şehirlerde hava sıcaklığı 30 dereceye yaklaşacak. Önümüzdeki hafta yeni bir yağışlı hava sistemi geliyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-meteoroloji-uyardi-tum-yurda-yayilacak-bahar-havasindan-sonra-yagmur-geliyor-1747709",
+   "image": "https://images.ntv.com.tr/images/istanbul-yagmur-geliyor-389699.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-24T05:26:15+00:00",
+   "url": "/haber/meteoroloji-uyardi-tum-yurda-yayilacak-bahar-havasindan-sonra-yagmur-g-9599eef1/"
+  },
+  {
+   "id": "8bb89811",
+   "title": "İsrail'de son anketler: Ne Netanyahu liderliğindeki blok ne muhalefet bloku hükümeti kuracak çoğunluğa ulaşıyor",
+   "summary": "İsrail'de 27 Ekim'de yapılacak genel seçime sayılı günler kala yapılan son kamuoyu araştırmaları, hem Başbakan Netanyahu liderliğindeki blokun hem de muhalefet blokunun hükümeti kurabilecek çoğunluğa ulaşamadığını…",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-son-anketler-ne-netanyahu-liderligindeki-blok-ne-muhalefet-bloku-hukumeti-kuracak-cogunluga-ulasiyor/4099173",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T05:17:26+00:00",
+   "url": "/haber/israil-de-son-anketler-ne-netanyahu-liderligindeki-blok-ne-muhalefet-b-8bb89811/"
+  },
+  {
+   "id": "da84fec3",
+   "title": "Ekvador'da ana muhalefet lideri Gonzalez hakkında ihtiyati tutuklama kararı verildi",
+   "summary": "Ekvador'da 2023 devlet başkanı seçim kampanyasının finansmanına ilişkin kara para aklama soruşturması kapsamında gözaltına alınan ana muhalefet liderlerinden Luisa Gonzalez hakkında ihtiyati tutuklama kararı verildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ekvadorda-ana-muhalefet-lideri-gonzalez-hakkinda-ihtiyati-tutuklama-karari-verildi/4099172",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T05:16:04+00:00",
+   "url": "/haber/ekvador-da-ana-muhalefet-lideri-gonzalez-hakkinda-ihtiyati-tutuklama-k-da84fec3/"
+  },
+  {
+   "id": "dd6cfc80",
+   "title": "Küba'da 2,7 milyondan fazla kişi su hizmetinden mahrum kaldı",
+   "summary": "Küba'da kronikleşen enerji krizi ve altyapı sorunları nedeniyle 2,7 milyondan fazla kişinin su hizmetinden mahrum kaldığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kubada-2-7-milyondan-fazla-kisi-su-hizmetinden-mahrum-kaldi/4099170",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T05:09:21+00:00",
+   "url": "/haber/kuba-da-2-7-milyondan-fazla-kisi-su-hizmetinden-mahrum-kaldi-dd6cfc80/"
+  },
   {
    "id": "112b9add",
    "title": "Bu Ne Hız: iPhone Duo Piyasaya Çıktığı Gün Kırıldı",
@@ -55,17 +99,6 @@
    "category": "gundem",
    "date": "2026-10-24T01:55:44+00:00",
    "url": "/haber/arap-koalisyonu-husilerin-riyad-a-firlattigi-balistik-fuze-imha-edildi-affdac14/"
-  },
-  {
-   "id": "449326d6",
-   "title": "Dört yıl süren Martı TAG davasında karar çıktı",
-   "summary": "Taksiciler Odası'nın Martı TAG'a karşı açılan ve dört yıldır devam eden haksız rekabet davasında mahkeme, anayasada yer alan girişim özgürlüğünün bir sonucu olduğu ve kapatılamayacağına hükmetti.",
-   "link": "https://www.ntv.com.tr/turkiye/dort-yil-suren-marti-tag-davasinda-karar-cikti-1747698",
-   "image": "https://images.ntv.com.tr/images/taksi1-801155.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-24T01:54:55+00:00",
-   "url": "/haber/dort-yil-suren-marti-tag-davasinda-karar-cikti-449326d6/"
   },
   {
    "id": "833abb62",
@@ -233,17 +266,6 @@
    "url": "/haber/trump-iran-a-yeni-bir-askeri-operasyon-olabilir-86b67421/"
   },
   {
-   "id": "9c149af7",
-   "title": "R4 dışişleri bakanları, İstanbul'daki toplantının ardından ortak bildiri yayımladı",
-   "summary": "Türkiye, Mısır, Pakistan ve Suudi Arabistan dışişleri bakanları, İsrail işgalinin bölge ve ötesindeki istikrarsızlığın temel kaynağını oluşturduğunu ve İsrail politikalarının küresel kamuoyunda derin adaletsizlik hissi…",
-   "link": "https://www.aa.com.tr/tr/gundem/r4-disisleri-bakanlari-istanbuldaki-toplantinin-ardindan-ortak-bildiri-yayimladi/4099080",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T20:43:54+00:00",
-   "url": "/haber/r4-disisleri-bakanlari-istanbul-daki-toplantinin-ardindan-ortak-bildir-9c149af7/"
-  },
-  {
    "id": "293a7b2d",
    "title": "Güneş ışığı hangi açıdan gelirse gelsin elektrik üreten güneş paneli",
    "summary": "Çinli araştırmacılar, güneş ışığının geliş açısı değişse bile daha kararlı elektrik üretebilen yeni bir güneş hücresi tasarladı. Simülasyonlarda ışık soğurumu yüzde 95'i aştı.",
@@ -288,17 +310,6 @@
    "url": "/haber/15-yas-altina-sosyal-medyayi-yasaklayan-ulkelere-yunanistan-da-katildi-0caa5b87/"
   },
   {
-   "id": "75e8ca72",
-   "title": "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı’nda \"iki süper tanker\" mayına çarptı",
-   "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın güneyinde \"iki süper tankerin\" deniz mayınına çarptığını ve ardından patlama meydana geldiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-iki-super-tanker-mayina-carpti/4099046",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T19:54:18+00:00",
-   "url": "/haber/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-iki-super-tanker-mayi-75e8ca72/"
-  },
-  {
    "id": "b9a8cebe",
    "title": "Adana'da film gibi adam kaçırma: Otomobilin bagajına zorla bindirdiler",
    "summary": "Adana’da bir grup, bir adamı zorla otomobilin bagajına bindirerek kaçırdı. O anlar vatandaşlar görüntülenirken, polis inceleme başlattı.",
@@ -308,17 +319,6 @@
    "category": "gundem",
    "date": "2026-10-23T19:53:22+00:00",
    "url": "/haber/adana-da-film-gibi-adam-kacirma-otomobilin-bagajina-zorla-bindirdiler-b9a8cebe/"
-  },
-  {
-   "id": "8707e390",
-   "title": "Irak Başbakanı Zeydi: Kalkınma Yolu Projesi’nin temel atma töreni için Cumhurbaşkanı Erdoğan’ı davet edeceğiz",
-   "summary": "Irak Başbakanı Zeydi, Kalkınma Yolu Projesi’nin temel atma töreni için Cumhurbaşkanı Recep Tayyip Erdoğan’ı davet edeceklerini belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/irak-basbakani-zeydi-kalkinma-yolu-projesi-nin-temel-atma-toreni-icin-cumhurbaskani-erdogan-i-davet-edecegiz/4099039",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T19:45:15+00:00",
-   "url": "/haber/irak-basbakani-zeydi-kalkinma-yolu-projesi-nin-temel-atma-toreni-icin-8707e390/"
   },
   {
    "id": "cd3a8aac",
