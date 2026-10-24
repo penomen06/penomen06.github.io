@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T04:31:11.118719+00:00",
+ "updated": "2026-10-24T05:01:09.597921+00:00",
  "items": [
+  {
+   "id": "112b9add",
+   "title": "Bu Ne Hız: iPhone Duo Piyasaya Çıktığı Gün Kırıldı",
+   "summary": "Yeni iPhone Duo, piyasaya sürüldüğü gün Calif ekibi tarafından jailbreak edildi. iOS 27.1 yüklü cihazdaki güvenlik açıkları hakkında detaylar.",
+   "link": "https://shiftdelete.net/iphone-duo-piyasaya-ciktigi-gun-jailbreak-edildi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-24T05:00:52+00:00",
+   "url": "/haber/bu-ne-hiz-iphone-duo-piyasaya-ciktigi-gun-kirildi-112b9add/"
+  },
   {
    "id": "bce1959a",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Ekim 2026",
@@ -9,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-24T04:30:00+00:00",
+   "date": "2026-10-24T05:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-bce1959a/"
+  },
+  {
+   "id": "0c46188a",
+   "title": "İstanbul'da Cumhuriyet Bayramı tören provası nedeniyle bazı cadde ve yollar trafiğe kapatıldı",
+   "summary": "Cumhuriyet Bayramı tören provası nedeniyle İstanbul'da bazı cadde ve yollar trafiğe kapatıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-cumhuriyet-bayrami-toren-provasi-nedeniyle-bazi-cadde-ve-yollar-trafige-kapatildi/4099167",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T04:39:18+00:00",
+   "url": "/haber/istanbul-da-cumhuriyet-bayrami-toren-provasi-nedeniyle-bazi-cadde-ve-y-0c46188a/"
   },
   {
    "id": "3f495f55",
@@ -418,17 +440,6 @@
    "category": "teknoloji",
    "date": "2026-10-23T18:12:19+00:00",
    "url": "/haber/mosseri-den-muse-paylasimi-icerik-ureticilerine-ipuclari-8dbf7ff8/"
-  },
-  {
-   "id": "9c11c864",
-   "title": "Kocaelispor, Alanyaspor’u deplasmanda 2 golle geçti",
-   "summary": "Trendyol Süper Lig'in 9. haftasında Corendon Alanyaspor-Kocaelispor karşılaşması, konuk takımın 2-1 üstünlüğüyle tamamlandı.",
-   "link": "https://www.aa.com.tr/tr/spor/kocaelispor-alanyaspor-u-deplasmanda-2-golle-gecti/4098974",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-23T18:07:00+00:00",
-   "url": "/haber/kocaelispor-alanyaspor-u-deplasmanda-2-golle-gecti-9c11c864/"
   },
   {
    "id": "6c6b3a87",
@@ -1067,17 +1078,6 @@
    "category": "teknoloji",
    "date": "2026-10-23T11:27:10+00:00",
    "url": "/haber/togg-t10f-4more-a-yedi-renkli-kehribar-serisi-geldi-9d973a8e/"
-  },
-  {
-   "id": "3576ede3",
-   "title": "PHP’deki Kritik Açıklar Türkiye’yi Harekete Geçirdi: Kamu Sistemleri Ne Kadar Güvende, Yeni Nesil Siber Güvenliğe Ne Kadar Hazır?",
-   "summary": "PHP altyapısında tespit edilen iki kritik güvenlik açığının ardından Türkiye’de ulusal ölçekte tarama başlatıldı. e-Devlet Kapısı için yapılan kontrollerde sorun tespit edilmediği açıklanırken, diğer sistemlerin durumu…",
-   "link": "https://shiftdelete.net/phpdeki-kritik-aciklar-turkiyeyi-harekete-gecirdi-kamu-sistemleri-ne-kadar-guvende-yeni-nesil-siber-guvenlige-ne-kadar-hazir",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-23T11:04:19+00:00",
-   "url": "/haber/php-deki-kritik-aciklar-turkiye-yi-harekete-gecirdi-kamu-sistemleri-ne-3576ede3/"
   },
   {
    "id": "93897780",
