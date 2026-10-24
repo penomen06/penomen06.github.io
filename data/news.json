@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-24T16:31:04.676195+00:00",
+ "updated": "2026-10-24T17:01:15.694345+00:00",
  "items": [
+  {
+   "id": "426ab4c5",
+   "title": "Yeni PHP Güvenlik Açığı için Henüz Yama Bulunmuyor",
+   "summary": "PHP'de keşfedilen yeni CVE-2026-115560 güvenlik açığı uzaktan kod çalıştırma riski taşıyor. Henüz yaması olmayan açık için geçici önlemler neler?",
+   "link": "https://shiftdelete.net/php-yeni-guvenlik-acigi-cve-2026-115560",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-24T17:00:16+00:00",
+   "url": "/haber/yeni-php-guvenlik-acigi-icin-henuz-yama-bulunmuyor-426ab4c5/"
+  },
+  {
+   "id": "2e89a29e",
+   "title": "WhatsApp, Instagram Reels paylaşımı için yeni kısayol ekliyor",
+   "summary": "WhatsApp, Android beta sürümünde Instagram Reels paylaşımını kolaylaştıran yeni bir kısayol sunuyor. Hesap Merkezi bağlantısıyla çalışan özellik, video paylaşım sürecini daha pratik hale getiriyor.",
+   "link": "https://www.donanimhaber.com/whatsapp-instagram-reels-paylasimi-icin-yeni-kisayol-ekliyor--212045",
+   "image": "https://www.donanimhaber.com/images/images/haber/212045/1200x675whatsapp-instagram-reels-paylasimi-icin-yeni-kisayol-ekliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-24T17:00:00+00:00",
+   "url": "/haber/whatsapp-instagram-reels-paylasimi-icin-yeni-kisayol-ekliyor-2e89a29e/"
+  },
+  {
+   "id": "7940ab17",
+   "title": "Güllü'nün ölümü davasında gerekçeli karar açıklandı. Kızı Tuğyan müebbet hapis cezası almıştı",
+   "summary": "Güllü'nün ölümüne ilişkin davada kızı Tuğyan Ülkem Gülter’e verilen ağırlaştırılmış müebbet hapis cezasının gerekçeli kararı açıklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-gullunun-olumu-davasinda-gerekceli-karar-tugyanin-hapis-cezasinda-sultanin-ifadesi-etkili-oldu-1747812",
+   "image": "https://images.ntv.com.tr/images/güllü-547355(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-24T16:54:31+00:00",
+   "url": "/haber/gullu-nun-olumu-davasinda-gerekceli-karar-aciklandi-kizi-tugyan-muebbe-7940ab17/"
+  },
+  {
+   "id": "73c9693f",
+   "title": "Fon soruşturmasında 15 tutuklama daha: Aralarında Taha Çakmak ve İnan Altınbaş da var",
+   "summary": "Fon soruşturmasında 15 şüpheli daha tutuklandı. Tutuklanan isimler arasında Altınbaş Holding yetkilisi İnan Altınbaş ile Türkiye Sigorta eski Genel Müdürü Taha Çakmak da bulunuyor.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-15-tutuklama-daha-aralarinda-taha-cakmak-ve-inan-altinbas-da-var-1747777",
+   "image": "https://images.ntv.com.tr/images/foncu-576122(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-24T16:43:30+00:00",
+   "url": "/haber/fon-sorusturmasinda-15-tutuklama-daha-aralarinda-taha-cakmak-ve-inan-a-73c9693f/"
+  },
   {
    "id": "ca02180b",
    "title": "Fransa’daki protestolarda internetsiz mesajlaşma uygulaması Bitchat kullanıldı",
@@ -14,14 +58,14 @@
   },
   {
    "id": "4a89b8ea",
-   "title": "Atina'nın Batı Trakya'daki üç müftülüğe yaptığı atamalara Ankara'dan tepki",
+   "title": "Atina'nın Batı Trakya'daki müftülüklere yaptığı atamalara Ankara'dan tepki",
    "summary": "Türk Dışişleri Bakanlığı, Yunanistan makamlarına bir çağrı yaparak, Batı Trakya'daki Türk azınlığın seçtiği müftülerin tanınmasını istedi. Gelişme Yunanistan hükümetinin Gümülcine ve İskeçe müftülüklerine beş yıl için…",
    "link": "https://www.bbc.com/turkce/articles/cje36w30vwd7o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/18ef/live/b29d4990-cfc7-11f1-9ecd-8be45051afbd.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-10-24T16:28:27+00:00",
-   "url": "/haber/atina-nin-bati-trakya-daki-uc-muftuluge-yaptigi-atamalara-ankara-dan-t-4a89b8ea/"
+   "url": "/haber/atina-nin-bati-trakya-daki-muftuluklere-yaptigi-atamalara-ankara-dan-t-4a89b8ea/"
   },
   {
    "id": "1afbca36",
@@ -33,17 +77,6 @@
    "category": "gundem",
    "date": "2026-10-24T16:24:12+00:00",
    "url": "/haber/kalkan-diha-nin-okyanus-sartlarinda-ilk-ucus-denemeleri-hint-okyanusu-1afbca36/"
-  },
-  {
-   "id": "7940ab17",
-   "title": "Güllü'nün ölümü davasında gerekçeli karar. Tuğyan'ın hapis cezasında Sultan'ın ifadesi etkili oldu",
-   "summary": "Güllü'nün ölümüne ilişkin davada kızı Tuğyan Ülkem Gülter’e verilen ağırlaştırılmış müebbet hapis cezasının gerekçeli kararı açıklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-gullunun-olumu-davasinda-gerekceli-karar-tugyanin-hapis-cezasinda-sultanin-ifadesi-etkili-oldu-1747812",
-   "image": "https://images.ntv.com.tr/images/güllü-547355(3).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-24T16:23:03+00:00",
-   "url": "/haber/gullu-nun-olumu-davasinda-gerekceli-karar-tugyan-in-hapis-cezasinda-su-7940ab17/"
   },
   {
    "id": "9b6e7381",
@@ -66,6 +99,17 @@
    "category": "gundem",
    "date": "2026-10-24T16:13:18+00:00",
    "url": "/haber/ytb-baskani-turus-tan-yunanistan-in-gumulcine-ve-iskece-ye-muftu-atama-90cb8490/"
+  },
+  {
+   "id": "f39430a8",
+   "title": "Milli güreşçi Yüksel Sarıçiçek, Dünya Şampiyonası'nda finale yükseldi",
+   "summary": "Kazakistan'da düzenlenen Dünya Güreş Şampiyonası'nda grekoromen stil 82 kiloda mücadele eden milli sporcu Yüksel Sarıçiçek, finale çıktı.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-guresci-yuksel-saricicek-dunya-sampiyonasinda-finale-yukseldi/4099726",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T16:11:49+00:00",
+   "url": "/haber/milli-guresci-yuksel-saricicek-dunya-sampiyonasi-nda-finale-yukseldi-f39430a8/"
   },
   {
    "id": "79225506",
@@ -112,15 +156,15 @@
    "url": "/haber/zonguldak-taki-maden-ocaginda-patlamaya-iliskin-3-kisi-tutuklandi-416a7dac/"
   },
   {
-   "id": "74c0b1b5",
-   "title": "Bakan Fidan, Kuzey Makedonya Devlet Bakanı Zeynula'yı İstanbul'da kabul etti",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Kuzey Makedonya Devlet Bakanı ve Türk Demokratik Partisi Genel Başkanı Zülfikar Zeynula'yı İstanbul'da kabul etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-kuzey-makedonya-devlet-bakani-zeynulayi-istanbulda-kabul-etti/4099716",
+   "id": "ccd3e2e5",
+   "title": "Bakan Fidan, Kuzey Makedonya Devlet Bakanı Zeynula ve Yemen Dışişleri Bakanı Zube'yi İstanbul'da kabul etti",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Kuzey Makedonya Devlet Bakanı ve Türk Demokratik Partisi Genel Başkanı Zülfikar Zeynula ve Yemen Dışişleri Bakanı Afrah ez-Zube ile İstanbul’da bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-kuzey-makedonya-devlet-bakani-zeynula-ve-yemen-disisleri-bakani-zubeyi-istanbulda-kabul-etti/4099716",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-24T15:55:29+00:00",
-   "url": "/haber/bakan-fidan-kuzey-makedonya-devlet-bakani-zeynula-yi-istanbul-da-kabul-74c0b1b5/"
+   "url": "/haber/bakan-fidan-kuzey-makedonya-devlet-bakani-zeynula-ve-yemen-disisleri-b-ccd3e2e5/"
   },
   {
    "id": "070ce902",
@@ -319,17 +363,6 @@
    "category": "gundem",
    "date": "2026-10-24T14:17:22+00:00",
    "url": "/haber/trump-beyaz-saray-daki-brifing-salonunun-yerini-degistirebilecegini-be-c24dd3f5/"
-  },
-  {
-   "id": "0b491efe",
-   "title": "Tekerlekli sandalyeyle geldiği hastaneden yürüyerek taburcu oldu",
-   "summary": "Yaklaşık 30 yıl önce düşmesi sonucu boynunda kırık oluşan ve ikinci kez düşmesinin ardından boyundan aşağısı felç kalan Neriman Fil, İstanbul'da tekerlekli sandalyeyle geldiği hastaneden zorlu tedavi süreci sonrası…",
-   "link": "https://www.aa.com.tr/tr/gundem/tekerlekli-sandalyeyle-geldigi-hastaneden-yuruyerek-taburcu-oldu/4099627",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T14:04:55+00:00",
-   "url": "/haber/tekerlekli-sandalyeyle-geldigi-hastaneden-yuruyerek-taburcu-oldu-0b491efe/"
   },
   {
    "id": "b61e2e73",
@@ -552,17 +585,6 @@
    "url": "/haber/istanbul-dahil-10-sehirde-sansure-hayir-habere-ozgurluk-yuruyusleri-6f05a429/"
   },
   {
-   "id": "73c9693f",
-   "title": "Fon soruşturmasında 15 tutuklama daha: Aralarında Taha Çakmak ve İnan Altınbaş da var",
-   "summary": "Fon soruşturmasında 15 şüpheli daha tutuklandı. Tutuklanan isimler arasında Altınbaş Holding yetkilisi İnan Altınbaş ile Türkiye Sigorta eski Genel Müdürü Taha Çakmak da bulunuyor.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-15-tutuklama-daha-aralarinda-taha-cakmak-ve-inan-altinbas-da-var-1747777",
-   "image": "https://images.ntv.com.tr/images/foncu-576122(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-24T11:39:49+00:00",
-   "url": "/haber/fon-sorusturmasinda-15-tutuklama-daha-aralarinda-taha-cakmak-ve-inan-a-73c9693f/"
-  },
-  {
    "id": "63c9f53e",
    "title": "FNSS, 4.500’ü Aşkın Paletli Zırhlı Aracı 6 Ülkenin Envanterine Kazandırdı",
    "summary": "Türk savunma sanayisinin kara sistemleri üreticilerinden FNSS, paletli zırhlı araç alanındaki faaliyetlerinde 4.500 adedi aşan teslimat seviyesine ulaştı. Şirket, bugüne kadar geliştirdiği ve ürettiği 4.500’ün üzerinde…",
@@ -761,17 +783,6 @@
    "url": "/haber/abd-fuze-uretim-kapasitesini-4-katina-cikariyor-ce079a97/"
   },
   {
-   "id": "5b788565",
-   "title": "A101 marketler iFFALCON televizyonlarda kampanya yapıyor",
-   "summary": "29 Ekim A101 Aktüel teknoloji ürünleri arasında iFFALCON markasına ait akıllı televizyonlar ekstra garanti ve Pegasus BOL BOL puan kampanyası ile geliyor.",
-   "link": "https://www.donanimhaber.com/29-ekim-a101-aktuel-katalogunda-neler-var--212029",
-   "image": "https://www.donanimhaber.com/images/images/haber/212029/1200x67529-ekim-a101-aktuel-katalogunda-neler-var.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-24T09:30:00+00:00",
-   "url": "/haber/a101-marketler-iffalcon-televizyonlarda-kampanya-yapiyor-5b788565/"
-  },
-  {
    "id": "422c5738",
    "title": "İki İsrail askerinin öldürülmesi sonrası El Halil'de operasyon",
    "summary": "İsrail, iki askerinin öldürülmesi sonrası işgal altındaki Batı Şeria'nın El Halil kentinde geniş çaplı bir güvenlik operasyonu başlattığını duyurdu.",
@@ -913,17 +924,6 @@
    "category": "gundem",
    "date": "2026-10-24T07:53:00+00:00",
    "url": "/haber/zonguldak-ta-maden-ocagindaki-patlamaya-iliskin-3-supheli-gozaltina-al-75b438d7/"
-  },
-  {
-   "id": "d476df0d",
-   "title": "Rusya Savaş Uçakları Tasarımında Yapay Zekâ Kullanmaya Hazırlanıyor",
-   "summary": "Rusya, havacılık sektöründe uçak geliştirme süreçlerini hızlandırmak ve mühendislik maliyetlerini azaltmak amacıyla yapay zekâ teknolojilerinden yararlanmaya hazırlanıyor. Su-57 ve Su-35 savaş uçakları ile MC-21 yolcu…",
-   "link": "https://shiftdelete.net/rusya-savas-ucaklari-tasariminda-yapay-zeka-kullanmaya-hazirlaniyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-24T07:30:27+00:00",
-   "url": "/haber/rusya-savas-ucaklari-tasariminda-yapay-zeka-kullanmaya-hazirlaniyor-d476df0d/"
   },
   {
    "id": "fbba5824",

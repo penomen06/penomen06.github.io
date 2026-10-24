@@ -7,6 +7,34 @@
   <language>tr</language>
   <atom:link href="https://penomen06.github.io/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>Yeni PHP Güvenlik Açığı için Henüz Yama Bulunmuyor</title>
+    <link>https://penomen06.github.io/haber/yeni-php-guvenlik-acigi-icin-henuz-yama-bulunmuyor-426ab4c5/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/yeni-php-guvenlik-acigi-icin-henuz-yama-bulunmuyor-426ab4c5/</guid>
+    <pubDate>Sat, 24 Oct 2026 17:00:16 +0000</pubDate>
+    <description>PHP&#x27;de keşfedilen yeni CVE-2026-115560 güvenlik açığı uzaktan kod çalıştırma riski taşıyor. Henüz yaması olmayan açık için geçici önlemler neler?</description>
+  </item>
+  <item>
+    <title>WhatsApp, Instagram Reels paylaşımı için yeni kısayol ekliyor</title>
+    <link>https://penomen06.github.io/haber/whatsapp-instagram-reels-paylasimi-icin-yeni-kisayol-ekliyor-2e89a29e/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/whatsapp-instagram-reels-paylasimi-icin-yeni-kisayol-ekliyor-2e89a29e/</guid>
+    <pubDate>Sat, 24 Oct 2026 17:00:00 +0000</pubDate>
+    <description>WhatsApp, Android beta sürümünde Instagram Reels paylaşımını kolaylaştıran yeni bir kısayol sunuyor. Hesap Merkezi bağlantısıyla çalışan özellik, video paylaşım sürecini daha pratik hale getiriyor.</description>
+  </item>
+  <item>
+    <title>Güllü&#x27;nün ölümü davasında gerekçeli karar açıklandı. Kızı Tuğyan müebbet hapis cezası almıştı</title>
+    <link>https://penomen06.github.io/haber/gullu-nun-olumu-davasinda-gerekceli-karar-aciklandi-kizi-tugyan-muebbe-7940ab17/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/gullu-nun-olumu-davasinda-gerekceli-karar-aciklandi-kizi-tugyan-muebbe-7940ab17/</guid>
+    <pubDate>Sat, 24 Oct 2026 16:54:31 +0000</pubDate>
+    <description>Güllü&#x27;nün ölümüne ilişkin davada kızı Tuğyan Ülkem Gülter’e verilen ağırlaştırılmış müebbet hapis cezasının gerekçeli kararı açıklandı.</description>
+  </item>
+  <item>
+    <title>Fon soruşturmasında 15 tutuklama daha: Aralarında Taha Çakmak ve İnan Altınbaş da var</title>
+    <link>https://penomen06.github.io/haber/fon-sorusturmasinda-15-tutuklama-daha-aralarinda-taha-cakmak-ve-inan-a-73c9693f/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/fon-sorusturmasinda-15-tutuklama-daha-aralarinda-taha-cakmak-ve-inan-a-73c9693f/</guid>
+    <pubDate>Sat, 24 Oct 2026 16:43:30 +0000</pubDate>
+    <description>Fon soruşturmasında 15 şüpheli daha tutuklandı. Tutuklanan isimler arasında Altınbaş Holding yetkilisi İnan Altınbaş ile Türkiye Sigorta eski Genel Müdürü Taha Çakmak da bulunuyor.</description>
+  </item>
+  <item>
     <title>Fransa’daki protestolarda internetsiz mesajlaşma uygulaması Bitchat kullanıldı</title>
     <link>https://penomen06.github.io/haber/fransa-daki-protestolarda-internetsiz-mesajlasma-uygulamasi-bitchat-ku-ca02180b/</link>
     <guid isPermaLink="true">https://penomen06.github.io/haber/fransa-daki-protestolarda-internetsiz-mesajlasma-uygulamasi-bitchat-ku-ca02180b/</guid>
@@ -14,9 +42,9 @@
     <description>İnternet bağlantısı olmadan mesajlaşma imkanı sunan Bitchat uygulaması, Fransa’da zirveye çıktı. Protestolar, sosyal medya engeli tartışmaları ve mobil şebeke kesintisi indirmeleri artırdı.</description>
   </item>
   <item>
-    <title>Atina&#x27;nın Batı Trakya&#x27;daki üç müftülüğe yaptığı atamalara Ankara&#x27;dan tepki</title>
-    <link>https://penomen06.github.io/haber/atina-nin-bati-trakya-daki-uc-muftuluge-yaptigi-atamalara-ankara-dan-t-4a89b8ea/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/atina-nin-bati-trakya-daki-uc-muftuluge-yaptigi-atamalara-ankara-dan-t-4a89b8ea/</guid>
+    <title>Atina&#x27;nın Batı Trakya&#x27;daki müftülüklere yaptığı atamalara Ankara&#x27;dan tepki</title>
+    <link>https://penomen06.github.io/haber/atina-nin-bati-trakya-daki-muftuluklere-yaptigi-atamalara-ankara-dan-t-4a89b8ea/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/atina-nin-bati-trakya-daki-muftuluklere-yaptigi-atamalara-ankara-dan-t-4a89b8ea/</guid>
     <pubDate>Sat, 24 Oct 2026 16:28:27 +0000</pubDate>
     <description>Türk Dışişleri Bakanlığı, Yunanistan makamlarına bir çağrı yaparak, Batı Trakya&#x27;daki Türk azınlığın seçtiği müftülerin tanınmasını istedi. Gelişme Yunanistan hükümetinin Gümülcine ve İskeçe müftülüklerine beş yıl için…</description>
   </item>
@@ -26,13 +54,6 @@
     <guid isPermaLink="true">https://penomen06.github.io/haber/kalkan-diha-nin-okyanus-sartlarinda-ilk-ucus-denemeleri-hint-okyanusu-1afbca36/</guid>
     <pubDate>Sat, 24 Oct 2026 16:24:12 +0000</pubDate>
     <description>Milli Savunma Bakanlığı, TCG Gelibolu fırkateyninde konuşlu KALKAN Dikey İniş Kalkışlı İnsansız Hava Aracı&#x27;nın (DİHA) okyanus şartlarında ilk uçuş denemelerinin Hint Okyanusu&#x27;nda gerçekleştirildiğini bildirdi.</description>
-  </item>
-  <item>
-    <title>Güllü&#x27;nün ölümü davasında gerekçeli karar. Tuğyan&#x27;ın hapis cezasında Sultan&#x27;ın ifadesi etkili oldu</title>
-    <link>https://penomen06.github.io/haber/gullu-nun-olumu-davasinda-gerekceli-karar-tugyan-in-hapis-cezasinda-su-7940ab17/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/gullu-nun-olumu-davasinda-gerekceli-karar-tugyan-in-hapis-cezasinda-su-7940ab17/</guid>
-    <pubDate>Sat, 24 Oct 2026 16:23:03 +0000</pubDate>
-    <description>Güllü&#x27;nün ölümüne ilişkin davada kızı Tuğyan Ülkem Gülter’e verilen ağırlaştırılmış müebbet hapis cezasının gerekçeli kararı açıklandı.</description>
   </item>
   <item>
     <title>Kurumlar Arası Geçici Görevlendirme Yönetmeliği&#x27;nde değişiklik yapıldı</title>
@@ -47,6 +68,13 @@
     <guid isPermaLink="true">https://penomen06.github.io/haber/ytb-baskani-turus-tan-yunanistan-in-gumulcine-ve-iskece-ye-muftu-atama-90cb8490/</guid>
     <pubDate>Sat, 24 Oct 2026 16:13:18 +0000</pubDate>
     <description>YTB Başkanı Abdulhadi Turus, &quot;Yunanistan makamlarını, Batı Trakya Türk Azınlığının iradesine saygı göstermeye, seçilmiş müftüleri tanımaya ve bu dayatmacı uygulamalardan vazgeçmeye çağırıyoruz.&quot; ifadelerini kullandı.</description>
+  </item>
+  <item>
+    <title>Milli güreşçi Yüksel Sarıçiçek, Dünya Şampiyonası&#x27;nda finale yükseldi</title>
+    <link>https://penomen06.github.io/haber/milli-guresci-yuksel-saricicek-dunya-sampiyonasi-nda-finale-yukseldi-f39430a8/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/milli-guresci-yuksel-saricicek-dunya-sampiyonasi-nda-finale-yukseldi-f39430a8/</guid>
+    <pubDate>Sat, 24 Oct 2026 16:11:49 +0000</pubDate>
+    <description>Kazakistan&#x27;da düzenlenen Dünya Güreş Şampiyonası&#x27;nda grekoromen stil 82 kiloda mücadele eden milli sporcu Yüksel Sarıçiçek, finale çıktı.</description>
   </item>
   <item>
     <title>Sırbistan&#x27;da halk erken genel seçim için yarın sandık başına gidecek</title>
@@ -77,11 +105,11 @@
     <description>Zonguldak&#x27;ta 3 işçinin hayatını kaybettiği maden ocağındaki patlamaya ilişkin üç kişi tutuklandı.</description>
   </item>
   <item>
-    <title>Bakan Fidan, Kuzey Makedonya Devlet Bakanı Zeynula&#x27;yı İstanbul&#x27;da kabul etti</title>
-    <link>https://penomen06.github.io/haber/bakan-fidan-kuzey-makedonya-devlet-bakani-zeynula-yi-istanbul-da-kabul-74c0b1b5/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/bakan-fidan-kuzey-makedonya-devlet-bakani-zeynula-yi-istanbul-da-kabul-74c0b1b5/</guid>
+    <title>Bakan Fidan, Kuzey Makedonya Devlet Bakanı Zeynula ve Yemen Dışişleri Bakanı Zube&#x27;yi İstanbul&#x27;da kabul etti</title>
+    <link>https://penomen06.github.io/haber/bakan-fidan-kuzey-makedonya-devlet-bakani-zeynula-ve-yemen-disisleri-b-ccd3e2e5/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/bakan-fidan-kuzey-makedonya-devlet-bakani-zeynula-ve-yemen-disisleri-b-ccd3e2e5/</guid>
     <pubDate>Sat, 24 Oct 2026 15:55:29 +0000</pubDate>
-    <description>Dışişleri Bakanı Hakan Fidan, Kuzey Makedonya Devlet Bakanı ve Türk Demokratik Partisi Genel Başkanı Zülfikar Zeynula&#x27;yı İstanbul&#x27;da kabul etti.</description>
+    <description>Dışişleri Bakanı Hakan Fidan, Kuzey Makedonya Devlet Bakanı ve Türk Demokratik Partisi Genel Başkanı Zülfikar Zeynula ve Yemen Dışişleri Bakanı Afrah ez-Zube ile İstanbul’da bir araya geldi.</description>
   </item>
   <item>
     <title>Yaklaşık 3 milyon aday katılacak. KPSS için pazar günü nüfus müdürlükleri açık olacak</title>
@@ -210,13 +238,6 @@
     <description>ABD Başkanı Donald Trump, Beyaz Saray muhabirlerinin kullandığı ve basın brifinglerinin düzenlendiği salonun başka bir yere taşınabileceğini ifade etti.</description>
   </item>
   <item>
-    <title>Tekerlekli sandalyeyle geldiği hastaneden yürüyerek taburcu oldu</title>
-    <link>https://penomen06.github.io/haber/tekerlekli-sandalyeyle-geldigi-hastaneden-yuruyerek-taburcu-oldu-0b491efe/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/tekerlekli-sandalyeyle-geldigi-hastaneden-yuruyerek-taburcu-oldu-0b491efe/</guid>
-    <pubDate>Sat, 24 Oct 2026 14:04:55 +0000</pubDate>
-    <description>Yaklaşık 30 yıl önce düşmesi sonucu boynunda kırık oluşan ve ikinci kez düşmesinin ardından boyundan aşağısı felç kalan Neriman Fil, İstanbul&#x27;da tekerlekli sandalyeyle geldiği hastaneden zorlu tedavi süreci sonrası…</description>
-  </item>
-  <item>
     <title>BTK Başkanı’ndan İnternet Hızı Açıklaması: İnternet Altyapısı Büyüyor</title>
     <link>https://penomen06.github.io/haber/btk-baskani-ndan-internet-hizi-aciklamasi-internet-altyapisi-buyuyor-b61e2e73/</link>
     <guid isPermaLink="true">https://penomen06.github.io/haber/btk-baskani-ndan-internet-hizi-aciklamasi-internet-altyapisi-buyuyor-b61e2e73/</guid>
@@ -334,27 +355,6 @@
     <guid isPermaLink="true">https://penomen06.github.io/haber/cumhurbaskani-erdogan-darphanei-amire-kulliyesi-dunyaya-ornek-teskil-e-31a1a7a1/</guid>
     <pubDate>Sat, 24 Oct 2026 12:18:00 +0000</pubDate>
     <description>Cumhurbaşkanı Recep Tayyip Erdoğan, Topkapı Sarayı Darphane-i Amire Külliyesi&#x27;nde restorasyonu tamamlanan 5 yeni müzenin açılışını yaptı. Topkapı Sarayı&#x27;nın envanterinde bulunan toplam 10 bin 500 eserin ziyaretçilerle…</description>
-  </item>
-  <item>
-    <title>Honor 700 Serisi Sızdırıldı: 200MP Kamera ve 9000mAh Batarya ile Geliyor</title>
-    <link>https://penomen06.github.io/haber/honor-700-serisi-sizdirildi-200mp-kamera-ve-9000mah-batarya-ile-geliyo-75044037/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/honor-700-serisi-sizdirildi-200mp-kamera-ve-9000mah-batarya-ile-geliyo-75044037/</guid>
-    <pubDate>Sat, 24 Oct 2026 12:00:06 +0000</pubDate>
-    <description>Honor 700 serisi özellikleri sızdırıldı. 200MP ana kamera, 9000mAh batarya ve arka ekran tasarımı ile dikkat çeken yeni model detayları burada.</description>
-  </item>
-  <item>
-    <title>Starlink Mobile büyüyor: SpaceX, 80 bin baz istasyonu için görüşüyor</title>
-    <link>https://penomen06.github.io/haber/starlink-mobile-buyuyor-spacex-80-bin-baz-istasyonu-icin-gorusuyor-e05aec79/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/starlink-mobile-buyuyor-spacex-80-bin-baz-istasyonu-icin-gorusuyor-e05aec79/</guid>
-    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
-    <description>Starlink Mobile ile ABD telekomünikasyon pazarına girmeye hazırlanan SpaceX, ülke genelinde en az 80 bin baz istasyonu sahasına erişmek için altyapı şirketleriyle görüşüyor.</description>
-  </item>
-  <item>
-    <title>İstanbul dahil 10 şehirde &#x27;Sansüre Hayır, Habere Özgürlük&#x27; yürüyüşleri</title>
-    <link>https://penomen06.github.io/haber/istanbul-dahil-10-sehirde-sansure-hayir-habere-ozgurluk-yuruyusleri-6f05a429/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/istanbul-dahil-10-sehirde-sansure-hayir-habere-ozgurluk-yuruyusleri-6f05a429/</guid>
-    <pubDate>Sat, 24 Oct 2026 11:42:31 +0000</pubDate>
-    <description>İstanbul, Ankara, İzmir ve Diyarbakır dahil 10 şehirde basın özgürlüğü yürüşleri yapılıyor. Eş zamanlı olarak Milliyetçi Hareket Partisi Genel Başkan Yardımcısı Feti Yıldız &quot;yalan ve yanıltıcı haberlerler dünyanın her…</description>
   </item>
 </channel>
 </rss>
