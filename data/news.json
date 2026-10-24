@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-24T10:31:02.829007+00:00",
+ "updated": "2026-10-24T10:50:26.585256+00:00",
  "items": [
+  {
+   "id": "d73e15bf",
+   "title": "TBMM Başkanı Kurtulmuş: Yunanistan'ı kabul edilemez uygulamalardan derhal vazgeçmeye çağırıyoruz",
+   "summary": "",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-yunanistani-kabul-edilemez-uygulamalardan-derhal-vazgecmeye-cagiriyoruz/4099405",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T10:43:47+00:00",
+   "url": "/haber/tbmm-baskani-kurtulmus-yunanistan-i-kabul-edilemez-uygulamalardan-derh-d73e15bf/"
+  },
+  {
+   "id": "065ed8c3",
+   "title": "YÖK, üniversitelerde haftanın öne çıkan çalışmalarını paylaştı",
+   "summary": "Yükseköğretim Kurulu (YÖK), üniversitelerde deniz araştırmaları, arama kurtarma teknolojileri, sağlık ve mühendislikte yapay zeka uygulamaları gibi alanlarda haftanın öne çıkan çalışmalarını paylaştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/yok-universitelerde-haftanin-one-cikan-calismalarini-paylasti/4099402",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T10:41:55+00:00",
+   "url": "/haber/yok-universitelerde-haftanin-one-cikan-calismalarini-paylasti-065ed8c3/"
+  },
+  {
+   "id": "e8bf0384",
+   "title": "iPhone Duo için App Store tarafından önerilen yerli oyun gündeme oturdu",
+   "summary": "iPhone Duo katlanabilir telefon modeli için geliştirilen yerli yapım Penalty Area: Face2Face, dikkat çekici özellikleri sayesinde App Store vitrinine çıktı.",
+   "link": "https://www.donanimhaber.com/yerli-oyundan-buyuk-basari--212028",
+   "image": "https://www.donanimhaber.com/images/images/haber/212028/1200x675yerli-oyundan-buyuk-basari.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-24T10:30:00+00:00",
+   "url": "/haber/iphone-duo-icin-app-store-tarafindan-onerilen-yerli-oyun-gundeme-oturd-e8bf0384/"
+  },
   {
    "id": "bce1959a",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Ekim 2026",
@@ -11,6 +44,17 @@
    "category": "gundem",
    "date": "2026-10-24T10:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-bce1959a/"
+  },
+  {
+   "id": "c2a34442",
+   "title": "Fransa'daki Sarı Yelekliler eyleminde polis şiddeti iddialarına ilişkin yeni soruşturma",
+   "summary": "Fransa’da 17 Ekim’deki Sarı Yelekliler eyleminde bir fotoğrafçının şok bombasıyla yaralandığı olaya ilişkin soruşturma açıldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransadaki-sari-yelekliler-eyleminde-polis-siddeti-iddialarina-iliskin-yeni-sorusturma/4099397",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T10:28:59+00:00",
+   "url": "/haber/fransa-daki-sari-yelekliler-eyleminde-polis-siddeti-iddialarina-iliski-c2a34442/"
   },
   {
    "id": "7bf71bca",
@@ -354,17 +398,6 @@
    "url": "/haber/dahili-internet-hiz-testini-gorev-cubuguna-entegre-edecek-microsoft-bu-1be1f188/"
   },
   {
-   "id": "16e85ef7",
-   "title": "Türk düşünce ve kültür hayatının öncü isimlerinden Ziya Gökalp",
-   "summary": "Çalışmalarında dil, kültür, eğitim, ahlak ve toplum konularına yer veren Gökalp, Türk kültürünün incelenmesi ve milli kimliğin oluşumu üzerine fikirler geliştirdi.",
-   "link": "https://www.aa.com.tr/tr/kultur/-turk-dusunce-ve-kultur-hayatinin-oncu-isimlerinden-ziya-gokalp/4099318",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T08:52:22+00:00",
-   "url": "/haber/turk-dusunce-ve-kultur-hayatinin-oncu-isimlerinden-ziya-gokalp-16e85ef7/"
-  },
-  {
    "id": "1e25c2d9",
    "title": "Tekirdağ'da Osmanlı dönemine ait 213 yıllık kitabe bulundu",
    "summary": "Tekirdağ Bağcılık Araştırma Enstitüsü arazisinde, 1813 yılına tarihlenen Osmanlı dönemine ait mezar taşı kitabesi bulundu. Eser, incelenmek üzere müzeye teslim edildi.",
@@ -385,17 +418,6 @@
    "category": "gundem",
    "date": "2026-10-24T08:48:42+00:00",
    "url": "/haber/siparis-bebek-sorusturmasinda-ifade-ve-mesajlar-ortaya-cikti-90-m2-cik-160dda02/"
-  },
-  {
-   "id": "bfaf3cc3",
-   "title": "AKSUNGUR'dan denizaltı tespitinde bir ilk",
-   "summary": "Türk Havacılık ve Uzay Sanayii (TUSAŞ) tarafından geliştirilen AKSUNGUR İnsansız Hava Aracı (İHA), Deniz Kuvvetleri İnsansız Deniz Sistemleri TURNAs-26 Tatbikatı kapsamında Antalya açıklarında denizaltı tespitine…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aksungurdan-denizalti-tespitinde-bir-ilk/4099315",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T08:47:35+00:00",
-   "url": "/haber/aksungur-dan-denizalti-tespitinde-bir-ilk-bfaf3cc3/"
   },
   {
    "id": "0d92aed0",
@@ -484,17 +506,6 @@
    "category": "gundem",
    "date": "2026-10-24T08:12:02+00:00",
    "url": "/haber/deik-turkiye-kanada-is-konseyi-baskani-yilmaz-kanada-ile-10-milyar-dol-d6f3ff0c/"
-  },
-  {
-   "id": "7907c5da",
-   "title": "Yakıt maliyetlerindeki keskin artış ABD'li hava yolu şirketlerinin karlılığını baskılıyor",
-   "summary": "Yükselen uçak yakıtı maliyetlerinin hava yolu şirketlerinin operasyonel giderlerini artırması, ABD'nin önde gelen hava yolu şirketlerinin yıl sonu kazanç beklentilerini olumsuz etkiliyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/yakit-maliyetlerindeki-keskin-artis-abdli-hava-yolu-sirketlerinin-karliligini-baskiliyor/4099272",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T08:09:21+00:00",
-   "url": "/haber/yakit-maliyetlerindeki-keskin-artis-abd-li-hava-yolu-sirketlerinin-kar-7907c5da/"
   },
   {
    "id": "7c8c453a",
@@ -836,17 +847,6 @@
    "category": "teknoloji",
    "date": "2026-10-23T18:49:00+00:00",
    "url": "/haber/the-gentlemen-3-sezon-geliyor-ilk-detaylari-ve-oyuncu-kadrosu-paylasil-cb69bce7/"
-  },
-  {
-   "id": "fad73a1a",
-   "title": "DeepSeek V4.1-Flash ile en iyi açık model daha da iyi oldu",
-   "summary": "Bir süredir piyasadaki en iyi ve en popüler açık model konumunda olan DeepSeek-V4.1-Flash yeni 1017 güncellemesiyle daha da gelişti; En üst kapalı modellerle kafa kafaya yarışıyor.",
-   "link": "https://www.donanimhaber.com/deepseek-v4-1-flash-en-iyi-acik-model-daha-da-iyi-oldu--212015",
-   "image": "https://www.donanimhaber.com/images/images/haber/212015/1200x675deepseek-v4-1-flash-en-iyi-acik-model-daha-da-iyi-oldu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-23T18:27:00+00:00",
-   "url": "/haber/deepseek-v4-1-flash-ile-en-iyi-acik-model-daha-da-iyi-oldu-fad73a1a/"
   },
   {
    "id": "8dbf7ff8",
