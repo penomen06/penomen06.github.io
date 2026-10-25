@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-25T17:01:04.224470+00:00",
+ "updated": "2026-10-25T17:31:00.726074+00:00",
  "items": [
+  {
+   "id": "80ea684b",
+   "title": "İnternetin yüzde 70'ine güç veren PHP, sadece 1 çalışanla ayakta kalıyor",
+   "summary": "İnternet sitelerinin yüzde 70'inin arkasında bulunan PHP, ciddi kaynak sıkıntısı yaşıyor. Dilin güvenliğini ve gelişimini destekleyen ekipte yalnızca bir tam zamanlı çalışan bulunuyor.",
+   "link": "https://www.donanimhaber.com/php-nin-arkasindaki-ekipte-yalnizca-1-tam-zamanli-calisan-var--212060",
+   "image": "https://www.donanimhaber.com/images/images/haber/212060/1200x675php-nin-arkasindaki-ekipte-yalnizca-1-tam-zamanli-calisan-var.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-25T17:30:00+00:00",
+   "url": "/haber/internetin-yuzde-70-ine-guc-veren-php-sadece-1-calisanla-ayakta-kaliyo-80ea684b/"
+  },
+  {
+   "id": "502a473e",
+   "title": "Çin'in Tibet Özerk Bölgesi'nde 5,7 büyüklüğünde deprem meydana geldi",
+   "summary": "Çin'in Tibet Özerk Bölgesi'nde 5,7 büyüklüğünde bir depremin meydana geldiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/cinin-tibet-ozerk-bolgesinde-5-7-buyuklugunde-deprem-meydana-geldi/4100372",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T17:01:24+00:00",
+   "url": "/haber/cin-in-tibet-ozerk-bolgesi-nde-5-7-buyuklugunde-deprem-meydana-geldi-502a473e/"
+  },
   {
    "id": "e84c9c97",
    "title": "Apple Mağazalarında Kutu Açmadan İade Kontrolü Başladı",
@@ -11,6 +33,17 @@
    "category": "teknoloji",
    "date": "2026-10-25T17:00:39+00:00",
    "url": "/haber/apple-magazalarinda-kutu-acmadan-iade-kontrolu-basladi-e84c9c97/"
+  },
+  {
+   "id": "329cbdd5",
+   "title": "Huawei Pura 90 Plus, canlı görüntülerle ortaya çıktı",
+   "summary": "Huawei Pura 90 Plus, canlı görüntülerde ortaya çıkan Kirin 9025 işlemcisi, 12 GB RAM kapasitesi ve kavisli OLED ekranıyla 28 Ekim lansmanı öncesinde gündeme geldi.",
+   "link": "https://www.donanimhaber.com/huawei-pura-90-plus-canli-goruntulerle-ortaya-cikti--212071",
+   "image": "https://www.donanimhaber.com/images/images/haber/212071/1200x675huawei-pura-90-plus-canli-goruntulerle-ortaya-cikti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-25T17:00:00+00:00",
+   "url": "/haber/huawei-pura-90-plus-canli-goruntulerle-ortaya-cikti-329cbdd5/"
   },
   {
    "id": "9c0257ab",
@@ -376,17 +409,6 @@
    "url": "/haber/tbmm-de-bu-hafta-mekke-savunma-anlasmasi-gorusmeleri-basliyor-5f973b7a/"
   },
   {
-   "id": "a1c40563",
-   "title": "İsrailli ekonomistler, Netanyahu’nun yaptırımları aşmak için kripto para kullanma önerisine karşı çıktı",
-   "summary": "İsrailli ekonomistler, Başbakan Binyamin Netanyahu'nun Batılı ülkelerin uyguladığı yaptırımları aşmak için kripto para kullanılması önerisine tepki gösterdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilli-ekonomistler-netanyahu-nun-yaptirimlari-asmak-icin-kripto-para-kullanma-onerisine-karsi-cikti/4100294",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T13:55:25+00:00",
-   "url": "/haber/israilli-ekonomistler-netanyahu-nun-yaptirimlari-asmak-icin-kripto-par-a1c40563/"
-  },
-  {
    "id": "73aa3b28",
    "title": "Hava bir anda değişecek. Sağanak geliyor, sıcaklık düşüyor",
    "summary": "Yeni haftada yurdun batı kesiminden giriş yapacak kuvvetli sistem, salı ve çarşamba günü tüm yurdu esir alacak.",
@@ -739,17 +761,6 @@
    "url": "/haber/alfa-romeo-nun-tasarim-sefi-otomobillerdeki-buyuk-ekranlardan-kurtulma-10a0ac4a/"
   },
   {
-   "id": "94e54d42",
-   "title": "Claude ile uygulama geliştiren kullanıcı gizli bir madenci yazılımı buldu",
-   "summary": "MacOS ve Windows sistemlerini hedefleyen gizli bir kripto para madenciliği uygulaması tesadüfen bir kullanıcının Claude ile yaptığı uygulama sayesinde keşfedildi.",
-   "link": "https://www.donanimhaber.com/mac-cihazlarinda-gizli-tehlike--212056",
-   "image": "https://www.donanimhaber.com/images/images/haber/212056/1200x675mac-cihazlarinda-gizli-tehlike.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-25T09:30:00+00:00",
-   "url": "/haber/claude-ile-uygulama-gelistiren-kullanici-gizli-bir-madenci-yazilimi-bu-94e54d42/"
-  },
-  {
    "id": "e4b04b70",
    "title": "Türkiye’de de satılacak OPPO Find X10 serisi, küresel pazarlara daha küçük bataryalarla çıkarılıyor",
    "summary": "Resmi olarak Türkiye’de de satışa sunulacak OPPO Find X10 serisi, küresel pazarlara daha küçük bataryalarla çıkarılıyor. Çin’de ortak olarak 8.000 mAh bataryayla donatılan Find X10 ve Find X10 Pro Max, küresel…",
@@ -759,17 +770,6 @@
    "category": "teknoloji",
    "date": "2026-10-25T09:09:52+00:00",
    "url": "/haber/turkiye-de-de-satilacak-oppo-find-x10-serisi-kuresel-pazarlara-daha-ku-e4b04b70/"
-  },
-  {
-   "id": "59e7683e",
-   "title": "Bir vida dünyayı nasıl felç edebilir: Uzaydaki zincirleme kaza tehlikesi - Kessler Sendromu",
-   "summary": "Bir sabah kalktığınızda internet, bankalar ve navigasyon çalışmıyorsa suçlu bir hacker değil, uzaydaki bir vida olabilir. Kessler Sendromu ile gökyüzünün kapanma ihtimalini konuşuyoruz.",
-   "link": "https://www.donanimhaber.com/bir-vida-dunyayi-nasil-felc-edebilir-kessler-sendromu-tehdidi--212053",
-   "image": "https://www.donanimhaber.com/images/images/haber/212053/1200x675bir-vida-dunyayi-nasil-felc-edebilir-kessler-sendromu-tehdidi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-25T09:01:40+00:00",
-   "url": "/haber/bir-vida-dunyayi-nasil-felc-edebilir-uzaydaki-zincirleme-kaza-tehlikes-59e7683e/"
   },
   {
    "id": "2a9e7787",
