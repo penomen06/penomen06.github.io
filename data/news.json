@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-25T12:31:00.090392+00:00",
+ "updated": "2026-10-25T13:01:08.597089+00:00",
  "items": [
+  {
+   "id": "77b9be90",
+   "title": "Google’ın Gizlilik Politikası Değişikliği: Drive ve Gmail Verileri Reklamlarda Kullanılabilir",
+   "summary": "Google gizlilik politikası değişikliği ile Drive, Gmail ve Fotoğraflar verilerinin kişiselleştirilmiş reklamlarda kullanımına dair yeni kurallar geldi.",
+   "link": "https://shiftdelete.net/google-gizlilik-politikasi-guncellemesi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-25T13:00:15+00:00",
+   "url": "/haber/google-in-gizlilik-politikasi-degisikligi-drive-ve-gmail-verileri-rekl-77b9be90/"
+  },
+  {
+   "id": "a1484e85",
+   "title": "OpenAI, ileri seviye yapay zeka modellerini internet erişimi olmadan eğitecek",
+   "summary": "OpenAI, güvenlik risklerini azaltmak amacıyla ileri seviye yapay zeka modellerini internet erişimi olmayan ortamlarda eğitecek. Şirket, sanal makine açıklarını gidermek için de yeni önlemler aldı.",
+   "link": "https://www.donanimhaber.com/openai-yapay-zeka-modellerini-internet-erisimi-olmadan-egitecek--212042",
+   "image": "https://www.donanimhaber.com/images/images/haber/212042/1200x675openai-yapay-zeka-modellerini-internet-erisimi-olmadan-egitecek.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-25T13:00:00+00:00",
+   "url": "/haber/openai-ileri-seviye-yapay-zeka-modellerini-internet-erisimi-olmadan-eg-a1484e85/"
+  },
   {
    "id": "d9180e84",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Ekim 2026",
@@ -9,19 +31,96 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-25T12:30:00+00:00",
+   "date": "2026-10-25T13:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d9180e84/"
   },
   {
-   "id": "0f7f0b78",
-   "title": "Bahçeli'den Kazakistan'a Cumhuriyet Günü mesajı",
+   "id": "533827f4",
+   "title": "Binyamin Netanyahu: 'Bay Güvenlik' İsrail'de yedinci kez başbakan olabilir mi?",
+   "summary": "İsrail'in en uzun süre görev yapan başbakanı, 27 Ekim'de yapılacak parlamento seçimlerinde bir dönem daha görevde kalmayı umuyor.",
+   "link": "https://www.bbc.com/turkce/articles/c94g1p2m21xlo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3df0/live/ab437ae0-c8b8-11f1-a64c-550be9e3c66b.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-25T12:54:00+00:00",
+   "url": "/haber/binyamin-netanyahu-bay-guvenlik-israil-de-yedinci-kez-basbakan-olabili-533827f4/"
+  },
+  {
+   "id": "8a8ca057",
+   "title": "KKTC'de batan gemiden kurtulan anne kızına vermeyi düşündüğü \"Deniz\" isminden vazgeçti",
+   "summary": "KKTC'nin Girne kenti açıklarında batan yolcu gemisinden 8 aylık hamileyken sağ kurtulan Gökdaş, yaşadıkları travmadan sonra kızlarına vermeyi düşündükleri \"Deniz\" isminden vazgeçtiklerini, \"Alara\" ismini tercih…",
+   "link": "https://www.aa.com.tr/tr/gundem/kktcde-batan-gemiden-kurtulan-anne-kizina-vermeyi-dusundugu-deniz-isminden-vazgecti/4100257",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T12:53:34+00:00",
+   "url": "/haber/kktc-de-batan-gemiden-kurtulan-anne-kizina-vermeyi-dusundugu-deniz-ism-8a8ca057/"
+  },
+  {
+   "id": "70d65e2e",
+   "title": "Fon soruşturmasında Ertan Aydın yeniden gözaltına alındı",
+   "summary": "Fon soruşturmasında savcılık eski AK Parti milletvekili Ertan Aydın'a verilen adli kontrol kararına itiraz etti. Hakkında yakalama kararı çıkarılan Aydın gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-ertan-aydin-yeniden-gozaltina-alindi-1747904",
+   "image": "https://images.ntv.com.tr/images/foncu-576122(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-25T12:53:07+00:00",
+   "url": "/haber/fon-sorusturmasinda-ertan-aydin-yeniden-gozaltina-alindi-70d65e2e/"
+  },
+  {
+   "id": "45413868",
+   "title": "Ev yapımı sentetik uyuşturucu dalgası ABD'deki krizi derinleştiriyor",
+   "summary": "BBC News, ülkenin ölümcül yeni bir uyuşturucu salgınıyla mücadele ettiği bir dönemde, kullanıcılar, satıcılar, cezaevi ve rehabilitasyon çalışanlarından görüş aldı.",
+   "link": "https://www.bbc.com/turkce/articles/c6z98312xk51o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a90/live/cf7329e0-ca0e-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-25T12:51:17+00:00",
+   "url": "/haber/ev-yapimi-sentetik-uyusturucu-dalgasi-abd-deki-krizi-derinlestiriyor-45413868/"
+  },
+  {
+   "id": "07256ef1",
+   "title": "Bahçeli'den Kazakistan Cumhuriyet Günü mesajı",
    "summary": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, \"25 Ekim Kazakistan Cumhuriyet Günü\" nedeniyle bir kutlama mesajı yayımladı.",
-   "link": "https://www.ntv.com.tr/turkiye/bahceliden-kazakistana-cumhuriyet-gunu-mesaji-1747906",
+   "link": "https://www.ntv.com.tr/turkiye/bahceliden-kazakistan-cumhuriyet-gunu-mesaji-1747906",
    "image": "https://images.ntv.com.tr/images/bahçeli-347553.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-25T12:27:17+00:00",
-   "url": "/haber/bahceli-den-kazakistan-a-cumhuriyet-gunu-mesaji-0f7f0b78/"
+   "date": "2026-10-25T12:49:08+00:00",
+   "url": "/haber/bahceli-den-kazakistan-cumhuriyet-gunu-mesaji-07256ef1/"
+  },
+  {
+   "id": "5fba0228",
+   "title": "MHP Genel Başkanı Bahçeli'den 25 Ekim Kazakistan Cumhuriyet Günü mesajı",
+   "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Bugün Türkiye ve Kazakistan ilişkileri tarihten aldığı ilhamla oldukça sağlam bir temel üzerine oturmaktadır.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceliden-25-ekim-kazakistan-cumhuriyet-gunu-mesaji/4100248",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T12:41:44+00:00",
+   "url": "/haber/mhp-genel-baskani-bahceli-den-25-ekim-kazakistan-cumhuriyet-gunu-mesaj-5fba0228/"
+  },
+  {
+   "id": "b2b18588",
+   "title": "Meteorolojiden 2 il için turuncu, 3 il için sarı kodlu uyarı",
+   "summary": "Meteoroloji Genel Müdürlüğü, yarın beklenen kuvvetli yağış nedeniyle 2 il için turuncu, 3 il için sarı kodlu uyarıda bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-2-il-icin-turuncu-3-il-icin-sari-kodlu-uyari/4100236",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T12:34:51+00:00",
+   "url": "/haber/meteorolojiden-2-il-icin-turuncu-3-il-icin-sari-kodlu-uyari-b2b18588/"
+  },
+  {
+   "id": "28bb7713",
+   "title": "Samsung’a yönelik iddiaların ardından gözler yine akıllı televizyonlarda: “Kullanıcılar gizlilik endişesiyle TV’lerinin internetini kesiyor”",
+   "summary": "Log4j’nin X’te paylaştığı iddialar, Samsung markalı bir akıllı televizyon sahiplerini oldukça endişelendirmiş durumda. Araştırmacının iddialarına göre Samsung’un Tizen işletim sistemli akıllı televizyonları,…",
+   "link": "https://www.log.com.tr/samsunga-yonelik-iddialarin-ardindan-gozler-yine-akilli-televizyonlarda-kullanicilar-gizlilik-endisesiyle-tvlerinin-internetini-kesiyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/1_org_zoom_FHD-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-25T12:34:47+00:00",
+   "url": "/haber/samsung-a-yonelik-iddialarin-ardindan-gozler-yine-akilli-televizyonlar-28bb7713/"
   },
   {
    "id": "120cd5c7",
@@ -46,15 +145,15 @@
    "url": "/haber/israil-isgal-altindaki-dogu-kudus-te-bir-filistinliyi-evini-kendi-eliy-b11b4959/"
   },
   {
-   "id": "68b93af9",
-   "title": "Fon soruşturmasında Ertan Aydın hakkında yakalama kararı",
-   "summary": "Fon soruşturmasında eski AK Parti milletvekili ve başbakan danışmanı Ertan Aydın'a ev hapsi verilmişti. Karara itiraz edildi, Aydın için yakalama kararı çıkarıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-ertan-aydin-hakkinda-yakalama-karari-1747904",
-   "image": "https://images.ntv.com.tr/images/foncu-576122(2).jpg",
-   "source": "ntv.com.tr",
+   "id": "cbf849c0",
+   "title": "MKE'nin TOLGA ve PİRANA sistemleri, TURNAs-2026 Tatbikatı'nda hedefleri tam isabetle vurdu",
+   "summary": "Makine ve Kimya Endüstrisi (MKE) tarafından geliştirilen TOLGA Yakın Hava Savunma Sistemi ve PİRANA kamikaze insansız deniz aracı Milli İnsansız Deniz Sistemleri Tatbikatı'nda (TURNAs-2026) hedefleri tam isabetle vurdu.",
+   "link": "https://www.aa.com.tr/tr/gundem/mkenin-tolga-ve-pirana-sistemleri-turnas-2026-tatbikatinda-hedefleri-tam-isabetle-vurdu/4100219",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-25T12:22:47+00:00",
-   "url": "/haber/fon-sorusturmasinda-ertan-aydin-hakkinda-yakalama-karari-68b93af9/"
+   "date": "2026-10-25T12:07:39+00:00",
+   "url": "/haber/mke-nin-tolga-ve-pirana-sistemleri-turnas-2026-tatbikati-nda-hedefleri-cbf849c0/"
   },
   {
    "id": "dfe6cc82",
@@ -189,17 +288,6 @@
    "url": "/haber/turistik-dogu-ekspresi-nin-yeni-sezon-biletleri-yarin-satisa-cikacak-7c44bb3c/"
   },
   {
-   "id": "c92981af",
-   "title": "Sinüzit tedavisi için üretilen bitkisel ürünle antibiyotik direncinin önüne geçilmesi hedefleniyor",
-   "summary": "Sakarya'da düzenlenen 7. Fonksiyonel Tıp Kongresi'nde üst solunum yolu hastalıklarında doğru tedavi yaklaşımı ve gereksiz antibiyotik kullanımının önlenmesi ele alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/sinuzit-tedavisi-icin-uretilen-bitkisel-urunle-antibiyotik-direncinin-onune-gecilmesi-hedefleniyor/4100181",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T11:10:42+00:00",
-   "url": "/haber/sinuzit-tedavisi-icin-uretilen-bitkisel-urunle-antibiyotik-direncinin-c92981af/"
-  },
-  {
    "id": "dc0c5e9e",
    "title": "Doğu Akdeniz'de tatbikat: Yerli ve milli insansız deniz araçları sahaya indi",
    "summary": "Doğu Akdeniz’de önemli bir tatbikat gerçekleştiriliyor. Milli insansız deniz sistemleri, Antalya Körfezi ve Doğu Akdeniz’de test ediliyor. Tatbikatı NTV muhabiri Ahmet Örsoğlu yerinde takip etti.",
@@ -277,17 +365,6 @@
    "url": "/haber/brezilya-da-secmenler-lula-ile-jair-bolsonaro-nun-oglu-arasinda-tercih-372fb612/"
   },
   {
-   "id": "52ca6e72",
-   "title": "Milli İnsansız Deniz Sistemleri Tatbikatı-2026'nın \"Seçkin Gözlemci Günü\" tamamlandı",
-   "summary": "Deniz Kuvvetleri Komutanlığının sevk ve idaresinde düzenlenen Milli İnsansız Deniz Sistemleri Tatbikatı-2026 (TURNAs-2026) Seçkin Gözlemci Günü'nde, milli ve NATO uyumlu insansız sistemlerin deniz harekat ortamındaki…",
-   "link": "https://www.aa.com.tr/tr/gundem/milli-insansiz-deniz-sistemleri-tatbikati-2026nin-seckin-gozlemci-gunu-tamamlandi/4100152",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T10:37:00+00:00",
-   "url": "/haber/milli-insansiz-deniz-sistemleri-tatbikati-2026-nin-seckin-gozlemci-gun-52ca6e72/"
-  },
-  {
    "id": "2be0c25a",
    "title": "2026 KPSS Ortaöğretim soru ve cevapları yayımlandı. ÖSYM duyurdu",
    "summary": "Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM) düzenlenen 2026 Kamu Personel Seçme Sınavı Ortaöğretim (2026-KPSS Ortaöğretim) soru ve cevapları erişime açıldı.",
@@ -308,17 +385,6 @@
    "category": "teknoloji",
    "date": "2026-10-25T10:30:00+00:00",
    "url": "/haber/capcom-siber-saldiriya-ugradi-milyonlarca-oyuncunun-verisi-calindi-26460e43/"
-  },
-  {
-   "id": "90f635b7",
-   "title": "133 yıllık binada geleceğe hazırlanıyorlar",
-   "summary": "Edirne'de 1893'te inşa edilen, Balkan Savaşları sırasında hastane, sonraki yıllarda öğretmen okulu ve tütün deposu olarak kullanılan tarihi bina, son dönemde 1. Murat Anadolu Lisesine ev sahipliği yapıyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/-133-yillik-binada-gelecege-hazirlaniyorlar/4100141",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T10:13:38+00:00",
-   "url": "/haber/133-yillik-binada-gelecege-hazirlaniyorlar-90f635b7/"
   },
   {
    "id": "781178dc",
@@ -506,17 +572,6 @@
    "category": "gundem",
    "date": "2026-10-25T08:10:00+00:00",
    "url": "/haber/abd-de-futbol-stadyumu-yakinindaki-silahli-saldirida-12-kisi-yaralandi-6decf0ca/"
-  },
-  {
-   "id": "c42ad774",
-   "title": "COP31'de elektrikte \"35'te 35\" hedefine odaklanılacak",
-   "summary": "Uluslararası Enerji Ajansı (IEA) Başkanı Fatih Birol, COP31'de elektriğin küresel enerji tüketimindeki payının yüzde 35'e çıkarılmasının hedeflendiğini belirtti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-elektrikte-35te-35-hedefine-odaklanilacak/4100045",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T08:08:28+00:00",
-   "url": "/haber/cop31-de-elektrikte-35-te-35-hedefine-odaklanilacak-c42ad774/"
   },
   {
    "id": "0cf0d4d6",
@@ -761,17 +816,6 @@
    "url": "/haber/openai-yeni-modelleri-cevrim-disi-ortamda-egitecek-5bacc4c3/"
   },
   {
-   "id": "2ad2038a",
-   "title": "ASUS router'lara kritik güncelleme: Parolasız erişim açığı kapatıldı!",
-   "summary": "Tayvanlı teknoloji devi ASUS, çeşitli router (yönlendirici) modellerinde birden fazla ciddi güvenlik açığının keşfedilmesinin ardından acil bir güvenlik güncellemesi yayınladı.",
-   "link": "https://www.donanimhaber.com/asus-router-lara-kritik-guncelleme-buyuk-acik-kapatildi--212041",
-   "image": "https://www.donanimhaber.com/images/images/haber/212041/1200x675asus-router-lara-kritik-guncelleme-buyuk-acik-kapatildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-24T19:00:00+00:00",
-   "url": "/haber/asus-router-lara-kritik-guncelleme-parolasiz-erisim-acigi-kapatildi-2ad2038a/"
-  },
-  {
    "id": "94c0eab6",
    "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
    "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli…",
@@ -849,17 +893,6 @@
    "url": "/haber/renault-dan-tasarim-degisikligi-gelecekteki-modeller-nasil-gorunecek-a4dabd5b/"
   },
   {
-   "id": "37ca6301",
-   "title": "Türkiye’nin 2027 Savunma ve Güvenlik Bütçesi 3,45 Trilyon Liraya Ulaştı",
-   "summary": "Türkiye’nin 2027 yılı bütçe teklifinde savunma ve güvenlik harcamaları için ayrılması planlanan kaynak 3 trilyon 454 milyar liraya ulaştı. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, 21 Ekim 2026’da TBMM Plan ve Bütçe…",
-   "link": "https://shiftdelete.net/turkiyenin-2027-savunma-ve-guvenlik-butcesi-345-trilyon-liraya-ulasti",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-24T15:30:55+00:00",
-   "url": "/haber/turkiye-nin-2027-savunma-ve-guvenlik-butcesi-3-45-trilyon-liraya-ulast-37ca6301/"
-  },
-  {
    "id": "ba1d8f9f",
    "title": "Zonguldak'ta maden ocağındaki patlamaya ilişkin 3 kişi tutuklandı",
    "summary": "Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesinde 3 kişinin hayatını kaybettiği, 5 kişinin yaralandığı özel maden ocağındaki grizu patlamasına ilişkin 3 zanlı tutuklandı. Firari işletme müdürü M.K. hakkında yakalama…",
@@ -869,17 +902,6 @@
    "category": "gundem",
    "date": "2026-10-24T15:18:00+00:00",
    "url": "/haber/zonguldak-ta-maden-ocagindaki-patlamaya-iliskin-3-kisi-tutuklandi-ba1d8f9f/"
-  },
-  {
-   "id": "61134d90",
-   "title": "Mısır neden Suudi Arabistan'a askeri destek vermek istiyor?",
-   "summary": "Mısır Cumhurbaşkanı Abdülfettah Sisi kısa süre önce yaptığı açıklamada, Kahire'nin, Suudi Arabistan'ın güvenliğini ve egemenliğini savunmak adına Riyad tarafından talep edilecek her türlü önlemi alacağını duyurdu.",
-   "link": "https://www.bbc.com/turkce/articles/cm4g14255xqgo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c94/live/9895c5e0-ceb9-11f1-ae9c-0303957c36f8.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-24T14:35:36+00:00",
-   "url": "/haber/misir-neden-suudi-arabistan-a-askeri-destek-vermek-istiyor-61134d90/"
   },
   {
    "id": "8b930a20",
@@ -1003,17 +1025,6 @@
    "url": "/haber/gunther-werks-in-yeni-harikasi-brundle-edition-turbo-tanitildi-b87b8d85/"
   },
   {
-   "id": "d77d9525",
-   "title": "Ferrari 308’i geleceğe taşıyan özel model: “Michelotto Gruppo 4 Tributo”",
-   "summary": "İtalya merkezli AC Motorsport tarafından hazırlanan Michelotto Gruppo 4 Tributo, bir “restomod” projesi değil, sıfırdan geliştirilmiş bir araç olarak karşımızda. Efsanevi Ferrari 308’in tasarımını modern dokunuşlarla…",
-   "link": "https://www.log.com.tr/ferrari-308i-gelecege-tasiyan-ozel-model-michelotto-gruppo-4-tributo/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-24_12-29-47_daUEm-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-24T09:32:23+00:00",
-   "url": "/haber/ferrari-308-i-gelecege-tasiyan-ozel-model-michelotto-gruppo-4-tributo-d77d9525/"
-  },
-  {
    "id": "ae850eac",
    "title": "AKSUNGUR, deniz görevindeki kabiliyetine bir yenisini daha ekledi",
    "summary": "TUSAŞ'ın geliştirdiği AKSUNGUR, TURNAs-26 Tatbikatı kapsamında Antalya’da kritik bir görev gerçekleştirdi. Milli motor TEI-PD170 ile havalanan AKSUNGUR, 3 adet ASELBUOY'u denize bırakarak akustik veri topladı. Veriler,…",
@@ -1056,17 +1067,6 @@
    "category": "gundem",
    "date": "2026-10-24T06:58:00+00:00",
    "url": "/haber/bagcilar-da-zincirleme-kaza-2-kisi-yaralandi-b33c811e/"
-  },
-  {
-   "id": "efeb595d",
-   "title": "İsrail seçimleri: Netanyahu'nun baş rakibi Gadi Eisenkot kimdir?",
-   "summary": "Yaklaşan genel seçimlerde Başbakan Binyamin Netanyahu için en büyük siyasi tehdidi oluşturan eski askeri komutan hakkında bilinenleri derledik.",
-   "link": "https://www.bbc.com/turkce/articles/cq3987zm19lgo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/236e/live/c9c00b20-cc67-11f1-a64c-550be9e3c66b.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-23T16:05:10+00:00",
-   "url": "/haber/israil-secimleri-netanyahu-nun-bas-rakibi-gadi-eisenkot-kimdir-efeb595d/"
   },
   {
    "id": "2eef1ee2",
