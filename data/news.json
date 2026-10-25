@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:30:53.563354+00:00",
+ "updated": "2026-10-25T22:01:06.704441+00:00",
  "items": [
   {
    "id": "d8d59cf7",
@@ -9,19 +9,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-25T21:30:00+00:00",
+   "date": "2026-10-25T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d8d59cf7/"
   },
   {
    "id": "10d46d0e",
    "title": "Sırbistan'da genel seçimler: İktidardaki Vucic, öğrenci hareketine yenildiğini kabul etti",
-   "summary": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gitti. Seçimler Sırbistan'ın geleceğine dair bir referandum olarak nitelendiriliyor. Seçime katılımın rekor düzeyde olduğu bildirildi.…",
+   "summary": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gitti. Sırbistan'ın geleceğine dair bir referandum olarak nitelendirilen seçime katılımın rekor düzeyde olduğu bildirildi. İktidardaki…",
    "link": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f2f/live/e80c5c00-d0b8-11f1-bb22-5d7091b6f0f8.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-10-25T21:17:21+00:00",
+   "date": "2026-10-25T21:43:42+00:00",
    "url": "/haber/sirbistan-da-genel-secimler-iktidardaki-vucic-ogrenci-hareketine-yenil-10d46d0e/"
+  },
+  {
+   "id": "feff88a3",
+   "title": "Geleceğin Türk hukukçuları uluslararası mahkemelerde tarihi duruşmaları izledi",
+   "summary": "İstanbul, Marmara ve Boğaziçi Üniversitelerinin hukuk fakültelerinden öğrenci ve akademisyenler, \"Uluslararası Hukuk Yolculuğu Projesi\" kapsamında Avrupa'nın en önemli uluslararası yargı mercilerindeki önemli…",
+   "link": "https://www.aa.com.tr/tr/gundem/gelecegin-turk-hukukculari-uluslararasi-mahkemelerde-tarihi-durusmalari-izledi/4100503",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T21:37:29+00:00",
+   "url": "/haber/gelecegin-turk-hukukculari-uluslararasi-mahkemelerde-tarihi-durusmalar-feff88a3/"
+  },
+  {
+   "id": "f15c1a0b",
+   "title": "Sermaye piyasası işlemleri soruşturmasında Gürol Sami Özer tutuklandı",
+   "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmasinda-gurol-sami-ozer-tutuklandi/4100501",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T21:33:37+00:00",
+   "url": "/haber/sermaye-piyasasi-islemleri-sorusturmasinda-gurol-sami-ozer-tutuklandi-f15c1a0b/"
+  },
+  {
+   "id": "d3271a13",
+   "title": "Yemen'de Husilerin fırlattığı balistik füzenin düşmesi sonucu Aden kentinde şiddetli patlama meydana geldi",
+   "summary": "Yemen'deki İran destekli Husilerin Aden kentine fırlattığı balistik füzenin hükümet güçlerine ait askeri kampın yakınlarına düşmesi sonucu şiddetli bir patlama meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-husilerin-firlattigi-balistik-fuzenin-dusmesi-sonucu-aden-kentinde-siddetli-patlama-meydana-geldi/4100500",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T21:31:40+00:00",
+   "url": "/haber/yemen-de-husilerin-firlattigi-balistik-fuzenin-dusmesi-sonucu-aden-ken-d3271a13/"
   },
   {
    "id": "7558f2b4",
@@ -35,15 +68,15 @@
    "url": "/haber/sermaye-piyasasi-islemleri-sorusturmasinda-ertan-aydin-tutuklandi-7558f2b4/"
   },
   {
-   "id": "22e40452",
-   "title": "Sırbistan'da başbakan adayı Vucic, erken genel seçimi kaybettiklerini söyledi",
-   "summary": "Sırbistan'da cumhurbaşkanlığı görevinden istifa eden ve Sırp İlerleme Partisi (SNS) öncülüğündeki \"Aleksandar Vucic-Birleşmiş Sırbistan\" listesinin başbakan adayı olan Aleksandar Vucic, bugün yapılan erken genel seçimi…",
-   "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-basbakan-adayi-vucic-erken-genel-secimi-kaybettiklerini-soyledi/4100487",
+   "id": "ee4ab318",
+   "title": "Sırbistan'da başbakan adayı Vucic, \"Öğrenci Listesi\" karşısında seçim mağlubiyetini kabul etti",
+   "summary": "Sırbistan'da cumhurbaşkanlığı görevinden istifa eden ve SNS öncülüğündeki \"Aleksandar Vucic-Birleşmiş Sırbistan\" listesinin başbakan adayı olan Aleksandar Vucic, dün yapılan erken genel seçimde \"Öğrenci Listesi\"…",
+   "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-basbakan-adayi-vucic-ogrenci-listesi-karsisinda-secim-maglubiyetini-kabul-etti/4100487",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-25T20:54:39+00:00",
-   "url": "/haber/sirbistan-da-basbakan-adayi-vucic-erken-genel-secimi-kaybettiklerini-s-22e40452/"
+   "url": "/haber/sirbistan-da-basbakan-adayi-vucic-ogrenci-listesi-karsisinda-secim-mag-ee4ab318/"
   },
   {
    "id": "3f0ff1de",
@@ -310,28 +343,6 @@
    "url": "/haber/zonguldak-taki-maden-ocagi-patlamasinda-tutuklu-sayisi-4-oldu-02c8439b/"
   },
   {
-   "id": "157f8b00",
-   "title": "Katarlı arabulucuların İranlı yetkililerle görüşmek üzere Tahran'a gittiği iddia edildi",
-   "summary": "Katarlı arabulucuların, ABD ile İran arasındaki arabuluculuk görüşmeleri kapsamında İran'ın başkenti Tahran'a gittiği öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/katarli-arabulucularin-iranli-yetkililerle-gorusmek-uzere-tahrana-gittigi-iddia-edildi/4100395",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T17:54:38+00:00",
-   "url": "/haber/katarli-arabulucularin-iranli-yetkililerle-gorusmek-uzere-tahran-a-git-157f8b00/"
-  },
-  {
-   "id": "82748f70",
-   "title": "İran medyası: Hanzala hacker grubu, İsrail hükümeti ve ordusuna ait gizli ses arşivini paylaştı",
-   "summary": "İran bağlantılı \"Hanzala (Handala)\" adlı hacker grubunun, İsrail hükümeti ve ordusuna ait gizli kayıtların tutulduğu Etype sistemini hacklediği ve 150 gigabaytlık gizli veriyi kamuya açık şekilde paylaştığı belirtildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-medyasi-hanzala-hacker-grubu-israil-hukumeti-ve-ordusuna-ait-gizli-ses-arsivini-paylasti/4100394",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T17:50:37+00:00",
-   "url": "/haber/iran-medyasi-hanzala-hacker-grubu-israil-hukumeti-ve-ordusuna-ait-gizl-82748f70/"
-  },
-  {
    "id": "80e7da59",
    "title": "İstanbul Barosu'nun yeni başkanı Ümit Kocasakal oldu",
    "summary": "Dünyanın en büyük barolarından birisi olan İstanbul Barosu'nda 128. Olağan Genel Kurul kapsamında başkanlık seçimi için binlerce avukat sandık başındaydı. Cumhuriyetçi Güç Birliği Başkan Adayı Ümit Kocasakal, açılan 126…",
@@ -352,17 +363,6 @@
    "category": "teknoloji",
    "date": "2026-10-25T17:30:00+00:00",
    "url": "/haber/internetin-yuzde-70-ine-guc-veren-php-sadece-1-calisanla-ayakta-kaliyo-80ea684b/"
-  },
-  {
-   "id": "25587500",
-   "title": "Göztepe, Arca Çorum FK'yı 2-0 mağlup etti",
-   "summary": "Trendyol Süper Lig'in 9. haftasında Göztepe, sahasında Arca Çorum FK'yı 2-0 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/goztepe-arca-corum-fkyi-2-0-maglup-etti/4100373",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T17:05:07+00:00",
-   "url": "/haber/goztepe-arca-corum-fk-yi-2-0-maglup-etti-25587500/"
   },
   {
    "id": "e84c9c97",
