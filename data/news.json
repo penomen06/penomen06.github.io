@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-25T20:30:59.858692+00:00",
+ "updated": "2026-10-25T20:45:34.872978+00:00",
  "items": [
+  {
+   "id": "10d46d0e",
+   "title": "Sırbistan'da genel seçimlere rekor katılım: Öğrenci hareketi iktidarı değiştirebilecek mi?",
+   "summary": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gitti. Seçimler Sırbistan'ın geleceğine dair bir referandum olarak nitelendiriliyor. Seçime katılımın rekor düzeyde olduğu bildirildi.",
+   "link": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a379/live/0b1863f0-ce1c-11f1-906e-e3128518d85d.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-25T20:44:26+00:00",
+   "url": "/haber/sirbistan-da-genel-secimlere-rekor-katilim-ogrenci-hareketi-iktidari-d-10d46d0e/"
+  },
+  {
+   "id": "88abbf9b",
+   "title": "Zelenskiy: Toprak meselesi sadece liderler düzeyinde görüşülebilecek kırmızı bir çizgidir",
+   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, savaşın bitirilmesi için toprak meselesinin sadece liderler düzeyinde görüşülmesi gerektiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-toprak-meselesi-sadece-liderler-duzeyinde-gorusulebilecek-kirmizi-bir-cizgidir/4100470",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T20:37:16+00:00",
+   "url": "/haber/zelenskiy-toprak-meselesi-sadece-liderler-duzeyinde-gorusulebilecek-ki-88abbf9b/"
+  },
+  {
+   "id": "aef8adaa",
+   "title": "İsrailliler, ekim ayında Batı Şeria'daki Filistinli çiftçilere 482 saldırı düzenledi",
+   "summary": "İsraillilerin, ekim ayında işgal altındaki Batı Şeria'da Filistinli çiftçilere yönelik 482 saldırı gerçekleştirdiği belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilliler-ekim-ayinda-bati-seriadaki-filistinli-ciftcilere-482-saldiri-duzenledi/4100463",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T20:30:17+00:00",
+   "url": "/haber/israilliler-ekim-ayinda-bati-seria-daki-filistinli-ciftcilere-482-sald-aef8adaa/"
+  },
   {
    "id": "87a901e3",
    "title": "Efsane Zelda oyunu, yapay zekâ yardımıyla iPhone ve iPad'e geldi",
@@ -453,17 +486,6 @@
    "url": "/haber/abd-gizemli-isi-isini-silahini-gocmenler-uzerinde-test-edecek-b64fc4ad/"
   },
   {
-   "id": "bd959316",
-   "title": "Papa 14. Leo, Yemen'in Taiz kentinde açlık çekenlerin durumundan endişe duyuyor",
-   "summary": "Vatikan Devlet Başkanı Papa 14. Leo, Yemen’in gıda, su ve tıbbi yardım ihtiyacı bulunan Taiz kentindeki vahim insani durumu endişeyle takip ettiğini belirterek, Yemen halkının ve bölgedeki tüm halkların barış içinde…",
-   "link": "https://www.aa.com.tr/tr/dunya/papa-14-leo-yemenin-taiz-kentinde-aclik-cekenlerin-durumundan-endise-duyuyor/4100330",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T15:08:16+00:00",
-   "url": "/haber/papa-14-leo-yemen-in-taiz-kentinde-aclik-cekenlerin-durumundan-endise-bd959316/"
-  },
-  {
    "id": "73ee2ba8",
    "title": "Fon soruşturması. Ertan Aydın ve Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer gözaltında",
    "summary": "Fon soruşturmasında eski AK Parti milletvekili Ertan Aydın ve Türkiye Sigorta Genel Müdürü Yardımcısı Gürol Sami Özer gözaltına alındı.",
@@ -583,17 +605,6 @@
    "category": "teknoloji",
    "date": "2026-10-25T14:00:00+00:00",
    "url": "/haber/iphone-duo-dayaniklilik-testinde-sinifta-kaldi-6f4f5460/"
-  },
-  {
-   "id": "1e7e1072",
-   "title": "Konyaspor, konuk ettiği Gençlerbirliği'ni yendi",
-   "summary": "Trendyol Süper Lig'in 9. haftasında TÜMOSAN Konyaspor, konuk ettiği Gençlerbirliği'ni 2-0 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/konyaspor-konuk-ettigi-genclerbirligini-yendi/4100299",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T13:59:22+00:00",
-   "url": "/haber/konyaspor-konuk-ettigi-genclerbirligi-ni-yendi-1e7e1072/"
   },
   {
    "id": "5f973b7a",
@@ -836,17 +847,6 @@
    "category": "teknoloji",
    "date": "2026-10-25T08:48:18+00:00",
    "url": "/haber/instagram-apple-tv-uygulamasini-kullanima-sundu-3c4c294a/"
-  },
-  {
-   "id": "10d46d0e",
-   "title": "Sırbistan'da genel seçimler: Öğrenci hareketi iktidarı değiştirebilir mi?",
-   "summary": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gidiyor. Seçimler Sırbistan'ın geleceğine dair bir referandum olarak nitelendiriliyor.",
-   "link": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a379/live/0b1863f0-ce1c-11f1-906e-e3128518d85d.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-25T08:27:34+00:00",
-   "url": "/haber/sirbistan-da-genel-secimler-ogrenci-hareketi-iktidari-degistirebilir-m-10d46d0e/"
   },
   {
    "id": "f83e2ae3",
