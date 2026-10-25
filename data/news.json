@@ -1,6 +1,226 @@
 {
- "updated": "2026-10-25T08:01:04.475087+00:00",
+ "updated": "2026-10-25T08:30:57.560854+00:00",
  "items": [
+  {
+   "id": "6549039f",
+   "title": "PS5 artık Steam oyunlarını çalıştırıyor: Cyberpunk 2077 oynandı",
+   "summary": "PS5 kullanıcıları, jailbreak yapılmış konsollarda Steam üzerinden Windows oyunlarını doğrudan çalıştırmaya başladı. Cyberpunk 2077 dahil birçok oyun şimdiden oynanabilir durumda.",
+   "link": "https://www.donanimhaber.com/ps5-artik-steam-oyunlarini-calistiriyor-cyberpunk-2077-oynandi--212055",
+   "image": "https://www.donanimhaber.com/images/images/haber/212055/1200x675ps5-artik-steam-oyunlarini-calistiriyor-cyberpunk-2077-oynandi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-25T08:30:00+00:00",
+   "url": "/haber/ps5-artik-steam-oyunlarini-calistiriyor-cyberpunk-2077-oynandi-6549039f/"
+  },
+  {
+   "id": "d9180e84",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Ekim 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-ekim-2026-1747822",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-25T08:30:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d9180e84/"
+  },
+  {
+   "id": "6dc8a67c",
+   "title": "AİLEM Engelsiz İletişim Merkezi, 335 bin 288 çağrıya çeviri desteği sağladı",
+   "summary": "Bakan Göktaş, işitme engelli bireylerin kamu hizmetlerine, bilgiye ve sosyal hayata erişimlerini kolaylaştırmak amacıyla hizmete sunulan AİLEM Engelsiz İletişim Merkezi aracılığıyla bugüne kadar 335 bin 288 çağrının…",
+   "link": "https://www.aa.com.tr/tr/gundem/ailem-engelsiz-iletisim-merkezi-335-bin-288-cagriya-ceviri-destegi-sagladi/4100066",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:28:16+00:00",
+   "url": "/haber/ailem-engelsiz-iletisim-merkezi-335-bin-288-cagriya-ceviri-destegi-sag-6dc8a67c/"
+  },
+  {
+   "id": "10d46d0e",
+   "title": "Sırbistan'da genel seçimler: Öğrenci hareketi iktidarı değiştirebilir mi?",
+   "summary": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gidecek. Seçimler Sırbistan'ın geleceğine dair bir referandum olarak nitelendiriliyor.",
+   "link": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a379/live/0b1863f0-ce1c-11f1-906e-e3128518d85d.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-25T08:27:34+00:00",
+   "url": "/haber/sirbistan-da-genel-secimler-ogrenci-hareketi-iktidari-degistirebilir-m-10d46d0e/"
+  },
+  {
+   "id": "f83e2ae3",
+   "title": "Azerbaycan'da başörtüsü meselesinde Aliyev'in imajı nasıl tartışılıyor?",
+   "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev'in yalnızca babası Haydar Aliyev'in değil, aynı zamanda \"Mustafa Kemal Atatürk'ün de siyasi mirasçısı\" olarak tanımlanması Azerbaycan devletinin resmî görüşü değil. Ancak BBC…",
+   "link": "https://www.bbc.com/turkce/articles/cq80zxkx40l7o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b89b/live/e37e02a0-ce39-11f1-a86f-f78305ec9987.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-25T08:24:22+00:00",
+   "url": "/haber/azerbaycan-da-basortusu-meselesinde-aliyev-in-imaji-nasil-tartisiliyor-f83e2ae3/"
+  },
+  {
+   "id": "76ad1f7f",
+   "title": "Beşiktaş ile Başakşehir, 40. randevuda",
+   "summary": "Tarafların oynadıkları maçlarda Beşiktaş 12 galibiyet alırken Başakşehir 11 kez sahadan galip ayrıldı.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-ile-basaksehir-40-randevuda/4100058",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:20:14+00:00",
+   "url": "/haber/besiktas-ile-basaksehir-40-randevuda-76ad1f7f/"
+  },
+  {
+   "id": "63637919",
+   "title": "İklim krizini anlatan 20 belgesel COP31 öncesi İstanbul'da izleyiciyle buluşacak",
+   "summary": "Türkiye'nin ev sahipliğinde düzenlenecek COP31 öncesinde gerçekleştirilecek Belgesel Günleri'nde, uluslararası festivallerde gösterilen ve ödüller kazanan 20 yapım izleyicilerin beğenisine sunulacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/iklim-krizini-anlatan-20-belgesel-cop31-oncesi-istanbulda-izleyiciyle-bulusacak/4100057",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:17:32+00:00",
+   "url": "/haber/iklim-krizini-anlatan-20-belgesel-cop31-oncesi-istanbul-da-izleyiciyle-63637919/"
+  },
+  {
+   "id": "1b6ca63f",
+   "title": "Galatasaray-Fenerbahçe rekabetinde 407. randevu",
+   "summary": "Fenerbahçe'nin Galatasaray'a karşı galibiyet sayısında 150-131, gol sayısında da 546-508 üstünlüğü bulunuyor.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-fenerbahce-rekabetinde-407-randevu/4100056",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:15:48+00:00",
+   "url": "/haber/galatasaray-fenerbahce-rekabetinde-407-randevu-1b6ca63f/"
+  },
+  {
+   "id": "68481d9e",
+   "title": "DS 7'nin yerini alan yeni DS N°7 Türkiye'de: İşte fiyatı ve özellikleri",
+   "summary": "Fransız lüksünü ileri teknoloji ve üstün seyahat konforuyla buluşturan yeni DS N°7, PALLAS ve ÉTOILE donanım seviyeleriyle markanın yeni nesil hibrit teknolojisini bir araya getiriyor.",
+   "link": "https://www.donanimhaber.com/yeni-ds-n-7-turkiye-de-satisa-sunuldu-iste-fiyati--212061",
+   "image": "https://www.donanimhaber.com/images/images/haber/212061/1200x675yeni-ds-n-7-turkiye-de-satisa-sunuldu-iste-fiyati.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-25T08:14:59+00:00",
+   "url": "/haber/ds-7-nin-yerini-alan-yeni-ds-n-7-turkiye-de-iste-fiyati-ve-ozellikleri-68481d9e/"
+  },
+  {
+   "id": "27971476",
+   "title": "İsrail, işgal altındaki Batı Şeria'da El Halil başta olmak üzere saldırılarını yoğunlaştırdı",
+   "summary": "İsrail ordusu, en az 2 bin 500 Filistinliyi zorla yerinden ettiği El Halil başta olmak üzere işgal altındaki Batı Şeria'da baskınlar düzenleyerek 2 Filistinliyi alıkoydu, evlerde arama yaparak eşyalara zarar verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-isgal-altindaki-bati-seriada-el-halil-basta-olmak-uzere-saldirilarini-yogunlastirdi/4100055",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:14:28+00:00",
+   "url": "/haber/israil-isgal-altindaki-bati-seria-da-el-halil-basta-olmak-uzere-saldir-27971476/"
+  },
+  {
+   "id": "dde1d09f",
+   "title": "Jandarmanın \"yüzen karakolu\" Karakaya Barajı'nda görev başında",
+   "summary": "Malatya, Elazığ ve Diyarbakır sınırlarındaki Karakaya Barajı'nda görev yapan Jandarma Asayiş Bot Timi, güvenlik ve denetim görevini sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/jandarmanin-yuzen-karakolu-karakaya-barajinda-gorev-basinda/4100053",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:13:10+00:00",
+   "url": "/haber/jandarmanin-yuzen-karakolu-karakaya-baraji-nda-gorev-basinda-dde1d09f/"
+  },
+  {
+   "id": "d88e96d3",
+   "title": "Galatasaray-Fenerbahçe derbisinde gözler golcülerde",
+   "summary": "Trendyol Süper Lig'in 9. haftasında yapılacak Galatasaray-Fenerbahçe derbisinde sarı-kırmızılılarda Victor Osimhen, sarı-lacivertlilerde ise Vedat Muric takımlarının en önemli kozları olacak.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-fenerbahce-derbisinde-gozler-golculerde/4100051",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:12:18+00:00",
+   "url": "/haber/galatasaray-fenerbahce-derbisinde-gozler-golculerde-d88e96d3/"
+  },
+  {
+   "id": "8a08561d",
+   "title": "Trump ve Obama, 3 Kasım'daki ara seçimler öncesi birbirini eleştirdi",
+   "summary": "ABD Başkanı Donald Trump ile eski Başkan Barack Obama, 3 Kasım'da yapılacak ara seçimler öncesinde Michigan eyaletindeki Cumhuriyetçi ve Demokrat adaylara destek verirken birbirlerini eleştirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-ve-obama-3-kasimdaki-ara-secimler-oncesi-birbirini-elestirdi-/4100050",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:11:20+00:00",
+   "url": "/haber/trump-ve-obama-3-kasim-daki-ara-secimler-oncesi-birbirini-elestirdi-8a08561d/"
+  },
+  {
+   "id": "5ed1cf0f",
+   "title": "TBMM'de bu hafta bütçe maratonu başlayacak",
+   "summary": "TBMM'de Plan ve Bütçe Komisyonunda, 2027 yılı bütçesinin geneli üzerine görüşmeler yapılacak. Dışişleri Komisyonunda, Mekke Ortak Savunma Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi ele alınacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmmde-bu-hafta-butce-maratonu-baslayacak/4100046",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:08:58+00:00",
+   "url": "/haber/tbmm-de-bu-hafta-butce-maratonu-baslayacak-5ed1cf0f/"
+  },
+  {
+   "id": "a22eb96e",
+   "title": "BM Kadın Birimi Avrupa ve Orta Asya Bölge Direktörü, kadınların barış müzakerelerine katılımının önemini vurguladı",
+   "summary": "BM Kadın Birimi (UN Women) Avrupa ve Orta Asya Bölge Direktörü Belen Sanz Luque, kadınların barış müzakerelerine dahil edilmesinin önemine dikkati çekerek \"Müzakerelerde kadınların resmi olarak yer almasını sağlamasının…",
+   "link": "https://www.aa.com.tr/tr/gundem/bm-kadin-birimi-avrupa-ve-orta-asya-bolge-direktoru-kadinlarin-baris-muzakerelerine-katiliminin-onemini-vurguladi/4100043",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:07:25+00:00",
+   "url": "/haber/bm-kadin-birimi-avrupa-ve-orta-asya-bolge-direktoru-kadinlarin-baris-m-a22eb96e/"
+  },
+  {
+   "id": "3ac1ab06",
+   "title": "Trabzonspor ile Çaykur Rizespor 49. randevuda",
+   "summary": "İki takım arasında ligdeki 48 maçta bordo-mavililerin galibiyet sayısında 30-9 üstünlüğü bulunuyor.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-ile-caykur-rizespor-49-randevuda/4100041",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:07:18+00:00",
+   "url": "/haber/trabzonspor-ile-caykur-rizespor-49-randevuda-3ac1ab06/"
+  },
+  {
+   "id": "01b0a65a",
+   "title": "Kasım indirimlerinde tüketicilere sahte indirim ve dolandırıcılık uyarısı",
+   "summary": "Kasım ayı indirim kampanyalarının yaklaşmasıyla tüketicilerin, sahte indirimlere, kampanya öncesinde yapılan fiyat artışlarına ve taklit alışveriş sitelerine karşı dikkatli olması tavsiye ediliyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kasim-indirimlerinde-tuketicilere-sahte-indirim-ve-dolandiricilik-uyarisi/4100040",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:04:23+00:00",
+   "url": "/haber/kasim-indirimlerinde-tuketicilere-sahte-indirim-ve-dolandiricilik-uyar-01b0a65a/"
+  },
+  {
+   "id": "dec6633a",
+   "title": "Türkiye'nin teknoloji üretimine teknoparklardan tam destek",
+   "summary": "Teknolojik bilginin üretime ve ihracata dönüşmesinde önemli rol üstlenen Türkiye'deki teknoloji geliştirme bölgelerinin sayısı 115 olurken, bu bölgelerdeki firmaların toplam satışı 1,85 trilyon liraya ulaştı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyenin-teknoloji-uretimine-teknoparklardan-tam-destek/4100037",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:03:11+00:00",
+   "url": "/haber/turkiye-nin-teknoloji-uretimine-teknoparklardan-tam-destek-dec6633a/"
+  },
+  {
+   "id": "e0c263ed",
+   "title": "Reçel üretiminde kullanılan meyve miktarı artırılacak",
+   "summary": "Tarım ve Orman Bakanlığının görüşe açtığı tebliğ taslağına göre, reçel üretiminde kullanılacak meyve oranlarıyla ilgili düzenleme yapılması öngörülürken, bir kilogram reçeldeki meyve oranı 450 gramdan az olmayacak.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/recel-uretiminde-kullanilan-meyve-miktari-artirilacak/4100034",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:01:32+00:00",
+   "url": "/haber/recel-uretiminde-kullanilan-meyve-miktari-artirilacak-e0c263ed/"
+  },
+  {
+   "id": "c58037e3",
+   "title": "Van'da arama kurtarma köpekleri, afetlerde hayat kurtarmak için eğitiliyor",
+   "summary": "Van'da Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) İl Müdürlüğü bünyesinde görev yapan arama kurtarma köpekleri, olası afetlerde enkaz altında kalanlara ve kayıp kişilere ulaşabilmek için özel eğitimlerden geçiriliyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/vanda-arama-kurtarma-kopekleri-afetlerde-hayat-kurtarmak-icin-egitiliyor/4100033",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T08:01:21+00:00",
+   "url": "/haber/van-da-arama-kurtarma-kopekleri-afetlerde-hayat-kurtarmak-icin-egitili-c58037e3/"
+  },
   {
    "id": "0cf0d4d6",
    "title": "MG4 Artık Akıllı Telefonla Kontrol Edilebiliyor: iSMART Türkiye’de",
@@ -24,17 +244,6 @@
    "url": "/haber/nvidia-dan-sadece-4-gb-lik-yeni-yapay-zeka-modeli-internetsiz-calisiyo-de55a469/"
   },
   {
-   "id": "d9180e84",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Ekim 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-ekim-2026-1747822",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-25T08:00:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d9180e84/"
-  },
-  {
    "id": "f54835ae",
    "title": "KPSS Ortaöğretim oturumu başladı. Milyonlarca aday yer döküyor",
    "summary": "Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM) düzenlenen 2026 Kamu Personel Seçme Sınavı Ortaöğretim (2026-KPSS Ortaöğretim) başladı.",
@@ -44,50 +253,6 @@
    "category": "gundem",
    "date": "2026-10-25T07:58:19+00:00",
    "url": "/haber/kpss-ortaogretim-oturumu-basladi-milyonlarca-aday-yer-dokuyor-f54835ae/"
-  },
-  {
-   "id": "79691b45",
-   "title": "\"Asrın inşa seferberliği\" ABD basınının gündeminde",
-   "summary": "Türkiye'nin 6 Şubat 2023'te meydana gelen Kahramanmaraş merkezli depremlerin ardından yürüttüğü \"asrın inşa seferberliği\" ABD merkezli USA TODAY ve Business Insider'ın yayın platformlarında yer aldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/asrin-insa-seferberligi-abd-basininin-gundeminde/4100028",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T07:54:47+00:00",
-   "url": "/haber/asrin-insa-seferberligi-abd-basininin-gundeminde-79691b45/"
-  },
-  {
-   "id": "19fd09dd",
-   "title": "Barselona'daki şiddet olaylarında yaklaşık 100 kişi gözaltına alındı",
-   "summary": "İspanya'nın Barselona kentinde genç grupların dün akşam organize ettiği protesto gösterilerinde çıkan şiddet olaylarında yaklaşık 100 kişinin gözaltına alındığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/barselonadaki-siddet-olaylarinda-yaklasik-100-kisi-gozaltina-alindi/4100025",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T07:45:14+00:00",
-   "url": "/haber/barselona-daki-siddet-olaylarinda-yaklasik-100-kisi-gozaltina-alindi-19fd09dd/"
-  },
-  {
-   "id": "332b6d2b",
-   "title": "Üniversitelerde ders yükünün azaltılması çağrısına akademisyen ve öğrencilerden destek",
-   "summary": "Yükseköğretim Kurulu (YÖK) Başkanı Prof. Dr. Erol Özvar'ın çağrısı, üniversitelerde müfredat ve ders sayılarının yeniden değerlendirilmesini gündeme taşıdı.",
-   "link": "https://www.aa.com.tr/tr/gundem/universitelerde-ders-yukunun-azaltilmasi-cagrisina-akademisyen-ve-ogrencilerden-destek/4100024",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T07:44:55+00:00",
-   "url": "/haber/universitelerde-ders-yukunun-azaltilmasi-cagrisina-akademisyen-ve-ogre-332b6d2b/"
-  },
-  {
-   "id": "0823b257",
-   "title": "ABD'de futbol stadyumu yakınındaki silahlı saldırıda 12 kişi yaralandı",
-   "summary": "ABD'nin Florida eyaletindeki futbol stadyumu yakınında düzenlenen silahlı saldırıda 6'sı çocuk 12 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-futbol-stadyumu-yakinindaki-silahli-saldirida-12-kisi-yaralandi/4100023",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T07:44:53+00:00",
-   "url": "/haber/abd-de-futbol-stadyumu-yakinindaki-silahli-saldirida-12-kisi-yaralandi-0823b257/"
   },
   {
    "id": "73aa3b28",
@@ -101,28 +266,6 @@
    "url": "/haber/hava-bir-anda-degisecek-saganak-geliyor-sicaklik-dusuyor-73aa3b28/"
   },
   {
-   "id": "553b608a",
-   "title": "CENTCOM'un Beyaz Saray'dan onay gelmesi halinde İran'a saldırı planının hazır olduğu iddia edildi",
-   "summary": "ABD Merkez Kuvvetler Komutanlığının (CENTCOM), 3 Kasım'daki Kongre ara seçimleri sonrası Beyaz Saray'dan onay gelmesi halinde İran'a yönelik olası saldırı için planının hazır olduğu öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/centcomun-beyaz-saraydan-onay-gelmesi-halinde-irana-saldiri-planinin-hazir-oldugu-iddia-edildi/4100013",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T07:35:32+00:00",
-   "url": "/haber/centcom-un-beyaz-saray-dan-onay-gelmesi-halinde-iran-a-saldiri-planini-553b608a/"
-  },
-  {
-   "id": "83abf9c2",
-   "title": "Yemen Dışişleri Bakanı Zube: Husiler, Yemen'i dünyayı tehdit eden bir platforma dönüştürmeye çalışıyor",
-   "summary": "Yemen Dışişleri Bakanı Zube, \"Husiler, ülkemiz Yemen'i bölgeyi ve dünyayı tehdit eden bir platforma dönüştürmeye çalışıyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemen-disisleri-bakani-zube-husiler-yemeni-dunyayi-tehdit-eden-bir-platforma-donusturmeye-calisiyor/4100011",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T07:30:32+00:00",
-   "url": "/haber/yemen-disisleri-bakani-zube-husiler-yemen-i-dunyayi-tehdit-eden-bir-pl-83abf9c2/"
-  },
-  {
    "id": "9d2a446e",
    "title": "ColorOS 17 güncellemesi beklenenden erken geldi: İşte modeller",
    "summary": "ColorOS 17 güncellemesi için beklenen tarih gelmeden dağıtım başladı. OnePlus 15 ve Oppo'nun yeni modelleri, Android 17 tabanlı güncellemeyi almaya başladı.",
@@ -132,39 +275,6 @@
    "category": "teknoloji",
    "date": "2026-10-25T07:30:00+00:00",
    "url": "/haber/coloros-17-guncellemesi-beklenenden-erken-geldi-iste-modeller-9d2a446e/"
-  },
-  {
-   "id": "95d6e1d7",
-   "title": "KPSS Ortaöğretim başladı",
-   "summary": "Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM) düzenlenen 2026 Kamu Personel Seçme Sınavı Ortaöğretim (2026-KPSS Ortaöğretim) başladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/kpss-ortaogretim-basladi/4100001",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T07:15:19+00:00",
-   "url": "/haber/kpss-ortaogretim-basladi-95d6e1d7/"
-  },
-  {
-   "id": "3adbe5dc",
-   "title": "COP31 İklim Kısa Film Yarışması'nın jürisi belli oldu",
-   "summary": "Türkiye'nin ev sahipliğinde 9-20 Kasım'da Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında gerçekleştirilecek \"COP31 İklim Kısa Film…",
-   "link": "https://www.aa.com.tr/tr/kultur/cop31-iklim-kisa-film-yarismasinin-jurisi-belli-oldu/4099996",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T07:08:57+00:00",
-   "url": "/haber/cop31-iklim-kisa-film-yarismasi-nin-jurisi-belli-oldu-3adbe5dc/"
-  },
-  {
-   "id": "5f972a8d",
-   "title": "NBA'de Rockets'ın galibiyetine Alperen Şengün'den \"double-double\" katkı",
-   "summary": "Milli basketbolcu Alperen Şengün, Houston Rockets'ın Atlanta Hawks'ı 121-114 yenerek \"3'te 3\" yaptığı maçta 17 sayı, 10 ribaunt, 7 asistle oynadı.",
-   "link": "https://www.aa.com.tr/tr/spor/nbade-rocketsin-galibiyetine-alperen-sengunden-double-double-katki/4099995",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T07:07:48+00:00",
-   "url": "/haber/nba-de-rockets-in-galibiyetine-alperen-sengun-den-double-double-katki-5f972a8d/"
   },
   {
    "id": "75dd0fa8",
@@ -178,39 +288,6 @@
    "url": "/haber/hangi-yapay-zeka-modeli-hangi-siyasi-partiyi-destekliyor-iste-detaylar-75dd0fa8/"
   },
   {
-   "id": "7ee58943",
-   "title": "Gaziantep FK'nin galibiyet hasreti 5 maça çıktı",
-   "summary": "Trendyol Süper Lig'in 9. haftasında sahasında Erzurumspor FK'ye 3-1 mağlup olan Gaziantep FK'nin ligdeki galibiyet hasreti 5 maça çıktı.",
-   "link": "https://www.aa.com.tr/tr/spor/gaziantep-fknin-galibiyet-hasreti-5-maca-cikti/4099989",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T06:58:06+00:00",
-   "url": "/haber/gaziantep-fk-nin-galibiyet-hasreti-5-maca-cikti-7ee58943/"
-  },
-  {
-   "id": "7c3cadf4",
-   "title": "Sırbistan'da halk erken genel seçim için sandık başında",
-   "summary": "Sırbistan'daki seçmenler, erken genel seçimde oylarını kullanmak için sandık başına gitti.",
-   "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-halk-erken-genel-secim-icin-sandik-basinda/4099986",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T06:44:49+00:00",
-   "url": "/haber/sirbistan-da-halk-erken-genel-secim-icin-sandik-basinda-7c3cadf4/"
-  },
-  {
-   "id": "c73b4a01",
-   "title": "Beşiktaş, Süper Lig'de yarın Başakşehir'i ağırlayacak",
-   "summary": "Siyah-beyazlılarda Orkun Kökçü, Ümit Akdağ ve Miretti'nin Başakşehir karşısında formasından uzak kalması bekleniyor.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-basaksehiri-agirlayacak/4099981",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T06:36:19+00:00",
-   "url": "/haber/besiktas-super-lig-de-yarin-basaksehir-i-agirlayacak-c73b4a01/"
-  },
-  {
    "id": "f7a3dad3",
    "title": "Fiyat/Performans canavarı: 200Hz ve üzeri yenileme hızı sunan monitörler",
    "summary": "Akıcı oyun deneyimi için yüksek yenileme hızına sahip bir monitör arıyorsanız seçenekler düşündüğünüzden fazla. 200Hz ve üzeri monitörleri, fiyatlarını ve öne çıkan özelliklerini bir araya getirdik.",
@@ -220,39 +297,6 @@
    "category": "teknoloji",
    "date": "2026-10-25T06:30:00+00:00",
    "url": "/haber/fiyat-performans-canavari-200hz-ve-uzeri-yenileme-hizi-sunan-monitorle-f7a3dad3/"
-  },
-  {
-   "id": "d51731d3",
-   "title": "Musk, Starlink'in İHA operasyonlarında saldırı amaçlı kullanımına izin verilmediğini savundu",
-   "summary": "SpaceX'in Üst Yöneticisi (CEO) Musk, Ukrayna'nın savunması açısından kritik öneme sahip olduğunu belirttiği Starlink'in kapatılması durumunda Ukrayna'da cephe hattının \"derhal çökeceğini\" iddia etti.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/musk-starlinkin-iha-operasyonlarinda-saldiri-amacli-kullanimina-izin-verilmedigini-savundu/4099976",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T06:23:23+00:00",
-   "url": "/haber/musk-starlink-in-iha-operasyonlarinda-saldiri-amacli-kullanimina-izin-d51731d3/"
-  },
-  {
-   "id": "a78fec08",
-   "title": "Lider Galatasaray, Süper Lig'de yarın Fenerbahçe'yi ağırlayacak",
-   "summary": "RAMS Park'ta, saat 21.30'da başlayacak müsabakada hakem Atilla Karaoğlan düdük çalacak.",
-   "link": "https://www.aa.com.tr/tr/spor/lider-galatasaray-super-ligde-yarin-fenerbahceyi-agirlayacak/4099973",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T06:21:23+00:00",
-   "url": "/haber/lider-galatasaray-super-lig-de-yarin-fenerbahce-yi-agirlayacak-a78fec08/"
-  },
-  {
-   "id": "08236c8c",
-   "title": "Trump, İran'da yetkililerin öldüğünü ve \"kiminle müzakere ettiklerini çözmesi gerektiğini\" söyledi",
-   "summary": "ABD Başkanı Donald Trump, İran'da üst düzey yetkililerin öldüğünü belirterek, \"Artık durmalıyım çünkü kiminle müzakere ettiğimizi çözmem gerekiyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-iranda-yetkililerin-oldugunu-ve-kiminle-muzakere-ettiklerini-cozmesi-gerektigini-soyledi/4099971",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T06:20:32+00:00",
-   "url": "/haber/trump-iran-da-yetkililerin-oldugunu-ve-kiminle-muzakere-ettiklerini-co-08236c8c/"
   },
   {
    "id": "a0076f00",
@@ -673,28 +717,6 @@
    "url": "/haber/apple-in-devasa-katlanabilir-tableti-yolda-7ce99d87/"
   },
   {
-   "id": "61a28ba3",
-   "title": "Gemini Android’e yeni tasarım geldi: Ayarlar tek yerde",
-   "summary": "Google, Gemini Android uygulamasının yan panelini ve ayarlar sayfasını yeniledi. Yeni tasarım, sohbetlere erişimi kolaylaştırırken hesap tercihleri, gizlilik ve bildirimleri tek yerde topluyor.",
-   "link": "https://www.donanimhaber.com/gemini-android-e-yeni-tasarim-geldi-ayarlar-tek-yerde--212040",
-   "image": "https://www.donanimhaber.com/images/images/haber/212040/1200x675gemini-android-e-yeni-tasarim-geldi-ayarlar-tek-yerde.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-24T15:00:00+00:00",
-   "url": "/haber/gemini-android-e-yeni-tasarim-geldi-ayarlar-tek-yerde-61a28ba3/"
-  },
-  {
-   "id": "fdc261c5",
-   "title": "Samsung, katlanabilir telefonların arkasındaki mühendisliği anlattı (Röportaj)",
-   "summary": "Samsung Türkiye Başkan Yardımcısı Murat Azdemir, katlanabilir telefonların nasıl geliştirildiğini, Galaxy Z Fold8 serisi için yürütülen çalışmaları ve Galaxy AI vizyonunu anlattı.",
-   "link": "https://www.donanimhaber.com/samsung-katlanabilir-telefonun-arkasindaki-muhendisligi-anlatti--212049",
-   "image": "https://www.donanimhaber.com/images/images/haber/212049/1200x675samsung-katlanabilir-telefonun-arkasindaki-muhendisligi-anlatti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-24T14:37:36+00:00",
-   "url": "/haber/samsung-katlanabilir-telefonlarin-arkasindaki-muhendisligi-anlatti-rop-fdc261c5/"
-  },
-  {
    "id": "61134d90",
    "title": "Mısır neden Suudi Arabistan'a askeri destek vermek istiyor?",
    "summary": "Mısır Cumhurbaşkanı Abdülfettah Sisi kısa süre önce yaptığı açıklamada, Kahire'nin, Suudi Arabistan'ın güvenliğini ve egemenliğini savunmak adına Riyad tarafından talep edilecek her türlü önlemi alacağını duyurdu.",
@@ -860,17 +882,6 @@
    "url": "/haber/ferrari-308-i-gelecege-tasiyan-ozel-model-michelotto-gruppo-4-tributo-d77d9525/"
   },
   {
-   "id": "422c5738",
-   "title": "İki İsrail askerinin öldürülmesi sonrası El Halil'de operasyon",
-   "summary": "İsrail, iki askerinin öldürülmesi sonrası işgal altındaki Batı Şeria'nın El Halil kentinde geniş çaplı bir güvenlik operasyonu başlattığını duyurdu.",
-   "link": "https://www.bbc.com/turkce/articles/cwr5yz384gl3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9bb4/live/725be840-cf82-11f1-9626-6dcb0d355e19.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-24T09:22:56+00:00",
-   "url": "/haber/iki-israil-askerinin-oldurulmesi-sonrasi-el-halil-de-operasyon-422c5738/"
-  },
-  {
    "id": "edfed346",
    "title": "MG, uzaktan araç kontrolü sunan iSMART sistemini Türkiye’de kullanıma sundu",
    "summary": "SAIC Motor çatısı altındaki MG, bugün uzaktan araç kontrolü sunan iSMART’ı Türkiye’de kullanıma sunduğunu duyurdu. Sistem hakkında yapılan resmi açıklamada, “MG’nin akıllı bağlantı teknolojisi iSMART, Türkiye’de MG4…",
@@ -924,17 +935,6 @@
    "category": "teknoloji",
    "date": "2026-10-24T08:53:05+00:00",
    "url": "/haber/dahili-internet-hiz-testini-gorev-cubuguna-entegre-edecek-microsoft-bu-1be1f188/"
-  },
-  {
-   "id": "e5b41105",
-   "title": "Ürdün'de kiliseye silahlı saldırıda can kaybı 8'e çıktı",
-   "summary": "Ürdün'de bir kiliseye düzenlenen silahlı saldırıda 7 kişi öldü, en az 34 kişi yaralandı",
-   "link": "https://www.bbc.com/turkce/articles/cm5ynqg6qe3yo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dcd/live/5d8e1a70-cf85-11f1-bef0-7f8eb636c50b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-24T08:33:15+00:00",
-   "url": "/haber/urdun-de-kiliseye-silahli-saldirida-can-kaybi-8-e-cikti-e5b41105/"
   },
   {
    "id": "ce9c5b28",
