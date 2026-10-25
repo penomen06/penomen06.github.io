@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-25T15:01:11.687842+00:00",
+ "updated": "2026-10-25T15:31:00.272309+00:00",
  "items": [
+  {
+   "id": "b64fc4ad",
+   "title": "ABD, gizemli ısı ışını silahını göçmenler üzerinde test edecek",
+   "summary": "ABD, insanlarda 15 dakikaya kadar yanma hissi oluşturan ısı ışını silahını Meksika sınırında test etmeye hazırlanıyor. Pentagon, sistemin kullanımı için yedi aylık izin verdi.",
+   "link": "https://www.donanimhaber.com/abd-gizemli-isi-isini-silahini-gocmenler-uzerinde-test-edecek--212059",
+   "image": "https://www.donanimhaber.com/images/images/haber/212059/1200x675abd-gizemli-isi-isini-silahini-gocmenler-uzerinde-test-edecek.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-25T15:30:00+00:00",
+   "url": "/haber/abd-gizemli-isi-isini-silahini-gocmenler-uzerinde-test-edecek-b64fc4ad/"
+  },
+  {
+   "id": "422c5738",
+   "title": "İsrail seçim günü Batı Şeria geçişlerini kapatacak",
+   "summary": "İsrail ordusu, İsrail'de 27 Ekim Salı günü yapılacak genel seçimler sırasında Batı Şeria'daki tüm kara geçişlerinin kapatılacağını ve Filistinli işçilerin yerleşimlere girişinin yasaklanacağını duyurdu.",
+   "link": "https://www.bbc.com/turkce/articles/cwr5yz384gl3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f4c/live/6bafe280-d086-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-25T15:16:54+00:00",
+   "url": "/haber/israil-secim-gunu-bati-seria-gecislerini-kapatacak-422c5738/"
+  },
+  {
+   "id": "bd959316",
+   "title": "Papa 14. Leo, Yemen'in Taiz kentinde açlık çekenlerin durumundan endişe duyuyor",
+   "summary": "Vatikan Devlet Başkanı Papa 14. Leo, Yemen’in gıda, su ve tıbbi yardım ihtiyacı bulunan Taiz kentindeki vahim insani durumu endişeyle takip ettiğini belirterek, Yemen halkının ve bölgedeki tüm halkların barış içinde…",
+   "link": "https://www.aa.com.tr/tr/dunya/papa-14-leo-yemenin-taiz-kentinde-aclik-cekenlerin-durumundan-endise-duyuyor/4100330",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T15:08:16+00:00",
+   "url": "/haber/papa-14-leo-yemen-in-taiz-kentinde-aclik-cekenlerin-durumundan-endise-bd959316/"
+  },
+  {
+   "id": "73ee2ba8",
+   "title": "Fon soruşturması. Ertan Aydın ve Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer gözaltında",
+   "summary": "Fon soruşturmasında eski AK Parti milletvekili Ertan Aydın ve Türkiye Sigorta Genel Müdürü Yardımcısı Gürol Sami Özer gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-ertan-aydin-ve-turkiye-sigorta-genel-mudur-yardimcisi-gurol-sami-ozer-gozaltinda-1747904",
+   "image": "https://images.ntv.com.tr/images/ertan-698929.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-25T15:03:59+00:00",
+   "url": "/haber/fon-sorusturmasi-ertan-aydin-ve-turkiye-sigorta-genel-mudur-yardimcisi-73ee2ba8/"
+  },
+  {
+   "id": "f4ba0302",
+   "title": "STM'nin avcı İHA'sı TUNGA-X, düşman unsurunu tam isabetle imha etti",
+   "summary": "Avcı insansız hava aracı (İHA) TUNGA-X, TURNAs-2026 İnsansız Deniz Sistemleri Tatbikatı'nda, radar ve görüntü güdüm entegrasyonuyla temsili düşman İHA unsurunu tam isabetle vurarak başarıyla etkisiz hale getirdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/stmnin-avci-ihasi-tunga-x-dusman-unsurunu-tam-isabetle-imha-etti/4100327",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T15:02:08+00:00",
+   "url": "/haber/stm-nin-avci-iha-si-tunga-x-dusman-unsurunu-tam-isabetle-imha-etti-f4ba0302/"
+  },
   {
    "id": "5ffffbda",
    "title": "Nothing Ear (3) Pro geliyor olabilir: İlk ipuçları ortaya çıktı",
@@ -22,6 +77,17 @@
    "category": "gundem",
    "date": "2026-10-25T14:56:22+00:00",
    "url": "/haber/ehliyetsiz-surucu-polisi-gorunce-yer-degistirdi-drondan-kacamadi-793a7106/"
+  },
+  {
+   "id": "5aa60fea",
+   "title": "Fransa'da fırtınaların ardından yaklaşık 59 bin hanede elektrik kesintisi sürüyor",
+   "summary": "Fransa'da Austen ve Boelo fırtınaları nedeniyle yaklaşık 59 bin hanede elektrik kesintisi devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-firtinalarin-ardindan-yaklasik-59-bin-hanede-elektrik-kesintisi-suruyor/4100321",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T14:51:21+00:00",
+   "url": "/haber/fransa-da-firtinalarin-ardindan-yaklasik-59-bin-hanede-elektrik-kesint-5aa60fea/"
   },
   {
    "id": "28dc7f9d",
@@ -101,17 +167,6 @@
    "url": "/haber/madrid-in-unlu-senliginde-1000-den-fazla-koyun-kent-merkezinde-yurudu-b9112fc1/"
   },
   {
-   "id": "73ee2ba8",
-   "title": "Fon soruşturması. Ertan Aydın ve Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer gözaltında",
-   "summary": "Fon soruşturmasında eski AK Parti milletvekili Ertan Aydın ve Türkiye Sigorta Genel Müdürü Yardımcısı Gürol Sami Özer gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-ertan-aydin-ve-turkiye-sigorta-genel-mudur-yardimcisi-gurol-sami-ozer-gozaltinda-1747904",
-   "image": "https://images.ntv.com.tr/images/ertan-698929.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-25T14:14:57+00:00",
-   "url": "/haber/fon-sorusturmasi-ertan-aydin-ve-turkiye-sigorta-genel-mudur-yardimcisi-73ee2ba8/"
-  },
-  {
    "id": "1f92c976",
    "title": "Meghan Markle'ın babası hakkındaki istismar iddialarıyla ilgili neler biliniyor?",
    "summary": "BBC'nin edindiği bilgiye göre Sussex Düşesi, babasına gönderdiği bir mektupta genç kızlara cinsel istismarda bulunduğunu kendisinin ve yetkililerin bildiğini söyledi ve onunla iletişimi kesti.",
@@ -143,6 +198,17 @@
    "category": "teknoloji",
    "date": "2026-10-25T14:00:00+00:00",
    "url": "/haber/iphone-duo-dayaniklilik-testinde-sinifta-kaldi-6f4f5460/"
+  },
+  {
+   "id": "1e7e1072",
+   "title": "Konyaspor, konuk ettiği Gençlerbirliği'ni yendi",
+   "summary": "Trendyol Süper Lig'in 9. haftasında TÜMOSAN Konyaspor, konuk ettiği Gençlerbirliği'ni 2-0 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/konyaspor-konuk-ettigi-genclerbirligini-yendi/4100299",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T13:59:22+00:00",
+   "url": "/haber/konyaspor-konuk-ettigi-genclerbirligi-ni-yendi-1e7e1072/"
   },
   {
    "id": "5f973b7a",
@@ -310,17 +376,6 @@
    "url": "/haber/binyamin-netanyahu-bay-guvenlik-israil-de-yedinci-kez-basbakan-olabili-533827f4/"
   },
   {
-   "id": "8a8ca057",
-   "title": "KKTC'de batan gemiden kurtulan anne kızına vermeyi düşündüğü \"Deniz\" isminden vazgeçti",
-   "summary": "KKTC'nin Girne kenti açıklarında batan yolcu gemisinden 8 aylık hamileyken sağ kurtulan Gökdaş, yaşadıkları travmadan sonra kızlarına vermeyi düşündükleri \"Deniz\" isminden vazgeçtiklerini, \"Alara\" ismini tercih…",
-   "link": "https://www.aa.com.tr/tr/gundem/kktcde-batan-gemiden-kurtulan-anne-kizina-vermeyi-dusundugu-deniz-isminden-vazgecti/4100257",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T12:53:34+00:00",
-   "url": "/haber/kktc-de-batan-gemiden-kurtulan-anne-kizina-vermeyi-dusundugu-deniz-ism-8a8ca057/"
-  },
-  {
    "id": "45413868",
    "title": "Ev yapımı sentetik uyuşturucu dalgası ABD'deki krizi derinleştiriyor",
    "summary": "BBC News, ülkenin ölümcül yeni bir uyuşturucu salgınıyla mücadele ettiği bir dönemde, kullanıcılar, satıcılar, cezaevi ve rehabilitasyon çalışanlarından görüş aldı.",
@@ -343,17 +398,6 @@
    "url": "/haber/bahceli-den-kazakistan-cumhuriyet-gunu-mesaji-07256ef1/"
   },
   {
-   "id": "5fba0228",
-   "title": "MHP Genel Başkanı Bahçeli'den 25 Ekim Kazakistan Cumhuriyet Günü mesajı",
-   "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Bugün Türkiye ve Kazakistan ilişkileri tarihten aldığı ilhamla oldukça sağlam bir temel üzerine oturmaktadır.\" ifadesini kullandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceliden-25-ekim-kazakistan-cumhuriyet-gunu-mesaji/4100248",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T12:41:44+00:00",
-   "url": "/haber/mhp-genel-baskani-bahceli-den-25-ekim-kazakistan-cumhuriyet-gunu-mesaj-5fba0228/"
-  },
-  {
    "id": "89fca42f",
    "title": "Rıza Kayaalp, Dünya Güreş Şampiyonası'na çeyrek finalde veda etti",
    "summary": "Kazakistan'da düzenlenen 2026 Dünya Güreş Şampiyonası'nda mücadele eden milli sporcu Rıza Kayaalp, çeyrek finalde Finlandiya'dan Matti Elias Kuosmanen'e yenildi.",
@@ -363,17 +407,6 @@
    "category": "gundem",
    "date": "2026-10-25T12:39:28+00:00",
    "url": "/haber/riza-kayaalp-dunya-gures-sampiyonasi-na-ceyrek-finalde-veda-etti-89fca42f/"
-  },
-  {
-   "id": "b2b18588",
-   "title": "Meteorolojiden 2 il için turuncu, 3 il için sarı kodlu uyarı",
-   "summary": "Meteoroloji Genel Müdürlüğü, yarın beklenen kuvvetli yağış nedeniyle 2 il için turuncu, 3 il için sarı kodlu uyarıda bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-2-il-icin-turuncu-3-il-icin-sari-kodlu-uyari/4100236",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T12:34:51+00:00",
-   "url": "/haber/meteorolojiden-2-il-icin-turuncu-3-il-icin-sari-kodlu-uyari-b2b18588/"
   },
   {
    "id": "28bb7713",
@@ -396,17 +429,6 @@
    "category": "gundem",
    "date": "2026-10-25T12:19:00+00:00",
    "url": "/haber/tolga-ve-pirana-sistemleri-hedefleri-tam-isabetle-vurdu-a4e9bbcd/"
-  },
-  {
-   "id": "cbf849c0",
-   "title": "MKE'nin TOLGA ve PİRANA sistemleri, TURNAs-2026 Tatbikatı'nda hedefleri tam isabetle vurdu",
-   "summary": "Makine ve Kimya Endüstrisi (MKE) tarafından geliştirilen TOLGA Yakın Hava Savunma Sistemi ve PİRANA kamikaze insansız deniz aracı Milli İnsansız Deniz Sistemleri Tatbikatı'nda (TURNAs-2026) hedefleri tam isabetle vurdu.",
-   "link": "https://www.aa.com.tr/tr/gundem/mkenin-tolga-ve-pirana-sistemleri-turnas-2026-tatbikatinda-hedefleri-tam-isabetle-vurdu/4100219",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T12:07:39+00:00",
-   "url": "/haber/mke-nin-tolga-ve-pirana-sistemleri-turnas-2026-tatbikati-nda-hedefleri-cbf849c0/"
   },
   {
    "id": "257b73dd",
@@ -750,17 +772,6 @@
    "url": "/haber/mg4-artik-akilli-telefonla-kontrol-edilebiliyor-ismart-turkiye-de-0cf0d4d6/"
   },
   {
-   "id": "de55a469",
-   "title": "Nvidia’dan sadece 4 GB’lık yeni yapay zeka modeli: İnternetsiz çalışıyor",
-   "summary": "Nvidia, yalnızca 4 GB bellek hedefiyle tasarlanan Nemotron 3.5 Bolt E4B modelini yayımladı. Model, robotlar ve küçük cihazlarda internet bağlantısı olmadan çalışabiliyor.",
-   "link": "https://www.donanimhaber.com/nvidia-dan-sadece-4-gb-lik-internetsiz-yeni-yapay-zeka-modeli--212057",
-   "image": "https://www.donanimhaber.com/images/images/haber/212057/1200x675nvidia-dan-sadece-4-gb-lik-internetsiz-yeni-yapay-zeka-modeli.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-25T08:00:00+00:00",
-   "url": "/haber/nvidia-dan-sadece-4-gb-lik-yeni-yapay-zeka-modeli-internetsiz-calisiyo-de55a469/"
-  },
-  {
    "id": "904b3741",
    "title": "Asrın inşa seferberliği ABD basınının gündeminde",
    "summary": "ABD merkezli USA TODAY ve Business Insider deprem bölgesinde tamamlanan yeniden inşa çalışmalarını haberleştirdi.",
@@ -1056,17 +1067,6 @@
    "category": "gundem",
    "date": "2026-10-24T07:12:14+00:00",
    "url": "/haber/hangi-besinler-cildin-daha-genc-gorunmesine-yardimci-olabilir-3e2b32f6/"
-  },
-  {
-   "id": "041452f2",
-   "title": "İsrail seçimlerinde Arap partileri neden kritik rol oynuyor?",
-   "summary": "İsrailli Araplar arasında seçimlere katılım oranları geleneksel şekilde düşük kalıyor. Ancak bu seçimlerde sağcı iktidar koalisyonunu başarısızlığa uğratmak için güçlü bir çaba var.",
-   "link": "https://www.bbc.com/turkce/articles/c6e9l1nm35l4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9938/live/80172d90-cd26-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-24T07:11:09+00:00",
-   "url": "/haber/israil-secimlerinde-arap-partileri-neden-kritik-rol-oynuyor-041452f2/"
   },
   {
    "id": "2eef1ee2",
