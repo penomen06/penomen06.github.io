@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-25T14:01:05.272470+00:00",
+ "updated": "2026-10-25T14:21:42.733410+00:00",
  "items": [
+  {
+   "id": "b9112fc1",
+   "title": "Madrid'in ünlü şenliğinde 1000'den fazla koyun kent merkezinde yürüdü",
+   "summary": "İspanya'nın başkenti Madrid'de, Orta Çağ geleneklerinden biri olan ve \"Trashumancia Şenliği\" adıyla bilinen etkinlik kapsamında, 1000'den fazla koyun kent sokaklarında yürüdü.",
+   "link": "https://www.aa.com.tr/tr/dunya/madridin-unlu-senliginde-1000den-fazla-koyun-kent-merkezinde-yurudu/4100306",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T14:15:29+00:00",
+   "url": "/haber/madrid-in-unlu-senliginde-1000-den-fazla-koyun-kent-merkezinde-yurudu-b9112fc1/"
+  },
+  {
+   "id": "73ee2ba8",
+   "title": "Fon soruşturması. Ertan Aydın ve Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer gözaltında",
+   "summary": "Fon soruşturmasında eski AK Parti milletvekili Ertan Aydın ve Türkiye Sigorta Genel Müdürü Yardımcısı Gürol Sami Özer gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-ertan-aydin-ve-turkiye-sigorta-genel-mudur-yardimcisi-gurol-sami-ozer-gozaltinda-1747904",
+   "image": "https://images.ntv.com.tr/images/ertan-698929.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-25T14:14:57+00:00",
+   "url": "/haber/fon-sorusturmasi-ertan-aydin-ve-turkiye-sigorta-genel-mudur-yardimcisi-73ee2ba8/"
+  },
+  {
+   "id": "1f92c976",
+   "title": "Meghan Markle'ın babası hakkındaki istismar iddialarıyla ilgili neler biliniyor?",
+   "summary": "BBC'nin edindiği bilgiye göre Sussex Düşesi, babasına gönderdiği bir mektupta genç kızlara cinsel istismarda bulunduğunu kendisinin ve yetkililerin bildiğini söyledi ve onunla iletişimi kesti.",
+   "link": "https://www.bbc.com/turkce/articles/cm70p18ldrwjo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-25T14:07:03+00:00",
+   "url": "/haber/meghan-markle-in-babasi-hakkindaki-istismar-iddialariyla-ilgili-neler-1f92c976/"
+  },
   {
    "id": "01bbabc6",
    "title": "Capcom’da Veri İhlali: 12 Milyon Kullanıcı Etkilendi",
@@ -11,17 +44,6 @@
    "category": "teknoloji",
    "date": "2026-10-25T14:00:22+00:00",
    "url": "/haber/capcom-da-veri-ihlali-12-milyon-kullanici-etkilendi-01bbabc6/"
-  },
-  {
-   "id": "73ee2ba8",
-   "title": "Fon soruşturması. Ertan Aydın ve Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer gözaltında",
-   "summary": "Fon soruşturmasında eski AK Parti milletvekili Ertan Aydın ve Türkiye Sigorta Genel Müdürü Yardımcısı Gürol Sami Özer gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-ertan-aydin-ve-turkiye-sigorta-genel-mudur-yardimcisi-gurol-sami-ozer-gozaltinda-1747904",
-   "image": "https://images.ntv.com.tr/images/foncu-576122(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-25T14:00:19+00:00",
-   "url": "/haber/fon-sorusturmasi-ertan-aydin-ve-turkiye-sigorta-genel-mudur-yardimcisi-73ee2ba8/"
   },
   {
    "id": "6f4f5460",
@@ -44,17 +66,6 @@
    "category": "gundem",
    "date": "2026-10-25T14:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d9180e84/"
-  },
-  {
-   "id": "1f92c976",
-   "title": "Meghan Markle'ın babası hakkındaki istismar iddialarıyla ilgili neler biliniyor?",
-   "summary": "BBC'nin edindiği bilgiye göre Sussex Düşesi, babasına gönderdiği bir mektupta genç kızlara cinsel istismarda bulunduğunu kendisinin ve yetkililerin bildiğini söyledi ve onunla iletişimi kesti.",
-   "link": "https://www.bbc.com/turkce/articles/cm70p18ldrwjo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-25T13:56:58+00:00",
-   "url": "/haber/meghan-markle-in-babasi-hakkindaki-istismar-iddialariyla-ilgili-neler-1f92c976/"
   },
   {
    "id": "5f973b7a",
@@ -99,6 +110,17 @@
    "category": "gundem",
    "date": "2026-10-25T13:46:58+00:00",
    "url": "/haber/israil-in-kusattigi-bati-seria-nin-el-halil-kentinde-binlerce-filistin-1d30050c/"
+  },
+  {
+   "id": "3f9880ff",
+   "title": "Mehmet Ayberk Koşak, Artistik Cimnastik Dünya Şampiyonası'nda 6'ncı oldu",
+   "summary": "Hollanda'da düzenlenen Artistik Cimnastik Dünya Şampiyonası'nda milli sporcu Mehmet Ayberk Koşak, halka aleti finalinde 13.800 puan alarak 6'ncı sırada yer aldı.",
+   "link": "https://www.aa.com.tr/tr/spor/mehmet-ayberk-kosak-artistik-cimnastik-dunya-sampiyonasinda-6nci-oldu/4100280",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T13:45:30+00:00",
+   "url": "/haber/mehmet-ayberk-kosak-artistik-cimnastik-dunya-sampiyonasi-nda-6-nci-old-3f9880ff/"
   },
   {
    "id": "ab2577a9",
@@ -299,17 +321,6 @@
    "url": "/haber/mke-nin-tolga-ve-pirana-sistemleri-turnas-2026-tatbikati-nda-hedefleri-cbf849c0/"
   },
   {
-   "id": "dfe6cc82",
-   "title": "Brezilya'da halk, devlet başkanı seçiminin ikinci turu için sandık başına gitti",
-   "summary": "Brezilya'da devlet başkanı seçiminde hiçbir adayın yüzde 50'yi aşamaması nedeniyle düzenlenen ikinci turda oy verme işlemi başladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/brezilyada-halk-devlet-baskani-seciminin-ikinci-turu-icin-sandik-basina-gitti/4100217",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T12:02:18+00:00",
-   "url": "/haber/brezilya-da-halk-devlet-baskani-seciminin-ikinci-turu-icin-sandik-basi-dfe6cc82/"
-  },
-  {
    "id": "257b73dd",
    "title": "Şehit Albay Sayit Gökgöz son yolculuğuna uğurlandı",
    "summary": "Ankara'da meydana gelen askeri araç kazasında şehit olan Albay Sayit Gökgöz için cenaze töreni düzenlendi.",
@@ -341,17 +352,6 @@
    "category": "teknoloji",
    "date": "2026-10-25T12:00:00+00:00",
    "url": "/haber/amd-zen-6-buyuk-performans-artisi-sunabilir-geekbench-sonuclari-ortaya-1b0fee23/"
-  },
-  {
-   "id": "998171f1",
-   "title": "Rusya: Ukrayna konusunda üçlü müzakerelere 4 Kasım'dan sonra hazırız",
-   "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, ülkelerinin, Ukrayna konusunda Rusya, ABD ve Ukrayna arasında üçlü müzakereleri 4 Kasım'dan sonra yeniden başlatmaya hazır olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukrayna-konusunda-uclu-muzakerelere-4-kasimdan-sonra-haziriz/4100215",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T11:57:32+00:00",
-   "url": "/haber/rusya-ukrayna-konusunda-uclu-muzakerelere-4-kasim-dan-sonra-haziriz-998171f1/"
   },
   {
    "id": "ac7e11b4",
