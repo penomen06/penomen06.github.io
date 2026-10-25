@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:11:37.861461+00:00",
+ "updated": "2026-10-25T23:30:59.132569+00:00",
  "items": [
   {
    "id": "d8d59cf7",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-25T23:00:00+00:00",
+   "date": "2026-10-25T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d8d59cf7/"
+  },
+  {
+   "id": "10d46d0e",
+   "title": "Sırbistan'da genel seçimler: İktidardaki Vucic, öğrenci hareketine yenildiğini kabul etti",
+   "summary": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gitti. Sırbistan'ın geleceğine dair bir referandum olarak nitelendirilen seçime katılımın rekor düzeyde olduğu bildirildi. İktidardaki…",
+   "link": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab42/live/eccff960-d0ca-11f1-b86a-c167c5eb76b4.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-25T23:26:11+00:00",
+   "url": "/haber/sirbistan-da-genel-secimler-iktidardaki-vucic-ogrenci-hareketine-yenil-10d46d0e/"
   },
   {
    "id": "73603070",
@@ -44,17 +55,6 @@
    "category": "gundem",
    "date": "2026-10-25T22:13:35+00:00",
    "url": "/haber/formula-1-abd-grand-prix-sini-kimi-antonelli-kazandi-70596782/"
-  },
-  {
-   "id": "10d46d0e",
-   "title": "Sırbistan'da genel seçimler: İktidardaki Vucic, öğrenci hareketine yenildiğini kabul etti",
-   "summary": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gitti. Sırbistan'ın geleceğine dair bir referandum olarak nitelendirilen seçime katılımın rekor düzeyde olduğu bildirildi. İktidardaki…",
-   "link": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f2f/live/e80c5c00-d0b8-11f1-bb22-5d7091b6f0f8.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-25T21:43:42+00:00",
-   "url": "/haber/sirbistan-da-genel-secimler-iktidardaki-vucic-ogrenci-hareketine-yenil-10d46d0e/"
   },
   {
    "id": "feff88a3",
