@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-25T16:01:09.189606+00:00",
+ "updated": "2026-10-25T16:30:57.685705+00:00",
  "items": [
+  {
+   "id": "f11b4f8c",
+   "title": "NASA, Ay'a dönüş planını güncelledi: Tarihi yarışta yeni perde",
+   "summary": "NASA, Artemis programında Ay'a dönüş planını güncelledi. 2027'de iki Ay iniş aracıyla kenetlenme testleri yapılacak, 2028'de ise astronotların Ay yüzeyine indirilmesi hedeflenecek.",
+   "link": "https://www.donanimhaber.com/nasa-ay-a-donus-planini-guncelledi-tarihi-yarista-yeni-perde--212069",
+   "image": "https://www.donanimhaber.com/images/images/haber/212069/1200x675nasa-ay-a-donus-planini-guncelledi-tarihi-yarista-yeni-perde.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-25T16:30:00+00:00",
+   "url": "/haber/nasa-ay-a-donus-planini-guncelledi-tarihi-yarista-yeni-perde-f11b4f8c/"
+  },
+  {
+   "id": "78e3c18f",
+   "title": "Akın Gürlek'ten 'fon' açıklaması: 'Gönüllü iade hukuki sorumluluğu ortadan kaldırmaz'",
+   "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmasına konu olan kişilerin kazandıkları parayı gönüllü olarak iade etseler de haklarındaki soruşturmanın sürebileceğini söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/c5rmy7wkek47o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d85a/live/684bc170-c3b8-11f1-a0b5-7b6bc14012a9.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-25T16:20:19+00:00",
+   "url": "/haber/akin-gurlek-ten-fon-aciklamasi-gonullu-iade-hukuki-sorumlulugu-ortadan-78e3c18f/"
+  },
+  {
+   "id": "d618c512",
+   "title": "ABD Başkanı Trump'tan İran'a yeni ültimatom",
+   "summary": "ABD Başkanı Donald Trump, Tahran'a yeni bir ültimatom göndererek, ya İran'la anlaşma imzalayacaklarını ya da bu ülkeyi askeri olarak \"yok edeceklerini\" ifade etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-irana-yeni-ultimatom/4100358",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T16:09:59+00:00",
+   "url": "/haber/abd-baskani-trump-tan-iran-a-yeni-ultimatom-d618c512/"
+  },
+  {
+   "id": "a9d4c7ac",
+   "title": "Bakan Gürlek'ten fon soruşturmasına ilişkin açıklama",
+   "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmasına ilişkin, \"Gönüllü iade yapılması, tek başına hiçbir gerçek veya tüzel kişinin hukuki sorumluluğunu ortadan kaldırmaz.\" ifadelerini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlekten-fon-sorusturmasina-iliskin-aciklama/4100355",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T16:01:29+00:00",
+   "url": "/haber/bakan-gurlek-ten-fon-sorusturmasina-iliskin-aciklama-a9d4c7ac/"
+  },
   {
    "id": "ba64bea1",
    "title": "macOS Golden Gate ile Dokunmatik MacBook Pro Dönemi Başlıyor",
@@ -332,17 +376,6 @@
    "url": "/haber/turk-yildizlari-fethiye-de-gosteri-ucusu-yapti-f4a9c790/"
   },
   {
-   "id": "1d30050c",
-   "title": "İsrail'in kuşattığı Batı Şeria'nın El Halil kentinde binlerce Filistinli evlerini terk etmeye zorlanıyor",
-   "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın El Halil kentinde yaklaşık 2 bin 200 Filistinliyi evlerinden zorla çıkarıp konut ve iş yerlerini yıktı, giriş ve çıkışları kapatarak günlük yaşamı felce uğrattı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-kusattigi-bati-serianin-el-halil-kentinde-binlerce-filistinli-evlerini-terk-etmeye-zorlaniyor/4100282",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T13:46:58+00:00",
-   "url": "/haber/israil-in-kusattigi-bati-seria-nin-el-halil-kentinde-binlerce-filistin-1d30050c/"
-  },
-  {
    "id": "3f9880ff",
    "title": "Mehmet Ayberk Koşak, Artistik Cimnastik Dünya Şampiyonası'nda 6'ncı oldu",
    "summary": "Hollanda'da düzenlenen Artistik Cimnastik Dünya Şampiyonası'nda milli sporcu Mehmet Ayberk Koşak, halka aleti finalinde 13.800 puan alarak 6'ncı sırada yer aldı.",
@@ -363,17 +396,6 @@
    "category": "gundem",
    "date": "2026-10-25T13:38:00+00:00",
    "url": "/haber/siper-yeni-kabiliyetini-basariyla-test-etti-ab2577a9/"
-  },
-  {
-   "id": "f0fbd9ed",
-   "title": "SİPER Ürün-2 yeni kabiliyetini başarıyla test etti",
-   "summary": "Türkiye'nin uzun menzilli bölge hava ve füze savunma sistemi SİPER Ürün-2, yeni kabiliyetini başarılı atış testiyle sahada ispatladı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/siper-urun-2-yeni-kabiliyetini-basariyla-test-etti/4100275",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T13:36:46+00:00",
-   "url": "/haber/siper-urun-2-yeni-kabiliyetini-basariyla-test-etti-f0fbd9ed/"
   },
   {
    "id": "61f96736",
@@ -761,17 +783,6 @@
    "url": "/haber/instagram-apple-tv-uygulamasini-kullanima-sundu-3c4c294a/"
   },
   {
-   "id": "6549039f",
-   "title": "PS5 artık Steam oyunlarını çalıştırıyor: Cyberpunk 2077 oynandı",
-   "summary": "PS5 kullanıcıları, jailbreak yapılmış konsollarda Steam üzerinden Windows oyunlarını doğrudan çalıştırmaya başladı. Cyberpunk 2077 dahil birçok oyun şimdiden oynanabilir durumda.",
-   "link": "https://www.donanimhaber.com/ps5-artik-steam-oyunlarini-calistiriyor-cyberpunk-2077-oynandi--212055",
-   "image": "https://www.donanimhaber.com/images/images/haber/212055/1200x675ps5-artik-steam-oyunlarini-calistiriyor-cyberpunk-2077-oynandi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-25T08:30:00+00:00",
-   "url": "/haber/ps5-artik-steam-oyunlarini-calistiriyor-cyberpunk-2077-oynandi-6549039f/"
-  },
-  {
    "id": "10d46d0e",
    "title": "Sırbistan'da genel seçimler: Öğrenci hareketi iktidarı değiştirebilir mi?",
    "summary": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gidiyor. Seçimler Sırbistan'ın geleceğine dair bir referandum olarak nitelendiriliyor.",
@@ -924,17 +935,6 @@
    "category": "teknoloji",
    "date": "2026-10-24T20:00:26+00:00",
    "url": "/haber/ios-27-1-yayinlandi-sadece-bir-cihaza-ozel-0055cf44/"
-  },
-  {
-   "id": "4a89b8ea",
-   "title": "Atina'nın Batı Trakya'daki müftülüklere yaptığı atamalara Ankara'dan tepki",
-   "summary": "Türk Dışişleri Bakanlığı, Yunanistan makamlarına bir çağrı yaparak, Batı Trakya'daki Türk azınlığın seçtiği müftülerin tanınmasını istedi. Gelişme Yunanistan hükümetinin Gümülcine ve İskeçe müftülüklerine beş yıl için…",
-   "link": "https://www.bbc.com/turkce/articles/cje36w30vwd7o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/18ef/live/b29d4990-cfc7-11f1-9ecd-8be45051afbd.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-24T16:28:27+00:00",
-   "url": "/haber/atina-nin-bati-trakya-daki-muftuluklere-yaptigi-atamalara-ankara-dan-t-4a89b8ea/"
   },
   {
    "id": "ba1d8f9f",
