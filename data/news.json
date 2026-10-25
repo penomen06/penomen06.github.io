@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T23:31:00.781667+00:00",
+ "updated": "2026-10-25T00:01:15.980274+00:00",
  "items": [
   {
    "id": "d9180e84",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-24T23:00:00+00:00",
+   "date": "2026-10-25T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d9180e84/"
+  },
+  {
+   "id": "a3e1e0f1",
+   "title": "İsrail basınına göre, ordu seçim öncesinde alarm seviyesini \"en üst düzeye\" çıkardı",
+   "summary": "İsrail ordusunun, 27 Ekim'de yapılacak seçime 3 gün kala, İran veya Lübnan'dan füze fırlatılması dahil olası güvenlik gelişmelerine karşı alarm seviyesini en üst düzeye çıkardığı ve çeşitli bölgelere on binlerce asker…",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-basinina-gore-ordu-secim-oncesinde-alarm-seviyesini-en-ust-duzeye-cikardi/4099920",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-24T23:48:40+00:00",
+   "url": "/haber/israil-basinina-gore-ordu-secim-oncesinde-alarm-seviyesini-en-ust-duze-a3e1e0f1/"
   },
   {
    "id": "a7c15cac",
@@ -220,17 +231,6 @@
    "category": "gundem",
    "date": "2026-10-24T20:14:59+00:00",
    "url": "/haber/iranli-yetkiliden-saldiriya-ugramalari-halinde-israil-i-hedef-alacakla-21d2a04e/"
-  },
-  {
-   "id": "c118ccb2",
-   "title": "İçişleri Bakanı Çiftçi: (Antalya'da düzenlenecek COP31) Sahada 26 bin personelimiz görev yapacak",
-   "summary": "Bakan Çiftçi, Antalya'da düzenlenecek COP31'e ilişkin, \"İçişleri Bakanlığı olarak, Emniyet Genel Müdürlüğümüz, Jandarma Genel Komutanlığımız, Sahil Güvenlik Komutanlığımız oldukça geniş tedbirler aldı. Sahada 26 bin…",
-   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-antalyada-duzenlenecek-cop31-sahada-26-bin-personelimiz-gorev-yapacak/4099856",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-24T20:08:27+00:00",
-   "url": "/haber/icisleri-bakani-ciftci-antalya-da-duzenlenecek-cop31-sahada-26-bin-per-c118ccb2/"
   },
   {
    "id": "442221ef",
