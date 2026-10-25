@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:01:05.719497+00:00",
+ "updated": "2026-10-25T21:30:53.563354+00:00",
  "items": [
   {
    "id": "d8d59cf7",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-25T21:00:00+00:00",
+   "date": "2026-10-25T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d8d59cf7/"
+  },
+  {
+   "id": "10d46d0e",
+   "title": "Sırbistan'da genel seçimler: İktidardaki Vucic, öğrenci hareketine yenildiğini kabul etti",
+   "summary": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gitti. Seçimler Sırbistan'ın geleceğine dair bir referandum olarak nitelendiriliyor. Seçime katılımın rekor düzeyde olduğu bildirildi.…",
+   "link": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f2f/live/e80c5c00-d0b8-11f1-bb22-5d7091b6f0f8.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-25T21:17:21+00:00",
+   "url": "/haber/sirbistan-da-genel-secimler-iktidardaki-vucic-ogrenci-hareketine-yenil-10d46d0e/"
+  },
+  {
+   "id": "7558f2b4",
+   "title": "Sermaye piyasası işlemleri soruşturmasında Ertan Aydın tutuklandı",
+   "summary": "Sermaye piyasası işlemlerine ilişkin fon soruşturması kapsamında, adli kontrol kararına yapılan itiraz üzerine yeniden gözaltına alınan eski AK Parti milletvekili, araştırma ve kampanya şirketi kurucusu Ertan Aydın…",
+   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmasinda-ertan-aydin-tutuklandi/4100489",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T20:59:29+00:00",
+   "url": "/haber/sermaye-piyasasi-islemleri-sorusturmasinda-ertan-aydin-tutuklandi-7558f2b4/"
   },
   {
    "id": "22e40452",
@@ -24,15 +46,48 @@
    "url": "/haber/sirbistan-da-basbakan-adayi-vucic-erken-genel-secimi-kaybettiklerini-s-22e40452/"
   },
   {
-   "id": "10d46d0e",
-   "title": "Sırbistan'da genel seçimlere rekor katılım: Öğrenci hareketi iktidarı değiştirebilecek mi?",
-   "summary": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gitti. Seçimler Sırbistan'ın geleceğine dair bir referandum olarak nitelendiriliyor. Seçime katılımın rekor düzeyde olduğu bildirildi.",
-   "link": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a379/live/0b1863f0-ce1c-11f1-906e-e3128518d85d.jpg",
-   "source": "BBC Turkish",
+   "id": "3f0ff1de",
+   "title": "İran Dışişleri Bakanlığı Sözcüsü Bekayi, ABD'yi tek taraflı taleplerinde ısrar etmekle suçladı",
+   "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ülkesinin müzakere masasını terk etmediğini ancak ABD'nin tek taraflı taleplerinde ısrar ettiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakanligi-sozcusu-bekayi-abdyi-tek-tarafli-taleplerinde-israr-etmekle-sucladi/4100485",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-25T20:44:26+00:00",
-   "url": "/haber/sirbistan-da-genel-secimlere-rekor-katilim-ogrenci-hareketi-iktidari-d-10d46d0e/"
+   "date": "2026-10-25T20:50:35+00:00",
+   "url": "/haber/iran-disisleri-bakanligi-sozcusu-bekayi-abd-yi-tek-tarafli-taleplerind-3f0ff1de/"
+  },
+  {
+   "id": "105cb9b9",
+   "title": "Milli sporcu Furkan Akar, Kısa Kulvar Sürat Pateni Dünya Turu'nda bronz madalya kazandı",
+   "summary": "Milli sporcu Furkan Akar, ISU Kısa Kulvar Sürat Pateni Dünya Turu'nun Kanada'da düzenlenen ilk ayağında bronz madalya aldı.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-sporcu-furkan-akar-kisa-kulvar-surat-pateni-dunya-turunda-bronz-madalya-kazandi/4100484",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T20:50:23+00:00",
+   "url": "/haber/milli-sporcu-furkan-akar-kisa-kulvar-surat-pateni-dunya-turu-nda-bronz-105cb9b9/"
+  },
+  {
+   "id": "3bd38c4b",
+   "title": "Putin: \"Avrupa'daki protestoların nedeni yönetimlerin kendi hataları\"",
+   "summary": "Rusya Devlet Başkanı Vladimir Putin, Avrupa'daki protestolara ilişkin ülkesine yönelik suçlamaları reddederek, \"Avrupa'daki protestoların nedeni yönetimlerin kendi hataları. Ekonomi ve finans dahil çeşitli alanlarda…",
+   "link": "https://www.aa.com.tr/tr/dunya/putin-avrupadaki-protestolarin-nedeni-yonetimlerin-kendi-hatalari/4100483",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T20:49:46+00:00",
+   "url": "/haber/putin-avrupa-daki-protestolarin-nedeni-yonetimlerin-kendi-hatalari-3bd38c4b/"
+  },
+  {
+   "id": "860c4a5c",
+   "title": "Ukrayna: Rusya, bir haftada yaklaşık 1600 güdümlü bomba, 48 füze ve 2300 İHA'yla saldırdı",
+   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rus ordusunun ülkesine yönelik saldırılarda son bir haftada yaklaşık 1600 güdümlü bomba, 48 füze ve 2300 insansız hava aracı (İHA) kullandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusya-bir-haftada-yaklasik-1600-gudumlu-bomba-48-fuze-ve-2300-ihayla-saldirdi/4100482",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T20:49:23+00:00",
+   "url": "/haber/ukrayna-rusya-bir-haftada-yaklasik-1600-gudumlu-bomba-48-fuze-ve-2300-860c4a5c/"
   },
   {
    "id": "88abbf9b",
@@ -310,28 +365,6 @@
    "url": "/haber/goztepe-arca-corum-fk-yi-2-0-maglup-etti-25587500/"
   },
   {
-   "id": "502a473e",
-   "title": "Çin'in Tibet Özerk Bölgesi'nde 5,7 büyüklüğünde deprem meydana geldi",
-   "summary": "Çin'in Tibet Özerk Bölgesi'nde 5,7 büyüklüğünde bir depremin meydana geldiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/cinin-tibet-ozerk-bolgesinde-5-7-buyuklugunde-deprem-meydana-geldi/4100372",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T17:01:24+00:00",
-   "url": "/haber/cin-in-tibet-ozerk-bolgesi-nde-5-7-buyuklugunde-deprem-meydana-geldi-502a473e/"
-  },
-  {
-   "id": "63eb5cdc",
-   "title": "Axios: Beyaz Saray, Netanyahu'nun seçim kampanyasına destek arayışını \"çaresizlik işareti\" olarak görüyor",
-   "summary": "Beyaz Saray'ın, İsrail Başbakanı Binyamin Netanyahu'nun seçim kampanyası için yürüttüğü lobi faaliyetlerini \"çaresizlik işareti\" olarak değerlendirdiği öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/axios-beyaz-saray-netanyahunun-secim-kampanyasina-destek-arayisini-caresizlik-isareti-olarak-goruyor/4100371",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T17:01:00+00:00",
-   "url": "/haber/axios-beyaz-saray-netanyahu-nun-secim-kampanyasina-destek-arayisini-ca-63eb5cdc/"
-  },
-  {
    "id": "e84c9c97",
    "title": "Apple Mağazalarında Kutu Açmadan İade Kontrolü Başladı",
    "summary": "Apple, mağazalardaki Apple Store iade dolandırıcılığı vakalarını azaltmak için kutu açmadan iPhone kontrolü sağlayan yeni bir sistem başlattı.",
@@ -398,28 +431,6 @@
    "url": "/haber/akin-gurlek-ten-fon-aciklamasi-gonullu-iade-hukuki-sorumlulugu-ortadan-78e3c18f/"
   },
   {
-   "id": "d618c512",
-   "title": "ABD Başkanı Trump'tan İran'a yeni ültimatom",
-   "summary": "ABD Başkanı Donald Trump, Tahran'a yeni bir ültimatom göndererek, ya İran'la anlaşma imzalayacaklarını ya da bu ülkeyi askeri olarak \"yok edeceklerini\" ifade etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-irana-yeni-ultimatom/4100358",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T16:09:59+00:00",
-   "url": "/haber/abd-baskani-trump-tan-iran-a-yeni-ultimatom-d618c512/"
-  },
-  {
-   "id": "a9d4c7ac",
-   "title": "Bakan Gürlek'ten fon soruşturmasına ilişkin açıklama",
-   "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmasına ilişkin, \"Gönüllü iade yapılması, tek başına hiçbir gerçek veya tüzel kişinin hukuki sorumluluğunu ortadan kaldırmaz.\" ifadelerini kullandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlekten-fon-sorusturmasina-iliskin-aciklama/4100355",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T16:01:29+00:00",
-   "url": "/haber/bakan-gurlek-ten-fon-sorusturmasina-iliskin-aciklama-a9d4c7ac/"
-  },
-  {
    "id": "ba64bea1",
    "title": "macOS Golden Gate ile Dokunmatik MacBook Pro Dönemi Başlıyor",
    "summary": "macOS Golden Gate ile gelecek dokunmatik arayüz özellikleri, MacBook Pro kullanıcılarına fare ve dokunmatik arasında geçiş kolaylığı sunuyor.",
@@ -462,17 +473,6 @@
    "category": "gundem",
    "date": "2026-10-25T15:54:28+00:00",
    "url": "/haber/bakan-gurlek-ten-fon-sorusturmasi-aciklamasi-yeni-mal-varligi-tedbirle-9c6c99cf/"
-  },
-  {
-   "id": "9993810b",
-   "title": "Milli güreşçi Yüksel Sarıçiçek, dünya ikincisi oldu",
-   "summary": "Kazakistan'da düzenlenen 2026 Dünya Güreş Şampiyonası'nda mücadele eden milli sporcu Yüksel Sarıçiçek, grekoromen stil 82 kiloda gümüş madalyanın sahibi oldu.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-guresci-yuksel-saricicek-dunya-ikincisi-oldu/4100346",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T15:49:09+00:00",
-   "url": "/haber/milli-guresci-yuksel-saricicek-dunya-ikincisi-oldu-9993810b/"
   },
   {
    "id": "a466c2a9",
