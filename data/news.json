@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-25T17:31:00.726074+00:00",
+ "updated": "2026-10-25T17:50:11.123221+00:00",
  "items": [
+  {
+   "id": "80e7da59",
+   "title": "İstanbul Barosu'nun yeni başkanı Ümit Kocasakal oldu",
+   "summary": "Dünyanın en büyük barolarından birisi olan İstanbul Barosu'nda 128. Olağan Genel Kurul kapsamında başkanlık seçimi için binlerce avukat sandık başındaydı. Cumhuriyetçi Güç Birliği Başkan Adayı Ümit Kocasakal, açılan 126…",
+   "link": "https://www.bbc.com/turkce/articles/cq8jz33m09j1o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2132/live/10699820-d09b-11f1-aeb2-977af36708cb.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-25T17:44:53+00:00",
+   "url": "/haber/istanbul-barosu-nun-yeni-baskani-umit-kocasakal-oldu-80e7da59/"
+  },
+  {
+   "id": "a537416b",
+   "title": "TUNGA-X'ten düşman unsuruna tam isabet. Saatte 300 kilometre hıza ulaşabiliyor",
+   "summary": "STM Savunma Teknolojileri Mühendislik ve Ticaret AŞ tarafından geliştirilen avcı İHA TUNGA-X, radar ve görüntü güdüm entegrasyonuyla temsili düşman İHA'sını tam isabetle vurdu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-tunga-xten-dusman-unsuruna-tam-isabet-saatte-300-kilometre-hiza-ulasabiliyor-1747946",
+   "image": "https://images.ntv.com.tr/images/AA-20261025-42863292-42863288-STMNIN_AVCI_IHASI_TUNGAX_DUSMAN_UNSURUNU_TAM_ISABETLE_IMHA_ETTI-994435.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-25T17:36:51+00:00",
+   "url": "/haber/tunga-x-ten-dusman-unsuruna-tam-isabet-saatte-300-kilometre-hiza-ulasa-a537416b/"
+  },
   {
    "id": "80ea684b",
    "title": "İnternetin yüzde 70'ine güç veren PHP, sadece 1 çalışanla ayakta kalıyor",
@@ -22,6 +44,17 @@
    "category": "gundem",
    "date": "2026-10-25T17:01:24+00:00",
    "url": "/haber/cin-in-tibet-ozerk-bolgesi-nde-5-7-buyuklugunde-deprem-meydana-geldi-502a473e/"
+  },
+  {
+   "id": "63eb5cdc",
+   "title": "Axios: Beyaz Saray, Netanyahu'nun seçim kampanyasına destek arayışını \"çaresizlik işareti\" olarak görüyor",
+   "summary": "Beyaz Saray'ın, İsrail Başbakanı Binyamin Netanyahu'nun seçim kampanyası için yürüttüğü lobi faaliyetlerini \"çaresizlik işareti\" olarak değerlendirdiği öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/axios-beyaz-saray-netanyahunun-secim-kampanyasina-destek-arayisini-caresizlik-isareti-olarak-goruyor/4100371",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T17:01:00+00:00",
+   "url": "/haber/axios-beyaz-saray-netanyahu-nun-secim-kampanyasina-destek-arayisini-ca-63eb5cdc/"
   },
   {
    "id": "e84c9c97",
@@ -198,17 +231,6 @@
    "category": "teknoloji",
    "date": "2026-10-25T15:30:00+00:00",
    "url": "/haber/abd-gizemli-isi-isini-silahini-gocmenler-uzerinde-test-edecek-b64fc4ad/"
-  },
-  {
-   "id": "422c5738",
-   "title": "İsrail seçim günü Batı Şeria geçişlerini kapatacak",
-   "summary": "İsrail ordusu, İsrail'de 27 Ekim Salı günü yapılacak genel seçimler sırasında Batı Şeria'daki tüm kara geçişlerinin kapatılacağını ve Filistinli işçilerin yerleşimlere girişinin yasaklanacağını duyurdu.",
-   "link": "https://www.bbc.com/turkce/articles/cwr5yz384gl3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f4c/live/6bafe280-d086-11f1-a701-fddedf244c16.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-25T15:16:54+00:00",
-   "url": "/haber/israil-secim-gunu-bati-seria-gecislerini-kapatacak-422c5738/"
   },
   {
    "id": "bd959316",
@@ -409,17 +431,6 @@
    "url": "/haber/tbmm-de-bu-hafta-mekke-savunma-anlasmasi-gorusmeleri-basliyor-5f973b7a/"
   },
   {
-   "id": "73aa3b28",
-   "title": "Hava bir anda değişecek. Sağanak geliyor, sıcaklık düşüyor",
-   "summary": "Yeni haftada yurdun batı kesiminden giriş yapacak kuvvetli sistem, salı ve çarşamba günü tüm yurdu esir alacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-hava-bir-anda-degisecek-saganak-geliyor-sicaklik-dusuyor-1747845",
-   "image": "https://images.ntv.com.tr/images/AA-20261015-42763827-42763826-ISTANBULDA_SAGANAK-562925-587671.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-25T13:54:37+00:00",
-   "url": "/haber/hava-bir-anda-degisecek-saganak-geliyor-sicaklik-dusuyor-73aa3b28/"
-  },
-  {
    "id": "f4a9c790",
    "title": "Türk Yıldızları Fethiye’de gösteri uçuşu yaptı",
    "summary": "Muğla'nın Fethiye ilçesinde düzenlenen 26. Uluslararası Ölüdeniz Hava Oyunları Festivali kapsamında, Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları, gösteri uçuşu gerçekleştirdi.",
@@ -429,17 +440,6 @@
    "category": "gundem",
    "date": "2026-10-25T13:47:56+00:00",
    "url": "/haber/turk-yildizlari-fethiye-de-gosteri-ucusu-yapti-f4a9c790/"
-  },
-  {
-   "id": "3f9880ff",
-   "title": "Mehmet Ayberk Koşak, Artistik Cimnastik Dünya Şampiyonası'nda 6'ncı oldu",
-   "summary": "Hollanda'da düzenlenen Artistik Cimnastik Dünya Şampiyonası'nda milli sporcu Mehmet Ayberk Koşak, halka aleti finalinde 13.800 puan alarak 6'ncı sırada yer aldı.",
-   "link": "https://www.aa.com.tr/tr/spor/mehmet-ayberk-kosak-artistik-cimnastik-dunya-sampiyonasinda-6nci-oldu/4100280",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T13:45:30+00:00",
-   "url": "/haber/mehmet-ayberk-kosak-artistik-cimnastik-dunya-sampiyonasi-nda-6-nci-old-3f9880ff/"
   },
   {
    "id": "ab2577a9",
