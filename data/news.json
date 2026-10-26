@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:30:59.132569+00:00",
+ "updated": "2026-10-26T00:01:11.314070+00:00",
  "items": [
   {
    "id": "d8d59cf7",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-25T23:30:00+00:00",
+   "date": "2026-10-26T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d8d59cf7/"
+  },
+  {
+   "id": "22b7f128",
+   "title": "Trump: \"Libya, yasa dışı göç için bir koridor olarak kalamaz\"",
+   "summary": "ABD Başkanı Donald Trump, iyi ilişkilere sahip olduklarını belirttiği Libya'nın \"artık yasa dışı göç için kullanılan bir koridor olmaması gerektiğini\" belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-libya-yasa-disi-goc-icin-bir-koridor-olarak-kalamaz/4100528",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T23:51:32+00:00",
+   "url": "/haber/trump-libya-yasa-disi-goc-icin-bir-koridor-olarak-kalamaz-22b7f128/"
+  },
+  {
+   "id": "372fb612",
+   "title": "Brezilya'da Lula ile Bolsonaro'nun başa baş yarıştığı seçimlerde oy sayımı başladı",
+   "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Seçmenler, görevdeki 80 yaşındaki solcu Luiz Inácio Lula da Silva ile 45 yaşındaki sağcı senatör Flávio Bolsonaro arasında…",
+   "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/653c/live/813b8c70-d05f-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-25T23:47:48+00:00",
+   "url": "/haber/brezilya-da-lula-ile-bolsonaro-nun-basa-bas-yaristigi-secimlerde-oy-sa-372fb612/"
   },
   {
    "id": "10d46d0e",
@@ -20,8 +42,19 @@
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab42/live/eccff960-d0ca-11f1-b86a-c167c5eb76b4.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-10-25T23:26:11+00:00",
+   "date": "2026-10-25T23:44:49+00:00",
    "url": "/haber/sirbistan-da-genel-secimler-iktidardaki-vucic-ogrenci-hareketine-yenil-10d46d0e/"
+  },
+  {
+   "id": "02eb4421",
+   "title": "ABD Başkanı Trump, İsrail Başbakanı Netanyahu'ya seçim desteğini yineledi",
+   "summary": "ABD Başkanı Donald Trump, İsrail'de yapılacak seçimler öncesinde Başbakan Binyamin Netanyahu'ya desteğini yineledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-israil-basbakani-netanyahuya-secim-destegini-yineledi/4100523",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T23:44:32+00:00",
+   "url": "/haber/abd-baskani-trump-israil-basbakani-netanyahu-ya-secim-destegini-yinele-02eb4421/"
   },
   {
    "id": "73603070",
@@ -167,17 +200,6 @@
    "url": "/haber/zelenskiy-toprak-meselesi-sadece-liderler-duzeyinde-gorusulebilecek-ki-88abbf9b/"
   },
   {
-   "id": "aef8adaa",
-   "title": "İsrailliler, ekim ayında Batı Şeria'daki Filistinli çiftçilere 482 saldırı düzenledi",
-   "summary": "İsraillilerin, ekim ayında işgal altındaki Batı Şeria'da Filistinli çiftçilere yönelik 482 saldırı gerçekleştirdiği belirtildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilliler-ekim-ayinda-bati-seriadaki-filistinli-ciftcilere-482-saldiri-duzenledi/4100463",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T20:30:17+00:00",
-   "url": "/haber/israilliler-ekim-ayinda-bati-seria-daki-filistinli-ciftcilere-482-sald-aef8adaa/"
-  },
-  {
    "id": "87a901e3",
    "title": "Efsane Zelda oyunu, yapay zekâ yardımıyla iPhone ve iPad'e geldi",
    "summary": "Yapay zeka, Nintendo 64 klasiği The Legend of Zelda: Ocarina of Time'ı iPhone ve iPad'e taşıdı. Üstelik oyun, emülatör olmadan 60 FPS hızında çalışabiliyor. Peki bu nasıl mümkün oldu?",
@@ -187,17 +209,6 @@
    "category": "teknoloji",
    "date": "2026-10-25T20:30:00+00:00",
    "url": "/haber/efsane-zelda-oyunu-yapay-zeka-yardimiyla-iphone-ve-ipad-e-geldi-87a901e3/"
-  },
-  {
-   "id": "c5d94bd2",
-   "title": "Sırbistan'daki erken genel seçimde oy kullanma işlemi sona erdi",
-   "summary": "Sırbistan'da bugün yapılan erken genel seçimde sabah yerel saatle 07.00'de başlayan oy kullanma işleminin sona erdiği belirtildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/sirbistandaki-erken-genel-secimde-oy-kullanma-islemi-sona-erdi/4100460",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T20:22:29+00:00",
-   "url": "/haber/sirbistan-daki-erken-genel-secimde-oy-kullanma-islemi-sona-erdi-c5d94bd2/"
   },
   {
    "id": "ccd01d3e",
@@ -748,17 +759,6 @@
    "category": "teknoloji",
    "date": "2026-10-25T11:00:50+00:00",
    "url": "/haber/fransa-daki-protestolarda-bitchat-kullanildi-iste-internetsiz-mesajlas-a3603576/"
-  },
-  {
-   "id": "372fb612",
-   "title": "Brezilya'da seçmenler Lula ile Jair Bolsonaro'nun oğlu arasında tercih yapacak",
-   "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gidiyor. Seçmenler, görevdeki 80 yaşındaki solcu Luiz Inácio Lula da Silva ile 45 yaşındaki sağcı senatör Flávio Bolsonaro arasında…",
-   "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/653c/live/813b8c70-d05f-11f1-a701-fddedf244c16.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-25T10:44:12+00:00",
-   "url": "/haber/brezilya-da-secmenler-lula-ile-jair-bolsonaro-nun-oglu-arasinda-tercih-372fb612/"
   },
   {
    "id": "781178dc",
