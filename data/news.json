@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T23:01:11.790437+00:00",
+ "updated": "2026-10-26T23:30:57.958868+00:00",
  "items": [
   {
    "id": "c60e4ea6",
@@ -9,7 +9,7 @@
    "image": "",
    "source": "Teknoloji Haberleri – ShiftDelete.Net",
    "category": "teknoloji",
-   "date": "2026-10-26T23:01:04.106030+00:00",
+   "date": "2026-10-26T23:30:51.237256+00:00",
    "url": "/haber/apple-ios-27-2-guncellemesini-yayinladi-iste-yeni-ozellikler-c60e4ea6/"
   },
   {
@@ -20,30 +20,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-26T23:00:00+00:00",
+   "date": "2026-10-26T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c905449/"
-  },
-  {
-   "id": "4f1a8807",
-   "title": "Ballon d'Or 2026: Altın Top'un sahibi Harry Kane oldu",
-   "summary": "Futbol dünyasının en prestijli ödüllerinden sayılan Ballon d'Or (Altın Top) 2026 ödül töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapıldı. En iyi erkek futbolcu kategorisinde ödülün sahibi Bayern…",
-   "link": "https://www.bbc.com/turkce/articles/c60qk31pgx2do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ed3/live/1c4adc80-d190-11f1-8c41-0bbbeafdc6d4.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-26T22:58:01+00:00",
-   "url": "/haber/ballon-d-or-2026-altin-top-un-sahibi-harry-kane-oldu-4f1a8807/"
   },
   {
    "id": "5439c965",
    "title": "Antalya'da hortum işçi konteynerini parçaladı. 4 işçi öldü, 1 işçi yaralandı",
    "summary": "Antalya'nın Kepez ilçesinde etkili olan hortumda parçalanan iki konteynerde bulunan 4 işçi hayatını kaybetti, 1 işçi yaralandı.",
    "link": "https://www.ntv.com.tr/turkiye/antalyada-hortum-isci-konteynerini-parcaladi-4-isci-oldu-1-isci-yaralandi-1748105",
-   "image": "https://images.ntv.com.tr/images/AA-20261026-42874546-42874544-ANTALYADA_HORTUM_NEDENIYLE_PARCALANAN_KONTEYNERLERDEKI_4_ISCI_OLDU_1_ISCI_YARALANDI-437014.jpg",
+   "image": "https://images.ntv.com.tr/images/AA-20261026-42874591-42874589-ANTALYADA_HORTUM_NEDENIYLE_PARCALANAN_KONTEYNERLERDEKI_4_ISCI_OLDU_1_ISCI_YARALANDI-399464.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-26T22:50:59+00:00",
+   "date": "2026-10-26T23:27:41+00:00",
    "url": "/haber/antalya-da-hortum-isci-konteynerini-parcaladi-4-isci-oldu-1-isci-yaral-5439c965/"
+  },
+  {
+   "id": "4f1a8807",
+   "title": "Ballon d'Or 2026: Altın Top'un sahibi Harry Kane oldu",
+   "summary": "Futbol dünyasının en prestijli ödüllerinden sayılan Ballon d'Or (Altın Top) 2026 ödül töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapıldı. En iyi erkek futbolcu kategorisinde ödülün sahibi Bayern…",
+   "link": "https://www.bbc.com/turkce/articles/c60qk31pgx2do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cdef/live/106825c0-d191-11f1-8c41-0bbbeafdc6d4.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-26T23:20:18+00:00",
+   "url": "/haber/ballon-d-or-2026-altin-top-un-sahibi-harry-kane-oldu-4f1a8807/"
   },
   {
    "id": "9d15a286",
