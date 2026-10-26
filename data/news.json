@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-26T19:31:10.158692+00:00",
+ "updated": "2026-10-26T20:01:12.184922+00:00",
  "items": [
+  {
+   "id": "29536e82",
+   "title": "Starlink, Brezilya’da Şebeke Olmayan Yerlerde Telefonları Uyduya Bağladı",
+   "summary": "SpaceX’in uydu internet şirketi Starlink, cep telefonlarını doğrudan uydulara bağlayan Starlink Mobile hizmetini Brezilya’da ülke genelinde kullanıma açtı. Şirketin pazartesi günü X üzerinden yaptığı açıklamaya göre…",
+   "link": "https://shiftdelete.net/starlink-mobile-brezilya-vivo",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-26T19:57:03+00:00",
+   "url": "/haber/starlink-brezilya-da-sebeke-olmayan-yerlerde-telefonlari-uyduya-baglad-29536e82/"
+  },
+  {
+   "id": "4fa908b7",
+   "title": "Dünyanın en büyük elektrikli gemisi sefere başladı: 250 ton bataryaya sahip",
+   "summary": "Dünyanın en büyük elektrikli gemisi China Zorrilla, Güney Amerika’da ticari seferlerine başladı. 130 metrelik feribot, 250 tonu aşan bataryalarıyla 2.100 yolcu ve 225 araç taşıma kapasitesine sahip.",
+   "link": "https://www.donanimhaber.com/dunyanin-en-buyuk-elektrikli-gemisi-sefere-basladi--212110",
+   "image": "https://www.donanimhaber.com/images/images/haber/212110/1200x675dunyanin-en-buyuk-elektrikli-gemisi-sefere-basladi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-26T19:52:00+00:00",
+   "url": "/haber/dunyanin-en-buyuk-elektrikli-gemisi-sefere-basladi-250-ton-bataryaya-s-4fa908b7/"
+  },
+  {
+   "id": "e43e0f4f",
+   "title": "OpenAI’ın Yeni Modeli GPT-6.1 Terra, Bilgisayarı Sizin Yerinize Kullanabiliyor",
+   "summary": "OpenAI, bilgisayar kullanımı ve görsel muhakeme odaklı yeni yapay zeka modeli GPT-6.1 Terra’yı tanıttı. Şirket, modelin ekrandaki içeriği anlayabildiğini, uygulamalar arasında işlem yapabildiğini ve daha doğal bir dille…",
+   "link": "https://shiftdelete.net/openai-gpt-6-1-terra",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-26T19:47:39+00:00",
+   "url": "/haber/openai-in-yeni-modeli-gpt-6-1-terra-bilgisayari-sizin-yerinize-kullana-e43e0f4f/"
+  },
+  {
+   "id": "41968a7a",
+   "title": "Apple: “Siri AI, yıl sonuna kadar Türkçe dil desteği kazanacak”",
+   "summary": "Apple’dan bu konuda yapılan resmi açıklamada, “iOS 27.2 yazılım güncellemeleriyle birlikte, Siri’nin çok daha yetenekli, etkileşimli ve kişisel olan yepyeni sürümü Siri AI; Fransızca, İspanyolca, Japonca, Korece ve…",
+   "link": "https://www.log.com.tr/apple-siri-ai-yil-sonuna-kadar-turkce-dil-destegi-kazanacak/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/06/Siri-AI_FHD-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-26T19:42:30+00:00",
+   "url": "/haber/apple-siri-ai-yil-sonuna-kadar-turkce-dil-destegi-kazanacak-41968a7a/"
+  },
   {
    "id": "b303e1cc",
    "title": "ASUS'tan yılın beklenen oyununa özel 4700 dolarlık Mini PC",
@@ -11,6 +55,17 @@
    "category": "teknoloji",
    "date": "2026-10-26T19:30:00+00:00",
    "url": "/haber/asus-tan-yilin-beklenen-oyununa-ozel-4700-dolarlik-mini-pc-b303e1cc/"
+  },
+  {
+   "id": "4d51684d",
+   "title": "AB ülkeleri, Ukrayna için 4,9 milyar avroluk fonun serbest bırakılmasında anlaştı",
+   "summary": "Avrupa Birliği (AB) üyesi ülkeler, Ukrayna'ya askeri destek sağlamak amacıyla Avrupa Barış Fonu (EPF) kapsamında 4,9 milyar avroluk fonun serbest bırakılmasında anlaştı.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-ulkeleri-ukrayna-icin-4-9-milyar-avroluk-fonun-serbest-birakilmasinda-anlasti/4101737",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-26T19:29:55+00:00",
+   "url": "/haber/ab-ulkeleri-ukrayna-icin-4-9-milyar-avroluk-fonun-serbest-birakilmasin-4d51684d/"
   },
   {
    "id": "b7ec7d16",
@@ -442,17 +497,6 @@
    "url": "/haber/hepsiburada-nin-efsane-kasim-kampanyasi-simdiden-basladi-iste-indiriml-1bd34a76/"
   },
   {
-   "id": "2fc1afac",
-   "title": "Çin, 74 bin tonluk yüzer ada inşa ediyor: Türünün ilk örneği olacak",
-   "summary": "Çin, 413 milyon dolarlık yatırımla 74 bin tonluk yüzer araştırma platformu inşa ediyor. Altı laboratuvara ve 238 kişilik kapasiteye sahip tesisin 2030’da teslim edilmesi planlanıyor.",
-   "link": "https://www.donanimhaber.com/cin-74-bin-tonluk-turunun-ilk-ornegi-yuzer-ada-insa-ediyor--212112",
-   "image": "https://www.donanimhaber.com/images/images/haber/212112/1200x675cin-74-bin-tonluk-turunun-ilk-ornegi-yuzer-ada-insa-ediyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-26T16:09:00+00:00",
-   "url": "/haber/cin-74-bin-tonluk-yuzer-ada-insa-ediyor-turunun-ilk-ornegi-olacak-2fc1afac/"
-  },
-  {
    "id": "1f0383e3",
    "title": "Hazine ve Maliye Bakanlığından Merrill Lynch Bankasına yönelik iddialara ilişkin açıklama",
    "summary": "Hazine ve Maliye Bakanlığınca, \"Sayın Bakanımızın, yıllar önce çalışıp ayrıldığı bir kurum üzerinden asılsız iddialarla töhmet altında bırakılma gayretleri kabul edilemez.\" ifadesi kullanıldı.",
@@ -473,17 +517,6 @@
    "category": "gundem",
    "date": "2026-10-26T15:58:26+00:00",
    "url": "/haber/turkiye-libya-dan-sonra-misir-la-da-deniz-yetki-alanlari-icin-anlasabi-97f3df88/"
-  },
-  {
-   "id": "f7cf149b",
-   "title": "BM: 2005'ten bu yana silahlı çatışmalarda çocuklara karşı 430 binden fazla ihlal oldu",
-   "summary": "UNICEF İcra Direktörü Catherine Russell, 2005'ten bu yana BM'nin silahlı çatışmalarda çocuklara karşı işlenen 430 binden fazla ağır ihlali teyit ettiğini belirterek, teyit edilmemiş gerçek boyutun ise çok daha büyük…",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-2005ten-bu-yana-silahli-catismalarda-cocuklara-karsi-430-binden-fazla-ihlal-oldu/4101494",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-26T15:54:36+00:00",
-   "url": "/haber/bm-2005-ten-bu-yana-silahli-catismalarda-cocuklara-karsi-430-binden-fa-f7cf149b/"
   },
   {
    "id": "0a4ebc27",
@@ -860,17 +893,6 @@
    "url": "/haber/abd-deki-gorkemli-bir-malikane-kucuk-cocuklar-icin-nasil-korku-evi-ne-d99fdadb/"
   },
   {
-   "id": "7eff7080",
-   "title": "TCMB duyurdu: “EVDS verilerine yapay zeka araçları üzerinden kolayca erişilebilmesine imkan sağlayan EVDS-MCP devreye alınmıştır.”",
-   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Elektronik Veri Dağıtım Sistemi (EVDS) verilerine yapay zeka araçları üzerinden kolayca erişilebilmesine imkan sağlayan “EVDS-MCP” altyapısının devreye alındığını duyurdu. Bu…",
-   "link": "https://www.log.com.tr/tcmb-duyurdu-evds-verilerine-yapay-zeka-araclari-uzerinden-kolayca-erisilebilmesine-imkan-saglayan-evds-mcp-devreye-alinmistir/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-26_15-35-08_oQf3k-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-26T12:36:39+00:00",
-   "url": "/haber/tcmb-duyurdu-evds-verilerine-yapay-zeka-araclari-uzerinden-kolayca-eri-7eff7080/"
-  },
-  {
    "id": "b6ce2ce4",
    "title": "35 ilde siber suç operasyonu. 75 tutuklama",
    "summary": "İçişleri Bakanlığı, 35 ilde düzenlenen siber suçlarla mücadele operasyonlarında yakalanan 275 şüpheliden 75'inin tutuklandığını açıkladı.",
@@ -893,17 +915,6 @@
    "url": "/haber/tsk-10-yilda-10-milyon-kamikaze-iha-uretecek-b9d8a8c9/"
   },
   {
-   "id": "51e1495b",
-   "title": "PSP 3 PS5 Gibi Güçlü Olabilir",
-   "summary": "Sony'nin merakla beklenen PSP 3 konsolu, RDNA 5 grafik mimarisi ve özel PSSR donanımıyla oyun dünyasında çığır açmaya hazırlanıyor. İşte detaylar.",
-   "link": "https://shiftdelete.net/psp-3-ps5-gibi-guclu-olabilir",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-26T12:23:44+00:00",
-   "url": "/haber/psp-3-ps5-gibi-guclu-olabilir-51e1495b/"
-  },
-  {
    "id": "c4444999",
    "title": "İstanbul'da sel alarmı. Saat verildi, bu ilçelerde yaşayanlar dikkat",
    "summary": "İstanbul'da yeniden kuvvetli yağış uyarısı var. Megakentte özellikle yarın 05.00-10.00 saatleri arasında şiddetli sağanak bekleniyor.",
@@ -913,17 +924,6 @@
    "category": "gundem",
    "date": "2026-10-26T12:11:28+00:00",
    "url": "/haber/istanbul-da-sel-alarmi-saat-verildi-bu-ilcelerde-yasayanlar-dikkat-c4444999/"
-  },
-  {
-   "id": "e0ee5849",
-   "title": "CleanYourTV 3.0 ile Android TV Hız Canavarı Oluyor",
-   "summary": "CleanYourTV 3.0, 300'den fazla Android ve Google TV modelinde reklamları ve bloatware uygulamalarını kaldırmanıza olanak tanıyan yeni özelliklerle güncellendi.",
-   "link": "https://shiftdelete.net/cleanyourtv-3-0-ile-android-tv-hiz-canavari-oluyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-26T12:01:12+00:00",
-   "url": "/haber/cleanyourtv-3-0-ile-android-tv-hiz-canavari-oluyor-e0ee5849/"
   },
   {
    "id": "a01ad416",
