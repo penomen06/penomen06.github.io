@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-26T18:01:15.249077+00:00",
+ "updated": "2026-10-26T18:31:04.230894+00:00",
  "items": [
+  {
+   "id": "a4cd1431",
+   "title": "Fon soruşturmasında Nusret Altınbaş ve Erman Çete tutuklandı",
+   "summary": "Fon soruşturması kapsamında Altınbaş Holding'in sahibi Nusret Altınbaş ve eski SPK Daire Başkanı Erman Çete tutuklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-altinbas-holdingin-sahibi-nusret-altinbas-hakkinda-tutuklama-talebi-1748071",
+   "image": "https://images.ntv.com.tr/images/nusretalınbascopy2-579018.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-26T18:25:31+00:00",
+   "url": "/haber/fon-sorusturmasinda-nusret-altinbas-ve-erman-cete-tutuklandi-a4cd1431/"
+  },
+  {
+   "id": "1e790d80",
+   "title": "macOS Golden Gate 27.2 yayınlandı: İşte yenilikler",
+   "summary": "Apple, Eylül ayında kullanıma sunulan macOS 27 işletim sisteminin ilk büyük güncellemesi olan macOS Golden Gate 27.2'yi yayınladı. İşte yeni sürümle Mac'lere gelen yenilikler:",
+   "link": "https://www.donanimhaber.com/macos-27-2-yayinlandi-iste-mac-lere-gelen-yenilikler--212126",
+   "image": "https://www.donanimhaber.com/images/images/haber/212126/1200x675macos-27-2-yayinlandi-iste-mac-lere-gelen-yenilikler.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-26T18:24:37+00:00",
+   "url": "/haber/macos-golden-gate-27-2-yayinlandi-iste-yenilikler-1e790d80/"
+  },
+  {
+   "id": "7a186240",
+   "title": "Türkiye'nin rüzgar enerjisi kapasitesi 9 ayda sadece 766 MW arttı",
+   "summary": "Türkiye'nin rüzgar enerjisi kurulu gücü, 2026'nın ilk dokuz ayında 15.540 MW'a ulaştı. Rüzgarın toplam elektrik kurulu gücündeki payı ise yüzde 12,2'ye yükseldi.",
+   "link": "https://www.donanimhaber.com/turkiye-nin-ruzgar-enerjisi-kapasitesi-9-ayda-sadece-766-mw-artti--212107",
+   "image": "https://www.donanimhaber.com/images/images/haber/212107/1200x675turkiye-nin-ruzgar-enerjisi-kapasitesi-9-ayda-sadece-766-mw-artti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-26T18:21:00+00:00",
+   "url": "/haber/turkiye-nin-ruzgar-enerjisi-kapasitesi-9-ayda-sadece-766-mw-artti-7a186240/"
+  },
   {
    "id": "51d3f50d",
    "title": "400 bin dolarlık lüks karavan: Menzil uzatıcı sistemle 724 km kat edebiliyor",
@@ -123,6 +156,17 @@
    "url": "/haber/poco-x8s-tanitildi-kompakt-tasarim-ve-100w-hizli-sarj-dbc215a2/"
   },
   {
+   "id": "f3392775",
+   "title": "Trabzonspor, deplasmanda Çaykur Rizespor'u yendi",
+   "summary": "Trendyol Süper Lig'in 9. haftasında Trabzonspor, deplasmanda Çaykur Rizespor'u 4-3 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-deplasmanda-caykur-rizesporu-yendi/4101631",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-26T17:08:58+00:00",
+   "url": "/haber/trabzonspor-deplasmanda-caykur-rizespor-u-yendi-f3392775/"
+  },
+  {
    "id": "7f8156ff",
    "title": "SpaceX, yaklaşık 40 milyar dolarlık çip finansmanı için anlaşmaya vardı",
    "summary": "ABD'li uzay ve havacılık şirketi SpaceX, yapay zeka altyapısını genişletmek amacıyla yaklaşık 40 milyar dolarlık grafik işlem birimi (GPU) ve ilgili ekipman finansmanı için varlık yönetim şirketi Apollo Global…",
@@ -145,6 +189,17 @@
    "url": "/haber/vatikan-akciger-ameliyati-geciren-papa-nin-kasimda-guney-amerika-ya-gi-474feb04/"
   },
   {
+   "id": "bc3e2c2d",
+   "title": "Beşiktaş, ligde yoluna galibiyetle devam ediyor",
+   "summary": "Beşiktaş, Trendyol Süper Lig'in 9. haftasında İstanbul Başakşehir'i 2-0 yenerek puanını 18'e yükseltti.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-ligde-yoluna-galibiyetle-devam-ediyor/4101611",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-26T16:54:55+00:00",
+   "url": "/haber/besiktas-ligde-yoluna-galibiyetle-devam-ediyor-bc3e2c2d/"
+  },
+  {
    "id": "0bef88d2",
    "title": "Mühendislerin işini değiştirebilecek yapay zeka: SKY-001 tanıtıldı",
    "summary": "Skyfall, tek bir görüntüden karmaşık mühendislik tasarımları oluşturabilen SKY-001 modelini tanıttı. Model, CAD ve BIM testlerinde rakiplerini hız ve maliyet açısından geride bıraktı.",
@@ -154,17 +209,6 @@
    "category": "teknoloji",
    "date": "2026-10-26T16:51:00+00:00",
    "url": "/haber/muhendislerin-isini-degistirebilecek-yapay-zeka-sky-001-tanitildi-0bef88d2/"
-  },
-  {
-   "id": "a4cd1431",
-   "title": "Fon soruşturmasında Altınbaş Holding'in sahibi Nusret Altınbaş tutuklandı",
-   "summary": "Fon soruşturması kapsamında gözaltına alınan Altınbaş Holding'in sahibi Nusret Altınbaş tutuklandı. Eski SPK Daire Başkanı Erman Çete için de tutuklama talep edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-altinbas-holdingin-sahibi-nusret-altinbas-hakkinda-tutuklama-talebi-1748071",
-   "image": "https://images.ntv.com.tr/images/nusretalınbas-996407.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-26T16:41:21+00:00",
-   "url": "/haber/fon-sorusturmasinda-altinbas-holding-in-sahibi-nusret-altinbas-tutukla-a4cd1431/"
   },
   {
    "id": "59418a14",
@@ -420,28 +464,6 @@
    "url": "/haber/bu-elektrikli-katlanir-bisiklet-lidar-sensoruyle-cevresini-tarayabiliy-ca5626c9/"
   },
   {
-   "id": "3668b22b",
-   "title": "Meteorolojiden İstanbul'un da aralarında bulunduğu 11 il için sarı ve turuncu kodlu uyarı",
-   "summary": "Meteoroloji Genel Müdürlüğü (MGM), yarın beklenen kuvvetli yağış nedeniyle İstanbul'un da aralarında bulunduğu 11 il için sarı ve turuncu kodlu uyarıda bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-istanbulun-da-aralarinda-bulundugu-11-il-icin-sari-ve-turuncu-kodlu-uyari/4101440",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-26T14:45:18+00:00",
-   "url": "/haber/meteorolojiden-istanbul-un-da-aralarinda-bulundugu-11-il-icin-sari-ve-3668b22b/"
-  },
-  {
-   "id": "6d53e59a",
-   "title": "Türkiye-AB Karma Parlamento Komisyonu 82. Toplantısı yapıldı",
-   "summary": "KPK Eş Başkanı, AK Parti İstanbul Milletvekili Karayel, \"Avrupa'nın güvenlik mimarisinin yeniden şekillendiği bir dönemde, Türkiye gibi Avrupa'nın güvenliği açısından kritik öneme haiz bir ülkenin dışlanmaması…",
-   "link": "https://www.aa.com.tr/tr/dunya/turkiye-ab-karma-parlamento-komisyonu-82-toplantisi-yapildi/4101437",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-26T14:44:36+00:00",
-   "url": "/haber/turkiye-ab-karma-parlamento-komisyonu-82-toplantisi-yapildi-6d53e59a/"
-  },
-  {
    "id": "55770fc4",
    "title": "Apple’dan Türkiye’deki Tüm iPad Modellerine Sürpriz Zam: İşte Güncel Fiyatlar",
    "summary": "Apple Türkiye, ürün gamında gerçekleştirdiği fiyat güncellemesiyle tüm iPad modellerinin etiketlerini yukarı taşıdı. Yeni iPad Mini modelinin resmi olarak tanıtılmasıyla eş zamanlı olarak gerçekleşen bu fiyat artışı,…",
@@ -495,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-10-26T14:15:00+00:00",
    "url": "/haber/apple-dan-tum-ipad-modellerine-surpriz-zam-iste-yeni-fiyatlar-4dae7b9f/"
-  },
-  {
-   "id": "9dadb9de",
-   "title": "Geely’den 8.410 dolarlık sedan: Yenilenen Emgrand satışa çıktı",
-   "summary": "Geely, yenilenen Emgrand’ı Çin’de 8.410 dolardan başlayan kampanyalı fiyatlarla satışa sundu. Sedan, güncellenen tasarımı ve 12,8 inçlik ekranıyla gelirken 1,5 litrelik motorunu kullanmayı sürdürüyor.",
-   "link": "https://www.donanimhaber.com/geely-den-8-410-dolarlik-sedan-yenilenen-emgrand-satisa-cikti--212102",
-   "image": "https://www.donanimhaber.com/images/images/haber/212102/1200x675geely-den-8-410-dolarlik-sedan-yenilenen-emgrand-satisa-cikti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-26T14:10:00+00:00",
-   "url": "/haber/geely-den-8-410-dolarlik-sedan-yenilenen-emgrand-satisa-cikti-9dadb9de/"
   },
   {
    "id": "44fdc72a",
@@ -583,17 +594,6 @@
    "category": "teknoloji",
    "date": "2026-10-26T13:50:41+00:00",
    "url": "/haber/anthropic-halka-arz-icin-resmi-basvuruyu-yapti-330a5701/"
-  },
-  {
-   "id": "7228b86e",
-   "title": "Windows 11’in internet hız testi Bing’ten kurtuluyor",
-   "summary": "Windows 11, internet hız testi özelliğini yeniliyor. Yeni sistemle indirme ve yükleme hızları ile ping değeri, Bing açılmadan doğrudan Hızlı Ayarlar menüsünden görüntülenebiliyor.",
-   "link": "https://www.donanimhaber.com/windows-11-in-internet-hiz-testi-bing-ten-kurtuluyor--212080",
-   "image": "https://www.donanimhaber.com/images/images/haber/212080/1200x675windows-11-in-internet-hiz-testi-bing-ten-kurtuluyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-26T13:48:00+00:00",
-   "url": "/haber/windows-11-in-internet-hiz-testi-bing-ten-kurtuluyor-7228b86e/"
   },
   {
    "id": "35bca452",
