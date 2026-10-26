@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-26T07:31:03.078647+00:00",
+ "updated": "2026-10-26T07:43:49.901371+00:00",
  "items": [
+  {
+   "id": "b2c0c6be",
+   "title": "Boğaz'da MLBB Kutlaması",
+   "summary": "İstanbul'da dev geri sayım: Yüzlerce oyunsever MLBB'nin 10. Yıl Dönümünü kutlamak için İstanbul Boğazı kıyısına akın etti.",
+   "link": "https://www.webtekno.com/bogaz-mlbb-kutlamasi-dev-espor-dunya-sampiyonasi-oyun-dunyasi-istanbul-da-h227750.html",
+   "image": "https://imgrosetta.webtekno.com/file/694339/694339-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-26T07:37:04+00:00",
+   "url": "/haber/bogaz-da-mlbb-kutlamasi-b2c0c6be/"
+  },
+  {
+   "id": "6a8d273d",
+   "title": "Sırbistan'da Öğrenci Listesi seçim galibiyetini kutladı",
+   "summary": "Sırbistan'da dün yapılan erken genel seçimde resmi olmayan sonuçlara göre galibiyetini ilan eden Öğrenci Listesinin zaferi ülke genelinde kutlandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-ogrenci-listesi-secim-galibiyetini-kutladi/4100742",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-26T07:33:40+00:00",
+   "url": "/haber/sirbistan-da-ogrenci-listesi-secim-galibiyetini-kutladi-6a8d273d/"
+  },
+  {
+   "id": "be70d630",
+   "title": "Samsung’un yeni çipi Exynos 2700, Qualcomm'un en güçlü işlemcisini geride bıraktı",
+   "summary": "İddialara göre Samsung'un yeni Exynos 2700 işlemcisi, şirketin dahili testlerinde Qualcomm'un amiral gemisi Snapdragon modelini yüzde 20'ye varan oranlarda geride bıraktı.",
+   "link": "https://www.donanimhaber.com/exynos-2700-qualcomm-un-en-guclu-islemcisini-geride-birakti--212076",
+   "image": "https://www.donanimhaber.com/images/images/haber/212076/1200x675exynos-2700-qualcomm-un-en-guclu-islemcisini-geride-birakti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-26T07:32:00+00:00",
+   "url": "/haber/samsung-un-yeni-cipi-exynos-2700-qualcomm-un-en-guclu-islemcisini-geri-be70d630/"
+  },
+  {
+   "id": "0a4ebc27",
+   "title": "Mekke İttifakı'nin İran ile ilk teması bugün: Türkiye'yi Kalın temsil edecek",
+   "summary": "İranlı ve Suudi yetkililerin verdiği bilgiye göre, Suudi Arabistan, Türkiye ve Pakistan'dan üst düzey yetkililer, bölgesel güvenlik konularını görüşmek üzere bugün Tahran'da İranlı yetkililerle bir araya gelecek.",
+   "link": "https://www.bbc.com/turkce/articles/c3x2w09gn4lwo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c44/live/860296e0-d10e-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-26T07:30:03+00:00",
+   "url": "/haber/mekke-ittifaki-nin-iran-ile-ilk-temasi-bugun-turkiye-yi-kalin-temsil-e-0a4ebc27/"
+  },
   {
    "id": "d8d59cf7",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Ekim 2026",
@@ -33,6 +77,17 @@
    "category": "teknoloji",
    "date": "2026-10-26T07:26:48+00:00",
    "url": "/haber/gta-6-cikisina-sayili-gunler-kala-spoiler-korkusu-856ad6e2/"
+  },
+  {
+   "id": "db512723",
+   "title": "NBA'de Lakers, Luka Doncic'in 52 sayı attığı maçı kazanarak 3'te 3 yaptı",
+   "summary": "Doncic, Lakers tarihinde bir maçta en az 50 sayı, 10 asist, 5 ribaunt ve 5 üç sayı isabeti kaydeden ilk oyuncu oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/nbade-lakers-luka-doncicin-52-sayi-attigi-maci-kazanarak-3te-3-yapti/4100726",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-26T07:25:50+00:00",
+   "url": "/haber/nba-de-lakers-luka-doncic-in-52-sayi-attigi-maci-kazanarak-3-te-3-yapt-db512723/"
   },
   {
    "id": "81a9215d",
@@ -202,7 +257,7 @@
   {
    "id": "64f56e15",
    "title": "DLSS 5’in performansını artırmak için “foveated rendering” teknolojisinden ilham alan modlar hazırlandı",
-   "summary": "Valve’ın yeni sanal gerçeklik başlığı Steam Frame’de de yer alan, şirketin Türkçeye “odağa göre görüntü akışı” olarak çevirdiği “foveated streaming” teknolojisi, göz takibi sayesinde kullanıcının baktığı noktayı…",
+   "summary": "Valve’in yeni sanal gerçeklik başlığı Steam Frame’de de yer alan, şirketin Türkçeye “odağa göre görüntü akışı” olarak çevirdiği “foveated streaming” teknolojisi, göz takibi sayesinde kullanıcının baktığı noktayı…",
    "link": "https://www.log.com.tr/dlss-5in-performansini-artirmak-icin-foveated-rendering-teknolojisinden-ilham-alan-modlar-hazirlandi/",
    "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-26_09-32-42_B67JE-660x371.jpg",
    "source": "LOG Teknoloji Haberleri",
@@ -376,17 +431,6 @@
    "url": "/haber/tcmb-den-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim-b6827c98/"
   },
   {
-   "id": "e1d78477",
-   "title": "Küresel piyasalar Fed haftasına karışık seyirle başladı",
-   "summary": "Küresel piyasalar, devam eden jeopolitik riskler ve teknoloji şirketlerinin hisselerindeki satış baskısının sürmesiyle haftaya karışık seyirle başlarken, gözler bu hafta ABD Merkez Bankasının (Fed) faiz kararına…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-fed-haftasina-karisik-seyirle-basladi/4100611",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-26T06:05:25+00:00",
-   "url": "/haber/kuresel-piyasalar-fed-haftasina-karisik-seyirle-basladi-e1d78477/"
-  },
-  {
    "id": "5c2ffdb9",
    "title": "Logitech Pebble Up Tanıtıldı: Katlanabilir Kablosuz Fare",
    "summary": "Logitech Pebble Up özellikleri ve fiyatı belli oldu. Şarj edilebilir pili ve katlanabilir tasarımıyla öne çıkan yeni kablosuz fareyi inceleyin.",
@@ -407,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-10-26T05:58:33+00:00",
    "url": "/haber/skoda-3d-yazicilarla-uretilebilen-otomobil-aksesuarlarini-kullanicilar-431574f2/"
-  },
-  {
-   "id": "af4d1591",
-   "title": "Rusya: Ukrayna'da askeri depo, liman, gemi ve enerji tesislerini vurduk",
-   "summary": "Rusya Savunma Bakanlığı, Ukrayna'da askeri depo, liman, gemi ve enerji tesislerini vurduklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-askeri-depo-liman-gemi-ve-enerji-tesislerini-vurduk/4100596",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-26T05:55:16+00:00",
-   "url": "/haber/rusya-ukrayna-da-askeri-depo-liman-gemi-ve-enerji-tesislerini-vurduk-af4d1591/"
   },
   {
    "id": "f580833a",
@@ -915,17 +948,6 @@
    "url": "/haber/siper-yeni-kabiliyetini-basariyla-test-etti-ab2577a9/"
   },
   {
-   "id": "afb38943",
-   "title": "Katlanabilir iPhone parçalarına ayrıldı: İşte çift batarya tasarımı",
-   "summary": "Apple'ın ilk katlanabilir telefonu iPhone Duo'nun kutu açılımı, incelemeleri ve dayanıklılık testlerinin ardından şimdi de iç tasarımı merak edenler için parçalarına ayırma (teardown) videoları geldi.",
-   "link": "https://www.donanimhaber.com/iphone-duo-parcalarina-ayrildi-iste-cift-batarya-tasarimi--212052",
-   "image": "https://www.donanimhaber.com/images/images/haber/212052/1200x675iphone-duo-parcalarina-ayrildi-iste-cift-batarya-tasarimi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-25T13:30:00+00:00",
-   "url": "/haber/katlanabilir-iphone-parcalarina-ayrildi-iste-cift-batarya-tasarimi-afb38943/"
-  },
-  {
    "id": "533827f4",
    "title": "Binyamin Netanyahu: 'Bay Güvenlik' İsrail'de yedinci kez başbakan olabilir mi?",
    "summary": "İsrail'in en uzun süre görev yapan başbakanı, 27 Ekim'de yapılacak parlamento seçimlerinde bir dönem daha görevde kalmayı umuyor.",
@@ -1234,17 +1256,6 @@
    "url": "/haber/tecno-freehear-2-turkiye-de-iste-fiyati-77d9f4a2/"
   },
   {
-   "id": "1854c229",
-   "title": "DNA’nızla Konuşmak İster Miydiniz? Buyurunuz, Carbon-X!",
-   "summary": "Hugging Face’in yayımladığı Carbon-X, DNA dizilimleri hakkında soru sorup yanıtları doğal dilde almanızı sağlıyor. Genetik kodları bir sohbetin konusu yapan model, kendi bilgisayarınızda internetsiz de çalışabiliyor.",
-   "link": "https://www.webtekno.com/dna-sohbet-yapay-zeka-carbon-x-h227803.html",
-   "image": "https://imgrosetta.webtekno.com/file/694480/694480-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-23T12:56:21+00:00",
-   "url": "/haber/dna-nizla-konusmak-ister-miydiniz-buyurunuz-carbon-x-1854c229/"
-  },
-  {
    "id": "5f891942",
    "title": "Brezilya seçimlerinde yapay zeka ile yaratılan kadınlar üzerinden para kazananlar",
    "summary": "Brezilya'daki ikinci tur seçimlerinde yapay zeka ile yaratılan kadınlar, adayları destekleyerek ve kullanıcıları yetişkin içerikli sitelere yönlendirerek kampanya yürütüyor.",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-10-23T07:36:07+00:00",
    "url": "/haber/brezilya-secimlerinde-yapay-zeka-ile-yaratilan-kadinlar-uzerinden-para-5f891942/"
-  },
-  {
-   "id": "b588ad9d",
-   "title": "Türkiye, Mekke ve Bedir ittifaklarıyla ne hedefliyor?",
-   "summary": "Türkiye, \"bölgesel sahiplenme\" adını verdiği dış politika anlayışı kapsamında Ortadoğu'da güvenlik işbirliğini güçlendirme amaçlı kurumsal adımlar attı. Ankara önce Suudi Arabistan ve Pakistan ile Mekke, sonra da Katar,…",
-   "link": "https://www.bbc.com/turkce/articles/cq77pze3nr2ro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8f5/live/1062a750-cefb-11f1-accf-3309656ad0bb.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-22T23:00:52+00:00",
-   "url": "/haber/turkiye-mekke-ve-bedir-ittifaklariyla-ne-hedefliyor-b588ad9d/"
   }
  ]
 }
