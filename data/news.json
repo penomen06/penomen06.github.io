@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:01:10.912326+00:00",
+ "updated": "2026-10-26T03:31:01.056483+00:00",
  "items": [
   {
    "id": "d8d59cf7",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-26T03:00:00+00:00",
+   "date": "2026-10-26T03:30:01+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d8d59cf7/"
+  },
+  {
+   "id": "ceeb1cf5",
+   "title": "Yemen'deki Husiler: Riyad'daki Kral Halid Havalimanı ile Doğu-Batı Petrol Boru Hattı'nı hedef aldık",
+   "summary": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın başkenti Riyad'daki Uluslararası Kral Halid Havalimanı ile Doğu-Batı Petrol Boru Hattı'nı hedef aldıklarını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/live-blog/yemendeki-husiler-riyaddaki-kral-halid-havalimani-ile-dogu-bati-petrol-boru-hattini-hedef-aldik/6934",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-26T03:08:37+00:00",
+   "url": "/haber/yemen-deki-husiler-riyad-daki-kral-halid-havalimani-ile-dogu-bati-petr-ceeb1cf5/"
   },
   {
    "id": "2490db6c",
@@ -55,6 +66,17 @@
    "category": "gundem",
    "date": "2026-10-25T23:51:32+00:00",
    "url": "/haber/trump-libya-yasa-disi-goc-icin-bir-koridor-olarak-kalamaz-22b7f128/"
+  },
+  {
+   "id": "50e6c0de",
+   "title": "Yemen'de hükümet güçleriyle Husiler arasındaki çatışmalar Taiz ve Lahic vilayetlerinde sürüyor",
+   "summary": "Yemen'de hükümet güçleri ile Husiler arasında ülkenin güneybatısındaki Taiz ve Lahic vilayetlerinde çatışmalar devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-hukumet-gucleriyle-husiler-arasindaki-catismalar-taiz-ve-lahic-vilayetlerinde-suruyor/4100525",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-25T23:46:32+00:00",
+   "url": "/haber/yemen-de-hukumet-gucleriyle-husiler-arasindaki-catismalar-taiz-ve-lahi-50e6c0de/"
   },
   {
    "id": "10d46d0e",
@@ -156,17 +178,6 @@
    "url": "/haber/sermaye-piyasasi-islemleri-sorusturmasinda-ertan-aydin-tutuklandi-7558f2b4/"
   },
   {
-   "id": "ee4ab318",
-   "title": "Sırbistan'da başbakan adayı Vucic, \"Öğrenci Listesi\" karşısında seçim mağlubiyetini kabul etti",
-   "summary": "Sırbistan'da cumhurbaşkanlığı görevinden istifa eden ve SNS öncülüğündeki \"Aleksandar Vucic-Birleşmiş Sırbistan\" listesinin başbakan adayı olan Aleksandar Vucic, dün yapılan erken genel seçimde \"Öğrenci Listesi\"…",
-   "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-basbakan-adayi-vucic-ogrenci-listesi-karsisinda-secim-maglubiyetini-kabul-etti/4100487",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T20:54:39+00:00",
-   "url": "/haber/sirbistan-da-basbakan-adayi-vucic-ogrenci-listesi-karsisinda-secim-mag-ee4ab318/"
-  },
-  {
    "id": "3f0ff1de",
    "title": "İran Dışişleri Bakanlığı Sözcüsü Bekayi, ABD'yi tek taraflı taleplerinde ısrar etmekle suçladı",
    "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ülkesinin müzakere masasını terk etmediğini ancak ABD'nin tek taraflı taleplerinde ısrar ettiğini söyledi.",
@@ -209,17 +220,6 @@
    "category": "gundem",
    "date": "2026-10-25T20:49:23+00:00",
    "url": "/haber/ukrayna-rusya-bir-haftada-yaklasik-1600-gudumlu-bomba-48-fuze-ve-2300-860c4a5c/"
-  },
-  {
-   "id": "88abbf9b",
-   "title": "Zelenskiy: Toprak meselesi sadece liderler düzeyinde görüşülebilecek kırmızı bir çizgidir",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, savaşın bitirilmesi için toprak meselesinin sadece liderler düzeyinde görüşülmesi gerektiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-toprak-meselesi-sadece-liderler-duzeyinde-gorusulebilecek-kirmizi-bir-cizgidir/4100470",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-25T20:37:16+00:00",
-   "url": "/haber/zelenskiy-toprak-meselesi-sadece-liderler-duzeyinde-gorusulebilecek-ki-88abbf9b/"
   },
   {
    "id": "87a901e3",
