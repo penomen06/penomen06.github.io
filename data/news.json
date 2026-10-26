@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-26T20:44:07.201461+00:00",
+ "updated": "2026-10-26T21:01:12.817415+00:00",
  "items": [
+  {
+   "id": "9c905449",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 27 Ekim 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 27 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-27-ekim-2026-1748093",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-26T21:00:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c905449/"
+  },
+  {
+   "id": "500a3ab5",
+   "title": "İran: ABD, müzakere konusunda ciddi ise Tahran'ın 7 şartını kabul etmeli",
+   "summary": "İran Ulusal Güvenlik Yüksek Konseyi Başkan Yardımcısı Ali Bakıri, ABD'nin Tahran ile ciddi müzakerelere başlayabilmesi için İran'ın belirlediği 7 şartı kabul edip uygulaması gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-abd-muzakere-konusunda-ciddi-ise-tahranin-7-sartini-kabul-etmeli/4101808",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-26T20:58:27+00:00",
+   "url": "/haber/iran-abd-muzakere-konusunda-ciddi-ise-tahran-in-7-sartini-kabul-etmeli-500a3ab5/"
+  },
+  {
+   "id": "03c3cc47",
+   "title": "Vivo Y600 rekor kıran bataryasıyla geliyor",
+   "summary": "Vivo Y600 akıllı telefon modelinde 6.83 inçlik AMOLED ekran, 120Hz tazeleme hızı, 10000mAh batarya, 44W hızlı şarj, rekor video oynatma süresi gibi özellikler yer alıyor.",
+   "link": "https://www.donanimhaber.com/vivo-y600-tanitildi-iste-ozellikleri-ve-fiyati--212127",
+   "image": "https://www.donanimhaber.com/images/images/haber/212127/1200x675vivo-y600-tanitildi-iste-ozellikleri-ve-fiyati.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-26T20:48:00+00:00",
+   "url": "/haber/vivo-y600-rekor-kiran-bataryasiyla-geliyor-03c3cc47/"
+  },
+  {
+   "id": "cfcc2f18",
+   "title": "ABD Kongresi'ndeki Türkiye Grubu eşbaşkanlarından 29 Ekim Cumhuriyet Bayramı mesajı",
+   "summary": "ABD Kongresi’ndeki ABD-Türkiye İlişkileri ve Türk Amerikalılar Kongre Grubu eşbaşkanları, Türkiye Cumhuriyeti'nin kuruluşunun 103. yıl dönümü münasebetiyle kutlama mesajı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-kongresindeki-turkiye-grubu-esbaskanlarindan-29-ekim-cumhuriyet-bayrami-mesaji/4101797",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-26T20:45:07+00:00",
+   "url": "/haber/abd-kongresi-ndeki-turkiye-grubu-esbaskanlarindan-29-ekim-cumhuriyet-b-cfcc2f18/"
+  },
+  {
+   "id": "160dc90b",
+   "title": "MHP'li belediye meclis üyesi silahlı saldırıda öldürüldü",
+   "summary": "Kocaeli'de Gölcük Belediyesi'nin MHP’li meclis üyesi Murat Saral silah saldırıda hayatını kaybetti.",
+   "link": "https://www.ntv.com.tr/turkiye/mhpli-belediye-meclis-uyesi-silahli-saldirida-olduruldu-1748091",
+   "image": "https://images.ntv.com.tr/images/BELEDIYE-MECLIS-UYESI-SILAHLI-SALDIRIDA-_1575995_468744copy2-152017.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-26T20:44:55+00:00",
+   "url": "/haber/mhp-li-belediye-meclis-uyesi-silahli-saldirida-olduruldu-160dc90b/"
+  },
   {
    "id": "4f1a8807",
    "title": "Ballon d'Or 2026: Altın Top'un sahibi kim olacak?",
@@ -464,28 +519,6 @@
    "url": "/haber/trabzonspor-thomas-reis-yonetiminde-yoluna-kayipsiz-devam-ediyor-2d7bdfbe/"
   },
   {
-   "id": "7f8156ff",
-   "title": "SpaceX, yaklaşık 40 milyar dolarlık çip finansmanı için anlaşmaya vardı",
-   "summary": "ABD'li uzay ve havacılık şirketi SpaceX, yapay zeka altyapısını genişletmek amacıyla yaklaşık 40 milyar dolarlık grafik işlem birimi (GPU) ve ilgili ekipman finansmanı için varlık yönetim şirketi Apollo Global…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/spacex-yaklasik-40-milyar-dolarlik-cip-finansmani-icin-anlasmaya-vardi/4101620",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-26T16:59:28+00:00",
-   "url": "/haber/spacex-yaklasik-40-milyar-dolarlik-cip-finansmani-icin-anlasmaya-vardi-7f8156ff/"
-  },
-  {
-   "id": "474feb04",
-   "title": "Vatikan, akciğer ameliyatı geçiren Papa'nın, kasımda Güney Amerika'ya gideceğini teyit etti",
-   "summary": "Vatikan Devlet Başkanı Papa 14. Leo'nun, 13 Ekim'de geçirdiği akciğer ameliyatının ardından iyileşme sürecinin yolunda gittiği için Uruguay, Arjantin ve Peru'yu kapsayan 6-17 Kasım'daki Güney Amerika seyahatine…",
-   "link": "https://www.aa.com.tr/tr/dunya/vatikan-akciger-ameliyati-geciren-papanin-kasimda-guney-amerikaya-gidecegini-teyit-etti/4101619",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-26T16:58:37+00:00",
-   "url": "/haber/vatikan-akciger-ameliyati-geciren-papa-nin-kasimda-guney-amerika-ya-gi-474feb04/"
-  },
-  {
    "id": "bc3e2c2d",
    "title": "Beşiktaş, ligde yoluna galibiyetle devam ediyor",
    "summary": "Beşiktaş, Trendyol Süper Lig'in 9. haftasında İstanbul Başakşehir'i 2-0 yenerek puanını 18'e yükseltti.",
@@ -517,17 +550,6 @@
    "category": "gundem",
    "date": "2026-10-26T16:39:00+00:00",
    "url": "/haber/suriye-de-yeni-egitim-mufredatinda-osmanli-karsiti-anlati-degisti-fadb4fec/"
-  },
-  {
-   "id": "59418a14",
-   "title": "GTA 6 temalı PS5 DualSense oyun kolunun Türkiye fiyatı belli oldu",
-   "summary": "GTA 6'ya özel olarak tasarlanan ve ışıkta renk değiştiren PS5 DualSense oyun kolunun Türkiye fiyatı 7.499 TL olarak açıklandı. Ürün MediaMarkt'ta listelendi ancak henüz satışa çıkmadı.",
-   "link": "https://www.donanimhaber.com/gta-6-temali-ps5-dualsense-kontrolcusunun-turkiye-fiyati--212124",
-   "image": "https://www.donanimhaber.com/images/images/haber/212124/1200x675gta-6-temali-ps5-dualsense-kontrolcusunun-turkiye-fiyati.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-26T16:38:00+00:00",
-   "url": "/haber/gta-6-temali-ps5-dualsense-oyun-kolunun-turkiye-fiyati-belli-oldu-59418a14/"
   },
   {
    "id": "95f233c4",
@@ -948,17 +970,6 @@
    "url": "/haber/tsk-10-yilda-10-milyon-kamikaze-iha-uretecek-b9d8a8c9/"
   },
   {
-   "id": "c4444999",
-   "title": "İstanbul'da sel alarmı. Saat verildi, bu ilçelerde yaşayanlar dikkat",
-   "summary": "İstanbul'da yeniden kuvvetli yağış uyarısı var. Megakentte özellikle yarın 05.00-10.00 saatleri arasında şiddetli sağanak bekleniyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-sel-alarmi-saat-verildi-bu-ilcelerde-yasayanlar-dikkat-1748047",
-   "image": "https://images.ntv.com.tr/images/AA-20261015-42763827-42763826-ISTANBULDA_SAGANAK-562925-587671-770258.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-26T12:11:28+00:00",
-   "url": "/haber/istanbul-da-sel-alarmi-saat-verildi-bu-ilcelerde-yasayanlar-dikkat-c4444999/"
-  },
-  {
    "id": "a01ad416",
    "title": "Casper Nirvana X100 İncelemesi",
    "summary": "İş, okul ve günlük kullanıma yapay zeka dokunuşu katan Casper Nirvana X100, şık tasarımı ve yeni nesil donanımıyla bütçe dostu bir asistan arayanlar için sahneye çıkıyor.",
@@ -1023,17 +1034,6 @@
    "category": "teknoloji",
    "date": "2026-10-26T10:48:42+00:00",
    "url": "/haber/buyuk-televizyon-almadan-bu-videoyu-izle-a2c379a5/"
-  },
-  {
-   "id": "93103f46",
-   "title": "Çelik Kubbe'nin en uzun menzilli muhafızı havada imkansızı başardı",
-   "summary": "SİPER Ürün-2, atış testinde uçuş sırasında hedef değiştirerek hedefini tam isabetle vurdu.",
-   "link": "https://www.ntv.com.tr/turkiye/video-celik-kubbenin-en-uzun-menzilli-muhafizi-havada-imkansizi-basardi-1748036",
-   "image": "https://images.ntv.com.tr/images/image-802398.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-26T10:45:48+00:00",
-   "url": "/haber/celik-kubbe-nin-en-uzun-menzilli-muhafizi-havada-imkansizi-basardi-93103f46/"
   },
   {
    "id": "e306d539",
