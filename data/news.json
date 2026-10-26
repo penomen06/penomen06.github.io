@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-26T15:31:02.929981+00:00",
+ "updated": "2026-10-26T16:01:12.711642+00:00",
  "items": [
+  {
+   "id": "a0b6110a",
+   "title": "Cumhurbaşkanı Erdoğan'dan önemli açıklamalar",
+   "summary": "Cumhurbaşkanı Erdoğan, Kabine Toplantısı sonrası açıklamalarda bulunuyor.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-onemli-aciklamalar-1748076",
+   "image": "https://images.ntv.com.tr/images/AA-20260406-41032827-41032823-CUMHURBASKANI_RECEP_TAYYIP_ERDOGAN2-144900.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-26T15:58:17+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-dan-onemli-aciklamalar-a0b6110a/"
+  },
+  {
+   "id": "3b19bcdf",
+   "title": "Bayrampaşa'da yol çöktü. Mahsur kalanlar var",
+   "summary": "Bayrampaşa'da çalışma yapılan bir yolun çöktüğü bildirildi. Göçük altında mahsur kalan kişilerin olduğu ifade ediliyor.",
+   "link": "https://www.ntv.com.tr/turkiye/bayrampasada-yol-coktu-mahsur-kalanlar-var-1748077",
+   "image": "https://images.ntv.com.tr/images/BAYRAMPASADA-YOL-COKTU-MAHSUR-KALANLAR_1575699_468655-939862.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-26T15:54:43+00:00",
+   "url": "/haber/bayrampasa-da-yol-coktu-mahsur-kalanlar-var-3b19bcdf/"
+  },
+  {
+   "id": "0a4ebc27",
+   "title": "Mekke İttifakı'nın Tahran'daki toplantısı sona erdi",
+   "summary": "Suudi Arabistan, Türkiye ve Pakistan'dan üst düzey yetkililer, bölgesel güvenlik konularını görüşmek üzere bugün Tahran'da İranlı yetkililerle biraraya geldi.",
+   "link": "https://www.bbc.com/turkce/articles/c3x2w09gn4lwo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e4e9/live/1b7bdd40-d14f-11f1-9eb5-811878e0f07d.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-26T15:50:09+00:00",
+   "url": "/haber/mekke-ittifaki-nin-tahran-daki-toplantisi-sona-erdi-0a4ebc27/"
+  },
+  {
+   "id": "6bb9a306",
+   "title": "Samsung'dan Apple'a gönderme: Katlanabilir iPhone'u tiye aldı",
+   "summary": "Apple'ın ilk katlanabilir telefonu iPhone Duo'nun ekran dayanıklılığı tartışılırken Samsung, yeni reklamında rakibiyle dalga geçti. Şirket, Galaxy Z Fold 8'in ince ve hafif tasarımını öne çıkardı.",
+   "link": "https://www.donanimhaber.com/samsung-dan-apple-a-gonderme-katlanabilir-iphone-u-tiye-aldi--212113",
+   "image": "https://www.donanimhaber.com/images/images/haber/212113/1200x675samsung-dan-apple-a-gonderme-katlanabilir-iphone-u-tiye-aldi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-26T15:47:00+00:00",
+   "url": "/haber/samsung-dan-apple-a-gonderme-katlanabilir-iphone-u-tiye-aldi-6bb9a306/"
+  },
+  {
+   "id": "247cd31c",
+   "title": "A Milli Kadın Voleybol Takımı'nın Dünya Kupası'ndaki rakipleri belli oldu",
+   "summary": "A Milli Kadın Voleybol Takımı'nın, ABD ve Kanada'nın ev sahipliğinde düzenlenecek 2027 FIVB Dünya Kupası'nda grup aşamasındaki rakipleri belli oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-voleybol-takiminin-dunya-kupasindaki-rakipleri-belli-oldu/4101485",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-26T15:40:29+00:00",
+   "url": "/haber/a-milli-kadin-voleybol-takimi-nin-dunya-kupasi-ndaki-rakipleri-belli-o-247cd31c/"
+  },
+  {
+   "id": "b1527c97",
+   "title": "Borsa günü yükselişle tamamladı",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, yüzde 0,31 değer kazanarak 11.151,96 puana yükseldi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4101476",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-26T15:32:51+00:00",
+   "url": "/haber/borsa-gunu-yukselisle-tamamladi-b1527c97/"
+  },
   {
    "id": "a88e3e61",
    "title": "Türkiye’nin Ay’a Gidecek Uzay Aracı Hazır: 2027’nin İlk Yarısında Fırlatılacak",
@@ -22,17 +88,6 @@
    "category": "teknoloji",
    "date": "2026-10-26T15:25:00+00:00",
    "url": "/haber/esnek-gunes-panellerinde-buyuk-atilim-sicakta-verim-kaybetmiyor-300adcbb/"
-  },
-  {
-   "id": "0a4ebc27",
-   "title": "Mekke İttifakı'nın Tahran'daki toplantısı başladı",
-   "summary": "Suudi Arabistan, Türkiye ve Pakistan'dan üst düzey yetkililer, bölgesel güvenlik konularını görüşmek üzere bugün Tahran'da İranlı yetkililerle biraraya geliyor.",
-   "link": "https://www.bbc.com/turkce/articles/c3x2w09gn4lwo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e4e9/live/1b7bdd40-d14f-11f1-9eb5-811878e0f07d.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-26T15:12:24+00:00",
-   "url": "/haber/mekke-ittifaki-nin-tahran-daki-toplantisi-basladi-0a4ebc27/"
   },
   {
    "id": "d0e5a32c",
@@ -332,17 +387,6 @@
    "url": "/haber/zorlu-iki-yilda-bir-turk-devletleri-futbol-kupasi-duzenlenmesi-planlan-7d1d02f7/"
   },
   {
-   "id": "23d9631c",
-   "title": "Türk savunma sanayisi, AFRIDEX 2026'da vitrine çıkıyor",
-   "summary": "Afrika kıtasının savunma ve güvenlik alanındaki uluslararası işbirliklerini geliştirmeyi amaçlayan Afrika Uluslararası Savunma Fuarı (AFRIDEX 2026), Nijerya'nın Lagos kentinde başladı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-savunma-sanayisi-afridex-2026da-vitrine-cikiyor/4101372",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-26T13:51:21+00:00",
-   "url": "/haber/turk-savunma-sanayisi-afridex-2026-da-vitrine-cikiyor-23d9631c/"
-  },
-  {
    "id": "330a5701",
    "title": "Anthropic, halka arz için resmi başvuruyu yaptı",
    "summary": "Claude’un geliştiricisi Anthropic, internet sitesinde yayımladığı açıklamayla halka arz için resmi başvurusunu yaptığını duyurdu. ABD Menkul Kıymetler ve Borsa Komisyonu’na (SEC) S-1 beyanını sunan şirket, hisselerinin…",
@@ -431,17 +475,6 @@
    "url": "/haber/mike-tyson-istanbul-da-turkiye-de-bulunmaktan-cok-mutluyum-a276d3ae/"
   },
   {
-   "id": "b9864ea3",
-   "title": "Türkiye Innovation Week bu yıl 35 bin ziyaretçiye ulaşarak rekor kırdı",
-   "summary": "Türkiye'nin ve yakın coğrafyanın en kapsamlı inovasyon buluşmaları arasında yer alan Türkiye Innovation Week 2026 (Türkiye İnovasyon Haftası-TIW26) 35 bin ziyaretçiye ulaşarak rekor kırdı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-innovation-week-bu-yil-35-bin-ziyaretciye-ulasarak-rekor-kirdi/4101360",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-26T13:39:49+00:00",
-   "url": "/haber/turkiye-innovation-week-bu-yil-35-bin-ziyaretciye-ulasarak-rekor-kirdi-b9864ea3/"
-  },
-  {
    "id": "7feecd9c",
    "title": "Mekke İttifakı Üyeleri İran görüşmesi başladı",
    "summary": "Suudi Arabistan, Türkiye ve Pakistan'dan üst düzey yetkililer ile İran arasındaki görüşmeler Tahran'da başladı.",
@@ -517,17 +550,6 @@
    "category": "gundem",
    "date": "2026-10-26T13:17:29+00:00",
    "url": "/haber/israil-secimlerine-hangi-tartismalar-damga-vuruyor-secmen-ne-diyor-7039dbe1/"
-  },
-  {
-   "id": "65c9f42b",
-   "title": "Mekke İttifakı'ndan Tahran ziyareti. Türkiye'yi MİT Başkanı İbrahim Kalın temsil ediyor",
-   "summary": "Türkiye, Pakistan ve Suudi Arabistan'dan oluşan Mekke İttifakı'nın yetkilileri bugün Tahran'da. Toplantıda Türkiye'yi MİT Başkanı İbrahim Kalın temsil ediyor.",
-   "link": "https://www.ntv.com.tr/turkiye/mekke-ittifakindan-tahran-ziyareti-turkiyeyi-mit-baskani-ibrahim-kalin-temsil-ediyor-1748004",
-   "image": "https://images.ntv.com.tr/images/mekke-838564-891557.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-26T13:15:51+00:00",
-   "url": "/haber/mekke-ittifaki-ndan-tahran-ziyareti-turkiye-yi-mit-baskani-ibrahim-kal-65c9f42b/"
   },
   {
    "id": "728ab856",
@@ -618,15 +640,15 @@
    "url": "/haber/nvidia-rtx-20-30-ve-40-serisi-kartlarin-yapay-zeka-performansini-artir-8c6f7e6a/"
   },
   {
-   "id": "f32a7596",
-   "title": "60 saniyede ekonomide bugün (26 Ekim 2026)",
-   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-26-ekim-2026/4101276",
+   "id": "b52b44f1",
+   "title": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
+   "summary": "Cumhurbaşkanı Erdoğan, Kabine Toplantısı'nın ardından açıklamalarda bulunuyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4101283",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-26T12:48:48+00:00",
-   "url": "/haber/60-saniyede-ekonomide-bugun-26-ekim-2026-f32a7596/"
+   "date": "2026-10-26T12:53:31+00:00",
+   "url": "/haber/canli-cumhurbaskani-erdogan-konusuyor-b52b44f1/"
   },
   {
    "id": "f450cac3",
@@ -849,17 +871,6 @@
    "url": "/haber/yeni-samsung-telefonlarda-kullanilacak-exynos-2700-un-performans-testl-629a2ffa/"
   },
   {
-   "id": "b572ff65",
-   "title": "Çinli mucit, Green Goblin’in uçan kaykayını gerçeğe dönüştürdü",
-   "summary": "Çinli mucit, Örümcek Adam’daki Green Goblin karakterinden ilham alarak geliştirdiği uçan kaykayla nehirler ve vadiler üzerinde uçtu. Elektrikli motorlarla çalışan prototip, büyük ilgi gördü.",
-   "link": "https://www.donanimhaber.com/cinli-mucit-green-goblin-in-ucan-kaykayini-gercege-donusturdu--212097",
-   "image": "https://www.donanimhaber.com/images/images/haber/212097/1200x675cinli-mucit-green-goblin-in-ucan-kaykayini-gercege-donusturdu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-26T11:36:00+00:00",
-   "url": "/haber/cinli-mucit-green-goblin-in-ucan-kaykayini-gercege-donusturdu-b572ff65/"
-  },
-  {
    "id": "0d240956",
    "title": "MKE TOLGA İlk Kez Savaş Gemisinden Hedeflerini İmha Etti",
    "summary": "Makine ve Kimya Endüstrisi (MKE) tarafından geliştirilen TOLGA Yakın Hava Savunma Sistemi ile PİRANA kamikaze insansız deniz aracı, Millî İnsansız Deniz Sistemleri Tatbikatı TURNAs-2026 kapsamında kabiliyetlerini…",
@@ -979,17 +990,6 @@
    "category": "teknoloji",
    "date": "2026-10-26T09:21:26+00:00",
    "url": "/haber/servet-odenerek-alinan-iphone-duo-nun-ekrani-ilk-gunden-catladi-cok-sa-936e41e9/"
-  },
-  {
-   "id": "81a9215d",
-   "title": "Bolu Belediyesi'ne operasyon. Belediye Başkan Yardımcısı dahil dört kişi gözaltında",
-   "summary": "Bolu Belediyesi'ne yönelik \"rüşvet\" ve \"ihaleye fesat karıştırma\" iddialarıyla yürütülen soruşturmada, Belediye Başkan Yardımcısı Rasim Özdemir'in de aralarında bulunduğu dört kişi gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bolu-belediyesine-operasyon-belediye-baskan-yardimcisi-dahil-dort-kisi-gozaltinda-1747995",
-   "image": "https://images.ntv.com.tr/iha/bolu-941874.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-26T09:11:50+00:00",
-   "url": "/haber/bolu-belediyesi-ne-operasyon-belediye-baskan-yardimcisi-dahil-dort-kis-81a9215d/"
   },
   {
    "id": "2c8f69c7",
