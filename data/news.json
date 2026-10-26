@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:01:11.314070+00:00",
+ "updated": "2026-10-26T00:31:04.689915+00:00",
  "items": [
   {
    "id": "d8d59cf7",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-26T00:00:00+00:00",
+   "date": "2026-10-26T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-d8d59cf7/"
+  },
+  {
+   "id": "e10e2cc4",
+   "title": "Brezilya'da başa baş yarış: Lula yeniden devlet başkanı seçildi",
+   "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Ülkenin Yüksek Seçim Kurulu, görevdeki Lula da Silva'nın oyların yüzde 51,75'ini alarak yeniden devlet başkanı seçildiğini ilan…",
+   "link": "https://www.bbc.com/turkce/articles/cw0k0ey5en0yo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70a5/live/364638b0-d0d1-11f1-a058-dfc7f6e2951c.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-26T00:27:23+00:00",
+   "url": "/haber/brezilya-da-basa-bas-yaris-lula-yeniden-devlet-baskani-secildi-e10e2cc4/"
   },
   {
    "id": "22b7f128",
@@ -22,17 +33,6 @@
    "category": "gundem",
    "date": "2026-10-25T23:51:32+00:00",
    "url": "/haber/trump-libya-yasa-disi-goc-icin-bir-koridor-olarak-kalamaz-22b7f128/"
-  },
-  {
-   "id": "372fb612",
-   "title": "Brezilya'da Lula ile Bolsonaro'nun başa baş yarıştığı seçimlerde oy sayımı başladı",
-   "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Seçmenler, görevdeki 80 yaşındaki solcu Luiz Inácio Lula da Silva ile 45 yaşındaki sağcı senatör Flávio Bolsonaro arasında…",
-   "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/653c/live/813b8c70-d05f-11f1-a701-fddedf244c16.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-25T23:47:48+00:00",
-   "url": "/haber/brezilya-da-lula-ile-bolsonaro-nun-basa-bas-yaristigi-secimlerde-oy-sa-372fb612/"
   },
   {
    "id": "10d46d0e",
