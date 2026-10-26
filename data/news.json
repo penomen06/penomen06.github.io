@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T22:01:19.996978+00:00",
+ "updated": "2026-10-26T22:31:01.932049+00:00",
  "items": [
   {
    "id": "c60e4ea6",
@@ -9,7 +9,7 @@
    "image": "",
    "source": "Teknoloji Haberleri – ShiftDelete.Net",
    "category": "teknoloji",
-   "date": "2026-10-26T22:01:03.055293+00:00",
+   "date": "2026-10-26T22:30:55.787649+00:00",
    "url": "/haber/apple-ios-27-2-guncellemesini-yayinladi-iste-yeni-ozellikler-c60e4ea6/"
   },
   {
@@ -20,8 +20,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-26T22:00:00+00:00",
+   "date": "2026-10-26T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c905449/"
+  },
+  {
+   "id": "0c6b4522",
+   "title": "Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
+   "summary": "Tasfiyesine karar verilen fonlara dair kanun, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Kanunla 1 milyon liraya kadar ara ödemeler yapılacak.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-kanunu-resmi-gazetede-yayimlanarak-yururluge-girdi-1748095",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_6f8dfe8267fd788b8427063d0bdc1734-177835.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-26T22:28:43+00:00",
+   "url": "/haber/fon-kanunu-resmi-gazete-de-yayimlanarak-yururluge-girdi-0c6b4522/"
+  },
+  {
+   "id": "bbae3597",
+   "title": "Fransa'da öğrencilerden daha iyi eğitim koşulları için eylemleri sürdürme çağrısı",
+   "summary": "Fransa'da hükümet eğitim için yeni destekler açıklarken, daha iyi eğitim koşulları isteyen lise ve üniversite öğrencileri eylemlere devam etme çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-ogrencilerden-daha-iyi-egitim-kosullari-icin-eylemleri-surdurme-cagrisi/4101837",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-26T22:02:11+00:00",
+   "url": "/haber/fransa-da-ogrencilerden-daha-iyi-egitim-kosullari-icin-eylemleri-surdu-bbae3597/"
+  },
+  {
+   "id": "3934f5b3",
+   "title": "Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
+   "summary": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifi Meclis'ten geçti. 21 Ekim'de Meclis Genel Kurulu'nda görüşülmeye başlanan teklifin 3. maddesinde AKP önergesiyle yapılan…",
+   "link": "https://www.bbc.com/turkce/articles/cq62y07ngvepo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/15ac/live/a43291b0-ce02-11f1-8991-296181d7e3de.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-26T22:01:08+00:00",
+   "url": "/haber/fon-kanunu-resmi-gazete-de-yayimlanarak-yururluge-girdi-3934f5b3/"
   },
   {
    "id": "74e10e28",
@@ -33,17 +66,6 @@
    "category": "gundem",
    "date": "2026-10-26T21:50:33+00:00",
    "url": "/haber/crea-hurmuz-kaynakli-petrol-sokunda-en-agir-yakit-faturasini-abd-odedi-74e10e28/"
-  },
-  {
-   "id": "0c6b4522",
-   "title": "Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
-   "summary": "Tasfiyesine karar verilen fonlara dair kanun, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Kanunla 1 milyon liraya kadar ara ödemeler yapılacak.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-kanunu-resmi-gazetede-yayimlanarak-yururluge-girdi-1748095",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_6f8dfe8267fd788b8427063d0bdc1734-177835.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-26T21:39:40+00:00",
-   "url": "/haber/fon-kanunu-resmi-gazete-de-yayimlanarak-yururluge-girdi-0c6b4522/"
   },
   {
    "id": "f1c5932d",
@@ -462,17 +484,6 @@
    "category": "teknoloji",
    "date": "2026-10-26T18:21:00+00:00",
    "url": "/haber/turkiye-nin-ruzgar-enerjisi-kapasitesi-9-ayda-sadece-766-mw-artti-7a186240/"
-  },
-  {
-   "id": "13ea6b81",
-   "title": "Dictionary.com 2026'nın kelimesi olarak \"maxxing\"i seçti",
-   "summary": "Dijital İngilizce sözlüklerinden \"Dictionary.com\" adlı internet sitesi, 2026 için belirlediği \"yılın kelimesinin\" çevrim içi forumlarda türetilen \"maxxing\" olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/kultur/dictionarycom-2026nin-kelimesi-olarak-maxxingi-secti/4101671",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-26T18:20:32+00:00",
-   "url": "/haber/dictionary-com-2026-nin-kelimesi-olarak-maxxing-i-secti-13ea6b81/"
   },
   {
    "id": "51d3f50d",
@@ -1144,17 +1155,6 @@
    "category": "gundem",
    "date": "2026-10-26T08:03:00+00:00",
    "url": "/haber/8-ulkeden-63-suclunun-turkiye-ye-iadesi-saglandi-bd2b019b/"
-  },
-  {
-   "id": "a8db08bc",
-   "title": "Bolu Belediyesi'ne operasyon: Başkan Yardımcısı dahil dört kişi gözaltında",
-   "summary": "Bolu Belediyesi'ne yönelik \"ihaleye fesat karıştırma\" ve \"zimmet\" iddialarıyla düzenlenen operasyonda Belediye Başkan Yardımcısı Rasim Özdemir'in de aralarında olduğu dört kişi gözaltına alındı.",
-   "link": "https://www.bbc.com/turkce/articles/c680z18x71gdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bcf/live/9546aed0-d112-11f1-921d-7d7921390179.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-26T07:56:05+00:00",
-   "url": "/haber/bolu-belediyesi-ne-operasyon-baskan-yardimcisi-dahil-dort-kisi-gozalti-a8db08bc/"
   },
   {
    "id": "ad70b6ac",
