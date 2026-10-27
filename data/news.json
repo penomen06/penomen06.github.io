@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:01:10.926168+00:00",
+ "updated": "2026-10-27T01:30:59.423195+00:00",
  "items": [
   {
    "id": "c60e4ea6",
@@ -9,7 +9,7 @@
    "image": "",
    "source": "Teknoloji Haberleri – ShiftDelete.Net",
    "category": "teknoloji",
-   "date": "2026-10-27T01:01:01.791905+00:00",
+   "date": "2026-10-27T01:30:51.269485+00:00",
    "url": "/haber/apple-ios-27-2-guncellemesini-yayinladi-iste-yeni-ozellikler-c60e4ea6/"
   },
   {
@@ -20,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-27T01:00:00+00:00",
+   "date": "2026-10-27T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c905449/"
+  },
+  {
+   "id": "5c7b886a",
+   "title": "Anthropic halka arz ediliyor: 'İnsanlık için varoluşsal risk' uyarısı",
+   "summary": "Popüler sohbet robotu Claude'un üreticisi Anthropic, ABD'de planlanan dev halka arzına ilişkin ayrıntıları açıklarken yapay zekanın \"insanlık için felaket niteliğinde veya varoluşsal riskler oluşturabileceği\" uyarısında…",
+   "link": "https://www.bbc.com/turkce/articles/cqx28d4p72l4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f1b/live/b7b1f190-d1a4-11f1-a611-7ff246f4f9f3.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-27T01:23:52+00:00",
+   "url": "/haber/anthropic-halka-arz-ediliyor-insanlik-icin-varolussal-risk-uyarisi-5c7b886a/"
   },
   {
    "id": "9f19ae00",
@@ -57,15 +68,15 @@
    "url": "/haber/kilicdaroglu-nun-erken-secim-cikisi-chp-ve-muhalefette-nasil-yorumland-27fc4c34/"
   },
   {
-   "id": "cfd2f909",
-   "title": "Suudi Arabistan'ın Harc vilayeti ve doğu bölgesinde erken uyarı sistemi devreye alındı",
-   "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin Harc vilayeti ile doğu bölgesi için erken uyarı sisteminin devreye alındığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-harc-vilayeti-ve-dogu-bolgesinde-erken-uyari-sistemi-devreye-alindi/4101863",
+   "id": "71ac28d7",
+   "title": "Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 3 balistik füze imha edildi",
+   "summary": "Yemen'deki İran destekli Husilerin Suudi Arabistan'ın doğu bölgesine fırlattığı 3 balistik füzenin hava savunma sistemleri tarafından imha edildiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistana-firlattigi-3-balistik-fuze-imha-edildi/4101863",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-27T00:37:16+00:00",
-   "url": "/haber/suudi-arabistan-in-harc-vilayeti-ve-dogu-bolgesinde-erken-uyari-sistem-cfd2f909/"
+   "url": "/haber/arap-koalisyonu-husilerin-suudi-arabistan-a-firlattigi-3-balistik-fuze-71ac28d7/"
   },
   {
    "id": "8339de4d",
@@ -1210,17 +1221,6 @@
    "category": "gundem",
    "date": "2026-10-25T15:35:00+00:00",
    "url": "/haber/bakan-gurlek-fon-sorusturmalarinda-onceligimiz-iyi-niyetli-yatirimcila-a466c2a9/"
-  },
-  {
-   "id": "1f92c976",
-   "title": "Meghan Markle'ın babası hakkındaki istismar iddialarıyla ilgili neler biliniyor?",
-   "summary": "BBC'nin edindiği bilgiye göre Sussex Düşesi, babasına gönderdiği bir mektupta genç kızlara cinsel istismarda bulunduğunu kendisinin ve yetkililerin bildiğini söyledi ve onunla iletişimi kesti.",
-   "link": "https://www.bbc.com/turkce/articles/cm70p18ldrwjo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-25T14:07:03+00:00",
-   "url": "/haber/meghan-markle-in-babasi-hakkindaki-istismar-iddialariyla-ilgili-neler-1f92c976/"
   },
   {
    "id": "ab2577a9",
