@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:30:59.423195+00:00",
+ "updated": "2026-10-27T02:01:08.923955+00:00",
  "items": [
   {
    "id": "c60e4ea6",
@@ -9,7 +9,7 @@
    "image": "",
    "source": "Teknoloji Haberleri – ShiftDelete.Net",
    "category": "teknoloji",
-   "date": "2026-10-27T01:30:51.269485+00:00",
+   "date": "2026-10-27T02:00:59.864126+00:00",
    "url": "/haber/apple-ios-27-2-guncellemesini-yayinladi-iste-yeni-ozellikler-c60e4ea6/"
   },
   {
@@ -20,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-27T01:30:00+00:00",
+   "date": "2026-10-27T02:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c905449/"
+  },
+  {
+   "id": "4f1a8807",
+   "title": "Ballon d'Or 2026: Altın Top'un sahibi Harry Kane oldu",
+   "summary": "Futbol dünyasının en prestijli ödüllerinden sayılan Ballon d'Or (Altın Top) 2026 ödül töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapıldı. En iyi erkek futbolcu kategorisinde ödülün sahibi Bayern…",
+   "link": "https://www.bbc.com/turkce/articles/c60qk31pgx2do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cdef/live/106825c0-d191-11f1-8c41-0bbbeafdc6d4.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-27T01:30:22+00:00",
+   "url": "/haber/ballon-d-or-2026-altin-top-un-sahibi-harry-kane-oldu-4f1a8807/"
   },
   {
    "id": "5c7b886a",
@@ -99,17 +110,6 @@
    "category": "gundem",
    "date": "2026-10-26T23:27:41+00:00",
    "url": "/haber/antalya-da-hortum-isci-konteynerini-parcaladi-4-isci-oldu-1-isci-yaral-5439c965/"
-  },
-  {
-   "id": "4f1a8807",
-   "title": "Ballon d'Or 2026: Altın Top'un sahibi Harry Kane oldu",
-   "summary": "Futbol dünyasının en prestijli ödüllerinden sayılan Ballon d'Or (Altın Top) 2026 ödül töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapıldı. En iyi erkek futbolcu kategorisinde ödülün sahibi Bayern…",
-   "link": "https://www.bbc.com/turkce/articles/c60qk31pgx2do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cdef/live/106825c0-d191-11f1-8c41-0bbbeafdc6d4.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-26T23:20:18+00:00",
-   "url": "/haber/ballon-d-or-2026-altin-top-un-sahibi-harry-kane-oldu-4f1a8807/"
   },
   {
    "id": "9d15a286",
