@@ -1,16 +1,159 @@
 {
- "updated": "2026-10-27T16:31:03.637854+00:00",
+ "updated": "2026-10-27T17:01:12.531577+00:00",
  "items": [
   {
-   "id": "bc55e0af",
-   "title": "NTV maaş düzenlemesinin ayrıntılarına ulaştı. Emekliye refah payı formülü",
-   "summary": "Emeklilere yıl sonunda enflasyon farkının yanı sıra refah payı verilmesi gündemde. NTV'nin edindiği bilgilere göre, ek ödemelerde yaş, gelir ve çalışma durumu gibi kriterler belirleyici olabilecek.",
-   "link": "https://www.ntv.com.tr/turkiye/emekliye-refah-payi-formulu-1748246",
+   "id": "cd686858",
+   "title": "2K'da 300FPS! ''DH-Ultra OEM Paketi incelemesi''",
+   "summary": "İtopya'da bir araya getirdiğimiz DH Ultra OEM paketini inceliyoruz. Core Ultra 5 250K Plus ve Gigabyte Windforce OC SFF RTX5070'li kurulumun bileşenleri, oyun performansı, tüm detayları videomuzda.",
+   "link": "https://www.donanimhaber.com/2k-da-300fps-dh-ultra-oem-paketi-incelemesi--212171",
+   "image": "https://www.donanimhaber.com/images/images/haber/212171/1200x6752k-da-300fps-dh-ultra-oem-paketi-incelemesi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-27T17:00:28+00:00",
+   "url": "/haber/2k-da-300fps-dh-ultra-oem-paketi-incelemesi-cd686858/"
+  },
+  {
+   "id": "c6b4453c",
+   "title": "İnsan hücrelerinden elektrik üreten biyohibrit sistem geliştirildi",
+   "summary": "İnsan kalp hücrelerinin hareketlerinden elektrik üreten esnek bir sistem geliştirildi. Teknoloji, gelecekte kalp pilleri ve tıbbi implantların pil ihtiyacını azaltabilir.",
+   "link": "https://www.donanimhaber.com/insan-hucrelerinden-elektrik-ureten-biyohibrit-sistem--212148",
+   "image": "https://www.donanimhaber.com/images/images/haber/212148/1200x675insan-hucrelerinden-elektrik-ureten-biyohibrit-sistem.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-27T17:00:00+00:00",
+   "url": "/haber/insan-hucrelerinden-elektrik-ureten-biyohibrit-sistem-gelistirildi-c6b4453c/"
+  },
+  {
+   "id": "d42aa1a9",
+   "title": "Altın Portakal'da \"Bir Anne Hakkında\" filminin ilk gösterimi yapıldı",
+   "summary": "Bu yıl 63'üncüsü düzenlenen Uluslararası Antalya Altın Portakal Film Festivali kapsamında \"Bir Anne Hakkında\" filmi ilk kez Türkiye'de izleyiciyle buluştu.",
+   "link": "https://www.aa.com.tr/tr/kultur/altin-portakalda-bir-anne-hakkinda-filminin-ilk-gosterimi-yapildi/4102806",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T16:54:36+00:00",
+   "url": "/haber/altin-portakal-da-bir-anne-hakkinda-filminin-ilk-gosterimi-yapildi-d42aa1a9/"
+  },
+  {
+   "id": "92a87398",
+   "title": "Emekli maaşı zammı ne kadar olacak? Ayrıntılar ortaya çıktı",
+   "summary": "Emeklilere yıl sonunda enflasyon farkının yanı sıra refah payı verilmesi gündemde. Cumhurbaşkanı Yardımcısı Yılmaz, \"Alternatifler üzerinde tüm teknik çalışmaları sürdürüyoruz.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/18-milyon-emekliyi-ilgilendiriyor-maas-duzenlemesinin-ayrintilari-ortaya-cikti-1748246",
    "image": "https://images.ntv.com.tr/images/emeklizam-318444.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-27T16:27:57+00:00",
-   "url": "/haber/ntv-maas-duzenlemesinin-ayrintilarina-ulasti-emekliye-refah-payi-formu-bc55e0af/"
+   "date": "2026-10-27T16:51:47+00:00",
+   "url": "/haber/emekli-maasi-zammi-ne-kadar-olacak-ayrintilar-ortaya-cikti-92a87398/"
+  },
+  {
+   "id": "8352bcc6",
+   "title": "Bahçeli: Türkiye ve Azerbaycan arasındaki kardeşlik köklü ve derindir",
+   "summary": "MHP lideri Bahçeli, Türkiye-Azerbaycan ilişkilerinin köklü ve derin olduğunu vurgulayarak, \"Hiçbir nifak tohumunun aramıza ekilmesine fırsat verilmemelidir\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/bahceli-turkiye-ve-azerbaycan-iliskileri-koklu-ve-derindir-1748243",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_416fb825efca9ebee46ba0e4563db83b-422479.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-27T16:51:41+00:00",
+   "url": "/haber/bahceli-turkiye-ve-azerbaycan-arasindaki-kardeslik-koklu-ve-derindir-8352bcc6/"
+  },
+  {
+   "id": "ee5f08f5",
+   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Emeklilerimizin daha iyi koşullara kavuşması yönünde tüm gayretimizi sarfedeceğiz",
+   "summary": "",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-emeklilerimizin-daha-iyi-kosullara-kavusmasi-yonunde-tum-gayretimizi-sarfedecegiz/4102805",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T16:49:42+00:00",
+   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-emeklilerimizin-daha-iyi-kosullara-kav-ee5f08f5/"
+  },
+  {
+   "id": "99ad185a",
+   "title": "İsrail seçimleri: Rekor düzeyde katılım",
+   "summary": "İsrailliler, ülke tarihindeki en kritik seçimlerden biri olarak görülen seçim için sandık başında. Bu, 7 Ekim 2023'te Hamas öncülüğünde İsrail'e düzenlenen saldırıların ve ardından Gazze, İran, Lübnan, Suriye ve…",
+   "link": "https://www.bbc.com/turkce/articles/ckdd8n5zddrlo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ce2/live/d344d5a0-d201-11f1-b3b6-c1e79e957e40.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-27T16:45:53+00:00",
+   "url": "/haber/israil-secimleri-rekor-duzeyde-katilim-99ad185a/"
+  },
+  {
+   "id": "c4660d2d",
+   "title": "Emekli maaşlarında artışın yanı sıra refah payı eklenmesi için çalışma başlatıldı",
+   "summary": "Emekli maaşlarına yapılacak artışın yanı sıra refah payı eklenmesi ve en düşük emekli maaşı için tamamlayıcı bir düzenleme yapılması amacıyla çalışma başlatıldığı öğrenildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/emekli-maaslarinda-artisin-yani-sira-refah-payi-eklenmesi-icin-calisma-baslatildi/4102802",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T16:45:44+00:00",
+   "url": "/haber/emekli-maaslarinda-artisin-yani-sira-refah-payi-eklenmesi-icin-calisma-c4660d2d/"
+  },
+  {
+   "id": "451d34cd",
+   "title": "Melania Trump, Rusya ile Ukrayna arasındaki bölgesel ateşkesin başladığını duyurdu",
+   "summary": "ABD Başkanı Donald Trump'ın eşi Melania Trump, Ukrayna'nın Herson bölgesindeki Oleşki kentinde \"insani yardımların\" yapılabilmesi için bölgesel ateşkesin başladığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/melania-trump-rusya-ile-ukrayna-arasindaki-bolgesel-ateskesin-basladigini-duyurdu/4102797",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T16:43:34+00:00",
+   "url": "/haber/melania-trump-rusya-ile-ukrayna-arasindaki-bolgesel-ateskesin-basladig-451d34cd/"
+  },
+  {
+   "id": "f5e606f9",
+   "title": "BM raporu: İsrail'in gazetecilere yönelik saldırıları \"medyakırım\"dır",
+   "summary": "BM Raportörü Albanese, İsrail'in Gazze'de gazetecilere yönelik saldırı ve medya baskılarının soykırımı kolaylaştırdığını belirterek bu durumu \"medyakırım\" olarak nitelendirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-raporu-israilin-gazetecilere-yonelik-saldirilari-medyakirimdir/4102792",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T16:38:09+00:00",
+   "url": "/haber/bm-raporu-israil-in-gazetecilere-yonelik-saldirilari-medyakirim-dir-f5e606f9/"
+  },
+  {
+   "id": "94be6af7",
+   "title": "Volvo’dan EX60 teknolojilerini daha uygun fiyata sunacak yeni elektrikli model",
+   "summary": "Volvo, Avrupa için EX60'ın teknolojilerine sahip ancak daha uygun fiyatlı olacak bir elektrikli model hazırlıyor. Modelin teslimatlarına 2027'de başlanacağı iddia ediliyor.",
+   "link": "https://www.donanimhaber.com/volvo-dan-uygun-fiyatli-ex60-alternatifi-yeni-elektrikli-geliyor--212149",
+   "image": "https://www.donanimhaber.com/images/images/haber/212149/1200x675volvo-dan-uygun-fiyatli-ex60-alternatifi-yeni-elektrikli-geliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-27T16:38:00+00:00",
+   "url": "/haber/volvo-dan-ex60-teknolojilerini-daha-uygun-fiyata-sunacak-yeni-elektrik-94be6af7/"
+  },
+  {
+   "id": "14c77cb9",
+   "title": "ASELSAN’dan Rekor Bilanço: Bakiye Siparişler 30,7 Milyar Doları Aştı",
+   "summary": "Türkiye’nin savunma sanayisi şirketlerinden ASELSAN, 2026 yılının ilk dokuz ayına ilişkin finansal sonuçlarını açıkladı. Şirket, artan sipariş hacmi, yeni sözleşmeler ve üretim kapasitesini genişletmeye yönelik…",
+   "link": "https://shiftdelete.net/aselsandan-rekor-bilanco-bakiye-siparisler-307-milyar-dolari-asti",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-27T16:37:04+00:00",
+   "url": "/haber/aselsan-dan-rekor-bilanco-bakiye-siparisler-30-7-milyar-dolari-asti-14c77cb9/"
+  },
+  {
+   "id": "52425f29",
+   "title": "ABD'de dinozor türüne ait iskelet 47,3 milyon dolara satıldı",
+   "summary": "ABD'de bulunan ve birleştirilen yeni bir dinozor türüne ait iskelet 47,3 milyon dolara satıldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-dinozor-turune-ait-iskelet-47-3-milyon-dolara-satildi/4102786",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T16:32:37+00:00",
+   "url": "/haber/abd-de-dinozor-turune-ait-iskelet-47-3-milyon-dolara-satildi-52425f29/"
+  },
+  {
+   "id": "57cf8b5f",
+   "title": "\"Gupi ve Gülmeyen Kral\" 3 günde 136 bin 539 seyirciye ulaştı",
+   "summary": "Gupse Özay'ın senaryosunu yazdığı ve başkarakterini seslendirdiği animasyon filmi \"Gupi ve Gülmeyen Kral\", vizyondaki ilk üç gününde 136 bin 539 seyirciye ulaşarak bu yılın şimdiye kadarki en iyi açılış yapan yerli…",
+   "link": "https://www.aa.com.tr/tr/kultur/gupi-ve-gulmeyen-kral-3-gunde-136-bin-539-seyirciye-ulasti/4102785",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T16:32:36+00:00",
+   "url": "/haber/gupi-ve-gulmeyen-kral-3-gunde-136-bin-539-seyirciye-ulasti-57cf8b5f/"
   },
   {
    "id": "3882f434",
@@ -167,17 +310,6 @@
    "url": "/haber/abd-de-toplu-konutlara-kurulacak-jeotermal-isi-pompalari-hem-isitmayi-a20854f6/"
   },
   {
-   "id": "8352bcc6",
-   "title": "Bahçeli: Türkiye ve Azerbaycan arasındaki kardeşlik köklü ve derindir",
-   "summary": "MHP lideri Bahçeli, Türkiye-Azerbaycan ilişkilerinin köklü ve derin olduğunu vurgulayarak, \"Hiçbir nifak tohumunun aramıza ekilmesine fırsat verilmemelidir\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/bahceli-turkiye-ve-azerbaycan-iliskileri-koklu-ve-derindir-1748243",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_416fb825efca9ebee46ba0e4563db83b-422479.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-27T15:28:45+00:00",
-   "url": "/haber/bahceli-turkiye-ve-azerbaycan-arasindaki-kardeslik-koklu-ve-derindir-8352bcc6/"
-  },
-  {
    "id": "3d5c2736",
    "title": "UAEA'dan, \"İran’da zenginleştirilmiş uranyumu doğrulamak için nükleer tesislere erişim\" çağrısı",
    "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Grossi, İran’ın daha önce beyan ettiği 440 kilogram yüksek oranda zenginleştirilmiş uranyumun durumunu doğrulamak için nükleer tesislere erişim sağlanması…",
@@ -200,28 +332,6 @@
    "url": "/haber/openai-gpt-6-1-terra-duyuruldu-maliyette-radikal-ilerleme-5dd77b86/"
   },
   {
-   "id": "9a1a78eb",
-   "title": "Basketbol Avrupa Ligi'nde 2027 ve 2029'daki Dörtlü Final organizasyonları Abu Dabi'de yapılacak",
-   "summary": "Basketbol Avrupa Ligi'nde (EuroLeague) 2027 ve 2029 yıllarındaki Dörtlü Final organizasyonları, Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'de düzenlenecek.",
-   "link": "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-2027-ve-2029daki-dortlu-final-organizasyonlari-abu-dabide-yapilacak/4102704",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T15:05:01+00:00",
-   "url": "/haber/basketbol-avrupa-ligi-nde-2027-ve-2029-daki-dortlu-final-organizasyonl-9a1a78eb/"
-  },
-  {
-   "id": "0357f41a",
-   "title": "Bakan Bayraktar'dan İtalyan enerji şirketi Eni ile işbirliği mesajı",
-   "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin İtalyan enerji şirketi Eni ile petrolde işbirliği hedeflediğini belirterek, \"Yakında Eni ile önemli bir duyuru yapacağız.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktardan-italyan-enerji-sirketi-eni-ile-isbirligi-mesaji/4102700",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T15:01:45+00:00",
-   "url": "/haber/bakan-bayraktar-dan-italyan-enerji-sirketi-eni-ile-isbirligi-mesaji-0357f41a/"
-  },
-  {
    "id": "4d1b456d",
    "title": "Mini LED mi OLED mi? Hangi TV Alınmalı? (Büyük Ekran Rehberi)",
    "summary": "Yeni bir televizyon satın alma kararı, telefon gibi sık değiştirilmeyen ve evin baş köşesinde ortalama 8 ila 10 yıl boyunca bize eşlik eden bir yatırımı temsil ediyor. Bu süreçte doğru paneli ve ekran boyutunu seçmek…",
@@ -231,28 +341,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T15:00:57+00:00",
    "url": "/haber/mini-led-mi-oled-mi-hangi-tv-alinmali-buyuk-ekran-rehberi-4d1b456d/"
-  },
-  {
-   "id": "2cd6a60c",
-   "title": "OpenAI'ın yapay zeka modelleri matematik, bilgisayar bilimi ve fizikte üç bilimsel sonuca ulaştı",
-   "summary": "ABD merkezli yapay zeka şirketi OpenAI, modellerinin matematik, bilgisayar bilimi ve kuantum fiziği alanlarında üç önemli bilimsel sonuca ulaştığını belirterek bulguların doğrulanması amacıyla uzman araştırmacılarla…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openaiin-yapay-zeka-modelleri-matematik-bilgisayar-bilimi-ve-fizikte-uc-bilimsel-sonuca-ulasti/4102696",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T14:58:12+00:00",
-   "url": "/haber/openai-in-yapay-zeka-modelleri-matematik-bilgisayar-bilimi-ve-fizikte-2cd6a60c/"
-  },
-  {
-   "id": "99ad185a",
-   "title": "İsrail seçimleri: Rekor düzeyde katılım",
-   "summary": "İsrailliler, ülke tarihindeki en kritik seçimlerden biri olarak görülen seçim için sandık başında. Bu, 7 Ekim 2023'te Hamas öncülüğünde İsrail'e düzenlenen saldırıların ve ardından Gazze, İran, Lübnan, Suriye ve…",
-   "link": "https://www.bbc.com/turkce/articles/ckdd8n5zddrlo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ce2/live/d344d5a0-d201-11f1-b3b6-c1e79e957e40.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-27T14:52:49+00:00",
-   "url": "/haber/israil-secimleri-rekor-duzeyde-katilim-99ad185a/"
   },
   {
    "id": "449b361d",
@@ -275,17 +363,6 @@
    "category": "gundem",
    "date": "2026-10-27T14:40:12+00:00",
    "url": "/haber/siber-guvenlik-kurulu-cumhurbaskani-erdogan-baskanliginda-toplandi-a94df4e9/"
-  },
-  {
-   "id": "8d81ac6b",
-   "title": "Rusya: Moskova'ya doğru uçan 6 İHA etkisiz hale getirildi",
-   "summary": "Rusya'da 8. Gaz İhraç Eden Ülkeler Forumu (GECF) Zirvesi'ne ev sahipliği yapan başkent Moskova'ya doğru uçan 6 insansız hava aracının (İHA) etkisiz hale getirildiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-moskovaya-dogru-ucan-6-iha-etkisiz-hale-getirildi/4102664",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T14:35:01+00:00",
-   "url": "/haber/rusya-moskova-ya-dogru-ucan-6-iha-etkisiz-hale-getirildi-8d81ac6b/"
   },
   {
    "id": "e95eaa3d",
@@ -354,17 +431,6 @@
    "url": "/haber/uygun-fiyatli-macbook-neo-artik-uygun-degil-macbook-neo-ve-air-zamland-f2801ef4/"
   },
   {
-   "id": "3120f020",
-   "title": "Siber Güvenlik Kurulu, Cumhurbaşkanı Erdoğan başkanlığında toplandı",
-   "summary": "Siber Güvenlik Kurulu, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/siber-guvenlik-kurulu-cumhurbaskani-erdogan-baskanliginda-toplandi/4102640",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T14:10:35+00:00",
-   "url": "/haber/siber-guvenlik-kurulu-cumhurbaskani-erdogan-baskanliginda-toplandi-3120f020/"
-  },
-  {
    "id": "e33c8970",
    "title": "Apple Creator Studio için yeni yapay zeka özellikleri ve araçlar duyuruldu",
    "summary": "Apple bugün yeni ürünlerine ek olarak Apple Creator Studio deneyimini dönüştürecek güncellemeler de duyurdu. Şirketten bu konuda yapılan detaylı resmi açıklamada, “Görsel efektler, eklentiler, geçiş stilleri, şablonlar…",
@@ -385,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T14:06:00+00:00",
    "url": "/haber/agaca-ve-direge-carpip-devrildi-hava-yastiklari-acilmadi-xpeng-den-aci-271f81e6/"
-  },
-  {
-   "id": "83d2ef25",
-   "title": "Sudan'ın Ankara Büyükelçisi Eltayeb: Sudan için adalet arıyoruz",
-   "summary": "Sudan'ın Ankara Büyükelçisi Nadir Yousif Eltayeb, Faşir'de yaklaşık 30 aylık kuşatma nedeniyle 1 milyona yakın kişinin, silahlı kuvvetlerin havadan ulaştırdığı yardımlarla yaşamını sürdürdüğünü belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/sudanin-ankara-buyukelcisi-eltayeb-sudan-icin-adalet-ariyoruz/4102608",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T13:45:27+00:00",
-   "url": "/haber/sudan-in-ankara-buyukelcisi-eltayeb-sudan-icin-adalet-ariyoruz-83d2ef25/"
   },
   {
    "id": "ca117b63",
@@ -429,17 +484,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T13:44:35+00:00",
    "url": "/haber/opera-one-opera-gx-ve-opera-neon-webai-destegiyle-guncellendi-ac47a42f/"
-  },
-  {
-   "id": "6efadadb",
-   "title": "Bakan Işıkhan: Eğitim ile istihdamı daha güçlü buluşturan bir sistemi hep birlikte geliştireceğiz",
-   "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, \"Eğitim ile istihdamı daha güçlü buluşturan, beceriyi ve emeği esas alan, kalite güvencesini önceleyen bir ulusal yeterlilik sistemini hep birlikte geliştireceğiz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-isikhan-egitim-ile-istihdami-daha-guclu-bulusturan-bir-sistemi-hep-birlikte-gelistirecegiz/4102601",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T13:40:28+00:00",
-   "url": "/haber/bakan-isikhan-egitim-ile-istihdami-daha-guclu-bulusturan-bir-sistemi-h-6efadadb/"
   },
   {
    "id": "98852afb",
@@ -484,17 +528,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T13:20:45+00:00",
    "url": "/haber/apple-turkiye-ipad-ler-sonrasinda-mac-lerin-fiyatlarina-da-zam-yapti-c72ccc69/"
-  },
-  {
-   "id": "903e920b",
-   "title": "Otomobillere yeni ışık geliyor: Turkuaz ışık ne işe yarayacak?",
-   "summary": "Otomotiv dünyasında araç aydınlatma teknolojileri için yeni bir dönemin kapısı aralanıyor. ABD'de gündeme gelen son öneri, otonom araçlara özel turkuaz ışıkların entegre edilmesini öngörüyor.",
-   "link": "https://www.donanimhaber.com/otomobillere-yeni-isik-geliyor-turkuaz-isik-ne-ise-yarayacak--212158",
-   "image": "https://www.donanimhaber.com/images/images/haber/212158/1200x675otomobillere-yeni-isik-geliyor-turkuaz-isik-ne-ise-yarayacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-27T13:20:00+00:00",
-   "url": "/haber/otomobillere-yeni-isik-geliyor-turkuaz-isik-ne-ise-yarayacak-903e920b/"
   },
   {
    "id": "f5ebb6a2",
@@ -574,17 +607,6 @@
    "url": "/haber/fujifilm-yeni-sipsak-fotograf-makinesi-instax-mini-evo-2-yi-tanitti-321f7799/"
   },
   {
-   "id": "25f91ff0",
-   "title": "Yapay zeka para kazandırmıyor: Teknoloji sektörü dışında getiri sıfır",
-   "summary": "Apollo ekonomistine göre yapay zeka, teknoloji sektörü dışındaki büyük şirketlere henüz finansal katkı sağlamadı. Çalışan başına gelir ve kâr marjlarında artış görülmüyor.",
-   "link": "https://www.donanimhaber.com/ai-para-kazandirmiyor-teknoloji-sektoru-disinda-getiri-sifir--212140",
-   "image": "https://www.donanimhaber.com/images/images/haber/212140/1200x675ai-para-kazandirmiyor-teknoloji-sektoru-disinda-getiri-sifir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-27T13:00:00+00:00",
-   "url": "/haber/yapay-zeka-para-kazandirmiyor-teknoloji-sektoru-disinda-getiri-sifir-25f91ff0/"
-  },
-  {
    "id": "9bfd27f5",
    "title": "10.000 mAh bataryalı Redmi K100 tanıtıldı",
    "summary": "10.000 mAh bataryalı telefonların sayısı artıyor. Xiaomi’nin bugün tanıttığı Redmi K100, gücünü Snapdragon 8 Elite işlemciden alıyor. 100W HyperCharge hızlı şarj desteği bulunan telefonda, 165 Hz yenileme hızı sunan…",
@@ -660,17 +682,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T12:43:32+00:00",
    "url": "/haber/google-ankara-daki-fiziksel-veri-merkezi-insaati-istikrarli-bicimde-il-65d70b22/"
-  },
-  {
-   "id": "aceacc8e",
-   "title": "Intel Nova Lake-S çıkmadan test edildi! İşte ilk detaylar",
-   "summary": "Intel'in yeni nesil Nova Lake-S işlemcilerine ait olduğu düşünülen benchmark sonuçları ortaya çıktı. 28 çekirdekli model, tek çekirdekte Core Ultra 9 285K'yı geride bıraktı.",
-   "link": "https://www.donanimhaber.com/intel-nova-lake-s-cikmadan-test-edildi-iste-ilk-detaylar--212142",
-   "image": "https://www.donanimhaber.com/images/images/haber/212142/1200x675intel-nova-lake-s-cikmadan-test-edildi-iste-ilk-detaylar.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-27T12:39:00+00:00",
-   "url": "/haber/intel-nova-lake-s-cikmadan-test-edildi-iste-ilk-detaylar-aceacc8e/"
   },
   {
    "id": "b030d863",
@@ -762,14 +773,14 @@
   },
   {
    "id": "7393d182",
-   "title": "Antalya'da 4 işçinin hayatını kaybettiği hortumla ilgili neler biliniyor?",
+   "title": "Antalya'da hortumda dört işçi hayatını kaybetti: Müteahhit ve şantiye şefi gözaltında",
    "summary": "Antalya'da 26 Ekim gece saatlerinde meydana gelen hortumda, site inşaatında çalışan dört işçi hayatını kaybetti, bir işçi yaralandı.",
    "link": "https://www.bbc.com/turkce/articles/c674p3vwlje2o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f713/live/39208020-d1f5-11f1-a701-fddedf244c16.png",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-10-27T11:17:38+00:00",
-   "url": "/haber/antalya-da-4-iscinin-hayatini-kaybettigi-hortumla-ilgili-neler-biliniy-7393d182/"
+   "url": "/haber/antalya-da-hortumda-dort-isci-hayatini-kaybetti-muteahhit-ve-santiye-s-7393d182/"
   },
   {
    "id": "62d6d2c1",
@@ -913,17 +924,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T10:30:37+00:00",
    "url": "/haber/alibaba-nin-qwen-modeli-icin-guvenlik-uyarisi-cin-e-veri-gonderiyordu-a065ae4f/"
-  },
-  {
-   "id": "f358e023",
-   "title": "En İyi Laptop Soğutucular (5 Tavsiye)",
-   "summary": "Özellikle oyun oynarken karşılaşılan laptop ısınma sorunu, aynı zamanda video düzenlerken veya uzun süre bilgisayar başında çalışırken de kullanıcıların canını sıkabilmektedir. Cihazın hava akışını desteklemek için…",
-   "link": "https://shiftdelete.net/en-iyi-laptop-sogutucular-5-tavsiye",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-27T10:27:46+00:00",
-   "url": "/haber/en-iyi-laptop-sogutucular-5-tavsiye-f358e023/"
   },
   {
    "id": "87f89de3",
