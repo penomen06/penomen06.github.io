@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-27T15:01:14.227115+00:00",
+ "updated": "2026-10-27T15:31:06.192511+00:00",
  "items": [
+  {
+   "id": "a20854f6",
+   "title": "ABD'de toplu konutlara kurulacak jeotermal ısı pompaları, hem ısıtmayı hem soğutmayı yapacak",
+   "summary": "Yer altındaki sıcaklıktan yararlanan jeotermal ısı pompaları, ABD'deki yeni bir konut projesinde kullanılacak. Sistemin kurulum maliyetini ise yerel bir doğal gaz şirketi karşılayacak.",
+   "link": "https://www.donanimhaber.com/abd-de-uygun-fiyatli-konutlara-jeotermal-isi-pompalari-kuruluyor--212162",
+   "image": "https://www.donanimhaber.com/images/images/haber/212162/1200x675abd-de-uygun-fiyatli-konutlara-jeotermal-isi-pompalari-kuruluyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-27T15:30:00+00:00",
+   "url": "/haber/abd-de-toplu-konutlara-kurulacak-jeotermal-isi-pompalari-hem-isitmayi-a20854f6/"
+  },
+  {
+   "id": "8352bcc6",
+   "title": "Bahçeli: Türkiye ve Azerbaycan arasındaki kardeşlik köklü ve derindir",
+   "summary": "MHP lideri Bahçeli, Türkiye-Azerbaycan ilişkilerinin köklü ve derin olduğunu vurgulayarak, \"Hiçbir nifak tohumunun aramıza ekilmesine fırsat verilmemelidir\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/bahceli-turkiye-ve-azerbaycan-iliskileri-koklu-ve-derindir-1748243",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_416fb825efca9ebee46ba0e4563db83b-422479.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-27T15:28:45+00:00",
+   "url": "/haber/bahceli-turkiye-ve-azerbaycan-arasindaki-kardeslik-koklu-ve-derindir-8352bcc6/"
+  },
+  {
+   "id": "3d5c2736",
+   "title": "UAEA'dan, \"İran’da zenginleştirilmiş uranyumu doğrulamak için nükleer tesislere erişim\" çağrısı",
+   "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Grossi, İran’ın daha önce beyan ettiği 440 kilogram yüksek oranda zenginleştirilmiş uranyumun durumunu doğrulamak için nükleer tesislere erişim sağlanması…",
+   "link": "https://www.aa.com.tr/tr/dunya/uaeadan-iran-da-zenginlestirilmis-uranyumu-dogrulamak-icin-nukleer-tesislere-erisim-cagrisi/4102720",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T15:27:00+00:00",
+   "url": "/haber/uaea-dan-iran-da-zenginlestirilmis-uranyumu-dogrulamak-icin-nukleer-te-3d5c2736/"
+  },
+  {
+   "id": "5dd77b86",
+   "title": "OpenAI GPT-6.1 Terra duyuruldu: Maliyette radikal ilerleme",
+   "summary": "OpenAI, GPT-6.1 Terra modelini duyurdu. GPT-6 Astra seviyesinde performans sunan model, daha düşük maliyet, yüksek hız ve gelişmiş kodlama yetenekleriyle öne çıkıyor.",
+   "link": "https://www.donanimhaber.com/openai-gpt-6-1-terra-duyuruldu-maliyette-radikal-ilerleme--212163",
+   "image": "https://www.donanimhaber.com/images/images/haber/212163/1200x675openai-gpt-6-1-terra-duyuruldu-maliyette-radikal-ilerleme.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-27T15:08:00+00:00",
+   "url": "/haber/openai-gpt-6-1-terra-duyuruldu-maliyette-radikal-ilerleme-5dd77b86/"
+  },
+  {
+   "id": "9a1a78eb",
+   "title": "Basketbol Avrupa Ligi'nde 2027 ve 2029'daki Dörtlü Final organizasyonları Abu Dabi'de yapılacak",
+   "summary": "Basketbol Avrupa Ligi'nde (EuroLeague) 2027 ve 2029 yıllarındaki Dörtlü Final organizasyonları, Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'de düzenlenecek.",
+   "link": "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-2027-ve-2029daki-dortlu-final-organizasyonlari-abu-dabide-yapilacak/4102704",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T15:05:01+00:00",
+   "url": "/haber/basketbol-avrupa-ligi-nde-2027-ve-2029-daki-dortlu-final-organizasyonl-9a1a78eb/"
+  },
+  {
+   "id": "0357f41a",
+   "title": "Bakan Bayraktar'dan İtalyan enerji şirketi Eni ile işbirliği mesajı",
+   "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin İtalyan enerji şirketi Eni ile petrolde işbirliği hedeflediğini belirterek, \"Yakında Eni ile önemli bir duyuru yapacağız.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktardan-italyan-enerji-sirketi-eni-ile-isbirligi-mesaji/4102700",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T15:01:45+00:00",
+   "url": "/haber/bakan-bayraktar-dan-italyan-enerji-sirketi-eni-ile-isbirligi-mesaji-0357f41a/"
+  },
   {
    "id": "4d1b456d",
    "title": "Mini LED mi OLED mi? Hangi TV Alınmalı? (Büyük Ekran Rehberi)",
@@ -25,14 +91,14 @@
   },
   {
    "id": "99ad185a",
-   "title": "İsrail seçimleri: Son 40 yılın en yüksek katılımı",
+   "title": "İsrail seçimleri: Rekor düzeyde katılım",
    "summary": "İsrailliler, ülke tarihindeki en kritik seçimlerden biri olarak görülen seçim için sandık başında. Bu, 7 Ekim 2023'te Hamas öncülüğünde İsrail'e düzenlenen saldırıların ve ardından Gazze, İran, Lübnan, Suriye ve…",
    "link": "https://www.bbc.com/turkce/articles/ckdd8n5zddrlo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ce2/live/d344d5a0-d201-11f1-b3b6-c1e79e957e40.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-10-27T14:52:49+00:00",
-   "url": "/haber/israil-secimleri-son-40-yilin-en-yuksek-katilimi-99ad185a/"
+   "url": "/haber/israil-secimleri-rekor-duzeyde-katilim-99ad185a/"
   },
   {
    "id": "449b361d",
@@ -310,17 +376,6 @@
    "url": "/haber/apple-m6-islemcili-yeni-imac-modelini-tanitti-iste-turkiye-fiyati-ve-o-650f20e4/"
   },
   {
-   "id": "fe270c2b",
-   "title": "Vergi Denetim Kurulu 820 hekim ve 45 özel hastaneyi yakın takibe aldı",
-   "summary": "Vergi Denetim Kurulu Başkanlığı (VDK), 820 hekim ve 45 özel hastaneyle yaptığı görüşmelerde vergisel riskleri incelemeye ihtiyaç duyulmadan giderirken çalışmanın üç aylık etki analizinde toplam 32,7 milyar lira matrah…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/vergi-denetim-kurulu-820-hekim-ve-45-ozel-hastaneyi-yakin-takibe-aldi/4102584",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T13:21:49+00:00",
-   "url": "/haber/vergi-denetim-kurulu-820-hekim-ve-45-ozel-hastaneyi-yakin-takibe-aldi-fe270c2b/"
-  },
-  {
    "id": "c72ccc69",
    "title": "Apple Türkiye, iPad’ler sonrasında Mac’lerin fiyatlarına da zam yaptı",
    "summary": "Dün iPad fiyatlarına zam yapan Apple Türkiye, bugün de Mac bilgisayarların fiyatını artırdı. Zam sonrasında A18 pro işlemcili MacBook Neo’nun başlangıç fiyatı 45.999 TL’den 49.999 TL’ye, M5’i MacBook Air’in başlangıç…",
@@ -363,17 +418,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T13:14:09+00:00",
    "url": "/haber/apple-creator-studio-guncellendi-final-cut-pro-logic-pro-ve-pixelmator-157d771d/"
-  },
-  {
-   "id": "70bd42a5",
-   "title": "Somali hükümeti, Türkiye ile köklü ortaklığın güçlü şekilde sürdüğünü belirtti",
-   "summary": "Somali federal hükümeti, Türkiye ile köklü ortaklığın güçlü şekilde devam ettiğini, iki ülkenin terörle mücadele, ulusal güvenliğin güçlendirilmesi ve kalıcı barışın sağlanması için işbirliğini sürdürdüğünü bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/somali-hukumeti-turkiye-ile-koklu-ortakligin-guclu-sekilde-surdugunu-belirtti/4102565",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T13:14:04+00:00",
-   "url": "/haber/somali-hukumeti-turkiye-ile-koklu-ortakligin-guclu-sekilde-surdugunu-b-70bd42a5/"
   },
   {
    "id": "1b897bf8",
@@ -462,17 +506,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T13:00:00+00:00",
    "url": "/haber/yapay-zeka-para-kazandirmiyor-teknoloji-sektoru-disinda-getiri-sifir-25f91ff0/"
-  },
-  {
-   "id": "f8305234",
-   "title": "TBMM Başkanı Kurtulmuş, Kuzey Makedonya Devlet Bakanı Zeynula'yı kabul etti",
-   "summary": "TBMM Başkanı Numan Kurtulmuş, Kuzey Makedonya Devlet Bakanı ve Türk Demokratik Partisi Genel Başkanı Zülfikar Zeynula'yı kabul etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-kuzey-makedonya-devlet-bakani-zeynulayi-kabul-etti/4102531",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T12:52:53+00:00",
-   "url": "/haber/tbmm-baskani-kurtulmus-kuzey-makedonya-devlet-bakani-zeynula-yi-kabul-f8305234/"
   },
   {
    "id": "9bfd27f5",
@@ -717,17 +750,6 @@
    "url": "/haber/iphone-18e-nin-ozellikleri-ortaya-cikti-neler-degisecek-e2993276/"
   },
   {
-   "id": "b3c7d1b2",
-   "title": "iPhone 18e özellikleri sızdırıldı: 60Hz ekran ve dahası",
-   "summary": "Apple'ın uygun fiyatlı iPhone 18e modeline ait olduğu iddia edilen özellikler ortaya çıktı. Yeni model, selefine kıyasla küçüp çaplı yenilikler sunacak. İşte beklenenler...",
-   "link": "https://www.donanimhaber.com/iphone-18e-ozellikleri-sizdirildi-60hz-ekran-ve-dahasi--212145",
-   "image": "https://www.donanimhaber.com/images/images/haber/212145/1200x675iphone-18e-ozellikleri-sizdirildi-60hz-ekran-ve-dahasi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-27T11:11:00+00:00",
-   "url": "/haber/iphone-18e-ozellikleri-sizdirildi-60hz-ekran-ve-dahasi-b3c7d1b2/"
-  },
-  {
    "id": "47032b72",
    "title": "Asayiş ihbarları eDevlet üzerinden takip edilebilecek",
    "summary": "Asayiş suçlarına ilişkin ihbar başvurularının e-Devlet üzerinden takibine yönelik altyapı entegrasyon çalışmaları yürütülecek.",
@@ -770,17 +792,6 @@
    "category": "gundem",
    "date": "2026-10-27T10:55:49+00:00",
    "url": "/haber/pes-artik-dedirten-anlar-otobuste-biber-gazi-sikti-c12b969e/"
-  },
-  {
-   "id": "9574a9da",
-   "title": "A Knight of the Seven Kingdoms'ın yıldızı X-Men ekibine katılıyor",
-   "summary": "Game of Thrones dizisi A Knight of the Seven Kingdoms ile yıldızı parlayan Peter Claffey, şimdi de Marvel evrenine adım atıyor. Claffey, X-Men'in önemli üyelerinden birini canlandıracak.",
-   "link": "https://www.donanimhaber.com/a-knight-of-the-seven-kingdoms-in-yildizi-x-men-oluyor--212146",
-   "image": "https://www.donanimhaber.com/images/images/haber/212146/1200x675a-knight-of-the-seven-kingdoms-in-yildizi-x-men-oluyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-27T10:49:00+00:00",
-   "url": "/haber/a-knight-of-the-seven-kingdoms-in-yildizi-x-men-ekibine-katiliyor-9574a9da/"
   },
   {
    "id": "01b0b305",
@@ -946,17 +957,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T09:00:04+00:00",
    "url": "/haber/instagram-youtube-a-rakip-oluyor-uzun-videolar-geliyor-01cfce4a/"
-  },
-  {
-   "id": "b12ae188",
-   "title": "e-Devlet'e yeni özellik geliyor: Üç bakanlık ortak çalışma yapacak",
-   "summary": "Asayiş suçlarına ilişkin ihbarlar e-Devlet üzerinden takip edilebilmesi için çalışma başlatıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/e-devlete-yeni-ozellik-geliyor-uc-bakanlik-ortak-calisma-yapacak-1748186",
-   "image": "https://images.ntv.com.tr/images/e-devlet-435188",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-27T08:49:51+00:00",
-   "url": "/haber/e-devlet-e-yeni-ozellik-geliyor-uc-bakanlik-ortak-calisma-yapacak-b12ae188/"
   },
   {
    "id": "7cdeecc6",
