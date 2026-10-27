@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T21:30:59.696484+00:00",
+ "updated": "2026-10-27T22:01:11.987926+00:00",
  "items": [
   {
    "id": "0bf7088c",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-27T21:30:00+00:00",
+   "date": "2026-10-27T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-0bf7088c/"
+  },
+  {
+   "id": "f9baae2a",
+   "title": "ABD, Brezilya'da seçimi kaybeden ve pasaportuna el konulan Bolsonaro'ya vize vereceğini açıkladı",
+   "summary": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. Bolsonaro'nun ülke dışına çıkmış…",
+   "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89cf/live/49d6f8b0-d239-11f1-904a-5b90e72e87ff.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-27T21:55:31+00:00",
+   "url": "/haber/abd-brezilya-da-secimi-kaybeden-ve-pasaportuna-el-konulan-bolsonaro-ya-f9baae2a/"
   },
   {
    "id": "543614f7",
@@ -158,7 +169,7 @@
   {
    "id": "adaffbbd",
    "title": "BAYKAR, ROKETSAN ve MKE Yatırımlarıyla Samsun Savunma Sanayisinin Yeni Üretim Merkezlerinden Biri Oluyor",
-   "summary": "ürkiye’nin savunma sanayisi yatırımları, büyük üretim merkezlerinin yanı sıra Anadolu’daki yeni sanayi bölgelerine de yayılıyor. BAYKAR, ROKETSAN ve Makine ve Kimya Endüstrisi (MKE) ile ilişkilendirilen yatırımlar,…",
+   "summary": "Türkiye’nin savunma sanayisi yatırımları, büyük üretim merkezlerinin yanı sıra Anadolu’daki yeni sanayi bölgelerine de yayılıyor. BAYKAR, ROKETSAN ve Makine ve Kimya Endüstrisi (MKE) ile ilişkilendirilen yatırımlar,…",
    "link": "https://shiftdelete.net/baykar-roketsan-ve-mke-yatirimlariyla-samsun-savunma-sanayisinin-yeni-uretim-merkezlerinden-biri-oluyor",
    "image": "",
    "source": "Teknoloji Haberleri – ShiftDelete.Net",
@@ -297,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T19:12:00+00:00",
    "url": "/haber/cin-in-yapay-zeka-balonu-simdiden-patladi-480-milyar-dolar-toz-oldu-0b25e56c/"
-  },
-  {
-   "id": "f9baae2a",
-   "title": "Brezilya'da seçimi kaybeden Bolsonaro'nun pasaportu iptal edildi",
-   "summary": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. Bolsonaro'nun ülke dışına çıkmış…",
-   "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89cf/live/49d6f8b0-d239-11f1-904a-5b90e72e87ff.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-27T19:07:26+00:00",
-   "url": "/haber/brezilya-da-secimi-kaybeden-bolsonaro-nun-pasaportu-iptal-edildi-f9baae2a/"
   },
   {
    "id": "e6f0c714",
