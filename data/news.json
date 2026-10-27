@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-27T18:30:57.056427+00:00",
+ "updated": "2026-10-27T19:01:17.242853+00:00",
  "items": [
+  {
+   "id": "e6f0c714",
+   "title": "Xiaomi Redmi Book 2027 tanıtıldı: 120 Hz ekran ve 20 saat pil ömrü",
+   "summary": "Xiaomi, Redmi Book 2027 dizüstü bilgisayar serisini tanıttı. 14 ve 16 inç ekran seçenekleriyle gelen modeller, Intel Wildcat Lake işlemci, 120 Hz yenileme hızı ve 72 Wh bataryayla dikkat çekiyor.",
+   "link": "https://www.donanimhaber.com/xiaomi-redmi-book-2027-tanitildi-iste-ozellikleri-ve-fiyati--212168",
+   "image": "https://www.donanimhaber.com/images/images/haber/212168/1200x675xiaomi-redmi-book-2027-tanitildi-iste-ozellikleri-ve-fiyati.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-27T18:50:00+00:00",
+   "url": "/haber/xiaomi-redmi-book-2027-tanitildi-120-hz-ekran-ve-20-saat-pil-omru-e6f0c714/"
+  },
+  {
+   "id": "99ad185a",
+   "title": "İsrail seçimlerine rekor düzeyde katılım",
+   "summary": "İsrailliler, ülke tarihindeki en kritik seçimlerden biri olarak görülen seçim için sandık başında. Bu, 7 Ekim 2023'te Hamas öncülüğünde İsrail'e düzenlenen saldırıların ve ardından Gazze, İran, Lübnan, Suriye ve…",
+   "link": "https://www.bbc.com/turkce/articles/ckdd8n5zddrlo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ce2/live/d344d5a0-d201-11f1-b3b6-c1e79e957e40.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-27T18:45:54+00:00",
+   "url": "/haber/israil-secimlerine-rekor-duzeyde-katilim-99ad185a/"
+  },
   {
    "id": "1da0935d",
    "title": "Güneş panellerinde ezber bozan sistem: Üretim yüzde 50 artıyor",
@@ -11,6 +33,17 @@
    "category": "teknoloji",
    "date": "2026-10-27T18:28:00+00:00",
    "url": "/haber/gunes-panellerinde-ezber-bozan-sistem-uretim-yuzde-50-artiyor-1da0935d/"
+  },
+  {
+   "id": "c3b5bd98",
+   "title": "Bahçeşehir Koleji, Yunanistan ekibi PAOK'u 84-81 yendi",
+   "summary": "Basketbol BKT Avrupa Kupası D Grubu'nun 5. haftasında Bahçeşehir Koleji, konuk ettiği Yunanistan ekibi PAOK'u 84-81 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/-bahcesehir-koleji-yunanistan-ekibi-paoku-84-81-yendi/4102975",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T18:27:22+00:00",
+   "url": "/haber/bahcesehir-koleji-yunanistan-ekibi-paok-u-84-81-yendi-c3b5bd98/"
   },
   {
    "id": "9725210d",
@@ -123,6 +156,17 @@
    "url": "/haber/hirvatistan-da-jeotermal-enerjiyle-turizmi-bulusturan-termal-tesis-aci-fafb530f/"
   },
   {
+   "id": "cab9fa70",
+   "title": "Milli okçu Mete Gazoz: 2015 yılı benim için çok zorluydu",
+   "summary": "Olimpiyat şampiyonu milli okçu Mete Gazoz\"2015 yılı benim için çok zorlu, her şeyin bittiğini sandığım ama her şeyin başladığı yıldı.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-okcu-mete-gazoz-2015-yili-benim-icin-cok-zorluydu/4102919",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T17:40:35+00:00",
+   "url": "/haber/milli-okcu-mete-gazoz-2015-yili-benim-icin-cok-zorluydu-cab9fa70/"
+  },
+  {
    "id": "2810d97a",
    "title": "Dışişleri Bakanlığından, Türkiye'nin Ege ve Doğu Akdeniz politikasına ilişkin iddialara yönelik açıklama",
    "summary": "Dışişleri Bakanlığı, gündeme getirilen iddialara ilişkin, \"Şimdiye kadar olduğu gibi bundan sonra da Ege ve Doğu Akdeniz’deki meşru hak ve menfaatlerimizi taviz vermeksizin korumaya devam edeceğiz.\" ifadesine yer verdi.",
@@ -132,17 +176,6 @@
    "category": "gundem",
    "date": "2026-10-27T17:35:11+00:00",
    "url": "/haber/disisleri-bakanligindan-turkiye-nin-ege-ve-dogu-akdeniz-politikasina-i-2810d97a/"
-  },
-  {
-   "id": "99ad185a",
-   "title": "İsrail seçimlerine rekor düzeyde katılım",
-   "summary": "İsrailliler, ülke tarihindeki en kritik seçimlerden biri olarak görülen seçim için sandık başında. Bu, 7 Ekim 2023'te Hamas öncülüğünde İsrail'e düzenlenen saldırıların ve ardından Gazze, İran, Lübnan, Suriye ve…",
-   "link": "https://www.bbc.com/turkce/articles/ckdd8n5zddrlo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ce2/live/d344d5a0-d201-11f1-b3b6-c1e79e957e40.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-27T17:33:47+00:00",
-   "url": "/haber/israil-secimlerine-rekor-duzeyde-katilim-99ad185a/"
   },
   {
    "id": "6b38f2b4",
@@ -319,28 +352,6 @@
    "category": "gundem",
    "date": "2026-10-27T16:49:42+00:00",
    "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-emeklilerimizin-daha-iyi-kosullara-kav-ee5f08f5/"
-  },
-  {
-   "id": "c4660d2d",
-   "title": "Emekli maaşlarında artışın yanı sıra refah payı eklenmesi için çalışma başlatıldı",
-   "summary": "Emekli maaşlarına yapılacak artışın yanı sıra refah payı eklenmesi ve en düşük emekli maaşı için tamamlayıcı bir düzenleme yapılması amacıyla çalışma başlatıldığı öğrenildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/emekli-maaslarinda-artisin-yani-sira-refah-payi-eklenmesi-icin-calisma-baslatildi/4102802",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T16:45:44+00:00",
-   "url": "/haber/emekli-maaslarinda-artisin-yani-sira-refah-payi-eklenmesi-icin-calisma-c4660d2d/"
-  },
-  {
-   "id": "451d34cd",
-   "title": "Melania Trump, Rusya ile Ukrayna arasındaki bölgesel ateşkesin başladığını duyurdu",
-   "summary": "ABD Başkanı Donald Trump'ın eşi Melania Trump, Ukrayna'nın Herson bölgesindeki Oleşki kentinde \"insani yardımların\" yapılabilmesi için bölgesel ateşkesin başladığını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/melania-trump-rusya-ile-ukrayna-arasindaki-bolgesel-ateskesin-basladigini-duyurdu/4102797",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T16:43:34+00:00",
-   "url": "/haber/melania-trump-rusya-ile-ukrayna-arasindaki-bolgesel-ateskesin-basladig-451d34cd/"
   },
   {
    "id": "94be6af7",
@@ -550,17 +561,6 @@
    "category": "gundem",
    "date": "2026-10-27T14:13:20+00:00",
    "url": "/haber/kazakistan-cumhurbaskani-tokayev-turkiye-ye-geliyor-f35b3a90/"
-  },
-  {
-   "id": "f2801ef4",
-   "title": "Uygun fiyatlı MacBook Neo artık uygun değil: MacBook Neo ve Air zamlandı",
-   "summary": "Apple bugün MacBook modellerinde fiyat artışına gitti. Şirketin uygun fiyatlı dizüstü bilgisayarı MacBook Neo 50 bin TL sınırına dayandı, MacBook Air ise 100 bin TL'ye yükseldi.",
-   "link": "https://www.donanimhaber.com/uygun-fiyatli-macbook-neo-artik-uygun-degil-macbook-neo-ve-air-z--212165",
-   "image": "https://www.donanimhaber.com/images/images/haber/212165/1200x675uygun-fiyatli-macbook-neo-artik-uygun-degil-macbook-neo-ve-air-z.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-27T14:12:51+00:00",
-   "url": "/haber/uygun-fiyatli-macbook-neo-artik-uygun-degil-macbook-neo-ve-air-zamland-f2801ef4/"
   },
   {
    "id": "e33c8970",
