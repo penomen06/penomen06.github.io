@@ -1,6 +1,127 @@
 {
- "updated": "2026-10-27T10:01:36.313169+00:00",
+ "updated": "2026-10-27T10:31:05.150985+00:00",
  "items": [
+  {
+   "id": "a065ae4f",
+   "title": "Alibaba’nın Qwen Modeli için Güvenlik Uyarısı: Çin’e Veri Gönderiyordu",
+   "summary": "Alibaba'nın Qwen3.8-Flash-Next modeli, Cohere'in güvenlik testinde Pekin'e veri göndermeye çalıştı. Olayın detayları ve uzman görüşleri haberimizde.",
+   "link": "https://shiftdelete.net/alibaba-qwen-modeli-veri-gonderimi-iddiasi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-27T10:30:37+00:00",
+   "url": "/haber/alibaba-nin-qwen-modeli-icin-guvenlik-uyarisi-cin-e-veri-gonderiyordu-a065ae4f/"
+  },
+  {
+   "id": "f358e023",
+   "title": "En İyi Laptop Soğutucular (5 Tavsiye)",
+   "summary": "Özellikle oyun oynarken karşılaşılan laptop ısınma sorunu, aynı zamanda video düzenlerken veya uzun süre bilgisayar başında çalışırken de kullanıcıların canını sıkabilmektedir. Cihazın hava akışını desteklemek için…",
+   "link": "https://shiftdelete.net/en-iyi-laptop-sogutucular-5-tavsiye",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-27T10:27:46+00:00",
+   "url": "/haber/en-iyi-laptop-sogutucular-5-tavsiye-f358e023/"
+  },
+  {
+   "id": "e408a4f9",
+   "title": "Cumhurbaşkanı Erdoğan, Bahçeli'yi kabul edecek",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan ile MHP Genel Başkanı Devlet Bahçeli, bugün saat 14.00'te bir araya gelecek.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bahceliyi-kabul-edecek-1748205",
+   "image": "https://images.ntv.com.tr/images/bahcelierdogan-897877.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-27T10:27:39+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-bahceli-yi-kabul-edecek-e408a4f9/"
+  },
+  {
+   "id": "87f89de3",
+   "title": "94 Binden Fazla Range Rover Modeli Geri Çağrıldı: İyi de Neden?",
+   "summary": "Jaguar Land Rover, geri görüş kamerasıyla ilgili bir sorun yüzünden 94 bine yakın Range Rover’ı geri çağırdı.",
+   "link": "https://www.webtekno.com/94-bin-range-rover-geri-cagrildi-h227935.html",
+   "image": "https://imgrosetta.webtekno.com/file/694799/694799-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-27T10:26:50+00:00",
+   "url": "/haber/94-binden-fazla-range-rover-modeli-geri-cagrildi-iyi-de-neden-87f89de3/"
+  },
+  {
+   "id": "44887c46",
+   "title": "OpenAI’dan matematik, bilgisayar bilimi ve fizikte üç büyük keşif",
+   "summary": "OpenAI, yapay zekasının matematikte önemli problemleri çözdüğünü, bilgisayar biliminde kabul gören bir teoriyi çürüttüğünü ve fizikte yeni kanıtlar ortaya koyduğunu açıkladı.",
+   "link": "https://www.donanimhaber.com/openai-dan-matematik-bilgisayar-bilimi-ve-fizikte-uc-buyuk-kesif--212147",
+   "image": "https://www.donanimhaber.com/images/images/haber/212147/1200x675openai-dan-matematik-bilgisayar-bilimi-ve-fizikte-uc-buyuk-kesif.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-27T10:26:00+00:00",
+   "url": "/haber/openai-dan-matematik-bilgisayar-bilimi-ve-fizikte-uc-buyuk-kesif-44887c46/"
+  },
+  {
+   "id": "194350ad",
+   "title": "Cumhurbaşkanı Erdoğan, MHP Genel Başkanı Bahçeli'yi kabul edecek",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın MHP Genel Başkanı Devlet Bahçeli'yi kabul edeceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-mhp-genel-baskani-bahceliyi-kabul-edecek/4102296",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T10:19:39+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-mhp-genel-baskani-bahceli-yi-kabul-edecek-194350ad/"
+  },
+  {
+   "id": "440b91af",
+   "title": "Cumhurbaşkanı Erdoğan, Bahçeli'yi kabul edecek",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, MHP Genel Başkanı Devlet Bahçeli'yi Cumhurbaşkanlığı Külliyesi'nde kabul edecek.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bahceliyi-kabul-edecek-961346.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2432000/erdogan-bahceli-2433399.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-27T10:19:00+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-bahceli-yi-kabul-edecek-440b91af/"
+  },
+  {
+   "id": "45bc8c38",
+   "title": "Yurdun güneybatı ve güneydoğu kesimleri için kuvvetli yağış uyarısı",
+   "summary": "Yurdun güneybatı ve güneydoğu kesimleri için kuvvetli yağış uyarısında bulunuldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/yurdun-guneybati-ve-guneydogu-kesimleri-icin-kuvvetli-yagis-uyarisi/4102292",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T10:17:45+00:00",
+   "url": "/haber/yurdun-guneybati-ve-guneydogu-kesimleri-icin-kuvvetli-yagis-uyarisi-45bc8c38/"
+  },
+  {
+   "id": "166d57b2",
+   "title": "Burdur'da yolcu otobüsünün devrilmesi sonucu 1 kişi öldü, 9 kişi yaralandı",
+   "summary": "Burdur'un Ağlasun ilçesinde yolcu otobüsünün devrilmesi sonucu 1 kişi hayatını kaybetti, 9 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/burdurda-yolcu-otobusunun-devrilmesi-sonucu-1-kisi-oldu-9-kisi-yaralandi/4102290",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T10:16:21+00:00",
+   "url": "/haber/burdur-da-yolcu-otobusunun-devrilmesi-sonucu-1-kisi-oldu-9-kisi-yarala-166d57b2/"
+  },
+  {
+   "id": "54a2a461",
+   "title": "iPhone Duo'nun menteşesini üreten Fine M-Tec'den açıklama: \"Ürünümüz kusurlu değil\"",
+   "summary": "iPhone Duo'nun bileşen tedarikçilerinden biri olan Fine M-Tec, katlanabilir ekranın kırılması, çatlaması şikayetlerine ilişkin olarak sorunun kendi ürettikleri parçalardan kaynaklanmadığını açıkladı.",
+   "link": "https://www.donanimhaber.com/fine-m-tec-den-iphone-duo-aciklamasi-urunumuz-kusurlu-degil--212144",
+   "image": "https://www.donanimhaber.com/images/images/haber/212144/1200x675fine-m-tec-den-iphone-duo-aciklamasi-urunumuz-kusurlu-degil.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-27T10:04:00+00:00",
+   "url": "/haber/iphone-duo-nun-mentesesini-ureten-fine-m-tec-den-aciklama-urunumuz-kus-54a2a461/"
+  },
+  {
+   "id": "6ff73200",
+   "title": "Samsung’dan katlanabilir telefonlar için 100’den fazla dayanıklılık testi",
+   "summary": "Samsung, katlanabilir telefon alanındaki sekiz nesillik deneyimini yeni Galaxy Z serisinde kapsamlı güvenilirlik testleri ve gelişmiş malzeme teknolojileriyle bir araya getiriyor. Düşme, tekrarlanan katlama, basınç, nem…",
+   "link": "https://www.log.com.tr/samsungdan-katlanabilir-telefonlar-icin-100den-fazla-dayaniklilik-testi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/Samsung-13-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-27T10:00:42+00:00",
+   "url": "/haber/samsung-dan-katlanabilir-telefonlar-icin-100-den-fazla-dayaniklilik-te-6ff73200/"
+  },
   {
    "id": "330e9840",
    "title": "Teksas Semalarında 71 Bin Drone ile Dev Ejderha Yaptılar: Yeni Dünya Rekoru",
@@ -13,26 +134,26 @@
    "url": "/haber/teksas-semalarinda-71-bin-drone-ile-dev-ejderha-yaptilar-yeni-dunya-re-330e9840/"
   },
   {
-   "id": "ea10ed80",
-   "title": "Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi TBMM Dışişleri Komisyonunda",
-   "summary": "Dışişleri Bakan Yardımcısı Büyükelçi Gümrükçü, \"Mekke Anlaşması, 3 ülke arasındaki özel dostluk ilişkilerinin uzantısı olmanın yanı sıra bölgemizde ihtiyacı giderek daha fazla hissedilen bölgesel sahiplenme anlayışının…",
-   "link": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-tbmm-disisleri-komisyonunda/4102235",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
+   "id": "f3c06abb",
+   "title": "Mekke Anlaşması TBMM Dışişleri Komisyonunda",
+   "summary": "TBMM Dışişleri Komisyonunda, Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi'nin görüşmeleri…",
+   "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-disisleri-komisyonunda-961342.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/disisleri-komisyonu-2498672.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
-   "date": "2026-10-27T09:51:51+00:00",
-   "url": "/haber/mekke-anlasmasi-nin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklif-ea10ed80/"
+   "date": "2026-10-27T09:57:00+00:00",
+   "url": "/haber/mekke-anlasmasi-tbmm-disisleri-komisyonunda-f3c06abb/"
   },
   {
-   "id": "beb82c7c",
-   "title": "İsrail'in Gazze'de yaraladığı 6 yaşındaki kız çocuğu hayatını kaybetti",
-   "summary": "İsrail ordusunun ateşkese rağmen saldırılarını sürdürdüğü Gazze Şeridi'nde daha önce yaralanan 6 yaşındaki kız çocuğu yaşamını yitirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-yaraladigi-6-yasindaki-kiz-cocugu-hayatini-kaybetti/4102232",
+   "id": "2d46a4ef",
+   "title": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 6 kişi hayatını kaybetti",
+   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 6 Filistinli yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/-israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-6-kisi-hayatini-kaybetti/4102232",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-27T09:50:21+00:00",
-   "url": "/haber/israil-in-gazze-de-yaraladigi-6-yasindaki-kiz-cocugu-hayatini-kaybetti-beb82c7c/"
+   "url": "/haber/israil-in-ateskese-ragmen-gazze-ye-duzenledigi-saldirilarda-son-24-saa-2d46a4ef/"
   },
   {
    "id": "d32c6e01",
@@ -112,6 +233,17 @@
    "url": "/haber/uganda-da-3-6-milyon-kisi-akut-gida-guvensizligiyle-karsi-karsiya-e61d636c/"
   },
   {
+   "id": "2e9e0a13",
+   "title": "İranlılar, İsrail'deki seçimlerin İran politikasını değiştirmeyeceğine inanıyor",
+   "summary": "İran'ın başkenti Tahran'da halk, İsrail'deki genel seçimlerin sonucundan bağımsız olarak Tel Aviv yönetiminin İran'a yönelik politikalarında köklü bir değişiklik yaşanmayacağını ve \"saldırgan tutumunu\" sürdüreceğini…",
+   "link": "https://www.aa.com.tr/tr/dunya/iranlilar-israildeki-secimlerin-iran-politikasini-degistirmeyecegine-inaniyor-/4102204",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T09:30:17+00:00",
+   "url": "/haber/iranlilar-israil-deki-secimlerin-iran-politikasini-degistirmeyecegine-2e9e0a13/"
+  },
+  {
    "id": "54ce1acc",
    "title": "Kentsel dönüşüm strateji belgeleri zorunlu hale getirilecek",
    "summary": "Kentsel dönüşüm strateji belgelerinin hazırlanması zorunlu hale getirilecek, dönüşüm uygulamalarında karşılaşılan hukuki sorunların çözümüne yönelik mevzuat çalışmaları yürütülecek.",
@@ -167,17 +299,6 @@
    "url": "/haber/fiat-doblo-turkiye-ye-dondu-tofas-ta-5-model-uretilecek-01ef2229/"
   },
   {
-   "id": "058085fe",
-   "title": "Trafik denetimleri 2027'de yoğunlaştırılacak",
-   "summary": "Trafik güvenliğinin artırılması ve kazalara neden olan ihlallerin önlenmesi amacıyla 2027'de denetimlerin yoğunlaştırılması hedefleniyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/trafik-denetimleri-2027de-yogunlastirilacak/4102188",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T09:17:50+00:00",
-   "url": "/haber/trafik-denetimleri-2027-de-yogunlastirilacak-058085fe/"
-  },
-  {
    "id": "1d4cb377",
    "title": "Almanya'da aracın kasıtlı olarak kalabalığın üzerine sürülmesi sonucu en az 4 kişi yaralandı",
    "summary": "Almanya'da Aşağı Saksonya eyaletinin Neustadt am Rübenberge kentinde bir aracın kasıtlı olarak kalabalığın üzerine sürülmesi sonucu en az 4 kişinin yaralandığı bildirildi.",
@@ -187,17 +308,6 @@
    "category": "gundem",
    "date": "2026-10-27T09:17:33+00:00",
    "url": "/haber/almanya-da-aracin-kasitli-olarak-kalabaligin-uzerine-surulmesi-sonucu-1d4cb377/"
-  },
-  {
-   "id": "cea7a7ed",
-   "title": "AB, dış ülkelerden gelen paketlerden ek ücret alacak",
-   "summary": "Avrupa Birliği (AB), 1 Kasım'dan itibaren Birlik dışından sipariş edilen küçük paketlere 2 avroluk işlem ücreti uygulamaya koyacak.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ab-dis-ulkelerden-gelen-paketlerden-ek-ucret-alacak/4102184",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T09:15:48+00:00",
-   "url": "/haber/ab-dis-ulkelerden-gelen-paketlerden-ek-ucret-alacak-cea7a7ed/"
   },
   {
    "id": "dba52d15",
@@ -310,6 +420,17 @@
    "url": "/haber/bakan-kurum-ulkemizin-bariscil-diplomasisi-cop31-e-ilham-olacak-41cd98b0/"
   },
   {
+   "id": "7cdeecc6",
+   "title": "İstanbul Boğazı çamurla kaplandı",
+   "summary": "İstanbul’da etkili olan sağanak yağışların ardından İstanbul Boğazı çamurla kaplanarak iki renge büründü. Sabahtan bu yana en fazla yağış metrekareye 83,9 kilogramla Şile ilçesi Darlık Mahallesi'nde kaydedildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-bogazi-camurla-kaplandi-961333.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/bogaz-camur-iha-2498616.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-27T08:43:00+00:00",
+   "url": "/haber/istanbul-bogazi-camurla-kaplandi-7cdeecc6/"
+  },
+  {
    "id": "ced4a853",
    "title": "Bakan Kurum: Ülkemizin barışçıl diplomasisi COP31'e ilham olacak",
    "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Ülkemizin barışçıl diplomasisi COP31'e ilham olacak. Diyalogla kurulan her masa, uzlaşıya ve eyleme dönüşecek.\" dedi.",
@@ -352,17 +473,6 @@
    "category": "gundem",
    "date": "2026-10-27T08:35:59+00:00",
    "url": "/haber/lula-nin-whatsapp-ordusu-brezilya-da-secimlerin-kaderini-nasil-degisti-dd41be47/"
-  },
-  {
-   "id": "59da9464",
-   "title": "Türk spor cerrahı, dünyanın gözü önünde canlı cerrahiye imza attı",
-   "summary": "Prof. Dr. Gazi Huri dünyanın en büyük ikinci artroskopi derneği olarak kabul edilen Hindistan Artroskopi Derneğinin düzenlediği 23. Hindistan Artroskopi Derneği Kongresi'nde (IASCON 2026) Türkiye'den canlı cerrahi…",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-spor-cerrahi-dunyanin-gozu-onunde-canli-cerrahiye-imza-atti/4102114",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T08:35:07+00:00",
-   "url": "/haber/turk-spor-cerrahi-dunyanin-gozu-onunde-canli-cerrahiye-imza-atti-59da9464/"
   },
   {
    "id": "e2f263d7",
@@ -495,17 +605,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T07:54:00+00:00",
    "url": "/haber/cinli-svolt-100-kwh-kapasiteli-yari-kati-hal-bataryalarin-seri-uretimi-a6c4adea/"
-  },
-  {
-   "id": "e6146288",
-   "title": "İzmit Körfezinden 2,4 milyon metreküp çamur çıkarıldı",
-   "summary": "İzmit Körfezi'nde Çevre, Şehircilik ve İklim Değişikliği Bakanlığı ile Kocaeli Büyükşehir Belediyesi iş birliğinde yürütülen dip çamuru temizliği projesinde, deniz tabanından yaklaşık 2,4 milyon metreküp çamur çıkarıldı.",
-   "link": "https://www.trthaber.com/haber/cevre/izmit-korfezinden-24-milyon-metrekup-camur-cikarildi-961319.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2438000/izmit-korfezi-dip-camuru-temizligi-aa-2438567.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-27T07:46:00+00:00",
-   "url": "/haber/izmit-korfezinden-2-4-milyon-metrekup-camur-cikarildi-e6146288/"
   },
   {
    "id": "7bb27fa4",
@@ -805,17 +904,6 @@
    "url": "/haber/bu-ayari-kontrol-edin-milyonlarca-router-tehlike-altinda-c12dcace/"
   },
   {
-   "id": "d8a7a9ce",
-   "title": "DAEŞ operasyonunda 2 milyon 135 bin lira değerinde para ve altına el konuldu",
-   "summary": "Ankara merkezli 2 ilde DAEŞ'in finansman faaliyetlerine yönelik düzenlenen operasyonda 16 şüpheli gözaltına alındı. Aramalarda yaklaşık 2 milyon 135 bin lira değerinde para ve altına el konuldu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-daes-operasyonunda-2-milyon-135-bin-lira-degerinde-para-ve-altina-el-konuldu-1748138",
-   "image": "https://images.ntv.com.tr/images/508665700_1057080376560398_84759011896120315_n-845283.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-27T06:28:05+00:00",
-   "url": "/haber/daes-operasyonunda-2-milyon-135-bin-lira-degerinde-para-ve-altina-el-k-d8a7a9ce/"
-  },
-  {
    "id": "3879a8e3",
    "title": "OnePlus, açık yapılı kablosuz kulaklığı Buds Clip’i tanıttı",
    "summary": "Açık yapısı sayesinde kullanım sırasında çevredeki seslerin duyulmasına imkan tanıyan yeni kablosuz kulaklık OnePlus Buds Clip, “Dynaudio” tarafından hazırlanan sürücü sistemiyle yüksek ses kalitesi vadediyor. Çift DAC…",
@@ -849,39 +937,6 @@
    "url": "/haber/turkiye-de-de-satilacak-xiaomi-18-pro-ve-18-pro-max-in-avrupa-fiyatlar-c3870df6/"
   },
   {
-   "id": "bf306f46",
-   "title": "Apple Store’da iPhone İadesi için Yeni Önlemler Alındı",
-   "summary": "Apple, mağazalardaki hırsızlıkları önlemek için iPhone iade süreçlerinde yeni bir güvenlik sistemi başlattı. İşte yeni sistemin detayları ve getirdiği yenilikler.",
-   "link": "https://shiftdelete.net/apple-storeda-iphone-iadesi-icin-yeni-onlemler-alindi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-27T06:18:42+00:00",
-   "url": "/haber/apple-store-da-iphone-iadesi-icin-yeni-onlemler-alindi-bf306f46/"
-  },
-  {
-   "id": "c7918bca",
-   "title": "11.000 mAh Bataryalı Canavar Geldi: HONOR X9e Pro Tanıtıldı!",
-   "summary": "HONOR, dayanıklılık odaklı popüler X serisini ilk kez bir “Pro” modeliyle taçlandırıyor. Dubai’deki ikonik Burç Halife’de gerçekleştirilen görsel şovla küresel pazara duyurulan HONOR X9e Pro, mobil dünyada alışılagelmiş…",
-   "link": "https://shiftdelete.net/11-000-mah-bataryali-canavar-geldi-honor-x9e-pro-tanitildi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-27T06:12:11+00:00",
-   "url": "/haber/11-000-mah-bataryali-canavar-geldi-honor-x9e-pro-tanitildi-c7918bca/"
-  },
-  {
-   "id": "7e222682",
-   "title": "Apple, son yazılım güncellemeleriyle 320’den fazla güvenlik açığını kapattı",
-   "summary": "Yapay zeka sistemlerinin etkisiyle her geçen gün daha fazla güvenlik açığıyla karşılaşan Apple, dün gece yayımladığı “iOS 27.2, iPadOS 27.2, iOS 26.7.2, iPadOS 26.7.2, iOS 18.7.11, iPadOS 18.7.11, macOS Golden Gate…",
-   "link": "https://www.log.com.tr/apple-son-yazilim-guncellemeleriyle-320den-fazla-guvenlik-acigini-kapatti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/03/apple-iphone-ipad-ve-maclere-webkit-acigini-kapatan-arka-planda-guvenlik-iyilestirmeleri-guncellemesi-gonderdi-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-27T06:08:14+00:00",
-   "url": "/haber/apple-son-yazilim-guncellemeleriyle-320-den-fazla-guvenlik-acigini-kap-7e222682/"
-  },
-  {
    "id": "ce1ae6c8",
    "title": "Afyonkarahisar, jeotermal enerjiyle ısıtılan konut sayısında lider",
    "summary": "Afyonkarahisar, jeotermal enerjiyle ısıtılan 55 bin 610 konutla Türkiye'de ilk sırada yer alıyor. Kentte jeotermal seracılık yatırımları da büyümeye devam ediyor.",
@@ -891,17 +946,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T05:51:00+00:00",
    "url": "/haber/afyonkarahisar-jeotermal-enerjiyle-isitilan-konut-sayisinda-lider-ce1ae6c8/"
-  },
-  {
-   "id": "efa5b695",
-   "title": "E Ink Kaleido 4 tanıtıldı: Renkli e-kitap ekranlarında büyük gelişme",
-   "summary": "E Ink, renkli e-kitap ekranlarındaki netlik ve hız sorunlarını azaltmayı hedefleyen Kaleido 4 teknolojisini tanıttı. Yeni ekranın ilk kullanıcısı Çinli Hanvon oldu.",
-   "link": "https://www.donanimhaber.com/e-ink-kaleido-4-renkli-e-kitap-ekranlarinda-buyuk-gelisme--212122",
-   "image": "https://www.donanimhaber.com/images/images/haber/212122/1200x675e-ink-kaleido-4-renkli-e-kitap-ekranlarinda-buyuk-gelisme.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-27T05:28:24+00:00",
-   "url": "/haber/e-ink-kaleido-4-tanitildi-renkli-e-kitap-ekranlarinda-buyuk-gelisme-efa5b695/"
   },
   {
    "id": "fc28c192",
@@ -1058,17 +1102,6 @@
    "url": "/haber/fon-kanunu-resmi-gazete-de-yayimlandi-aeb588c0/"
   },
   {
-   "id": "03c3cc47",
-   "title": "Vivo Y600 rekor kıran bataryasıyla geliyor",
-   "summary": "Vivo Y600 akıllı telefon modelinde 6.83 inçlik AMOLED ekran, 120Hz tazeleme hızı, 10000mAh batarya, 44W hızlı şarj, rekor video oynatma süresi gibi özellikler yer alıyor.",
-   "link": "https://www.donanimhaber.com/vivo-y600-tanitildi-iste-ozellikleri-ve-fiyati--212127",
-   "image": "https://www.donanimhaber.com/images/images/haber/212127/1200x675vivo-y600-tanitildi-iste-ozellikleri-ve-fiyati.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-26T20:48:00+00:00",
-   "url": "/haber/vivo-y600-rekor-kiran-bataryasiyla-geliyor-03c3cc47/"
-  },
-  {
    "id": "95f233c4",
    "title": "Milas Belediye Başkanı görevden uzaklaştırıldı",
    "summary": "İçişleri Bakanlığı, tutuklanan Muğla'nın Milas Belediye Başkanı Fevzi Topuz'un görevden uzaklaştırıldığını duyurdu.",
@@ -1135,17 +1168,6 @@
    "url": "/haber/anthropic-borsaya-aciliyor-halka-arz-basvurusu-yapti-a536c4f4/"
   },
   {
-   "id": "7d1d02f7",
-   "title": "Zorlu: İki yılda bir Türk Devletleri Futbol Kupası düzenlenmesi planlanıyor",
-   "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Türk dünyasında bir futbol ekosistemi oluşturacağını, aynı zamanda iki yılda bir Türk Devletleri Futbol Kupası düzenlenmesinin…",
-   "link": "https://www.trthaber.com/haber/turk-dunyasi/zorlu-iki-yilda-bir-turk-devletleri-futbol-kupasi-duzenlenmesi-planlaniyor-961250.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/kursad-zorlu-aa-2498482.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-26T13:52:00+00:00",
-   "url": "/haber/zorlu-iki-yilda-bir-turk-devletleri-futbol-kupasi-duzenlenmesi-planlan-7d1d02f7/"
-  },
-  {
    "id": "35bca452",
    "title": "Türkiye Tarihine Yön Veren Yerli Otomobiller",
    "summary": "Devrim'den Anadol'a, Hacı Murat'tan Tofaş Şahin'e ve Togg T10X'e kadar Türkiye otomotiv tarihine yön veren otomobilleri inceliyoruz.",
@@ -1155,28 +1177,6 @@
    "category": "teknoloji",
    "date": "2026-10-26T13:45:30+00:00",
    "url": "/haber/turkiye-tarihine-yon-veren-yerli-otomobiller-35bca452/"
-  },
-  {
-   "id": "f43f005b",
-   "title": "Logitech, Şekil Değiştiren Çok Kullanışlı Yeni Mouse’u Pebble Up’ı Duyurdu",
-   "summary": "Logitech, kompakt tasarımı ergonomik gövdeyle birleştiren yeni kablosuz faresi Pebble Up'ı resmen tanıttı.",
-   "link": "https://www.webtekno.com/logitech-pebble-up-mouse-h227878.html",
-   "image": "https://imgrosetta.webtekno.com/file/694685/694685-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-26T13:45:00+00:00",
-   "url": "/haber/logitech-sekil-degistiren-cok-kullanisli-yeni-mouse-u-pebble-up-i-duyu-f43f005b/"
-  },
-  {
-   "id": "7feecd9c",
-   "title": "Mekke İttifakı Üyeleri İran görüşmesi başladı",
-   "summary": "Suudi Arabistan, Türkiye ve Pakistan'dan üst düzey yetkililer ile İran arasındaki görüşmeler Tahran'da başladı.",
-   "link": "https://www.trthaber.com/haber/dunya/mekke-ittifaki-uyeleri-iran-gorusmesi-basladi-961249.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2486000/mekke-anlasmasi-2486731.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-26T13:36:00+00:00",
-   "url": "/haber/mekke-ittifaki-uyeleri-iran-gorusmesi-basladi-7feecd9c/"
   },
   {
    "id": "d99fdadb",
