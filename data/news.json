@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-27T20:01:07.019080+00:00",
+ "updated": "2026-10-27T20:31:00.717114+00:00",
  "items": [
+  {
+   "id": "99ad185a",
+   "title": "İsrail seçimleri: Sandıklar kapandı, rekor katılım bildirildi",
+   "summary": "İsrailliler, ülke tarihindeki en kritik seçimlerden biri olarak görülen seçim için sandık başındaydı. Bu, 7 Ekim 2023'te Hamas öncülüğünde İsrail'e düzenlenen saldırıların ve ardından Gazze, İran, Lübnan, Suriye ve…",
+   "link": "https://www.bbc.com/turkce/articles/ckdd8n5zddrlo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ce2/live/d344d5a0-d201-11f1-b3b6-c1e79e957e40.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-27T20:30:02+00:00",
+   "url": "/haber/israil-secimleri-sandiklar-kapandi-rekor-katilim-bildirildi-99ad185a/"
+  },
+  {
+   "id": "7e1c67a0",
+   "title": "GTA 6’nın indirme boyutu tam 200 GB’ın üzerinde olabilir",
+   "summary": "PlayStation Game Size hesabının paylaştığı bilgilere göre GTA 6’nın indirme boyutu tam 210 GB seviyesinde yer alıyor olabilir. Ön yüklemesine 12 Kasım’da başlanacağı aktarılan “devasa” oyun, konsollarda 19 Kasım gece…",
+   "link": "https://www.log.com.tr/gta-6nin-indirme-boyutu-200-gbin-uzerinde-olabilir/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-14_16-48-10_RkGL5-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-27T20:30:00+00:00",
+   "url": "/haber/gta-6-nin-indirme-boyutu-tam-200-gb-in-uzerinde-olabilir-7e1c67a0/"
+  },
+  {
+   "id": "90aba693",
+   "title": "Hem fare hem dokunmatik yüzey hem de klavye: Super Mouse tanıtıldı",
+   "summary": "Arctic Fox, dokunmatik ekranla donatılan Super Mouse modelini tanıttı. Sesli dikte ve programlanabilir kısayollar gibi özelliklere sahip olan cihaz, klasik fare deneyimini ileri bir noktaya taşıyor.",
+   "link": "https://www.donanimhaber.com/dokunmatik-ekranli-fare-arctic-fox-super-mouse-tanitildi--212174",
+   "image": "https://www.donanimhaber.com/images/images/haber/212174/1200x675dokunmatik-ekranli-fare-arctic-fox-super-mouse-tanitildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-27T20:28:00+00:00",
+   "url": "/haber/hem-fare-hem-dokunmatik-yuzey-hem-de-klavye-super-mouse-tanitildi-90aba693/"
+  },
+  {
+   "id": "7e051921",
+   "title": "İsrail'de sandık çıkış anketlerine göre Netanyahu karşıtı blok, seçimi önde tamamladı",
+   "summary": "",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-sandik-cikis-anketlerine-gore-netanyahu-karsiti-blok-secimi-onde-tamamladi/4103060",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T20:10:39+00:00",
+   "url": "/haber/israil-de-sandik-cikis-anketlerine-gore-netanyahu-karsiti-blok-secimi-7e051921/"
+  },
+  {
+   "id": "5ddb6a06",
+   "title": "İçişleri Bakanı Çiftçi'den \"Anadolu Ajansı Haber Ödülleri\"ne ilişkin paylaşım",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Milli Mücadele yıllarından bugüne milletimizin sesini dünyaya duyuran Anadolu Ajansının, bugün de mazlum coğrafyaların sesi olan çalışmalarını takdirle takip ediyoruz.\" ifadesini…",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-anadolu-ajansi-haber-odullerine-iliskin-paylasim/4103055",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T20:05:04+00:00",
+   "url": "/haber/icisleri-bakani-ciftci-den-anadolu-ajansi-haber-odulleri-ne-iliskin-pa-5ddb6a06/"
+  },
   {
    "id": "adaffbbd",
    "title": "BAYKAR, ROKETSAN ve MKE Yatırımlarıyla Samsun Savunma Sanayisinin Yeni Üretim Merkezlerinden Biri Oluyor",
@@ -167,17 +222,6 @@
    "url": "/haber/xiaomi-redmi-book-2027-tanitildi-120-hz-ekran-ve-20-saat-pil-omru-e6f0c714/"
   },
   {
-   "id": "99ad185a",
-   "title": "İsrail seçimlerine rekor düzeyde katılım",
-   "summary": "İsrailliler, ülke tarihindeki en kritik seçimlerden biri olarak görülen seçim için sandık başında. Bu, 7 Ekim 2023'te Hamas öncülüğünde İsrail'e düzenlenen saldırıların ve ardından Gazze, İran, Lübnan, Suriye ve…",
-   "link": "https://www.bbc.com/turkce/articles/ckdd8n5zddrlo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ce2/live/d344d5a0-d201-11f1-b3b6-c1e79e957e40.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-27T18:45:54+00:00",
-   "url": "/haber/israil-secimlerine-rekor-duzeyde-katilim-99ad185a/"
-  },
-  {
    "id": "1da0935d",
    "title": "Güneş panellerinde ezber bozan sistem: Üretim yüzde 50 artıyor",
    "summary": "İspanya’da test edilen yeni güneş paneli sistemi, hareketli parçalara ihtiyaç duymadan sabit panellere kıyasla yüzde 51 daha fazla elektrik üretti. Sistemin ekonomik getirisi de yüksek.",
@@ -299,28 +343,6 @@
    "url": "/haber/fenerbahce-de-ismail-kartal-donemi-sona-erdi-9d4efc5f/"
   },
   {
-   "id": "acdce987",
-   "title": "ASELSAN'ın 9 aylık cirosu 151,5 milyar lira oldu",
-   "summary": "ASELSAN'ın cirosu, yılın 9 ayında geçen yılın aynı dönemine göre yüzde 28 artışla 151,5 milyar liraya ulaştı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/aselsanin-9-aylik-cirosu-151-5-milyar-lira-oldu/4102950",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T17:53:46+00:00",
-   "url": "/haber/aselsan-in-9-aylik-cirosu-151-5-milyar-lira-oldu-acdce987/"
-  },
-  {
-   "id": "be91f0d7",
-   "title": "Fenerbahçe, teknik direktör İsmail Kartal ile yollarını ayırdı",
-   "summary": "Fenerbahçe Kulübü, teknik direktör İsmail Kartal ile yollarını ayırdığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-teknik-direktor-ismail-kartal-ile-yollarini-ayirdi/4102941",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T17:45:03+00:00",
-   "url": "/haber/fenerbahce-teknik-direktor-ismail-kartal-ile-yollarini-ayirdi-be91f0d7/"
-  },
-  {
    "id": "fafb530f",
    "title": "Hırvatistan'da jeotermal enerjiyle turizmi buluşturan termal tesis açıldı",
    "summary": "Hırvatistan'da açılan Wellovar, enerjisini jeotermal kaynaklar ve güneş panelleriyle karşılayacak şekilde tasarlandı. Tesisin yılda 250 bin ziyaretçi çekmesi bekleniyor.",
@@ -422,7 +444,7 @@
   {
    "id": "85ab131f",
    "title": "Cevdet Yılmaz: 1 milyon liraya kadar ara ödemeler cuma günü başlayacak",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Olağanüstü tasfiye sürecinde 1 milyon liraya kadar olan ara ödemeler İş Bankası ve Ziraat Bankası aracılığıyla cuma günü başlayacak\" ifadelerini kullandı.",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"23 Ekim itibarıyla toplam 93 fona, 71 bin 899 hesaba 68 milyar TL ödendi. Olağanüstü tasfiye kapsamında, 1 milyon liraya kadar olan ödemeler cuma günü itibarıyla İş Bankası ve…",
    "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-1-milyon-liraya-kadar-ara-odemeler-cuma-gunu-baslayacak-961396.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/cevdet-yilmaz-butce-komisyon-aa-2498860.jpg",
    "source": "TRT Haber Manşet Haberleri",
@@ -550,17 +572,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T15:52:00+00:00",
    "url": "/haber/kasim-ayinda-izleyici-ile-bulusacak-en-dikkat-cekici-10-film-16560162/"
-  },
-  {
-   "id": "a20854f6",
-   "title": "ABD'de toplu konutlara kurulacak jeotermal ısı pompaları, hem ısıtmayı hem soğutmayı yapacak",
-   "summary": "Yer altındaki sıcaklıktan yararlanan jeotermal ısı pompaları, ABD'deki yeni bir konut projesinde kullanılacak. Sistemin kurulum maliyetini ise yerel bir doğal gaz şirketi karşılayacak.",
-   "link": "https://www.donanimhaber.com/abd-de-uygun-fiyatli-konutlara-jeotermal-isi-pompalari-kuruluyor--212162",
-   "image": "https://www.donanimhaber.com/images/images/haber/212162/1200x675abd-de-uygun-fiyatli-konutlara-jeotermal-isi-pompalari-kuruluyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-27T15:30:00+00:00",
-   "url": "/haber/abd-de-toplu-konutlara-kurulacak-jeotermal-isi-pompalari-hem-isitmayi-a20854f6/"
   },
   {
    "id": "0904944e",
@@ -858,17 +869,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T12:00:19+00:00",
    "url": "/haber/acer-predator-atlas-8-fiyati-belli-oldu-pc-mi-aliyoruz-el-konsolu-mu-14a8dd9c/"
-  },
-  {
-   "id": "69522269",
-   "title": "PUBG: Battlegrounds ve K-POP grubu IVE bir araya geliyor",
-   "summary": "Krafton, Inc. bugün yaptığı açıklamayla PUBG: Battlegrounds‘ın K-pop grubu IVE ile, grubun yeni hit şarkısı “LOVE DIVE”dan ilham alan bir iş birliği yaptığını duyurdu. 4 Kasım’da PC’de, 12 Kasım’da da konsollarda…",
-   "link": "https://www.log.com.tr/pubg-battlegrounds-ve-k-pop-grubu-ive-bir-araya-geliyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/PUBG-24-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-27T12:00:09+00:00",
-   "url": "/haber/pubg-battlegrounds-ve-k-pop-grubu-ive-bir-araya-geliyor-69522269/"
   },
   {
    "id": "a34bc32f",
