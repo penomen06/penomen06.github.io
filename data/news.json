@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T21:01:07.285973+00:00",
+ "updated": "2026-10-27T21:30:59.696484+00:00",
  "items": [
   {
    "id": "0bf7088c",
@@ -9,19 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-27T21:00:00+00:00",
+   "date": "2026-10-27T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-0bf7088c/"
   },
   {
    "id": "543614f7",
-   "title": "İsrail'de sandık çıkış anketlerine göre hiçbir blok meclis çoğunluğunu sağlayamıyor",
+   "title": "İsrail'de sandık çıkış anketlerine göre Eisenkot önde, hiçbir blok meclis çoğunluğunu sağlayamıyor",
    "summary": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu…",
    "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed00/live/2b0b38b0-d248-11f1-8ba3-9fd3e261415f.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-10-27T20:55:56+00:00",
-   "url": "/haber/israil-de-sandik-cikis-anketlerine-gore-hicbir-blok-meclis-cogunlugunu-543614f7/"
+   "date": "2026-10-27T21:24:44+00:00",
+   "url": "/haber/israil-de-sandik-cikis-anketlerine-gore-eisenkot-onde-hicbir-blok-mecl-543614f7/"
+  },
+  {
+   "id": "9a2a9c9d",
+   "title": "Sermaye piyasası işlemlerine ilişkin soruşturmada yakalanan 2 zanlı tutuklandı",
+   "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan 4 şüpheliden 2'si tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-yakalanan-2-zanli-tutuklandi/4103142",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T21:15:39+00:00",
+   "url": "/haber/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-yakalanan-2-zanli-tu-9a2a9c9d/"
   },
   {
    "id": "5ac98f7f",
@@ -44,6 +55,39 @@
    "category": "gundem",
    "date": "2026-10-27T20:51:07+00:00",
    "url": "/haber/fon-sorusturmasinda-iki-ust-duzey-yonetici-tutuklandi-6975d7ea/"
+  },
+  {
+   "id": "a6315fd0",
+   "title": "Türkiye, 2026 Dakar Gençlik Olimpiyat Oyunları'na 34 sporcuyla katılacak",
+   "summary": "Türkiye, Senegal'in başkenti Dakar'da 31 Ekim-13 Kasım tarihlerinde düzenlenecek 2026 Dakar Gençlik Olimpiyat Oyunları'nda 16 dalda 34 sporcuyla mücadele edecek.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-2026-dakar-genclik-olimpiyat-oyunlarina-34-sporcuyla-katilacak/4103121",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T20:48:47+00:00",
+   "url": "/haber/turkiye-2026-dakar-genclik-olimpiyat-oyunlari-na-34-sporcuyla-katilaca-a6315fd0/"
+  },
+  {
+   "id": "8d46a1bd",
+   "title": "Suriye'de Ürdün'ün hava saldırısında yakınlarını kaybeden Muhammed Selim adalet istiyor",
+   "summary": "Ürdün savaş uçaklarının Suriye’nin Dera ilinde yerleşim alanına düzenlediği hava saldırısında üçü çocuk, 7 yakınını kaybeden Muhammed Selim, saldırıya sebep olanların hesap vermesini istiyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriyede-urdunun-hava-saldirisinda-yakinlarini-kaybeden-muhammed-selim-adalet-istiyor/4103120",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T20:45:58+00:00",
+   "url": "/haber/suriye-de-urdun-un-hava-saldirisinda-yakinlarini-kaybeden-muhammed-sel-8d46a1bd/"
+  },
+  {
+   "id": "c497591e",
+   "title": "ABD Başkan Yardımcısı Vance'in artan benzin fiyatlarıyla ilgili açıklaması tartışma yarattı",
+   "summary": "ABD Başkan Yardımcısı JD Vance'in 3 Kasım ara seçimleri yaklaşırken bir mitingde artan benzin fiyatlarıyla ilgili açıklaması \"kendi yönetimlerini de hedef aldığı\" gerekçesiyle tartışmaya konu oldu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vancein-artan-benzin-fiyatlariyla-ilgili-aciklamasi-tartisma-yaratti/4103118",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T20:44:14+00:00",
+   "url": "/haber/abd-baskan-yardimcisi-vance-in-artan-benzin-fiyatlariyla-ilgili-acikla-c497591e/"
   },
   {
    "id": "ee9ae13e",
@@ -288,39 +332,6 @@
    "url": "/haber/gunes-panellerinde-ezber-bozan-sistem-uretim-yuzde-50-artiyor-1da0935d/"
   },
   {
-   "id": "c3b5bd98",
-   "title": "Bahçeşehir Koleji, Yunanistan ekibi PAOK'u 84-81 yendi",
-   "summary": "Basketbol BKT Avrupa Kupası D Grubu'nun 5. haftasında Bahçeşehir Koleji, konuk ettiği Yunanistan ekibi PAOK'u 84-81 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/-bahcesehir-koleji-yunanistan-ekibi-paoku-84-81-yendi/4102975",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T18:27:22+00:00",
-   "url": "/haber/bahcesehir-koleji-yunanistan-ekibi-paok-u-84-81-yendi-c3b5bd98/"
-  },
-  {
-   "id": "9725210d",
-   "title": "Yemen ordusu: Babulmendeb Boğazı'nda stratejik noktalarda kontrol sağlandı",
-   "summary": "Yemen ordusu, ülkenin güneybatısındaki Taiz vilayeti sınırlarında yer alan Babulmendeb Boğazı'nda stratejik noktaların kontrolünü sağladığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemen-ordusu-babulmendeb-bogazinda-stratejik-noktalarda-kontrol-saglandi/4102968",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T18:18:01+00:00",
-   "url": "/haber/yemen-ordusu-babulmendeb-bogazi-nda-stratejik-noktalarda-kontrol-sagla-9725210d/"
-  },
-  {
-   "id": "6134421b",
-   "title": "Sermaye piyasası işlemlerine ilişkin soruşturmada yakalanan 2 zanlıya tutuklama talebi",
-   "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan 4 şüpheliden 2'si tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-yakalanan-2-zanliya-tutuklama-talebi-/4102964",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T18:12:21+00:00",
-   "url": "/haber/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-yakalanan-2-zanliya-6134421b/"
-  },
-  {
    "id": "7a9ed08d",
    "title": "Anadolu Ajansı Haber Ödülleri TBMM'de düzenlenen törenle sahiplerini buldu",
    "summary": "Bu yıl ikincisi düzenlenen Anadolu Ajansı Haber Ödülleri, TBMM Başkanı Numan Kurtulmuş, İçişleri Bakanı Mustafa Çiftçi ile çok sayıda davetlinin katıldığı törenle sahiplerini buldu.",
@@ -385,17 +396,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T17:44:00+00:00",
    "url": "/haber/hirvatistan-da-jeotermal-enerjiyle-turizmi-bulusturan-termal-tesis-aci-fafb530f/"
-  },
-  {
-   "id": "cab9fa70",
-   "title": "Milli okçu Mete Gazoz: 2015 yılı benim için çok zorluydu",
-   "summary": "Olimpiyat şampiyonu milli okçu Mete Gazoz\"2015 yılı benim için çok zorlu, her şeyin bittiğini sandığım ama her şeyin başladığı yıldı.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-okcu-mete-gazoz-2015-yili-benim-icin-cok-zorluydu/4102919",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T17:40:35+00:00",
-   "url": "/haber/milli-okcu-mete-gazoz-2015-yili-benim-icin-cok-zorluydu-cab9fa70/"
   },
   {
    "id": "e1fa29d8",
