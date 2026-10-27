@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T22:01:11.987926+00:00",
+ "updated": "2026-10-27T22:30:57.016592+00:00",
  "items": [
   {
    "id": "0bf7088c",
@@ -9,8 +9,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-27T22:00:00+00:00",
+   "date": "2026-10-27T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-0bf7088c/"
+  },
+  {
+   "id": "860bed67",
+   "title": "İsrail ordusunun Gazze Şeridi'ne düzenlediği saldırılarda 4 Filistinli öldü",
+   "summary": "İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 4 Filistinli hayatını kaybetti, 5 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazze-seridine-duzenledigi-saldirilarda-4-filistinli-oldu/4103175",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T22:20:30+00:00",
+   "url": "/haber/israil-ordusunun-gazze-seridi-ne-duzenledigi-saldirilarda-4-filistinli-860bed67/"
+  },
+  {
+   "id": "543614f7",
+   "title": "İsrail'de sandık çıkış anketleri: Eisenkot bloğu önde, partiler meclis çoğunluğunu sağlayamıyor",
+   "summary": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu…",
+   "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed00/live/2b0b38b0-d248-11f1-8ba3-9fd3e261415f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-27T22:19:41+00:00",
+   "url": "/haber/israil-de-sandik-cikis-anketleri-eisenkot-blogu-onde-partiler-meclis-c-543614f7/"
+  },
+  {
+   "id": "c865c0c4",
+   "title": "Sermaye piyasası işlemlerine ilişkin soruşturmada 3 kişinin mal varlıklarına tedbir kararı",
+   "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında Fatih Erdoğan, Abdulkerim Fırat ve Mehmet Erdoğan'ın mal varlıklarına tedbir konuldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-3-kisinin-mal-varliklarina-tedbir-karari/4103171",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T22:10:55+00:00",
+   "url": "/haber/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-3-kisinin-mal-varlik-c865c0c4/"
+  },
+  {
+   "id": "27eba6f3",
+   "title": "Tasfiye edilen fonlarla ilgili 1 milyon TL'ye kadar ödemeler cuma başlayacak",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tasfiye edilen fonlarla ilgili 1 milyon liraya kadar ödemeler cuma günü başlayacağını duyurdu.",
+   "link": "https://www.ntv.com.tr/turkiye/tasfiye-edilen-fonlarla-ilgili-ara-odeme-tarihi-netlesti-1748250",
+   "image": "https://images.ntv.com.tr/images/cevdetyılmaz-180908(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-27T22:09:08+00:00",
+   "url": "/haber/tasfiye-edilen-fonlarla-ilgili-1-milyon-tl-ye-kadar-odemeler-cuma-basl-27eba6f3/"
   },
   {
    "id": "f9baae2a",
@@ -22,17 +66,6 @@
    "category": "gundem",
    "date": "2026-10-27T21:55:31+00:00",
    "url": "/haber/abd-brezilya-da-secimi-kaybeden-ve-pasaportuna-el-konulan-bolsonaro-ya-f9baae2a/"
-  },
-  {
-   "id": "543614f7",
-   "title": "İsrail'de sandık çıkış anketlerine göre Eisenkot önde, hiçbir blok meclis çoğunluğunu sağlayamıyor",
-   "summary": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu…",
-   "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed00/live/2b0b38b0-d248-11f1-8ba3-9fd3e261415f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-27T21:24:44+00:00",
-   "url": "/haber/israil-de-sandik-cikis-anketlerine-gore-eisenkot-onde-hicbir-blok-mecl-543614f7/"
   },
   {
    "id": "9a2a9c9d",
@@ -255,17 +288,6 @@
    "url": "/haber/spk-tera-yatirimin-tum-faaliyet-izinlerini-ve-yetki-belgesini-iptal-et-9f5b28ff/"
   },
   {
-   "id": "27eba6f3",
-   "title": "Tasfiye edilen fonlarla ilgili 1 milyon TL'ye kadar ödemeler cuma başlayacak",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tasfiye edilen fonlarla ilgili 1 milyon liraya kadar ödemeler cuma günü başlayacağını duyurdu.",
-   "link": "https://www.ntv.com.tr/turkiye/tasfiye-edilen-fonlarla-ilgili-ara-odeme-tarihi-netlesti-1748250",
-   "image": "https://images.ntv.com.tr/images/cevdetyılmaz-180908(3).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-27T19:20:01+00:00",
-   "url": "/haber/tasfiye-edilen-fonlarla-ilgili-1-milyon-tl-ye-kadar-odemeler-cuma-basl-27eba6f3/"
-  },
-  {
    "id": "9c7f9601",
    "title": "Putin ve Pezeşkiyan Moskova'da bölgesel gelişmeleri ve ilişkileri görüştü",
    "summary": "Rusya Devlet Başkanı Vladimir Putin ile İran Cumhurbaşkanı Mesud Pezeşkiyan, Moskova'da bir araya gelerek bölgedeki gelişmeleri ve iki ülke arasındaki ilişkileri ele aldı.",
@@ -275,28 +297,6 @@
    "category": "gundem",
    "date": "2026-10-27T19:18:40+00:00",
    "url": "/haber/putin-ve-pezeskiyan-moskova-da-bolgesel-gelismeleri-ve-iliskileri-goru-9c7f9601/"
-  },
-  {
-   "id": "340ea08d",
-   "title": "Rusya Devlet Başkanı Putin ve Katar Emiri Al Sani, Moskova'da görüştü",
-   "summary": "Rusya Devlet Başkanı Vladimir Putin ile Katar Emiri Şeyh Temim bin Hamed Al Sani, Moskova'da bir araya gelerek İran çevresindeki çatışmaları, Hürmüz Boğazı'ndaki krizi ve enerji alanındaki işbirliğini ele aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-devlet-baskani-putin-ve-katar-emiri-al-sani-moskovada-gorustu/4103013",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T19:17:42+00:00",
-   "url": "/haber/rusya-devlet-baskani-putin-ve-katar-emiri-al-sani-moskova-da-gorustu-340ea08d/"
-  },
-  {
-   "id": "eb2ca689",
-   "title": "\"Hikayenin En Güzel Yeri: Türkiye'de Soyut Resim\" sergisi İstanbul'da sanatseverlerle buluştu",
-   "summary": "Küra Kolektif tarafından \"Hikayenin En Güzel Yeri: Türkiye’de Soyut Resim\" sergisi, Karaköy'deki The Muradiye'de ziyarete açıldı.",
-   "link": "https://www.aa.com.tr/tr/kultur/hikayenin-en-guzel-yeri-turkiyede-soyut-resim-sergisi-istanbulda-sanatseverlerle-bulustu/4103012",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T19:13:49+00:00",
-   "url": "/haber/hikayenin-en-guzel-yeri-turkiye-de-soyut-resim-sergisi-istanbul-da-san-eb2ca689/"
   },
   {
    "id": "0b25e56c",
