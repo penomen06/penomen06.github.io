@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:30:58.717559+00:00",
+ "updated": "2026-10-27T01:01:10.926168+00:00",
  "items": [
   {
    "id": "c60e4ea6",
@@ -9,7 +9,7 @@
    "image": "",
    "source": "Teknoloji Haberleri – ShiftDelete.Net",
    "category": "teknoloji",
-   "date": "2026-10-27T00:30:52.017444+00:00",
+   "date": "2026-10-27T01:01:01.791905+00:00",
    "url": "/haber/apple-ios-27-2-guncellemesini-yayinladi-iste-yeni-ozellikler-c60e4ea6/"
   },
   {
@@ -20,8 +20,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-27T00:30:00+00:00",
+   "date": "2026-10-27T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c905449/"
+  },
+  {
+   "id": "9f19ae00",
+   "title": "Altın Top ödülünü İngiliz futbolcu Harry Kane kazandı",
+   "summary": "Bayern Münih ve İngiltere Milli Takımı'nın yıldız golcüsü Harry Kane, 2025-26 sezonunun en iyi futbolcusuna verilen Ballon d'Or (Altın Top) ödülünü kariyerinde ilk kez kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/altin-top-odulunu-ingiliz-futbolcu-harry-kane-kazandi/4101865",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T00:52:10+00:00",
+   "url": "/haber/altin-top-odulunu-ingiliz-futbolcu-harry-kane-kazandi-9f19ae00/"
+  },
+  {
+   "id": "01f15163",
+   "title": "İsrail'de kritik seçim: Başbakan adayları Türkiye'ye nasıl bakıyor?",
+   "summary": "İsrail'de 7 Ekim saldırıları sonrası ilk genel seçim bugün yapılacak. Başbakan Binyamin Netanyahu ve en büyük rakibi Gadi Eisenkot, anketlerde başa baş görnüyor. Peki Netanyahu, Eisenkot ve diğer liderler Türkiye'yle…",
+   "link": "https://www.bbc.com/turkce/articles/cm5yn5j93q4vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bea2/live/3711a2c0-d144-11f1-9eb5-811878e0f07d.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-27T00:46:35+00:00",
+   "url": "/haber/israil-de-kritik-secim-basbakan-adaylari-turkiye-ye-nasil-bakiyor-01f15163/"
+  },
+  {
+   "id": "27fc4c34",
+   "title": "Kılıçdaroğlu'nun erken seçim çıkışı CHP ve muhalefette nasıl yorumlandı?",
+   "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun, iktidarın erken seçim kararı alması halinde buna itiraz etmeyeceklerini açıklaması, seçim ve adaylık hesaplarına ilişkin yeni bir tartışmayı da beraberinde getirdi.",
+   "link": "https://www.bbc.com/turkce/articles/cqlye1g8vdymo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bac0/live/a2804160-d171-11f1-9d71-6d5ae0660afe.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-27T00:44:02+00:00",
+   "url": "/haber/kilicdaroglu-nun-erken-secim-cikisi-chp-ve-muhalefette-nasil-yorumland-27fc4c34/"
+  },
+  {
+   "id": "cfd2f909",
+   "title": "Suudi Arabistan'ın Harc vilayeti ve doğu bölgesinde erken uyarı sistemi devreye alındı",
+   "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin Harc vilayeti ile doğu bölgesi için erken uyarı sisteminin devreye alındığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-harc-vilayeti-ve-dogu-bolgesinde-erken-uyari-sistemi-devreye-alindi/4101863",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T00:37:16+00:00",
+   "url": "/haber/suudi-arabistan-in-harc-vilayeti-ve-dogu-bolgesinde-erken-uyari-sistem-cfd2f909/"
   },
   {
    "id": "8339de4d",
@@ -354,17 +398,6 @@
    "url": "/haber/asus-tan-yilin-beklenen-oyununa-ozel-4700-dolarlik-mini-pc-b303e1cc/"
   },
   {
-   "id": "4d51684d",
-   "title": "AB ülkeleri, Ukrayna için 4,9 milyar avroluk fonun serbest bırakılmasında anlaştı",
-   "summary": "Avrupa Birliği (AB) üyesi ülkeler, Ukrayna'ya askeri destek sağlamak amacıyla Avrupa Barış Fonu (EPF) kapsamında 4,9 milyar avroluk fonun serbest bırakılmasında anlaştı.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-ulkeleri-ukrayna-icin-4-9-milyar-avroluk-fonun-serbest-birakilmasinda-anlasti/4101737",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-26T19:29:55+00:00",
-   "url": "/haber/ab-ulkeleri-ukrayna-icin-4-9-milyar-avroluk-fonun-serbest-birakilmasin-4d51684d/"
-  },
-  {
    "id": "58adb194",
    "title": "Galatasaray, Süper Lig'de Fenerbahçe'yi yendi",
    "summary": "Trendyol Süper Lig'in 9. haftasındaki derbide Galatasaray, konuk ettiği Fenerbahçe'yi 2-1 yendi.",
@@ -385,17 +418,6 @@
    "category": "gundem",
    "date": "2026-10-26T19:26:10+00:00",
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-26-eki-b7ec7d16/"
-  },
-  {
-   "id": "4e99356d",
-   "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürdü",
-   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu/4101732",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-26T19:25:50+00:00",
-   "url": "/haber/israil-ordusu-ateskese-ragmen-lubnan-in-guneyine-saldirilarini-surdurd-4e99356d/"
   },
   {
    "id": "56d578d4",
@@ -772,17 +794,6 @@
    "url": "/haber/apple-turkiye-ipad-fiyatlarina-zam-yapti-25382c31/"
   },
   {
-   "id": "3c596c2f",
-   "title": "Mısır meclisi Suudi Arabistan'a destek için asker gönderme talebini onayladı",
-   "summary": "Mısır Temsilciler Meclisi, Cumhurbaşkanı Abdülfettah Sisi'nin, Suudi Arabistan'a askeri destek sağlamak üzere gerekli eylem ve tedbirleri alma yetkisi verilmesi yönündeki talebini üçte iki çoğunlukla onayladı.",
-   "link": "https://www.bbc.com/turkce/articles/cmkgk32knr2xo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/30a3/live/aa28df70-d145-11f1-9eb5-811878e0f07d.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-26T14:09:46+00:00",
-   "url": "/haber/misir-meclisi-suudi-arabistan-a-destek-icin-asker-gonderme-talebini-on-3c596c2f/"
-  },
-  {
    "id": "e5bd1402",
    "title": "Bugatti, manuel vitesli bir hiper otomobil hazırlayabilir",
    "summary": "Bugatti’nin CEO’su Mate Rimac, TopGear’a verdiği röportajda şirketin artık hiçbir otomobil üreticisine bağlı olmadığını ve bu özgürlük sayesinde daha cesur işlere imza atabileceğini söyledi. Yeni araçlarında manuel…",
@@ -902,17 +913,6 @@
    "category": "teknoloji",
    "date": "2026-10-26T13:17:33+00:00",
    "url": "/haber/oled-ekranli-ipad-mini-tanitildi-iste-ozellikleri-d6f6b1c3/"
-  },
-  {
-   "id": "7039dbe1",
-   "title": "İsrail seçimlerine hangi tartışmalar damga vuruyor, seçmen ne diyor?",
-   "summary": "Güvenliğe yönelik tehditler ile demokrasiye yönelik tehditler arasındaki gerilim, İsrailli seçmenlerin uzun süredir karşı karşıya kaldığı siyasi fay hatlarından biri. Bu ayrım, 7 Ekim saldırıları ve İsrail tarihinin en…",
-   "link": "https://www.bbc.com/turkce/articles/cmly0zyp0p5lo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-26T13:17:29+00:00",
-   "url": "/haber/israil-secimlerine-hangi-tartismalar-damga-vuruyor-secmen-ne-diyor-7039dbe1/"
   },
   {
    "id": "728ab856",
