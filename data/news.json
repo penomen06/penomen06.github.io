@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-27T03:30:59.473887+00:00",
+ "updated": "2026-10-27T04:01:08.659552+00:00",
  "items": [
+  {
+   "id": "efd9d9dd",
+   "title": "Apple Müjdeyi Verdi: Siri AI'a Yakında Türkçe Geliyor!",
+   "summary": "Apple, Siri AI'a yakında Türkçe geleceğini açıkladı. Tarihi konusunda da bilgi verildi.",
+   "link": "https://www.webtekno.com/siri-ai-turkce-geliyor-h227905.html",
+   "image": "https://imgrosetta.webtekno.com/file/694751/694751-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-27T03:55:39+00:00",
+   "url": "/haber/apple-mujdeyi-verdi-siri-ai-a-yakinda-turkce-geliyor-efd9d9dd/"
+  },
+  {
+   "id": "76876b21",
+   "title": "iOS 27.2 Yayımlandı: İşte iPhone'lara Gelen Yeni Özellikler",
+   "summary": "Apple, iPhone'ların yeni büyük güncellemesi iOS 27.2'yi yayımladı. İşte yenilikler.",
+   "link": "https://www.webtekno.com/ios-27-2-yayimlandi-ozellikler-h227902.html",
+   "image": "https://imgrosetta.webtekno.com/file/694738/694738-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-27T03:44:48+00:00",
+   "url": "/haber/ios-27-2-yayimlandi-iste-iphone-lara-gelen-yeni-ozellikler-76876b21/"
+  },
+  {
+   "id": "8339de4d",
+   "title": "İstanbul için sel alarmı. Beklenen yağış başladı",
+   "summary": "İstanbul'da art arda gelen kuvvetli yağış uyarılarının ardından sağanak etkiliyor. Şiddetli sağanağın saat 10.00'a kadar sürmesi bekleniyor. İstanbulluların sabah toplu taşıma kullanması öneriliyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-sel-alarmi-sabah-saatlerine-dikkat-1748107",
+   "image": "https://images.ntv.com.tr/images/AA-20260929-42603947-42603941-ISTANBULDA_YAGISLI_HAVA-339425.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-27T03:37:20+00:00",
+   "url": "/haber/istanbul-icin-sel-alarmi-beklenen-yagis-basladi-8339de4d/"
+  },
   {
    "id": "9c905449",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 27 Ekim 2026",
@@ -11,6 +44,28 @@
    "category": "gundem",
    "date": "2026-10-27T03:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9c905449/"
+  },
+  {
+   "id": "e7b4bf9e",
+   "title": "11 il için sarı uyarı: Kuvvetli yağışa dikkat",
+   "summary": "Marmara, Kıyı Ege ile Batı Akdeniz'de beklenen kuvvetli yağış nedeniyle 11 il için \"sarı\" ve \"turuncu\" kodlu uyarıda bulunuldu.",
+   "link": "https://www.trthaber.com/haber/turkiye/11-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-961285.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2320000/istanbul-saganak-2321279.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-27T03:26:00+00:00",
+   "url": "/haber/11-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-e7b4bf9e/"
+  },
+  {
+   "id": "ea8907ec",
+   "title": "Antalya'da hortum faciası: 4 ölü, 1 yaralı",
+   "summary": "Antalya'nın Kepez ilçesinde etkili olan hortumda parçalanan iki konteynerde bulunan 4 işçi hayatını kaybetti, 1 işçi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/antalyada-hortum-faciasi-4-olu-1-yarali-961281.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/firtina-konteyner-2498527.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-27T02:59:00+00:00",
+   "url": "/haber/antalya-da-hortum-faciasi-4-olu-1-yarali-ea8907ec/"
   },
   {
    "id": "8d4d2071",
@@ -99,17 +154,6 @@
    "category": "gundem",
    "date": "2026-10-27T00:37:16+00:00",
    "url": "/haber/arap-koalisyonu-husilerin-suudi-arabistan-a-firlattigi-3-fuze-ile-4-ih-cee94e4d/"
-  },
-  {
-   "id": "8339de4d",
-   "title": "İstanbul için sel alarmı. Sabah saatlerine dikkat",
-   "summary": "İstanbul'da yeniden kuvvetli yağış uyarısı var. Özellikle sabah saat 05.00 ile 10.00 arası şiddetli sağanak bekleniyor. İstanbulluların sabah toplu taşıma kullanması öneriliyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-sel-alarmi-sabah-saatlerine-dikkat-1748107",
-   "image": "https://images.ntv.com.tr/images/AA-20260929-42603947-42603941-ISTANBULDA_YAGISLI_HAVA-339425.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-27T00:18:43+00:00",
-   "url": "/haber/istanbul-icin-sel-alarmi-sabah-saatlerine-dikkat-8339de4d/"
   },
   {
    "id": "5439c965",
@@ -319,17 +363,6 @@
    "category": "teknoloji",
    "date": "2026-10-26T20:33:57+00:00",
    "url": "/haber/microsoft-60-000-calisanina-gonullu-ayrilik-paketleri-sunuyor-a6747e2e/"
-  },
-  {
-   "id": "9005ff18",
-   "title": "Derbinin kazananı Galatasaray",
-   "summary": "Süper Lig'in 9. haftası dev derbiye sahne oldu. Galatasaray, kendi sahasında Fenerbahçe'yi 2-1 mağlup etti.",
-   "link": "https://www.trthaber.com/haber/spor/derbinin-kazanani-galatasaray-961271.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/galatasarayaa-2498523.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-26T20:18:00+00:00",
-   "url": "/haber/derbinin-kazanani-galatasaray-9005ff18/"
   },
   {
    "id": "ab30edc3",
@@ -1036,17 +1069,6 @@
    "url": "/haber/yeni-samsung-telefonlarda-kullanilacak-exynos-2700-un-performans-testl-629a2ffa/"
   },
   {
-   "id": "fa5c7c18",
-   "title": "Irak güvenlik güçleri bazı noktaları terör örgütü PKK'dan devraldı",
-   "summary": "Irak güvenlik güçleri, Sincar'daki bazı noktaları terör örgütü PKK'dan devraldı.",
-   "link": "https://www.trthaber.com/haber/gundem/irak-guvenlik-gucleri-bazi-noktalari-teror-orgutu-pkkdan-devraldi-961236.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1802000/terorist-aa-1802224.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-26T11:23:00+00:00",
-   "url": "/haber/irak-guvenlik-gucleri-bazi-noktalari-teror-orgutu-pkk-dan-devraldi-fa5c7c18/"
-  },
-  {
    "id": "7673d72a",
    "title": "Öğrenci hareketi Sırbistan'da Vucic iktidarını nasıl devirdi?",
    "summary": "Öğrenciler, iki yıldan kısa bir sürede Aleksandar Vucic'in 14 yıllık siyasi egemenliğini sona erdirmeyi başardılar.",
@@ -1113,17 +1135,6 @@
    "url": "/haber/servet-odenerek-alinan-iphone-duo-nun-ekrani-ilk-gunden-catladi-cok-sa-936e41e9/"
   },
   {
-   "id": "2c8f69c7",
-   "title": "19-26 Ekim 2026: Türkiye'de Geçen Hafta En Çok İzlenen Film ve Diziler",
-   "summary": "Türkiye'de 19-26 Ekim 2026 tarihleri arasında en çok izlenen film ve diziler belli oldu. İşte geçen hafta en çok ilgi gören yapımlar.",
-   "link": "https://www.webtekno.com/19-26-ekim-2026-turkiye-en-cok-izlenen-film-ve-diziler-h227860.html",
-   "image": "https://imgrosetta.webtekno.com/file/694628/694628-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-26T09:08:53+00:00",
-   "url": "/haber/19-26-ekim-2026-turkiye-de-gecen-hafta-en-cok-izlenen-film-ve-diziler-2c8f69c7/"
-  },
-  {
    "id": "88db27bb",
    "title": "İklim zirvesi COP31, 12 tematik günle Antalya'da düzenlenecek",
    "summary": "Türkiye'nin ev sahipliğinde 9-20 Kasım'da Antalya'da gerçekleştirilecek COP31'de yaklaşık 100 gündem maddesinin görüşülmesi bekleniyor. COP31 takvimi 12 tematik gün üzerine kuruldu.",
@@ -1133,17 +1144,6 @@
    "category": "gundem",
    "date": "2026-10-26T08:54:00+00:00",
    "url": "/haber/iklim-zirvesi-cop31-12-tematik-gunle-antalya-da-duzenlenecek-88db27bb/"
-  },
-  {
-   "id": "fc353de7",
-   "title": "Samsung Televizyonların Kullanıcıları Dinlediği İddia Edildi",
-   "summary": "Bir güvenlik araştırmacısı, Samsung televizyonların kullanıcıları dinliyor olabileceğine dair iddialar ortaya attı.",
-   "link": "https://www.webtekno.com/samsung-tv-kullanicilari-dinliyor-mu-iddia-h227861.html",
-   "image": "https://imgrosetta.webtekno.com/file/694630/694630-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-26T08:51:00+00:00",
-   "url": "/haber/samsung-televizyonlarin-kullanicilari-dinledigi-iddia-edildi-fc353de7/"
   },
   {
    "id": "e10e2cc4",
