@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:01:10.297775+00:00",
+ "updated": "2026-10-27T00:22:47.153634+00:00",
  "items": [
   {
    "id": "c60e4ea6",
@@ -9,8 +9,19 @@
    "image": "",
    "source": "Teknoloji Haberleri – ShiftDelete.Net",
    "category": "teknoloji",
-   "date": "2026-10-27T00:01:01.466442+00:00",
+   "date": "2026-10-27T00:22:40.099216+00:00",
    "url": "/haber/apple-ios-27-2-guncellemesini-yayinladi-iste-yeni-ozellikler-c60e4ea6/"
+  },
+  {
+   "id": "8339de4d",
+   "title": "İstanbul için sel alarmı. Sabah saatlerine dikkat",
+   "summary": "İstanbul'da yeniden kuvvetli yağış uyarısı var. Özellikle sabah saat 05.00 ile 10.00 arası şiddetli sağanak bekleniyor. İstanbulluların sabah toplu taşıma kullanması öneriliyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-sel-alarmi-sabah-saatlerine-dikkat-1748107",
+   "image": "https://images.ntv.com.tr/images/AA-20260929-42603947-42603941-ISTANBULDA_YAGISLI_HAVA-339425.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-27T00:18:43+00:00",
+   "url": "/haber/istanbul-icin-sel-alarmi-sabah-saatlerine-dikkat-8339de4d/"
   },
   {
    "id": "9c905449",
@@ -759,17 +770,6 @@
    "category": "teknoloji",
    "date": "2026-10-26T14:17:37+00:00",
    "url": "/haber/apple-turkiye-ipad-fiyatlarina-zam-yapti-25382c31/"
-  },
-  {
-   "id": "44fdc72a",
-   "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 26 Ekim 2026",
-   "summary": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 26 Ekim 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-26-ekim-2026-1748069",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-26T14:10:00+00:00",
-   "url": "/haber/son-dakika-mugla-da-deprem-mi-oldu-az-once-deprem-mugla-da-nerede-oldu-44fdc72a/"
   },
   {
    "id": "3c596c2f",
