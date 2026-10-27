@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-27T23:01:11.027610+00:00",
+ "updated": "2026-10-27T23:30:55.285670+00:00",
  "items": [
+  {
+   "id": "baaa6ed3",
+   "title": "Beyoğlu'nda 5 katlı metruk bina çöktü",
+   "summary": "Beyoğlu'nda 5 katlı metruk bina çöktü. Çöken binanın parçaları bitişikteki binaya hasar verirken, olay yerine sevk edilen ekipler arama çalışması başlattı.",
+   "link": "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267",
+   "image": "https://images.ntv.com.tr/images/BEYOGLUNDA-5-KATLI-METRUK-BINA-COKTU--1_1577757_469277-594791.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-27T23:30:00+00:00",
+   "url": "/haber/beyoglu-nda-5-katli-metruk-bina-coktu-baaa6ed3/"
+  },
   {
    "id": "0bf7088c",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 28 Ekim 2026",
@@ -9,8 +20,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-27T23:00:00+00:00",
+   "date": "2026-10-27T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-0bf7088c/"
+  },
+  {
+   "id": "3bb6a8c8",
+   "title": "Kocaeli'de 7 katlı bina boşaltıldı. Kolonlarından ses geldi",
+   "summary": "Kocaeli'nin Karamürsel ilçesinde kolon ve kirişlerinden ses geldiği bildirilen 7 katlı bina, tedbiren boşaltıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/kocaelide-7-katli-bina-bosaltildi-kolonlarindan-ses-geldi-1748266",
+   "image": "https://images.ntv.com.tr/images/AA-20261027-42884789-42884787-KOCAELIDE_7_KATLI_BINA_TEDBIREN_BOSALTILDI-187292.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-27T23:19:10+00:00",
+   "url": "/haber/kocaeli-de-7-katli-bina-bosaltildi-kolonlarindan-ses-geldi-3bb6a8c8/"
+  },
+  {
+   "id": "543614f7",
+   "title": "İsrail seçimleri: Eisenkot bloğu önde, partiler meclis çoğunluğunu sağlayamıyor",
+   "summary": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu…",
+   "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed00/live/2b0b38b0-d248-11f1-8ba3-9fd3e261415f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-27T23:04:48+00:00",
+   "url": "/haber/israil-secimleri-eisenkot-blogu-onde-partiler-meclis-cogunlugunu-sagla-543614f7/"
   },
   {
    "id": "860bed67",
@@ -22,17 +55,6 @@
    "category": "gundem",
    "date": "2026-10-27T22:20:30+00:00",
    "url": "/haber/israil-ordusunun-gazze-seridi-ne-duzenledigi-saldirilarda-4-filistinli-860bed67/"
-  },
-  {
-   "id": "543614f7",
-   "title": "İsrail'de sandık çıkış anketleri: Eisenkot bloğu önde, partiler meclis çoğunluğunu sağlayamıyor",
-   "summary": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu…",
-   "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed00/live/2b0b38b0-d248-11f1-8ba3-9fd3e261415f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-27T22:19:41+00:00",
-   "url": "/haber/israil-de-sandik-cikis-anketleri-eisenkot-blogu-onde-partiler-meclis-c-543614f7/"
   },
   {
    "id": "c865c0c4",
@@ -180,7 +202,7 @@
   {
    "id": "0780fcc2",
    "title": "İsrail'deki sandık çıkış anketlerine göre seçimlerin ardından koalisyon hükümeti belirsizliği çıktı",
-   "summary": "İsrail'deki seçimlerin ardından açıklanan sandık çıkış anketlerine göre, ne Netanyahu ve destekçileri ne de muhalif blok, 120 sandalyeli Mecliste koalisyon kurmak için gereken 61 sandalyeye ulaşabildi. Ülkede hükümet…",
+   "summary": "Seçimlerin ardından açıklanan sandık çıkış anketlerine göre, ne Netanyahu ve destekçileri ne de muhalif blok, 120 sandalyeli Mecliste koalisyon kurmak için gereken 61 milletvekiline ulaşabilirken, ülkede koalisyon…",
    "link": "https://www.aa.com.tr/tr/dunya/israildeki-sandik-cikis-anketlerine-gore-secimlerin-ardindan-koalisyon-hukumeti-belirsizligi-cikti/4103060",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -871,17 +893,6 @@
    "url": "/haber/acer-predator-atlas-8-fiyati-belli-oldu-pc-mi-aliyoruz-el-konsolu-mu-14a8dd9c/"
   },
   {
-   "id": "a34bc32f",
-   "title": "Cumhuriyet'in gençleri sahnede. 29 Ekim Cumhuriyet Bayramı'nın 103'üncü yılı dev konserle kutlandı",
-   "summary": "İstanbul'daki özel bir okulda sahne alan 600 öğrenci ve 100 öğretmen birlikte konser verdi. Konserde İstiklal Marşı'nın 10 kıtası sahneye görsel anlatımla taşındı.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhuriyetin-gencleri-sahnede-29-ekim-cumhuriyet-bayraminin-103uncu-yili-dev-konserle-kutlandi-1748221",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-27143328-309450.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-27T11:46:37+00:00",
-   "url": "/haber/cumhuriyet-in-gencleri-sahnede-29-ekim-cumhuriyet-bayrami-nin-103-uncu-a34bc32f/"
-  },
-  {
    "id": "98c1c5e9",
    "title": "Sony, PS5’te Güvenlik Açığı Keşfeden Kişiye 50 Bin Dolar Ödül Verdi!",
    "summary": "Bir hacker, PS5’te güvenlik açığı keşfetti. Sony, bu açık nedeniyle ona 50 bin dolar ödül verdi.",
@@ -924,17 +935,6 @@
    "category": "gundem",
    "date": "2026-10-27T11:17:38+00:00",
    "url": "/haber/antalya-da-hortumda-dort-isci-hayatini-kaybetti-muteahhit-ve-santiye-s-7393d182/"
-  },
-  {
-   "id": "62d6d2c1",
-   "title": "Harita sarı ve turuncuya büründü. Yağışlar şiddetlenecek, hortum riski çevre illere yayıldı",
-   "summary": "Antalya'da etkili olan hortumda 4 kişi hayatını kaybetti. NTV Meteoroloji Editörü Dilek Çalışkan, kentte riskin devam ettiğini dile getirip yeni hortum tehlikesine karşı uyardı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-harita-sari-ve-turuncuya-burundu-yagislar-siddetlenecek-hortum-riski-cevre-illere-yayildi-1748211",
-   "image": "https://images.ntv.com.tr/images/hortum-426277.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-27T11:17:13+00:00",
-   "url": "/haber/harita-sari-ve-turuncuya-burundu-yagislar-siddetlenecek-hortum-riski-c-62d6d2c1/"
   },
   {
    "id": "e2993276",
