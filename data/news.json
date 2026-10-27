@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T02:01:08.923955+00:00",
+ "updated": "2026-10-27T02:31:03.254363+00:00",
  "items": [
   {
    "id": "c60e4ea6",
@@ -9,8 +9,19 @@
    "image": "",
    "source": "Teknoloji Haberleri – ShiftDelete.Net",
    "category": "teknoloji",
-   "date": "2026-10-27T02:00:59.864126+00:00",
+   "date": "2026-10-27T02:30:54.541713+00:00",
    "url": "/haber/apple-ios-27-2-guncellemesini-yayinladi-iste-yeni-ozellikler-c60e4ea6/"
+  },
+  {
+   "id": "0c6b4522",
+   "title": "Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
+   "summary": "Tasfiyesine karar verilen fonlara dair kanun, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Kanunla 1 milyon liraya kadar ara ödemeler yapılacak.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-kanunu-resmi-gazetede-yayimlanarak-yururluge-girdi-1748095",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_6f8dfe8267fd788b8427063d0bdc1734-177835.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-27T02:04:57+00:00",
+   "url": "/haber/fon-kanunu-resmi-gazete-de-yayimlanarak-yururluge-girdi-0c6b4522/"
   },
   {
    "id": "9c905449",
@@ -154,17 +165,6 @@
    "category": "gundem",
    "date": "2026-10-26T22:33:34+00:00",
    "url": "/haber/fon-kanunu-resmi-gazete-de-yayimlanarak-yururluge-girdi-3934f5b3/"
-  },
-  {
-   "id": "0c6b4522",
-   "title": "Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
-   "summary": "Tasfiyesine karar verilen fonlara dair kanun, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Kanunla 1 milyon liraya kadar ara ödemeler yapılacak.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-kanunu-resmi-gazetede-yayimlanarak-yururluge-girdi-1748095",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_6f8dfe8267fd788b8427063d0bdc1734-177835.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-26T22:28:43+00:00",
-   "url": "/haber/fon-kanunu-resmi-gazete-de-yayimlanarak-yururluge-girdi-0c6b4522/"
   },
   {
    "id": "bbae3597",
