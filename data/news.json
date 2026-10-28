@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:30:58.005822+00:00",
+ "updated": "2026-10-28T02:01:10.253119+00:00",
  "items": [
   {
    "id": "0bf7088c",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-28T01:30:00+00:00",
+   "date": "2026-10-28T02:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-0bf7088c/"
+  },
+  {
+   "id": "543614f7",
+   "title": "İsrail seçimleri: Partiler meclis çoğunluğunu sağlayamıyor",
+   "summary": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu…",
+   "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed00/live/2b0b38b0-d248-11f1-8ba3-9fd3e261415f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-28T01:31:27+00:00",
+   "url": "/haber/israil-secimleri-partiler-meclis-cogunlugunu-saglayamiyor-543614f7/"
   },
   {
    "id": "f9baae2a",
@@ -46,17 +57,6 @@
    "url": "/haber/arap-koalisyonu-taif-yonune-firlatilan-balistik-fuze-imha-edildi-c82ec67b/"
   },
   {
-   "id": "543614f7",
-   "title": "İsrail seçimleri: Eisenkot bloğu önde, partiler meclis çoğunluğunu sağlayamıyor",
-   "summary": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu…",
-   "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed00/live/2b0b38b0-d248-11f1-8ba3-9fd3e261415f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-28T00:22:37+00:00",
-   "url": "/haber/israil-secimleri-eisenkot-blogu-onde-partiler-meclis-cogunlugunu-sagla-543614f7/"
-  },
-  {
    "id": "01c744d2",
    "title": "Emekli maaşlarına iyileştirme: Yaş ve hane geliri kriterleri tartışılıyor",
    "summary": "AKP kaynaklarının verdiği bilgiye göre yıl sonuna kadar yapılacak düzenlemede, emeklilere normal yıllık zammın yanı sıra, \"refah payı\" veya \"seyyanen zam\" seçeneği masada. Emekli maaşlarına yapılacak iyileştirmenin…",
@@ -70,7 +70,7 @@
   {
    "id": "940dc66e",
    "title": "Beyoğlu'nda 4 katlı metruk bina çöktü",
-   "summary": "Beyoğlu'nda 4 katlı binada çökme meydana geldi.",
+   "summary": "Beyoğlu'nda çöken 4 katlı metruk binanın enkazında tedbir amaçlı başlatılan arama ve inceleme çalışmaları tamamlandı.",
    "link": "https://www.aa.com.tr/tr/gundem/beyoglunda-4-katli-metruk-bina-coktu/4103209",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -99,6 +99,17 @@
    "category": "gundem",
    "date": "2026-10-27T23:43:02+00:00",
    "url": "/haber/suriye-ile-urdun-arasindaki-nasib-sinir-kapisi-yeniden-aciliyor-607a67e6/"
+  },
+  {
+   "id": "d4fbdd4e",
+   "title": "AA Yönetim Kurulu Başkanı ve Genel Müdürü Karagöz: Gazeteciliğin gücünü korumak toplumun ortak sorumluluğudur",
+   "summary": "AA Yönetim Kurulu Başkanı ve Genel Müdürü Serdar Karagöz, \"Gazeteciliğin gücünü korumak, habercilik kuruluşlarının ve gazetecilerin kendi sorumlulukları kadar, kamu kurumlarının, medya yöneticilerinin ve toplumun ortak…",
+   "link": "https://www.aa.com.tr/tr/gundem/aa-yonetim-kurulu-baskani-ve-genel-muduru-karagoz-gazeteciligin-gucunu-korumak-toplumun-ortak-sorumlulugudur/4103200",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T23:27:49+00:00",
+   "url": "/haber/aa-yonetim-kurulu-baskani-ve-genel-muduru-karagoz-gazeteciligin-gucunu-d4fbdd4e/"
   },
   {
    "id": "3bb6a8c8",
@@ -308,17 +319,6 @@
    "category": "gundem",
    "date": "2026-10-27T19:46:47+00:00",
    "url": "/haber/super-loto-cekilis-sonuclari-belli-oldu-27-ekim-2026-mpi-super-loto-ka-edb78a30/"
-  },
-  {
-   "id": "3588e596",
-   "title": "Vatikan, Orta Doğu'da \"iki devletli çözüm\"e inancını koruyor",
-   "summary": "Vatikan Devletlerle ve Uluslararası Kuruluşlarla İlişkiler Sekreteri (Dışişleri Bakanı) Başpiskopos Gallagher, bazılarının Orta Doğu'da \"iki devletli çözüm\" fikrine olan inancını kaybetse de kendilerinin bunu söylemeye…",
-   "link": "https://www.aa.com.tr/tr/dunya/vatikan-orta-doguda-iki-devletli-cozume-inancini-koruyor/4103027",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T19:41:42+00:00",
-   "url": "/haber/vatikan-orta-dogu-da-iki-devletli-cozum-e-inancini-koruyor-3588e596/"
   },
   {
    "id": "195d3ee2",
