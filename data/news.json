@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:01:09.029238+00:00",
+ "updated": "2026-10-28T22:30:59.929888+00:00",
  "items": [
   {
    "id": "69ddc9ca",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-28T22:00:01+00:00",
+   "date": "2026-10-28T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-69ddc9ca/"
+  },
+  {
+   "id": "6e3bd8cc",
+   "title": "Fitch: ABD'deki mali baskılar, ara seçim sonucundan bağımsız olarak sürecek",
+   "summary": "Fitch Ratings, ABD'de 3 Kasım'da yapılacak ara seçimlerin ardından Kongre'deki dağılımın bütçe ve borç limiti konusunda anlaşmazlık riskini artırabileceğini ancak mali baskıların seçim sonucundan bağımsız olarak…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-abddeki-mali-baskilar-ara-secim-sonucundan-bagimsiz-olarak-surecek/4104418",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T22:02:48+00:00",
+   "url": "/haber/fitch-abd-deki-mali-baskilar-ara-secim-sonucundan-bagimsiz-olarak-sure-6e3bd8cc/"
   },
   {
    "id": "f7ff7bd3",
@@ -55,6 +66,17 @@
    "category": "teknoloji",
    "date": "2026-10-28T21:10:00+00:00",
    "url": "/haber/google-gemini-4-carbon-modelini-duyurdu-siber-guvenlikte-rakiplerine-f-e0a96a40/"
+  },
+  {
+   "id": "2953e94a",
+   "title": "Türkiye Cumhuriyeti 103 yaşında",
+   "summary": "Anadolu'nun işgalden kurtarılmasının ardından Gazi Mustafa Kemal Atatürk'ün önderliğinde, TBMM'nin 29 Ekim 1923'te Cumhuriyet'i ilan etmesinin üzerinden 103 yıl geçti.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-cumhuriyeti-103-yasinda-961542.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1684000/cumhuriyet-bayrami-trt-haber-1684294.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-28T21:06:00+00:00",
+   "url": "/haber/turkiye-cumhuriyeti-103-yasinda-2953e94a/"
   },
   {
    "id": "f9baae2a",
@@ -253,17 +275,6 @@
    "category": "gundem",
    "date": "2026-10-28T19:36:12+00:00",
    "url": "/haber/istanbul-kapali-yollar-listesi-a3a44baf/"
-  },
-  {
-   "id": "11f2bd39",
-   "title": "İsrail ordusu ve Filistin topraklarını gasbeden İsraillilerin Batı Şeria'daki saldırıları sürüyor",
-   "summary": "Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria'da gazetecilere, aktivistlere ve Filistinli çiftçilere saldırdı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ve-filistin-topraklarini-gasbeden-israillilerin-bati-seriadaki-saldirilari-suruyor/4104352",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T19:34:02+00:00",
-   "url": "/haber/israil-ordusu-ve-filistin-topraklarini-gasbeden-israillilerin-bati-ser-11f2bd39/"
   },
   {
    "id": "69b3a54d",
@@ -1190,17 +1201,6 @@
    "url": "/haber/siddet-magduru-kadinlar-icin-diyarbakir-da-bulusma-her-kapi-caldiginda-3882f434/"
   },
   {
-   "id": "36a52e2b",
-   "title": "Emekliye yeni destek programı yolda",
-   "summary": "AK Parti kaynaklarından edinilen bilgiye göre; emekli maaşlarına yapılacak artışın yanı sıra refah payı eklenmesi de değerlendirilecek. En düşük emekli maaşı için tamamlayıcı bir düzenleme üzerinde duruluyor.",
-   "link": "https://www.trthaber.com/haber/gundem/emekliye-yeni-destek-programi-yolda-961390.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2374000/emekli-zam-2375714.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-27T15:57:00+00:00",
-   "url": "/haber/emekliye-yeni-destek-programi-yolda-36a52e2b/"
-  },
-  {
    "id": "5dbb90a3",
    "title": "İngiltere'de acil durumlara hazırlık çağrısından sonra konserve ve radyo satışında artış",
    "summary": "Hükümetin kriz ihtimaline karşı stok yapılması çağrısının ardından temel ihtiyaç maddelerinin satışlarında önemli bir artış görüldü.",
@@ -1247,7 +1247,7 @@
   {
    "id": "a8d6893c",
    "title": "İngiliz gizli belgelerinde Ekim 1923 (1): ‘Cumhuriyet fikri kabul görse de Mustafa Kemal’e muhalefet var’",
-   "summary": "Cumhuriyetin ilanının 101. yıldönümü: İngiltere’deki arşivlerde bulunan dönemin gizli belgelerini inceledik ve İngiltere’nin Ekim 1923'te yaşananları nasıl gördüğünü araştırdık.",
+   "summary": "Cumhuriyetin ilanının 103. yıldönümü: İngiltere’deki arşivlerde bulunan dönemin gizli belgelerini inceledik ve İngiltere’nin Ekim 1923'te yaşananları nasıl gördüğünü araştırdık.",
    "link": "https://www.bbc.com/turkce/articles/cgel7ev84lro?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f8a/live/f5969cf0-74c2-11ee-8139-61b1db4c8e2f.jpg",
    "source": "BBC Turkish",
@@ -1258,7 +1258,7 @@
   {
    "id": "e3a94f63",
    "title": "İngiliz gizli belgelerinde Ekim 1923 (2): 'Türk halkı bu sabah bir Cumhuriyet’e uyandı'",
-   "summary": "Cumhuriyetin 101. yıl dönümü: İngiltere’deki arşivlerde bulunan dönemin gizli belgelerini inceledik ve İngiltere’nin Ekim 1923'te yaşananları nasıl gördüğünü araştırdık.",
+   "summary": "Cumhuriyetin 103. yıl dönümü: İngiltere’deki arşivlerde bulunan dönemin gizli belgelerini inceledik ve İngiltere’nin Ekim 1923'te yaşananları nasıl gördüğünü araştırdık.",
    "link": "https://www.bbc.com/turkce/articles/c4nxdg8pmemo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/10f3/live/9a8bf9d0-74c8-11ee-a503-4588075e3427.jpg",
    "source": "BBC Turkish",
