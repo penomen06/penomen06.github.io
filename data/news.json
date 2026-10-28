@@ -1,17 +1,6 @@
 {
- "updated": "2026-10-27T23:30:55.285670+00:00",
+ "updated": "2026-10-28T00:01:12.143456+00:00",
  "items": [
-  {
-   "id": "baaa6ed3",
-   "title": "Beyoğlu'nda 5 katlı metruk bina çöktü",
-   "summary": "Beyoğlu'nda 5 katlı metruk bina çöktü. Çöken binanın parçaları bitişikteki binaya hasar verirken, olay yerine sevk edilen ekipler arama çalışması başlattı.",
-   "link": "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267",
-   "image": "https://images.ntv.com.tr/images/BEYOGLUNDA-5-KATLI-METRUK-BINA-COKTU--1_1577757_469277-594791.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-27T23:30:00+00:00",
-   "url": "/haber/beyoglu-nda-5-katli-metruk-bina-coktu-baaa6ed3/"
-  },
   {
    "id": "0bf7088c",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 28 Ekim 2026",
@@ -20,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-27T23:30:00+00:00",
+   "date": "2026-10-28T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-0bf7088c/"
+  },
+  {
+   "id": "940dc66e",
+   "title": "Beyoğlu'nda 4 katlı metruk bina çöktü",
+   "summary": "Beyoğlu'nda 4 katlı binada çökme meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/beyoglunda-4-katli-metruk-bina-coktu/4103209",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T23:58:49+00:00",
+   "url": "/haber/beyoglu-nda-4-katli-metruk-bina-coktu-940dc66e/"
+  },
+  {
+   "id": "baaa6ed3",
+   "title": "Beyoğlu'nda 5 katlı metruk bina çöktü",
+   "summary": "Beyoğlu'nda 5 katlı metruk bina çöktü. Çöken binanın parçaları bitişikteki binaya hasar verirken, olay yerine sevk edilen ekipler arama çalışması başlattı.",
+   "link": "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267",
+   "image": "https://images.ntv.com.tr/images/AA-20261027-42885031-42885023-BEYOGLUNDA_4_KATLI_METRUK_BINA_COKTU-491702.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-27T23:56:23+00:00",
+   "url": "/haber/beyoglu-nda-5-katli-metruk-bina-coktu-baaa6ed3/"
+  },
+  {
+   "id": "607a67e6",
+   "title": "Suriye ile Ürdün arasındaki Nasib Sınır Kapısı yeniden açılıyor",
+   "summary": "Suriye, ülkenin güneyindeki Nasib Sınır Kapısı'nın sabah saatlerinde yeniden açılacağını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriye-ile-urdun-arasindaki-nasib-sinir-kapisi-yeniden-aciliyor/4103205",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-27T23:43:02+00:00",
+   "url": "/haber/suriye-ile-urdun-arasindaki-nasib-sinir-kapisi-yeniden-aciliyor-607a67e6/"
   },
   {
    "id": "3bb6a8c8",
@@ -297,28 +319,6 @@
    "category": "gundem",
    "date": "2026-10-27T19:31:24+00:00",
    "url": "/haber/disisleri-nden-ege-ve-dogu-akdeniz-aciklamasi-taviz-vermeyecegiz-a1921472/"
-  },
-  {
-   "id": "9f5b28ff",
-   "title": "SPK, Tera Yatırımın tüm faaliyet izinlerini ve yetki belgesini iptal etti",
-   "summary": "Sermaye Piyasası Kurulu (SPK), Tera Yatırım Menkul Değerler AŞ’nin tüm faaliyet izinlerinin ve yetki belgesinin iptal edilmesine, yatırımcılarının tazminine ve şirketin tedrici tasfiyesine karar verdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/spk-tera-yatirimin-tum-faaliyet-izinlerini-ve-yetki-belgesini-iptal-etti/4103018",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T19:27:18+00:00",
-   "url": "/haber/spk-tera-yatirimin-tum-faaliyet-izinlerini-ve-yetki-belgesini-iptal-et-9f5b28ff/"
-  },
-  {
-   "id": "9c7f9601",
-   "title": "Putin ve Pezeşkiyan Moskova'da bölgesel gelişmeleri ve ilişkileri görüştü",
-   "summary": "Rusya Devlet Başkanı Vladimir Putin ile İran Cumhurbaşkanı Mesud Pezeşkiyan, Moskova'da bir araya gelerek bölgedeki gelişmeleri ve iki ülke arasındaki ilişkileri ele aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/putin-ve-pezeskiyan-moskovada-bolgesel-gelismeleri-ve-iliskileri-gorustu/4103014",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T19:18:40+00:00",
-   "url": "/haber/putin-ve-pezeskiyan-moskova-da-bolgesel-gelismeleri-ve-iliskileri-goru-9c7f9601/"
   },
   {
    "id": "0b25e56c",
