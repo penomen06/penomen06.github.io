@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-28T19:05:01.600206+00:00",
+ "updated": "2026-10-28T19:30:58.851170+00:00",
  "items": [
+  {
+   "id": "a3a44baf",
+   "title": "İstanbul kapalı yollar listesi",
+   "summary": "İstanbul'da kapalı yolların tam listesi. Fatih, Kadıköy, Üsküdar ve Ataşehir'de hangi yol ne zaman kapalı?Kadıköy, Üsküdar ve Ataşehir'de yollar ne zaman açılacak. Kadıköy, Üsküdar, Fatih ve Ataşehir'de alternatif…",
+   "link": "https://www.ntv.com.tr/yerel-haberler/istanbul/istanbulda-kapali-yollarin-tam-listesi-kadikoy-uskudar-ve-atasehirde-hangi-yol-ne-zaman-kapali-1748410",
+   "image": "https://images.ntv.com.tr/images/trafik3-325813(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T19:28:55+00:00",
+   "url": "/haber/istanbul-kapali-yollar-listesi-a3a44baf/"
+  },
+  {
+   "id": "69b3a54d",
+   "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 28 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+   "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli…",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1748413",
+   "image": "https://images.ntv.com.tr/images/sayisal-loto-cekilis-362132.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T19:27:52+00:00",
+   "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-28-eki-69b3a54d/"
+  },
+  {
+   "id": "361b2373",
+   "title": "Marmara'daki gemi kazası: 56 gün sonra bir erkek cesedine ulaşıldı",
+   "summary": "Marmara Denizi'nde 2 Eylül'de iki geminin çarpışması sonucu batan Tuğberk İmamoğlu adlı gemiye ilişkin arama kurtarma çalışmalarında, kazadan 56 gün sonra bir erkek cesedi bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/marmaradaki-gemi-faciasi-56-gun-sonra-bir-erkek-cesedine-ulasildi-1748412",
+   "image": "https://images.ntv.com.tr/images/tugberk-imamoglu-arama-617415.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T19:23:26+00:00",
+   "url": "/haber/marmara-daki-gemi-kazasi-56-gun-sonra-bir-erkek-cesedine-ulasildi-361b2373/"
+  },
+  {
+   "id": "189a4912",
+   "title": "Yeni Parti'den Sarıgül açıklaması: 'Hakkında yoğun iddialar var, şu anda parti ile ilişkisi yok'",
+   "summary": "Erzincan Milletvekili Mustafa Sarıgül, kendisi ve ailesine yönelik 16 Ekim'de başlatılan soruşturma tamamlanıncaya kadar Yeni Parti üyeliğinin askıya alınması için başvuru yaptı.",
+   "link": "https://www.bbc.com/turkce/articles/cxdd8q9ejvglo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da6e/live/561263b0-cd8b-11f1-b1e7-39558e114359.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-28T19:22:51+00:00",
+   "url": "/haber/yeni-parti-den-sarigul-aciklamasi-hakkinda-yogun-iddialar-var-su-anda-189a4912/"
+  },
+  {
+   "id": "12143a71",
+   "title": "Deniz Kuvvetleri Komutanlığına bağlı 29 gemi, Cumhuriyet Bayramı'nda 29 limanı ziyaret edecek",
+   "summary": "Milli Savunma Bakanlığı (MSB), Deniz Kuvvetleri Komutanlığına bağlı 29 gemiyle 29 Ekim Cumhuriyet Bayramı'nda 29 liman ziyareti yapılacağını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/deniz-kuvvetleri-komutanligina-bagli-29-gemi-cumhuriyet-bayraminda-29-limani-ziyaret-edecek/4104342",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T19:21:09+00:00",
+   "url": "/haber/deniz-kuvvetleri-komutanligina-bagli-29-gemi-cumhuriyet-bayrami-nda-29-12143a71/"
+  },
+  {
+   "id": "00dbf1bf",
+   "title": "Bayraktar TB3, TCG ANADOLU’dan Sonoboy Atışı Gerçekleştirdi",
+   "summary": "Baykar, TURNAs-2026 Tatbikatı kapsamında TCG Anadolu’dan havalanan Bayraktar TB3 SİHA’nın Baykar SAS POD ile sonoboy bıraktığı yeni görüntüleri paylaştı. Görüntüler, gemi konuşlu insansız hava aracının denizaltı savunma…",
+   "link": "https://shiftdelete.net/bayraktar-tb3ten-turnas-tatbikatinda-sonoboy-atisi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-28T19:19:33+00:00",
+   "url": "/haber/bayraktar-tb3-tcg-anadolu-dan-sonoboy-atisi-gerceklestirdi-00dbf1bf/"
+  },
+  {
+   "id": "572acf11",
+   "title": "10 bin dolarlık BYD Seagull, 140 km/sa hızda lastik patlaması testini geçti",
+   "summary": "10 bin dolardan başlayan fiyatıyla dikkat çeken yeni BYD Seagull, 140 km/sa hızda gerçekleştirilen lastik patlaması testini başarıyla tamamladı.",
+   "link": "https://www.donanimhaber.com/byd-seagull-140-km-sa-hizda-lastik-patlamasi-testini-gecti--212208",
+   "image": "https://www.donanimhaber.com/images/images/haber/212208/1200x675byd-seagull-140-km-sa-hizda-lastik-patlamasi-testini-gecti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-28T19:15:00+00:00",
+   "url": "/haber/10-bin-dolarlik-byd-seagull-140-km-sa-hizda-lastik-patlamasi-testini-g-572acf11/"
+  },
+  {
+   "id": "ecbdb159",
+   "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
+   "summary": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü. Görüşmede ikili ilişkiler ile bölgesel ve küresel gelişmeler ele alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-1748411",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_40378a641a10e352ae76d86036b470d9-882913.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T19:13:47+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-ecbdb159/"
+  },
   {
    "id": "7a0d0469",
    "title": "AK Parti'den Cumhuriyet'in 103. yılına özel video",
@@ -22,17 +110,6 @@
    "category": "gundem",
    "date": "2026-10-28T18:58:59+00:00",
    "url": "/haber/abd-de-eski-yetkililerden-baskan-adaylarina-gazze-deki-soykirimdan-sor-0cae9e21/"
-  },
-  {
-   "id": "ecbdb159",
-   "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
-   "summary": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-1748411",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_40378a641a10e352ae76d86036b470d9-882913.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-28T18:57:40+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-ecbdb159/"
   },
   {
    "id": "f34037f5",
@@ -66,6 +143,17 @@
    "category": "gundem",
    "date": "2026-10-28T18:53:11+00:00",
    "url": "/haber/cumhurbaskani-erdogan-abd-baskani-trump-ile-telefonda-gorustu-b9ccf086/"
+  },
+  {
+   "id": "78df9041",
+   "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
+   "summary": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü. Görüşmede, Türkiye-ABD ikili ilişkileri ile bölgesel ve küresel gelişmeler ele alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-961537.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/erdogan-trump-aa-2499297.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-28T18:53:00+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-78df9041/"
   },
   {
    "id": "6094453c",
@@ -242,17 +330,6 @@
    "category": "teknoloji",
    "date": "2026-10-28T17:52:10+00:00",
    "url": "/haber/google-gemini-4-carbon-yapay-zeka-modelini-duyurdu-daf7a1fd/"
-  },
-  {
-   "id": "7e1796f1",
-   "title": "Türkiye ve Kazakistan'ın savunma sanayisindeki işbirliği derinleşecek",
-   "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, \"Savunma sanayisi alanında işbirliği, Kazakistan ile ilişkilerimizin önemli başlıklarından biri.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-ve-kazakistanin-savunma-sanayisindeki-isbirligi-derinlesecek/4104224",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T17:47:46+00:00",
-   "url": "/haber/turkiye-ve-kazakistan-in-savunma-sanayisindeki-isbirligi-derinlesecek-7e1796f1/"
   },
   {
    "id": "cdf11536",
@@ -552,17 +629,6 @@
    "url": "/haber/manyetik-anahtarli-razer-reclusa-mini-65-tanitildi-bac69aaa/"
   },
   {
-   "id": "344d77f0",
-   "title": "49 bin TL'lik iPad mini 60Hz ekranla geliyor: Apple yerden yere vuruldu!",
-   "summary": "iPad mini 8, Apple'a göre bugüne kadarki en büyük iPad güncellemesi ancak yüksek fiyatının yanı sıra tanıtımda bahsedilmeyen üzücü bir detay var: OLED ekran, 60Hz yenileme hızı sunuyor!",
-   "link": "https://www.donanimhaber.com/yeni-ipad-mini-yerden-yere-vuruldu-2026-da-60-hz-ekran--212194",
-   "image": "https://www.donanimhaber.com/images/images/haber/212194/1200x675yeni-ipad-mini-yerden-yere-vuruldu-2026-da-60-hz-ekran.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-28T14:00:00+00:00",
-   "url": "/haber/49-bin-tl-lik-ipad-mini-60hz-ekranla-geliyor-apple-yerden-yere-vuruldu-344d77f0/"
-  },
-  {
    "id": "7f42944a",
    "title": "Beştepe Millet Ormanı açılıyor. Yaklaşık 92 futbol sahası büyüklüğünde",
    "summary": "Beştepe Millet Ormanı, Cumhurbaşkanı Recep Tayyip Erdoğan ve Türk Devletleri Teşkilatı liderlerinin katılımıyla yarın Ankara'da açılacak.",
@@ -684,17 +750,6 @@
    "url": "/haber/aranan-firari-evin-catisinda-bulundu-c370dc2e/"
   },
   {
-   "id": "d65753cc",
-   "title": "Cumhurbaşkanı Erdoğan'ın 29 Ekim programı belli oldu",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi kapsamında çeşitli programlara katılacak.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdoganin-29-ekim-programi-belli-oldu-961505.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/recep-tayyip-erdoganaa-2495199.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-28T12:52:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-in-29-ekim-programi-belli-oldu-d65753cc/"
-  },
-  {
    "id": "c5b4cf34",
    "title": "Toyota, yeni benzinli motorlarını diğer üreticilere satmak istiyor",
    "summary": "Dünyanın en büyük otomobil üreticisi Toyota, gelen bilgilere göre yeni nesil benzinli motorlarını diğer üreticilere satmak istiyor. Automotive News tarafından aktarıldığı kadarıyla Japon üretici, bu satışlardan 2032’ye…",
@@ -728,39 +783,6 @@
    "url": "/haber/amazon-bes-yeni-akilli-ev-urunu-tanitti-0e84d0fd/"
   },
   {
-   "id": "b77950e7",
-   "title": "Bodrum'da sağanak: Mahsur kalan hamile kadın böyle kurtarıldı",
-   "summary": "Muğla’nın Bodrum ilçesinde etkili olan kuvvetli sağanak nedeniyle cadde ve sokaklar göle döndü, bazı araçlar yolda kaldı. Mahsur kalan hamile kadın kurtarıldı",
-   "link": "https://www.ntv.com.tr/turkiye/video-bodrumda-saganak-mahsur-kalan-hamile-kadin-boyle-kurtarildi-1748379",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-28152239-234291.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-28T12:29:45+00:00",
-   "url": "/haber/bodrum-da-saganak-mahsur-kalan-hamile-kadin-boyle-kurtarildi-b77950e7/"
-  },
-  {
-   "id": "189a4912",
-   "title": "Yeni Parti'den Sarıgül açıklaması: 'Hakkında yoğun iddialar var, şu anda parti ile ilişkisi yok'",
-   "summary": "Erzincan Milletvekili Mustafa Sarıgül, kendisi ve ailesine yönelik 16 Ekim'de başlatılan soruşturma tamamlanıncaya kadar Yeni Parti üyeliğinin askıya alınması için başvuru yaptı.",
-   "link": "https://www.bbc.com/turkce/articles/cxdd8q9ejvglo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da6e/live/561263b0-cd8b-11f1-b1e7-39558e114359.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-28T12:22:44+00:00",
-   "url": "/haber/yeni-parti-den-sarigul-aciklamasi-hakkinda-yogun-iddialar-var-su-anda-189a4912/"
-  },
-  {
-   "id": "f0ba2bf0",
-   "title": "İstanbul'da trafik yoğunluğu yüzde 80'e ulaştı",
-   "summary": "İstanbul'da 29 Ekim Cumhuriyet Bayramı arifesinde öğleden sonra başlayan resmi tatilin etkisiyle trafik yoğunluğu yüzde 80'i gördü.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-trafik-yogunlugu-yuzde-80e-ulasti-1748368",
-   "image": "https://images.ntv.com.tr/images/istanbultrafiği-290380",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-28T12:03:39+00:00",
-   "url": "/haber/istanbul-da-trafik-yogunlugu-yuzde-80-e-ulasti-f0ba2bf0/"
-  },
-  {
    "id": "71be2642",
    "title": "PSN Hesaplarında Yeni Tehlike: Parola Değişimi Yetersiz Kalıyor",
    "summary": "PSN hesaplarında parola değiştirilse bile passkey anahtarlarının aktif kalması ciddi bir güvenlik riski yaratıyor. İşte korunmak için yapmanız gerekenler.",
@@ -781,17 +803,6 @@
    "category": "teknoloji",
    "date": "2026-10-28T11:57:59+00:00",
    "url": "/haber/xiaomi-robot-vacuum-6-turkiye-de-fiyati-ozellikleri-ve-rakipleri-01f002a5/"
-  },
-  {
-   "id": "708fa142",
-   "title": "Emniyet mensuplarına müjde. PAEM amirlik eğitimi için 149 polis alımı yapacak",
-   "summary": "Emniyet Genel Müdürlüğü bünyesinde görev yapan polis memurları için amirlik kapısı açılıyor. Polis Akademisi Başkanlığı, PAEM 11. Dönem İlk Derece Amirlik Eğitimi kapsamında 134 erkek ve 15 kadın olmak üzere toplam 149…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-emniyet-mensuplarina-mujde-paem-amirlik-egitimi-icin-149-polis-alimi-yapacak-1748364",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_58e69b81407d4abd9c505ba5b4cf20ed-948553.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-28T11:56:02+00:00",
-   "url": "/haber/emniyet-mensuplarina-mujde-paem-amirlik-egitimi-icin-149-polis-alimi-y-708fa142/"
   },
   {
    "id": "da5cefff",
@@ -1111,17 +1122,6 @@
    "category": "teknoloji",
    "date": "2026-10-28T08:00:43+00:00",
    "url": "/haber/motorola-signature-27-ve-razr-flex-ozellikleri-sizdi-69628476/"
-  },
-  {
-   "id": "2f31e619",
-   "title": "Donald Trump Yapay Zeka Yerine Süper Zeka Terimini Zorunlu Kılıyor",
-   "summary": "ABD Başkanı Donald Trump, yapay zeka (AI) yerine süper zeka (SI) teriminin kullanılması gerektiğini savunuyor. İşte tartışmalı kararın detayları.",
-   "link": "https://shiftdelete.net/donald-trump-yapay-zeka-yerine-super-zeka-terimini-zorunlu-kiliyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-28T07:59:23+00:00",
-   "url": "/haber/donald-trump-yapay-zeka-yerine-super-zeka-terimini-zorunlu-kiliyor-2f31e619/"
   },
   {
    "id": "0449aa86",
