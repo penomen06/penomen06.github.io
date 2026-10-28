@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T02:01:10.253119+00:00",
+ "updated": "2026-10-28T02:31:01.386968+00:00",
  "items": [
   {
    "id": "0bf7088c",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-28T02:00:00+00:00",
+   "date": "2026-10-28T02:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-0bf7088c/"
+  },
+  {
+   "id": "baaa6ed3",
+   "title": "Beyoğlu'nda 5 katlı metruk bina çöktü",
+   "summary": "Beyoğlu'nda 5 katlı metruk bina çöktü. Çöken binanın parçaları bitişikteki binaya hasar verdi. İlk incelemelere göre çökme sebebiyle can kaybı olmadığı öğrenildi.",
+   "link": "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267",
+   "image": "https://images.ntv.com.tr/images/AA-20261027-42885031-42885023-BEYOGLUNDA_4_KATLI_METRUK_BINA_COKTU-491702.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T02:06:28+00:00",
+   "url": "/haber/beyoglu-nda-5-katli-metruk-bina-coktu-baaa6ed3/"
   },
   {
    "id": "543614f7",
@@ -77,17 +88,6 @@
    "category": "gundem",
    "date": "2026-10-27T23:58:49+00:00",
    "url": "/haber/beyoglu-nda-4-katli-metruk-bina-coktu-940dc66e/"
-  },
-  {
-   "id": "baaa6ed3",
-   "title": "Beyoğlu'nda 5 katlı metruk bina çöktü",
-   "summary": "Beyoğlu'nda 5 katlı metruk bina çöktü. Çöken binanın parçaları bitişikteki binaya hasar verirken, olay yerine sevk edilen ekipler arama çalışması başlattı.",
-   "link": "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267",
-   "image": "https://images.ntv.com.tr/images/AA-20261027-42885031-42885023-BEYOGLUNDA_4_KATLI_METRUK_BINA_COKTU-491702.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-27T23:56:23+00:00",
-   "url": "/haber/beyoglu-nda-5-katli-metruk-bina-coktu-baaa6ed3/"
   },
   {
    "id": "607a67e6",
