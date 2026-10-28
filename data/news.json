@@ -1,16 +1,247 @@
 {
- "updated": "2026-10-28T09:30:59.611100+00:00",
+ "updated": "2026-10-28T10:01:14.339118+00:00",
  "items": [
   {
-   "id": "88928643",
-   "title": "Son Dakika: Mustafa Sarıgül Yeni Parti üyeliği askıya alındı.",
+   "id": "00b0a688",
+   "title": "Pixel Kullanıcılarının Alarm Kabusu: Alarmlar Sessizce Kapanıyor",
+   "summary": "Pixel telefonlarda yaşanan Pixel alarm otomatik sessize alındı hatası kullanıcıları mağdur ediyor. Google, sorunu incelemeye aldı.",
+   "link": "https://shiftdelete.net/pixel-telefonlarda-alarm-sorunu",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-28T10:00:37+00:00",
+   "url": "/haber/pixel-kullanicilarinin-alarm-kabusu-alarmlar-sessizce-kapaniyor-00b0a688/"
+  },
+  {
+   "id": "fbb7fc7d",
+   "title": "Cumhurbaşkanı Erdoğan talimat verdi. Nafaka düzenlemesinde yeni formüller masada",
+   "summary": "Meclis'e sunulması beklenen nafaka düzenlemesinde yeni bir gelişme yaşandı. Süresiz nafakayı sona erdiren düzenlemede Cumhurbaşkanı Erdoğan'ın talimatıyla yeni formüller masaya getirilecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-cumhurbaskani-erdogan-talimat-verdi-nafaka-duzenlemesinde-yeni-formuller-masada-1748349",
+   "image": "https://images.ntv.com.tr/images/nafaka-104010-485457.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T10:00:24+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-talimat-verdi-nafaka-duzenlemesinde-yeni-formull-fbb7fc7d/"
+  },
+  {
+   "id": "6ac65d3e",
+   "title": "Borsa günü yükselişle tamamladı",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,13 değer kazanarak 11.165,44 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4103599",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T09:56:02+00:00",
+   "url": "/haber/borsa-gunu-yukselisle-tamamladi-6ac65d3e/"
+  },
+  {
+   "id": "c1c77674",
+   "title": "Samsung'a Galaxy S21 ve S22 için oyun performansı cezası",
+   "summary": "Samsung, Galaxy S21 ve S22 serilerinde oyun performansını sınırlayan GOS özelliğini yeterince açıklamadığı gerekçesiyle Güney Kore'de para cezasına çarptırıldı.",
+   "link": "https://www.donanimhaber.com/samsung-a-galaxy-s21-ve-s22-icin-oyun-performansi-cezasi--212187",
+   "image": "https://www.donanimhaber.com/images/images/haber/212187/1200x675samsung-a-galaxy-s21-ve-s22-icin-oyun-performansi-cezasi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-28T09:52:00+00:00",
+   "url": "/haber/samsung-a-galaxy-s21-ve-s22-icin-oyun-performansi-cezasi-c1c77674/"
+  },
+  {
+   "id": "124db841",
+   "title": "Türk sanayisinin ikiz dönüşümüne Dünya Bankasından 485 milyon dolar kaynak",
+   "summary": "Dünya Bankası, küçük ve orta ölçekli işletmelerin yeşil ve dijital dönüşüm sürecine destek sağlayacak Sanayinin İkiz Dönüşümü Projesi için 485 milyon dolar kaynak aktaracak.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-sanayisinin-ikiz-donusumune-dunya-bankasindan-485-milyon-dolar-kaynak/4103593",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T09:51:10+00:00",
+   "url": "/haber/turk-sanayisinin-ikiz-donusumune-dunya-bankasindan-485-milyon-dolar-ka-124db841/"
+  },
+  {
+   "id": "16e1f868",
+   "title": "Brezilya seçimini yaptı, şimdi sıra Lula'da",
+   "summary": "Önümüzdeki 4 yıl, Brezilya'da her iki siyasi kampın da kendini yenilemesi için fırsatlar sunuyor. Seçmenler Lula'ya bir dönem daha yetki verdi, ülke bu yetkiyi insanların fark edebileceği reformlara dönüştürebilecek bir…",
+   "link": "https://www.aa.com.tr/tr/analiz/brezilya-secimini-yapti-simdi-sira-lulada/4103591",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T09:49:59+00:00",
+   "url": "/haber/brezilya-secimini-yapti-simdi-sira-lula-da-16e1f868/"
+  },
+  {
+   "id": "75bcfe97",
+   "title": "Mobil Fotoğrafçılıkta Yeni Dönem: vivo X500 Pro Max Tanıtıldı!",
+   "summary": "vivo X500 Pro Max, 200 MP ZEISS telefoto kamerası, 400 mm lens desteği ve Türkiye'ye özel avantajlı lansman fırsatlarıyla tanıtıldı.",
+   "link": "https://www.webtekno.com/vivo-x500-pro-max-ozellikleri-fiyati-h227996.html",
+   "image": "https://imgrosetta.webtekno.com/file/694969/694969-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-28T09:48:09+00:00",
+   "url": "/haber/mobil-fotografcilikta-yeni-donem-vivo-x500-pro-max-tanitildi-75bcfe97/"
+  },
+  {
+   "id": "8700e9f7",
+   "title": "OpenAI'a Ağır Suçlama: \"ChatGPT Kızımıza İlacı Bıraktırdı ve Ölümüne Yol Açtı\"",
+   "summary": "OpenAI'a açılan davada, ChatGPT'nin epilepsi hastası genç kadına ilacını bıraktırarak ölümüne yol açtığı öne sürüldü.",
+   "link": "https://www.webtekno.com/openai-agir-suclama-chatgpt-kizimiza-ilaci-biraktirdi-ve-olumune-yol-acti-h227998.html",
+   "image": "https://imgrosetta.webtekno.com/file/694975/694975-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-28T09:47:55+00:00",
+   "url": "/haber/openai-a-agir-suclama-chatgpt-kizimiza-ilaci-biraktirdi-ve-olumune-yol-8700e9f7/"
+  },
+  {
+   "id": "537db5c9",
+   "title": "Toyota’dan Ezber Bozan Hamle: Yeni Nesil Benzinli Motorlarını Rakiplerine Satacak!",
+   "summary": "Toyota, geliştirdiği yeni nesil benzinli ve hibrit motorları diğer üreticilere satarak 2032’ye kadar milyarlarca euro gelir hedefliyor.",
+   "link": "https://www.webtekno.com/toyota-yeni-nesil-benzinli-motorlarini-rakiplerine-satacak-h228007.html",
+   "image": "https://imgrosetta.webtekno.com/file/694999/694999-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-28T09:47:46+00:00",
+   "url": "/haber/toyota-dan-ezber-bozan-hamle-yeni-nesil-benzinli-motorlarini-rakipleri-537db5c9/"
+  },
+  {
+   "id": "a7b7b46d",
+   "title": "Samsung, Performansa Yönelik Dev Davayı Kaybetti (Bilerek Oyun Performansını mı Kısıtlıyor?)",
+   "summary": "Güney Kore mahkemesi, Galaxy S21 ve S22 serilerinde oyun performansını kısıtlayan GOS yazılımını gizlediği gerekçesiyle Samsung'a para cezası verdi.",
+   "link": "https://www.webtekno.com/samsung-performansa-yonelik-dev-davayi-kaybetti-h228004.html",
+   "image": "https://imgrosetta.webtekno.com/file/694960/694960-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-28T09:47:23+00:00",
+   "url": "/haber/samsung-performansa-yonelik-dev-davayi-kaybetti-bilerek-oyun-performan-a7b7b46d/"
+  },
+  {
+   "id": "405bc58b",
+   "title": "BMW'nin En Büyük Elektrikli SUV Modeli iX7 Sızdırıldı: 2027'de Tanıtılacak!",
+   "summary": "BMW'nin 2027'de tanıtılması beklenen yeni elektrikli SUV modeli iX7, sızdırılan bilgilerle şimdiden merak uyandırıyor.",
+   "link": "https://www.webtekno.com/bmw-en-buyuk-elektrikli-suv-modeli-ix7-sizdirildi-2027de-tanitilacak-h228001.html",
+   "image": "https://imgrosetta.webtekno.com/file/694987/694987-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-28T09:47:12+00:00",
+   "url": "/haber/bmw-nin-en-buyuk-elektrikli-suv-modeli-ix7-sizdirildi-2027-de-tanitila-405bc58b/"
+  },
+  {
+   "id": "86cdbd72",
+   "title": "Thomas Van Tonder, Güney Afrika'da 280 metrelik monkey bar parkurunu geçti",
+   "summary": "Red Bull sporcusu ve engel parkuru yarışı (OCR) dünya şampiyonu Thomas Van Tonder, 280 metre uzunluğundaki dünyanın en uzun monkey bar parkurunu tamamladı.",
+   "link": "https://www.aa.com.tr/tr/spor/thomas-van-tonder-guney-afrikada-280-metrelik-monkey-bar-parkurunu-gecti/4103587",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T09:45:44+00:00",
+   "url": "/haber/thomas-van-tonder-guney-afrika-da-280-metrelik-monkey-bar-parkurunu-ge-86cdbd72/"
+  },
+  {
+   "id": "32c62985",
+   "title": "Google, Türkiye’de yapay zeka akademisini hayata geçiriyor",
+   "summary": "Google Cloud Day Türkiye 2026'da 2 milyar dolarlık bulut yatırımı, yeni yapay zeka eğitim programı ve şirketlerin yapay zeka projelerinden elde ettiği sonuçlar açıklandı.",
+   "link": "https://www.donanimhaber.com/google-turkiye-de-yapay-zeka-akademisini-hayata-geciriyor--212180",
+   "image": "https://www.donanimhaber.com/images/images/haber/212180/1200x675google-turkiye-de-yapay-zeka-akademisini-hayata-geciriyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-28T09:43:49+00:00",
+   "url": "/haber/google-turkiye-de-yapay-zeka-akademisini-hayata-geciriyor-32c62985/"
+  },
+  {
+   "id": "be3cbdf2",
+   "title": "32 ildeki uyuşturucu operasyonlarında yakalanan 423 şüpheliden 298'i tutuklandı",
+   "summary": "İçişleri Bakanlığı, Jandarma Genel Komutanlığı ekiplerince 32 ilde düzenlenen uyuşturucu operasyonlarında yakalanan 423 şüpheliden 298'inin tutuklandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/32-ildeki-uyusturucu-operasyonlarinda-yakalanan-423-supheliden-298i-tutuklandi/4103585",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T09:43:42+00:00",
+   "url": "/haber/32-ildeki-uyusturucu-operasyonlarinda-yakalanan-423-supheliden-298-i-t-be3cbdf2/"
+  },
+  {
+   "id": "0d8b9e17",
+   "title": "Yandex veri erişiminin yeniden sağlandığını duyurdu",
+   "summary": "Rus teknoloji şirketi Yandex, insansız hava aracı (İHA) saldırılarında veri merkezlerinin zarar görmesinin ardından bulut depolama hizmeti Yandex Disk'teki verilerin yüzde 96'sına erişimin yeniden sağlandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yandex-veri-erisiminin-yeniden-saglandigini-duyurdu/4103582",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T09:42:31+00:00",
+   "url": "/haber/yandex-veri-erisiminin-yeniden-saglandigini-duyurdu-0d8b9e17/"
+  },
+  {
+   "id": "e7fa0954",
+   "title": "İspanya'daki hızlı tren kazasında 'en az 10 ölü'",
+   "summary": "İspanya'nın başkenti Madrid'in güneyinde Çarşamba sabahı iki tren çarpıştı. Yerel yetkililer kazada en az 10 kişinin hayatını kaybettiğini açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebd4/live/821de6e0-d2b4-11f1-8cf0-c5d120932f9f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-28T09:40:46+00:00",
+   "url": "/haber/ispanya-daki-hizli-tren-kazasinda-en-az-10-olu-e7fa0954/"
+  },
+  {
+   "id": "8a33379d",
+   "title": "Antalya'ya gelen yabancı turist sayısı 15 milyonu aştı",
+   "summary": "Sonbahar döneminde başta Alman ve İngilizler olmak üzere dünyanın dört bir yanından turistleri ağırlayan Antalya'yı, yıl başından bu yana 15 milyondan fazla yabancı turist ziyaret etti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/antalyaya-gelen-yabanci-turist-sayisi-15-milyonu-asti/4103571",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T09:36:32+00:00",
+   "url": "/haber/antalya-ya-gelen-yabanci-turist-sayisi-15-milyonu-asti-8a33379d/"
+  },
+  {
+   "id": "543614f7",
+   "title": "İsrail seçim sonuçları: Partiler meclis çoğunluğunu sağlayamıyor",
+   "summary": "İsrail'de 27 Ekim Salı günü yapılan parlamento seçimlerinde Türkiye saatiyle 11:00 itibarıyla oyların %66'sı sayıldı. Merkez Seçim Komitesi'nin açıkladığı kısmi sonuçlara göre Başbakan Binyamin Netanyahu'nun…",
+   "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0462/live/ee3389d0-d2b3-11f1-8cf0-c5d120932f9f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-28T09:36:06+00:00",
+   "url": "/haber/israil-secim-sonuclari-partiler-meclis-cogunlugunu-saglayamiyor-543614f7/"
+  },
+  {
+   "id": "df10d001",
+   "title": "Son Dakika: Mustafa Sarıgül'ün Yeni Parti üyeliği askıya alındı",
    "summary": "Yeni Parti Erzincan Milletvekili Mustafa Sarıgül'ün kendisi ve ailesi hakkında yürütülen soruşturmalar sonuçlanana kadar parti üyeliğinin askıya alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-son-dakika-mustafa-sarigul-yeni-parti-uyeligini-askiya-alacak-1748319",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-son-dakika-mustafa-sarigul-yeni-parti-uyeligi-askiya-alindi-1748319",
    "image": "https://images.ntv.com.tr/images/thumbs_b_c_7759b957db46546c1747fe58ceb50c50-858708.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-28T09:30:01+00:00",
-   "url": "/haber/son-dakika-mustafa-sarigul-yeni-parti-uyeligi-askiya-alindi-88928643/"
+   "date": "2026-10-28T09:34:22+00:00",
+   "url": "/haber/son-dakika-mustafa-sarigul-un-yeni-parti-uyeligi-askiya-alindi-df10d001/"
+  },
+  {
+   "id": "1b062400",
+   "title": "Divriği-Kars-Gürcistan Sınırı Demir Yolu Hattı modernize edilecek",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Divriği'den Kars sınıra uzanan mevcut hattın altyapı ve üstyapısını rehabilite ederek elektrifikasyon ve sinyalizasyon çalışmalarını gerçekleştireceğiz.\" ifadelerini…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/divrigi-kars-gurcistan-siniri-demir-yolu-hatti-modernize-edilecek/4103564",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T09:32:35+00:00",
+   "url": "/haber/divrigi-kars-gurcistan-siniri-demir-yolu-hatti-modernize-edilecek-1b062400/"
+  },
+  {
+   "id": "e0d591de",
+   "title": "Milli Savunma Bakanı Yaşar Güler, üçlü savunma toplantısı için Bulgaristan'da",
+   "summary": "Milli Savunma Bakanı Yaşar Güler, Türkiye, Bulgaristan ve Romanya savunma bakanları ile genelkurmay başkanlarının katılacağı toplantı için Sofya'ya gitti.",
+   "link": "https://www.ntv.com.tr/turkiye/milli-savunma-bakani-yasar-guler-uclu-savunma-toplantisi-icin-bulgaristanda-1748337",
+   "image": "https://images.ntv.com.tr/images/HVtAr0XWkAE5XoY-340790.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T09:30:49+00:00",
+   "url": "/haber/milli-savunma-bakani-yasar-guler-uclu-savunma-toplantisi-icin-bulgaris-e0d591de/"
+  },
+  {
+   "id": "2b7200b2",
+   "title": "Bakırköy Belediyesine yönelik soruşturmada gözaltı sayısı 62 oldu",
+   "summary": "Bakırköy Belediyesine yönelik \"ihaleye fesat karıştırma\" ve \"irtikap\" suçlarına ilişkin soruşturma kapsamında gözaltına alınan şüpheli sayısı 62'ye yükseldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakirkoy-belediyesine-yonelik-sorusturmada-gozalti-sayisi-62-oldu-/4103562",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T09:30:07+00:00",
+   "url": "/haber/bakirkoy-belediyesine-yonelik-sorusturmada-gozalti-sayisi-62-oldu-2b7200b2/"
   },
   {
    "id": "31968e9c",
@@ -24,6 +255,17 @@
    "url": "/haber/cyberpunk-2-icin-acilan-yeni-ilan-multiplayer-moduna-isaret-ediyor-31968e9c/"
   },
   {
+   "id": "0e4626f8",
+   "title": "TEKNOFEST'te üçüncü olan takım yerli motor çalışmalarına katkı sağlamak istiyor",
+   "summary": "TEKNOFEST Güneydoğu kapsamında düzenlenen Jet Motor Tasarım Yarışması'nda üçüncü olan Kapsül Tulpar takımı, Türkiye'nin yerli motor teknolojileri alanındaki çalışmalarına katkı sağlamayı amaçlıyor.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/teknofestte-ucuncu-olan-takim-yerli-motor-calismalarina-katki-saglamak-istiyor/4103558",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T09:29:29+00:00",
+   "url": "/haber/teknofest-te-ucuncu-olan-takim-yerli-motor-calismalarina-katki-saglama-0e4626f8/"
+  },
+  {
    "id": "289523a0",
    "title": "Türk Devletleri Teşkilatı Zirvesi başlıyor",
    "summary": "Türk Devletleri Teşkilatı (TDT) Zirvesi yarın Beştepe'de başlıyor. İki gün sürecek zirvenin teması \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" olacak.",
@@ -33,6 +275,17 @@
    "category": "gundem",
    "date": "2026-10-28T09:29:26+00:00",
    "url": "/haber/turk-devletleri-teskilati-zirvesi-basliyor-289523a0/"
+  },
+  {
+   "id": "f6115d67",
+   "title": "Uyuşturucuyla mücadele konusunda gelecek yıl 732 bin kişiye bilgilendirme yapılacak",
+   "summary": "Başta çocuklar ve gençler olmak üzere toplumun farklı kesimlerinden 732 bin kişiye uyuşturucuyla mücadele konusunda bilgilendirme yapılması hedefleniyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/uyusturucuyla-mucadele-konusunda-gelecek-yil-732-bin-kisiye-bilgilendirme-yapilacak/4103557",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T09:28:42+00:00",
+   "url": "/haber/uyusturucuyla-mucadele-konusunda-gelecek-yil-732-bin-kisiye-bilgilendi-f6115d67/"
   },
   {
    "id": "09fc8ac0",
@@ -57,6 +310,17 @@
    "url": "/haber/turkiye-nin-aycicegi-yagi-ihracati-9-ayda-932-milyon-dolara-yaklasti-09b01f3f/"
   },
   {
+   "id": "562684b1",
+   "title": "İspanya'da hızlı trenler çarpıştı: Ölü ve yaralılar var",
+   "summary": "İspanya'da Madrid-Endülüs seferi yapan iki hızlı yolcu treninin çarpıştığı kazada en az 10 kişinin hayatını kaybettiği duyuruldu.",
+   "link": "https://www.trthaber.com/haber/dunya/ispanyada-hizli-trenler-carpisti-olu-ve-yaralilar-var-961468.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/spain-train-crash-el-pais-2499034.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-28T09:22:00+00:00",
+   "url": "/haber/ispanya-da-hizli-trenler-carpisti-olu-ve-yaralilar-var-562684b1/"
+  },
+  {
    "id": "94f74051",
    "title": "İndirim Diye Aldanmayın: Ticaret Bakanlığı Kasım Ayı Denetimlerini Sıkılaştırdı!",
    "summary": "Ticaret Bakanlığı, kasım indirimleri döneminde tüketiciyi yanıltan kampanyaları ve haksız ticari uygulamaları mercek altına alıyor. İhlalin niteliğine göre işletmelere yaklaşık 40 milyon TL'ye varan idari para cezaları…",
@@ -79,26 +343,26 @@
    "url": "/haber/bazi-audi-araclar-icin-kritik-uyari-yapildi-sakin-80-in-uzerinde-sarj-4f870b34/"
   },
   {
-   "id": "6fa89ecd",
-   "title": "İspanya'da iki hızlı yolcu treninin çarpıştığı kazada en az 10 kişinin hayatını kaybettiği bildirildi",
-   "summary": "İspanya'da Madrid-Endülüs seferi yapan iki hızlı yolcu treninin çarpıştığı kazada en az 10 kişinin hayatını kaybettiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ispanyada-iki-hizli-yolcu-treninin-carpistigi-kazada-en-az-10-kisinin-hayatini-kaybettigi-bildirildi/4103535",
+   "id": "c8454831",
+   "title": "İspanya'daki hızlı tren kazasında en az 10 kişinin hayatını kaybettiği bildirildi",
+   "summary": "İspanya'da Madrid-Endülüs seferi yapan iki hızlı yolcu treninin çarpıştığı kazada, en az 10 kişinin hayatını kaybettiği belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ispanyadaki-hizli-tren-kazasinda-en-az-10-kisinin-hayatini-kaybettigi-bildirildi/4103535",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-28T09:19:22+00:00",
-   "url": "/haber/ispanya-da-iki-hizli-yolcu-treninin-carpistigi-kazada-en-az-10-kisinin-6fa89ecd/"
+   "url": "/haber/ispanya-daki-hizli-tren-kazasinda-en-az-10-kisinin-hayatini-kaybettigi-c8454831/"
   },
   {
-   "id": "89caf9b3",
-   "title": "MSB: Geçen hafta 2 terör örgütü PKK mensubu daha teslim oldu",
-   "summary": "Milli Savunma Bakanlığı (MSB) Sözcüsü Tuğamiral Zeki Aktürk, geçen hafta 2 terör örgütü PKK mensubunun daha teslim olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/msb-gecen-hafta-2-teror-orgutu-pkk-mensubu-daha-teslim-oldu/4103528",
+   "id": "7a23dc5c",
+   "title": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 3 kişi hayatını kaybetti",
+   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 3 kişi yaşamını yitirdi, 11 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-3-kisi-hayatini-kaybetti/4103527",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-28T09:14:10+00:00",
-   "url": "/haber/msb-gecen-hafta-2-teror-orgutu-pkk-mensubu-daha-teslim-oldu-89caf9b3/"
+   "date": "2026-10-28T09:12:33+00:00",
+   "url": "/haber/israil-in-ateskese-ragmen-gazze-ye-duzenledigi-saldirilarda-son-24-saa-7a23dc5c/"
   },
   {
    "id": "3c54dd68",
@@ -110,6 +374,17 @@
    "category": "teknoloji",
    "date": "2026-10-28T09:08:00+00:00",
    "url": "/haber/macbook-neo-2-icin-cikis-tarihi-ortaya-cikti-a19-pro-ve-12-gb-ram-geli-3c54dd68/"
+  },
+  {
+   "id": "3ecc0a79",
+   "title": "Türkiye'nin ulusal dijital kimlik cüzdanı için ilk adım atılıyor",
+   "summary": "Siber Güvenlik Başkanlığının sorumluluğunda geliştirilecek ulusal dijital kimlik cüzdanı, temel kimlik ve diploma belgelerini bir araya getirecek. Kamu çalışanları öncelikli olarak hazırlanacak prototipin gelecek yıl…",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ulusal-dijital-kimlik-cuzdani-icin-ilk-adim-atiliyor-961465.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2036000/kimlik-karti-2036622.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-28T09:02:00+00:00",
+   "url": "/haber/turkiye-nin-ulusal-dijital-kimlik-cuzdani-icin-ilk-adim-atiliyor-3ecc0a79/"
   },
   {
    "id": "dc72b8f5",
@@ -134,28 +409,6 @@
    "url": "/haber/chatgpt-ye-icloud-takvim-ve-e-posta-destegi-geldi-1c24341b/"
   },
   {
-   "id": "7723ca80",
-   "title": "Kazakistan Dışişleri Bakanı Muhtar Tileuberdi: Ülkelerimiz arasındaki ilişkiler istikrarlı biçimde gelişmektedir",
-   "summary": "Kazakistan Dışişleri Bakanı Muhtar Tileuberdi, Türkiye ile kapsamlı işbirliğinin geliştirilmesine ve Türk Devletleri Teşkilatı (TDT) çerçevesindeki ilişkilerin güçlendirilmesine önem verdiklerini belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/kazakistan-disisleri-bakani-muhtar-tileuberdi-ulkelerimiz-arasindaki-iliskiler-istikrarli-bicimde-gelismektedir/4103502",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T08:58:01+00:00",
-   "url": "/haber/kazakistan-disisleri-bakani-muhtar-tileuberdi-ulkelerimiz-arasindaki-i-7723ca80/"
-  },
-  {
-   "id": "d9c188c8",
-   "title": "A Milli Kadın Hentbol Takımı, Avrupa Şampiyonası'nın Türkiye etabına odaklandı",
-   "summary": "A Milli Kadın Hentbol Takımı Başantrenörü David Ginesta Montes, 2026 Avrupa Şampiyonası'nın Antalya etabında en iyi performansı sergilemek istediklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-hentbol-takimi-avrupa-sampiyonasinin-turkiye-etabina-odaklandi/4103501",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T08:57:38+00:00",
-   "url": "/haber/a-milli-kadin-hentbol-takimi-avrupa-sampiyonasi-nin-turkiye-etabina-od-d9c188c8/"
-  },
-  {
    "id": "2a8e333a",
    "title": "MSB: Mısır ile anlaşma imzalamaya hazırız",
    "summary": "Milli Savunma Bakanlığı, Libya Temsilciler Meclisi'nin deniz yetki alanları mutabakatını onaylamasını memnuniyetle karşılarken, Mısır ile de benzer bir anlaşma imzalamaya hazır olunduğunu bildirdi. Bakanlık, Türkiye ile…",
@@ -167,17 +420,6 @@
    "url": "/haber/msb-misir-ile-anlasma-imzalamaya-haziriz-2a8e333a/"
   },
   {
-   "id": "3cdc12e1",
-   "title": "TRT, Cumhuriyet'in 103. yılını özel yayınlarla kutlayacak",
-   "summary": "TRT, 29 Ekim Cumhuriyet Bayramı dolayısıyla televizyon ve radyo kanallarında özel içerikler yayımlayacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/trt-cumhuriyetin-103-yilini-ozel-yayinlarla-kutlayacak/4103494",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T08:53:04+00:00",
-   "url": "/haber/trt-cumhuriyet-in-103-yilini-ozel-yayinlarla-kutlayacak-3cdc12e1/"
-  },
-  {
    "id": "c93ff8bf",
    "title": "Alüminyum fabrikasındaki patlamanın görüntüleri ortaya çıktı",
    "summary": "Sakarya’nın Akyazı ilçesindeki alüminyum fabrikasında 20 Ekim’de meydana gelen ve Recep Gezici’nin (49) hayatını kaybettiği patlamanın güvenlik kamerası görüntüleri ortaya çıktı.",
@@ -187,17 +429,6 @@
    "category": "gundem",
    "date": "2026-10-28T08:52:08+00:00",
    "url": "/haber/aluminyum-fabrikasindaki-patlamanin-goruntuleri-ortaya-cikti-c93ff8bf/"
-  },
-  {
-   "id": "c8ebe5f9",
-   "title": "Fenerbahçe'de yeni teknik direktör belirlenene kadar Dirk Kuyt görev yapacak",
-   "summary": "Fenerbahçe, İsmail Kartal'ın istifasının ardından yeni teknik direktör belirlenene kadar yardımcı antrenör Dirk Kuyt'ın teknik sorumlu olarak görev yapacağını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahcede-yeni-teknik-direktor-belirlenene-kadar-dirk-kuyt-gorev-yapacak/4103488",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T08:49:23+00:00",
-   "url": "/haber/fenerbahce-de-yeni-teknik-direktor-belirlenene-kadar-dirk-kuyt-gorev-y-c8ebe5f9/"
   },
   {
    "id": "3958b116",
@@ -220,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-10-28T08:45:06+00:00",
    "url": "/haber/gta-6-nin-boyutu-sizdirildi-ps5-te-devasa-yer-kaplayacak-c1d4882d/"
-  },
-  {
-   "id": "543614f7",
-   "title": "İsrail seçim sonuçları: Partiler meclis çoğunluğunu sağlayamıyor",
-   "summary": "İsrail'de 27 Ekim Salı günü yapılan parlamento seçimlerinde Türkiye saatiyle 11:00 itibarıyla oyların %66'sı sayıldı. Merkez Seçim Komitesi'nin açıkladığı kısmi sonuçlara göre Başbakan Binyamin Netanyahu'nun…",
-   "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f424/live/08efe9d0-d2aa-11f1-a05d-41eb870c7a5f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-28T08:44:53+00:00",
-   "url": "/haber/israil-secim-sonuclari-partiler-meclis-cogunlugunu-saglayamiyor-543614f7/"
   },
   {
    "id": "80e90b57",
@@ -266,17 +486,6 @@
    "url": "/haber/steam-turkiye-de-en-cok-satan-oyunlar-aciklandi-20-27-ekim-2026-717fe51a/"
   },
   {
-   "id": "9765db43",
-   "title": "AJet'ten Cumhuriyet Bayramı'na özel yüzde 29 indirim",
-   "summary": "AJet, 29 Ekim Cumhuriyet Bayramı dolayısıyla tüm yurt içi seferlerde vergiler hariç yüzde 29 indirim kampanyası başlattı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ajetten-cumhuriyet-bayramina-ozel-yuzde-29-indirim/4103477",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T08:39:52+00:00",
-   "url": "/haber/ajet-ten-cumhuriyet-bayrami-na-ozel-yuzde-29-indirim-9765db43/"
-  },
-  {
    "id": "fca2b40d",
    "title": "Uygun Fiyatlı MacBook Neo 2’nin Ne Zaman Tanıtılacağı Ortaya Çıktı",
    "summary": "Apple’ın uygun fiyatlı yeni MacBook Neo modelinin yeni neslini ne zaman tanıtacağına dair bilgler geldi.",
@@ -299,28 +508,6 @@
    "url": "/haber/firefox-yeni-yapay-zeka-ozellikleriyle-guncellendi-61d9e4f4/"
   },
   {
-   "id": "617e45fd",
-   "title": "Gelecek yıl 7 bin turizm tesisinin denetlenmesi planlanıyor",
-   "summary": "Turizm sektörünün rekabet gücünün artırılması ve hizmet kalitesinin yükseltilmesi amacıyla gelecek yıl 7 bin turizm işletme belgeli tesisin denetlenmesi planlanıyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/gelecek-yil-7-bin-turizm-tesisinin-denetlenmesi-planlaniyor/4103476",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T08:38:40+00:00",
-   "url": "/haber/gelecek-yil-7-bin-turizm-tesisinin-denetlenmesi-planlaniyor-617e45fd/"
-  },
-  {
-   "id": "38b8e995",
-   "title": "Avrupa borsaları negatif seyrediyor",
-   "summary": "Avrupa borsaları, Avrupa Merkez Bankasının (ECB) faiz kararı öncesi yatırımcıların temkinli hareket etmesi ve petrol fiyatlarındaki yükselişin etkisiyle negatif seyrediyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-borsalari-negatif-seyrediyor/4103473",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T08:38:14+00:00",
-   "url": "/haber/avrupa-borsalari-negatif-seyrediyor-38b8e995/"
-  },
-  {
    "id": "72663cef",
    "title": "Muğla'da sağanak yaşamı olumsuz etkiliyor",
    "summary": "Muğla'nın Bodrum, Marmaris ve Dalaman ilçelerinde etkili olan sağanak nedeniyle yollarda su birikintileri oluştu, araçlar mahsur kaldı, dere taştı.",
@@ -341,17 +528,6 @@
    "category": "gundem",
    "date": "2026-10-28T08:37:02+00:00",
    "url": "/haber/yarin-gece-basliyor-8-saat-surecek-istanbul-un-12-ilcesinde-elektrik-k-5943e972/"
-  },
-  {
-   "id": "f99655cd",
-   "title": "Erzurum Lisesi 137 yıldır kentin eğitim hafızasını yaşatıyor",
-   "summary": "Erzurum Lisesi, 137 yıldır yetiştirdiği önemli isimlerin yanı sıra tarihi olaylara tanıklık eden geçmişiyle kentin eğitim hafızasını yaşatıyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/erzurum-lisesi-137-yildir-kentin-egitim-hafizasini-yasatiyor/4103470",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T08:36:51+00:00",
-   "url": "/haber/erzurum-lisesi-137-yildir-kentin-egitim-hafizasini-yasatiyor-f99655cd/"
   },
   {
    "id": "75e96cff",
@@ -418,28 +594,6 @@
    "category": "gundem",
    "date": "2026-10-28T08:14:37+00:00",
    "url": "/haber/fenerbahce-de-ismail-kartal-yerine-gecici-olarak-dirk-kuyt-gorevlendir-9d4efc5f/"
-  },
-  {
-   "id": "8ded9b08",
-   "title": "Geleneksel Türk Okçuluk Takımı, Güney Kore'de başarı peşinde",
-   "summary": "Geleneksel Türk Okçuluk Takımı, Güney Kore'de düzenlenecek 2026 Dünya Geleneksel Okçuluk Şampiyonası'nda başarı elde ederek Türk bayrağını dalgalandırmak istiyor.",
-   "link": "https://www.aa.com.tr/tr/spor/geleneksel-turk-okculuk-takimi-guney-korede-basari-pesinde/4103430",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T08:10:52+00:00",
-   "url": "/haber/geleneksel-turk-okculuk-takimi-guney-kore-de-basari-pesinde-8ded9b08/"
-  },
-  {
-   "id": "81551061",
-   "title": "Gazze'de yaşanan savaşın dehşetiyle saçlarını kaybeden Sena, aynada eski yüzünü arıyor",
-   "summary": "Gazze'de 2 yıl boyunca yaşanan soykırımın meydana getirdiği travmayla saçları, kaşları ve kirpikleri tamamen dökülen 12 yaşındaki Sena Rıdvan, tedavi olmak ve eski haline kavuşmak istiyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzede-yasanan-savasin-dehsetiyle-saclarini-kaybeden-sena-aynada-eski-yuzunu-ariyor/4103419",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T08:06:59+00:00",
-   "url": "/haber/gazze-de-yasanan-savasin-dehsetiyle-saclarini-kaybeden-sena-aynada-esk-81551061/"
   },
   {
    "id": "9000445f",
@@ -607,17 +761,6 @@
    "url": "/haber/redmi-nin-yeni-acik-yapili-kablosuz-kulakligi-clip-neo-tanitildi-b68df883/"
   },
   {
-   "id": "6d3d52c4",
-   "title": "2027 Yılı Bütçesi TBMM Plan ve Bütçe Komisyonunda",
-   "summary": "TBMM Plan ve Bütçe Komisyonunda, Meclis Başkanlığının bütçe ve kesin hesap, Kamu Denetçiliği Kurumunun özel bütçe, bütçe, kesin hesap ve Sayıştay raporunun yanı sıra Sayıştayın bütçe ve kesin hesabının görüşmelerine…",
-   "link": "https://www.aa.com.tr/tr/gundem/2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda/4103353",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T07:17:00+00:00",
-   "url": "/haber/2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda-6d3d52c4/"
-  },
-  {
    "id": "c3558611",
    "title": "Fon soruşturmasında Pasifik Holding'in üç yöneticisinin mal varlıklarına tedbir",
    "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen soruşturmada üç kişinin mal varlıklarına tedbir kararı uygulandı.",
@@ -671,17 +814,6 @@
    "category": "teknoloji",
    "date": "2026-10-28T07:00:13+00:00",
    "url": "/haber/bankalardan-rica-yapay-zeka-asistanlarina-sifrenizi-vermeyin-14b1f671/"
-  },
-  {
-   "id": "e2c2718a",
-   "title": "Casper Nirvana X650 İncelemesi",
-   "summary": "Casper Nirvana X650 modelini tüm detaylarıyla inceliyoruz.",
-   "link": "https://www.webtekno.com/casper-nirvana-x650-incelemesi-fiyati-ve-one-cikan-ozellikleri-h227338.html",
-   "image": "https://imgrosetta.webtekno.com/file/693223/693223-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-28T07:00:02+00:00",
-   "url": "/haber/casper-nirvana-x650-incelemesi-e2c2718a/"
   },
   {
    "id": "5eadbd58",
@@ -783,17 +915,6 @@
    "url": "/haber/discord-mesajlari-google-aramalarinda-gorunecek-bu-ayari-kontrol-edin-a5bd189a/"
   },
   {
-   "id": "32c62985",
-   "title": "Google, Türkiye’de yapay zeka akademisini hayata geçiriyor",
-   "summary": "Google Cloud Day Türkiye 2026'da 2 milyar dolarlık bulut yatırımı, yeni yapay zeka eğitim programı ve şirketlerin yapay zeka projelerinden elde ettiği sonuçlar açıklandı.",
-   "link": "https://www.donanimhaber.com/google-turkiye-de-yapay-zeka-akademisini-hayata-geciriyor--212180",
-   "image": "https://www.donanimhaber.com/images/images/haber/212180/1200x675google-turkiye-de-yapay-zeka-akademisini-hayata-geciriyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-28T06:30:00+00:00",
-   "url": "/haber/google-turkiye-de-yapay-zeka-akademisini-hayata-geciriyor-32c62985/"
-  },
-  {
    "id": "debe4003",
    "title": "Logitech MX Master 4 “Developer Edition” tanıtıldı",
    "summary": "Dijital dünyayı şekillendiren geliştiricilere bir saygı gösterisi olarak hazırlandığı aktarılan Logitech MX Master 4 Developer Edition, standart MX Master 4’ten yalnızca kaplama detaylarıyla ayrılıyor. Ergonomik gövdesi…",
@@ -893,83 +1014,6 @@
    "url": "/haber/google-cloud-day-turkiye-2026-2-milyar-dolarlik-yatirim-ve-yapay-zeka-1afd7ad8/"
   },
   {
-   "id": "ebd7ae32",
-   "title": "ChatGPT Yüzünden Hayatını Kaybetti: Ailesi Dava Açtı",
-   "summary": "OpenAI'e Bowen Wan davası, GPT-4o modelinin epilepsi hastası bir yazılım mühendisini ilaçlarını bırakmaya teşvik ettiği iddiasıyla açıldı.",
-   "link": "https://shiftdelete.net/openai-bowen-wan-davasi-gpt-4o",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-28T06:00:50+00:00",
-   "url": "/haber/chatgpt-yuzunden-hayatini-kaybetti-ailesi-dava-acti-ebd7ae32/"
-  },
-  {
-   "id": "ce649d63",
-   "title": "İstanbullulara uyarı: Barajın doluluk oranı kritik seviyeye ulaştı, bu bölgeden uzak durun",
-   "summary": "İstanbul'da şiddetli yağışla su seviyesi yükselen Alibey Barajı'ndan Alibeyköy Deresi'ne su tahliyesi planlanıyor. Belediye vatandaşları dere yatağından uzak durmaları konusunda uyardı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbullulara-baraj-uyarisi-doluluk-kritik-seviyeye-ulasti-bu-bolgeden-uzak-durun-1748280",
-   "image": "https://images.ntv.com.tr/images/istanbulbaraj1-933729.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-28T05:56:28+00:00",
-   "url": "/haber/istanbullulara-uyari-barajin-doluluk-orani-kritik-seviyeye-ulasti-bu-b-ce649d63/"
-  },
-  {
-   "id": "75cfd2b3",
-   "title": "Bugün bankalar, kargolar, PTT, eczaneler ve hastaneler açık mı, kapalı mı? 28 Ekim tatil takvimi",
-   "summary": "29 Ekim Cumhuriyet Bayramı öncesinde, 28 Ekim 2026 Çarşamba gününün yarım gün mü yoksa resmi tatil mi olduğu, kurumların çalışma saatleri milyonlarca vatandaşın gündeminde yer alıyor. Bankada işlem yapacaklar, kargo…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bugun-bankalar-kargolar-ptt-eczaneler-ve-hastaneler-acik-mi-kapali-mi-28-ekim-tatil-takvimi-1748278",
-   "image": "https://images.ntv.com.tr/images/bankalar-uzaktan-kimlik-tespiti-yaparak-musteri-kabul-edebilecek-1044370300-543424.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-28T05:44:42+00:00",
-   "url": "/haber/bugun-bankalar-kargolar-ptt-eczaneler-ve-hastaneler-acik-mi-kapali-mi-75cfd2b3/"
-  },
-  {
-   "id": "dc977b2b",
-   "title": "Dune: Part 3'ün Son Fragmanı Yayımlandı [Video]",
-   "summary": "Yılın en çok beklenen filmlerinden biri olan Dune: Part 3’ün son fragmanı yayımlandı.",
-   "link": "https://www.webtekno.com/dune-part-3-son-fragman-h227969.html",
-   "image": "https://imgrosetta.webtekno.com/file/694907/694907-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-28T05:00:06+00:00",
-   "url": "/haber/dune-part-3-un-son-fragmani-yayimlandi-video-dc977b2b/"
-  },
-  {
-   "id": "077772ea",
-   "title": "Apple, Mac Modellerine Türkiye'de Zam Yaptı: İşte Yeni Fiyatlar",
-   "summary": "Apple, iPad modellerinden sonra Mac modellerine de Türkiye'de zam yaptı.",
-   "link": "https://www.webtekno.com/apple-mac-zam-geldi-yeni-fiyatlar-h227968.html",
-   "image": "https://imgrosetta.webtekno.com/file/694906/694906-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-28T04:20:40+00:00",
-   "url": "/haber/apple-mac-modellerine-turkiye-de-zam-yapti-iste-yeni-fiyatlar-077772ea/"
-  },
-  {
-   "id": "e95786a1",
-   "title": "GTA 6'nın İndirme Boyutu Belli Oldu!",
-   "summary": "GTA 6'nın çok merak edilen boyutu belli oldu. Kaç GB'lık depoalama alanı gerekecek?",
-   "link": "https://www.webtekno.com/gta-6-nin-indirme-boyutu-h227965.html",
-   "image": "https://imgrosetta.webtekno.com/file/694897/694897-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-28T03:35:46+00:00",
-   "url": "/haber/gta-6-nin-indirme-boyutu-belli-oldu-e95786a1/"
-  },
-  {
-   "id": "75aafe16",
-   "title": "Yeni M6 iMac Tanıtıldı: İşte Özellikleri ve Türkiye Fiyatı",
-   "summary": "Apple, sevilen masaüstü modeli iMac'in M6 işlemcili yeni neslini tanıttı.",
-   "link": "https://www.webtekno.com/yeni-m6-imac-ozellikleri-fiyati-h227959.html",
-   "image": "https://imgrosetta.webtekno.com/file/694891/694891-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-28T03:26:45+00:00",
-   "url": "/haber/yeni-m6-imac-tanitildi-iste-ozellikleri-ve-turkiye-fiyati-75aafe16/"
-  },
-  {
    "id": "f9baae2a",
    "title": "Brezilya'da seçimi kaybeden sağcı lider Bolsonaro ABD'ye gitti",
    "summary": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. ABD'den gelen vize onayının ardından…",
@@ -1025,17 +1069,6 @@
    "url": "/haber/google-genie-4-tanitildi-yapay-zeka-artik-kendi-dunyasini-olusturup-ko-0ee5dfb4/"
   },
   {
-   "id": "195d3ee2",
-   "title": "Dune 3'ten son fragman geldi: Üçlemenin epik finali 18 Aralık'ta vizyona girecek",
-   "summary": "Denis Villeneuve'ün Dune üçlemesini tamamlayacak olan Dune: Part Three'nin son fragmanı yayınlandı. Bu destansı üçlemeye epik bir final vadeden Dune 3, 18 Aralık'ta vizyona girecek.",
-   "link": "https://www.donanimhaber.com/dune-3-ten-son-fragman-geldi-uclemeye-epik-bir-final--212172",
-   "image": "https://www.donanimhaber.com/images/images/haber/212172/1200x675dune-3-ten-son-fragman-geldi-uclemeye-epik-bir-final.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-27T19:34:00+00:00",
-   "url": "/haber/dune-3-ten-son-fragman-geldi-uclemenin-epik-finali-18-aralik-ta-vizyon-195d3ee2/"
-  },
-  {
    "id": "4aeebc83",
    "title": "Cumhurbaşkanı Erdoğan, Fransa Cumhurbaşkanı Macron ile telefonda görüştü",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Fransa Cumhurbaşkanı Emmanuel Macron ile bir telefon görüşmesi gerçekleştirdi. Liderler, Türkiye-Fransa ikili ilişkileri ile bölgesel ve küresel konuları ele aldı.",
@@ -1089,17 +1122,6 @@
    "category": "gundem",
    "date": "2026-10-27T15:57:00+00:00",
    "url": "/haber/emekliye-yeni-destek-programi-yolda-36a52e2b/"
-  },
-  {
-   "id": "213401bd",
-   "title": "Mekke İttifakı Anlaşması, TBMM Dışişleri Komisyonu'nda kabul edildi",
-   "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke İttifakı Anlaşması'na dair kanun teklifi, 27 Ekim'de TBMM Dışişleri Komisyonu'nda kabul edildi.",
-   "link": "https://www.bbc.com/turkce/articles/cwj0l71r8lq9o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e4fa/live/6d4addb0-cc7c-11f1-bed8-c51b95c602ec.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-27T14:28:51+00:00",
-   "url": "/haber/mekke-ittifaki-anlasmasi-tbmm-disisleri-komisyonu-nda-kabul-edildi-213401bd/"
   },
   {
    "id": "98852afb",
@@ -1201,17 +1223,6 @@
    "url": "/haber/turk-ucak-gemisine-milli-insansiz-sistemler-damga-vuracak-00b81f39/"
   },
   {
-   "id": "b7a9e937",
-   "title": "İstanbul'da sel tekrar görülebilir mi?",
-   "summary": "İstanbul’da can kayıplarına ve büyük hasara yol açan şiddetli yağışların ardından gözler kış aylarına çevrildi. Uzmanlar megakent gibi özellikle kıyı şehirlerin benzer afetlere hazır olması gerektiğini söylüyor.",
-   "link": "https://www.trthaber.com/haber/cevre/istanbulda-sel-tekrar-gorulebilir-mi-961314.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2438000/izmir-yagmur-2438338.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-27T07:03:00+00:00",
-   "url": "/haber/istanbul-da-sel-tekrar-gorulebilir-mi-b7a9e937/"
-  },
-  {
    "id": "4f1a8807",
    "title": "Ballon d'Or 2026 sahiplerini buldu: Alexia Putellas ve Harry Kane",
    "summary": "Futbol dünyasının en prestijli ödüllerinden sayılan Ballon d'Or (Altın Top) 2026 ödül töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapıldı. En iyi erkek futbolcu kategorisinde ödülün sahibi Bayern…",
@@ -1221,17 +1232,6 @@
    "category": "gundem",
    "date": "2026-10-27T01:30:22+00:00",
    "url": "/haber/ballon-d-or-2026-sahiplerini-buldu-alexia-putellas-ve-harry-kane-4f1a8807/"
-  },
-  {
-   "id": "aeb588c0",
-   "title": "Fon kanunu Resmi Gazete'de yayımlandı",
-   "summary": "Fon varlıklarının ekonomik değer kaybına uğramadan tasfiye edilmesini ve nakdin hak sahiplerine adil biçimde dağıtılmasını öngören düzenleme yürürlüğe girdi. Meclis Genel Kurulunda kabul edilen 9 maddelik kanun, Resmi…",
-   "link": "https://www.trthaber.com/haber/gundem/fon-kanunu-resmi-gazetede-yayimlandi-961278.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2488000/fon-sorusturmasi-2489782.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-26T21:15:00+00:00",
-   "url": "/haber/fon-kanunu-resmi-gazete-de-yayimlandi-aeb588c0/"
   },
   {
    "id": "97f3df88",
