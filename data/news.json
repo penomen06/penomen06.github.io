@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:01:10.548504+00:00",
+ "updated": "2026-10-28T01:30:58.005822+00:00",
  "items": [
   {
    "id": "0bf7088c",
@@ -9,19 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-28T01:00:00+00:00",
+   "date": "2026-10-28T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-0bf7088c/"
   },
   {
    "id": "f9baae2a",
-   "title": "ABD, Brezilya'da seçimi kaybeden ve pasaportuna el konulan Bolsonaro'ya vize vereceğini açıkladı",
-   "summary": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. Bolsonaro'nun ülke dışına çıkmış…",
+   "title": "Brezilya'da seçimi kaybeden sağcı lider Bolsonaro ABD'ye gitti",
+   "summary": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. ABD'den gelen vize onayının ardından…",
    "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89cf/live/49d6f8b0-d239-11f1-904a-5b90e72e87ff.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-10-28T00:41:13+00:00",
-   "url": "/haber/abd-brezilya-da-secimi-kaybeden-ve-pasaportuna-el-konulan-bolsonaro-ya-f9baae2a/"
+   "date": "2026-10-28T01:23:59+00:00",
+   "url": "/haber/brezilya-da-secimi-kaybeden-sagci-lider-bolsonaro-abd-ye-gitti-f9baae2a/"
+  },
+  {
+   "id": "0448e51c",
+   "title": "İstanbul'da akşam saatleri için yeni uyarı. Yağışlar ne kadar sürecek?",
+   "summary": "İstanbul'da dün altgeçitleri ve yolları göle çeviren kuvvetli yağışların ardından, bugün akşam saatleri için yeni bir uyarı yapıldı. Ayrıca 19 il için sarı ve turuncu kodlu uyarı verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-aksam-saatleri-icin-yeni-uyari-yagislar-ne-kadar-surecek-1748268",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-28034913-140153.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T01:13:08+00:00",
+   "url": "/haber/istanbul-da-aksam-saatleri-icin-yeni-uyari-yagislar-ne-kadar-surecek-0448e51c/"
+  },
+  {
+   "id": "c82ec67b",
+   "title": "Arap Koalisyonu: Taif yönüne fırlatılan balistik füze imha edildi",
+   "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Yemen'deki Husiler tarafından Suudi Arabistan'ın Taif kenti yönüne fırlatılan bir balistik füzenin hava savunma sistemleri tarafından engellenerek imha edildiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-taif-yonune-firlatilan-balistik-fuze-imha-edildi/4103229",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T01:10:01+00:00",
+   "url": "/haber/arap-koalisyonu-taif-yonune-firlatilan-balistik-fuze-imha-edildi-c82ec67b/"
   },
   {
    "id": "543614f7",
@@ -297,17 +319,6 @@
    "category": "gundem",
    "date": "2026-10-27T19:41:42+00:00",
    "url": "/haber/vatikan-orta-dogu-da-iki-devletli-cozum-e-inancini-koruyor-3588e596/"
-  },
-  {
-   "id": "2969410c",
-   "title": "Antalya Altın Portakal Film Festivali'nde \"Ölü Arının İğnesi\" filminin dünya prömiyeri yapıldı",
-   "summary": "Bu yıl 63'üncüsü düzenlenen Uluslararası Antalya Altın Portakal Film Festivali kapsamında Ulusal Uzun Metraj Film Yarışması'nda yer alan \"Ölü Arının İğnesi\" filminin dünya prömiyeri gerçekleştirildi.",
-   "link": "https://www.aa.com.tr/tr/kultur/antalya-altin-portakal-film-festivalinde-olu-arinin-ignesi-filminin-dunya-promiyeri-yapildi/4103023",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-27T19:36:19+00:00",
-   "url": "/haber/antalya-altin-portakal-film-festivali-nde-olu-arinin-ignesi-filminin-d-2969410c/"
   },
   {
    "id": "195d3ee2",
@@ -660,17 +671,6 @@
    "category": "teknoloji",
    "date": "2026-10-27T14:22:16+00:00",
    "url": "/haber/apple-turkiye-tum-mac-modellerine-zam-yapti-iste-guncel-fiyat-listesi-d772aa58/"
-  },
-  {
-   "id": "f35b3a90",
-   "title": "Kazakistan Cumhurbaşkanı Tokayev Türkiye'ye geliyor",
-   "summary": "Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine yarın Türkiye'ye geliyor.",
-   "link": "https://www.ntv.com.tr/turkiye/kazakistan-cumhurbaskani-tokayev-turkiyeye-geliyor-1748227",
-   "image": "https://images.ntv.com.tr/images/erdoğan-tokayev-625586.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-27T14:13:20+00:00",
-   "url": "/haber/kazakistan-cumhurbaskani-tokayev-turkiye-ye-geliyor-f35b3a90/"
   },
   {
    "id": "e33c8970",
