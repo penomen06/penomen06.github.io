@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-28T17:31:02.820975+00:00",
+ "updated": "2026-10-28T18:01:10.306237+00:00",
  "items": [
+  {
+   "id": "ec3218cd",
+   "title": "Nvidia ve AMD, Meta’ya 4 milyar dolar yatırım yapacak",
+   "summary": "Nvidia ve AMD, yapay zeka altyapısını büyütmek isteyen Meta’ya toplam 4 milyar dolar yatırım yapacak. İş birliği, Vera Rubin, Vera CPU ve Muse projelerini de kapsayacak.",
+   "link": "https://www.donanimhaber.com/nvidia-ve-amd-meta-ya-4-milyar-dolar-yatirim-yapacak--212190",
+   "image": "https://www.donanimhaber.com/images/images/haber/212190/1200x675nvidia-ve-amd-meta-ya-4-milyar-dolar-yatirim-yapacak.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-28T18:00:00+00:00",
+   "url": "/haber/nvidia-ve-amd-meta-ya-4-milyar-dolar-yatirim-yapacak-ec3218cd/"
+  },
+  {
+   "id": "8a21d61b",
+   "title": "Seçimlerde oy sayımının sürdüğü İsrail'de Savunma Bakanı Katz'dan İran'a saldırı mesajı",
+   "summary": "Yeni parlamento ve hükümeti belirlemek için dün sandık başına giden İsrail'de oy sayımı sürerken Savunma Bakanı Yisrael Katz, İran'a saldırı mesajı verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/secimlerde-oy-sayiminin-surdugu-israilde-savunma-bakani-katzdan-irana-saldiri-mesaji/4104228",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T17:52:25+00:00",
+   "url": "/haber/secimlerde-oy-sayiminin-surdugu-israil-de-savunma-bakani-katz-dan-iran-8a21d61b/"
+  },
+  {
+   "id": "936c52dd",
+   "title": "Sarıgül soruşturmasında 10 kişi hakkında daha gözaltı kararı",
+   "summary": "Sarıgül soruşturması kapsamında 10 kişi hakkında daha gözaltı kararı verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-10-kisi-hakkinda-daha-gozalti-karari-1748407",
+   "image": "https://images.ntv.com.tr/images/SARIG_C3_9CL-159898-182231.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T17:52:24+00:00",
+   "url": "/haber/sarigul-sorusturmasinda-10-kisi-hakkinda-daha-gozalti-karari-936c52dd/"
+  },
+  {
+   "id": "daf7a1fd",
+   "title": "Google, “Gemini 4 Carbon” yapay zeka modelini duyurdu",
+   "summary": "Google bugün iki hafta önce tanıttığı Gemini 4 Argon’un üzerine konumlandırdığı “Gemini 4 Carbon” yapay zeka modelini duyurdu. Şirkete göre birçok testte GPT-6 Astra, Claude Opus 5.5 ve Claude Fable 5.1’i geride bırakan…",
+   "link": "https://www.log.com.tr/google-gemini-4-carbon-yapay-zeka-modelini-duyurdu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/gemini_carbon_102726_header.width-1200.format-webp_FHD-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-28T17:52:10+00:00",
+   "url": "/haber/google-gemini-4-carbon-yapay-zeka-modelini-duyurdu-daf7a1fd/"
+  },
+  {
+   "id": "7e1796f1",
+   "title": "Türkiye ve Kazakistan'ın savunma sanayisindeki işbirliği derinleşecek",
+   "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, \"Savunma sanayisi alanında işbirliği, Kazakistan ile ilişkilerimizin önemli başlıklarından biri.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-ve-kazakistanin-savunma-sanayisindeki-isbirligi-derinlesecek/4104224",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T17:47:46+00:00",
+   "url": "/haber/turkiye-ve-kazakistan-in-savunma-sanayisindeki-isbirligi-derinlesecek-7e1796f1/"
+  },
+  {
+   "id": "cdf11536",
+   "title": "İran Dışişleri Bakanı Erakçi, diplomasiye şans vermeye devam edeceklerini söyledi",
+   "summary": "İran Dışişleri Bakanı Abbas Erakçi, ülkesinin diplomatik girişimlerin başarıya ulaşması için arabulucularla temaslarını sürdüreceğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-diplomasiye-sans-vermeye-devam-edeceklerini-soyledi/4104220",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T17:41:58+00:00",
+   "url": "/haber/iran-disisleri-bakani-erakci-diplomasiye-sans-vermeye-devam-edecekleri-cdf11536/"
+  },
   {
    "id": "f1bd51e0",
    "title": "Işıklı Apple logosuyla dokunmatik ekranlı MacBook Pro tanıtıldı",
@@ -9,8 +75,30 @@
    "image": "https://www.donanimhaber.com/images/images/haber/212220/1200x675dokunmatik-ekranli-macbook-pro-tanitildi-iste-turkiye-fiyati.jpg",
    "source": "DonanımHaber - Türkiye'nin Lider…",
    "category": "teknoloji",
-   "date": "2026-10-28T17:28:08+00:00",
+   "date": "2026-10-28T17:33:24+00:00",
    "url": "/haber/isikli-apple-logosuyla-dokunmatik-ekranli-macbook-pro-tanitildi-f1bd51e0/"
+  },
+  {
+   "id": "fee4ca32",
+   "title": "Suriye, Dera'ya yönelik hava saldırıları nedeniyle Ürdün'e nota verdi",
+   "summary": "Suriye Dışişleri Bakanlığı, Ürdün'ün Şam Büyükelçisi Süfyan el-Kudat'ı ülkesinin Suriye'nin Dera ilindeki sivil yerleşim yerlerine düzenlediği hava saldırıları nedeniyle bakanlığa çağırarak protesto notası verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriye-deraya-yonelik-hava-saldirilari-nedeniyle-urdune-nota-verdi/4104213",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T17:32:21+00:00",
+   "url": "/haber/suriye-dera-ya-yonelik-hava-saldirilari-nedeniyle-urdun-e-nota-verdi-fee4ca32/"
+  },
+  {
+   "id": "99621e51",
+   "title": "Şans Topu Sonuçları Sorgulama Ekranı 28 Ekim | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
+   "summary": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1748405",
+   "image": "https://images.ntv.com.tr/images/sans-topu-sonuc-649314.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T17:29:32+00:00",
+   "url": "/haber/sans-topu-sonuclari-sorgulama-ekrani-28-ekim-mpi-sans-topu-sonuclari-t-99621e51/"
   },
   {
    "id": "7ab1677c",
@@ -35,6 +123,17 @@
    "url": "/haber/dokunmatik-proled-xdr-ekranli-macbook-pro-tanitildi-ve-turkiye-fiyati-9312d3a9/"
   },
   {
+   "id": "ee84cd4a",
+   "title": "İsrail'de Ortak Arap Listesi'nden muhalefete Netanyahu'ya karşı \"Yahudi-Arap ortaklığı\" çağrısı",
+   "summary": "İsrail vatandaşı Filistinlileri temsil eden Ortak Arap Listesi lideri Yusuf Cabbarin, Binyamin Netanyahu hükümetinin devrilmesi için çalışmaya hazır olduklarını belirterek, muhalefete Yahudi-Arap ortaklığına dayalı…",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-ortak-arap-listesinden-muhalefete-netanyahuya-karsi-yahudi-arap-ortakligi-cagrisi/4104202",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T17:20:12+00:00",
+   "url": "/haber/israil-de-ortak-arap-listesi-nden-muhalefete-netanyahu-ya-karsi-yahudi-ee84cd4a/"
+  },
+  {
    "id": "4853be23",
    "title": "İstanbul'da yarın 3 ilçede bazı yollar trafiğe kapatılacak",
    "summary": "İstanbul'da, 29 Ekim Cumhuriyet Bayramı programları kapsamında yarın Üsküdar, Kadıköy ve Ataşehir'de bazı yollar trafiğe kapatılacak.",
@@ -55,6 +154,17 @@
    "category": "teknoloji",
    "date": "2026-10-28T17:15:58+00:00",
    "url": "/haber/apple-dokunmatik-ekranli-ilk-mac-modelini-duyurdu-karsinizda-m5-islemc-6dfb54a1/"
+  },
+  {
+   "id": "46b90091",
+   "title": "Apple, yeni MacBook Pro modellerini, iMac’i ve iPad mini’yi Türkiye’de ön siparişe açtı",
+   "summary": "137.999 TL’den başlayan M6 işlemcili yeni 14 inç MacBook Pro, 199.999 TL’den başlayan dokunmatik PROLED XDR ekranlı yeni MacBook Pro, 104.999 TL’den başlayan M6 işlemcili yeni iMac ve 48.999 TL’den başlayan OLED ekranlı…",
+   "link": "https://www.log.com.tr/apple-yeni-macbook-pro-modellerini-imaci-ve-ipad-miniyi-turkiyede-on-siparise-acti/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/Ekran-Resmi-2026-10-28-20.34.49_FHD-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-28T17:15:01+00:00",
+   "url": "/haber/apple-yeni-macbook-pro-modellerini-imac-i-ve-ipad-mini-yi-turkiye-de-o-46b90091/"
   },
   {
    "id": "9311f001",
@@ -123,6 +233,28 @@
    "url": "/haber/israilli-sirket-starlink-kullanicilarini-reklamlar-uzerinden-izledi-5faa0c5b/"
   },
   {
+   "id": "203bcbf6",
+   "title": "Cumhurbaşkanı Erdoğan ve Kazakistan Cumhurbaşkanı Tokayev bir araya geldi",
+   "summary": "Cumhurbaşkanı Erdoğan, Kazakistan Cumhurbaşkanı Tokayev ile Beştepe'de bir araya geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/kazakistan-cumhurbaskani-tokayev-ankarada-cumhurbaskani-erdogan-torenle-karsiladi-1748394",
+   "image": "https://images.ntv.com.tr/images/AA-20261028-42893247-42893242-CUMHURBASKANI_ERDOGAN_KAZAKISTAN_CUMHURBASKANI_TOKAYEV_ILE_GORUSTU-983281.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T17:04:18+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-ve-kazakistan-cumhurbaskani-tokayev-bir-araya-ge-203bcbf6/"
+  },
+  {
+   "id": "59fed754",
+   "title": "SPK'dan yabancı finans kuruluşlarına ilişkin iddialara yalanlama",
+   "summary": "SPK, yabancı finans kuruluşlarının Türkiye'de yüksek kazançlar elde ettikten sonra yatırım pozisyonlarını kapatarak piyasadan çıktıkları yönündeki iddiaların gerçeği yansıtmadığını açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/spkdan-yabanci-finans-kuruluslarina-iliskin-iddialara-yalanlama-1748402",
+   "image": "https://images.ntv.com.tr/images/spkk-363306.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T17:02:56+00:00",
+   "url": "/haber/spk-dan-yabanci-finans-kuruluslarina-iliskin-iddialara-yalanlama-59fed754/"
+  },
+  {
    "id": "a7310e91",
    "title": "Netanyahu'nun partisi, İsrail vatandaşı Filistinlilerin seçimlere yüksek katılımını hazmedemedi",
    "summary": "İsrail Başbakanı Binyamin Netanyahu'nun liderliğini yaptığı Likud Partisi, İsrail vatandaşı Filistinlilerin seçimlere yüksek katılımını hazmedemezken \"seçimlerin Arap partileri tarafından çalındığını\" iddia etti.",
@@ -178,6 +310,17 @@
    "url": "/haber/abd-baskani-trump-netanyahu-nun-su-anda-durumu-oldukca-iyi-6e786117/"
   },
   {
+   "id": "0784f879",
+   "title": "Dolandırıcılığa \"Dolunay\" önlemi. İhbarlara dakikalar içinde müdahale edilecek",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi ile Adalet Bakanı Akın Gürlek, dolandırıcılıkla mücadele için hayata geçirilen DOLUNAY projesini ele almak için bir araya geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/dolandiriciliga-dolunay-onlemi-ihbarlara-dakikalar-icinde-mudaha-edilecek-1748401",
+   "image": "https://images.ntv.com.tr/images/AW820696_02-168679.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T16:23:41+00:00",
+   "url": "/haber/dolandiriciliga-dolunay-onlemi-ihbarlara-dakikalar-icinde-mudahale-edi-0784f879/"
+  },
+  {
    "id": "aa9d238a",
    "title": "120 km menzilli klasik bobber görünümlü elektrikli motosiklet: Coopop Bobber",
    "summary": "Klasik bobber tasarımını elektrikli motorla buluşturan Coopop Bobber, hafifliği ve çıkarılabilir bataryalarıyla dikkat çekiyor. 120 km menzil sunan model, ulaşımda alternatif arayanları hedefliyor.",
@@ -209,61 +352,6 @@
    "category": "gundem",
    "date": "2026-10-28T16:19:26+00:00",
    "url": "/haber/bakan-uraloglu-kazakistanli-bakanlar-sauranbayev-ve-kyrykbayev-ile-gor-239e99bd/"
-  },
-  {
-   "id": "43b536f5",
-   "title": "Cumhurbaşkanı Erdoğan, Kazakistan Cumhurbaşkanı Tokayev ile heyetler arası görüşmeye başkanlık etti",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev ile baş başa görüşmelerinin ardından heyetler arası görüşmeye başkanlık etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kazakistan-cumhurbaskani-tokayev-ile-heyetler-arasi-gorusmeye-baskanlik-etti/4104118",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T16:12:45+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-kazakistan-cumhurbaskani-tokayev-ile-heyetler-ar-43b536f5/"
-  },
-  {
-   "id": "70a2b551",
-   "title": "Bakanlar Gürlek ve Çiftçi, DOLUNAY Projesi için bir araya geldi",
-   "summary": "Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi, DOLUNAY Projesi kapsamında dolandırıcılıkla mücadelede atılacak adımları, Dolandırıcılıkla Mücadele Merkezinin kurulmasına yönelik hazırlıkları ve mevzuat…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakanlar-gurlek-ve-ciftci-dolunay-projesi-icin-bir-araya-geldi/4104115",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T16:10:31+00:00",
-   "url": "/haber/bakanlar-gurlek-ve-ciftci-dolunay-projesi-icin-bir-araya-geldi-70a2b551/"
-  },
-  {
-   "id": "d178c940",
-   "title": "Putin, Elon Musk ile uydu konusunda temas halinde olduklarını söyledi",
-   "summary": "Rusya Devlet Başkanı Vladimir Putin, ülkesinin SpaceX'in kurucusu Elon Musk ile alçak yörüngeli uydu sistemleri konusunda yakın temas halinde olduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/putin-elon-musk-ile-uydu-konusunda-temas-halinde-olduklarini-soyledi/4104110",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T16:06:09+00:00",
-   "url": "/haber/putin-elon-musk-ile-uydu-konusunda-temas-halinde-olduklarini-soyledi-d178c940/"
-  },
-  {
-   "id": "49e2d9ca",
-   "title": "Trump, seçim vaadi olan 5 bin dolarla Mar-a-Lago Malikanesi'nde hamburger ve tatlı bile alınamayabileceğini söyledi",
-   "summary": "ABD Başkanı Donald Trump, Temsilciler Meclisi ve Senatodaki seçimlerde Cumhuriyetçilerin galip gelmesi halinde, her yetişkine vadettiği 5 bin dolar ile Florida'daki Mar-a-Lago Malikanesi'nde hamburger ve küçük tatlı…",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-secim-vaadi-olan-5-bin-dolarla-mar-a-lago-malikanesinde-hamburger-ve-tatli-bile-alinamayabilecegini-soyledi/4104109",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T16:05:46+00:00",
-   "url": "/haber/trump-secim-vaadi-olan-5-bin-dolarla-mar-a-lago-malikanesi-nde-hamburg-49e2d9ca/"
-  },
-  {
-   "id": "a4cfbae4",
-   "title": "Göğsündeki çizikten kanser olduğunu öğrenen kadın erken teşhisin önemine dikkati çekti",
-   "summary": "Beş yıl önce göğsünün altındaki bir çiziği fark edip şüphe üzerine gittiği hastanede meme kanseri olduğunu öğrenen Sibel Kılıç, zorlu tedavi sürecinin ardından sağlığına kavuştu.",
-   "link": "https://www.aa.com.tr/tr/gundem/gogsundeki-cizikten-kanser-oldugunu-ogrenen-kadin-erken-teshisin-onemine-dikkati-cekti/4104106",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T16:04:15+00:00",
-   "url": "/haber/gogsundeki-cizikten-kanser-oldugunu-ogrenen-kadin-erken-teshisin-onemi-a4cfbae4/"
   },
   {
    "id": "c41426e7",
@@ -354,6 +442,28 @@
    "url": "/haber/6-kisilik-tesla-model-y-l-incelemesi-kalabalik-ailelerin-yeni-favorisi-ad670810/"
   },
   {
+   "id": "eb87f309",
+   "title": "Cumhurbaşkanı Erdoğan'dan İspanya'ya taziye mesajı",
+   "summary": "Cumhurbaşkanı Erdoğan, İspanya'daki kazaya ilişkin başsağlığı mesajı paylaştı.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-ispanyaya-taziye-mesaji-1748389",
+   "image": "https://images.ntv.com.tr/images/AA-20241028-36038387-36038384-CUMHURBASKANI_RECEP_TAYYIP_ERDOGAN-543537.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T14:53:01+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-dan-ispanya-ya-taziye-mesaji-eb87f309/"
+  },
+  {
+   "id": "7f4dbd19",
+   "title": "Çorum'da feci kaza. 4 kişi hayatını kaybetti",
+   "summary": "Çorum'da cip ile otomobilin çarpıştığı kazada 4 kişi yaşamını yitirdi, 2 kişi yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/corumda-feci-kaza-4-kisi-hayatini-kaybetti-1748392",
+   "image": "https://images.ntv.com.tr/images/AW820626_03-598039.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T14:32:56+00:00",
+   "url": "/haber/corum-da-feci-kaza-4-kisi-hayatini-kaybetti-7f4dbd19/"
+  },
+  {
    "id": "bac69aaa",
    "title": "Manyetik anahtarlı Razer Reclusa Mini 65% tanıtıldı",
    "summary": "Hall Effect manyetik anahtarlar üzerine kurulan Razer Reclusa Mini 65%, adından da anlaşılacağı üzere yüzde 65 düzeninde bir klavye ve Rapid Trigger ile 0,1-4,0 mm arasında ayarlanabilen tetikleme noktası gibi önemli…",
@@ -374,6 +484,17 @@
    "category": "teknoloji",
    "date": "2026-10-28T14:00:00+00:00",
    "url": "/haber/49-bin-tl-lik-ipad-mini-60hz-ekranla-geliyor-apple-yerden-yere-vuruldu-344d77f0/"
+  },
+  {
+   "id": "7f42944a",
+   "title": "Beştepe Millet Ormanı açılıyor. Yaklaşık 92 futbol sahası büyüklüğünde",
+   "summary": "Beştepe Millet Ormanı, Cumhurbaşkanı Recep Tayyip Erdoğan ve Türk Devletleri Teşkilatı liderlerinin katılımıyla yarın Ankara'da açılacak.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-bestepe-millet-ormani-aciliyor-yaklasik-92-futbol-sahasi-buyuklugunde-1748388",
+   "image": "https://images.ntv.com.tr/dha/1578985.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T13:54:38+00:00",
+   "url": "/haber/bestepe-millet-ormani-aciliyor-yaklasik-92-futbol-sahasi-buyuklugunde-7f42944a/"
   },
   {
    "id": "f9baae2a",
@@ -407,6 +528,17 @@
    "category": "teknoloji",
    "date": "2026-10-28T13:40:46+00:00",
    "url": "/haber/pilot-garage-oto-ekspertiz-her-ay-2-arac-hediye-ediyor-3c7d4646/"
+  },
+  {
+   "id": "64e8f41d",
+   "title": "2000'li yıllarda ortaya çıkmıştı: Kanlı Tapu Çetesi'nin lideri 13 yıl sonra yakalandı",
+   "summary": "İstanbul'da 2000'li yılların ortasında ortaya çıkan ve Kanlı Tapu Çetesi olarak bilinen çetenin lideri Şişli'de yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-2000li-yillarda-ortaya-cikmisti-kanli-tapu-cetesinin-lideri-13-yil-sonra-yakalandi-1748381",
+   "image": "https://images.ntv.com.tr/images/kanlı-tapu-çetesi-777572.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T13:22:30+00:00",
+   "url": "/haber/2000-li-yillarda-ortaya-cikmisti-kanli-tapu-cetesi-nin-lideri-13-yil-s-64e8f41d/"
   },
   {
    "id": "3ef887a6",
@@ -475,15 +607,15 @@
    "url": "/haber/mercedes-benz-elektrikli-turboyla-desteklenen-yeni-benzinli-motoru-m-2-8981b6d0/"
   },
   {
-   "id": "e95661ab",
-   "title": "Fiat'tan sürpriz hamle: Efsane model Punto geri dönüyor",
-   "summary": "Fiat, 2018'de üretimi biten efsane Punto modelini geri döndürmeye hazırlanıyor. Yeni Punto hem içten yanmalı hem de elektrikli seçenekleriyle Renault'nun pazar hakimiyetine meydan okuyacak.",
-   "link": "https://www.donanimhaber.com/fiat-tan-surpriz-hamle-efsane-model-punto-geri-donuyor--212207",
-   "image": "https://www.donanimhaber.com/images/images/haber/212207/1200x675fiat-tan-surpriz-hamle-efsane-model-punto-geri-donuyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-28T13:01:29+00:00",
-   "url": "/haber/fiat-tan-surpriz-hamle-efsane-model-punto-geri-donuyor-e95661ab/"
+   "id": "26bffbce",
+   "title": "Cumhurbaşkanı Erdoğan'ın 29 Ekim programı belli oldu",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yarın 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi kapsamında çeşitli programlara katılacak.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdoganin-29-ekim-programi-belli-oldu-1748383",
+   "image": "https://images.ntv.com.tr/images/erdoğan29ekim-978251.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T13:02:57+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-in-29-ekim-programi-belli-oldu-26bffbce/"
   },
   {
    "id": "d94c1c2f",
@@ -506,6 +638,17 @@
    "category": "teknoloji",
    "date": "2026-10-28T12:55:50+00:00",
    "url": "/haber/dijital-t-c-kimlik-karti-geliyor-ilk-testler-2027-de-basliyor-55deff84/"
+  },
+  {
+   "id": "c370dc2e",
+   "title": "Aranan firari evin çatısında bulundu",
+   "summary": "Ataşehir'de 17 yıl hapis cezasıyla aranan firari dubleks evin çatısında yakalandı",
+   "link": "https://www.ntv.com.tr/turkiye/video-aranan-firari-evin-catisinda-bulundu-1748382",
+   "image": "https://images.ntv.com.tr/images/ATASEHIRDE-17-YIL-HAPIS-CEZASIYLA-ARANA_1578730_469573-695083.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T12:54:27+00:00",
+   "url": "/haber/aranan-firari-evin-catisinda-bulundu-c370dc2e/"
   },
   {
    "id": "d65753cc",
@@ -552,6 +695,17 @@
    "url": "/haber/amazon-bes-yeni-akilli-ev-urunu-tanitti-0e84d0fd/"
   },
   {
+   "id": "b77950e7",
+   "title": "Bodrum'da sağanak: Mahsur kalan hamile kadın böyle kurtarıldı",
+   "summary": "Muğla’nın Bodrum ilçesinde etkili olan kuvvetli sağanak nedeniyle cadde ve sokaklar göle döndü, bazı araçlar yolda kaldı. Mahsur kalan hamile kadın kurtarıldı",
+   "link": "https://www.ntv.com.tr/turkiye/video-bodrumda-saganak-mahsur-kalan-hamile-kadin-boyle-kurtarildi-1748379",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-28152239-234291.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T12:29:45+00:00",
+   "url": "/haber/bodrum-da-saganak-mahsur-kalan-hamile-kadin-boyle-kurtarildi-b77950e7/"
+  },
+  {
    "id": "189a4912",
    "title": "Yeni Parti'den Sarıgül açıklaması: 'Hakkında yoğun iddialar var, şu anda parti ile ilişkisi yok'",
    "summary": "Erzincan Milletvekili Mustafa Sarıgül, kendisi ve ailesine yönelik 16 Ekim'de başlatılan soruşturma tamamlanıncaya kadar Yeni Parti üyeliğinin askıya alınması için başvuru yaptı.",
@@ -561,6 +715,17 @@
    "category": "gundem",
    "date": "2026-10-28T12:22:44+00:00",
    "url": "/haber/yeni-parti-den-sarigul-aciklamasi-hakkinda-yogun-iddialar-var-su-anda-189a4912/"
+  },
+  {
+   "id": "f0ba2bf0",
+   "title": "İstanbul'da trafik yoğunluğu yüzde 80'e ulaştı",
+   "summary": "İstanbul'da 29 Ekim Cumhuriyet Bayramı arifesinde öğleden sonra başlayan resmi tatilin etkisiyle trafik yoğunluğu yüzde 80'i gördü.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-trafik-yogunlugu-yuzde-80e-ulasti-1748368",
+   "image": "https://images.ntv.com.tr/images/istanbultrafiği-290380",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T12:03:39+00:00",
+   "url": "/haber/istanbul-da-trafik-yogunlugu-yuzde-80-e-ulasti-f0ba2bf0/"
   },
   {
    "id": "71be2642",
@@ -583,6 +748,17 @@
    "category": "teknoloji",
    "date": "2026-10-28T11:57:59+00:00",
    "url": "/haber/xiaomi-robot-vacuum-6-turkiye-de-fiyati-ozellikleri-ve-rakipleri-01f002a5/"
+  },
+  {
+   "id": "708fa142",
+   "title": "Emniyet mensuplarına müjde. PAEM amirlik eğitimi için 149 polis alımı yapacak",
+   "summary": "Emniyet Genel Müdürlüğü bünyesinde görev yapan polis memurları için amirlik kapısı açılıyor. Polis Akademisi Başkanlığı, PAEM 11. Dönem İlk Derece Amirlik Eğitimi kapsamında 134 erkek ve 15 kadın olmak üzere toplam 149…",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-emniyet-mensuplarina-mujde-paem-amirlik-egitimi-icin-149-polis-alimi-yapacak-1748364",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_58e69b81407d4abd9c505ba5b4cf20ed-948553.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T11:56:02+00:00",
+   "url": "/haber/emniyet-mensuplarina-mujde-paem-amirlik-egitimi-icin-149-polis-alimi-y-708fa142/"
   },
   {
    "id": "da5cefff",
@@ -616,6 +792,17 @@
    "category": "teknoloji",
    "date": "2026-10-28T11:16:19+00:00",
    "url": "/haber/aselsan-in-finansal-performansi-ve-borsadaki-durumu-511c4225/"
+  },
+  {
+   "id": "8b39a401",
+   "title": "Kadıköy'de tahliye krizi. Belediye \"Yıkılma riski var\" dedi",
+   "summary": "Kadıköy'de 3 binanın kolonlarında ve iç kısımlarında oluşan çatlaklar nedeniyle yıkım kararına bina sakinler, tebligat yapılmadığını iddia edip tepki göstermişti. Kadıköy Belediyesi açıklama yaptı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-kadikoyde-tahliye-krizi-belediye-yikilma-riski-var-dedi-1748365",
+   "image": "https://images.ntv.com.tr/images/KADIKOYDE-YIKIM-KARARI-ALINAN-3-BINADA-_1577667_469243-952186.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-28T11:08:10+00:00",
+   "url": "/haber/kadikoy-de-tahliye-krizi-belediye-yikilma-riski-var-dedi-8b39a401/"
   },
   {
    "id": "28ec857a",
@@ -913,28 +1100,6 @@
    "category": "teknoloji",
    "date": "2026-10-28T07:59:23+00:00",
    "url": "/haber/donald-trump-yapay-zeka-yerine-super-zeka-terimini-zorunlu-kiliyor-2f31e619/"
-  },
-  {
-   "id": "640c5a80",
-   "title": "Yandex Maps ve Navi’ye bozuk ve asfaltsız yollardan kaçın seçeneği geldi",
-   "summary": "Bugün yapılan resmi açıklama ile Yandex Maps ile Navi’ye bozuk ve asfaltsız yollardan kaçın seçeneğinin eklendiği duyuruldu. Bu konuda şirket şu ifadeleri kullandı: “Yandex Maps ve Yandex Navi, sürüşü daha konforlu ve…",
-   "link": "https://www.log.com.tr/yandex-maps-ve-naviye-bozuk-ve-asfaltsiz-yollardan-kacin-secenegi-geldi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-28_10-37-06_1yvy5-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-28T07:38:06+00:00",
-   "url": "/haber/yandex-maps-ve-navi-ye-bozuk-ve-asfaltsiz-yollardan-kacin-secenegi-gel-640c5a80/"
-  },
-  {
-   "id": "1c3519a6",
-   "title": "Aston Martin Valhalla Spider görücüye çıkarıldı",
-   "summary": "2024 yılında görücüye çıkarılan Valhalla’nın üstü açık versiyonu olan Aston Martin Valhalla Spider, gücünü standart modelde olduğu gibi çift turbo destekli 4.0 litrelik V8 motordan alıyor. Bu motor tek başına 817 beygir…",
-   "link": "https://www.log.com.tr/aston-martin-valhalla-spider-gorucuye-cikarildi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-28_10-30-13_ixLDt-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-28T07:34:42+00:00",
-   "url": "/haber/aston-martin-valhalla-spider-gorucuye-cikarildi-1c3519a6/"
   },
   {
    "id": "69300cab",
