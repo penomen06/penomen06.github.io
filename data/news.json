@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T23:10:32.307374+00:00",
+ "updated": "2026-10-28T23:31:00.737503+00:00",
  "items": [
   {
    "id": "69ddc9ca",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-28T23:00:00+00:00",
+   "date": "2026-10-28T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-69ddc9ca/"
+  },
+  {
+   "id": "b3637169",
+   "title": "BM raportörleri: Fransa'daki öğrenci protestolarına yönelik şiddet nedeniyle dehşete kapıldık",
+   "summary": "Birleşmiş Milletler (BM) raportörleri, Fransa'da taleplerinin yerine getirilmesi için gösteri yapan öğrenciler ve gençlerin uğradığı şiddetin düzeyi nedeniyle dehşete kapıldıklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-raportorleri-fransadaki-ogrenci-protestolarina-yonelik-siddet-nedeniyle-dehsete-kapildik/4104432",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T23:21:03+00:00",
+   "url": "/haber/bm-raportorleri-fransa-daki-ogrenci-protestolarina-yonelik-siddet-nede-b3637169/"
+  },
+  {
+   "id": "a4c93529",
+   "title": "İsrail'de muhalefet lideri Eisenkot \"Siyonist askerlik hükümeti\" kuracaklarını belirtti",
+   "summary": "İsrail'de muhalefet lideri Gadi Eisenkot, ülkede değişim gerçekleştirerek \"Siyonist askerlik hükümeti\" kuracaklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-lideri-eisenkot-siyonist-askerlik-hukumeti-kuracaklarini-belirtti/4104431",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T23:18:53+00:00",
+   "url": "/haber/israil-de-muhalefet-lideri-eisenkot-siyonist-askerlik-hukumeti-kuracak-a4c93529/"
   },
   {
    "id": "cfca98d2",
@@ -211,17 +233,6 @@
    "url": "/haber/avrupa-da-dogal-gaz-fiyatlari-100-avroyu-asarak-son-4-yilin-zirvesini-fd402e59/"
   },
   {
-   "id": "7374736b",
-   "title": "Trafik kazasında yaralanan polis memuru Tayfun Akalan şehit oldu",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, trafik kazasında yaralanan polis memuru Tayfun Akalan'ın müdahalelere rağmen şehit olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/trafik-kazasinda-yaralanan-polis-memuru-tayfun-akalan-sehit-oldu/4104359",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T19:42:54+00:00",
-   "url": "/haber/trafik-kazasinda-yaralanan-polis-memuru-tayfun-akalan-sehit-oldu-7374736b/"
-  },
-  {
    "id": "b136379b",
    "title": "Google, Yeni Yapay Zeka Modeli Gemini 4 Carbon’u Tanıttı: Zirveye Yerleşti",
    "summary": "Google'ın en güçlü modeli Gemini 4 Carbon, siber güvenlik ve uzun süren yazılım işlerinde öne çıkıyor. Model ilk etapta güvenlik uzmanlarına açılıyor.",
@@ -253,17 +264,6 @@
    "category": "teknoloji",
    "date": "2026-10-28T19:40:00+00:00",
    "url": "/haber/sony-yeni-50-mp-kamera-sensorunu-tanitti-gece-cekimlerinde-iddiali-dc9d560f/"
-  },
-  {
-   "id": "47cbba10",
-   "title": "Hizbullah: İsrail'i kimin yönettiği bizi ilgilendirmiyor, işgal ettiği topraklardan çıkmalı",
-   "summary": "Hizbullah Genel Sekreteri Naim Kasım, İsrail'de yapılan parlamento seçimlerinin ardından İsrail'i kimin yöneteceğinin kendilerini ilgilendirmediğini ve İsrail askerlerinin Lübnan topraklarından çıkması gerektiğini…",
-   "link": "https://www.aa.com.tr/tr/dunya/hizbullah-israili-kimin-yonettigi-bizi-ilgilendirmiyor-isgal-ettigi-topraklardan-cikmali/4104357",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T19:39:41+00:00",
-   "url": "/haber/hizbullah-israil-i-kimin-yonettigi-bizi-ilgilendirmiyor-isgal-ettigi-t-47cbba10/"
   },
   {
    "id": "a3a44baf",
