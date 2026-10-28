@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T21:01:07.457424+00:00",
+ "updated": "2026-10-28T21:31:05.309885+00:00",
  "items": [
   {
    "id": "69ddc9ca",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-28T21:00:00+00:00",
+   "date": "2026-10-28T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-69ddc9ca/"
+  },
+  {
+   "id": "e0a96a40",
+   "title": "Google, Gemini 4 Carbon modelini duyurdu: Siber güvenlikte rakiplerine fark atıyor",
+   "summary": "Google, yeni ve en gelişmiş modeli Gemini 4 Carbon'u duyurdu. Artificial Analysis Intelligence Index'te 59 puanla ilk sıraya yerleşen model, kodlama ve siber güvenlik yetenekleriyle öne çıkıyor.",
+   "link": "https://www.donanimhaber.com/google-gemini-4-carbon-modelini-duyurdu--212223",
+   "image": "https://www.donanimhaber.com/images/images/haber/212223/1200x675google-gemini-4-carbon-modelini-duyurdu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-28T21:10:00+00:00",
+   "url": "/haber/google-gemini-4-carbon-modelini-duyurdu-siber-guvenlikte-rakiplerine-f-e0a96a40/"
   },
   {
    "id": "f9baae2a",
@@ -583,17 +594,6 @@
    "category": "gundem",
    "date": "2026-10-28T16:19:51+00:00",
    "url": "/haber/dondurulmus-veya-konserve-gidalar-saglikli-mi-9c599443/"
-  },
-  {
-   "id": "c41426e7",
-   "title": "Donald Trump, yapay zekâ (AI) denmesini yasaklayabilir: \"Süper zekâ diyeceksiniz!\"",
-   "summary": "Yapay zekanın Amerikalılar arasında iyice itibar kaybetmesi Donald Trump'ı tuhaf çözümlere itiyor. ABD Başkanı, yapay zekâ (artificial intelligence) denmesini yasaklamak istiyor.",
-   "link": "https://www.donanimhaber.com/donald-trump-yapay-zeka-ai-denmesini-yasaklayabilir--212215",
-   "image": "https://www.donanimhaber.com/images/images/haber/212215/1200x675donald-trump-yapay-zeka-ai-denmesini-yasaklayabilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-28T16:00:00+00:00",
-   "url": "/haber/donald-trump-yapay-zeka-ai-denmesini-yasaklayabilir-super-zeka-diyecek-c41426e7/"
   },
   {
    "id": "a116f2a2",
