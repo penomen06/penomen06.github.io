@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T00:30:56.876395+00:00",
+ "updated": "2026-10-28T01:01:10.548504+00:00",
  "items": [
   {
    "id": "0bf7088c",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-28T00:30:00+00:00",
+   "date": "2026-10-28T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-0bf7088c/"
+  },
+  {
+   "id": "f9baae2a",
+   "title": "ABD, Brezilya'da seçimi kaybeden ve pasaportuna el konulan Bolsonaro'ya vize vereceğini açıkladı",
+   "summary": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. Bolsonaro'nun ülke dışına çıkmış…",
+   "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89cf/live/49d6f8b0-d239-11f1-904a-5b90e72e87ff.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-28T00:41:13+00:00",
+   "url": "/haber/abd-brezilya-da-secimi-kaybeden-ve-pasaportuna-el-konulan-bolsonaro-ya-f9baae2a/"
   },
   {
    "id": "543614f7",
@@ -110,17 +121,6 @@
    "category": "gundem",
    "date": "2026-10-27T22:09:08+00:00",
    "url": "/haber/tasfiye-edilen-fonlarla-ilgili-1-milyon-tl-ye-kadar-odemeler-cuma-basl-27eba6f3/"
-  },
-  {
-   "id": "f9baae2a",
-   "title": "ABD, Brezilya'da seçimi kaybeden ve pasaportuna el konulan Bolsonaro'ya vize vereceğini açıkladı",
-   "summary": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. Bolsonaro'nun ülke dışına çıkmış…",
-   "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89cf/live/49d6f8b0-d239-11f1-904a-5b90e72e87ff.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-27T21:55:31+00:00",
-   "url": "/haber/abd-brezilya-da-secimi-kaybeden-ve-pasaportuna-el-konulan-bolsonaro-ya-f9baae2a/"
   },
   {
    "id": "9a2a9c9d",
