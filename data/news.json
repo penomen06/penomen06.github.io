@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:30:59.929888+00:00",
+ "updated": "2026-10-28T23:01:15.712108+00:00",
  "items": [
   {
    "id": "69ddc9ca",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-28T22:30:00+00:00",
+   "date": "2026-10-28T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-69ddc9ca/"
+  },
+  {
+   "id": "cfca98d2",
+   "title": "İçişleri Bakanı Çiftçi'den kuvvetli sağanak uyarısı",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Vatandaşlarımızdan, Meteoroloji Genel Müdürlüğümüzün ve AFAD'ımızın uyarılarına hassasiyetle riayet etmelerini, can ve mal güvenliklerini riske atabilecek durumlardan uzak durmalarını…",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-kuvvetli-saganak-uyarisi/4104421",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-28T22:37:23+00:00",
+   "url": "/haber/icisleri-bakani-ciftci-den-kuvvetli-saganak-uyarisi-cfca98d2/"
   },
   {
    "id": "6e3bd8cc",
@@ -253,17 +264,6 @@
    "category": "teknoloji",
    "date": "2026-10-28T19:40:00+00:00",
    "url": "/haber/sony-yeni-50-mp-kamera-sensorunu-tanitti-gece-cekimlerinde-iddiali-dc9d560f/"
-  },
-  {
-   "id": "47cbba10",
-   "title": "Hizbullah: İsrail'i kimin yönettiği bizi ilgilendirmiyor, işgal ettiği topraklardan çıkmalı",
-   "summary": "Hizbullah Genel Sekreteri Naim Kasım, İsrail'de yapılan parlamento seçimlerinin ardından İsrail'i kimin yöneteceğinin kendilerini ilgilendirmediğini ve İsrail askerlerinin Lübnan topraklarından çıkması gerektiğini…",
-   "link": "https://www.aa.com.tr/tr/dunya/hizbullah-israili-kimin-yonettigi-bizi-ilgilendirmiyor-isgal-ettigi-topraklardan-cikmali/4104357",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T19:39:41+00:00",
-   "url": "/haber/hizbullah-israil-i-kimin-yonettigi-bizi-ilgilendirmiyor-isgal-ettigi-t-47cbba10/"
   },
   {
    "id": "a3a44baf",
@@ -619,14 +619,14 @@
   },
   {
    "id": "e7fa0954",
-   "title": "İspanya'daki hızlı tren kazasında can kaybı 68'e çıktı, üç günlük yas ilan edildi",
+   "title": "İspanya'daki hızlı tren kazasında en az 68 kişi öldü, üç günlük yas ilan edildi",
    "summary": "İspanya'nın başkenti Madrid'in güneyindeki Toledo kentindeki hızlı tren hattında içlerinde 500'den fazla yolcunun bulunduğu iki tren çarpıştı. Yetkililer can kaybının 68'e yükseldiğini açıkladı.",
    "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7bb6/live/21861730-d2dc-11f1-b677-b762d2f83f6e.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-10-28T15:42:48+00:00",
-   "url": "/haber/ispanya-daki-hizli-tren-kazasinda-can-kaybi-68-e-cikti-uc-gunluk-yas-i-e7fa0954/"
+   "url": "/haber/ispanya-daki-hizli-tren-kazasinda-en-az-68-kisi-oldu-uc-gunluk-yas-ila-e7fa0954/"
   },
   {
    "id": "ad670810",
