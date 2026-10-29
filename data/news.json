@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-29T17:30:58.517252+00:00",
+ "updated": "2026-10-29T18:01:10.106524+00:00",
  "items": [
+  {
+   "id": "720097a3",
+   "title": "Güneş enerjili uçaklar için kritik batarya eşiği belirlendi: 500 Wh/kg",
+   "summary": "Harvard Üniversitesi araştırmacıları, güneş enerjisiyle çalışan uçakların aylarca havada kalabilmesi için bataryalarda 500 Wh/kg enerji yoğunluğunun kritik bir eşik olduğunu belirledi.",
+   "link": "https://www.donanimhaber.com/gunes-enerjili-ucaklar-icin-kritik-batarya-esigi-belirlendi-500--212239",
+   "image": "https://www.donanimhaber.com/images/images/haber/212239/1200x675gunes-enerjili-ucaklar-icin-kritik-batarya-esigi-belirlendi-500.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-29T18:00:00+00:00",
+   "url": "/haber/gunes-enerjili-ucaklar-icin-kritik-batarya-esigi-belirlendi-500-wh-kg-720097a3/"
+  },
+  {
+   "id": "fe7118ee",
+   "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönem Türk asrı olacak",
+   "summary": "Cumhurbaşkanı Erdoğan, Türk dünyasının dayanışma içinde olduğunu belirterek \"Önümüzdeki dönemi Türk asrı yapmak için mücadele edeceğimize yürekten inanıyorum\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/turk-devletleri-teskilati-zirvesi-cumhurbaskani-erdogan-liderleri-karsiladi-1748548",
+   "image": "https://images.ntv.com.tr/images/AA-20261029-42906278-42906267-TURK_DEVLETLERI_TESKILATI_TDT_13_ZIRVESI-248457.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-29T17:52:21+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-onumuzdeki-donem-turk-asri-olacak-fe7118ee/"
+  },
+  {
+   "id": "adc5f899",
+   "title": "GÖKTÜRK objektifinden Anadolu. Dağlara işlenen Türk bayrakları ve Atatürk portresi görüntüleri",
+   "summary": "GÖKTÜRK-1 uydusu, Anadolu'nun farklı noktalarında yer alan Türk bayrakları ile Gazi Mustafa Kemal Atatürk'ün portresini görüntüledi.",
+   "link": "https://www.ntv.com.tr/turkiye/gokturk-objektifinden-anadolu-daglara-islenen-turk-bayraklari-ve-ataturk-portresi-goruntuleri-1748552",
+   "image": "https://images.ntv.com.tr/images/MSB-GOKTURK-1IN-OBJEKTIFINDEN-ANADOLU-_1581529_470287-194862.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-29T17:49:35+00:00",
+   "url": "/haber/gokturk-objektifinden-anadolu-daglara-islenen-turk-bayraklari-ve-atatu-adc5f899/"
+  },
+  {
+   "id": "15f1d8ad",
+   "title": "Huawei Starlight'ın ilk telefonu geniş ekranla gelebilir",
+   "summary": "Huawei'in alt markası Starlight'ın ilk telefonu, 6,39 inç ekranı, Kirin 9 serisi işlemcisi ve 16 GB RAM iddiasıyla ortaya çıktı. İşte yeni katlanırın detayları:",
+   "link": "https://www.donanimhaber.com/huawei-starlight-in-ilk-telefonu-genis-ekranla-gelebilir--212233",
+   "image": "https://www.donanimhaber.com/images/images/haber/212233/1200x675huawei-starlight-in-ilk-telefonu-genis-ekranla-gelebilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-29T17:40:00+00:00",
+   "url": "/haber/huawei-starlight-in-ilk-telefonu-genis-ekranla-gelebilir-15f1d8ad/"
+  },
+  {
+   "id": "a384f673",
+   "title": "Bosna Hersek'te EUFOR'a ait helikopter düştü",
+   "summary": "Bosna Hersek'in kuzeyindeki Brcko'da, Avrupa Birliği (AB) Barış Gücü Misyonuna (EUFOR) ait askeri helikopterin düşmesi sonucu 3 kişi hayatını kaybetti, 12 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/bosna-hersekte-eufora-ait-helikopter-dustu/4105339",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T17:32:22+00:00",
+   "url": "/haber/bosna-hersek-te-eufor-a-ait-helikopter-dustu-a384f673/"
+  },
+  {
+   "id": "0c9c1e48",
+   "title": "BM: İsrail, Ekim 2023'ten bu yana Gazze'de yaklaşık 300 gazeteciyi ve medya çalışanını öldürdü",
+   "summary": "BM Filistin Özel Raportörü Albanese, İsrail ordusunun, işgal altında tuttuğu Gazze'de, Ekim 2023'ten bu yana yaklaşık 300 gazeteciyi ve medya çalışanını öldürdüğünü ve sonrasında bunların bazılarını \"terörist olarak…",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-israil-ekim-2023ten-bu-yana-gazzede-yaklasik-300-gazeteciyi-ve-medya-calisanini-oldurdu/4105324",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T17:24:37+00:00",
+   "url": "/haber/bm-israil-ekim-2023-ten-bu-yana-gazze-de-yaklasik-300-gazeteciyi-ve-me-0c9c1e48/"
+  },
   {
    "id": "a995622f",
    "title": "Cumhurbaşkanı Erdoğan ve Trump arasında 24 saat içinde ikinci kez görüştü",
@@ -24,15 +90,37 @@
    "url": "/haber/samsung-galaxy-watch-ve-ring-uyku-apnesini-daha-ayrintili-izleyecek-cdb4956c/"
   },
   {
-   "id": "c94c7278",
-   "title": "ABD Başkanı Trump, Cumhurbaşkanı Erdoğan'ı arayarak TDT Liderler Zirvesi için başarı dileklerini iletti",
-   "summary": "ABD Başkanı Trump, Cumhurbaşkanı Erdoğan'ı telefonla arayarak Türk Devletleri Teşkilatı Liderler Zirvesi için başarı dileklerini iletti.",
-   "link": "https://www.aa.com.tr/tr/gundem/abd-baskani-trump-cumhurbaskani-erdogani-arayarak-tdt-liderler-zirvesi-icin-basari-dileklerini-iletti/4105308",
+   "id": "a4cba329",
+   "title": "ABD Başkanı Trump, Cumhurbaşkanı Erdoğan'a TDT Liderler Zirvesi için başarı dileklerini iletti",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü. Trump, Cumhurbaşkanı Erdoğan'a Türk Devletleri Teşkilatı (TDT) Liderler Zirvesi için başarı dileklerini iletti.",
+   "link": "https://www.aa.com.tr/tr/gundem/abd-baskani-trump-cumhurbaskani-erdogana-tdt-liderler-zirvesi-icin-basari-dileklerini-iletti/4105308",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-29T17:19:17+00:00",
-   "url": "/haber/abd-baskani-trump-cumhurbaskani-erdogan-i-arayarak-tdt-liderler-zirves-c94c7278/"
+   "url": "/haber/abd-baskani-trump-cumhurbaskani-erdogan-a-tdt-liderler-zirvesi-icin-ba-a4cba329/"
+  },
+  {
+   "id": "e06bbef5",
+   "title": "ABD'li gazeteci Carlson, Batı Şeria'da darbedilen Amerikan vatandaşı için ABD'nin İsrail Büyükelçisi'ni suçladı",
+   "summary": "ABD'li gazeteci Carlson, Batı Şeria'da İsrailliler tarafından darbedildiğini belirttiği ABD vatandaşının görüntülerini paylaşarak, ABD'nin İsrail Büyükelçisi Huckabee'yi yardım talebini karşılıksız bırakmakla suçladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdli-gazeteci-carlson-bati-seriada-darbedilen-amerikan-vatandasi-icin-abdnin-israil-buyukelcisini-sucladi/4105304",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T17:17:46+00:00",
+   "url": "/haber/abd-li-gazeteci-carlson-bati-seria-da-darbedilen-amerikan-vatandasi-ic-e06bbef5/"
+  },
+  {
+   "id": "e2448bca",
+   "title": "Nvidia CEO'su Huang'a yakın Çinli iş insanının Pekin'e \"bilgi sızdırdığı\" iddia edildi",
+   "summary": "ABD merkezli çip üreticisi NVIDIA'nın kurucusu ve Üst Yöneticisi (CEO) Jensen Huang'a yakın olduğu belirtilen Çinli iş insanı Alice Huang'ın Pekin'e istihbarat amacıyla \"bilgi sızdırdığı\" öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/nvidia-ceosu-huanga-yakin-cinli-is-insaninin-pekine-bilgi-sizdirdigi-iddia-edildi/4105303",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T17:17:22+00:00",
+   "url": "/haber/nvidia-ceo-su-huang-a-yakin-cinli-is-insaninin-pekin-e-bilgi-sizdirdig-e2448bca/"
   },
   {
    "id": "d8b8cb0e",
@@ -48,7 +136,7 @@
   {
    "id": "e98c3d20",
    "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
-   "summary": "Amerika Birleşik Devletleri Başkanı Donald Trump, Cumhurbaşkanı Recep Tayyip Erdoğan’ı telefonla arayarak Türk Devletleri Teşkilatı Liderler Zirvesi için başarı dileklerini iletti.",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü. Trump, Cumhurbaşkanı Erdoğan'a Türk Devletleri Teşkilatı (TDT) Liderler Zirvesi için başarı dileklerini iletti.",
    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-961663.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2474000/erdogan-trump-ankara-aa-2474563.jpg",
    "source": "TRT Haber Manşet Haberleri",
@@ -99,17 +187,6 @@
    "category": "gundem",
    "date": "2026-10-29T16:43:55+00:00",
    "url": "/haber/azerbaycan-medyasi-aliyev-turkiye-ye-gitmeyecek-d5ae1007/"
-  },
-  {
-   "id": "fe7118ee",
-   "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönem Türk asrı olacak",
-   "summary": "Cumhurbaşkanı Erdoğan, Türk dünyasının dayanışma içinde olduğunu belirterek \"Önümüzdeki dönemi Türk asrı yapmak için mücadele edeceğimize yürekten inanıyorum\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/turk-devletleri-teskilati-zirvesi-cumhurbaskani-erdogan-liderleri-karsiladi-1748548",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-29185710-650437.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-29T16:33:45+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-onumuzdeki-donem-turk-asri-olacak-fe7118ee/"
   },
   {
    "id": "d379d09c",
@@ -193,7 +270,7 @@
    "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönemi Türk asrı yapmak için mücadele edeceğiz",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türk dünyası olarak tam bir dayanışma içinde, karşılıklı saygı ve kardeşlik içinde geleceğimize beraber yürüyeceğimize, önümüzdeki dönemi inşallah Türk asrı yapmak için mücadele…",
    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-onumuzdeki-donemi-turk-asri-yapmak-icin-mucadele-edecegiz-961658.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/erdogan-aa-2499674.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/erdogan-aa-2499675.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-29T16:05:00+00:00",
@@ -244,39 +321,6 @@
    "url": "/haber/kapadokya-da-peribacasi-coktu-uc-kisi-hayatini-kaybetti-6ecf2423/"
   },
   {
-   "id": "1b0856ae",
-   "title": "Trump, Pentagon Strateji, Planlar ve Politika Direktörü Sylvia'nın \"bilgi sızdırdığını\" söyledi",
-   "summary": "ABD Başkanı Donald Trump, ABD Savunma Bakanlığında (Pentagon) Strateji, Planlar ve Politika Direktörlüğü görevini yürüten Brett Sylvia'nın gizli bilgileri sızdırdığı gerekçesiyle görevden alındığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-pentagon-strateji-planlar-ve-politika-direktoru-sylvianin-bilgi-sizdirdigini-soyledi/4105203",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T15:52:12+00:00",
-   "url": "/haber/trump-pentagon-strateji-planlar-ve-politika-direktoru-sylvia-nin-bilgi-1b0856ae/"
-  },
-  {
-   "id": "4e9976c1",
-   "title": "GÖKTÜRK-1 uydusundan Anadolu'daki dağlara işlenen Türk bayrakları ve Atatürk portresi görüntülendi",
-   "summary": "GÖKTÜRK-1 uydusunun objektifinden Anadolu'nun farklı noktalarında yer alan Türk bayrakları ile Gazi Mustafa Kemal Atatürk'ün portresi görüntülendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/gokturk-1-uydusundan-anadoludaki-daglara-islenen-turk-bayraklari-ve-ataturk-portresi-goruntulendi/4105200",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T15:49:14+00:00",
-   "url": "/haber/gokturk-1-uydusundan-anadolu-daki-daglara-islenen-turk-bayraklari-ve-a-4e9976c1/"
-  },
-  {
-   "id": "d1fa4bb1",
-   "title": "Bakan Çiftçi: Türk devletleri arasındaki dayanışmayı güçlendirmekte kararlıyız",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Cumhurbaşkanımız Recep Tayyip Erdoğan'ın öncülüğünde, Türk devletleri arasındaki dayanışmayı güçlendirmeye, ortak güvenlik ve istikrar anlayışımızı geliştirmeye kararlıyız.\" ifadesini…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-turk-devletleri-arasindaki-dayanismayi-guclendirmekte-kararliyiz/4105197",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T15:41:42+00:00",
-   "url": "/haber/bakan-ciftci-turk-devletleri-arasindaki-dayanismayi-guclendirmekte-kar-d1fa4bb1/"
-  },
-  {
    "id": "c967503b",
    "title": "Marmara Denizi'nde batan gemide bulunan cesedin kimliği belli oldu",
    "summary": "Marmara Denizi'nde batan Tuğberk İmamoğlu isimli gemide yürütülen arama kurtarma çalışmalarında bulunan cesedin kimliği belli oldu.",
@@ -297,17 +341,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T15:30:00+00:00",
    "url": "/haber/all-in-one-aio-bilgisayar-nedir-nasil-calisir-ve-kimler-tercih-etmeli-a3f4190b/"
-  },
-  {
-   "id": "3aae4f8c",
-   "title": "Türk Yıldızları'ndan Cumhuriyet Bayramı'nda Anıtkabir üzerinde saygı uçuşu",
-   "summary": "Türk Hava Kuvvetleri akrobasi timi Türk Yıldızları, 29 Ekim Cumhuriyet Bayramı kapsamında Anıtkabir semalarında saygı uçuşu yaptı.",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-yildizlarindan-cumhuriyet-bayraminda-anitkabir-uzerinde-saygi-ucusu/4105173",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T15:18:24+00:00",
-   "url": "/haber/turk-yildizlari-ndan-cumhuriyet-bayrami-nda-anitkabir-uzerinde-saygi-u-3aae4f8c/"
   },
   {
    "id": "45ec4e96",
@@ -838,17 +871,6 @@
    "url": "/haber/google-gemini-4-carbon-tanitildi-ozellikleri-ve-fiyati-1b18ca49/"
   },
   {
-   "id": "3a8d2273",
-   "title": "Ramazan ayı başlangıcı 2027. Bu yıl Ramazan ayı ne zaman, hangi gün başlayacak?",
-   "summary": "Tüm İslam alemi için kutsal aylar arasında yer alan Ramazan ayının tarihi merak edilmeye başladı. Rahmet, bereket ve dua ayı olarak bilinen Ramazan ayını her yıl olduğu gibi bu yıl da milyonlarca kişi oruç ibadetiyle…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-ramazan-ayi-baslangici-2027-bu-yil-ramazan-ayi-ne-zaman-hangi-gun-baslayacak-1748505",
-   "image": "https://images.ntv.com.tr/images/iStock-639329562-413375.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-29T10:18:45+00:00",
-   "url": "/haber/ramazan-ayi-baslangici-2027-bu-yil-ramazan-ayi-ne-zaman-hangi-gun-basl-3a8d2273/"
-  },
-  {
    "id": "239f739f",
    "title": "Cumhurbaşkanı Erdoğan'ın kravatında dikkat çeken KAAN ayrıntısı",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın, Cumhuriyet’in 103. yıl dönümünde Anıtkabir’de düzenlenen törene kırmızı KAAN desenli kravatla katılması dikkat çekti.",
@@ -1034,28 +1056,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T07:50:15+00:00",
    "url": "/haber/mini-yuvarlak-ekranlardan-vazgecmiyor-tasarim-devam-edecek-f2a7f90a/"
-  },
-  {
-   "id": "8bf69f65",
-   "title": "McDonald’s Türkiye’den Cumhuriyet’in 103. Yılına Renkli Kutlama",
-   "summary": "McDonald’s Türkiye, Cumhuriyet’in 103. yılını Beşiktaş’ta hayata geçirdiği özel grafiti çalışması ve restoranlarında düzenleyeceği etkinliklerle kutlayacak. 29 Ekim coşkusunu sokaklarda yaşatacak.",
-   "link": "https://www.donanimhaber.com/mcdonald-s-turkiye-den-cumhuriyet-in-103-yilina-renkli-kutlama--212153",
-   "image": "https://www.donanimhaber.com/images/images/haber/212153/1200x675mcdonald-s-turkiye-den-cumhuriyet-in-103-yilina-renkli-kutlama.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-29T07:35:06+00:00",
-   "url": "/haber/mcdonald-s-turkiye-den-cumhuriyet-in-103-yilina-renkli-kutlama-8bf69f65/"
-  },
-  {
-   "id": "0deb3720",
-   "title": "Premiere Pro'da 4K video kurgu için laptop önerileri",
-   "summary": "Premiere Pro için laptop arayanlar buraya! Güçlü donanım ve yüksek bellek kapasiteleriyle öne çıkan 4K video kurgu için laptop önerilerini listeledik: İşte Premiere Pro için en iyi laptop modelleri:",
-   "link": "https://www.donanimhaber.com/premiere-pro-da-4k-video-kurgu-icin-laptop-onerileri--212156",
-   "image": "https://www.donanimhaber.com/images/images/haber/212156/1200x675premiere-pro-da-4k-video-kurgu-icin-laptop-onerileri.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-29T07:23:11+00:00",
-   "url": "/haber/premiere-pro-da-4k-video-kurgu-icin-laptop-onerileri-0deb3720/"
   },
   {
    "id": "a42932f4",
