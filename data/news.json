@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T23:01:09.364821+00:00",
+ "updated": "2026-10-29T23:31:00.129314+00:00",
  "items": [
   {
    "id": "5f175d5e",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-29T23:00:00+00:00",
+   "date": "2026-10-29T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-5f175d5e/"
+  },
+  {
+   "id": "730eed52",
+   "title": "İsrail muhalefeti Netanyahu'yu seçimleri \"gayrimeşrulaştırmaya\" çalışmakla suçluyor",
+   "summary": "İsrail'in ana muhalefet lideri Gadi Eisenkot ve Arap partilerinin liderleri, koalisyonunun parlamentodaki çoğunluğu kaybettiği seçimlerin ardından \"yabancı müdahalesi\" iddiasında bulunan Başbakan Binyamin Netanyahu'yu…",
+   "link": "https://www.bbc.com/turkce/articles/c6d93pd9pxw2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-29T23:22:43+00:00",
+   "url": "/haber/israil-muhalefeti-netanyahu-yu-secimleri-gayrimesrulastirmaya-calismak-730eed52/"
   },
   {
    "id": "7bdc81eb",
@@ -20,7 +31,7 @@
    "image": "https://www.donanimhaber.com/images/images/haber/212247/1200x675amazon-gulumseten-kasim-kampanyasi-2026-kampanyasi-basladi.jpg",
    "source": "DonanımHaber - Türkiye'nin Lider…",
    "category": "teknoloji",
-   "date": "2026-10-29T22:46:51+00:00",
+   "date": "2026-10-29T23:01:29+00:00",
    "url": "/haber/amazon-un-gulumseten-kasim-2026-kampanyasi-basladi-iste-one-cikan-ilk-7bdc81eb/"
   },
   {
@@ -319,17 +330,6 @@
    "category": "gundem",
    "date": "2026-10-29T19:37:47+00:00",
    "url": "/haber/cumhurbaskani-erdogan-ve-trump-arasinda-24-saat-icinde-ikinci-kez-goru-a995622f/"
-  },
-  {
-   "id": "543614f7",
-   "title": "İsrail'de sandıkların %99'u açıldı: Netanyahu'nun bloğu önde ama meclis çoğunluğunu sağlayamıyor",
-   "summary": "İsrail'de 27 Ekim Salı günü yapılan parlamento seçimlerinde oyların %99'u sayıldı. Kısmi sonuçlar, Başbakan Binyamin Netanyahu'nun rakibi, eski Genelkurmay Başkanı Gadi Eisenkot'un az farkla önünde olduğunu, ancak yine…",
-   "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0fd/live/3079c590-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-29T19:37:06+00:00",
-   "url": "/haber/israil-de-sandiklarin-99-u-acildi-netanyahu-nun-blogu-onde-ama-meclis-543614f7/"
   },
   {
    "id": "920e12b2",
