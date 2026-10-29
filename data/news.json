@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-29T20:01:05.971524+00:00",
+ "updated": "2026-10-29T20:31:00.267695+00:00",
  "items": [
+  {
+   "id": "c42248be",
+   "title": "Yapay zeka çiplerindeki bellek darboğazını Z2RAM teknolojisi çözebilir",
+   "summary": "Eski Intel CEO’su Pat Gelsinger’ın desteklediği Z2RAM, SRAM hızını DRAM yoğunluğuyla birleştirmeyi hedefliyor. Yeni teknoloji, yapay zekanın oluşturduğu bellek kıtlığına çözüm sunabilir.",
+   "link": "https://www.donanimhaber.com/yapay-zekadaki-bellek-darbogazini-z2ram-teknolojisi-cozebilir--212240",
+   "image": "https://www.donanimhaber.com/images/images/haber/212240/1200x675yapay-zekadaki-bellek-darbogazini-z2ram-teknolojisi-cozebilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-29T20:30:00+00:00",
+   "url": "/haber/yapay-zeka-ciplerindeki-bellek-darbogazini-z2ram-teknolojisi-cozebilir-c42248be/"
+  },
+  {
+   "id": "f64ba76d",
+   "title": "ABD'nin Ankara Büyükelçisi Barrack, Cumhurbaşkanı Erdoğan ile Trump'ın telefon görüşmesini değerlendirdi",
+   "summary": "ABD'nin Ankara Büyükelçisi Barrack, \"Türk devletleri arasındaki ortaklık, her iki liderin de (ABD Başkanı Donald Trump-Cumhurbaşkanı Recep Tayyip Erdoğan) paylaştığı vizyonun merkezinde yer almaktadır.\" ifadesini…",
+   "link": "https://www.aa.com.tr/tr/gundem/abdnin-ankara-buyukelcisi-barrack-cumhurbaskani-erdogan-ile-trumpin-telefon-gorusmesini-degerlendirdi/4105463",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T20:10:14+00:00",
+   "url": "/haber/abd-nin-ankara-buyukelcisi-barrack-cumhurbaskani-erdogan-ile-trump-in-f64ba76d/"
+  },
+  {
+   "id": "1b5b128f",
+   "title": "BİM marketler DJI drone satacak",
+   "summary": "1 Kasım BİM Aktüel teknoloji ürünleri arasında DJI markasına ait NEO Drone modeli ve AutoWare firmasına ait hava pompa ve akü takviye cihazı yer alıyor.",
+   "link": "https://www.donanimhaber.com/1-kasim-bim-aktuel-katalogunda-neler-var--212225",
+   "image": "https://www.donanimhaber.com/images/images/haber/212225/1200x6751-kasim-bim-aktuel-katalogunda-neler-var.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-29T20:10:00+00:00",
+   "url": "/haber/bim-marketler-dji-drone-satacak-1b5b128f/"
+  },
+  {
+   "id": "a8804b1e",
+   "title": "ABD Başkanı Trump'ın, İran'a yönelik saldırı seçenekleri hakkında bilgilendirildiği iddia edildi",
+   "summary": "ABD Başkanı Donald Trump'ın, İran'a yönelik saldırı seçenekleri hakkında Merkez Kuvvetler Komutanı (CENTCOM) Brad Cooper tarafından bilgilendirildiği öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildigi-iddia-edildi/4105460",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T20:07:48+00:00",
+   "url": "/haber/abd-baskani-trump-in-iran-a-yonelik-saldiri-secenekleri-hakkinda-bilgi-a8804b1e/"
+  },
+  {
+   "id": "db6273db",
+   "title": "İsrail'de muhalefet lideri Eisenkot, Netanyahu'yu seçimleri geçersiz kılmak için kampanya yürütmekle suçladı",
+   "summary": "İsrail'de muhalefet lideri Gadi Eisenkot, Başbakan Binyamin Netanyahu'nun, seçim sonuçlarının geçerliliğini ortadan kaldırmak için organize bir kampanya yürüttüğünü belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-lideri-eisenkot-netanyahuyu-secimleri-gecersiz-kilmak-icin-kampanya-yurutmekle-sucladi/4105449",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T19:55:37+00:00",
+   "url": "/haber/israil-de-muhalefet-lideri-eisenkot-netanyahu-yu-secimleri-gecersiz-ki-db6273db/"
+  },
   {
    "id": "4b9e068e",
    "title": "Anthropic, Claude Code harcamalarının getirisini ölçecek",
@@ -55,6 +110,17 @@
    "category": "gundem",
    "date": "2026-10-29T19:37:47+00:00",
    "url": "/haber/cumhurbaskani-erdogan-ve-trump-arasinda-24-saat-icinde-ikinci-kez-goru-a995622f/"
+  },
+  {
+   "id": "543614f7",
+   "title": "İsrail'de sandıkların %99'u açıldı: Netanyahu'nun bloğu önde ama meclis çoğunluğunu sağlayamıyor",
+   "summary": "İsrail'de 27 Ekim Salı günü yapılan parlamento seçimlerinde oyların %99'u sayıldı. Kısmi sonuçlar, Başbakan Binyamin Netanyahu'nun rakibi, eski Genelkurmay Başkanı Gadi Eisenkot'un az farkla önünde olduğunu, ancak yine…",
+   "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0fd/live/3079c590-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-29T19:37:06+00:00",
+   "url": "/haber/israil-de-sandiklarin-99-u-acildi-netanyahu-nun-blogu-onde-ama-meclis-543614f7/"
   },
   {
    "id": "920e12b2",
@@ -231,28 +297,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T18:30:00+00:00",
    "url": "/haber/football-manager-2027-bu-hafta-ucretsiz-oynanabilecek-be621776/"
-  },
-  {
-   "id": "462e5886",
-   "title": "İsrail'deki çocuk istismarı olayıyla ilgili ABD'de gözaltılar yapıldı",
-   "summary": "ABD'de, İsrail'de çocuklara yönelik cinsel istismar suçlarıyla bağlantılı olduğu öne sürülen bazı ABD vatandaşlarının gözaltına alındığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israildeki-cocuk-istismari-olayiyla-ilgili-abdde-gozaltilar-yapildi/4105381",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T18:20:04+00:00",
-   "url": "/haber/israil-deki-cocuk-istismari-olayiyla-ilgili-abd-de-gozaltilar-yapildi-462e5886/"
-  },
-  {
-   "id": "f209ccc4",
-   "title": "Galata Kulesi, Cumhuriyet'in 103. yılında Atatürk'ün fotoğraflarıyla aydınlatıldı",
-   "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Cumhuriyet'in 103. yılı dolayısıyla Galata Kulesi'nin, Gazi Mustafa Kemal Atatürk'ün fotoğrafları ve Türk bayrağıyla aydınlatıldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/kultur/galata-kulesi-cumhuriyetin-103-yilinda-ataturkun-fotograflariyla-aydinlatildi/4105380",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T18:19:59+00:00",
-   "url": "/haber/galata-kulesi-cumhuriyet-in-103-yilinda-ataturk-un-fotograflariyla-ayd-f209ccc4/"
   },
   {
    "id": "ca3c68fa",
@@ -508,17 +552,6 @@
    "url": "/haber/cumhurbaskani-erdogan-ozbekistan-cumhurbaskani-mirziyoyev-ile-gorustu-0174a359/"
   },
   {
-   "id": "c83ed7f2",
-   "title": "Londra Belediye Başkanı Khan, COP31'de kentini ve C40 şehirlerini temsil edeceğini belirtti",
-   "summary": "İngiltere'nin başkenti Londra'nın Belediye Başkanı Khan, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nda (COP31), kentini ve \"C40 Şehirleri\"ni temsil edeceğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/londra-belediye-baskani-khan-cop31de-kentini-ve-c40-sehirlerini-temsil-edecegini-belirtti/4105155",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T14:56:25+00:00",
-   "url": "/haber/londra-belediye-baskani-khan-cop31-de-kentini-ve-c40-sehirlerini-temsi-c83ed7f2/"
-  },
-  {
    "id": "a7ef12a1",
    "title": "Üç bakanlık, tır sürücülerinin Schengen vizesi sorunu için devrede",
    "summary": "Ticaret, Dışişleri ve Ulaştırma bakanlıkları, tır sürücülerinin Schengen vizesi sorunlarını yakından takip ediyor. Konuyla ilgili diplomatik girişimler sürüyor.",
@@ -572,17 +605,6 @@
    "category": "gundem",
    "date": "2026-10-29T14:10:06+00:00",
    "url": "/haber/hakkinda-ev-hapsi-karari-verilen-sinem-dedetas-tahliye-oldu-599fa173/"
-  },
-  {
-   "id": "403cf98a",
-   "title": "AutoCAD ve çizim programları için en iyi laptop tavsiyeleri",
-   "summary": "AutoCAD için laptop önerisi arayanlar, çizim ve 3D modelleme süreçlerinde doğru donanımı seçmeli. İşte farklı bütçelere hitap eden en güçlü laptoplar...",
-   "link": "https://www.donanimhaber.com/autocad-icin-laptop-onerisi--211954",
-   "image": "https://www.donanimhaber.com/images/images/haber/211954/1200x675autocad-icin-laptop-onerisi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-29T14:00:00+00:00",
-   "url": "/haber/autocad-ve-cizim-programlari-icin-en-iyi-laptop-tavsiyeleri-403cf98a/"
   },
   {
    "id": "1860b3f0",
@@ -660,17 +682,6 @@
    "category": "gundem",
    "date": "2026-10-29T13:33:36+00:00",
    "url": "/haber/kapadokya-daki-cokme-sonucu-can-kaybi-3-e-cikti-06067d93/"
-  },
-  {
-   "id": "6d1cfd7e",
-   "title": "MacBook'ta dokunmatik deneyim nasıl olacak: İlk videolar geldi",
-   "summary": "Apple, MacBook Pro'ya dokunmatik ekran eklemekle kalmadı, parmakla kullanımı kolaylaştırmak adına macOS'teki düğmeler ve menüler üzerinde de birtakım küçük değişiklikler yaptı.",
-   "link": "https://www.donanimhaber.com/macbook-ta-dokunmatik-deneyim-nasil-olacak--212224",
-   "image": "https://www.donanimhaber.com/images/images/haber/212224/1200x675macbook-ta-dokunmatik-deneyim-nasil-olacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-29T13:30:00+00:00",
-   "url": "/haber/macbook-ta-dokunmatik-deneyim-nasil-olacak-ilk-videolar-geldi-6d1cfd7e/"
   },
   {
    "id": "b18fb03a",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-10-27T01:23:52+00:00",
    "url": "/haber/anthropic-halka-arz-ediliyor-insanlik-icin-varolussal-risk-uyarisi-5c7b886a/"
-  },
-  {
-   "id": "a8d6893c",
-   "title": "İngiliz gizli belgelerinde Ekim 1923: ‘Cumhuriyet fikri kabul görse de Mustafa Kemal’e muhalefet var’",
-   "summary": "Cumhuriyetin ilanının 103. yıldönümü: İngiltere’deki arşivlerde bulunan dönemin gizli belgelerini inceledik ve İngiltere’nin Ekim 1923'te yaşananları nasıl gördüğünü araştırdık.",
-   "link": "https://www.bbc.com/turkce/articles/cgel7ev84lro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fe00/live/e05a1270-d380-11f1-b5f4-fd541fd21001.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2024-10-29T10:33:08+00:00",
-   "url": "/haber/ingiliz-gizli-belgelerinde-ekim-1923-cumhuriyet-fikri-kabul-gorse-de-m-a8d6893c/"
   },
   {
    "id": "e3a94f63",
