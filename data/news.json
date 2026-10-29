@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-29T21:01:11.682959+00:00",
+ "updated": "2026-10-29T21:31:00.002492+00:00",
  "items": [
+  {
+   "id": "d4787d65",
+   "title": "TikTok Yapay Zeka için Enerji Arıyor",
+   "summary": "TikTok USDS, gelişmiş yapay zeka modelleri için 4 gigavatlık enerji kapasitesi arıyor. Şirket, Oracle ile iş birliğini sürdürmeye devam ediyor.",
+   "link": "https://shiftdelete.net/tiktok-usds-yapay-zeka-enerji-kapasitesi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-29T21:30:46+00:00",
+   "url": "/haber/tiktok-yapay-zeka-icin-enerji-ariyor-d4787d65/"
+  },
+  {
+   "id": "e855d211",
+   "title": "BM, Gazze'deki deposunun İsrail hava saldırılarında hasar gördüğünü belirtti",
+   "summary": "Birleşmiş Milletler (BM), ateşkese rağmen İsrail'in Gazze'deki saldırılarının sürdüğünü ve bugün BM'ye ait bir deponun bu saldırılarda hasar gördüğünü bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-gazzedeki-deposunun-israil-hava-saldirilarinda-hasar-gordugunu-belirtti/4105515",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T21:03:57+00:00",
+   "url": "/haber/bm-gazze-deki-deposunun-israil-hava-saldirilarinda-hasar-gordugunu-bel-e855d211/"
+  },
+  {
+   "id": "bb1c95f9",
+   "title": "Yemen'deki Husiler: Suudi Arabistan'ın saldırılarına 6 saldırıyla karşılık verdik",
+   "summary": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın düzenlediğini ileri sürdükleri saldırılara yanıt olarak 6 saldırı gerçekleştirdiklerini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-saldirilarina-6-saldiriyla-karsilik-verdik/4105513",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T21:02:11+00:00",
+   "url": "/haber/yemen-deki-husiler-suudi-arabistan-in-saldirilarina-6-saldiriyla-karsi-bb1c95f9/"
+  },
   {
    "id": "65c93edc",
    "title": "Google Yapay Zeka Reklamlarını Dünyaya Açıyor",
@@ -308,28 +341,6 @@
    "category": "gundem",
    "date": "2026-10-29T19:15:51+00:00",
    "url": "/haber/bakan-yumakli-bestepe-millet-ormani-turk-dunyasinin-birlik-ruhunu-yasa-1c8b37bf/"
-  },
-  {
-   "id": "f4fb1053",
-   "title": "CSO Ada Ankara'da Cumhuriyet'in 103. yılı konserlerle kutlandı",
-   "summary": "Cumhuriyet'in ilanının 103. yıl dönümü dolayısıyla CSO Ada Ankara'da düzenlenen \"Cumhuriyet Tangoları\" ve \"Cumhuriyetin Sesi\" konserleri ile \"Göğe Yazılmış Bir Alp\" tiyatro oyunu sanatseverlerle buluştu.",
-   "link": "https://www.aa.com.tr/tr/kultur/cso-ada-ankarada-cumhuriyetin-103-yili-konserlerle-kutlandi/4105414",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T19:07:40+00:00",
-   "url": "/haber/cso-ada-ankara-da-cumhuriyet-in-103-yili-konserlerle-kutlandi-f4fb1053/"
-  },
-  {
-   "id": "85190b8f",
-   "title": "Emine Erdoğan'dan Cumhuriyet Bayramı ve TDT Zirvesi kapsamındaki resmi yemeğe ilişkin paylaşım",
-   "summary": "Emine Erdoğan, 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı (TDT) Zirvesi dolayısıyla konuk devlet ve hükümet başkanları ile heyetleri onuruna verdikleri resmi akşam yemeğine ilişkin paylaşımda bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-cumhuriyet-bayrami-ve-tdt-zirvesi-kapsamindaki-resmi-yemege-iliskin-paylasim/4105405",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T18:53:20+00:00",
-   "url": "/haber/emine-erdogan-dan-cumhuriyet-bayrami-ve-tdt-zirvesi-kapsamindaki-resmi-85190b8f/"
   },
   {
    "id": "9e716473",
@@ -693,17 +704,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T13:38:40+00:00",
    "url": "/haber/honor-x8e-tanitildi-7-700-mah-pil-120hz-ekran-108-mp-kamera-27fecbc4/"
-  },
-  {
-   "id": "2b34f71e",
-   "title": "Huawei Starlight İlk Telefonu: 6,39 İnç Ekranlı Geniş Tasarım",
-   "summary": "Huawei Starlight alt markasının ilk telefonu için yeni bir sızıntı geldi. İddiaya göre cihaz geniş kasalı, 6,39 inç ekranlı ve Kirin 9 serisi bir çiple donatılmış.",
-   "link": "https://shiftdelete.net/huawei-starlight-ilk-telefon-genis-kasa",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-29T13:38:33+00:00",
-   "url": "/haber/huawei-starlight-ilk-telefonu-6-39-inc-ekranli-genis-tasarim-2b34f71e/"
   },
   {
    "id": "06067d93",
