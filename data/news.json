@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T00:01:12.429257+00:00",
+ "updated": "2026-10-29T00:31:10.177479+00:00",
  "items": [
   {
    "id": "69ddc9ca",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-29T00:00:00+00:00",
+   "date": "2026-10-29T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-69ddc9ca/"
+  },
+  {
+   "id": "6f9722e5",
+   "title": "ABD'li oyuncu Hayden Panettiere'nin ölümünün kaza sonucu olduğu belirlendi",
+   "summary": "Heroes ve Nashville dizilerinin yıldızı, Ağustos ayında fentanil, Xanax ve diğer bazı ilaçların toksik etkileri nedeniyle hayatını kaybetti.",
+   "link": "https://www.bbc.com/turkce/articles/cm62yl58x6gko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c143/live/4223ae30-d313-11f1-808a-1f9b061d2360.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-29T00:07:54+00:00",
+   "url": "/haber/abd-li-oyuncu-hayden-panettiere-nin-olumunun-kaza-sonucu-oldugu-belirl-6f9722e5/"
   },
   {
    "id": "b3637169",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-10-27T01:30:22+00:00",
    "url": "/haber/ballon-d-or-2026-sahiplerini-buldu-alexia-putellas-ve-harry-kane-4f1a8807/"
-  },
-  {
-   "id": "7673d72a",
-   "title": "Öğrenci hareketi Sırbistan'da Vucic iktidarını nasıl devirdi?",
-   "summary": "Öğrenciler, iki yıldan kısa bir sürede Aleksandar Vucic'in 14 yıllık siyasi egemenliğini sona erdirmeyi başardılar.",
-   "link": "https://www.bbc.com/turkce/articles/cqx29p2lrndvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b51a/live/c08c21a0-d203-11f1-a701-fddedf244c16.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-26T11:19:06+00:00",
-   "url": "/haber/ogrenci-hareketi-sirbistan-da-vucic-iktidarini-nasil-devirdi-7673d72a/"
   },
   {
    "id": "a8d6893c",
