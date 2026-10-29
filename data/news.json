@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-29T18:30:59.353366+00:00",
+ "updated": "2026-10-29T19:01:18.233749+00:00",
  "items": [
+  {
+   "id": "ea3ecb01",
+   "title": "Samsung, Çin'e özel katlanabilir W26 modelini tanıttı: İşte özellikleri ve fiyatı",
+   "summary": "Samsung, Çin pazarına özel yeni katlanabilir telefonu W27’yi tanıttı. Galaxy Z Fold 8 Ultra'yı temel alan model, altın detaylı tasarımı ve uydu bağlantısı desteğiyle öne çıkıyor.",
+   "link": "https://www.donanimhaber.com/samsung-cin-e-ozel-katlanabilir-w26-modelini-tanitti--212242",
+   "image": "https://www.donanimhaber.com/images/images/haber/212242/1200x675samsung-cin-e-ozel-katlanabilir-w26-modelini-tanitti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-29T19:00:00+00:00",
+   "url": "/haber/samsung-cin-e-ozel-katlanabilir-w26-modelini-tanitti-iste-ozellikleri-ea3ecb01/"
+  },
+  {
+   "id": "85190b8f",
+   "title": "Emine Erdoğan'dan Cumhuriyet Bayramı ve TDT Zirvesi kapsamındaki resmi yemeğe ilişkin paylaşım",
+   "summary": "Emine Erdoğan, 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı (TDT) Zirvesi dolayısıyla konuk devlet ve hükümet başkanları ile heyetleri onuruna verdikleri resmi akşam yemeğine ilişkin paylaşımda bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-cumhuriyet-bayrami-ve-tdt-zirvesi-kapsamindaki-resmi-yemege-iliskin-paylasim/4105405",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T18:53:20+00:00",
+   "url": "/haber/emine-erdogan-dan-cumhuriyet-bayrami-ve-tdt-zirvesi-kapsamindaki-resmi-85190b8f/"
+  },
+  {
+   "id": "41b9209e",
+   "title": "Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi",
+   "summary": "Rusya Devlet Başkanı Vladimir Putin, Avrupa ile savaş istemediklerini ancak böyle bir çatışmaya hazır olduklarını belirterek, olası bir savaşta kazanan olmayacağı uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/putin-avrupa-ile-olasi-savasta-kazanan-olmayacagini-soyledi/4105403",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T18:50:06+00:00",
+   "url": "/haber/putin-avrupa-ile-olasi-savasta-kazanan-olmayacagini-soyledi-41b9209e/"
+  },
+  {
+   "id": "6ecf2423",
+   "title": "Kapadokya'da peribacası çöktü. Üç kişi hayatını kaybetti",
+   "summary": "Kapadokya Göreme Açık Hava Müzesi girişinde peribacası çöktü. Üç kişinin hayatını kaybettiği bildirildi. Yaralı sayısı 5 olarak açıklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-kapadokyada-peribacasi-coktu-uc-kisi-hayatini-kaybetti-1748533",
+   "image": "https://images.ntv.com.tr/images/AA-20261029-42903349-42903348-NEVSEHIRDE_PERIBACASINDAN_KOPAN_KAYA_PARCALARININ_ALTINDA_KALAN_2_KISI_HAYATINI_KAYBETTI-879172.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-29T18:47:11+00:00",
+   "url": "/haber/kapadokya-da-peribacasi-coktu-uc-kisi-hayatini-kaybetti-6ecf2423/"
+  },
+  {
+   "id": "f52d997a",
+   "title": "İsrail'de sandıktan koalisyon belirsizliği çıkan seçimlerde oy sayımı tamamlandı",
+   "summary": "İsrail'de yapılan ve sandıktan koalisyon belirsizliğinin çıktığı seçimlerde oy sayımı tamamlandı. Kesinleşmemiş sonuçlara göre, İsrail vatandaşı Filistinlileri temsil eden partiler 19 milletvekili çıkararak tarihi bir…",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-sandiktan-koalisyon-belirsizligi-cikan-secimlerde-oy-sayimi-tamamlandi/4105391",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T18:37:00+00:00",
+   "url": "/haber/israil-de-sandiktan-koalisyon-belirsizligi-cikan-secimlerde-oy-sayimi-f52d997a/"
+  },
+  {
+   "id": "9e5930af",
+   "title": "Fransa'da terör saldırısının şüphelisi, Müslümanlara ve Afrikalılara benzeyenleri hedef aldığını söyledi",
+   "summary": "Fransa'da geçen hafta 1 kişinin ölümüne ve 7 kişinin yaralanmasına neden olan terör saldırısının şüphelisi, gözaltındayken verdiği ifadede Müslümanlara, Afrikalılara ve Kuzey Afrikalılara benzeyen kişileri hedef…",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-teror-saldirisinin-suphelisi-muslumanlara-ve-afrikalilara-benzeyenleri-hedef-aldigini-soyledi/4105388",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T18:30:48+00:00",
+   "url": "/haber/fransa-da-teror-saldirisinin-suphelisi-muslumanlara-ve-afrikalilara-be-9e5930af/"
+  },
   {
    "id": "9e716473",
    "title": "Türk Savunma Sanayisinin 2027 Hedefleri",
@@ -33,6 +99,17 @@
    "category": "gundem",
    "date": "2026-10-29T18:20:04+00:00",
    "url": "/haber/israil-deki-cocuk-istismari-olayiyla-ilgili-abd-de-gozaltilar-yapildi-462e5886/"
+  },
+  {
+   "id": "f209ccc4",
+   "title": "Galata Kulesi, Cumhuriyet'in 103. yılında Atatürk'ün fotoğraflarıyla aydınlatıldı",
+   "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Cumhuriyet'in 103. yılı dolayısıyla Galata Kulesi'nin, Gazi Mustafa Kemal Atatürk'ün fotoğrafları ve Türk bayrağıyla aydınlatıldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/kultur/galata-kulesi-cumhuriyetin-103-yilinda-ataturkun-fotograflariyla-aydinlatildi/4105380",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T18:19:59+00:00",
+   "url": "/haber/galata-kulesi-cumhuriyet-in-103-yilinda-ataturk-un-fotograflariyla-ayd-f209ccc4/"
   },
   {
    "id": "87a17983",
@@ -222,17 +299,6 @@
    "url": "/haber/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-e98c3d20/"
   },
   {
-   "id": "d61f7e38",
-   "title": "Husilerin hedefindeki Riyad'da çok sayıda patlama sesi duyuldu",
-   "summary": "Yemen'deki İran destekli Husilerin hedefindeki Suudi Arabistan'ın başkenti Riyad'da saldırı uyarısı sonrası hava savunma sistemleri devreye girdi ve çok sayıda patlama sesi duyuldu.",
-   "link": "https://www.aa.com.tr/tr/dunya/husilerin-hedefindeki-riyadda-cok-sayida-patlama-sesi-duyuldu/4105285",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T17:00:31+00:00",
-   "url": "/haber/husilerin-hedefindeki-riyad-da-cok-sayida-patlama-sesi-duyuldu-d61f7e38/"
-  },
-  {
    "id": "143bb21c",
    "title": "İsrail askerleri ile Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da 2'si çocuk, 3 kişiyi yaraladı",
    "summary": "İsrail askerleri ile Filistinlilerin topraklarını gasbeden İsraillilerin işgal altındaki Batı Şeria'nın çeşitli noktalarına düzenlediği baskın ve saldırılarda 2'si çocuk, 1'i özel ihtiyaç sahibi 3 kişi yaralandı.",
@@ -244,17 +310,6 @@
    "url": "/haber/israil-askerleri-ile-filistin-topraklarini-gasbeden-israilliler-bati-s-143bb21c/"
   },
   {
-   "id": "2a4d7f1a",
-   "title": "İstanbul Havalimanı 8'inci yaşında günlük uçuş sayısıyla zirvede",
-   "summary": "İstanbul Havalimanı günlük 1491 uçuş ortalamasıyla Avrupa'nın en yoğun havalimanı oldu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimani-8inci-yasinda-gunluk-ucus-sayisiyla-zirvede-/4105276",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T16:45:44+00:00",
-   "url": "/haber/istanbul-havalimani-8-inci-yasinda-gunluk-ucus-sayisiyla-zirvede-2a4d7f1a/"
-  },
-  {
    "id": "d5ae1007",
    "title": "Azerbaycan medyası: Aliyev Türkiye'ye gitmeyecek",
    "summary": "Azerbaycan'da hükümete yakın medyada yer alan haberlere göre, Cumhurbaşkanı İlham Aliyev Ankara'daki Türk Devletleri Teşkilatı zirvesine katılmayacak. Cumhurbaşkanı Erdoğan, 21 Ekim'de Aliyev'i telefonla arayarak…",
@@ -264,28 +319,6 @@
    "category": "gundem",
    "date": "2026-10-29T16:43:55+00:00",
    "url": "/haber/azerbaycan-medyasi-aliyev-turkiye-ye-gitmeyecek-d5ae1007/"
-  },
-  {
-   "id": "bbb689b1",
-   "title": "İran basını: Vance'in barış müzakerelerini yeniden başlatmak için gönderdiği mektuba Tahran yanıt vermedi",
-   "summary": "İran basını, ABD Başkanı Trump'ın, \"Başkan Yardımcısı Vance'i İran'la müzakereleri yeniden başlatmakla görevlendirdiği\" iddiasını yalanlamasına karşın, Vance'in Muhsin Rızai'ye gönderdiği mektuba Tahran yönetiminin…",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-vancein-baris-muzakerelerini-yeniden-baslatmak-icin-gonderdigi-mektuba-tahran-yanit-vermedi/4105254",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T16:25:40+00:00",
-   "url": "/haber/iran-basini-vance-in-baris-muzakerelerini-yeniden-baslatmak-icin-gonde-bbb689b1/"
-  },
-  {
-   "id": "c4cee872",
-   "title": "Bakan Bolat: Özbekistan ile 5 milyar dolarlık ticaret hacmi hedefi için somut adımlar attık",
-   "summary": "Ticaret Bakanı Ömer Bolat, Türkiye ve Özbekistan arasında 2025 yılında 3,1 milyar dolar olan ticaret hacminin, Cumhurbaşkanlarının belirlediği 5 milyar dolar hedefine en kısa sürede ulaştırma yolunda somut adımlar…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-ozbekistan-ile-5-milyar-dolarlik-ticaret-hacmi-hedefi-icin-somut-adimlar-attik/4105253",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T16:25:18+00:00",
-   "url": "/haber/bakan-bolat-ozbekistan-ile-5-milyar-dolarlik-ticaret-hacmi-hedefi-icin-c4cee872/"
   },
   {
    "id": "cd495382",
@@ -343,17 +376,6 @@
    "url": "/haber/evrenin-neden-var-oldugunu-aciklayabilecek-antimadde-deneyi-3a32f4e5/"
   },
   {
-   "id": "6ecf2423",
-   "title": "Kapadokya'da peribacası çöktü. Üç kişi hayatını kaybetti",
-   "summary": "Kapadokya Göreme Açık Hava Müzesi girişinde peribacası çöktü. Üç kişinin hayatını kaybettiği bildirildi. Yaralı sayısı 5 olarak açıklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kapadokyada-peribacasi-coktu-uc-kisi-hayatini-kaybetti-1748533",
-   "image": "https://images.ntv.com.tr/images/AA-20261029-42903349-42903348-NEVSEHIRDE_PERIBACASINDAN_KOPAN_KAYA_PARCALARININ_ALTINDA_KALAN_2_KISI_HAYATINI_KAYBETTI-879172.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-29T15:57:51+00:00",
-   "url": "/haber/kapadokya-da-peribacasi-coktu-uc-kisi-hayatini-kaybetti-6ecf2423/"
-  },
-  {
    "id": "c967503b",
    "title": "Marmara Denizi'nde batan gemide bulunan cesedin kimliği belli oldu",
    "summary": "Marmara Denizi'nde batan Tuğberk İmamoğlu isimli gemide yürütülen arama kurtarma çalışmalarında bulunan cesedin kimliği belli oldu.",
@@ -385,17 +407,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T15:12:14+00:00",
    "url": "/haber/yeni-gta-6-oynanis-videosu-south-park-bolumunde-yayinlandi-45ec4e96/"
-  },
-  {
-   "id": "1e9410dc",
-   "title": "Antalya Kültür Yolu Festivali 31 Ekim'de başlayacak",
-   "summary": "Türkiye Kültür Yolu Festivali'nin Antalya ayağı, 31 Ekim-8 Kasım'da konser, sergi, opera, bale, tiyatro, arkeoloji gezileri ve geleneksel sanat atölyeleri gibi çeşitli etkinliklerle düzenlenecek.",
-   "link": "https://www.aa.com.tr/tr/kultur/antalya-kultur-yolu-festivali-31-ekimde-baslayacak/4105165",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T15:03:16+00:00",
-   "url": "/haber/antalya-kultur-yolu-festivali-31-ekim-de-baslayacak-1e9410dc/"
   },
   {
    "id": "0ebf8360",
@@ -913,17 +924,6 @@
    "category": "gundem",
    "date": "2026-10-29T09:59:18+00:00",
    "url": "/haber/ispanya-daki-tren-kazasinda-can-kaybi-69-a-yukseldi-e7fa0954/"
-  },
-  {
-   "id": "6a30c8d6",
-   "title": "Fiat Grande Panda'nın menzili 400 km'ye yükseltildi: Ancak bir özellik iptal edildi",
-   "summary": "Fiat elektrikli Grande Panda modelinin menzilini 320 kilometreden 400 kilometreye yükseltti. İtalyan otomobil üreticisi ayrıca aracın kendine has dikkat çekici özelliklerinden birini de kaldırdı.",
-   "link": "https://www.donanimhaber.com/fiat-grande-panda-nin-menzili-400-km-ye-yukseltildi--212230",
-   "image": "https://www.donanimhaber.com/images/images/haber/212230/1200x675fiat-grande-panda-nin-menzili-400-km-ye-yukseltildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-29T09:58:44+00:00",
-   "url": "/haber/fiat-grande-panda-nin-menzili-400-km-ye-yukseltildi-ancak-bir-ozellik-6a30c8d6/"
   },
   {
    "id": "a8a49294",
