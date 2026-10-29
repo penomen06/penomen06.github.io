@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T03:01:12.681191+00:00",
+ "updated": "2026-10-29T03:31:08.464381+00:00",
  "items": [
   {
    "id": "69ddc9ca",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-29T03:00:00+00:00",
+   "date": "2026-10-29T03:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-69ddc9ca/"
+  },
+  {
+   "id": "90a7ac53",
+   "title": "Arap Koalisyonu: Suudi Arabistan'ın doğusuna fırlatılan balistik füze imha edildi",
+   "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Yemen'deki İran destekli Husiler tarafından Suudi Arabistan'ın doğusuna fırlatılan balistik füzenin imha edildiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistanin-dogusuna-firlatilan-balistik-fuze-imha-edildi/4104449",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T03:20:40+00:00",
+   "url": "/haber/arap-koalisyonu-suudi-arabistan-in-dogusuna-firlatilan-balistik-fuze-i-90a7ac53/"
+  },
+  {
+   "id": "a3a44baf",
+   "title": "İstanbul kapalı yollar listesi",
+   "summary": "İstanbul'da kapalı yolların tam listesi. Fatih, Kadıköy, Üsküdar ve Ataşehir'de hangi yol ne zaman kapalı?Kadıköy, Üsküdar ve Ataşehir'de yollar ne zaman açılacak. Kadıköy, Üsküdar, Fatih ve Ataşehir'de alternatif…",
+   "link": "https://www.ntv.com.tr/yerel-haberler/istanbul/istanbulda-kapali-yollarin-tam-listesi-kadikoy-uskudar-ve-atasehirde-hangi-yol-ne-zaman-kapali-1748410",
+   "image": "https://images.ntv.com.tr/images/trafik3-325813(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-29T03:06:35+00:00",
+   "url": "/haber/istanbul-kapali-yollar-listesi-a3a44baf/"
   },
   {
    "id": "6f9722e5",
@@ -255,17 +277,6 @@
    "url": "/haber/google-yeni-yapay-zeka-modeli-gemini-4-carbon-u-tanitti-zirveye-yerles-b136379b/"
   },
   {
-   "id": "789370d8",
-   "title": "BM: Dünyanın daha fazla diplomasiye ihtiyacı var, askeri eyleme değil",
-   "summary": "BM, ABD'nin bazı Körfez ülkelerini 3 Kasım'daki Kongre ara seçimlerinin ardından olası saldırılara karşı uyardığı iddiaları üzerine, dünyanın askeri eylemler yerine diplomasiye ihtiyaç duyduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-dunyanin-daha-fazla-diplomasiye-ihtiyaci-var-askeri-eyleme-degil/4104358",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T19:41:14+00:00",
-   "url": "/haber/bm-dunyanin-daha-fazla-diplomasiye-ihtiyaci-var-askeri-eyleme-degil-789370d8/"
-  },
-  {
    "id": "dc9d560f",
    "title": "Sony, yeni 50 MP kamera sensörünü tanıttı: Gece çekimlerinde iddialı",
    "summary": "Sony, akıllı telefonlar için geliştirdiği 50 MP LYTIA 720 görüntü sensörünü duyurdu. %50 daha az gürültü vadeden sensör, 100 dB dinamik aralık ve 4K 120 FPS video kaydı desteğiyle öne çıkıyor.",
@@ -275,17 +286,6 @@
    "category": "teknoloji",
    "date": "2026-10-28T19:40:00+00:00",
    "url": "/haber/sony-yeni-50-mp-kamera-sensorunu-tanitti-gece-cekimlerinde-iddiali-dc9d560f/"
-  },
-  {
-   "id": "a3a44baf",
-   "title": "İstanbul kapalı yollar listesi",
-   "summary": "İstanbul'da kapalı yolların tam listesi. Fatih, Kadıköy, Üsküdar ve Ataşehir'de hangi yol ne zaman kapalı?Kadıköy, Üsküdar ve Ataşehir'de yollar ne zaman açılacak. Kadıköy, Üsküdar, Fatih ve Ataşehir'de alternatif…",
-   "link": "https://www.ntv.com.tr/yerel-haberler/istanbul/istanbulda-kapali-yollarin-tam-listesi-kadikoy-uskudar-ve-atasehirde-hangi-yol-ne-zaman-kapali-1748410",
-   "image": "https://images.ntv.com.tr/images/trafik3-325813(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-28T19:36:12+00:00",
-   "url": "/haber/istanbul-kapali-yollar-listesi-a3a44baf/"
   },
   {
    "id": "69b3a54d",
