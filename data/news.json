@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-29T11:01:13.226802+00:00",
+ "updated": "2026-10-29T11:31:01.014198+00:00",
  "items": [
+  {
+   "id": "1ab123b8",
+   "title": "Osmangazi Köprüsü'nde \"Cumhuriyet Koşusu\" düzenlendi",
+   "summary": "Cumhuriyet'in 103. yıl dönümü kutlamaları kapsamında Osmangazi Köprüsü'nde \"Uluslararası Osmangazi-Türkiye Yüzyılı Koşusu\" düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/osmangazi-koprusunde-cumhuriyet-kosusu-duzenlendi/4104862",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T11:19:46+00:00",
+   "url": "/haber/osmangazi-koprusu-nde-cumhuriyet-kosusu-duzenlendi-1ab123b8/"
+  },
+  {
+   "id": "eb3839ff",
+   "title": "Toyota'dan Yeni Platform: Hibrit ve Elektrikli Araçlar Birleşiyor",
+   "summary": "Toyota, hibrit, plug-in hibrit ve elektrikli araçlar için yeni bir platform geliştiriyor. Yüzde 15'i aşan verimlilik hedefi ve yeni Corolla hakkındaki detaylar...",
+   "link": "https://www.webtekno.com/toyota-yeni-hibrit-motorunu-duyurdu-corolla-da-bu-motorla-gelecek-h228040.html",
+   "image": "https://imgrosetta.webtekno.com/file/695080/695080-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-10-29T11:17:03+00:00",
+   "url": "/haber/toyota-dan-yeni-platform-hibrit-ve-elektrikli-araclar-birlesiyor-eb3839ff/"
+  },
+  {
+   "id": "316e3386",
+   "title": "Yurdun doğu kesimleri için gök gürültülü sağanak uyarısı",
+   "summary": "Meteoroloji Genel Müdürlüğü, yurdun doğu kesimleri için gök gürültülü sağanak uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/yurdun-dogu-kesimleri-icin-gok-gurultulu-saganak-uyarisi/4104857",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T11:15:38+00:00",
+   "url": "/haber/yurdun-dogu-kesimleri-icin-gok-gurultulu-saganak-uyarisi-316e3386/"
+  },
+  {
+   "id": "1860b3f0",
+   "title": "Sinem Dedetaş'a ev hapsiyle tahliye",
+   "summary": "Tutuklandıktan sonra Üsküdar Belediye Başkanlığı görevinden uzaklaştırılan Sinem Dedetaş'ın ev hapsi şartıyla tahliyesine karar verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/sinem-dedetasa-ev-hapsiyle-tahliye-1748516",
+   "image": "https://images.ntv.com.tr/images/sinemdedetaş-555767.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-29T11:14:51+00:00",
+   "url": "/haber/sinem-dedetas-a-ev-hapsiyle-tahliye-1860b3f0/"
+  },
+  {
+   "id": "e0441443",
+   "title": "Tek öğrencisi olan okulda tören: \"İşte Cumhuriyet tam olarak budur\"",
+   "summary": "Konya’nın Ilgın ilçesinde, 1 öğretmen ve 1 öğrencinin bulunduğu okulda 29 Ekim Cumhuriyet Bayramı törenle kutlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-tek-ogrencisi-olan-okulda-toren-iste-cumhuriyet-tam-olarak-budur-1748515",
+   "image": "https://images.ntv.com.tr/images/image-297576.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-29T11:09:10+00:00",
+   "url": "/haber/tek-ogrencisi-olan-okulda-toren-iste-cumhuriyet-tam-olarak-budur-e0441443/"
+  },
+  {
+   "id": "599fa173",
+   "title": "Sinem Dedetaş için tahliye ve ev hapsi kararı",
+   "summary": "Tutuklandıktan sonra Üsküdar Belediye Başkanlığı görevinden uzaklaştırılan Sinem Dedetaş hakkında tahliye ve ev hapsi kararı verildi. Dedetaş 31 Temmuz'dan bu yana tutuklu bulunuyordu.",
+   "link": "https://www.bbc.com/turkce/articles/ckq6nj1vpzjeo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/313a/live/6a4ed640-8c06-11f1-8665-e382dc49dfdb.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-29T11:07:09+00:00",
+   "url": "/haber/sinem-dedetas-icin-tahliye-ve-ev-hapsi-karari-599fa173/"
+  },
+  {
+   "id": "e09db6f1",
+   "title": "Liderlerden Cumhurbaşkanı Erdoğan'a 29 Ekim Cumhuriyet Bayramı mesajı",
+   "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev ve İran Cumhurbaşkanı Mesud Pezeşkiyan, 29 Ekim Cumhuriyet Bayramı dolayısıyla Cumhurbaşkanı Recep Tayyip Erdoğan'a tebriklerini iletti.",
+   "link": "https://www.aa.com.tr/tr/gundem/liderlerden-cumhurbaskani-erdogana-29-ekim-cumhuriyet-bayrami-mesaji/4104851",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T11:06:49+00:00",
+   "url": "/haber/liderlerden-cumhurbaskani-erdogan-a-29-ekim-cumhuriyet-bayrami-mesaji-e09db6f1/"
+  },
   {
    "id": "201f84ef",
    "title": "Google Chrome Autofill, Gemini ile Gmail Entegrasyonuna Kavuşuyor",
@@ -68,6 +145,17 @@
    "url": "/haber/google-gemini-4-carbon-tanitildi-ozellikleri-ve-fiyati-1b18ca49/"
   },
   {
+   "id": "71bf9574",
+   "title": "Cumhurbaşkanı Erdoğan, 29 Ekim Cumhuriyet Bayramı tebriklerini kabul etti",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 29 Ekim Cumhuriyet Bayramı tebriklerini kabul etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-29-ekim-cumhuriyet-bayrami-tebriklerini-kabul-etti/4104829",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T10:40:28+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-29-ekim-cumhuriyet-bayrami-tebriklerini-kabul-et-71bf9574/"
+  },
+  {
    "id": "e31f77fc",
    "title": "Cumhurbaşkanı Erdoğan: Türkiye Yüzyılı hedefine ulaşıncaya kadar kararlılıkla çalışacağız",
    "summary": "Cumhurbaşkanı Erdoğan başkanlığındaki devlet erkanı, Cumhuriyet'in 103. yılı dolayısıyla Anıtkabir'i ziyaret etti. Erdoğan'ın Anıtkabir Özel Defteri'ne yazdığı Türkiye Yüzyılı mesajı dikkat çekti.",
@@ -77,6 +165,28 @@
    "category": "gundem",
    "date": "2026-10-29T10:39:10+00:00",
    "url": "/haber/cumhurbaskani-erdogan-turkiye-yuzyili-hedefine-ulasincaya-kadar-kararl-e31f77fc/"
+  },
+  {
+   "id": "698f71c5",
+   "title": "Şanlıurfa'da peygamberlerin ve ilim insanlarının hikayeleri dijital ortamda anlatılıyor",
+   "summary": "Türkiye'nin önemli inanç merkezlerinden, \"Peygamberler Şehri\" olarak nitelendirilen Şanlıurfa'daki Balıklıgöl Yerleşkesi'nde, peygamberlerin ve ilim insanlarının hikayeleri dijital ortamda anlatılıyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/sanliurfada-peygamberlerin-ve-ilim-insanlarinin-hikayeleri-dijital-ortamda-anlatiliyor/4104823",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T10:37:35+00:00",
+   "url": "/haber/sanliurfa-da-peygamberlerin-ve-ilim-insanlarinin-hikayeleri-dijital-or-698f71c5/"
+  },
+  {
+   "id": "64203e1b",
+   "title": "İnme vakalarında \"çarpıntı ataklarına\" dikkat edilmeli",
+   "summary": "Kırklareli Üniversitesi Tıp Fakültesi Nöroloji Ana Bilim Dalı Öğretim Üyesi Prof. Dr. Özlem Altıntaş Kadırhan, inme vakalarında \"çarpıntı ataklarına\" dikkat edilmesi gerektiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/inme-vakalarinda-carpinti-ataklarina-dikkat-edilmeli/4104817",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T10:36:22+00:00",
+   "url": "/haber/inme-vakalarinda-carpinti-ataklarina-dikkat-edilmeli-64203e1b/"
   },
   {
    "id": "ae94c55e",
@@ -167,17 +277,6 @@
    "url": "/haber/ps-plus-kasim-2026-oyunlari-belli-oldu-dead-island-2-ve-tomb-raider-ge-d8fd49e5/"
   },
   {
-   "id": "1416b984",
-   "title": "Bakan Fidan, yarın ABD'de G20 Dışişleri Bakanları Toplantısı'na katılacak",
-   "summary": "Dışişleri Bakanı Hakan Fidan, 30-31 Ekim'de ABD'nin Atlanta kentinde düzenlenecek G20 Dışişleri Bakanları Toplantısı'na katılacak.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-yarin-abdde-g20-disisleri-bakanlari-toplantisina-katilacak/4104786",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T10:09:41+00:00",
-   "url": "/haber/bakan-fidan-yarin-abd-de-g20-disisleri-bakanlari-toplantisi-na-katilac-1416b984/"
-  },
-  {
    "id": "5620fe87",
    "title": "WhatsApp, Android için Ödeme Özelliklerini Genişletmeye Hazırlanıyor",
    "summary": "WhatsApp, Android için geliştirdiği yeni ödeme yönetimi bölümüyle dünya genelinde ödeme hizmetlerini genişletmeye hazırlanıyor. İşte detaylar.",
@@ -209,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T09:58:44+00:00",
    "url": "/haber/fiat-grande-panda-nin-menzili-400-km-ye-yukseltildi-ancak-bir-ozellik-6a30c8d6/"
-  },
-  {
-   "id": "06ead066",
-   "title": "Volkswagen'den üçüncü çeyrekte 5,9 milyar avro faaliyet zararı",
-   "summary": "Alman otomotiv üreticisi Volkswagen (VW) Grubu, 2026 yılının üçüncü çeyreğinde 5,9 milyar avro faaliyet zararı, ocak-eylül döneminde ise 2,72 milyar avro net zarar açıkladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/volkswagenden-ucuncu-ceyrekte-5-9-milyar-avro-faaliyet-zarari/4104768",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T09:57:42+00:00",
-   "url": "/haber/volkswagen-den-ucuncu-ceyrekte-5-9-milyar-avro-faaliyet-zarari-06ead066/"
   },
   {
    "id": "1b410908",
@@ -275,17 +363,6 @@
    "category": "gundem",
    "date": "2026-10-29T09:18:26+00:00",
    "url": "/haber/cop31-icin-antalya-da-dev-guvenlik-hazirligi-26-bin-emniyet-personeli-81cb4225/"
-  },
-  {
-   "id": "8dbfcc4a",
-   "title": "AB, yüksek enerji fiyatları nedeniyle zorlu bir kışa hazırlanıyor",
-   "summary": "Avrupa Birliği Komisyonunun Enerjiden Sorumlu Üyesi Dan Jorgensen, Avrupa'da yaklaşık 50 milyon kişinin normal bir yılda bile evini yeterince ısıtamadığını belirterek, yüksek enerji fiyatları nedeniyle bu sayının bu yıl…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ab-yuksek-enerji-fiyatlari-nedeniyle-zorlu-bir-kisa-hazirlaniyor/4104718",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T09:15:09+00:00",
-   "url": "/haber/ab-yuksek-enerji-fiyatlari-nedeniyle-zorlu-bir-kisa-hazirlaniyor-8dbfcc4a/"
   },
   {
    "id": "c12b0b11",
@@ -497,17 +574,6 @@
    "url": "/haber/google-chrome-a-gmail-ozelligi-geldi-formlar-otomatik-dolacak-1a34fd63/"
   },
   {
-   "id": "c25ede81",
-   "title": "Antalya polisi COP31 öncesi zorlu görevlere hazırlanıyor",
-   "summary": "Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) öncesinde güvenlik hazırlıkları da sürüyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/antalya-polisi-cop31-oncesi-zorlu-gorevlere-hazirlaniyor/4104645",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T08:09:53+00:00",
-   "url": "/haber/antalya-polisi-cop31-oncesi-zorlu-gorevlere-hazirlaniyor-c25ede81/"
-  },
-  {
    "id": "650336b2",
    "title": "Sonbahar renklerine bürünen Yedigöller, fotoğraf tutkunları ve doğaseverleri cezbediyor",
    "summary": "Bolu'daki Yedigöller Milli Parkı, sonbaharın renklerine bürünen görüntüsüyle doğa tutkunlarından ve fotoğrafseverlerden yoğun ilgi görüyor.",
@@ -519,17 +585,6 @@
    "url": "/haber/sonbahar-renklerine-burunen-yedigoller-fotograf-tutkunlari-ve-dogaseve-650336b2/"
   },
   {
-   "id": "18a3f278",
-   "title": "Yorgunluk sanılan bazı belirtiler gençlerde inmenin habercisi olabilir",
-   "summary": "Prof. Dr. Semih Giray, inmenin yalnızca ileri yaşlarda görülen bir hastalık olmadığını, gençlerde aniden gelişen yüz asimetrisi, kol veya bacakta güç kaybı ile görme ve denge sorunlarının geçiştirilmemesi, hastaneye…",
-   "link": "https://www.aa.com.tr/tr/gundem/yorgunluk-sanilan-bazi-belirtiler-genclerde-inmenin-habercisi-olabilir/4104639",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T08:08:47+00:00",
-   "url": "/haber/yorgunluk-sanilan-bazi-belirtiler-genclerde-inmenin-habercisi-olabilir-18a3f278/"
-  },
-  {
    "id": "7717edf1",
    "title": "Küresel elektrifikasyonda \"35'te 35\" hedefi için dönüşümün üç kat hızlanması gerekiyor",
    "summary": "Küresel enerji dönüşümünde elektriğin nihai enerji tüketimindeki payının 2035'e kadar yüzde 35'e çıkarılması için elektrifikasyonun hızlandırılması, yenilenebilir enerji yatırımlarının yanı sıra şebeke altyapısının…",
@@ -539,17 +594,6 @@
    "category": "gundem",
    "date": "2026-10-29T08:08:01+00:00",
    "url": "/haber/kuresel-elektrifikasyonda-35-te-35-hedefi-icin-donusumun-uc-kat-hizlan-7717edf1/"
-  },
-  {
-   "id": "dea8e18f",
-   "title": "Ateşkese rağmen İsrail'in saldırılarının sürdüğü Gazze'de halk, kışa sağlık ve barınma sorunlarıyla giriyor",
-   "summary": "Sınır Tanımayan Doktorların (MSF) Gazze'deki Tıbbi Aktivite Yöneticisi Dr. Fady Almadhoun, ateşkese rağmen sivillerin saldırılarda yaralandığını, kış öncesi yetersiz çadırlarda yaşayan Gazzelilerin gerekli sağlık…",
-   "link": "https://www.aa.com.tr/tr/dunya/ateskese-ragmen-israilin-saldirilarinin-surdugu-gazzede-halk-kisa-saglik-ve-barinma-sorunlariyla-giriyor/4104620",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T08:01:12+00:00",
-   "url": "/haber/ateskese-ragmen-israil-in-saldirilarinin-surdugu-gazze-de-halk-kisa-sa-dea8e18f/"
   },
   {
    "id": "d4c8774c",
@@ -684,17 +728,6 @@
    "url": "/haber/premiere-pro-da-4k-video-kurgu-icin-laptop-onerileri-0deb3720/"
   },
   {
-   "id": "6db48a32",
-   "title": "Milli hızlı trende güzergah belli oldu",
-   "summary": "Milli hızlı trende test sürüşleri devam ediyor. Testler yıl sonuna kadar tamamlanacak. Milli hızlı trenin hangi hatta kullanılacağı da belli oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-milli-hizli-trende-guzergah-belli-oldu-1748472",
-   "image": "https://images.ntv.com.tr/images/AA-20261029-42896826-42896819-BAKAN_URALOGLU_MILLI_HIZLI_TRENLE_ANKARAKIRIKKALE_HATTINDA_TEST_SURUSU_YAPTI-215817.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-29T07:18:42+00:00",
-   "url": "/haber/milli-hizli-trende-guzergah-belli-oldu-6db48a32/"
-  },
-  {
    "id": "5fb75c7b",
    "title": "Reddit, “sana özel” akışını kullanıma sundu",
    "summary": "Reddit artık kullanıcılarına “sana özel” ve “takip ediliyor” adlı iki ayrı akış bölümü sunuyor. Şirketin açıklamasına göre “sana özel” sekmesi, kullanıcının katıldığı toplulukların gönderilerini ilgi alanlarına dayalı…",
@@ -726,17 +759,6 @@
    "category": "gundem",
    "date": "2026-10-29T07:15:00+00:00",
    "url": "/haber/kamu-personelinin-ucret-sisteminde-yeni-donem-742489b9/"
-  },
-  {
-   "id": "c87150f6",
-   "title": "29 Ekim Cumhuriyet Bayramı mesajları. Cumhuriyet'in 103. yıldönümüne özel en güzel kısa mesajlar",
-   "summary": "29 Ekim Cumhuriyet Bayramı mesajları, Cumhuriyet'in 103. yıldönümü vesilesiyle birçok kişi tarafından araştırılmaya başladı. Bu özel günde kahramanlarımızı ve aziz şehitlerimizi yad etmek isteyen vatandaşlar, sosyal…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-29-ekim-cumhuriyet-bayrami-mesajlari-cumhuriyetin-103-yildonumune-ozel-en-guzel-kisa-mesajlar-1748463",
-   "image": "https://images.ntv.com.tr/images/iStock-1410286940-565652.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-29T07:11:15+00:00",
-   "url": "/haber/29-ekim-cumhuriyet-bayrami-mesajlari-cumhuriyet-in-103-yildonumune-oze-c87150f6/"
   },
   {
    "id": "dee6abcf",
@@ -1179,17 +1201,6 @@
    "url": "/haber/mobil-fotografcilikta-yeni-donem-vivo-x500-pro-max-tanitildi-75bcfe97/"
   },
   {
-   "id": "8700e9f7",
-   "title": "OpenAI'a Ağır Suçlama: \"ChatGPT Kızımıza İlacı Bıraktırdı ve Ölümüne Yol Açtı\"",
-   "summary": "OpenAI'a açılan davada, ChatGPT'nin epilepsi hastası genç kadına ilacını bıraktırarak ölümüne yol açtığı öne sürüldü.",
-   "link": "https://www.webtekno.com/openai-agir-suclama-chatgpt-kizimiza-ilaci-biraktirdi-ve-olumune-yol-acti-h227998.html",
-   "image": "https://imgrosetta.webtekno.com/file/694975/694975-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-28T09:47:55+00:00",
-   "url": "/haber/openai-a-agir-suclama-chatgpt-kizimiza-ilaci-biraktirdi-ve-olumune-yol-8700e9f7/"
-  },
-  {
    "id": "2a8e333a",
    "title": "MSB: Mısır ile anlaşma imzalamaya hazırız",
    "summary": "Milli Savunma Bakanlığı, Libya Temsilciler Meclisi'nin deniz yetki alanları mutabakatını onaylamasını memnuniyetle karşılarken, Mısır ile de benzer bir anlaşma imzalamaya hazır olunduğunu bildirdi. Bakanlık, Türkiye ile…",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-10-27T01:30:22+00:00",
    "url": "/haber/ballon-d-or-2026-sahiplerini-buldu-alexia-putellas-ve-harry-kane-4f1a8807/"
-  },
-  {
-   "id": "5c7b886a",
-   "title": "Anthropic halka arz ediliyor: 'İnsanlık için varoluşsal risk' uyarısı",
-   "summary": "Popüler sohbet robotu Claude'un üreticisi Anthropic, ABD'de planlanan dev halka arzına ilişkin ayrıntıları açıklarken yapay zekanın \"insanlık için felaket niteliğinde veya varoluşsal riskler oluşturabileceği\" uyarısında…",
-   "link": "https://www.bbc.com/turkce/articles/cqx28d4p72l4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f1b/live/b7b1f190-d1a4-11f1-a611-7ff246f4f9f3.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-27T01:23:52+00:00",
-   "url": "/haber/anthropic-halka-arz-ediliyor-insanlik-icin-varolussal-risk-uyarisi-5c7b886a/"
   },
   {
    "id": "a8d6893c",
