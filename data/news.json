@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-29T16:31:01.562326+00:00",
+ "updated": "2026-10-29T16:52:57.920349+00:00",
  "items": [
+  {
+   "id": "2a4d7f1a",
+   "title": "İstanbul Havalimanı 8'inci yaşında günlük uçuş sayısıyla zirvede",
+   "summary": "İstanbul Havalimanı günlük 1491 uçuş ortalamasıyla Avrupa'nın en yoğun havalimanı oldu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimani-8inci-yasinda-gunluk-ucus-sayisiyla-zirvede-/4105276",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T16:45:44+00:00",
+   "url": "/haber/istanbul-havalimani-8-inci-yasinda-gunluk-ucus-sayisiyla-zirvede-2a4d7f1a/"
+  },
+  {
+   "id": "d5ae1007",
+   "title": "Azerbaycan medyası: Aliyev Türkiye'ye gitmeyecek",
+   "summary": "Azerbaycan'da hükümete yakın medyada yer alan haberlere göre, Cumhurbaşkanı İlham Aliyev Ankara'daki Türk Devletleri Teşkilatı zirvesine katılmayacak. Cumhurbaşkanı Erdoğan, 21 Ekim'de Aliyev'i telefonla arayarak…",
+   "link": "https://www.bbc.com/turkce/articles/cmeq3wdn4xjqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3fe1/live/31bcd1d0-d3b7-11f1-a340-478c8f3b9e55.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-29T16:43:55+00:00",
+   "url": "/haber/azerbaycan-medyasi-aliyev-turkiye-ye-gitmeyecek-d5ae1007/"
+  },
   {
    "id": "fe7118ee",
    "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönem Türk asrı olacak",
@@ -9,8 +31,30 @@
    "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-29185710-650437.png",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-29T16:24:36+00:00",
+   "date": "2026-10-29T16:33:45+00:00",
    "url": "/haber/cumhurbaskani-erdogan-onumuzdeki-donem-turk-asri-olacak-fe7118ee/"
+  },
+  {
+   "id": "d379d09c",
+   "title": "Suriye'nin Deyrizor ilinde meydana gelen sel felaketinde bir çocuk hayatını kaybetti",
+   "summary": "Suriye'nin kuzey ve doğusunda etkili olan kuvvetli sağanak yağışın yol açtığı sel ve taşkınlar nedeniyle bir çocuk hayatını kaybetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriyenin-deyrizor-ilinde-meydana-gelen-sel-felaketinde-bir-cocuk-hayatini-kaybetti/4105260",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T16:31:26+00:00",
+   "url": "/haber/suriye-nin-deyrizor-ilinde-meydana-gelen-sel-felaketinde-bir-cocuk-hay-d379d09c/"
+  },
+  {
+   "id": "3585341f",
+   "title": "İletişim Başkanlığından TDT 13. Zirvesi'ne ilişkin video paylaşımı",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" temasıyla düzenlenen Türk Devletleri Teşkilatı 13. Zirvesi'ne ilişkin video paylaştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-tdt-13-zirvesine-iliskin-video-paylasimi/4105226",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T16:14:08+00:00",
+   "url": "/haber/iletisim-baskanligindan-tdt-13-zirvesi-ne-iliskin-video-paylasimi-3585341f/"
   },
   {
    "id": "cd495382",
@@ -44,6 +88,17 @@
    "category": "gundem",
    "date": "2026-10-29T16:08:17+00:00",
    "url": "/haber/cumhurbaskani-erdogan-turkiye-cumhuriyeti-buyuk-kazanimlarla-basaridan-66f1e881/"
+  },
+  {
+   "id": "3704e750",
+   "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönemi Türk asrı yapmak için mücadele edeceğiz",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türk dünyası olarak tam bir dayanışma içinde karşılıklı saygı ve kardeşlik içinde geleceğimize beraber yürüyeceğimize, önümüzdeki dönemi Türk asrı yapmak için mücadele edeceğimize…",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-onumuzdeki-donemi-turk-asri-yapmak-icin-mucadele-edecegiz-961658.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/recep-tayyip-erdoganaa-2498494.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-29T16:05:00+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-onumuzdeki-donemi-turk-asri-yapmak-icin-mucadele-3704e750/"
   },
   {
    "id": "34ed29b3",
@@ -189,6 +244,17 @@
    "url": "/haber/yeni-gta-6-oynanis-videosu-south-park-bolumunde-yayinlandi-45ec4e96/"
   },
   {
+   "id": "1e9410dc",
+   "title": "Antalya Kültür Yolu Festivali 31 Ekim'de başlayacak",
+   "summary": "Türkiye Kültür Yolu Festivali'nin Antalya ayağı, 31 Ekim-8 Kasım'da konser, sergi, opera, bale, tiyatro, arkeoloji gezileri ve geleneksel sanat atölyeleri gibi çeşitli etkinliklerle düzenlenecek.",
+   "link": "https://www.aa.com.tr/tr/kultur/antalya-kultur-yolu-festivali-31-ekimde-baslayacak/4105165",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T15:03:16+00:00",
+   "url": "/haber/antalya-kultur-yolu-festivali-31-ekim-de-baslayacak-1e9410dc/"
+  },
+  {
    "id": "0ebf8360",
    "title": "Epic Games Store, yeni oyun hediyesini duyurdu [29 Ekim]",
    "summary": "Epic Games Store, oyun hediyelerine hız kesmeden devam ediyor. Şirketin bugün ücretsiz olarak verdiği oyun “Sorry We’re Closed” oldu. Yapım için şu açıklama yapıldı: “Sorry We’re Closed zengin bir anlatı, derin…",
@@ -266,17 +332,6 @@
    "url": "/haber/turkiye-nin-ilk-milli-firkateyni-tcg-istanbul-rize-de-ziyarete-acildi-ed1445a7/"
   },
   {
-   "id": "93260ef2",
-   "title": "Von der Leyen, Kanada için ısrarla önerdiği ve diğer ortaklara da açık olacak \"ortak üyelik\" modelini anlattı",
-   "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Kanada için ısrarla önerdiği \"ortak üyelik\" modelinin ayrıntılarını açıklayarak, bu modelin Avrupa dışındaki diğer en yakın ortaklara da açık olacağını…",
-   "link": "https://www.aa.com.tr/tr/dunya/von-der-leyen-kanada-icin-israrla-onerdigi-ve-diger-ortaklara-da-acik-olacak-ortak-uyelik-modelini-anlatti/4105144",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T14:48:44+00:00",
-   "url": "/haber/von-der-leyen-kanada-icin-israrla-onerdigi-ve-diger-ortaklara-da-acik-93260ef2/"
-  },
-  {
    "id": "a7ef12a1",
    "title": "Üç bakanlık, tır sürücülerinin Schengen vizesi sorunu için devrede",
    "summary": "Ticaret, Dışişleri ve Ulaştırma bakanlıkları, tır sürücülerinin Schengen vizesi sorunlarını yakından takip ediyor. Konuyla ilgili diplomatik girişimler sürüyor.",
@@ -308,39 +363,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T14:30:00+00:00",
    "url": "/haber/obs-ile-oyun-yayini-yapmak-icin-laptop-onerileri-8646144a/"
-  },
-  {
-   "id": "7dbc9188",
-   "title": "DMM, \"Türkiye'nin İsrail'deki seçimlere müdahale ettiği\" iddialarını yalanladı",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Türkiye'nin İsrail'deki seçimlere müdahale ettiği\" yönündeki iddiaların tamamen asılsız olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/dmm-turkiyenin-israildeki-secimlere-mudahale-ettigi-iddialarini-yalanladi/4105106",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T14:26:04+00:00",
-   "url": "/haber/dmm-turkiye-nin-israil-deki-secimlere-mudahale-ettigi-iddialarini-yala-7dbc9188/"
-  },
-  {
-   "id": "a0398fa6",
-   "title": "Katar, İsrail seçimlerine müdahale ettiği yönündeki iddiaları reddetti",
-   "summary": "Katar, İsrail’de yapılan seçimlere müdahale ettiği veya seçim sonuçlarını etkilemek amacıyla herhangi bir faaliyete finansman sağladığı yönündeki iddiaları kesin bir dille reddetti.",
-   "link": "https://www.aa.com.tr/tr/dunya/katar-israil-secimlerine-mudahale-ettigi-yonundeki-iddialari-reddetti/4105095",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T14:22:05+00:00",
-   "url": "/haber/katar-israil-secimlerine-mudahale-ettigi-yonundeki-iddialari-reddetti-a0398fa6/"
-  },
-  {
-   "id": "d1adc5c9",
-   "title": "İletişim Başkanı Duran'dan TDT Zirvesi paylaşımı",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"TDT Ankara Zirvesi 2026, ortak geleceğimizi şekillendirme irademizin ve Türk dünyası arasındaki dayanışmayı daha ileriye taşıma kararlılığımızın önemli bir…",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-tdt-zirvesi-paylasimi/4105087",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T14:20:02+00:00",
-   "url": "/haber/iletisim-baskani-duran-dan-tdt-zirvesi-paylasimi-d1adc5c9/"
   },
   {
    "id": "3b801a24",
@@ -739,17 +761,6 @@
    "url": "/haber/google-play-katlanabilir-telefonlara-ozel-uygulamalari-one-cikaracak-77acf8e9/"
   },
   {
-   "id": "d5ae1007",
-   "title": "Türk Devletleri Teşkilatı Dışişleri Bakanları Konseyi başladı",
-   "summary": "Türk Devletleri Teşkilatı'nın (TDT) 13. zirvesi kapsamında Ankara'da gerçekleştirilen Dışişleri Bakanları Konseyi Toplantısı başladı. Toplantıya Dışişleri Bakanı Hakan Fidan ev sahipliği yapıyor.",
-   "link": "https://www.bbc.com/turkce/articles/cmeq3wdn4xjqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a307/live/465fe6f0-d384-11f1-a701-fddedf244c16.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-29T11:30:44+00:00",
-   "url": "/haber/turk-devletleri-teskilati-disisleri-bakanlari-konseyi-basladi-d5ae1007/"
-  },
-  {
    "id": "eb3839ff",
    "title": "Toyota'dan Yeni Platform: Hibrit ve Elektrikli Araçlar Birleşiyor",
    "summary": "Toyota, hibrit, plug-in hibrit ve elektrikli araçlar için yeni bir platform geliştiriyor. Yüzde 15'i aşan verimlilik hedefi ve yeni Corolla hakkındaki detaylar...",
@@ -1001,17 +1012,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T08:10:56+00:00",
    "url": "/haber/google-chrome-a-gmail-ozelligi-geldi-formlar-otomatik-dolacak-1a34fd63/"
-  },
-  {
-   "id": "ec3e7f67",
-   "title": "Cumhurbaşkanı Erdoğan: Cumhuriyet uğrunda büyük bedeller ödedik",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Bugün uğruna büyük bedeller ödediğimiz Cumhuriyetimizin kuruluşunun 103. seneidevriyesini kutluyoruz. Millî davamız olarak gördüğümüz Türkiye Yüzyılı hedefine ulaşıncaya kadar…",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-cumhuriyet-ugrunda-buyuk-bedeller-odedik-961581.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/erdogan-2499421.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-29T08:00:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-cumhuriyet-ugrunda-buyuk-bedeller-odedik-ec3e7f67/"
   },
   {
    "id": "f2a7f90a",
