@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-29T16:01:10.176387+00:00",
+ "updated": "2026-10-29T16:31:01.562326+00:00",
  "items": [
+  {
+   "id": "fe7118ee",
+   "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönem Türk asrı olacak",
+   "summary": "Cumhurbaşkanı Erdoğan, Türk dünyasının dayanışma içinde olduğunu belirterek \"Önümüzdeki dönemi Türk asrı yapmak için mücadele edeceğimize yürekten inanıyorum\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/turk-devletleri-teskilati-zirvesi-cumhurbaskani-erdogan-liderleri-karsiladi-1748548",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-29185710-650437.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-29T16:24:36+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-onumuzdeki-donem-turk-asri-olacak-fe7118ee/"
+  },
+  {
+   "id": "cd495382",
+   "title": "Reddit Sana Özel Akışını Tanıttı: Ana Sayfa İkiye Ayrılıyor",
+   "summary": "Reddit Sana Özel akışını tanıttı. Yeni akış önerileri topluluklarınızla birleştiriyor, Takip Edilenler ise yalnızca üye olduklarınızı gösteriyor.",
+   "link": "https://shiftdelete.net/reddit-sana-ozel-akis",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-29T16:13:36+00:00",
+   "url": "/haber/reddit-sana-ozel-akisini-tanitti-ana-sayfa-ikiye-ayriliyor-cd495382/"
+  },
+  {
+   "id": "95c01479",
+   "title": "Mistral, 1 trilyon parametreye sahip açık ağırlıklı modeli Large 4’ü (Le Chonk) kullanıma sundu",
+   "summary": "Avrupa merkezli yapay zeka şirketi Mistral, en iyi açık ağırlıklı model olarak tanımladığı Large 4’ü bugün genel olarak kullanıma açtı. Şirketin “Le Chonk” lakabını taktığı model, 1 trilyon parametreye sahip olmasına…",
+   "link": "https://www.log.com.tr/mistral-1-trilyon-parametreye-sahip-acik-agirlikli-modeli-large-4u-le-chonk-kullanima-sundu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2024/07/mistral-large-2-isimli-yeni-buyuk-dil-modelini-duyurdu-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-29T16:08:38+00:00",
+   "url": "/haber/mistral-1-trilyon-parametreye-sahip-acik-agirlikli-modeli-large-4-u-le-95c01479/"
+  },
+  {
+   "id": "66f1e881",
+   "title": "Cumhurbaşkanı Erdoğan: Türkiye Cumhuriyeti büyük kazanımlarla başarıdan başarıya koşmaya devam ediyor",
+   "summary": "Cumhurbaşkanı Erdoğan, \"86 milyonun ortak eseri ve ortak çatısı olan Türkiye Cumhuriyeti, her alanda elde ettiği büyük kazanımlarla başarıdan başarıya koşmaya devam ediyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkiye-cumhuriyeti-buyuk-kazanimlarla-basaridan-basariya-kosmaya-devam-ediyor/4105217",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T16:08:17+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-turkiye-cumhuriyeti-buyuk-kazanimlarla-basaridan-66f1e881/"
+  },
   {
    "id": "34ed29b3",
    "title": "ASELSAN’ın Oğulbey Teknoloji Üssü’nde İlk Üretim Başladı",
@@ -22,6 +66,17 @@
    "category": "teknoloji",
    "date": "2026-10-29T16:00:00+00:00",
    "url": "/haber/evrenin-neden-var-oldugunu-aciklayabilecek-antimadde-deneyi-3a32f4e5/"
+  },
+  {
+   "id": "7307279e",
+   "title": "ECB Başkanı Christine Lagarde aralıkta yeni bir faiz artışına işaret etti",
+   "summary": "Avrupa Merkez Bankası (ECB) Başkanı Christine Lagarde, Avro Bölgesi’ndeki artan enflasyon risklerine dikkati çekerek aralık ayında yeni bir faiz artışının masada olduğunun sinyalini verdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ecb-baskani-christine-lagarde-aralikta-yeni-bir-faiz-artisina-isaret-etti/4105208",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T15:58:38+00:00",
+   "url": "/haber/ecb-baskani-christine-lagarde-aralikta-yeni-bir-faiz-artisina-isaret-e-7307279e/"
   },
   {
    "id": "6ecf2423",
@@ -319,28 +374,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T14:00:00+00:00",
    "url": "/haber/autocad-ve-cizim-programlari-icin-en-iyi-laptop-tavsiyeleri-403cf98a/"
-  },
-  {
-   "id": "62b8932f",
-   "title": "Google'ın eski mühendisi Soares, yapay zekanın riskleri nedeniyle emeklilik birikimi yapmadığını belirtti",
-   "summary": "ABD'li teknoloji şirketi Google'ın eski mühendisi ve Makine Zekası Araştırma Enstitüsünün (MIRI) Başkanı Nate Soares, yapay zeka nedeniyle insanların \"10 yıl sonra var olmayabileceğini, bu nedenle emeklilik için birikim…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/googlein-eski-muhendisi-soares-yapay-zekanin-riskleri-nedeniyle-emeklilik-birikimi-yapmadigini-belirtti/4105050",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T13:46:05+00:00",
-   "url": "/haber/google-in-eski-muhendisi-soares-yapay-zekanin-riskleri-nedeniyle-emekl-62b8932f/"
-  },
-  {
-   "id": "a5e8f55a",
-   "title": "Dışişleri Bakanı Fidan, Ürdünlü mevkidaşı es-Safedi ile telefonda görüştü",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Ürdün Başbakan Yardımcısı ve Dışişleri Bakanı Eymen es-Safedi ile telefon görüşmesi yaptı.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-urdunlu-mevkidasi-es-safedi-ile-telefonda-gorustu/4105049",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T13:45:49+00:00",
-   "url": "/haber/disisleri-bakani-fidan-urdunlu-mevkidasi-es-safedi-ile-telefonda-gorus-a5e8f55a/"
   },
   {
    "id": "1860b3f0",
@@ -706,28 +739,6 @@
    "url": "/haber/google-play-katlanabilir-telefonlara-ozel-uygulamalari-one-cikaracak-77acf8e9/"
   },
   {
-   "id": "f718498a",
-   "title": "Steam Erişim Engeli 767 Oyuna Ulaştı: 1 Kasım’da Yeni Dönem Başlıyor",
-   "summary": "Türkiye'de Steam erişim engeli getirilen oyun sayfası sayısı 767'ye çıktı. Kararlara rağmen oyunlar Steam'de görünüyor, 1 Kasım'da yeni kurallar başlıyor.",
-   "link": "https://shiftdelete.net/steam-45-oyun-erisim-engeli",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-29T11:55:08+00:00",
-   "url": "/haber/steam-erisim-engeli-767-oyuna-ulasti-1-kasim-da-yeni-donem-basliyor-f718498a/"
-  },
-  {
-   "id": "1b410908",
-   "title": "Yurtta Cumhuriyet coşkusu",
-   "summary": "Cumhuriyet Bayramı tüm yurtta coşkuyla kutlanıyor. Türkiye'nin dört bir yanında vatandaşlar, meydanlarda Cumhuriyet coşkusunu yaşıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-yurtta-cumhuriyet-coskusu-1748495",
-   "image": "https://images.ntv.com.tr/images/AA-20261029-42898429-42898418-DUZCEDE_CUMHURIYETIN_103_YIL_DONUMU_KUTLANIYOR-492265.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-29T11:50:37+00:00",
-   "url": "/haber/yurtta-cumhuriyet-coskusu-1b410908/"
-  },
-  {
    "id": "d5ae1007",
    "title": "Türk Devletleri Teşkilatı Dışişleri Bakanları Konseyi başladı",
    "summary": "Türk Devletleri Teşkilatı'nın (TDT) 13. zirvesi kapsamında Ankara'da gerçekleştirilen Dışişleri Bakanları Konseyi Toplantısı başladı. Toplantıya Dışişleri Bakanı Hakan Fidan ev sahipliği yapıyor.",
@@ -1012,17 +1023,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T07:50:15+00:00",
    "url": "/haber/mini-yuvarlak-ekranlardan-vazgecmiyor-tasarim-devam-edecek-f2a7f90a/"
-  },
-  {
-   "id": "467def58",
-   "title": "Chrome’daki geliştirilmiş otomatik doldurma özelliği artık Gmail’den bilgi çekebiliyor",
-   "summary": "Chrome’daki geliştirilmiş otomatik doldurma özelliği, Gemini altyapısı sayesinde artık açılan formlar için bağlı Gmail hesabından bilgi çekebiliyor. İlk aşamada ABD’deki kullanıcılara sunulan özelliği kullanmak…",
-   "link": "https://www.log.com.tr/chromedaki-gelistirilmis-otomatik-doldurma-ozelligi-artik-gmailden-bilgi-cekebiliyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-29_10-30-59_G6FRe-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-29T07:36:17+00:00",
-   "url": "/haber/chrome-daki-gelistirilmis-otomatik-doldurma-ozelligi-artik-gmail-den-b-467def58/"
   },
   {
    "id": "8bf69f65",
