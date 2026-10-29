@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-29T15:31:04.092967+00:00",
+ "updated": "2026-10-29T16:01:10.176387+00:00",
  "items": [
+  {
+   "id": "34ed29b3",
+   "title": "ASELSAN’ın Oğulbey Teknoloji Üssü’nde İlk Üretim Başladı",
+   "summary": "ASELSAN Genel Müdürü Ahmet Akyol, şirketin 2026 yılı üçüncü çeyrek sonuçlarına ilişkin değerlendirmesinde Oğulbey Teknoloji Üssü’nün ilk fazının faaliyete alındığını ve tesiste ilk üretimin başladığını açıkladı. 2025…",
+   "link": "https://shiftdelete.net/aselsanin-ogulbey-teknoloji-ussunde-ilk-uretim-basladi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-29T16:00:21+00:00",
+   "url": "/haber/aselsan-in-ogulbey-teknoloji-ussu-nde-ilk-uretim-basladi-34ed29b3/"
+  },
+  {
+   "id": "3a32f4e5",
+   "title": "Evrenin neden var olduğunu açıklayabilecek antimadde deneyi",
+   "summary": "Fizikçiler, tek bir antimadde parçacığını aylarca kontrol altında tutmayı başardı. Yeni yöntem, evrende maddenin neden antimaddeden daha fazla olduğunu anlamaya yardımcı olabilir.",
+   "link": "https://www.donanimhaber.com/antimadde-aylarca-hapsedildi-evrenin-sirri-cozulebilir--212229",
+   "image": "https://www.donanimhaber.com/images/images/haber/212229/1200x675antimadde-aylarca-hapsedildi-evrenin-sirri-cozulebilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-29T16:00:00+00:00",
+   "url": "/haber/evrenin-neden-var-oldugunu-aciklayabilecek-antimadde-deneyi-3a32f4e5/"
+  },
+  {
+   "id": "6ecf2423",
+   "title": "Kapadokya'da peribacası çöktü. Üç kişi hayatını kaybetti",
+   "summary": "Kapadokya Göreme Açık Hava Müzesi girişinde peribacası çöktü. Üç kişinin hayatını kaybettiği bildirildi. Yaralı sayısı 5 olarak açıklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-kapadokyada-peribacasi-coktu-uc-kisi-hayatini-kaybetti-1748533",
+   "image": "https://images.ntv.com.tr/images/AA-20261029-42903349-42903348-NEVSEHIRDE_PERIBACASINDAN_KOPAN_KAYA_PARCALARININ_ALTINDA_KALAN_2_KISI_HAYATINI_KAYBETTI-879172.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-29T15:57:51+00:00",
+   "url": "/haber/kapadokya-da-peribacasi-coktu-uc-kisi-hayatini-kaybetti-6ecf2423/"
+  },
+  {
+   "id": "1b0856ae",
+   "title": "Trump, Pentagon Strateji, Planlar ve Politika Direktörü Sylvia'nın \"bilgi sızdırdığını\" söyledi",
+   "summary": "ABD Başkanı Donald Trump, ABD Savunma Bakanlığında (Pentagon) Strateji, Planlar ve Politika Direktörlüğü görevini yürüten Brett Sylvia'nın gizli bilgileri sızdırdığı gerekçesiyle görevden alındığını belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-pentagon-strateji-planlar-ve-politika-direktoru-sylvianin-bilgi-sizdirdigini-soyledi/4105203",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T15:52:12+00:00",
+   "url": "/haber/trump-pentagon-strateji-planlar-ve-politika-direktoru-sylvia-nin-bilgi-1b0856ae/"
+  },
+  {
+   "id": "4e9976c1",
+   "title": "GÖKTÜRK-1 uydusundan Anadolu'daki dağlara işlenen Türk bayrakları ve Atatürk portresi görüntülendi",
+   "summary": "GÖKTÜRK-1 uydusunun objektifinden Anadolu'nun farklı noktalarında yer alan Türk bayrakları ile Gazi Mustafa Kemal Atatürk'ün portresi görüntülendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/gokturk-1-uydusundan-anadoludaki-daglara-islenen-turk-bayraklari-ve-ataturk-portresi-goruntulendi/4105200",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T15:49:14+00:00",
+   "url": "/haber/gokturk-1-uydusundan-anadolu-daki-daglara-islenen-turk-bayraklari-ve-a-4e9976c1/"
+  },
+  {
+   "id": "d1fa4bb1",
+   "title": "Bakan Çiftçi: Türk devletleri arasındaki dayanışmayı güçlendirmekte kararlıyız",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Cumhurbaşkanımız Recep Tayyip Erdoğan'ın öncülüğünde, Türk devletleri arasındaki dayanışmayı güçlendirmeye, ortak güvenlik ve istikrar anlayışımızı geliştirmeye kararlıyız.\" ifadesini…",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-turk-devletleri-arasindaki-dayanismayi-guclendirmekte-kararliyiz/4105197",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T15:41:42+00:00",
+   "url": "/haber/bakan-ciftci-turk-devletleri-arasindaki-dayanismayi-guclendirmekte-kar-d1fa4bb1/"
+  },
+  {
+   "id": "c967503b",
+   "title": "Marmara Denizi'nde batan gemide bulunan cesedin kimliği belli oldu",
+   "summary": "Marmara Denizi'nde batan Tuğberk İmamoğlu isimli gemide yürütülen arama kurtarma çalışmalarında bulunan cesedin kimliği belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/marmara-denizinde-batan-gemide-bulunan-cesedin-kimligi-belli-oldu-1748547",
+   "image": "https://images.ntv.com.tr/images/AW821335_01-945637.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-29T15:34:59+00:00",
+   "url": "/haber/marmara-denizi-nde-batan-gemide-bulunan-cesedin-kimligi-belli-oldu-c967503b/"
+  },
+  {
+   "id": "9b3df1c8",
+   "title": "TDT Zirvesi'ne katılan liderler, Türk Devletleri Medeniyet Parkı'nda fidan dikti",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan ve Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi için Ankara'ya gelen liderler, Türk Devletleri Medeniyet Parkı'nda fidan dikti.",
+   "link": "https://www.aa.com.tr/tr/gundem/tdt-zirvesine-katilan-liderler-turk-devletleri-medeniyet-parkinda-fidan-dikti/4105187",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T15:31:11+00:00",
+   "url": "/haber/tdt-zirvesi-ne-katilan-liderler-turk-devletleri-medeniyet-parki-nda-fi-9b3df1c8/"
+  },
   {
    "id": "a3f4190b",
    "title": "All in One (AIO) Bilgisayar nedir? Nasıl çalışır ve kimler tercih etmeli?",
@@ -13,6 +101,28 @@
    "url": "/haber/all-in-one-aio-bilgisayar-nedir-nasil-calisir-ve-kimler-tercih-etmeli-a3f4190b/"
   },
   {
+   "id": "367fe3c7",
+   "title": "Uluslararası Demokratlar Birliğinden Almanya'ya Türk iş gücü göçünün 65. yılında ırkçılıkla mücadele vurgusu",
+   "summary": "Uluslararası Demokratlar Birliği (UID), Almanya'ya 65 yıl önce çalışmaya gelen birinci kuşağın ülkenin ekonomik kalkınmasına katkılarına dikkati çekerek ırkçılık, aşırı sağcılık ve ayrımcılıkla mücadele çağrısında…",
+   "link": "https://www.aa.com.tr/tr/dunya/uluslararasi-demokratlar-birliginden-almanyaya-turk-is-gucu-gocunun-65-yilinda-irkcilikla-mucadele-vurgusu/4105183",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T15:28:03+00:00",
+   "url": "/haber/uluslararasi-demokratlar-birliginden-almanya-ya-turk-is-gucu-gocunun-6-367fe3c7/"
+  },
+  {
+   "id": "3aae4f8c",
+   "title": "Türk Yıldızları'ndan Cumhuriyet Bayramı'nda Anıtkabir üzerinde saygı uçuşu",
+   "summary": "Türk Hava Kuvvetleri akrobasi timi Türk Yıldızları, 29 Ekim Cumhuriyet Bayramı kapsamında Anıtkabir semalarında saygı uçuşu yaptı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-yildizlarindan-cumhuriyet-bayraminda-anitkabir-uzerinde-saygi-ucusu/4105173",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-29T15:18:24+00:00",
+   "url": "/haber/turk-yildizlari-ndan-cumhuriyet-bayrami-nda-anitkabir-uzerinde-saygi-u-3aae4f8c/"
+  },
+  {
    "id": "45ec4e96",
    "title": "Yeni GTA 6 Oynanış Videosu South Park Bölümünde Yayınlandı",
    "summary": "Rockstar'ın verdiği yeni GTA 6 oynanış videosu South Park'ta yayınlandı. Klipte Jason, Vice City sahilinde bir adamı köpek dışkısı dolu poşetle dövüyor.",
@@ -22,17 +132,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T15:12:14+00:00",
    "url": "/haber/yeni-gta-6-oynanis-videosu-south-park-bolumunde-yayinlandi-45ec4e96/"
-  },
-  {
-   "id": "6ecf2423",
-   "title": "Kapadokya'da peribacası çöktü. Üç kişi hayatını kaybetti",
-   "summary": "Kapadokya Göreme Açık Hava Müzesi girişinde peribacası çöktü. Üç kişinin hayatını kaybettiği bildirildi. Yaralı sayısı 5 olarak açıklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kapadokyada-peribacasi-coktu-uc-kisi-hayatini-kaybetti-1748533",
-   "image": "https://images.ntv.com.tr/images/AA-20261029-42903349-42903348-NEVSEHIRDE_PERIBACASINDAN_KOPAN_KAYA_PARCALARININ_ALTINDA_KALAN_2_KISI_HAYATINI_KAYBETTI-879172.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-29T15:10:03+00:00",
-   "url": "/haber/kapadokya-da-peribacasi-coktu-uc-kisi-hayatini-kaybetti-6ecf2423/"
   },
   {
    "id": "0ebf8360",
@@ -354,17 +453,6 @@
    "url": "/haber/kapadokya-daki-cokme-sonucu-can-kaybi-3-e-cikti-06067d93/"
   },
   {
-   "id": "654f14aa",
-   "title": "İnsan Hakları İzleme Örgütü: Husiler Taiz'deki sivilleri gıda ve ilaçtan mahrum bırakıyor",
-   "summary": "İnsan Hakları İzleme Örgütü (HRW), Yemen'de Husilerin Taiz kentini kuşatarak sivilleri gıda, su ve ilaç gibi temel ihtiyaç maddelerinden mahrum bıraktığını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/insan-haklari-izleme-orgutu-husiler-taizdeki-sivilleri-gida-ve-ilactan-mahrum-birakiyor/4105036",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T13:31:25+00:00",
-   "url": "/haber/insan-haklari-izleme-orgutu-husiler-taiz-deki-sivilleri-gida-ve-ilacta-654f14aa/"
-  },
-  {
    "id": "6d1cfd7e",
    "title": "MacBook'ta dokunmatik deneyim nasıl olacak: İlk videolar geldi",
    "summary": "Apple, MacBook Pro'ya dokunmatik ekran eklemekle kalmadı, parmakla kullanımı kolaylaştırmak adına macOS'teki düğmeler ve menüler üzerinde de birtakım küçük değişiklikler yaptı.",
@@ -385,39 +473,6 @@
    "category": "gundem",
    "date": "2026-10-29T13:22:00+00:00",
    "url": "/haber/turkiye-ile-ozbekistan-arasinda-5-anlasma-imzalandi-6140bc15/"
-  },
-  {
-   "id": "275e539b",
-   "title": "Türkiye ile Özbekistan arasında 5 anlaşma imzalandı",
-   "summary": "Türkiye ile Özbekistan arasında ticaret, sosyal güvenlik ve iş dünyasının desteklenmesine ilişkin anlaşmalar imzalandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-ozbekistan-arasinda-5-anlasma-imzalandi/4105022",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T13:21:52+00:00",
-   "url": "/haber/turkiye-ile-ozbekistan-arasinda-5-anlasma-imzalandi-275e539b/"
-  },
-  {
-   "id": "a039ea1f",
-   "title": "AB, çocukların çevrim içi ortamda korunmasında ulusal kurallar yerine ortak düzenlemeler hedefliyor",
-   "summary": "Avrupa Birliği (AB) Komisyonu, çocukların çevrim içi ortamda korunmasına yönelik ulusal düzenlemeler yerine AB genelinde geçerli ortak kurallar oluşturulmasını hedeflediğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-cocuklarin-cevrim-ici-ortamda-korunmasinda-ulusal-kurallar-yerine-ortak-duzenlemeler-hedefliyor/4105020",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T13:20:53+00:00",
-   "url": "/haber/ab-cocuklarin-cevrim-ici-ortamda-korunmasinda-ulusal-kurallar-yerine-o-a039ea1f/"
-  },
-  {
-   "id": "79650f6e",
-   "title": "ECB yüksek enflasyona rağmen faizleri sabit tuttu",
-   "summary": "Avrupa Merkez Bankası (ECB), Orta Doğu'daki gerilimin tetiklediği enerji krizi ve yükselen fiyat baskılarına rağmen üç temel politika faizini beklentiler doğrultusunda sabit tuttu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ecb-yuksek-enflasyona-ragmen-faizleri-sabit-tuttu/4105014",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T13:19:00+00:00",
-   "url": "/haber/ecb-yuksek-enflasyona-ragmen-faizleri-sabit-tuttu-79650f6e/"
   },
   {
    "id": "b18fb03a",
@@ -629,17 +684,6 @@
    "url": "/haber/iphone-air-2-ozellikleri-sizdirildi-daha-buyuk-batarya-ve-cift-kamera-a3da386a/"
   },
   {
-   "id": "2e7750b4",
-   "title": "Çaykur Rizespor'da hedef Kocaelispor maçıyla çıkışa geçmek",
-   "summary": "Trendyol Süper Lig'in 10. haftasında 31 Ekim Cumartesi günü deplasmanda Kocaelispor ile karşılaşacak Çaykur Rizespor'un kaptanı Taylan Antalyalı, maçı kazanarak çıkışa geçmek istediklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/caykur-rizesporda-hedef-kocaelispor-maciyla-cikisa-gecmek/4104915",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T12:01:06+00:00",
-   "url": "/haber/caykur-rizespor-da-hedef-kocaelispor-maciyla-cikisa-gecmek-2e7750b4/"
-  },
-  {
    "id": "06e8a2a1",
    "title": "Google Photos Uygulamasına Yeni Kişiselleştirme Özellikleri Eklendi",
    "summary": "Google Photos uygulaması, iOS ve Android için yeni kişiselleştirme özelliklerine kavuştu. İşte uygulamanın kullanıcı deneyimini iyileştiren son güncellemeler hakkındaki detaylar.",
@@ -682,28 +726,6 @@
    "category": "gundem",
    "date": "2026-10-29T11:50:37+00:00",
    "url": "/haber/yurtta-cumhuriyet-coskusu-1b410908/"
-  },
-  {
-   "id": "7457442f",
-   "title": "2 şehirde turuncu, 17 şehirde sarı kodlu alarm: Önümüzdeki 4 saate dikkat!",
-   "summary": "Bugün birçok ilde yağışlı hava etkili oluyor. İki şehir için turuncu, 17 şehir için sarı kodlu uyarı yapıldı. Meteoroloji, şiddetli yağmurun devam ettiği Antalya'yı önümüzdeki 4 saat için uyardı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-2-sehirde-turuncu-17-sehirde-sari-kodlu-alarm-onumuzdeki-4-saate-dikkat-1748494",
-   "image": "https://images.ntv.com.tr/images/yagmur-geliyor-2-170358.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-29T11:44:11+00:00",
-   "url": "/haber/2-sehirde-turuncu-17-sehirde-sari-kodlu-alarm-onumuzdeki-4-saate-dikka-7457442f/"
-  },
-  {
-   "id": "d32536b9",
-   "title": "Samsung 2026 Üçüncü Çeyrekte Yapay Zeka ile Rekor Kırdı",
-   "summary": "Samsung, 2026 üçüncü çeyrekte yapay zeka bellek talebiyle rekor kar açıkladı. Mobil bölümdeki kayıplara rağmen şirket, tarihinin en yüksek gelirine ulaştı.",
-   "link": "https://shiftdelete.net/samsung-2026-ucuncu-ceyrekte-yapay-zeka-ile-rekor-kirdi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-29T11:30:56+00:00",
-   "url": "/haber/samsung-2026-ucuncu-ceyrekte-yapay-zeka-ile-rekor-kirdi-d32536b9/"
   },
   {
    "id": "d5ae1007",
@@ -1135,17 +1157,6 @@
    "url": "/haber/turkiye-cumhuriyeti-103-yasinda-2953e94a/"
   },
   {
-   "id": "ae3c1bee",
-   "title": "Nvidia, RTX 50 serisindeki siyah ekran sorununu çözüyor",
-   "summary": "Nvidia, GeForce 621.12 Hotfix sürücüsünü yayınladı. Yeni güncelleme, RTX 50 serisi ekran kartlarında video oynatırken yaşanan donma ve siyah ekran sorunlarını gideriyor.",
-   "link": "https://www.donanimhaber.com/nvidia-rtx-50-serisindeki-siyah-ekran-sorununu-cozuyor--212193",
-   "image": "https://www.donanimhaber.com/images/images/haber/212193/1200x675nvidia-rtx-50-serisindeki-siyah-ekran-sorununu-cozuyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-28T20:55:00+00:00",
-   "url": "/haber/nvidia-rtx-50-serisindeki-siyah-ekran-sorununu-cozuyor-ae3c1bee/"
-  },
-  {
    "id": "78df9041",
    "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
    "summary": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü. Görüşmede, Türkiye-ABD ikili ilişkileri ile bölgesel ve küresel gelişmeler ele alındı.",
@@ -1199,17 +1210,6 @@
    "category": "gundem",
    "date": "2026-10-28T14:22:00+00:00",
    "url": "/haber/turkiye-ve-2-ulkeden-karadeniz-deki-ticari-gemi-saldirilarina-ortak-te-1fb78324/"
-  },
-  {
-   "id": "83c90d3a",
-   "title": "BM yetkilisi Bazergan, Yemen'de artan gerilimin taraflar arasındaki güveni zayıflattığını söyledi",
-   "summary": "Birleşmiş Milletler (BM) Yemen Özel Temsilciliği Ofisi Siyasi İşler Şefi Roxanneh Yelena Bazergan, Yemen'de ve bölgede artan askeri gerilimin barış müzakerelerini zorlaştırdığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-yetkilisi-bazergan-yemende-artan-gerilimin-taraflar-arasindaki-guveni-zayiflattigini-soyledi/4103415",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-28T08:06:15+00:00",
-   "url": "/haber/bm-yetkilisi-bazergan-yemen-de-artan-gerilimin-taraflar-arasindaki-guv-83c90d3a/"
   },
   {
    "id": "01c744d2",
