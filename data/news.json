@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-30T22:01:10.157921+00:00",
+ "updated": "2026-10-30T22:31:00.323484+00:00",
  "items": [
+  {
+   "id": "a0d2bea5",
+   "title": "Zelenski Türkiye'ye geliyor: Cumhurbaşkanı Erdoğan ile görüşecek",
+   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine bugün Türkiye'ye gelecek.",
+   "link": "https://www.ntv.com.tr/turkiye/zelenski-turkiyeye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-1748678",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_aaab722f2dbd8e8e1463a0fdcfe4de1d_20261030141324-582002.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-30T22:08:44+00:00",
+   "url": "/haber/zelenski-turkiye-ye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-a0d2bea5/"
+  },
   {
    "id": "13e396cc",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 31 Ekim 2026",
@@ -88,6 +99,17 @@
    "category": "teknoloji",
    "date": "2026-10-30T21:04:49+00:00",
    "url": "/haber/project-suncatcher-uydusu-uzaydan-ilk-yanitini-dunya-ya-gonderdi-3f7a3846/"
+  },
+  {
+   "id": "690c6f5c",
+   "title": "Trump, Binance'e yönelik siber saldırıyı incelediklerini bildirdi",
+   "summary": "ABD Başkanı Donald Trump, kripto para borsası Binance'e yönelik siber saldırının Kuzey Koreli bir hacker grubu tarafından gerçekleştirilip gerçekleştirilmediğini bilmediklerini, saldırıyı incelediklerini belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-binancee-yonelik-siber-saldiriyi-incelediklerini-bildirdi-961776.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1606000/binance-reuters-1607549.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-30T21:03:00+00:00",
+   "url": "/haber/trump-binance-e-yonelik-siber-saldiriyi-incelediklerini-bildirdi-690c6f5c/"
   },
   {
    "id": "8873e4c5",
@@ -464,17 +486,6 @@
    "url": "/haber/volkswagen-elektrikli-golf-projesini-askiya-aldi-takvim-kayiyor-411a9209/"
   },
   {
-   "id": "f613e340",
-   "title": "Zelenski yarın Türkiye'ye geliyor: Cumhurbaşkanı Erdoğan ile görüşecek",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine yarın Türkiye'ye gelecek.",
-   "link": "https://www.ntv.com.tr/turkiye/zelenski-yarin-turkiyeye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-1748678",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_aaab722f2dbd8e8e1463a0fdcfe4de1d_20261030141324-582002.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T18:50:47+00:00",
-   "url": "/haber/zelenski-yarin-turkiye-ye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-f613e340/"
-  },
-  {
    "id": "d54728f9",
    "title": "GitHub çöktü mü? Webhooks, Actions ve Pages Hizmetlerinde Sorun Var",
    "summary": "GitHub çöktü mü sorusunun yanıtı evet: platform, hizmetlerinde performans düşüşü yaşandığını doğruladı. Webhooks, Actions ve Pages tarafında aksama var, diğer servisler ise normal görünüyor.",
@@ -572,6 +583,17 @@
    "category": "teknoloji",
    "date": "2026-10-30T17:40:00+00:00",
    "url": "/haber/yapay-zeka-veri-merkezleri-abd-nin-karbon-salimini-patlatabilir-5e3e3511/"
+  },
+  {
+   "id": "de924745",
+   "title": "Dışişleri Bakanı Fidan'dan ABD'de diplomasi trafiği",
+   "summary": "Dışişleri Bakanı Hakan Fidan, G20 Dışişleri Bakanları Toplantısı için gittiği ABD'nin Atlanta kentinde diplomatik temaslarda bulundu.",
+   "link": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidandan-abdde-diplomasi-trafigi-961765.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/hakan-fidan-g20-aa-2500004.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-30T17:39:00+00:00",
+   "url": "/haber/disisleri-bakani-fidan-dan-abd-de-diplomasi-trafigi-de924745/"
   },
   {
    "id": "6dbd65e6",
@@ -1045,28 +1067,6 @@
    "category": "gundem",
    "date": "2026-10-30T00:14:01+00:00",
    "url": "/haber/31-mart-yerel-secimlerinden-bugune-istanbul-un-belediye-dagilimi-nasil-ca1d315d/"
-  },
-  {
-   "id": "c600a639",
-   "title": "Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi",
-   "summary": "Rusya Devlet Başkanı Vladimir Putin, Avrupa ile savaş istemediklerini ancak böyle bir çatışmaya hazır olduklarını belirterek, olası bir savaşta kazanan olmayacağı uyarısında bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/putin-avrupa-ile-olasi-savasta-kazanan-olmayacagini-soyledi-961669.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1792000/ab-rusya-silah-1792543.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-29T18:54:00+00:00",
-   "url": "/haber/putin-avrupa-ile-olasi-savasta-kazanan-olmayacagini-soyledi-c600a639/"
-  },
-  {
-   "id": "01bcc747",
-   "title": "GÖKTÜRK1'in objektifinden Anadolu görüntüleri",
-   "summary": "GÖKTÜRK-1 uydusunun objektifinden Anadolu'nun farklı noktalarında yer alan Türk bayrakları ile Gazi Mustafa Kemal Atatürk'ün portresi görüntülendi.",
-   "link": "https://www.trthaber.com/haber/gundem/gokturk-1in-objektifinden-anadolu-goruntuleri-961657.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/harput-aa-2499673.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-29T15:50:00+00:00",
-   "url": "/haber/gokturk1-in-objektifinden-anadolu-goruntuleri-01bcc747/"
   },
   {
    "id": "b18fb03a",
