@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T06:30:57.890586+00:00",
+ "updated": "2026-10-30T07:01:11.523151+00:00",
  "items": [
   {
    "id": "5f175d5e",
@@ -9,8 +9,129 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-30T06:30:00+00:00",
+   "date": "2026-10-30T07:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-5f175d5e/"
+  },
+  {
+   "id": "714af932",
+   "title": "WhatsApp, grup sohbetlerine yönelik yeniliklerini paylaştı",
+   "summary": "WhatsApp tarafından yapılan resmi açıklamada, “Yoğun bir grup sohbeti, planların yapıldığı, haberlerin paylaşıldığı ve şakaların hiç bitmediği anlamına gelir. Ama bu, meşgul olduğunuzda takip etmeniz gereken birçok…",
+   "link": "https://www.log.com.tr/whatsapp-grup-sohbetlerine-yonelik-yeniliklerini-paylasti/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-30_09-47-08_NNBqH-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:54:36+00:00",
+   "url": "/haber/whatsapp-grup-sohbetlerine-yonelik-yeniliklerini-paylasti-714af932/"
+  },
+  {
+   "id": "cb6b034c",
+   "title": "Basketbolda haftanın programı",
+   "summary": "Türkiye Sigorta Basketbol Süper Ligi ve Halkbank Kadınlar Basketbol Süper Ligi'ne 6, Türkiye Sigorta Türkiye Basketbol Ligi'ne ise 9. hafta maçlarıyla devam edilecek.",
+   "link": "https://www.aa.com.tr/tr/spor/basketbolda-haftanin-programi/4105630",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T06:53:35+00:00",
+   "url": "/haber/basketbolda-haftanin-programi-cb6b034c/"
+  },
+  {
+   "id": "284be6ce",
+   "title": "Google AI Mode Reklamları Genişliyor, Hisseler Sert Düştü",
+   "summary": "Google, yapay zekâ destekli Google AI Mode için reklam kapsamını genişletiyor. Şirket bu modun geleneksel aramaya göre daha az gelir getirdiğini kabul etti; hisseler sert düştü.",
+   "link": "https://shiftdelete.net/google-ai-mode-reklamlar-hisse-dususu",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:52:58+00:00",
+   "url": "/haber/google-ai-mode-reklamlari-genisliyor-hisseler-sert-dustu-284be6ce/"
+  },
+  {
+   "id": "a7f7e058",
+   "title": "Doğuş Otomotiv ile Volkswagen arasında Türkiye'de üretim için niyet mektubu imzalandı",
+   "summary": "Doğuş Otomotiv, Volkswagen ile markanın binek otomobillerinin Türkiye'de üretim seçeneklerinin değerlendirilmesine ilişkin niyet mektubu imzaladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/dogus-otomotiv-ile-volkswagen-arasinda-turkiyede-uretim-icin-niyet-mektubu-imzalandi/4105629",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T06:52:39+00:00",
+   "url": "/haber/dogus-otomotiv-ile-volkswagen-arasinda-turkiye-de-uretim-icin-niyet-me-a7f7e058/"
+  },
+  {
+   "id": "5b9de633",
+   "title": "Doğuş Otomotiv, Volkswagen marka binek otomobillerin Türkiye’de üretilebilmesine yönelik seçeneklerin değerlendirilmesi amacıyla bir niyet mektubu imzaladı",
+   "summary": "Bu konuda Doğuş Otomotiv tarafından KAP’a yapılan resmi bildirimde, “Şirketimiz ile Volkswagen Grup Şirketleri arasında Volkswagen Binek Marka Otomobillerin Türkiye’de üretilebilmesi seçeneklerinin değerlendirilmesine…",
+   "link": "https://www.log.com.tr/dogus-otomotiv-volkswagen-marka-binek-otomobillerin-turkiyede-uretilebilmesi-seceneklerinin-degerlendirilmesine-iliskin-niyet-mektubu-imzaladi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2025/11/volkswagen-golf-front-quarter-tracking-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:44:05+00:00",
+   "url": "/haber/dogus-otomotiv-volkswagen-marka-binek-otomobillerin-turkiye-de-uretile-5b9de633/"
+  },
+  {
+   "id": "53f8b658",
+   "title": "Android 17 QPR3 Beta 3 Yayında – Yenilikler ve Düzeltmeler",
+   "summary": "Google, Pixel cihazlar için Android 17 QPR3 Beta 3 sürümünü yayınladı. Güncelleme kilit ekranı bulanıklığını, kamera hızlı ayar karosunu ve uygulama kilidini geri getirirken onlarca hatayı da düzeltiyor.",
+   "link": "https://shiftdelete.net/android-17-qpr3-beta-3-yenilikler-neler",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:42:58+00:00",
+   "url": "/haber/android-17-qpr3-beta-3-yayinda-yenilikler-ve-duzeltmeler-53f8b658/"
+  },
+  {
+   "id": "ae617d62",
+   "title": "Sarıgül soruşturmasında yeni dalga. 11 kişi için yeni gözaltı kararı",
+   "summary": "Sarıgül soruşturması genişliyor. Aralarında kamp görevlisi, yakın koruma, erkek berberinin de bulunduğu 8 kişi adliyeye sevk edilirken 11 şüpheli hakkında daha gözaltı kararı verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-yeni-dalga-11-kisi-icin-yeni-gozalti-karari-1748585",
+   "image": "https://images.ntv.com.tr/images/mustafasarıgül-694720.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-30T06:41:45+00:00",
+   "url": "/haber/sarigul-sorusturmasinda-yeni-dalga-11-kisi-icin-yeni-gozalti-karari-ae617d62/"
+  },
+  {
+   "id": "19311f2f",
+   "title": "Çin’in gizemli uzay uçağı yörüngede görüntülendi",
+   "summary": "Çin’in gizemli uzay uçağı, bu kez Vantor (eski adıyla Maxar Technologies) tarafından işletilen bir uydunun çektiği fotoğrafla gündemde. 2024 yılında çekilen ancak ABD Savunma İstihbarat Teşkilatı (DIA) tarafından kısa…",
+   "link": "https://www.log.com.tr/cinin-gizemli-uzay-ucagi-yorungede-goruntulendi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-30_09-30-17_Gbden-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:40:08+00:00",
+   "url": "/haber/cin-in-gizemli-uzay-ucagi-yorungede-goruntulendi-19311f2f/"
+  },
+  {
+   "id": "67a7db97",
+   "title": "ABD'de iki helikopterin çarpışması sonucu 3 kişi hayatını kaybetti",
+   "summary": "ABD'nin Oregon eyaletinde iki helikopterin çarpışması sonucu 3 kişinin hayatını kaybettiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-iki-helikopterin-carpismasi-sonucu-3-kisi-hayatini-kaybetti/4105622",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T06:34:26+00:00",
+   "url": "/haber/abd-de-iki-helikopterin-carpismasi-sonucu-3-kisi-hayatini-kaybetti-67a7db97/"
+  },
+  {
+   "id": "99048ad1",
+   "title": "Galaxy W27 Tanıtıldı – Samsung’un Çin’e Özel Katlanabilir Telefonu",
+   "summary": "Samsung, Çin'e özel katlanabilir telefonu Galaxy W27'yi tanıttı. Fold 8 Ultra ile aynı donanımı taşıyan model, altın detayları ve 16 GB RAM'iyle ayrışıyor; fiyatı 18.999 CNY'den başlıyor.",
+   "link": "https://shiftdelete.net/galaxy-w27-cine-ozel-katlanabilir-samsung",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:32:58+00:00",
+   "url": "/haber/galaxy-w27-tanitildi-samsung-un-cin-e-ozel-katlanabilir-telefonu-99048ad1/"
+  },
+  {
+   "id": "30b9ba5f",
+   "title": "FETÖ'nün güncel yapılanmasına operasyon: 13 milyon lira değerinde döviz ve altın ele geçirildi",
+   "summary": "Fetullahçı Terör Örgütü'nün güncel yapılanmasına yönelik operasyonda 10 şüpheli gözaltına alındı. Operasyonda yaklaşık 13 milyon lira değerinde nakit para ve altın ele geçirildi.",
+   "link": "https://www.ntv.com.tr/turkiye/fetonun-guncel-yapilanmasina-operasyon-13-milyon-lira-degerinde-doviz-ve-altin-ele-gecirildi-1748588",
+   "image": "https://images.ntv.com.tr/images/fetö-operasyonu-54-208723.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-30T06:32:53+00:00",
+   "url": "/haber/feto-nun-guncel-yapilanmasina-operasyon-13-milyon-lira-degerinde-doviz-30b9ba5f/"
   },
   {
    "id": "be637151",
@@ -22,6 +143,17 @@
    "category": "teknoloji",
    "date": "2026-10-30T06:28:53+00:00",
    "url": "/haber/windows-11-artik-bulut-uzerinden-sifirdan-yeniden-kurulabiliyor-be637151/"
+  },
+  {
+   "id": "141b1d4d",
+   "title": "Futbolda haftanın programı",
+   "summary": "Futbolda Trendyol Süper Lig'de 10, Trendyol 1. Lig'de 13, Nesine 2. Lig, Nesine 3. Lig ve Suwen Kadın Futbol Süper Ligi'nde ise 9. hafta karşılaşmaları oynanacak.",
+   "link": "https://www.aa.com.tr/tr/spor/futbolda-haftanin-programi/4105619",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T06:28:48+00:00",
+   "url": "/haber/futbolda-haftanin-programi-141b1d4d/"
   },
   {
    "id": "bc104638",
@@ -66,17 +198,6 @@
    "category": "gundem",
    "date": "2026-10-30T06:22:03+00:00",
    "url": "/haber/binance-siber-saldirinin-toplam-etkisinin-6-3-milyar-dolari-bulabilece-7700486d/"
-  },
-  {
-   "id": "ae617d62",
-   "title": "Sarıgül soruşturmasında yeni dalga. 11 kişi için yeni gözaltı kararı",
-   "summary": "Sarıgül soruşturması genişliyor. Aralarında kamp görevlisi, yakın koruma, erkek berberinin de bulunduğu 8 kişi adliyeye sevk edilirken 11 şüpheli hakkında daha gözaltı kararı verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-yeni-dalga-11-kisi-icin-yeni-gozalti-karari-1748585",
-   "image": "https://images.ntv.com.tr/images/mustafasarıgül-694720.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T06:21:41+00:00",
-   "url": "/haber/sarigul-sorusturmasinda-yeni-dalga-11-kisi-icin-yeni-gozalti-karari-ae617d62/"
   },
   {
    "id": "943b5261",
@@ -420,17 +541,6 @@
    "url": "/haber/instagram-features-testte-90-dakikalik-videoya-gelir-yok-b4601559/"
   },
   {
-   "id": "df608991",
-   "title": "OnePlus Ace 7 ve Ace 7 Pro Tanıtıldı: 185Hz Ekran, 9000mAh Pil",
-   "summary": "OnePlus Ace 7 serisi iki modelle geldi: Ace 7 ve Ace 7 Pro. 6,78 inç 185Hz ekran, 9000mAh pil ve aktif soğutma sistemi sunan telefonlar Çin'de şimdiden satışa çıktı.",
-   "link": "https://shiftdelete.net/oneplus-ace-7-ve-ace-7-pro-tanitildi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T04:23:13+00:00",
-   "url": "/haber/oneplus-ace-7-ve-ace-7-pro-tanitildi-185hz-ekran-9000mah-pil-df608991/"
-  },
-  {
    "id": "2757660e",
    "title": "Dünyanın gözü Türkiye'de: COP31 için geri sayım başladı",
    "summary": "Gezegenin geleceğini belirleyecek en kritik virajlardan biri olan Birleşmiş Milletler İklim Değişikliği Konferansı (COP31), Türkiye’nin ev sahipliğinde gerçekleşecek. Akdeniz’in incisi Antalya, 9–20 Kasım 2026 tarihleri…",
@@ -552,17 +662,6 @@
    "url": "/haber/binance-borsasina-inanilmaz-saldiri-5-8-milyar-dolar-calindi-25ba5ceb/"
   },
   {
-   "id": "ed1f0ab6",
-   "title": "İran basını: Keşm Adası yakınlarında \"düşman\" savaş uçağı engellendi",
-   "summary": "İran'ın Hürmüzgan eyaletine bağlı Keşm Adası yakınlarında bir savaş uçağının Devrim Muhafızları Ordusu Hava-Uzay Kuvvetleri Komutanlığı'na bağlı unsurlar tarafından engellendiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasi-yakinlarinda-dusman-savas-ucagi-engellendi/4105541",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T22:04:05+00:00",
-   "url": "/haber/iran-basini-kesm-adasi-yakinlarinda-dusman-savas-ucagi-engellendi-ed1f0ab6/"
-  },
-  {
    "id": "c42248be",
    "title": "Yapay zeka çiplerindeki bellek darboğazını Z2RAM teknolojisi çözebilir",
    "summary": "Eski Intel CEO’su Pat Gelsinger’ın desteklediği Z2RAM, SRAM hızını DRAM yoğunluğuyla birleştirmeyi hedefliyor. Yeni teknoloji, yapay zekanın oluşturduğu bellek kıtlığına çözüm sunabilir.",
@@ -572,61 +671,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T22:01:23+00:00",
    "url": "/haber/yapay-zeka-ciplerindeki-bellek-darbogazini-z2ram-teknolojisi-cozebilir-c42248be/"
-  },
-  {
-   "id": "2296644c",
-   "title": "Binance olası güvenlik sorununa ilişkin iddiaları araştırdığını bildirdi",
-   "summary": "Kripto para borsası Binance, olası bir güvenlik sorununa ilişkin bildirimleri araştırdığını belirterek, kullanıcı fonlarının güvende olduğunu açıkladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/binance-olasi-guvenlik-sorununa-iliskin-iddialari-arastirdigini-bildirdi/4105538",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T22:01:07+00:00",
-   "url": "/haber/binance-olasi-guvenlik-sorununa-iliskin-iddialari-arastirdigini-bildir-2296644c/"
-  },
-  {
-   "id": "c3f0dc41",
-   "title": "Sony’den Gece Çekimleriyle Öne Çıkan Yeni Sensör: 50 Megapiksel",
-   "summary": "Sony LYTIA 720 özellikleri ile gece çekimlerinde gürültüyü %50 azaltıyor. Yeni 50 MP sensörün detayları ve teknik kapasitesi haberimizde.",
-   "link": "https://shiftdelete.net/sony-lytia-720-ozellikleri",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-29T22:00:13+00:00",
-   "url": "/haber/sony-den-gece-cekimleriyle-one-cikan-yeni-sensor-50-megapiksel-c3f0dc41/"
-  },
-  {
-   "id": "e0d96e1f",
-   "title": "ABD'den İsrail'e son 24 saatte en az 10 askeri nakliye uçağının indiği iddia edildi",
-   "summary": "ABD'nin, İsrail'deki seçimlerin ardından Orta Doğu'ya ve İsrail'e askeri bir hava köprüsü operasyonu başlattığı öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdden-israile-son-24-saatte-en-az-10-askeri-nakliye-ucaginin-indigi-iddia-edildi/4105536",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T21:58:07+00:00",
-   "url": "/haber/abd-den-israil-e-son-24-saatte-en-az-10-askeri-nakliye-ucaginin-indigi-e0d96e1f/"
-  },
-  {
-   "id": "b3955cfe",
-   "title": "Binance Hacklendi mi? Cüzdanlardan Milyarlarca Dolar Çıktı",
-   "summary": "Binance hacklendi mi? 29 Ekim gecesi Binance cüzdanlarından 2 milyar doları aşan kripto çıktı. Binance fonların güvende olduğunu ve incelediğini açıkladı.",
-   "link": "https://shiftdelete.net/binance-hacklendi-mi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-29T21:47:52+00:00",
-   "url": "/haber/binance-hacklendi-mi-cuzdanlardan-milyarlarca-dolar-cikti-b3955cfe/"
-  },
-  {
-   "id": "e855d211",
-   "title": "BM, Gazze'deki deposunun İsrail hava saldırılarında hasar gördüğünü belirtti",
-   "summary": "Birleşmiş Milletler (BM), ateşkese rağmen İsrail'in Gazze'deki saldırılarının sürdüğünü ve bugün BM'ye ait bir deponun bu saldırılarda hasar gördüğünü bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-gazzedeki-deposunun-israil-hava-saldirilarinda-hasar-gordugunu-belirtti/4105515",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T21:03:57+00:00",
-   "url": "/haber/bm-gazze-deki-deposunun-israil-hava-saldirilarinda-hasar-gordugunu-bel-e855d211/"
   },
   {
    "id": "cc63f611",
@@ -871,17 +915,6 @@
    "url": "/haber/all-in-one-aio-bilgisayar-nedir-nasil-calisir-ve-kimler-tercih-etmeli-a3f4190b/"
   },
   {
-   "id": "0ebf8360",
-   "title": "Epic Games Store, yeni oyun hediyesini duyurdu [29 Ekim]",
-   "summary": "Epic Games Store, oyun hediyelerine hız kesmeden devam ediyor. Şirketin bugün ücretsiz olarak verdiği oyun “Sorry We’re Closed” oldu. Yapım için şu açıklama yapıldı: “Sorry We’re Closed zengin bir anlatı, derin…",
-   "link": "https://www.log.com.tr/epic-games-store-yeni-oyun-hediyesini-duyurdu-29-ekim/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/09/epic-games-store-yeni-oyun-hediyelerini-duyurdu-17-eylul-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-29T15:02:01+00:00",
-   "url": "/haber/epic-games-store-yeni-oyun-hediyesini-duyurdu-29-ekim-0ebf8360/"
-  },
-  {
    "id": "beec0347",
    "title": "Elektrikli Otomobillerde Menzili Artırmak için Büyük Batarya mı Hızlı Şarj mı?",
    "summary": "Elektrikli araçlarda devasa bataryalarla menzili artırmak ağırlık ve maliyet baskısı nedeniyle enerji verimliliğini düşüren bir yöntem olmasıyla pek mantıklı olamıyor.",
@@ -902,17 +935,6 @@
    "category": "gundem",
    "date": "2026-10-29T14:58:22+00:00",
    "url": "/haber/cumhurbaskani-erdogan-ozbekistan-cumhurbaskani-mirziyoyev-ile-gorustu-0174a359/"
-  },
-  {
-   "id": "a7ef12a1",
-   "title": "Üç bakanlık, tır sürücülerinin Schengen vizesi sorunu için devrede",
-   "summary": "Ticaret, Dışişleri ve Ulaştırma bakanlıkları, tır sürücülerinin Schengen vizesi sorunlarını yakından takip ediyor. Konuyla ilgili diplomatik girişimler sürüyor.",
-   "link": "https://www.ntv.com.tr/turkiye/uc-bakanlik-tir-suruculerinin-schengen-vizesi-sorunu-icin-devrede-1748544",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_75c17ee81692e1bac2570f567da2bb25-426909.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-29T14:34:00+00:00",
-   "url": "/haber/uc-bakanlik-tir-suruculerinin-schengen-vizesi-sorunu-icin-devrede-a7ef12a1/"
   },
   {
    "id": "599fa173",
@@ -970,17 +992,6 @@
    "url": "/haber/windows-11-kb5127936-guncellemesi-yayimlandi-41-degisiklik-06959a84/"
   },
   {
-   "id": "f53c8cc2",
-   "title": "Microsoft, Copilot’un akıllı TV desteğini sona erdiriyor",
-   "summary": "Microsoft tarafından TV’lere özel hazırlanan Copilot uygulaması, 2025 yılında LG’nin webOS TV’lerine gelmeye başlamıştı. Hatta uygulamanın bazı cihazlara otomatik olarak eklenmesi, birçok LG televizyon sahibinin…",
-   "link": "https://www.log.com.tr/microsoft-copilotun-akilli-tv-destegini-sona-erdiriyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-29_15-49-43_kFceQ-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-29T12:51:03+00:00",
-   "url": "/haber/microsoft-copilot-un-akilli-tv-destegini-sona-erdiriyor-f53c8cc2/"
-  },
-  {
    "id": "ebeed0c9",
    "title": "Nevşehir'de peribacası çöktü: 3 ölü",
    "summary": "Nevşehir'in Göreme beldesinde peribacasının çökmesi sonucu 3 kişinin hayatını kaybetti, 5 kişi yaralandı.",
@@ -1001,17 +1012,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T12:44:24+00:00",
    "url": "/haber/samsung-w27-tanitildi-tasarimi-ve-ozellikleri-3475fc86/"
-  },
-  {
-   "id": "db527150",
-   "title": "GTA 6 için South Park’ta çok kısa bir oynanış videosu paylaşıldı",
-   "summary": "Son South Park bölümünde, resmi olarak 19 Kasım’da çıkacak GTA 6 içerisinde kayıt altına alınan çok kısa bir oynanış videosu da yer aldı. Rockstar Games tarafından doğrulanan videoda, plajda tuvaletini yapan bir köpek…",
-   "link": "https://www.log.com.tr/gta-6-icin-south-parkta-cok-kisa-bir-oynanis-videosu-paylasildi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-29_15-38-03_sDvnQ-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-29T12:44:08+00:00",
-   "url": "/haber/gta-6-icin-south-park-ta-cok-kisa-bir-oynanis-videosu-paylasildi-db527150/"
   },
   {
    "id": "b1821632",
