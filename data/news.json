@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-30T21:01:13.531287+00:00",
+ "updated": "2026-10-30T21:31:03.089754+00:00",
  "items": [
+  {
+   "id": "9b18a5ff",
+   "title": "Samsung, Xiaomi, OnePlus ve diğer markalarda Android 17 takvimi açıklandı",
+   "summary": "Android 17 güncellemesi Google Pixel modellerinin ardından Samsung, Xiaomi, OnePlus ve diğer markaların telefonlarına da geliyor. İşte markalara göre güncelleme takvimi ve desteklenen modeller...",
+   "link": "https://www.donanimhaber.com/android-17-hangi-telefonlara-ne-zaman-gelecek-iste-liste--212258",
+   "image": "https://www.donanimhaber.com/images/images/haber/212258/1200x675android-17-hangi-telefonlara-ne-zaman-gelecek-iste-liste.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-30T21:30:00+00:00",
+   "url": "/haber/samsung-xiaomi-oneplus-ve-diger-markalarda-android-17-takvimi-acikland-9b18a5ff/"
+  },
   {
    "id": "13e396cc",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 31 Ekim 2026",
@@ -9,8 +20,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-30T21:00:00+00:00",
+   "date": "2026-10-30T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13e396cc/"
+  },
+  {
+   "id": "62be3443",
+   "title": "Hamile kızını ve erkek arkadaşını öldürdü",
+   "summary": "Ankara'nın Mamak ilçesinde bir kişi, hamile kızını ve kızının beraber yaşadığı erkek arkadaşını öldürdü.",
+   "link": "https://www.ntv.com.tr/turkiye/hamile-kizini-ve-erkek-arkadasini-oldurdu-1748704",
+   "image": "https://images.ntv.com.tr/images/HAMILE-KIZINI-VE-BIRLIKTE-YASADIGI-ERKEK_1583614_470920-104233.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-30T21:25:01+00:00",
+   "url": "/haber/hamile-kizini-ve-erkek-arkadasini-oldurdu-62be3443/"
+  },
+  {
+   "id": "e93d1736",
+   "title": "Chrome Ctrl F Aramasına Büyük-Küçük Harf Ayrımı ve Yeni Oklar Geliyor",
+   "summary": "Google, Chrome Ctrl F aramasını iki yenilikle geliştiriyor. Büyük/küçük harf ayrımı yapan bir düğme ve ekranda görünen sonuçları atlayan oklar Canary sürümünde test ediliyor.",
+   "link": "https://shiftdelete.net/chrome-ctrl-f-buyuk-kucuk-harf-ayrimi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T21:14:49+00:00",
+   "url": "/haber/chrome-ctrl-f-aramasina-buyuk-kucuk-harf-ayrimi-ve-yeni-oklar-geliyor-e93d1736/"
+  },
+  {
+   "id": "7151efb7",
+   "title": "Samsung CSOT Hissesi Devralındı: 892 Milyon Dolarlık Hamle",
+   "summary": "Samsung Electronics, Samsung Display'in CSOT'taki yüzde 10,16'lık payını devraldı. Samsung CSOT hissesi için yaklaşık 892 milyon dolar ödeniyor; amaç LCD panel tedarikinde güçlü durmak.",
+   "link": "https://shiftdelete.net/samsung-csot-hissesi-electronics-892-milyon-dolar",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T21:09:49+00:00",
+   "url": "/haber/samsung-csot-hissesi-devralindi-892-milyon-dolarlik-hamle-7151efb7/"
+  },
+  {
+   "id": "3f7a3846",
+   "title": "Project Suncatcher Uydusu Uzaydan İlk Yanıtını Dünya’ya Gönderdi",
+   "summary": "Google'ın yapay zekâ çipli uydusu uzaydan ilk yanıtını gönderdi. Project Suncatcher kapsamındaki uydu, Gemma 4 modeliyle uzay temalı bir haiku üretti. Sırada ısı ve radyasyon testleri var.",
+   "link": "https://shiftdelete.net/project-suncatcher-uydusu-uzaydan-ilk-yaniti-gonderdi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T21:04:49+00:00",
+   "url": "/haber/project-suncatcher-uydusu-uzaydan-ilk-yanitini-dunya-ya-gonderdi-3f7a3846/"
+  },
+  {
+   "id": "8873e4c5",
+   "title": "Bakan Fidan'dan G20 zirvesinde diplomasi trafiği",
+   "summary": "Dışişleri Bakanı Hakan Fidan, G20 Dışişleri Bakanları Toplantısı kapsamında ABD'li ve Almanyalı mevkidaşlarıyla görüştü.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-fidan-abdli-mevkidasi-rubio-ile-gorustu-1748700",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_9f6bee7193ab0544bf5f677d79400fe9-753769.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-30T21:02:18+00:00",
+   "url": "/haber/bakan-fidan-dan-g20-zirvesinde-diplomasi-trafigi-8873e4c5/"
   },
   {
    "id": "8b0e8945",
@@ -22,17 +88,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T20:59:49+00:00",
    "url": "/haber/waymo-toyota-ortakligi-robotaksiler-once-japonya-da-test-edilecek-8b0e8945/"
-  },
-  {
-   "id": "8873e4c5",
-   "title": "Bakan Fidan'dan G20 zirvesinde diplomasi trafiği",
-   "summary": "Dışişleri Bakanı Hakan Fidan, ABD'de düzenlenen G20 Dışişleri Bakanları Toplantısı kapsamında ABD Dışişleri Bakanı Marco Rubio ile görüştü.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-fidan-abdli-mevkidasi-rubio-ile-gorustu-1748700",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_9f6bee7193ab0544bf5f677d79400fe9-753769.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T20:59:39+00:00",
-   "url": "/haber/bakan-fidan-dan-g20-zirvesinde-diplomasi-trafigi-8873e4c5/"
   },
   {
    "id": "14b5b91f",
@@ -398,17 +453,6 @@
    "url": "/haber/google-populer-android-surumlerini-acikladi-iste-aci-tablo-f1a43ab8/"
   },
   {
-   "id": "01c66ae9",
-   "title": "Apple Music 7.0 Android’e Geldi – Liquid Glass Tasarımı Yenilendi",
-   "summary": "Apple Music 7.0, bir aylık beta sürecinin ardından Android kullanıcılarına ulaşmaya başladı. Güncelleme Liquid Glass tasarımı, yeni ikon ve mavi vurgu rengi getiriyor.",
-   "link": "https://shiftdelete.net/apple-music-7-0-android-liquid-glass",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T18:39:56+00:00",
-   "url": "/haber/apple-music-7-0-android-e-geldi-liquid-glass-tasarimi-yenilendi-01c66ae9/"
-  },
-  {
    "id": "cea3804e",
    "title": "Aliyev'in katılmadığı Türk Devletleri Zirvesi'nden hangi sonuçlar çıktı?",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın ev sahipliğinde gerçekleştirilen 13. Türk Devletleri Teşkilatı liderler zirvesine (TDT) Ankara-Bakü arasında yaşanan gerilim ve Azerbaycan Devlet Başkanı İlham Aliyev'in katılmaması…",
@@ -418,17 +462,6 @@
    "category": "gundem",
    "date": "2026-10-30T18:33:14+00:00",
    "url": "/haber/aliyev-in-katilmadigi-turk-devletleri-zirvesi-nden-hangi-sonuclar-cikt-cea3804e/"
-  },
-  {
-   "id": "0a49f139",
-   "title": "Jandarma’nın İHA Filosuna AKSUNGUR da Ekleniyor",
-   "summary": "Cumhurbaşkanlığı 2027 Yılı Yıllık Programı’nda Jandarma Genel Komutanlığının insansız hava aracı kapasitesini artırmaya yönelik yeni tedarik hedeflerine yer verildi. Programın 933.1 numaralı tedbiri kapsamında bir adet…",
-   "link": "https://shiftdelete.net/jandarmanin-iha-filosuna-aksungur-da-ekleniyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T18:30:39+00:00",
-   "url": "/haber/jandarma-nin-iha-filosuna-aksungur-da-ekleniyor-0a49f139/"
   },
   {
    "id": "ab686b74",
@@ -451,17 +484,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T18:20:00+00:00",
    "url": "/haber/volkswagen-elektrikli-golf-projesini-askiya-aldi-5d0b70f2/"
-  },
-  {
-   "id": "5b79a596",
-   "title": "Intel Moon Lake İşlemciler Yolda: Sadece 4 LP Çekirdek Olacak",
-   "summary": "Intel, düşük güç tüketimli işlemci ailesini iki yönde genişletmeye hazırlanıyor. Intel Moon Lake, büyük ve normal küçük çekirdek içermeyen, yalnızca dört LP çekirdekli bir seri olarak geliyor.",
-   "link": "https://shiftdelete.net/intel-moon-lake-islemciler-4-lp-cekirdek",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T18:16:58+00:00",
-   "url": "/haber/intel-moon-lake-islemciler-yolda-sadece-4-lp-cekirdek-olacak-5b79a596/"
   },
   {
    "id": "a2e1fc56",
@@ -561,17 +583,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T17:18:00+00:00",
    "url": "/haber/intel-nova-lake-islemcilerinde-18a-p-uretim-surecini-dogruladi-6dbd65e6/"
-  },
-  {
-   "id": "a38b7c0a",
-   "title": "Kasım ayında çıkacak en dikkat çekici 10 oyun",
-   "summary": "Yıla damga vurması beklenen GTA 6, yeni Football Manager, ikonik Zelda oyunu Ocarina of Time'ın yeni versiyonu... Kasım ayında oyunseverleri dikkat çekici yapımlar bekliyor.",
-   "link": "https://www.donanimhaber.com/kasim-ayinda-cikacak-dikkat-cekici-10-oyun--212279",
-   "image": "https://www.donanimhaber.com/images/images/haber/212279/1200x675kasim-ayinda-cikacak-dikkat-cekici-10-oyun.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-30T16:54:00+00:00",
-   "url": "/haber/kasim-ayinda-cikacak-en-dikkat-cekici-10-oyun-a38b7c0a/"
   },
   {
    "id": "4b2dedbc",
@@ -748,17 +759,6 @@
    "category": "gundem",
    "date": "2026-10-30T13:17:11+00:00",
    "url": "/haber/emine-erdogan-lider-esleriyle-ankara-da-bulustu-21e4b115/"
-  },
-  {
-   "id": "b509943f",
-   "title": "İstanbullular dikkat: 15 Temmuz Şehitler Köprüsü dahil birçok yol kapanacak",
-   "summary": "İstanbul Maratonu nedeniyle pazar günü megakentte bazı yollar trafiğe kapatılacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbullular-dikkat-15-temmuz-sehitler-koprusu-dahil-bircok-yol-kapanacak-1748630",
-   "image": "https://images.ntv.com.tr/images/istanbulmaraton-726339.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T13:06:34+00:00",
-   "url": "/haber/istanbullular-dikkat-15-temmuz-sehitler-koprusu-dahil-bircok-yol-kapan-b509943f/"
   },
   {
    "id": "00ada185",
