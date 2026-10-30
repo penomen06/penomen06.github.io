@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:01:15.643889+00:00",
+ "updated": "2026-10-30T23:30:55.980169+00:00",
  "items": [
   {
    "id": "13e396cc",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-30T23:00:00+00:00",
+   "date": "2026-10-30T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13e396cc/"
+  },
+  {
+   "id": "c9a852d2",
+   "title": "Arap Koalisyonu: Suudi Arabistan'a yönelik İHA saldırısı önlendi",
+   "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Suudi Arabistan'ın doğu bölgesinde bir insansız hava aracının (İHA) engellenerek düşürüldüğünü duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistana-yonelik-iha-saldirisi-onlendi/4106999",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T23:25:47+00:00",
+   "url": "/haber/arap-koalisyonu-suudi-arabistan-a-yonelik-iha-saldirisi-onlendi-c9a852d2/"
   },
   {
    "id": "1ef5f730",
@@ -266,15 +277,15 @@
    "url": "/haber/samsung-dan-galaxy-watch-icin-uzucu-guncelleme-karari-1c16c82d/"
   },
   {
-   "id": "e6399365",
-   "title": "Polonya'da Anayasa Mahkemesi polis ablukasına alınınca Cumhurbaşkanı uçağını yarı yoldan döndürdü",
-   "summary": "Polonya'da Anayasa Mahkemesi polis ablukasına alınırken Cumhurbaşkanı Karol Nawrocki Senegal'e planladığı ziyareti yarı yolda keserek ülkesine dönme kararı aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/polonyada-anayasa-mahkemesi-polis-ablukasina-alininca-cumhurbaskani-ucagini-yari-yoldan-dondurdu/4106944",
+   "id": "e2456241",
+   "title": "Polonya Anayasa Mahkemesi önünde gösteri ve polis ablukası sürüyor",
+   "summary": "Polonya'da Anayasa Mahkemesi Başkanı Bogdan Swieczkowski ve Başkan Yardımcısı Bartlomiej Sochanski'nin görevlerinden uzaklaştırıldığının duyurulmasının ardından mahkeme binası önünde başlayan gösteri ve polis ablukası…",
+   "link": "https://www.aa.com.tr/tr/dunya/polonya-anayasa-mahkemesi-onunde-gosteri-ve-polis-ablukasi-suruyor/4106944",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-30T20:34:36+00:00",
-   "url": "/haber/polonya-da-anayasa-mahkemesi-polis-ablukasina-alininca-cumhurbaskani-u-e6399365/"
+   "url": "/haber/polonya-anayasa-mahkemesi-onunde-gosteri-ve-polis-ablukasi-suruyor-e2456241/"
   },
   {
    "id": "8193a39a",
@@ -374,17 +385,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T19:47:12+00:00",
    "url": "/haber/yeni-batman-oyuncusu-cok-yakinda-belli-olacak-james-gunn-acikladi-34ee942b/"
-  },
-  {
-   "id": "a62b08f1",
-   "title": "İran’dan Avrupa ülkelerine “Savaşın bir bedeli var, şimdi bedel ödeme sırası sizde” mesajı",
-   "summary": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Rızai, Avrupa ülkelerinin bir zamanlar İsrail’in “kirli işleri” ile övündüğünü savunarak, “Savaşın ve terörün bir bedeli var, şimdi bedel ödeme sırası sizde.”…",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-dan-avrupa-ulkelerine-savasin-bir-bedeli-var-simdi-bedel-odeme-sirasi-sizde-mesaji/4106911",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T19:46:53+00:00",
-   "url": "/haber/iran-dan-avrupa-ulkelerine-savasin-bir-bedeli-var-simdi-bedel-odeme-si-a62b08f1/"
   },
   {
    "id": "0f65eed5",
