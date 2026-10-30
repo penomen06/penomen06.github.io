@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T00:01:10.010344+00:00",
+ "updated": "2026-10-30T00:30:57.642373+00:00",
  "items": [
   {
    "id": "5f175d5e",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-30T00:00:00+00:00",
+   "date": "2026-10-30T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-5f175d5e/"
+  },
+  {
+   "id": "ca1d315d",
+   "title": "31 Mart yerel seçimlerinden bugüne İstanbul'un belediye dağılımı nasıl değişti?",
+   "summary": "İstanbul'da seçilmiş 26 CHP'li ilçe belediye başkanından 14'ü çeşitli suçlamalarla soruşturma geçirdi. Tutuklu yargılamaların sürdüğü yönetimlerde başkanvekilliği seçimleri yapıldı. Bazı belediyelerde yönetimler…",
+   "link": "https://www.bbc.com/turkce/articles/ck054dlgm8zdo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d68d/live/53c6d680-d2f0-11f1-b441-2b33b063138f.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-30T00:14:01+00:00",
+   "url": "/haber/31-mart-yerel-secimlerinden-bugune-istanbul-un-belediye-dagilimi-nasil-ca1d315d/"
   },
   {
    "id": "730eed52",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-10-28T00:17:09+00:00",
    "url": "/haber/emekli-maaslarina-iyilestirme-yas-ve-hane-geliri-kriterleri-tartisiliy-01c744d2/"
-  },
-  {
-   "id": "4f1a8807",
-   "title": "Ballon d'Or 2026 sahiplerini buldu: Alexia Putellas ve Harry Kane",
-   "summary": "Futbol dünyasının en prestijli ödüllerinden sayılan Ballon d'Or (Altın Top) 2026 ödül töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapıldı. En iyi erkek futbolcu kategorisinde ödülün sahibi Bayern…",
-   "link": "https://www.bbc.com/turkce/articles/c60qk31pgx2do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4df/live/e8068060-d1fc-11f1-b441-2b33b063138f.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-27T01:30:22+00:00",
-   "url": "/haber/ballon-d-or-2026-sahiplerini-buldu-alexia-putellas-ve-harry-kane-4f1a8807/"
   },
   {
    "id": "5c7b886a",
