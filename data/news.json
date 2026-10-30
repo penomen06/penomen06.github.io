@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-30T15:31:06.031701+00:00",
+ "updated": "2026-10-30T16:01:12.849474+00:00",
  "items": [
+  {
+   "id": "2999475d",
+   "title": "Elon Musk Yapay Zeka Uyarısı: Ajanlar Kripto Paralara Saldırabilir",
+   "summary": "Elon Musk yapay zeka ajanlarının gelecekte insanlar yerine kendi çıkarları için siber saldırı düzenleyebileceğini söyledi. Açıklama, Binance'i vuran 6,3 milyar dolarlık saldırının ardından geldi.",
+   "link": "https://shiftdelete.net/elon-musk-yapay-zeka-kripto-saldirisi-uyarisi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T15:57:00+00:00",
+   "url": "/haber/elon-musk-yapay-zeka-uyarisi-ajanlar-kripto-paralara-saldirabilir-2999475d/"
+  },
+  {
+   "id": "79b03f01",
+   "title": "Papa Leo: Yapay Zeka Silahsızlandırılmalı, Makineler Araçtır",
+   "summary": "Papa Leo, yapay zeka sistemlerinin “silahsızlandırılması” gerektiğini söyledi. Cenevre’deki BM toplantısına katılacak üye ülkelere ölümcül otonom silahları yasaklamak için somut adım çağrısı yaptı.",
+   "link": "https://shiftdelete.net/papa-leo-yapay-zeka-silahsizlandirma",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T15:52:00+00:00",
+   "url": "/haber/papa-leo-yapay-zeka-silahsizlandirilmali-makineler-aractir-79b03f01/"
+  },
+  {
+   "id": "61e67ab1",
+   "title": "Yemen Haklar ve Özgürlükler Ağı: Husilerin Taiz'deki saldırılarında eylülden beri 189 sivil hayatını kaybetti",
+   "summary": "Yemen Haklar ve Özgürlükler Ağı, Taiz ilinde eylül başından bu yana İran destekli Husilerin saldırılarında 189 sivilin hayatını kaybettiğini, 281 sivilin yaralandığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemen-haklar-ve-ozgurlukler-agi-husilerin-taizdeki-saldirilarinda-eylulden-beri-189-sivil-hayatini-kaybetti/4106761",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T15:48:30+00:00",
+   "url": "/haber/yemen-haklar-ve-ozgurlukler-agi-husilerin-taiz-deki-saldirilarinda-eyl-61e67ab1/"
+  },
+  {
+   "id": "bfa00241",
+   "title": "Claude Linux Açığı İçin 53 Dakikada Exploit Geliştirdi – CVE-2026-98432",
+   "summary": "Claude Linux açığı demosunda Anthropic'in yayımlanmamış modeli, CVE-2026-98432 için kendi başına exploit geliştirdi. Uzaktan root yetkisi veren saldırı 53 dakika sürdü.",
+   "link": "https://shiftdelete.net/claude-linux-acigi-cve-2026-98432",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T15:45:05+00:00",
+   "url": "/haber/claude-linux-acigi-icin-53-dakikada-exploit-gelistirdi-cve-2026-98432-bfa00241/"
+  },
+  {
+   "id": "4b75ab5b",
+   "title": "Nvidia RTX 5080 24GB geliyor: Çıkış takvimi paylaşıldı",
+   "summary": "Nvidia'nın RTX 5080 ekran kartının 24 GB belleğe sahip yeni sürümü için çıkış takvimi öne çekildi. Modelin aralık ayında veya Ocak 2027'de satışa sunulabileceği belirtiliyor.",
+   "link": "https://www.donanimhaber.com/nvidia-rtx-5080-24gb-geliyor-cikis-takvimi-paylasildi--212265",
+   "image": "https://www.donanimhaber.com/images/images/haber/212265/1200x675nvidia-rtx-5080-24gb-geliyor-cikis-takvimi-paylasildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-30T15:45:00+00:00",
+   "url": "/haber/nvidia-rtx-5080-24gb-geliyor-cikis-takvimi-paylasildi-4b75ab5b/"
+  },
+  {
+   "id": "6d6debc4",
+   "title": "Bu hafta yatırım araçlarının performansı",
+   "summary": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda yüzde 3,22, avro/TL yüzde 0,10 ve altının gram fiyatı yüzde 1,18 değer kaybederken, dolar/TL yüzde 0,48 değer kazandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4106756",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T15:43:44+00:00",
+   "url": "/haber/bu-hafta-yatirim-araclarinin-performansi-6d6debc4/"
+  },
+  {
+   "id": "6f0a10e5",
+   "title": "TMO, kasımda piyasaya 5,5 milyon ton hububat arz edecek",
+   "summary": "Toprak Mahsulleri Ofisi (TMO), kasım ayında piyasaya 5,5 milyon ton hububat arz edeceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tmo-kasimda-piyasaya-5-5-milyon-ton-hububat-arz-edecek/4106749",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T15:34:39+00:00",
+   "url": "/haber/tmo-kasimda-piyasaya-5-5-milyon-ton-hububat-arz-edecek-6f0a10e5/"
+  },
   {
    "id": "a8d54762",
    "title": "Türk Devletlerinin Ortak Uydusu 2027’de Uzaya Gönderilecek",
@@ -112,17 +189,6 @@
    "url": "/haber/steam-ucretsiz-oyunlar-su-an-bedava-alinabilen-ve-denenebilen-oyunlar-79e6095d/"
   },
   {
-   "id": "afd07756",
-   "title": "Cumhurbaşkanı Erdoğan, Azerbaycan Dışişleri Bakanı Bayramov'u kabul etti",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Dışişleri Bakanı Ceyhun Bayramov'u kabul etti.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-azerbaycan-disisleri-bakani-bayramovu-kabul-etti-1748681",
-   "image": "https://images.ntv.com.tr/images/AA-20261030-42915570-42915567-CUMHURBASKANI_ERDOGAN_AZERBAYCAN_DISISLERI_BAKANI_BAYRAMOVU_KABUL_ETTI-152262.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T15:00:03+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-azerbaycan-disisleri-bakani-bayramov-u-kabul-ett-afd07756/"
-  },
-  {
    "id": "61ef52af",
    "title": "Samsung Telefon Fiyatları Düşmeyecek: Bellek Krizi Sürüyor",
    "summary": "Samsung telefon fiyatları yakın zamanda düşmeyecek. Şirket, yapay zekâ altyapı harcamalarının tarihi bir seviyeye ulaşacağını ve bellek çipi krizinin süreceğini söylüyor.",
@@ -143,17 +209,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T14:56:00+00:00",
    "url": "/haber/putin-den-elon-musk-a-ovgu-dolu-sozler-gercek-bir-deha-96f794eb/"
-  },
-  {
-   "id": "8d323755",
-   "title": "Daltonlar soruşturması. 52 kişi için tutuklama talebi",
-   "summary": "İstanbul merkezli 30 ilde Daltonlar suç örgütüne düzenlenen operasyonlarda gözaltına alınan 52 şüpheli tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/daltonlar-sorusturmasi-52-kisi-icin-tutuklama-talebi-1748680",
-   "image": "https://images.ntv.com.tr/images/daltonlaroperasyon-658196.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T14:54:31+00:00",
-   "url": "/haber/daltonlar-sorusturmasi-52-kisi-icin-tutuklama-talebi-8d323755/"
   },
   {
    "id": "8ebbc4cc",
@@ -266,17 +321,6 @@
    "url": "/haber/ukrayna-devlet-baskani-zelenskiy-yarin-turkiye-yi-ziyaret-edecek-49385a54/"
   },
   {
-   "id": "f613e340",
-   "title": "Zelenski yarın Türkiye'ye geliyor: Cumhurbaşkanı Erdoğan ile görüşecek",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine yarın Türkiye'ye gelecek.",
-   "link": "https://www.ntv.com.tr/turkiye/zelenski-yarin-turkiyeye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-1748678",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_aaab722f2dbd8e8e1463a0fdcfe4de1d_20261030141324-582002.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T14:15:44+00:00",
-   "url": "/haber/zelenski-yarin-turkiye-ye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-f613e340/"
-  },
-  {
    "id": "5e04b400",
    "title": "Ford iddialı konuştu: \"Yeni elektrikli platformumuz BYD'den yüzde 30 daha verimli\"",
    "summary": "Ford CEO'su Jim Farley, şirketin elektrik motorları, şanzıman ve invertörlerden oluşan güç aktarma sisteminin BYD'nin sistemlerinden yüzde 30 daha verimli olduğunu öne sürdü.",
@@ -343,26 +387,15 @@
    "url": "/haber/bes-soruda-aliyev-neden-ankara-ya-gitmedi-bafd6c72/"
   },
   {
-   "id": "16efce73",
-   "title": "60 saniyede ekonomide bugün (30 Ekim 2026)",
-   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-30-ekim-2026/4106617",
+   "id": "21947f23",
+   "title": "60 saniyede bugün (30 Ekim 2026)",
+   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-30-ekim-2026/4106613",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-30T14:00:59+00:00",
-   "url": "/haber/60-saniyede-ekonomide-bugun-30-ekim-2026-16efce73/"
-  },
-  {
-   "id": "2ce83c03",
-   "title": "EPDK elektrikte Son Kaynak Tedarik Tarifesi limitinde değişikliğe gitti",
-   "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK), Son Kaynak Tedarik Tarifesi kapsamında mesken aboneleri için 2027'de uygulanacak yıllık elektrik tüketim limitini 3 bin kilovatsaat olarak belirledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/epdk-elektrikte-son-kaynak-tedarik-tarifesi-limitinde-degisiklige-gitti/4106616",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T14:00:32+00:00",
-   "url": "/haber/epdk-elektrikte-son-kaynak-tedarik-tarifesi-limitinde-degisiklige-gitt-2ce83c03/"
+   "date": "2026-10-30T14:00:16+00:00",
+   "url": "/haber/60-saniyede-bugun-30-ekim-2026-21947f23/"
   },
   {
    "id": "89787117",
@@ -396,17 +429,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T13:53:42+00:00",
    "url": "/haber/sms-of-death-acigi-android-telefonlari-cokertebiliyor-yama-yolda-4751bbfb/"
-  },
-  {
-   "id": "2fecb3e0",
-   "title": "İsrail Başbakanı Netanyahu, aşırı sağcı Bakan Ben-Gvir'le hükümet kurma çalışmalarını görüştü",
-   "summary": "İsrail Başbakanı Binyamin Netanyahu, seçim sonrasında aşırı sağcı Ulusal Güvenlik Bakanı ve Yahudi Gücü Partisi lider​​​​​​​i Itamar Ben-Gvir'le hükümet kurma çalışmaları kapsamında bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-basbakani-netanyahu-asiri-sagci-bakan-ben-gvirle-hukumet-kurma-calismalarini-gorustu/4106601",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T13:50:10+00:00",
-   "url": "/haber/israil-basbakani-netanyahu-asiri-sagci-bakan-ben-gvir-le-hukumet-kurma-2fecb3e0/"
   },
   {
    "id": "be5fcc1b",
@@ -464,17 +486,6 @@
    "url": "/haber/epdk-elektrikteki-subvansiyon-limitini-dusurdu-1f259971/"
   },
   {
-   "id": "8a043ed5",
-   "title": "Google Gemini ile Belge Düzenleme Süreci Kolaylaşıyor",
-   "summary": "Google Gemini belge düzenleme özelliği ile artık oluşturduğunuz dosyaları doğrudan uygulama içinden önizleyebilir ve düzenleyebilirsiniz.",
-   "link": "https://shiftdelete.net/google-gemini-belge-duzenleme-ozelligi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T13:30:31+00:00",
-   "url": "/haber/google-gemini-ile-belge-duzenleme-sureci-kolaylasiyor-8a043ed5/"
-  },
-  {
    "id": "486e6394",
    "title": "Apple, “Ascend.io” şirketini de satın aldı",
    "summary": "Avrupa Komisyonu’nun resmi sayfasında yayımlanan bilgilere göre Apple, yapay zeka tabanlı veri analizi şirketi Ascend.io’yu da satın aldı. Ascend.io’nun, işletmelerin veri toplama ve analiz süreçlerini…",
@@ -519,28 +530,6 @@
    "url": "/haber/reddit-ceo-su-google-in-aramadaki-yapay-zeka-araclari-trafigi-dusuruyo-2051ba20/"
   },
   {
-   "id": "21e4b115",
-   "title": "Emine Erdoğan, lider eşleriyle Ankara'da buluştu",
-   "summary": "Emine Erdoğan, Türk Devletleri Teşkilatı Aile ve Kadın Konseyi toplantısında liderlerin eşleriyle bir araya geldi. Erdoğan, doğum oranlarındaki düşüşe ve kadınların toplumdaki rolüne dikkat çekti.",
-   "link": "https://www.ntv.com.tr/turkiye/emine-erdogan-lider-esleriyle-ankarada-bulustu-1748673",
-   "image": "https://images.ntv.com.tr/images/20261030_2_76698517_130596877_preview-999748.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T13:17:11+00:00",
-   "url": "/haber/emine-erdogan-lider-esleriyle-ankara-da-bulustu-21e4b115/"
-  },
-  {
-   "id": "b509943f",
-   "title": "İstanbullular dikkat: 15 Temmuz Şehitler Köprüsü dahil birçok yol kapanacak",
-   "summary": "İstanbul Maratonu nedeniyle pazar günü megakentte bazı yollar trafiğe kapatılacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbullular-dikkat-15-temmuz-sehitler-koprusu-dahil-bircok-yol-kapanacak-1748630",
-   "image": "https://images.ntv.com.tr/images/istanbulmaraton-726339.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T13:06:34+00:00",
-   "url": "/haber/istanbullular-dikkat-15-temmuz-sehitler-koprusu-dahil-bircok-yol-kapan-b509943f/"
-  },
-  {
    "id": "00ada185",
    "title": "Apple, macOS’u dokunmatik kullanım için iyileştirecek",
    "summary": "Apple, PROLED XDR ekrana sahip yeni MacBook Pro ile tarihindeki ilk dokunmatik ekranlı bilgisayarını hazırladı. macOS’u bugüne kadar dokunmatik kullanım için hiçbir şekilde optimize etmeyen şirket, bu durumu yeni…",
@@ -561,28 +550,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T13:04:00+00:00",
    "url": "/haber/binance-i-vuran-en-buyuk-kripto-para-hirsizliginin-altindan-kuzey-kore-4ecd13c0/"
-  },
-  {
-   "id": "49348b93",
-   "title": "The Elder Scrolls VI İsmi Sızdırıldı: İşte Detaylar",
-   "summary": "The Elder Scrolls VI Sentinel sızıntısı ile oyunun ismi ve detayları gün yüzüne çıktı. Bethesda'nın yeni oyunu hakkında neler biliniyor?",
-   "link": "https://shiftdelete.net/the-elder-scrolls-vi-sentinel-sizintisi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T13:00:35+00:00",
-   "url": "/haber/the-elder-scrolls-vi-ismi-sizdirildi-iste-detaylar-49348b93/"
-  },
-  {
-   "id": "3273f8c6",
-   "title": "Üç raylı sistemle bağlanacak. Test sürüşü yapıldı, İstanbul'un yeni metro hattı açılıyor",
-   "summary": "İstanbul'da Marmaray, Üsküdar-Çekmeköy ve Kadıköy Sabiha Gökçen hatlarıyla bağlantılı M12 Ümraniye-Ataşehir-Göztepe Metro Hattı'nda test sürüşü yapıldı. Yeni metro hattı aralık ayında açılacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-uc-rayli-sistemle-baglanacak-test-surusu-yapildi-istanbulun-yeni-metro-hatti-aciliyor-1748664",
-   "image": "https://images.ntv.com.tr/images/OZGUR-OZEL-BUNU-KENTTEKI-ESITSIZLIKLERI_1582923_470685-644608.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T13:00:02+00:00",
-   "url": "/haber/uc-rayli-sistemle-baglanacak-test-surusu-yapildi-istanbul-un-yeni-metr-3273f8c6/"
   },
   {
    "id": "9ede4196",
@@ -629,17 +596,6 @@
    "url": "/haber/olaganustu-tasfiyeye-konu-fonlardaki-ilk-ara-odemeler-basladi-bcbb17f5/"
   },
   {
-   "id": "5f60ca92",
-   "title": "Eski Korsan Film Uygulaması Risk Saçıyor: Hemen Kontrol Edin",
-   "summary": "Eski Popcorn Time uygulaması Mac cihazlarda güvenlik açığı oluşturuyor. Time4Popcorn yazılımını bilgisayarınızdan nasıl kaldıracağınızı öğrenin.",
-   "link": "https://shiftdelete.net/eski-popcorn-time-uygulamasi-mac-guvenlik-acigi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T12:30:16+00:00",
-   "url": "/haber/eski-korsan-film-uygulamasi-risk-saciyor-hemen-kontrol-edin-5f60ca92/"
-  },
-  {
    "id": "dbdeaea8",
    "title": "Sinemada bu hafta: Çatlı 2, Her Şey Ortada, En Sevdiğim (23 Ekim 2026)",
    "summary": "Bu hafta sinema salonlarında 10 yeni film gösterime girerken, dijital platformlara da yeni filmler geliyor. İşte bu hafta sinemaseverleri bekleyen yeni filmler:",
@@ -671,17 +627,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T12:00:00+00:00",
    "url": "/haber/xbox-ta-5-oyun-ucretsiz-wuchang-fallen-feathers-ve-daha-fazlasi-2197fcfa/"
-  },
-  {
-   "id": "07076cd6",
-   "title": "Çukurova Belediye Başkanvekili belli oldu",
-   "summary": "Tutuklanıp görevinden uzaklaştırılan Yeni Partili Çukurova Belediye Başkanı Emrah Kozay'ın yerine CHP'li Sıtkı Keskin belediye başkanvekili seçildi.",
-   "link": "https://www.ntv.com.tr/turkiye/cukurova-belediye-baskanvekili-belli-oldu-1748651",
-   "image": "https://images.ntv.com.tr/images/CUKUROVA-BELEDIYE-BASKAN-VEKILI-CHP’LI-_1582789_470631-795192.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T11:44:43+00:00",
-   "url": "/haber/cukurova-belediye-baskanvekili-belli-oldu-07076cd6/"
   },
   {
    "id": "8011240e",
@@ -739,28 +684,6 @@
    "url": "/haber/yeni-ipad-mini-nin-performansi-belli-oldu-iste-geekbench-sonuclari-db1338a0/"
   },
   {
-   "id": "110acf43",
-   "title": "Son dakika Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 30 Ekim 2026",
-   "summary": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 30 Ekim 2026 Çanakkale deprem son dakika haberleri haberin…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-canakkalede-deprem-mi-oldu-az-once-deprem-canakkalede-nerede-oldu-canakkale-deprem-kandilli-ve-afad-son-depremler-listesi-30-ekim-2026-1748646",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T11:10:00+00:00",
-   "url": "/haber/son-dakika-canakkale-de-deprem-mi-oldu-az-once-deprem-canakkale-de-ner-110acf43/"
-  },
-  {
-   "id": "4d5088e1",
-   "title": "Dervişoğlu, Bahçeli'nin koluna girmesiyle ilgili konuştu: Bugün olsa yine yaparım",
-   "summary": "İYİ Parti lideri Müsavat Dervişoğlu, Anıtkabir'de Devlet Bahçeli'nin koluna girmesine yönelik eleştirilere yanıt verdi. Dervişoğlu, \"Bugün olsa yine aynısını yaparım\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/dervisoglu-bahcelinin-koluna-girmesiyle-ilgili-konustu-bugun-olsa-yine-yaparim-1748636",
-   "image": "https://images.ntv.com.tr/images/sasadad-863911.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T11:09:45+00:00",
-   "url": "/haber/dervisoglu-bahceli-nin-koluna-girmesiyle-ilgili-konustu-bugun-olsa-yin-4d5088e1/"
-  },
-  {
    "id": "4bbddeb0",
    "title": "LGS kapsamındaki merkezi sınav 13 Haziran 2027'de yapılacak",
    "summary": "Liselere Geçiş Sistemi kapsamındaki merkezi sınav, 13 Haziran 2027 Pazar günü gerçekleştirilecek.",
@@ -770,28 +693,6 @@
    "category": "gundem",
    "date": "2026-10-30T11:05:00+00:00",
    "url": "/haber/lgs-kapsamindaki-merkezi-sinav-13-haziran-2027-de-yapilacak-4bbddeb0/"
-  },
-  {
-   "id": "c2565a1f",
-   "title": "Mustafa Sarıgül, Yeni Parti'den istifa etti",
-   "summary": "Erzincan Milletvekili Mustafa Sarıgül, hakkında yürütülen soruşturmalar nedeniyle Yeni Parti'den istifa ettiğini açıkladı.",
-   "link": "https://www.ntv.com.tr/turkiye/mustafa-sarigul-yeni-partiden-istifa-etti-1748633",
-   "image": "https://images.ntv.com.tr/images/mustafa-sarıgül-890334.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T11:01:38+00:00",
-   "url": "/haber/mustafa-sarigul-yeni-parti-den-istifa-etti-c2565a1f/"
-  },
-  {
-   "id": "1918ddea",
-   "title": "DirectX'e dev güncelleme: Işın izleme performansı 66 kat arttı!",
-   "summary": "Microsoft, DirectX Raytracing için 2018'den bu yana en büyük güncellemeyi duyurdu. Yeni teknoloji, testlerde ışın izleme performansını 66 kat artırırken bellek kullanımını yaklaşık yüzde 90 azalttı.",
-   "link": "https://www.donanimhaber.com/directx-e-dev-guncelleme-isin-izleme-performansi-66-kat-artti--212250",
-   "image": "https://www.donanimhaber.com/images/images/haber/212250/1200x675directx-e-dev-guncelleme-isin-izleme-performansi-66-kat-artti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-30T10:47:00+00:00",
-   "url": "/haber/directx-e-dev-guncelleme-isin-izleme-performansi-66-kat-artti-1918ddea/"
   },
   {
    "id": "abb57236",
@@ -827,39 +728,6 @@
    "url": "/haber/borsada-yapay-zeka-depremi-google-500-milyar-dolar-deger-kaybetti-a6c143ed/"
   },
   {
-   "id": "223d161f",
-   "title": "Evden çalışanları ilgilendiriyor: Patronun oyunu mahkemeden döndü",
-   "summary": "İşverenin evden çalışmasına onay verdiği bir işçi, sigorta primi 30 gün yatırıldığı ayda devamsızlık iddiasıyla kovuldu. Yıllar süren davada son noktayı koyan mahkeme, davacıyı işe iade etti.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-evden-calisanlar-icin-emsal-karar-patronun-oyunu-mahkemeden-dondu-1748601",
-   "image": "https://images.ntv.com.tr/images/işçiiş-213086.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T10:10:02+00:00",
-   "url": "/haber/evden-calisanlari-ilgilendiriyor-patronun-oyunu-mahkemeden-dondu-223d161f/"
-  },
-  {
-   "id": "9dcee543",
-   "title": "Avcılar'da okul önünde trafik kavgası: Bekçi, kendisine saldıran veliyi ayağından vurdu",
-   "summary": "İstanbul Avcılar'da bir bekçi, trafik tartışmasına müdahale ederken kendisini darbeden veliyi ayağından vurarak etkisiz hale getirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-avcilarda-okul-onunde-trafik-kavgasi-bekci-kendisine-saldiran-veliyi-ayagindan-vurdu-1748626",
-   "image": "https://images.ntv.com.tr/images/AA-20261030-42912891-42912890-AVCILARDA_BEKCI_TRAFIK_TARTISMASINA_MUDAHALE_EDERKEN_KENDISINI_DARBEDEN_VELIYI_AYAGINDAN_VURARAK_ETKISIZ_HALE_GETIRDI-794663.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T09:54:21+00:00",
-   "url": "/haber/avcilar-da-okul-onunde-trafik-kavgasi-bekci-kendisine-saldiran-veliyi-9dcee543/"
-  },
-  {
-   "id": "3bff24b0",
-   "title": "Derbi biletlerinde bot yazılım oyunu: Biletleri nasıl ele geçirdiklerini anlattılar",
-   "summary": "Derbi biletlerini karaborsada satan şüphelilerin 85 bin lira ödeyerek bot yazılım hazırlattığı belirlendi. Şüphelilerin 8 yıla kadar hapsi istendi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-derbi-biletlerinde-bot-yazilim-oyunu-biletleri-nasil-ele-gecirdiklerini-anlattilar-1748613",
-   "image": "https://images.ntv.com.tr/images/karaborsa-operasyonu-5-517083.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T09:06:01+00:00",
-   "url": "/haber/derbi-biletlerinde-bot-yazilim-oyunu-biletleri-nasil-ele-gecirdiklerin-3bff24b0/"
-  },
-  {
    "id": "730eed52",
    "title": "Türkiye'den 'İsrail seçimlerine müdahale ettiği' iddialarına yalanlama",
    "summary": "İsrail'in ana muhalefet lideri Gadi Eisenkot ve Arap partilerinin liderleri, koalisyonunun parlamentodaki çoğunluğu kaybettiği seçimlerin ardından \"yabancı müdahalesi\" iddiasında bulunan Başbakan Binyamin Netanyahu'yu…",
@@ -871,28 +739,6 @@
    "url": "/haber/turkiye-den-israil-secimlerine-mudahale-ettigi-iddialarina-yalanlama-730eed52/"
   },
   {
-   "id": "d3518a12",
-   "title": "Nevzat Aydın'ı tehdit etmişlerdi. Evlerinden otomatik silahlar çıktı",
-   "summary": "İş insanı Nevzat Aydın ve oğluna yönelik tehdit soruşturmasında dört şüpheli gözaltına alındı. Şüphelilerin adreslerinde otomatik silahlar ele geçirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-nevzat-aydini-tehdit-etmislerdi-evlerinden-otomatik-silahlar-cikti-1748611",
-   "image": "https://images.ntv.com.tr/images/nevzay-aydın-tehdit-4-443919.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T08:43:49+00:00",
-   "url": "/haber/nevzat-aydin-i-tehdit-etmislerdi-evlerinden-otomatik-silahlar-cikti-d3518a12/"
-  },
-  {
-   "id": "d2fb1008",
-   "title": "Londra Belediye Başkanı Khan'a göre kentler, iklim değişikliğinin sorumlusu olduğu kadar çözümün de parçası",
-   "summary": "Londra Belediye Başkanı Sadık Khan, dünyada karbon emisyonunun yüzde 70'ini gerçekleştiren kentlerin iklim değişikliğinin sorumlularından olduğunu belirterek \"Bunun çözümünde de sorumluluğumuzun olduğunu düşünüyorum.\"…",
-   "link": "https://www.aa.com.tr/tr/dunya/londra-belediye-baskani-khana-gore-kentler-iklim-degisikliginin-sorumlusu-oldugu-kadar-cozumun-de-parcasi/4105963",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T08:23:33+00:00",
-   "url": "/haber/londra-belediye-baskani-khan-a-gore-kentler-iklim-degisikliginin-sorum-d2fb1008/"
-  },
-  {
    "id": "0e04611e",
    "title": "Tokayev: Türkiye, dünyanın en önemli ülkelerinden biri haline geldi",
    "summary": "Kazakistan Cumhurbaşkanı Tokayev, Cumhurbaşkanı Erdoğan'ın politikalarıyla Türkiye'nin sosyoekonomik potansiyelinin geliştiğini ve uluslararası prestijinin arttığını söyledi.",
@@ -902,17 +748,6 @@
    "category": "gundem",
    "date": "2026-10-30T08:06:00+00:00",
    "url": "/haber/tokayev-turkiye-dunyanin-en-onemli-ulkelerinden-biri-haline-geldi-0e04611e/"
-  },
-  {
-   "id": "d747d6e4",
-   "title": "Bakırköy Belediyesi'ne operasyon. 61 şüpheli adliyede",
-   "summary": "Bakırköy Belediyesi’ne yönelik ihalelerde usulsüzlük yapıldığı iddiasıyla başlatılan soruşturmada gözaltındaki 61 şüpheli adliyeye sevk edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/bakirkoy-belediyesine-operasyon-61-supheli-adliyede-1748606",
-   "image": "https://images.ntv.com.tr/images/BAKIRKOY-BELEDIYESINE-YONELIK-SORUSTURMA_1582298_470504-811248.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T07:54:23+00:00",
-   "url": "/haber/bakirkoy-belediyesi-ne-operasyon-61-supheli-adliyede-d747d6e4/"
   },
   {
    "id": "0099aac3",
