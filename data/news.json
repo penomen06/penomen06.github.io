@@ -1,6 +1,127 @@
 {
- "updated": "2026-10-30T11:31:02.684701+00:00",
+ "updated": "2026-10-30T12:01:12.315992+00:00",
  "items": [
+  {
+   "id": "f25f6ab6",
+   "title": "Reddit’e Giriş Yapma Zorunluluğu Geliyor",
+   "summary": "Reddit, arama trafiğindeki düşüş nedeniyle içeriklerine erişimi sadece giriş yapmış kullanıcılara özel hale getirmeyi planlıyor.",
+   "link": "https://shiftdelete.net/reddit-giris-zorunlulugu-getiriyor",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T12:00:47+00:00",
+   "url": "/haber/reddit-e-giris-yapma-zorunlulugu-geliyor-f25f6ab6/"
+  },
+  {
+   "id": "2197fcfa",
+   "title": "Xbox'ta 5 oyun ücretsiz: WUCHANG: Fallen Feathers ve daha fazlası",
+   "summary": "Xbox Game Pass kullanıcıları için yeni Ücretsiz Oyun Günleri başladı. WUCHANG: Fallen Feathers dahil 5 oyun kısa süreliğine ücretsiz oynanabiliyor. İşte ücretsizler...",
+   "link": "https://www.donanimhaber.com/xbox-ta-5-oyun-ucretsiz-wuchang-fallen-feathers-ve-daha-fazlasi--212267",
+   "image": "https://www.donanimhaber.com/images/images/haber/212267/1200x675xbox-ta-5-oyun-ucretsiz-wuchang-fallen-feathers-ve-daha-fazlasi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-30T12:00:00+00:00",
+   "url": "/haber/xbox-ta-5-oyun-ucretsiz-wuchang-fallen-feathers-ve-daha-fazlasi-2197fcfa/"
+  },
+  {
+   "id": "07076cd6",
+   "title": "Çukurova Belediye Başkanvekili belli oldu",
+   "summary": "Tutuklanıp görevinden uzaklaştırılan Yeni Partili Çukurova Belediye Başkanı Emrah Kozay'ın yerine CHP'li Sıtkı Keskin belediye başkanvekili seçildi.",
+   "link": "https://www.ntv.com.tr/turkiye/cukurova-belediye-baskanvekili-belli-oldu-1748651",
+   "image": "https://images.ntv.com.tr/images/CUKUROVA-BELEDIYE-BASKAN-VEKILI-CHP’LI-_1582789_470631-795192.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-30T11:44:43+00:00",
+   "url": "/haber/cukurova-belediye-baskanvekili-belli-oldu-07076cd6/"
+  },
+  {
+   "id": "80449854",
+   "title": "Binance TR'den açıklama",
+   "summary": "Binance TR, platformda tüm kullanıcı varlıklarının güvende olduğunu, tedbir amaçlı olarak yalnızca kripto varlık çekim işlemlerinin geçici olarak durdurulduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/binance-trden-aciklama/4106230",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T11:43:29+00:00",
+   "url": "/haber/binance-tr-den-aciklama-80449854/"
+  },
+  {
+   "id": "8011240e",
+   "title": "AMD ekran kartlarına bir zam daha gelebilir: DRAM fiyatları artıyor",
+   "summary": "AMD'nin ekran kartı üreticilerine yönelik GPU ve GDDR6 bellek fiyatlarını kasım ayında yeniden artırabileceği ortaya çıktı. Gelişme, Radeon RX 9000 serisi modelleri de etkileyebilir.",
+   "link": "https://www.donanimhaber.com/oyuncular-dikkat-amd-ekran-kartlarina-bir-zam-daha-gelebilir--212273",
+   "image": "https://www.donanimhaber.com/images/images/haber/212273/1200x675oyuncular-dikkat-amd-ekran-kartlarina-bir-zam-daha-gelebilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-30T11:42:00+00:00",
+   "url": "/haber/amd-ekran-kartlarina-bir-zam-daha-gelebilir-dram-fiyatlari-artiyor-8011240e/"
+  },
+  {
+   "id": "fd85a025",
+   "title": "'Ferritin yüzü': Demir eksikliği dış görünüşten anlaşılabilir mi?",
+   "summary": "Sosyal medyada “ferritin yüzü” adıyla yayılan paylaşımlar solgun cilt, göz altı morlukları ve saç dökülmesini demir eksikliğine bağlarken, doktorlar yalnızca dış görünüşe bakılarak tanı konulamayacağını vurguluyor.",
+   "link": "https://www.bbc.com/turkce/articles/cmy93gj7d543o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c425/live/edea3700-cedd-11f1-b441-2b33b063138f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-30T11:40:15+00:00",
+   "url": "/haber/ferritin-yuzu-demir-eksikligi-dis-gorunusten-anlasilabilir-mi-fd85a025/"
+  },
+  {
+   "id": "f78f6c41",
+   "title": "iPhone Duo toz kapakları tartışma yarattı: Yarım açıkken boşluk var",
+   "summary": "Apple'ın ilk katlanabilir telefonu iPhone Duo, yarım açıkken iç yapısını gösteren boşlukla gündemde. iPhone Duo toz kapakları, Samsung'un 2019'da çözdüğü soruna benzer bir eleştiri alıyor.",
+   "link": "https://shiftdelete.net/iphone-duo-toz-kapaklari-yarim-acikken-bosluk",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T11:39:38+00:00",
+   "url": "/haber/iphone-duo-toz-kapaklari-tartisma-yaratti-yarim-acikken-bosluk-var-f78f6c41/"
+  },
+  {
+   "id": "17a50072",
+   "title": "Aliyev, Türk Devletleri Teşkilatı Zirvesi'ne katılmadı",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Sarayı'nda Türk Devletleri Teşkilatı 13. Zirvesi Devlet Başkanları Konseyi Toplantısı'na ev sahipliği yaptı. Azerbaycan Cumhurbaşkanı İlham Aliyev ise zirveye…",
+   "link": "https://www.bbc.com/turkce/articles/cmrlypdepxy4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ad0/live/398de490-d43d-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-30T11:37:38+00:00",
+   "url": "/haber/aliyev-turk-devletleri-teskilati-zirvesi-ne-katilmadi-17a50072/"
+  },
+  {
+   "id": "bafebd3d",
+   "title": "Bakan Kacır, Türkiye'nin AR-GE faaliyetlerinde rekorlar kırdığını bildirdi",
+   "summary": "Bakan Kacır, Türkiye'nin AR-GE faaliyetlerinde rekorlar kırdığını belirterek \"Üniversite, teknopark, AR-GE ve tasarım merkezlerimiz, yenilikçi girişim ve araştırmacılarımızla Türkiye'nin AR-GE ve inovasyon ekosistemini…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-turkiyenin-ar-ge-faaliyetlerinde-rekorlar-kirdigini-bildirdi/4106219",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T11:36:10+00:00",
+   "url": "/haber/bakan-kacir-turkiye-nin-ar-ge-faaliyetlerinde-rekorlar-kirdigini-bildi-bafebd3d/"
+  },
+  {
+   "id": "19352392",
+   "title": "TCMB: Devam eden jeopolitik belirsizliklere bağlı olarak enerji fiyatlarındaki yüksek ve dalgalı seyir sürmektedir",
+   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Para Politikası Kurulu Toplantı Özeti'nde, devam eden jeopolitik belirsizliklere bağlı olarak enerji fiyatlarındaki yüksek ve dalgalı seyrin sürdüğü belirtildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-para-politikasi-kurulu-toplanti-ozeti-yayimlandi/4106218",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T11:36:00+00:00",
+   "url": "/haber/tcmb-devam-eden-jeopolitik-belirsizliklere-bagli-olarak-enerji-fiyatla-19352392/"
+  },
+  {
+   "id": "c014369e",
+   "title": "Galaxy Z Fold 9 Özellikleri Sızdı: Tasarım, Kamera ve Fiyat",
+   "summary": "Samsung'un dokuzuncu nesil katlanabilir telefonu Galaxy Z Fold 9 için ilk bilgiler ortaya çıktı. Sızıntılar, daha az görünen katlanma izi, güçlü bir yonga ve 5.200mAh pil işaret ediyor.",
+   "link": "https://shiftdelete.net/galaxy-z-fold-9-ozellikleri-cikis-tarihi-fiyat",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T11:34:38+00:00",
+   "url": "/haber/galaxy-z-fold-9-ozellikleri-sizdi-tasarim-kamera-ve-fiyat-c014369e/"
+  },
   {
    "id": "00656970",
    "title": "Samsung Galaxy Watch Modelleri için Yazılım Desteği Sona mı Eriyor?",
@@ -134,15 +255,15 @@
    "url": "/haber/lgs-kapsamindaki-merkezi-sinav-13-haziran-2027-de-yapilacak-3aff47ee/"
   },
   {
-   "id": "c9ea07c6",
-   "title": "Cumhurbaşkanı Erdoğan, Türkmenistan Devlet Başkanı Berdimuhammedov ile görüştü",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkmenistan Devlet Başkanı Serdar Berdimuhammedov ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkmenistan-devlet-baskani-berdimuhammedov-ile-gorustu/4106185",
+   "id": "8d7007c0",
+   "title": "Cumhurbaşkanı Erdoğan, Türkmenistan Devlet Başkanı Berdimuhammedov ve Kırgızistan Cumhurbaşkanı Caparov ile görüştü",
+   "summary": "Cumhurbaşkanı Erdoğan, Türk Devletleri Teşkilatı Devlet Başkanları Konseyi 13'üncü Zirvesi sonrası ikili görüşmeler kapsamında Türkmenistan Devlet Başkanı Berdimuhammedov ve Kırgızistan Cumhurbaşkanı Caparov ile bir…",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkmenistan-devlet-baskani-berdimuhammedov-ve-kirgizistan-cumhurbaskani-caparov-ile-gorustu/4106185",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-30T11:05:56+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-turkmenistan-devlet-baskani-berdimuhammedov-ile-c9ea07c6/"
+   "url": "/haber/cumhurbaskani-erdogan-turkmenistan-devlet-baskani-berdimuhammedov-ve-k-8d7007c0/"
   },
   {
    "id": "15fb988d",
@@ -198,17 +319,6 @@
    "category": "gundem",
    "date": "2026-10-30T11:02:59+00:00",
    "url": "/haber/bakan-uraloglu-sadece-6-ilimiz-bolunmus-yollarla-bagli-iken-bugun-77-i-a974c808/"
-  },
-  {
-   "id": "06067d93",
-   "title": "Kapadokya'da peribacası çöktü, üç kişi hayatını kaybetti",
-   "summary": "Kapadokya'da toprak kayması nedeniyle peribacasından kopan kaya parçalarının düşmesi sonucu üç kişi yaşamını yitirdi, beş kişi yaralandı. Nevşehir Göreme'de Açık Hava Müzesi girişinde yağış nedeniyle meydana gelen…",
-   "link": "https://www.bbc.com/turkce/articles/cwdd8qjqqmnzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95c7/live/c9f6e250-d3a9-11f1-93e1-3b657b665bcf.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-30T11:02:02+00:00",
-   "url": "/haber/kapadokya-da-peribacasi-coktu-uc-kisi-hayatini-kaybetti-06067d93/"
   },
   {
    "id": "c2565a1f",
@@ -354,17 +464,6 @@
    "url": "/haber/istanbullular-dikkat-15-temmuz-sehitler-koprusu-dahil-bircok-yol-kapan-b509943f/"
   },
   {
-   "id": "7938c44d",
-   "title": "Türkmenistan Devlet Başkanı Berdimuhamedov: Türk devletleri geniş ekonomik imkanlara sahip",
-   "summary": "Türkmenistan Devlet Başkanı Berdimuhamedov, \"Türk devletleri geniş ekonomik imkanlara sahip. Onların verimli kullanılması için enerji, sanayi, ham maddelerin rafine edilmesi ve ekonominin diğer sektörlerinde işbirliğini…",
-   "link": "https://www.aa.com.tr/tr/gundem/turkmenistan-devlet-baskani-berdimuhamedov-turk-devletleri-genis-ekonomik-imkanlara-sahip/4106136",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T10:28:49+00:00",
-   "url": "/haber/turkmenistan-devlet-baskani-berdimuhamedov-turk-devletleri-genis-ekono-7938c44d/"
-  },
-  {
    "id": "a71cf09e",
    "title": "Binance vurgununda fatura 6,3 milyar dolar oldu: Tarihin en büyüğü",
    "summary": "Dünyanın en büyük kripto para borsası Binance'i hedef alan ve 6,3 milyar dolarlık dijital varlığın çalındığı siber saldırı, kripto sektöründe güvenlik tartışmalarını yeniden gündeme taşıdı.",
@@ -376,17 +475,6 @@
    "url": "/haber/binance-vurgununda-fatura-6-3-milyar-dolar-oldu-tarihin-en-buyugu-a71cf09e/"
   },
   {
-   "id": "4001553b",
-   "title": "Nevşehir'de kopan kaya parçalarının bulunduğu alanda enkaz kaldırma çalışması yapılıyor",
-   "summary": "Nevşehir'in Göreme beldesinde peribacasından kopan kaya parçalarının bulunduğu alanda enkaz kaldırma çalışması yürütülüyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/nevsehirde-kopan-kaya-parcalarinin-bulundugu-alanda-enkaz-kaldirma-calismasi-yapiliyor/4106129",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T10:20:21+00:00",
-   "url": "/haber/nevsehir-de-kopan-kaya-parcalarinin-bulundugu-alanda-enkaz-kaldirma-ca-4001553b/"
-  },
-  {
    "id": "385a7474",
    "title": "Binance'te 'tarihin en büyük siber saldırısı': 6,3 milyar dolarlık kripto varlık etkilendi",
    "summary": "Kripto para devi Binance, potansiyel bir siber saldırı sebebiyle 6,3 milyar dolar (yaklaşık 314 milyar lira) değerinde dijital varlığın etkilendiğini belirtti. İki analiz firması, olayın TraderTraitor adlı Kuzey Koreli…",
@@ -396,17 +484,6 @@
    "category": "gundem",
    "date": "2026-10-30T10:14:28+00:00",
    "url": "/haber/binance-te-tarihin-en-buyuk-siber-saldirisi-6-3-milyar-dolarlik-kripto-385a7474/"
-  },
-  {
-   "id": "400a1a66",
-   "title": "Irak merkezi hükümetinin Sincar adımı nasıl okunmalı?",
-   "summary": "Irak'ta devlet dışı silahlı güçlerin merkezi yönetime katılması süreci kapsamında Sincar'daki Yezidi PKK unsurlarının Irak güvenlik sistemine entegre edilmesi, bölgedeki dengeleri ve aktörlerin konumunu yeniden…",
-   "link": "https://www.aa.com.tr/tr/analiz/irak-merkezi-hukumetinin-sincar-adimi-nasil-okunmali/4106125",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T10:13:56+00:00",
-   "url": "/haber/irak-merkezi-hukumetinin-sincar-adimi-nasil-okunmali-400a1a66/"
   },
   {
    "id": "a6c143ed",
@@ -519,17 +596,6 @@
    "url": "/haber/grup-b-efsanesi-audi-quattro-dan-ilham-alan-audacious-automotive-iv-ta-83272ea0/"
   },
   {
-   "id": "c710ab7d",
-   "title": "Ubisoft: Başka Bir Assassin’s Creed Remake Beklemeyin",
-   "summary": "Ubisoft, Assassin's Creed serisi projeleri hakkında güncellemeler paylaştı. Codename Hexe, Invictus ve Valhalla New Game+ detayları haberimizde.",
-   "link": "https://shiftdelete.net/ubisoft-assassins-creed-guncellemeleri",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T09:30:11+00:00",
-   "url": "/haber/ubisoft-baska-bir-assassin-s-creed-remake-beklemeyin-c710ab7d/"
-  },
-  {
    "id": "1c356681",
    "title": "iPhone Air 2 özellikleri ortaya çıktı: İlk modeli alanlar pişman olacak!",
    "summary": "Apple'ın ince telefon modeli Phone Air 2'nin üretim sürecinde önemli bir aşamaya girdiği bildiriliyor. Cihaz, mevcut Air modeline kıyasla önemli yükseltmeler sunacak.",
@@ -539,17 +605,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T09:29:00+00:00",
    "url": "/haber/iphone-air-2-ozellikleri-ortaya-cikti-ilk-modeli-alanlar-pisman-olacak-1c356681/"
-  },
-  {
-   "id": "50613533",
-   "title": "Phantom Blade Zero İlk Gününde Steam’de 723 Bin Oyuncuya Ulaştı",
-   "summary": "Phantom Blade Zero, Steam'de 723.876 eş zamanlı oyuncuyla zirve yaptı. Türkiye Steam ve PS5 fiyatları, Türkçe dil desteği ve sistem gereksinimleri.",
-   "link": "https://shiftdelete.net/phantom-blade-zero-oyuncu-sayisi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T09:16:52+00:00",
-   "url": "/haber/phantom-blade-zero-ilk-gununde-steam-de-723-bin-oyuncuya-ulasti-50613533/"
   },
   {
    "id": "6de853b2",
@@ -594,28 +649,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T09:04:43+00:00",
    "url": "/haber/bugatti-ceo-su-mate-rimac-in-chiron-u-calinmis-74552a95/"
-  },
-  {
-   "id": "0051eab2",
-   "title": "Starship Flight 15 Tarihi Belli Oldu: İki Kademe de Yakalanacak",
-   "summary": "SpaceX, Starship Flight 15 ile ilk kez hem Super Heavy ilk kademesini hem de Starship gemisini fırlatma kulesinin kollarıyla yakalamayı deneyecek. Uçuş 12 Kasım'a planlandı.",
-   "link": "https://shiftdelete.net/starship-flight-15-12-kasim-tarihi-belli-oldu",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T09:02:47+00:00",
-   "url": "/haber/starship-flight-15-tarihi-belli-oldu-iki-kademe-de-yakalanacak-0051eab2/"
-  },
-  {
-   "id": "17a50072",
-   "title": "Aliyev, Türk Devletleri Teşkilatı Zirvesi'ne katılmadı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Sarayı'nda Türk Devletleri Teşkilatı 13. Zirvesi Devlet Başkanları Konseyi Toplantısı'na ev sahipliği yaptı. Azerbaycan Cumhurbaşkanı İlham Aliyev ise zirveye…",
-   "link": "https://www.bbc.com/turkce/articles/cmrlypdepxy4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ad0/live/398de490-d43d-11f1-a701-fddedf244c16.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-30T08:52:49+00:00",
-   "url": "/haber/aliyev-turk-devletleri-teskilati-zirvesi-ne-katilmadi-17a50072/"
   },
   {
    "id": "63018a73",
@@ -695,17 +728,6 @@
    "url": "/haber/samsung-dan-cin-pazarina-ozel-yeni-katlanabilir-telefon-w27-34c4091b/"
   },
   {
-   "id": "88a35811",
-   "title": "MotoGP'de sıradaki durak Malezya",
-   "summary": "MotoGP'de sezonun 19. yarışı Malezya'da gerçekleştirilecek.",
-   "link": "https://www.aa.com.tr/tr/spor/motogpde-siradaki-durak-malezya/4105850",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T08:06:42+00:00",
-   "url": "/haber/motogp-de-siradaki-durak-malezya-88a35811/"
-  },
-  {
    "id": "0e04611e",
    "title": "Tokayev: Türkiye, dünyanın en önemli ülkelerinden biri haline geldi",
    "summary": "Kazakistan Cumhurbaşkanı Tokayev, Cumhurbaşkanı Erdoğan'ın politikalarıyla Türkiye'nin sosyoekonomik potansiyelinin geliştiğini ve uluslararası prestijinin arttığını söyledi.",
@@ -715,6 +737,17 @@
    "category": "gundem",
    "date": "2026-10-30T08:06:00+00:00",
    "url": "/haber/tokayev-turkiye-dunyanin-en-onemli-ulkelerinden-biri-haline-geldi-0e04611e/"
+  },
+  {
+   "id": "77b65667",
+   "title": "İsrail ablukasının sürdüğü Gazze'de 10 yaşındaki Emir, tarihi geçmiş insülinlerle hayatta kalmaya çalışıyor",
+   "summary": "İsrail ablukası altındaki Gazze Şeridi'nde tarihi geçmiş insülin ilaçlarını kullanmak zorunda kalan Tip 1 diyabet hastası 10 yaşındaki Emir Cuha, hayatta kalmak için her gün yeni bir mücadelenin içine giriyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ablukasinin-surdugu-gazzede-10-yasindaki-emir-tarihi-gecmis-insulinlerle-hayatta-kalmaya-calisiyor/4105839",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T08:05:54+00:00",
+   "url": "/haber/israil-ablukasinin-surdugu-gazze-de-10-yasindaki-emir-tarihi-gecmis-in-77b65667/"
   },
   {
    "id": "ffe17d98",
@@ -871,17 +904,6 @@
    "url": "/haber/istanbul-un-15-ilcesinde-elektrik-kesintisi-sabah-baslayacak-aksama-ka-769ddfe6/"
   },
   {
-   "id": "5a4d8720",
-   "title": "Cumhurbaşkanı Erdoğan: Türk devletlerinin dayanışması stratejik bir zaruret haline gelmiştir",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, dünya siyasetinin köklü bir değişimden geçtiğini belirtip \"Türk devletlerinin dayanışması stratejik bir zaruret haline gelmiştir.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-turk-devletlerinin-dayanismasi-stratejik-bir-zaruret-haline-gelmistir-1748583",
-   "image": "https://images.ntv.com.tr/images/AA-20261029-42906105-42906097-TURK_DEVLETLERI_TESKILATI_TDT_13_ZIRVESI-461385.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T06:01:10+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-turk-devletlerinin-dayanismasi-stratejik-bir-zar-5a4d8720/"
-  },
-  {
    "id": "9ddfc16c",
    "title": "Cumhurbaşkanı Erdoğan: 21'inci yüzyıl 'Türk Dünyası Yüzyılı' olacak",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"21'inci yüzyılın ‘Türk Dünyası Yüzyılı’ olacağına yürekten inanıyorum. Ankara Zirvesi bu hedef doğrultusunda yeni ufuklar açacak, Teşkilatımızın uluslararası alandaki etkinliğini…",
@@ -891,17 +913,6 @@
    "category": "gundem",
    "date": "2026-10-30T05:40:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-21-inci-yuzyil-turk-dunyasi-yuzyili-olacak-9ddfc16c/"
-  },
-  {
-   "id": "b513cf62",
-   "title": "Samsung Galaxy S27'nin şarj hızı yine hayal kırıklığı yaratacak",
-   "summary": "Samsung Galaxy S27'nin yeni sertifikaları yayımlandı. Belgelerdeki değerler, akıllı telefonun önceki nesildeki gibi 25W kablolu şarj desteğiyle geleceğini gösteriyor.",
-   "link": "https://www.donanimhaber.com/samsung-galaxy-s27-nin-sarj-hizi-yine-hayal-kirikligi-yaratacak--212244",
-   "image": "https://www.donanimhaber.com/images/images/haber/212244/1200x675samsung-galaxy-s27-nin-sarj-hizi-yine-hayal-kirikligi-yaratacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-30T05:15:41+00:00",
-   "url": "/haber/samsung-galaxy-s27-nin-sarj-hizi-yine-hayal-kirikligi-yaratacak-b513cf62/"
   },
   {
    "id": "05a031b0",
@@ -979,17 +990,6 @@
    "category": "gundem",
    "date": "2026-10-30T00:14:01+00:00",
    "url": "/haber/31-mart-yerel-secimlerinden-bugune-istanbul-un-belediye-dagilimi-nasil-ca1d315d/"
-  },
-  {
-   "id": "7bdc81eb",
-   "title": "Amazon'un Gülümseten Kasım 2026 kampanyası başladı: İşte öne çıkan ilk indirimler!",
-   "summary": "Amazon Gülümseten Kasım 2026 indirimleri başladı. Elektronikten gıdaya birçok kategeeoride fırsatlar sunan kampanyada, yılıne sepette ek indirimler ve fiyat düşüşlerinde fark iadesi de var.",
-   "link": "https://www.donanimhaber.com/amazon-gulumseten-kasim-kampanyasi-2026-kampanyasi-basladi--212247",
-   "image": "https://www.donanimhaber.com/images/images/haber/212247/1200x675amazon-gulumseten-kasim-kampanyasi-2026-kampanyasi-basladi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-29T23:01:29+00:00",
-   "url": "/haber/amazon-un-gulumseten-kasim-2026-kampanyasi-basladi-iste-one-cikan-ilk-7bdc81eb/"
   },
   {
    "id": "c796d0b3",
