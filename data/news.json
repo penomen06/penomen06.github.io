@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-30T17:30:58.091652+00:00",
+ "updated": "2026-10-30T18:01:10.692763+00:00",
  "items": [
+  {
+   "id": "36652dcd",
+   "title": "Samsung’dan da kötü haber: Bellek krizi sürecek",
+   "summary": "Samsung, AI kaynaklı talep nedeniyle bellek kıtlığının 2027'de derinleşeceğini ve arz sıkıntısının 2028'e kadar süreceğini öngörürken 2027 HBM4 kapasitesinin tamamını şimdiden sattı.",
+   "link": "https://www.donanimhaber.com/samsung-dan-da-kotu-haber-bellek-krizi-surecek--212255",
+   "image": "https://www.donanimhaber.com/images/images/haber/212255/1200x675samsung-dan-da-kotu-haber-bellek-krizi-surecek.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-30T17:58:00+00:00",
+   "url": "/haber/samsung-dan-da-kotu-haber-bellek-krizi-surecek-36652dcd/"
+  },
+  {
+   "id": "f167097c",
+   "title": "Daltonlar soruşturması. 76 kişi için tutuklama talebi",
+   "summary": "İstanbul merkezli 30 ilde Daltonlar suç örgütüne düzenlenen operasyonlarda gözaltına alınan 90 şüpheliden 76'sı tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/daltonlar-sorusturmasi-76-kisi-icin-tutuklama-talebi-1748680",
+   "image": "https://images.ntv.com.tr/images/daltonlaroperasyon-658196.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-30T17:48:33+00:00",
+   "url": "/haber/daltonlar-sorusturmasi-76-kisi-icin-tutuklama-talebi-f167097c/"
+  },
+  {
+   "id": "0c722e52",
+   "title": "Bakırköy Belediyesine yönelik soruşturmada 40 şüpheliye tutuklama talebi",
+   "summary": "Bakırköy Belediyesine yönelik \"ihaleye fesat karıştırma\" ve \"irtikap\" suçlarına ilişkin soruşturma kapsamında gözaltına alınan 63 şüpheliden 40'ı tutuklanma talebiyle hakimliğe sevk edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakirkoy-belediyesine-yonelik-sorusturmada-40-supheliye-tutuklama-talebi/4106840",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T17:47:54+00:00",
+   "url": "/haber/bakirkoy-belediyesine-yonelik-sorusturmada-40-supheliye-tutuklama-tale-0c722e52/"
+  },
+  {
+   "id": "5e3e3511",
+   "title": "Yapay zeka veri merkezleri ABD'nin karbon salımını patlatabilir",
+   "summary": "Yapay zeka veri merkezlerinin enerji ihtiyacı ABD'de fosil yakıt yatırımlarını hızlandırıyor. Yeni analiz, elektrik kaynaklı karbon salımının 2030'a kadar yüzde 42 artabileceğini ortaya koyuyor.",
+   "link": "https://www.donanimhaber.com/yapay-zeka-veri-merkezleri-abd-nin-karbon-salimini-patlatabilir--212277",
+   "image": "https://www.donanimhaber.com/images/images/haber/212277/1200x675yapay-zeka-veri-merkezleri-abd-nin-karbon-salimini-patlatabilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-30T17:40:00+00:00",
+   "url": "/haber/yapay-zeka-veri-merkezleri-abd-nin-karbon-salimini-patlatabilir-5e3e3511/"
+  },
+  {
+   "id": "e86cd2c4",
+   "title": "Starlink Dinamik Fiyatlandırma Başladı: Aynı Plana Farklı Fiyat",
+   "summary": "SpaceX, Starlink dinamik fiyatlandırma modelini ABD'nin bazı bölgelerinde denemeye başladı. Abonelik ücreti artık yerel talebe ve şebeke kapasitesine göre de değişiyor.",
+   "link": "https://shiftdelete.net/starlink-dinamik-fiyatlandirma-abd-test",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T17:35:35+00:00",
+   "url": "/haber/starlink-dinamik-fiyatlandirma-basladi-ayni-plana-farkli-fiyat-e86cd2c4/"
+  },
   {
    "id": "2877a0dc",
    "title": "Samsung Intelligent Eyewear Aralıkta ABD ve Kore’de Satışa Çıkabilir",
@@ -22,6 +77,17 @@
    "category": "teknoloji",
    "date": "2026-10-30T17:25:35+00:00",
    "url": "/haber/rtx-5080-24gb-geliyor-cikis-tarihi-aralik-2026-da-olabilir-3078c6d9/"
+  },
+  {
+   "id": "c70eb606",
+   "title": "Mali'deki Mars göktaşının 4,1 milyar yıldan daha eski olduğu belirlendi",
+   "summary": "ABD Havacılık ve Uzay Ajansı (NASA) öncülüğündeki araştırmada, Mali'de bulunan Mars kökenli bir göktaşının 4,1 milyar yıldan daha eski olduğu ve gezegenin geçmişine ilişkin yeni bilgiler sunduğu belirlendi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/malideki-mars-goktasinin-4-1-milyar-yildan-daha-eski-oldugu-belirlendi/4106825",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T17:22:53+00:00",
+   "url": "/haber/mali-deki-mars-goktasinin-4-1-milyar-yildan-daha-eski-oldugu-belirlend-c70eb606/"
   },
   {
    "id": "c898ac9e",
@@ -387,17 +453,6 @@
    "url": "/haber/atlanta-daki-g20-disisleri-bakanlari-toplantisi-aile-fotografi-cekilme-e43d48bf/"
   },
   {
-   "id": "711bf6ad",
-   "title": "Gazze'de İsrail askerlerinin saldırısında yaralanan 8 yaşındaki çocuk kurtarılamadı",
-   "summary": "İsrail askerlerinin, Gazze Şeridi'nin güneyindeki Han Yunus kentinde açtığı ateş sonucu yaralanan 8 yaşındaki Filistinli çocuk, tedavi gördüğü hastanede yaşamını yitirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzede-israil-askerlerinin-saldirisinda-yaralanan-8-yasindaki-cocuk-kurtarilamadi/4106725",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T15:15:51+00:00",
-   "url": "/haber/gazze-de-israil-askerlerinin-saldirisinda-yaralanan-8-yasindaki-cocuk-711bf6ad/"
-  },
-  {
    "id": "e7fa0954",
    "title": "İspanya Ulaştırma Bakanı, tren kazasının ardından istifa etmeyecek",
    "summary": "İspanya Ulaştırma Bakanı Óscar Puente, en az 69 kişinin hayatını kaybettiği hızlı tren kazasının ardından istifa etmeyeceğini söyledi",
@@ -453,28 +508,6 @@
    "url": "/haber/putin-den-elon-musk-a-ovgu-dolu-sozler-gercek-bir-deha-96f794eb/"
   },
   {
-   "id": "8d323755",
-   "title": "Daltonlar soruşturması. 52 kişi için tutuklama talebi",
-   "summary": "İstanbul merkezli 30 ilde Daltonlar suç örgütüne düzenlenen operasyonlarda gözaltına alınan 52 şüpheli tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/daltonlar-sorusturmasi-52-kisi-icin-tutuklama-talebi-1748680",
-   "image": "https://images.ntv.com.tr/images/daltonlaroperasyon-658196.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T14:54:31+00:00",
-   "url": "/haber/daltonlar-sorusturmasi-52-kisi-icin-tutuklama-talebi-8d323755/"
-  },
-  {
-   "id": "8ebbc4cc",
-   "title": "Sahte Claude Code Eklentisi Cursor Mağazasında: 5.000 Kişi Etkilendi",
-   "summary": "Cursor'un VS Code eklenti mağazasında yer alan sahte Claude Code eklentisi, 5.000 kişi tarafından yüklendi. Kötü amaçlı kod, kalıcı bir SSH arka kapısı kurmaya çalışıyor.",
-   "link": "https://shiftdelete.net/sahte-claude-code-eklentisi-cursor-magazasi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T14:51:26+00:00",
-   "url": "/haber/sahte-claude-code-eklentisi-cursor-magazasinda-5-000-kisi-etkilendi-8ebbc4cc/"
-  },
-  {
    "id": "277f1f67",
    "title": "Epic Games'in bu haftaki ücretsiz oyunları erişime açıldı",
    "summary": "Epic Games Store ücretsiz oyun fırsatlarına devam ediyor. Son olarak 29 Ekim-5 Kasım tarihleri arasında sunulacak yeni ücretsiz oyunlar erişime açıldı. İşte bu haftanın ücretsiz oyunları...",
@@ -528,17 +561,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T14:14:08+00:00",
    "url": "/haber/film-yapimcisi-rian-johnson-ses-getiren-bir-iphone-fotografcilik-uygul-1ea38fcb/"
-  },
-  {
-   "id": "463bd293",
-   "title": "Bakan Yumaklı: Hayvancılıkta son 24 yılda sağlanan destekler 663 milyar liraya ulaştı",
-   "summary": "Tarım ve Orman Bakanı Yumaklı, hayvancılık sektörüne son 24 yılda sağlanan desteklerin 663 milyar liraya ulaştığını belirterek, \"Onay aldığı takdirde 2027 yılı için destek bütçesini yüzde 41,5 artırarak 54,5 milyar…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-hayvancilikta-son-24-yilda-saglanan-destekler-663-milyar-liraya-ulasti/4106625",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T14:07:52+00:00",
-   "url": "/haber/bakan-yumakli-hayvancilikta-son-24-yilda-saglanan-destekler-663-milyar-463bd293/"
   },
   {
    "id": "80d6ea7b",
@@ -695,17 +717,6 @@
    "url": "/haber/apple-macos-u-dokunmatik-kullanim-icin-iyilestirecek-00ada185/"
   },
   {
-   "id": "4ecd13c0",
-   "title": "Binance’i vuran en büyük kripto para hırsızlığının altından Kuzey Kore çıktı",
-   "summary": "TRM Labs, Binance'e yönelik 6,36 milyar dolarlık saldırının arkasında Kuzey Kore bağlantılı TraderTraitor grubunun bulunduğunu açıkladı. Saldırının teknik ayrıntıları da ortaya çıktı.",
-   "link": "https://www.donanimhaber.com/en-buyuk-kripto-para-hirsizliginin-altindan-kuzey-kore-cikti--212270",
-   "image": "https://www.donanimhaber.com/images/images/haber/212270/1200x675en-buyuk-kripto-para-hirsizliginin-altindan-kuzey-kore-cikti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-30T13:04:00+00:00",
-   "url": "/haber/binance-i-vuran-en-buyuk-kripto-para-hirsizliginin-altindan-kuzey-kore-4ecd13c0/"
-  },
-  {
    "id": "3273f8c6",
    "title": "Üç raylı sistemle bağlanacak. Test sürüşü yapıldı, İstanbul'un yeni metro hattı açılıyor",
    "summary": "İstanbul'da Marmaray, Üsküdar-Çekmeköy ve Kadıköy Sabiha Gökçen hatlarıyla bağlantılı M12 Ümraniye-Ataşehir-Göztepe Metro Hattı'nda test sürüşü yapıldı. Yeni metro hattı aralık ayında açılacak.",
@@ -726,17 +737,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T12:49:36+00:00",
    "url": "/haber/samsung-katlanabilir-ekranli-bir-tablet-gelistiriyor-olabilir-9ede4196/"
-  },
-  {
-   "id": "60df2ecf",
-   "title": "Google Gemini artık PDF ve belge oluşturup düzenleyebiliyor",
-   "summary": "Google, Gemini'a sohbet üzerinden PDF, belge, tablo ve sunum oluşturma ve düzenleme desteği ekledi. Yeni özellik sayesinde kullanıcılar dosyalarını uygulamadan ayrılmadan düzenleyebilecek.",
-   "link": "https://www.donanimhaber.com/google-gemini-artik-pdf-ve-belge-olusturup-duzenleyebiliyor--212275",
-   "image": "https://www.donanimhaber.com/images/images/haber/212275/1200x675google-gemini-artik-pdf-ve-belge-olusturup-duzenleyebiliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-30T12:42:00+00:00",
-   "url": "/haber/google-gemini-artik-pdf-ve-belge-olusturup-duzenleyebiliyor-60df2ecf/"
   },
   {
    "id": "bcbb17f5",
@@ -1245,15 +1245,15 @@
    "url": "/haber/bebekken-cantalara-konularak-terk-edilen-kardesler-yillar-sonra-birara-63e69cfc/"
   },
   {
-   "id": "6f9722e5",
-   "title": "ABD'li oyuncu Hayden Panettiere'nin ölümü 'kaza sonucu'",
-   "summary": "Heroes ve Nashville dizilerinin yıldızı, Ağustos ayında fentanil, Xanax ve diğer bazı ilaçların toksik etkileri nedeniyle hayatını kaybetti.",
-   "link": "https://www.bbc.com/turkce/articles/cm62yl58x6gko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c143/live/4223ae30-d313-11f1-808a-1f9b061d2360.jpg",
+   "id": "9c599443",
+   "title": "Dondurulmuş veya konserve gıdalar sağlıklı mı?",
+   "summary": "Birçok kişi taze ürünlerin her halükarda en iyi seçenek olduğunu varsayar, ancak uzmanlara göre durum bu kadar basit değil.",
+   "link": "https://www.bbc.com/turkce/articles/c9x284ex08lgo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92cb/live/e2d13e20-d2ea-11f1-b441-2b33b063138f.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-10-29T00:07:54+00:00",
-   "url": "/haber/abd-li-oyuncu-hayden-panettiere-nin-olumu-kaza-sonucu-6f9722e5/"
+   "date": "2026-10-28T16:19:51+00:00",
+   "url": "/haber/dondurulmus-veya-konserve-gidalar-saglikli-mi-9c599443/"
   },
   {
    "id": "01c744d2",
