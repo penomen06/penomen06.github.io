@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T03:31:00.189709+00:00",
+ "updated": "2026-10-30T04:01:09.145833+00:00",
  "items": [
   {
    "id": "5f175d5e",
@@ -9,15 +9,48 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-30T03:30:00+00:00",
+   "date": "2026-10-30T04:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-5f175d5e/"
+  },
+  {
+   "id": "7b4fbeb6",
+   "title": "İngiltere Deniz Ticaret Operasyonları: Hürmüz Boğazı'nda bir gemide yangın çıktı",
+   "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'nda Umman açıklarında seyreden bir gemide yangın çıktığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-gemide-yangin-cikti/4105557",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T03:37:43+00:00",
+   "url": "/haber/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazi-nda-bir-gemide-yan-7b4fbeb6/"
+  },
+  {
+   "id": "071d91fb",
+   "title": "Yapay zeka Google'a 500 milyar dolar kaybettirdi",
+   "summary": "Google'ın ana şirketi Alphabet, perşembe günü ticari operasyonlarına ilişkin yılın son güncellemesiyle Wall Street'i sarsmasının ardından 500 milyar dolardan biraz fazla değer kaybetti.",
+   "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-googlea-500-milyar-dolar-kaybettirdi-961686.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2076000/google-reu-2076406.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-30T03:32:00+00:00",
+   "url": "/haber/yapay-zeka-google-a-500-milyar-dolar-kaybettirdi-071d91fb/"
+  },
+  {
+   "id": "a767912e",
+   "title": "Hafta sonu hava nasıl olacak?",
+   "summary": "Hafta sonu yurdun batı ve kıyı kesimlerinde gök gürültülü sağanak etkili olacak. Ege, Akdeniz ve Marmara'da yağış beklenirken, İç Anadolu ve Doğu Anadolu'da parçalı bulutlu bir hava hakim olacak. Sıcaklıklar ise mevsim…",
+   "link": "https://www.trthaber.com/haber/gundem/hafta-sonu-hava-nasil-olacak-961685.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1476000/yagmursemsiyesaganak-1476129.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-30T03:26:00+00:00",
+   "url": "/haber/hafta-sonu-hava-nasil-olacak-a767912e/"
   },
   {
    "id": "09568d94",
    "title": "TDT 13. Liderler Zirvesi Türk Yüzyılı temasıyla başlıyor",
    "summary": "Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi, \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" temasıyla bugün Ankara’da düzenlenecek. Türk dünyasında işbirliğinin güçlendirilmesinde ve ortak bir…",
    "link": "https://www.trthaber.com/haber/gundem/tdt-13-liderler-zirvesi-turk-yuzyili-temasiyla-basliyor-961682.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/tdt-bestepe-2499437.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/tdt-bestepe-2499740.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-30T03:08:00+00:00",
@@ -376,17 +409,6 @@
    "url": "/haber/kapadokya-da-peribacasi-coktu-uc-kisi-hayatini-kaybetti-6ecf2423/"
   },
   {
-   "id": "743b2e54",
-   "title": "İstanbul'da düzenlenecek 2027 UEFA Konferans Ligi finalinin hazırlıkları sürüyor",
-   "summary": "Türkiye Futbol Federasyonu (TFF), İstanbul'da oynanacak 2027 UEFA Konferans Ligi finalinin hazırlıklarının sürdüğünü duyurdu.",
-   "link": "https://www.aa.com.tr/tr/spor/istanbulda-duzenlenecek-2027-uefa-konferans-ligi-finalinin-hazirliklari-suruyor/4105430",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T19:31:19+00:00",
-   "url": "/haber/istanbul-da-duzenlenecek-2027-uefa-konferans-ligi-finalinin-hazirlikla-743b2e54/"
-  },
-  {
    "id": "e2f70e81",
    "title": "ChatGPT Pro ve Business Abonelerine Aylık 500 Dolara Kadar API Kredisi",
    "summary": "OpenAI, uygun ChatGPT Pro ve Business abonelerine her ay 500 dolara kadar API kredisi vermeye başladı. Krediler uygulama ve yapay zekâ ajanı geliştirmek için kullanılabiliyor.",
@@ -583,17 +605,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T16:08:38+00:00",
    "url": "/haber/mistral-1-trilyon-parametreye-sahip-acik-agirlikli-modeli-large-4-u-le-95c01479/"
-  },
-  {
-   "id": "3704e750",
-   "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönemi Türk asrı yapmak için mücadele edeceğiz",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türk dünyası olarak tam bir dayanışma içinde, karşılıklı saygı ve kardeşlik içinde geleceğimize beraber yürüyeceğimize, önümüzdeki dönemi inşallah Türk asrı yapmak için mücadele…",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-onumuzdeki-donemi-turk-asri-yapmak-icin-mucadele-edecegiz-961658.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/erdogan-aa-2499675.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-29T16:05:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-onumuzdeki-donemi-turk-asri-yapmak-icin-mucadele-3704e750/"
   },
   {
    "id": "34ed29b3",
@@ -1166,17 +1177,6 @@
    "category": "gundem",
    "date": "2026-10-29T06:07:11+00:00",
    "url": "/haber/bebekken-cantalara-konularak-terk-edilen-kardesler-yillar-sonra-birara-63e69cfc/"
-  },
-  {
-   "id": "e4b50717",
-   "title": "Cumhurbaşkanı Erdoğan'dan 29 Ekim Cumhuriyet Bayramı mesajı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhuriyetin 103. yılı için verdiği mesajda, \"Türkiye hamdolsun bugün dünden daha güçlüdür. İnşallah yarın çok daha güçlü, çok daha etkin olacaktır\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-961573.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/recep-tayyip-erdogan-trt-2499321.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-29T06:00:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-dan-29-ekim-cumhuriyet-bayrami-mesaji-e4b50717/"
   },
   {
    "id": "3ffc7041",
