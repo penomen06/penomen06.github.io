@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T05:01:07.124604+00:00",
+ "updated": "2026-10-30T05:30:57.879375+00:00",
  "items": [
   {
    "id": "5f175d5e",
@@ -9,8 +9,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-30T05:00:00+00:00",
+   "date": "2026-10-30T05:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-5f175d5e/"
+  },
+  {
+   "id": "c2c5dfc5",
+   "title": "Meteorolojiden 21 şehir için uyarı: Sağanak, sel ve fırtına riskine dikkat",
+   "summary": "Türkiye'nin birçok şehrinde bugün de yağmur etkili olacak. Meteoroloji Genel Müdürlüğü aralarında İstanbul'un da olduğu 21 şehir için sarı kodlu uyarıda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-meteorolojiden-21-sehir-icin-uyari-saganak-sel-ve-firtina-riskine-dikkat-1748580",
+   "image": "https://images.ntv.com.tr/images/sel-tehlikesi-629050.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-30T05:28:54+00:00",
+   "url": "/haber/meteorolojiden-21-sehir-icin-uyari-saganak-sel-ve-firtina-riskine-dikk-c2c5dfc5/"
+  },
+  {
+   "id": "4713b661",
+   "title": "Hexologic Steam’de Ücretsiz Oldu – 249 TL’lik Bulmaca Oyunu",
+   "summary": "Sudoku mantığını altıgen hücrelerle buluşturan Hexologic, Steam'de kısa süreliğine ücretsiz oldu. Oyunu 31 Ekim saat 20.00'ye kadar hesaba ekleyen oyuncular kalıcı olarak sahip olacak.",
+   "link": "https://shiftdelete.net/hexologic-steam-ucretsiz-bulmaca-oyunu",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T05:22:58+00:00",
+   "url": "/haber/hexologic-steam-de-ucretsiz-oldu-249-tl-lik-bulmaca-oyunu-4713b661/"
+  },
+  {
+   "id": "b513cf62",
+   "title": "Samsung Galaxy S27'nin şarj hızı yine hayal kırıklığı yaratacak",
+   "summary": "Samsung Galaxy S27'nin yeni sertifikaları yayımlandı. Belgelerdeki değerler, akıllı telefonun önceki nesildeki gibi 25W kablolu şarj desteğiyle geleceğini gösteriyor.",
+   "link": "https://www.donanimhaber.com/samsung-galaxy-s27-nin-sarj-hizi-yine-hayal-kirikligi-yaratacak--212244",
+   "image": "https://www.donanimhaber.com/images/images/haber/212244/1200x675samsung-galaxy-s27-nin-sarj-hizi-yine-hayal-kirikligi-yaratacak.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-30T05:15:41+00:00",
+   "url": "/haber/samsung-galaxy-s27-nin-sarj-hizi-yine-hayal-kirikligi-yaratacak-b513cf62/"
+  },
+  {
+   "id": "301855e3",
+   "title": "Sorry We’re Closed Epic Games Store’da Ücretsiz – 349 TL Değerinde",
+   "summary": "Epic Games Store, hayatta kalma-korku türündeki Sorry We're Closed oyununu 5 Kasım 2026'ya kadar ücretsiz veriyor. Oyunun değeri 349 TL. Kütüphanenize eklemek için az zaman kaldı.",
+   "link": "https://shiftdelete.net/sorry-were-closed-epic-games-store-ucretsiz",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T05:12:58+00:00",
+   "url": "/haber/sorry-we-re-closed-epic-games-store-da-ucretsiz-349-tl-degerinde-301855e3/"
+  },
+  {
+   "id": "ef8b26ca",
+   "title": "Trump Mobile T1 Dayanıklılık Testi: İçi HTC U24 Pro Çıktı",
+   "summary": "Altın renkli Trump Mobile T1, JerryRigEverything'in dayanıklılık testinden başarıyla çıktı. Ancak telefon açıldığında içinden 2024 model HTC U24 Pro'nun donanımı çıktı.",
+   "link": "https://shiftdelete.net/trump-mobile-t1-dayaniklilik-testi-htc-u24-pro",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T05:02:58+00:00",
+   "url": "/haber/trump-mobile-t1-dayaniklilik-testi-ici-htc-u24-pro-cikti-ef8b26ca/"
   },
   {
    "id": "fffff1ce",
@@ -541,17 +596,6 @@
    "url": "/haber/football-manager-2027-bu-hafta-ucretsiz-oynanabilecek-be621776/"
   },
   {
-   "id": "ca3c68fa",
-   "title": "Windows 11 KB5127936 Güncellemesi Yayınlandı: Sağ Tık Menüsü Artık Özelleştirilebiliyor",
-   "summary": "Windows 11 KB5127936 güncellemesi yayınlandı. Yeni sağ tık menüsü özelleştirilebiliyor, Dosya Gezgini ve Xbox moduna yenilikler geliyor.",
-   "link": "https://shiftdelete.net/windows-11-kb5127936-guncellemesi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-29T18:12:27+00:00",
-   "url": "/haber/windows-11-kb5127936-guncellemesi-yayinlandi-sag-tik-menusu-artik-ozel-ca3c68fa/"
-  },
-  {
    "id": "0dd34cd7",
    "title": "Cumhuriyet'in 103 yıllık ışığı Galata Kulesi'ni aydınlattı",
    "summary": "Cumhuriyet’in 103’üncü yıl dönümünde Galata Kulesi, Gazi Mustafa Kemal Atatürk’ün fotoğrafları ve ay yıldızla aydınlandı.",
@@ -618,17 +662,6 @@
    "url": "/haber/samsung-galaxy-watch-ve-ring-uyku-apnesini-daha-ayrintili-izleyecek-cdb4956c/"
   },
   {
-   "id": "d8b8cb0e",
-   "title": "Google Immersive Explorations Gemini’ye Geldi: Konular Katman Katman Keşfediliyor",
-   "summary": "Google Immersive Explorations ile Gemini'ye etkileşimli keşif kütüphanesi geldi. Aynı gün Connected Apps Platform da geliştiricilere açıldı.",
-   "link": "https://shiftdelete.net/google-immersive-explorations",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-29T17:14:11+00:00",
-   "url": "/haber/google-immersive-explorations-gemini-ye-geldi-konular-katman-katman-ke-d8b8cb0e/"
-  },
-  {
    "id": "e98c3d20",
    "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü. Trump, Cumhurbaşkanı Erdoğan'a Türk Devletleri Teşkilatı (TDT) Liderler Zirvesi için başarı dileklerini iletti.",
@@ -649,17 +682,6 @@
    "category": "gundem",
    "date": "2026-10-29T16:43:55+00:00",
    "url": "/haber/azerbaycan-medyasi-aliyev-turkiye-ye-gitmeyecek-d5ae1007/"
-  },
-  {
-   "id": "cd495382",
-   "title": "Reddit Sana Özel Akışını Tanıttı: Ana Sayfa İkiye Ayrılıyor",
-   "summary": "Reddit Sana Özel akışını tanıttı. Yeni akış önerileri topluluklarınızla birleştiriyor, Takip Edilenler ise yalnızca üye olduklarınızı gösteriyor.",
-   "link": "https://shiftdelete.net/reddit-sana-ozel-akis",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-29T16:13:36+00:00",
-   "url": "/haber/reddit-sana-ozel-akisini-tanitti-ana-sayfa-ikiye-ayriliyor-cd495382/"
   },
   {
    "id": "95c01479",
@@ -739,17 +761,6 @@
    "url": "/haber/elektrikli-otomobillerde-menzili-artirmak-icin-buyuk-batarya-mi-hizli-beec0347/"
   },
   {
-   "id": "5711f7d2",
-   "title": "Devran döndü: Bellek üreticileri Apple’dan intikam alıyor",
-   "summary": "Teknoloji devi Apple’ın yıllarca bellek tedarikçilerini baskı altına aldığı ve en ucuz fiyattan bellek tedarik etmeye çalıştığı ortaya çıktı. Şimdi ise bellek tedarikçilerinin eli güçleniyor.",
-   "link": "https://www.donanimhaber.com/devran-dondu-bellek-ureticileri-apple-dan-intikam-aliyor--212238",
-   "image": "https://www.donanimhaber.com/images/images/haber/212238/1200x675devran-dondu-bellek-ureticileri-apple-dan-intikam-aliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-29T15:00:00+00:00",
-   "url": "/haber/devran-dondu-bellek-ureticileri-apple-dan-intikam-aliyor-5711f7d2/"
-  },
-  {
    "id": "0174a359",
    "title": "Cumhurbaşkanı Erdoğan, Özbekistan Cumhurbaşkanı Mirziyoyev ile görüştü. 5 anlaşma imzalandı",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özbekistan Cumhurbaşkanı Şevket Mirziyoyev ile bir araya geldi.",
@@ -781,17 +792,6 @@
    "category": "gundem",
    "date": "2026-10-29T14:10:06+00:00",
    "url": "/haber/hakkinda-ev-hapsi-karari-verilen-sinem-dedetas-tahliye-oldu-599fa173/"
-  },
-  {
-   "id": "1860b3f0",
-   "title": "Sinem Dedetaş'a ev hapsiyle tahliye",
-   "summary": "Tutuklandıktan sonra Üsküdar Belediye Başkanlığı görevinden uzaklaştırılan Sinem Dedetaş'ın ev hapsi şartıyla tahliyesine karar verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/sinem-dedetasa-ev-hapsiyle-tahliye-1748516",
-   "image": "https://images.ntv.com.tr/images/dedetaştahliye-162824.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-29T13:40:00+00:00",
-   "url": "/haber/sinem-dedetas-a-ev-hapsiyle-tahliye-1860b3f0/"
   },
   {
    "id": "b18fb03a",
