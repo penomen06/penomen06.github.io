@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T06:01:07.438433+00:00",
+ "updated": "2026-10-30T06:30:57.890586+00:00",
  "items": [
   {
    "id": "5f175d5e",
@@ -9,8 +9,195 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-30T06:00:00+00:00",
+   "date": "2026-10-30T06:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-5f175d5e/"
+  },
+  {
+   "id": "be637151",
+   "title": "Windows 11 artık bulut üzerinden sıfırdan yeniden kurulabiliyor",
+   "summary": "Windows 11 için yayımlanan “KB5127936” güncellemesiyle kullanıma sunulan “Cloud Rebuild” adlı yeni özellik, açılmayan bilgisayarlarda işletim sistemini ve sürücüleri “Windows Update” üzerinden yeniden yüklüyor. Bu…",
+   "link": "https://www.log.com.tr/windows-11-artik-bulut-uzerinden-sifirdan-yeniden-kurulabiliyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/04/windows-11-icin-yeni-bir-dokunsal-geri-bildirim-altyapisi-test-ediliyor-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:28:53+00:00",
+   "url": "/haber/windows-11-artik-bulut-uzerinden-sifirdan-yeniden-kurulabiliyor-be637151/"
+  },
+  {
+   "id": "bc104638",
+   "title": "İstanbul'daki kara para aklama soruşturmasında yakalanan 8 şüpheli adliyede",
+   "summary": "Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin soruşturmada gözaltına alınan 8 şüpheli adliyeye sevk edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-kara-para-aklama-sorusturmasinda-yakalanan-8-supheli-adliyede-/4105618",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T06:24:33+00:00",
+   "url": "/haber/istanbul-daki-kara-para-aklama-sorusturmasinda-yakalanan-8-supheli-adl-bc104638/"
+  },
+  {
+   "id": "769ddfe6",
+   "title": "İstanbul'un 15 ilçesinde elektrik kesintisi. Sabah başlayacak, akşama kadar sürecek",
+   "summary": "İstanbul'un 15 ilçesinde 31 Ekim Cumartesi günü elektrik kesintisi yaşanacak. BEDAŞ tarafından yapılan açıklamaya göre bazı ilçelerde elektrik kesintisi sabah başlayıp, akşam saatlerine kadar sürecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulun-15-ilcesinde-elektrik-kesintisi-sabah-baslayacak-aksama-kadar-surecek-1748584",
+   "image": "https://images.ntv.com.tr/images/istanbulelektrikkesintisiyeniköprülü-615917.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-30T06:24:07+00:00",
+   "url": "/haber/istanbul-un-15-ilcesinde-elektrik-kesintisi-sabah-baslayacak-aksama-ka-769ddfe6/"
+  },
+  {
+   "id": "5b79a596",
+   "title": "Intel Moon Lake İşlemciler Yolda: Sadece 4 LP Çekirdek Olacak",
+   "summary": "Intel, düşük güç tüketimli işlemci ailesini iki yönde genişletmeye hazırlanıyor. Intel Moon Lake, büyük ve normal küçük çekirdek içermeyen, yalnızca dört LP çekirdekli bir seri olarak geliyor.",
+   "link": "https://shiftdelete.net/intel-moon-lake-islemciler-4-lp-cekirdek",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:22:58+00:00",
+   "url": "/haber/intel-moon-lake-islemciler-yolda-sadece-4-lp-cekirdek-olacak-5b79a596/"
+  },
+  {
+   "id": "7700486d",
+   "title": "Binance, siber saldırının toplam etkisinin 6,3 milyar doları bulabileceğini açıkladı",
+   "summary": "Kripto para borsası Binance, platformunda yaşanan güvenlik ihlalinin tahmini boyutunun 6,3 milyar dolar olduğunu, yaklaşık 3 milyar dolarlık varlığın dondurulduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/binance-siber-saldirinin-toplam-etkisinin-6-3-milyar-dolari-bulabilecegini-acikladi/4105613",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T06:22:03+00:00",
+   "url": "/haber/binance-siber-saldirinin-toplam-etkisinin-6-3-milyar-dolari-bulabilece-7700486d/"
+  },
+  {
+   "id": "ae617d62",
+   "title": "Sarıgül soruşturmasında yeni dalga. 11 kişi için yeni gözaltı kararı",
+   "summary": "Sarıgül soruşturması genişliyor. Aralarında kamp görevlisi, yakın koruma, erkek berberinin de bulunduğu 8 kişi adliyeye sevk edilirken 11 şüpheli hakkında daha gözaltı kararı verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-yeni-dalga-11-kisi-icin-yeni-gozalti-karari-1748585",
+   "image": "https://images.ntv.com.tr/images/mustafasarıgül-694720.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-30T06:21:41+00:00",
+   "url": "/haber/sarigul-sorusturmasinda-yeni-dalga-11-kisi-icin-yeni-gozalti-karari-ae617d62/"
+  },
+  {
+   "id": "943b5261",
+   "title": "Gemini artık doğrudan sohbet penceresinde belge oluşturarak düzenleyebiliyor",
+   "summary": "Artık belgeler, PDF’ler, sunumlar, elektronik tablolar ve fazlası doğrudan Gemini içerisinde oluşturabiliyor ve dosyalar üzerinde gerçek zamanlı düzenleme yapılabiliyor. Kullanıcılar dosyayı tam ekranda açarak…",
+   "link": "https://www.log.com.tr/gemini-artik-dogrudan-sohbet-penceresinde-belge-olusturarak-duzenleyebiliyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-30_09-15-23_uXeG6-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:21:35+00:00",
+   "url": "/haber/gemini-artik-dogrudan-sohbet-penceresinde-belge-olusturarak-duzenleyeb-943b5261/"
+  },
+  {
+   "id": "f7a54398",
+   "title": "Cumhurbaşkanı Erdoğan: Türk devletlerinin dayanışması stratejik bir zaruret haline gelmiştir",
+   "summary": "Cumhurbaşkanı Erdoğan, \"Uluslararası sistemin adalet ve güveni tesis etmekte zorlandığı, savaşların ve krizlerin geniş coğrafyaları etkilediği bir dönemde Türk devletlerinin dayanışması stratejik bir zaruret haline…",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turk-devletlerinin-dayanismasi-stratejik-bir-zaruret-haline-gelmistir/4105606",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T06:17:10+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-turk-devletlerinin-dayanismasi-stratejik-bir-zar-f7a54398/"
+  },
+  {
+   "id": "1d5ce4e1",
+   "title": "iPhone Air 2 Sızdırıldı: Daha Büyük Batarya ve Çift Kamera",
+   "summary": "iPhone Air 2 için yeni bir sızıntı ortaya çıktı. İddiaya göre telefon, ilk nesle kıyasla daha büyük bataryayla ve çift arka kamerayla gelecek; lansmanın 2027 baharında yapılması bekleniyor.",
+   "link": "https://shiftdelete.net/iphone-air-2-cift-kamera-buyuk-batarya",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:12:58+00:00",
+   "url": "/haber/iphone-air-2-sizdirildi-daha-buyuk-batarya-ve-cift-kamera-1d5ce4e1/"
+  },
+  {
+   "id": "0d6475cc",
+   "title": "Reddit, yakında herkesi oturum açmaya zorlayacak",
+   "summary": "Reddit’teki içerikler şu anda hesap girişi yapılmadan da görülebiliyor. Önümüzdeki dönemde bu durumu değiştirecek olan şirket, içeriklerin kişisel hesaplara oturum açılmadan görüntülenmesine izin vermeyecek. Şirket…",
+   "link": "https://www.log.com.tr/reddit-yakinda-herkesi-oturum-acmaya-zorlayacak/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2024/02/reddit-iceriklerini-yapay-zeka-egitimi-icin-googlea-satti-2--660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:10:54+00:00",
+   "url": "/haber/reddit-yakinda-herkesi-oturum-acmaya-zorlayacak-0d6475cc/"
+  },
+  {
+   "id": "aeee675b",
+   "title": "Küresel piyasalarda teknoloji hisselerine dair endişelerle satış baskısı arttı",
+   "summary": "Küresel piyasalarda teknoloji şirketlerinin bilançolarından gelen karışık sinyallerin yapay zeka yatırımlarının karlılığına dair soru işaretlerini artırması ve ABD verilerinin Fed'in faiz artırma beklentisini…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-teknoloji-hisselerine-dair-endiselerle-satis-baskisi-artti/4105604",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T06:09:45+00:00",
+   "url": "/haber/kuresel-piyasalarda-teknoloji-hisselerine-dair-endiselerle-satis-baski-aeee675b/"
+  },
+  {
+   "id": "56e618c9",
+   "title": "Türkiye-Özbekistan ticaret ve yatırım işbirliğinin güçlendirilmesi için konsey kurulacak",
+   "summary": "Ticaret Bakanlığı, Türkiye ile Özbekistan arasında kurulacak İş Dünyasının Desteklenmesine Dair Yüksek Düzeyli Konsey ile ticaret ve yatırım işbirliğinin güçlendirilmesinin hedeflendiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ozbekistan-ticaret-ve-yatirim-isbirliginin-guclendirilmesi-icin-konsey-kurulacak/4105603",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T06:09:44+00:00",
+   "url": "/haber/turkiye-ozbekistan-ticaret-ve-yatirim-isbirliginin-guclendirilmesi-ici-56e618c9/"
+  },
+  {
+   "id": "8ba05840",
+   "title": "İstanbul merkezli 3 ilde FETÖ'nün güncel yapılanmasına yönelik operasyonda 10 şüpheli yakalandı",
+   "summary": "İstanbul merkezli 3 ilde Fetullahçı Terör Örgütü'nün (FETÖ) güncel yapılanmasına yönelik düzenlenen operasyonda 10 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-3-ilde-fetonun-guncel-yapilanmasina-yonelik-operasyonda-10-supheli-yakalandi/4105602",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T06:08:24+00:00",
+   "url": "/haber/istanbul-merkezli-3-ilde-feto-nun-guncel-yapilanmasina-yonelik-operasy-8ba05840/"
+  },
+  {
+   "id": "c33e9da8",
+   "title": "Twitch artık Türkiye özelinde 15 yaşından küçük kişilerin yeni hesap oluşturmasına izin vermiyor",
+   "summary": "Twitch, X üzerinden yaptığı açıklamada yürürlüğe giren yeni yasa gereği 29 Ekim itibarıyla Türkiye’de 15 yaşından küçük kullanıcıların platformda yeni hesap oluşturmasına izin verilmeyeceğini duyurdu. Şirketin…",
+   "link": "https://www.log.com.tr/twitch-artik-turkiye-ozelinde-15-yasindan-kucuk-kisilerin-yeni-hesap-olusturmasina-izin-vermiyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2024/03/twitch-ceosu-platform-icin-2024-planlarini-paylasti-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:04:24+00:00",
+   "url": "/haber/twitch-artik-turkiye-ozelinde-15-yasindan-kucuk-kisilerin-yeni-hesap-o-c33e9da8/"
+  },
+  {
+   "id": "039988f5",
+   "title": "PS5 Bazzite Linux ile Steam Machine Gibi Çalışıyor – İşte Detaylar",
+   "summary": "PS5 Bazzite Linux sayesinde konsol, Steam Deck arayüzüyle doğrudan oyun moduna açılabiliyor. Güncel firmware'lerin hacklenmesinin ardından çıkan proje, GPU'daki 40 CU'nun tamamını da açıyor.",
+   "link": "https://shiftdelete.net/ps5-bazzite-linux-steam-machine-gibi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T06:02:58+00:00",
+   "url": "/haber/ps5-bazzite-linux-ile-steam-machine-gibi-calisiyor-iste-detaylar-039988f5/"
+  },
+  {
+   "id": "5a4d8720",
+   "title": "Cumhurbaşkanı Erdoğan: Türk devletlerinin dayanışması stratejik bir zaruret haline gelmiştir",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, dünya siyasetinin köklü bir değişimden geçtiğini belirtip \"Türk devletlerinin dayanışması stratejik bir zaruret haline gelmiştir.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-turk-devletlerinin-dayanismasi-stratejik-bir-zaruret-haline-gelmistir-1748583",
+   "image": "https://images.ntv.com.tr/images/AA-20261029-42906105-42906097-TURK_DEVLETLERI_TESKILATI_TDT_13_ZIRVESI-461385.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-30T06:01:10+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-turk-devletlerinin-dayanismasi-stratejik-bir-zar-5a4d8720/"
+  },
+  {
+   "id": "6de899ca",
+   "title": "PFDK derbinin cezalarını açıkladı",
+   "summary": "Türkiye Futbol Federasyonu (TFF) Profesyonel Futbol Disiplin Kurulu (PFDK), Fenerbahçe'den Archie Brown'a 3, Galatasaray'dan Abdülkerim Bardakcı'ya 2 maç men cezası verdi.",
+   "link": "https://www.aa.com.tr/tr/spor/pfdk-derbinin-cezalarini-acikladi/4105598",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T05:59:49+00:00",
+   "url": "/haber/pfdk-derbinin-cezalarini-acikladi-6de899ca/"
   },
   {
    "id": "fc6fd9ee",
@@ -24,15 +211,15 @@
    "url": "/haber/binance-turkiye-tum-kullanici-varliklari-guvendedir-fc6fd9ee/"
   },
   {
-   "id": "5a4d8720",
-   "title": "Cumhurbaşkanı Erdoğan: Türk devletlerinin dayanışması stratejik bir zaruret haline gelmiştir",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, dünya siyasetinin köklü bir değişimden geçtiğini belirtip \"Türk devletlerinin dayanışması stratejik bir zaruret haline gelmiştir.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-turk-devletlerinin-dayanismasi-stratejik-bir-zaruret-haline-gelmistir-1748583",
-   "image": "https://images.ntv.com.tr/images/AA-20261029-42906105-42906097-TURK_DEVLETLERI_TESKILATI_TDT_13_ZIRVESI-461385.jpg",
-   "source": "ntv.com.tr",
+   "id": "609c5587",
+   "title": "Kamu İhale Kurumu 25 uzman yardımcısı alacak",
+   "summary": "Kamu İhale Kurumu (KİK), 25 kamu ihale uzman yardımcısı istihdam edecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kamu-ihale-kurumu-25-uzman-yardimcisi-alacak/4105596",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-30T05:56:35+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-turk-devletlerinin-dayanismasi-stratejik-bir-zar-5a4d8720/"
+   "date": "2026-10-30T05:56:28+00:00",
+   "url": "/haber/kamu-ihale-kurumu-25-uzman-yardimcisi-alacak-609c5587/"
   },
   {
    "id": "ce95a3d4",
@@ -209,6 +396,17 @@
    "category": "gundem",
    "date": "2026-10-30T04:42:11+00:00",
    "url": "/haber/2026-kpss-on-lisans-sonuclari-aciklandi-ee821165/"
+  },
+  {
+   "id": "05a031b0",
+   "title": "21 il için sarı uyarı: Kuvvetli yağışa dikkat",
+   "summary": "Marmara'nın doğusu ile doğu ve güneydoğu kesimlerde beklenen kuvvetli yağış nedeniyle 21 il için \"sarı\" kodlu uyarıda bulunuldu.",
+   "link": "https://www.trthaber.com/haber/turkiye/21-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-961698.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2012000/diyarbakir-saganak-2012448.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-30T04:41:00+00:00",
+   "url": "/haber/21-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-05a031b0/"
   },
   {
    "id": "b4601559",
@@ -420,17 +618,6 @@
    "url": "/haber/binance-hacklendi-mi-cuzdanlardan-milyarlarca-dolar-cikti-b3955cfe/"
   },
   {
-   "id": "d4787d65",
-   "title": "TikTok Yapay Zeka için Enerji Arıyor",
-   "summary": "TikTok USDS, gelişmiş yapay zeka modelleri için 4 gigavatlık enerji kapasitesi arıyor. Şirket, Oracle ile iş birliğini sürdürmeye devam ediyor.",
-   "link": "https://shiftdelete.net/tiktok-usds-yapay-zeka-enerji-kapasitesi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-29T21:30:46+00:00",
-   "url": "/haber/tiktok-yapay-zeka-icin-enerji-ariyor-d4787d65/"
-  },
-  {
    "id": "e855d211",
    "title": "BM, Gazze'deki deposunun İsrail hava saldırılarında hasar gördüğünü belirtti",
    "summary": "Birleşmiş Milletler (BM), ateşkese rağmen İsrail'in Gazze'deki saldırılarının sürdüğünü ve bugün BM'ye ait bir deponun bu saldırılarda hasar gördüğünü bildirdi.",
@@ -440,39 +627,6 @@
    "category": "gundem",
    "date": "2026-10-29T21:03:57+00:00",
    "url": "/haber/bm-gazze-deki-deposunun-israil-hava-saldirilarinda-hasar-gordugunu-bel-e855d211/"
-  },
-  {
-   "id": "bb1c95f9",
-   "title": "Yemen'deki Husiler: Suudi Arabistan'ın saldırılarına 6 saldırıyla karşılık verdik",
-   "summary": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın düzenlediğini ileri sürdükleri saldırılara yanıt olarak 6 saldırı gerçekleştirdiklerini açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-saldirilarina-6-saldiriyla-karsilik-verdik/4105513",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T21:02:11+00:00",
-   "url": "/haber/yemen-deki-husiler-suudi-arabistan-in-saldirilarina-6-saldiriyla-karsi-bb1c95f9/"
-  },
-  {
-   "id": "65c93edc",
-   "title": "Google Yapay Zeka Reklamlarını Dünyaya Açıyor",
-   "summary": "Google, yapay zeka destekli arama reklamlarını küresel pazara taşıyor. Şirket, yavaşlayan arama reklamcılığı büyümesini yeni AI özellikleriyle aşmayı hedefliyor.",
-   "link": "https://shiftdelete.net/google-yapay-zeka-destekli-arama-reklamlari-kuresel-pazar",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-29T21:00:45+00:00",
-   "url": "/haber/google-yapay-zeka-reklamlarini-dunyaya-aciyor-65c93edc/"
-  },
-  {
-   "id": "e868b8d1",
-   "title": "Amazon'un üçüncü çeyrekte net satışları artarken net karı azaldı",
-   "summary": "ABD'li e-ticaret devi Amazon'un net satışları, bu yılın üçüncü çeyreğinde geçen yılın aynı dönemine göre yüzde 12 artarken net karı yüzde 2,4 azaldı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/amazonun-ucuncu-ceyrekte-net-satislari-artarken-net-kari-azaldi/4105504",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T20:55:23+00:00",
-   "url": "/haber/amazon-un-ucuncu-ceyrekte-net-satislari-artarken-net-kari-azaldi-e868b8d1/"
   },
   {
    "id": "cc63f611",
@@ -486,17 +640,6 @@
    "url": "/haber/super-loto-cekilis-sonuclari-belli-oldu-29-ekim-2026-mpi-super-loto-ka-cc63f611/"
   },
   {
-   "id": "422408a9",
-   "title": "Meta Gözlük Güncellemesi Zorunlu Oldu: Kullanıcılara E-posta Gönderildi",
-   "summary": "Meta gözlük güncellemesi zorunlu oldu. Meta, gözlüğü kullanmaya devam etmek için Meta AI uygulamasından güvenlik güncellemesi istiyor.",
-   "link": "https://shiftdelete.net/meta-gozluk-guncellemesi-zorunlu",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-29T20:40:10+00:00",
-   "url": "/haber/meta-gozluk-guncellemesi-zorunlu-oldu-kullanicilara-e-posta-gonderildi-422408a9/"
-  },
-  {
    "id": "c796d0b3",
    "title": "Star Trek efsanesi Patrick Stewart hayatını kaybetti",
    "summary": "Alzheimer ve demans hastası olan 86 yaşındaki oyuncu Patrick Stewart 29 Ekim Çarşamba günü Los Angeles'taki evinde hayatını kaybetti.",
@@ -506,39 +649,6 @@
    "category": "gundem",
    "date": "2026-10-29T20:38:33+00:00",
    "url": "/haber/star-trek-efsanesi-patrick-stewart-hayatini-kaybetti-c796d0b3/"
-  },
-  {
-   "id": "36a1300d",
-   "title": "İsrail ordusu, Gazze Şeridi'nde düzenlediği hava saldırılarıyla 2 evi yerle bir etti",
-   "summary": "İsrail ordusu, ateşkese rağmen Gazze Şeridi'ne düzenlediği hava saldırılarında 2 evi bombalayarak yerle bir etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazze-seridinde-duzenledigi-hava-saldirilariyla-2-evi-yerle-bir-etti-/4105477",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T20:31:05+00:00",
-   "url": "/haber/israil-ordusu-gazze-seridi-nde-duzenledigi-hava-saldirilariyla-2-evi-y-36a1300d/"
-  },
-  {
-   "id": "7060464b",
-   "title": "İsrail'de Ortak Liste liderlerinden Tıybi: Ortak Liste olarak Eisenkot'a destek vermeye hazırız",
-   "summary": "İsrail seçimlerinde tarihi bir temsil düzeyine ulaşan İsrail vatandaşı Filistinlileri temsil eden partilerden Taal'in lideri Tıybi, AA'ya yaptığı açıklamada, Ortak Liste olarak Eisenkot'a destek vermeye hazır…",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-ortak-liste-liderlerinden-tiybi-ortak-liste-olarak-eisenkota-destek-vermeye-haziriz/4105473",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T20:26:30+00:00",
-   "url": "/haber/israil-de-ortak-liste-liderlerinden-tiybi-ortak-liste-olarak-eisenkot-7060464b/"
-  },
-  {
-   "id": "f64ba76d",
-   "title": "ABD'nin Ankara Büyükelçisi Barrack, Cumhurbaşkanı Erdoğan ile Trump'ın telefon görüşmesini değerlendirdi",
-   "summary": "ABD'nin Ankara Büyükelçisi Barrack, \"Türk devletleri arasındaki ortaklık, her iki liderin de (ABD Başkanı Donald Trump-Cumhurbaşkanı Recep Tayyip Erdoğan) paylaştığı vizyonun merkezinde yer almaktadır.\" ifadesini…",
-   "link": "https://www.aa.com.tr/tr/gundem/abdnin-ankara-buyukelcisi-barrack-cumhurbaskani-erdogan-ile-trumpin-telefon-gorusmesini-degerlendirdi/4105463",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T20:10:14+00:00",
-   "url": "/haber/abd-nin-ankara-buyukelcisi-barrack-cumhurbaskani-erdogan-ile-trump-in-f64ba76d/"
   },
   {
    "id": "1b5b128f",
@@ -552,28 +662,6 @@
    "url": "/haber/bim-marketler-dji-drone-satacak-1b5b128f/"
   },
   {
-   "id": "a8804b1e",
-   "title": "ABD Başkanı Trump'ın, İran'a yönelik saldırı seçenekleri hakkında bilgilendirildiği iddia edildi",
-   "summary": "ABD Başkanı Donald Trump'ın, İran'a yönelik saldırı seçenekleri hakkında Merkez Kuvvetler Komutanı (CENTCOM) Brad Cooper tarafından bilgilendirildiği öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildigi-iddia-edildi/4105460",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T20:07:48+00:00",
-   "url": "/haber/abd-baskani-trump-in-iran-a-yonelik-saldiri-secenekleri-hakkinda-bilgi-a8804b1e/"
-  },
-  {
-   "id": "db6273db",
-   "title": "İsrail'de muhalefet lideri Eisenkot, Netanyahu'yu seçimleri geçersiz kılmak için kampanya yürütmekle suçladı",
-   "summary": "İsrail'de muhalefet lideri Gadi Eisenkot, Başbakan Binyamin Netanyahu'nun, seçim sonuçlarının geçerliliğini ortadan kaldırmak için organize bir kampanya yürüttüğünü belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-lideri-eisenkot-netanyahuyu-secimleri-gecersiz-kilmak-icin-kampanya-yurutmekle-sucladi/4105449",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T19:55:37+00:00",
-   "url": "/haber/israil-de-muhalefet-lideri-eisenkot-netanyahu-yu-secimleri-gecersiz-ki-db6273db/"
-  },
-  {
    "id": "4b9e068e",
    "title": "Anthropic, Claude Code harcamalarının getirisini ölçecek",
    "summary": "Anthropic, Claude Code ve diğer yapay zeka araçlarının işletmelere sağladığı değeri ölçmek için yeni raporlama araçları geliştirdi. İşte yeni sistemin detayları:",
@@ -583,17 +671,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T19:50:00+00:00",
    "url": "/haber/anthropic-claude-code-harcamalarinin-getirisini-olcecek-4b9e068e/"
-  },
-  {
-   "id": "f3547003",
-   "title": "İsrail İç İstihbarat Teşkilatı, seçimlere dış müdahale iddiasının herhangi bir partiden gelmediğini savundu",
-   "summary": "İsrail'de Filistinlileri temsil eden Arap partilerin seçim başarısının ardından soruşturma açılması talepleri üzerine Şin-Bet, seçimlere dış müdahaleye ilişkin bilginin herhangi bir parti veya siyasi oluşumdan…",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ic-istihbarat-teskilati-secimlere-dis-mudahale-iddiasinin-herhangi-bir-partiden-gelmedigini-savundu/4105440",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-29T19:41:19+00:00",
-   "url": "/haber/israil-ic-istihbarat-teskilati-secimlere-dis-mudahale-iddiasinin-herha-f3547003/"
   },
   {
    "id": "a995622f",
@@ -871,28 +948,6 @@
    "url": "/haber/gta-6-nin-ozgun-muzikleri-justice-tarafindan-hazirlandi-1a6fa0b7/"
   },
   {
-   "id": "2640e952",
-   "title": "Kapadokya'da peribacası çöktü: Olay yerinden yeni görüntü",
-   "summary": "Kapadokya Göreme Açık Hava Müzesi girişinde peribacası çöktü. Ölü ve yaralılar olduğu öğrenilirken bölgeye sağlık ve kurtarma ekipleri sevk edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-kapadokyada-peribacasi-coktu-olay-yerinden-yeni-goruntu-1748538",
-   "image": "https://images.ntv.com.tr/images/SDDSFDSF-787777.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-29T13:13:25+00:00",
-   "url": "/haber/kapadokya-da-peribacasi-coktu-olay-yerinden-yeni-goruntu-2640e952/"
-  },
-  {
-   "id": "c9ddae50",
-   "title": "Dışişleri Bakanı Fidan'dan TDT Dışişleri Bakanları Konseyi Toplantısına ilişkin paylaşım",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Ankara'da ev sahipliği yaptığı Türk Devletleri Teşkilatı (TDT) Dışişleri Bakanları Konseyi Toplantısına ilişkin mesaj paylaştı.",
-   "link": "https://www.ntv.com.tr/turkiye/disisleri-bakani-fidandan-tdt-disisleri-bakanlari-konseyi-toplantisina-iliskin-paylasim-1748535",
-   "image": "https://images.ntv.com.tr/images/AA-20261029-42898103-42898102-DISISLERI_BAKANI_HAKAN_FIDAN-847686.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-29T13:12:49+00:00",
-   "url": "/haber/disisleri-bakani-fidan-dan-tdt-disisleri-bakanlari-konseyi-toplantisin-c9ddae50/"
-  },
-  {
    "id": "38b8bbcc",
    "title": "GTA 6 Oynanış Görüntüleri South Park'ın Yeni Bölümünde Yayınlandı",
    "summary": "GTA 6'nın kısa oynanış görüntüsü South Park'ın yeni bölümünde gösterildi.",
@@ -957,28 +1012,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T12:44:08+00:00",
    "url": "/haber/gta-6-icin-south-park-ta-cok-kisa-bir-oynanis-videosu-paylasildi-db527150/"
-  },
-  {
-   "id": "aeb10366",
-   "title": "Dokunmatik OLED ekranlı yeni MacBook Pro, 1 milyon TL’ye kadar özelleştirilebiliyor",
-   "summary": "Dün gece tanıtılan dokunmatik OLED ekranlı yeni MacBook Pro’nun 16 inçlik modeli, 18 çekirdekli CPU ile 40 çekirdekli GPU’ya sahip M5 Max işlemci, 128 GB RAM, mat ekran kaplaması ve 16 TB SSD ile yapılandırıldığında,…",
-   "link": "https://www.log.com.tr/dokunmatik-oled-ekranli-yeni-macbook-pro-1-milyon-tlye-kadar-ozellestirilebiliyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/Ekran-Resmi-2026-10-28-20.34.49_FHD-1-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-29T12:34:25+00:00",
-   "url": "/haber/dokunmatik-oled-ekranli-yeni-macbook-pro-1-milyon-tl-ye-kadar-ozellest-aeb10366/"
-  },
-  {
-   "id": "5361ee1c",
-   "title": "Mac Studio artık 1,5 milyon TL’ye 512 GB RAM’le satın alınabiliyor",
-   "summary": "Yeni Mac Studio, M5 Ultra’nın 36 çekirdekli CPU ve 80 çekirdekli GPU’ya sahip sürümünde artık tam 512 GB RAM’le satın alınabiliyor. Bu yapılandırma standart 1 TB depolamayla tercih edildiğinde 1,5 milyon TL ödemek…",
-   "link": "https://www.log.com.tr/mac-studio-artik-15-milyon-tlye-512-gb-ramle-satin-alinabiliyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-29_15-25-46_iGwOH-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-29T12:28:41+00:00",
-   "url": "/haber/mac-studio-artik-1-5-milyon-tl-ye-512-gb-ram-le-satin-alinabiliyor-5361ee1c/"
   },
   {
    "id": "b1821632",
@@ -1056,28 +1089,6 @@
    "category": "gundem",
    "date": "2026-10-29T09:59:18+00:00",
    "url": "/haber/ispanya-daki-tren-kazasinda-can-kaybi-69-a-yukseldi-e7fa0954/"
-  },
-  {
-   "id": "a8a49294",
-   "title": "Google, yeni Connected Apps Platform’u duyurdu",
-   "summary": "Google, işletmelerin ve geliştiricilerin kendi uygulamalarını Gemini ve Arama’daki sayısı hızla artan bağlı uygulamalar listesine ekleyebileceği Connected Apps Platform’u tanıttı. İlk olarak ABD’deki geliştiricilerin…",
-   "link": "https://www.log.com.tr/google-yeni-connected-apps-platformu-duyurdu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-29_12-23-34_fKDzU-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-29T09:33:44+00:00",
-   "url": "/haber/google-yeni-connected-apps-platform-u-duyurdu-a8a49294/"
-  },
-  {
-   "id": "51845cd6",
-   "title": "Sundar Pichai: “YouTube Music ve Premium abone sayımız 150 milyonu aştı”",
-   "summary": "Alphabet/Google CEO’su Sundar Pichai, üçüncü çeyrek sonuçlarına ilişkin açıklamasında, “Deneme sürümleri de dahil olmak üzere, dünya çapındaki YouTube Music ve Premium abone sayımız 150 milyonu aştı.” diye konuştu.…",
-   "link": "https://www.log.com.tr/sundar-pichai-youtube-music-ve-premium-abone-sayimiz-150-milyonu-asti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/03/youtubeun-reklam-geliri-2025te-devlerin-toplamini-geride-birakti-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-10-29T09:23:11+00:00",
-   "url": "/haber/sundar-pichai-youtube-music-ve-premium-abone-sayimiz-150-milyonu-asti-51845cd6/"
   },
   {
    "id": "b47fd684",
@@ -1199,17 +1210,6 @@
    "category": "gundem",
    "date": "2026-10-29T06:07:11+00:00",
    "url": "/haber/bebekken-cantalara-konularak-terk-edilen-kardesler-yillar-sonra-birara-63e69cfc/"
-  },
-  {
-   "id": "3ffc7041",
-   "title": "İspanya'daki kazanın nedeni ne? Şimdiye kadar bildiklerimiz",
-   "summary": "İspanya'nın Toledo kentinde Madrid ile Sevilla arasında sefer yapan iki yüksek hızlı trenin çarpışması sonucu en az 68 kişi hayatını kaybetti, 100'den fazla kişi yaralandı. Yetkililer, olayla ilgili olarak kontrol…",
-   "link": "https://www.trthaber.com/haber/dunya/ispanyadaki-kazanin-nedeni-ne-simdiye-kadar-bildiklerimiz-961558.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/ispanya-kaza-reu-2499273.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-29T03:48:00+00:00",
-   "url": "/haber/ispanya-daki-kazanin-nedeni-ne-simdiye-kadar-bildiklerimiz-3ffc7041/"
   },
   {
    "id": "6f9722e5",
