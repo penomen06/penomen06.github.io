@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T15:01:13.341647+00:00",
+ "updated": "2026-10-30T15:18:33.726490+00:00",
  "items": [
+  {
+   "id": "e7fa0954",
+   "title": "İspanya Ulaştırma Bakanı, tren kazasının ardından istifa etmeyecek",
+   "summary": "İspanya Ulaştırma Bakanı Óscar Puente, en az 69 kişinin hayatını kaybettiği hızlı tren kazasının ardından istifa etmeyeceğini söyledi",
+   "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ece1/live/e88a6500-d37e-11f1-b5f4-fd541fd21001.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-30T15:09:18+00:00",
+   "url": "/haber/ispanya-ulastirma-bakani-tren-kazasinin-ardindan-istifa-etmeyecek-e7fa0954/"
+  },
+  {
+   "id": "c5af696f",
+   "title": "Ankara'da \"Türkiye-Almanya İşgücü Anlaşmasının 65. yılı\" dolayısıyla program düzenlendi",
+   "summary": "Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı (YTB) tarafından \"Türkiye-Almanya İşgücü Anlaşmasının 65. yılı\" başlıklı program düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ankarada-turkiye-almanya-isgucu-anlasmasinin-65-yili-dolayisiyla-program-duzenlendi/4106715",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T15:07:15+00:00",
+   "url": "/haber/ankara-da-turkiye-almanya-isgucu-anlasmasinin-65-yili-dolayisiyla-prog-c5af696f/"
+  },
+  {
+   "id": "79e6095d",
+   "title": "Steam Ücretsiz Oyunlar: Şu An Bedava Alınabilen ve Denenebilen Oyunlar",
+   "summary": "Steam'de şu an ücretsiz alınabilen, ücretsiz denenebilen ve her zaman ücretsiz oynanabilen oyunların güncel listesi.",
+   "link": "https://shiftdelete.net/steam-ucretsiz-oyunlar",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-30T15:07:00+00:00",
+   "url": "/haber/steam-ucretsiz-oyunlar-su-an-bedava-alinabilen-ve-denenebilen-oyunlar-79e6095d/"
+  },
   {
    "id": "afd07756",
    "title": "Cumhurbaşkanı Erdoğan, Azerbaycan Dışişleri Bakanı Bayramov'u kabul etti",
@@ -198,6 +231,17 @@
    "category": "gundem",
    "date": "2026-10-30T14:08:09+00:00",
    "url": "/haber/iletisim-baskani-duran-dan-turk-dunyasi-diyalog-forumu-paylasimi-0be6cf36/"
+  },
+  {
+   "id": "463bd293",
+   "title": "Bakan Yumaklı: Hayvancılıkta son 24 yılda sağlanan destekler 663 milyar liraya ulaştı",
+   "summary": "Tarım ve Orman Bakanı Yumaklı, hayvancılık sektörüne son 24 yılda sağlanan desteklerin 663 milyar liraya ulaştığını belirterek, \"Onay aldığı takdirde 2027 yılı için destek bütçesini yüzde 41,5 artırarak 54,5 milyar…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-hayvancilikta-son-24-yilda-saglanan-destekler-663-milyar-liraya-ulasti/4106625",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-30T14:07:52+00:00",
+   "url": "/haber/bakan-yumakli-hayvancilikta-son-24-yilda-saglanan-destekler-663-milyar-463bd293/"
   },
   {
    "id": "80d6ea7b",
@@ -453,17 +497,6 @@
    "url": "/haber/emine-erdogan-lider-esleriyle-ankara-da-bulustu-21e4b115/"
   },
   {
-   "id": "94a0de16",
-   "title": "Samsunspor, oyunculara uygun sistem arıyor",
-   "summary": "Trendyol Süper Lig ekiplerinden Samsunspor'un teknik direktörü Nenad Bjelica, \"Elimizdeki kadroya göre en iyi sistemi bulmaya çalışıyoruz. Ancak oyuncuların şu anki sisteme de en iyi şekilde adapte olabileceklerinden…",
-   "link": "https://www.aa.com.tr/tr/spor/samsunspor-oyunculara-uygun-sistem-ariyor/4106534",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T13:14:13+00:00",
-   "url": "/haber/samsunspor-oyunculara-uygun-sistem-ariyor-94a0de16/"
-  },
-  {
    "id": "b509943f",
    "title": "İstanbullular dikkat: 15 Temmuz Şehitler Köprüsü dahil birçok yol kapanacak",
    "summary": "İstanbul Maratonu nedeniyle pazar günü megakentte bazı yollar trafiğe kapatılacak.",
@@ -506,17 +539,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T13:00:35+00:00",
    "url": "/haber/the-elder-scrolls-vi-ismi-sizdirildi-iste-detaylar-49348b93/"
-  },
-  {
-   "id": "70ca7913",
-   "title": "46. İstanbul Film Festivali 8-18 Nisan 2027'de düzenlenecek",
-   "summary": "İstanbul Kültür Sanat Vakfı (İKSV) tarafından düzenlenen İstanbul Film Festivali'nin 46'ncısı, 8-18 Nisan 2027'de gerçekleştirilecek.",
-   "link": "https://www.aa.com.tr/tr/kultur/46-istanbul-film-festivali-8-18-nisan-2027de-duzenlenecek/4106512",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T13:00:13+00:00",
-   "url": "/haber/46-istanbul-film-festivali-8-18-nisan-2027-de-duzenlenecek-70ca7913/"
   },
   {
    "id": "3273f8c6",
@@ -673,17 +695,6 @@
    "url": "/haber/ferritin-yuzu-demir-eksikligi-dis-gorunusten-anlasilabilir-mi-fd85a025/"
   },
   {
-   "id": "f78f6c41",
-   "title": "iPhone Duo toz kapakları tartışma yarattı: Yarım açıkken boşluk var",
-   "summary": "Apple'ın ilk katlanabilir telefonu iPhone Duo, yarım açıkken iç yapısını gösteren boşlukla gündemde. iPhone Duo toz kapakları, Samsung'un 2019'da çözdüğü soruna benzer bir eleştiri alıyor.",
-   "link": "https://shiftdelete.net/iphone-duo-toz-kapaklari-yarim-acikken-bosluk",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T11:39:38+00:00",
-   "url": "/haber/iphone-duo-toz-kapaklari-tartisma-yaratti-yarim-acikken-bosluk-var-f78f6c41/"
-  },
-  {
    "id": "17a50072",
    "title": "Aliyev, Türk Devletleri Teşkilatı Zirvesi'ne katılmadı",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Sarayı'nda Türk Devletleri Teşkilatı 13. Zirvesi Devlet Başkanları Konseyi Toplantısı'na ev sahipliği yaptı. Azerbaycan Cumhurbaşkanı İlham Aliyev ise zirveye…",
@@ -748,17 +759,6 @@
    "category": "gundem",
    "date": "2026-10-30T11:05:00+00:00",
    "url": "/haber/lgs-kapsamindaki-merkezi-sinav-13-haziran-2027-de-yapilacak-4bbddeb0/"
-  },
-  {
-   "id": "189a4912",
-   "title": "Mustafa Sarıgül, Yeni Parti'den istifa etti",
-   "summary": "Erzincan Milletvekili Mustafa Sarıgül, kendisi ve ailesine yönelik 16 Ekim'de başlatılan soruşturma tamamlanıncaya kadar Yeni Parti'den istifa ettiğini duyurdu.",
-   "link": "https://www.bbc.com/turkce/articles/cxdd8q9ejvglo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da6e/live/561263b0-cd8b-11f1-b1e7-39558e114359.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-30T11:03:04+00:00",
-   "url": "/haber/mustafa-sarigul-yeni-parti-den-istifa-etti-189a4912/"
   },
   {
    "id": "c2565a1f",
