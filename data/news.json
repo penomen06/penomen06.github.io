@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T22:30:58.194321+00:00",
+ "updated": "2026-10-31T23:01:11.810519+00:00",
  "items": [
   {
    "id": "2810190a",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-31T22:30:00+00:00",
+   "date": "2026-10-31T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2810190a/"
+  },
+  {
+   "id": "213e8aa6",
+   "title": "RTX 5080 Super 24 GB İddiası: Önce Çin'de Çıkabilir",
+   "summary": "Nvidia'nın 24 GB bellekli GeForce RTX 5080 modelini Aralık 2026'da, yalnızca Çin pazarı için çıkarabileceği iddia edildi. Şirket henüz hiçbir açıklama yapmadı.",
+   "link": "https://shiftdelete.net/rtx-5080-cin-surumu-24-gb-bellek-iddiasi",
+   "image": "https://ares.shiftdelete.net/static/img/content/26-11/01/rtx-5080-super-24-gb.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T22:51:41+00:00",
+   "url": "/haber/rtx-5080-super-24-gb-iddiasi-once-cin-de-cikabilir-213e8aa6/"
+  },
+  {
+   "id": "9ce12a5a",
+   "title": "Honor WIN Tablet Satışa Çıktı: 10.000 mAh Pil ve 315 Gram",
+   "summary": "Honor WIN Tablet, 31 Ekim'de Çin'de satışa sunuldu. Kompakt oyun tableti Snapdragon 8 Elite Gen 5, 10.000 mAh pil ve fanlı soğutma sistemiyle geliyor.",
+   "link": "https://shiftdelete.net/honor-win-tablet-satisa-cikti-fiyati",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/0016cb0c7c946357ad096ae4d283b2d7078ef14c.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T22:48:08+00:00",
+   "url": "/haber/honor-win-tablet-satisa-cikti-10-000-mah-pil-ve-315-gram-9ce12a5a/"
   },
   {
    "id": "97ff1dbe",
@@ -77,28 +99,6 @@
    "category": "gundem",
    "date": "2026-10-31T21:08:00+00:00",
    "url": "/haber/spk-baskanligina-muhsin-atci-atandi-6da99802/"
-  },
-  {
-   "id": "25fa2e76",
-   "title": "Bakan Fidan: Rusya ve Ukrayna bir anlaşmaya varmak zorunda",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Rusya-Ukrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak…",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-rusya-ve-ukrayna-bir-anlasmaya-varmak-zorunda-961848.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/hakan-fidan-2500116.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-31T21:03:00+00:00",
-   "url": "/haber/bakan-fidan-rusya-ve-ukrayna-bir-anlasmaya-varmak-zorunda-25fa2e76/"
-  },
-  {
-   "id": "13d7f226",
-   "title": "Dışişleri Bakanı Fidan: Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak zorundalar",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Rusya-Ukrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak…",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-rusya-ve-ukrayna-buyuk-bir-fedakarlikta-bulunarak-bir-anlasmaya-varmak-zorundalar/4107662",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T21:02:13+00:00",
-   "url": "/haber/disisleri-bakani-fidan-rusya-ve-ukrayna-buyuk-bir-fedakarlikta-bulunar-13d7f226/"
   },
   {
    "id": "f7c6091f",
@@ -321,6 +321,17 @@
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-31-eki-4ad561a5/"
   },
   {
+   "id": "8c5fa484",
+   "title": "Ukrayna Devlet Başkanı Zelenskiy Fener Rum Patrikhanesi'ni ziyaret etti",
+   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Fener Rum Patrikhanesi'ni ziyaret ederek Fener Rum Patriği Bartholomeos ile görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/ukrayna-devlet-baskani-zelenskiy-fener-rum-patrikhanesini-ziyaret-etti/4107602",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T18:39:44+00:00",
+   "url": "/haber/ukrayna-devlet-baskani-zelenskiy-fener-rum-patrikhanesi-ni-ziyaret-ett-8c5fa484/"
+  },
+  {
    "id": "bb3dcc9e",
    "title": "It: Welcome to Derry sürpriz bir bölümle ekranlara geri döndü",
    "summary": "HBO'nun sevilen dizisi It: Welcome to Derry, Cadılar Bayramı vesilesiyle ekranlara geri döndü. HBO, 2. sezon öncesi diziden sürpriz bir bölüm daha yayınladı. İşte detaylar:",
@@ -508,17 +519,6 @@
    "url": "/haber/apple-maps-nasa-ve-uzay-kuvvetleri-uslerini-bulaniklastirdi-98ccc40a/"
   },
   {
-   "id": "8aaa4370",
-   "title": "İnsansız Tüm Sistemler Bir Arada Çalıştı! TURNAs 2026 Tatbikatı 2T Teknoloji & Savunma #18",
-   "summary": "2T Teknoloji & Savunma programımızın 18. bölümünde Tolga Özbek ile beraber TURNAs 2026 tatbikatını konuşuyoruz. Türk Deniz Kuvvetleri Komutanlığı tarafından Antalya Körfezi ve Doğu Akdeniz’de düzenlenen TURNAs-2026…",
-   "link": "https://shiftdelete.net/insansiz-tum-sistemler-bir-arada-calisti-turnas-2026-tatbikati-2t-teknoloji-savunma-18",
-   "image": "https://ares.shiftdelete.net/2026/10/Insansiz-Tum-Sistemler-Bir-Arada-Calisti-TURNAs-2026-Tatbikati-2T-Teknoloji-038-Savunma-18-video-thumbnail.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-31T16:32:01+00:00",
-   "url": "/haber/insansiz-tum-sistemler-bir-arada-calisti-turnas-2026-tatbikati-2t-tekn-8aaa4370/"
-  },
-  {
    "id": "5aeb5f3e",
    "title": "Önce bellekler şimdi de PCB krizi: Siparişler 2030'a kadar doldu",
    "summary": "Yapay zekaya yönelik yüksek talep şimdi de PCB üretiminde tedarik krizini derinleştiriyor. Siparişler 2030'a kadar dolarken bazı devre kartlarında teslimat süresi iki yılı aşmış durumda.",
@@ -528,17 +528,6 @@
    "category": "teknoloji",
    "date": "2026-10-31T16:30:00+00:00",
    "url": "/haber/once-bellekler-simdi-de-pcb-krizi-siparisler-2030-a-kadar-doldu-5aeb5f3e/"
-  },
-  {
-   "id": "844089d0",
-   "title": "Sahra’da Bulunan Mars Göktaşı 4,1 Milyar Yıllık Çıktı, Su İzleri Taşıyor",
-   "summary": "Sahra’da bulunan Teghaza 001 göktaşı, en az 4,1 milyar yıllık bir Mars kayası çıktı. Taştaki izler, genç Mars’ta yer altında su dolaştığını gösteriyor.",
-   "link": "https://shiftdelete.net/mars-goktasi-teghaza-001",
-   "image": "https://ares.shiftdelete.net/2026/10/mars-goktasi-teghaza-001-koken-haritasi.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-31T16:14:08+00:00",
-   "url": "/haber/sahra-da-bulunan-mars-goktasi-4-1-milyar-yillik-cikti-su-izleri-tasiyo-844089d0/"
   },
   {
    "id": "71705c6e",
@@ -1078,6 +1067,17 @@
    "category": "gundem",
    "date": "2026-10-30T10:37:04+00:00",
    "url": "/haber/abd-ara-secimleri-neden-onemli-yedi-temel-soru-abb57236/"
+  },
+  {
+   "id": "24dade61",
+   "title": "Mustafa Sarıgül partisinden istifa etti",
+   "summary": "Yeni Parti Erzincan Milletvekili Mustafa Sarıgül, partisinden istifa ettiğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/mustafa-sarigul-partisinden-istifa-etti-961732.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2082000/mustafa-sarigul-aa-2082979.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-30T10:37:00+00:00",
+   "url": "/haber/mustafa-sarigul-partisinden-istifa-etti-24dade61/"
   },
   {
    "id": "0099aac3",
