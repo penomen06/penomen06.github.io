@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-31T14:01:05.443886+00:00",
+ "updated": "2026-10-31T14:30:56.960716+00:00",
  "items": [
+  {
+   "id": "03f76541",
+   "title": "Apple Music Android'de Liquid Glass tasarımıyla yenilendi",
+   "summary": "Android için Apple Music 7.0 yayınlandı. Güncelleme, Apple'ın 27 sürümüyle getirdiği yarı saydam tasarım Liquid Glass ile yenilenen arayüz ve yeni simgeyi içeriyor.",
+   "link": "https://www.donanimhaber.com/apple-music-android-de-liquid-glass-tasarimiyla-yenilendi--212312",
+   "image": "https://www.donanimhaber.com/images/images/haber/212312/1200x675apple-music-android-de-liquid-glass-tasarimiyla-yenilendi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-31T14:30:00+00:00",
+   "url": "/haber/apple-music-android-de-liquid-glass-tasarimiyla-yenilendi-03f76541/"
+  },
+  {
+   "id": "5c448601",
+   "title": "Sosyal medyada yeni dönem. Yarın başlıyor, yapmayanın hesabı kapatılacak",
+   "summary": "Türkiye'de 15 yaşından küçük çocuklara sosyal medya yasağı yarın başlıyor. 15-18 yaş arasındaki kullanıcılar ise yaş doğrulama yaptıktan sonra kısıtlı hizmet alabilecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sosyal-medyada-yeni-donem-yarin-basliyor-yapmayanin-hesabi-kapatilacak-1748737",
+   "image": "https://images.ntv.com.tr/images/sosyalmedya-498046.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-31T14:25:13+00:00",
+   "url": "/haber/sosyal-medyada-yeni-donem-yarin-basliyor-yapmayanin-hesabi-kapatilacak-5c448601/"
+  },
+  {
+   "id": "512db1bc",
+   "title": "Alican Kiraz, Türk Hukuku İçin Mizan-27B-Decision Modelini Açık Kaynak Yaptı",
+   "summary": "Alican Kiraz, Türk hukuku için metin üretmeyen karar modeli Mizan-27B-Decision'ı açık kaynak yaptı. Model, olay özetinden kalibre olasılıklar döndürüyor.",
+   "link": "https://shiftdelete.net/mizan-27b-decision-turk-hukuku-karar-modeli",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T14:23:03+00:00",
+   "url": "/haber/alican-kiraz-turk-hukuku-icin-mizan-27b-decision-modelini-acik-kaynak-512db1bc/"
+  },
+  {
+   "id": "47602ceb",
+   "title": "ASELSAN'a kalp akciğer makinesi ile Aziz Sancar Ödülü",
+   "summary": "ASELSAN, TÜSEB Aziz Sancar Bilim, Hizmet ve Teşvik Ödülleri kapsamında LIFELINE HLM Kalp Akciğer Makinesi ile \"TÜSEB Sağlık Teknolojileri Prestij Ödülü\"nü almaya hak kazandı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsana-kalp-akciger-makinesi-ile-aziz-sancar-odulu/4107404",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T14:12:45+00:00",
+   "url": "/haber/aselsan-a-kalp-akciger-makinesi-ile-aziz-sancar-odulu-47602ceb/"
+  },
+  {
+   "id": "27c299f6",
+   "title": "Cumhurbaşkanı Erdoğan, Ukrayna Devlet Başkanı Zelenskiy ile görüştü",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ukrayna Devlet Başkanı Volodimir Zelenskiy ile görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-ukrayna-devlet-baskani-zelenskiy-ile-gorustu/4107401",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T14:09:16+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-ukrayna-devlet-baskani-zelenskiy-ile-gorustu-27c299f6/"
+  },
+  {
+   "id": "7114fce5",
+   "title": "Türk Dünyası Diyalog Forumu'nda \"savunma sanayisinde stratejik ortaklık ve teknoloji\" vurgusu",
+   "summary": "Türk Dünyası Diyalog Forumu'nda Türk devletleri ve bölgesel müttefikler arasında savunma sanayisi, siber güvenlik, teknoloji transferi ve enformasyon güvenliği alanlarında ortak hareket etmenin stratejik önemi ele…",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumunda-savunma-sanayisinde-stratejik-ortaklik-ve-teknoloji-vurgusu/4107399",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T14:06:56+00:00",
+   "url": "/haber/turk-dunyasi-diyalog-forumu-nda-savunma-sanayisinde-stratejik-ortaklik-7114fce5/"
+  },
   {
    "id": "1db0401a",
    "title": "Samsung’un Yeni Akıllı Gözlükleri Türkiye’ye Ne Zaman Gelecek?",
@@ -149,7 +215,7 @@
    "title": "Ukrayna Devlet Başkanı Zelenskiy İstanbul'da",
    "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Cumhurbaşkanı Recep Tayyip Erdoğan'ın davetine icabetle Türkiye'ye çalışma ziyareti gerçekleştiriyor.",
    "link": "https://www.trthaber.com/haber/gundem/ukrayna-devlet-baskani-zelenskiy-istanbulda-961828.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2450000/erdogan-zelenski-2451151.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/erdogan-zelenskiy-2500068.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-10-31T13:00:00+00:00",
@@ -165,6 +231,17 @@
    "category": "gundem",
    "date": "2026-10-31T12:59:05+00:00",
    "url": "/haber/ukrayna-devlet-baskani-zelenskiy-istanbul-a-geldi-e9bff739/"
+  },
+  {
+   "id": "ed0d653c",
+   "title": "60 saniyede bugün (31 Ekim 2026)",
+   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-31-ekim-2026/4107357",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T12:56:39+00:00",
+   "url": "/haber/60-saniyede-bugun-31-ekim-2026-ed0d653c/"
   },
   {
    "id": "67541316",
@@ -244,17 +321,6 @@
    "url": "/haber/kume-vakfinin-kultur-sanatin-izinde-etkinlikten-hafizaya-programi-basl-d6aa801d/"
   },
   {
-   "id": "96820596",
-   "title": "Cumhurbaşkanı Erdoğan'dan şehit Piyade Sözleşmeli Er Ünlü'nün ailesine başsağlığı mesajı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, şehit Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün ailesine başsağlığı diledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-sehit-piyade-sozlesmeli-er-unlunun-ailesine-bassagligi-mesaji/4107342",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T12:42:58+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-dan-sehit-piyade-sozlesmeli-er-unlu-nun-ailesine-96820596/"
-  },
-  {
    "id": "3c9e4f60",
    "title": "AnyPS5 ve KytyPS5 Taklidi Yapan Zararlı GitHub Depoları Bulundu",
    "summary": "NordVPN uzmanları, AnyPS5 ve KytyPS5 projelerini taklit eden zararlı GitHub depoları buldu. PS5 oyunlarını PC'de oynamak isteyenler şifre çalan olduğu düşünülen bir yazılımla karşılaşabilir.",
@@ -264,17 +330,6 @@
    "category": "teknoloji",
    "date": "2026-10-31T12:40:44+00:00",
    "url": "/haber/anyps5-ve-kytyps5-taklidi-yapan-zararli-github-depolari-bulundu-3c9e4f60/"
-  },
-  {
-   "id": "13790559",
-   "title": "Sosyal medyada yaş doğrulamaya ilişkin yönetmelik yarın yürürlüğe girecek",
-   "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, sosyal ağ platformlarında çocukların güvenliğinin sağlanması amacıyla hazırlanan ve yaş doğrulama zorunluluğu getiren yönetmeliğin yarın yürürlüğe gireceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/sosyal-medyada-yas-dogrulamaya-iliskin-yonetmelik-yarin-yururluge-girecek/4107341",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T12:38:37+00:00",
-   "url": "/haber/sosyal-medyada-yas-dogrulamaya-iliskin-yonetmelik-yarin-yururluge-gire-13790559/"
   },
   {
    "id": "62a90720",
@@ -321,17 +376,6 @@
    "url": "/haber/epic-games-ucretsiz-oyunlar-bu-hafta-bedava-olan-oyunlar-2ec608c0/"
   },
   {
-   "id": "a79b58f9",
-   "title": "Bakan Memişoğlu: Yerli solunum cihazlarımızı 45 ülkeye, otomatik şok cihazlarımızı 16 ülkeye ihraç ediyoruz",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, sağlık sanayisini ülkenin lokomotif sektörlerinden biri haline getirdiklerini belirterek, \"Yerli solunum cihazlarımızı 45 ülkeye, otomatik şok cihazlarımızı 16 ülkeye ihraç ediyoruz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-yerli-solunum-cihazlarimizi-45-ulkeye-otomatik-sok-cihazlarimizi-16-ulkeye-ihrac-ediyoruz/4107327",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T12:19:07+00:00",
-   "url": "/haber/bakan-memisoglu-yerli-solunum-cihazlarimizi-45-ulkeye-otomatik-sok-cih-a79b58f9/"
-  },
-  {
    "id": "f3e169e9",
    "title": "Şampiyonlar Ligi yayın ihalesi: Amazon ve S Sport iddiası",
    "summary": "Şampiyonlar Ligi yayın ihalesi için Saran Group Media ve Amazon ortaklığının katılacağı iddia edildi. TRT ise 2027-2033 döneminde yalnızca Perşembe akşamı maçlarını istiyor.",
@@ -341,17 +385,6 @@
    "category": "teknoloji",
    "date": "2026-10-31T12:17:28+00:00",
    "url": "/haber/sampiyonlar-ligi-yayin-ihalesi-amazon-ve-s-sport-iddiasi-f3e169e9/"
-  },
-  {
-   "id": "5c448601",
-   "title": "Sosyal medyada yeni dönem. Yarın başlıyor, yapmayanın hesabı kapatılacak",
-   "summary": "Türkiye'de 15 yaşından küçük çocuklara sosyal medya yasağı yarın başlıyor. 15-18 yaş arasındaki kullanıcılar ise yaş doğrulama yaptıktan sonra kısıtlı hizmet alabilecek.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sosyal-medyada-yeni-donem-yarin-basliyor-yapmayanin-hesabi-kapatilacak-1748737",
-   "image": "https://images.ntv.com.tr/images/sosyalmedya-498046.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-31T12:14:45+00:00",
-   "url": "/haber/sosyal-medyada-yeni-donem-yarin-basliyor-yapmayanin-hesabi-kapatilacak-5c448601/"
   },
   {
    "id": "44cb74a7",
@@ -409,17 +442,6 @@
    "url": "/haber/fransa-da-hukumet-liselerde-egitim-kosullarini-iyilestirmeye-yonelik-t-f9d8fd48/"
   },
   {
-   "id": "9c2ec0fa",
-   "title": "Arca Çorum FK, deplasmanda Erzurumspor FK'yı 3-1 mağlup etti",
-   "summary": "Trendyol Süper Lig'in 10. haftasında Arca Çorum FK, deplasmanda Erzurumspor FK'yı 3-1 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/arca-corum-fk-deplasmanda-erzurumspor-fkyi-3-1-maglup-etti/4107271",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T11:27:44+00:00",
-   "url": "/haber/arca-corum-fk-deplasmanda-erzurumspor-fk-yi-3-1-maglup-etti-9c2ec0fa/"
-  },
-  {
    "id": "e064f4ec",
    "title": "Kahire'deki Mavi Cami, Memlük mimarisi ve Osmanlı dokunuşlarının izlerini taşıyor",
    "summary": "Mısır'ın başkenti Kahire'nin tarihi Derb el-Ahmer bölgesinde yer alan ve \"Mavi Cami\" olarak bilinen Aksungur Camisi, Memlük mimarisini ve Osmanlı döneminin dokunuşlarını asırlardır bir arada yaşatıyor.",
@@ -462,17 +484,6 @@
    "category": "teknoloji",
    "date": "2026-10-31T10:59:54+00:00",
    "url": "/haber/livewire-geleceginden-emin-degil-faaliyetlerine-suphe-dustu-0b01c503/"
-  },
-  {
-   "id": "90cf7d69",
-   "title": "Eglantine Switch 2 Emülatörü Mario Kart World’ü PC’de Çalıştırdı",
-   "summary": "Switch 2'nin kırılmasından yalnızca bir hafta sonra Eglantine adlı emülatör, Mario Kart World'ü PC'de tam hızda çalıştırmayı başardı. Proje hâlâ deneysel aşamada ve eksikleri var.",
-   "link": "https://shiftdelete.net/eglantine-switch-2-emulator-mario-kart-world-pc",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-31T10:54:54+00:00",
-   "url": "/haber/eglantine-switch-2-emulatoru-mario-kart-world-u-pc-de-calistirdi-90cf7d69/"
   },
   {
    "id": "f51625ab",
@@ -946,17 +957,6 @@
    "category": "gundem",
    "date": "2026-10-30T22:43:11+00:00",
    "url": "/haber/polonya-da-siyasi-gerginlik-anayasa-mahkemesi-ne-polis-konuslandirildi-bbf868c0/"
-  },
-  {
-   "id": "9b18a5ff",
-   "title": "Samsung, Xiaomi, OnePlus ve diğer markalarda Android 17 takvimi açıklandı",
-   "summary": "Android 17 güncellemesi Google Pixel modellerinin ardından Samsung, Xiaomi, OnePlus ve diğer markaların telefonlarına da geliyor. İşte markalara göre güncelleme takvimi ve desteklenen modeller...",
-   "link": "https://www.donanimhaber.com/android-17-hangi-telefonlara-ne-zaman-gelecek-iste-liste--212258",
-   "image": "https://www.donanimhaber.com/images/images/haber/212258/1200x675android-17-hangi-telefonlara-ne-zaman-gelecek-iste-liste.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-30T21:30:00+00:00",
-   "url": "/haber/samsung-xiaomi-oneplus-ve-diger-markalarda-android-17-takvimi-acikland-9b18a5ff/"
   },
   {
    "id": "690c6f5c",
