@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T04:01:09.065985+00:00",
+ "updated": "2026-10-31T04:31:04.307123+00:00",
  "items": [
   {
    "id": "13e396cc",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-31T04:00:00+00:00",
+   "date": "2026-10-31T04:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13e396cc/"
+  },
+  {
+   "id": "b42b4959",
+   "title": "Samsung Galaxy Fit4 Tasarımı ve Özellikleri Belli Oldu",
+   "summary": "Samsung Galaxy Fit4 özellikleri sızdırıldı. Yeni akıllı bilekliğin ekran detayları, renk seçenekleri ve sağlık takip yetenekleri belli oldu.",
+   "link": "https://shiftdelete.net/samsung-galaxy-fit4-ozellikleri-sizdirildi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T04:00:18+00:00",
+   "url": "/haber/samsung-galaxy-fit4-tasarimi-ve-ozellikleri-belli-oldu-b42b4959/"
   },
   {
    "id": "9e5bfdaa",
@@ -528,17 +539,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T18:51:47+00:00",
    "url": "/haber/volkswagen-elektrikli-golf-projesini-askiya-aldi-takvim-kayiyor-411a9209/"
-  },
-  {
-   "id": "d54728f9",
-   "title": "GitHub çöktü mü? Webhooks, Actions ve Pages Hizmetlerinde Sorun Var",
-   "summary": "GitHub çöktü mü sorusunun yanıtı evet: platform, hizmetlerinde performans düşüşü yaşandığını doğruladı. Webhooks, Actions ve Pages tarafında aksama var, diğer servisler ise normal görünüyor.",
-   "link": "https://shiftdelete.net/github-coktu-mu-webhooks-actions-pages",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T18:46:47+00:00",
-   "url": "/haber/github-coktu-mu-webhooks-actions-ve-pages-hizmetlerinde-sorun-var-d54728f9/"
   },
   {
    "id": "f1a43ab8",
