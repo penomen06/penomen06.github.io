@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:31:03.131126+00:00",
+ "updated": "2026-10-31T01:01:13.338732+00:00",
  "items": [
   {
    "id": "13e396cc",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-31T00:30:00+00:00",
+   "date": "2026-10-31T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13e396cc/"
+  },
+  {
+   "id": "d9a9f691",
+   "title": "'Gazze ya da hiç': İsrail'e destek, ABD ara seçimlerinde gerilim noktası haline geldi",
+   "summary": "Michigan, ABD'de 3 Kasım'da yapılacak ara seçimlerde yarışın en çekişmeli geçmesi beklenen yerlerden biri. ABD'nin İsrail'e verdiği desteğe dair endişeler Gazze tartışmasının her iki tarafındaki Michiganlı seçmenlerin…",
+   "link": "https://www.bbc.com/turkce/articles/cqvg0zd84rd1o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f13/live/c3769230-d486-11f1-80bc-6d398902272f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-31T00:43:03+00:00",
+   "url": "/haber/gazze-ya-da-hic-israil-e-destek-abd-ara-secimlerinde-gerilim-noktasi-h-d9a9f691/"
   },
   {
    "id": "62ea46ec",
@@ -454,14 +465,14 @@
   },
   {
    "id": "09712c08",
-   "title": "Ankara-Bakü geriliminde ekonominin yeri nedir?",
+   "title": "Ankara-Bakü geriliminde ekonominin rolü nasıl tartışılıyor?",
    "summary": "2026 yılının Ekim ayında Bakü ile Ankara arasında tırmanan gerginlik, Netanyahu'nun Birleşmiş Milletler'deki (BM) konuşması sırasında Azerbaycan'ın salondan çıkmaması ve okullarda başörtüsü meselesi ile başladı. Ancak…",
    "link": "https://www.bbc.com/turkce/articles/c5vgjzrmg4ngo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f6ec/live/a79c13a0-d472-11f1-9dda-1ba6fcc7d159.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-10-30T19:27:31+00:00",
-   "url": "/haber/ankara-baku-geriliminde-ekonominin-yeri-nedir-09712c08/"
+   "url": "/haber/ankara-baku-geriliminde-ekonominin-rolu-nasil-tartisiliyor-09712c08/"
   },
   {
    "id": "94f7e56d",
@@ -935,17 +946,6 @@
    "category": "gundem",
    "date": "2026-10-30T10:13:43+00:00",
    "url": "/haber/borsada-yapay-zeka-depremi-google-500-milyar-dolar-deger-kaybetti-a6c143ed/"
-  },
-  {
-   "id": "730eed52",
-   "title": "Türkiye'den 'İsrail seçimlerine müdahale ettiği' iddialarına yalanlama",
-   "summary": "İsrail'in ana muhalefet lideri Gadi Eisenkot ve Arap partilerinin liderleri, koalisyonunun parlamentodaki çoğunluğu kaybettiği seçimlerin ardından \"yabancı müdahalesi\" iddiasında bulunan Başbakan Binyamin Netanyahu'yu…",
-   "link": "https://www.bbc.com/turkce/articles/c6d93pd9pxw2o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0551/live/63971cd0-d43c-11f1-97f9-27ebf08d99fe.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-30T09:05:23+00:00",
-   "url": "/haber/turkiye-den-israil-secimlerine-mudahale-ettigi-iddialarina-yalanlama-730eed52/"
   },
   {
    "id": "0e04611e",
