@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T21:30:58.847185+00:00",
+ "updated": "2026-10-31T22:01:06.226670+00:00",
  "items": [
   {
    "id": "2810190a",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-31T21:30:01+00:00",
+   "date": "2026-10-31T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2810190a/"
+  },
+  {
+   "id": "d7dc3df3",
+   "title": "SPK Başkanlığına Muhsin Atcı atandı",
+   "summary": "Sermaye Piyasası Kurulu (SPK) Başkanlığına, Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spk-baskanligina-muhsin-atci-atandi/4107676",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T21:29:54+00:00",
+   "url": "/haber/spk-baskanligina-muhsin-atci-atandi-d7dc3df3/"
   },
   {
    "id": "f4b127c1",
@@ -37,7 +48,7 @@
   {
    "id": "6da99802",
    "title": "SPK Başkanlığına Muhsin Atcı atandı",
-   "summary": "Resmi gazetede yayımlanan atama kararlarına göre, Sermaye Piyasası Kurulu (SPK) Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
+   "summary": "Resmi Gazete'de yayımlanan atama kararına göre, Sermaye Piyasası Kurulu (SPK) Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
    "link": "https://www.trthaber.com/haber/ekonomi/spk-baskanligina-muhsin-atci-atandi-961847.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/muhsin-atci-2500117.jpg",
    "source": "TRT Haber Manşet Haberleri",
@@ -105,8 +116,8 @@
    "title": "Lexus Çin’de Yerli Üretime Geçiyor: İlk Model Elektrikli SUV Olacak",
    "summary": "Lexus, Çin pazarındaki rekabetle başa çıkmak için 2027 yılında yerel elektrikli SUV üretimine başlamaya hazırlanıyor.",
    "link": "https://shiftdelete.net/lexus-cin-yerel-uretim-elektrikli-suv",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/lexus-cinde-yerli-uretime-geciyor-ilk-model-elektrikli-suv-olacak.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T20:00:25+00:00",
    "url": "/haber/lexus-cin-de-yerli-uretime-geciyor-ilk-model-elektrikli-suv-olacak-9d10358f/"
@@ -215,8 +226,8 @@
    "title": "Claude Abonelik Planlarında İsim Değişikliği",
    "summary": "Anthropic, Claude abonelik planları isim değişikliği ile Max ve Ultra paketlerini güncelledi. Ultra hesaplarda 5 saatlik limit kaldırıldı.",
    "link": "https://shiftdelete.net/claude-abonelik-planlari-isim-degisikligi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/claude-abonelik-planlarinda-isim-degisikligi.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T19:00:49+00:00",
    "url": "/haber/claude-abonelik-planlarinda-isim-degisikligi-36e58557/"
@@ -246,10 +257,10 @@
   {
    "id": "90026118",
    "title": "Ekran Altı Kamera Samsung Katlanabilirlere Geri Dönüyor",
-   "summary": "Samsung'un kitap tipi katlanabilir modellerine ekran altı kamerayı gelecek yıl geri getireceği iddia edildi. Sızıntıya göre cihazın iç donanımı da büyük ölçüde yenilenecek.",
+   "summary": "Samsung’un kitap tipi katlanabilir modellerine ekran altı kamerayı gelecek yıl geri getireceği iddia edildi. Sızıntıya göre cihazın iç donanımı da büyük ölçüde yenilenecek.",
    "link": "https://shiftdelete.net/ekran-alti-kamera-samsung-katlanabilir-geri-donuyor",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/samsung-galaxy-z-trifold-satin-almak-icin-son-sans.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T18:55:12+00:00",
    "url": "/haber/ekran-alti-kamera-samsung-katlanabilirlere-geri-donuyor-90026118/"
@@ -288,17 +299,6 @@
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-31-eki-4ad561a5/"
   },
   {
-   "id": "20b23b3b",
-   "title": "Rubio, Türkiye'nin Karadeniz'de tahıl sevkiyatı için ateşkes teklifini değerlendirdiklerini söyledi",
-   "summary": "ABD Dışişleri Bakanı Rubio, uluslararası toplumun Karadeniz'de tahıl sevkiyatına ilişkin kısmi bir ateşkes sağlanmasına yönelik ilgisinin arttığını belirterek, Türkiye'nin bu yöndeki teklifini değerlendirdiklerini…",
-   "link": "https://www.aa.com.tr/tr/dunya/rubio-turkiyenin-karadenizde-tahil-sevkiyati-icin-ateskes-teklifini-degerlendirdiklerini-soyledi/4107606",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T18:42:42+00:00",
-   "url": "/haber/rubio-turkiye-nin-karadeniz-de-tahil-sevkiyati-icin-ateskes-teklifini-20b23b3b/"
-  },
-  {
    "id": "8c5fa484",
    "title": "Ukrayna Devlet Başkanı Zelenskiy Fener Rum Patrikhanesi'ni ziyaret etti",
    "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Fener Rum Patrikhanesi'ni ziyaret ederek Fener Rum Patriği Bartholomeos ile görüştü.",
@@ -334,10 +334,10 @@
   {
    "id": "79f905c8",
    "title": "En İyi Tuşlu Telefonlar 2026: 4G Modeller, WhatsApp ve Fiyatlar",
-   "summary": "2026'da alınabilecek en iyi tuşlu telefon modellerini 4G desteği, pil ömrü, WhatsApp durumu ve güncel Türkiye fiyatlarıyla derledik.",
+   "summary": "2026’da alınabilecek en iyi tuşlu telefon modellerini 4G desteği, pil ömrü, WhatsApp durumu ve güncel Türkiye fiyatlarıyla derledik.",
    "link": "https://shiftdelete.net/en-iyi-tuslu-telefonlar",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/en-iyi-tuslu-telefonlar-nokia-3210-4g.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T18:19:53+00:00",
    "url": "/haber/en-iyi-tuslu-telefonlar-2026-4g-modeller-whatsapp-ve-fiyatlar-79f905c8/"
@@ -345,10 +345,10 @@
   {
    "id": "528ddc10",
    "title": "Samsung News Kapatılıyor: Google News’e Nasıl Geçilir?",
-   "summary": "Samsung News kapatma süreci başladı. Galaxy telefon ve tablet kullanıcıları için Google Discover'a geçiş yapma yöntemlerini ve tüm detayları inceleyin.",
+   "summary": "Samsung News kapatma süreci başladı. Galaxy telefon ve tablet kullanıcıları için Google Discover’a geçiş yapma yöntemlerini ve tüm detayları inceleyin.",
    "link": "https://shiftdelete.net/samsung-news-kapatiliyor-google-discover-gecis",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/samsung-news-kapatiliyor-google-newse-nasil-gecilir.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T18:00:49+00:00",
    "url": "/haber/samsung-news-kapatiliyor-google-news-e-nasil-gecilir-528ddc10/"
@@ -391,8 +391,8 @@
    "title": "TikTok Süper Uygulama Olma Yolunda: Yeni Özellikler Neler?",
    "summary": "TikTok süper uygulama hedefiyle yeni bir restoran rehberi duyurdu. Platform; ödeme, alışveriş, otel rezervasyonu ve oyun gibi alanlarda da büyümeyi sürdürüyor.",
    "link": "https://shiftdelete.net/tiktok-super-uygulama-must-eat-odemeler",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/ec73b99d45c28a67afc601caa42d7278351e511b.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T17:40:01+00:00",
    "url": "/haber/tiktok-super-uygulama-olma-yolunda-yeni-ozellikler-neler-246c3a68/"
@@ -411,10 +411,10 @@
   {
    "id": "0b386ceb",
    "title": "Kasım 2026 Oyunları: Bu Ay Çıkacak Oyunlar, Tarihleri ve Platformları",
-   "summary": "Kasım 2026'da GTA 6, Zelda: Ocarina of Time ve Football Manager 27 başta olmak üzere çıkacak oyunları tarih, platform ve Türkçe desteğiyle listeledik.",
+   "summary": "Kasım 2026’da GTA 6, Zelda: Ocarina of Time ve Football Manager 27 başta olmak üzere çıkacak oyunları tarih, platform ve Türkçe desteğiyle listeledik.",
    "link": "https://shiftdelete.net/kasim-2026-oyunlari",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/kasim-2026-oyunlari-cikis-takvimi.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T17:17:03+00:00",
    "url": "/haber/kasim-2026-oyunlari-bu-ay-cikacak-oyunlar-tarihleri-ve-platformlari-0b386ceb/"
@@ -422,10 +422,10 @@
   {
    "id": "ad85dcd9",
    "title": "Windows 11 Xbox Modu Kısayolları ve Yeni Arama Özellikleri Geldi",
-   "summary": "Microsoft'un son Insider sürümleri, Windows 11 Xbox modu için Bluetooth, Wi-Fi ve güç ayarlarına hızlı erişim getiriyor. Arama tarafı da filtreler ve eylemlerle baştan yenilendi.",
+   "summary": "Microsoft’un son Insider sürümleri, Windows 11 Xbox modu için Bluetooth, Wi-Fi ve güç ayarlarına hızlı erişim getiriyor. Arama tarafı da filtreler ve eylemlerle baştan yenilendi.",
    "link": "https://shiftdelete.net/windows-11-xbox-modu-kisayollari-arama",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/17b041790ac7faf7d291ae02d59fefaebdda7040.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T17:01:04+00:00",
    "url": "/haber/windows-11-xbox-modu-kisayollari-ve-yeni-arama-ozellikleri-geldi-ad85dcd9/"
@@ -433,10 +433,10 @@
   {
    "id": "40111ec9",
    "title": "Stellantis’ten Veda: 1.2 PureTech Üreten Fabrika Kapatıldı",
-   "summary": "Stellantis Douvrin fabrikası kapandı. 57 yıllık geçmişe sahip tesis, 1.2 PureTech motor üretimini Macaristan'a taşıyarak faaliyetlerini sonlandırdı.",
+   "summary": "Stellantis Douvrin fabrikası kapandı. 57 yıllık geçmişe sahip tesis, 1.2 PureTech motor üretimini Macaristan’a taşıyarak faaliyetlerini sonlandırdı.",
    "link": "https://shiftdelete.net/stellantis-douvrin-fabrikasi-kapandi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/stellantisten-veda-1-2-puretech-ureten-fabrika-kapatildi.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T17:00:32+00:00",
    "url": "/haber/stellantis-ten-veda-1-2-puretech-ureten-fabrika-kapatildi-40111ec9/"
@@ -455,10 +455,10 @@
   {
    "id": "e3fbe262",
    "title": "GTA 6 Yol Genişliği Değişiyor: Vice City’de Sürüş Zorlaşacak",
-   "summary": "GTA 6 yol genişliği, serinin önceki oyunlarına göre daha gerçekçi ölçülere çekilmiş görünüyor. Vice City'deki dar şeritler, yüksek hızda sürüşü ve araç seçimini doğrudan etkileyebilir.",
+   "summary": "GTA 6 yol genişliği, serinin önceki oyunlarına göre daha gerçekçi ölçülere çekilmiş görünüyor. Vice City’deki dar şeritler, yüksek hızda sürüşü ve araç seçimini doğrudan etkileyebilir.",
    "link": "https://shiftdelete.net/gta-6-yol-genisligi-vice-city-surus",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/cf2895c128623708d8b779513553e5b2f0785296.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T16:56:04+00:00",
    "url": "/haber/gta-6-yol-genisligi-degisiyor-vice-city-de-surus-zorlasacak-e3fbe262/"
@@ -466,10 +466,10 @@
   {
    "id": "75d8036e",
    "title": "iPad mini 8 Bataryası iPad mini 7’den Küçük Çıktı – Fiyatı 699 Dolar",
-   "summary": "iPad mini 8'in batarya kapasitesi AB enerji etiketiyle ortaya çıktı. Yeni tablet 4.900 mAh bataryayla geliyor ve iPad mini 7'ye göre yaklaşık yüzde 2 daha küçük pil taşıyor.",
+   "summary": "iPad mini 8’in batarya kapasitesi AB enerji etiketiyle ortaya çıktı. Yeni tablet 4.900 mAh bataryayla geliyor ve iPad mini 7’ye göre yaklaşık yüzde 2 daha küçük pil taşıyor.",
    "link": "https://shiftdelete.net/ipad-mini-8-bataryasi-ipad-mini-7den-kucuk",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/016037a447018add4035cd2df33704a811c3e5c9.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T16:51:04+00:00",
    "url": "/haber/ipad-mini-8-bataryasi-ipad-mini-7-den-kucuk-cikti-fiyati-699-dolar-75d8036e/"
@@ -488,10 +488,10 @@
   {
    "id": "98ccc40a",
    "title": "Apple Maps NASA ve Uzay Kuvvetleri Üslerini Bulanıklaştırdı",
-   "summary": "Apple Maps, NASA, ABD Uzay Kuvvetleri ve Hava Kuvvetleri'ne ait bazı üslerin uydu görüntüsünü bulanıklaştırmaya başladı. Şirketten henüz resmi bir açıklama gelmedi.",
+   "summary": "Apple Maps, NASA, ABD Uzay Kuvvetleri ve Hava Kuvvetleri’ne ait bazı üslerin uydu görüntüsünü bulanıklaştırmaya başladı. Şirketten henüz resmi bir açıklama gelmedi.",
    "link": "https://shiftdelete.net/apple-maps-nasa-askeri-us-bulaniklastirdi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/91b071f362b2964e6f18c54449a97d1cd73fb62a.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T16:45:08+00:00",
    "url": "/haber/apple-maps-nasa-ve-uzay-kuvvetleri-uslerini-bulaniklastirdi-98ccc40a/"
@@ -501,8 +501,8 @@
    "title": "İnsansız Tüm Sistemler Bir Arada Çalıştı! TURNAs 2026 Tatbikatı 2T Teknoloji & Savunma #18",
    "summary": "2T Teknoloji & Savunma programımızın 18. bölümünde Tolga Özbek ile beraber TURNAs 2026 tatbikatını konuşuyoruz. Türk Deniz Kuvvetleri Komutanlığı tarafından Antalya Körfezi ve Doğu Akdeniz’de düzenlenen TURNAs-2026…",
    "link": "https://shiftdelete.net/insansiz-tum-sistemler-bir-arada-calisti-turnas-2026-tatbikati-2t-teknoloji-savunma-18",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/Insansiz-Tum-Sistemler-Bir-Arada-Calisti-TURNAs-2026-Tatbikati-2T-Teknoloji-038-Savunma-18-video-thumbnail.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T16:32:01+00:00",
    "url": "/haber/insansiz-tum-sistemler-bir-arada-calisti-turnas-2026-tatbikati-2t-tekn-8aaa4370/"
@@ -521,10 +521,10 @@
   {
    "id": "844089d0",
    "title": "Sahra’da Bulunan Mars Göktaşı 4,1 Milyar Yıllık Çıktı, Su İzleri Taşıyor",
-   "summary": "Sahra'da bulunan Teghaza 001 göktaşı, en az 4,1 milyar yıllık bir Mars kayası çıktı. Taştaki izler, genç Mars'ta yer altında su dolaştığını gösteriyor.",
+   "summary": "Sahra’da bulunan Teghaza 001 göktaşı, en az 4,1 milyar yıllık bir Mars kayası çıktı. Taştaki izler, genç Mars’ta yer altında su dolaştığını gösteriyor.",
    "link": "https://shiftdelete.net/mars-goktasi-teghaza-001",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/mars-goktasi-teghaza-001-koken-haritasi.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T16:14:08+00:00",
    "url": "/haber/sahra-da-bulunan-mars-goktasi-4-1-milyar-yillik-cikti-su-izleri-tasiyo-844089d0/"
@@ -532,10 +532,10 @@
   {
    "id": "17c3c854",
    "title": "Evden şarj maliyeti yükseliyor: Yeni tarife elektrikli araçları vurdu",
-   "summary": "Evden şarj maliyeti, EPDK'nin 2027 için belirlediği 3.000 kWh yıllık SKTT sınırıyla değişebilir. Togg T10X'i evde şarj eden hanenin aylık faturası yaklaşık 820 TL'den 2.802 TL'ye çıkabilir.",
+   "summary": "Evden şarj maliyeti, EPDK’nin 2027 için belirlediği 3.000 kWh yıllık SKTT sınırıyla değişebilir. Togg T10X’i evde şarj eden hanenin aylık faturası yaklaşık 820 TL’den 2.802 TL’ye çıkabilir.",
    "link": "https://shiftdelete.net/evden-sarj-maliyeti-sktt-togg-elektrik-tarifesi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "image": "https://ares.shiftdelete.net/2026/10/579682e6b8679de1826b4fbcdab5e491a78cb191.webp",
+   "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-10-31T16:07:07+00:00",
    "url": "/haber/evden-sarj-maliyeti-yukseliyor-yeni-tarife-elektrikli-araclari-vurdu-17c3c854/"
