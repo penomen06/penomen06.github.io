@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-31T11:30:59.876779+00:00",
+ "updated": "2026-10-31T12:01:05.425584+00:00",
  "items": [
+  {
+   "id": "44cb74a7",
+   "title": "Intel’in İsrail Fabrikasında Patlama: 600 Milyon Dolarlık Zarar",
+   "summary": "Intel İsrail fabrikası patlama sonrası üretim durdu. Şirketin 600 milyon dolar gelir kaybı yaşaması bekleniyor.",
+   "link": "https://shiftdelete.net/intel-israil-fabrikasi-patlama-zarar",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T12:00:58+00:00",
+   "url": "/haber/intel-in-israil-fabrikasinda-patlama-600-milyon-dolarlik-zarar-44cb74a7/"
+  },
+  {
+   "id": "8f1961bb",
+   "title": "Google'ın yapay zeka hamlesi beklenen getiriyi sağlamıyor: Hisseler çakıldı",
+   "summary": "Google, yapay zeka altyapısına yönelik yatırımlarını hızlandırırken geleneksel arama işindeki büyüme yavaşlıyor. Şirketin gelirleri %25 artmasına rağmen hisseleri yaklaşık %12 değer kaybetti.",
+   "link": "https://www.donanimhaber.com/google-in-yapay-zeka-hayali-pahaliya-patliyor-hisseler-cakildi--212292",
+   "image": "https://www.donanimhaber.com/images/images/haber/212292/1200x675google-in-yapay-zeka-hayali-pahaliya-patliyor-hisseler-cakildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-31T12:00:00+00:00",
+   "url": "/haber/google-in-yapay-zeka-hamlesi-beklenen-getiriyi-saglamiyor-hisseler-cak-8f1961bb/"
+  },
+  {
+   "id": "214a07be",
+   "title": "Cumhurbaşkanı Erdoğan: Tıbbi ekipmanlarımızı artık biz üretiyoruz",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'nin tıp alanında önemli kazanımlar elde ettiğini belirterek, \"Şimdiki hedefimiz kendi ultrason cihazımızı üretmek.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-cumhurbaskani-erdogan-tibbi-ekipmanlarimizi-artik-biz-uretiyoruz-1748789",
+   "image": "https://images.ntv.com.tr/images/erdoğantıp-816653(2).png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-31T11:58:08+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-tibbi-ekipmanlarimizi-artik-biz-uretiyoruz-214a07be/"
+  },
+  {
+   "id": "569868ad",
+   "title": "Bakan Kacır, TÜRKPATENT'in ücret tarifesine ilişkin düzenlemeyi değerlendirdi",
+   "summary": "Bakan Kacır, Türk Patent ve Marka Kurumunun (TÜRKPATENT), KOBİ'lerin buluşlarının ve ülkedeki yapay zeka alanında geliştirilen yeniliklerin patentlenmesini teşvik etmek amacıyla önemli bir indirim uygulamasını hayata…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-turkpatentin-ucret-tarifesine-iliskin-duzenlemeyi-degerlendirdi/4107280",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T11:41:49+00:00",
+   "url": "/haber/bakan-kacir-turkpatent-in-ucret-tarifesine-iliskin-duzenlemeyi-degerle-569868ad/"
+  },
+  {
+   "id": "58069cdf",
+   "title": "\"COP31 İklim Teknolojileri Creathonu\"na başvurular sürüyor",
+   "summary": "Küresel iklim zirvesi COP31 kapsamında, iklim krizine karşı teknoloji odaklı çözümler geliştirmeyi hedefleyen \"COP31 İklim Teknolojileri Creathonu\" için başvurular 2 Kasım'a kadar devam edecek.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/cop31-iklim-teknolojileri-creathonuna-basvurular-suruyor/4107279",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T11:41:23+00:00",
+   "url": "/haber/cop31-iklim-teknolojileri-creathonu-na-basvurular-suruyor-58069cdf/"
+  },
+  {
+   "id": "77d6f2db",
+   "title": "Twitch 15 yaş altına hesap açmayı yasaklıyor",
+   "summary": "15 yaş altına sosyal medya yasağı getirilmesine ilişkin olarak Twitch platformu yeni düzenlemesini duyurdu. 15 yaş altı hesaplar tamamen kapatılıyor.",
+   "link": "https://www.donanimhaber.com/twitch-kullanicilarina-uyari--212310",
+   "image": "https://www.donanimhaber.com/images/images/haber/212310/1200x675twitch-kullanicilarina-uyari.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-31T11:35:10+00:00",
+   "url": "/haber/twitch-15-yas-altina-hesap-acmayi-yasakliyor-77d6f2db/"
+  },
+  {
+   "id": "a30e1691",
+   "title": "KOBİ’lere patent müjdesi: Yüzde 75 indirim geldi",
+   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, KOBİ’lere yönelik önemli bir patent desteğini duyurdu. Yeni düzenlemeyle ilk kez patent başvurusunda bulunacak KOBİ’lerin ilk başvurularında başvuru, araştırma ve inceleme…",
+   "link": "https://shiftdelete.net/kobi-patent-indirimi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T11:32:12+00:00",
+   "url": "/haber/kobi-lere-patent-mujdesi-yuzde-75-indirim-geldi-a30e1691/"
+  },
   {
    "id": "38f49802",
    "title": "Rusya dizel ihracatı yasağını ocak sonuna kadar uzattı",
@@ -22,6 +99,17 @@
    "category": "gundem",
    "date": "2026-10-31T11:20:37+00:00",
    "url": "/haber/israil-el-halil-de-askeri-baskiyi-sikilastirirken-bolgeye-takviye-birl-75a2cf6a/"
+  },
+  {
+   "id": "7dc3f813",
+   "title": "Bakan Uraloğlu: Dallıkavak Tüneli ile yolumuzu 20 dakikadan 5 dakikaya indirdik",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Dallıkavak Tüneli'ne ilişkin \"Yolumuzu yaklaşık 4,5 kilometre kısaltarak 20 dakikadan sadece 5 dakikaya indirdik. Bu sayede toplam 103 milyon lira da yıllık buradan…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-dallikavak-tuneli-ile-yolumuzu-20-dakikadan-5-dakikaya-indirdik/4107262",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T11:12:23+00:00",
+   "url": "/haber/bakan-uraloglu-dallikavak-tuneli-ile-yolumuzu-20-dakikadan-5-dakikaya-7dc3f813/"
   },
   {
    "id": "78b2e791",
@@ -101,15 +189,15 @@
    "url": "/haber/livewire-geleceginden-emin-degil-faaliyetlerine-suphe-dustu-0b01c503/"
   },
   {
-   "id": "aeed583d",
-   "title": "CANLI: Cumhurbaşkanı Erdoğan konuşuyor",
-   "summary": "Cumhurbaşkanı Erdoğan, Rixos Tersane İstanbul'da düzenlenen 12. Türk Tıp Dünyası Kurultayı ve TÜSEB Aziz Sancar Bilim, Hizmet ve Teşvik Ödülleri Töreni'nde konuşuyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4107253",
+   "id": "e594c20f",
+   "title": "Cumhurbaşkanı Erdoğan: Sağlıkta yerli üretim modeliyle tıbbi cihaz ve ekipmanlarımızı artık biz üretiyoruz",
+   "summary": "Cumhurbaşkanı Erdoğan, \"Yatırımlarımızla, teşviklerimizle sağlık altyapımızı güçlendirmek için yoğun gayret sarf ediyoruz. Sağlıkta yerli üretim modeliyle tıbbi cihaz ve ekipmanlarımızı dışarıdan almak yerine artık biz…",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-saglikta-yerli-uretim-modeliyle-tibbi-cihaz-ve-ekipmanlarimizi-artik-biz-uretiyoruz/4107253",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-10-31T10:58:30+00:00",
-   "url": "/haber/canli-cumhurbaskani-erdogan-konusuyor-aeed583d/"
+   "url": "/haber/cumhurbaskani-erdogan-saglikta-yerli-uretim-modeliyle-tibbi-cihaz-ve-e-e594c20f/"
   },
   {
    "id": "9a739795",
@@ -200,17 +288,6 @@
    "url": "/haber/claude-oyun-yasagi-anthropic-mevcut-oyunlarin-kopyasini-engelledi-1949b41e/"
   },
   {
-   "id": "43c19a0f",
-   "title": "Tarımda 2027 üretim yılı biyolojik ve biyoteknik mücadele destekleri belirlendi",
-   "summary": "Bitkisel üretimde 2027 yılında sağlanacak biyolojik ve biyoteknik mücadele destek tutarları belli oldu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tarimda-2027-uretim-yili-biyolojik-ve-biyoteknik-mucadele-destekleri-belirlendi/4107238",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T10:39:50+00:00",
-   "url": "/haber/tarimda-2027-uretim-yili-biyolojik-ve-biyoteknik-mucadele-destekleri-b-43c19a0f/"
-  },
-  {
    "id": "d016ee52",
    "title": "Şampiyonlar Ligi maçları için Amazon devrede",
    "summary": "Yayın sektöründe artık çok önemli bir gelir modeli haline gelen UEFA Şampiyonlar Ligi için yeni sezon ihalesi yapılacak. İhalede Amazon Prime Video da sürpriz yapabilir.",
@@ -222,15 +299,15 @@
    "url": "/haber/sampiyonlar-ligi-maclari-icin-amazon-devrede-d016ee52/"
   },
   {
-   "id": "86deeda4",
-   "title": "Rekabet Kurumu fındık sektörüne yönelik sıkı takibini sürdürüyor",
-   "summary": "Rekabet Kurumu Başkanı Birol Küle, \"Fındık alım-satım pazarının önde gelen 6 büyük teşebbüsü hakkında ciddi rekabet ihlali şüphesiyle 22 Ekim'de soruşturma açtık.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/rekabet-kurumu-findik-sektorune-yonelik-siki-takibini-surduruyor/4107232",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
+   "id": "c97fcb7c",
+   "title": "Cumhurbaşkanı Erdoğan: Değerlerimiz yaşatmak üzerine kurulu",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Tıp ve hekimlik bizim için hayati bir öneme sahiptir. Bizim inanç değerlerimiz yaşamak ve yaşatmak üzerine kuruludur\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-degerlerimiz-yasatmak-uzerine-kurulu-961815.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/erdogan-2496842.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
-   "date": "2026-10-31T10:22:52+00:00",
-   "url": "/haber/rekabet-kurumu-findik-sektorune-yonelik-siki-takibini-surduruyor-86deeda4/"
+   "date": "2026-10-31T10:26:00+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-degerlerimiz-yasatmak-uzerine-kurulu-c97fcb7c/"
   },
   {
    "id": "e9f19220",
@@ -242,17 +319,6 @@
    "category": "teknoloji",
    "date": "2026-10-31T10:17:52+00:00",
    "url": "/haber/mclaren-mcl-820-adi-aciklandi-yeni-super-otomobil-2027-de-geliyor-e9f19220/"
-  },
-  {
-   "id": "b7b2af10",
-   "title": "Emine Erdoğan'dan Türk Devletleri Teşkilatı 13. Zirvesi'ne ilişkin paylaşım",
-   "summary": "Emine Erdoğan, Türk Devletleri Teşkilatı (TDT) 13. Zirvesi'ne ilişkin paylaşım yaptı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/emine-erdogandan-turk-devletleri-teskilati-13-zirvesine-iliskin-paylasim/4107224",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T10:17:18+00:00",
-   "url": "/haber/emine-erdogan-dan-turk-devletleri-teskilati-13-zirvesi-ne-iliskin-payl-b7b2af10/"
   },
   {
    "id": "b2a508d2",
@@ -495,28 +561,6 @@
    "category": "gundem",
    "date": "2026-10-31T08:40:21+00:00",
    "url": "/haber/suriye-de-gecim-krizi-nufusun-onemli-kismi-esad-donemine-kiyasla-daha-7e60dbe2/"
-  },
-  {
-   "id": "279e78e2",
-   "title": "HarmonyOS 7 Alacak Cihazlar Listesi Genişledi – İşte Modeller",
-   "summary": "Huawei, HarmonyOS 7 güncellemesini alacak cihazların listesini genişletti. Telefonlardan katlanabilir modellere, tabletlerden akıllı ev ürünlerine kadar birçok cihaz programa dahil edildi.",
-   "link": "https://shiftdelete.net/harmonyos-7-alacak-huawei-cihazlari-listesi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-31T08:39:16+00:00",
-   "url": "/haber/harmonyos-7-alacak-cihazlar-listesi-genisledi-iste-modeller-279e78e2/"
-  },
-  {
-   "id": "345793e5",
-   "title": "Hyundai IONIQ 3, Avrupa’da Yılın Otomobili Finalisti Oldu",
-   "summary": "Türkiye'de üretilen Hyundai IONIQ 3, 2027 Avrupa'da Yılın Otomobili ödülünün finalistleri arasına girdi. Model, siparişlerde de Hyundai'nin beklentilerini şimdiden aştı.",
-   "link": "https://shiftdelete.net/hyundai-ioniq-3-avrupada-yilin-otomobili-finalisti",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-31T08:34:16+00:00",
-   "url": "/haber/hyundai-ioniq-3-avrupa-da-yilin-otomobili-finalisti-oldu-345793e5/"
   },
   {
    "id": "650a3c40",
@@ -849,17 +893,6 @@
    "url": "/haber/polonya-da-siyasi-gerginlik-anayasa-mahkemesi-ne-polis-konuslandirildi-bbf868c0/"
   },
   {
-   "id": "f0263bd4",
-   "title": "Son dakika Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 31 Ekim 2026",
-   "summary": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 31 Ekim 2026 Çanakkale deprem son dakika haberleri haberin…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-canakkalede-deprem-mi-oldu-az-once-deprem-canakkalede-nerede-oldu-canakkale-deprem-kandilli-ve-afad-son-depremler-listesi-31-ekim-2026-1748708",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T22:30:00+00:00",
-   "url": "/haber/son-dakika-canakkale-de-deprem-mi-oldu-az-once-deprem-canakkale-de-ner-f0263bd4/"
-  },
-  {
    "id": "9b18a5ff",
    "title": "Samsung, Xiaomi, OnePlus ve diğer markalarda Android 17 takvimi açıklandı",
    "summary": "Android 17 güncellemesi Google Pixel modellerinin ardından Samsung, Xiaomi, OnePlus ve diğer markaların telefonlarına da geliyor. İşte markalara göre güncelleme takvimi ve desteklenen modeller...",
@@ -913,28 +946,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T20:20:00+00:00",
    "url": "/haber/ubisoft-assassin-s-creed-remake-leri-konusunda-frene-basiyor-8193a39a/"
-  },
-  {
-   "id": "b3552250",
-   "title": "Otomobilde konforun yeni seviyesi: Deepal’den ayak banyosu patenti",
-   "summary": "Changan’ın Deepal markası, yolcu koltuğunun altında saklanan bir ayak banyosu için patent başvurusu yaptı. Açılır mekanizmaya sahip sistemin seri üretim araçlarda kullanılıp kullanılmayacağı belirsiz.",
-   "link": "https://www.donanimhaber.com/cinliler-isi-abartti-deepal-den-otomobilde-ayak-banyosu-patenti--212286",
-   "image": "https://www.donanimhaber.com/images/images/haber/212286/1200x675cinliler-isi-abartti-deepal-den-otomobilde-ayak-banyosu-patenti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-30T20:00:00+00:00",
-   "url": "/haber/otomobilde-konforun-yeni-seviyesi-deepal-den-ayak-banyosu-patenti-b3552250/"
-  },
-  {
-   "id": "7266395e",
-   "title": "Intel'in İsrail fabrikasında patlama gerçekleşti: Zarar 600 milyon doları bulabilir",
-   "summary": "Intel’in İsrail’deki Fab 28 tesisinde meydana gelen patlama, üretimin yaklaşık iki hafta durmasına neden oldu. Şirket, yaşanan aksaklıkların 600 milyon dolarlık gelir kaybına yol açmasını bekliyor.",
-   "link": "https://www.donanimhaber.com/intel-in-israil-deki-fabrika-kazasi-600-milyon-dolara-mal-olacak--212281",
-   "image": "https://www.donanimhaber.com/images/images/haber/212281/1200x675intel-in-israil-deki-fabrika-kazasi-600-milyon-dolara-mal-olacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-30T19:40:00+00:00",
-   "url": "/haber/intel-in-israil-fabrikasinda-patlama-gerceklesti-zarar-600-milyon-dola-7266395e/"
   },
   {
    "id": "09712c08",
@@ -1078,17 +1089,6 @@
    "category": "gundem",
    "date": "2026-10-30T04:41:00+00:00",
    "url": "/haber/21-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-05a031b0/"
-  },
-  {
-   "id": "071d91fb",
-   "title": "Yapay zeka Google'a 500 milyar dolar kaybettirdi",
-   "summary": "Google'ın ana şirketi Alphabet, perşembe günü ticari operasyonlarına ilişkin yılın son güncellemesiyle Wall Street'i sarsmasının ardından 500 milyar dolardan biraz fazla değer kaybetti.",
-   "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-googlea-500-milyar-dolar-kaybettirdi-961686.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2076000/google-reu-2076406.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-30T03:32:00+00:00",
-   "url": "/haber/yapay-zeka-google-a-500-milyar-dolar-kaybettirdi-071d91fb/"
   },
   {
    "id": "ca1d315d",
