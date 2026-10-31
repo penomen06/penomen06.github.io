@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:01:08.845586+00:00",
+ "updated": "2026-10-31T00:31:03.131126+00:00",
  "items": [
   {
    "id": "13e396cc",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-31T00:00:00+00:00",
+   "date": "2026-10-31T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13e396cc/"
+  },
+  {
+   "id": "62ea46ec",
+   "title": "ABD'li rapçi Macklemore, Özgür Filistin Turnesi'nin son konserini Londra'da verdi",
+   "summary": "Filistin'e destek açıklamaları nedeniyle İngiliz şarkıcı Ed Sheeran'ın turnesinden çıkarılan ABD'li rapçi Macklemore, gelirini Filistin halkını savunan kuruluşlara bağışlayacağı \"Özgür Filistin Turnesi\"nin son konserini…",
+   "link": "https://www.aa.com.tr/tr/kultur/abdli-rapci-macklemore-ozgur-filistin-turnesinin-son-konserini-londrada-verdi/4107010",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T00:16:33+00:00",
+   "url": "/haber/abd-li-rapci-macklemore-ozgur-filistin-turnesi-nin-son-konserini-londr-62ea46ec/"
   },
   {
    "id": "c9a852d2",
@@ -365,17 +376,6 @@
    "url": "/haber/amd-adrenalin-26-10-2-surucusu-yayinlandi-hatalar-duzeltildi-a73da2fa/"
   },
   {
-   "id": "5fd7ae35",
-   "title": "BM Güvenlik Konseyi, Guterres'in yerine önerilecek aday için 7. kez ön oylama yaptı",
-   "summary": "Birleşmiş Milletler Güvenlik Konseyi (BMGK), bu yıl sonunda görev süresi bitecek olan Genel Sekreter Antonio Guterres'in yerine aday olacak 7 isim için 7. kez ön yoklama seçimi yaptı.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyi-guterresin-yerine-onerilecek-aday-icin-7-kez-on-oylama-yapti/4106917",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T19:53:42+00:00",
-   "url": "/haber/bm-guvenlik-konseyi-guterres-in-yerine-onerilecek-aday-icin-7-kez-on-o-5fd7ae35/"
-  },
-  {
    "id": "9a6dd6dd",
    "title": "Voyager 1 48 Saatlik Sessizliği Atlattı, Enerji Ömrü Uzadı",
    "summary": "NASA, Voyager 1 uzay aracının yaklaşık 48 saat süren iletişim kopukluğunun 20 Ekim'de bittiğini duyurdu. Eylülde tamamlanan enerji tasarrufu operasyonu ise aracın ömrünü uzattı.",
@@ -454,14 +454,14 @@
   },
   {
    "id": "09712c08",
-   "title": "'Sizin kardeşiniziz, bankanız değil': Ankara-Bakü geriliminde ekonominin yeri",
+   "title": "Ankara-Bakü geriliminde ekonominin yeri nedir?",
    "summary": "2026 yılının Ekim ayında Bakü ile Ankara arasında tırmanan gerginlik, Netanyahu'nun Birleşmiş Milletler'deki (BM) konuşması sırasında Azerbaycan'ın salondan çıkmaması ve okullarda başörtüsü meselesi ile başladı. Ancak…",
    "link": "https://www.bbc.com/turkce/articles/c5vgjzrmg4ngo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f6ec/live/a79c13a0-d472-11f1-9dda-1ba6fcc7d159.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-10-30T19:27:31+00:00",
-   "url": "/haber/sizin-kardesiniziz-bankaniz-degil-ankara-baku-geriliminde-ekonominin-y-09712c08/"
+   "url": "/haber/ankara-baku-geriliminde-ekonominin-yeri-nedir-09712c08/"
   },
   {
    "id": "94f7e56d",
