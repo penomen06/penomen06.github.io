@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T22:01:06.226670+00:00",
+ "updated": "2026-10-31T22:30:58.194321+00:00",
  "items": [
   {
    "id": "2810190a",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-31T22:00:00+00:00",
+   "date": "2026-10-31T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2810190a/"
+  },
+  {
+   "id": "97ff1dbe",
+   "title": "RTX 5090'ın Kilidi Açıldı mı? 64 ve 96 GB Bellek İddiası",
+   "summary": "ABD'li tamirci Greg Sky, RTX 5090'ın 64 GB ve 96 GB bellekli sürümlerinin doğrulandığını duyurdu. Ancak henüz çalışan bir kart, test ya da yöntem paylaşılmadı.",
+   "link": "https://shiftdelete.net/rtx-5090-96-gb-bellek-kilidi-acildi-iddiasi",
+   "image": "https://ares.shiftdelete.net/static/img/content/26-11/01/rtx-5090-96gb-vram-mod.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T22:29:05+00:00",
+   "url": "/haber/rtx-5090-in-kilidi-acildi-mi-64-ve-96-gb-bellek-iddiasi-97ff1dbe/"
   },
   {
    "id": "d7dc3df3",
@@ -44,6 +55,17 @@
    "category": "gundem",
    "date": "2026-10-31T21:21:48+00:00",
    "url": "/haber/sermaye-piyasasi-kurulu-baskanligina-muhsin-atci-atandi-5053e725/"
+  },
+  {
+   "id": "5aa450dc",
+   "title": "Almanya'da gençlerin protesto gösterilerinde birçok kentte olaylar çıktı",
+   "summary": "Almanya'nın birçok kentinde gençlerin sosyal harcamalardaki kesintileri, artan yaşam maliyetlerini ve hükümetin askerlik düzenlemelerini protesto ettiği gösterilerde olaylar çıktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyada-genclerin-protesto-gosterilerinde-bircok-kentte-olaylar-cikti/4107665",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T21:16:10+00:00",
+   "url": "/haber/almanya-da-genclerin-protesto-gosterilerinde-bircok-kentte-olaylar-cik-5aa450dc/"
   },
   {
    "id": "6da99802",
@@ -299,17 +321,6 @@
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-31-eki-4ad561a5/"
   },
   {
-   "id": "8c5fa484",
-   "title": "Ukrayna Devlet Başkanı Zelenskiy Fener Rum Patrikhanesi'ni ziyaret etti",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Fener Rum Patrikhanesi'ni ziyaret ederek Fener Rum Patriği Bartholomeos ile görüştü.",
-   "link": "https://www.aa.com.tr/tr/gundem/ukrayna-devlet-baskani-zelenskiy-fener-rum-patrikhanesini-ziyaret-etti/4107602",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T18:39:44+00:00",
-   "url": "/haber/ukrayna-devlet-baskani-zelenskiy-fener-rum-patrikhanesi-ni-ziyaret-ett-8c5fa484/"
-  },
-  {
    "id": "bb3dcc9e",
    "title": "It: Welcome to Derry sürpriz bir bölümle ekranlara geri döndü",
    "summary": "HBO'nun sevilen dizisi It: Welcome to Derry, Cadılar Bayramı vesilesiyle ekranlara geri döndü. HBO, 2. sezon öncesi diziden sürpriz bir bölüm daha yayınladı. İşte detaylar:",
@@ -528,17 +539,6 @@
    "category": "teknoloji",
    "date": "2026-10-31T16:14:08+00:00",
    "url": "/haber/sahra-da-bulunan-mars-goktasi-4-1-milyar-yillik-cikti-su-izleri-tasiyo-844089d0/"
-  },
-  {
-   "id": "17c3c854",
-   "title": "Evden şarj maliyeti yükseliyor: Yeni tarife elektrikli araçları vurdu",
-   "summary": "Evden şarj maliyeti, EPDK’nin 2027 için belirlediği 3.000 kWh yıllık SKTT sınırıyla değişebilir. Togg T10X’i evde şarj eden hanenin aylık faturası yaklaşık 820 TL’den 2.802 TL’ye çıkabilir.",
-   "link": "https://shiftdelete.net/evden-sarj-maliyeti-sktt-togg-elektrik-tarifesi",
-   "image": "https://ares.shiftdelete.net/2026/10/579682e6b8679de1826b4fbcdab5e491a78cb191.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-31T16:07:07+00:00",
-   "url": "/haber/evden-sarj-maliyeti-yukseliyor-yeni-tarife-elektrikli-araclari-vurdu-17c3c854/"
   },
   {
    "id": "71705c6e",
