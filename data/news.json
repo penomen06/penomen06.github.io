@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-31T08:01:04.901843+00:00",
+ "updated": "2026-10-31T08:30:57.167140+00:00",
  "items": [
+  {
+   "id": "62d7521d",
+   "title": "Android telefonları tek SMS ile kullanılmaz hale getiren açık keşfedildi",
+   "summary": "Android telefonları hedef alan yeni bir güvenlik açığı, özel olarak hazırlanan tek bir SMS mesajıyla cihazların bağlantısını kesebiliyor. Bazı telefonlar tamamen kullanılamaz hale gelebiliyor.",
+   "link": "https://www.donanimhaber.com/android-telefonlari-tek-sms-ile-kullanilmaz-yapan-acik-kesfedildi--212301",
+   "image": "https://www.donanimhaber.com/images/images/haber/212301/1200x675android-telefonlari-tek-sms-ile-kullanilmaz-yapan-acik-kesfedildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-31T08:30:00+00:00",
+   "url": "/haber/android-telefonlari-tek-sms-ile-kullanilmaz-hale-getiren-acik-kesfedil-62d7521d/"
+  },
   {
    "id": "13e396cc",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 31 Ekim 2026",
@@ -9,19 +20,294 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-31T08:00:00+00:00",
+   "date": "2026-10-31T08:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13e396cc/"
   },
   {
-   "id": "40917be3",
-   "title": "Bakırköy Belediyesine yönelik soruşturmada 39 şüpheli tutuklandı",
-   "summary": "Bakırköy Belediyesine yönelik \"ihaleye fesat karıştırma\" ve \"irtikap\" suçlarına ilişkin soruşturma kapsamında gözaltına alınan 63 şüpheliden 39'u tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakirkoy-belediyesine-yonelik-sorusturmada-39-supheli-tutuklandi-/4107094",
+   "id": "7c858266",
+   "title": "Iluvatar CoreX Tiangai 300, Testlerde Nvidia H200’ü Geçti",
+   "summary": "Çinli Iluvatar CoreX, Tiangai 300 hızlandırıcısını Şanghay'da gazeteciler önünde test etti. Iluvatar CoreX Tiangai 300, tek kart veriminde Nvidia H200'ün 1,05 katına ulaştı.",
+   "link": "https://shiftdelete.net/iluvatar-corex-tiangai-300-nvidia-h200",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T08:29:16+00:00",
+   "url": "/haber/iluvatar-corex-tiangai-300-testlerde-nvidia-h200-u-gecti-7c858266/"
+  },
+  {
+   "id": "7e60dbe2",
+   "title": "Suriye'de geçim krizi: 'Nüfusun önemli kısmı Esad dönemine kıyasla daha kötü durumda'",
+   "summary": "Suriye'de yakıt fiyatlarındaki artış ve geçim krizi nedeniyle artan hoşnutsuzluk, Ahmed Şara yönetiminin önündeki en büyük sorun olarak görülüyor.",
+   "link": "https://www.bbc.com/turkce/articles/cwy8l23nylm0o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/acad/live/bd8904b0-d20c-11f1-b3b6-c1e79e957e40.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-10-31T08:28:06+00:00",
+   "url": "/haber/suriye-de-gecim-krizi-nufusun-onemli-kismi-esad-donemine-kiyasla-daha-7e60dbe2/"
+  },
+  {
+   "id": "4c47d344",
+   "title": "SpaceX Anthropic: Şirketin En Büyük Müşterisi Claude’un Geliştiricisi",
+   "summary": "SpaceX Anthropic ortaklığı sürpriz bir tabloyu ortaya çıkardı: Hesaplama gücü biriminin en büyük müşterisi, Bloomberg'in kaynağına göre Claude'un geliştiricisi Anthropic. Ödemeler ABD hükümetini geride bıraktı.",
+   "link": "https://shiftdelete.net/spacex-anthropic-en-buyuk-musteri-claude",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T08:24:16+00:00",
+   "url": "/haber/spacex-anthropic-sirketin-en-buyuk-musterisi-claude-un-gelistiricisi-4c47d344/"
+  },
+  {
+   "id": "07fc5326",
+   "title": "Türkiye ile Özbekistan ekonomik ilişkilerini yeni anlaşmalarla güçlendiriyor",
+   "summary": "Türkiye ile Özbekistan arasında ticaretin geliştirilmesi, gümrük işlemlerinde bilgi paylaşımı ve iş dünyasının desteklenmesine yönelik imzalanan 5 anlaşmanın, yeni işbirliği alanlarının geliştirilmesine katkı sağlaması…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-ozbekistan-ekonomik-iliskilerini-yeni-anlasmalarla-guclendiriyor/4107133",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-31T07:59:10+00:00",
-   "url": "/haber/bakirkoy-belediyesine-yonelik-sorusturmada-39-supheli-tutuklandi-40917be3/"
+   "date": "2026-10-31T08:21:27+00:00",
+   "url": "/haber/turkiye-ile-ozbekistan-ekonomik-iliskilerini-yeni-anlasmalarla-guclend-07fc5326/"
+  },
+  {
+   "id": "ce8ba167",
+   "title": "Küresel piyasalar, ABD'de açıklanacak tarım dışı istihdam verisine odaklandı",
+   "summary": "Küresel piyasalar bu hafta karışık seyrederken gözler, ABD'de gelecek hafta açıklanacak tarım dışı istihdam verisine odaklandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-abdde-aciklanacak-tarim-disi-istihdam-verisine-odaklandi/4107131",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:19:23+00:00",
+   "url": "/haber/kuresel-piyasalar-abd-de-aciklanacak-tarim-disi-istihdam-verisine-odak-ce8ba167/"
+  },
+  {
+   "id": "487ffe9e",
+   "title": "Yanıltıcı 5G Reklamları Durduruldu: İki GSM Şirketine 8 Milyon TL Ceza",
+   "summary": "Ticaret Bakanlığına bağlı Reklam Kurulu, yanıltıcı 5G reklamları nedeniyle iki GSM şirketine toplam 7 milyon 983 bin 304 TL ceza verdi. İlgili reklamlar da durduruldu.",
+   "link": "https://shiftdelete.net/yaniltici-5g-reklamlari-iki-gsm-sirketine-ceza",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T08:19:16+00:00",
+   "url": "/haber/yaniltici-5g-reklamlari-durduruldu-iki-gsm-sirketine-8-milyon-tl-ceza-487ffe9e/"
+  },
+  {
+   "id": "e35b0ac8",
+   "title": "iOS Güncelleme Uyarısı: Apple 160’tan Fazla Güvenlik Açığını Kapattı",
+   "summary": "iOS güncelleme uyarısı: Apple, iOS 27.2, iOS 26.7.2 ve iOS 18.7.11 ile 160'tan fazla açığı kapattı. Hangi iPhone hangi sürümü almalı?",
+   "link": "https://shiftdelete.net/ios-guncelleme-guvenlik-yamasi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T08:17:35+00:00",
+   "url": "/haber/ios-guncelleme-uyarisi-apple-160-tan-fazla-guvenlik-acigini-kapatti-e35b0ac8/"
+  },
+  {
+   "id": "32cbe840",
+   "title": "Tunus'ta üniversite öğrencileri barınma ve sağlık hizmetlerindeki sorunları protesto ediyor",
+   "summary": "Tunus'ta üniversite yurdunda kalan bir kız öğrencinin sağlık sorunu yaşamasının ardından hayatını kaybetmesi, ülkedeki üniversite hizmetlerinin koşullarına ilişkin tartışmaları yeniden gündeme getirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/tunusta-universite-ogrencileri-barinma-ve-saglik-hizmetlerindeki-sorunlari-protesto-ediyor-/4107127",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:16:13+00:00",
+   "url": "/haber/tunus-ta-universite-ogrencileri-barinma-ve-saglik-hizmetlerindeki-soru-32cbe840/"
+  },
+  {
+   "id": "05c84d43",
+   "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine hava saldırıları düzenledi",
+   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan’ın güneyindeki bölgelere hava saldırıları düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-saldirilari-duzenledi/4107126",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:15:39+00:00",
+   "url": "/haber/israil-ordusu-ateskese-ragmen-lubnan-in-guneyine-hava-saldirilari-duze-05c84d43/"
+  },
+  {
+   "id": "b86d88c2",
+   "title": "İran’dan ABD’ye \"savaşın ateşi daha geniş bir coğrafyayı saracak\" tehdidi",
+   "summary": "İran Ordu Sözcüsü Tuğgeneral Muhammed Ekreminiya, ABD’nin İran’a yönelik olası yeni bir saldırı düzenlemesi halinde \"savaşın ateşi daha geniş bir coğrafyayı saracak.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-dan-abd-ye-savasin-atesi-daha-genis-bir-cografyayi-saracak-tehdidi/4107125",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:15:23+00:00",
+   "url": "/haber/iran-dan-abd-ye-savasin-atesi-daha-genis-bir-cografyayi-saracak-tehdid-b86d88c2/"
+  },
+  {
+   "id": "ace0e75d",
+   "title": "Sağlık teknolojilerinde aşıdan kanser tanı kitine yerli üretim hamlesi",
+   "summary": "2027 Yılı Cumhurbaşkanlığı Yıllık Programı kapsamında aşı ve ilaç teknolojilerine ilişkin AR-GE ve üretim kapasitesinin artırılması ve biyobenzer ilaçların geliştirilmesi, üretilmesi ve ticarileştirilmesine yönelik…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/saglik-teknolojilerinde-asidan-kanser-tani-kitine-yerli-uretim-hamlesi/4107121",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:14:37+00:00",
+   "url": "/haber/saglik-teknolojilerinde-asidan-kanser-tani-kitine-yerli-uretim-hamlesi-ace0e75d/"
+  },
+  {
+   "id": "752a2efd",
+   "title": "OpenAI veri merkezi yapımını robotlara devredecek: Altman anlattı",
+   "summary": "OpenAI veri merkezi inşasını yapay zekâ kontrollü robotlara bırakmayı hedefliyor. Sam Altman, kendini çoğaltabilen tesislerin artık erişilebilir mesafede olduğunu söyledi.",
+   "link": "https://shiftdelete.net/openai-veri-merkezi-robot-altman-maliyet",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T08:14:16+00:00",
+   "url": "/haber/openai-veri-merkezi-yapimini-robotlara-devredecek-altman-anlatti-752a2efd/"
+  },
+  {
+   "id": "3e11c64a",
+   "title": "Milletlerarası anlaşma Resmi Gazete'de yayımlandı",
+   "summary": "Türk Devletleri Teşkilatına (TDT) Üye Devletlerin Hükümetleri Arasında İmzalanan Milletlerarası Anlaşma, Cumhurbaşkanı Recep Tayyip Erdoğan tarafından onaylanmasının ardından Resmi Gazete'de yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/milletlerarasi-anlasma-resmi-gazetede-yayimlandi/4107118",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:12:46+00:00",
+   "url": "/haber/milletlerarasi-anlasma-resmi-gazete-de-yayimlandi-3e11c64a/"
+  },
+  {
+   "id": "b1c8aeb8",
+   "title": "Geely Galaxy Starship 7 Sahipleri 7 nm Yerine 12 nm Çip Buldu",
+   "summary": "Geely Galaxy Starship 7 sahipleri, araçlarında reklamı yapılan 7 nm Dragon Eagle One yerine 12 nm ECARX E02 çipinin çıktığını fark etti. Geely ise gelen tepkilere yanıt verdi.",
+   "link": "https://shiftdelete.net/geely-galaxy-starship-7-cip-tepkisi",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T08:09:16+00:00",
+   "url": "/haber/geely-galaxy-starship-7-sahipleri-7-nm-yerine-12-nm-cip-buldu-b1c8aeb8/"
+  },
+  {
+   "id": "564f23a6",
+   "title": "AR-GE faaliyetlerine yapılan harcama 10 yılda 2,5 trilyon lirayı aştı",
+   "summary": "Türkiye'de AR-GE faaliyetleri için yapılan harcama 2016-2025 döneminde 2,5 trilyon lirayı geçti.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ar-ge-faaliyetlerine-yapilan-harcama-10-yilda-2-5-trilyon-lirayi-asti/4107114",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:08:57+00:00",
+   "url": "/haber/ar-ge-faaliyetlerine-yapilan-harcama-10-yilda-2-5-trilyon-lirayi-asti-564f23a6/"
+  },
+  {
+   "id": "386b7112",
+   "title": "COP31'de ulaşım çevre dostu otobüslerle sağlanacak",
+   "summary": "Türkiye'nin kasım ayında ev sahipliği yapacağı Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) katılımcıların ulaşımı için 25 belediyeden temin edilen 630 \"çevre dostu\"…",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-ulasim-cevre-dostu-otobuslerle-saglanacak/4107109",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:07:43+00:00",
+   "url": "/haber/cop31-de-ulasim-cevre-dostu-otobuslerle-saglanacak-386b7112/"
+  },
+  {
+   "id": "02f15295",
+   "title": "Postacılık sektöründe Türkiye'nin ulaştırma ve lojistikte bölgesel üs olma potansiyelinden faydalanılacak",
+   "summary": "Postacılık sektöründe taşımacılık uygulamalarının geliştirilmesi, rekabetçi üretim ve ihracatı destekleyen altyapının oluşturulması sağlanarak ülkenin ulaştırma ve lojistikte bölgesel bir üs olma potansiyelinden azami…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/postacilik-sektorunde-turkiyenin-ulastirma-ve-lojistikte-bolgesel-us-olma-potansiyelinden-faydalanilacak/4107108",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:07:40+00:00",
+   "url": "/haber/postacilik-sektorunde-turkiye-nin-ulastirma-ve-lojistikte-bolgesel-us-02f15295/"
+  },
+  {
+   "id": "4726d1a1",
+   "title": "Fransa'da Danıştay Paris'teki Sarı Yelekliler eylemi için hükümetin belirlediği güzergahı onayladı",
+   "summary": "Fransa'da Danıştay, Paris'te düzenlenecek Sarı Yelekliler eylemlerinde sendikaların talep ettiği merkezi rotanın uygulanmasını kabul eden alt mahkemenin kararını bozarak hükümet yetkililerinin belirlediği çevre yoluna…",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-danistay-paristeki-sari-yelekliler-eylemi-icin-hukumetin-belirledigi-guzergahi-onayladi/4107107",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:07:16+00:00",
+   "url": "/haber/fransa-da-danistay-paris-teki-sari-yelekliler-eylemi-icin-hukumetin-be-4726d1a1/"
+  },
+  {
+   "id": "34af8b99",
+   "title": "Çifte vatandaşlar Bulgaristan'daki seçimlerde belirleyici rol üstleniyor",
+   "summary": "Balkan Türkleri Kültür ve Dayanışma Derneği (BALTÜRK) Genel Başkanı Şükrü Ar, Bulgaristan'da 1 Kasım'da ikinci turu yapılacak cumhurbaşkanlığı seçiminde çifte vatandaşların oylarının belirleyici görüldüğünü söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cifte-vatandaslar-bulgaristandaki-secimlerde-belirleyici-rol-ustleniyor/4107105",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:06:00+00:00",
+   "url": "/haber/cifte-vatandaslar-bulgaristan-daki-secimlerde-belirleyici-rol-ustleniy-34af8b99/"
+  },
+  {
+   "id": "471ea93a",
+   "title": "Trabzonspor, Süper Lig'de yarın Gaziantep FK'yi konuk edecek",
+   "summary": "Trabzonspor, Trendyol Süper Lig'in 10. haftasında yarın sahasında Gaziantep FK ile karşılaşacak.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-super-ligde-yarin-gaziantep-fkyi-konuk-edecek/4107104",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:05:51+00:00",
+   "url": "/haber/trabzonspor-super-lig-de-yarin-gaziantep-fk-yi-konuk-edecek-471ea93a/"
+  },
+  {
+   "id": "64e40007",
+   "title": "Ticaret Bakanı Bolat, Kazakistan, Özbekistan ve Türkiye ticari ilişkilerini AA'ya değerlendirdi",
+   "summary": "Ticaret Bakanı Ömer Bolat, AA muhabirine, Türk Devletleri Teşkilatı (TDT) Devlet Başkanları Konseyi 13. Zirvesi'ne ilişkin değerlendirmede bulundu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-kazakistan-ozbekistan-ve-turkiye-ticari-iliskilerini-aaya-degerlendirdi/4107103",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:05:18+00:00",
+   "url": "/haber/ticaret-bakani-bolat-kazakistan-ozbekistan-ve-turkiye-ticari-iliskiler-64e40007/"
+  },
+  {
+   "id": "9d195944",
+   "title": "Kasımpaşa ile Beşiktaş, 47. randevuda",
+   "summary": "Kasımpaşa ile Beşiktaş, yarın oynanacak maçla Süper Lig'de 47. kez karşı karşıya gelecek.",
+   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-ile-besiktas-47-randevuda/4107101",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T08:04:45+00:00",
+   "url": "/haber/kasimpasa-ile-besiktas-47-randevuda-9d195944/"
+  },
+  {
+   "id": "95bb2af7",
+   "title": "OnePlus kompakt telefon serisine devam etmeyecek iddiası",
+   "summary": "Bilinen sızıntıcı Digital Chat Station'a göre OnePlus kompakt telefon serisini yenilemeyi planlamıyor. Şirket bunun yerine daha geniş formatlı modelleri değerlendirebilir.",
+   "link": "https://shiftdelete.net/oneplus-kompakt-telefon-serisi-devam-etmeyecek",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T08:04:16+00:00",
+   "url": "/haber/oneplus-kompakt-telefon-serisine-devam-etmeyecek-iddiasi-95bb2af7/"
+  },
+  {
+   "id": "1fd426bd",
+   "title": "Lexus, Çin’de üretime geçiyor: İlk model elektrikli SUV olacak",
+   "summary": "Lexus, Çin’de yalnızca ithal araç satma dönemini kapatmaya hazırlanıyor. Markanın ülkede üreteceği ilk model, 2027’de yollara çıkması planlanan elektrikli SUV olacak.",
+   "link": "https://www.donanimhaber.com/lexus-cin-de-uretime-geciyor-ilk-model-elektrikli-suv-olacak--212303",
+   "image": "https://www.donanimhaber.com/images/images/haber/212303/1200x675lexus-cin-de-uretime-geciyor-ilk-model-elektrikli-suv-olacak.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-10-31T08:01:42+00:00",
+   "url": "/haber/lexus-cin-de-uretime-geciyor-ilk-model-elektrikli-suv-olacak-1fd426bd/"
+  },
+  {
+   "id": "9e905268",
+   "title": "İstanbul'da 142 bin elektronik sigara cihazı ele geçirildi",
+   "summary": "Ticaret Bakanlığı, İstanbul'da düzenlenen iki ayrı operasyonda piyasa değeri 310 milyon 579 bin lira olan 142 bin 100 elektronik sigara cihazının ele geçirildiğini açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-142-bin-elektronik-sigara-cihazi-ele-gecirildi-1748749",
+   "image": "https://images.ntv.com.tr/images/ISTANBULDA-3105-MILYON-LIRALIK-KACAK-E_1583828_470996-752487.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-31T08:01:05+00:00",
+   "url": "/haber/istanbul-da-142-bin-elektronik-sigara-cihazi-ele-gecirildi-9e905268/"
+  },
+  {
+   "id": "d1182a72",
+   "title": "Apple iPhone Duo Ekran Sorunlarını İncelemeye Aldı",
+   "summary": "Apple, iPhone Duo ekran çatlama sorunu yaşayan kullanıcılar için teknik servis rehberi yayınladı. Cihazdaki ekran sorunları nasıl çözülüyor?",
+   "link": "https://shiftdelete.net/iphone-duo-ekran-catlama-sorunu-teknik-rehber",
+   "image": "",
+   "source": "Teknoloji Haberleri – ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T08:00:18+00:00",
+   "url": "/haber/apple-iphone-duo-ekran-sorunlarini-incelemeye-aldi-d1182a72/"
   },
   {
    "id": "1f74593c",
@@ -123,17 +409,6 @@
    "url": "/haber/sony-den-avatar-gosterimine-yonelik-gozluksuz-3d-ekran-590c35bb/"
   },
   {
-   "id": "1484c3fe",
-   "title": "Aile ve Sosyal Hizmetler Bakanlığından kimsesizler için genelge",
-   "summary": "Aile ve Sosyal Hizmetler Bakanlığı, kışın sokakta yaşayan kimsesizlerin barınma ve temel ihtiyaçlarının karşılanması için valiliklere, aile ve sosyal hizmetler il müdürlükleri ile sosyal yardımlaşma ve dayanışma…",
-   "link": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-kimsesizler-icin-genelge/4107084",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T07:33:23+00:00",
-   "url": "/haber/aile-ve-sosyal-hizmetler-bakanligindan-kimsesizler-icin-genelge-1484c3fe/"
-  },
-  {
    "id": "9d768758",
    "title": "Intel Nova Lake performansı ortaya çıktı: Arrow Lake'e yüzde 20 fark",
    "summary": "Intel'in yeni nesil Nova Lake işlemcileri için ilk performans rakamları paylaşıldı. Arrow Lake'e kıyasla yüzde 20'ye, tek çekirdek performansında ise yüzde 17'ye kadar daha hızlı olabilir.",
@@ -165,17 +440,6 @@
    "category": "teknoloji",
    "date": "2026-10-31T07:25:22+00:00",
    "url": "/haber/google-aktif-cihazlarin-yuzde-25-4-unde-android-16-yuzde-1-inde-androi-452429a7/"
-  },
-  {
-   "id": "25657dd7",
-   "title": "Doğal gaz toptan satış piyasasında teknik ve idari esaslarda değişiklik yapıldı",
-   "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK), organize toptan doğal gaz satış piyasasında sistem dengesini sağlamak amacıyla teknik ve idari esaslarda düzenleme yaptı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/dogal-gaz-toptan-satis-piyasasinda-teknik-ve-idari-esaslarda-degisiklik-yapildi/4107080",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T07:23:13+00:00",
-   "url": "/haber/dogal-gaz-toptan-satis-piyasasinda-teknik-ve-idari-esaslarda-degisikli-25657dd7/"
   },
   {
    "id": "b3955cfe",
@@ -288,17 +552,6 @@
    "url": "/haber/mimar-muhendis-ve-tasarimcilar-icin-yuksek-butceli-profesyonel-bilgisa-38d2b781/"
   },
   {
-   "id": "857fad32",
-   "title": "İsrail'in ateşkese rağmen Gazze'de düzenlediği saldırılarda 2 Filistinli hayatını kaybetti",
-   "summary": "İsrail ordusunun Gazze Şeridi'nde ateşkese rağmen düzenlediği saldırılarda 2 Filistinli hayatını kaybetti.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzede-duzenledigi-saldirilarda-2-filistinli-hayatini-kaybetti/4107065",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T06:59:06+00:00",
-   "url": "/haber/israil-in-ateskese-ragmen-gazze-de-duzenledigi-saldirilarda-2-filistin-857fad32/"
-  },
-  {
    "id": "846b1e53",
    "title": "Bakırköy Belediyesine yolsuzluk soruşturması: 39 tutuklama",
    "summary": "Bakırköy Belediyesine yönelik yolsuzluk soruşturması kapsamında gözaltına alınan, aralarında belediye başkan yardımcılarının da bulunduğu 39 şüpheli tutuklandı.",
@@ -308,17 +561,6 @@
    "category": "gundem",
    "date": "2026-10-31T06:59:00+00:00",
    "url": "/haber/bakirkoy-belediyesine-yolsuzluk-sorusturmasi-39-tutuklama-846b1e53/"
-  },
-  {
-   "id": "b97ce3dc",
-   "title": "Sivasspor, yarın ligde Boluspor'u konuk edecek",
-   "summary": "Ekenler Beton Sivasspor, Trendyol 1. Lig'in 13. haftasında yarın sahasında Boluspor ile karşılaşacak.",
-   "link": "https://www.aa.com.tr/tr/spor/sivasspor-yarin-ligde-bolusporu-konuk-edecek/4107064",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T06:58:59+00:00",
-   "url": "/haber/sivasspor-yarin-ligde-boluspor-u-konuk-edecek-b97ce3dc/"
   },
   {
    "id": "d2027dc7",
@@ -332,17 +574,6 @@
    "url": "/haber/depremler-mi-tetikledi-prof-dr-bektas-uyardi-bolge-denize-dogru-cokuyo-d2027dc7/"
   },
   {
-   "id": "147ad2f1",
-   "title": "ABD, Ukrayna'ya savunma alanında 2,1 milyar dolarlık olası satışı onayladı",
-   "summary": "ABD, Ukrayna'nın savunma kapasitesinin geliştirilmesine yönelik 2,1 milyar dolarlık olası satışa onay verdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-ukraynaya-savunma-alaninda-2-1-milyar-dolarlik-olasi-satisi-onayladi/4107062",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T06:56:48+00:00",
-   "url": "/haber/abd-ukrayna-ya-savunma-alaninda-2-1-milyar-dolarlik-olasi-satisi-onayl-147ad2f1/"
-  },
-  {
    "id": "bfb46574",
    "title": "Manisa'da Cumhuriyet kutlamalarında 1000 dron ile gökyüzünde Atatürk portresi oluşturuldu",
    "summary": "Manisa'da 29 Ekim Cumhuriyet Bayramı kutlamaları kapsamında 1000 dron ile ışık gösterisi düzenlendi. Gökyüzünde Atatürk'ün portresi ve Türk bayrağı oluşturuldu.",
@@ -354,17 +585,6 @@
    "url": "/haber/manisa-da-cumhuriyet-kutlamalarinda-1000-dron-ile-gokyuzunde-ataturk-p-bfb46574/"
   },
   {
-   "id": "c278b970",
-   "title": "Adana'da suç örgütü üyeliğinden aranan zanlı, MİT destekli operasyonla yakalandı",
-   "summary": "Adana'da suç örgütüne üye olduğu iddiasıyla aranan şüpheli, Milli İstihbarat Teşkilatı (MİT) destekli operasyonla yakalandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/adanada-suc-orgutu-uyeliginden-aranan-zanli-mit-destekli-operasyonla-yakalandi/4107059",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T06:52:21+00:00",
-   "url": "/haber/adana-da-suc-orgutu-uyeliginden-aranan-zanli-mit-destekli-operasyonla-c278b970/"
-  },
-  {
    "id": "5108e198",
    "title": "Harley-Davidson’ın elektrikli motosiklet markası LiveWire, geleceğinden emin değil",
    "summary": "Motosiklet efsanesi Harley-Davidson’ın kurduğu elektrikli motosiklet markası LiveWire, son mali raporunda faaliyetlerini sürdürüp sürdüremeyeceği konusunda ciddi şüpheler bulunduğunu açıkladı. Bu çeyrekte satışlarını…",
@@ -374,17 +594,6 @@
    "category": "teknoloji",
    "date": "2026-10-31T06:51:49+00:00",
    "url": "/haber/harley-davidson-in-elektrikli-motosiklet-markasi-livewire-geleceginden-5108e198/"
-  },
-  {
-   "id": "fcf1cc6f",
-   "title": "Başakşehir, Süper Lig'de yarın Samsunspor'u ağırlayacak",
-   "summary": "İstanbul Başakşehir, Trendyol Süper Lig'in 10. haftasında yarın Samsunspor'u konuk edecek.",
-   "link": "https://www.aa.com.tr/tr/spor/basaksehir-super-ligde-yarin-samsunsporu-agirlayacak/4107055",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T06:47:28+00:00",
-   "url": "/haber/basaksehir-super-lig-de-yarin-samsunspor-u-agirlayacak-fcf1cc6f/"
   },
   {
    "id": "5c448601",
@@ -409,28 +618,6 @@
    "url": "/haber/turkiye-de-uretilen-hyundai-ioniq-3-2027-avrupa-da-yilin-otomobili-fin-af8f1b42/"
   },
   {
-   "id": "29eb8151",
-   "title": "Somali'de BM'nin 30 yılı aşkın süredir yürüttüğü siyasi misyonlar sona erdi",
-   "summary": "Birleşmiş Milletlerin (BM) Somali'de 30 yılı aşkın süredir barışın sağlanması, devlet yapılanması ve uzlaşı süreçlerine destek amacıyla yürüttüğü siyasi misyonlar, BM Güvenlik Konseyinin kararı doğrultusunda 31 Ekim…",
-   "link": "https://www.aa.com.tr/tr/dunya/somalide-bmnin-30-yili-askin-suredir-yuruttugu-siyasi-misyonlar-sona-erdi/4107051",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T06:42:37+00:00",
-   "url": "/haber/somali-de-bm-nin-30-yili-askin-suredir-yuruttugu-siyasi-misyonlar-sona-29eb8151/"
-  },
-  {
-   "id": "2c38b98e",
-   "title": "Ticaret Bakanlığı Türk markalarının küresel rekabet gücünü artıracak yeni destekleri uygulamaya aldı",
-   "summary": "Ticaret Bakanlığı, ihracatçıların değişen ihtiyaçları ve küresel ticaretin dinamikleri doğrultusunda Marka ve Turquality Desteğine İlişkin Genelge'de kapsamlı değişiklikler yaparak yeni destek unsurlarını uygulamaya…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-turk-markalarinin-kuresel-rekabet-gucunu-artiracak-yeni-destekleri-uygulamaya-aldi/4107047",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T06:32:45+00:00",
-   "url": "/haber/ticaret-bakanligi-turk-markalarinin-kuresel-rekabet-gucunu-artiracak-y-2c38b98e/"
-  },
-  {
    "id": "259c9f50",
    "title": "PUBG için laptop önerileri: Kalabalık çatışmalarda akıcılık için ne gerekli?",
    "summary": "PUBG için laptop seçerken ekran kartı kadar işlemci, RAM ve yüksek yenileme hızlı ekran da önem taşıyor. Kalabalık çatışmalarda akıcılık için öne çıkan modelleri inceledik.",
@@ -442,17 +629,6 @@
    "url": "/haber/pubg-icin-laptop-onerileri-kalabalik-catismalarda-akicilik-icin-ne-ger-259c9f50/"
   },
   {
-   "id": "218ea4dd",
-   "title": "Beşiktaş, Süper Lig'de yarın Kasımpaşa'ya konuk olacak",
-   "summary": "Beşiktaş, Trendyol Süper Lig'in 10. haftasında yarın deplasmanda Kasımpaşa ile karşı karşıya gelecek.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-kasimpasaya-konuk-olacak/4107042",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T06:28:04+00:00",
-   "url": "/haber/besiktas-super-lig-de-yarin-kasimpasa-ya-konuk-olacak-218ea4dd/"
-  },
-  {
    "id": "8b8d8429",
    "title": "BEDAŞ ilçe ilçe açıkladı. İstanbul'da 8 saat sürecek elektrik kesintisi",
    "summary": "İstanbul'un 15 ilçesinde planlı elektrik kesintisi yapılacak. BEDAŞ tarafından yapılan elektrik kesintisi duyurusunda 1 Kasım Pazar günü bazı ilçelerde gerçekleşecek kesinti 8 saati sürecek.",
@@ -462,17 +638,6 @@
    "category": "gundem",
    "date": "2026-10-31T06:21:39+00:00",
    "url": "/haber/bedas-ilce-ilce-acikladi-istanbul-da-8-saat-surecek-elektrik-kesintisi-8b8d8429/"
-  },
-  {
-   "id": "d4d27566",
-   "title": "Samsung iPhone Duo’nun Kırılan Ekranıyla Dalga Geçti",
-   "summary": "Samsung, iPhone Duo'nun yaşadığı ekran sorunlarını yeni reklam kampanyasında hedef alarak Samsung Galaxy Z Fold 8 modelini öne çıkarıyor.",
-   "link": "https://shiftdelete.net/samsung-iphone-duo-ekran-sorunu-reklam",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-31T06:00:18+00:00",
-   "url": "/haber/samsung-iphone-duo-nun-kirilan-ekraniyla-dalga-gecti-d4d27566/"
   },
   {
    "id": "df1b8598",
@@ -519,17 +684,6 @@
    "url": "/haber/hepsiburada-da-telefon-bilgisayar-ve-tabletlerde-indirimler-iste-one-c-d7011f8c/"
   },
   {
-   "id": "95c81956",
-   "title": "Kulaklığını Kaybetti ChatGPT Yardımına Yetişti",
-   "summary": "Bir Reddit kullanıcısı, ChatGPT ile kayıp kulaklık bulma yöntemini kullanarak çakıl taşları arasına düşürdüğü cihazına kavuştu.",
-   "link": "https://shiftdelete.net/chatgpt-ile-kayip-kulaklik-bulma",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-31T05:00:34+00:00",
-   "url": "/haber/kulakligini-kaybetti-chatgpt-yardimina-yetisti-95c81956/"
-  },
-  {
    "id": "04195ee9",
    "title": "Bir askerimiz şehit oldu",
    "summary": "Hakkari'de hudut geçiş olayına müdahale ederken açılan ateşle yaralanan asker şehit oldu.",
@@ -539,28 +693,6 @@
    "category": "gundem",
    "date": "2026-10-31T04:04:00+00:00",
    "url": "/haber/bir-askerimiz-sehit-oldu-04195ee9/"
-  },
-  {
-   "id": "b42b4959",
-   "title": "Samsung Galaxy Fit4 Tasarımı ve Özellikleri Belli Oldu",
-   "summary": "Samsung Galaxy Fit4 özellikleri sızdırıldı. Yeni akıllı bilekliğin ekran detayları, renk seçenekleri ve sağlık takip yetenekleri belli oldu.",
-   "link": "https://shiftdelete.net/samsung-galaxy-fit4-ozellikleri-sizdirildi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-31T04:00:18+00:00",
-   "url": "/haber/samsung-galaxy-fit4-tasarimi-ve-ozellikleri-belli-oldu-b42b4959/"
-  },
-  {
-   "id": "9e5bfdaa",
-   "title": "Hakkari'de hudut geçiş olayına müdahale ederken açılan ateşle yaralanan asker şehit oldu",
-   "summary": "Milli Savunma Bakanlığı (MSB), Hakkari Yüksekova'da hudut geçiş olayına müdahale sırasında açılan ateşle yaralanan Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün kaldırıldığı hastanede yapılan müdahaleye rağmen şehit olduğunu…",
-   "link": "https://www.aa.com.tr/tr/gundem/hakkaride-hudut-gecis-olayina-mudahale-ederken-acilan-atesle-yaralanan-asker-sehit-oldu/4107021",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T03:53:11+00:00",
-   "url": "/haber/hakkari-de-hudut-gecis-olayina-mudahale-ederken-acilan-atesle-yaralana-9e5bfdaa/"
   },
   {
    "id": "d9a9f691",
@@ -574,28 +706,6 @@
    "url": "/haber/gazze-ya-da-hic-israil-e-destek-abd-ara-secimlerinde-gerilim-noktasi-h-d9a9f691/"
   },
   {
-   "id": "62ea46ec",
-   "title": "ABD'li rapçi Macklemore, Özgür Filistin Turnesi'nin son konserini Londra'da verdi",
-   "summary": "Filistin'e destek açıklamaları nedeniyle İngiliz şarkıcı Ed Sheeran'ın turnesinden çıkarılan ABD'li rapçi Macklemore, gelirini Filistin halkını savunan kuruluşlara bağışlayacağı \"Özgür Filistin Turnesi\"nin son konserini…",
-   "link": "https://www.aa.com.tr/tr/kultur/abdli-rapci-macklemore-ozgur-filistin-turnesinin-son-konserini-londrada-verdi/4107010",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T00:16:33+00:00",
-   "url": "/haber/abd-li-rapci-macklemore-ozgur-filistin-turnesi-nin-son-konserini-londr-62ea46ec/"
-  },
-  {
-   "id": "3ef90c82",
-   "title": "Arap Koalisyonu: Suudi Arabistan'a yönelik 3 İHA saldırısı önlendi",
-   "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Suudi Arabistan'ın Riyad kentinde, doğu ve güney bölgelerinde toplam 3 insansız hava aracının (İHA) engellenerek düşürüldüğünü duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistana-yonelik-3-iha-saldirisi-onlendi/4106999",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T23:25:47+00:00",
-   "url": "/haber/arap-koalisyonu-suudi-arabistan-a-yonelik-3-iha-saldirisi-onlendi-3ef90c82/"
-  },
-  {
    "id": "0529b375",
    "title": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
    "summary": "Türkiye, eski Dışişleri Bakanı ve halen Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT) Genel Sekreteri görevini yürüten Büyükelçi Feridun Sinirlioğlu'nun Birleşmiş Milletler Genel Sekreterliği adaylığı için resmi…",
@@ -605,17 +715,6 @@
    "category": "gundem",
    "date": "2026-10-30T22:58:00+00:00",
    "url": "/haber/turkiye-feridun-sinirlioglu-nu-bm-genel-sekreterligi-icin-aday-gosterd-0529b375/"
-  },
-  {
-   "id": "1ef5f730",
-   "title": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
-   "summary": "Türkiye, eski Dışişleri Bakanı ve halen Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT) Genel Sekreteri görevini yürüten Büyükelçi Feridun Sinirlioğlu'nun Birleşmiş Milletler Genel Sekreterliği adaylığı için resmi…",
-   "link": "https://www.aa.com.tr/tr/dunya/turkiye-feridun-sinirlioglunu-bm-genel-sekreterligi-icin-aday-gosterdi/4106991",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T22:45:24+00:00",
-   "url": "/haber/turkiye-feridun-sinirlioglu-nu-bm-genel-sekreterligi-icin-aday-gosterd-1ef5f730/"
   },
   {
    "id": "bbf868c0",
@@ -662,39 +761,6 @@
    "url": "/haber/samsung-xiaomi-oneplus-ve-diger-markalarda-android-17-takvimi-acikland-9b18a5ff/"
   },
   {
-   "id": "e93d1736",
-   "title": "Chrome Ctrl F Aramasına Büyük-Küçük Harf Ayrımı ve Yeni Oklar Geliyor",
-   "summary": "Google, Chrome Ctrl F aramasını iki yenilikle geliştiriyor. Büyük/küçük harf ayrımı yapan bir düğme ve ekranda görünen sonuçları atlayan oklar Canary sürümünde test ediliyor.",
-   "link": "https://shiftdelete.net/chrome-ctrl-f-buyuk-kucuk-harf-ayrimi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T21:14:49+00:00",
-   "url": "/haber/chrome-ctrl-f-aramasina-buyuk-kucuk-harf-ayrimi-ve-yeni-oklar-geliyor-e93d1736/"
-  },
-  {
-   "id": "7151efb7",
-   "title": "Samsung CSOT Hissesi Devralındı: 892 Milyon Dolarlık Hamle",
-   "summary": "Samsung Electronics, Samsung Display'in CSOT'taki yüzde 10,16'lık payını devraldı. Samsung CSOT hissesi için yaklaşık 892 milyon dolar ödeniyor; amaç LCD panel tedarikinde güçlü durmak.",
-   "link": "https://shiftdelete.net/samsung-csot-hissesi-electronics-892-milyon-dolar",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T21:09:49+00:00",
-   "url": "/haber/samsung-csot-hissesi-devralindi-892-milyon-dolarlik-hamle-7151efb7/"
-  },
-  {
-   "id": "3f7a3846",
-   "title": "Project Suncatcher Uydusu Uzaydan İlk Yanıtını Dünya’ya Gönderdi",
-   "summary": "Google'ın yapay zekâ çipli uydusu uzaydan ilk yanıtını gönderdi. Project Suncatcher kapsamındaki uydu, Gemma 4 modeliyle uzay temalı bir haiku üretti. Sırada ısı ve radyasyon testleri var.",
-   "link": "https://shiftdelete.net/project-suncatcher-uydusu-uzaydan-ilk-yaniti-gonderdi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T21:04:49+00:00",
-   "url": "/haber/project-suncatcher-uydusu-uzaydan-ilk-yanitini-dunya-ya-gonderdi-3f7a3846/"
-  },
-  {
    "id": "690c6f5c",
    "title": "Trump, Binance'e yönelik siber saldırıyı incelediklerini bildirdi",
    "summary": "ABD Başkanı Donald Trump, kripto para borsası Binance'e yönelik siber saldırının Kuzey Koreli bir hacker grubu tarafından gerçekleştirilip gerçekleştirilmediğini bilmediklerini, saldırıyı incelediklerini belirtti.",
@@ -717,17 +783,6 @@
    "url": "/haber/bakan-fidan-dan-g20-zirvesinde-diplomasi-trafigi-8873e4c5/"
   },
   {
-   "id": "8b0e8945",
-   "title": "Waymo Toyota Ortaklığı: Robotaksiler Önce Japonya’da Test Edilecek",
-   "summary": "Waymo, robotaksi hizmetini yurt dışına taşımak için Toyota ile anlaştı. Waymo Toyota ortaklığında 2027 model bZ4X araçları sürücüsüz sistemle donatılacak, ilk testler Japonya'da yapılacak.",
-   "link": "https://shiftdelete.net/waymo-toyota-bz4x-robotaksi-japonya",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T20:59:49+00:00",
-   "url": "/haber/waymo-toyota-ortakligi-robotaksiler-once-japonya-da-test-edilecek-8b0e8945/"
-  },
-  {
    "id": "14b5b91f",
    "title": "Death Stranding Isolations'ın ilk fragmanı yayınlandı",
    "summary": "Death Stranding'in anime dizisi geliyor. Önümüzdeki yıl Disney+ ekranlarında izleyici ile buluşacak olan Death Stranding Isolations dizisinden ilk fragman yayınlandı.",
@@ -737,17 +792,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T20:59:00+00:00",
    "url": "/haber/death-stranding-isolations-in-ilk-fragmani-yayinlandi-14b5b91f/"
-  },
-  {
-   "id": "561f796a",
-   "title": "Golden Joystick Awards 2026 Adayları Açıklandı – İşte Liste",
-   "summary": "Golden Joystick Awards 2026 için adaylar açıklandı. Yirmi iki kategoride yarışacak oyunlar arasında 007 First Light, Resident Evil Requiem ve Crimson Desert gibi isimler de yer alıyor.",
-   "link": "https://shiftdelete.net/golden-joystick-awards-2026-adaylari-aciklandi",
-   "image": "",
-   "source": "Teknoloji Haberleri – ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-30T20:52:59+00:00",
-   "url": "/haber/golden-joystick-awards-2026-adaylari-aciklandi-iste-liste-561f796a/"
   },
   {
    "id": "1c16c82d",
@@ -858,39 +902,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T18:20:00+00:00",
    "url": "/haber/volkswagen-elektrikli-golf-projesini-askiya-aldi-5d0b70f2/"
-  },
-  {
-   "id": "1baab8b3",
-   "title": "Aslında çok şey değişti mi? ''iPhone 18 Pro Detaylı İnceleme''",
-   "summary": "1 yıldır iPhone 17 Pro kullanıyordum, şimdi 1 aydır iPhone 18 Pro kullanıyorum. Ne kadar fark etti? Üzerine ekleyip 18 Pro'ya geçmeme değdi mi? Tüm detaylarıyla kıyasladım, anlattım.",
-   "link": "https://www.donanimhaber.com/aslinda-cok-sey-degisti-mi-iphone-18-pro-detayli-inceleme--212294",
-   "image": "https://www.donanimhaber.com/images/images/haber/212294/1200x675aslinda-cok-sey-degisti-mi-iphone-18-pro-detayli-inceleme.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-30T18:04:10+00:00",
-   "url": "/haber/aslinda-cok-sey-degisti-mi-iphone-18-pro-detayli-inceleme-1baab8b3/"
-  },
-  {
-   "id": "33552d6f",
-   "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 28 Ağustos 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
-   "summary": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-mpi-on-numara-bilet-sorgulama-ekrani-1748689",
-   "image": "https://images.ntv.com.tr/images/on-numara-cekilis-174764.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-30T18:01:50+00:00",
-   "url": "/haber/on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-28-agustos-33552d6f/"
-  },
-  {
-   "id": "36652dcd",
-   "title": "Samsung’dan da kötü haber: Bellek krizi sürecek",
-   "summary": "Samsung, AI kaynaklı talep nedeniyle bellek kıtlığının 2027'de derinleşeceğini ve arz sıkıntısının 2028'e kadar süreceğini öngörürken 2027 HBM4 kapasitesinin tamamını şimdiden sattı.",
-   "link": "https://www.donanimhaber.com/samsung-dan-da-kotu-haber-bellek-krizi-surecek--212255",
-   "image": "https://www.donanimhaber.com/images/images/haber/212255/1200x675samsung-dan-da-kotu-haber-bellek-krizi-surecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-10-30T17:58:00+00:00",
-   "url": "/haber/samsung-dan-da-kotu-haber-bellek-krizi-surecek-36652dcd/"
   },
   {
    "id": "de924745",
@@ -1078,17 +1089,6 @@
    "category": "gundem",
    "date": "2026-10-30T00:14:01+00:00",
    "url": "/haber/31-mart-yerel-secimlerinden-bugune-istanbul-un-belediye-dagilimi-nasil-ca1d315d/"
-  },
-  {
-   "id": "b18fb03a",
-   "title": "AKP'de 'süresiz nafaka' düzenlemesine yeni formül arayışı",
-   "summary": "AKP'nin yaklaşık 10 yıldır gündeminde olan süresiz nafaka düzenlemesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın üzerinde yeniden çalışılmasını istemesi üzerine, 13. Yargı Paketi'nden çıkarıldı.",
-   "link": "https://www.bbc.com/turkce/articles/cq1kdr1v0ml9o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a670/live/1f0a5b00-d39b-11f1-93e1-3b657b665bcf.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-29T13:18:21+00:00",
-   "url": "/haber/akp-de-suresiz-nafaka-duzenlemesine-yeni-formul-arayisi-b18fb03a/"
   },
   {
    "id": "1a6fa0b7",
