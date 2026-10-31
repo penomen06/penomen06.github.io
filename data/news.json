@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T21:01:08.806164+00:00",
+ "updated": "2026-10-31T21:30:58.847185+00:00",
  "items": [
   {
    "id": "2810190a",
@@ -9,8 +9,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-31T21:00:00+00:00",
+   "date": "2026-10-31T21:30:01+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2810190a/"
+  },
+  {
+   "id": "f4b127c1",
+   "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+   "summary": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede/4107675",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T21:24:42+00:00",
+   "url": "/haber/atama-ve-gorevden-alma-kararlari-resmi-gazete-de-f4b127c1/"
+  },
+  {
+   "id": "5053e725",
+   "title": "Sermaye Piyasası Kurulu Başkanlığına Muhsin Atcı atandı",
+   "summary": "Sermaye Piyasası Kurulu Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
+   "link": "https://www.ntv.com.tr/turkiye/sermaye-piyasasi-kurulu-baskanligina-muhsin-atci-atandi-1748831",
+   "image": "https://images.ntv.com.tr/images/spk-sq2k_covercopys-907432.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-10-31T21:21:48+00:00",
+   "url": "/haber/sermaye-piyasasi-kurulu-baskanligina-muhsin-atci-atandi-5053e725/"
+  },
+  {
+   "id": "6da99802",
+   "title": "SPK Başkanlığına Muhsin Atcı atandı",
+   "summary": "Resmi gazetede yayımlanan atama kararlarına göre, Sermaye Piyasası Kurulu (SPK) Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/spk-baskanligina-muhsin-atci-atandi-961847.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/muhsin-atci-2500117.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-31T21:08:00+00:00",
+   "url": "/haber/spk-baskanligina-muhsin-atci-atandi-6da99802/"
+  },
+  {
+   "id": "25fa2e76",
+   "title": "Bakan Fidan: Rusya ve Ukrayna bir anlaşmaya varmak zorunda",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Rusya-Ukrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak…",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-rusya-ve-ukrayna-bir-anlasmaya-varmak-zorunda-961848.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/hakan-fidan-2500116.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-10-31T21:03:00+00:00",
+   "url": "/haber/bakan-fidan-rusya-ve-ukrayna-bir-anlasmaya-varmak-zorunda-25fa2e76/"
+  },
+  {
+   "id": "13d7f226",
+   "title": "Dışişleri Bakanı Fidan: Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak zorundalar",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Rusya-Ukrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak…",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-rusya-ve-ukrayna-buyuk-bir-fedakarlikta-bulunarak-bir-anlasmaya-varmak-zorundalar/4107662",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T21:02:13+00:00",
+   "url": "/haber/disisleri-bakani-fidan-rusya-ve-ukrayna-buyuk-bir-fedakarlikta-bulunar-13d7f226/"
   },
   {
    "id": "f7c6091f",
@@ -288,17 +343,6 @@
    "url": "/haber/en-iyi-tuslu-telefonlar-2026-4g-modeller-whatsapp-ve-fiyatlar-79f905c8/"
   },
   {
-   "id": "e764e572",
-   "title": "Fenerbahçe, öne geçtiği müsabakada Göztepe'ye mağlup",
-   "summary": "Trendyol Süper Lig'in 10. haftasında Göztepe, deplasmanda Fenerbahçe karşısında ilk yarısını geride tamamladığı mücadeleden 2-1 galip ayrıldı.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-one-gectigi-musabakada-goztepeye-maglup/4107590",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T18:07:38+00:00",
-   "url": "/haber/fenerbahce-one-gectigi-musabakada-goztepe-ye-maglup-e764e572/"
-  },
-  {
    "id": "528ddc10",
    "title": "Samsung News Kapatılıyor: Google News’e Nasıl Geçilir?",
    "summary": "Samsung News kapatma süreci başladı. Galaxy telefon ve tablet kullanıcıları için Google Discover'a geçiş yapma yöntemlerini ve tüm detayları inceleyin.",
@@ -330,17 +374,6 @@
    "category": "gundem",
    "date": "2026-10-31T17:57:45+00:00",
    "url": "/haber/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-65f31a9e/"
-  },
-  {
-   "id": "95faf14d",
-   "title": "BM Genel Sekreterliğine aday gösterilen Sinirlioğlu, vizyon belgesinde hedeflerini açıkladı",
-   "summary": "Türkiye'nin BM Genel Sekreterliği için aday gösterdiği Sinirlioğlu, kaleme aldığı vizyon belgesinde çatışmaların önlenmesi, uluslararası işbirliğinin güçlendirilmesi ve BM'nin daha etkin bir yapıya kavuşturulmasına…",
-   "link": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreterligine-aday-gosterilen-sinirlioglu-vizyon-belgesinde-hedeflerini-acikladi/4107585",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T17:53:08+00:00",
-   "url": "/haber/bm-genel-sekreterligine-aday-gosterilen-sinirlioglu-vizyon-belgesinde-95faf14d/"
   },
   {
    "id": "fa4e899c",
@@ -827,17 +860,6 @@
    "url": "/haber/istanbul-da-142-bin-elektronik-sigara-cihazi-ele-gecirildi-9e905268/"
   },
   {
-   "id": "2d99d1f0",
-   "title": "Türk tatilcilerin akın ettiği ülkelerden biriydi. Vizesiz seyahat dönemi bitti, THY'den uyarı",
-   "summary": "Hem doğasıyla hem de uygun fiyat politikasıyla Türk tatilcilerin sıkça tercih ettiği ülkelerden biri olan Karadağ, yarından itibaren vize isteyecek.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-turk-tatilcilerin-akin-ettigi-ulkelerden-biriydi-vizesiz-seyahat-donemi-bitti-thyden-uyari-1748748",
-   "image": "https://images.ntv.com.tr/images/000_18I3N6-967441.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-31T07:57:07+00:00",
-   "url": "/haber/turk-tatilcilerin-akin-ettigi-ulkelerden-biriydi-vizesiz-seyahat-donem-2d99d1f0/"
-  },
-  {
    "id": "6674a253",
    "title": "Samsung, akıllı gözlüklerini ilk aşamada Türkiye’de satışa sunmayabilir",
    "summary": "Samsung, Gentle Monster, Warby Parker ve Google iş birliğiyle geliştirdiği akıllı gözlüklerini iddiaya göre ilk aşamada yalnızca ABD ve Güney Kore’de satışa sunacak. Diğer pazarlara 2027’de götürüleceği öne sürülen…",
@@ -1047,17 +1069,6 @@
    "url": "/haber/ferritin-yuzu-demir-eksikligi-dis-gorunusten-anlasilabilir-mi-fd85a025/"
   },
   {
-   "id": "4bbddeb0",
-   "title": "LGS kapsamındaki merkezi sınav 13 Haziran 2027'de yapılacak",
-   "summary": "Liselere Geçiş Sistemi kapsamındaki merkezi sınav, 13 Haziran 2027 Pazar günü gerçekleştirilecek.",
-   "link": "https://www.trthaber.com/haber/egitim/lgs-kapsamindaki-merkezi-sinav-13-haziran-2027de-yapilacak-961737.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2474000/lgs-2475169.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-30T11:05:00+00:00",
-   "url": "/haber/lgs-kapsamindaki-merkezi-sinav-13-haziran-2027-de-yapilacak-4bbddeb0/"
-  },
-  {
    "id": "abb57236",
    "title": "ABD ara seçimleri neden önemli? Yedi temel soru",
    "summary": "ABD'li seçmenler, Donald Trump'ın başkanlığı üzerinde büyük etkisi olabilecek ara seçim için 3 Kasım'da sandık başına gidecek.",
@@ -1067,17 +1078,6 @@
    "category": "gundem",
    "date": "2026-10-30T10:37:04+00:00",
    "url": "/haber/abd-ara-secimleri-neden-onemli-yedi-temel-soru-abb57236/"
-  },
-  {
-   "id": "24dade61",
-   "title": "Mustafa Sarıgül partisinden istifa etti",
-   "summary": "Yeni Parti Erzincan Milletvekili Mustafa Sarıgül, partisinden istifa ettiğini açıkladı.",
-   "link": "https://www.trthaber.com/haber/gundem/mustafa-sarigul-partisinden-istifa-etti-961732.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2082000/mustafa-sarigul-aa-2082979.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-30T10:37:00+00:00",
-   "url": "/haber/mustafa-sarigul-partisinden-istifa-etti-24dade61/"
   },
   {
    "id": "0099aac3",
