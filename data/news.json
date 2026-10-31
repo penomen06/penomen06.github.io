@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-31T11:11:40.669468+00:00",
+ "updated": "2026-10-31T11:30:59.876779+00:00",
  "items": [
+  {
+   "id": "38f49802",
+   "title": "Rusya dizel ihracatı yasağını ocak sonuna kadar uzattı",
+   "summary": "Rus hükümeti, dizel, gemi yakıtı ve gaz yağı ihracatına yönelik yasağı 31 Ocak 2027'ye kadar uzattı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ihracati-yasagini-ocak-sonuna-kadar-uzatti/4107267",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T11:21:05+00:00",
+   "url": "/haber/rusya-dizel-ihracati-yasagini-ocak-sonuna-kadar-uzatti-38f49802/"
+  },
+  {
+   "id": "75a2cf6a",
+   "title": "İsrail, El Halil'de askeri baskıyı sıkılaştırırken bölgeye takviye birlikler sevk etti",
+   "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentinin meskun mahallelerinde askeri varlığını artırıyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-el-halilde-askeri-baskiyi-sikilastirirken-bolgeye-takviye-birlikler-sevk-etti/4107266",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T11:20:37+00:00",
+   "url": "/haber/israil-el-halil-de-askeri-baskiyi-sikilastirirken-bolgeye-takviye-birl-75a2cf6a/"
+  },
+  {
+   "id": "78b2e791",
+   "title": "Hamaney’den askeri yetkililere olası saldırılara karşı \"ani ve coğrafi sınırı olmayan cevap verilmesi\" talimatı",
+   "summary": "İran lideri Mücteba Hamaney'in, ABD ile yeni bir çatışma yaşanabileceğine ilişkin iddiaların ardından askeri yetkililerle bir araya gelerek olası saldırılara karşı \"ani ve coğrafi sınır tanımayan bir karşılık verilmesi\"…",
+   "link": "https://www.aa.com.tr/tr/dunya/hamaney-den-askeri-yetkililere-olasi-saldirilara-karsi-ani-ve-cografi-siniri-olmayan-cevap-verilmesi-talimati/4107261",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T11:11:24+00:00",
+   "url": "/haber/hamaney-den-askeri-yetkililere-olasi-saldirilara-karsi-ani-ve-cografi-78b2e791/"
+  },
   {
    "id": "11cb4889",
    "title": "Şiirlerinde İstanbul'u ve tarihi yaşatan usta şair: Yahya Kemal Beyatlı",
@@ -66,6 +99,17 @@
    "category": "teknoloji",
    "date": "2026-10-31T10:59:54+00:00",
    "url": "/haber/livewire-geleceginden-emin-degil-faaliyetlerine-suphe-dustu-0b01c503/"
+  },
+  {
+   "id": "aeed583d",
+   "title": "CANLI: Cumhurbaşkanı Erdoğan konuşuyor",
+   "summary": "Cumhurbaşkanı Erdoğan, Rixos Tersane İstanbul'da düzenlenen 12. Türk Tıp Dünyası Kurultayı ve TÜSEB Aziz Sancar Bilim, Hizmet ve Teşvik Ödülleri Töreni'nde konuşuyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4107253",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T10:58:30+00:00",
+   "url": "/haber/canli-cumhurbaskani-erdogan-konusuyor-aeed583d/"
   },
   {
    "id": "9a739795",
@@ -233,17 +277,6 @@
    "url": "/haber/cig-sutun-sagliga-faydali-oldugu-dogru-mu-icmek-guvenli-mi-7b474221/"
   },
   {
-   "id": "e1c44bd4",
-   "title": "COP31 alanı Türkiye'nin en büyük açık hava sahnesi olacak",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Antalya'daki COP31 alanının tamamını COPArt Projesi kapsamında aynı zamanda açık ve kapalı sanat galerisi olarak kullanacak.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cop31-alani-turkiyenin-en-buyuk-acik-hava-sahnesi-olacak/4107218",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T10:10:39+00:00",
-   "url": "/haber/cop31-alani-turkiye-nin-en-buyuk-acik-hava-sahnesi-olacak-e1c44bd4/"
-  },
-  {
    "id": "d087e1f8",
    "title": "Son dakika Osmaniye'de deprem mi oldu? Az önce deprem Osmaniye'de nerede oldu? Osmaniye deprem Kandilli ve AFAD son depremler listesi 31 Ekim 2026",
    "summary": "Son dakika Osmaniye deprem haberleri.. Osmaniye'de deprem mi oldu? Az önce deprem Osmaniye'de nerede oldu? Osmaniye Kandilli ve AFAD son depremler.. 31 Ekim 2026 Osmaniye deprem son dakika haberleri haberin detayında...…",
@@ -310,15 +343,15 @@
    "url": "/haber/anthropic-claude-un-mevcut-oyunlari-yeniden-olusturmasini-yasakladi-d97764c0/"
   },
   {
-   "id": "9659924f",
-   "title": "İran basını: Keşm Adası'na yakın bölgede 2 balıkçı teknesi \"düşman\" saldırısına uğradı",
-   "summary": "İran basını, Hürmüz Boğazı’nda yer alan Keşm Adası’nın güneyinde \"düşman\" insansız hava aracının (İHA) 2 balıkçı teknesine saldırdığını, 2 balıkçının yaralandığını, 2 kişinin kayıp olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasina-yakin-bolgede-2-balikci-teknesi-dusman-saldirisina-ugradi/4107209",
+   "id": "4154ac40",
+   "title": "Milli Savunma Bakanlığı, Türk Yıldızları'nın Ankara uçuşundan görüntü paylaştı",
+   "summary": "Milli Savunma Bakanlığı (MSB), Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları'nın, Türk Devletleri Medeniyet Parkı'nın açılış törenindeki selamlama uçuşundan görüntü paylaştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakanligi-turk-yildizlarinin-ankara-ucusundan-goruntu-paylasti/4107206",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-10-31T09:56:47+00:00",
-   "url": "/haber/iran-basini-kesm-adasi-na-yakin-bolgede-2-balikci-teknesi-dusman-saldi-9659924f/"
+   "date": "2026-10-31T09:52:37+00:00",
+   "url": "/haber/milli-savunma-bakanligi-turk-yildizlari-nin-ankara-ucusundan-goruntu-p-4154ac40/"
   },
   {
    "id": "8e956fa6",
@@ -330,28 +363,6 @@
    "category": "gundem",
    "date": "2026-10-31T09:47:43+00:00",
    "url": "/haber/sarigul-sorusturmasinda-iki-tutuklama-daha-8e956fa6/"
-  },
-  {
-   "id": "f9ef5672",
-   "title": "Bakan Memişoğlu: En geç 2027'nin başında TÜSEB'den robotik cerrahi cihazı için çağrıya çıkacağız",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, \"En geç 2027'nin başında TÜSEB'den robotik cerrahi cihazı için çağrıya çıkacağız. Dünyaya 'Gelin beraber üretelim bunu' diyeceğiz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-en-gec-2027nin-basinda-tusebden-robotik-cerrahi-cihazi-icin-cagriya-cikacagiz/4107204",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T09:45:46+00:00",
-   "url": "/haber/bakan-memisoglu-en-gec-2027-nin-basinda-tuseb-den-robotik-cerrahi-ciha-f9ef5672/"
-  },
-  {
-   "id": "53c0528e",
-   "title": "Kültür Yolu Festivalleri ile yerel lezzetler yıl boyunca tanıtılacak",
-   "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, \"Her şehirde, özellikle lezzet konusunda iyi olan ama şehrin kültürüne uygun eski reçetelere menüsünde yer veren restoranları tespit ediyoruz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/kultur/kultur-yolu-festivalleri-ile-yerel-lezzetler-yil-boyunca-tanitilacak/4107202",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T09:44:18+00:00",
-   "url": "/haber/kultur-yolu-festivalleri-ile-yerel-lezzetler-yil-boyunca-tanitilacak-53c0528e/"
   },
   {
    "id": "a259813d",
@@ -509,7 +520,7 @@
   },
   {
    "id": "650a3c40",
-   "title": "OpenAI CEO’su Sam Altman, RAM’lerin veri merkezleri yerine kişisel bilgisayarlarda tam olarak kullanılmadan durmasını “berbat bir durum ” olarak nitelendirdi",
+   "title": "OpenAI CEO’su Sam Altman, RAM’lerin veri merkezleri yerine kişisel bilgisayarlarda tam anlamıyla kullanılmadan durmasını “berbat bir durum ” olarak nitelendirdi",
    "summary": "ChatGPT’yi geliştiren OpenAI şirketinin CEO’su Sam Altman, katıldığı bir programda RAM’lerin veri merkezleri yerine kişisel bilgisayarlarda tam olarak kullanılmadan durmasının “berbat bir durum” olduğunu söyledi. Cheeky…",
    "link": "https://www.log.com.tr/openai-ceosu-sam-altman-ramlerin-veri-merkezleri-yerine-kisisel-bilgisayarlarda-tam-olarak-kullanilmadan-durmasini-berbat-bir-durum-olarak-nitelendirdi/",
    "image": "https://www.log.com.tr/wp-content/uploads/2025/10/Sam-Altman-OpenAIin-geleceğine-yönelik-önemli-açiklamalarda-bulundu-660x371.jpg",
@@ -528,17 +539,6 @@
    "category": "teknoloji",
    "date": "2026-10-31T08:30:00+00:00",
    "url": "/haber/android-telefonlari-tek-sms-ile-kullanilmaz-hale-getiren-acik-kesfedil-62d7521d/"
-  },
-  {
-   "id": "77396088",
-   "title": "Trabzonspor'un Gaziantep FK karşısında yenilgisi yok",
-   "summary": "Trendyol Süper Lig'in 10. haftasında yarın sahasında Gaziantep FK ile karşılaşacak Trabzonspor, rakibi karşısında bugüne dek hiç yenilmeyerek iyi bir grafik gösterdi.",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-gaziantep-fk-karsisinda-yenilgisi-yok/4107113",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T08:08:30+00:00",
-   "url": "/haber/trabzonspor-un-gaziantep-fk-karsisinda-yenilgisi-yok-77396088/"
   },
   {
    "id": "1fd426bd",
