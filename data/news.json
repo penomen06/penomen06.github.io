@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T23:01:11.810519+00:00",
+ "updated": "2026-10-31T23:31:03.358630+00:00",
  "items": [
   {
    "id": "2810190a",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-31T23:00:00+00:00",
+   "date": "2026-10-31T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2810190a/"
   },
   {
@@ -99,6 +99,17 @@
    "category": "gundem",
    "date": "2026-10-31T21:08:00+00:00",
    "url": "/haber/spk-baskanligina-muhsin-atci-atandi-6da99802/"
+  },
+  {
+   "id": "5b58000f",
+   "title": "Dışişleri Bakanı Fidan: Rusya ve Ukrayna, bir anlaşmaya varmak zorundalar",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Rusya-Ukrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, bir anlaşmaya varmak zorundalar.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-rusya-ve-ukrayna-bir-anlasmaya-varmak-zorundalar/4107662",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T21:02:13+00:00",
+   "url": "/haber/disisleri-bakani-fidan-rusya-ve-ukrayna-bir-anlasmaya-varmak-zorundala-5b58000f/"
   },
   {
    "id": "f7c6091f",
@@ -319,17 +330,6 @@
    "category": "gundem",
    "date": "2026-10-31T18:48:10+00:00",
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-31-eki-4ad561a5/"
-  },
-  {
-   "id": "8c5fa484",
-   "title": "Ukrayna Devlet Başkanı Zelenskiy Fener Rum Patrikhanesi'ni ziyaret etti",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Fener Rum Patrikhanesi'ni ziyaret ederek Fener Rum Patriği Bartholomeos ile görüştü.",
-   "link": "https://www.aa.com.tr/tr/gundem/ukrayna-devlet-baskani-zelenskiy-fener-rum-patrikhanesini-ziyaret-etti/4107602",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T18:39:44+00:00",
-   "url": "/haber/ukrayna-devlet-baskani-zelenskiy-fener-rum-patrikhanesi-ni-ziyaret-ett-8c5fa484/"
   },
   {
    "id": "bb3dcc9e",
