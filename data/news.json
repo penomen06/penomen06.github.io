@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T03:30:58.654337+00:00",
+ "updated": "2026-10-31T04:01:09.065985+00:00",
  "items": [
   {
    "id": "13e396cc",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-31T03:30:00+00:00",
+   "date": "2026-10-31T04:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-13e396cc/"
+  },
+  {
+   "id": "9e5bfdaa",
+   "title": "Hakkari'de hudut geçiş olayına müdahale ederken açılan ateşle yaralanan asker şehit oldu",
+   "summary": "Milli Savunma Bakanlığı (MSB), Hakkari Yüksekova'da hudut geçiş olayına müdahale sırasında açılan ateşle yaralanan Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün kaldırıldığı hastanede yapılan müdahaleye rağmen şehit olduğunu…",
+   "link": "https://www.aa.com.tr/tr/gundem/hakkaride-hudut-gecis-olayina-mudahale-ederken-acilan-atesle-yaralanan-asker-sehit-oldu/4107021",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T03:53:11+00:00",
+   "url": "/haber/hakkari-de-hudut-gecis-olayina-mudahale-ederken-acilan-atesle-yaralana-9e5bfdaa/"
   },
   {
    "id": "d9a9f691",
@@ -363,17 +374,6 @@
    "category": "teknoloji",
    "date": "2026-10-30T20:00:00+00:00",
    "url": "/haber/otomobilde-konforun-yeni-seviyesi-deepal-den-ayak-banyosu-patenti-b3552250/"
-  },
-  {
-   "id": "90dc5c33",
-   "title": "İstanbul Maratonu nedeniyle bazı yollar 1 Kasım'da trafiğe kapatılacak",
-   "summary": "İstanbul Emniyet Müdürlüğü, 1 Kasım'da düzenlenecek İstanbul Maratonu dolayısıyla trafiğe kapatılacak yolları ve alternatif güzergahları duyurdu.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbul-maratonu-nedeniyle-bazi-yollar-1-kasimda-trafige-kapatilacak/4106918",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-30T19:58:58+00:00",
-   "url": "/haber/istanbul-maratonu-nedeniyle-bazi-yollar-1-kasim-da-trafige-kapatilacak-90dc5c33/"
   },
   {
    "id": "a73da2fa",
