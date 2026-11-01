@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:01:14.808962+00:00",
+ "updated": "2026-11-01T23:30:58.332107+00:00",
  "items": [
   {
    "id": "12a899be",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-01T22:30:00+00:00",
+   "date": "2026-11-01T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-12a899be/"
+  },
+  {
+   "id": "c3f1e4e2",
+   "title": "Kimi Antonelli 2026 Formula 1 dünya şampiyonu oldu",
+   "summary": "Mercedes takımının İtalyan pilotu Kimi Antonelli, 2026 Formula 1 dünya şampiyonu oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/kimi-antonelli-2026-formula-1-dunya-sampiyonu-oldu/4108244",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-01T23:12:44+00:00",
+   "url": "/haber/kimi-antonelli-2026-formula-1-dunya-sampiyonu-oldu-c3f1e4e2/"
   },
   {
    "id": "f87162e4",
@@ -517,17 +528,6 @@
    "category": "teknoloji",
    "date": "2026-11-01T16:30:00+00:00",
    "url": "/haber/amazon-yapay-zeka-ugruna-42-4-milyar-dolar-nakit-kaybetti-e5ced170/"
-  },
-  {
-   "id": "9f5d1298",
-   "title": "2026 Dünya Güreş Şampiyonası'nın \"enleri\"",
-   "summary": "2026 Dünya Güreş Şampiyonası'nda müsabakalar tamamlandı.",
-   "link": "https://www.aa.com.tr/tr/spor/2026-dunya-gures-sampiyonasinin-enleri/4108137",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T16:18:04+00:00",
-   "url": "/haber/2026-dunya-gures-sampiyonasi-nin-enleri-9f5d1298/"
   },
   {
    "id": "e0d93cea",
