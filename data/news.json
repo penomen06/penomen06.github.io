@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-01T20:01:01.783263+00:00",
+ "updated": "2026-11-01T20:30:55.411601+00:00",
  "items": [
+  {
+   "id": "171c098c",
+   "title": "Doom'un yaratıcısından yeni oyun geliyor: İptal edilen proje hayata döndü",
+   "summary": "Doom, Quake, Wolfenstein gibi efsanevi oyunların arkasındaki isim olan John Romero, Xbox tarafından iptal edilen yeni oyunu hakkında sevindiren açıklamalarda bulundu.",
+   "link": "https://www.donanimhaber.com/doom-un-yaraticisinin-yeni-oyunu-iptal-kararindan-kurtuldu--212342",
+   "image": "https://www.donanimhaber.com/images/images/haber/212342/1200x675doom-un-yaraticisinin-yeni-oyunu-iptal-kararindan-kurtuldu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-01T20:30:00+00:00",
+   "url": "/haber/doom-un-yaraticisindan-yeni-oyun-geliyor-iptal-edilen-proje-hayata-don-171c098c/"
+  },
+  {
+   "id": "54bd8269",
+   "title": "COP31 kapsamında Antalya'da bazı güzergahlarda trafik düzenlemesi yapılacak",
+   "summary": "Antalya Valiliği, 9-20 Kasım'da düzenlenecek COP31 Türkiye İklim Zirvesi kapsamında, 10,11 ve 12 Kasım'da bazı güzergahlarda geçici trafik düzenlemeleri uygulanacağını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-antalyada-bazi-guzergahlarda-trafik-duzenlemesi-yapilacak/4108224",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-01T20:21:33+00:00",
+   "url": "/haber/cop31-kapsaminda-antalya-da-bazi-guzergahlarda-trafik-duzenlemesi-yapi-54bd8269/"
+  },
+  {
+   "id": "cd53ac86",
+   "title": "Fenerbahçe tribün liderine saldırı hazırlığı. Daltonlar çetesi üyesi 5 şüpheli yakalandı",
+   "summary": "İstanbul'da \"Daltonlar\" suç örgütüne yönelik yürütülen soruşturma kapsamında, Fenerbahçe tribün lideri Cem Gölbaşı'na yönelik saldırı hazırlığında oldukları öne sürülen 5 şüpheli yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/fenerbahce-tribun-liderine-saldiri-hazirligi-daltonlar-cetesi-uyesi-5-supheli-yakalandi-1748960",
+   "image": "https://images.ntv.com.tr/images/FENERBAHCE-TRIBUN-LIDERINE-SALDIRI-HAZIR_1585899_471556-851290(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-01T20:20:38+00:00",
+   "url": "/haber/fenerbahce-tribun-liderine-saldiri-hazirligi-daltonlar-cetesi-uyesi-5-cd53ac86/"
+  },
   {
    "id": "277d3655",
    "title": "Bakan Çiftçi: İstanbul'da yeni nesil suç örgütlerine operasyonlarda bin 545 şüpheli tutuklandı",
@@ -13,15 +46,15 @@
    "url": "/haber/bakan-ciftci-istanbul-da-yeni-nesil-suc-orgutlerine-operasyonlarda-bin-277d3655/"
   },
   {
-   "id": "8fd0f458",
+   "id": "ecacbb7e",
    "title": "İçişleri Bakanı Çiftçi başkanlığında İstanbul'da güvenlik toplantısı yapıldı",
    "summary": "İçişleri Bakanı Mustafa Çiftçi, bu yıl İstanbul'da yeni nesil suç örgütlerine yönelik 190 operasyon gerçekleştirildiğini, 2 bin 67 şüphelinin yakalandığını, 1545 şüphelinin tutuklandığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/icisleri-bakani-ciftci-baskanliginda-istanbulda-guvenlik-toplantisi-yapildi/4108212",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-baskanliginda-istanbulda-guvenlik-toplantisi-yapildi/4108212",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-01T19:41:08+00:00",
-   "url": "/haber/icisleri-bakani-ciftci-baskanliginda-istanbul-da-guvenlik-toplantisi-y-8fd0f458/"
+   "url": "/haber/icisleri-bakani-ciftci-baskanliginda-istanbul-da-guvenlik-toplantisi-y-ecacbb7e/"
   },
   {
    "id": "3af25122",
@@ -453,17 +486,6 @@
    "url": "/haber/bilim-dunyasinda-bir-ilk-yapay-zeka-epilepsi-hastasi-fareyi-ameliyat-e-adb38035/"
   },
   {
-   "id": "8a888356",
-   "title": "Arap Koalisyonu: Husilerin saldırılarda kullandığı \"hayati kaynakları\" hedef aldık",
-   "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Husilerin balistik füze ve insansız hava aracı kapasitesini artırmak için kullandığı \"hayati kaynaklarını\" hedef alan askeri operasyon…",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-saldirilarda-kullandigi-hayati-kaynaklari-hedef-aldik/4108104",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T15:29:20+00:00",
-   "url": "/haber/arap-koalisyonu-husilerin-saldirilarda-kullandigi-hayati-kaynaklari-he-8a888356/"
-  },
-  {
    "id": "07faa60c",
    "title": "Elektrikli Araç Şarj Ücretleri Kasım 2026: Evde ve İstasyonda Maliyet",
    "summary": "Evde şarj vergiler dahil yaklaşık 3,24 TL/kWh'ten, istasyonda AC 9,90 TL'den, DC 11,99 TL'den başlıyor. ZES, Trugo ve Aksa'nın güncel fiyatları, 60 kWh dolum hesabı ve EPDK'nın 2027'de devreye girecek 3.000 kWh sınırı.",
@@ -684,17 +706,6 @@
    "url": "/haber/bursa-da-barajlarda-sasirtan-tablo-golbasi-nda-sular-cekiliyor-31af026e/"
   },
   {
-   "id": "2a5626d4",
-   "title": "Reddit, giriş yapmadan içerik görüntüleme dönemini sona erdiriyor",
-   "summary": "Reddit, platforma erişim için oturum açılmasını zorunlu kılan yeni bir modele geçmeye hazırlanıyor. Şirket, bu değişiklikle kullanıcıların platformla etkileşimini artırmayı hedefliyor.",
-   "link": "https://www.donanimhaber.com/reddit-giris-yapmadan-icerik-goruntuleme-donemini-sona-erdiriyor--212330",
-   "image": "https://www.donanimhaber.com/images/images/haber/212330/1200x675reddit-giris-yapmadan-icerik-goruntuleme-donemini-sona-erdiriyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-01T12:00:00+00:00",
-   "url": "/haber/reddit-giris-yapmadan-icerik-goruntuleme-donemini-sona-erdiriyor-2a5626d4/"
-  },
-  {
    "id": "f498e025",
    "title": "Yeni haftada hava durumu nasıl olacak?",
    "summary": "Yurt genelinde yeni haftada sağanak ve yer yer gök gürültülü sağanak etkili olacak, hava sıcaklıkları ise perşembe gününden itibaren batı kesimlerden başlayarak hissedilir derecede azalacak.",
@@ -759,17 +770,6 @@
    "category": "gundem",
    "date": "2026-11-01T10:42:46+00:00",
    "url": "/haber/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-65f31a9e/"
-  },
-  {
-   "id": "b5fe3e13",
-   "title": "TBMM'de bu hafta. Mekke Savunma Anlaşması Meclis'te",
-   "summary": "Meclis'te yeni haftada kritik bir anlaşma gündemde olacak. Türkiye, Pakistan ve Suudi Arabistan arasındaki savunma ortaklığının mimarı olan Mekke anlaşması Genel Kurul'da görüşülecek.",
-   "link": "https://www.ntv.com.tr/turkiye/tbmmde-bu-hafta-mekke-savunma-anlasmasi-mecliste-1748889",
-   "image": "https://images.ntv.com.tr/images/meclis-217021.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-01T10:00:24+00:00",
-   "url": "/haber/tbmm-de-bu-hafta-mekke-savunma-anlasmasi-meclis-te-b5fe3e13/"
   },
   {
    "id": "180868b6",
