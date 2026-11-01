@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-01T11:01:11.719267+00:00",
+ "updated": "2026-11-01T11:30:57.243999+00:00",
  "items": [
+  {
+   "id": "e20d2b57",
+   "title": "Cumhurbaşkanı Erdoğan Güney Kore'ye gidiyor",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Cumhurbaşkanı Lee Jae Myung'un daveti üzerine Seul'u ziyaret edecek.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-guney-koreye-gidiyor-1748902",
+   "image": "https://images.ntv.com.tr/images/erdoğan-myung-397805.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-01T11:30:27+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-guney-kore-ye-gidiyor-e20d2b57/"
+  },
+  {
+   "id": "224e5410",
+   "title": "Arkadaşına vedası yürekleri burktu: \"Üzülme diyorlar, nasıl üzülmeyeyim?\"",
+   "summary": "Sivas'ta kalp yetmezliği nedeniyle 27 yaşında hayatını kaybeden diyaliz hastası Ahmet Esat Angi, son yolculuğuna uğurlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-arkadasina-vedasi-yurekleri-burktu-uzulme-diyorlar-nasil-uzulmeyeyim-1748907",
+   "image": "https://images.ntv.com.tr/images/27-YASINDA-OLEN-ARKADASINA-VEDASI-YUREKL_1584917_471288-145851.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-01T11:26:39+00:00",
+   "url": "/haber/arkadasina-vedasi-yurekleri-burktu-uzulme-diyorlar-nasil-uzulmeyeyim-224e5410/"
+  },
+  {
+   "id": "713badd2",
+   "title": "Mass Effect iptalinin nedeni Star Wars çıktı",
+   "summary": "Mass Effect iptal kararının perde arkası ortaya çıktı. Jason Schreier'a göre EA, BioWare'i kapatırken bütçeyi Star Wars: Battlefront 3'e ayırmayı tercih etti.",
+   "link": "https://shiftdelete.net/mass-effect-iptal-star-wars-battlefront-3",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/e8006410cc89455316fb821f82437ce8c212abbb.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-01T11:23:15+00:00",
+   "url": "/haber/mass-effect-iptalinin-nedeni-star-wars-cikti-713badd2/"
+  },
+  {
+   "id": "1e9f1cb4",
+   "title": "TikTok Filigransız Video İndirme: Telefonda ve Bilgisayarda Adım Adım",
+   "summary": "TikTok, başkasının videosunu filigransız indirmeye resmi olarak izin vermiyor. Telefonda ve bilgisayarda videoyu nasıl kaydedeceğinizi, kendi videonuzu filigransız saklamanın yolunu ve üçüncü taraf sitelerin risklerini…",
+   "link": "https://shiftdelete.net/tiktok-filigransiz-video-indirme-nasil-yapilir",
+   "image": "https://ares.shiftdelete.net/2021/02/tiktok-video-indirme-1.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-01T11:21:00+00:00",
+   "url": "/haber/tiktok-filigransiz-video-indirme-telefonda-ve-bilgisayarda-adim-adim-1e9f1cb4/"
+  },
+  {
+   "id": "2aa2953d",
+   "title": "İsrail ordusu, işgal altındaki Batı Şeria ve Doğu Kudüs'te 5 Filistinliyi gözaltına aldı",
+   "summary": "İsrail ordusu, işgal altındaki Batı Şeria ve Doğu Kudüs'te düzenlediği baskınlarda 5 Filistinliyi gözaltına aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-isgal-altindaki-bati-seria-ve-dogu-kuduste-5-filistinliyi-gozaltina-aldi/4107949",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-01T11:17:33+00:00",
+   "url": "/haber/israil-ordusu-isgal-altindaki-bati-seria-ve-dogu-kudus-te-5-filistinli-2aa2953d/"
+  },
+  {
+   "id": "223700f6",
+   "title": "Çocuklara yönelik sosyal medya yasağı yürürlüğe girdi",
+   "summary": "Türkiye'de sosyal medya platformlarında yaş sınırlamayı öngören ve yaş doğrulama zorunluluğu getiren yönetmelik yürürlüğe girdi.",
+   "link": "https://www.bbc.com/turkce/articles/cjy56vqv4l5do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0cbb/live/fe067530-d5e1-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-01T11:10:18+00:00",
+   "url": "/haber/cocuklara-yonelik-sosyal-medya-yasagi-yururluge-girdi-223700f6/"
+  },
+  {
+   "id": "d65c59d4",
+   "title": "Samsung, iPhone Duo ekran sorunuyla alay etti",
+   "summary": "Samsung Kanada, Apple'ın ilk katlanabilir telefonu iPhone Duo'daki ekran kırığı sorununu hedef alan bir paylaşım yaptı ve kullanıcıları Galaxy Z Fold8'e geçmeye çağırdı.",
+   "link": "https://shiftdelete.net/samsung-kanada-iphone-duo-ekran-sorunu-alay",
+   "image": "https://ares.shiftdelete.net/2026/09/applein-ilk-katlanabilir-telefonu-iphone-duo-tanitildi.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-01T11:08:07+00:00",
+   "url": "/haber/samsung-iphone-duo-ekran-sorunuyla-alay-etti-d65c59d4/"
+  },
+  {
+   "id": "b155c710",
+   "title": "Kars'ta kızıl tilki, piknikçilerin sofrasına ortak oldu",
+   "summary": "Kars'ın Sarıkamış ilçesinde piknik yapan vatandaşlar, yanlarına gelen kızıl tilkiyi tavuk etiyle besledi.",
+   "link": "https://www.ntv.com.tr/turkiye/video-karsta-kizil-tilki-piknikcilerin-sofrasina-ortak-oldu-1748903",
+   "image": "https://images.ntv.com.tr/images/AA-20261101-42933141-42933139-KARSTA_KIZIL_TILKI_PIKNIKCILERIN_SOFRASINA_ORTAK_OLDU.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-01T11:03:04+00:00",
+   "url": "/haber/kars-ta-kizil-tilki-piknikcilerin-sofrasina-ortak-oldu-b155c710/"
+  },
+  {
+   "id": "a5ce1b3a",
+   "title": "COP31 için \"İklim\" klibi. Bakan Kurum: Buzlar erimeden, İklim'in sesine kulak verin",
+   "summary": "COP31'e sayılı günler kala hazırlıklar sürüyor. Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 için hazırlanan \"İklim\" klibini sosyal medya hesaplarından paylaştı.",
+   "link": "https://www.ntv.com.tr/turkiye/cop31-icin-iklim-klibi-bakan-kurum-buzlar-erimeden-iklimin-sesine-kulak-verin-1748900",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_c2fb08a59c4deb38d4b25ae8dc42fc78-149342.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-01T11:02:21+00:00",
+   "url": "/haber/cop31-icin-iklim-klibi-bakan-kurum-buzlar-erimeden-iklim-in-sesine-kul-a5ce1b3a/"
+  },
   {
    "id": "df8e525f",
    "title": "Matrix'i hipnozla hafızalardan silip hiç izlememiş gibi yeniden izletecekler",
@@ -13,17 +112,6 @@
    "url": "/haber/matrix-i-hipnozla-hafizalardan-silip-hic-izlememis-gibi-yeniden-izlete-df8e525f/"
   },
   {
-   "id": "a5ce1b3a",
-   "title": "COP31 için \"İklim\" klibi. Bakan Kurum: Buzlar erimeden, İklim'in sesine kulak verin",
-   "summary": "COP31'e sayılı günler kala hazırlıklar sürüyor. Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 için hazırlanan \"İklim\" klibini sosyal medya hesaplarından paylaştı.",
-   "link": "https://www.ntv.com.tr/turkiye/cop31-icin-iklim-klibi-bakan-kurum-buzlar-erimeden-iklimin-sesine-kulak-verin-1748900",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_c2fb08a59c4deb38d4b25ae8dc42fc78-149342.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-01T10:59:10+00:00",
-   "url": "/haber/cop31-icin-iklim-klibi-bakan-kurum-buzlar-erimeden-iklim-in-sesine-kul-a5ce1b3a/"
-  },
-  {
    "id": "b0a7a96f",
    "title": "Yeni haftada yurt genelinde sağanak etkili olacak",
    "summary": "Yurt genelinde yeni haftada sağanak ve yer yer gök gürültülü sağanak etkili olacak, hava sıcaklıkları ise perşembe gününden itibaren batı kesimlerden başlayarak hissedilir derecede azalacak.",
@@ -33,6 +121,17 @@
    "category": "gundem",
    "date": "2026-11-01T10:56:28+00:00",
    "url": "/haber/yeni-haftada-yurt-genelinde-saganak-etkili-olacak-b0a7a96f/"
+  },
+  {
+   "id": "08fb00d6",
+   "title": "Cumhurbaşkanı Erdoğan, Güney Kore'yi ziyaret edecek",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kore Cumhuriyeti Cumhurbaşkanı Lee Jae Myung’un davetine icabetle, 1-4 Kasım tarihlerinde Seul’u ziyaret edecek.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guney-koreyi-ziyaret-edecek-961876.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/erdogan-2496842.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-01T10:54:00+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-guney-kore-yi-ziyaret-edecek-08fb00d6/"
   },
   {
    "id": "aeae405a",
@@ -299,17 +398,6 @@
    "url": "/haber/bolu-dagi-tuneli-nde-tirin-carpip-kactigi-kazanin-goruntuleri-ortaya-c-d4895397/"
   },
   {
-   "id": "67a177f3",
-   "title": "Bakan Göktaş'tan sosyal medyada yaş sınırlaması yönetmeliğinin yürürlüğe girmesine ilişkin paylaşım",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Göktaş, \"Çocukların güvenle var olabildiği bir dijital dünya için kritik bir eşik olan yeni dönemin çocuklarımız, ailelerimiz ve milletimiz için hayırlara vesile olmasını diliyorum.\"…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktastan-sosyal-medyada-yas-sinirlamasi-yonetmeliginin-yururluge-girmesine-iliskin-paylasim/4107877",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T09:37:58+00:00",
-   "url": "/haber/bakan-goktas-tan-sosyal-medyada-yas-sinirlamasi-yonetmeliginin-yururlu-67a177f3/"
-  },
-  {
    "id": "6c27a699",
    "title": "Yargıtay'dan \"çakal\" kararı. Polise yönelik kullanılan söz hakaret olarak sayılmadı",
    "summary": "Yargıtay \"çakal\" sözcüğünü hakaret saymadı, bu nedenle verilen 6 aylık hapis cezasını bozdu.",
@@ -530,17 +618,6 @@
    "url": "/haber/tbmm-de-bu-hafta-butce-ve-kanun-teklifi-mesaisi-6cf4cda0/"
   },
   {
-   "id": "22f16982",
-   "title": "Neuralink, Grok'u beyin çipine bağladı",
-   "summary": "Neuralink Grok entegrasyonuyla ALS hastası bir katılımcı, yalnızca düşünerek bilgisayarına görev verebiliyor. Sistem 72 saatlik bir ev denemesinde test edildi.",
-   "link": "https://shiftdelete.net/neuralink-grok-zihinle-bilgisayar-kontrolu",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/7a1712c4eb82b13e6ec28785ae510c47ccb4a238.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T08:22:39+00:00",
-   "url": "/haber/neuralink-grok-u-beyin-cipine-bagladi-22f16982/"
-  },
-  {
    "id": "ae0bbe77",
    "title": "Keten tohumu gerçekten sağlığa faydalı mı, bilim ne diyor?",
    "summary": "Keten tohumu genellikle besin açısından çok zengin bir kaynak olarak tanıtılıyor ama gerçekten sağlığınızı iyileştirebilir mi?",
@@ -552,17 +629,6 @@
    "url": "/haber/keten-tohumu-gercekten-sagliga-faydali-mi-bilim-ne-diyor-ae0bbe77/"
   },
   {
-   "id": "ddc98d42",
-   "title": "Huawei'den eski Mate sahiplerine takas desteği",
-   "summary": "Huawei, Mate 30, Mate 40, Mate 50 ve Mate 60 kullanıcılarını yeni nesle çekmek için kampanya başlattı. Huawei Mate 90 için indirim, taksit ve bulut alanı sunuluyor.",
-   "link": "https://shiftdelete.net/huawei-mate-90-takas-kampanyasi-mate-60",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/9d616c2ea062267a92b53fff4b58cee4862e7553.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T08:12:32+00:00",
-   "url": "/haber/huawei-den-eski-mate-sahiplerine-takas-destegi-ddc98d42/"
-  },
-  {
    "id": "510b9319",
    "title": "Görmeden tırmanan Burak Sayın'ın milli takım için hedefi zirve",
    "summary": "İzmir'de görme engelli olarak dünyaya gelen 25 yaşındaki Burak Sayın, judo ve atletizmde elde ettiği Türkiye derecelerinin ardından bu kez para tırmanışta başarı arıyor.",
@@ -572,17 +638,6 @@
    "category": "gundem",
    "date": "2026-11-01T08:04:56+00:00",
    "url": "/haber/gormeden-tirmanan-burak-sayin-in-milli-takim-icin-hedefi-zirve-510b9319/"
-  },
-  {
-   "id": "f6e2d97b",
-   "title": "Xiaomi, 102 modelde pil değişimini ucuzlattı",
-   "summary": "Xiaomi, Double 11 Super Service Week kapsamında Xiaomi pil değişimi ücretlerinde %20 indirim yaptı. Kampanya 1-11 Kasım arasında 102 modeli kapsıyor.",
-   "link": "https://shiftdelete.net/xiaomi-pil-degisimi-102-model-indirim",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/374270a9e0a862f41c2f1f55a2db00a896cdf183.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T08:02:26+00:00",
-   "url": "/haber/xiaomi-102-modelde-pil-degisimini-ucuzlatti-f6e2d97b/"
   },
   {
    "id": "57fb9f1f",
@@ -684,28 +739,6 @@
    "url": "/haber/kyk-burs-sonuclari-e-devlet-sorgulama-ekrani-2026-kyk-burs-basvuru-son-e452e30c/"
   },
   {
-   "id": "1285bb9e",
-   "title": "İstanbul'da hava bir anda değişecek. Perşembe gününe dikkat, sıcaklık 6 derece düşecek",
-   "summary": "Neredeyse hafta boyunca sağanak yağışların süreceği yurt genelinde sıcaklık perşembe gününden itibaren azalacak. İstanbul'da yağışlı havanın yerini soğuk alacak, sıcaklık 6 derece düşecek.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-hava-bir-anda-degisecek-persembe-gunune-dikkat-sicaklik-6-derece-dusecek-1748843",
-   "image": "https://images.ntv.com.tr/images/AA-20261027-42876067-42876060-ISTANBULDA_SAGANAK_ETKILI_OLDU-782212.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-01T05:58:26+00:00",
-   "url": "/haber/istanbul-da-hava-bir-anda-degisecek-persembe-gunune-dikkat-sicaklik-6-1285bb9e/"
-  },
-  {
-   "id": "413901a4",
-   "title": "Karaman'da polisten kaçan motosikletliye 320 bin lira ceza: Kovalamaca anları",
-   "summary": "Karaman'da polisin \"dur\" ihtarına uymayarak kaçan ve motosikletini polis ekiplerinin üzerine sürerek ters yönde ilerleyen sürücü, yaklaşık 5 dakika süren kovalamaca sonucu yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-karamanda-polisten-kacan-motosikletliye-320-bin-lira-ceza-kovalamaca-anlari-1748848",
-   "image": "https://images.ntv.com.tr/images/AW822774_02-794638.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-01T05:51:19+00:00",
-   "url": "/haber/karaman-da-polisten-kacan-motosikletliye-320-bin-lira-ceza-kovalamaca-413901a4/"
-  },
-  {
    "id": "4d2c26ce",
    "title": "İstanbul Maratonu nedeniyle bazı yollar trafiğe kapatıldı",
    "summary": "İstanbul Maratonu dolayısıyla 15 Temmuz Şehitler Köprüsü ve köprüye bağlantı sağlayan bazı yollar araç trafiğine kapatıldı.",
@@ -715,17 +748,6 @@
    "category": "gundem",
    "date": "2026-11-01T05:17:00+00:00",
    "url": "/haber/istanbul-maratonu-nedeniyle-bazi-yollar-trafige-kapatildi-4d2c26ce/"
-  },
-  {
-   "id": "5053e725",
-   "title": "Sermaye Piyasası Kurulu Başkanlığına Muhsin Atcı atandı",
-   "summary": "Sermaye Piyasası Kurulu Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
-   "link": "https://www.ntv.com.tr/turkiye/sermaye-piyasasi-kurulu-baskanligina-muhsin-atci-atandi-1748831",
-   "image": "https://images.ntv.com.tr/images/spk-sq2k_covercopys-907432.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-10-31T21:21:48+00:00",
-   "url": "/haber/sermaye-piyasasi-kurulu-baskanligina-muhsin-atci-atandi-5053e725/"
   },
   {
    "id": "3f0acc24",
@@ -805,17 +827,6 @@
    "url": "/haber/oneplus-buds-pro-4-53-saatlik-batarya-omruyle-tanitildi-773ddb42/"
   },
   {
-   "id": "bdc47d33",
-   "title": "Erdoğan: Karadeniz'deki saldırılar 'kimden gelirse gelsin kabul etmemiz mümkün değil'",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Karadeniz'de son dönemde sivil gemilere yönelik artan saldırılarla ilgili, \"kimden gelirse gelsin, gerekçesi ne olursa olsun, kabul etmemiz mümkün değil\" dedi.",
-   "link": "https://www.bbc.com/turkce/articles/c64g1ydqz8xqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebce/live/91abc0f0-d548-11f1-b69a-cfba30d5f3d4.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-31T16:45:25+00:00",
-   "url": "/haber/erdogan-karadeniz-deki-saldirilar-kimden-gelirse-gelsin-kabul-etmemiz-bdc47d33/"
-  },
-  {
    "id": "5aeb5f3e",
    "title": "Önce bellekler şimdi de PCB krizi: Siparişler 2030'a kadar doldu",
    "summary": "Yapay zekaya yönelik yüksek talep şimdi de PCB üretiminde tedarik krizini derinleştiriyor. Siparişler 2030'a kadar dolarken bazı devre kartlarında teslimat süresi iki yılı aşmış durumda.",
@@ -836,17 +847,6 @@
    "category": "gundem",
    "date": "2026-10-31T16:05:57+00:00",
    "url": "/haber/28-yildir-yuruyen-karl-bushby-58-bin-km-yol-kat-ettikten-sonra-evine-d-71705c6e/"
-  },
-  {
-   "id": "f3b33f58",
-   "title": "Cumhurbaşkanı Erdoğan: Barışa giden yolda elimizden gelen gayreti göstermeye hazırız",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Ukrayna ve Rusya arasında ev sahipliği yaptığımız müzakereler, diplomasi yoluyla somut sonuçlar alınabileceğini göstermişti. Bugün geldiğimiz noktada da adil bir barışın kaybedeni…",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-barisa-giden-yolda-elimizden-gelen-gayreti-gostermeye-haziriz-961834.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/recep-tayyip-erdogan-aa-2500071.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-31T15:57:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-barisa-giden-yolda-elimizden-gelen-gayreti-goste-f3b33f58/"
   },
   {
    "id": "be804882",
@@ -1177,17 +1177,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T12:02:14+00:00",
    "url": "/haber/iphone-air-2-ozellikleri-sizdirildi-daha-buyuk-batarya-ve-cift-kamera-a3da386a/"
-  },
-  {
-   "id": "eb3839ff",
-   "title": "Toyota'dan Yeni Platform: Hibrit ve Elektrikli Araçlar Birleşiyor",
-   "summary": "Toyota, hibrit, plug-in hibrit ve elektrikli araçlar için yeni bir platform geliştiriyor. Yüzde 15'i aşan verimlilik hedefi ve yeni Corolla hakkındaki detaylar...",
-   "link": "https://www.webtekno.com/toyota-yeni-hibrit-motorunu-duyurdu-corolla-da-bu-motorla-gelecek-h228040.html",
-   "image": "https://imgrosetta.webtekno.com/file/695080/695080-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-29T11:17:03+00:00",
-   "url": "/haber/toyota-dan-yeni-platform-hibrit-ve-elektrikli-araclar-birlesiyor-eb3839ff/"
   }
  ]
 }
