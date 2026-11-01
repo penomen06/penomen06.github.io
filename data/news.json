@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T23:40:57.042221+00:00",
+ "updated": "2026-11-01T00:01:08.618313+00:00",
  "items": [
   {
    "id": "2810190a",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-10-31T23:30:00+00:00",
+   "date": "2026-11-01T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2810190a/"
+  },
+  {
+   "id": "4bb08ba5",
+   "title": "Nintendo Pikmin Günü İlan Etti: Pikmin 4 Switch 2 Demosu Geliyor",
+   "summary": "Nintendo 1 Kasım'ı Pikmin Günü ilan etti. Pikmin 4 Switch 2 sürümünün ücretsiz demosu 2 Kasım'da, oyunun kendisi 12 Kasım'da geliyor.",
+   "link": "https://shiftdelete.net/pikmin-4-switch-2-demo-pikmin-gunu",
+   "image": "https://butterfly.shiftdelete.net/static/img/content/26-11/01/pikmin-4-switch-2-pikmin-gunu-bahce.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-10-31T23:50:00+00:00",
+   "url": "/haber/nintendo-pikmin-gunu-ilan-etti-pikmin-4-switch-2-demosu-geliyor-4bb08ba5/"
   },
   {
    "id": "213e8aa6",
@@ -68,6 +79,28 @@
    "url": "/haber/atama-ve-gorevden-alma-kararlari-resmi-gazete-de-f4b127c1/"
   },
   {
+   "id": "51263a56",
+   "title": "Yamaç paraşütünde Avrupa şampiyonu Kübra Cengiz'in hedefi Dünya Kupası",
+   "summary": "Erzincan'da yaşayan milli yamaç paraşütü sporcusu Kübra Cengiz, Avrupa şampiyonluğunun ardından Dünya Kupası'nda da altın madalya kazanmayı hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/spor/yamac-parasutunde-avrupa-sampiyonu-kubra-cengizin-hedefi-dunya-kupasi/4107674",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T21:23:17+00:00",
+   "url": "/haber/yamac-parasutunde-avrupa-sampiyonu-kubra-cengiz-in-hedefi-dunya-kupasi-51263a56/"
+  },
+  {
+   "id": "36166f60",
+   "title": "Üniversiteliler \"İKA F481\"i savunma sanayisine kazandırmayı hedefliyor",
+   "summary": "Konya Teknik Üniversitesinden (KTÜN) 11 öğrenci, TEKNOFEST'te tasarımıyla ödül alan insansız kara aracı \"İKA F481\"i daha da geliştirerek savunma sanayisine kazandırmayı hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/universiteliler-ika-f481i-savunma-sanayisine-kazandirmayi-hedefliyor/4107672",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T21:22:56+00:00",
+   "url": "/haber/universiteliler-ika-f481-i-savunma-sanayisine-kazandirmayi-hedefliyor-36166f60/"
+  },
+  {
    "id": "5053e725",
    "title": "Sermaye Piyasası Kurulu Başkanlığına Muhsin Atcı atandı",
    "summary": "Sermaye Piyasası Kurulu Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
@@ -77,6 +110,17 @@
    "category": "gundem",
    "date": "2026-10-31T21:21:48+00:00",
    "url": "/haber/sermaye-piyasasi-kurulu-baskanligina-muhsin-atci-atandi-5053e725/"
+  },
+  {
+   "id": "6a2b791e",
+   "title": "Niğde Teknopark'ta geliştirilen tohum ve nesneleri sayma makinesi TEKNOFEST'te ödül aldı",
+   "summary": "Niğde Ömer Halisdemir Üniversitesi (NÖHÜ) Bilgisayar Mühendisliği Bölümü Dr. Öğr. Üyesi Hakan Aktaş'ın geliştirdiği tohum ve nesneleri sayma makinesi TEKNOFEST'ten ödülle döndü.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/nigde-teknoparkta-gelistirilen-tohum-ve-nesneleri-sayma-makinesi-teknofestte-odul-aldi/4107671",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T21:20:38+00:00",
+   "url": "/haber/nigde-teknopark-ta-gelistirilen-tohum-ve-nesneleri-sayma-makinesi-tekn-6a2b791e/"
   },
   {
    "id": "cc3bcb81",
@@ -200,17 +244,6 @@
    "url": "/haber/kultur-sanatin-kaydini-tutmanin-zorluklari-ve-dijital-arsivciligin-imk-a278b273/"
   },
   {
-   "id": "1cb5c992",
-   "title": "TRT Çocuk 18'inci kuruluş yıl dönümünü kutluyor",
-   "summary": "Türkiye'nin en çok izlenen çocuk kanalı TRT Çocuk, 18'inci kuruluş yıl dönümünü \"Minik Yıldız\" ve \"Hep Birlikte Söyleyelim\"in yanı sıra sevilen yapımları \"SER-a\" ve \"Ekip: SİBERAY\"ın yeni bölümleriyle kutlayacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/trt-cocuk-18inci-kurulus-yil-donumunu-kutluyor/4107629",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T19:45:56+00:00",
-   "url": "/haber/trt-cocuk-18-inci-kurulus-yil-donumunu-kutluyor-1cb5c992/"
-  },
-  {
    "id": "0b311b49",
    "title": "63. Uluslararası Antalya Altın Portakal Film Festivali'nde ödüller verildi",
    "summary": "63. Uluslararası Antalya Altın Portakal Film Festivali'nde ödüller sahiplerini buldu.",
@@ -255,17 +288,6 @@
    "url": "/haber/yuk-treninde-kimyasal-sizinti-alarmi-f1de13f8/"
   },
   {
-   "id": "de71713f",
-   "title": "İsrail ordusu, El Halil'de sürdürdüğü kuşatma ve saldırılarla 3 bin 300 Filistinliyi yerinden etti",
-   "summary": "İsrail ordusunun, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentine uyguladığı kuşatma ve saldırılarla 3 bin 300'ü aşkın Filistinliyi yerinden ettiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-el-halilde-surdurdugu-kusatma-ve-saldirilarla-3-bin-300-filistinliyi-yerinden-etti/4107613",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T19:00:55+00:00",
-   "url": "/haber/israil-ordusu-el-halil-de-surdurdugu-kusatma-ve-saldirilarla-3-bin-300-de71713f/"
-  },
-  {
    "id": "36e58557",
    "title": "Claude Abonelik Planlarında İsim Değişikliği",
    "summary": "Anthropic, Claude abonelik planları isim değişikliği ile Max ve Ultra paketlerini güncelledi. Ultra hesaplarda 5 saatlik limit kaldırıldı.",
@@ -308,17 +330,6 @@
    "category": "teknoloji",
    "date": "2026-10-31T18:55:12+00:00",
    "url": "/haber/ekran-alti-kamera-samsung-katlanabilirlere-geri-donuyor-90026118/"
-  },
-  {
-   "id": "bf47fbae",
-   "title": "Suriye'nin başkenti Şam'da tarihi Süleymaniye Tekkesi restore edilerek yeniden açıldı",
-   "summary": "Suriye'nin başkenti Şam'da, Osmanlı padişahı Kanuni Sultan Süleyman tarafından Mimar Sinan'a yaptırılan tarihi Süleymaniye Tekkesi, restorasyon çalışmalarının tamamlanmasının ardından düzenlenen törenle yeniden açıldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/suriyenin-baskenti-samda-tarihi-suleymaniye-tekkesi-restore-edilerek-yeniden-acildi/4107611",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T18:54:49+00:00",
-   "url": "/haber/suriye-nin-baskenti-sam-da-tarihi-suleymaniye-tekkesi-restore-edilerek-bf47fbae/"
   },
   {
    "id": "4ad561a5",
@@ -506,17 +517,6 @@
    "category": "gundem",
    "date": "2026-10-31T16:45:25+00:00",
    "url": "/haber/erdogan-karadeniz-deki-saldirilar-kimden-gelirse-gelsin-kabul-etmemiz-bdc47d33/"
-  },
-  {
-   "id": "98ccc40a",
-   "title": "Apple Maps NASA ve Uzay Kuvvetleri Üslerini Bulanıklaştırdı",
-   "summary": "Apple Maps, NASA, ABD Uzay Kuvvetleri ve Hava Kuvvetleri’ne ait bazı üslerin uydu görüntüsünü bulanıklaştırmaya başladı. Şirketten henüz resmi bir açıklama gelmedi.",
-   "link": "https://shiftdelete.net/apple-maps-nasa-askeri-us-bulaniklastirdi",
-   "image": "https://ares.shiftdelete.net/2026/10/91b071f362b2964e6f18c54449a97d1cd73fb62a.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-10-31T16:45:08+00:00",
-   "url": "/haber/apple-maps-nasa-ve-uzay-kuvvetleri-uslerini-bulaniklastirdi-98ccc40a/"
   },
   {
    "id": "5aeb5f3e",
