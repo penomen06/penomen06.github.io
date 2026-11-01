@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-01T12:30:59.148857+00:00",
+ "updated": "2026-11-01T13:01:05.655907+00:00",
  "items": [
+  {
+   "id": "dc5b50d7",
+   "title": "Anthropic ve OpenAI'dan yapay zekâ fren önerisi",
+   "summary": "Anthropic ve OpenAI, Kaliforniya yönetimine ciddi tehdit oluşturan yapay zeka sistemlerinin nasıl durdurulacağı konusunda birbirinden farklı yaklaşımlar sundu.",
+   "link": "https://shiftdelete.net/anthropic-ve-openai-yapay-zeka-durdurma-onerisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/494991e851c31b7a4da716b65b332d33c21b1558.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-01T12:50:52+00:00",
+   "url": "/haber/anthropic-ve-openai-dan-yapay-zeka-fren-onerisi-dc5b50d7/"
+  },
+  {
+   "id": "149dddc0",
+   "title": "Fon soruşturması. Dünya gazetesinin ortaklarından Umut Güner gözaltına alındı",
+   "summary": "Dünya gazetesinin ortaklarından Umut Güner, fon soruşturmasında gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-dunya-gazetesinin-ortaklarindan-umut-guner-gozaltina-alindi-1748880",
+   "image": "https://images.ntv.com.tr/images/umutgünergözaltı-289296.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-01T12:50:45+00:00",
+   "url": "/haber/fon-sorusturmasi-dunya-gazetesinin-ortaklarindan-umut-guner-gozaltina-149dddc0/"
+  },
+  {
+   "id": "e231ede6",
+   "title": "Redmi M100 Pro tanıtıldı: IP68 ve ince gövde",
+   "summary": "Xiaomi, Redmi M100 Pro modelini resmi mağazasının kataloğuna ekledi. İnce gövdesi, IP68 sertifikası ve 5500 mAh bataryasıyla telefon 350 dolardan listelendi.",
+   "link": "https://shiftdelete.net/redmi-m100-pro-tanitildi-ozellikleri-fiyati",
+   "image": "https://ares.shiftdelete.net/static/sdn-manset/26-11/redmi-m100-pro-tanitildi.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-01T12:35:43+00:00",
+   "url": "/haber/redmi-m100-pro-tanitildi-ip68-ve-ince-govde-e231ede6/"
+  },
+  {
+   "id": "3bec0eda",
+   "title": "Paris'te polisin eylemcilerin attığı molotofkokteyli ile yaralanmasına ilişkin \"cinayete teşebbüs\" soruşturması",
+   "summary": "Fransa'da dün düzenlenen Sarı Yelekliler eylemlerinde, protestocuların attığı molotofkokteyli nedeniyle bacağından yaralanan polis memuruyla ilgili cinayete teşebbüs soruşturması açıldığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/pariste-polisin-eylemcilerin-attigi-molotofkokteyli-ile-yaralanmasina-iliskin-cinayete-tesebbus-sorusturmasi/4108000",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-01T12:34:18+00:00",
+   "url": "/haber/paris-te-polisin-eylemcilerin-attigi-molotofkokteyli-ile-yaralanmasina-3bec0eda/"
+  },
+  {
+   "id": "7186d27e",
+   "title": "İsrail ordusu, İran'la olası çatışmaların beklendiği bir dönemde askeri tatbikat başlattı",
+   "summary": "İsrail ordusu, İran'la çatışmaların yeniden başlayabileceğine ilişkin söylemlerin arttığı bir dönemde, ülkenin farklı bölgelerinde bir hafta sürecek askeri tatbikat başlattığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-iranla-olasi-catismalarin-beklendigi-bir-donemde-askeri-tatbikat-baslatti/4107985",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-01T12:26:13+00:00",
+   "url": "/haber/israil-ordusu-iran-la-olasi-catismalarin-beklendigi-bir-donemde-askeri-7186d27e/"
+  },
+  {
+   "id": "d49fecf1",
+   "title": "Bahçeli '100 il 1000 ilçe projesi'ni açıkladı",
+   "summary": "MHP Genel Başkanı Devlet Bahçeli, 19 yeni il ve 78 yeni ilçe kurulması önerisini paylaştı. Bahçeli, Türkgün gazetesine \"100 İl 1000 İlçe Projesi\"nin detaylarını açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/cm1exy4dwlw6o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc2c/live/a7d79e40-d5ec-11f1-bfdd-73f39e6db31d.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-01T12:26:02+00:00",
+   "url": "/haber/bahceli-100-il-1000-ilce-projesi-ni-acikladi-d49fecf1/"
+  },
   {
    "id": "6c0aebee",
    "title": "Türkiye ve Güney Kore yeni ekonomik işbirliklerine odaklanıyor",
@@ -176,6 +242,17 @@
    "category": "gundem",
    "date": "2026-11-01T11:35:03+00:00",
    "url": "/haber/cumhurbaskani-erdogan-guney-kore-yi-ziyaret-edecek-c6915c5a/"
+  },
+  {
+   "id": "50a6280f",
+   "title": "Amed Sportif Faaliyetler, sahasından 3 puanla ayrıldı",
+   "summary": "Trendyol Süper Lig'in 10. haftasında Amed Sportif Faaliyetler, sahasında Eyüpspor'u 5-1 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/amed-sportif-faaliyetler-sahasindan-3-puanla-ayrildi/4107953",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-01T11:34:06+00:00",
+   "url": "/haber/amed-sportif-faaliyetler-sahasindan-3-puanla-ayrildi-50a6280f/"
   },
   {
    "id": "fe232a20",
@@ -387,17 +464,6 @@
    "url": "/haber/twitch-turkiye-de-15-yas-altini-yasakliyor-eb51175c/"
   },
   {
-   "id": "279a09ed",
-   "title": "Kamu ve özel sektör TÜRKSAT SORGU ile siber risklere karşı koruma altına alınacak",
-   "summary": "TÜRKSAT'ın yeni nesil bilgi güvenliği yönetim platformu SORGU ile kamu ve özel sektördeki bilgi güvenliği süreçlerinin dijitalleştirilmesi, siber risklerin önceden tespit edilmesi sağlanacak.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/kamu-ve-ozel-sektor-turksat-sorgu-ile-siber-risklere-karsi-koruma-altina-alinacak/4107922",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T10:32:49+00:00",
-   "url": "/haber/kamu-ve-ozel-sektor-turksat-sorgu-ile-siber-risklere-karsi-koruma-alti-279a09ed/"
-  },
-  {
    "id": "8315827a",
    "title": "ZTE uygun fiyatlı Wi-Fi 7 yönlendiricisini duyurdu",
    "summary": "ZTE Xuntian BE3600 yönlendirici modeli hem uygun fiyatı ile dikkat çekiyor hem de nöral işlem birimi ile sinyallerin optimizasyonunu otomatik bir şekilde yapabiliyor.",
@@ -407,17 +473,6 @@
    "category": "teknoloji",
    "date": "2026-11-01T10:30:00+00:00",
    "url": "/haber/zte-uygun-fiyatli-wi-fi-7-yonlendiricisini-duyurdu-8315827a/"
-  },
-  {
-   "id": "7c899e40",
-   "title": "Fon soruşturması. Dünya gazetesinin sahibi Umut Güner gözaltına alındı",
-   "summary": "Dünya gazetesinin sahibi Umut Güner, fon soruşturmasında gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-dunya-gazetesinin-sahibi-umut-guner-gozaltina-alindi-1748880",
-   "image": "https://images.ntv.com.tr/images/umutgünergözaltı-289296.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-01T10:23:33+00:00",
-   "url": "/haber/fon-sorusturmasi-dunya-gazetesinin-sahibi-umut-guner-gozaltina-alindi-7c899e40/"
   },
   {
    "id": "1ffde7c3",
@@ -453,17 +508,6 @@
    "url": "/haber/asus-akilli-telefon-pazarindan-cekilebilir-20b211a5/"
   },
   {
-   "id": "de98ef4e",
-   "title": "Termoelektrik jeneratörlerin verimliliğini ölçen cihaz ve yazılımdan oluşan sistem geliştirdi",
-   "summary": "Elazığ'da Fırat Üniversitesi (FÜ) Fen Fakültesi Fizik Bölümü Öğretim Üyesi Prof. Dr. Fahrettin Yakuphanoğlu, termoelektrik jeneratörlerin verimliliğini ölçen cihaz ve yazılımdan oluşan sistem geliştirdi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/termoelektrik-jeneratorlerin-verimliligini-olcen-cihaz-ve-yazilimdan-olusan-sistem-gelistirdi/4107896",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T09:56:24+00:00",
-   "url": "/haber/termoelektrik-jeneratorlerin-verimliligini-olcen-cihaz-ve-yazilimdan-o-de98ef4e/"
-  },
-  {
    "id": "180868b6",
    "title": "Almanya'da hayat pahalılığına karşı protestolarda bazı dükkanlar yağmalandı",
    "summary": "Cumartesi günü Berlin, Hamburg ve Frankfurt dahil olmak üzere Almanya'nın çeşitli şehirlerindeki protestolara, Fransa'da da aynı gün yüz binlerce kişinin katıldığı gösteriler eşlik etti.",
@@ -495,17 +539,6 @@
    "category": "teknoloji",
    "date": "2026-11-01T09:46:21+00:00",
    "url": "/haber/stellantis-1-2l-puretech-motorlarinin-uretildigi-fabrikayi-kapatti-9acc4484/"
-  },
-  {
-   "id": "f4c0f2b4",
-   "title": "Afyon Lisesi'nin koridorlarından 132 yıldır öğrenci sesi yükseliyor",
-   "summary": "Cumhurbaşkanı Süleyman Demirel ve 10. Cumhurbaşkanı Ahmet Necdet Sezer'in de mezun olduğu lise, geçmişiyle tarihe tanıklık ediyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/fyon-lisesinin-koridorlarindan-132-yildir-ogrenci-sesi-yukseliyor/4107887",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T09:45:07+00:00",
-   "url": "/haber/afyon-lisesi-nin-koridorlarindan-132-yildir-ogrenci-sesi-yukseliyor-f4c0f2b4/"
   },
   {
    "id": "d4895397",
@@ -640,17 +673,6 @@
    "url": "/haber/sosyal-medya-platformlarinin-15-yasini-doldurmamis-cocuklara-hizmet-su-c2bc9dd4/"
   },
   {
-   "id": "27acf101",
-   "title": "YouTube'da tam ekran ve ses kesilme hatası",
-   "summary": "YouTube tam ekran hatası, Android ve iOS kullanıcılarının videolarını rastgele mini oynatıcıya atıyor. Sorun aynı zamanda sesi de kesiyor ve bilinen bir çözüm yok.",
-   "link": "https://shiftdelete.net/youtube-tam-ekran-hatasi-ses-kesiyor",
-   "image": "https://ares.shiftdelete.net/2026/10/youtube-kullanicilarin-kendi-icerik-akislarini-olusturmasina-olanak-taniyan-yeni-bir-ozellik-sunuyor.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T08:52:58+00:00",
-   "url": "/haber/youtube-da-tam-ekran-ve-ses-kesilme-hatasi-27acf101/"
-  },
-  {
    "id": "8a34c438",
    "title": "E-Devlet yaş doğrulaması yapma ekranı. Sosyal medya yaş doğrulaması nasıl ve nereden yapılacak?",
    "summary": "Milyonlarca sosyal medya kullanıcısını doğrudan ilgilendiren yeni yönetmelik bugün yürürlüğe girdi. Artık Instagram, TikTok ve X gibi platformlarda hesap açarken e-Devlet üzerinden 'yaş doğrulama belirteci' şartı…",
@@ -660,17 +682,6 @@
    "category": "gundem",
    "date": "2026-11-01T08:50:15+00:00",
    "url": "/haber/e-devlet-yas-dogrulamasi-yapma-ekrani-sosyal-medya-yas-dogrulamasi-nas-8a34c438/"
-  },
-  {
-   "id": "4438d95b",
-   "title": "Kasım gökyüzü: Mars, Jüpiter ve Ay aynı hizada",
-   "summary": "Kasım 2026 Gökyüzü Takvimi astronomi meraklılarına dolu bir ay vaat ediyor. Mars ile Jüpiter yaklaşacak, Leonidler zirve yapacak, Ay ise gezegenlere eşlik edecek.",
-   "link": "https://shiftdelete.net/kasim-2026-gokyuzu-takvimi-leonidler-mars-jupiter",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/4743a9f829b23851dc04b0ec2b7b78d57263f21e.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T08:49:01+00:00",
-   "url": "/haber/kasim-gokyuzu-mars-jupiter-ve-ay-ayni-hizada-4438d95b/"
   },
   {
    "id": "6cf4cda0",
@@ -1025,17 +1036,6 @@
    "url": "/haber/trump-binance-e-yonelik-siber-saldiriyi-incelediklerini-bildirdi-690c6f5c/"
   },
   {
-   "id": "09712c08",
-   "title": "Ankara-Bakü geriliminde ekonominin rolü nasıl tartışılıyor?",
-   "summary": "2026 yılının Ekim ayında Bakü ile Ankara arasında tırmanan gerginlik, Netanyahu'nun Birleşmiş Milletler'deki (BM) konuşması sırasında Azerbaycan'ın salondan çıkmaması ve okullarda başörtüsü meselesi ile başladı. Ancak…",
-   "link": "https://www.bbc.com/turkce/articles/c5vgjzrmg4ngo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f6ec/live/a79c13a0-d472-11f1-9dda-1ba6fcc7d159.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-30T19:27:31+00:00",
-   "url": "/haber/ankara-baku-geriliminde-ekonominin-rolu-nasil-tartisiliyor-09712c08/"
-  },
-  {
    "id": "de924745",
    "title": "Dışişleri Bakanı Fidan'dan ABD'de diplomasi trafiği",
    "summary": "Dışişleri Bakanı Hakan Fidan, G20 Dışişleri Bakanları Toplantısı için gittiği ABD'nin Atlanta kentinde diplomatik temaslarda bulundu.",
@@ -1133,28 +1133,6 @@
    "category": "teknoloji",
    "date": "2026-10-29T13:06:29+00:00",
    "url": "/haber/gta-6-oynanis-goruntuleri-south-park-in-yeni-bolumunde-yayinlandi-38b8bbcc/"
-  },
-  {
-   "id": "06959a84",
-   "title": "Windows 11 KB5127936 Güncellemesi Yayımlandı: 41 Değişiklik",
-   "summary": "Microsoft, Windows 11 için KB5127936 güncellemesini yayımladı. Dosya Gezgini yenilikleri, Cloud Rebuild ve hata düzeltmeleri içeren güncellemenin detaylarını öğrenin.",
-   "link": "https://www.webtekno.com/windows-11-yeni-guncelleme-geldi-h228049.html",
-   "image": "https://imgrosetta.webtekno.com/file/695107/695107-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-29T12:52:06+00:00",
-   "url": "/haber/windows-11-kb5127936-guncellemesi-yayimlandi-41-degisiklik-06959a84/"
-  },
-  {
-   "id": "3475fc86",
-   "title": "Samsung W27 Tanıtıldı: Tasarımı ve Özellikleri",
-   "summary": "Samsung W27, Çin'de resmen tanıtıldı. İşte tasarım detayları ve özellikleri...",
-   "link": "https://www.webtekno.com/samsung-cin-ozel-w27-tanitildi-h228046.html",
-   "image": "https://imgrosetta.webtekno.com/file/695101/695101-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-10-29T12:44:24+00:00",
-   "url": "/haber/samsung-w27-tanitildi-tasarimi-ve-ozellikleri-3475fc86/"
   }
  ]
 }
