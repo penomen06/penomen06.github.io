@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:31:06.618972+00:00",
+ "updated": "2026-11-01T22:01:08.218498+00:00",
  "items": [
   {
    "id": "12a899be",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-01T21:30:00+00:00",
+   "date": "2026-11-01T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-12a899be/"
+  },
+  {
+   "id": "1d06fed2",
+   "title": "Bulgaristan'da cumhurbaşkanlığı seçimini resmi olmayan sonuçlara göre İliyana Yotova kazandı",
+   "summary": "Bulgaristan’da cumhurbaşkanlığı seçiminin ikinci turunda sandık çıkış anketleri, İliyana Yotova’nın yaklaşık yüzde 51 oyla önde olduğunu gösteriyor",
+   "link": "https://www.bbc.com/turkce/articles/c60e0yyyy9d3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f664/live/a4187a20-d63e-11f1-ba8b-eb8ed8eebc93.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-01T21:56:20+00:00",
+   "url": "/haber/bulgaristan-da-cumhurbaskanligi-secimini-resmi-olmayan-sonuclara-gore-1d06fed2/"
+  },
+  {
+   "id": "d462f7f8",
+   "title": "Tarkan'dan COP31 için anlamlı şarkı",
+   "summary": "Türkiye'nin COP31 sürecine Tarkan, Wake Up isimli şarkıyla destek verdi. ''Eğer inanırsak her şey mümkün'' dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/tarkandan-cop31-icin-anlamli-sarki-1748964",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-02002651-965454.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-01T21:45:45+00:00",
+   "url": "/haber/tarkan-dan-cop31-icin-anlamli-sarki-d462f7f8/"
+  },
+  {
+   "id": "b1747582",
+   "title": "Tarkan'dan COP31 için anlamlı şarkı",
+   "summary": "Türkiye'nin COP31 sürecine Tarkan, Wake Up isimli şarkıyla destek verdi. ''Eğer inanırsak her şey mümkün'' dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/video-tarkandan-cop31-icin-anlamli-sarki-1748965",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-02002542-468661.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-01T21:42:23+00:00",
+   "url": "/haber/tarkan-dan-cop31-icin-anlamli-sarki-b1747582/"
   },
   {
    "id": "b86f111e",
@@ -231,17 +264,6 @@
    "category": "gundem",
    "date": "2026-11-01T18:41:16+00:00",
    "url": "/haber/super-loto-cekilis-sonuclari-belli-oldu-25-agustos-2026-mpi-super-loto-8b8e12f9/"
-  },
-  {
-   "id": "e20d2b57",
-   "title": "Cumhurbaşkanı Erdoğan Güney Kore'ye gitti",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle \"TUR\" uçağıyla Seul'e hareket etti.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-guney-koreye-gidiyor-1748902",
-   "image": "https://images.ntv.com.tr/images/AA-20261101-42937388-42937387-CUMHURBASKANI_RECEP_TAYYIP_ERDOGAN-562798.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-01T18:36:25+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-guney-kore-ye-gitti-e20d2b57/"
   },
   {
    "id": "673a5bb7",
@@ -761,17 +783,6 @@
    "url": "/haber/cocuklara-yonelik-sosyal-medya-yasagi-yururluge-girdi-223700f6/"
   },
   {
-   "id": "b155c710",
-   "title": "Kars'ta kızıl tilki, piknikçilerin sofrasına ortak oldu",
-   "summary": "Kars'ın Sarıkamış ilçesinde piknik yapan vatandaşlar, yanlarına gelen kızıl tilkiyi tavuk etiyle besledi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-karsta-kizil-tilki-piknikcilerin-sofrasina-ortak-oldu-1748903",
-   "image": "https://images.ntv.com.tr/images/AA-20261101-42933141-42933139-KARSTA_KIZIL_TILKI_PIKNIKCILERIN_SOFRASINA_ORTAK_OLDU.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-01T11:03:04+00:00",
-   "url": "/haber/kars-ta-kizil-tilki-piknikcilerin-sofrasina-ortak-oldu-b155c710/"
-  },
-  {
    "id": "65f31a9e",
    "title": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
    "summary": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun, fon soruşturmaları kapsamında gözaltına alındı. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada Ergun'a, \"suç işlemek amacıyla kurulan örgüte üye olma\"…",
@@ -913,17 +924,6 @@
    "category": "gundem",
    "date": "2026-11-01T07:12:00+00:00",
    "url": "/haber/sosyal-medyada-cocuklar-icin-yeni-donem-b8777cd3/"
-  },
-  {
-   "id": "be804882",
-   "title": "BM Genel Sekreterliği yarışında Türkiye'nin hamlesi ne anlama geliyor?",
-   "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres'in görev süresi 31 Aralık 2026'da sona erecek. Yerine kimin seçileceğine dair yarışa Türkiye de katıldı. 31 Ekim'de adaylık başvurusunu yaptığı açıklayan Türkiye,…",
-   "link": "https://www.bbc.com/turkce/articles/cmy0e2x95l48o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b38d/live/b93f6eb0-d52e-11f1-866a-b522399149a0.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-31T13:44:48+00:00",
-   "url": "/haber/bm-genel-sekreterligi-yarisinda-turkiye-nin-hamlesi-ne-anlama-geliyor-be804882/"
   },
   {
    "id": "de6f05db",
