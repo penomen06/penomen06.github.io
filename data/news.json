@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:01:08.618313+00:00",
+ "updated": "2026-11-01T00:30:57.986440+00:00",
  "items": [
   {
    "id": "2810190a",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-01T00:00:00+00:00",
+   "date": "2026-11-01T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-2810190a/"
   },
   {
@@ -55,6 +55,17 @@
    "category": "teknoloji",
    "date": "2026-10-31T22:29:05+00:00",
    "url": "/haber/rtx-5090-in-kilidi-acildi-mi-64-ve-96-gb-bellek-iddiasi-97ff1dbe/"
+  },
+  {
+   "id": "b49ebbfc",
+   "title": "Filistin asıllı milletvekili Tıybi, Eisenkot liderliğindeki hükümeti destekleyeceklerini duyurdu",
+   "summary": "İsrail vatandaşı Filistinli milletvekili Ahmed Tıybi, genel seçimde 11 sandalye elde etmeyi başaran Ortak Liste'nin, Gadi Eisenkot liderliğinde kurulacak bir koalisyon hükümetine dışarıdan destek vermeye hazır olduğunu…",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-asilli-milletvekili-tiybi-eisenkot-liderligindeki-hukumeti-destekleyeceklerini-duyurdu/4107687",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T22:28:01+00:00",
+   "url": "/haber/filistin-asilli-milletvekili-tiybi-eisenkot-liderligindeki-hukumeti-de-b49ebbfc/"
   },
   {
    "id": "d7dc3df3",
@@ -132,6 +143,17 @@
    "category": "gundem",
    "date": "2026-10-31T21:19:21+00:00",
    "url": "/haber/yerel-yonetimlerdeki-personelin-niteligini-artirmaya-yonelik-egitimler-cc3bcb81/"
+  },
+  {
+   "id": "951e5f45",
+   "title": "İsrailli muhalefet lideri, meclisteki çoğunluğu hükümete karşı derhal kullanacaklarını açıkladı",
+   "summary": "İsrail'deki parlamento seçimlerinde muhalefetin en güçlü ismi olarak çıkan Yashar Partisi lideri Gadi Eisenkot, elde ettikleri milletvekili çoğunluğunu Başbakan Binyamin Netanyahu liderliğindeki mevcut hükümete karşı…",
+   "link": "https://www.aa.com.tr/tr/dunya/israilli-muhalefet-lideri-meclisteki-cogunlugu-hukumete-karsi-derhal-kullanacaklarini-acikladi/4107667",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-10-31T21:16:36+00:00",
+   "url": "/haber/israilli-muhalefet-lideri-meclisteki-cogunlugu-hukumete-karsi-derhal-k-951e5f45/"
   },
   {
    "id": "5aa450dc",
@@ -220,28 +242,6 @@
    "category": "gundem",
    "date": "2026-10-31T19:54:28+00:00",
    "url": "/haber/kultur-sanat-uretiminde-kutuphane-ve-arsivlerin-donusumu-karakoy-palas-b04532dc/"
-  },
-  {
-   "id": "5e436bab",
-   "title": "Bakan Fidan, Türkiye'nin barış ve istikrarın tesisine katkıda bulunmaya devam edeceğini belirtti",
-   "summary": "Dışişleri Bakanı Hakan Fidan, \"Türkiye olarak, küresel konularda sorumluluk almaya; çok taraflılığı, işbirliğini ve diplomasiyi savunarak uluslararası barış ve istikrarın tesisine katkıda bulunmaya devam edeceğiz.\"…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkiyenin-baris-ve-istikrarin-tesisine-katkida-bulunmaya-devam-edecegini-belirtti/4107631",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T19:50:53+00:00",
-   "url": "/haber/bakan-fidan-turkiye-nin-baris-ve-istikrarin-tesisine-katkida-bulunmaya-5e436bab/"
-  },
-  {
-   "id": "a278b273",
-   "title": "Kültür sanatın kaydını tutmanın zorlukları ve dijital arşivciliğin imkanları masaya yatırıldı",
-   "summary": "Kültür ve Medeniyet Vakfının ODAK projesi kapsamında AA ve Rami Kütüphanesi ortaklığında düzenlenen \"Kültür-Sanatın İzinde: Etkinlikten Hafızaya\" programında, kültür sanat alanında arşivleme ve dijital teknolojilerin…",
-   "link": "https://www.aa.com.tr/tr/kultur/kultur-sanatin-kaydini-tutmanin-zorluklari-ve-dijital-arsivciligin-imkanlari-masaya-yatirildi/4107630",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-10-31T19:48:05+00:00",
-   "url": "/haber/kultur-sanatin-kaydini-tutmanin-zorluklari-ve-dijital-arsivciligin-imk-a278b273/"
   },
   {
    "id": "0b311b49",
