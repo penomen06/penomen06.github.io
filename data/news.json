@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T22:22:27.585494+00:00",
+ "updated": "2026-11-01T22:31:02.178617+00:00",
  "items": [
   {
    "id": "12a899be",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-01T22:00:00+00:00",
+   "date": "2026-11-01T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-12a899be/"
+  },
+  {
+   "id": "f87162e4",
+   "title": "Florida'da özel uçak yerleşim bölgesine düştü: 9 kişi hayatını kaybetti",
+   "summary": "ABD’nin Florida eyaletinde, Teksas’tan Bahamalar’a giden özel uçağın yerleşim bölgesine düşmesi sonucu uçaktaki dokuz kişinin tamamı hayatını kaybetti",
+   "link": "https://www.bbc.com/turkce/articles/crz65v4wxxljo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/53fd/live/f2d80390-d640-11f1-b441-2b33b063138f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-01T22:18:53+00:00",
+   "url": "/haber/florida-da-ozel-ucak-yerlesim-bolgesine-dustu-9-kisi-hayatini-kaybetti-f87162e4/"
   },
   {
    "id": "1d06fed2",
@@ -770,17 +781,6 @@
    "category": "gundem",
    "date": "2026-11-01T11:26:39+00:00",
    "url": "/haber/arkadasina-vedasi-yurekleri-burktu-uzulme-diyorlar-nasil-uzulmeyeyim-224e5410/"
-  },
-  {
-   "id": "223700f6",
-   "title": "Çocuklara yönelik sosyal medya yasağı yürürlüğe girdi",
-   "summary": "Türkiye'de sosyal medya platformlarında yaş sınırlamayı öngören ve yaş doğrulama zorunluluğu getiren yönetmelik yürürlüğe girdi.",
-   "link": "https://www.bbc.com/turkce/articles/cjy56vqv4l5do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0cbb/live/fe067530-d5e1-11f1-a701-fddedf244c16.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-01T11:10:18+00:00",
-   "url": "/haber/cocuklara-yonelik-sosyal-medya-yasagi-yururluge-girdi-223700f6/"
   },
   {
    "id": "65f31a9e",
