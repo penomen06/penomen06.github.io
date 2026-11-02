@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:01:12.828944+00:00",
+ "updated": "2026-11-02T23:30:57.874175+00:00",
  "items": [
   {
    "id": "32cce22a",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-02T23:00:00+00:00",
+   "date": "2026-11-02T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-32cce22a/"
+  },
+  {
+   "id": "1704eccc",
+   "title": "İngiltere'de göçmenlerin kalıcı oturum alma süresi uzatıldı",
+   "summary": "İngiltere'de İçişleri Bakanı Shabana Mahmood parlamentoda, çeşitli kategorilerdeki yasal göçmenlerin ülkede ömür boyu oturum (ILR) alabilmesi için gereken süreyi uzatan yeni kuralları açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/c6x2qj0y0ypro?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/86ce/live/f1ae8130-d710-11f1-a701-fddedf244c16.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-02T23:23:21+00:00",
+   "url": "/haber/ingiltere-de-gocmenlerin-kalici-oturum-alma-suresi-uzatildi-1704eccc/"
+  },
+  {
+   "id": "44abf742",
+   "title": "İstanbul'da sağanak başladı. Meteoroloji'den sekiz il için turuncu ve sarı uyarı",
+   "summary": "Kasım ayıyla birlikte kış yüzünü göstermeye başladı. İstanbul'da dün akşamdan itibaren sağanak yağış etkili olurken, Meteoroloji Genel Müdürlüğü de bazı iller için sarı ve turuncu kodlu alarm verdi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-basladi-meteorolojiden-sekiz-il-icin-turuncu-ve-sari-uyari-1749096",
+   "image": "https://images.ntv.com.tr/images/ISTANBULDA-SAGANAK-ETKILI-OLUYOR--EK-G_1587318_471979-242697.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-02T23:00:41+00:00",
+   "url": "/haber/istanbul-da-saganak-basladi-meteoroloji-den-sekiz-il-icin-turuncu-ve-s-44abf742/"
   },
   {
    "id": "ff85314e",
@@ -33,17 +55,6 @@
    "category": "gundem",
    "date": "2026-11-02T22:47:06+00:00",
    "url": "/haber/israilli-eski-kadin-askerden-itiraf-ordu-gazze-ve-bati-seria-daki-gerc-be26c546/"
-  },
-  {
-   "id": "44abf742",
-   "title": "İstanbul'da sağanak başladı. Meteoroloji'den sekiz il için turuncu ve sarı uyarı",
-   "summary": "Kasım ayıyla birlikte kış yüzünü göstermeye başladı. İstanbul'da dün akşamdan itibaren sağanak yağış etkili olurken, Meteoroloji Genel Müdürlüğü de bazı iller için sarı ve turuncu kodlu alarm verdi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-basladi-meteorolojiden-sekiz-il-icin-turuncu-ve-sari-uyari-1749096",
-   "image": "https://images.ntv.com.tr/images/ISTANBULDA-SAGANAK-ETKILI-OLUYOR--EK-G_1587318_471979-242697.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-02T22:45:19+00:00",
-   "url": "/haber/istanbul-da-saganak-basladi-meteoroloji-den-sekiz-il-icin-turuncu-ve-s-44abf742/"
   },
   {
    "id": "6957aefc",
@@ -539,17 +550,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T17:50:42+00:00",
    "url": "/haber/google-yapay-zeka-uyku-yontemi-gelistirdi-5d97b53a/"
-  },
-  {
-   "id": "1704eccc",
-   "title": "İngiltere'de göçmenlerin kalıcı oturum alma süresi uzatıldı",
-   "summary": "İngiltere'de İçişleri Bakanı Shabana Mahmood parlamentoda, çeşitli kategorilerdeki yasal göçmenlerin ülkede ömür boyu oturum (ILR) alabilmesi için gereken süreyi uzatan yeni kuralları açıkladı.",
-   "link": "https://www.bbc.com/turkce/articles/c6x2qj0y0ypro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49d2/live/48f59b30-d6e0-11f1-93e1-3b657b665bcf.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-02T17:47:53+00:00",
-   "url": "/haber/ingiltere-de-gocmenlerin-kalici-oturum-alma-suresi-uzatildi-1704eccc/"
   },
   {
    "id": "d2344959",
