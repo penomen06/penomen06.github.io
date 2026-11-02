@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T21:31:02.203496+00:00",
+ "updated": "2026-11-02T22:01:11.185235+00:00",
  "items": [
   {
    "id": "32cce22a",
@@ -9,8 +9,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-02T21:30:02+00:00",
+   "date": "2026-11-02T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-32cce22a/"
+  },
+  {
+   "id": "44abf742",
+   "title": "İstanbul'da sağanak başladı. Meteoroloji'den sekiz il için turuncu ve sarı uyarı",
+   "summary": "Kasım ayıyla birlikte kış yüzünü göstermeye başladı. İstanbul'da dün akşamdan itibaren sağanak yağış etkili olurken, Meteoroloji Genel Müdürlüğü de bazı iller için sarı ve turuncu kodlu alarm verdi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-basladi-meteorolojiden-sekiz-il-icin-turuncu-ve-sari-uyari-1749096",
+   "image": "https://images.ntv.com.tr/images/ISTANBULDA-SAGANAK-ETKILI-OLUYOR--EK-G_1587318_471979-242697.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-02T21:58:34+00:00",
+   "url": "/haber/istanbul-da-saganak-basladi-meteoroloji-den-sekiz-il-icin-turuncu-ve-s-44abf742/"
+  },
+  {
+   "id": "acc0cf47",
+   "title": "Yeni Renault Megane, Tesla Model Y'ye rakip olmaya geliyor: 750 km menzil, casur tasarım",
+   "summary": "Renault yeni elektrikli Megane ile Tesla Model Y'ye doğrudan rakip olmaya hazırlanıyor. Yeni tasarıma kavuşacak model, 750 km menzili ve teknolojileriyle segmentte dengeleri değiştirmeyi hedefliyor.",
+   "link": "https://www.donanimhaber.com/yeni-renault-megane-tesla-model-y-ye-rakip-olmaya-geliyor--212390",
+   "image": "https://www.donanimhaber.com/images/images/haber/212390/1200x675yeni-renault-megane-tesla-model-y-ye-rakip-olmaya-geliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-02T21:57:11+00:00",
+   "url": "/haber/yeni-renault-megane-tesla-model-y-ye-rakip-olmaya-geliyor-750-km-menzi-acc0cf47/"
+  },
+  {
+   "id": "9b084d20",
+   "title": "İş insanı Ahmet Nazif Zorlu 82 yaşında hayatını kaybetti",
+   "summary": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, 82 yaşında tedavi gördüğü hastanede hayatını kaybetti.",
+   "link": "https://www.bbc.com/turkce/articles/ckjrwvl8p054o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2ca/live/5977ea90-d707-11f1-ac17-5d3d5470aaba.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-02T21:53:32+00:00",
+   "url": "/haber/is-insani-ahmet-nazif-zorlu-82-yasinda-hayatini-kaybetti-9b084d20/"
+  },
+  {
+   "id": "47c4f141",
+   "title": "ABD Başkan Yardımcısı Vance, İran'la uzlaşma ihtimaline \"oldukça iyimser\" yaklaştıklarını belirtti",
+   "summary": "ABD Başkan Yardımcısı JD Vance, İran'la birtakım ilerlemeler kaydedildiğini ve müzakere yoluyla uzlaşmaya varılması ihtimali konusunda oldukça iyimser olduklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-iranla-uzlasma-ihtimaline-oldukca-iyimser-yaklastiklarini-belirtti/4109231",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T21:39:32+00:00",
+   "url": "/haber/abd-baskan-yardimcisi-vance-iran-la-uzlasma-ihtimaline-oldukca-iyimser-47c4f141/"
+  },
+  {
+   "id": "a6fbab58",
+   "title": "Cumhurbaşkanı Başdanışmanı Uçum'dan seçim için 16 Nisan 2028 önerisi",
+   "summary": "Cumhurbaşkanı Başdanışmanı Mehmet Uçum, Cumhurbaşkanı Recep Tayyip Erdoğan'ın görevinde yeniden aday olabilmesi için seçimlerin 7 Mayıs 2028'den önce yapılması gerektiğinin Anayasa'da açıkça yazdığını söyledi. Uçum…",
+   "link": "https://www.bbc.com/turkce/articles/c60me7rd2xgno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9661/live/453c4440-d702-11f1-ae68-7d4a4f90db74.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-02T21:30:18+00:00",
+   "url": "/haber/cumhurbaskani-basdanismani-ucum-dan-secim-icin-16-nisan-2028-onerisi-a6fbab58/"
   },
   {
    "id": "719c7aa0",
@@ -200,17 +255,6 @@
    "url": "/haber/cin-de-elektrikli-kamyon-satislari-yuzde-50-yi-asti-dizel-tuketimi-hiz-62146d5b/"
   },
   {
-   "id": "acc0cf47",
-   "title": "Yeni Renault Megane, Tesla Model Y'ye rakip olmaya geliyor: 750 km menzil, casur tasarım",
-   "summary": "Renault yeni elektrikli Megane ile Tesla Model Y'ye doğrudan rakip olmaya hazırlanıyor. Yeni tasarıma kavuşacak model, 750 km menzili ve teknolojileriyle segmentte dengeleri değiştirmeyi hedefliyor.",
-   "link": "https://www.donanimhaber.com/yeni-renault-megane-tesla-model-y-ye-rakip-olmaya-geliyor--212390",
-   "image": "https://www.donanimhaber.com/images/images/haber/212390/1200x675yeni-renault-megane-tesla-model-y-ye-rakip-olmaya-geliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-02T20:27:08+00:00",
-   "url": "/haber/yeni-renault-megane-tesla-model-y-ye-rakip-olmaya-geliyor-750-km-menzi-acc0cf47/"
-  },
-  {
    "id": "35a00a78",
    "title": "Güneş panelleri sayesinde yıllardır ekilmeyen araziler yeniden canlandı",
    "summary": "ABD’de ekonomik nedenlerle yıllardır kullanılmayan iki turna yemişi bataklığı, güneş enerjisi ve batarya depolama yatırımları sayesinde yeniden üretime başladı.",
@@ -253,17 +297,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T19:52:00+00:00",
    "url": "/haber/tencent-ten-insan-tercumanlara-rakip-yapay-zeka-konusmalari-aninda-cev-1f30eff9/"
-  },
-  {
-   "id": "44abf742",
-   "title": "İstanbul'da sağanak başladı. Meteoroloji'den sekiz il için turuncu ve sarı uyarı",
-   "summary": "Kasım ayıyla birlikte kış yüzünü göstermeye başladı. İstanbul'da bu akşam sağanak yağış etkili olurken, Meteoroloji Genel Müdürlüğü de bazı iller için sarı ve turuncu kodlu alarm verdi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-basladi-meteorolojiden-sekiz-il-icin-turuncu-ve-sari-uyari-1749096",
-   "image": "https://images.ntv.com.tr/images/ISTANBULDA-SAGANAK-ETKILI-OLUYOR--EK-G_1587318_471979-242697.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-02T19:46:53+00:00",
-   "url": "/haber/istanbul-da-saganak-basladi-meteoroloji-den-sekiz-il-icin-turuncu-ve-s-44abf742/"
   },
   {
    "id": "3c8b2a76",
@@ -319,17 +352,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T19:29:14+00:00",
    "url": "/haber/hyperx-solocast-2-incelemesi-uygun-fiyatli-oyuncu-mikrofonu-alinir-mi-a6fae81a/"
-  },
-  {
-   "id": "282458b3",
-   "title": "Van'da rahatsızlanan asker şehit oldu",
-   "summary": "Milli Savunma Bakanlığı (MSB), Van'da görev esnasında rahatsızlanan Piyade Uzman Çavuş Oğuz Şahin'in kaldırıldığı hastanede şehit olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/vanda-rahatsizlanan-asker-sehit-oldu/4109130",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T19:09:21+00:00",
-   "url": "/haber/van-da-rahatsizlanan-asker-sehit-oldu-282458b3/"
   },
   {
    "id": "c351cb94",
@@ -761,17 +783,6 @@
    "url": "/haber/apple-ceo-su-john-ternus-sirf-yapay-zeka-olsun-diye-ozellik-sunmak-ist-2bec54dd/"
   },
   {
-   "id": "2b7805b8",
-   "title": "İBB davasında üçüncü celsede bazı müştekiler şikayetini çekti",
-   "summary": "Görevden uzaklaştırılan İBB Başkanı Ekrem İmamoğlu'nun da aralarında bulunduğu 46'sı tutuklu 436 sanığın yargılandığı İBB davasının üçüncü celsesi bugün Silivri'deki Marmara Kapalı Cezaevi'nde başladı.",
-   "link": "https://www.bbc.com/turkce/articles/cm87zngy4y5no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f533/live/cc6ada00-d692-11f1-8f56-0b6ab08f384e.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-02T14:54:11+00:00",
-   "url": "/haber/ibb-davasinda-ucuncu-celsede-bazi-mustekiler-sikayetini-cekti-2b7805b8/"
-  },
-  {
    "id": "bacd8780",
    "title": "TBMM Genel Sekreterliğine Kemal Şamlıoğlu atandı",
    "summary": "TBMM Genel Sekreterliğine Kemal Şamlıoğlu atandı.",
@@ -1188,17 +1199,6 @@
    "category": "gundem",
    "date": "2026-11-01T11:49:00+00:00",
    "url": "/haber/yeni-haftada-hava-durumu-nasil-olacak-f498e025/"
-  },
-  {
-   "id": "e10998ee",
-   "title": "Çok çaba harcamadan da egzersiz yapabilirsiniz",
-   "summary": "Günlük küçük aktiviteler, kalp damar hastalıkları ve hatta ölüm riskimizi azaltabilir. Bunu bir toplantıda, uçakta veya bu makaleyi okurken, basit şekillerde deneyebilirsiniz.",
-   "link": "https://www.bbc.com/turkce/articles/c680zmv2p9ggo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e6bb/live/14a955e0-d165-11f1-93e1-3b657b665bcf.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-01T09:03:42+00:00",
-   "url": "/haber/cok-caba-harcamadan-da-egzersiz-yapabilirsiniz-e10998ee/"
   },
   {
    "id": "ae0bbe77",
