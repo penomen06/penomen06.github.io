@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-02T16:01:09.589898+00:00",
+ "updated": "2026-11-02T16:31:01.259775+00:00",
  "items": [
+  {
+   "id": "4b1dd59b",
+   "title": "Kayseri'de iş yerinde çıkan yangına müdahale ediliyor",
+   "summary": "Kayseri'nin merkez Melikgazi ilçesinde bir iş yerinde çıkan yangına müdahale ediliyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/kayseride-is-yerinde-cikan-yangina-mudahale-ediliyor/4109019",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T16:27:22+00:00",
+   "url": "/haber/kayseri-de-is-yerinde-cikan-yangina-mudahale-ediliyor-4b1dd59b/"
+  },
+  {
+   "id": "7ec3dd15",
+   "title": "Florida'da düşen Learjet 60 için ilk bulgular",
+   "summary": "Florida'da düşen Learjet 60 nedeniyle 9 kişi hayatını kaybetti. Radar verileri, fırtına uyarısı ve pilotun son telsiz çağrıları kazanın olası sebebine ışık tutuyor.",
+   "link": "https://shiftdelete.net/florida-da-dusen-learjet-60-kaza-sebebi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/540ec1483dbf640db4060157f5dc9e0e2fab00ec.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T16:26:59+00:00",
+   "url": "/haber/florida-da-dusen-learjet-60-icin-ilk-bulgular-7ec3dd15/"
+  },
+  {
+   "id": "7c7a502b",
+   "title": "Avrupa genelinde süpermarket soğutucularına siber saldırı",
+   "summary": "Avrupa genelindeki yedi ülkede onlarca süpermarkette bulunan, soğutucu ve dondurucularını etkileyen bir siber saldırı yapıldı. Bazı marketlerde dondurucuların sıcaklığının 50 dereceye kadar yükseldiği bildirildi.",
+   "link": "https://www.bbc.com/turkce/articles/cmx23e2dexndo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f2ab/live/a3865ef0-d6d0-11f1-ac20-7783925c811f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-02T16:19:50+00:00",
+   "url": "/haber/avrupa-genelinde-supermarket-sogutucularina-siber-saldiri-7c7a502b/"
+  },
+  {
+   "id": "1c776ac4",
+   "title": "GTA 6 çıkışı öncesi Sony'den PS5 \"güvenlik\" güncellemesi",
+   "summary": "GTA 6'nın çıkışına sayılı günler kala Sony, yeni bir PlayStation 5 güncellemesi daha yayınladı. Yılın beklenen oyununu korsan oynamak mümkün olmayacak gibi görünüyor.",
+   "link": "https://www.donanimhaber.com/gta-6-cikisi-oncesi-sony-den-ps5-guvenlik-guncellemesi--212374",
+   "image": "https://www.donanimhaber.com/images/images/haber/212374/1200x675gta-6-cikisi-oncesi-sony-den-ps5-guvenlik-guncellemesi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-02T16:16:00+00:00",
+   "url": "/haber/gta-6-cikisi-oncesi-sony-den-ps5-guvenlik-guncellemesi-1c776ac4/"
+  },
+  {
+   "id": "39832563",
+   "title": "MacBook Pro 2027 planı: M7 çipli modeller",
+   "summary": "Bloomberg'in haberine göre MacBook Pro 2027 yılında M7 çipli yeni bir giriş modeli ve ikinci nesil dokunmatik ekranlı seriyle genişleyecek.",
+   "link": "https://shiftdelete.net/macbook-pro-2027-m7-cipli-modeller",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/macbook-pro-2027-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T16:15:53+00:00",
+   "url": "/haber/macbook-pro-2027-plani-m7-cipli-modeller-39832563/"
+  },
+  {
+   "id": "51fad240",
+   "title": "OYSS nedir? MEB'in yeni ortak sınav sistemi",
+   "summary": "MEB'in Ortak Yazılı Sınav Sistemi (OYSS) bu hafta ilk kez uygulanıyor. Hangi sınıflarda ve derslerde geçerli, sorular nasıl hazırlanıyor, sınavlar ne zaman yapılacak?",
+   "link": "https://shiftdelete.net/oyss-nedir-meb-ortak-yazili-sinav-sistemi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/oyss-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T16:12:22+00:00",
+   "url": "/haber/oyss-nedir-meb-in-yeni-ortak-sinav-sistemi-51fad240/"
+  },
+  {
+   "id": "3b3cb798",
+   "title": "TCL'in Çin'deki teknoloji merkezini gezdik",
+   "summary": "TCL'in Shenzhen'deki Follow the Light etkinliğinde SQD Mini LED televizyonları, 163 inç Micro LED ekranı ve CSOT panel üretimini yakından gördük; bazı ürünlerin Türkiye'ye geleceğini öğrendik.",
+   "link": "https://shiftdelete.net/tcl-cin-shenzhen-follow-the-light-sdntv",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/sdntv-ce2OcrFIAO8-kapak2.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T16:08:31+00:00",
+   "url": "/haber/tcl-in-cin-deki-teknoloji-merkezini-gezdik-3b3cb798/"
+  },
+  {
+   "id": "71705c6e",
+   "title": "28 yıldır yürüyen Karl Bushby, 58 bin km yol sonra evine döndü",
+   "summary": "Dünyayı yürüyerek dolaşan Karl Bushby, 28 yıl sonra yolculuğu tamamladı. Karl Bushby, İngiltere'nin Hull kentindeki evine vardığında annesi Angela Bushby tarafından karşılandı.",
+   "link": "https://www.bbc.com/turkce/articles/ckm23dng4rlqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed7a/live/89ae1a30-d6d6-11f1-b2be-0146bf989691.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-02T16:03:23+00:00",
+   "url": "/haber/28-yildir-yuruyen-karl-bushby-58-bin-km-yol-sonra-evine-dondu-71705c6e/"
+  },
   {
    "id": "5600b534",
    "title": "RTX 30 serisi için dağıtıcılara yönlendirme",
@@ -57,15 +145,15 @@
    "url": "/haber/instagram-takipci-gizleme-liste-nasil-gizlenir-5598f28f/"
   },
   {
-   "id": "7c7a502b",
-   "title": "Avrupa genelinde süpermarket soğutucularına siber saldırı",
-   "summary": "Avrupa genelindeki yedi ülkede onlarca süpermarkette bulunan, soğutucu ve dondurucularını etkileyen bir siber saldırı yapıldı. Bazı marketlerde dondurucuların sıcaklığının 50 dereceye kadar yükseldiği bildirildi.",
-   "link": "https://www.bbc.com/turkce/articles/cmx23e2dexndo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f2ab/live/a3865ef0-d6d0-11f1-ac20-7783925c811f.jpg",
-   "source": "BBC Turkish",
+   "id": "52a1f2d3",
+   "title": "Lübnan Tarım Bakanı Hani: İsrail saldırıları Lübnan’daki tarım arazilerinin yüzde 22,5’inde hasara yol açtı",
+   "summary": "Lübnan Tarım Bakanı Nizar Hani, İsrail saldırılarının ülkedeki tarım arazilerinin yaklaşık yüzde 22,5'ine denk gelen 56 bin hektarlık alanda doğrudan hasara yol açtığını belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/lubnan-tarim-bakani-hani-israil-saldirilari-lubnan-daki-tarim-arazilerinin-yuzde-22-5-inde-hasara-yol-acti/4108988",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-02T15:43:30+00:00",
-   "url": "/haber/avrupa-genelinde-supermarket-sogutucularina-siber-saldiri-7c7a502b/"
+   "date": "2026-11-02T15:44:49+00:00",
+   "url": "/haber/lubnan-tarim-bakani-hani-israil-saldirilari-lubnan-daki-tarim-araziler-52a1f2d3/"
   },
   {
    "id": "6cfb421f",
@@ -475,17 +563,6 @@
    "url": "/haber/ipad-icin-gelistirilen-ucretsiz-tasarim-uygulamasi-affinity-yayinlandi-4cb06b5e/"
   },
   {
-   "id": "259b973b",
-   "title": "Trafiğe en çok kaydı yapılan otomobil markaları",
-   "summary": "TÜİK'in Eylül 2026 verilerine göre Türkiye'de trafiğe kayıtlı otomobil sayısı 18 milyonu geçti. Aylık kayıtlarda Renault zirvede, TOGG ikinci sırada yer aldı.",
-   "link": "https://shiftdelete.net/trafige-kayitli-otomobil-sayisi-18-milyonu-asti",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/cdf7fd7cc11efc7ed3085208b74a68bdc0dc57f3.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T14:08:52+00:00",
-   "url": "/haber/trafige-en-cok-kaydi-yapilan-otomobil-markalari-259b973b/"
-  },
-  {
    "id": "d02b1638",
    "title": "HGS’de sistem değişti, ödeme şikayetleri arttı",
    "summary": "HGS kullanıcıları, geçiş borçlarını sorgulama ve ödeme sırasında yaşadıkları aksaklıklardan şikayet ediyor. Ödemesini tamamlayamayan bazı sürücüler, bu süreçte cezalarla karşılaştıklarını belirtiyor.",
@@ -506,28 +583,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T13:57:11+00:00",
    "url": "/haber/avrupa-daki-bazi-supermarketler-buzdolaplarinin-sicakligini-hedef-alan-0112b3e1/"
-  },
-  {
-   "id": "a75df5ce",
-   "title": "PlayStation 5 yazılımında GTA 6 güncelleme şartı",
-   "summary": "Sony, PlayStation 5 yazılımı için 14.22.00.00 güncellemesini yayımladı. GTA 6'nın minimum sürüm şartının 14.10.00'dan 14.22.00'a çıktığı iddia ediliyor.",
-   "link": "https://shiftdelete.net/playstation-5-yazilimi-gta-6-guncelleme-sarti",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/d9f99a2cd1b28924ba78975743e82ac1ac9a0e2c.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T13:53:45+00:00",
-   "url": "/haber/playstation-5-yaziliminda-gta-6-guncelleme-sarti-a75df5ce/"
-  },
-  {
-   "id": "ac4ccf24",
-   "title": "Tek SMS ile Android telefonu çökerten açık",
-   "summary": "SMS of Death açığı olarak adlandırılan CVE-2026-58882, özel hazırlanmış tek bir mesajla Android telefonları çökertebiliyor. Açık Ekim 2026 güvenlik yamasıyla kapatıldı.",
-   "link": "https://shiftdelete.net/sms-of-death-acigi-android-telefonlari-cokertiyor",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/e4e7b3e22cef83276e54fa90572ef0d4ffbe2706.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T13:47:35+00:00",
-   "url": "/haber/tek-sms-ile-android-telefonu-cokerten-acik-ac4ccf24/"
   },
   {
    "id": "f2d3506a",
@@ -640,17 +695,6 @@
    "url": "/haber/toyota-kasim-2026-fiyat-listesi-295634c7/"
   },
   {
-   "id": "114ba5bd",
-   "title": "Steam anketi: 16 GB RAM yeniden zirvede",
-   "summary": "Valve'ın Ekim 2026 Steam donanım anketi yayımlandı. 16 GB RAM yeniden birinci oldu, Intel işlemci payını artırdı, Linux ise yüzde 3,95'e çıktı.",
-   "link": "https://shiftdelete.net/steam-donanim-anketi-ekim-2026-16-gb-ram",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/12d71953b0716114b9de3084bf92f33a6f681a85.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T13:38:38+00:00",
-   "url": "/haber/steam-anketi-16-gb-ram-yeniden-zirvede-114ba5bd/"
-  },
-  {
    "id": "d90924f7",
    "title": "Türkiye'de Trafiğe En Çok Kayıtlı Araba Markaları",
    "summary": "TÜİK, Eylül 2026'da Türkiye'de trafiğe kayıtlı otomobil markalarını açıkladı. Listenin başında Renault yer alırken TOGG, Hyundai ve Volkswagen de büyük bir paya sahip.",
@@ -759,28 +803,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T13:08:02+00:00",
    "url": "/haber/lamborghini-gallardo-orijinal-tasarimcisi-tarafindan-yeniden-yorumland-9600d1af/"
-  },
-  {
-   "id": "26f8e0b8",
-   "title": "60 saniyede ekonomide bugün (02 Kasım 2026)",
-   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-02-kasim-2026/4108828",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T13:04:47+00:00",
-   "url": "/haber/60-saniyede-ekonomide-bugun-02-kasim-2026-26f8e0b8/"
-  },
-  {
-   "id": "ab0f5ed1",
-   "title": "60 saniyede bugün (02 Kasım 2026)",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-02-kasim-2026/4108825",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T13:04:04+00:00",
-   "url": "/haber/60-saniyede-bugun-02-kasim-2026-ab0f5ed1/"
   },
   {
    "id": "e4f28043",
@@ -959,26 +981,15 @@
    "url": "/haber/siper2-nin-seri-uretimi-2027-de-baslayacak-788e903b/"
   },
   {
-   "id": "8b8e1288",
-   "title": "Pluribus'un 2. sezonu için beklenen haber geldi: Apple'ın sevilen dizisi geri dönüyor",
-   "summary": "Apple TV'nin bugüne kadar en çok izlenen dizisi olan Pluribus, yeni sezon için izleyicileri uzun süre bekletebilir. Dizinin yaratıcısı Vince Gilligan, 2. sezonun yayın tarihi hakkında konuştu.",
-   "link": "https://www.donanimhaber.com/pluribus-2-sezon-icin-beklenen-haber-geldi--212361",
-   "image": "https://www.donanimhaber.com/images/images/haber/212361/1200x675pluribus-2-sezon-icin-beklenen-haber-geldi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-02T11:54:00+00:00",
-   "url": "/haber/pluribus-un-2-sezonu-icin-beklenen-haber-geldi-apple-in-sevilen-dizisi-8b8e1288/"
-  },
-  {
    "id": "fd730dee",
-   "title": "Ukrayna'nın başkenti Kiev'de sahte radyasyon alarmı uyarısıyla korku",
-   "summary": "Ukrayna'da hava saldırılarına karşı uyarı amacıyla telefonlarda bulunan uygulama dün gece saatlerinde radyasyon alarmı uyarısı yaptı. Moskova da acil durum uyarı uygulamasının \"büyük çaplı bir siber saldırı\"dan…",
+   "title": "Ukrayna ve Rusya'da siber saldırılarla sahte radyasyon alarmı",
+   "summary": "Ukrayna ve Rusya, pazar gecesi nükleer saldırılar da dahil olmak üzere kullanıcılara saldırı uyarısı içeren sahte mesajlar gönderilmesinin ardından, hava saldırısı uyarı uygulamalarının siber saldırılara maruz kaldığını…",
    "link": "https://www.bbc.com/turkce/articles/c5vgj0dgerm1o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b7d0/live/66cc8c00-d6b2-11f1-aacc-5b5f23abff4b.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-02T11:46:27+00:00",
-   "url": "/haber/ukrayna-nin-baskenti-kiev-de-sahte-radyasyon-alarmi-uyarisiyla-korku-fd730dee/"
+   "url": "/haber/ukrayna-ve-rusya-da-siber-saldirilarla-sahte-radyasyon-alarmi-fd730dee/"
   },
   {
    "id": "3660ede1",
@@ -1100,17 +1111,6 @@
    "category": "gundem",
    "date": "2026-11-02T07:28:00+00:00",
    "url": "/haber/abd-de-yarin-duzenlenecek-kongre-ara-secimlerindeki-anketlerde-tablo-n-32653a1c/"
-  },
-  {
-   "id": "a28e7976",
-   "title": "Öcalan'ın İmralı'daki yeni konumu hakkında neler biliniyor?",
-   "summary": "DEM Parti İmralı Heyeti üyesi Mithat Sancar, PKK lideri Abdullah Öcalan'ın İmralı'da kendisi için hazırlanan yeni bir yere geçtiğini açıkladı. Sancar, bu gelişmenin yürütülen sürecin hızlandırılmasını gerektirdiğini…",
-   "link": "https://www.bbc.com/turkce/articles/c9146ym5302eo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ee1/live/42a76970-d60e-11f1-93e1-3b657b665bcf.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-02T07:17:46+00:00",
-   "url": "/haber/ocalan-in-imrali-daki-yeni-konumu-hakkinda-neler-biliniyor-a28e7976/"
   },
   {
    "id": "f4ad840d",
