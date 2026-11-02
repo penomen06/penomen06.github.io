@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T04:30:56.098146+00:00",
+ "updated": "2026-11-02T05:01:05.958260+00:00",
  "items": [
   {
    "id": "12a899be",
@@ -9,8 +9,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-02T04:30:00+00:00",
+   "date": "2026-11-02T05:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-12a899be/"
+  },
+  {
+   "id": "2ff61a23",
+   "title": "Xbox yöneticisi: Oyunlarda yapay zekâ var",
+   "summary": "Xbox yapay zeka kullanımı hakkında açıklama yapan stratejik yönetici Brandon Stirrup, X hesabını bir günden kısa sürede kapattı. Sözleri oyun dünyasında tartışma başlattı.",
+   "link": "https://shiftdelete.net/xbox-yapay-zeka-yonetici-hesabini-sildi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/1812acae0aac47cd56048aaf5ef70627f053fe70.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T04:59:16+00:00",
+   "url": "/haber/xbox-yoneticisi-oyunlarda-yapay-zeka-var-2ff61a23/"
+  },
+  {
+   "id": "6f948674",
+   "title": "WhatsApp Grup Sohbetlerine 4 Yeni Özellik Geldi",
+   "summary": "WhatsApp, grup sohbetleri için 4 yeni özellik getirdiğini duyurdu.",
+   "link": "https://www.webtekno.com/whatsapp-grup-sohbetleri-4-yeni-ozellik-h228088.html",
+   "image": "https://imgrosetta.webtekno.com/file/695215/695215-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T04:49:16+00:00",
+   "url": "/haber/whatsapp-grup-sohbetlerine-4-yeni-ozellik-geldi-6f948674/"
+  },
+  {
+   "id": "236791e2",
+   "title": "WhatsApp mesaj metin eylemleri geliyor",
+   "summary": "WhatsApp metin eylemleri, mesajlardaki telefon numarası, tarih, adres ve e-postayı algılayıp kısayol sunuyor. Özellik Android ve iOS'ta bazı kullanıcılara açıldı.",
+   "link": "https://shiftdelete.net/whatsapp-metin-eylemleri-android-ios",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/504aa9dfaf160629c5e26a8dd46da798ca52fc32.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T04:44:07+00:00",
+   "url": "/haber/whatsapp-mesaj-metin-eylemleri-geliyor-236791e2/"
+  },
+  {
+   "id": "d0bbb85e",
+   "title": "2027 Avrupa'da Yılın Otomobili Finalistleri Belli Oldu",
+   "summary": "2027 Avrupa'da Yılın Otomobili ödülü için yarışacak 7 finalist açıklandı.",
+   "link": "https://www.webtekno.com/2027-avrupa-yilin-otomobili-finalistleri-aciklandi-h228085.html",
+   "image": "https://imgrosetta.webtekno.com/file/695210/695210-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T04:40:48+00:00",
+   "url": "/haber/2027-avrupa-da-yilin-otomobili-finalistleri-belli-oldu-d0bbb85e/"
+  },
+  {
+   "id": "bafeadab",
+   "title": "Volkswagen, Türkiye'de Üretim Yapabilir!",
+   "summary": "Doğuş Otomotiv ile Volkswagen Grup Şirketleri \"Türkiye'de üretim mi yapılacak?\" dedirten bir niyet mektubu imzaladı.",
+   "link": "https://www.webtekno.com/volkswagen-turkiye-uretim-yapabilir-h228082.html",
+   "image": "https://imgrosetta.webtekno.com/file/695206/695206-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T04:32:21+00:00",
+   "url": "/haber/volkswagen-turkiye-de-uretim-yapabilir-bafeadab/"
   },
   {
    "id": "c4aa8e02",
@@ -68,15 +123,15 @@
    "url": "/haber/anthropic-model-egiten-arastirmaciyi-kisitladi-25297a0b/"
   },
   {
-   "id": "dc83c05f",
-   "title": "Cumhurbaşkanı Erdoğan, Güney Kore'ye geldi",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle başkent Seul'e geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koreye-geldi/4108266",
+   "id": "c6472558",
+   "title": "Cumhurbaşkanı Erdoğan Güney Kore'de",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle başkent Seul'e ulaştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-korede/4108266",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-02T03:51:50+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-guney-kore-ye-geldi-dc83c05f/"
+   "url": "/haber/cumhurbaskani-erdogan-guney-kore-de-c6472558/"
   },
   {
    "id": "cd53ac86",
@@ -651,17 +706,6 @@
    "url": "/haber/bilim-dunyasinda-bir-ilk-yapay-zeka-epilepsi-hastasi-fareyi-ameliyat-e-adb38035/"
   },
   {
-   "id": "07faa60c",
-   "title": "Elektrikli Araç Şarj Ücretleri Kasım 2026: Evde ve İstasyonda Maliyet",
-   "summary": "Evde şarj vergiler dahil yaklaşık 3,24 TL/kWh'ten, istasyonda AC 9,90 TL'den, DC 11,99 TL'den başlıyor. ZES, Trugo ve Aksa'nın güncel fiyatları, 60 kWh dolum hesabı ve EPDK'nın 2027'de devreye girecek 3.000 kWh sınırı.",
-   "link": "https://shiftdelete.net/elektrikli-otomobil-sarj-ucretleri-2025",
-   "image": "https://ares.shiftdelete.net/2025/02/Elektrikli-otomobil-sarj-ucretleri-2.png",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T15:29:00+00:00",
-   "url": "/haber/elektrikli-arac-sarj-ucretleri-kasim-2026-evde-ve-istasyonda-maliyet-07faa60c/"
-  },
-  {
    "id": "63755fa0",
    "title": "Borsa İstanbul Genel Müdürlüğü'ne vekaleten Atila Türeli getirildi",
    "summary": "Fon soruşturması kapsamında gözaltına alınan Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun'un yerine Genel Müdür Yardımcısı Atila Türeli vekaleten görevlendirildi.",
@@ -671,17 +715,6 @@
    "category": "gundem",
    "date": "2026-11-01T15:18:11+00:00",
    "url": "/haber/borsa-istanbul-genel-mudurlugu-ne-vekaleten-atila-tureli-getirildi-63755fa0/"
-  },
-  {
-   "id": "c159cbac",
-   "title": "Sodyum pil 1000 şarjda yüzde 90 kapasite korudu",
-   "summary": "Güney Koreli araştırmacılar, sodyum iyon pil teknolojisini daha güvenli hâle getirecek yeni bir elektrolit geliştirdi. Pil, 1000 şarj döngüsünün ardından kapasitesinin %90,4'ünü korudu.",
-   "link": "https://shiftdelete.net/sodyum-iyon-pil-elektrolit-1000-dongu",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/30c809898ac9ca68ea496662778a0c4f856e3616.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T15:08:06+00:00",
-   "url": "/haber/sodyum-pil-1000-sarjda-yuzde-90-kapasite-korudu-c159cbac/"
   },
   {
    "id": "7cc7d814",
