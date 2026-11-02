@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T19:45:04.774876+00:00",
+ "updated": "2026-11-02T20:01:15.763115+00:00",
  "items": [
+  {
+   "id": "1f30eff9",
+   "title": "Tencent'ten insan tercümanlara rakip yapay zekâ: Konuşmaları anında çeviriyor",
+   "summary": "Tencent'in konuşmaları gerçek zamanlı olarak başka bir dile çeviren yeni yapay zekâsı Hy-SimulMT, profesyonel tercümanlarla yapılan kıyaslamalarda üstün gelerek dikkat çekmeyi başardı.",
+   "link": "https://www.donanimhaber.com/tencent-in-yeni-yapay-zek-si-konusmalari-aninda-cevirebiliyor--212384",
+   "image": "https://www.donanimhaber.com/images/images/haber/212384/1200x675tencent-in-yeni-yapay-zek-si-konusmalari-aninda-cevirebiliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-02T19:52:00+00:00",
+   "url": "/haber/tencent-ten-insan-tercumanlara-rakip-yapay-zeka-konusmalari-aninda-cev-1f30eff9/"
+  },
   {
    "id": "44abf742",
    "title": "İstanbul'da sağanak başladı. Meteoroloji'den sekiz il için turuncu ve sarı uyarı",
@@ -9,8 +20,41 @@
    "image": "https://images.ntv.com.tr/images/ISTANBULDA-SAGANAK-ETKILI-OLUYOR--EK-G_1587318_471979-242697.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-02T19:41:56+00:00",
+   "date": "2026-11-02T19:46:53+00:00",
    "url": "/haber/istanbul-da-saganak-basladi-meteoroloji-den-sekiz-il-icin-turuncu-ve-s-44abf742/"
+  },
+  {
+   "id": "3c8b2a76",
+   "title": "Ukrayna: Rusya'nın Komişuvaha köyüne düzenlediği hava saldırılarında 24 kişi hayatını kaybetti",
+   "summary": "Rus ordusunun, Ukrayna'nın Zaporijya bölgesindeki Komişuvaha köyüne yönelik gerçekleştirdiği hava saldırılarında 24 kişi yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusyanin-komisuvaha-koyune-duzenledigi-hava-saldirilarinda-24-kisi-hayatini-kaybetti/4109145",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T19:45:59+00:00",
+   "url": "/haber/ukrayna-rusya-nin-komisuvaha-koyune-duzenledigi-hava-saldirilarinda-24-3c8b2a76/"
+  },
+  {
+   "id": "595afd54",
+   "title": "İstanbul için kuvvetli sağanak uyarısı",
+   "summary": "İstanbul için kuvvetli sağanak uyarısında bulunuldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-icin-kuvvetli-saganak-uyarisi/4109144",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T19:44:25+00:00",
+   "url": "/haber/istanbul-icin-kuvvetli-saganak-uyarisi-595afd54/"
+  },
+  {
+   "id": "2c18eb0b",
+   "title": "İsrail'in Gazze saldırılarında 7 Filistinli daha hayatını kaybetti",
+   "summary": "İsrail ordusunun ateşkes anlaşmasını ihlal ederek Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 2'si daha önce yaralanan 7 Filistinli yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazze-saldirilarinda-7-filistinli-daha-hayatini-kaybetti/4109143",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T19:43:17+00:00",
+   "url": "/haber/israil-in-gazze-saldirilarinda-7-filistinli-daha-hayatini-kaybetti-2c18eb0b/"
   },
   {
    "id": "75a57cf7",
@@ -519,17 +563,6 @@
    "url": "/haber/28-yildir-yuruyen-karl-bushby-58-bin-km-yol-sonra-evine-dondu-71705c6e/"
   },
   {
-   "id": "b6239994",
-   "title": "Almanya Başbakanı Merz: Şiddetin sokaklarımızda yeri yok",
-   "summary": "Almanya Başbakanı ve Hristiyan Demokrat Birlik Partisi (CDU) Genel Başkanı Friedrich Merz, 31 Ekim'de ülkenin farklı kentlerinde gençlerin düzenlediği gösterilerde çıkan olaylara tepki göstererek, şiddetin sokaklarda…",
-   "link": "https://www.aa.com.tr/tr/dunya/almanya-basbakani-merz-siddetin-sokaklarimizda-yeri-yok/4108997",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T15:55:12+00:00",
-   "url": "/haber/almanya-basbakani-merz-siddetin-sokaklarimizda-yeri-yok-b6239994/"
-  },
-  {
    "id": "71f667ab",
    "title": "Microsoft Edge, Windows 11'de daha hızlı olacak: İşte yeni özellik",
    "summary": "Microsoft Edge, Windows 11'in yeni hızlandırma teknolojisini destekleyen ilk tarayıcı oldu. Yeni özellik, uygun koşullarda tarayıcının açılış süresini yüzde 33'e kadar kısaltabiliyor.",
@@ -539,17 +572,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T15:55:00+00:00",
    "url": "/haber/microsoft-edge-windows-11-de-daha-hizli-olacak-iste-yeni-ozellik-71f667ab/"
-  },
-  {
-   "id": "52a1f2d3",
-   "title": "Lübnan Tarım Bakanı Hani: İsrail saldırıları Lübnan’daki tarım arazilerinin yüzde 22,5’inde hasara yol açtı",
-   "summary": "Lübnan Tarım Bakanı Nizar Hani, İsrail saldırılarının ülkedeki tarım arazilerinin yaklaşık yüzde 22,5'ine denk gelen 56 bin hektarlık alanda doğrudan hasara yol açtığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/lubnan-tarim-bakani-hani-israil-saldirilari-lubnan-daki-tarim-arazilerinin-yuzde-22-5-inde-hasara-yol-acti/4108988",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T15:44:49+00:00",
-   "url": "/haber/lubnan-tarim-bakani-hani-israil-saldirilari-lubnan-daki-tarim-araziler-52a1f2d3/"
   },
   {
    "id": "6cfb421f",
@@ -674,14 +696,14 @@
   },
   {
    "id": "2b7805b8",
-   "title": "İBB davasında üçüncü celse başladı, bazı müştekiler şikayetini çekti",
+   "title": "İBB davasında üçüncü celsede bazı müştekiler şikayetini çekti",
    "summary": "Görevden uzaklaştırılan İBB Başkanı Ekrem İmamoğlu'nun da aralarında bulunduğu 46'sı tutuklu 436 sanığın yargılandığı İBB davasının üçüncü celsesi bugün Silivri'deki Marmara Kapalı Cezaevi'nde başladı.",
    "link": "https://www.bbc.com/turkce/articles/cm87zngy4y5no?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f533/live/cc6ada00-d692-11f1-8f56-0b6ab08f384e.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-02T14:54:11+00:00",
-   "url": "/haber/ibb-davasinda-ucuncu-celse-basladi-bazi-mustekiler-sikayetini-cekti-2b7805b8/"
+   "url": "/haber/ibb-davasinda-ucuncu-celsede-bazi-mustekiler-sikayetini-cekti-2b7805b8/"
   },
   {
    "id": "c1ae9b2e",
@@ -693,17 +715,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T14:49:00+00:00",
    "url": "/haber/teknoloji-devleri-yapay-zeka-icin-3-trilyon-dolar-daha-harcayacak-c1ae9b2e/"
-  },
-  {
-   "id": "437f90a9",
-   "title": "Tahran’daki Tecriş Meydanı’nda \"gönüllü savaşçılar\" için üçüncü tatbikat alanı açıldı",
-   "summary": "İran'ın başkenti Tahran’daki Tecriş Meydanı’nda, \"gönüllü savaşçıların\" silahlı tatbikat yapabilmeleri için hazırlanan alan hizmete girdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/tahran-daki-tecris-meydani-nda-gonullu-savascilar-icin-ucuncu-tatbikat-alani-acildi/4108925",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T14:33:14+00:00",
-   "url": "/haber/tahran-daki-tecris-meydani-nda-gonullu-savascilar-icin-ucuncu-tatbikat-437f90a9/"
   },
   {
    "id": "547b0643",
@@ -759,17 +770,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T14:10:32+00:00",
    "url": "/haber/ipad-icin-gelistirilen-ucretsiz-tasarim-uygulamasi-affinity-yayinlandi-4cb06b5e/"
-  },
-  {
-   "id": "d02b1638",
-   "title": "HGS’de sistem değişti, ödeme şikayetleri arttı",
-   "summary": "HGS kullanıcıları, geçiş borçlarını sorgulama ve ödeme sırasında yaşadıkları aksaklıklardan şikayet ediyor. Ödemesini tamamlayamayan bazı sürücüler, bu süreçte cezalarla karşılaştıklarını belirtiyor.",
-   "link": "https://www.donanimhaber.com/hgs-de-sistem-degisti-odeme-sikayetleri-artti--212368",
-   "image": "https://www.donanimhaber.com/images/images/haber/212368/1200x675hgs-de-sistem-degisti-odeme-sikayetleri-artti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-02T14:05:00+00:00",
-   "url": "/haber/hgs-de-sistem-degisti-odeme-sikayetleri-artti-d02b1638/"
   },
   {
    "id": "0112b3e1",
