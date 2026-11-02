@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T06:30:58.680286+00:00",
+ "updated": "2026-11-02T07:01:28.901016+00:00",
  "items": [
+  {
+   "id": "93830c37",
+   "title": "Kar soğuğu geliyor. Hafta ortasına dikkat, sıcaklık sert düşecek",
+   "summary": "Yağışlı havanın aralıklarla sürdüğü İstanbul'da hafta ortasından itibaren hava birden değişecek. Sıcaklığın 8 derece birden düşeceği kent genelinde yeni haftaya kadar \"kar soğuğu\" etkili olacak.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-kar-sogugu-geliyor-hafta-ortasina-dikkat-sicaklik-sert-dusecek-1748986",
+   "image": "https://images.ntv.com.tr/images/AA-20260121-40324250-40324246-TOKATTA_SOGUK_HAVA-224409-576307.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-02T07:00:58+00:00",
+   "url": "/haber/kar-sogugu-geliyor-hafta-ortasina-dikkat-sicaklik-sert-dusecek-93830c37/"
+  },
   {
    "id": "12a899be",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 02 Kasım 2026",
@@ -9,8 +20,173 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-02T06:30:01+00:00",
+   "date": "2026-11-02T07:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-12a899be/"
+  },
+  {
+   "id": "3074d0c0",
+   "title": "Alman siyasetçilerin iPhone'larına casus saldırı",
+   "summary": "Almanya'da bazı Bundestag milletvekillerinin ve hükümet temsilcilerinin telefonları hedef alındı. Apple'ın uyarılarıyla ortaya çıkan iPhone casus yazılım saldırısının arkasındaki isim bilinmiyor.",
+   "link": "https://shiftdelete.net/iphone-casus-yazilim-saldirisi-almanya-bundestag",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/ea8aafde438e18a3094b0b69e760069c1c7d4381.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T06:59:23+00:00",
+   "url": "/haber/alman-siyasetcilerin-iphone-larina-casus-saldiri-3074d0c0/"
+  },
+  {
+   "id": "3a479bb3",
+   "title": "Kanser ilacında hileye soruşturma. Bakan Gürlek: 24 kişi hakkında işlem yapıldı, 22 kişi gözaltında",
+   "summary": "Adalet Bakanı Akın Gürlek, tarihi geçmiş ilaçları piyasaya süren 22 kişinin gözaltına alındığını açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/kanser-ilacinda-hileye-sorusturma-bakan-gurlek-24-kisi-hakkinda-islem-yapildi-22-kisi-gozaltinda-1748985",
+   "image": "https://images.ntv.com.tr/images/SAHTEİLAÇ-849245(2).png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-02T06:57:02+00:00",
+   "url": "/haber/kanser-ilacinda-hileye-sorusturma-bakan-gurlek-24-kisi-hakkinda-islem-3a479bb3/"
+  },
+  {
+   "id": "7d3a49c8",
+   "title": "ABD merkezli teknoloji girişimi Kalder’in kurucusu Gökçe Güven, 25 ay hapis cezasına çarptırıldı",
+   "summary": "ABD merkezli teknoloji girişimi Kalder’in kurucusu ve eski CEO’su Gökçe Güven, 25 ay federal hapis cezasına çarptırıldı. Forbes Dergisi’nin “30 altı 30” listesinde de yer alan 27 yaşındaki Güven, şirketin gelirlerini…",
+   "link": "https://www.log.com.tr/abd-merkezli-teknoloji-girisimi-kalderin-kurucusu-gokce-guven-25-ay-hapis-cezasina-carptirildi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-02_09-51-51_8zcSJ-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-02T06:56:50+00:00",
+   "url": "/haber/abd-merkezli-teknoloji-girisimi-kalder-in-kurucusu-gokce-guven-25-ay-h-7d3a49c8/"
+  },
+  {
+   "id": "e1d40a6a",
+   "title": "Elon Musk: “Tamamen kör olanların dahi görmesini sağlayacak Blindsight hazır”",
+   "summary": "Elon Musk tarafından kurulan Neuralink, uzun süredir insan beynini bilgisayarlara bağlayacak bir altyapı üzerinde çalışıyor. İnsanların sinir ağları ile bilgisayar, robot ya da diğer elektronik cihazları kontrol…",
+   "link": "https://www.log.com.tr/elon-musk-tamamen-kor-olanlarin-dahi-gormesini-saglayacak-blindsight-hazir/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-02_09-41-23_DKSxI-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-02T06:49:41+00:00",
+   "url": "/haber/elon-musk-tamamen-kor-olanlarin-dahi-gormesini-saglayacak-blindsight-h-e1d40a6a/"
+  },
+  {
+   "id": "20f796e4",
+   "title": "İstanbul'da fiyatı en çok artan ürün salatalık, en çok düşen ürün limon oldu",
+   "summary": "İstanbul'da, ekimde bir önceki aya göre fiyatı en çok artan ürün yüzde 50,71 ile salatalık olurken en fazla düşüş yüzde 26,21 ile limonda görüldü.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/istanbulda-fiyati-en-cok-artan-urun-salatalik-en-cok-dusen-urun-limon-oldu/4108341",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T06:47:11+00:00",
+   "url": "/haber/istanbul-da-fiyati-en-cok-artan-urun-salatalik-en-cok-dusen-urun-limon-20f796e4/"
+  },
+  {
+   "id": "beadba05",
+   "title": "Türkiye’de 15 yaş altına sosyal medya yasağı resmen başladı",
+   "summary": "Türkiye'de 15 yaş altına sosyal medya yasağı yürürlüğe girdi. 15-18 yaş grubuna ise mesajlaşma, canlı yayın, reklam ve gizlilik alanlarında kısıtlamalar getirildi.",
+   "link": "https://www.donanimhaber.com/turkiye-de-15-yas-altina-sosyal-medya-yasagi-resmen-basladi--212344",
+   "image": "https://www.donanimhaber.com/images/images/haber/212344/1200x675turkiye-de-15-yas-altina-sosyal-medya-yasagi-resmen-basladi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-02T06:46:35+00:00",
+   "url": "/haber/turkiye-de-15-yas-altina-sosyal-medya-yasagi-resmen-basladi-beadba05/"
+  },
+  {
+   "id": "b5ce3aec",
+   "title": "Reklam Kurulu'ndan 2 GSM şirketine 5G cezası",
+   "summary": "Ticaret Bakanlığına bağlı Reklam Kurulu, 5G hakkında gerçeği aşan vaatlerde bulunan iki GSM şirketine toplam 7 milyon 983 bin 304 TL idari para cezası verdi.",
+   "link": "https://shiftdelete.net/reklam-kurulu-gsm-sirketlerine-5g-cezasi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/6c37c06e457c3bbb46b8ab8cd9584a5c12aa9256.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T06:44:47+00:00",
+   "url": "/haber/reklam-kurulu-ndan-2-gsm-sirketine-5g-cezasi-b5ce3aec/"
+  },
+  {
+   "id": "6b6ac43e",
+   "title": "Avcılar'da mahalle bekçisi veliyi bacağından böyle vurdu",
+   "summary": "Avcılar'da trafik tartışmasına müdahale eden çarşı mahalle bekçisinin, kendisini darbeden veliyi silahla vurması güvenlik kamerasınca kaydedildi.",
+   "link": "https://www.ntv.com.tr/turkiye/video-avcilarda-mahalle-bekcisi-veliyi-bacagindan-boyle-vurdu-1748988",
+   "image": "https://images.ntv.com.tr/images/SADSADSA-691508.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-02T06:44:32+00:00",
+   "url": "/haber/avcilar-da-mahalle-bekcisi-veliyi-bacagindan-boyle-vurdu-6b6ac43e/"
+  },
+  {
+   "id": "824fde0c",
+   "title": "Son kullanma tarihi geçmiş kanser ilaçlarını piyasaya süren 22 şüpheli gözaltında",
+   "summary": "Adalet Bakanı Akın Gürlek, son kullanma tarihi geçmiş kanser ilaçlarının ambalajları değiştirilerek yeniden piyasaya sürülmesine ilişkin soruşturma kapsamında 22 şüphelinin gözaltına alındığını, 2 şüpheli hakkında…",
+   "link": "https://www.trthaber.com/haber/gundem/son-kullanma-tarihi-gecmis-kanser-ilaclarini-piyasaya-suren-22-supheli-gozaltinda-961922.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2428000/polis-gozalti-stok-2428656.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-02T06:39:00+00:00",
+   "url": "/haber/son-kullanma-tarihi-gecmis-kanser-ilaclarini-piyasaya-suren-22-supheli-824fde0c/"
+  },
+  {
+   "id": "5f55212a",
+   "title": "Spotify, yapay zekayla şarkı remiksleme özelliği üzerinde çalışıyor",
+   "summary": "Financial Times’ın haberine göre Spotify, abonelerin yapay zeka yardımıyla mevcut şarkıların remiks ve cover versiyonlarını üretmesine olanak tanıyacak yeni bir sistem üzerinde çalışıyor. 2027’nin ilk çeyreğinde…",
+   "link": "https://www.log.com.tr/spotify-yapay-zekayla-sarki-remiksleme-ozelligi-uzerinde-calisiyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2025/11/spotify-700-milyonu-geride-birakti-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-02T06:38:43+00:00",
+   "url": "/haber/spotify-yapay-zekayla-sarki-remiksleme-ozelligi-uzerinde-calisiyor-5f55212a/"
+  },
+  {
+   "id": "bfc2f8be",
+   "title": "AK Parti'nin siyasi yolculuğu \"Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti\" panelinde ele alınacak",
+   "summary": "AK Parti Kültür ve Sanat Politikaları Başkanlığı ile Teşkilat Başkanlığı işbirliğinde \"Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti\" paneli yapılacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-partinin-siyasi-yolculugu-kurulusunun-25-iktidara-gelisinin-24-yilinda-ak-parti-panelinde-ele-alinacak/4108328",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T06:38:25+00:00",
+   "url": "/haber/ak-parti-nin-siyasi-yolculugu-kurulusunun-25-iktidara-gelisinin-24-yil-bfc2f8be/"
+  },
+  {
+   "id": "22441b94",
+   "title": "Brent petrolün varili yüzde 6'dan fazla düşüşle 110 doların altına indi",
+   "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 109,92 dolardan işlem görüyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varili-yuzde-6dan-fazla-dususle-110-dolarin-altina-indi/4108323",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T06:35:36+00:00",
+   "url": "/haber/brent-petrolun-varili-yuzde-6-dan-fazla-dususle-110-dolarin-altina-ind-22441b94/"
+  },
+  {
+   "id": "51988b3d",
+   "title": "İranlı milletvekili ve eski Dışişleri Bakanı Muttaki'den savaşın \"Avrupa'ya sıçrayacağı\" uyarısı",
+   "summary": "İranlı milletvekili ve eski Dışişleri Bakanı Menuçehr Muttaki, İran'a karşı girişilecek yeni bir savaşın \"Avrupa'ya sıçrayacağı\" uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iranli-milletvekili-ve-eski-disisleri-bakani-muttakiden-savasin-avrupaya-sicrayacagi-uyarisi/4108320",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T06:33:59+00:00",
+   "url": "/haber/iranli-milletvekili-ve-eski-disisleri-bakani-muttaki-den-savasin-avrup-51988b3d/"
+  },
+  {
+   "id": "4984db97",
+   "title": "GTA 6, tahmin edilenden daha büyük bir haritayla geliyor",
+   "summary": "Rockstar’ın açıklamasına göre 19 Kasım’da çıkacak GTA 6 için hazırlanan harita, GTA 5’tekinin neredeyse iki katı büyüklüğünde. Daha etkileyici olan kısım ise haritanın toplam kara alanının GTA 4, GTA 5 ve Red Dead…",
+   "link": "https://www.log.com.tr/gta-6-tahmin-edilenden-daha-buyuk-bir-haritayla-geliyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-02_09-23-40_RHULO-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-02T06:32:23+00:00",
+   "url": "/haber/gta-6-tahmin-edilenden-daha-buyuk-bir-haritayla-geliyor-4984db97/"
+  },
+  {
+   "id": "b29589e7",
+   "title": "TBMM Dışişleri Komisyonu heyeti Berlin'de Türk STK temsilcileriyle bir araya geldi",
+   "summary": "TBMM Dışişleri Komisyonu Başkanı ve AK Parti Ankara Milletvekili Oktay, Avrupa'nın çok kültürlü yapısının bozulduğunu ve AB'nin içe kapanık bir kulübe dönüştüğünü belirterek, AB'ye stratejik körlükten kurtulma çağrısı…",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-disisleri-komisyonu-heyeti-berlinde-turk-stk-temsilcileriyle-bir-araya-geldi/4108317",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T06:29:15+00:00",
+   "url": "/haber/tbmm-disisleri-komisyonu-heyeti-berlin-de-turk-stk-temsilcileriyle-bir-b29589e7/"
   },
   {
    "id": "08d18efb",
@@ -59,7 +235,7 @@
   {
    "id": "108c75d0",
    "title": "Türkiye Üniversite Sporları Federasyonundan Anadolu Ajansına ödül",
-   "summary": "Türkiye Üniversite Sporları Federasyonunun (TÜSF) 30. kuruluş yıl dönümü kapsamında Ankara'da düzenlediği ödül ve tanıtım gecesinde, üniversite sporlarının kamuoyuna duyurulmasına katkılarından dolayı Anadolu Ajansına…",
+   "summary": "Türkiye Üniversite Sporları Federasyonunun (TÜSF) 30. kuruluş yıl dönümü kapsamında Ankara'da düzenlediği ödül ve tanıtım gecesinde, üniversite sporlarının kamuoyuna duyurulmasına katkılarından dolayı AA muhabiri Fatih…",
    "link": "https://www.aa.com.tr/tr/spor/turkiye-universite-sporlari-federasyonundan-anadolu-ajansina-odul/4108306",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -398,6 +574,17 @@
    "url": "/haber/anthropic-model-egiten-arastirmaciyi-kisitladi-25297a0b/"
   },
   {
+   "id": "5c713e8d",
+   "title": "Cumhurbaşkanı Erdoğan Güney Kore'de",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle başkent Seul'e gitti.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guney-korede-961906.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/erdogan-kore-2500269.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-02T03:52:00+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-guney-kore-de-5c713e8d/"
+  },
+  {
    "id": "c6472558",
    "title": "Cumhurbaşkanı Erdoğan Güney Kore'de",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle başkent Seul'e ulaştı.",
@@ -552,17 +739,6 @@
    "url": "/haber/michigan-da-demokrat-siyasetci-secimlere-gunler-kala-cumhuriyetci-sena-8763ac55/"
   },
   {
-   "id": "1a5353df",
-   "title": "ABD'de 9 kişiyi taşıyan özel jetin düşüş anına ait görüntüler sosyal medyada yayıldı",
-   "summary": "ABD'nin Florida eyaletinde 9 kişiyi taşıyan özel jetin yerleşim alanına düşerek alev aldığı anlara ilişkin görüntüler sosyal medyada paylaşıldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-9-kisiyi-tasiyan-ozel-jetin-dusus-anina-ait-goruntuler-sosyal-medyada-yayildi/4108232",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T20:58:46+00:00",
-   "url": "/haber/abd-de-9-kisiyi-tasiyan-ozel-jetin-dusus-anina-ait-goruntuler-sosyal-m-1a5353df/"
-  },
-  {
    "id": "3b7134c4",
    "title": "Gen tedavisiyle 7 hastada ışık duyarlılığı arttı",
    "summary": "Deneysel gen tedavisi, ağır retinitis pigmentoza hastası 10 gönüllünün 7'sinde ışığa duyarlılığı artırdı. Sonuçlar The New England Journal of Medicine'de yayımlandı.",
@@ -572,17 +748,6 @@
    "category": "teknoloji",
    "date": "2026-11-01T20:55:46+00:00",
    "url": "/haber/gen-tedavisiyle-7-hastada-isik-duyarliligi-artti-3b7134c4/"
-  },
-  {
-   "id": "f8e0a716",
-   "title": "Bulgaristan'daki cumhurbaşkanı seçimini mevcut Cumhurbaşkanı Yotova açık farkla kazandı",
-   "summary": "Bulgaristan'daki cumhurbaşkanlığı seçimlerinde mevcut Cumhurbaşkanı İliyana Yotova ve cumhurbaşkanı yardımcısı adayı Kiril Valchev, zaferlerini ilan etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/bulgaristandaki-cumhurbaskani-secimini-mevcut-cumhurbaskani-yotova-acik-farkla-kazandi/4108231",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T20:55:44+00:00",
-   "url": "/haber/bulgaristan-daki-cumhurbaskani-secimini-mevcut-cumhurbaskani-yotova-ac-f8e0a716/"
   },
   {
    "id": "74f41a57",
@@ -607,17 +772,6 @@
    "url": "/haber/doom-un-yaraticisindan-yeni-oyun-geliyor-iptal-edilen-proje-hayata-don-171c098c/"
   },
   {
-   "id": "54bd8269",
-   "title": "COP31 kapsamında Antalya'da bazı güzergahlarda trafik düzenlemesi yapılacak",
-   "summary": "Antalya Valiliği, 9-20 Kasım'da düzenlenecek COP31 Türkiye İklim Zirvesi kapsamında, 10,11 ve 12 Kasım'da bazı güzergahlarda geçici trafik düzenlemeleri uygulanacağını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-antalyada-bazi-guzergahlarda-trafik-duzenlemesi-yapilacak/4108224",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T20:21:33+00:00",
-   "url": "/haber/cop31-kapsaminda-antalya-da-bazi-guzergahlarda-trafik-duzenlemesi-yapi-54bd8269/"
-  },
-  {
    "id": "277d3655",
    "title": "Bakan Çiftçi: İstanbul'da yeni nesil suç örgütlerine operasyonlarda bin 545 şüpheli tutuklandı",
    "summary": "İçişleri Bakanı Mustafa Çiftçi, bu yıl İstanbul'da yeni nesil suç örgütlerine yönelik 190 operasyon gerçekleştirildiğini, 2 bin 67 şüphelinin yakalandığını, 1545 şüphelinin tutuklandığını bildirdi.",
@@ -629,17 +783,6 @@
    "url": "/haber/bakan-ciftci-istanbul-da-yeni-nesil-suc-orgutlerine-operasyonlarda-bin-277d3655/"
   },
   {
-   "id": "ecacbb7e",
-   "title": "İçişleri Bakanı Çiftçi başkanlığında İstanbul'da güvenlik toplantısı yapıldı",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, bu yıl İstanbul'da yeni nesil suç örgütlerine yönelik 190 operasyon gerçekleştirildiğini, 2 bin 67 şüphelinin yakalandığını, 1545 şüphelinin tutuklandığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-baskanliginda-istanbulda-guvenlik-toplantisi-yapildi/4108212",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T19:41:08+00:00",
-   "url": "/haber/icisleri-bakani-ciftci-baskanliginda-istanbul-da-guvenlik-toplantisi-y-ecacbb7e/"
-  },
-  {
    "id": "3af25122",
    "title": "Resident Evil tüm zamanların en başarılı korku filmlerinden biri oldu",
    "summary": "Beğeniyle karşılanan yeni Resident Evil filmi, gişede beklentilerin çok üzerinde bir performans sergiliyor. Öyle ki tüm zamanların en başarılı korku filmleri arasında şimdiden yerini aldı.",
@@ -649,17 +792,6 @@
    "category": "teknoloji",
    "date": "2026-11-01T19:30:00+00:00",
    "url": "/haber/resident-evil-tum-zamanlarin-en-basarili-korku-filmlerinden-biri-oldu-3af25122/"
-  },
-  {
-   "id": "130c80de",
-   "title": "Rusya: Zelenskiy'nin araması halinde Putin telefonu açacak",
-   "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin araması halinde, Rusya Devlet Başkanı Vladimir Putin'in telefonu açacağını belirterek, \"Putin, hiçbir zaman görüşmekten…",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-zelenskiynin-aramasi-halinde-putin-telefonu-acacak/4108201",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T19:13:39+00:00",
-   "url": "/haber/rusya-zelenskiy-nin-aramasi-halinde-putin-telefonu-acacak-130c80de/"
   },
   {
    "id": "a4e9ceb4",
@@ -704,17 +836,6 @@
    "category": "gundem",
    "date": "2026-11-01T18:41:16+00:00",
    "url": "/haber/super-loto-cekilis-sonuclari-belli-oldu-25-agustos-2026-mpi-super-loto-8b8e12f9/"
-  },
-  {
-   "id": "b8d250da",
-   "title": "Cumhurbaşkanı Erdoğan Güney Kore'ye gitti",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle \"TUR\" uçağıyla Seul'e hareket etti.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guney-koreye-gitti-961897.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/recep-tayyip-erdoganaa-2500258.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-01T18:30:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-guney-kore-ye-gitti-b8d250da/"
   },
   {
    "id": "d00eca18",
@@ -816,17 +937,6 @@
    "url": "/haber/192-168-1-1-modem-arayuzune-giris-adim-adim-rehber-ve-varsayilan-sifre-128ed545/"
   },
   {
-   "id": "4f0fc424",
-   "title": "Sands of Time Remake için Ubisoft'a teklif",
-   "summary": "Ocak ayında iptal edilen Sands of Time Remake için isimsiz bir hayran, Ubisoft'a 5 milyon eurodan fazla finansman önerdi. Teklifin doğruluğu henüz doğrulanmadı.",
-   "link": "https://shiftdelete.net/sands-of-time-remake-ubisoft-5-milyon-euro-teklif",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/3d1a82a1a937b125a42f0c9459541e3c355ffdbc.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T17:02:11+00:00",
-   "url": "/haber/sands-of-time-remake-icin-ubisoft-a-teklif-4f0fc424/"
-  },
-  {
    "id": "12c4a908",
    "title": "Kurbağa zehri içeren burun spreyi, depresyon tedavisinde umut verdi",
    "summary": "Kurbağa zehrinden elde edilen mebufotenin, tedaviye dirençli depresyon için tek dozluk burun spreyi olarak klinik araştırmalarda umut verdi. İşte yeni araştırmanın detayları:",
@@ -836,17 +946,6 @@
    "category": "teknoloji",
    "date": "2026-11-01T17:00:00+00:00",
    "url": "/haber/kurbaga-zehri-iceren-burun-spreyi-depresyon-tedavisinde-umut-verdi-12c4a908/"
-  },
-  {
-   "id": "470ae50c",
-   "title": "Oppo Reno 17 Pro ile çekilen ilk fotoğraf geldi",
-   "summary": "Oppo, Reno 17 serisi için teaser kampanyasını başlattı. Oppo Reno 17 Pro ile çekilen örnek kare paylaşıldı; telefonun beklenen özellikleri de netleşiyor.",
-   "link": "https://shiftdelete.net/oppo-reno-17-pro-kamera-ozellikleri",
-   "image": "https://ares.shiftdelete.net/2026/05/oppo-reno-16-serisi-sdn.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T16:47:03+00:00",
-   "url": "/haber/oppo-reno-17-pro-ile-cekilen-ilk-fotograf-geldi-470ae50c/"
   },
   {
    "id": "a28e7976",
@@ -893,17 +992,6 @@
    "url": "/haber/bilim-dunyasinda-bir-ilk-yapay-zeka-epilepsi-hastasi-fareyi-ameliyat-e-adb38035/"
   },
   {
-   "id": "63755fa0",
-   "title": "Borsa İstanbul Genel Müdürlüğü'ne vekaleten Atila Türeli getirildi",
-   "summary": "Fon soruşturması kapsamında gözaltına alınan Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun'un yerine Genel Müdür Yardımcısı Atila Türeli vekaleten görevlendirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/borsa-istanbul-genel-mudurlugune-vekaleten-atila-tureli-getirildi-1748937",
-   "image": "https://images.ntv.com.tr/images/borsa-486537.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-01T15:18:11+00:00",
-   "url": "/haber/borsa-istanbul-genel-mudurlugu-ne-vekaleten-atila-tureli-getirildi-63755fa0/"
-  },
-  {
    "id": "7cc7d814",
    "title": "Chrome'da Sayfada Bul dönemi değişiyor: İki yeni özellik geliyor",
    "summary": "Google Chrome, Ctrl+F ile kullanılan Sayfada Bul özelliğine büyük/küçük harf duyarlı arama ve ekrandaki sonuçları atlamayı sağlayan yeni gezinme okları ekliyor.",
@@ -937,17 +1025,6 @@
    "url": "/haber/hayalet-gormek-ve-yaninda-bir-varlik-hissetmek-paranormal-deneyimler-n-cef81e62/"
   },
   {
-   "id": "3b36f8bc",
-   "title": "Ankara'da uyuşturucu operasyonu: 109 gözaltı, 40 tutuklama",
-   "summary": "Ankara'da uyuşturucu madde ticareti ve teminine yönelik bir hafta boyunca gerçekleştirilen operasyonlarda 109 kişi gözaltına alındı, 40 şüpheli tutuklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/ankarada-uyusturucu-operasyonu-109-gozalti-40-tutuklama-1748933",
-   "image": "https://images.ntv.com.tr/images/AW823088_01-401857.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-01T14:15:42+00:00",
-   "url": "/haber/ankara-da-uyusturucu-operasyonu-109-gozalti-40-tutuklama-3b36f8bc/"
-  },
-  {
    "id": "8534fc87",
    "title": "Fransa, internet devlerine GB başına vergi getirmeye hazırlanıyor",
    "summary": "Fransa'da kabul edilen yeni düzenleme, Google, Netflix, TikTok ve Meta gibi şirketlerden Fransız kullanıcılara ulaştırdıkları her gigabayt veri için 0,055 euro vergi alınmasını öngörüyor.",
@@ -970,39 +1047,6 @@
    "url": "/haber/insanligin-en-uzak-uzay-araci-voyager-1-yeni-bir-rekora-imza-atmak-uze-164d3522/"
   },
   {
-   "id": "f27cc387",
-   "title": "Chery International Başkanı Zhang Guibing: “Çinli otomobil üreticilerinin yaklaşık yüzde 90’ı zarar ediyor.”",
-   "summary": "Avustralya basınına konuşan Chery International Başkanı Zhang Guibing, Çinli otomobil üreticilerinin yaklaşık yüzde 90’ının zarar ettiğini ve artan geliştirme maliyetleri nedeniyle birçok üreticinin hayatta…",
-   "link": "https://www.log.com.tr/chery-international-baskani-zhang-guibing-cinli-otomobil-ureticilerinin-yaklasik-yuzde-90i-zarar-ediyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2025/11/Yeni-Chery-TIGGO8-3-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-01T13:56:06+00:00",
-   "url": "/haber/chery-international-baskani-zhang-guibing-cinli-otomobil-ureticilerini-f27cc387/"
-  },
-  {
-   "id": "57d2a38a",
-   "title": "Türkiye’de Volkswagen binek araç üretimi çalışmalarıyla alakalı yeni iddialar paylaşıldı",
-   "summary": "Doğuş Otomotiv, geçtiğimiz günlerde Volkswagen ile Türkiye’de binek otomobil üretimine yönelik bir niyet mektubu imzaladı. Büyük ses getiren konuyla ilgili yeni iddialar paylaşan Automobilwoche’ye göre süreç, Çin’de…",
-   "link": "https://www.log.com.tr/turkiyede-volkswagen-binek-arac-uretimi-calismalariyla-alakali-yeni-iddialar-paylasildi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/YVDL2RIP6FN7DG5BKI6HNEAH6U_FHD-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-01T13:38:30+00:00",
-   "url": "/haber/turkiye-de-volkswagen-binek-arac-uretimi-calismalariyla-alakali-yeni-i-57d2a38a/"
-  },
-  {
-   "id": "5693257c",
-   "title": "Xiaomi TV A Pro e serisi tanıtıldı: 32-85 inç, Google TV, 120Hz Oyun Modu",
-   "summary": "Xiaomi TV A Pro e serisi küresel pazara giriş yaptı. 85 inç'e kadar farklı ekran boyutlarında gelen yeni modeller, Google TV işletim sistemiyle çalışıyor ve bazıları 120Hz Oyun Modu desteği sunuyor.",
-   "link": "https://www.donanimhaber.com/xiaomi-tv-a-pro-e-serisi-tanitildi-iste-modeller-ve-ozellikleri--212331",
-   "image": "https://www.donanimhaber.com/images/images/haber/212331/1200x675xiaomi-tv-a-pro-e-serisi-tanitildi-iste-modeller-ve-ozellikleri.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-01T13:30:00+00:00",
-   "url": "/haber/xiaomi-tv-a-pro-e-serisi-tanitildi-32-85-inc-google-tv-120hz-oyun-modu-5693257c/"
-  },
-  {
    "id": "d49fecf1",
    "title": "Bahçeli '100 il 1000 ilçe projesi'ni açıkladı",
    "summary": "MHP Genel Başkanı Devlet Bahçeli, 19 yeni il ve 78 yeni ilçe kurulması önerisini paylaştı. Bahçeli, Türkgün gazetesine \"100 İl 1000 İlçe Projesi\"nin detaylarını açıkladı.",
@@ -1012,17 +1056,6 @@
    "category": "gundem",
    "date": "2026-11-01T12:26:02+00:00",
    "url": "/haber/bahceli-100-il-1000-ilce-projesi-ni-acikladi-d49fecf1/"
-  },
-  {
-   "id": "31af026e",
-   "title": "Bursa’da barajlarda şaşırtan tablo: Gölbaşı’nda sular çekiliyor",
-   "summary": "Bursa’da yağışlar içme suyu barajlarını doldururken, tarım arazilerini besleyen Gölbaşı Barajı’nda su seviyesi yeniden düştü. Mart ayında yüzde 85 doluluğa ulaşan barajda kuraklık etkisini gösteriyor.",
-   "link": "https://www.ntv.com.tr/turkiye/video-bursada-barajlarda-sasirtan-tablo-golbasinda-sular-cekiliyor-1748914",
-   "image": "https://images.ntv.com.tr/images/VVVV-171698.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-01T12:12:10+00:00",
-   "url": "/haber/bursa-da-barajlarda-sasirtan-tablo-golbasi-nda-sular-cekiliyor-31af026e/"
   },
   {
    "id": "f498e025",
@@ -1056,28 +1089,6 @@
    "category": "gundem",
    "date": "2026-11-01T09:49:41+00:00",
    "url": "/haber/almanya-da-hayat-pahaliligina-karsi-protestolarda-bazi-dukkanlar-yagma-180868b6/"
-  },
-  {
-   "id": "9acc4484",
-   "title": "Stellantis, 1.2L PureTech motorlarının üretildiği fabrikayı kapattı",
-   "summary": "Stellantis’in Fransa’nın Pas-de-Calais ilindeki Douvrin fabrikası, aktarıldığı kadarıyla 30 Ekim’de kapılarını kalıcı olarak kapattı. 57 yıl boyunca 52 milyondan fazla motorun üretildiği tesisin adı, son yıllarda…",
-   "link": "https://www.log.com.tr/stellantis-1-2l-puretech-motorlarinin-uretildigi-fabrikayi-kapatti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-01_12-33-53_fsXwJ-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-01T09:46:21+00:00",
-   "url": "/haber/stellantis-1-2l-puretech-motorlarinin-uretildigi-fabrikayi-kapatti-9acc4484/"
-  },
-  {
-   "id": "698eae3c",
-   "title": "OLED iPad mini’nin batarya kapasitesi ve RAM miktarı belli oldu",
-   "summary": "Tüm detaylarına burada yer verdiğimiz OLED iPad mini, Apple’ın resmi verilerine göre LCD ekranlı iPad mini’ye kıyasla biraz daha düşük kapasiteli bir batarya taşıyor. LCD ekranlı modelde 5.034 mAh, yeni tanıtılan OLED…",
-   "link": "https://www.log.com.tr/oled-ipad-mininin-batarya-kapasitesi-ve-ram-miktari-belli-oldu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-10-26_16-12-45_sSvbJ_FHD-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-01T09:29:31+00:00",
-   "url": "/haber/oled-ipad-mini-nin-batarya-kapasitesi-ve-ram-miktari-belli-oldu-698eae3c/"
   },
   {
    "id": "e10998ee",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-10-30T11:40:15+00:00",
    "url": "/haber/ferritin-yuzu-demir-eksikligi-dis-gorunusten-anlasilabilir-mi-fd85a025/"
-  },
-  {
-   "id": "24dade61",
-   "title": "Mustafa Sarıgül partisinden istifa etti",
-   "summary": "Yeni Parti Erzincan Milletvekili Mustafa Sarıgül, partisinden istifa ettiğini açıkladı.",
-   "link": "https://www.trthaber.com/haber/gundem/mustafa-sarigul-partisinden-istifa-etti-961732.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2082000/mustafa-sarigul-aa-2082979.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-30T10:37:00+00:00",
-   "url": "/haber/mustafa-sarigul-partisinden-istifa-etti-24dade61/"
   },
   {
    "id": "0099aac3",
