@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T00:01:06.183986+00:00",
+ "updated": "2026-11-02T00:30:57.024753+00:00",
  "items": [
   {
    "id": "12a899be",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-02T00:00:00+00:00",
+   "date": "2026-11-02T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-12a899be/"
+  },
+  {
+   "id": "c8e15a11",
+   "title": "Bir zamanlar gökyüzüne hükmeden, insan avlayan dev kartallar",
+   "summary": "Dinozorların sonunu getiren asteroit çarptıktan sonra, dev kuşlar onlarca milyon yıl boyunca en üst düzey yırtıcılar haline geldi ve insanlar da avları arasındaydı.",
+   "link": "https://www.bbc.com/turkce/articles/c679p4qlr359o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3e0/live/a5df6e50-d458-11f1-b441-2b33b063138f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-02T00:18:01+00:00",
+   "url": "/haber/bir-zamanlar-gokyuzune-hukmeden-insan-avlayan-dev-kartallar-c8e15a11/"
+  },
+  {
+   "id": "019a270d",
+   "title": "ABD ara seçimleri: Kim, nasıl kazanabilir ya da kaybedebilir?",
+   "summary": "Trump'ın başkanlığının son iki yılını belirleyecek olan seçim öncesinde, önemli anketlere, yarışlara ve meselelere derinlemesine bir analiz.",
+   "link": "https://www.bbc.com/turkce/articles/cj5ynrx0dgego?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f64c/live/4e58ab20-c552-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-02T00:00:38+00:00",
+   "url": "/haber/abd-ara-secimleri-kim-nasil-kazanabilir-ya-da-kaybedebilir-019a270d/"
   },
   {
    "id": "c3f1e4e2",
@@ -893,17 +915,6 @@
    "url": "/haber/keten-tohumu-gercekten-sagliga-faydali-mi-bilim-ne-diyor-ae0bbe77/"
   },
   {
-   "id": "57fb9f1f",
-   "title": "Avrupa'da protestolara katılan gençleri birleştiren ne?",
-   "summary": "Geçtiğimiz ay boyunca Avrupa genelinde gençler öncülüğünde gösteriler yapıldı. Peki, bu eylemleri birbirine bağlayan ne? BBC Avrupa Editörü Katya Adler yazdı.",
-   "link": "https://www.bbc.com/turkce/articles/cmlydeprkeryo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64cf/live/0f06e8c0-d2e9-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-01T08:02:05+00:00",
-   "url": "/haber/avrupa-da-protestolara-katilan-gencleri-birlestiren-ne-57fb9f1f/"
-  },
-  {
    "id": "9f6bb329",
    "title": "Bahçeli 100 il 1000 ilçe projesini kamuoyuyla paylaştı",
    "summary": "MHP Genel Başkanı Devlet Bahçeli, ‘100 il 1000 ilçe’ projesini kamuoyuyla paylaştı. Bahçeli, \"Milliyetçi Hareket Partisi olarak hazırladığımız projeyle 19 yeni il ve 78 yeni ilçe kurulmasını öngörüyoruz\" dedi.",
@@ -1100,17 +1111,6 @@
    "category": "gundem",
    "date": "2026-10-30T07:07:00+00:00",
    "url": "/haber/mit-ten-deas-operasyonu-2cc5529e/"
-  },
-  {
-   "id": "ca1d315d",
-   "title": "31 Mart yerel seçimlerinden bugüne İstanbul'un belediye dağılımı nasıl değişti?",
-   "summary": "İstanbul'da seçilmiş 26 CHP'li ilçe belediye başkanından 14'ü çeşitli suçlamalarla soruşturma geçirdi. Tutuklu yargılamaların sürdüğü yönetimlerde başkanvekilliği seçimleri yapıldı. Bazı belediyelerde yönetimler…",
-   "link": "https://www.bbc.com/turkce/articles/ck054dlgm8zdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d68d/live/53c6d680-d2f0-11f1-b441-2b33b063138f.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-30T00:14:01+00:00",
-   "url": "/haber/31-mart-yerel-secimlerinden-bugune-istanbul-un-belediye-dagilimi-nasil-ca1d315d/"
   }
  ]
 }
