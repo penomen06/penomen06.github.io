@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T05:01:05.958260+00:00",
+ "updated": "2026-11-02T05:30:59.214020+00:00",
  "items": [
   {
    "id": "12a899be",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-02T05:00:00+00:00",
+   "date": "2026-11-02T05:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-12a899be/"
+  },
+  {
+   "id": "1e3b39c8",
+   "title": "EA Play Pro'dan 9 oyun daha kaldırılıyor",
+   "summary": "Electronic Arts, EA Play Pro kütüphanesinden 10 Aralık 2026 itibarıyla dokuz oyunu kaldıracağını duyurdu. Listede FTL: Faster Than Light ve Sudden Strike 4 de yer alıyor.",
+   "link": "https://shiftdelete.net/ea-play-pro-kutuphanesinden-9-oyun-kaldiriliyor",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/489ab99c5c95adfc52c84220be97c7affffc19b6.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T05:29:33+00:00",
+   "url": "/haber/ea-play-pro-dan-9-oyun-daha-kaldiriliyor-1e3b39c8/"
+  },
+  {
+   "id": "10bb65ad",
+   "title": "Microsoft yayında sesi ve yüzü değiştirecek",
+   "summary": "Microsoft, canlı konuşmaların video ve sesini neredeyse gerçek zamanlı değiştirebilen bir yapay zekâ sistemi için patent başvurusu yaptı. Sistem dudak hareketlerini de uyduracak.",
+   "link": "https://shiftdelete.net/microsoft-canli-yayin-yapay-zeka-patent-konusma-yuz",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/95239bd811e6b47fc63de3928711aa0eb7d75aee.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T05:14:24+00:00",
+   "url": "/haber/microsoft-yayinda-sesi-ve-yuzu-degistirecek-10bb65ad/"
   },
   {
    "id": "2ff61a23",
@@ -662,17 +684,6 @@
    "url": "/haber/amazon-yapay-zeka-ugruna-42-4-milyar-dolar-nakit-kaybetti-e5ced170/"
   },
   {
-   "id": "e0d93cea",
-   "title": "Falcon 9 700 fırlatmayı geride bıraktı",
-   "summary": "SpaceX'in Falcon 9 roketi, 2010'daki ilk uçuşundan bu yana 700'den fazla fırlatma yaptı. Elon Musk, X hesabından SpaceX ekibini bu başarı için tebrik etti.",
-   "link": "https://shiftdelete.net/falcon-9-700-firlatma-spacex",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/388495017698a7213e0a77a546b1b83eecb4ac4b.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T16:05:34+00:00",
-   "url": "/haber/falcon-9-700-firlatmayi-geride-birakti-e0d93cea/"
-  },
-  {
    "id": "3f30d992",
    "title": "Samsung Galaxy Fit 4 özellikleri ortaya çıktı",
    "summary": "Samsung Galaxy Fit 4 özellikleri sızdırıldı. Yeni fitness bilekliği, daha yüksek çözünürlüklü ekranı, Bluetooth 5.4 bağlantısı ve sağlık takibi özellikleriyle Fit 3'ün izinden gidiyor.",
@@ -682,17 +693,6 @@
    "category": "teknoloji",
    "date": "2026-11-01T16:00:00+00:00",
    "url": "/haber/samsung-galaxy-fit-4-ozellikleri-ortaya-cikti-3f30d992/"
-  },
-  {
-   "id": "b771a6f0",
-   "title": "GTA 6 reklamları dünyanın dört bir yanını sardı",
-   "summary": "GTA 6 reklamları stadyumlardan şehir merkezlerindeki bina cephelerine kadar pek çok noktada görünmeye başladı. Kampanya, oyunun çıkışı öncesinde hız kazanıyor.",
-   "link": "https://shiftdelete.net/gta-6-reklamlari-dunyanin-dort-bir-yaninda",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/97a29bf4652af370984901291a0952e1233ab268.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T15:50:15+00:00",
-   "url": "/haber/gta-6-reklamlari-dunyanin-dort-bir-yanini-sardi-b771a6f0/"
   },
   {
    "id": "adb38035",
