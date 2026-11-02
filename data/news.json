@@ -1,6 +1,215 @@
 {
- "updated": "2026-11-02T13:31:07.412597+00:00",
+ "updated": "2026-11-02T14:01:12.775818+00:00",
  "items": [
+  {
+   "id": "0112b3e1",
+   "title": "Avrupa’daki bazı süpermarketler, buzdolaplarının sıcaklığını hedef alan bir siber saldırıya uğradı",
+   "summary": "Ahold Delhaize ve Colruyt, gece saatlerinde bilgisayar sistemlerinde yaşanan bir sorunun (açıkça belirtilmiyor olsa da bir siber saldırı), Belçika ve Lüksemburg’daki onlarca mağazadaki buzdolabı ve dondurucuyu…",
+   "link": "https://www.log.com.tr/avrupadaki-bazi-supermarketler-buzdolaplarinin-sicakligini-hedef-alan-bir-siber-saldiriya-ugradi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-02_16-48-59_dTR2E-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:57:11+00:00",
+   "url": "/haber/avrupa-daki-bazi-supermarketler-buzdolaplarinin-sicakligini-hedef-alan-0112b3e1/"
+  },
+  {
+   "id": "a75df5ce",
+   "title": "PlayStation 5 yazılımında GTA 6 güncelleme şartı",
+   "summary": "Sony, PlayStation 5 yazılımı için 14.22.00.00 güncellemesini yayımladı. GTA 6'nın minimum sürüm şartının 14.10.00'dan 14.22.00'a çıktığı iddia ediliyor.",
+   "link": "https://shiftdelete.net/playstation-5-yazilimi-gta-6-guncelleme-sarti",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/d9f99a2cd1b28924ba78975743e82ac1ac9a0e2c.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:53:45+00:00",
+   "url": "/haber/playstation-5-yaziliminda-gta-6-guncelleme-sarti-a75df5ce/"
+  },
+  {
+   "id": "97f133e6",
+   "title": "İran: Hürmüz Boğazı'nın doğusunda bir petrol tankeri mayına çarptı",
+   "summary": "İran Ordusu, Hürmüz Boğazı'nın doğusunda \"yasaklı bölgede\" bir petrol tankerinin deniz mayınına çarpması sonucu alev aldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinin-dogusunda-bir-petrol-tankeri-mayina-carpti/4108872",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T13:51:27+00:00",
+   "url": "/haber/iran-hurmuz-bogazi-nin-dogusunda-bir-petrol-tankeri-mayina-carpti-97f133e6/"
+  },
+  {
+   "id": "ac4ccf24",
+   "title": "Tek SMS ile Android telefonu çökerten açık",
+   "summary": "SMS of Death açığı olarak adlandırılan CVE-2026-58882, özel hazırlanmış tek bir mesajla Android telefonları çökertebiliyor. Açık Ekim 2026 güvenlik yamasıyla kapatıldı.",
+   "link": "https://shiftdelete.net/sms-of-death-acigi-android-telefonlari-cokertiyor",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/e4e7b3e22cef83276e54fa90572ef0d4ffbe2706.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:47:35+00:00",
+   "url": "/haber/tek-sms-ile-android-telefonu-cokerten-acik-ac4ccf24/"
+  },
+  {
+   "id": "5f02f87b",
+   "title": "Avrupa ülkelerinde marketlerin soğutma sistemlerinde siber saldırı alarmı",
+   "summary": "Estonya, İrlanda ve Hollanda'da marketlerin soğutma sistemlerine yönelik siber saldırılar düzenlenirken, Finlandiya'da da bazı marketlerin soğutma sistemlerinde yaşanan sorunların siber saldırıyla bağlantılı olup…",
+   "link": "https://www.aa.com.tr/tr/dunya/avrupa-ulkelerinde-marketlerin-sogutma-sistemlerinde-siber-saldiri-alarmi/4108868",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T13:47:05+00:00",
+   "url": "/haber/avrupa-ulkelerinde-marketlerin-sogutma-sistemlerinde-siber-saldiri-ala-5f02f87b/"
+  },
+  {
+   "id": "1ec3ea39",
+   "title": "Bakü'ye gökyüzünden anlamlı mesaj. Erdoğan, Azerbaycan hava sahasında Zafer Günü'nü kutladı",
+   "summary": "Güney Kore'ye giden Cumhurbaşkanı Recep Tayyip Erdoğan’ın uçağı Azerbaycan hava sahasından da geçti. Uçağın pilotu, Azerbaycan Cumhurbaşkanı İlham Aliyev'e Erdoğan'ın tebrik mesajını iletti.",
+   "link": "https://www.ntv.com.tr/turkiye/bakuye-gokyuzunden-anlamli-mesaj-erdogan-azerbaycan-hava-sahasinda-zafer-gununu-kutladi-1749066",
+   "image": "https://images.ntv.com.tr/images/AA-20261101-42937421-42937419-TURKISH_PRESIDENT_RECEP_TAYYIP_ERDOGAN-477456.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-02T13:44:13+00:00",
+   "url": "/haber/baku-ye-gokyuzunden-anlamli-mesaj-erdogan-azerbaycan-hava-sahasinda-za-1ec3ea39/"
+  },
+  {
+   "id": "b488701e",
+   "title": "Intel'in uygun fiyatlı dizüstü işlemcisi \"Moon Lake\" sızdırıldı",
+   "summary": "Intel'in uygun fiyatlı dizüstü bilgisayarlar için geliştirdiği Moon Lake işlemcisine ait ilk detaylar sızdırıldı. Yeni modelin yalnızca dört verimlilik çekirdeğiyle sunulacağı belirtiliyor.",
+   "link": "https://www.donanimhaber.com/intel-in-uygun-fiyatli-dizustu-islemcisi-moon-lake-sizdirildi--212358",
+   "image": "https://www.donanimhaber.com/images/images/haber/212358/1200x675intel-in-uygun-fiyatli-dizustu-islemcisi-moon-lake-sizdirildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:44:00+00:00",
+   "url": "/haber/intel-in-uygun-fiyatli-dizustu-islemcisi-moon-lake-sizdirildi-b488701e/"
+  },
+  {
+   "id": "e2bbdb1a",
+   "title": "Amazon'da Kasım 2026'nın ilk Flaş Fırsatları başladı: PS5 indirimde!",
+   "summary": "Amazon'da bugün başlayan Flaş Fırsatlar etkinliğinde PlayStation 5 oyun konsolu, Spigen şarj adaptörü ve Philips Hue aydınlatma ürünleri indirime girdi.",
+   "link": "https://www.donanimhaber.com/amazon-da-kasim-2026-nin-ilk-flas-firsatlari-basladi--212382",
+   "image": "https://www.donanimhaber.com/images/images/haber/212382/1200x675amazon-da-kasim-2026-nin-ilk-flas-firsatlari-basladi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:43:49+00:00",
+   "url": "/haber/amazon-da-kasim-2026-nin-ilk-flas-firsatlari-basladi-ps5-indirimde-e2bbdb1a/"
+  },
+  {
+   "id": "587e4661",
+   "title": "Türkiye'de Tutunamayan Fransız Otomobilleri",
+   "summary": "Türkiye'de beklenen satış başarısına ulaşamayan Fransız otomobillerini inceliyoruz.",
+   "link": "https://www.webtekno.com/turkiye-de-tutmayan-fransiz-otomobilleri-h228064.html",
+   "image": "https://imgrosetta.webtekno.com/file/695161/695161-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:43:10+00:00",
+   "url": "/haber/turkiye-de-tutunamayan-fransiz-otomobilleri-587e4661/"
+  },
+  {
+   "id": "5bec7c2c",
+   "title": "53 Saat Pil Ömrü Sunan Kulaklık OnePlus Buds Pro 4 Duyuruldu",
+   "summary": "OnePlus, harika özelliklerle donatılan yeni amiral gemisi kablosuz kulaklığı Buds Pro 4 modelini sessiz sedasız duyurdu.",
+   "link": "https://www.webtekno.com/oneplus-buds-pro-4-duyuruldu-h228100.html",
+   "image": "https://imgrosetta.webtekno.com/file/695266/695266-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:42:04+00:00",
+   "url": "/haber/53-saat-pil-omru-sunan-kulaklik-oneplus-buds-pro-4-duyuruldu-5bec7c2c/"
+  },
+  {
+   "id": "3f597719",
+   "title": "Apple, Seneye 3 Yeni iPad Tanıtacak",
+   "summary": "Apple’ın önümüzdeki yıl 3 yeni iPad tanıtacak. İşte o modeller ve beklenen yenilikler.",
+   "link": "https://www.webtekno.com/apple-3-yeni-ipad-tanitacak-h228130.html",
+   "image": "https://imgrosetta.webtekno.com/file/695314/695314-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:41:50+00:00",
+   "url": "/haber/apple-seneye-3-yeni-ipad-tanitacak-3f597719/"
+  },
+  {
+   "id": "0e3d19d1",
+   "title": "Yapay Zekâ Destekli Robotlar \"Hiçbir Şey Yapmadan\" Duramıyor: Komut Almasalar Bile Harekete Geçiyorlar!",
+   "summary": "Yapay zekâ destekli robotlar, hiçbir talimat almasalar dahi kendi kendilerine hareket ederek kritik bir güvenlik açığını gözler önüne serdi.",
+   "link": "https://www.webtekno.com/yapay-zeka-destekli-robotlar-hicbir-sey-yapmadan-duramiyor-h228151.html",
+   "image": "https://imgrosetta.webtekno.com/file/695374/695374-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:41:34+00:00",
+   "url": "/haber/yapay-zeka-destekli-robotlar-hicbir-sey-yapmadan-duramiyor-komut-almas-0e3d19d1/"
+  },
+  {
+   "id": "92c240d4",
+   "title": "Kasım 2026 Nissan Fiyat Listesi",
+   "summary": "Nissan Qashqai, Qashqai Yeni e-POWER, Juke, X-Trail Mild Hybrid modellerinin Kasım 2026 fiyatları Webtekno’da!",
+   "link": "https://www.webtekno.com/kasim-2026-nissan-fiyat-listesi-h228154.html",
+   "image": "https://imgrosetta.webtekno.com/file/695377/695377-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:40:41+00:00",
+   "url": "/haber/kasim-2026-nissan-fiyat-listesi-92c240d4/"
+  },
+  {
+   "id": "295634c7",
+   "title": "Toyota Kasım 2026 Fiyat Listesi",
+   "summary": "Toyota Kasım ayına ait güncel fiyat listesini açıkladı. Güncel listeye göre fiyat listesini inceliyoruz.",
+   "link": "https://www.webtekno.com/toyota-kasim-2026-fiyat-listesi-h228149.html",
+   "image": "https://imgrosetta.webtekno.com/file/695375/695375-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:40:29+00:00",
+   "url": "/haber/toyota-kasim-2026-fiyat-listesi-295634c7/"
+  },
+  {
+   "id": "03e7a8f6",
+   "title": "\"Afife\" oyunu, İstanbul ve Ankara'da yeniden tiyatroseverlerle buluşacak",
+   "summary": "Afife Tiyatro ve Zorlu PSM ortak yapımı, Afife Jale'nin ilham verici hayat hikayesini çağdaş bir yorumla sahneye taşıyan \"Afife\", Zorlu PSM'nin yanı sıra Türkiye turnesi kapsamında Ankara temsillerinde tiyatroseverlerle…",
+   "link": "https://www.aa.com.tr/tr/kultur/afife-oyunu-istanbul-ve-ankarada-yeniden-tiyatroseverlerle-bulusacak/4108861",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T13:39:18+00:00",
+   "url": "/haber/afife-oyunu-istanbul-ve-ankara-da-yeniden-tiyatroseverlerle-bulusacak-03e7a8f6/"
+  },
+  {
+   "id": "114ba5bd",
+   "title": "Steam anketi: 16 GB RAM yeniden zirvede",
+   "summary": "Valve'ın Ekim 2026 Steam donanım anketi yayımlandı. 16 GB RAM yeniden birinci oldu, Intel işlemci payını artırdı, Linux ise yüzde 3,95'e çıktı.",
+   "link": "https://shiftdelete.net/steam-donanim-anketi-ekim-2026-16-gb-ram",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/12d71953b0716114b9de3084bf92f33a6f681a85.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:38:38+00:00",
+   "url": "/haber/steam-anketi-16-gb-ram-yeniden-zirvede-114ba5bd/"
+  },
+  {
+   "id": "3fcae694",
+   "title": "İsrail'le yakınlaşma Sırbistan seçimlerini etkiledi mi?",
+   "summary": "Sırbistan'ın İsrail'e silah ihracatı iki yılda 1,4 milyon avrodan 132 milyon dolara çıkarken kamuoyunun büyük çoğunluğunun İsrail'e karşı Filistin'i desteklemesi, Vucic'in İsrail politikasını seçim tartışmalarının bir…",
+   "link": "https://www.aa.com.tr/tr/analiz/israille-yakinlasma-sirbistan-secimlerini-etkiledi-mi/4108858",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T13:37:34+00:00",
+   "url": "/haber/israil-le-yakinlasma-sirbistan-secimlerini-etkiledi-mi-3fcae694/"
+  },
+  {
+   "id": "d90924f7",
+   "title": "Türkiye'de Trafiğe En Çok Kayıtlı Araba Markaları",
+   "summary": "TÜİK, Eylül 2026'da Türkiye'de trafiğe kayıtlı otomobil markalarını açıkladı. Listenin başında Renault yer alırken TOGG, Hyundai ve Volkswagen de büyük bir paya sahip.",
+   "link": "https://www.webtekno.com/trafikte-en-cok-kaydi-bulunan-araclar-h228067.html",
+   "image": "https://imgrosetta.webtekno.com/file/695162/695162-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T13:36:36+00:00",
+   "url": "/haber/turkiye-de-trafige-en-cok-kayitli-araba-markalari-d90924f7/"
+  },
+  {
+   "id": "590c0c3c",
+   "title": "TÜSİAD, COP31'de Türk iş dünyasının iklim gündemine katkısını güçlendirmek için çalışmalarını sürdürüyor",
+   "summary": "TÜSİAD'ın COP31 kapsamında ulusal ve uluslararası paydaşlarla yürüttüğü çalışmalarda sanayinin karbonsuzlaşması, temiz enerji dönüşümü, finansman ve temiz teknoloji başlıkları öne çıkıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/tusiad-cop31de-turk-is-dunyasinin-iklim-gundemine-katkisini-guclendirmek-icin-calismalarini-surduruyor/4108847",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T13:32:30+00:00",
+   "url": "/haber/tusiad-cop31-de-turk-is-dunyasinin-iklim-gundemine-katkisini-guclendir-590c0c3c/"
+  },
   {
    "id": "345793e5",
    "title": "2027 Avrupa'da Yılın Otomobili Finalistleri: Tüm Adaylar ve Türkiye Durumu",
@@ -11,6 +220,17 @@
    "category": "teknoloji",
    "date": "2026-11-02T13:31:00+00:00",
    "url": "/haber/2027-avrupa-da-yilin-otomobili-finalistleri-tum-adaylar-ve-turkiye-dur-345793e5/"
+  },
+  {
+   "id": "32f58b7c",
+   "title": "İsrail, Gazze'de Ekim 2025'te yürürlüğe giren ateşkesi yaklaşık 6 bin kez ihlal etti",
+   "summary": "İsrail ordusu, Gazze Şeridi'nde ateşkesin yürürlüğe girdiği Ekim 2025'ten bu yana yaklaşık 6 bin ihlal gerçekleştirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti/4108843",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T13:25:51+00:00",
+   "url": "/haber/israil-gazze-de-ekim-2025-te-yururluge-giren-ateskesi-yaklasik-6-bin-k-32f58b7c/"
   },
   {
    "id": "126dd1c0",
@@ -110,6 +330,17 @@
    "category": "gundem",
    "date": "2026-11-02T13:13:20+00:00",
    "url": "/haber/yarin-geceye-dikkat-istanbul-da-tam-8-saat-surecek-elektrik-kesintisi-75485244/"
+  },
+  {
+   "id": "1cde489e",
+   "title": "Türk Üniversiteleri Çin Eğitim Fuarı'na katıldı",
+   "summary": "Türk üniversiteleri, Türkiye Ulusal Ajansı organizasyonuyla Çin'in başkenti Pekin'de düzenlenen Çin Eğitim Fuarı'na (CEE) katıldı.",
+   "link": "https://www.trthaber.com/haber/gundem/turk-universiteleri-cin-egitim-fuarina-katildi-961973.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/study-in-turkiye-2500541.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-02T13:11:00+00:00",
+   "url": "/haber/turk-universiteleri-cin-egitim-fuari-na-katildi-1cde489e/"
   },
   {
    "id": "2b28e583",
@@ -431,17 +662,6 @@
    "url": "/haber/fon-sorusturmasi-37-kisinin-iade-ettigi-tutar-18-milyar-lirayi-gecti-052e8fc8/"
   },
   {
-   "id": "d90924f7",
-   "title": "Türkiye'de Trafiğe En Çok Kayıtlı Araba Markaları",
-   "summary": "TÜİK, Eylül 2026'da Türkiye'de trafiğe kayıtlı otomobil markalarını açıkladı. Listenin başında Renault yer alırken TOGG, Hyundai ve Volkswagen de büyük bir paya sahip.",
-   "link": "https://www.webtekno.com/trafikte-en-cok-kaydi-bulunan-araclar-h228067.html",
-   "image": "https://imgrosetta.webtekno.com/file/695162/695162-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-02T12:09:02+00:00",
-   "url": "/haber/turkiye-de-trafige-en-cok-kayitli-araba-markalari-d90924f7/"
-  },
-  {
    "id": "6f5187f1",
    "title": "AB: İngiltere'nin olası yeniden üyeliğine ilişkin müzakereler kolay olmayacak",
    "summary": "AB Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kallas, \"AB'de Brexit sürecinden dolayı ciddi hayal kırıklığı yaşayan ve süreçten olumsuz etkilenen çok sayıda insanın bulunduğunu belirtmeliyim. Bu nedenle…",
@@ -462,17 +682,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T12:05:55+00:00",
    "url": "/haber/2-kasim-2026-guncel-akaryakit-fiyatlari-benzin-mazot-lpg-60d30e59/"
-  },
-  {
-   "id": "d8cce752",
-   "title": "İran, savaşı sona erdirmek için 7 şartta ısrar ediyor",
-   "summary": "ABD ve İsrail’in İran’a karşı yürüttüğü savaşı sona erdirmeye yönelik diplomatik çabalar hız kazanırken, Tahran yönetimi barış görüşmelerinin başlayabilmesi için öne sürdüğü 7 şartın yerine getirilmesinde ısrar ediyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-savasi-sona-erdirmek-icin-7-sartta-israr-ediyor/4108759",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T12:02:56+00:00",
-   "url": "/haber/iran-savasi-sona-erdirmek-icin-7-sartta-israr-ediyor-d8cce752/"
   },
   {
    "id": "b7c53bfa",
@@ -508,17 +717,6 @@
    "url": "/haber/pluribus-un-2-sezonu-icin-beklenen-haber-geldi-apple-in-sevilen-dizisi-8b8e1288/"
   },
   {
-   "id": "e24f1ccb",
-   "title": "DMM, Türkiye'nin orman varlığını korumadığı ve ormansızlaşmayı artırdığı iddialarını yalanladı",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Türkiye'nin orman varlığını korumadığı ve ormansızlaşmayı artırdığı\" yönündeki iddiaların gerçeği yansıtmadığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/dmm-turkiyenin-orman-varligini-korumadigi-ve-ormansizlasmayi-artirdigi-iddialarini-yalanladi/4108743",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T11:47:42+00:00",
-   "url": "/haber/dmm-turkiye-nin-orman-varligini-korumadigi-ve-ormansizlasmayi-artirdig-e24f1ccb/"
-  },
-  {
    "id": "870672bd",
    "title": "Samsung, iPhone Duo reklam kamyonlarıyla gülüyor",
    "summary": "Samsung iPhone Duo reklamı ile Apple'ın katlanabilir telefonundaki ekran çatlağı sorununu Kanada sokaklarında hedef aldı. Dev panolu kamyonlar Galaxy Z Fold 8'i öne çıkarıyor.",
@@ -552,39 +750,6 @@
    "url": "/haber/ukrayna-nin-baskenti-kiev-de-sahte-radyasyon-alarmi-uyarisiyla-korku-fd730dee/"
   },
   {
-   "id": "1c8dd18f",
-   "title": "Rusya: İran'a yönelik yeni askeri saldırı hazırlıkları ciddi endişe yaratıyor",
-   "summary": "Rusya Dışişleri Bakanlığı Sözcüsü Mariya Zaharova, İran'a yönelik yeni askeri saldırılar planlandığına ilişkin haberlerin ciddi endişe yarattığını belirterek, bölgedeki durumun diplomatik yollarla normalleştirilmesi…",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-irana-yonelik-yeni-askeri-saldiri-hazirliklari-ciddi-endise-yaratiyor/4108730",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T11:42:05+00:00",
-   "url": "/haber/rusya-iran-a-yonelik-yeni-askeri-saldiri-hazirliklari-ciddi-endise-yar-1c8dd18f/"
-  },
-  {
-   "id": "ec825d95",
-   "title": "Lübnan'da İsrail saldırılarında hasar gören yetimhanedeki kız çocukları, geceleri patlama sesleriyle uyanıyor",
-   "summary": "Lübnan'ın güneyinde İsrail saldırılarında ağır hasar gören Tebnin Yetimhanesi'nde kalan ve geceleri patlama sesleriyle korkuyla uyanan kız çocukları, \"savaşın bitmesi\" dileğiyle hayata tutunmaya çalışıyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/lubnanda-israil-saldirilarinda-hasar-goren-yetimhanedeki-kiz-cocuklari-geceleri-patlama-sesleriyle-uyaniyor/4108720",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T11:35:32+00:00",
-   "url": "/haber/lubnan-da-israil-saldirilarinda-hasar-goren-yetimhanedeki-kiz-cocuklar-ec825d95/"
-  },
-  {
-   "id": "baf87069",
-   "title": "Bodrum'da sağanak nedeniyle ev ve iş yerlerini su bastı, bir otomobil denize sürüklendi",
-   "summary": "Muğla'nın Bodrum ilçesinde etkili olan sağanak sonrası çok sayıda ev ve iş yerini su bastı, bir otomobil denize sürüklendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bodrumda-saganak-nedeniyle-ev-ve-is-yerlerini-su-basti-bir-otomobil-denize-suruklendi/4108721",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T11:35:32+00:00",
-   "url": "/haber/bodrum-da-saganak-nedeniyle-ev-ve-is-yerlerini-su-basti-bir-otomobil-d-baf87069/"
-  },
-  {
    "id": "95b6ba18",
    "title": "Dijital abonelik fiyatları 2026: Tüm platformlar",
    "summary": "Dijital abonelik fiyatları 2026'da ne kadar? YouTube Premium, Spotify, Netflix, Disney+, Amazon Prime, PS Plus, Xbox Game Pass, Apple Music, iCloud+ ve Google One'ın güncel Türkiye fiyatlarını tek tabloda topladık.",
@@ -607,28 +772,6 @@
    "url": "/haber/heic-dosyasi-nasil-acilir-windows-mac-android-3986f27e/"
   },
   {
-   "id": "a36d8acd",
-   "title": "Yapay zeka ile yazıldığı nasıl anlaşılır?",
-   "summary": "Bir metnin yapay zeka ile yazıldığı nasıl anlaşılır? Metindeki ipuçlarını, GPTZero, Originality.ai ve Turnitin gibi tespit araçlarını, bu araçların sınırlarını ve yanlış pozitif riskini derledik.",
-   "link": "https://shiftdelete.net/yapay-zeka-ile-yazildigi-nasil-anlasilir",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/yapay-zeka-ile-yazildigi-nasil-anlasilir-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T11:33:38+00:00",
-   "url": "/haber/yapay-zeka-ile-yazildigi-nasil-anlasilir-a36d8acd/"
-  },
-  {
-   "id": "ede6ebfb",
-   "title": "Araç muayene ücreti 2026: Gecikme ve randevu",
-   "summary": "Araç muayene ücreti 2026'da otomobil ve kamyonet için 3.288 TL, motosiklet için 1.674 TL. TÜVTÜRK tarifesini, egzoz emisyon ücretini, gecikme bedelinin nasıl hesaplandığını ve randevu adımlarını derledik.",
-   "link": "https://shiftdelete.net/arac-muayene-ucreti",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/arac-muayene-ucreti-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T11:33:29+00:00",
-   "url": "/haber/arac-muayene-ucreti-2026-gecikme-ve-randevu-ede6ebfb/"
-  },
-  {
    "id": "a1e6591e",
    "title": "AnTuTu açıkladı: En güçlü Android telefonlar (Ekim 2026)",
    "summary": "AnTuTu, Ekim 2026'nın en güçlü Android telefonlarını açıkladı. Amiral gemisi kategorisinde HONOR WIN2 zirveye yerleşirken, alt amiral gemisi listesinde HONOR 600 Pro ilk sırada.",
@@ -638,17 +781,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T11:33:00+00:00",
    "url": "/haber/antutu-acikladi-en-guclu-android-telefonlar-ekim-2026-a1e6591e/"
-  },
-  {
-   "id": "e60f772f",
-   "title": "Xiaomi 18 Pro küresel lansman tarihi belli oldu",
-   "summary": "Xiaomi, Xiaomi 18 Pro serisinin Kasım ayında dünya genelinde satışa çıkacağını duyurdu. Avrupa listelemeleri küresel sürümlerde bataryanın küçülebileceğini gösteriyor.",
-   "link": "https://shiftdelete.net/xiaomi-18-pro-kuresel-lansman-tarihi",
-   "image": "https://ares.shiftdelete.net/2026/09/xiaomi-18-pro-maxin-teknik-ozellikleri-belli-oldu.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T11:32:55+00:00",
-   "url": "/haber/xiaomi-18-pro-kuresel-lansman-tarihi-belli-oldu-e60f772f/"
   },
   {
    "id": "d8ee5e8f",
@@ -671,17 +803,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T11:18:36+00:00",
    "url": "/haber/togg-kasim-2026-fiyat-listesi-4b29108d/"
-  },
-  {
-   "id": "0f29098d",
-   "title": "COP31 alanına basın gezisi düzenlendi",
-   "summary": "Antalya Valisi Şahin, Çevre, Şehircilik ve İklim Değişikliği Bakan Yardımcısı Demiralp, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) alanında düzenlenen basın gezisi öncesi…",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31-alanina-basin-gezisi-duzenlendi-/4108694",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T11:16:57+00:00",
-   "url": "/haber/cop31-alanina-basin-gezisi-duzenlendi-0f29098d/"
   },
   {
    "id": "fa50a92f",
@@ -816,39 +937,6 @@
    "url": "/haber/samsung-ekrani-catlayan-iphone-duo-ile-dalga-gecti-iste-o-reklamlar-adea02f9/"
   },
   {
-   "id": "da76d8bb",
-   "title": "vivo Y32 5G Duyuruldu",
-   "summary": "vivo, devasa bataryaya sahip yeni bütçe dostu telefonu Y32 5G’yi duyurdu.",
-   "link": "https://www.webtekno.com/vivo-y32-5g-duyuruldu-h228127.html",
-   "image": "https://imgrosetta.webtekno.com/file/695306/695306-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-02T10:11:19+00:00",
-   "url": "/haber/vivo-y32-5g-duyuruldu-da76d8bb/"
-  },
-  {
-   "id": "fa420b39",
-   "title": "Yeni Volkswagen Caddy Türkiye'de: İşte Fiyatı",
-   "summary": "Volkswagen, makyajlanan yeni Caddy modelini Türkiye'ye getirdi. İşte fiyatı.",
-   "link": "https://www.webtekno.com/yeni-volkswagen-caddy-turkiye-fiyati-h228115.html",
-   "image": "https://imgrosetta.webtekno.com/file/695294/695294-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-02T10:10:54+00:00",
-   "url": "/haber/yeni-volkswagen-caddy-turkiye-de-iste-fiyati-fa420b39/"
-  },
-  {
-   "id": "f6dfc618",
-   "title": "Android Auto'ya \"İş Modu\" Geliyor (Mesainiz Yakında Araç İçine Taşınabilir)",
-   "summary": "Android Auto için test edilen yeni İş Modu, kurumsal toplantı ve bildirim kontrollerini doğrudan araç gösterge paneline taşımaya hazırlanıyor.",
-   "link": "https://www.webtekno.com/android-auto-is-modu-geliyor-h228112.html",
-   "image": "https://imgrosetta.webtekno.com/file/695239/695239-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-02T10:10:31+00:00",
-   "url": "/haber/android-auto-ya-is-modu-geliyor-mesainiz-yakinda-arac-icine-tasinabili-f6dfc618/"
-  },
-  {
    "id": "0e825ada",
    "title": "Otomotiv satış sonrası pazarında nakit sıkışıklığı büyüyor",
    "summary": "Otomotiv satış sonrası sektöründe tahsilat güçlükleri ve zayıf talep, şirketleri zorluyor. Nakit akışı en önemli sorun haline gelirken yatırım planları da geriliyor.",
@@ -858,28 +946,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T10:07:00+00:00",
    "url": "/haber/otomotiv-satis-sonrasi-pazarinda-nakit-sikisikligi-buyuyor-0e825ada/"
-  },
-  {
-   "id": "73996816",
-   "title": "Fiat Egea Bilinmeyen Özellikler",
-   "summary": "Fiat Egea'nın bu zamana kadar çok bilinmeyen gizli özelliklerini Webtekno'da açıklıyoruz.",
-   "link": "https://www.webtekno.com/fiat-egea-gizli-ozellikler-h228070.html",
-   "image": "https://imgrosetta.webtekno.com/file/695185/695185-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-02T10:05:04+00:00",
-   "url": "/haber/fiat-egea-bilinmeyen-ozellikler-73996816/"
-  },
-  {
-   "id": "19237652",
-   "title": "Farklı Kategorilerden Kitap Tavsiyeleri",
-   "summary": "Bu hafta Amazon'da öne çıkan ve okurların ilgisini çeken kitapları farklı kategoriler altında bir araya getirdik.",
-   "link": "https://www.webtekno.com/polisiyeden-bilim-kurguya-farkli-kategorilerden-kitap-tavsiyeleri-h228061.html",
-   "image": "https://imgrosetta.webtekno.com/file/695143/695143-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-02T09:52:55+00:00",
-   "url": "/haber/farkli-kategorilerden-kitap-tavsiyeleri-19237652/"
   },
   {
    "id": "1bb6881a",
@@ -926,17 +992,6 @@
    "url": "/haber/binance-saldirisinda-calinan-242-milyon-dolar-aklandi-77a39d4a/"
   },
   {
-   "id": "22627f5c",
-   "title": "ChatGPT'nin ilaç tavsiyesi bir kadının hayatına mal oldu: Aile OpenAI'a dava açtı",
-   "summary": "OpenAI, ChatGPT'nin verdiği yanlış tavsiyeler yüzünden bir kez daha topun ağzında. ChatGPT'nin epilepsi ilacını bırakmaya yönlendirdiği kadın, geçirdiği nöbet sonucu hayatını kaybetti.",
-   "link": "https://www.donanimhaber.com/chatgpt-nin-ilac-tavsiyesi-bir-kadinin-hayatina-mal-oldu--212348",
-   "image": "https://www.donanimhaber.com/images/images/haber/212348/1200x675chatgpt-nin-ilac-tavsiyesi-bir-kadinin-hayatina-mal-oldu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-02T09:03:00+00:00",
-   "url": "/haber/chatgpt-nin-ilac-tavsiyesi-bir-kadinin-hayatina-mal-oldu-aile-openai-a-22627f5c/"
-  },
-  {
    "id": "45bb4dc1",
    "title": "Kamu hizmetinden memnuniyet CİMER başvurularına yansıdı",
    "summary": "Kayıp danayı dron ile arayarak bulan güvenlik güçlerine teşekkürden evladını devlet yurduna yerleştiren annenin mutluluğuna kadar vatandaşların kamu hizmetlerine duydukları memnuniyet, CİMER başvurularına yansıdı.",
@@ -946,28 +1001,6 @@
    "category": "gundem",
    "date": "2026-11-02T08:57:00+00:00",
    "url": "/haber/kamu-hizmetinden-memnuniyet-cimer-basvurularina-yansidi-45bb4dc1/"
-  },
-  {
-   "id": "633d3cb2",
-   "title": "Makyajlı Volkswagen Caddy Türkiye'de: İşte fiyatı ve özellikleri",
-   "summary": "Volkswagen Caddy, yenilenen tasarımı ve daha büyük ekranlarıyla Türkiye’de satışa çıktı. Dizel motor ve DSG şanzımanla sunulan modelin fiyatı 1 milyon 765 bin TL’den başlıyor.",
-   "link": "https://www.donanimhaber.com/yeni-volkswagen-caddy-turkiye-de-iste-fiyati-ve-ozellikleri--212353",
-   "image": "https://www.donanimhaber.com/images/images/haber/212353/1200x675yeni-volkswagen-caddy-turkiye-de-iste-fiyati-ve-ozellikleri.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-02T08:42:00+00:00",
-   "url": "/haber/makyajli-volkswagen-caddy-turkiye-de-iste-fiyati-ve-ozellikleri-633d3cb2/"
-  },
-  {
-   "id": "a8201657",
-   "title": "Ticaret Bakanlığından Sahte İndirim Kampanyası Yapan Alışveriş Platformuna Dev Ceza!",
-   "summary": "Ticaret Bakanlığı, bir e-ticaret platformunun sahte kampanya yaptığını tespit etti ve ceza kesti.",
-   "link": "https://www.webtekno.com/ticaret-bakanligi-sahte-indirim-kampanyasi-ceza-h228109.html",
-   "image": "https://imgrosetta.webtekno.com/file/695293/695293-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-02T08:41:39+00:00",
-   "url": "/haber/ticaret-bakanligindan-sahte-indirim-kampanyasi-yapan-alisveris-platfor-a8201657/"
   },
   {
    "id": "688d86fe",
@@ -1014,17 +1047,6 @@
    "url": "/haber/yine-soylendi-gizlilik-ekrani-galaxy-s27-ultra-ya-ozel-olmayacak-0b5b03a4/"
   },
   {
-   "id": "f555ac06",
-   "title": "Tabut başındaki vedası gündem olmuştu: \"O ailemizin ikinci çocuğuydu\"",
-   "summary": "Sivas’ta kalp yetmezliği nedeniyle hayatını kaybeden 27 yaşındaki Ahmet Esat Angi’nin çocukluk arkadaşı Kadir Karabulut, mezarını ziyaret ederek duygusal bir veda etti.",
-   "link": "https://www.ntv.com.tr/turkiye/video-tabut-basindaki-vedasi-gundem-olmustu-o-ailemizin-ikinci-cocuguydu-1749013",
-   "image": "https://images.ntv.com.tr/images/image-875933.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-02T08:18:27+00:00",
-   "url": "/haber/tabut-basindaki-vedasi-gundem-olmustu-o-ailemizin-ikinci-cocuguydu-f555ac06/"
-  },
-  {
    "id": "2139de9a",
    "title": "Opera GX, Browser Booster güncellemesiyle ses odaklı iki faydalı yenilik kazandı",
    "summary": "Opera’nın oyun odaklı tarayıcısı Opera GX, Browser Booster güncellemesiyle ses yükseltici ve ses ekolayzırını bir arada sunan ilk tarayıcı oldu. Bu konuda şirketten yapılan resmi açıklamada, “Opera GX, ses seviyesini…",
@@ -1056,17 +1078,6 @@
    "category": "gundem",
    "date": "2026-11-02T07:28:00+00:00",
    "url": "/haber/abd-de-yarin-duzenlenecek-kongre-ara-secimlerindeki-anketlerde-tablo-n-32653a1c/"
-  },
-  {
-   "id": "d762dbdf",
-   "title": "Makyajlı Volkswagen Caddy, Türkiye’de satışa sunuldu",
-   "summary": "Makyajlı Volkswagen Caddy’nin Panel Van versiyonu “Cargo” 1.765.000 TL’den, “Kombi” versiyonları ise 2.100.000 TL’den satışa sunuldu. Araç hakkında şirketten yapılan resmi açıklamada, “Yeni Caddy’nin dış tasarımında…",
-   "link": "https://www.log.com.tr/makyajli-volkswagen-caddy-turkiyede-satisa-sunuldu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-02_10-12-47_E31Wg-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-02T07:19:38+00:00",
-   "url": "/haber/makyajli-volkswagen-caddy-turkiye-de-satisa-sunuldu-d762dbdf/"
   },
   {
    "id": "a28e7976",
@@ -1188,17 +1199,6 @@
    "category": "gundem",
    "date": "2026-11-01T07:12:00+00:00",
    "url": "/haber/sosyal-medyada-cocuklar-icin-yeni-donem-b8777cd3/"
-  },
-  {
-   "id": "de6f05db",
-   "title": "Ukrayna Devlet Başkanı Zelenskiy İstanbul'da",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Cumhurbaşkanı Recep Tayyip Erdoğan'ın davetine icabetle Türkiye'ye çalışma ziyareti gerçekleştiriyor.",
-   "link": "https://www.trthaber.com/haber/gundem/ukrayna-devlet-baskani-zelenskiy-istanbulda-961828.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/erdogan-zelenskiy-2500068.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-31T13:00:00+00:00",
-   "url": "/haber/ukrayna-devlet-baskani-zelenskiy-istanbul-da-de6f05db/"
   },
   {
    "id": "c97fcb7c",
