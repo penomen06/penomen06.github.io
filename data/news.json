@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:01:12.612960+00:00",
+ "updated": "2026-11-02T01:31:00.050346+00:00",
  "items": [
   {
    "id": "12a899be",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-02T01:00:00+00:00",
+   "date": "2026-11-02T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-12a899be/"
+  },
+  {
+   "id": "cd53ac86",
+   "title": "Fenerbahçe tribün liderine saldırı hazırlığı. Daltonlar çetesi üyesi 5 şüpheli yakalandı",
+   "summary": "İstanbul'da \"Daltonlar\" suç örgütüne yönelik yürütülen soruşturmada, Fenerbahçe tribün lideri Cem Gölbaşı'na yönelik saldırı hazırlığında oldukları öne sürülen 5 şüpheli hücre evinde yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/fenerbahce-tribun-liderine-saldiri-hazirligi-daltonlar-cetesi-uyesi-5-supheli-yakalandi-1748960",
+   "image": "https://images.ntv.com.tr/images/FENERBAHCE-TRIBUN-LIDERINE-SALDIRI-HAZIR_1585899_471556-851290(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-02T01:25:41+00:00",
+   "url": "/haber/fenerbahce-tribun-liderine-saldiri-hazirligi-daltonlar-cetesi-uyesi-5-cd53ac86/"
   },
   {
    "id": "f87162e4",
@@ -101,15 +112,15 @@
    "url": "/haber/tarkan-dan-cop31-icin-anlamli-sarki-b1747582/"
   },
   {
-   "id": "b86f111e",
-   "title": "Yemen'deki Husilerin Taiz'e düzenlediği saldırıda 2 kişi öldü",
-   "summary": "Yemen'de İran destekli Husilerin, ülkenin güneyindeki Taiz'de bir eve düzenlediği saldırıda 2 kişi hayatını kaybetti.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husilerin-taize-duzenledigi-saldirida-2-kisi-oldu/4108237",
+   "id": "8034a2e6",
+   "title": "Yemen ordusu: Son 24 saatte düzenlenen 1272 operasyonda yaklaşık 500 Husi etkisiz hale getirildi",
+   "summary": "Yemen ordusu, son 24 saatte Husilerin mevzi, toplanma alanları ve takviye birliklerine yönelik 1272 operasyon düzenlendiğini, operasyonlarda yaklaşık 500 Husinin etkisiz hale getirildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemen-ordusu-son-24-saatte-duzenlenen-1272-operasyonda-yaklasik-500-husi-etkisiz-hale-getirildi/4108237",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-01T21:27:21+00:00",
-   "url": "/haber/yemen-deki-husilerin-taiz-e-duzenledigi-saldirida-2-kisi-oldu-b86f111e/"
+   "url": "/haber/yemen-ordusu-son-24-saatte-duzenlenen-1272-operasyonda-yaklasik-500-hu-8034a2e6/"
   },
   {
    "id": "63f399b7",
@@ -209,17 +220,6 @@
    "category": "gundem",
    "date": "2026-11-01T20:21:33+00:00",
    "url": "/haber/cop31-kapsaminda-antalya-da-bazi-guzergahlarda-trafik-duzenlemesi-yapi-54bd8269/"
-  },
-  {
-   "id": "cd53ac86",
-   "title": "Fenerbahçe tribün liderine saldırı hazırlığı. Daltonlar çetesi üyesi 5 şüpheli yakalandı",
-   "summary": "İstanbul'da \"Daltonlar\" suç örgütüne yönelik yürütülen soruşturma kapsamında, Fenerbahçe tribün lideri Cem Gölbaşı'na yönelik saldırı hazırlığında oldukları öne sürülen 5 şüpheli yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/fenerbahce-tribun-liderine-saldiri-hazirligi-daltonlar-cetesi-uyesi-5-supheli-yakalandi-1748960",
-   "image": "https://images.ntv.com.tr/images/FENERBAHCE-TRIBUN-LIDERINE-SALDIRI-HAZIR_1585899_471556-851290(3).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-01T20:20:38+00:00",
-   "url": "/haber/fenerbahce-tribun-liderine-saldiri-hazirligi-daltonlar-cetesi-uyesi-5-cd53ac86/"
   },
   {
    "id": "277d3655",
