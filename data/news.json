@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T00:30:57.024753+00:00",
+ "updated": "2026-11-02T01:01:12.612960+00:00",
  "items": [
   {
    "id": "12a899be",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-02T00:30:00+00:00",
+   "date": "2026-11-02T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-12a899be/"
+  },
+  {
+   "id": "f87162e4",
+   "title": "Florida'da özel uçak yerleşim bölgesine düştü: 9 kişi hayatını kaybetti",
+   "summary": "ABD’nin Florida eyaletinde, Teksas’tan Bahamalar’a giden özel uçağın yerleşim bölgesine düşmesi sonucu uçaktaki dokuz kişinin tamamı hayatını kaybetti",
+   "link": "https://www.bbc.com/turkce/articles/crz65v4wxxljo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/53fd/live/f2d80390-d640-11f1-b441-2b33b063138f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-02T00:43:14+00:00",
+   "url": "/haber/florida-da-ozel-ucak-yerlesim-bolgesine-dustu-9-kisi-hayatini-kaybetti-f87162e4/"
+  },
+  {
+   "id": "eab70bf0",
+   "title": "Yemen'den Husilerin alıkoyduğu BM çalışanının ölümüne ilişkin bağımsız soruşturma talebi",
+   "summary": "Yemen Dışişleri Bakanı Efrah ez-Zube, Husilerin 6 Haziran 2024 yılından bu yana alıkoyduğu BM çalışanının ölümüne ilişkin uluslararası ve bağımsız bir soruşturma yürütülmesi ile diğer tutukluların serbest bırakılması…",
+   "link": "https://www.aa.com.tr/tr/dunya/yemenden-husilerin-alikoydugu-bm-calisaninin-olumune-iliskin-bagimsiz-sorusturma-talebi/4108251",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T00:40:36+00:00",
+   "url": "/haber/yemen-den-husilerin-alikoydugu-bm-calisaninin-olumune-iliskin-bagimsiz-eab70bf0/"
   },
   {
    "id": "c8e15a11",
@@ -44,17 +66,6 @@
    "category": "gundem",
    "date": "2026-11-01T23:12:44+00:00",
    "url": "/haber/kimi-antonelli-2026-formula-1-dunya-sampiyonu-oldu-c3f1e4e2/"
-  },
-  {
-   "id": "f87162e4",
-   "title": "Florida'da özel uçak yerleşim bölgesine düştü: 9 kişi hayatını kaybetti",
-   "summary": "ABD’nin Florida eyaletinde, Teksas’tan Bahamalar’a giden özel uçağın yerleşim bölgesine düşmesi sonucu uçaktaki dokuz kişinin tamamı hayatını kaybetti",
-   "link": "https://www.bbc.com/turkce/articles/crz65v4wxxljo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/53fd/live/f2d80390-d640-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-01T22:18:53+00:00",
-   "url": "/haber/florida-da-ozel-ucak-yerlesim-bolgesine-dustu-9-kisi-hayatini-kaybetti-f87162e4/"
   },
   {
    "id": "1d06fed2",
@@ -429,17 +440,6 @@
    "category": "gundem",
    "date": "2026-11-01T17:41:15+00:00",
    "url": "/haber/sans-topu-sonuclari-sorgulama-ekrani-26-agustos-mpi-sans-topu-sonuclar-38e1b707/"
-  },
-  {
-   "id": "8fae41d8",
-   "title": "Kanada Başbakanı Carney, ABD Başkanı Trump ile ikili ticaret meselesini görüştü",
-   "summary": "Kanada Başbakanı Mark Carney ile ABD Başkanı Donald Trump, uzun zamandır anlaşmazlıkların sürdüğü ikili ticaret meselesini telefonda görüştü.",
-   "link": "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-abd-baskani-trump-ile-ikili-ticaret-meselesini-gorustu/4108169",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T17:33:26+00:00",
-   "url": "/haber/kanada-basbakani-carney-abd-baskani-trump-ile-ikili-ticaret-meselesini-8fae41d8/"
   },
   {
    "id": "7c33d0eb",
