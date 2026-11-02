@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T18:31:00.542923+00:00",
+ "updated": "2026-11-02T19:01:13.808288+00:00",
  "items": [
+  {
+   "id": "dac9324b",
+   "title": "Raspberry Pi 5 16GB'ın fiyatı 385 dolara çıktı",
+   "summary": "Raspberry Pi 5 16GB, 80 dolarlık yeni zamla 385 dolara yükseldi. Cihaz, 120 dolarlık lansman fiyatının üç katından fazlasına satılıyor.",
+   "link": "https://shiftdelete.net/raspberry-pi-5-16gb-fiyat-zammi-385-dolar",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/0ebded2ea6f716b68218479916974be9d2a17b5f.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T18:47:12+00:00",
+   "url": "/haber/raspberry-pi-5-16gb-in-fiyati-385-dolara-cikti-dac9324b/"
+  },
+  {
+   "id": "7be5692f",
+   "title": "Bir askerimiz şehit oldu",
+   "summary": "Milli Savunma Bakanlığı, Van'da görevi sırasında rahatsızlanan Piyade Uzman Çavuş Oğuz Şahin'in şehit olduğunu açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/bir-askerimiz-sehit-oldu-961991.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1496000/sehit-1497189.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-02T18:47:00+00:00",
+   "url": "/haber/bir-askerimiz-sehit-oldu-7be5692f/"
+  },
+  {
+   "id": "ed673807",
+   "title": "One UI 9 sonrası Android Auto sorunları arttı",
+   "summary": "One UI 9 Android Auto sorunu bazı Galaxy kullanıcılarını etkiliyor. Android 17 tabanlı güncellemeyle birlikte takılma ve bağlantı kopması şikâyetleri artmaya başladı.",
+   "link": "https://shiftdelete.net/one-ui-9-android-auto-sorunu",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/android-auto-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T18:36:05+00:00",
+   "url": "/haber/one-ui-9-sonrasi-android-auto-sorunlari-artti-ed673807/"
+  },
+  {
+   "id": "082030a0",
+   "title": "Galaxy S27 Pro fiyat artışını gizleyebilir",
+   "summary": "Samsung'un Galaxy S27 serisine ekleyeceği iddia edilen Galaxy S27 Pro, başlangıç fiyatını artırmadan zam yapmanın yolu olabilir. İddiaya göre model 1.399 dolardan satılacak.",
+   "link": "https://shiftdelete.net/galaxy-s27-pro-fiyat-artisi-samsung",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/23b84d3b9254d16f83d8560ac4340574c435f9c6.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T18:32:22+00:00",
+   "url": "/haber/galaxy-s27-pro-fiyat-artisini-gizleyebilir-082030a0/"
+  },
   {
    "id": "5df2efd4",
    "title": "Bütçe dostu Vivo Y32 5G tanıtıldı: 8.000 mAh pil ve askeri seviyede dayanıklılık",
@@ -266,6 +310,17 @@
    "url": "/haber/tekne-kazasinda-olmustu-atso-baskani-ali-bahar-in-davasinda-bir-beraat-13a1e6fe/"
   },
   {
+   "id": "64675fb3",
+   "title": "MHP Genel Başkanı Bahçeli'nin kız kardeşi Serpil Bahçeli vefat etti",
+   "summary": "MHP Genel Başkanı Devlet Bahçeli'nin kız kardeşi Serpil Bahçeli vefat etti.",
+   "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahcelinin-kiz-kardesi-serpil-bahceli-vefat-etti-961986.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2474000/bahceli-aa-2475731.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-02T17:07:00+00:00",
+   "url": "/haber/mhp-genel-baskani-bahceli-nin-kiz-kardesi-serpil-bahceli-vefat-etti-64675fb3/"
+  },
+  {
    "id": "826087f6",
    "title": "RTX 5090 fiyatı lansmandan beri %370 arttı",
    "summary": "RTX 5090 fiyat artışı ABD'de lansman fiyatının yüzde 370 üzerine çıktı. RTX 50 serisindeki bütün ekran kartları bu yıl belirgin biçimde zamlandı.",
@@ -299,15 +354,15 @@
    "url": "/haber/google-dan-yapay-zekalarda-devrim-yaratabilecek-yeni-ogrenme-yontemi-a-7d3e347f/"
   },
   {
-   "id": "6d945550",
-   "title": "Stuttgart'ın teknik direktörü Hoeness: Yarın oluşacak atmosferi dört gözle bekleyeceğiz",
+   "id": "463ecf3a",
+   "title": "Stuttgart'ın teknik direktörü Hoeness: Bizim için zorlu bir maç olacak",
    "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında yarın Galatasaray'a konuk olacak Almanya temsilcisi Stuttgart'ın teknik direktörü Sebastian Hoeness, galibiyet için ellerinden geleni yapacaklarını söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/stuttgartin-teknik-direktoru-hoeness-yarin-olusacak-atmosferi-dort-gozle-bekleyecegiz/4109039",
+   "link": "https://www.aa.com.tr/tr/spor/stuttgartin-teknik-direktoru-hoeness-bizim-icin-zorlu-bir-mac-olacak/4109039",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-02T16:54:09+00:00",
-   "url": "/haber/stuttgart-in-teknik-direktoru-hoeness-yarin-olusacak-atmosferi-dort-go-6d945550/"
+   "url": "/haber/stuttgart-in-teknik-direktoru-hoeness-bizim-icin-zorlu-bir-mac-olacak-463ecf3a/"
   },
   {
    "id": "88feed00",
@@ -365,17 +420,6 @@
    "url": "/haber/kayseri-de-is-yerinde-cikan-yangina-mudahale-ediliyor-4b1dd59b/"
   },
   {
-   "id": "7ec3dd15",
-   "title": "Florida'da düşen Learjet 60 için ilk bulgular",
-   "summary": "Florida'da düşen Learjet 60 nedeniyle 9 kişi hayatını kaybetti. Radar verileri, fırtına uyarısı ve pilotun son telsiz çağrıları kazanın olası sebebine ışık tutuyor.",
-   "link": "https://shiftdelete.net/florida-da-dusen-learjet-60-kaza-sebebi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/540ec1483dbf640db4060157f5dc9e0e2fab00ec.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T16:26:59+00:00",
-   "url": "/haber/florida-da-dusen-learjet-60-icin-ilk-bulgular-7ec3dd15/"
-  },
-  {
    "id": "7c7a502b",
    "title": "Avrupa genelinde süpermarket soğutucularına siber saldırı",
    "summary": "Avrupa genelindeki yedi ülkede onlarca süpermarkette bulunan, soğutucu ve dondurucularını etkileyen bir siber saldırı yapıldı. Bazı marketlerde dondurucuların sıcaklığının 50 dereceye kadar yükseldiği bildirildi.",
@@ -398,17 +442,6 @@
    "url": "/haber/gta-6-cikisi-oncesi-sony-den-ps5-guvenlik-guncellemesi-1c776ac4/"
   },
   {
-   "id": "39832563",
-   "title": "MacBook Pro 2027 planı: M7 çipli modeller",
-   "summary": "Bloomberg'in haberine göre MacBook Pro 2027 yılında M7 çipli yeni bir giriş modeli ve ikinci nesil dokunmatik ekranlı seriyle genişleyecek.",
-   "link": "https://shiftdelete.net/macbook-pro-2027-m7-cipli-modeller",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/macbook-pro-2027-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T16:15:53+00:00",
-   "url": "/haber/macbook-pro-2027-plani-m7-cipli-modeller-39832563/"
-  },
-  {
    "id": "b458c9b6",
    "title": "İsrail’de muhalefet bloğundaki Demokratlar Partisi, başbakanlık için Eisenkot'u destekleyeceğini duyurdu",
    "summary": "İsrail'de sandıktan koalisyon belirsizliğinin çıktığı 27 Ekim'deki genel seçimlerin ardından muhalefetteki Demokratlar Partisi, başbakanlık için Gadi Eisenkot'u destekleyeceğini açıkladı.",
@@ -418,17 +451,6 @@
    "category": "gundem",
    "date": "2026-11-02T16:15:05+00:00",
    "url": "/haber/israil-de-muhalefet-blogundaki-demokratlar-partisi-basbakanlik-icin-ei-b458c9b6/"
-  },
-  {
-   "id": "51fad240",
-   "title": "OYSS nedir? MEB'in yeni ortak sınav sistemi",
-   "summary": "MEB'in Ortak Yazılı Sınav Sistemi (OYSS) bu hafta ilk kez uygulanıyor. Hangi sınıflarda ve derslerde geçerli, sorular nasıl hazırlanıyor, sınavlar ne zaman yapılacak?",
-   "link": "https://shiftdelete.net/oyss-nedir-meb-ortak-yazili-sinav-sistemi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/oyss-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T16:12:22+00:00",
-   "url": "/haber/oyss-nedir-meb-in-yeni-ortak-sinav-sistemi-51fad240/"
   },
   {
    "id": "71705c6e",
@@ -1212,17 +1234,6 @@
    "url": "/haber/sosyal-medyada-cocuklar-icin-yeni-donem-b8777cd3/"
   },
   {
-   "id": "c97fcb7c",
-   "title": "Cumhurbaşkanı Erdoğan: Değerlerimiz yaşatmak üzerine kurulu",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Tıp ve hekimlik bizim için hayati bir öneme sahiptir. Bizim inanç değerlerimiz yaşamak ve yaşatmak üzerine kuruludur\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-degerlerimiz-yasatmak-uzerine-kurulu-961815.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/erdogan-2500065.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-31T10:26:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-degerlerimiz-yasatmak-uzerine-kurulu-c97fcb7c/"
-  },
-  {
    "id": "2ecfe478",
    "title": "GTA 6: Yılın merakla beklenen oyunu için Türkçe dil desteği gelecek mi?",
    "summary": "Rockstar Games'in 10 yılı aşkın süredir geliştirdiği Grand Theft Auto (GTA) 6, 19 Kasım'da piyasaya sürülecek. Oyuncular, içerik üreticileri ve sektör profesyonelleri Türkçe dil desteği getirilmesi için kampanya…",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-10-30T12:31:00+00:00",
    "url": "/haber/olaganustu-tasfiyeye-konu-fonlardaki-ilk-ara-odemeler-basladi-bcbb17f5/"
-  },
-  {
-   "id": "0099aac3",
-   "title": "Cumhurbaşkanı Erdoğan: Türk dünyasında ayrılığa, gayrılığa yer yok",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türk dünyasının aile fotoğrafında ayrılığa, gayrılığa, ihtilafa yer yoktur. Hepimiz biriz, beraberiz, ezelden ebede kadar inşallah kardeşiz\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turk-dunyasinda-ayriliga-gayriliga-yer-yok-961711.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2498000/recep-tayyip-erdogan-2499813.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-10-30T07:34:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-turk-dunyasinda-ayriliga-gayriliga-yer-yok-0099aac3/"
   }
  ]
 }
