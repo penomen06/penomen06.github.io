@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-02T20:01:15.763115+00:00",
+ "updated": "2026-11-02T20:31:13.152059+00:00",
  "items": [
+  {
+   "id": "62146d5b",
+   "title": "Çin'de elektrikli kamyon satışları yüzde 50'yi aştı: Dizel tüketimi hızla düşüyor",
+   "summary": "Çin'de Eylül ayında satılan ağır kamyonların yüzde 50,3'ü elektrikli modellerden oluştu. Dizel talebinin yıl genelinde günlük 230 bin varil azalması bekleniyor.",
+   "link": "https://www.donanimhaber.com/cin-de-elektrikli-kamyon-devrimi-dizel-tuketimi-hizla-dusuyor--212388",
+   "image": "https://www.donanimhaber.com/images/images/haber/212388/1200x675cin-de-elektrikli-kamyon-devrimi-dizel-tuketimi-hizla-dusuyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-02T20:28:00+00:00",
+   "url": "/haber/cin-de-elektrikli-kamyon-satislari-yuzde-50-yi-asti-dizel-tuketimi-hiz-62146d5b/"
+  },
+  {
+   "id": "acc0cf47",
+   "title": "Yeni Renault Megane, Tesla Model Y'ye rakip olmaya geliyor: 750 km menzil, casur tasarım",
+   "summary": "Renault yeni elektrikli Megane ile Tesla Model Y'ye doğrudan rakip olmaya hazırlanıyor. Yeni tasarıma kavuşacak model, 750 km menzili ve teknolojileriyle segmentte dengeleri değiştirmeyi hedefliyor.",
+   "link": "https://www.donanimhaber.com/yeni-renault-megane-tesla-model-y-ye-rakip-olmaya-geliyor--212390",
+   "image": "https://www.donanimhaber.com/images/images/haber/212390/1200x675yeni-renault-megane-tesla-model-y-ye-rakip-olmaya-geliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-02T20:27:08+00:00",
+   "url": "/haber/yeni-renault-megane-tesla-model-y-ye-rakip-olmaya-geliyor-750-km-menzi-acc0cf47/"
+  },
+  {
+   "id": "35a00a78",
+   "title": "Güneş panelleri sayesinde yıllardır ekilmeyen araziler yeniden canlandı",
+   "summary": "ABD’de ekonomik nedenlerle yıllardır kullanılmayan iki turna yemişi bataklığı, güneş enerjisi ve batarya depolama yatırımları sayesinde yeniden üretime başladı.",
+   "link": "https://www.donanimhaber.com/gunes-enerjisi-tarlalari-kurtardi-ciftcilere-yeni-gelir-kapisi-a--212385",
+   "image": "https://www.donanimhaber.com/images/images/haber/212385/1200x675gunes-enerjisi-tarlalari-kurtardi-ciftcilere-yeni-gelir-kapisi-a.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-02T20:25:00+00:00",
+   "url": "/haber/gunes-panelleri-sayesinde-yillardir-ekilmeyen-araziler-yeniden-canland-35a00a78/"
+  },
+  {
+   "id": "aae3cfca",
+   "title": "İstanbul'da sağanak etkili oluyor",
+   "summary": "İstanbul'da gök gürültülü sağanak etkili oluyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-saganak-etkili-oluyor/4109163",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T20:11:33+00:00",
+   "url": "/haber/istanbul-da-saganak-etkili-oluyor-aae3cfca/"
+  },
+  {
+   "id": "a90251a1",
+   "title": "Van'da rahatsızlanan uzman çavuş şehit oldu",
+   "summary": "Van'da rahatsızlanan Piyade Uzman Çavuş Oğuz Şahin şehit oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/vanda-rahatsizlanan-asker-sehit-oldu-1749099",
+   "image": "https://images.ntv.com.tr/images/sehitaa-1520246-346266-416441.webp",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-02T20:03:01+00:00",
+   "url": "/haber/van-da-rahatsizlanan-uzman-cavus-sehit-oldu-a90251a1/"
+  },
   {
    "id": "1f30eff9",
    "title": "Tencent'ten insan tercümanlara rakip yapay zekâ: Konuşmaları anında çeviriyor",
@@ -508,17 +563,6 @@
    "url": "/haber/samsung-csot-hissesini-892-milyon-dolara-aldi-c4b8ec21/"
   },
   {
-   "id": "4b1dd59b",
-   "title": "Kayseri'de iş yerinde çıkan yangına müdahale ediliyor",
-   "summary": "Kayseri'nin merkez Melikgazi ilçesinde bir iş yerinde çıkan yangına müdahale ediliyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/kayseride-is-yerinde-cikan-yangina-mudahale-ediliyor/4109019",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T16:27:22+00:00",
-   "url": "/haber/kayseri-de-is-yerinde-cikan-yangina-mudahale-ediliyor-4b1dd59b/"
-  },
-  {
    "id": "7c7a502b",
    "title": "Avrupa genelinde süpermarket soğutucularına siber saldırı",
    "summary": "Avrupa genelindeki yedi ülkede onlarca süpermarkette bulunan, soğutucu ve dondurucularını etkileyen bir siber saldırı yapıldı. Bazı marketlerde dondurucuların sıcaklığının 50 dereceye kadar yükseldiği bildirildi.",
@@ -662,17 +706,6 @@
    "url": "/haber/tipta-bir-ilk-yapay-zeka-destekli-robotik-sistem-bir-fare-uzerinde-bey-80af986d/"
   },
   {
-   "id": "ad3925f6",
-   "title": "Her Mini LED neden aynı değil? TCL SQD Mini LED avantajları!",
-   "summary": "Bu videoda OLED mi Mini LED mi daha iyi? sorusunun cevabını detaylıca inceliyoruz. Hem de TCL SQD Mini LED hakkında merak edilenlere de videomuzda yer veriyoruz. İyi seyirler!",
-   "link": "https://www.donanimhaber.com/her-mini-led-neden-ayni-degil-tcl-sqd-mini-led-avantajlari--212248",
-   "image": "https://www.donanimhaber.com/images/images/haber/212248/1200x675her-mini-led-neden-ayni-degil-tcl-sqd-mini-led-avantajlari.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-02T15:00:40+00:00",
-   "url": "/haber/her-mini-led-neden-ayni-degil-tcl-sqd-mini-led-avantajlari-ad3925f6/"
-  },
-  {
    "id": "01f2dd7f",
    "title": "Sony’den GTA 6 Öncesi Bir PS5 Güncellemesi Daha (Kovalamaca Sürüyor)",
    "summary": "Sony, merakla beklenen GTA 6 çıkışı öncesi artan jailbreak tehditlerine karşı PS5 için yeni bir kritik güvenlik güncellemesi yayımladı.",
@@ -704,28 +737,6 @@
    "category": "gundem",
    "date": "2026-11-02T14:54:11+00:00",
    "url": "/haber/ibb-davasinda-ucuncu-celsede-bazi-mustekiler-sikayetini-cekti-2b7805b8/"
-  },
-  {
-   "id": "c1ae9b2e",
-   "title": "Teknoloji devleri yapay zeka için 3 trilyon dolar daha harcayacak",
-   "summary": "Alphabet, Meta, Microsoft, Amazon ve Oracle’ın yapay zeka altyapısı için gelecek yıllara yönelik harcama taahhütleri 3 trilyon doları aştı. Alphabet’in taahhütleri 1 trilyon doları geçti.",
-   "link": "https://www.donanimhaber.com/teknoloji-devleri-yapay-zeka-icin-3-trilyon-dolar-daha-harcayacak--212379",
-   "image": "https://www.donanimhaber.com/images/images/haber/212379/1200x675teknoloji-devleri-yapay-zeka-icin-3-trilyon-dolar-daha-harcayacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-02T14:49:00+00:00",
-   "url": "/haber/teknoloji-devleri-yapay-zeka-icin-3-trilyon-dolar-daha-harcayacak-c1ae9b2e/"
-  },
-  {
-   "id": "547b0643",
-   "title": "Güneş panellerini 9 derece soğutup verimi artıran sistem",
-   "summary": "Araştırmacılar, güneş panellerinin sıcaklığını 9 derece düşüren pasif soğutma sistemi geliştirdi. Yeni tasarımın ek enerji tüketmeden verimliliği artırabildiği saptandı.",
-   "link": "https://www.donanimhaber.com/gunes-panellerini-9-derece-sogutup-verimi-artiran-sistem--212381",
-   "image": "https://www.donanimhaber.com/images/images/haber/212381/1200x675gunes-panellerini-9-derece-sogutup-verimi-artiran-sistem.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-02T14:27:00+00:00",
-   "url": "/haber/gunes-panellerini-9-derece-sogutup-verimi-artiran-sistem-547b0643/"
   },
   {
    "id": "bacd8780",
@@ -1078,17 +1089,6 @@
    "category": "gundem",
    "date": "2026-11-02T11:46:27+00:00",
    "url": "/haber/ukrayna-ve-rusya-da-siber-saldirilarla-sahte-radyasyon-alarmi-fd730dee/"
-  },
-  {
-   "id": "3660ede1",
-   "title": "Ayasofya'nın gizli tünelleri çelikle güçlendirildi, her biri tren rayı gibi",
-   "summary": "Ayasofya'nın altındaki yaklaşık 9 kilometrelik gizli tüneller gün yüzüne çıkarılıyor. Tarihi mekanın altından 3 bin ton çamur ve moloz temizlendi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-ayasofyanin-gizli-tunelleri-celikle-guclendirildi-her-biri-tren-rayi-gibi-1749029",
-   "image": "https://images.ntv.com.tr/images/ayosofya-tünel-377221.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-02T10:58:29+00:00",
-   "url": "/haber/ayasofya-nin-gizli-tunelleri-celikle-guclendirildi-her-biri-tren-rayi-3660ede1/"
   },
   {
    "id": "45bb4dc1",
