@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T03:30:58.889839+00:00",
+ "updated": "2026-11-02T04:01:05.325160+00:00",
  "items": [
   {
    "id": "12a899be",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-02T03:30:00+00:00",
+   "date": "2026-11-02T04:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-12a899be/"
+  },
+  {
+   "id": "25297a0b",
+   "title": "Anthropic, model eğiten araştırmacıyı kısıtladı",
+   "summary": "Hong Kong Bilim ve Teknoloji Üniversitesi'nden Jiahao Shao, Claude kullanımı sırasında kısıtlamayla karşılaştığını öne sürdü. Anthropic Claude engeli tartışması büyüyor.",
+   "link": "https://shiftdelete.net/anthropic-claude-engeli-arastirmaci-tepki",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/de0d687a96d345fc9959c6544519816cad3636c7.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T03:59:13+00:00",
+   "url": "/haber/anthropic-model-egiten-arastirmaciyi-kisitladi-25297a0b/"
+  },
+  {
+   "id": "dc83c05f",
+   "title": "Cumhurbaşkanı Erdoğan, Güney Kore'ye geldi",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle başkent Seul'e geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koreye-geldi/4108266",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T03:51:50+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-guney-kore-ye-geldi-dc83c05f/"
   },
   {
    "id": "cd53ac86",
@@ -420,17 +442,6 @@
    "url": "/haber/chery-tiggo-2-guvenlik-ve-carpisma-testinden-sifir-yildiz-aldi-c92717a7/"
   },
   {
-   "id": "cc2cc659",
-   "title": "ABD'de Cadılar Bayramı kutlamaları sırasında düzenlenen silahlı saldırılarda en az 6 kişi yaşamını yitirdi",
-   "summary": "ABD'de Cadılar Bayramı sırasında farklı kentlerin eğlence bölgelerinde meydana gelen silahlı saldırılarda en az 6 kişi hayatını kaybetti, onlarca kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-cadilar-bayrami-kutlamalari-sirasinda-duzenlenen-silahli-saldirilarda-en-az-6-kisi-yasamini-yitirdi/4108175",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-01T17:54:43+00:00",
-   "url": "/haber/abd-de-cadilar-bayrami-kutlamalari-sirasinda-duzenlenen-silahli-saldir-cc2cc659/"
-  },
-  {
    "id": "38e1b707",
    "title": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
    "summary": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
@@ -660,17 +671,6 @@
    "category": "teknoloji",
    "date": "2026-11-01T14:53:58+00:00",
    "url": "/haber/cinli-otomobil-ureticilerinin-yuzde-90-i-zararda-7271c4a7/"
-  },
-  {
-   "id": "4b88ecd0",
-   "title": "Volkswagen Türkiye'de Çin modellerini üretebilir",
-   "summary": "Volkswagen Türkiye montaj sürecinde Çin'de geliştirilen modellerin kit halinde getirilip monte edilebileceği iddia edildi. Doğuş Otomotiv niyet mektubunu geçen günlerde imzalamıştı.",
-   "link": "https://shiftdelete.net/volkswagen-turkiye-montaj-cin-modelleri-iddia",
-   "image": "https://ares.shiftdelete.net/2026/10/volkswagen-2027-yilinda-uc-yeni-elektrikli-modelini-turkiye-ye-getirecek.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T14:38:36+00:00",
-   "url": "/haber/volkswagen-turkiye-de-cin-modellerini-uretebilir-4b88ecd0/"
   },
   {
    "id": "bc314d24",
