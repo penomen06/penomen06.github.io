@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T15:31:05.653328+00:00",
+ "updated": "2026-11-02T16:01:09.589898+00:00",
  "items": [
+  {
+   "id": "5600b534",
+   "title": "RTX 30 serisi için dağıtıcılara yönlendirme",
+   "summary": "RTX 50 serisinde stok sıkıntısı büyürken bazı üreticiler dağıtıcılara RTX 30 serisi ve eski Radeon kartlara yönelmelerini öneriyor.",
+   "link": "https://shiftdelete.net/rtx-30-serisi-dagitici-yonlendirme-rtx-50-stok",
+   "image": "https://ares.shiftdelete.net/static/img/content/26-11/01/rtx-5080-super-24-gb.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T16:00:58+00:00",
+   "url": "/haber/rtx-30-serisi-icin-dagiticilara-yonlendirme-5600b534/"
+  },
+  {
+   "id": "b6239994",
+   "title": "Almanya Başbakanı Merz: Şiddetin sokaklarımızda yeri yok",
+   "summary": "Almanya Başbakanı ve Hristiyan Demokrat Birlik Partisi (CDU) Genel Başkanı Friedrich Merz, 31 Ekim'de ülkenin farklı kentlerinde gençlerin düzenlediği gösterilerde çıkan olaylara tepki göstererek, şiddetin sokaklarda…",
+   "link": "https://www.aa.com.tr/tr/dunya/almanya-basbakani-merz-siddetin-sokaklarimizda-yeri-yok/4108997",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T15:55:12+00:00",
+   "url": "/haber/almanya-basbakani-merz-siddetin-sokaklarimizda-yeri-yok-b6239994/"
+  },
+  {
+   "id": "71f667ab",
+   "title": "Microsoft Edge, Windows 11'de daha hızlı olacak: İşte yeni özellik",
+   "summary": "Microsoft Edge, Windows 11'in yeni hızlandırma teknolojisini destekleyen ilk tarayıcı oldu. Yeni özellik, uygun koşullarda tarayıcının açılış süresini yüzde 33'e kadar kısaltabiliyor.",
+   "link": "https://www.donanimhaber.com/microsoft-edge-windows-11-de-daha-hizli-olacak--212376",
+   "image": "https://www.donanimhaber.com/images/images/haber/212376/1200x675microsoft-edge-windows-11-de-daha-hizli-olacak.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-02T15:55:00+00:00",
+   "url": "/haber/microsoft-edge-windows-11-de-daha-hizli-olacak-iste-yeni-ozellik-71f667ab/"
+  },
+  {
+   "id": "342f72c2",
+   "title": "Yapay zekâ robotu fare beyninde ameliyat yaptı",
+   "summary": "Exin Therapeutics, Anthropic'in Sonnet modeliyle çalışan yapay zekâ robotunun bir fare üzerinde beyin ameliyatını bağımsız kararlarla tamamladığını duyurdu.",
+   "link": "https://shiftdelete.net/yapay-zeka-robotu-fare-beyin-ameliyati",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/c3c10c13dbe5ca41ec3a02bd9b5435c56c60ad31.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T15:45:51+00:00",
+   "url": "/haber/yapay-zeka-robotu-fare-beyninde-ameliyat-yapti-342f72c2/"
+  },
   {
    "id": "5598f28f",
    "title": "Instagram Takipçi Gizleme: Liste Nasıl Gizlenir?",
@@ -11,6 +55,72 @@
    "category": "teknoloji",
    "date": "2026-11-02T15:45:00+00:00",
    "url": "/haber/instagram-takipci-gizleme-liste-nasil-gizlenir-5598f28f/"
+  },
+  {
+   "id": "7c7a502b",
+   "title": "Avrupa genelinde süpermarket soğutucularına siber saldırı",
+   "summary": "Avrupa genelindeki yedi ülkede onlarca süpermarkette bulunan, soğutucu ve dondurucularını etkileyen bir siber saldırı yapıldı. Bazı marketlerde dondurucuların sıcaklığının 50 dereceye kadar yükseldiği bildirildi.",
+   "link": "https://www.bbc.com/turkce/articles/cmx23e2dexndo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f2ab/live/a3865ef0-d6d0-11f1-ac20-7783925c811f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-02T15:43:30+00:00",
+   "url": "/haber/avrupa-genelinde-supermarket-sogutucularina-siber-saldiri-7c7a502b/"
+  },
+  {
+   "id": "6cfb421f",
+   "title": "DEM Parti'nin kent uzlaşısı kararı sonrası CHP'den İBB çağrısı",
+   "summary": "DEM Parti, 31 Mart 2024 yerel seçimlerindeki kent uzlaşısı stratejisi kampasında seçilen belediye meclis üyelerinin partiye katılacağını açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/ck0j0lw68749o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55a5/live/dcc86bb0-d6ab-11f1-ac90-f7afd947062e.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-02T15:38:48+00:00",
+   "url": "/haber/dem-parti-nin-kent-uzlasisi-karari-sonrasi-chp-den-ibb-cagrisi-6cfb421f/"
+  },
+  {
+   "id": "eacfd431",
+   "title": "İnsan beyni yapay zekaya bağlandı: Neuralink'ten tarihi gösterim",
+   "summary": "Neuralink, Grok yapay zekasını düşünce gücüyle kontrol etmeyi başardı. Şirket ayrıca beyin implantıyla telefon görüşmesi yapmayı ve iPhone'da metin yazmayı mümkün hale getiriyor.",
+   "link": "https://www.donanimhaber.com/insan-beyni-yapay-zekaya-baglandi-neuralink-ten-tarihi-gosterim--212375",
+   "image": "https://www.donanimhaber.com/images/images/haber/212375/1200x675insan-beyni-yapay-zekaya-baglandi-neuralink-ten-tarihi-gosterim.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-02T15:33:00+00:00",
+   "url": "/haber/insan-beyni-yapay-zekaya-baglandi-neuralink-ten-tarihi-gosterim-eacfd431/"
+  },
+  {
+   "id": "2e7513da",
+   "title": "Ternus: Sırf yapay zekâ olsun diye sunmayız",
+   "summary": "Apple CEO'su John Ternus, Wired'a verdiği röportajda Ternus yapay zekâ stratejisini anlattı. Şirket, gösteriş için değil, kullanıcıların seveceği deneyimler için yapay zekâ kullanacak.",
+   "link": "https://shiftdelete.net/ternus-yapay-zeka-stratejisi-apple",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/078c646bdefcc118d0395ad607c304849e2cfe61.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T15:31:17+00:00",
+   "url": "/haber/ternus-sirf-yapay-zeka-olsun-diye-sunmayiz-2e7513da/"
+  },
+  {
+   "id": "5aecdba4",
+   "title": "Audi Neden Çin'e Özel Otomobil Üretiyor?",
+   "summary": "Audi neden Çin için özel otomobiller üretiyor ve bu otomobilleri başka bir yerde görmüyoruz? Detaylarıyla inceliyoruz.",
+   "link": "https://www.webtekno.com/audi-neden-cin-ozel-araba-uretiyor-h228013.html",
+   "image": "https://imgrosetta.webtekno.com/file/695023/695023-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T15:29:40+00:00",
+   "url": "/haber/audi-neden-cin-e-ozel-otomobil-uretiyor-5aecdba4/"
+  },
+  {
+   "id": "897698b5",
+   "title": "YouTube’da Yeni Can Sıkıcı Problem: Videolar Kendi Kendine Tam Ekrandan Çıkıyor",
+   "summary": "YouTube’da videoların aniden tam ekrandan çıkıp sesi kesen yeni hatası hem Android hem de iOS kullanıcılarını mağdur ediyor.",
+   "link": "https://www.webtekno.com/youtube-yeni-can-sikici-problem-h228133.html",
+   "image": "https://imgrosetta.webtekno.com/file/695284/695284-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T15:28:59+00:00",
+   "url": "/haber/youtube-da-yeni-can-sikici-problem-videolar-kendi-kendine-tam-ekrandan-897698b5/"
   },
   {
    "id": "9cfbc274",
@@ -233,6 +343,17 @@
    "url": "/haber/rusya-ve-ukrayna-da-acil-durum-uygulamalarina-siber-saldirilar-duzenle-a42c0c2d/"
   },
   {
+   "id": "437f90a9",
+   "title": "Tahran’daki Tecriş Meydanı’nda \"gönüllü savaşçılar\" için üçüncü tatbikat alanı açıldı",
+   "summary": "İran'ın başkenti Tahran’daki Tecriş Meydanı’nda, \"gönüllü savaşçıların\" silahlı tatbikat yapabilmeleri için hazırlanan alan hizmete girdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/tahran-daki-tecris-meydani-nda-gonullu-savascilar-icin-ucuncu-tatbikat-alani-acildi/4108925",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T14:33:14+00:00",
+   "url": "/haber/tahran-daki-tecris-meydani-nda-gonullu-savascilar-icin-ucuncu-tatbikat-437f90a9/"
+  },
+  {
    "id": "838b0caf",
    "title": "ASO Başkanı Ardıç: Ülkemize değer katan bütün sanayicilerimiz için aynı kararlılıkla çalışmayı sürdüreceğiz",
    "summary": "ASO Başkanı Seyit Ardıç, sanayiciler olarak sis var diye kontağı kapatıp beklemeyeceklerini belirterek, \"Üreten, yatırım yapan, istihdam sağlayan ve ülkemize değer katan bütün sanayicilerimiz için aynı kararlılıkla…",
@@ -376,17 +497,6 @@
    "url": "/haber/hgs-de-sistem-degisti-odeme-sikayetleri-artti-d02b1638/"
   },
   {
-   "id": "c4bbba6c",
-   "title": "Sağlık Bakanı Memişoğlu: Toplum sağlığını tehdit eden alışkanlıklarla mücadelemizi sürdürüyoruz",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Toplum sağlığını tehdit eden alışkanlıklarla mücadelemizi kararlılıkla sürdürüyoruz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-toplum-sagligini-tehdit-eden-aliskanliklarla-mucadelemizi-surduruyoruz/4108882",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T14:01:50+00:00",
-   "url": "/haber/saglik-bakani-memisoglu-toplum-sagligini-tehdit-eden-aliskanliklarla-m-c4bbba6c/"
-  },
-  {
    "id": "0112b3e1",
    "title": "Avrupa’daki bazı süpermarketler, buzdolaplarının sıcaklığını hedef alan bir siber saldırıya uğradı",
    "summary": "Ahold Delhaize ve Colruyt, gece saatlerinde bilgisayar sistemlerinde yaşanan bir sorunun (açıkça belirtilmiyor olsa da bir siber saldırı), Belçika ve Lüksemburg’daki onlarca mağazadaki buzdolabı ve dondurucuyu…",
@@ -407,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T13:53:45+00:00",
    "url": "/haber/playstation-5-yaziliminda-gta-6-guncelleme-sarti-a75df5ce/"
-  },
-  {
-   "id": "97f133e6",
-   "title": "İran: Hürmüz Boğazı'nın doğusunda bir petrol tankeri mayına çarptı",
-   "summary": "İran Ordusu, Hürmüz Boğazı'nın doğusunda \"yasaklı bölgede\" bir petrol tankerinin deniz mayınına çarpması sonucu alev aldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinin-dogusunda-bir-petrol-tankeri-mayina-carpti/4108872",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T13:51:27+00:00",
-   "url": "/haber/iran-hurmuz-bogazi-nin-dogusunda-bir-petrol-tankeri-mayina-carpti-97f133e6/"
   },
   {
    "id": "ac4ccf24",
@@ -563,28 +662,6 @@
    "url": "/haber/turkiye-de-trafige-en-cok-kayitli-araba-markalari-d90924f7/"
   },
   {
-   "id": "345793e5",
-   "title": "2027 Avrupa'da Yılın Otomobili Finalistleri: Tüm Adaylar ve Türkiye Durumu",
-   "summary": "Avrupa'da Yılın Otomobili 2027 finalinde BMW iX3, Cupra Raval, Hyundai IONIQ 3, Kia EV2, Renault Twingo, VW ID. Polo ve Volvo EX60 var. Kazanan 8 Ocak'ta Brüksel'de açıklanacak.",
-   "link": "https://shiftdelete.net/hyundai-ioniq-3-avrupada-yilin-otomobili-finalisti",
-   "image": "https://ares.shiftdelete.net/2026/10/d5179fcbcc144df14897796214630eb63a137664.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T13:31:00+00:00",
-   "url": "/haber/2027-avrupa-da-yilin-otomobili-finalistleri-tum-adaylar-ve-turkiye-dur-345793e5/"
-  },
-  {
-   "id": "126dd1c0",
-   "title": "SpaceX, Boost Mobile'ı almak için görüşüyor",
-   "summary": "SpaceX Boost Mobile'ı satın almak için EchoStar ile masaya oturdu. Hamle, AT&T, T-Mobile ve Verizon'un MVNO anlaşması reddini aşmayı hedefliyor.",
-   "link": "https://shiftdelete.net/spacex-boost-mobile-echostar-satin-alim-gorusmesi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/9a7055f053aae8affd1494835c687de251136c9e.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T13:23:30+00:00",
-   "url": "/haber/spacex-boost-mobile-i-almak-icin-gorusuyor-126dd1c0/"
-  },
-  {
    "id": "43eda221",
    "title": "Samsun'da bulut denizi görüntülendi",
    "summary": "Samsun'un Alaçam ilçesinde yüksek kesimlerde oluşan bulut denizi güzel görüntüler oluşturdu.",
@@ -671,17 +748,6 @@
    "category": "gundem",
    "date": "2026-11-02T13:11:00+00:00",
    "url": "/haber/turk-universiteleri-cin-egitim-fuari-na-katildi-1cde489e/"
-  },
-  {
-   "id": "2b28e583",
-   "title": "Honor Win 2, AnTuTu Android listesinde zirvede",
-   "summary": "AnTuTu'nun Ekim 2026 listesinde Honor Win 2, 4 958 339 puanla birinci oldu. Red Magic 12 Pro+ ise yalnızca 1493 puan geriden geliyor.",
-   "link": "https://shiftdelete.net/honor-win-2-antutu-ekim-listesi-zirve",
-   "image": "https://ares.shiftdelete.net/2026/10/Honor-Win-series-models-named-ahead-of-Dec.-26-debut-Brand-official-shares-model-details-a.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T13:09:24+00:00",
-   "url": "/haber/honor-win-2-antutu-android-listesinde-zirvede-2b28e583/"
   },
   {
    "id": "9600d1af",
@@ -871,28 +937,6 @@
    "url": "/haber/kimi-antonelli-garajda-dogan-en-genc-f1-dunya-sampiyonu-de657cde/"
   },
   {
-   "id": "ccdf9334",
-   "title": "Fiat Fiyat Listesi - Kasım 2026",
-   "summary": "Fiat’ın Kasım 2026 binek araç fiyat listesi açıklandı. Egea Sedan, Egea Cross, Grande Panda Elektrikli, Topolino, Grande Panda Hibrit, 600 ve 500e modellerinin fiyatlarını açıklıyoruz.",
-   "link": "https://www.webtekno.com/kasim-2026-fiat-fiyat-listesi-h228142.html",
-   "image": "https://imgrosetta.webtekno.com/file/695368/695368-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-02T12:12:24+00:00",
-   "url": "/haber/fiat-fiyat-listesi-kasim-2026-ccdf9334/"
-  },
-  {
-   "id": "469fdb74",
-   "title": "ETS 2'nin Merakla Beklenen Otobüs DLC'sinin Çıkış Tarihi Açıklandı",
-   "summary": "ETS 2 için merakla beklenen Coaches DLC'si çok yakında oyuncularla buluşacak.",
-   "link": "https://www.webtekno.com/ets-2-otobus-dlc-cikis-tarihi-aciklandi-h228139.html",
-   "image": "https://imgrosetta.webtekno.com/file/695350/695350-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-02T12:11:29+00:00",
-   "url": "/haber/ets-2-nin-merakla-beklenen-otobus-dlc-sinin-cikis-tarihi-aciklandi-469fdb74/"
-  },
-  {
    "id": "052e8fc8",
    "title": "Fon soruşturması. 37 kişinin iade ettiği tutar 18 milyar lirayı geçti",
    "summary": "120 ismin tutuklandığı fon soruşturmasında 1,5 ay geride kaldı. Fonlardan sağlanan haksız kazançların iadesi de sürüyor. İade edilen miktar 19 milyar liraya yaklaştı.",
@@ -937,28 +981,6 @@
    "url": "/haber/ukrayna-nin-baskenti-kiev-de-sahte-radyasyon-alarmi-uyarisiyla-korku-fd730dee/"
   },
   {
-   "id": "a1e6591e",
-   "title": "AnTuTu açıkladı: En güçlü Android telefonlar (Ekim 2026)",
-   "summary": "AnTuTu, Ekim 2026'nın en güçlü Android telefonlarını açıkladı. Amiral gemisi kategorisinde HONOR WIN2 zirveye yerleşirken, alt amiral gemisi listesinde HONOR 600 Pro ilk sırada.",
-   "link": "https://www.donanimhaber.com/antutu-acikladi-en-guclu-android-telefonlar-ekim-2026--212364",
-   "image": "https://www.donanimhaber.com/images/images/haber/212364/1200x675antutu-acikladi-en-guclu-android-telefonlar-ekim-2026.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-02T11:33:00+00:00",
-   "url": "/haber/antutu-acikladi-en-guclu-android-telefonlar-ekim-2026-a1e6591e/"
-  },
-  {
-   "id": "fa50a92f",
-   "title": "Apple, 2027'yi iPad'lerle açacak: Üç yeni model birden geliyor",
-   "summary": "Apple, 2027 yılının ilk yarısında kapsamlı bir iPad güncellemesi planlıyor. Giriş seviye iPad, iPad Air ve iPad Pro'nun yeni versiyonlarının yıl ortasına kadar piyasaya sürülmesi bekleniyor.",
-   "link": "https://www.donanimhaber.com/apple-2027-yi-ipad-lerle-acacak-uc-yeni-model-birden-geliyor--212367",
-   "image": "https://www.donanimhaber.com/images/images/haber/212367/1200x675apple-2027-yi-ipad-lerle-acacak-uc-yeni-model-birden-geliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-02T11:12:00+00:00",
-   "url": "/haber/apple-2027-yi-ipad-lerle-acacak-uc-yeni-model-birden-geliyor-fa50a92f/"
-  },
-  {
    "id": "3660ede1",
    "title": "Ayasofya'nın gizli tünelleri çelikle güçlendirildi, her biri tren rayı gibi",
    "summary": "Ayasofya'nın altındaki yaklaşık 9 kilometrelik gizli tüneller gün yüzüne çıkarılıyor. Tarihi mekanın altından 3 bin ton çamur ve moloz temizlendi.",
@@ -968,17 +990,6 @@
    "category": "gundem",
    "date": "2026-11-02T10:58:29+00:00",
    "url": "/haber/ayasofya-nin-gizli-tunelleri-celikle-guclendirildi-her-biri-tren-rayi-3660ede1/"
-  },
-  {
-   "id": "6cfb421f",
-   "title": "Yerel seçimlerde 'kent uzlaşısı' ile seçilen meclis üyeleri DEM Parti'ye katılıyor",
-   "summary": "DEM Parti, 31 Mart 2024 yerel seçimlerindeki kent uzlaşısı stratejisi kampasında seçilen belediye meclis üyelerinin partiye katılacağını açıkladı.",
-   "link": "https://www.bbc.com/turkce/articles/ck0j0lw68749o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55a5/live/dcc86bb0-d6ab-11f1-ac90-f7afd947062e.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-02T10:56:22+00:00",
-   "url": "/haber/yerel-secimlerde-kent-uzlasisi-ile-secilen-meclis-uyeleri-dem-parti-ye-6cfb421f/"
   },
   {
    "id": "5d8bbcea",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-10-30T12:31:00+00:00",
    "url": "/haber/olaganustu-tasfiyeye-konu-fonlardaki-ilk-ara-odemeler-basladi-bcbb17f5/"
-  },
-  {
-   "id": "fd85a025",
-   "title": "'Ferritin yüzü': Demir eksikliği dış görünüşten anlaşılabilir mi?",
-   "summary": "Sosyal medyada “ferritin yüzü” adıyla yayılan paylaşımlar solgun cilt, göz altı morlukları ve saç dökülmesini demir eksikliğine bağlarken, doktorlar yalnızca dış görünüşe bakılarak tanı konulamayacağını vurguluyor.",
-   "link": "https://www.bbc.com/turkce/articles/cmy93gj7d543o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c425/live/edea3700-cedd-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-10-30T11:40:15+00:00",
-   "url": "/haber/ferritin-yuzu-demir-eksikligi-dis-gorunusten-anlasilabilir-mi-fd85a025/"
   },
   {
    "id": "0099aac3",
