@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T04:01:05.325160+00:00",
+ "updated": "2026-11-02T04:30:56.098146+00:00",
  "items": [
   {
    "id": "12a899be",
@@ -9,8 +9,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-02T04:00:00+00:00",
+   "date": "2026-11-02T04:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-12a899be/"
+  },
+  {
+   "id": "c4aa8e02",
+   "title": "Yeni iPad Air, iPad ve iPad Pro yolda",
+   "summary": "Apple'ın yeni iPad modelleri gelecek yılın ilk yarısında bekleniyor. iPad Air OLED ekrana, iPad A19 çipine, iPad Pro ise buhar odasına kavuşacak.",
+   "link": "https://shiftdelete.net/yeni-ipad-modelleri-air-ipad-pro-geliyor",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/0784e9c5d5bcce7e0543d297d491b90db1272b2c.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T04:28:59+00:00",
+   "url": "/haber/yeni-ipad-air-ipad-ve-ipad-pro-yolda-c4aa8e02/"
+  },
+  {
+   "id": "432ccd26",
+   "title": "Ticaret Bakanlığı, 2 GSM Şirketine Milyonlarca TL Ceza Verdi",
+   "summary": "Tiacaret Bakanlığı Reklam Kurulu, iki GSM şirketine milyonlarca TL ceza verdi.",
+   "link": "https://www.webtekno.com/rekabet-kurulu-gsm-sirketleri-ceza-h228079.html",
+   "image": "https://imgrosetta.webtekno.com/file/695200/695200-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T04:23:02+00:00",
+   "url": "/haber/ticaret-bakanligi-2-gsm-sirketine-milyonlarca-tl-ceza-verdi-432ccd26/"
+  },
+  {
+   "id": "9e59f2ec",
+   "title": "Türkiye'de 15 Yaş Altına Sosyal Medya Yasağı Yürürlüğe Girdi",
+   "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı tarafından hazırlanan 15 yaş altı sosyal medya yasağı yürürlüğe girdi.",
+   "link": "https://www.webtekno.com/turkiye-15-yas-alti-sosyal-medya-yasagi-yururluge-girdi-h228076.html",
+   "image": "https://imgrosetta.webtekno.com/file/695197/695197-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-02T04:14:04+00:00",
+   "url": "/haber/turkiye-de-15-yas-altina-sosyal-medya-yasagi-yururluge-girdi-9e59f2ec/"
+  },
+  {
+   "id": "48706697",
+   "title": "GLM 5.3, Firefox'u yamalar üzerinden hackledi",
+   "summary": "Epoch AI araştırmacıları, açık yapay zekâ modeli GLM 5.3'ün Firefox'taki henüz kullanıcıya ulaşmamış güvenlik yamalarını kullanarak sandbox korumasını aştığını gösterdi.",
+   "link": "https://shiftdelete.net/glm-5-3-firefox-guvenlik-yamalari-saldiri",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/3ab06557082af556b152a9595e9b7b4007b170db.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-02T04:13:51+00:00",
+   "url": "/haber/glm-5-3-firefox-u-yamalar-uzerinden-hackledi-48706697/"
   },
   {
    "id": "25297a0b",
@@ -640,17 +684,6 @@
    "url": "/haber/sodyum-pil-1000-sarjda-yuzde-90-kapasite-korudu-c159cbac/"
   },
   {
-   "id": "407e7bcd",
-   "title": "Game Garaj Slayer5 7XL-5060 İnceleme: RTX 5060 ve 240 Hz Oyun Bilgisayarı",
-   "summary": "",
-   "link": "https://shiftdelete.net/game-garaj-slayer5-7xl-5060-inceleme-rtx-5060-ve-17-inc-240-hz-ekran",
-   "image": "https://shiftdelete.net/static/img/content/26-11/01/whatsapp-image-2026-11-01-at-174317-1.jpeg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T15:02:00+00:00",
-   "url": "/haber/game-garaj-slayer5-7xl-5060-inceleme-rtx-5060-ve-240-hz-oyun-bilgisaya-407e7bcd/"
-  },
-  {
    "id": "7cc7d814",
    "title": "Chrome'da Sayfada Bul dönemi değişiyor: İki yeni özellik geliyor",
    "summary": "Google Chrome, Ctrl+F ile kullanılan Sayfada Bul özelliğine büyük/küçük harf duyarlı arama ve ekrandaki sonuçları atlamayı sağlayan yeni gezinme okları ekliyor.",
@@ -660,17 +693,6 @@
    "category": "teknoloji",
    "date": "2026-11-01T15:00:00+00:00",
    "url": "/haber/chrome-da-sayfada-bul-donemi-degisiyor-iki-yeni-ozellik-geliyor-7cc7d814/"
-  },
-  {
-   "id": "7271c4a7",
-   "title": "Çinli otomobil üreticilerinin yüzde 90'ı zararda",
-   "summary": "Chery International Başkanı Zhang Guibing, Çinli otomobil üreticilerinin yaklaşık yüzde 90'ının zarar ettiğini açıkladı. Artan geliştirme maliyetleri birçok markanın sonunu getirebilir.",
-   "link": "https://shiftdelete.net/cinli-otomobil-ureticileri-zarar-ediyor",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/d7d38aaa09058441414d5796851bf7b221f292ff.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-01T14:53:58+00:00",
-   "url": "/haber/cinli-otomobil-ureticilerinin-yuzde-90-i-zararda-7271c4a7/"
   },
   {
    "id": "bc314d24",
