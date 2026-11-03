@@ -1,16 +1,115 @@
 {
- "updated": "2026-11-03T15:31:10.219366+00:00",
+ "updated": "2026-11-03T16:01:10.800074+00:00",
  "items": [
+  {
+   "id": "2b623a37",
+   "title": "SpaceX, ABD'de mobil operatör pazarına satın almayla girebilir",
+   "summary": "SpaceX, Starlink Mobile hizmetini büyütmek ve ABD'nin büyük operatörleriyle rekabet etmek için Boost Mobile'ı satın almayı değerlendiriyor. Şirketin EchoStar ile görüşmeler yürüttüğü öne sürüldü.",
+   "link": "https://www.donanimhaber.com/spacex-abd-de-mobil-operator-pazarina-satin-almayla-girebilir--212389",
+   "image": "https://www.donanimhaber.com/images/images/haber/212389/1200x675spacex-abd-de-mobil-operator-pazarina-satin-almayla-girebilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-03T16:00:00+00:00",
+   "url": "/haber/spacex-abd-de-mobil-operator-pazarina-satin-almayla-girebilir-2b623a37/"
+  },
+  {
+   "id": "78fc5b9e",
+   "title": "BM, çatışmaların şiddetlendiği Yemen'de yerinden edilmelerin 3 katına çıktığını bildirdi",
+   "summary": "Birleşmiş Milletler Nüfus Fonu (UNFPA) Yemen Temsilcisi Francesco Galtieri, ülkede yerinden edilmelerin 3 katına çıktığını, yaklaşık 300 bin kişinin evlerinden ayrılmak zorunda kaldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-catismalarin-siddetlendigi-yemende-yerinden-edilmelerin-3-katina-ciktigini-bildirdi/4110300",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T15:55:01+00:00",
+   "url": "/haber/bm-catismalarin-siddetlendigi-yemen-de-yerinden-edilmelerin-3-katina-c-78fc5b9e/"
+  },
+  {
+   "id": "c5ed77ee",
+   "title": "Okul bahçesindeki ağacı yakıp poz verdiler. İki öğrenci gözaltında",
+   "summary": "İzmir'de bir grup öğrenci okul bahçesindeki palmiye ağacını yakarak önünde poz verdi. Olayla ilgili 2 öğrenci gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/okul-bahcesindeki-agaci-yakip-poz-verdiler-iki-ogrenci-gozaltinda-1749256",
+   "image": "https://images.ntv.com.tr/images/AA-20261103-42954348-42954342-ISTANBULDA_TRAFIK_YOGUNLUGU_YUZDE_89A_CIKTIcopys-572733.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T15:54:41+00:00",
+   "url": "/haber/okul-bahcesindeki-agaci-yakip-poz-verdiler-iki-ogrenci-gozaltinda-c5ed77ee/"
+  },
+  {
+   "id": "23419252",
+   "title": "Apple servis gelirleri rekor düzeye ulaştı",
+   "summary": "Ternus, Apple'ın dördüncü çeyrek finansal sonuçlarını değerlendirirken 2.5 milyar aktif cihaz sayısını yineledi. Büyüyen kullanıcı tabanı, Apple'a yalnızca servislerden 31.57 milyar dolar kazandırdı.",
+   "link": "https://www.donanimhaber.com/apple-servis-gelirleri-rekor-duzeye-ulasti--212405",
+   "image": "https://www.donanimhaber.com/images/images/haber/212405/1200x675apple-servis-gelirleri-rekor-duzeye-ulasti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-03T15:49:27+00:00",
+   "url": "/haber/apple-servis-gelirleri-rekor-duzeye-ulasti-23419252/"
+  },
+  {
+   "id": "5e80b301",
+   "title": "Philips OneTurn Günlük Ütü İncelemesi - Her eve lazım!",
+   "summary": "Philips OneTurn günlük ütü inceleme videosuyla karşınızdayız. Geleneksel ütü performansını dikey buharlı düzleştiricinin pratikliğiyle birleştiren Philips OneTurn günlük ütüyü sizler nasıl buldunuz?",
+   "link": "https://www.donanimhaber.com/philips-oneturn-gunluk-utu-incelemesi-her-eve-lazim--212254",
+   "image": "https://www.donanimhaber.com/images/images/haber/212254/1200x675philips-oneturn-gunluk-utu-incelemesi-her-eve-lazim.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-03T15:48:51+00:00",
+   "url": "/haber/philips-oneturn-gunluk-utu-incelemesi-her-eve-lazim-5e80b301/"
+  },
+  {
+   "id": "16bee524",
+   "title": "Kolombiya'da 5,4 büyüklüğünde deprem",
+   "summary": "Kolombiya'da meydana gelen 5,4 büyüklüğündeki depremde ilk belirlemelere göre 1 kişi yaralandı, bazı yapılarda hasar oluştu.",
+   "link": "https://www.aa.com.tr/tr/dunya/kolombiyada-5-4-buyuklugunde-deprem/4110295",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T15:46:47+00:00",
+   "url": "/haber/kolombiya-da-5-4-buyuklugunde-deprem-16bee524/"
+  },
+  {
+   "id": "6c0c1371",
+   "title": "Galaxy Ring'e uyku apnesi için FDA onayı",
+   "summary": "Samsung, Galaxy Ring için gelişmiş uyku apnesi tespitinin temmuzda FDA onayı aldığını duyurdu. Özellik yapay zekayla her saatteki nefes kesintisi sayısını ölçüyor.",
+   "link": "https://shiftdelete.net/galaxy-ring-uyku-apnesi-fda-onayi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/5eef0aa576ebb867eb3d8a01f03a13d9e6d5bc99.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-03T15:44:53+00:00",
+   "url": "/haber/galaxy-ring-e-uyku-apnesi-icin-fda-onayi-6c0c1371/"
+  },
+  {
+   "id": "61bb1839",
+   "title": "Hakkı Alkan, SDN'nin 20 yılını anlattı",
+   "summary": "ShiftDelete.Net'in kurucusu Hakkı Alkan, Inc. Türkiye'ye verdiği röportajda arkadaşının bilgisayarında başlayan hikâyeyi, geri çevirdiği hisse satışı teklifini ve 2027 planlarını anlattı.",
+   "link": "https://shiftdelete.net/hakki-alkan-inc-turkiye-roportaji-shiftdelete-net-hikayesi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/sdntv-eqGVUFXC0Y8.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-03T15:40:19+00:00",
+   "url": "/haber/hakki-alkan-sdn-nin-20-yilini-anlatti-61bb1839/"
+  },
   {
    "id": "a8532121",
    "title": "İstanbul'da trafik kilit. Yoğunluk yüzde 89'a çıktı",
-   "summary": "İstanbul'da iş çıkışı saatlerinde sağanak yağışın etkisi olması nedeniyle trafik durma noktasına geldi.",
+   "summary": "İstanbul'da iş çıkışı saatlerinde sağanak yağışın etkili olması nedeniyle trafik durma noktasına geldi.",
    "link": "https://www.ntv.com.tr/turkiye/istanbulda-trafik-kilit-yogunluk-yuzde-89a-cikti-1749254",
    "image": "https://images.ntv.com.tr/images/AA-20261103-42954348-42954342-ISTANBULDA_TRAFIK_YOGUNLUGU_YUZDE_89A_CIKTI-407002.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-03T15:25:55+00:00",
+   "date": "2026-11-03T15:32:29+00:00",
    "url": "/haber/istanbul-da-trafik-kilit-yogunluk-yuzde-89-a-cikti-a8532121/"
+  },
+  {
+   "id": "5f6342e0",
+   "title": "İran: ABD ile anlaşma konusunda yeni bir gelişme yok",
+   "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ABD ile olası bir anlaşmaya ilişkin yeni bir gelişme yaşanmadığını, taraflar arasındaki mesaj alışverişinin arabulucular üzerinden sürdüğünü bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-abd-ile-anlasma-konusunda-yeni-bir-gelisme-yok/4110283",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T15:29:54+00:00",
+   "url": "/haber/iran-abd-ile-anlasma-konusunda-yeni-bir-gelisme-yok-5f6342e0/"
   },
   {
    "id": "d584b45c",
@@ -222,17 +321,6 @@
    "url": "/haber/nissan-fiyat-listesi-kasim-2026-tum-modeller-1bfaf013/"
   },
   {
-   "id": "e24d4c2b",
-   "title": "Rusya'nın önde gelen bulut ve barındırma sağlayıcısı Beget'e siber saldırı",
-   "summary": "Rusya'nın internet barındırma ve bulut hizmetleri sağlayıcısı Beget, siber saldırı sonucu bulut sistemlerindeki verilerin kaybolduğunu, hizmetlerin yeniden başlatılması için çalışmaların sürdüğünü duyurdu.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/rusyanin-onde-gelen-bulut-ve-barindirma-saglayicisi-begete-siber-saldiri/4110209",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T14:32:43+00:00",
-   "url": "/haber/rusya-nin-onde-gelen-bulut-ve-barindirma-saglayicisi-beget-e-siber-sal-e24d4c2b/"
-  },
-  {
    "id": "6fef3dd5",
    "title": "MİT Başkanı Kalın, Birleşik Arap Emirlikleri'ni ziyaret etti",
    "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Birleşik Arap Emirlikleri'ne (BAE) ziyarette bulundu.",
@@ -255,17 +343,6 @@
    "url": "/haber/bmw-tesla-fsd-ye-rakip-sehir-ici-surus-sistemini-2027-de-sunacak-6e4eca46/"
   },
   {
-   "id": "82174877",
-   "title": "ABD Adalet Bakanlığı ilk kez tüm eyaletlerde seçim gözlemcileri görevlendirecek",
-   "summary": "ABD Adalet Bakanlığı, bazı eyaletlerde oy kullanma işleminin başladığı ara seçimlerde, ilk kez 50 eyaletin tümünde seçim gözlemcilerinin görevlendirileceğini açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-adalet-bakanligi-ilk-kez-tum-eyaletlerde-secim-gozlemcileri-gorevlendirecek/4110198",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T14:23:45+00:00",
-   "url": "/haber/abd-adalet-bakanligi-ilk-kez-tum-eyaletlerde-secim-gozlemcileri-gorevl-82174877/"
-  },
-  {
    "id": "386dbefd",
    "title": "Meta, Yeni Bir İnsansı Robot Üzerinde Çalışıyor: Evinizdeki Yeni Hizmetçi mi, Milyar Dolarlık Bir Tuzak mı?",
    "summary": "Meta'nın insansı robot planı, tüketicileri aylık aboneliklere bağlayarak yapay zekâ devrimini ceplerinden finanse ettirmeyi amaçlıyor.",
@@ -286,17 +363,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T14:20:27+00:00",
    "url": "/haber/galatasaray-stuttgart-maci-canli-izle-tabii-yayin-167fd2d1/"
-  },
-  {
-   "id": "9c42d1c7",
-   "title": "Güney Afrikalılar yerel seçimler için yarın sandık başına gidecek",
-   "summary": "Güney Afrika Cumhuriyeti’nde seçmenler, yerel yönetimleri belirlemek üzere yarın sandık başına gidecek.",
-   "link": "https://www.aa.com.tr/tr/dunya/guney-afrikalilar-yerel-secimler-icin-yarin-sandik-basina-gidecek/4110184",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T14:18:15+00:00",
-   "url": "/haber/guney-afrikalilar-yerel-secimler-icin-yarin-sandik-basina-gidecek-9c42d1c7/"
   },
   {
    "id": "10e59d91",
@@ -341,17 +407,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T14:15:05+00:00",
    "url": "/haber/mkbhd-iphone-duo-dan-iphone-18-pro-ya-dondu-41a65410/"
-  },
-  {
-   "id": "aa520e60",
-   "title": "Bakan Bayraktar: YEKA GES-2026 yarışmalarıyla 2 bin 285 megavatlık kapasite tahsisi gerçekleştirdik",
-   "summary": "Bakan Bayraktar, 18 ayrı saha için düzenlenen rüzgar ve güneş enerjisi yarışmalarıyla 2 bin 285 megavatlık kapasite tahsisi gerçekleştirdiklerini belirterek \"Bu sayede yıllık 1 milyar 220 milyon metreküp doğal gaz…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-bayraktar-yeka-ges-2026-yarismalariyla-2-bin-285-megavatlik-kapasite-tahsisi-gerceklestirdik/4110165",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T14:09:36+00:00",
-   "url": "/haber/bakan-bayraktar-yeka-ges-2026-yarismalariyla-2-bin-285-megavatlik-kapa-aa520e60/"
   },
   {
    "id": "7282b6fa",
@@ -607,17 +662,6 @@
    "url": "/haber/galaxy-a54-e-one-ui-9-0-dunya-genelinde-geldi-d19ad0c4/"
   },
   {
-   "id": "2ad03b03",
-   "title": "Switch 2 oyunları ilk Switch'e taşındı",
-   "summary": "Switch 2 oyunları, tek bir geliştiricinin çalışmasıyla orijinal Switch'e taşındı. Mario Kart World ve Pokémon Pokopia eski konsolda oynanabilir seviyeye yaklaştı.",
-   "link": "https://shiftdelete.net/switch-2-oyunlari-ilk-switch-e-tasindi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/05210c6526b97c55a49a15c5590258dee6233659.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T13:05:00+00:00",
-   "url": "/haber/switch-2-oyunlari-ilk-switch-e-tasindi-2ad03b03/"
-  },
-  {
    "id": "2227c306",
    "title": "Tamamen elektrikli Yamaha NMAX E tanıtıldı",
    "summary": "Tamamen elektrikli Yamaha NMAX E, 125 cc’lik benzinli scooter’lara eşdeğer bir model olarak konumlandırılıyor ve şirketin ufak boyutlu eAxle motor ünitesiyle 6,7 kW (9 beygir) güç sunuyor. Maksimum gücü 7,5 kW (10…",
@@ -660,17 +704,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T12:41:53+00:00",
    "url": "/haber/2027-de-otomobil-muayene-ucreti-4-203-tl-olacak-053c30fe/"
-  },
-  {
-   "id": "a5a99b61",
-   "title": "Galaxy Z Fold 9 Ultra'da yeni 200 MP kamera",
-   "summary": "Galaxy Z Fold 9 Ultra'nın kamera donanımına dair ilk somut iddialar ortaya çıktı. Yeni bir 200 MP ana kamera ve 3 kat optik zoom öne çıkıyor.",
-   "link": "https://shiftdelete.net/galaxy-z-fold-9-ultra-kamera-ozellikleri",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/3bf8b7e09937254612d5e72f8b066ae40e2f2763.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T12:38:14+00:00",
-   "url": "/haber/galaxy-z-fold-9-ultra-da-yeni-200-mp-kamera-a5a99b61/"
   },
   {
    "id": "d8bfd26b",
@@ -726,6 +759,17 @@
    "category": "teknoloji",
    "date": "2026-11-03T12:16:00+00:00",
    "url": "/haber/2027-de-trafik-cezalari-ne-kadar-olacak-iste-beklenen-tutarlar-e77f177a/"
+  },
+  {
+   "id": "a68b75c6",
+   "title": "Bakan Tekin: Ülkemizin bütçesinden en çok kaynak eğitime ayrılıyor",
+   "summary": "Milli Eğitim Bakanı Yusuf Tekin, 2003 yılından bu yana bütçede en çok kaynağın eğitime ayrıldığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-tekin-ulkemizin-butcesinden-en-cok-kaynak-egitime-ayriliyor/4109981",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T12:13:07+00:00",
+   "url": "/haber/bakan-tekin-ulkemizin-butcesinden-en-cok-kaynak-egitime-ayriliyor-a68b75c6/"
   },
   {
    "id": "46c1d7a2",
@@ -904,17 +948,6 @@
    "url": "/haber/amd-nin-yeni-grafik-mimarisi-rdna-5-icin-tarih-ortaya-cikti-439398fa/"
   },
   {
-   "id": "85c757f9",
-   "title": "2027 MTV ne kadar olacak? İşte araçlara göre zam hesabı",
-   "summary": "2027 MTV artışına esas olacak yeniden değerleme oranı yüzde 27,83 olarak hesaplandı. Peki oran değişmezse hangi araç için ne kadar vergi ödenecek? Araçlara göre 2027 MTV hesaplama burada!",
-   "link": "https://www.donanimhaber.com/2027-mtv-ne-kadar-olacak-mtv-zam-hesaplama--212414",
-   "image": "https://www.donanimhaber.com/images/images/haber/212414/1200x6752027-mtv-ne-kadar-olacak-mtv-zam-hesaplama.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-03T10:24:27+00:00",
-   "url": "/haber/2027-mtv-ne-kadar-olacak-iste-araclara-gore-zam-hesabi-85c757f9/"
-  },
-  {
    "id": "8596ff3c",
    "title": "Bakan Işıkhan'dan emekli maaşı açıklaması",
    "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, \"Emeklilerimizin yaşadığı ekonomik koşulların farkındayız ve refah seviyelerini yükseltmeye yönelik çalışmalarımızı, kararlılıkla sürdürüyoruz. Bu kapsamda, 2027 yılı…",
@@ -924,17 +957,6 @@
    "category": "gundem",
    "date": "2026-11-03T10:21:00+00:00",
    "url": "/haber/bakan-isikhan-dan-emekli-maasi-aciklamasi-8596ff3c/"
-  },
-  {
-   "id": "c712137c",
-   "title": "NASA’nın Swift teleskobu bu hafta Dünya'ya düşecek: Parçalar yere ulaşacak",
-   "summary": "NASA'nın 22 yıldır uzayda görev yapan Swift teleskobu bu hafta Dünya'ya düşecek. Teleskobun büyük bölümü atmosferde yanarken bazı parçalarının yeryüzüne ulaşabileceği tahmin ediliyor.",
-   "link": "https://www.donanimhaber.com/nasa-nin-emektar-swift-teleskobu-bu-hafta-dunya-ya-dusecek--212406",
-   "image": "https://www.donanimhaber.com/images/images/haber/212406/1200x675nasa-nin-emektar-swift-teleskobu-bu-hafta-dunya-ya-dusecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-03T10:19:00+00:00",
-   "url": "/haber/nasa-nin-swift-teleskobu-bu-hafta-dunya-ya-dusecek-parcalar-yere-ulasa-c712137c/"
   },
   {
    "id": "c5547190",
@@ -968,17 +990,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T10:00:55+00:00",
    "url": "/haber/2027-kopru-ve-otoyol-ucretleri-ne-kadar-olacak-iste-zamli-gecis-ucretl-e8242c40/"
-  },
-  {
-   "id": "4730576c",
-   "title": "Telefon almanın tam zamanı: Amazon'da son ayların en düşük fiyatları!",
-   "summary": "Amazon'da Gülümseten Kasım 2026 indirimine giren telefonlarAmazon'da Gülümseten Kasım 2026 indirimine giren telefonlarAmazon'da Gülümseten Kasım 2026 indirimine giren telefonlar",
-   "link": "https://www.donanimhaber.com/amazon-da-gulumseten-kasim-2026-indirimine-giren-telefonlar--212402",
-   "image": "https://www.donanimhaber.com/images/images/haber/212402/1200x675amazon-da-gulumseten-kasim-2026-indirimine-giren-telefonlar.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-03T09:57:54+00:00",
-   "url": "/haber/telefon-almanin-tam-zamani-amazon-da-son-aylarin-en-dusuk-fiyatlari-4730576c/"
   },
   {
    "id": "1951457d",
@@ -1056,17 +1067,6 @@
    "category": "gundem",
    "date": "2026-11-03T08:22:00+00:00",
    "url": "/haber/bakan-gurlek-fon-sorusturmasinda-kapsamli-suc-yapisi-tespit-edildi-3230ddc8/"
-  },
-  {
-   "id": "cdce0fce",
-   "title": "İstanbul barajlarında uçurum. Kimi yüzde 90'ı aştı, kimi yüzde 3'te kaldı",
-   "summary": "Marmara Bölgesi'ndeki kuvvetli yağışlar, İstanbul'un barajlarına canlılık getirdi. Bazı barajlarda doluluk yüzde 90'ın üzerine çıkarken bazılarında yüzde 3 seviyesinde kalması ise dikkat çekti.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-barajlarinda-ucurum-kimi-yuzde-90i-asti-kimi-yuzde-3te-kaldi-1749192",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_c967ec2c77e2a11b0d898ba15c10cfa5-456457.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-03T08:08:57+00:00",
-   "url": "/haber/istanbul-barajlarinda-ucurum-kimi-yuzde-90-i-asti-kimi-yuzde-3-te-kald-cdce0fce/"
   },
   {
    "id": "e067216f",
