@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:01:20.307453+00:00",
+ "updated": "2026-11-03T01:30:59.453599+00:00",
  "items": [
   {
    "id": "32cce22a",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-03T01:00:00+00:00",
+   "date": "2026-11-03T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-32cce22a/"
+  },
+  {
+   "id": "e067216f",
+   "title": "TÜİK ekim ayı enflasyon verilerini açıklayacak",
+   "summary": "Türkiye İstatistik Kurumu (TÜİK) bugün ekim ayı enflasyon verilerini açıklayacak",
+   "link": "https://www.bbc.com/turkce/articles/cked3j59ld35o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd03/live/feb7c680-d723-11f1-93e1-3b657b665bcf.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-03T01:15:39+00:00",
+   "url": "/haber/tuik-ekim-ayi-enflasyon-verilerini-aciklayacak-e067216f/"
   },
   {
    "id": "09b5f4b4",
@@ -1111,17 +1122,6 @@
    "category": "gundem",
    "date": "2026-11-02T11:56:00+00:00",
    "url": "/haber/siper2-nin-seri-uretimi-2027-de-baslayacak-788e903b/"
-  },
-  {
-   "id": "fd730dee",
-   "title": "Ukrayna ve Rusya'da siber saldırılarla sahte radyasyon alarmı",
-   "summary": "Ukrayna ve Rusya, pazar gecesi nükleer saldırılar da dahil olmak üzere kullanıcılara saldırı uyarısı içeren sahte mesajlar gönderilmesinin ardından, hava saldırısı uyarı uygulamalarının siber saldırılara maruz kaldığını…",
-   "link": "https://www.bbc.com/turkce/articles/c5vgj0dgerm1o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b7d0/live/66cc8c00-d6b2-11f1-aacc-5b5f23abff4b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-02T11:46:27+00:00",
-   "url": "/haber/ukrayna-ve-rusya-da-siber-saldirilarla-sahte-radyasyon-alarmi-fd730dee/"
   },
   {
    "id": "45bb4dc1",
