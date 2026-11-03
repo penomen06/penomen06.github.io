@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:01:26.055650+00:00",
+ "updated": "2026-11-03T21:31:06.887919+00:00",
  "items": [
   {
    "id": "900f0ee0",
@@ -9,8 +9,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-03T21:00:00+00:00",
+   "date": "2026-11-03T21:30:01+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-900f0ee0/"
+  },
+  {
+   "id": "ff6c7e08",
+   "title": "UKMTO: Umman açıklarında bir tankere bilinmeyen 2 mühimmat isabet etti",
+   "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Umman'ın Lima bölgesinin 14 deniz mili kuzeydoğusunda bir tankere bilinmeyen 2 cismin isabet ettiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukmto-umman-aciklarinda-bir-tankere-bilinmeyen-2-muhimmat-isabet-etti/4110581",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T21:16:50+00:00",
+   "url": "/haber/ukmto-umman-aciklarinda-bir-tankere-bilinmeyen-2-muhimmat-isabet-etti-ff6c7e08/"
+  },
+  {
+   "id": "e11bd1d8",
+   "title": "İspanya'da hızlı tren kazasının ardından Ulaştırma Bakanı Puente istifa etti",
+   "summary": "İspanya Ulaştırma ve Sürdürülebilir Hareketlilik Bakanı Oscar Puente Santiago, 28 Ekim'de Toledo kenti yakınlarında iki hızlı trenin çarpıştığı ve 69 kişinin öldüğü kazanın ardından istifa etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/ispanyada-hizli-tren-kazasinin-ardindan-ulastirma-bakani-puente-istifa-etti/4110578",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T21:15:18+00:00",
+   "url": "/haber/ispanya-da-hizli-tren-kazasinin-ardindan-ulastirma-bakani-puente-istif-e11bd1d8/"
+  },
+  {
+   "id": "634bacf9",
+   "title": "Arap Koalisyonu: Suudi Arabistan'ın güneyinde bir İHA imha edildi",
+   "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, Suudi Arabistan'ın güneyinde bir insansız hava aracının (İHA) imha edildiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistanin-guneyinde-bir-iha-imha-edildi/4110575",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T21:13:07+00:00",
+   "url": "/haber/arap-koalisyonu-suudi-arabistan-in-guneyinde-bir-iha-imha-edildi-634bacf9/"
+  },
+  {
+   "id": "4a78cc0a",
+   "title": "Türk Kızılay Kanunu Teklifi TBMM Genel Kurulunda",
+   "summary": "TBMM Genel Kurulunda, Türk Kızılay Kanunu Teklifi'nin bir maddesi daha kabul edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-kizilay-kanunu-teklifi-tbmm-genel-kurulunda/4110564",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T21:05:35+00:00",
+   "url": "/haber/turk-kizilay-kanunu-teklifi-tbmm-genel-kurulunda-4a78cc0a/"
   },
   {
    "id": "8fd02c49",
@@ -387,17 +431,6 @@
    "url": "/haber/binance-soygunu-sahte-is-gorusmesiyle-baslamis-cfc9ee4f/"
   },
   {
-   "id": "8be88646",
-   "title": "İranlı yetkili, Hürmüz Boğazı'nın 4 ülkenin gemilerinin geçişine açık olduğunu söyledi",
-   "summary": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkan Yardımcısı Emir Hayat Mukaddem, Hürmüz Boğazı'nda Hindistan, Çin, Irak ve Katar'a ait gemilerin geçiş kısıtlamalarından muaf tutulduğunu söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iranli-yetkili-hurmuz-bogazinin-4-ulkenin-gemilerinin-gecisine-acik-oldugunu-soyledi/4110441",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T18:40:55+00:00",
-   "url": "/haber/iranli-yetkili-hurmuz-bogazi-nin-4-ulkenin-gemilerinin-gecisine-acik-o-8be88646/"
-  },
-  {
    "id": "0ee013dd",
    "title": "Apple katlanabilir pazarın %30'unu alabilir",
    "summary": "TrendForce'un yeni tahminine göre Apple, katlanabilir telefon pazarında 2027'de %29,8 paya ulaşabilir. iPhone Duo pazar payı artarken Samsung ve Huawei geriliyor.",
@@ -418,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T18:34:00+00:00",
    "url": "/haber/siyah-ekran-sorunu-ve-cozumu-bilgisayar-aciliyor-ama-goruntu-gelmiyors-91b73fcb/"
-  },
-  {
-   "id": "9356275c",
-   "title": "İspanya hükümeti, tren kazalarını önlemek için ek güvenlik tedbirleri getirdi",
-   "summary": "İspanya'da azınlık sol koalisyon hükümeti, Toledo yakınlarında 2 hızlı trenin çarpıştığı ve 69 kişinin hayatını kaybettiği kazanın ardından yüksek hızlı trenlerde güvenliği artırmak için yeni bir plan devreye soktu.",
-   "link": "https://www.aa.com.tr/tr/dunya/ispanya-hukumeti-tren-kazalarini-onlemek-icin-ek-guvenlik-tedbirleri-getirdi/4110436",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T18:33:09+00:00",
-   "url": "/haber/ispanya-hukumeti-tren-kazalarini-onlemek-icin-ek-guvenlik-tedbirleri-g-9356275c/"
   },
   {
    "id": "4c8be5e8",
@@ -462,28 +484,6 @@
    "category": "gundem",
    "date": "2026-11-03T18:22:33+00:00",
    "url": "/haber/abd-nin-ilk-musluman-senatoru-olabilecek-abdul-el-sayed-kimdir-73fbecea/"
-  },
-  {
-   "id": "7c854c6f",
-   "title": "İsrail'de muhalefet, hükümet kurmak için Haredi partileriyle işbirliği arıyor",
-   "summary": "İsrail'de muhalefet lideri Gadi Eisenkot'un Netanyahu'yu iktidardan uzaklaştırmak için Haredi partilerle işbirliği arayışına, Şas'ın Netanyahu'ya desteğini sürdürme kararı gölge düşürdü ve siyasi çıkmazı derinleştirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-hukumet-kurmak-icin-haredi-partileriyle-isbirligi-ariyor/4110431",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T18:22:16+00:00",
-   "url": "/haber/israil-de-muhalefet-hukumet-kurmak-icin-haredi-partileriyle-isbirligi-7c854c6f/"
-  },
-  {
-   "id": "5348cf1f",
-   "title": "Somali'den İsrail'in Somaliland'daki diplomatik girişimlerine tepki",
-   "summary": "Somali hükümeti, İsrail'in Somaliland'ın Hargeisa kentinde büyükelçi akredite etme ve büyükelçilik binası inşa etme girişimlerini ülkenin egemenliği ve toprak bütünlüğünün ihlali olarak nitelendirerek tepki gösterdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/somaliden-israilin-somalilanddaki-diplomatik-girisimlerine-tepki/4110421",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T18:14:24+00:00",
-   "url": "/haber/somali-den-israil-in-somaliland-daki-diplomatik-girisimlerine-tepki-5348cf1f/"
   },
   {
    "id": "4b50e428",
