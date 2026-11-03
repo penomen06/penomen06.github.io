@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-03T19:01:17.889437+00:00",
+ "updated": "2026-11-03T19:31:10.514898+00:00",
  "items": [
+  {
+   "id": "961a349f",
+   "title": "200 derece sıcaklığa dayanan katı hal batarya 1.000 km menzil vadediyor",
+   "summary": "Sunwoda'nın katı hal bataryası, 200°C sıcaklıkta alev oluşmadan test edildi. Şirket, yüksek enerji yoğunluğuyla elektrikli araçlarda 1.000 kilometreyi aşan menzil hedefliyor.",
+   "link": "https://www.donanimhaber.com/200-derece-sicakliga-dayanan-kati-hal-batarya-geliyor--212429",
+   "image": "https://www.donanimhaber.com/images/images/haber/212429/1200x675200-derece-sicakliga-dayanan-kati-hal-batarya-geliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-03T19:30:00+00:00",
+   "url": "/haber/200-derece-sicakliga-dayanan-kati-hal-batarya-1-000-km-menzil-vadediyo-961a349f/"
+  },
+  {
+   "id": "e2de161f",
+   "title": "İstanbul'da sağanak etkili oluyor. Valilik uyardı, bu saatlere dikkat",
+   "summary": "Meteoroloji'nin uyarılarının ardından İstanbul'da beklenen sağanak yağış akşam saatlerinde etkili oldu. Trafik durma noktasına geldi. İstanbul Valiliği sabah saatleri için uyarıda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-etkili-oluyor-valilik-uyardi-bu-saatlere-dikkat-1749258",
+   "image": "https://images.ntv.com.tr/images/AW824679_01-439546.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T19:23:11+00:00",
+   "url": "/haber/istanbul-da-saganak-etkili-oluyor-valilik-uyardi-bu-saatlere-dikkat-e2de161f/"
+  },
+  {
+   "id": "5f13b953",
+   "title": "Bakan Kacır, sel felaketinden etkilenen işletmelere 1 milyon lira destek vereceklerini duyurdu",
+   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul başta olmak üzere farklı şehirlerde yaşanan sel ve taşkın felaketlerinden etkilenen KOBİ'lere 1 milyon lira, mikro işletmelere ise 500 bin liraya kadar kredi…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-sel-felaketinden-etkilenen-isletmelere-1-milyon-lira-destek-vereceklerini-duyurdu/4110472",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T19:21:08+00:00",
+   "url": "/haber/bakan-kacir-sel-felaketinden-etkilenen-isletmelere-1-milyon-lira-deste-5f13b953/"
+  },
+  {
+   "id": "80f9f0b5",
+   "title": "Süper Lig'den 7 takım, PFDK'ye sevk edildi",
+   "summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Trendyol Süper Lig'den 7 takımı Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
+   "link": "https://www.aa.com.tr/tr/spor/super-ligden-7-takim-pfdkye-sevk-edildi/4110470",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T19:18:11+00:00",
+   "url": "/haber/super-lig-den-7-takim-pfdk-ye-sevk-edildi-80f9f0b5/"
+  },
+  {
+   "id": "bcfec1e9",
+   "title": "Ben-Gvir'in tehdit ettiği Filistinli esire, 9 kurşunla yaralanmasına rağmen sadece ağrı kesici verilmiş",
+   "summary": "Ben-Gvir'in hücresine baskın düzenleyerek idamla tehdit ettiği Filistinli esir Selame'nin nişanlısı Zamil, Selame'nin 9 kurşunla yaralandığını, 3 gün sonra revire götürülüp ağrı kesici verildikten sonra yeniden hücre…",
+   "link": "https://www.aa.com.tr/tr/dunya/ben-gvirin-tehdit-ettigi-filistinli-esire-9-kursunla-yaralanmasina-ragmen-sadece-agri-kesici-verilmis/4110469",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T19:16:58+00:00",
+   "url": "/haber/ben-gvir-in-tehdit-ettigi-filistinli-esire-9-kursunla-yaralanmasina-ra-bcfec1e9/"
+  },
+  {
+   "id": "ea563c19",
+   "title": "Tesla FSD'de hız payı yüzde 10'a düşürüldü",
+   "summary": "Tesla FSD, Avrupa'da artık hız sınırının yüzde 50 üzerine çıkacak şekilde ayarlanamıyor. Hollanda'nın RDW kurumu, hız payını yüzde 10'a indiren güncellemeyi onayladı.",
+   "link": "https://shiftdelete.net/tesla-fsd-avrupa-hiz-payi-yuzde-10",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/72eed3a8b131e5eedd661afad9a3fcc90593184b.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-03T19:13:51+00:00",
+   "url": "/haber/tesla-fsd-de-hiz-payi-yuzde-10-a-dusuruldu-ea563c19/"
+  },
+  {
+   "id": "6e08e7bc",
+   "title": "Vivo V80 FE tanıtım öncesinde ortaya çıktı: 7.000 mAh batarya ve 50 MP ZEISS kameralar",
+   "summary": "Vivo V80 FE'nin teknik özellikleri tanıtım öncesinde ortaya çıktı. Cihaz, 3.000 nit parlaklığa ulaşabilen AMOLED ekranı, 50 MP ZEISS kameraları ve büyük bataryasıyla iddialı geliyor.",
+   "link": "https://www.donanimhaber.com/vivo-v80-fe-tanitim-oncesinde-ortaya-cikti-iste-ozellikleri--212422",
+   "image": "https://www.donanimhaber.com/images/images/haber/212422/1200x675vivo-v80-fe-tanitim-oncesinde-ortaya-cikti-iste-ozellikleri.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-03T19:10:00+00:00",
+   "url": "/haber/vivo-v80-fe-tanitim-oncesinde-ortaya-cikti-7-000-mah-batarya-ve-50-mp-6e08e7bc/"
+  },
+  {
+   "id": "91137024",
+   "title": "Steam'de her iki oyundan biri yapay zekâ yapımı",
+   "summary": "Steam yapay zekâ oyunları oranı Ekim 2026'da yüzde 49,9'a ulaştı. Yeni eklenen oyunların neredeyse yarısında yapay zekâ kullanılıyor, bağımsız yapımların öne çıkması zorlaşıyor.",
+   "link": "https://shiftdelete.net/steam-yapay-zeka-oyunlari-orani-yuzde-50",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/steam-yapay-zeka-oyunlari-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-03T19:04:03+00:00",
+   "url": "/haber/steam-de-her-iki-oyundan-biri-yapay-zeka-yapimi-91137024/"
+  },
+  {
+   "id": "475e34f4",
+   "title": "İlanda 111 lira yazıp 6 bin istedi, 1 milyon lira ceza yedi",
+   "summary": "Bir ilan sitesinde 111 lira fiyat yazıp 6 bin lira isteyen otomobil yedek parça satıcısına ceza kesildi.",
+   "link": "https://www.ntv.com.tr/turkiye/ilanda-111-lira-yazip-6-bin-istedi-1-milyon-lira-ceza-yedi-1749263",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_14a6ec23cb848a2176ec27ac939bbc6a-246497.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T19:03:53+00:00",
+   "url": "/haber/ilanda-111-lira-yazip-6-bin-istedi-1-milyon-lira-ceza-yedi-475e34f4/"
+  },
   {
    "id": "a0d20a45",
    "title": "Anthropic, gelirlerini bir yılda yüzde 1200 artırdı: Büyük bir “ama” var",
@@ -409,17 +508,6 @@
    "url": "/haber/google-lens-nedir-nasil-kullanilir-0b599e46/"
   },
   {
-   "id": "4db765d8",
-   "title": "DLSS 5 kasımda Hogwarts Legacy'ye geliyor",
-   "summary": "NVIDIA DLSS 5, kasımda Hogwarts Legacy, War Thunder ve Where Winds Meet'e geliyor. Hogwarts Legacy, RTX 5090'da 4K'da 300 FPS'ye kadar çıkabiliyor.",
-   "link": "https://shiftdelete.net/dlss-5-hogwarts-legacy-war-thunder-where-winds-meet-kasim",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/dlss-5-hogwarts-legacy-war-thunder-kasim-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T16:20:02+00:00",
-   "url": "/haber/dlss-5-kasimda-hogwarts-legacy-ye-geliyor-4db765d8/"
-  },
-  {
    "id": "a8ccb9f0",
    "title": "Teknoloji tarihinin en büyük ikinci işlemi: Marvell, Lumentum’u satın alıyor",
    "summary": "Yapay zeka yarışında tarihi satın alma hamlesi! Marvell, veri merkezlerinde yüksek hızlı bağlantı teknolojilerini güçlendirmek için Lumentum’u 115 milyar dolara bünyesine katıyor.",
@@ -431,39 +519,6 @@
    "url": "/haber/teknoloji-tarihinin-en-buyuk-ikinci-islemi-marvell-lumentum-u-satin-al-a8ccb9f0/"
   },
   {
-   "id": "e2de161f",
-   "title": "İstanbul'da sağanak etkili oluyor. Valilik uyardı, bu saatlere dikkat",
-   "summary": "Meteoroloji'nin uyarılarının ardından İstanbul'da beklenen sağanak yağış akşam saatlerinde etkili oldu. Trafik durma noktasına geldi. İstanbul Valiliği sabah saatleri için uyarıda bulundu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-etkili-oluyor-valilik-uyardi-bu-saatlere-dikkat-1749258",
-   "image": "https://images.ntv.com.tr/images/AW824679_01-439546.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-03T16:16:19+00:00",
-   "url": "/haber/istanbul-da-saganak-etkili-oluyor-valilik-uyardi-bu-saatlere-dikkat-e2de161f/"
-  },
-  {
-   "id": "c2355a5d",
-   "title": "Evrensel yardım sinyali \"SOS\" 120. yılında",
-   "summary": "Dünyanın en tanınmış imdat sinyali SOS, 120 yıldır evrensel bir yardım sembolü olmaya devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/evrensel-yardim-sinyali-sos-120-yilinda/4110330",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T16:15:09+00:00",
-   "url": "/haber/evrensel-yardim-sinyali-sos-120-yilinda-c2355a5d/"
-  },
-  {
-   "id": "d4bc4ad1",
-   "title": "Eski cihazlar nasıl geri dönüştürülüyor?",
-   "summary": "Eski telefon ve bilgisayarlar lisanslı bir tesiste radyasyon kontrolünden geçiyor, bileşenlerine ayrılıyor ve devre kartlarından yüzde 99 saflıkta bakır tozu elde ediliyor.",
-   "link": "https://shiftdelete.net/eski-elektronik-cihazlar-nasil-geri-donusturuluyor",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/eski-elektronik-cihaz-geri-donusum-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T16:14:59+00:00",
-   "url": "/haber/eski-cihazlar-nasil-geri-donusturuluyor-d4bc4ad1/"
-  },
-  {
    "id": "0127e860",
    "title": "Rockstar GTA 6 ön yükleme tarihini öne çekti: 212GB yer gerekecek!",
    "summary": "Rockstar Games, Grand Theft Auto VI'nın 212 GB'a kadar depolama alanı gerektireceğini onayladı ve GTA 6 ön yükleme tarihini iki gün öne çekti. İşte detaylar:",
@@ -473,28 +528,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T16:08:26+00:00",
    "url": "/haber/rockstar-gta-6-on-yukleme-tarihini-one-cekti-212gb-yer-gerekecek-0127e860/"
-  },
-  {
-   "id": "850c3e6d",
-   "title": "İngilizce sözlük yayıncısı Collins'e göre 2026'nın kelimesi gölgede bırakmak anlamındaki \"Mogging\"",
-   "summary": "İngilizce sözlük yayıncısı Collins, yılın kelimesini \"birini ya da bir şeyi gölgede bırakmak\" anlamına gelen \"Mogging\" olarak açıkladı.",
-   "link": "https://www.aa.com.tr/tr/kultur/ingilizce-sozluk-yayincisi-collinse-gore-2026nin-kelimesi-golgede-birakmak-anlamindaki-mogging/4110319",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T16:08:11+00:00",
-   "url": "/haber/ingilizce-sozluk-yayincisi-collins-e-gore-2026-nin-kelimesi-golgede-bi-850c3e6d/"
-  },
-  {
-   "id": "0d354f51",
-   "title": "Antika radyo merakı, müze kurma hayaline kapı araladı",
-   "summary": "Sanayi sektöründe hidrolik, pnömatik ve otomasyon alanında faaliyet gösteren iş insanı Hasan Önerbay, yoğun iş temposunun stresini Balat'ta tanıştığı antika dünyasıyla ve şirketinin ofisinde biriktirdiği ahşap kasalı…",
-   "link": "https://www.aa.com.tr/tr/kultur/antika-radyo-meraki-muze-kurma-hayaline-kapi-araladi/4110318",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T16:07:46+00:00",
-   "url": "/haber/antika-radyo-meraki-muze-kurma-hayaline-kapi-araladi-0d354f51/"
   },
   {
    "id": "2b623a37",
@@ -552,17 +585,6 @@
    "url": "/haber/istanbul-da-trafik-kilit-yogunluk-yuzde-89-a-cikti-a8532121/"
   },
   {
-   "id": "85841f89",
-   "title": "BMW'nin efsane Toyota Corolla'ya sataşan reklamı ters tepti",
-   "summary": "BMW sosyal medya hesabında paylaştığı görsel nedeniyle beklenmedik bir tepkiyle karşılaştı. Şirket 1990'ların Corolla'sına sataşınca otomobilseverler Japon efsanesini savunup markayı topa tuttu.",
-   "link": "https://www.donanimhaber.com/bmw-nin-efsane-toyota-corolla-ya-satasan-reklami-ters-tepti--212437",
-   "image": "https://www.donanimhaber.com/images/images/haber/212437/1200x675bmw-nin-efsane-toyota-corolla-ya-satasan-reklami-ters-tepti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-03T15:16:22+00:00",
-   "url": "/haber/bmw-nin-efsane-toyota-corolla-ya-satasan-reklami-ters-tepti-85841f89/"
-  },
-  {
    "id": "27b6a865",
    "title": "GTA 6 için resmi ön indirme tarihi ve boyut açıklandı",
    "summary": "Bugün yapılan resmi paylaşıma göre GTA 6’nın boyutu tam 212 GB seviyesinde yer alıyor. Ön yüklemesine ise 10 Kasım’da başlanacağı (PS5 sahipleri oyunu 9 Kasım Pazartesi’yi 10 Kasım Salı’ya bağlayan gece saat 00:00’dan…",
@@ -594,17 +616,6 @@
    "category": "gundem",
    "date": "2026-11-03T14:50:00+00:00",
    "url": "/haber/son-dakika-mugla-da-deprem-mi-oldu-az-once-deprem-mugla-da-nerede-oldu-6900260e/"
-  },
-  {
-   "id": "6e4eca46",
-   "title": "BMW, Tesla FSD’ye rakip şehir içi sürüş sistemini 2027’de sunacak",
-   "summary": "Otomotiv devi BMW, 2027’de şehir içi sürüş asistanını devreye almayı planlıyor. Tesla FSD’ye rakip olacak sistem, mevcut modellere kablosuz yazılım güncellemesiyle gelecek.",
-   "link": "https://www.donanimhaber.com/bmw-tesla-fsd-ye-rakip-sehir-ici-surus-sistemini-2027-de-sunacak--212424",
-   "image": "https://www.donanimhaber.com/images/images/haber/212424/1200x675bmw-tesla-fsd-ye-rakip-sehir-ici-surus-sistemini-2027-de-sunacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-03T14:25:00+00:00",
-   "url": "/haber/bmw-tesla-fsd-ye-rakip-sehir-ici-surus-sistemini-2027-de-sunacak-6e4eca46/"
   },
   {
    "id": "386dbefd",
@@ -1045,17 +1056,6 @@
    "category": "gundem",
    "date": "2026-11-03T09:01:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-guney-kore-ile-stratejik-ortagiz-d6cd39d4/"
-  },
-  {
-   "id": "471968a4",
-   "title": "Denizli Merkezefendi Belediye Başkanı Şeniz Doğan görevinden uzaklaştırıldı",
-   "summary": "Denizli'de Merkezefendi Belediyesine yönelik yolsuzluk soruşturmasında tutuklanan Belediye Başkanı Şeniz Doğan görevinden uzaklaştırıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/denizli-merkezefendi-belediye-baskani-seniz-dogan-gorevinden-uzaklastirildi-1749204",
-   "image": "https://images.ntv.com.tr/images/ŞenizDoğan-746341.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-03T08:59:36+00:00",
-   "url": "/haber/denizli-merkezefendi-belediye-baskani-seniz-dogan-gorevinden-uzaklasti-471968a4/"
   },
   {
    "id": "3230ddc8",
