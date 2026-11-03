@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:30:57.874175+00:00",
+ "updated": "2026-11-03T00:01:10.276094+00:00",
  "items": [
   {
    "id": "32cce22a",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-02T23:30:00+00:00",
+   "date": "2026-11-03T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-32cce22a/"
+  },
+  {
+   "id": "8dd0e341",
+   "title": "ABD, Ukrayna ile Rusya arasında yürütülecek müzakerelerde arabuluculuk yapacak",
+   "summary": "ABD'nin, 10-11 Kasım'da Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi'de Ukrayna ile Rusya arasında çalışma düzeyinde yürütülecek müzakerelere arabuluculuk yapacağı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-ukrayna-ile-rusya-arasinda-yurutulecek-muzakerelerde-arabuluculuk-yapacak/4109254",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T23:59:03+00:00",
+   "url": "/haber/abd-ukrayna-ile-rusya-arasinda-yurutulecek-muzakerelerde-arabuluculuk-8dd0e341/"
+  },
+  {
+   "id": "18f90e8d",
+   "title": "İsrail askerlerinin Batı Şeria'daki baskınlarında 2 Filistinli yaralandı",
+   "summary": "İsrail askerlerinin işgal altındaki Batı Şeria’nın çeşitli bölgelerine düzenlediği baskınlarda darbedilen 2 Filistinli yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerinin-bati-seriadaki-baskinlarinda-2-filistinli-yaralandi/4109252",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-02T23:50:56+00:00",
+   "url": "/haber/israil-askerlerinin-bati-seria-daki-baskinlarinda-2-filistinli-yaralan-18f90e8d/"
   },
   {
    "id": "1704eccc",
@@ -374,28 +396,6 @@
    "category": "gundem",
    "date": "2026-11-02T19:44:25+00:00",
    "url": "/haber/istanbul-icin-kuvvetli-saganak-uyarisi-595afd54/"
-  },
-  {
-   "id": "2c18eb0b",
-   "title": "İsrail'in Gazze saldırılarında 7 Filistinli daha hayatını kaybetti",
-   "summary": "İsrail ordusunun ateşkes anlaşmasını ihlal ederek Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 2'si daha önce yaralanan 7 Filistinli yaşamını yitirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazze-saldirilarinda-7-filistinli-daha-hayatini-kaybetti/4109143",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T19:43:17+00:00",
-   "url": "/haber/israil-in-gazze-saldirilarinda-7-filistinli-daha-hayatini-kaybetti-2c18eb0b/"
-  },
-  {
-   "id": "75a57cf7",
-   "title": "Trendyol Süper Lig'de görünüm",
-   "summary": "Trendyol Süper Lig'de 10. hafta mücadelesi tamamlandı.",
-   "link": "https://www.aa.com.tr/tr/spor/trendyol-super-ligde-gorunum/4109141",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T19:38:15+00:00",
-   "url": "/haber/trendyol-super-lig-de-gorunum-75a57cf7/"
   },
   {
    "id": "a6fae81a",
