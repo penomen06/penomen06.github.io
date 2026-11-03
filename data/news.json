@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-03T11:30:59.306863+00:00",
+ "updated": "2026-11-03T12:01:10.278800+00:00",
  "items": [
+  {
+   "id": "0a7c8d67",
+   "title": "Özel Kılıçdaroğlu'nu neden eleştirdi, Emir Sarıgül'ün iddialarına ne yanıt verdi?",
+   "summary": "Yeni Parti Genel Başkanı Özgür Özel, CHP Genel Başkanı Kemal Kılıçdaroğlu'nu anayasa değişikliği ve dokunulmazlıkların kaldırılmaları konusunda eleştirdi: \"Nasıl Selahattin Başkanın [Demirtaş] anayasa değişikliğiyle…",
+   "link": "https://www.bbc.com/turkce/articles/cqglwjdx3043o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea84/live/86364a90-d770-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-03T11:59:35+00:00",
+   "url": "/haber/ozel-kilicdaroglu-nu-neden-elestirdi-emir-sarigul-un-iddialarina-ne-ya-0a7c8d67/"
+  },
+  {
+   "id": "baea951f",
+   "title": "Cumhurbaşkanı Erdoğan: 24 yıl önce bugün bir Anadolu ihtilaline imza attık",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan \"Milletimizin teveccühüne ilk kez mazhar olduğumuz 3 Kasım 2002 seçimleriyle büyük ve güçlü Türkiye'nin kapılarını araladık.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-24-yil-once-bugun-bir-anadolu-ihtilaline-imza-attik-1749237",
+   "image": "https://images.ntv.com.tr/images/erdogan2-296861(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T11:57:59+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-24-yil-once-bugun-bir-anadolu-ihtilaline-imza-at-baea951f/"
+  },
+  {
+   "id": "933d6521",
+   "title": "Elektrikli araç şarj istasyonu sayısı arttı",
+   "summary": "EPDK verilerine göre elektrikli araç şarj istasyonu sayısı ve soket kapasitesi büyümeye devam ediyor. Elektrikli araç sayısı 491 bin 492'ye, soket sayısı 48 bin 971'e çıktı.",
+   "link": "https://shiftdelete.net/elektrikli-arac-sarj-istasyonu-sayisi-kasim-2026",
+   "image": "https://ares.shiftdelete.net/2023/12/odmd-aciklama-elektrikli-araclar-tebligi-sasirtti.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-03T11:50:00+00:00",
+   "url": "/haber/elektrikli-arac-sarj-istasyonu-sayisi-artti-933d6521/"
+  },
+  {
+   "id": "88de8421",
+   "title": "Opera GX'e sekme bazlı ses yükseltici geldi",
+   "summary": "Opera GX'in Browser Booster güncellemesi, her sekmenin sesini yüzde 500'e kadar yükselten Ses Yükseltici ile 8 hazır ayarlı Ses Ekolayzırı getiriyor.",
+   "link": "https://shiftdelete.net/opera-gx-ses-yukseltici-ekolayzir",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/opera-gx-browser-booster-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-03T11:48:27+00:00",
+   "url": "/haber/opera-gx-e-sekme-bazli-ses-yukseltici-geldi-88de8421/"
+  },
+  {
+   "id": "fccb8c36",
+   "title": "Cihazlar Türkiye’de de satılıyor! 1,3 milyon Android cihazı botnet ağına dönüştü",
+   "summary": "Google, 1,3 milyondan fazla Android cihazı botnet ağına dönüştüren üreticiyle bağlarını kesti. Türkiye’de 30 binden fazla cihazın etkilendiği saldırıda kullanıcı verileri de hedef alındı.",
+   "link": "https://www.donanimhaber.com/1-3-milyon-android-cihazi-botnete-donustu-google-darbeyi-vurdu--212418",
+   "image": "https://www.donanimhaber.com/images/images/haber/212418/1200x6751-3-milyon-android-cihazi-botnete-donustu-google-darbeyi-vurdu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-03T11:45:00+00:00",
+   "url": "/haber/cihazlar-turkiye-de-de-satiliyor-1-3-milyon-android-cihazi-botnet-agin-fccb8c36/"
+  },
+  {
+   "id": "43745c33",
+   "title": "Yurt genelinde sıcaklıklar düşecek, yüksek kesimlerde kar görülecek",
+   "summary": "Yurt genelinde hafta boyunca etkisini sürdürecek yağışlarla hava sıcaklıkları mevsim normallerinin altına düşecek, hafta sonuna doğru ise yüksek kesimlerde kar görülecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/yurt-genelinde-sicakliklar-dusecek-yuksek-kesimlerde-kar-gorulecek/4109940",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T11:44:14+00:00",
+   "url": "/haber/yurt-genelinde-sicakliklar-dusecek-yuksek-kesimlerde-kar-gorulecek-43745c33/"
+  },
+  {
+   "id": "84386a35",
+   "title": "En Çok Satılan Sıfır Elektrikli Otomobil Modelleri Belli Oldu [Ekim 2026]",
+   "summary": "Geride bıraktığımız Ekim ayında Türkiye'de en çok satılan sıfır elektrikli otomobiller belli oldu.",
+   "link": "https://www.webtekno.com/en-cok-satilan-sifir-elektrikli-otomobil-modelleri-ekim-2026-h228208.html",
+   "image": "https://imgrosetta.webtekno.com/file/695497/695497-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-03T11:37:46+00:00",
+   "url": "/haber/en-cok-satilan-sifir-elektrikli-otomobil-modelleri-belli-oldu-ekim-202-84386a35/"
+  },
+  {
+   "id": "c094c946",
+   "title": "Galaxy A15 güncellemesi: One UI 9.0 yayında",
+   "summary": "Samsung, Galaxy A15 güncellemesi olarak Android 17 tabanlı kararlı One UI 9.0 sürümünü dünya genelinde dağıtmaya başladı. İlk paket Hindistan'da beta programındaki cihazlara ulaşıyor.",
+   "link": "https://shiftdelete.net/galaxy-a15-guncellemesi-one-ui-9-0-yayinda",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/galaxy-a15-one-ui-9-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-03T11:35:00+00:00",
+   "url": "/haber/galaxy-a15-guncellemesi-one-ui-9-0-yayinda-c094c946/"
+  },
   {
    "id": "95256e1f",
    "title": "Özgür Özel'den Emir Sarıgül'ün 600 bin dolar iddiasına yanıt",
@@ -11,6 +99,17 @@
    "category": "gundem",
    "date": "2026-11-03T11:30:46+00:00",
    "url": "/haber/ozgur-ozel-den-emir-sarigul-un-600-bin-dolar-iddiasina-yanit-95256e1f/"
+  },
+  {
+   "id": "b9ecdc18",
+   "title": "Cumhurbaşkanı Erdoğan: Güney Kore ile ortak geçmişimizi müreffeh bir gelecek için yeni ufuklara taşımak istiyoruz",
+   "summary": "Cumhurbaşkanı Erdoğan, Güney Kore'de onuruna verilen akşam yemeğindeki konuşmasında, \"Ortak geçmişimizi, vatandaşlarımızın müreffeh geleceğine ve dünyada barışın tesisine katkı verebileceğimiz yeni ufuklara taşımak…",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-kore-ile-ortak-gecmisimizi-mureffeh-bir-gelecek-icin-yeni-ufuklara-tasimak-istiyoruz/4109919",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T11:30:18+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-guney-kore-ile-ortak-gecmisimizi-mureffeh-bir-ge-b9ecdc18/"
   },
   {
    "id": "963c12c6",
@@ -24,6 +123,28 @@
    "url": "/haber/trakya-da-saganak-etkisini-surduruyor-963c12c6/"
   },
   {
+   "id": "ba0aac22",
+   "title": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi ile KOTRA arasında mutabakat zaptı",
+   "summary": "Türkiye Cumhuriyeti Cumhurbaşkanlığı Yatırım ve Finans Ofisi ile Kore Ticaret ve Yatırım Teşvik Ajansı (KOTRA) arasında mutabakat zaptı imzalandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskanligi-yatirim-ve-finans-ofisi-ile-kotra-arasinda-mutabakat-zapti/4109907",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T11:28:08+00:00",
+   "url": "/haber/cumhurbaskanligi-yatirim-ve-finans-ofisi-ile-kotra-arasinda-mutabakat-ba0aac22/"
+  },
+  {
+   "id": "e80e2375",
+   "title": "Milli atıcı Şevval İlayda Tarhan, Katar'da dünya şampiyonu oldu",
+   "summary": "Milli atıcı Şevval İlayda Tarhan, Katar'da düzenlenen ISSF Tüm Dallar Dünya Şampiyonası'nda 50 metre tabanca kategorisinde altın madalya kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-atici-sevval-ilayda-tarhan-katarda-dunya-sampiyonu-oldu-/4109904",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T11:27:13+00:00",
+   "url": "/haber/milli-atici-sevval-ilayda-tarhan-katar-da-dunya-sampiyonu-oldu-e80e2375/"
+  },
+  {
    "id": "ef6a7753",
    "title": "İspanyol futbolcu Jesus De Miguel sahadaki çarpışma sonucu hayatını kaybetti",
    "summary": "Tenerife'nin 30 yaşındaki forvet oyuncusu Jesus de Miguel, İspanya ikinci ligi maçındaki çarpışmada aldığı ağır sakatlığın ardından hayatını kaybetti.",
@@ -33,6 +154,17 @@
    "category": "gundem",
    "date": "2026-11-03T11:26:34+00:00",
    "url": "/haber/ispanyol-futbolcu-jesus-de-miguel-sahadaki-carpisma-sonucu-hayatini-ka-ef6a7753/"
+  },
+  {
+   "id": "39ff1b3d",
+   "title": "Deniz savunmasında yeni nesil ASELSAN çözümleri EURONAVAL'da boy gösteriyor",
+   "summary": "ASELSAN, EURONAVAL 2026'da yeni nesil deniz savunma sistemlerini uluslararası ziyaretçilerle buluşturuyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/deniz-savunmasinda-yeni-nesil-aselsan-cozumleri-euronavalda-boy-gosteriyor/4109898",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T11:24:17+00:00",
+   "url": "/haber/deniz-savunmasinda-yeni-nesil-aselsan-cozumleri-euronaval-da-boy-goste-39ff1b3d/"
   },
   {
    "id": "2328b7e3",
@@ -90,15 +222,26 @@
    "url": "/haber/abd-ara-secimleri-ankara-washington-iliskilerini-nasil-etkileyebilir-f7ab1fed/"
   },
   {
-   "id": "060ab3d3",
-   "title": "ABD'de ara seçimlerde oy verme işlemi başladı",
+   "id": "cc4ac477",
+   "title": "ABD'li gazeteci Carlson'ın \"İran'a nükleer saldırı\" iddiası sonrası Kazma Dağı yeniden gündemde",
+   "summary": "ABD’li gazeteci Tucker Carlson'ın, İsrail Başbakanı Binyamin Netanyahu'nun baskısıyla ABD'nin İran'a nükleer saldırı düzenleyebileceği iddiası sonrası gözler, Tahran'ın nükleer tesislerine ev sahipliği yaptığı iddia…",
+   "link": "https://www.aa.com.tr/tr/dunya/abdli-gazeteci-carlsonin-irana-nukleer-saldiri-iddiasi-sonrasi-kazma-dagi-yeniden-gundemde/4109875",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T11:15:02+00:00",
+   "url": "/haber/abd-li-gazeteci-carlson-in-iran-a-nukleer-saldiri-iddiasi-sonrasi-kazm-cc4ac477/"
+  },
+  {
+   "id": "c06b37b0",
+   "title": "ABD'de ara seçimlerde oy kullanma işlemi başladı",
    "summary": "ABD'de Başkan Donald Trump yönetiminin yasama gücünü ve Kongredeki siyasi dengeyi şekillendirecek ara seçimlerde oy verme işlemi başladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimlerde-oy-verme-islemi-basladi/4109862",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimlerde-oy-kullanma-islemi-basladi/4109862",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-03T11:11:12+00:00",
-   "url": "/haber/abd-de-ara-secimlerde-oy-verme-islemi-basladi-060ab3d3/"
+   "url": "/haber/abd-de-ara-secimlerde-oy-kullanma-islemi-basladi-c06b37b0/"
   },
   {
    "id": "fedc9e2e",
@@ -200,17 +343,6 @@
    "url": "/haber/raspberry-pi-5-in-16-gb-modeli-80-dolar-zamlandi-fiyatlar-3-katina-cik-07bf2111/"
   },
   {
-   "id": "5aa01d60",
-   "title": "İletişim Başkanlığından Dokuzuncu Fon Koordinasyon Kurulu Toplantısı'na ilişkin açıklama",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, tasfiye sürecinden sorumlu kurumların koordinasyonunda bu hafta ara ödemelere devam edileceğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-dokuzuncu-fon-koordinasyon-kurulu-toplantisina-iliskin-aciklama/4109842",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T10:57:45+00:00",
-   "url": "/haber/iletisim-baskanligindan-dokuzuncu-fon-koordinasyon-kurulu-toplantisi-n-5aa01d60/"
-  },
-  {
    "id": "548a3eba",
    "title": "Türk öğrenci Einstein Olimpiyatları'nda matematikte dünya birincisi oldu",
    "summary": "Doğa Koleji Isparta Kampüsü öğrencisi Zeynep Elif Altınkeser, Berlin'de düzenlenen Einstein Olimpiyatları'nda matematikte dünya birincisi, fen bilimlerinde ise dünya altıncısı oldu.",
@@ -255,17 +387,6 @@
    "url": "/haber/youtube-da-server-error-400-hatasi-geri-dondu-c16ac52c/"
   },
   {
-   "id": "0802ffaf",
-   "title": "Devrim Muhafızları Ordusu: Hürmüz Boğazı'nda 3 petrol tankeri mayına çarptı",
-   "summary": "İran Devrim Muhafızları Ordusu, dün geceden bu yana Hürmüz Boğazı’nda 3 petrol tankerinin mayına çarptığını ve çarpma sonucu gemilerde patlama meydana geldiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/devrim-muhafizlari-ordusu-hurmuz-bogazinda-3-petrol-tankeri-mayina-carpti/4109828",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T10:49:16+00:00",
-   "url": "/haber/devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-3-petrol-tankeri-mayina-ca-0802ffaf/"
-  },
-  {
    "id": "e6b4bd88",
    "title": "Avcılar'da D100'de kural ihlali kazayla bitti",
    "summary": "Avcılar’da taralı alanı kullanarak şerit değiştiren hafif ticari araca, emniyet şeridinden ilerleyen motosiklet çarptı. Motosiklet sürücüsünün yaralandığı kaza, araç kamerasına yansıdı",
@@ -286,17 +407,6 @@
    "category": "gundem",
    "date": "2026-11-03T10:46:34+00:00",
    "url": "/haber/kremlin-rus-heyeti-10-11-kasim-da-ukrayna-konusundaki-uclu-muzakereler-2aebc094/"
-  },
-  {
-   "id": "e4176e98",
-   "title": "AB, süpermarketlere yönelik siber saldırıların gıda tedarik zincirine etkisini değerlendirecek",
-   "summary": "AB Komisyonunun Tarımdan Sorumlu Üyesi Christophe Hansen, Avrupa'da süpermarketleri hedef alan siber saldırıların gıda arz güvenliğini şu aşamada riske atmadığını ancak tedarik zincirinin dayanıklılığının…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ab-supermarketlere-yonelik-siber-saldirilarin-gida-tedarik-zincirine-etkisini-degerlendirecek/4109820",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T10:45:55+00:00",
-   "url": "/haber/ab-supermarketlere-yonelik-siber-saldirilarin-gida-tedarik-zincirine-e-e4176e98/"
   },
   {
    "id": "12235941",
@@ -321,17 +431,6 @@
    "url": "/haber/amd-nin-yeni-grafik-mimarisi-rdna-5-icin-tarih-ortaya-cikti-439398fa/"
   },
   {
-   "id": "1a1b85a9",
-   "title": "14. Boğaziçi Film Festivali'nin masterclass ve atölye programı açıklandı",
-   "summary": "Boğaziçi Kültür Sanat Vakfı tarafından 8-15 Kasım'da gerçekleştirilecek 14. Boğaziçi Film Festivali, zengin film seçkisinin yanı sıra sinemanın mutfağına ve sektör dinamiklerine odaklanan özel etkinlik programını…",
-   "link": "https://www.aa.com.tr/tr/kultur/14-bogazici-film-festivalinin-masterclass-ve-atolye-programi-aciklandi/4109815",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T10:37:47+00:00",
-   "url": "/haber/14-bogazici-film-festivali-nin-masterclass-ve-atolye-programi-acikland-1a1b85a9/"
-  },
-  {
    "id": "e7ca4eee",
    "title": "GM'den sürücü verisi için 220 milyon dolar",
    "summary": "GM, OnStar Smart Driver üzerinden toplanan sürücü verilerinin veri aracılarıyla paylaşılması iddiasında 36 eyaletle 220 milyon dolarlık uzlaşmaya vardı.",
@@ -343,17 +442,6 @@
    "url": "/haber/gm-den-surucu-verisi-icin-220-milyon-dolar-e7ca4eee/"
   },
   {
-   "id": "f3ef2f13",
-   "title": "Geleceğin güvenlik teknolojileri ve yapay zeka çözümleri SEDEC 2026'da masaya yatırılacak",
-   "summary": "Türkiye'nin ilk ve tek anayurt güvenliği fuarı SEDEC 2026, 1-3 Aralık'ta Ankara'da gerçekleştirilecek.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/gelecegin-guvenlik-teknolojileri-ve-yapay-zeka-cozumleri-sedec-2026da-masaya-yatirilacak/4109806",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T10:30:59+00:00",
-   "url": "/haber/gelecegin-guvenlik-teknolojileri-ve-yapay-zeka-cozumleri-sedec-2026-da-f3ef2f13/"
-  },
-  {
    "id": "85c757f9",
    "title": "2027 MTV ne kadar olacak? İşte araçlara göre zam hesabı",
    "summary": "2027 MTV artışına esas olacak yeniden değerleme oranı yüzde 27,83 olarak hesaplandı. Peki oran değişmezse hangi araç için ne kadar vergi ödenecek? Araçlara göre 2027 MTV hesaplama burada!",
@@ -363,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T10:24:27+00:00",
    "url": "/haber/2027-mtv-ne-kadar-olacak-iste-araclara-gore-zam-hesabi-85c757f9/"
-  },
-  {
-   "id": "254f9aef",
-   "title": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 6 kişi hayatını kaybetti",
-   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 6 kişi yaşamını yitirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-6-kisi-hayatini-kaybetti/4109797",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T10:24:09+00:00",
-   "url": "/haber/israil-in-ateskese-ragmen-gazze-ye-duzenledigi-saldirilarda-son-24-saa-254f9aef/"
   },
   {
    "id": "0160645e",
@@ -396,6 +473,17 @@
    "category": "gundem",
    "date": "2026-11-03T10:21:00+00:00",
    "url": "/haber/bakan-isikhan-dan-emekli-maasi-aciklamasi-8596ff3c/"
+  },
+  {
+   "id": "08c5b506",
+   "title": "Savunma ve havacılık ihracatı ekimde 1,1 milyar doları aştı",
+   "summary": "Türkiye'nin savunma ve havacılık sanayisi ihracatı, ekim ayında geçen yılın aynı dönemine göre yüzde 61 artarak 1 milyar 140 milyon dolara ulaştı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/savunma-ve-havacilik-ihracati-ekimde-1-1-milyar-dolari-asti/4109783",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T10:20:02+00:00",
+   "url": "/haber/savunma-ve-havacilik-ihracati-ekimde-1-1-milyar-dolari-asti-08c5b506/"
   },
   {
    "id": "1546ddc7",
@@ -429,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T10:18:53+00:00",
    "url": "/haber/kodu-claude-code-a-yazdirilan-bematrx-neler-sunuyor-731f2d98/"
-  },
-  {
-   "id": "cd0a2288",
-   "title": "Arap Koalisyonu: Mekke bölgesinde 1 İHA imha edildi",
-   "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Mekke bölgesinde bir insansız hava aracını (İHA) imha ettiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/-arap-koalisyonu-mekke-bolgesinde-1-iha-imha-edildi-/4109776",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T10:16:08+00:00",
-   "url": "/haber/arap-koalisyonu-mekke-bolgesinde-1-iha-imha-edildi-cd0a2288/"
   },
   {
    "id": "c5547190",
@@ -541,17 +618,6 @@
    "url": "/haber/bu-da-oldu-avrupa-da-internete-bagli-buzdolaplari-hacklendi-f23c3bf8/"
   },
   {
-   "id": "20c1ee60",
-   "title": "Sunwoda katı hâl bataryası 200 °C'ye dayandı",
-   "summary": "Çinli Sunwoda, Xin Bixiao adlı 20 Ah'lik prototipin 200 °C'ye kadar yanmadan dayandığını açıkladı. Sunwoda katı hâl bataryası 1000 km menzil için umut veriyor.",
-   "link": "https://shiftdelete.net/sunwoda-kati-hal-bataryasi-200-derece-testi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/763fc69befe264cb04ce2e348fd3c0a7e38bf5fb.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T09:35:00+00:00",
-   "url": "/haber/sunwoda-kati-hal-bataryasi-200-c-ye-dayandi-20c1ee60/"
-  },
-  {
    "id": "3f04b9b7",
    "title": "2027 Araç Muayene Ücretleri Belli Oldu",
    "summary": "Yeniden Değerleme Oranı'nın açıklanmasıyla birlikte 2027 araç muayene ücretlerinin ne kadar olacağı belli oldu.",
@@ -572,28 +638,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T09:27:10+00:00",
    "url": "/haber/anthropic-kendini-gelistirebilen-yapay-zeka-seviyesine-ulasmak-uzere-9c008eac/"
-  },
-  {
-   "id": "13a6cd61",
-   "title": "Galaxy S26 FE Özellikleri ve Türkiye Fiyatı",
-   "summary": "Galaxy S26 FE, Türkiye'de 54.999 TL'den satılıyor. Yeni telefonun özelliklerini, kampanyalarını ve S25 FE'den farklarını tek yerde topladık.",
-   "link": "https://shiftdelete.net/galaxy-s26-fe-ozellikleri-fiyati",
-   "image": "https://shiftdelete.net/static/img/content/26-11/03/galaxy-s26-fe-su-yesili-resmi-gorsel.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T09:25:02+00:00",
-   "url": "/haber/galaxy-s26-fe-ozellikleri-ve-turkiye-fiyati-13a6cd61/"
-  },
-  {
-   "id": "be3bc97f",
-   "title": "15 bin mAh bataryalı telefon geliyor olabilir",
-   "summary": "Çinli bir üretici, 14 bin ile 15 bin mAh arasında kapasiteye sahip bir pil geliştiriyor. 15 bin mAh batarya, bir haftaya kadar kullanım süresi vaat ediyor.",
-   "link": "https://shiftdelete.net/15-bin-mah-batarya-honor-power",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/023c8187cd4bac4cc93a3b68303841c705c07ff5.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T09:20:00+00:00",
-   "url": "/haber/15-bin-mah-bataryali-telefon-geliyor-olabilir-be3bc97f/"
   },
   {
    "id": "7a9199b8",
@@ -871,17 +915,6 @@
    "url": "/haber/2027-ehliyet-ve-mtv-ucretlerine-gelecek-zam-belli-oldu-0c64026e/"
   },
   {
-   "id": "d9707b38",
-   "title": "Ekim ayında otomobil ve hafif ticari araç satışları yüzde 30,84 düştü",
-   "summary": "Türk otomotiv pazarında kan kaybı sürüyor. ODMD verilere göre otomobil ve hafif ticari araç satışları ekim ayında yıllık bazda yüzde 30,84 daralarak 80 bin 334 adede düştü.",
-   "link": "https://www.donanimhaber.com/ekim-ayinda-otomobil-ve-hafif-ticari-arac-satislari-yuzde-30-84-d--212394",
-   "image": "https://www.donanimhaber.com/images/images/haber/212394/1200x675ekim-ayinda-otomobil-ve-hafif-ticari-arac-satislari-yuzde-30-84-d.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-03T07:46:00+00:00",
-   "url": "/haber/ekim-ayinda-otomobil-ve-hafif-ticari-arac-satislari-yuzde-30-84-dustu-d9707b38/"
-  },
-  {
    "id": "7ea5ff82",
    "title": "Elmas tozlu Pagani “Huayra 70 Anima” görücüye çıkarıldı",
    "summary": "Pagani’nin kurucusu Horacio Pagani’nin 70. yaşına özel hazırlanan “Huayra 70” serisinin son üyesi Trionfo ve Derecho’nun ardından “Anima” oldu. Şirketin “Grandi Complicazioni” departmanı tarafından geliştirilen Huayra…",
@@ -1014,17 +1047,6 @@
    "url": "/haber/telegram-da-avci-ya-yakalandilar-151-supheli-gozaltinda-ed828b34/"
   },
   {
-   "id": "ef3106c9",
-   "title": "FETÖ'ye yönelik iki ayrı soruşturmada 21 şüpheli yakalandı, firari 4 kişi aranıyor",
-   "summary": "Ankara Cumhuriyet Başsavcılığı koordinesinde MİT ve emniyet FETÖ'ye yönelik operasyonlar düzenledi. 21 şüpheli yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/fetoye-yonelik-iki-ayri-sorusturmada-21-supheli-yakalandi-firari-4-kisi-araniyor-1749161",
-   "image": "https://images.ntv.com.tr/images/7df694b8-8774-4b32-a48a-63b7584ce5a3-829053.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-03T06:47:40+00:00",
-   "url": "/haber/feto-ye-yonelik-iki-ayri-sorusturmada-21-supheli-yakalandi-firari-4-ki-ef3106c9/"
-  },
-  {
    "id": "65f31a9e",
    "title": "Eski Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun tutuklandı",
    "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada 31 Ekim'de gözaltına alınan eski Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun, \"rüşvet almak\" suçundan tutuklandı.",
@@ -1078,17 +1100,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T04:08:28+00:00",
    "url": "/haber/chatgpt-ye-kullanicilari-cok-sevindirecek-bir-degisiklik-geliyor-87062208/"
-  },
-  {
-   "id": "a501e698",
-   "title": "Renault'dan Tesla Model Y Rakibi Megane Geliyor",
-   "summary": "Renault, Tesla'nın çok satan Model Y aracına rakip olacağı belirtilen yepyeni Megane geliştiriyor.",
-   "link": "https://www.webtekno.com/renault-tesla-model-y-rakibi-megane-geliyor-h228163.html",
-   "image": "https://imgrosetta.webtekno.com/file/695404/695404-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-03T03:55:24+00:00",
-   "url": "/haber/renault-dan-tesla-model-y-rakibi-megane-geliyor-a501e698/"
   },
   {
    "id": "304f0d84",
@@ -1199,17 +1210,6 @@
    "category": "gundem",
    "date": "2026-11-02T13:11:00+00:00",
    "url": "/haber/turk-universiteleri-cin-egitim-fuari-na-katildi-1cde489e/"
-  },
-  {
-   "id": "de657cde",
-   "title": "Kimi Antonelli: 'Garajda doğan' en genç F1 dünya şampiyonu",
-   "summary": "Babasına göre Kimi Antonelli, daha üç yaşında doğuştan yetenekli bir sürücüydü. İşte 20 yaşında Formula 1 şampiyonluğuna uzanan Antonelli'nin yaşam hikayesi.",
-   "link": "https://www.bbc.com/turkce/articles/cmkgev0g9kkxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-02T12:14:12+00:00",
-   "url": "/haber/kimi-antonelli-garajda-dogan-en-genc-f1-dunya-sampiyonu-de657cde/"
   },
   {
    "id": "45bb4dc1",
