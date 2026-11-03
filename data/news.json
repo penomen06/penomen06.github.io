@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T22:30:59.548617+00:00",
+ "updated": "2026-11-03T23:01:13.815400+00:00",
  "items": [
   {
    "id": "900f0ee0",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-03T22:30:00+00:00",
+   "date": "2026-11-03T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-900f0ee0/"
+  },
+  {
+   "id": "b1a9aefa",
+   "title": "İstanbul'da hava soğuyor. Valilik uyardı, bu saatlere dikkat",
+   "summary": "İstanbul'da sağanak yağış aralıklarla etkili oluyor. İstanbul Valiliği de sabah saatleri için yeni bir uyarıda bulundu. Rusya'dan gelen soğuk havanın etkisiyle sıcaklıkla da sert düşecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-hava-soguyor-valilik-uyardi-bu-saatlere-dikkat-1749283",
+   "image": "https://images.ntv.com.tr/images/AA-20261027-42876067-42876060-ISTANBULDA_SAGANAK_ETKILI_OLDU-110553.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T22:48:59+00:00",
+   "url": "/haber/istanbul-da-hava-soguyor-valilik-uyardi-bu-saatlere-dikkat-b1a9aefa/"
+  },
+  {
+   "id": "18390461",
+   "title": "ABD'de ara seçimler: Kongre'nin kontrolü ve Trump'ın son iki yılı oylanıyor",
+   "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandık başında. Sonuçlar, Başkan Donald Trump'ın görev süresinin kalan iki yılında politikalarını ne ölçüde hayata geçirebileceğini de…",
+   "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d474/live/4b806710-d7d8-11f1-8cb0-d304936875f3.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-03T22:45:47+00:00",
+   "url": "/haber/abd-de-ara-secimler-kongre-nin-kontrolu-ve-trump-in-son-iki-yili-oylan-18390461/"
   },
   {
    "id": "65cf6ead",
@@ -1014,17 +1036,6 @@
    "url": "/haber/30-yilinda-susurluk-skandali-3-kasim-1996-daki-kaza-sonrasi-neler-yasa-12c449de/"
   },
   {
-   "id": "e6b4bd88",
-   "title": "Avcılar'da D100'de kural ihlali kazayla bitti",
-   "summary": "Avcılar’da taralı alanı kullanarak şerit değiştiren hafif ticari araca, emniyet şeridinden ilerleyen motosiklet çarptı. Motosiklet sürücüsünün yaralandığı kaza, araç kamerasına yansıdı",
-   "link": "https://www.ntv.com.tr/turkiye/video-avcilarda-d100de-kural-ihlali-kazayla-bitti-1749225",
-   "image": "https://images.ntv.com.tr/images/AVCILARDA-HAFIF-TICARI-ARACA-CARPAN-MOT_1587930_472218-292885.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-03T10:47:15+00:00",
-   "url": "/haber/avcilar-da-d100-de-kural-ihlali-kazayla-bitti-e6b4bd88/"
-  },
-  {
    "id": "8596ff3c",
    "title": "Bakan Işıkhan'dan emekli maaşı açıklaması",
    "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, \"Emeklilerimizin yaşadığı ekonomik koşulların farkındayız ve refah seviyelerini yükseltmeye yönelik çalışmalarımızı, kararlılıkla sürdürüyoruz. Bu kapsamda, 2027 yılı…",
@@ -1177,17 +1188,6 @@
    "category": "gundem",
    "date": "2026-11-03T00:13:45+00:00",
    "url": "/haber/onlarca-kez-yogun-bakim-yedi-ameliyat-kadinlarin-yuzde-10-unu-etkileye-55b18fff/"
-  },
-  {
-   "id": "24612354",
-   "title": "Bazı insanlar günde dört saat uykuyla nasıl yaşayabiliyor?",
-   "summary": "Bazı insanlar gerçekten de şaşırtıcı derecede az uykuyla gayet iyi idare edebiliyorlar. Ancak sizin de bu kişilerden biri olup olmadığınızı anlamak zor olabilir.",
-   "link": "https://www.bbc.com/turkce/articles/cx7vpg3vzpq2o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7f7/live/94e21600-d6b7-11f1-a701-fddedf244c16.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-02T14:14:59+00:00",
-   "url": "/haber/bazi-insanlar-gunde-dort-saat-uykuyla-nasil-yasayabiliyor-24612354/"
   },
   {
    "id": "2f542308",
