@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T00:31:01.598628+00:00",
+ "updated": "2026-11-03T01:01:20.307453+00:00",
  "items": [
   {
    "id": "32cce22a",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-03T00:30:00+00:00",
+   "date": "2026-11-03T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-32cce22a/"
+  },
+  {
+   "id": "09b5f4b4",
+   "title": "Ticaret Bakanlığı’ndan yanıltıcı reklama 108 bin lira ceza",
+   "summary": "Ticaret Bakanlığı Reklam Kurulu, Antalya’da bir alışveriş merkezinde bulunan bir mağazada yapılan yanıltıcı \"2. ürüne yüzde 50 indirim\" reklamına 108 bin lira ceza kesti.",
+   "link": "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-108-bin-lira-ceza-1749111",
+   "image": "https://images.ntv.com.tr/images/ticaretbakanligi-487356.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T00:47:39+00:00",
+   "url": "/haber/ticaret-bakanligi-ndan-yaniltici-reklama-108-bin-lira-ceza-09b5f4b4/"
   },
   {
    "id": "55b18fff",
@@ -968,17 +979,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T13:22:49+00:00",
    "url": "/haber/ntdev-windows-11-26h2-yi-yalnizca-128-mb-ram-le-calisacak-hale-getirdi-b7140045/"
-  },
-  {
-   "id": "8ebc999f",
-   "title": "11 ilde siber suç operasyonu: 86 tutuklama",
-   "summary": "11 ilde düzenlenen siber suçlarla mücadele operasyonlarında 120 şüpheli yakalandı. Şüphelilerden 86'sı tutuklanırken 25'i hakkında adli kontrol kararı verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/11-ilde-siber-suc-operasyonu-86-tutuklama-1749062",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-02153706-350574.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-02T13:20:33+00:00",
-   "url": "/haber/11-ilde-siber-suc-operasyonu-86-tutuklama-8ebc999f/"
   },
   {
    "id": "2f542308",
