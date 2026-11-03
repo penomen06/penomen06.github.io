@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:31:06.887919+00:00",
+ "updated": "2026-11-03T22:01:13.589887+00:00",
  "items": [
   {
    "id": "900f0ee0",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-03T21:30:01+00:00",
+   "date": "2026-11-03T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-900f0ee0/"
+  },
+  {
+   "id": "e2de161f",
+   "title": "İstanbul'da sağanak. Valilik uyardı, bu saatlere dikkat",
+   "summary": "Meteoroloji'nin uyarılarının ardından İstanbul'da beklenen sağanak yağış akşam saatlerinde etkili oldu. Trafik durma noktasına geldi. İstanbul Valiliği sabah saatleri için uyarıda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-etkili-oluyor-valilik-uyardi-bu-saatlere-dikkat-1749258",
+   "image": "https://images.ntv.com.tr/images/AW824679_01-439546.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T21:58:05+00:00",
+   "url": "/haber/istanbul-da-saganak-valilik-uyardi-bu-saatlere-dikkat-e2de161f/"
   },
   {
    "id": "ff6c7e08",
@@ -310,17 +321,6 @@
    "url": "/haber/200-derece-sicakliga-dayanan-kati-hal-batarya-1-000-km-menzil-vadediyo-961a349f/"
   },
   {
-   "id": "e2de161f",
-   "title": "İstanbul'da sağanak etkili oluyor. Valilik uyardı, bu saatlere dikkat",
-   "summary": "Meteoroloji'nin uyarılarının ardından İstanbul'da beklenen sağanak yağış akşam saatlerinde etkili oldu. Trafik durma noktasına geldi. İstanbul Valiliği sabah saatleri için uyarıda bulundu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-etkili-oluyor-valilik-uyardi-bu-saatlere-dikkat-1749258",
-   "image": "https://images.ntv.com.tr/images/AW824679_01-439546.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-03T19:23:11+00:00",
-   "url": "/haber/istanbul-da-saganak-etkili-oluyor-valilik-uyardi-bu-saatlere-dikkat-e2de161f/"
-  },
-  {
    "id": "5f13b953",
    "title": "Bakan Kacır, sel felaketinden etkilenen işletmelere 1 milyon lira destek vereceklerini duyurdu",
    "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul başta olmak üzere farklı şehirlerde yaşanan sel ve taşkın felaketlerinden etkilenen KOBİ'lere 1 milyon lira, mikro işletmelere ise 500 bin liraya kadar kredi…",
@@ -479,7 +479,7 @@
    "title": "ABD'nin ilk Müslüman senatörü olabilecek Abdul El-Sayed kimdir?",
    "summary": "Michigan eyaletinde yapılan anketler, Demokrat Parti adayı Abdul El-Sayed'in ülkenin ilk Müslüman senatörü olacağını gösteriyor.",
    "link": "https://www.bbc.com/turkce/articles/cmwyqjz313ggo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/60b8/live/99ed9820-d795-11f1-801d-cf196dc7232c.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4911/live/f658cc20-d7d0-11f1-93e1-3b657b665bcf.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-03T18:22:33+00:00",
