@@ -1,17 +1,6 @@
 {
- "updated": "2026-11-03T06:31:00.350082+00:00",
+ "updated": "2026-11-03T07:01:07.137247+00:00",
  "items": [
-  {
-   "id": "4c2bd9a3",
-   "title": "Dev operasyon: 4,3 milyar liralık kara para aklama ağı çökertildi",
-   "summary": "Yasa dışı bahis ve dolandırıcılık paralarını kripto varlıklar üzerinden aklayan bir suç örgütü çökertildi.",
-   "link": "https://www.ntv.com.tr/turkiye/dev-operasyon-43-milyar-liralik-kara-para-aklama-agi-cokertildi-1749157",
-   "image": "https://images.ntv.com.tr/images/para-351521.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-03T06:30:27+00:00",
-   "url": "/haber/dev-operasyon-4-3-milyar-liralik-kara-para-aklama-agi-cokertildi-4c2bd9a3/"
-  },
   {
    "id": "32cce22a",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 03 Kasım 2026",
@@ -20,8 +9,206 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-03T06:30:00+00:00",
+   "date": "2026-11-03T07:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-32cce22a/"
+  },
+  {
+   "id": "4bdb7a50",
+   "title": "Son dakika. Fon soruşturmasında 6 yeni gözaltı kararı, aralarında eski SPK Kurul Başkanvekili de var",
+   "summary": "Fon soruşturmasında eski Sermaye Piyasası Kurulu (SPK) Başkanvekili Enver Usca dahil 6 yeni kişi için gözaltı kararı çıkarıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-fon-sorusturmasinda-6-yeni-gozalti-karari-aralarinda-eski-spk-kurul-baskanvekili-de-var-1749162",
+   "image": "https://images.ntv.com.tr/images/foncu-576122-379070.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T06:57:23+00:00",
+   "url": "/haber/son-dakika-fon-sorusturmasinda-6-yeni-gozalti-karari-aralarinda-eski-s-4bdb7a50/"
+  },
+  {
+   "id": "2721bdca",
+   "title": "Apple CEO’su John Ternus, iPhone Duo’da Yaşanan Stok Krizi Hakkında Açıklama Yaptı",
+   "summary": "Apple CEO’su John Ternus, iPhone Duo’da yaşanan stok krizi hakkında konuştu.",
+   "link": "https://www.webtekno.com/apple-ceo-john-ternus-iphone-duo-krizi-aciklama-h228172.html",
+   "image": "https://imgrosetta.webtekno.com/file/695422/695422-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:56:18+00:00",
+   "url": "/haber/apple-ceo-su-john-ternus-iphone-duo-da-yasanan-stok-krizi-hakkinda-aci-2721bdca/"
+  },
+  {
+   "id": "4ffaab0b",
+   "title": "Apple'dan Kötü Haber! iPhone ve Mac Fiyatlarına Yeni Zam Kapıda!",
+   "summary": "Apple, tırmanan bellek maliyetleri nedeniyle iPhone ve Mac fiyatlarına yeni zamların sinyalini vererek marj uyarısında bulundu.",
+   "link": "https://www.webtekno.com/iphone-ve-mac-fiyatlarina-yeni-zam-kapida-h228175.html",
+   "image": "https://imgrosetta.webtekno.com/file/695428/695428-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:56:00+00:00",
+   "url": "/haber/apple-dan-kotu-haber-iphone-ve-mac-fiyatlarina-yeni-zam-kapida-4ffaab0b/"
+  },
+  {
+   "id": "e3ccdde3",
+   "title": "Elon Musk: “Grok Bot’un maliyeti, elde ettiği gelire kıyasla sürdürülemeyecek kadar yüksek”",
+   "summary": "Elon Musk, X’te Grok Bot’un kullanım limitlerinin sıfırlanmasını isteyen bir kullanıcıya “Grok Bot’un hizmet maliyeti, elde ettiği gelire kıyasla sürdürülemeyecek kadar yüksek” yanıtını verdi. SpaceXSI’ın geçtiğimiz…",
+   "link": "https://www.log.com.tr/elon-musk-grok-botun-maliyeti-elde-ettigi-gelire-kiyasla-surdurulemeyecek-kadar-yuksek/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-03_09-48-28_pMTP3-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:54:50+00:00",
+   "url": "/haber/elon-musk-grok-bot-un-maliyeti-elde-ettigi-gelire-kiyasla-surdurulemey-e3ccdde3/"
+  },
+  {
+   "id": "c2de236d",
+   "title": "İsrail ordusu, El Halil'de aralarında Al Jazeera muhabirinin de bulunduğu 21 Filistinliyi gözaltına aldı",
+   "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın El Halil kentinde, aralarında Al Jazeera muhabiri Muntasır Nasır ile Fetih Hareketi yetkilisi İyad Şeravne'nin de bulunduğu 21 Filistinliyi gözaltına aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-el-halilde-aralarinda-al-jazeera-muhabirinin-de-bulundugu-21-filistinliyi-gozaltina-aldi/4109341",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T06:51:43+00:00",
+   "url": "/haber/israil-ordusu-el-halil-de-aralarinda-al-jazeera-muhabirinin-de-bulundu-c2de236d/"
+  },
+  {
+   "id": "ed828b34",
+   "title": "Telegram'da AVCI'ya yakalandılar: 151 şüpheli gözaltında",
+   "summary": "Yasa dışı bahis suçuna yönelik yapay zeka destekli AVCI projesi kullanılarak yapılan teknik inceleme sonrası İstanbul merkezli 39 ilde operasyon yapıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/telegramda-avciya-yakalandilar-151-supheli-gozaltinda-1749165",
+   "image": "https://images.ntv.com.tr/images/telegram-bahis-operasyonu-264901.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T06:50:54+00:00",
+   "url": "/haber/telegram-da-avci-ya-yakalandilar-151-supheli-gozaltinda-ed828b34/"
+  },
+  {
+   "id": "ef3106c9",
+   "title": "FETÖ'ye yönelik iki ayrı soruşturmada 21 şüpheli yakalandı, firari 4 kişi aranıyor",
+   "summary": "Ankara Cumhuriyet Başsavcılığı koordinesinde MİT ve emniyet FETÖ'ye yönelik operasyonlar düzenledi. 21 şüpheli yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/fetoye-yonelik-iki-ayri-sorusturmada-21-supheli-yakalandi-firari-4-kisi-araniyor-1749161",
+   "image": "https://images.ntv.com.tr/images/7df694b8-8774-4b32-a48a-63b7584ce5a3-829053.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T06:47:40+00:00",
+   "url": "/haber/feto-ye-yonelik-iki-ayri-sorusturmada-21-supheli-yakalandi-firari-4-ki-ef3106c9/"
+  },
+  {
+   "id": "dbc6727c",
+   "title": "Öldü mü, öldürüldü mü? Kaşif Kozinoğlu'nun otopsi ve laboratuvar raporu ortaya çıktı, şüphe büyüdü",
+   "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun fethi kabir işlemi sonrası hazırlanan rapor ortaya çıktı. Kozinoğlu'nun saç ve tırnak örneklerinde yüksek oranda toksik madde tespit edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-oldu-mu-olduruldu-mu-kasif-kozinoglunun-otopsi-ve-laboratuvar-raporu-ortaya-cikti-suphe-buyudu-1749158",
+   "image": "https://images.ntv.com.tr/images/kaşif-kozinoğlu-868064.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T06:47:31+00:00",
+   "url": "/haber/oldu-mu-olduruldu-mu-kasif-kozinoglu-nun-otopsi-ve-laboratuvar-raporu-dbc6727c/"
+  },
+  {
+   "id": "aaac6988",
+   "title": "Apple CEO’su iPhone Duo hakkında konuştu: “Şu aşamada arz ve talebin ne zaman dengeye ulaşacağını öngöremiyoruz.”",
+   "summary": "Apple CEO’su John Ternus, şirketin son çeyrek görüşmesinde stok sorunları yaşanan iPhone Duo hakkında şu açıklamayı yaptı: “Duo, bugün itibarıyla arz sıkıntısı yaşıyor. Üretimin artırılması konusunda çalışmalar iyi…",
+   "link": "https://www.log.com.tr/apple-ceosu-iphone-duo-hakkinda-konustu-su-asamada-arz-ve-talebin-ne-zaman-dengeye-ulasacagini-ongoremiyoruz/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-03_09-43-32_mcL3w-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:46:25+00:00",
+   "url": "/haber/apple-ceo-su-iphone-duo-hakkinda-konustu-su-asamada-arz-ve-talebin-ne-aaac6988/"
+  },
+  {
+   "id": "69213e13",
+   "title": "Fenerbahçe, Şampiyonlar Ligi'nde yarın Liverpool'u ağırlayacak",
+   "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 4. haftasında yarın İngiltere'nin Liverpool takımını konuk edecek.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-sampiyonlar-liginde-yarin-liverpoolu-agirlayacak/4109335",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T06:43:41+00:00",
+   "url": "/haber/fenerbahce-sampiyonlar-ligi-nde-yarin-liverpool-u-agirlayacak-69213e13/"
+  },
+  {
+   "id": "7379bc70",
+   "title": "Togg'un yeni ortakları: Varlık Fonu ve Turkcell",
+   "summary": "Anadolu Grubu ve Vestel, Togg'daki yüzde 23'lük paylarını satıyor. Paylar Türkiye Varlık Fonu ile Turkcell'e geçecek; Turkcell'in payı yüzde 34'e çıkacak.",
+   "link": "https://shiftdelete.net/togg-hisse-devri-turkiye-varlik-fonu-turkcell",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/49257b1295d7df38eef1a2d4904466044cb3802e.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:41:09+00:00",
+   "url": "/haber/togg-un-yeni-ortaklari-varlik-fonu-ve-turkcell-7379bc70/"
+  },
+  {
+   "id": "e8a0eccd",
+   "title": "Türkiye’de ekim ayında en çok satılan sıfır elektrikli otomobil modelleri belli oldu",
+   "summary": "Otomobil gazetecisi Emre Özpeynirci tarafından yapılan paylaşıma göre Türkiye’de ekim ayında en çok satılan sıfır elektrikli otomobil modelleri şunlar oldu: 1) Togg T10X (4.059 adet) 2) Togg T10F (2.702 adet) 3) KG…",
+   "link": "https://www.log.com.tr/turkiyede-ekim-ayinda-en-cok-satilan-sifir-elektrikli-otomobil-modelleri-belli-oldu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2025/09/1756876852_T10X-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:39:22+00:00",
+   "url": "/haber/turkiye-de-ekim-ayinda-en-cok-satilan-sifir-elektrikli-otomobil-modell-e8a0eccd/"
+  },
+  {
+   "id": "76fcfb65",
+   "title": "Orman köylüsüne odun satış gelirinin yüzde 10'una kadar destek verilecek",
+   "summary": "Yanık sahalardan elde edilen oduna dayalı orman ürünleri, gelir dağıtımına konu edilemeyecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/orman-koylusune-odun-satis-gelirinin-yuzde-10una-kadar-destek-verilecek/4109329",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T06:37:41+00:00",
+   "url": "/haber/orman-koylusune-odun-satis-gelirinin-yuzde-10-una-kadar-destek-verilec-76fcfb65/"
+  },
+  {
+   "id": "65f31a9e",
+   "title": "Eski Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun tutuklandı",
+   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada 31 Ekim'de gözaltına alınan Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun, \"rüşvet almak\" suçundan tutuklandı.",
+   "link": "https://www.bbc.com/turkce/articles/cqz0vjm7rjedo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67b0/live/c08b4a50-d550-11f1-bcb7-8f812b44c2e5.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-03T06:35:10+00:00",
+   "url": "/haber/eski-borsa-istanbul-genel-muduru-korkmaz-enes-ergun-tutuklandi-65f31a9e/"
+  },
+  {
+   "id": "a1d34551",
+   "title": "Türkiye’de ekim ayında en çok satılan sıfır otomobil modelleri belli oldu",
+   "summary": "Otomobil gazetecisi Emre Özpeynirci tarafından yapılan paylaşıma göre Türkiye’de ekim ayında en çok satılan sıfır otomobil modelleri şunlar oldu: 1) Togg T10X (4.059 adet) 2) Volkswagen T-Roc (3.324 adet) 3) Renault…",
+   "link": "https://www.log.com.tr/turkiyede-ekim-ayinda-en-cok-satilan-sifir-otomobil-modelleri-belli-oldu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2025/10/1759834534_Togg_T10X_ve_T10F_4More-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:33:20+00:00",
+   "url": "/haber/turkiye-de-ekim-ayinda-en-cok-satilan-sifir-otomobil-modelleri-belli-o-a1d34551/"
+  },
+  {
+   "id": "bae0b6ed",
+   "title": "İstanbul ve İzmir merkezli yasa dışı bahis operasyonlarında 176 şüpheli yakalandı",
+   "summary": "İstanbul merkezli 39 ilde düzenlenen operasyonlarda 151, İzmir merkezli 17 ilde düzenlenen operasyonlarda ise 25 şüpheli yakalandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-ve-izmir-merkezli-yasa-disi-bahis-operasyonlarinda-176-supheli-yakalandi/4109322",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T06:32:55+00:00",
+   "url": "/haber/istanbul-ve-izmir-merkezli-yasa-disi-bahis-operasyonlarinda-176-suphel-bae0b6ed/"
+  },
+  {
+   "id": "1dd3790b",
+   "title": "Kuzey Kore, FBI'ın kripto hırsızlığı suçlamasını \"siyasi provokasyon\" olarak nitelendirdi",
+   "summary": "Kuzey Kore, ABD Federal Soruşturma Bürosunun (FBI) kripto para borsası Binance'den 6,3 milyar dolar değerinde dijital varlık çaldığı yönündeki suçlamasını \"siyasi provokasyon\" olarak nitelendirerek reddetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/kuzey-kore-fbiin-kripto-hirsizligi-suclamasini-siyasi-provokasyon-olarak-nitelendirdi-/4109321",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T06:32:28+00:00",
+   "url": "/haber/kuzey-kore-fbi-in-kripto-hirsizligi-suclamasini-siyasi-provokasyon-ola-1dd3790b/"
+  },
+  {
+   "id": "4c2bd9a3",
+   "title": "Dev operasyon: 4,3 milyar liralık kara para aklama ağı çökertildi",
+   "summary": "Yasa dışı bahis ve dolandırıcılık paralarını kripto varlıklar üzerinden aklayan bir suç örgütü çökertildi.",
+   "link": "https://www.ntv.com.tr/turkiye/dev-operasyon-43-milyar-liralik-kara-para-aklama-agi-cokertildi-1749157",
+   "image": "https://images.ntv.com.tr/images/para-351521.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T06:30:44+00:00",
+   "url": "/haber/dev-operasyon-4-3-milyar-liralik-kara-para-aklama-agi-cokertildi-4c2bd9a3/"
   },
   {
    "id": "708774b6",
@@ -233,17 +420,6 @@
    "url": "/haber/konya-da-yolcu-otobusunun-devrilmesi-sonucu-3-u-agir-45-kisi-yaralandi-6e8fe1ad/"
   },
   {
-   "id": "30779405",
-   "title": "Türkiye otomobil ve hafif ticari araç pazarında daralma sürüyor",
-   "summary": "Otomotiv Distribütörleri ve Mobilite Derneği (ODMD), bugün 2026’nın merak edilen ekim ayı verilerini paylaştı. Türkiye otomobil ve hafif ticari araç toplam pazarı, 2026 yılı Ocak-Ekim döneminde bir önceki yılın aynı…",
-   "link": "https://www.log.com.tr/turkiye-otomobil-ve-hafif-ticari-arac-pazarinda-daralma-suruyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-03_08-44-04_g241z-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-03T05:46:48+00:00",
-   "url": "/haber/turkiye-otomobil-ve-hafif-ticari-arac-pazarinda-daralma-suruyor-30779405/"
-  },
-  {
    "id": "68c2351b",
    "title": "Fon soruşturması. Eski Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun tutuklandı",
    "summary": "Fon soruşturmasında gözaltına alınan eski Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun \"rüşvet almak\" suçundan tutuklandı.",
@@ -341,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T05:00:02+00:00",
    "url": "/haber/meta-quest-2-icin-guncellemeleri-bitiriyor-229c3119/"
-  },
-  {
-   "id": "44abf742",
-   "title": "İstanbul'da fırtına ve yağmur. Rusya'dan soğuk hava geliyor",
-   "summary": "Kasım ayıyla birlikte kış yüzünü göstermeye başladı. İstanbul'da dün akşamdan itibaren sağanak yağış etkili oldu. Yağışın bugün öğleden sonra yeniden kuvvetlenmesi bekleniyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-basladi-meteorolojiden-sekiz-il-icin-turuncu-ve-sari-uyari-1749096",
-   "image": "https://images.ntv.com.tr/images/ISTANBULDA-SAGANAK-ETKILI-OLUYOR--EK-G_1587318_471979-242697.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-03T04:55:08+00:00",
-   "url": "/haber/istanbul-da-firtina-ve-yagmur-rusya-dan-soguk-hava-geliyor-44abf742/"
   },
   {
    "id": "6d566e13",
@@ -508,28 +673,6 @@
    "url": "/haber/onlarca-kez-yogun-bakim-yedi-ameliyat-kadinlarin-yuzde-10-unu-etkileye-55b18fff/"
   },
   {
-   "id": "8dd0e341",
-   "title": "ABD, Ukrayna ile Rusya arasında yürütülecek müzakerelerde arabuluculuk yapacak",
-   "summary": "ABD'nin, 10-11 Kasım'da Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi'de Ukrayna ile Rusya arasında çalışma düzeyinde yürütülecek müzakerelere arabuluculuk yapacağı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-ukrayna-ile-rusya-arasinda-yurutulecek-muzakerelerde-arabuluculuk-yapacak/4109254",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T23:59:03+00:00",
-   "url": "/haber/abd-ukrayna-ile-rusya-arasinda-yurutulecek-muzakerelerde-arabuluculuk-8dd0e341/"
-  },
-  {
-   "id": "18f90e8d",
-   "title": "İsrail askerlerinin Batı Şeria'daki baskınlarında 2 Filistinli yaralandı",
-   "summary": "İsrail askerlerinin işgal altındaki Batı Şeria’nın çeşitli bölgelerine düzenlediği baskınlarda darbedilen 2 Filistinli yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerinin-bati-seriadaki-baskinlarinda-2-filistinli-yaralandi/4109252",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T23:50:56+00:00",
-   "url": "/haber/israil-askerlerinin-bati-seria-daki-baskinlarinda-2-filistinli-yaralan-18f90e8d/"
-  },
-  {
    "id": "1704eccc",
    "title": "İngiltere'de göçmenlerin kalıcı oturum alma süresi uzatıldı",
    "summary": "İngiltere'de İçişleri Bakanı Shabana Mahmood parlamentoda, çeşitli kategorilerdeki yasal göçmenlerin ülkede ömür boyu oturum (ILR) alabilmesi için gereken süreyi uzatan yeni kuralları açıkladı.",
@@ -550,17 +693,6 @@
    "category": "gundem",
    "date": "2026-11-02T22:58:45+00:00",
    "url": "/haber/istanbul-da-siddetli-saganak-camlica-kulesi-ve-finans-merkezi-ne-yildi-ff85314e/"
-  },
-  {
-   "id": "be26c546",
-   "title": "İsrailli eski kadın askerden itiraf: \"Ordu, Gazze ve Batı Şeria'daki gerçekleri manipüle ediyor\"",
-   "summary": "İsrailli eski bir kadın asker, İsrail Ordu Sözcülüğü biriminin Gazze Şeridi ve Batı Şeria'daki askeri operasyonlara ilişkin kamuoyuna sunduğu bilgileri nasıl manipüle ettiğini ve masum Filistinlilere \"terörist\" etiketi…",
-   "link": "https://www.aa.com.tr/tr/dunya/israilli-eski-kadin-askerden-itiraf-ordu-gazze-ve-bati-seriadaki-gercekleri-manipule-ediyor/4109240",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T22:47:06+00:00",
-   "url": "/haber/israilli-eski-kadin-askerden-itiraf-ordu-gazze-ve-bati-seria-daki-gerc-be26c546/"
   },
   {
    "id": "6957aefc",
@@ -607,17 +739,6 @@
    "url": "/haber/is-insani-ahmet-nazif-zorlu-82-yasinda-hayatini-kaybetti-9b084d20/"
   },
   {
-   "id": "47c4f141",
-   "title": "ABD Başkan Yardımcısı Vance, İran'la uzlaşma ihtimaline \"oldukça iyimser\" yaklaştıklarını belirtti",
-   "summary": "ABD Başkan Yardımcısı JD Vance, İran'la birtakım ilerlemeler kaydedildiğini ve müzakere yoluyla uzlaşmaya varılması ihtimali konusunda oldukça iyimser olduklarını söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-iranla-uzlasma-ihtimaline-oldukca-iyimser-yaklastiklarini-belirtti/4109231",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T21:39:32+00:00",
-   "url": "/haber/abd-baskan-yardimcisi-vance-iran-la-uzlasma-ihtimaline-oldukca-iyimser-47c4f141/"
-  },
-  {
    "id": "a6fbab58",
    "title": "Cumhurbaşkanı Başdanışmanı Uçum'dan seçim için 16 Nisan 2028 önerisi",
    "summary": "Cumhurbaşkanı Başdanışmanı Mehmet Uçum, Cumhurbaşkanı Recep Tayyip Erdoğan'ın görevinde yeniden aday olabilmesi için seçimlerin 7 Mayıs 2028'den önce yapılması gerektiğinin Anayasa'da açıkça yazdığını söyledi. Uçum…",
@@ -627,17 +748,6 @@
    "category": "gundem",
    "date": "2026-11-02T21:30:18+00:00",
    "url": "/haber/cumhurbaskani-basdanismani-ucum-dan-secim-icin-16-nisan-2028-onerisi-a6fbab58/"
-  },
-  {
-   "id": "864b6105",
-   "title": "ABD ordusu İran'ın Keşm Adası'na \"sınırlı\" saldırı düzenledi",
-   "summary": "İran'ın gece saatlerinde bölgede ABD ordusuna ait bir uçağı karadan havaya füzeyle hedef almaya çalıştığı, buna karşılık ABD'nin Keşm Adası'na “sınırlı” saldırı düzenlediği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-ordusu-iranin-kesm-adasina-sinirli-saldiri-duzenledi/4109221",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T21:23:12+00:00",
-   "url": "/haber/abd-ordusu-iran-in-kesm-adasi-na-sinirli-saldiri-duzenledi-864b6105/"
   },
   {
    "id": "bda97f5f",
@@ -695,17 +805,6 @@
    "url": "/haber/xbox-ta-ekim-rekoru-bir-ayda-210-yeni-oyun-4a934a52/"
   },
   {
-   "id": "3c6270ff",
-   "title": "Quick Share artık uygulamaların içine geliyor",
-   "summary": "Google, Android Dev Summit 2026'da Quick Share SDK'yı duyurdu. Geliştiriciler 2027'nin ilk yarısında Android ve iOS uygulamalarına doğrudan dosya paylaşımı ekleyebilecek.",
-   "link": "https://shiftdelete.net/quick-share-sdk-android-ios-uygulamalari",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/744775f2413321f307b65c8454faef3d22dc7d72.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T20:45:51+00:00",
-   "url": "/haber/quick-share-artik-uygulamalarin-icine-geliyor-3c6270ff/"
-  },
-  {
    "id": "d4fa8436",
    "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 2 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
    "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli…",
@@ -750,17 +849,6 @@
    "url": "/haber/gunes-panelleri-sayesinde-yillardir-ekilmeyen-araziler-yeniden-canland-35a00a78/"
   },
   {
-   "id": "a90251a1",
-   "title": "Van'da rahatsızlanan uzman çavuş şehit oldu",
-   "summary": "Van'da rahatsızlanan Piyade Uzman Çavuş Oğuz Şahin şehit oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/vanda-rahatsizlanan-asker-sehit-oldu-1749099",
-   "image": "https://images.ntv.com.tr/images/sehitaa-1520246-346266-416441.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-02T20:03:01+00:00",
-   "url": "/haber/van-da-rahatsizlanan-uzman-cavus-sehit-oldu-a90251a1/"
-  },
-  {
    "id": "1f30eff9",
    "title": "Tencent'ten insan tercümanlara rakip yapay zekâ: Konuşmaları anında çeviriyor",
    "summary": "Tencent'in konuşmaları gerçek zamanlı olarak başka bir dile çeviren yeni yapay zekâsı Hy-SimulMT, profesyonel tercümanlarla yapılan kıyaslamalarda üstün gelerek dikkat çekmeyi başardı.",
@@ -803,28 +891,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T18:27:00+00:00",
    "url": "/haber/butce-dostu-vivo-y32-5g-tanitildi-8-000-mah-pil-ve-askeri-seviyede-day-5df2efd4/"
-  },
-  {
-   "id": "f7b70a1d",
-   "title": "Son dakika Osmaniye'de deprem mi oldu? Az önce deprem Osmaniye'de nerede oldu? Osmaniye deprem Kandilli ve AFAD son depremler listesi 02 Kasım 2026",
-   "summary": "Son dakika Osmaniye deprem haberleri.. Osmaniye'de deprem mi oldu? Az önce deprem Osmaniye'de nerede oldu? Osmaniye Kandilli ve AFAD son depremler.. 02 Kasım 2026 Osmaniye deprem son dakika haberleri haberin…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-osmaniyede-deprem-mi-oldu-az-once-deprem-osmaniyede-nerede-oldu-osmaniye-deprem-kandilli-ve-afad-son-depremler-listesi-02-kasim-2026-1749091",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-02T18:20:00+00:00",
-   "url": "/haber/son-dakika-osmaniye-de-deprem-mi-oldu-az-once-deprem-osmaniye-de-nered-f7b70a1d/"
-  },
-  {
-   "id": "14de814a",
-   "title": "Osmaniye'de 4,2 büyüklüğünde deprem",
-   "summary": "Osmaniye'de 4,2 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/osmaniyede-42-buyuklugunde-deprem-1749090",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_3cee94f87f3a2f21b0fe3d750d08d114-808324.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-02T18:11:12+00:00",
-   "url": "/haber/osmaniye-de-4-2-buyuklugunde-deprem-14de814a/"
   },
   {
    "id": "d4cd895c",
@@ -891,17 +957,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T16:38:00+00:00",
    "url": "/haber/boxer-motorlarin-sonu-subaru-avrupa-da-sadece-elektrikli-otomobil-sata-77e5943a/"
-  },
-  {
-   "id": "7c7a502b",
-   "title": "Avrupa genelinde süpermarket soğutucularına siber saldırı",
-   "summary": "Avrupa genelindeki yedi ülkede onlarca süpermarkette bulunan, soğutucu ve dondurucularını etkileyen bir siber saldırı yapıldı. Bazı marketlerde dondurucuların sıcaklığının 50 dereceye kadar yükseldiği bildirildi.",
-   "link": "https://www.bbc.com/turkce/articles/cmx23e2dexndo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f2ab/live/a3865ef0-d6d0-11f1-ac20-7783925c811f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-02T16:19:50+00:00",
-   "url": "/haber/avrupa-genelinde-supermarket-sogutucularina-siber-saldiri-7c7a502b/"
   },
   {
    "id": "1c776ac4",
@@ -1014,17 +1069,6 @@
    "url": "/haber/apple-ceo-su-john-ternus-sirf-yapay-zeka-olsun-diye-ozellik-sunmak-ist-2bec54dd/"
   },
   {
-   "id": "10238039",
-   "title": "OpenAI, ChatGPT’nin sohbet ve çalışma bölümlerini birleştirecek",
-   "summary": "OpenAI, bugün belirli kullanıcılara gönderdiği e-postada ChatGPT’nin masaüstü uygulamasındaki sohbet ve çalışma bölümlerinin birleştirileceğini bildirdi. Bu adımla bazı kullanıcıların yaşayabildiği kafa karışıklığını…",
-   "link": "https://www.log.com.tr/openai-chatgptnin-sohbet-ve-calisma-bolumlerini-birlestirecek/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2025/11/openai-chatgptnin-insanlari-intihara-surukledigini-iddia-eden-yedi-farkli-dava-ile-karsi-karsiya2-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-02T14:17:11+00:00",
-   "url": "/haber/openai-chatgpt-nin-sohbet-ve-calisma-bolumlerini-birlestirecek-10238039/"
-  },
-  {
    "id": "24612354",
    "title": "Bazı insanlar günde dört saat uykuyla nasıl yaşayabiliyor?",
    "summary": "Bazı insanlar gerçekten de şaşırtıcı derecede az uykuyla gayet iyi idare edebiliyorlar. Ancak sizin de bu kişilerden biri olup olmadığınızı anlamak zor olabilir.",
@@ -1034,28 +1078,6 @@
    "category": "gundem",
    "date": "2026-11-02T14:14:59+00:00",
    "url": "/haber/bazi-insanlar-gunde-dort-saat-uykuyla-nasil-yasayabiliyor-24612354/"
-  },
-  {
-   "id": "4cb06b5e",
-   "title": "iPad için geliştirilen ücretsiz tasarım uygulaması “Affinity” yayınlandı",
-   "summary": "Çizim, vektör grafik, fotoğraf düzenleme ve sayfa tasarımı ihtiyaçlarına tek bir arayüzde cevap veren Affinity uygulaması, bugün iPad’ler için ücretsiz olarak indirmeye sunuldu. Apple Pencil ve Çizim Stüdyosu desteğine…",
-   "link": "https://www.log.com.tr/ipad-icin-gelistirilen-ucretsiz-tasarim-uygulamasi-affinity-yayinlandi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-02_17-03-11_micuE-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-02T14:10:32+00:00",
-   "url": "/haber/ipad-icin-gelistirilen-ucretsiz-tasarim-uygulamasi-affinity-yayinlandi-4cb06b5e/"
-  },
-  {
-   "id": "0112b3e1",
-   "title": "Avrupa’daki bazı süpermarketler, buzdolaplarının sıcaklığını hedef alan bir siber saldırıya uğradı",
-   "summary": "Ahold Delhaize ve Colruyt, gece saatlerinde bilgisayar sistemlerinde yaşanan bir sorunun (açıkça belirtilmiyor olsa da bir siber saldırı), Belçika ve Lüksemburg’daki onlarca mağazadaki buzdolabı ve dondurucuyu…",
-   "link": "https://www.log.com.tr/avrupadaki-bazi-supermarketler-buzdolaplarinin-sicakligini-hedef-alan-bir-siber-saldiriya-ugradi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-02_16-48-59_dTR2E-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-02T13:57:11+00:00",
-   "url": "/haber/avrupa-daki-bazi-supermarketler-buzdolaplarinin-sicakligini-hedef-alan-0112b3e1/"
   },
   {
    "id": "587e4661",
@@ -1089,28 +1111,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T13:41:50+00:00",
    "url": "/haber/apple-seneye-3-yeni-ipad-tanitacak-3f597719/"
-  },
-  {
-   "id": "0e3d19d1",
-   "title": "Yapay Zekâ Destekli Robotlar \"Hiçbir Şey Yapmadan\" Duramıyor: Komut Almasalar Bile Harekete Geçiyorlar!",
-   "summary": "Yapay zekâ destekli robotlar, hiçbir talimat almasalar dahi kendi kendilerine hareket ederek kritik bir güvenlik açığını gözler önüne serdi.",
-   "link": "https://www.webtekno.com/yapay-zeka-destekli-robotlar-hicbir-sey-yapmadan-duramiyor-h228151.html",
-   "image": "https://imgrosetta.webtekno.com/file/695374/695374-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-02T13:41:34+00:00",
-   "url": "/haber/yapay-zeka-destekli-robotlar-hicbir-sey-yapmadan-duramiyor-komut-almas-0e3d19d1/"
-  },
-  {
-   "id": "92c240d4",
-   "title": "Kasım 2026 Nissan Fiyat Listesi",
-   "summary": "Nissan Qashqai, Qashqai Yeni e-POWER, Juke, X-Trail Mild Hybrid modellerinin Kasım 2026 fiyatları Webtekno’da!",
-   "link": "https://www.webtekno.com/kasim-2026-nissan-fiyat-listesi-h228154.html",
-   "image": "https://imgrosetta.webtekno.com/file/695377/695377-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-02T13:40:41+00:00",
-   "url": "/haber/kasim-2026-nissan-fiyat-listesi-92c240d4/"
   },
   {
    "id": "2f542308",
