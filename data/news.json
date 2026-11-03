@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T00:01:10.276094+00:00",
+ "updated": "2026-11-03T00:31:01.598628+00:00",
  "items": [
   {
    "id": "32cce22a",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-03T00:00:00+00:00",
+   "date": "2026-11-03T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-32cce22a/"
+  },
+  {
+   "id": "55b18fff",
+   "title": "Onlarca kez yoğun bakım, yedi ameliyat: Kadınların yüzde 10'unu etkileyen kronik bir hastalığa tanı koymak neden bu kadar zor?",
+   "summary": "20 yıl boyunca doktorlar Melisa Gaona'yı ağrısını abartmakla veya taklit etmekle suçladı.",
+   "link": "https://www.bbc.com/turkce/articles/cqdjv02l7jgno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8fb9/live/2c86d160-cb93-11f1-93a7-b36f3083f4d3.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-03T00:13:45+00:00",
+   "url": "/haber/onlarca-kez-yogun-bakim-yedi-ameliyat-kadinlarin-yuzde-10-unu-etkileye-55b18fff/"
+  },
+  {
+   "id": "44abf742",
+   "title": "İstanbul'da fırtına ve yağmur. Sekiz il için turuncu ve sarı uyarı",
+   "summary": "Kasım ayıyla birlikte kış yüzünü göstermeye başladı. İstanbul'da dün akşamdan itibaren sağanak yağış etkili oldu. Yağışın bugün öğleden sonra yeniden kuvvetlenmesi bekleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-basladi-meteorolojiden-sekiz-il-icin-turuncu-ve-sari-uyari-1749096",
+   "image": "https://images.ntv.com.tr/images/ISTANBULDA-SAGANAK-ETKILI-OLUYOR--EK-G_1587318_471979-242697.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T00:08:46+00:00",
+   "url": "/haber/istanbul-da-firtina-ve-yagmur-sekiz-il-icin-turuncu-ve-sari-uyari-44abf742/"
   },
   {
    "id": "8dd0e341",
@@ -44,17 +66,6 @@
    "category": "gundem",
    "date": "2026-11-02T23:23:21+00:00",
    "url": "/haber/ingiltere-de-gocmenlerin-kalici-oturum-alma-suresi-uzatildi-1704eccc/"
-  },
-  {
-   "id": "44abf742",
-   "title": "İstanbul'da sağanak başladı. Meteoroloji'den sekiz il için turuncu ve sarı uyarı",
-   "summary": "Kasım ayıyla birlikte kış yüzünü göstermeye başladı. İstanbul'da dün akşamdan itibaren sağanak yağış etkili olurken, Meteoroloji Genel Müdürlüğü de bazı iller için sarı ve turuncu kodlu alarm verdi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-basladi-meteorolojiden-sekiz-il-icin-turuncu-ve-sari-uyari-1749096",
-   "image": "https://images.ntv.com.tr/images/ISTANBULDA-SAGANAK-ETKILI-OLUYOR--EK-G_1587318_471979-242697.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-02T23:00:41+00:00",
-   "url": "/haber/istanbul-da-saganak-basladi-meteoroloji-den-sekiz-il-icin-turuncu-ve-s-44abf742/"
   },
   {
    "id": "ff85314e",
@@ -1210,17 +1221,6 @@
    "category": "gundem",
    "date": "2026-11-01T11:49:00+00:00",
    "url": "/haber/yeni-haftada-hava-durumu-nasil-olacak-f498e025/"
-  },
-  {
-   "id": "ae0bbe77",
-   "title": "Keten tohumu gerçekten sağlığa faydalı mı, bilim ne diyor?",
-   "summary": "Keten tohumu genellikle besin açısından çok zengin bir kaynak olarak tanıtılıyor ama gerçekten sağlığınızı iyileştirebilir mi?",
-   "link": "https://www.bbc.com/turkce/articles/cq1m4krm3e29o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5464/live/b6218540-d5d0-11f1-82ae-81055b9ae1cd.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-01T08:21:26+00:00",
-   "url": "/haber/keten-tohumu-gercekten-sagliga-faydali-mi-bilim-ne-diyor-ae0bbe77/"
   },
   {
    "id": "9f6bb329",
