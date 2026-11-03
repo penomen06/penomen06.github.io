@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T06:01:04.771090+00:00",
+ "updated": "2026-11-03T06:31:00.350082+00:00",
  "items": [
+  {
+   "id": "4c2bd9a3",
+   "title": "Dev operasyon: 4,3 milyar liralık kara para aklama ağı çökertildi",
+   "summary": "Yasa dışı bahis ve dolandırıcılık paralarını kripto varlıklar üzerinden aklayan bir suç örgütü çökertildi.",
+   "link": "https://www.ntv.com.tr/turkiye/dev-operasyon-43-milyar-liralik-kara-para-aklama-agi-cokertildi-1749157",
+   "image": "https://images.ntv.com.tr/images/para-351521.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T06:30:27+00:00",
+   "url": "/haber/dev-operasyon-4-3-milyar-liralik-kara-para-aklama-agi-cokertildi-4c2bd9a3/"
+  },
   {
    "id": "32cce22a",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 03 Kasım 2026",
@@ -9,8 +20,162 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-03T06:00:00+00:00",
+   "date": "2026-11-03T06:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-32cce22a/"
+  },
+  {
+   "id": "708774b6",
+   "title": "iPhone Duo sevkiyat gecikmesi ne zaman bitecek?",
+   "summary": "Apple COO'su Sabih Khan, mali yılın dördüncü çeyrek toplantısında iPhone Duo sevkiyat gecikmesi için net bir takvim vermedi. Bellek maliyetleri de gündemdeydi.",
+   "link": "https://shiftdelete.net/iphone-duo-sevkiyat-gecikmesi-ne-zaman-bitecek",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/45fb1c5b7f4138e48eea2d57ee1bbbfeb2a81789.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:29:25+00:00",
+   "url": "/haber/iphone-duo-sevkiyat-gecikmesi-ne-zaman-bitecek-708774b6/"
+  },
+  {
+   "id": "35be27b1",
+   "title": "Quick Share ile otomatik yedekleme geliyor",
+   "summary": "Google, Android telefonlardaki fotoğraf ve videoları Windows PC'ye aktaran Quick Share otomatik yedekleme özelliğini kasım notlarında duyurdu. Özellik kademeli olarak yayılıyor.",
+   "link": "https://shiftdelete.net/quick-share-otomatik-yedekleme-android-windows",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/quick-share-yedekleme-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:29:18+00:00",
+   "url": "/haber/quick-share-ile-otomatik-yedekleme-geliyor-35be27b1/"
+  },
+  {
+   "id": "e54faa63",
+   "title": "Apple 99 ülkede casus yazılım uyarısı gönderdi",
+   "summary": "Apple casus yazılım uyarısı bu kez 99 ülkedeki kullanıcılara gönderildi. Almanya'da milletvekilleri ve hükümet yetkililerinin hedef alınmış olabileceği iddiaları soruşturuluyor.",
+   "link": "https://shiftdelete.net/apple-casus-yazilim-uyarisi-99-ulke",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/apple-casus-yazilim-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:29:11+00:00",
+   "url": "/haber/apple-99-ulkede-casus-yazilim-uyarisi-gonderdi-e54faa63/"
+  },
+  {
+   "id": "1c3c7784",
+   "title": "Apple yeni zam sorusuna net yanıt vermedi",
+   "summary": "Apple CEO'su John Ternus, bellek fiyatlarındaki artışın Aralık çeyreğinde hızlanacağını söyledi. Apple bellek maliyeti nedeniyle brüt kar marjında düşüş bekliyor.",
+   "link": "https://shiftdelete.net/apple-bellek-maliyeti-aralik-ceyregi-zam",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/apple-bellek-maliyeti-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:29:03+00:00",
+   "url": "/haber/apple-yeni-zam-sorusuna-net-yanit-vermedi-1c3c7784/"
+  },
+  {
+   "id": "b9c993ae",
+   "title": "2.978 beygirlik BYD Yangwang U9 Xtreme ile hız denemesinde kaza yapıldı [Video]",
+   "summary": "Teknik açıdan sınırları zorlayan tamamen elektrikli BYD Yangwang U9 Xtreme, 496 km/sa hıza ulaşarak seri üretime giren en hızlı otomobil olmayı başarmıştı. 490,48 km/sa hıza ulaşan Bugatti Chiron Super Sport 300+…",
+   "link": "https://www.log.com.tr/2-978-beygirlik-byd-yangwang-u9-xtreme-ile-hiz-denemesinde-kaza-yapildi-video/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-03_09-17-35_2mnxz-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:24:41+00:00",
+   "url": "/haber/2-978-beygirlik-byd-yangwang-u9-xtreme-ile-hiz-denemesinde-kaza-yapild-b9c993ae/"
+  },
+  {
+   "id": "fc9ea399",
+   "title": "A Milli Erkek Hentbol Takımı, yarın Avusturya ile karşılaşacak",
+   "summary": "A Milli Erkek Hentbol Takımı, 2028 Avrupa Şampiyonası Elemeleri 2. Grup'taki ilk maçında yarın Avusturya ile karşı karşıya gelecek.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-hentbol-takimi-yarin-avusturya-ile-karsilasacak/4109314",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T06:19:23+00:00",
+   "url": "/haber/a-milli-erkek-hentbol-takimi-yarin-avusturya-ile-karsilasacak-fc9ea399/"
+  },
+  {
+   "id": "0f6d5f15",
+   "title": "AnTuTu, ekim ayının en güçlü Android telefonlarını açıkladı",
+   "summary": "Bu listeyi Çin’de satılan telefonlarda gerçekleştirilen performans testleri üzerinden hazırlayan AnTuTu, bugün geride bıraktığımız ekim ayının en güçlü Android modellerini de karşımıza çıkardı. Yapılan yeni paylaşıma…",
+   "link": "https://www.log.com.tr/antutu-ekim-ayinin-en-guclu-android-telefonlarini-acikladi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-03_09-09-44_AudtV-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:16:05+00:00",
+   "url": "/haber/antutu-ekim-ayinin-en-guclu-android-telefonlarini-acikladi-0f6d5f15/"
+  },
+  {
+   "id": "4cdc4495",
+   "title": "Kar soğuğu geliyor: İstanbul'da hava sıcaklığı aniden düşecek, bazı şehirlerde kar bekleniyor",
+   "summary": "Rusya üzerinden gelen soğuk hava dalgası İstanbul ve Ankara'da hava sıcaklıklarını hızla düşürecek. Bazı bölgelere mevsimin ilk kar yağışının bu hafta düşmesi bekleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-kar-sogugu-geliyor-istanbulda-hava-sicakligi-aniden-dusecek-bazi-sehirlerde-kar-bekleniyor-1749141",
+   "image": "https://images.ntv.com.tr/images/kar-geliyor-175150.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T06:14:33+00:00",
+   "url": "/haber/kar-sogugu-geliyor-istanbul-da-hava-sicakligi-aniden-dusecek-bazi-sehi-4cdc4495/"
+  },
+  {
+   "id": "45fc52b8",
+   "title": "Nepal'de iniş esnasında iki helikopterin çarpışması sonucu 1 kişi öldü, 3 kişi yaralandı",
+   "summary": "Nepal'de Everest Dağı yakınlarındaki helikopter pistine aynı anda iniş yapmaya çalışan iki helikopterin çarpışması sonucu 1 turist hayatını kaybetti, 3 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/nepalde-inis-esnasinda-iki-helikopterin-carpismasi-sonucu-1-kisi-oldu-3-kisi-yaralandi/4109309",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T06:13:52+00:00",
+   "url": "/haber/nepal-de-inis-esnasinda-iki-helikopterin-carpismasi-sonucu-1-kisi-oldu-45fc52b8/"
+  },
+  {
+   "id": "2367073e",
+   "title": "2+1 kiralık evi hostele çevirdi. 25 bin liraya kiraladığı evi adam başı 15 bine kiraya verdi",
+   "summary": "İstanbul'da geçen yıl kiralanan 2+1 dairenin hostele çevrildiği iddia edildi. 25 bin lira kira ödeyen kiracının eve yerleştirdiği yatakları aylık 15 bin liradan göçmenlere kiraladığı öne sürüldü.",
+   "link": "https://www.ntv.com.tr/turkiye/21-kiralik-evi-hostel-yapti-kendi-odedigi-kirayi-katladi-1749132",
+   "image": "https://images.ntv.com.tr/images/GÖÇMEN-527975.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-03T06:12:57+00:00",
+   "url": "/haber/2-1-kiralik-evi-hostele-cevirdi-25-bin-liraya-kiraladigi-evi-adam-basi-2367073e/"
+  },
+  {
+   "id": "79044dd9",
+   "title": "ABD'de bugünkü ara seçim anketlerinde Demokratlar, Temsilciler Meclisinde güçlü görünüyor",
+   "summary": "ABD'de bugün düzenlenecek Kongre ara seçimlerine ilişkin anketlerdeki son durumda, hem Senato hem de Temsilciler Meclisinde Demokratlar avantajlı görünse de asıl sonucu çekişmeli yarışların sürdüğü eyaletler…",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-bugunku-ara-secim-anketlerinde-demokratlar-temsilciler-meclisinde-guclu-gorunuyor/4109305",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T06:09:33+00:00",
+   "url": "/haber/abd-de-bugunku-ara-secim-anketlerinde-demokratlar-temsilciler-meclisin-79044dd9/"
+  },
+  {
+   "id": "ed8bcd95",
+   "title": "Avrupa Birliği kışa 2013'ten beri görülen en düşük gaz stok seviyeleriyle giriyor",
+   "summary": "Küresel doğal gaz arz güvenliğine yönelik riskler devam ederken Avrupa Birliği (AB), kış dönemine 2013'ten beri görülen en düşük doğal gaz stok seviyeleriyle giriyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/avrupa-birligi-kisa-2013ten-beri-gorulen-en-dusuk-gaz-stok-seviyeleriyle-giriyor/4109303",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T06:07:36+00:00",
+   "url": "/haber/avrupa-birligi-kisa-2013-ten-beri-gorulen-en-dusuk-gaz-stok-seviyeleri-ed8bcd95/"
+  },
+  {
+   "id": "9e628161",
+   "title": "Anadolu Grubu ve Vestel’in Togg’daki payları, Türkiye Varlık Fonu’ ve Turkcell’e geçiyor",
+   "summary": "Yerli otomobil üreticisi Togg için daha önce duyurulan bu büyük hisse devri hakkında KAP üzerinden yeni açıklamalar yapıldı. Süreçle alakalı olarak Turkcell, “Togg pay sahiplerinden AG Anadolu Grubu Holding A.Ş.’ye ait,…",
+   "link": "https://www.log.com.tr/anadolu-grubu-ve-vestelin-toggdaki-paylari-turkiye-varlik-fonu-ve-turkcelle-geciyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2025/09/1758802015_Togg_T10X_T10F-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-03T06:06:07+00:00",
+   "url": "/haber/anadolu-grubu-ve-vestel-in-togg-daki-paylari-turkiye-varlik-fonu-ve-tu-9e628161/"
+  },
+  {
+   "id": "eebb6443",
+   "title": "Küresel piyasalar Orta Doğu iyimserliği ve yapay zeka endişeleri arasında yön arıyor",
+   "summary": "Küresel piyasalar, ABD'deki seçim sürecinin beraberinde getirdiği siyasi belirsizlikler ve yapay zeka yatırımlarının finansmanına dair endişelerin, Orta Doğu'daki diplomatik ilerlemeye yönelik iyimserliği gölgede…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-orta-dogu-iyimserligi-ve-yapay-zeka-endiseleri-arasinda-yon-ariyor/4109302",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-03T06:04:11+00:00",
+   "url": "/haber/kuresel-piyasalar-orta-dogu-iyimserligi-ve-yapay-zeka-endiseleri-arasi-eebb6443/"
   },
   {
    "id": "26698feb",
@@ -22,6 +187,17 @@
    "category": "teknoloji",
    "date": "2026-11-03T05:57:29+00:00",
    "url": "/haber/apple-114-milyar-dolara-ulastigi-buyuk-son-ceyrek-sonuclarini-acikladi-26698feb/"
+  },
+  {
+   "id": "eb08ac25",
+   "title": "Kaşif Kozinoğlu'nun saç ve tırnaklarında yüksek oranda toksik madde tespit edildi",
+   "summary": "Silivri Cezaevi'nde 2011 yılında hayatını kaybeden eski MİT görevlisi Kaşif Kozinoğlu'nun ölümüne ilişkin yürütülen soruşturma kapsamında yapılan fethi kabir işlemi sonrası hazırlanan otopsi ve laboratuvar ön raporuna…",
+   "link": "https://www.trthaber.com/haber/gundem/kasif-kozinoglunun-sac-ve-tirnaklarinda-yuksek-oranda-toksik-madde-tespit-edildi-962028.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2486000/kozinoglu-2487857.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-03T05:52:00+00:00",
+   "url": "/haber/kasif-kozinoglu-nun-sac-ve-tirnaklarinda-yuksek-oranda-toksik-madde-te-eb08ac25/"
   },
   {
    "id": "2e0a389b",
@@ -46,15 +222,15 @@
    "url": "/haber/tesla-antalya-da-yeni-bir-supercharger-istasyonu-acti-4516733c/"
   },
   {
-   "id": "2367073e",
-   "title": "2+1 kiralık evi hostele çevirdi, kendi ödediği kirayı katladı",
-   "summary": "İstanbul'da geçen yıl kiralanan 2+1 dairenin hostele çevrildiği iddia edildi. 25 bin lira kira ödeyen kiracının eve yerleştirdiği yatakları aylık 15 bin liradan göçmenlere kiraladığı öne sürüldü.",
-   "link": "https://www.ntv.com.tr/turkiye/21-kiralik-evi-hostel-yapti-kendi-odedigi-kirayi-katladi-1749132",
-   "image": "https://images.ntv.com.tr/images/GÖÇMEN-527975.png",
-   "source": "ntv.com.tr",
+   "id": "6e8fe1ad",
+   "title": "Konya'da yolcu otobüsünün devrilmesi sonucu 3'ü ağır 45 kişi yaralandı",
+   "summary": "Konya'nın Hüyük ilçesinde yolcu otobüsünün şarampole devrilmesi sonucu 3'ü ağır 45 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/konyada-yolcu-otobusunun-devrilmesi-sonucu-3u-agir-45-kisi-yaralandi/4109291",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-03T05:47:26+00:00",
-   "url": "/haber/2-1-kiralik-evi-hostele-cevirdi-kendi-odedigi-kirayi-katladi-2367073e/"
+   "date": "2026-11-03T05:47:46+00:00",
+   "url": "/haber/konya-da-yolcu-otobusunun-devrilmesi-sonucu-3-u-agir-45-kisi-yaralandi-6e8fe1ad/"
   },
   {
    "id": "30779405",
@@ -464,28 +640,6 @@
    "url": "/haber/abd-ordusu-iran-in-kesm-adasi-na-sinirli-saldiri-duzenledi-864b6105/"
   },
   {
-   "id": "9269b084",
-   "title": "Diyarbakır'da kamyon ile hafif ticari aracın çarpıştığı kazada 2 kişi öldü, 12 kişi yaralandı",
-   "summary": "Diyarbakır'ın merkez Bağlar ilçesinde kamyon ile hafif ticari aracın çarpışması sonucu 2 kişi hayatını kaybetti, 12 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/diyarbakirda-kamyon-ile-hafif-ticari-aracin-carpistigi-kazada-2-kisi-oldu-12-kisi-yaralandi/4109216",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T21:19:59+00:00",
-   "url": "/haber/diyarbakir-da-kamyon-ile-hafif-ticari-aracin-carpistigi-kazada-2-kisi-9269b084/"
-  },
-  {
-   "id": "6c423753",
-   "title": "Cumhurbaşkanı Erdoğan'dan Serpil Bahçeli için taziye mesajı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, MHP Genel Başkanı Devlet Bahçeli'nin hayatını kaybeden kardeşi Serpil Bahçeli için taziye mesajı yayımladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-serpil-bahceli-icin-taziye-mesaji/4109207",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T21:19:14+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-dan-serpil-bahceli-icin-taziye-mesaji-6c423753/"
-  },
-  {
    "id": "bda97f5f",
    "title": "BMW'den Tesla FSD'ye rakip şehir içi asistan",
    "summary": "BMW şehir içi sürüş asistanı 2027'de önce Almanya'da devreye girecek. Navigasyon destekli Seviye 2 sistem, yazılım güncellemesiyle seçili modellere ulaşacak.",
@@ -495,28 +649,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T21:15:47+00:00",
    "url": "/haber/bmw-den-tesla-fsd-ye-rakip-sehir-ici-asistan-bda97f5f/"
-  },
-  {
-   "id": "4d787168",
-   "title": "İsrail basını: ABD'deki ara seçimler arifesinde İsrail en üst düzey alarmda",
-   "summary": "İsrail'in, İran'a karşı savaşın yeniden başlatılabileceğine ilişkin söylemlerin gündemde olduğu ABD'deki ara seçimlerin arifesinde alarm seviyesini en üst düzeye çıkardığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-abddeki-ara-secimler-arifesinde-israil-en-ust-duzey-alarmda/4109195",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T21:02:36+00:00",
-   "url": "/haber/israil-basini-abd-deki-ara-secimler-arifesinde-israil-en-ust-duzey-ala-4d787168/"
-  },
-  {
-   "id": "0092d448",
-   "title": "Trump'ın İran savaşı konusunda üst düzey ABD'li yetkililerin performansını sorguladığı öne sürüldü",
-   "summary": "ABD Başkanı Trump'ın, İran'a yönelik saldırıları yeniden başlatmayı değerlendirdiği, \"suçlayacak\" isim aradığı ve bu kapsamda Savunma Bakanı Pete Hegseth ile Genelkurmay Başkanı Orgeneral Caine'in performanslarını…",
-   "link": "https://www.aa.com.tr/tr/dunya/trumpin-iran-savasi-konusunda-ust-duzey-abdli-yetkililerin-performansini-sorguladigi-one-suruldu/4109194",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T21:02:02+00:00",
-   "url": "/haber/trump-in-iran-savasi-konusunda-ust-duzey-abd-li-yetkililerin-performan-0092d448/"
   },
   {
    "id": "52eec0d7",
@@ -541,17 +673,6 @@
    "url": "/haber/ahmet-nazif-zorlu-yasamini-yitirdi-a331dbd8/"
   },
   {
-   "id": "6ce58c94",
-   "title": "Milli kick boksçuların Avrupa Şampiyonası'ndaki hedefi altın madalya",
-   "summary": "Büyükler Avrupa Şampiyonası'na Erzurum'da hazırlanan milli kick boksçular, Kuzey Makedonya'dan 3 altın madalyayla dönmeyi hedefliyor.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-kick-bokscularin-avrupa-sampiyonasindaki-hedefi-altin-madalya/4109191",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T20:59:30+00:00",
-   "url": "/haber/milli-kick-bokscularin-avrupa-sampiyonasi-ndaki-hedefi-altin-madalya-6ce58c94/"
-  },
-  {
    "id": "69ef7a39",
    "title": "Xbox Game Pass, Kasım ayında 14 oyuna veda edecek",
    "summary": "Kasım ayında Xbox Game Pass'e eklenecek ilk oyunlardan sonra, bu ay platformdan ayrılacak yapımlar da belli oldu. Xbox Game Pass, bu ay 14 oyuna birden veda ediyor.",
@@ -561,17 +682,6 @@
    "category": "teknoloji",
    "date": "2026-11-02T20:59:00+00:00",
    "url": "/haber/xbox-game-pass-kasim-ayinda-14-oyuna-veda-edecek-69ef7a39/"
-  },
-  {
-   "id": "bd110724",
-   "title": "Devrim Muhafızları Ordusu: Keşm Adası'nın güneyinde ABD'ye ait 2 MQM-170 tipi İHA düşürüldü",
-   "summary": "İran Devrim Muhafızları Ordusu Hava Kuvvetleri Komutanlığı, Hürmüz Boğazı'nda yer alan Keşm Adası'nın güneyinde ABD’ye ait iki adet MQM-170 tipi insansız hava aracı (İHA) düşürüldüğünü duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/devrim-muhafizlari-ordusu-kesm-adasinin-guneyinde-abdye-ait-2-mqm-170-tipi-iha-dusuruldu/4109190",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-02T20:56:21+00:00",
-   "url": "/haber/devrim-muhafizlari-ordusu-kesm-adasi-nin-guneyinde-abd-ye-ait-2-mqm-17-bd110724/"
   },
   {
    "id": "4a934a52",
@@ -673,28 +783,6 @@
    "url": "/haber/hyperx-solocast-2-incelemesi-uygun-fiyatli-oyuncu-mikrofonu-alinir-mi-a6fae81a/"
   },
   {
-   "id": "c351cb94",
-   "title": "Neuralink Blindsight mühendislik olarak hazır",
-   "summary": "Elon Musk, Neuralink Blindsight beyin implantının mühendislik açısından hazır olduğunu açıkladı. Cihaz görme engelli kişilere görme yetisi kazandırmayı hedefliyor.",
-   "link": "https://shiftdelete.net/neuralink-blindsight-muhendislik-olarak-hazir",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/fe64293e86360754d74cda34529ffb6fc90a9f51.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T19:02:20+00:00",
-   "url": "/haber/neuralink-blindsight-muhendislik-olarak-hazir-c351cb94/"
-  },
-  {
-   "id": "dac9324b",
-   "title": "Raspberry Pi 5 16GB'ın fiyatı 385 dolara çıktı",
-   "summary": "Raspberry Pi 5 16GB, 80 dolarlık yeni zamla 385 dolara yükseldi. Cihaz, 120 dolarlık lansman fiyatının üç katından fazlasına satılıyor.",
-   "link": "https://shiftdelete.net/raspberry-pi-5-16gb-fiyat-zammi-385-dolar",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/0ebded2ea6f716b68218479916974be9d2a17b5f.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T18:47:12+00:00",
-   "url": "/haber/raspberry-pi-5-16gb-in-fiyati-385-dolara-cikti-dac9324b/"
-  },
-  {
    "id": "7be5692f",
    "title": "Bir askerimiz şehit oldu",
    "summary": "Milli Savunma Bakanlığı (MSB), Van'da görev esnasında rahatsızlanan Piyade Uzman Çavuş Oğuz Şahin'in kaldırıldığı hastanede şehit olduğunu duyurdu.",
@@ -704,28 +792,6 @@
    "category": "gundem",
    "date": "2026-11-02T18:47:00+00:00",
    "url": "/haber/bir-askerimiz-sehit-oldu-7be5692f/"
-  },
-  {
-   "id": "ed673807",
-   "title": "One UI 9 sonrası Android Auto sorunları arttı",
-   "summary": "One UI 9 Android Auto sorunu bazı Galaxy kullanıcılarını etkiliyor. Android 17 tabanlı güncellemeyle birlikte takılma ve bağlantı kopması şikâyetleri artmaya başladı.",
-   "link": "https://shiftdelete.net/one-ui-9-android-auto-sorunu",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/android-auto-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T18:36:05+00:00",
-   "url": "/haber/one-ui-9-sonrasi-android-auto-sorunlari-artti-ed673807/"
-  },
-  {
-   "id": "082030a0",
-   "title": "Galaxy S27 Pro fiyat artışını gizleyebilir",
-   "summary": "Samsung'un Galaxy S27 serisine ekleyeceği iddia edilen Galaxy S27 Pro, başlangıç fiyatını artırmadan zam yapmanın yolu olabilir. İddiaya göre model 1.399 dolardan satılacak.",
-   "link": "https://shiftdelete.net/galaxy-s27-pro-fiyat-artisi-samsung",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/23b84d3b9254d16f83d8560ac4340574c435f9c6.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-02T18:32:22+00:00",
-   "url": "/haber/galaxy-s27-pro-fiyat-artisini-gizleyebilir-082030a0/"
   },
   {
    "id": "5df2efd4",
@@ -783,17 +849,6 @@
    "url": "/haber/elon-musk-korlugu-tedavi-etmeye-hazir-oldugunu-acikladi-d2344959/"
   },
   {
-   "id": "8db74329",
-   "title": "Akdeniz'de Muğla açıklarında 5.1 büyüklüğünde deprem",
-   "summary": "Akdeniz'de Muğla'nın Datça ilçesine 253 kilometre uzaklıkta 5,1 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/akdenizde-mugla-aciklarinda-51-buyuklugunde-deprem-1749087",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_988208d963e3205d7d0cca2f7ee7666e-405526.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-02T17:23:45+00:00",
-   "url": "/haber/akdeniz-de-mugla-aciklarinda-5-1-buyuklugunde-deprem-8db74329/"
-  },
-  {
    "id": "a9f3db53",
    "title": "Spotify'ın yeni yapay zeka özelliği Premium abonelerine ek ücret getirebilir",
    "summary": "Spotify, kullanıcıların mevcut şarkılardan yapay zeka yardımıyla remix ve cover oluşturmasını sağlayacak yeni bir hizmet geliştiriyor. Hizmetin aylık 5 dolar ek ücretle sunulabileceği belirtiliyor.",
@@ -814,28 +869,6 @@
    "category": "gundem",
    "date": "2026-11-02T17:20:10+00:00",
    "url": "/haber/dem-parti-nin-belediye-meclis-uyeligi-karari-ibb-de-dengeler-degisecek-67edd630/"
-  },
-  {
-   "id": "13a1e6fe",
-   "title": "Tekne kazasında ölmüştü. ATSO Başkanı Ali Bahar'ın davasında bir beraat, bir hapis cezası",
-   "summary": "Tekne kazasında hayatını kaybeden dönemin Antalya Ticaret ve Sanayi Odası Başkanı Ali Bahar'ın davasında bir sanığa beraat, diğerine ise 1 yıl 8 ay hapis cezası verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/tekne-kazasinda-olmustu-atso-baskani-ali-baharin-davasinda-bir-beraat-bir-hapis-cezasi-1749086",
-   "image": "https://images.ntv.com.tr/images/ODA-BASKANI-ALI-BAHARIN-OLUMUNE-ILISKIN_1587132_471925-493425.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-02T17:07:01+00:00",
-   "url": "/haber/tekne-kazasinda-olmustu-atso-baskani-ali-bahar-in-davasinda-bir-beraat-13a1e6fe/"
-  },
-  {
-   "id": "64675fb3",
-   "title": "MHP Genel Başkanı Bahçeli'nin kız kardeşi Serpil Bahçeli vefat etti",
-   "summary": "MHP Genel Başkanı Devlet Bahçeli'nin kız kardeşi Serpil Bahçeli vefat etti.",
-   "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahcelinin-kiz-kardesi-serpil-bahceli-vefat-etti-961986.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2474000/bahceli-aa-2475731.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-02T17:07:00+00:00",
-   "url": "/haber/mhp-genel-baskani-bahceli-nin-kiz-kardesi-serpil-bahceli-vefat-etti-64675fb3/"
   },
   {
    "id": "7d3e347f",
@@ -1080,17 +1113,6 @@
    "url": "/haber/kasim-2026-nissan-fiyat-listesi-92c240d4/"
   },
   {
-   "id": "b7140045",
-   "title": "NTDEV, Windows 11 26H2’yi yalnızca 128 MB RAM’le çalışacak hale getirdi",
-   "summary": "Tiny11’in geliştiricisi NTDEV, Windows 11 26H2’yi yalnızca 128 MB RAM’le çalıştırmayı başardı. Proje, 699 MB’lık boyutuyla standart bir CD’ye sığacak kadar kırpılmış özel bir Windows 11 sürümüne dayanıyor. NTDEV’in…",
-   "link": "https://www.log.com.tr/ntdev-windows-11-26h2yi-yalnizca-128-mb-ramle-calisacak-hale-getirdi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-02_16-18-56_uPxTW-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-02T13:22:49+00:00",
-   "url": "/haber/ntdev-windows-11-26h2-yi-yalnizca-128-mb-ram-le-calisacak-hale-getirdi-b7140045/"
-  },
-  {
    "id": "2f542308",
    "title": "Bahçeli'den 19 yeni il önerisi: Bir ilçenin il olması ne anlama geliyor?",
    "summary": "MHP lideri Devlet Bahçeli Türkiye'de 19 yeni il ve 78 yeni ilçe kurulmasını önerdi. Bir ilçenin il olması ne anlama geliyor? İl olan bir ilçede neler değişiyor?",
@@ -1111,28 +1133,6 @@
    "category": "gundem",
    "date": "2026-11-02T13:11:00+00:00",
    "url": "/haber/turk-universiteleri-cin-egitim-fuari-na-katildi-1cde489e/"
-  },
-  {
-   "id": "9600d1af",
-   "title": "Lamborghini Gallardo, orijinal tasarımcısı tarafından yeniden yorumlandı",
-   "summary": "İtalya’da ünlü tasarım stüdyosu Italdesign Giugiaro bünyesinde Fabrizio Giugiaro tarafından tasarlanan, ardından Lamborghini’nin kendi tasarım merkezinde Luc Donckerwolke liderliğinde üretime hazır hale getirilen…",
-   "link": "https://www.log.com.tr/lamborghini-gallardo-orijinal-tasarimcisi-tarafindan-yeniden-yorumlandi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-02_16-05-07_Yrl7R-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-02T13:08:02+00:00",
-   "url": "/haber/lamborghini-gallardo-orijinal-tasarimcisi-tarafindan-yeniden-yorumland-9600d1af/"
-  },
-  {
-   "id": "2883bf43",
-   "title": "iFFALCON ve Pegasus BolBol iş birliğiyle 30.000’e varan BolPuan fırsatı",
-   "summary": "En son teknolojiyi modern tasarımla birleştirerek, yeni nesil televizyonları kullanıcılarla buluşturan iFFALCON, Türkiye’nin önde gelen havayolu şirketlerinden Pegasus Hava Yolları ile gerçekleştirdiği iş birliğiyle…",
-   "link": "https://www.log.com.tr/iffalcon-ve-pegasus-bolbol-is-birligiyle-30-000e-varan-bolpuan-firsati/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-02_15-13-11_t6M8j-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-02T12:49:02+00:00",
-   "url": "/haber/iffalcon-ve-pegasus-bolbol-is-birligiyle-30-000-e-varan-bolpuan-firsat-2883bf43/"
   },
   {
    "id": "de657cde",
