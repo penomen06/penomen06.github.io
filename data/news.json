@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T09:01:07.130510+00:00",
+ "updated": "2026-11-04T09:31:01.584918+00:00",
  "items": [
   {
    "id": "900f0ee0",
@@ -9,19 +9,118 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-04T09:00:00+00:00",
+   "date": "2026-11-04T09:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-900f0ee0/"
+  },
+  {
+   "id": "2bb91ace",
+   "title": "Steam neden rakipsiz? Eski Epic Games çalışanı \"Suç oyuncularda\"",
+   "summary": "Eski bir Epic Games çalışanı, Steam'in PC oyun pazarında neden rakipsiz olduğunu açıkladı. \"Steam'in başarısız rakipleri, oyuncuların kararından kaynaklı.\"",
+   "link": "https://www.donanimhaber.com/steam-neden-rakipsiz-eski-epic-games-calisani-suc-oyuncularda--212456",
+   "image": "https://www.donanimhaber.com/images/images/haber/212456/1200x675steam-neden-rakipsiz-eski-epic-games-calisani-suc-oyuncularda.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-04T09:28:57+00:00",
+   "url": "/haber/steam-neden-rakipsiz-eski-epic-games-calisani-suc-oyuncularda-2bb91ace/"
+  },
+  {
+   "id": "b134fc33",
+   "title": "Apple Watch Series 12 ile Watch Ultra 4’ün “tartışmalı” Canlı Geri Sarma ve Siri Özeti özellikleri teste girdi",
+   "summary": "Apple Watch Series 12 ve Watch Ultra 4 akıllı saatlerde “Audio Intelligence / İşitsel Zeka” adlı yeni bir altyapı bulunuyor. Saatlerdeki S11 işlemciden güç alan bu altyapı, “Ses Tanıma, Shazam ile otomatik Müzik Tanıma,…",
+   "link": "https://www.log.com.tr/apple-watch-series-12-ile-watch-ultra-4un-tartismali-canli-geri-sarma-ve-siri-ozeti-ozellikleri-teste-girdi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-04_12-10-59_Oz28g-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-04T09:24:45+00:00",
+   "url": "/haber/apple-watch-series-12-ile-watch-ultra-4-un-tartismali-canli-geri-sarma-b134fc33/"
+  },
+  {
+   "id": "255e881e",
+   "title": "Resimden Çeviri Nasıl Yapılır? En Kolay Yollar",
+   "summary": "Resimden çeviri nasıl yapılır? Android, iPhone ve bilgisayarda fotoğraftaki yazıyı Google Çeviri, Google Lens ve Canlı Metin ile ücretsiz çevirmenin yollarını anlattık.",
+   "link": "https://shiftdelete.net/resimden-ceviri-nasil-yapilir",
+   "image": "https://shiftdelete.net/static/img/content/26-11/04/resimden-ceviri-telefon-kamerasi-tabela.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T09:24:19+00:00",
+   "url": "/haber/resimden-ceviri-nasil-yapilir-en-kolay-yollar-255e881e/"
+  },
+  {
+   "id": "040b4017",
+   "title": "Fransa'da kan depolama tesislerine siber saldırı düzenlendi",
+   "summary": "Fransa'da kan kurumunun depolama tesislerinde kullanılan soğutma sistemine siber saldırı düzenlendiği öğrenildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-kan-depolama-tesislerine-siber-saldiri-duzenlendi/4111245",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T09:13:52+00:00",
+   "url": "/haber/fransa-da-kan-depolama-tesislerine-siber-saldiri-duzenlendi-040b4017/"
+  },
+  {
+   "id": "e23e4e99",
+   "title": "Redmi Turbo 6 Max'in bataryası 11.000 mAh olabilir",
+   "summary": "Redmi Turbo 6 Max için yeni bir batarya detayı ortaya çıktı. Sızıntılara göre telefon 11.000 mAh kapasiteyle Xiaomi'nin en büyük bataryalı modeli olabilir.",
+   "link": "https://shiftdelete.net/redmi-turbo-6-max-11000-mah-batarya",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/redmi-turbo-6-max-11000-mah-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T09:13:09+00:00",
+   "url": "/haber/redmi-turbo-6-max-in-bataryasi-11-000-mah-olabilir-e23e4e99/"
   },
   {
    "id": "18390461",
    "title": "ABD'de ara seçimler: Demokratlar Kongre'nin iki kanadında da çoğunluğu kazandı",
    "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Demokratlar, Senato ve Temsilciler Meclisi'nde Cumhuriyetçilerin sahip olduğu çoğunluğu ele geçirdi",
    "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/294e/live/34a98000-d821-11f1-a9b6-0f4245e849b7.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9451/live/00b4d6b0-d82f-11f1-be97-417dbcdedd32.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-11-04T08:57:57+00:00",
+   "date": "2026-11-04T09:07:30+00:00",
    "url": "/haber/abd-de-ara-secimler-demokratlar-kongre-nin-iki-kanadinda-da-cogunlugu-18390461/"
+  },
+  {
+   "id": "2bc9bc9a",
+   "title": "Yapay zeka için dünyanın ilk 800V güç sistemi devreye alındı",
+   "summary": "Çin’de devreye alınan dünyanın ilk ticari 800V DC veri merkezi güç sistemi, enerji kayıplarını azaltarak daha güçlü yapay zeka sunucularının çalışmasını sağlayacak.",
+   "link": "https://www.donanimhaber.com/yapay-zeka-icin-dunyanin-ilk-800v-guc-sistemi-devreye-alindi--212432",
+   "image": "https://www.donanimhaber.com/images/images/haber/212432/1200x675yapay-zeka-icin-dunyanin-ilk-800v-guc-sistemi-devreye-alindi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-04T09:06:00+00:00",
+   "url": "/haber/yapay-zeka-icin-dunyanin-ilk-800v-guc-sistemi-devreye-alindi-2bc9bc9a/"
+  },
+  {
+   "id": "685136c0",
+   "title": "Bakan Ersoy'a Geleceğe Miras Projesi'yle İtalya'da \"2026 Paestum Ödülü\" verildi",
+   "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, İtalya'nın Salerno bölgesindeki Paestum'da gerçekleştirilen 28. Akdeniz Arkeolojik Turizm Buluşması kapsamında düzenlenen törende, \"2026 Paestum Ödülü\"nü aldı.",
+   "link": "https://www.aa.com.tr/tr/kultur/bakan-ersoya-gelecege-miras-projesiyle-italyada-2026-paestum-odulu-verildi/4111227",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T09:02:18+00:00",
+   "url": "/haber/bakan-ersoy-a-gelecege-miras-projesi-yle-italya-da-2026-paestum-odulu-685136c0/"
+  },
+  {
+   "id": "24187364",
+   "title": "ABD'nin ilk Müslüman senatörü Sayed, inancı nedeniyle hedef alınmasına ve İsrail lobisine rağmen kazandı",
+   "summary": "ABD ara seçimlerinde Michigan'dan senatör seçilen Mısır asıllı Demokrat Abdul el-Sayed, İsrail lobisinin rakibine desteğine ve başta Trump tarafından dini inancı nedeniyle hedef alınmasına rağmen Senatoya giren ilk…",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-ilk-musluman-senatoru-sayed-inanci-nedeniyle-hedef-alinmasina-ve-israil-lobisine-ragmen-kazandi/4111225",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T09:01:19+00:00",
+   "url": "/haber/abd-nin-ilk-musluman-senatoru-sayed-inanci-nedeniyle-hedef-alinmasina-24187364/"
+  },
+  {
+   "id": "d0ae0441",
+   "title": "New York Eyalet Senatosuna ilk kez Filistin kökenli bir isim seçildi",
+   "summary": "ABD'de düzenlenen ara seçimlerde aday olan Aber Kawas, New York'ta Eyalet Senatosuna seçilen ilk Filistin kökenli ve başörtülü isim oldu.",
+   "link": "https://www.aa.com.tr/tr/dunya/new-york-eyalet-senatosuna-ilk-kez-filistin-kokenli-bir-isim-secildi/4111221",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T08:59:39+00:00",
+   "url": "/haber/new-york-eyalet-senatosuna-ilk-kez-filistin-kokenli-bir-isim-secildi-d0ae0441/"
   },
   {
    "id": "45237526",
@@ -33,6 +132,17 @@
    "category": "teknoloji",
    "date": "2026-11-04T08:57:50+00:00",
    "url": "/haber/meta-yapay-zeka-icin-15-milyar-dolar-borclaniyor-45237526/"
+  },
+  {
+   "id": "390ad13b",
+   "title": "Hava savunma ASELSAN'ı yeni ihracat rekoruna taşıdı",
+   "summary": "Türk savunma sanayisinin öncü şirketlerinden ASELSAN, bu yılki başarılı ihracat performansına yeni rekorlar sığdırdı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/hava-savunma-aselsani-yeni-ihracat-rekoruna-tasidi/4111219",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T08:57:15+00:00",
+   "url": "/haber/hava-savunma-aselsan-i-yeni-ihracat-rekoruna-tasidi-390ad13b/"
   },
   {
    "id": "de6c6a5f",
@@ -101,17 +211,6 @@
    "url": "/haber/10-yillik-am4-hala-zirvede-amd-intel-e-satis-farki-atti-6e37eeee/"
   },
   {
-   "id": "193e796a",
-   "title": "2026 ABD ara seçimlerinde Senato yarışını önde götüren Müslüman aday Sayed zaferini ilan etti",
-   "summary": "ABD'de Kongre ara seçimlerde Michigan eyaletindeki Senato yarışını önde götüren Demokratların Müslüman adayı Abdul el-Sayed, destekçilerine hitaben yaptığı konuşmada zaferini ilan etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/2026-abd-ara-secimlerinde-senato-yarisini-onde-goturen-musluman-aday-sayed-zaferini-ilan-etti/4111193",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T08:37:50+00:00",
-   "url": "/haber/2026-abd-ara-secimlerinde-senato-yarisini-onde-goturen-musluman-aday-s-193e796a/"
-  },
-  {
    "id": "add80048",
    "title": "Kadim Anadolu mirası COP31 salon isimlerine taşındı",
    "summary": "COP31 etkinlikleri kapsamında Mavi ve Yeşil bölgelerdeki salon ve toplantı odalarına, Türk-İslam medeniyetinden insanlığa iz bırakmış kişilerin yanı sıra çeşitli yer ve kültür unsurlarının isimleri verildi.",
@@ -156,28 +255,6 @@
    "url": "/haber/samsung-galaxy-s27-serisinde-uc-farkli-islemci-kullanilabilir-a0a26857/"
   },
   {
-   "id": "42095c7a",
-   "title": "ABD ara seçimlerinde 7 Müslüman Kongreye seçildi",
-   "summary": "ABD'de düzenlenen ara seçimlerde resmi olmayan sonuçlara göre, Kongreye aday olan 7 Müslüman seçimlerden galip ayrılırken, Temsilciler Meclisinde 1 Müslüman adayın daha zafer kazanması bekleniyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-ara-secimlerinde-7-musluman-kongreye-secildi/4111172",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T08:26:37+00:00",
-   "url": "/haber/abd-ara-secimlerinde-7-musluman-kongreye-secildi-42095c7a/"
-  },
-  {
-   "id": "128bc18d",
-   "title": "İsrailli siyasiler, ABD seçim sonuçlarının ardından Netanyahu'nun başbakan olarak kalamayacağını vurguladı",
-   "summary": "İsrailli muhalif siyasetçiler, resmi olmayan sonuçlara göre Demokratların zafere ulaştığı ABD ara seçimlerinden sonra İsrail Başbakanı Binyamin Netanyahu'nun göreve devam edemeyeceğini vurguladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilli-siyasiler-abd-secim-sonuclarinin-ardindan-netanyahunun-basbakan-olarak-kalamayacagini-vurguladi/4111171",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T08:26:19+00:00",
-   "url": "/haber/israilli-siyasiler-abd-secim-sonuclarinin-ardindan-netanyahu-nun-basba-128bc18d/"
-  },
-  {
    "id": "7fe4d2de",
    "title": "Bakan Yumaklı: Son 5 yılda alınan 1141 iş makinesi şimdiye kadar 37 milyar liralık fayda sağladı",
    "summary": "Tarım ve Orman Bakanı Yumaklı, Devlet Su İşlerine (DSİ) teslim edilen yeni araçlarla damperli iş makinesi sayısının 584'ten 734'e yükseldiğini belirterek, \"Son 5 yılda alınan 1141 iş makinesi şimdiye kadar 37 milyar…",
@@ -187,6 +264,28 @@
    "category": "gundem",
    "date": "2026-11-04T08:26:12+00:00",
    "url": "/haber/bakan-yumakli-son-5-yilda-alinan-1141-is-makinesi-simdiye-kadar-37-mil-7fe4d2de/"
+  },
+  {
+   "id": "14e344b8",
+   "title": "\"Ara Güler-Master of Leica\" sergisi, sanatçının fotoğraf arşivinden izler sunuyor",
+   "summary": "Usta fotoğrafçı Ara Güler'in Leica markasıyla 60 yılı aşkın süreye yayılan ilişkisi, kişisel arşivindeki yazışmalar, notlar ve fotoğraflar aracılığıyla Ara Güler Müzesi'nde açılan \"Ara Güler-Master of Leica\" sergisinde…",
+   "link": "https://www.aa.com.tr/tr/kultur/ara-guler-master-of-leica-sergisi-sanatcinin-fotograf-arsivinden-izler-sunuyor/4111166",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T08:24:51+00:00",
+   "url": "/haber/ara-guler-master-of-leica-sergisi-sanatcinin-fotograf-arsivinden-izler-14e344b8/"
+  },
+  {
+   "id": "b30dc7dc",
+   "title": "Dakar 2026'da altın madalya kazanan Sema Nur Yüksel'in hedefi büyüklerde de olimpiyat şampiyonluğu",
+   "summary": "Senegal'de düzenlenen 4. Yaz Gençlik Olimpiyat Oyunları'nda (Dakar 2026) judoda altın madalya kazanan milli sporcu Sema Nur Yüksel, büyüklerde de olimpiyat şampiyonluğuna ulaşarak İstiklal Marşı'nı okutmayı hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/spor/dakar-2026da-altin-madalya-kazanan-sema-nur-yukselin-hedefi-buyuklerde-de-olimpiyat-sampiyonlugu/4111165",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T08:24:48+00:00",
+   "url": "/haber/dakar-2026-da-altin-madalya-kazanan-sema-nur-yuksel-in-hedefi-buyukler-b30dc7dc/"
   },
   {
    "id": "eeff9e3b",
@@ -244,17 +343,6 @@
    "url": "/haber/xbox-game-pass-e-eklenecek-yeni-oyunlar-aciklandi-4-17-kasim-1b096a44/"
   },
   {
-   "id": "500bbb02",
-   "title": "THY, üçüncü çeyrekte 929 milyon dolar esas faaliyet karı elde etti",
-   "summary": "Türk Hava Yollarının (THY) Orta Doğu'daki savaşın neden olduğu zorlu faaliyet ortamında, 2026'nın üçüncü çeyreğinde 929 milyon dolar esas faaliyet karı elde ettiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/thy-ucuncu-ceyrekte-929-milyon-dolar-esas-faaliyet-kari-elde-etti/4111159",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T08:20:25+00:00",
-   "url": "/haber/thy-ucuncu-ceyrekte-929-milyon-dolar-esas-faaliyet-kari-elde-etti-500bbb02/"
-  },
-  {
    "id": "dbaa4922",
    "title": "Demokratların kazandığı Kongre ile Beyaz Saray arasındaki güç savaşı, Trump'ın kalan 2 yılına damga vuracak",
    "summary": "ABD'de yapılan Kongre ara seçimlerinde Demokratların hem Senato hem de Temsilciler Meclisi'nde çoğunluğu kazanması, Başkan Donald Trump'ın ikinci başkanlık döneminin kalan iki yılında Amerikan iç ve dış politikasındaki…",
@@ -266,37 +354,15 @@
    "url": "/haber/demokratlarin-kazandigi-kongre-ile-beyaz-saray-arasindaki-guc-savasi-t-dbaa4922/"
   },
   {
-   "id": "65ae406c",
-   "title": "Mısır fiyatları ekimde 40 ayın en hızlı düşüşünü kaydetti",
-   "summary": "Mısırın kile başına fiyatı, ABD'de hasadın artması ve Karadeniz'deki arz endişelerinin azalmasının etkisiyle ekimde yüzde 10,6 gerileyerek haziran 2023'ten bu yana en sert aylık düşüşünü kaydetti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/misir-fiyatlari-ekimde-40-ayin-en-hizli-dususunu-kaydetti/4111158",
+   "id": "0a92d627",
+   "title": "Elazığ'ın 136 yıllık okulu öğrencileri geleceğe hazırlıyor",
+   "summary": "Sultan 2. Abdülhamid döneminde 1890 yılında eğitime başlayan Elazığ Lisesi, 136 yıllık köklü geçmişiyle öğrencilerini geleceğe hazırlıyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/elazigin-136-yillik-okulu-ogrencileri-gelecege-hazirliyor/4111154",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-04T08:19:46+00:00",
-   "url": "/haber/misir-fiyatlari-ekimde-40-ayin-en-hizli-dususunu-kaydetti-65ae406c/"
-  },
-  {
-   "id": "ac5883db",
-   "title": "Demokratların kazandığı Kongre ile Beyaz Saray arasındaki güç savaşı, Trump'ın kalan 2 yılına damga vuracak",
-   "summary": "ABD'de yapılan Kongre ara seçimlerinde Demokratların hem Senato hem de Temsilciler Meclisi'nde çoğunluğu kazanması, Başkan Donald Trump'ın ikinci başkanlık döneminin kalan iki yılında Amerikan iç ve dış politikasındaki…",
-   "link": "https://www.aa.com.tr/tr/dunya/demokratlarin-kazandigi-kongre-ile-beyaz-saray-arasindaki-guc-savasi-trumpin-kalan-2-yilina-damga-vuracak/4111155",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T08:19:05+00:00",
-   "url": "/haber/demokratlarin-kazandigi-kongre-ile-beyaz-saray-arasindaki-guc-savasi-t-ac5883db/"
-  },
-  {
-   "id": "b7cef7af",
-   "title": "Bakan Bayraktar: Türkiye 2040'ta enerjisinin yaklaşık yüzde 70'ini yenilenebilir kaynaklardan sağlayacak",
-   "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin 2040'ta enerjisinin yaklaşık yüzde 70'ini yenilenebilir kaynaklardan sağlamasının hedeflendiğini belirtti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiye-2040ta-enerjisinin-yaklasik-yuzde-70ini-yenilenebilir-kaynaklardan-saglayacak/4111150",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T08:17:16+00:00",
-   "url": "/haber/bakan-bayraktar-turkiye-2040-ta-enerjisinin-yaklasik-yuzde-70-ini-yeni-b7cef7af/"
+   "date": "2026-11-04T08:19:03+00:00",
+   "url": "/haber/elazig-in-136-yillik-okulu-ogrencileri-gelecege-hazirliyor-0a92d627/"
   },
   {
    "id": "a5f36a12",
@@ -310,17 +376,6 @@
    "url": "/haber/ataturk-un-ziyaret-ettigi-okul-139-yillik-tarihiyle-ogrenci-yetistirme-a5f36a12/"
   },
   {
-   "id": "fd2de5e4",
-   "title": "Trabzonspor, Avrupa kupalarında 160. maçına çıkacak",
-   "summary": "UEFA Konferans Ligi'nde yarın Almanya'nın Freiburg takımı ile sahasında karşılaşacak Trabzonspor, Avrupa kupalarındaki 160. maçına çıkacak.",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-avrupa-kupalarinda-160-macina-cikacak/4111146",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T08:15:20+00:00",
-   "url": "/haber/trabzonspor-avrupa-kupalarinda-160-macina-cikacak-fd2de5e4/"
-  },
-  {
    "id": "6cf3533d",
    "title": "COP31'in Türkiye-Hollanda deniz üstü rüzgar enerjisi işbirliğine ivme kazandırması bekleniyor",
    "summary": "Hollanda'nın Ankara Büyükelçisi Alle Dorhout, iki ülkenin deniz üstü rüzgar enerjisi alanındaki işbirliğini geliştirmek amacıyla bir niyet beyanı üzerinde çalıştığını bildirdi.",
@@ -332,15 +387,15 @@
    "url": "/haber/cop31-in-turkiye-hollanda-deniz-ustu-ruzgar-enerjisi-isbirligine-ivme-6cf3533d/"
   },
   {
-   "id": "5450a37c",
-   "title": "Eski Başbakan Bülent Ecevit'in vefatının üzerinden 20 yıl geçti",
-   "summary": "Türk siyasetinde \"Karaoğlan\" lakabıyla anılan, Kıbrıs Barış Harekatı ve bölücü terör örgütü elebaşının yakalanmasına kadar çok sayıda tarihi olayda baş aktör olan eski Başbakan Bülent Ecevit'in vefatının üzerinden 20…",
-   "link": "https://www.aa.com.tr/tr/gundem/eski-basbakan-bulent-ecevitin-vefatinin-uzerinden-20-yil-gecti/4111125",
+   "id": "1199e383",
+   "title": "Yağmurda kayganlaşan yol çizgileri motosikletlileri riske atıyor",
+   "summary": "Motosiklet ileri sürüş eğitmeni Akçay, yağışlı havalarda kayganlaşan yol çizgilerinin rögar kapaklarının ve metal mazgalların motosiklet sürücüleri için denge kaybı ve düşme riski oluşturduğunu, bunun kaymaz malzemeden…",
+   "link": "https://www.aa.com.tr/tr/gundem/yagmurda-kayganlasan-yol-cizgileri-motosikletlileri-riske-atiyor/4111126",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-04T08:06:25+00:00",
-   "url": "/haber/eski-basbakan-bulent-ecevit-in-vefatinin-uzerinden-20-yil-gecti-5450a37c/"
+   "date": "2026-11-04T08:06:44+00:00",
+   "url": "/haber/yagmurda-kayganlasan-yol-cizgileri-motosikletlileri-riske-atiyor-1199e383/"
   },
   {
    "id": "8b1f8145",
@@ -706,28 +761,6 @@
    "url": "/haber/ios-27-3-guncellemesi-onemli-yeniliklerle-geliyor-c7dde3eb/"
   },
   {
-   "id": "d93cd0f6",
-   "title": "Devlet yönetimini yapay zekaya taşıyorlar",
-   "summary": "Abu Dabi OpenAI anlaşması kapsamında emirlik, devlet yönetimi, enerji, eğitim ve yatırım alanlarında yapay zeka kullanımı için 4 ayrı anlaşmaya imza attı.",
-   "link": "https://shiftdelete.net/abu-dabi-openai-anlasmasi-devlet-yonetimi-yapay-zeka",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/9c84c1e8982d575558cdfdb7c0177e0cb8953a9c.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T06:30:46+00:00",
-   "url": "/haber/devlet-yonetimini-yapay-zekaya-tasiyorlar-d93cd0f6/"
-  },
-  {
-   "id": "6e0dd27d",
-   "title": "ZTE satılıyor! İşte fiyatı!",
-   "summary": "ZTE akıllı telefon bölümü, Çinli bir internet şirketi ve Şanghay'daki devlet yatırımcılarının yer aldığı ortak girişime devredilebilir. Oyun markası RedMagic kapsam dışında.",
-   "link": "https://shiftdelete.net/zte-akilli-telefon-bolumu-5-6-milyar-dolar",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/186452668ee3b60cc9f501abbe3a41aaa2c986f7.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T06:30:39+00:00",
-   "url": "/haber/zte-satiliyor-iste-fiyati-6e0dd27d/"
-  },
-  {
    "id": "8f1c240a",
    "title": "Sibirya'dan önce soğuğu sonra kendisi geliyor. Mevsimin ilk kar yağışı için tarih belli oldu",
    "summary": "Yurt genelinde sıcaklıklar yarından Rusya üzerinden gelen soğuk hava dalgasıyla beraber 5-8 derece arası düşecek. Cumadan sonra ise Doğu Anadolu Bölgesi'nde kar geliyor.",
@@ -748,17 +781,6 @@
    "category": "gundem",
    "date": "2026-11-04T06:24:43+00:00",
    "url": "/haber/gumruklerde-459-kilo-uyusturucu-ele-gecirildi-45865271/"
-  },
-  {
-   "id": "37290d5d",
-   "title": "Honor, iddiaya göre 14-15.000 mAh kapasiteli telefon bataryalarını test ediyor",
-   "summary": "Geçtiğimiz hafta 12.070 mAh kapasiteli bataryalarıyla dikkat çeken yeni modelleri WIN RT2 ve WIN Turbo2’yi tanıtan Honor, Digital Chat Station’ın aktardığına göre şu anda 14.000, hatta 15.000 mAh kapasiteli akıllı…",
-   "link": "https://www.log.com.tr/honor-iddiaya-gore-14-15-000-mah-kapasiteli-telefon-bataryalarini-test-ediyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-10-21_15-49-25_XVcpt_FHD-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-04T06:17:22+00:00",
-   "url": "/haber/honor-iddiaya-gore-14-15-000-mah-kapasiteli-telefon-bataryalarini-test-37290d5d/"
   },
   {
    "id": "4acaff8b",
@@ -992,17 +1014,6 @@
    "url": "/haber/bilim-insanlari-yasamin-olmadigi-bir-dunya-simulasyonu-yaratti-c69ae2bf/"
   },
   {
-   "id": "3961e13a",
-   "title": "Dünyanın en büyük PCIe ekran kartı keşfedildi: Tek kartta 4 GPU",
-   "summary": "AMD'nin daha önce hiç tanıtmadığı dört GPU'lu Radeon RX 470 prototipi ortaya çıktı. 32 GB GDDR5 belleğe sahip kartın, kripto para madenciliği için geliştirildiği düşünülüyor.",
-   "link": "https://www.donanimhaber.com/dunyanin-en-buyuk-pcie-ekran-karti-kesfedildi-tek-kartta-4-gpu--212430",
-   "image": "https://www.donanimhaber.com/images/images/haber/212430/1200x675dunyanin-en-buyuk-pcie-ekran-karti-kesfedildi-tek-kartta-4-gpu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-03T19:50:00+00:00",
-   "url": "/haber/dunyanin-en-buyuk-pcie-ekran-karti-kesfedildi-tek-kartta-4-gpu-3961e13a/"
-  },
-  {
    "id": "13032618",
    "title": "Galatasaray, Şampiyonlar Ligi'nde evinde Stuttgart'ı 2-0 yendi",
    "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin dördüncü hafta maçında Aleksey Batrakov'un attığı iki golle Almanya temsilcisi Stuttgart'ı 2-0 yendi",
@@ -1023,17 +1034,6 @@
    "category": "gundem",
    "date": "2026-11-03T19:41:00+00:00",
    "url": "/haber/galatasaray-stuttgart-i-iki-golle-gecti-1d2abdd8/"
-  },
-  {
-   "id": "961a349f",
-   "title": "200 derece sıcaklığa dayanan katı hal batarya 1.000 km menzil vadediyor",
-   "summary": "Sunwoda'nın katı hal bataryası, 200°C sıcaklıkta alev oluşmadan test edildi. Şirket, yüksek enerji yoğunluğuyla elektrikli araçlarda 1.000 kilometreyi aşan menzil hedefliyor.",
-   "link": "https://www.donanimhaber.com/200-derece-sicakliga-dayanan-kati-hal-batarya-geliyor--212429",
-   "image": "https://www.donanimhaber.com/images/images/haber/212429/1200x675200-derece-sicakliga-dayanan-kati-hal-batarya-geliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-03T19:30:00+00:00",
-   "url": "/haber/200-derece-sicakliga-dayanan-kati-hal-batarya-1-000-km-menzil-vadediyo-961a349f/"
   },
   {
    "id": "475e34f4",
