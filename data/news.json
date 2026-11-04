@@ -1,28 +1,6 @@
 {
- "updated": "2026-11-04T06:30:58.369831+00:00",
+ "updated": "2026-11-04T07:01:10.086141+00:00",
  "items": [
-  {
-   "id": "d93cd0f6",
-   "title": "Abu Dabi devlet yönetimini yapay zekâya taşıyor",
-   "summary": "Abu Dabi OpenAI anlaşması kapsamında emirlik, devlet yönetimi, enerji, eğitim ve yatırım alanlarında yapay zeka kullanımı için 4 ayrı anlaşmaya imza attı.",
-   "link": "https://shiftdelete.net/abu-dabi-openai-anlasmasi-devlet-yonetimi-yapay-zeka",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/9c84c1e8982d575558cdfdb7c0177e0cb8953a9c.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T06:30:46+00:00",
-   "url": "/haber/abu-dabi-devlet-yonetimini-yapay-zekaya-tasiyor-d93cd0f6/"
-  },
-  {
-   "id": "6e0dd27d",
-   "title": "ZTE'nin telefon birimine 5,6 milyar dolar değer",
-   "summary": "ZTE akıllı telefon bölümü, Çinli bir internet şirketi ve Şanghay'daki devlet yatırımcılarının yer aldığı ortak girişime devredilebilir. Oyun markası RedMagic kapsam dışında.",
-   "link": "https://shiftdelete.net/zte-akilli-telefon-bolumu-5-6-milyar-dolar",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/186452668ee3b60cc9f501abbe3a41aaa2c986f7.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T06:30:39+00:00",
-   "url": "/haber/zte-nin-telefon-birimine-5-6-milyar-dolar-deger-6e0dd27d/"
-  },
   {
    "id": "900f0ee0",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 04 Kasım 2026",
@@ -31,8 +9,151 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-04T06:30:00+00:00",
+   "date": "2026-11-04T07:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-900f0ee0/"
+  },
+  {
+   "id": "1196c1d0",
+   "title": "Steam Türkiye'de En Çok Satan Oyunlar Açıklandı [27 Ekim-3 Kasım 2026]",
+   "summary": "Steam, Türkiye'de geçen hafta boyunca en çok satan oyunları açıkladı.",
+   "link": "https://www.webtekno.com/steam-turkiye-en-cok-satan-oyunlar-27-ekim-3-kasim-2026-h228235.html",
+   "image": "https://imgrosetta.webtekno.com/file/695584/695584-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-04T06:55:41+00:00",
+   "url": "/haber/steam-turkiye-de-en-cok-satan-oyunlar-aciklandi-27-ekim-3-kasim-2026-1196c1d0/"
+  },
+  {
+   "id": "4a7240cb",
+   "title": "Ferrari, 2027’de banttan inecek tüm Luce’leri sattı",
+   "summary": "Ferrari CEO’su Benedetto Vigna’nın açıklamasına göre şirket, 2027’de üretim bandından inecek tüm Luce’leri sattı. Bu da şirketin 600 bin dolarlık tamamen elektrikli otomobilini satın almak isteyen yeni müşterilerin…",
+   "link": "https://www.log.com.tr/ferrari-2027de-banttan-inecek-tum-luceleri-satti/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-04_09-47-31_Qi9mb-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-04T06:52:02+00:00",
+   "url": "/haber/ferrari-2027-de-banttan-inecek-tum-luce-leri-satti-4a7240cb/"
+  },
+  {
+   "id": "708de8b8",
+   "title": "Rusya'da e-ticaret şirketi Ozon'un lojistik merkezinde İHA saldırısı sonucu yangın çıktı",
+   "summary": "Rusya'nın Adıgey Cumhuriyeti'ndeki Adıgeysk şehrinde, e-ticaret şirketi Ozon'a ait lojistik merkezinde insansız hava aracı (İHA) saldırısı sonucu yangın çıktığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyada-e-ticaret-sirketi-ozonun-lojistik-merkezinde-iha-saldirisi-sonucu-yangin-cikti/4110981",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T06:49:21+00:00",
+   "url": "/haber/rusya-da-e-ticaret-sirketi-ozon-un-lojistik-merkezinde-iha-saldirisi-s-708de8b8/"
+  },
+  {
+   "id": "277e4daf",
+   "title": "Razer’dan PS5 ve PC uyumlu yeni kontrolcü: “Raiju V3 Pro Signature Edition”",
+   "summary": "Razer Raiju V3 Pro Signature Edition, PlayStation 5 konsolların yanı sıra PC’de de kullanılabiliyor ve özellikle açık yapılı magnezyum alaşımlı gövdesiyle öne çıkıyor. Ön ve arka taraftaki açıklıklar sayesinde…",
+   "link": "https://www.log.com.tr/razerdan-ps5-ve-pc-uyumlu-yeni-kontrolcu-raiju-v3-pro-signature-edition/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-04_09-42-34_KqDeS-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-04T06:45:16+00:00",
+   "url": "/haber/razer-dan-ps5-ve-pc-uyumlu-yeni-kontrolcu-raiju-v3-pro-signature-editi-277e4daf/"
+  },
+  {
+   "id": "3292deb0",
+   "title": "Gümrükler Muhafaza ekipleri 4 ayrı operasyonda 459 kilogramı aşkın uyuşturucuya el koydu",
+   "summary": "Gümrükler Muhafaza ekipleri, Edirne ve İstanbul'da yürüttükleri 4 ayrı operasyonda 459 kilo 599 gram uyuşturucu madde ele geçirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/gumrukler-muhafaza-ekipleri-4-ayri-operasyonda-459-kilogrami-askin-uyusturucuya-el-koydu/4110974",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T06:42:11+00:00",
+   "url": "/haber/gumrukler-muhafaza-ekipleri-4-ayri-operasyonda-459-kilogrami-askin-uyu-3292deb0/"
+  },
+  {
+   "id": "470aa2ed",
+   "title": "Beşiktaş, UEFA Avrupa Ligi'nde yarın Celtic'in konuğu olacak",
+   "summary": "Beşiktaş, UEFA Avrupa Ligi'nin dördüncü haftasında yarın İskoçya temsilcisi Celtic'in konuğu olacak.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-celticin-konugu-olacak/4110967",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T06:37:34+00:00",
+   "url": "/haber/besiktas-uefa-avrupa-ligi-nde-yarin-celtic-in-konugu-olacak-470aa2ed/"
+  },
+  {
+   "id": "e9171bec",
+   "title": "ABD'de Demokratların seçim zaferi: 'Cumhuriyetçilerin kalelerine girdiler'",
+   "summary": "ABD'de ara seçimlerde Demokratlar hem Temsilciler Meclisi hem de Senato'da çoğunluğu Cumhuriyetçilerin elinden aldı. Peki seçim sonuçları nasıl yorumlanıyor? Demokratların zaferi Trump'ın bundan sonraki başkanlığını…",
+   "link": "https://www.bbc.com/turkce/articles/cq4g1rpk0rr5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e27e/live/408de8a0-d819-11f1-93e1-3b657b665bcf.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-04T06:36:00+00:00",
+   "url": "/haber/abd-de-demokratlarin-secim-zaferi-cumhuriyetcilerin-kalelerine-girdile-e9171bec/"
+  },
+  {
+   "id": "1700de65",
+   "title": "Engelli ÖTV'siz araç limiti 3.673.706 TL olacak",
+   "summary": "Engelli vatandaşlara sunulan ÖTV'siz araç limiti, 1 Ocak 2027'den itibaren yeniden değerleme oranı kadar artarak 3.673.706 TL'ye yükselecek.",
+   "link": "https://shiftdelete.net/engelli-otvsiz-arac-limiti-3673706-tl",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/5fc3bb48beb1ae8775924a0497fab07070db5bf8.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T06:35:52+00:00",
+   "url": "/haber/engelli-otv-siz-arac-limiti-3-673-706-tl-olacak-1700de65/"
+  },
+  {
+   "id": "686dd521",
+   "title": "111 TL'lik yedek parça ilanına 1 milyon TL ceza",
+   "summary": "Ticaret Bakanlığı Reklam Kurulu, internette 111 TL'ye yayımlanan yedek parça ilanı nedeniyle satıcıya 1 milyon 83 bin 706 TL idari para cezası verdi.",
+   "link": "https://shiftdelete.net/yedek-parca-ilani-1-milyon-tl-ceza",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/c31d40e3fe53884ca4c4cd18c7c1dc995abd63c5.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T06:35:45+00:00",
+   "url": "/haber/111-tl-lik-yedek-parca-ilanina-1-milyon-tl-ceza-686dd521/"
+  },
+  {
+   "id": "9d93efda",
+   "title": "iPhone Duo 2 prototipi sızdırıldı: Üçlü kamerayla gelebilir",
+   "summary": "iPhone Duo 2'ye ait olduğu iddia edilen bir prototip görüntüsü ortaya çıktı. Üçlü kamera sistemiyle dikkat çeken cihazın telefoto lens ve Face ID desteği sunabileceği belirtiliyor.",
+   "link": "https://www.donanimhaber.com/iphone-duo-2-prototipi-sizdirildi-uclu-kamerayla-gelebilir--212442",
+   "image": "https://www.donanimhaber.com/images/images/haber/212442/1200x675iphone-duo-2-prototipi-sizdirildi-uclu-kamerayla-gelebilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-04T06:34:00+00:00",
+   "url": "/haber/iphone-duo-2-prototipi-sizdirildi-uclu-kamerayla-gelebilir-9d93efda/"
+  },
+  {
+   "id": "c7dde3eb",
+   "title": "iOS 27.3 güncellemesi önemli yeniliklerle geliyor",
+   "summary": "Dün gece beta testleri başlayan iOS 27.3 güncellemesi, öncelikle Türkçe dil desteğine sahip yeni Sağlık uygulamasıyla dikkat çekiyor. Siri AI’ya Türkçe desteği getirecek sürüm, Safari’ye dikey sekme modu ve koyu arayüzü…",
+   "link": "https://www.log.com.tr/ios-27-3-guncellemesi-onemli-yeniliklerle-geliyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-04_09-28-28_QeulT-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-04T06:32:40+00:00",
+   "url": "/haber/ios-27-3-guncellemesi-onemli-yeniliklerle-geliyor-c7dde3eb/"
+  },
+  {
+   "id": "d93cd0f6",
+   "title": "Devlet yönetimini yapay zekaya taşıyorlar",
+   "summary": "Abu Dabi OpenAI anlaşması kapsamında emirlik, devlet yönetimi, enerji, eğitim ve yatırım alanlarında yapay zeka kullanımı için 4 ayrı anlaşmaya imza attı.",
+   "link": "https://shiftdelete.net/abu-dabi-openai-anlasmasi-devlet-yonetimi-yapay-zeka",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/9c84c1e8982d575558cdfdb7c0177e0cb8953a9c.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T06:30:46+00:00",
+   "url": "/haber/devlet-yonetimini-yapay-zekaya-tasiyorlar-d93cd0f6/"
+  },
+  {
+   "id": "6e0dd27d",
+   "title": "ZTE satılıyor! İşte fiyatı!",
+   "summary": "ZTE akıllı telefon bölümü, Çinli bir internet şirketi ve Şanghay'daki devlet yatırımcılarının yer aldığı ortak girişime devredilebilir. Oyun markası RedMagic kapsam dışında.",
+   "link": "https://shiftdelete.net/zte-akilli-telefon-bolumu-5-6-milyar-dolar",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/186452668ee3b60cc9f501abbe3a41aaa2c986f7.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T06:30:39+00:00",
+   "url": "/haber/zte-satiliyor-iste-fiyati-6e0dd27d/"
   },
   {
    "id": "8f1c240a",
@@ -55,6 +176,17 @@
    "category": "gundem",
    "date": "2026-11-04T06:24:43+00:00",
    "url": "/haber/gumruklerde-459-kilo-uyusturucu-ele-gecirildi-45865271/"
+  },
+  {
+   "id": "587c1e30",
+   "title": "Cumhurbaşkanı Erdoğan, Güney Kore'deki şirketlerin üst düzey yöneticilerini kabul etti",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, resmi ziyaret kapsamında bulunduğu Güney Kore'nin başkenti Seul'de, teknoloji, elektronik, biyoteknoloji ve kimya alanlarında faaliyet gösteren şirketlerin üst düzey yöneticilerini…",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koredeki-sirketlerin-ust-duzey-yoneticilerini-kabul-etti/4110944",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T06:22:11+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-guney-kore-deki-sirketlerin-ust-duzey-yoneticile-587c1e30/"
   },
   {
    "id": "37290d5d",
@@ -110,6 +242,17 @@
    "category": "teknoloji",
    "date": "2026-11-04T06:04:55+00:00",
    "url": "/haber/microsoft-windows-11-artik-8-gb-ram-li-pc-lerde-daha-hizli-calisiyor-264cff17/"
+  },
+  {
+   "id": "040bf110",
+   "title": "Android telefon ömrü nasıl uzatılır?",
+   "summary": "Telefon fiyatları artarken Android telefon ömrü, birkaç ucuz hamleyle uzatılabilir. Pil değişimi, doğru şarj alışkanlığı, sağlam kılıf ve güncellemeler öne çıkıyor.",
+   "link": "https://shiftdelete.net/android-telefon-omru-nasil-uzatilir",
+   "image": "https://butterfly.shiftdelete.net/static/sdnweb-haberbotu/hb/a5b9b687c3cd2e13e9c0cf3d91c9906e8b587a69.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T06:04:00+00:00",
+   "url": "/haber/android-telefon-omru-nasil-uzatilir-040bf110/"
   },
   {
    "id": "c6f606ba",
@@ -301,7 +444,7 @@
   {
    "id": "369dd606",
    "title": "The Elder Scrolls VI'nın adı resmen Sentinel",
-   "summary": "Bethesda, 40. yıl videosunun sonunda The Elder Scrolls VI'nın adını ve geçeceği bölgeyi açıkladı. Oynanış görüntüsü ve çıkış tarihi ise hâlâ yok.",
+   "summary": "Bethesda, 40. yıl videosunun sonunda The Elder Scrolls VI'nın adını ve geçeceği bölgeyi açıkladı. Oynanış görüntüsü ve çıkış tarihi ise hala yok.",
    "link": "https://shiftdelete.net/the-elder-scrolls-vi-sentinel-hammerfell",
    "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/105b9faab325bff72c361fc9cdecb388f04fd4f9.webp",
    "source": "ShiftDelete.Net",
@@ -319,17 +462,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T03:33:49+00:00",
    "url": "/haber/akilli-telefonlarda-uydu-devrimi-baz-istasyonu-ile-uydu-arasinda-kesin-217f52a8/"
-  },
-  {
-   "id": "3ff2b090",
-   "title": "ABD'nin ilk siyahi kadın valisi Georgia eyaletinden Demokrat Keisha Lance Bottoms oldu",
-   "summary": "ABD'de oy sayımının sürdüğü ara seçimlerde, Georgia eyaletinde Demokrat aday Keisha Lance Bottoms, ABD'nin ilk siyahi kadın valisi seçildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdnin-ilk-siyahi-kadin-valisi-georgia-eyaletinden-demokrat-keisha-lance-bottoms-oldu/4110792",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T03:22:40+00:00",
-   "url": "/haber/abd-nin-ilk-siyahi-kadin-valisi-georgia-eyaletinden-demokrat-keisha-la-3ff2b090/"
   },
   {
    "id": "8d1088d0",
@@ -563,22 +695,11 @@
    "url": "/haber/ilana-koydugu-urune-111-tl-fiyat-yazip-satin-almak-isteyenden-6-bin-tl-8a28d599/"
   },
   {
-   "id": "6fda94d1",
-   "title": "Siri AI, iOS 27.3 ile Türkçe dil desteği kazanıyor",
-   "summary": "Apple, bu akşam yayınladığı iOS 27.3 betasıyla birlikte Siri AI’a Türkçe dil desteği ekledi. Bunun müjdesini daha önce veren şirket, geçtiğimiz hafta yaptığı açıklamada, “Siri AI için dil desteği genişlemeye devam…",
-   "link": "https://www.log.com.tr/siri-ai-ios-27-3-ile-turkce-dil-destegi-kazaniyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/06/Siri-AI_FHD-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-03T19:32:41+00:00",
-   "url": "/haber/siri-ai-ios-27-3-ile-turkce-dil-destegi-kazaniyor-6fda94d1/"
-  },
-  {
    "id": "f6f42492",
    "title": "Siri AI'a Türkçe desteği iOS 27.3 ile geliyor",
    "summary": "Apple, iOS 27.3 beta 1 sürümünü geliştiricilere sundu. Yenilenen Sağlık uygulaması, Safari'de dikey sekmeler ve Siri AI'a gelen Türkçe desteği güncellemenin başlıca yenilikleri.",
    "link": "https://shiftdelete.net/ios-27-3-beta-1-yeni-ozellikler",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/c6ce063b4690fee008c169014bd6b487d7ddbbbc.webp",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/ios-27-3-siri-ai-turkce-kapak.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-03T19:32:29+00:00",
@@ -596,17 +717,6 @@
    "url": "/haber/200-derece-sicakliga-dayanan-kati-hal-batarya-1-000-km-menzil-vadediyo-961a349f/"
   },
   {
-   "id": "ea563c19",
-   "title": "Tesla FSD'de hız payı yüzde 10'a düşürüldü",
-   "summary": "Tesla FSD, Avrupa'da artık hız sınırının yüzde 50 üzerine çıkacak şekilde ayarlanamıyor. Hollanda'nın RDW kurumu, hız payını yüzde 10'a indiren güncellemeyi onayladı.",
-   "link": "https://shiftdelete.net/tesla-fsd-avrupa-hiz-payi-yuzde-10",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/72eed3a8b131e5eedd661afad9a3fcc90593184b.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T19:13:51+00:00",
-   "url": "/haber/tesla-fsd-de-hiz-payi-yuzde-10-a-dusuruldu-ea563c19/"
-  },
-  {
    "id": "6e08e7bc",
    "title": "Vivo V80 FE tanıtım öncesinde ortaya çıktı: 7.000 mAh batarya ve 50 MP ZEISS kameralar",
    "summary": "Vivo V80 FE'nin teknik özellikleri tanıtım öncesinde ortaya çıktı. Cihaz, 3.000 nit parlaklığa ulaşabilen AMOLED ekranı, 50 MP ZEISS kameraları ve büyük bataryasıyla iddialı geliyor.",
@@ -616,17 +726,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T19:10:00+00:00",
    "url": "/haber/vivo-v80-fe-tanitim-oncesinde-ortaya-cikti-7-000-mah-batarya-ve-50-mp-6e08e7bc/"
-  },
-  {
-   "id": "91137024",
-   "title": "Steam'de her iki oyundan biri yapay zekâ yapımı",
-   "summary": "Steam yapay zekâ oyunları oranı Ekim 2026'da yüzde 49,9'a ulaştı. Yeni eklenen oyunların neredeyse yarısında yapay zekâ kullanılıyor, bağımsız yapımların öne çıkması zorlaşıyor.",
-   "link": "https://shiftdelete.net/steam-yapay-zeka-oyunlari-orani-yuzde-50",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/steam-yapay-zeka-oyunlari-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T19:04:03+00:00",
-   "url": "/haber/steam-de-her-iki-oyundan-biri-yapay-zeka-yapimi-91137024/"
   },
   {
    "id": "475e34f4",
@@ -649,17 +748,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T18:50:00+00:00",
    "url": "/haber/anthropic-gelirlerini-bir-yilda-yuzde-1200-artirdi-buyuk-bir-ama-var-a0d20a45/"
-  },
-  {
-   "id": "cfc9ee4f",
-   "title": "Binance soygunu sahte iş görüşmesiyle başlamış",
-   "summary": "Binance, 6,34 milyar dolarlık saldırının sahte bir iş görüşmesi ve şirket içi bir yapay zekâ aracı üzerinden yapıldığını açıkladı. FBI saldırıyı Kuzey Kore'ye bağladı.",
-   "link": "https://shiftdelete.net/binance-hack-sahte-is-gorusmesi-6-milyar-dolar",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/binance-sahte-is-gorusmesi-saldiri-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T18:43:51+00:00",
-   "url": "/haber/binance-soygunu-sahte-is-gorusmesiyle-baslamis-cfc9ee4f/"
   },
   {
    "id": "4c8be5e8",
@@ -706,17 +794,6 @@
    "url": "/haber/samsung-un-ai-gozlugu-intelligent-eyewear-cikis-tarihi-sizdirildi-d4a7175e/"
   },
   {
-   "id": "2587ff5d",
-   "title": "n11'de Kasım fırsatları: 30 teknolojik üründe son 6 ayın en düşük fiyatları",
-   "summary": "n11'in Kasım kampanyalarında teknoloji ürünlerinde dikkat çeken fırsatlar sunuluyor. Akakçe fiyat geçmişine göre son 6 ayın en düşük fiyatına gerileyen 30 teknolojik ürünü listeledik.",
-   "link": "https://www.donanimhaber.com/n11-com-kasim-indirimlerinde-one-cikan-teknolojik-urunler-2026--212441",
-   "image": "https://www.donanimhaber.com/images/images/haber/212441/1200x675n11-com-kasim-indirimlerinde-one-cikan-teknolojik-urunler-2026.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-03T17:10:24+00:00",
-   "url": "/haber/n11-de-kasim-firsatlari-30-teknolojik-urunde-son-6-ayin-en-dusuk-fiyat-2587ff5d/"
-  },
-  {
    "id": "dcf33911",
    "title": "Mustafa Sarıgül: Partiler, polemikler, soruşturmalar ve yerelden ulusal siyasete uzanan kariyer",
    "summary": "Mustafa Sarıgül, 1980'lerden bu yana sürekli gazete manşetlerinde yer almış bir siyasetçi. Son günlerde ise bir kara para aklama soruşturmasındaki iddialar nedeniyle gündemde. Peki Sarıgül kim ve nasıl bir siyasi…",
@@ -748,17 +825,6 @@
    "category": "gundem",
    "date": "2026-11-03T15:32:29+00:00",
    "url": "/haber/istanbul-da-trafik-kilit-yogunluk-yuzde-89-a-cikti-a8532121/"
-  },
-  {
-   "id": "27b6a865",
-   "title": "GTA 6 için resmi ön indirme tarihi ve boyut açıklandı",
-   "summary": "Bugün yapılan resmi paylaşıma göre GTA 6’nın boyutu tam 212 GB seviyesinde yer alıyor. Ön yüklemesine ise 10 Kasım’da başlanacağı (PS5 sahipleri oyunu 9 Kasım Pazartesi’yi 10 Kasım Salı’ya bağlayan gece saat 00:00’dan…",
-   "link": "https://www.log.com.tr/gta-6-icin-resmi-on-indirme-tarihi-ve-boyut-aciklandi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/2026-10-14_16-48-10_RkGL5-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-03T15:12:48+00:00",
-   "url": "/haber/gta-6-icin-resmi-on-indirme-tarihi-ve-boyut-aciklandi-27b6a865/"
   },
   {
    "id": "5df026a1",
@@ -803,17 +869,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T14:20:27+00:00",
    "url": "/haber/galatasaray-stuttgart-maci-canli-izle-tabii-yayin-167fd2d1/"
-  },
-  {
-   "id": "4f795701",
-   "title": "Bambu Lab, yeni üst seviye 3D yazıcısı H3C’yi tanıttı",
-   "summary": "2.500 dolarlık satış fiyatı bulunan yeni üç boyutlu yazıcı modeli Bambu Lab H3C, özellikle dokuz farklı nozzle taşımasıyla öne çıkıyor. Yazıcı bu sayede baskı sırasında hızlıca malzeme değiştirebiliyor, renkleri…",
-   "link": "https://www.log.com.tr/bambu-lab-yeni-ust-seviye-3d-yazicisi-h3cyi-tanitti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-03_17-06-44_kheK8-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-03T14:15:58+00:00",
-   "url": "/haber/bambu-lab-yeni-ust-seviye-3d-yazicisi-h3c-yi-tanitti-4f795701/"
   },
   {
    "id": "041463fd",
@@ -1003,17 +1058,6 @@
    "url": "/haber/florida-da-dusen-ozel-jet-zaten-problemli-miydi-ac6e7def/"
   },
   {
-   "id": "e8242c40",
-   "title": "2027 Köprü ve Otoyol Ücretleri Ne Kadar Olacak? İşte Zamlı Geçiş Ücretleri!",
-   "summary": "Yeniden Değerleme Oranı'nın açıklanmasıyla birlikte 2027 köprü ve otoyol ücretlerinin ne kadar olacağı belli oldu.",
-   "link": "https://www.webtekno.com/2027-kopru-ve-otoyol-ucretleri-h228199.html",
-   "image": "https://imgrosetta.webtekno.com/file/695488/695488-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-03T10:00:55+00:00",
-   "url": "/haber/2027-kopru-ve-otoyol-ucretleri-ne-kadar-olacak-iste-zamli-gecis-ucretl-e8242c40/"
-  },
-  {
    "id": "d6cd39d4",
    "title": "Cumhurbaşkanı Erdoğan: Güney Kore ile stratejik ortağız",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Hiç şüphesiz Güney Kore ile karşılıklı ziyaretler stratejik ortaklığımıza önemli katkıda bulunuyor\" dedi.",
@@ -1100,17 +1144,6 @@
    "category": "gundem",
    "date": "2026-11-02T14:14:59+00:00",
    "url": "/haber/bazi-insanlar-gunde-dort-saat-uykuyla-nasil-yasayabiliyor-24612354/"
-  },
-  {
-   "id": "2f542308",
-   "title": "Bahçeli'den 19 yeni il önerisi: Bir ilçenin il olması ne anlama geliyor?",
-   "summary": "MHP lideri Devlet Bahçeli Türkiye'de 19 yeni il ve 78 yeni ilçe kurulmasını önerdi. Bir ilçenin il olması ne anlama geliyor? İl olan bir ilçede neler değişiyor?",
-   "link": "https://www.bbc.com/turkce/articles/cwe9l7g8z9d7o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a66c/live/e4731180-d6bf-11f1-aacc-5b5f23abff4b.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-02T13:15:53+00:00",
-   "url": "/haber/bahceli-den-19-yeni-il-onerisi-bir-ilcenin-il-olmasi-ne-anlama-geliyor-2f542308/"
   },
   {
    "id": "1cde489e",
