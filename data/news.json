@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-04T19:31:04.710526+00:00",
+ "updated": "2026-11-04T20:00:59.506103+00:00",
  "items": [
+  {
+   "id": "c699cb74",
+   "title": "SpaceX, ABD genelindeki 5G ağı için Qualcomm ile anlaştı",
+   "summary": "SpaceX, Starlink Mobile'ın ABD genelinde kurulması planlanan karasal 5G ağı için teknoloji şirketi Qualcomm ile işbirliğine gitti.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/spacex-abd-genelindeki-5g-agi-icin-qualcomm-ile-anlasti/4112025",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T19:54:39+00:00",
+   "url": "/haber/spacex-abd-genelindeki-5g-agi-icin-qualcomm-ile-anlasti-c699cb74/"
+  },
+  {
+   "id": "06048f90",
+   "title": "iOS 27.3 ile iCloud bağlantıları denetlenecek",
+   "summary": "Apple, iOS 27.3 ve diğer 27.3 güncellemeleriyle birlikte bağlantıya sahip herkesin erişebildiği iCloud bağlantıları üzerinde zararlı içerik denetimi yapacak.",
+   "link": "https://shiftdelete.net/icloud-baglantilari-ios-27-3-zararli-icerik-denetimi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/65f46a0f44ebb98fb145da07561ed555299fc613.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T19:52:39+00:00",
+   "url": "/haber/ios-27-3-ile-icloud-baglantilari-denetlenecek-06048f90/"
+  },
   {
    "id": "4baecedf",
    "title": "Kozinoğlu soruşturması. Resmi rapora göre ölümü kalp krizi",
@@ -9,8 +31,96 @@
    "image": "https://images.ntv.com.tr/images/ka_C5_9Fif-kozino_C4_9Flu-868064-718765.png",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-04T19:28:24+00:00",
+   "date": "2026-11-04T19:49:37+00:00",
    "url": "/haber/kozinoglu-sorusturmasi-resmi-rapora-gore-olumu-kalp-krizi-4baecedf/"
+  },
+  {
+   "id": "c0815d76",
+   "title": "Fenerbahçe Liverpool'u yendi: 18 yıl sonra ilk Devler Ligi galibiyeti",
+   "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki dördüncü maçında İngiliz temsilcisi Liverpool'u Kadıköy'de 3-2 yendi.",
+   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ac7c/live/3650d380-d886-11f1-ad49-25abedf165e8.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-04T19:42:57+00:00",
+   "url": "/haber/fenerbahce-liverpool-u-yendi-18-yil-sonra-ilk-devler-ligi-galibiyeti-c0815d76/"
+  },
+  {
+   "id": "1477d5ce",
+   "title": "Mercedes’e ekranlar yetmedi: Şimdi sıra otomobil camlarında",
+   "summary": "Mercedes-Benz, araç camlarına entegre LED ekranlar ve holografik ön cam teknolojisi geliştiriyor. Sistemler, dışarıya uyarı gösterebilirken yolculara navigasyon ve eğlence içerikleri sunmayı amaçlıyor",
+   "link": "https://www.donanimhaber.com/mercedes-e-ekranlar-yetmedi-simdi-sira-otomobil-camlarinda--212478",
+   "image": "https://www.donanimhaber.com/images/images/haber/212478/1200x675mercedes-e-ekranlar-yetmedi-simdi-sira-otomobil-camlarinda.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-04T19:42:00+00:00",
+   "url": "/haber/mercedes-e-ekranlar-yetmedi-simdi-sira-otomobil-camlarinda-1477d5ce/"
+  },
+  {
+   "id": "f5087452",
+   "title": "Tasfiye edilen yatırım fonlarında 117,6 milyar TL ödeme yapıldı",
+   "summary": "Tasfiye sürecindeki yatırım fonlarında olağan ve olağanüstü tasfiye kapsamında yapılan ödemelerin toplamı 117,6 milyar liraya ulaştı.",
+   "link": "https://www.ntv.com.tr/turkiye/tasfiye-edilen-yatirim-fonlarinda-1176-milyar-tl-odeme-yapildi-1749414",
+   "image": "https://images.ntv.com.tr/images/fonpiyasa-507541.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-04T19:39:16+00:00",
+   "url": "/haber/tasfiye-edilen-yatirim-fonlarinda-117-6-milyar-tl-odeme-yapildi-f5087452/"
+  },
+  {
+   "id": "7eacf0c4",
+   "title": "Ticaret Bakanı Bolat, Bakanlığının bütçe görüşmelerinde milletvekillerinin sorularını yanıtladı",
+   "summary": "Ticaret Bakanı Ömer Bolat, TBMM Plan ve Bütçe Komisyonunda, Bakanlığı ve bağlı kuruluşlarının 2027 yılı bütçe görüşmelerinin ardından milletvekillerinin sorularını yanıtladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-bakanliginin-butce-gorusmelerinde-milletvekillerinin-sorularini-yanitladi/4112009",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T19:38:30+00:00",
+   "url": "/haber/ticaret-bakani-bolat-bakanliginin-butce-gorusmelerinde-milletvekilleri-7eacf0c4/"
+  },
+  {
+   "id": "5a345442",
+   "title": "ChatGPT artık GIF üretebiliyor",
+   "summary": "OpenAI'ın Images 2.6 modeliyle gelen ChatGPT GIF özelliği, metin komutundan ya da yüklenen fotoğraftan animasyon üretiyor. Hız ve kareler de düzenlenebiliyor.",
+   "link": "https://shiftdelete.net/chatgpt-gif-olusturma-images-2-6",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/0054af45a49c27372cfec96ac961850adf6f21f6.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T19:37:32+00:00",
+   "url": "/haber/chatgpt-artik-gif-uretebiliyor-5a345442/"
+  },
+  {
+   "id": "657e6c97",
+   "title": "Fenerbahçe Liverpool'u devirdi",
+   "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında İngiltere'nin Liverpool ekibini konuk eden Fenerbahçe, sahadan 3-2'lik galibiyetle ayrıldı.",
+   "link": "https://www.trthaber.com/haber/gundem/fenerbahce-liverpoolu-devirdi-962268.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/fenerbahce-aa-2501206.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-04T19:36:00+00:00",
+   "url": "/haber/fenerbahce-liverpool-u-devirdi-657e6c97/"
+  },
+  {
+   "id": "aabe2293",
+   "title": "Eski MİT görevlisi Kaşif Kozinoğlu'nun ölümüne ilişkin Adli Tıp raporu çıktı",
+   "summary": "Kaşif Kozinoğlu'nun ölümüne ilişkin yeniden başlatılan soruşturmada, Adli Tıp Kurumunca, Kozinoğlu'nun mezarından alınan örneklerde yapılan incelemede, ölümünün kalp hastalığı sonucu meydana geldiği belirlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/eski-mit-gorevlisi-kasif-kozinoglunun-olumune-iliskin-adli-tip-raporu-cikti/4112007",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T19:34:21+00:00",
+   "url": "/haber/eski-mit-gorevlisi-kasif-kozinoglu-nun-olumune-iliskin-adli-tip-raporu-aabe2293/"
+  },
+  {
+   "id": "9a037737",
+   "title": "ABD'de Cumhuriyetçilerin ara seçim yenilgisinde İsrail'e destek ve İran'la savaşın etkisi tartışılıyor",
+   "summary": "ABD'de ara seçimlerde Cumhuriyetçilerin yaşadığı büyük oy kaybını değerlendiren uzmanlar, bu sonuçta Washington yönetiminin İran'a yönelik saldırılarının ve İsrail'le yakın ilişkilerinin etkili olduğuna işaret etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-cumhuriyetcilerin-ara-secim-yenilgisinde-israile-destek-ve-iranla-savasin-etkisi-tartisiliyor/4112004",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T19:27:58+00:00",
+   "url": "/haber/abd-de-cumhuriyetcilerin-ara-secim-yenilgisinde-israil-e-destek-ve-ira-9a037737/"
   },
   {
    "id": "db9a693e",
@@ -110,6 +220,17 @@
    "category": "teknoloji",
    "date": "2026-11-04T18:42:05+00:00",
    "url": "/haber/nintendo-switch-kartus-tedarikcisini-kaybediyor-9317a0ea/"
+  },
+  {
+   "id": "a3ea2494",
+   "title": "Fenerbahçe \"İngiliz devi\" Liverpool'u \"devirdi\"",
+   "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında İngiltere'nin Liverpool ekibini konuk eden Fenerbahçe, sahadan 3-2'lik galibiyetle ayrıldı.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-ingiliz-devi-liverpoolu-devirdi/4111940",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T18:38:18+00:00",
+   "url": "/haber/fenerbahce-ingiliz-devi-liverpool-u-devirdi-a3ea2494/"
   },
   {
    "id": "808c6e5d",
@@ -277,17 +398,6 @@
    "url": "/haber/god-of-war-laufey-ertelendi-yeni-tarih-20-mayis-cb90fb50/"
   },
   {
-   "id": "ca9e1cf0",
-   "title": "I Know a Spot ön bakış: Rahat kamp oyunu",
-   "summary": "Tek kişilik bir geliştiricinin hazırladığı rahat kamp oyunu I Know a Spot neler sunuyor? İşte oyunun özellikleri ve ilk izlenimler.",
-   "link": "https://shiftdelete.net/i-know-a-spot-on-bakis",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/i-know-a-spot-on-bakis-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T17:30:05+00:00",
-   "url": "/haber/i-know-a-spot-on-bakis-rahat-kamp-oyunu-ca9e1cf0/"
-  },
-  {
    "id": "900f36a3",
    "title": "ÖTV’siz araç alımında limit yaklaşık 800 bin TL artıyor",
    "summary": "Engelli bireylerin ÖTV istisnasıyla araç alımında uygulanan üst limitin, 2027’de yaklaşık 800 bin TL artması bekleniyor. Yeniden değerleme hesabına göre sınır 3.673.700 TL seviyesine yükselecek.",
@@ -308,28 +418,6 @@
    "category": "gundem",
    "date": "2026-11-04T17:23:59+00:00",
    "url": "/haber/abd-senatosu-azinlik-lideri-demokrat-schumer-iran-la-savasi-sona-erdir-9a872d3e/"
-  },
-  {
-   "id": "c0815d76",
-   "title": "Fenerbahçe Kadıköy'de Liverpool'u ağırlıyor",
-   "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki dördüncü maçında İngiliz temsilcisi Liverpool ile Kadıköy'de karşılaşıyor.",
-   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/508b/live/b4c1de50-d87a-11f1-a364-a1fce50dd192.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-04T17:23:09+00:00",
-   "url": "/haber/fenerbahce-kadikoy-de-liverpool-u-agirliyor-c0815d76/"
-  },
-  {
-   "id": "3fb030c3",
-   "title": "Dino-Ducks Mayhem ön bakış: Neler sunuyor?",
-   "summary": "Erken erişimdeki twin-stick nişancı Dino-Ducks Mayhem neler sunuyor? İşte oyunun özellikleri ve ilk izlenimler.",
-   "link": "https://shiftdelete.net/dino-ducks-mayhem-on-bakis",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/dino-ducks-mayhem-on-bakis-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T17:14:58+00:00",
-   "url": "/haber/dino-ducks-mayhem-on-bakis-neler-sunuyor-3fb030c3/"
   },
   {
    "id": "0b7d9130",
@@ -365,28 +453,6 @@
    "url": "/haber/akom-istanbul-icin-saat-vererek-uyardi-yollar-gole-dondu-trafik-kilitl-1333d205/"
   },
   {
-   "id": "b12285d4",
-   "title": "1666: Amsterdam erken erişim ön bakış",
-   "summary": "Assassin's Creed'in yaratıcısı Patrice Désilets'in yeni oyunu 1666: Amsterdam erken erişimde. İşte oyunun vaat ettikleri ve ilk izlenimler.",
-   "link": "https://shiftdelete.net/1666-amsterdam-erken-erisim-on-bakis",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/1666-amsterdam-erken-erisim-on-bakis-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T16:59:50+00:00",
-   "url": "/haber/1666-amsterdam-erken-erisim-on-bakis-b12285d4/"
-  },
-  {
-   "id": "3c755303",
-   "title": "ABD Başkan Yardımcısı JD Vance, Cumhuriyetçilerin seçimi kaybetme nedeni olarak İran savaşına işaret etti",
-   "summary": "ABD Başkan Yardımcısı JD Vance, Kongre ara seçimlerini Cumhuriyetçi Partinin kaybetmesinin nedenini İran'la savaş ve İsrail'le ilişkilere bağladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-jd-vance-cumhuriyetcilerin-secimi-kaybetme-nedeni-olarak-iran-savasina-isaret-etti/4111849",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T16:57:12+00:00",
-   "url": "/haber/abd-baskan-yardimcisi-jd-vance-cumhuriyetcilerin-secimi-kaybetme-neden-3c755303/"
-  },
-  {
    "id": "7600e719",
    "title": "AB'den Türkiye'ye 'uçurum' uyarısı: AB'nin Türkiye raporunda neler var?",
    "summary": "Brüksel'e göre Türkiye'nin AB'ye katılma hedefine ilişkin beyanlarıyla katılım için gerekli siyasi kriterlerdeki durum arasındaki \"uçurum\" daha da genişledi. Dışişleri Bakanlığı, AB raporunu \"ön yargılı ve hakkaniyetten…",
@@ -420,39 +486,6 @@
    "url": "/haber/bakan-kurum-cop31-alanina-kurulan-konya-tropikal-kelebek-bahcesi-ni-pa-264969e9/"
   },
   {
-   "id": "b4adb76a",
-   "title": "Rusya, Odessa Limanı'nda askeri yük taşıyan gemiyi vurduğunu açıkladı",
-   "summary": "Rusya Savunma Bakanlığı, Ukrayna'nın Odessa Limanı'nda askeri yük taşıyan bir gemiyi vurduklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-odessa-limaninda-askeri-yuk-tasiyan-gemiyi-vurdugunu-acikladi/4111833",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T16:46:14+00:00",
-   "url": "/haber/rusya-odessa-limani-nda-askeri-yuk-tasiyan-gemiyi-vurdugunu-acikladi-b4adb76a/"
-  },
-  {
-   "id": "4c803ef0",
-   "title": "Ayasa: Shadows of Silence puanları",
-   "summary": "Diyalogsuz korku-bulmaca oyunu Ayasa: Shadows of Silence, konsollara geldi. İşte yabancı basının PC sürümü hakkındaki yorumları.",
-   "link": "https://shiftdelete.net/ayasa-shadows-of-silence-inceleme-puanlari",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/ayasa-shadows-of-silence-inceleme-puanlari-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T16:45:13+00:00",
-   "url": "/haber/ayasa-shadows-of-silence-puanlari-4c803ef0/"
-  },
-  {
-   "id": "40f1d88e",
-   "title": "Brent petrolün varil fiyatı, ABD ara seçimlerinin etkisiyle 94 dolar seviyesine geriledi",
-   "summary": "Brent petrolün varil fiyatı, ABD'deki ara seçimlerin etkisiyle uluslararası vadeli piyasalarda yaklaşık yüzde 9 düşüşle 94,28 dolar seviyesine geriledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varil-fiyati-abddeki-ara-secimlerin-etkisiyle-97-dolarin-altina-geriledi/4111829",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T16:38:00+00:00",
-   "url": "/haber/brent-petrolun-varil-fiyati-abd-ara-secimlerinin-etkisiyle-94-dolar-se-40f1d88e/"
-  },
-  {
    "id": "ace1126b",
    "title": "Call of Duty Modern Warfare 4: Fiyatı ve Çıkışı",
    "summary": "Call of Duty Modern Warfare 4, 23 Ekim'de PS5, Xbox Series X|S, PC ve Switch 2 için çıktı. Türkiye fiyatı 3.199 TL'den başlıyor, Türkçe dil desteği yok.",
@@ -462,17 +495,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T16:33:00+00:00",
    "url": "/haber/call-of-duty-modern-warfare-4-fiyati-ve-cikisi-ace1126b/"
-  },
-  {
-   "id": "6451677e",
-   "title": "Moros Protocol incelemeleri: Basın ne diyor?",
-   "summary": "Piksel sanatlı bilimkurgu FPS'i Moros Protocol, Switch 2 ve PS5'e geldi. İşte yabancı basının değerlendirmeleri.",
-   "link": "https://shiftdelete.net/moros-protocol-inceleme-puanlari",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/moros-protocol-inceleme-puanlari-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T16:30:05+00:00",
-   "url": "/haber/moros-protocol-incelemeleri-basin-ne-diyor-6451677e/"
   },
   {
    "id": "d3167417",
@@ -486,17 +508,6 @@
    "url": "/haber/tencent-hy4-artik-bilgisayar-da-kullanabiliyor-d3167417/"
   },
   {
-   "id": "f92cd306",
-   "title": "TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı",
-   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), tüketici enflasyonunun ana eğiliminin ekim ayında aylık ve üç aylık ortalamalar bazında yataya yakın seyrettiğini, bu görünümün son dönemde ana eğilimde kaydedilen gerilemeyi…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-ekim-ayi-fiyat-gelismeleri-raporunu-yayimladi/4111816",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T16:26:05+00:00",
-   "url": "/haber/tcmb-ekim-ayi-fiyat-gelismeleri-raporu-nu-yayimladi-f92cd306/"
-  },
-  {
    "id": "3cbfe9b9",
    "title": "Samsung Galaxy S27 Ultra'nın maketi ortaya çıktı: İşte tasarımı",
    "summary": "Samsung Galaxy S27 Ultra'nın maketi, önceki modelle arasındaki tasarım farklarını ortaya koydu. Yeni kamera adası ve mıknatıs desteği dikkat çekiyor. İşte detaylar...",
@@ -508,15 +519,26 @@
    "url": "/haber/samsung-galaxy-s27-ultra-nin-maketi-ortaya-cikti-iste-tasarimi-3cbfe9b9/"
   },
   {
-   "id": "f201b7cd",
-   "title": "DSÖ: Türkiye, COP müzakereleri kapsamında sağlık gündeminin öncülerinden biri haline geldi",
-   "summary": "DSÖ yetkilisi Campbell-Lendrum, Türkiye'nin COP kapsamında sağlık gündeminin öncülerinden biri haline geldiğini belirterek, Türkiye'nin ev sahipliğinde düzenlenecek COP31'de önemli ilerleme kaydedilmesini umduklarını…",
-   "link": "https://www.aa.com.tr/tr/dunya/dso-turkiye-cop-muzakereleri-kapsaminda-saglik-gundeminin-onculerinden-biri-haline-geldi/4111813",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T16:25:42+00:00",
-   "url": "/haber/dso-turkiye-cop-muzakereleri-kapsaminda-saglik-gundeminin-onculerinden-f201b7cd/"
+   "id": "3fb2a471",
+   "title": "Excel'de kopyala-yapıştır yine bozuldu",
+   "summary": "Microsoft'un ekim güncellemesi Excel 2016'da kopyala-yapıştırı yeniden bozdu. Şirket hatayı yeni derlemeyle düzeltti; sürümünüzü kontrol etmeniz yeterli.",
+   "link": "https://shiftdelete.net/excel-2016-kopyala-yapistir-hatasi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/excel-2016-kopyala-yapistir-hatasi-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T16:19:58+00:00",
+   "url": "/haber/excel-de-kopyala-yapistir-yine-bozuldu-3fb2a471/"
+  },
+  {
+   "id": "b872954c",
+   "title": "YEKA 2026 yarışmalarında 2.285 MW tahsis edildi",
+   "summary": "YEKA 2026 yarışmalarında rüzgar ve güneş için toplam 2 bin 285 MW kapasite tahsis edildi. Projelerin yaklaşık 1,9 milyar dolarlık yatırım getirmesi bekleniyor.",
+   "link": "https://shiftdelete.net/yeka-2026-ruzgar-gunes-kapasite-tahsisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/691d6bc0b87f9de074e44c31b0a3f562835d7cc0.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T16:06:17+00:00",
+   "url": "/haber/yeka-2026-yarismalarinda-2-285-mw-tahsis-edildi-b872954c/"
   },
   {
    "id": "e32be3e9",
@@ -550,6 +572,17 @@
    "category": "teknoloji",
    "date": "2026-11-04T15:58:00+00:00",
    "url": "/haber/siber-guvenlik-baskanligi-ndan-kritik-uyari-whatsapp-hesaplari-tehlike-ce0a622d/"
+  },
+  {
+   "id": "87996bf9",
+   "title": "40 bin TL altı en iyi telefonlar (Kasım 2026)",
+   "summary": "Kasım indirimlerinde telefon alacaklar için 40 bin TL altındaki sekiz sıfır modeli inceledik: pil, performans, kamera ve fiyat açısından hangisi kime uygun?",
+   "link": "https://shiftdelete.net/40-bin-tl-alti-en-iyi-telefonlar-kasim-2026",
+   "image": "https://shiftdelete.net/static/img/content/26-11/04/40000-tl-alti-en-iyi-telefonlar.png",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T15:54:10+00:00",
+   "url": "/haber/40-bin-tl-alti-en-iyi-telefonlar-kasim-2026-87996bf9/"
   },
   {
    "id": "9235bd92",
@@ -649,17 +682,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T14:56:09+00:00",
    "url": "/haber/bmw-90-larin-arac-tasarimini-sikici-yeni-araclarinin-cizgisini-ise-kar-602cb03c/"
-  },
-  {
-   "id": "ee955d1f",
-   "title": "Mercedes'in yeni batarya teknolojisi elektrikli otomobillerin ömrünü uzatabilir",
-   "summary": "Mercedes, bataryadaki her hücreyi bağımsız olarak kontrol edebilen yeni bir güç dönüştürücü sistemi geliştiriyor. Teknoloji, arızalı hücreleri iptal ederek batarya ömrünün uzatılmasını sağlayabilir.",
-   "link": "https://www.donanimhaber.com/mercedes-in-yeni-batarya-teknolojisi-elektrikli-otomobillerin-omr--212469",
-   "image": "https://www.donanimhaber.com/images/images/haber/212469/1200x675mercedes-in-yeni-batarya-teknolojisi-elektrikli-otomobillerin-omr.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-04T14:56:00+00:00",
-   "url": "/haber/mercedes-in-yeni-batarya-teknolojisi-elektrikli-otomobillerin-omrunu-u-ee955d1f/"
   },
   {
    "id": "6949ea3b",
@@ -1014,17 +1036,6 @@
    "url": "/haber/acil-durum-bildirimi-ekipleri-harekete-gecirdi-yanan-aracta-is-insanin-d09e8ca7/"
   },
   {
-   "id": "f42b805c",
-   "title": "Okul saldırıları sonrası tehdit paylaşımlarına istenen ceza belli oldu",
-   "summary": "Kahramanmaraş ve Şanlıurfa'daki okul saldırılarının ardından sosyal medyada tehdit içerikli paylaşımlar yapan sanıklar için 4 yıla kadar hapis cezası isteniyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-okul-saldirilari-sonrasi-tehdit-paylasimlarina-istenen-ceza-belli-oldu-1749359",
-   "image": "https://images.ntv.com.tr/images/kahramanmara_C5_9F-sald_C4_B1rgan_C4_B1-119680-828290-972337-695467.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-04T10:37:18+00:00",
-   "url": "/haber/okul-saldirilari-sonrasi-tehdit-paylasimlarina-istenen-ceza-belli-oldu-f42b805c/"
-  },
-  {
    "id": "ec63fa93",
    "title": "Neredeyse Hiç Kullanılmayan Ferrari F50’den Dudak Uçuklatan Satış Rekoru!",
    "summary": "1997 model Ferrari F50, Las Vegas’taki Broad Arrow müzayedesinde kendi satış rekorunu kırdı. Yaklaşık 170 kilometredeki otomobil, önceki rekorun 4,1 milyon dolar üzerine çıktı.",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-11-03T09:01:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-guney-kore-ile-stratejik-ortagiz-d6cd39d4/"
-  },
-  {
-   "id": "6abcdfea",
-   "title": "Ekim enflasyonu açıklandı",
-   "summary": "Tüketici Fiyat Endeksi (TÜFE), ekimde aylık bazda yüzde 2,58 olurken, yıllık bazda yüzde 29,77 oldu.",
-   "link": "https://www.trthaber.com/haber/ekonomi/ekim-enflasyonu-aciklandi-962043.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1506000/market-alisveris-enflasyon-tuketici-aa-1507404.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-03T07:01:00+00:00",
-   "url": "/haber/ekim-enflasyonu-aciklandi-6abcdfea/"
   },
   {
    "id": "eb08ac25",
