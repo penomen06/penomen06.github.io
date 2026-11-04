@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-04T17:30:52.488502+00:00",
+ "updated": "2026-11-04T18:00:59.647465+00:00",
  "items": [
+  {
+   "id": "905a3cab",
+   "title": "Bluetooth HDT ile bağlantı hızı 7,5 Mbps olacak",
+   "summary": "Bluetooth SIG, Bluetooth HDT özelliğini resmen kabul etti. Bluetooth LE cihazlarda 2 Mbps olan azami hız, yeni teknolojiyle 7,5 Mbps'e kadar çıkacak.",
+   "link": "https://shiftdelete.net/bluetooth-hdt-bluetooth-hizi-2027",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/2949831501ce18d6d4c9bb0ae56ac77600d59dd2.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T17:57:11+00:00",
+   "url": "/haber/bluetooth-hdt-ile-baglanti-hizi-7-5-mbps-olacak-905a3cab/"
+  },
+  {
+   "id": "2e25b88e",
+   "title": "Sam Altman, RAM tartışmasının ardından adını 'Ram Altman' yaptı",
+   "summary": "OpenAI CEO'su Sam Altman, bilgisayarlardaki RAM kullanımına ilişkin sözleri nedeniyle tepki çekti. Altman, eleştirilerin ardından X'te adını esprili biçimde Ram Altman olarak değiştirdi.",
+   "link": "https://www.donanimhaber.com/sam-altman-ram-tartismasinin-ardindan-adini-ram-altman-yapti--212491",
+   "image": "https://www.donanimhaber.com/images/images/haber/212491/1200x675sam-altman-ram-tartismasinin-ardindan-adini-ram-altman-yapti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-04T17:52:00+00:00",
+   "url": "/haber/sam-altman-ram-tartismasinin-ardindan-adini-ram-altman-yapti-2e25b88e/"
+  },
+  {
+   "id": "c1f801dd",
+   "title": "ABD Başkan Yardımcısı JD Vance: 'Savaş yüzünden kaybettik'",
+   "summary": "ABD Başkan Yardımcısı JD Vance, Cumhuriyetçilerin ara seçimlerdeki yenilgisine ilişkin X platformunda paylaştığı uzun bir gönderide, ABD'nin İran'daki savaşının partinin mağlubiyetinde baş rol oynadığını yol söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/c317kjny5jedo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a6b/live/258f4450-d877-11f1-a364-a1fce50dd192.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-04T17:45:47+00:00",
+   "url": "/haber/abd-baskan-yardimcisi-jd-vance-savas-yuzunden-kaybettik-c1f801dd/"
+  },
+  {
+   "id": "11dc8bcb",
+   "title": "Emir Sarıgül adli kontrol şartıyla tahliye edildi",
+   "summary": "Kara para soruşturmasında 21 Ekim'de tutuklanan Emir Sarıgül, adli kontrol şartıyla serbest bırakıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/emir-sarigul-adli-kontrol-sartiyla-tahliye-edildi-1749408",
+   "image": "https://images.ntv.com.tr/images/mustafasarıgülemirsarıgül-341875.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-04T17:43:52+00:00",
+   "url": "/haber/emir-sarigul-adli-kontrol-sartiyla-tahliye-edildi-11dc8bcb/"
+  },
+  {
+   "id": "cb90fb50",
+   "title": "God of War Laufey ertelendi: yeni tarih 20 Mayıs",
+   "summary": "God of War Laufey için çıkış tarihi değişti. Santa Monica Studio, PS5 oyununu 16 Şubat yerine 20 Mayıs 2027'de piyasaya sürecek.",
+   "link": "https://shiftdelete.net/god-of-war-laufey-ertelendi-yeni-tarih",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/1a82f9f4e0a0cf56c74d8e0e5ebec4e908c05c04.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T17:41:51+00:00",
+   "url": "/haber/god-of-war-laufey-ertelendi-yeni-tarih-20-mayis-cb90fb50/"
+  },
   {
    "id": "ca9e1cf0",
    "title": "I Know a Spot ön bakış: Rahat kamp oyunu",
@@ -11,6 +66,28 @@
    "category": "teknoloji",
    "date": "2026-11-04T17:30:05+00:00",
    "url": "/haber/i-know-a-spot-on-bakis-rahat-kamp-oyunu-ca9e1cf0/"
+  },
+  {
+   "id": "900f36a3",
+   "title": "ÖTV’siz araç alımında limit yaklaşık 800 bin TL artıyor",
+   "summary": "Engelli bireylerin ÖTV istisnasıyla araç alımında uygulanan üst limitin, 2027’de yaklaşık 800 bin TL artması bekleniyor. Yeniden değerleme hesabına göre sınır 3.673.700 TL seviyesine yükselecek.",
+   "link": "https://www.donanimhaber.com/otv-siz-arac-aliminda-limit-yaklasik-800-bin-tl-artiyor--212475",
+   "image": "https://www.donanimhaber.com/images/images/haber/212475/1200x675otv-siz-arac-aliminda-limit-yaklasik-800-bin-tl-artiyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-04T17:30:00+00:00",
+   "url": "/haber/otv-siz-arac-aliminda-limit-yaklasik-800-bin-tl-artiyor-900f36a3/"
+  },
+  {
+   "id": "9a872d3e",
+   "title": "ABD Senatosu Azınlık Lideri Demokrat Schumer: İran'la savaşı sona erdireceğiz",
+   "summary": "Demokratların Kongre'de üstünlüğü sağladığı ara seçimleri değerlendiren Senato Azınlık Lideri Chuck Schumer, Amerikan halkının İran'da ne uğruna savaşıldığını bilmediğini ve bu savaşı bitireceklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-senatosu-azinlik-lideri-demokrat-schumer-iranla-savasi-sona-erdirecegiz/4111873",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T17:23:59+00:00",
+   "url": "/haber/abd-senatosu-azinlik-lideri-demokrat-schumer-iran-la-savasi-sona-erdir-9a872d3e/"
   },
   {
    "id": "c0815d76",
@@ -387,17 +464,6 @@
    "url": "/haber/israil-basini-abd-ara-secimlerini-demokratlarin-kazanmasi-trump-ve-isr-0968c391/"
   },
   {
-   "id": "eeeb01d0",
-   "title": "JDM: Japanese Drift Master puanları",
-   "summary": "Japon otomobillerine ve dağ yollarına odaklanan JDM: Japanese Drift Master, yabancı basında ortalama notlar aldı. İşte puanlar ve öne çıkan yorumlar.",
-   "link": "https://shiftdelete.net/jdm-japanese-drift-master-inceleme-puanlari",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/jdm-japanese-drift-master-inceleme-puanlari-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T15:44:59+00:00",
-   "url": "/haber/jdm-japanese-drift-master-puanlari-eeeb01d0/"
-  },
-  {
    "id": "f8e267ac",
    "title": "Binance’teki kripto soygununda yapay zeka detayı",
    "summary": "Binance’in 6,3 milyar dolarlık kripto soygunu, sahte iş görüşmeleri ve zararlı yazılımlarla aylar süren bir saldırının sonucu oldu. Hackerlar, borsanın dahili yapay zeka aracını da kullandı.",
@@ -431,17 +497,6 @@
    "url": "/haber/borsa-gunu-yukselisle-tamamladi-9c067679/"
   },
   {
-   "id": "7f7907b3",
-   "title": "YouTube'da Abonelikler sekmesi yer değiştirdi",
-   "summary": "YouTube Abonelikler sekmesi, mobil uygulamadaki yeni tasarımla alt çubuktan çıkarıldı. Kategori filtreleri de kalktı, kullanıcılar Reddit'te tepkilerini dile getiriyor.",
-   "link": "https://shiftdelete.net/youtube-abonelikler-sekmesi-alt-cubuktan-kaldirildi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/youtube-abonelikler-yeni-tasarim-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T15:35:54+00:00",
-   "url": "/haber/youtube-da-abonelikler-sekmesi-yer-degistirdi-7f7907b3/"
-  },
-  {
    "id": "47f057a3",
    "title": "Ağırel, Saymaz, Balcı ve Şaban Sevinç'e hapis istemleri",
    "summary": "Gazeteci Murat Ağırel ve İsmail Saymaz için düzenlenen iddianamede savcılık gazetecilik gazetecilerin 14 yıl 10'ar aya kadar hapisle cezalandırılmalarını talep etti.",
@@ -451,17 +506,6 @@
    "category": "gundem",
    "date": "2026-11-04T15:31:13+00:00",
    "url": "/haber/agirel-saymaz-balci-ve-saban-sevinc-e-hapis-istemleri-47f057a3/"
-  },
-  {
-   "id": "94f75d64",
-   "title": "Bağcılar'da asayiş uygulamalarında gözaltına alınan 14 zanlı tutuklandı",
-   "summary": "Bağcılar'da, 1-30 Ekim'de yapılan asayiş uygulamalarında gözaltına alınan 28 şüpheliden 14'ü adli makamlarca tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bagcilarda-asayis-uygulamalarinda-gozaltina-alinan-14-zanli-tutuklandi/4111751",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T15:30:04+00:00",
-   "url": "/haber/bagcilar-da-asayis-uygulamalarinda-gozaltina-alinan-14-zanli-tutukland-94f75d64/"
   },
   {
    "id": "627fa437",
@@ -673,17 +717,6 @@
    "url": "/haber/canva-ciddi-bir-isten-cikarma-gerceklestiriyor-1637b6f6/"
   },
   {
-   "id": "27f37bde",
-   "title": "iPhone ve MacBook için alarm zilleri çalıyor: Yeni zam kapıda",
-   "summary": "Apple, artan bellek maliyetleri nedeniyle iPhone, Mac ve iPad fiyatlarına yeniden zam yapabilir. Şirket yönetimi yeni fiyat artışlarını doğrulamasa da maliyet baskısının süreceğini belirtiyor.",
-   "link": "https://www.donanimhaber.com/iphone-ve-macbook-icin-alarm-zilleri-caliyor-yeni-zam-kapida--212461",
-   "image": "https://www.donanimhaber.com/images/images/haber/212461/1200x675iphone-ve-macbook-icin-alarm-zilleri-caliyor-yeni-zam-kapida.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-04T13:26:00+00:00",
-   "url": "/haber/iphone-ve-macbook-icin-alarm-zilleri-caliyor-yeni-zam-kapida-27f37bde/"
-  },
-  {
    "id": "e71ee0fd",
    "title": "Hackerlar Avrupa’da buzdolaplarını ve dondurucuları hedef almaya devam ediyor",
    "summary": "Almanya, İtalya, Romanya ve Birleşik Krallık’taki bazı market zincirleri ve gıda tedarikçileri de Avrupa genelinde görülen ve doğrudan soğutma ünitelerinin sıcaklığını değiştirmeyi amaçlayan siber saldırıların hedefi…",
@@ -715,17 +748,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T13:04:03+00:00",
    "url": "/haber/sinirli-uretim-fiat-egea-cross-limited-efsane-serisi-satisa-sunuldu-b9f92c53/"
-  },
-  {
-   "id": "165abe61",
-   "title": "AMD'nin veri merkezi gelirleri ikiye katlandı, hisseleri yükseldi",
-   "summary": "AMD, üçüncü çeyrekte beklentileri aşan gelir açıkladı. Yapay zeka veri merkezlerine yönelik talep şirketin büyümesini hızlandırırken AMD hisseleri piyasa sonrası işlemlerde yüzde 8 yükseldi.",
-   "link": "https://www.donanimhaber.com/amd-nin-veri-merkezi-gelirleri-ikiye-katlandi-hisseleri-yukseldi--212455",
-   "image": "https://www.donanimhaber.com/images/images/haber/212455/1200x675amd-nin-veri-merkezi-gelirleri-ikiye-katlandi-hisseleri-yukseldi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-04T13:04:00+00:00",
-   "url": "/haber/amd-nin-veri-merkezi-gelirleri-ikiye-katlandi-hisseleri-yukseldi-165abe61/"
   },
   {
    "id": "de2e93bd",
@@ -880,17 +902,6 @@
    "category": "gundem",
    "date": "2026-11-04T10:52:11+00:00",
    "url": "/haber/umit-ozdag-a-tehdit-davasinda-beraat-b281aabd/"
-  },
-  {
-   "id": "e9171bec",
-   "title": "ABD'de ara seçimler: 'Demokratlar Trump'ın siyasi haritasını paramparça etti'",
-   "summary": "ABD'de ara seçimlerde Demokratlar hem Temsilciler Meclisi hem de Senato'da çoğunluğu Cumhuriyetçilerin elinden aldı. Peki seçim sonuçları nasıl yorumlanıyor? Demokratların zaferi Trump'ın bundan sonraki başkanlığını…",
-   "link": "https://www.bbc.com/turkce/articles/cq4g1rpk0rr5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c24/live/397b1fc0-d836-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-04T10:48:39+00:00",
-   "url": "/haber/abd-de-ara-secimler-demokratlar-trump-in-siyasi-haritasini-paramparca-e9171bec/"
   },
   {
    "id": "d09e8ca7",
@@ -1067,17 +1078,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T08:01:20+00:00",
    "url": "/haber/ilan-sitesinde-111-tl-yazan-urun-icin-6-bin-tl-isteyen-saticiya-sok-ce-dff6d5bb/"
-  },
-  {
-   "id": "a52bb56c",
-   "title": "Kasım ara tatili ne zaman başlayacak? 2026-2027 ilk ara tatil başlangıç tarihi",
-   "summary": "İlkokul, ortaokul ve liselerde eğitim gören milyonlarca öğrenci, eylül ayında başlayan yoğun ders maratonunun ardından ilk dinlenme molası olan kasım ara tatilini bekliyor. Milli Eğitim Bakanlığı (MEB) tarafından…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kasim-ara-tatili-ne-zaman-baslayacak-2026-2027-ilk-ara-tatil-baslangic-tarihi-1749337",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_06371744dc9384afd7d59b54ef4033c8-593852.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-04T07:49:05+00:00",
-   "url": "/haber/kasim-ara-tatili-ne-zaman-baslayacak-2026-2027-ilk-ara-tatil-baslangic-a52bb56c/"
   },
   {
    "id": "cda85051",
