@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:30:56.127376+00:00",
+ "updated": "2026-11-04T22:01:00.848324+00:00",
  "items": [
   {
    "id": "29602010",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-04T21:30:00+00:00",
+   "date": "2026-11-04T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-29602010/"
+  },
+  {
+   "id": "86e2d941",
+   "title": "Brezilya'daki bir maçta 53 kırmızı kart çıktı",
+   "summary": "Brezilya'da oynanan 20 yaş altı futbol karşılaşmasında çıkan olaylar sonucunda 53 kişi kırmızı kart gördü.",
+   "link": "https://www.aa.com.tr/tr/spor/brezilyadaki-bir-macta-53-kirmizi-kart-cikti/4112091",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T21:34:12+00:00",
+   "url": "/haber/brezilya-daki-bir-macta-53-kirmizi-kart-cikti-86e2d941/"
+  },
+  {
+   "id": "c0815d76",
+   "title": "Fenerbahçe'nin Liverpool galibiyeti için İngiliz basını ne yazıyor?",
+   "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki dördüncü maçında İngiliz temsilcisi Liverpool'u Kadıköy'de 3-2 yendi.",
+   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49e1/live/6cdcc350-d895-11f1-bffe-b94c467713ac.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-04T21:33:51+00:00",
+   "url": "/haber/fenerbahce-nin-liverpool-galibiyeti-icin-ingiliz-basini-ne-yaziyor-c0815d76/"
+  },
+  {
+   "id": "fa0a7f79",
+   "title": "Mekke Anlaşması'nın Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi'nin birinci maddesi kabul edildi",
+   "summary": "TBMM Genel Kurulunda Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşması'nın Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi'nin birinci maddesi…",
+   "link": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifinin-birinci-maddesi-kabul-edildi/4112089",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T21:31:24+00:00",
+   "url": "/haber/mekke-anlasmasi-nin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklif-fa0a7f79/"
   },
   {
    "id": "5053a033",
@@ -22,17 +55,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T21:19:34+00:00",
    "url": "/haber/sony-nin-turuncu-sungerli-walkman-kulakliklari-geri-mi-donuyor-5053a033/"
-  },
-  {
-   "id": "c0815d76",
-   "title": "Fenerbahçe Liverpool'u yendi: 18 yıl sonra ilk Devler Ligi galibiyeti",
-   "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki dördüncü maçında İngiliz temsilcisi Liverpool'u Kadıköy'de 3-2 yendi.",
-   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ac7c/live/3650d380-d886-11f1-ad49-25abedf165e8.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-04T21:17:58+00:00",
-   "url": "/haber/fenerbahce-liverpool-u-yendi-18-yil-sonra-ilk-devler-ligi-galibiyeti-c0815d76/"
   },
   {
    "id": "4baecedf",
@@ -376,17 +398,6 @@
    "url": "/haber/sam-altman-adini-x-te-ram-altman-yapti-db9a693e/"
   },
   {
-   "id": "34a33489",
-   "title": "ABD'den İran'ın petrol taşımacılığına destek veren denizcilik ağına yaptırım",
-   "summary": "ABD Hazine Bakanlığı, İran'a yaptırımları aşarak petrol taşımacılığı yapmasına yardımcı olan Hindistan merkezli denizcilik ağını yaptırım listesine ekledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdden-iranin-petrol-tasimaciligina-destek-veren-denizcilik-agina-yaptirim/4111999",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T19:20:25+00:00",
-   "url": "/haber/abd-den-iran-in-petrol-tasimaciligina-destek-veren-denizcilik-agina-ya-34a33489/"
-  },
-  {
    "id": "8f1f772b",
    "title": "Büyük binalar için doğalgaza alternatif ısı pompası",
    "summary": "Vaillant, büyük binalar için geliştirdiği yeni ısı pompasını tanıttı. 1.200 metrekareye kadar alanları ısıtabilen Vaillant aroTherm perform sistemi, -15 derece soğukta da çalışabiliyor.",
@@ -495,17 +506,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T18:26:57+00:00",
    "url": "/haber/macbook-neo-2-icin-satis-hedefi-ikiye-katlandi-503eea9e/"
-  },
-  {
-   "id": "37067b15",
-   "title": "Beşiktaş'ta teknik direktör Italiano, Celtic maçında sinirli bir rakip görebileceklerini söyledi",
-   "summary": "UEFA Avrupa Ligi'nin 4. haftasında yarın İskoçya ekibi Celtic'le deplasmanda karşılaşacak Beşiktaş'ta teknik direktör Vincenzo Italiano, sinirli bir rakip görebileceklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktasta-teknik-direktor-italiano-celtic-macinda-sinirli-bir-rakip-gorebileceklerini-soyledi/4111927",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T18:26:03+00:00",
-   "url": "/haber/besiktas-ta-teknik-direktor-italiano-celtic-macinda-sinirli-bir-rakip-37067b15/"
   },
   {
    "id": "1324b209",
