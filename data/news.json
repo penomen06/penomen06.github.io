@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-04T19:01:01.456891+00:00",
+ "updated": "2026-11-04T19:31:04.710526+00:00",
  "items": [
+  {
+   "id": "4baecedf",
+   "title": "Kozinoğlu soruşturması. Resmi rapora göre ölümü kalp krizi",
+   "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun adli tıp raporu başsavcılığa gönderildi. Raporda Kozinoğlu'nun ölümünün kalp hastalığı nedeniyle gerçekleştiği belirtildi.",
+   "link": "https://www.ntv.com.tr/turkiye/kozinoglu-sorusturmasi-resmi-rapora-gore-olumu-kalp-krizi-1749412",
+   "image": "https://images.ntv.com.tr/images/ka_C5_9Fif-kozino_C4_9Flu-868064-718765.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-04T19:28:24+00:00",
+   "url": "/haber/kozinoglu-sorusturmasi-resmi-rapora-gore-olumu-kalp-krizi-4baecedf/"
+  },
+  {
+   "id": "db9a693e",
+   "title": "Sam Altman adını X'te Ram Altman yaptı",
+   "summary": "OpenAI CEO'su Sam Altman, RAM kullanımına dair sözleri tepki çekince X'teki adını Ram Altman olarak değiştirdi. Altman, sözlerinin bağlamından koparıldığını savundu.",
+   "link": "https://shiftdelete.net/ram-altman-sam-altman-x-adi-ram-tartismasi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/47f825359cea9e495ea8acccf7f0818dd68313e0.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T19:22:27+00:00",
+   "url": "/haber/sam-altman-adini-x-te-ram-altman-yapti-db9a693e/"
+  },
+  {
+   "id": "34a33489",
+   "title": "ABD'den İran'ın petrol taşımacılığına destek veren denizcilik ağına yaptırım",
+   "summary": "ABD Hazine Bakanlığı, İran'a yaptırımları aşarak petrol taşımacılığı yapmasına yardımcı olan Hindistan merkezli denizcilik ağını yaptırım listesine ekledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdden-iranin-petrol-tasimaciligina-destek-veren-denizcilik-agina-yaptirim/4111999",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T19:20:25+00:00",
+   "url": "/haber/abd-den-iran-in-petrol-tasimaciligina-destek-veren-denizcilik-agina-ya-34a33489/"
+  },
+  {
+   "id": "8f1f772b",
+   "title": "Büyük binalar için doğalgaza alternatif ısı pompası",
+   "summary": "Vaillant, büyük binalar için geliştirdiği yeni ısı pompasını tanıttı. 1.200 metrekareye kadar alanları ısıtabilen Vaillant aroTherm perform sistemi, -15 derece soğukta da çalışabiliyor.",
+   "link": "https://www.donanimhaber.com/buyuk-binalar-icin-dogalgaza-alternatif-isi-pompasi--212477",
+   "image": "https://www.donanimhaber.com/images/images/haber/212477/1200x675buyuk-binalar-icin-dogalgaza-alternatif-isi-pompasi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-04T19:20:00+00:00",
+   "url": "/haber/buyuk-binalar-icin-dogalgaza-alternatif-isi-pompasi-8f1f772b/"
+  },
+  {
+   "id": "8f4592af",
+   "title": "AK Parti ve MHP görüştü. Belediyeler için yeni düzenleme yolda",
+   "summary": "AK Parti Genel Başkan Yardımcısı Mustafa Demir, MHP Genel Başkan Yardımcısı Sadir Durmaz'ı ziyaret ederek yerel yönetimler reformuna ilişkin hazırlanan taslağı görüştü.",
+   "link": "https://www.ntv.com.tr/turkiye/ak-parti-ve-mhp-gorustu-belediyeler-icin-yeni-duzenleme-yolda-1749410",
+   "image": "https://images.ntv.com.tr/images/AK-PARTI-VE-MHPDEN-YEREL-YONETIMLER-REF_1590707_473042-581354.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-04T19:08:23+00:00",
+   "url": "/haber/ak-parti-ve-mhp-gorustu-belediyeler-icin-yeni-duzenleme-yolda-8f4592af/"
+  },
   {
    "id": "46341deb",
    "title": "Fransa'da kan bankalarına siber saldırı: Tüm stok çöp oldu",
@@ -25,14 +80,25 @@
   },
   {
    "id": "c1f801dd",
-   "title": "Trump'a Vance'in 'İran yüzünden kaybettik' açıklaması soruldu: 'Büyük ölçüde doğru'",
+   "title": "Trump, seçim yenilgisinde İran savaşı ve benzin fiyatlarının rol oynadığını kabul etti",
    "summary": "ABD Başkan Yardımcısı JD Vance, Cumhuriyetçilerin ara seçimlerdeki yenilgisinde İran savaşının başrol oynadığını söyledi. Bu açıklamayla ilgili görüşleri sorulan Donald Trump, \"Büyük ölçüde doğru\" dedi.",
    "link": "https://www.bbc.com/turkce/articles/c317kjny5jedo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e18/live/78158070-d87e-11f1-a364-a1fce50dd192.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-04T18:45:27+00:00",
-   "url": "/haber/trump-a-vance-in-iran-yuzunden-kaybettik-aciklamasi-soruldu-buyuk-olcu-c1f801dd/"
+   "url": "/haber/trump-secim-yenilgisinde-iran-savasi-ve-benzin-fiyatlarinin-rol-oynadi-c1f801dd/"
+  },
+  {
+   "id": "e9e81b19",
+   "title": "ABD'deki seçimlere dünyadan tepkiler",
+   "summary": "ABD'de resmi olmayan sonuçlara göre Demokratların Senato ve Temsilciler Meclisinde üstünlük sağladığı ara seçimlere ilişkin birçok ülkeden açıklama geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abddeki-secimlere-dunyadan-tepkiler/4111945",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T18:44:55+00:00",
+   "url": "/haber/abd-deki-secimlere-dunyadan-tepkiler-e9e81b19/"
   },
   {
    "id": "9317a0ea",
@@ -88,6 +154,17 @@
    "category": "teknoloji",
    "date": "2026-11-04T18:26:57+00:00",
    "url": "/haber/macbook-neo-2-icin-satis-hedefi-ikiye-katlandi-503eea9e/"
+  },
+  {
+   "id": "37067b15",
+   "title": "Beşiktaş'ta teknik direktör Italiano, Celtic maçında sinirli bir rakip görebileceklerini söyledi",
+   "summary": "UEFA Avrupa Ligi'nin 4. haftasında yarın İskoçya ekibi Celtic'le deplasmanda karşılaşacak Beşiktaş'ta teknik direktör Vincenzo Italiano, sinirli bir rakip görebileceklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktasta-teknik-direktor-italiano-celtic-macinda-sinirli-bir-rakip-gorebileceklerini-soyledi/4111927",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T18:26:03+00:00",
+   "url": "/haber/besiktas-ta-teknik-direktor-italiano-celtic-macinda-sinirli-bir-rakip-37067b15/"
   },
   {
    "id": "1324b209",
@@ -442,39 +519,6 @@
    "url": "/haber/dso-turkiye-cop-muzakereleri-kapsaminda-saglik-gundeminin-onculerinden-f201b7cd/"
   },
   {
-   "id": "3fb2a471",
-   "title": "Excel'de kopyala-yapıştır yine bozuldu",
-   "summary": "Microsoft'un ekim güncellemesi Excel 2016'da kopyala-yapıştırı yeniden bozdu. Şirket hatayı yeni derlemeyle düzeltti; sürümünüzü kontrol etmeniz yeterli.",
-   "link": "https://shiftdelete.net/excel-2016-kopyala-yapistir-hatasi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/excel-2016-kopyala-yapistir-hatasi-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T16:19:58+00:00",
-   "url": "/haber/excel-de-kopyala-yapistir-yine-bozuldu-3fb2a471/"
-  },
-  {
-   "id": "29703981",
-   "title": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da Filistinlilere ait 8 evi gasbetti",
-   "summary": "Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria'nın Eriha kentinde Filistinlilere ait 8 evi gasbetti.",
-   "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-filistinlilere-ait-8-evi-gasbetti/4111800",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T16:16:36+00:00",
-   "url": "/haber/filistin-topraklarini-gasbeden-israilliler-bati-seria-da-filistinliler-29703981/"
-  },
-  {
-   "id": "bcba1554",
-   "title": "İlklere sahne olan ABD ara seçimlerinin çok konuşulan kazananları gündemde",
-   "summary": "2026 ABD ara seçimleri, Kongre ve eyalet yönetimlerinde siyasi dengeleri değiştiren sonuçların yanı sıra farklı toplumsal kesimlerin temsili açısından da ilklere sahne olan kazananlarıyla gündeme geldi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ilklere-sahne-olan-abd-ara-secimlerinin-cok-konusulan-kazananlari-gundemde/4111794",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T16:09:43+00:00",
-   "url": "/haber/ilklere-sahne-olan-abd-ara-secimlerinin-cok-konusulan-kazananlari-gund-bcba1554/"
-  },
-  {
    "id": "e32be3e9",
    "title": "Efsane geri dönüyor: Elder Scrolls 6'nın tanıtım videosu ve ilk detayları paylaşıldı",
    "summary": "Bethesda, sekiz yılı aşkın süredir beklenen The Elder Scrolls 6'nın adını ve geçeceği bölgeyi açıkladı. Oyun için kısa bir tanıtım videosu da yayınlandı. İşte detaylar...",
@@ -506,17 +550,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T15:58:00+00:00",
    "url": "/haber/siber-guvenlik-baskanligi-ndan-kritik-uyari-whatsapp-hesaplari-tehlike-ce0a622d/"
-  },
-  {
-   "id": "419a9862",
-   "title": "İsrailli uzmanlara göre ABD-İsrail'in İran savaşı Trump'a oy kaybettirdi",
-   "summary": "İsrailli uzmanlar, ABD'de yapılan ara seçimlerde Başkan Donald Trump ve Cumhuriyetçi Parti’nin yaşadığı büyük oy kaybında Washington'un İsrail'le birlikte İran'a karşı başlattığı savaşın etkili olduğu görüşünü taşıyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilli-uzmanlara-gore-abd-israilin-iran-savasi-trumpa-oy-kaybettirdi/4111783",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T15:55:43+00:00",
-   "url": "/haber/israilli-uzmanlara-gore-abd-israil-in-iran-savasi-trump-a-oy-kaybettir-419a9862/"
   },
   {
    "id": "9235bd92",
@@ -638,17 +671,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T14:42:21+00:00",
    "url": "/haber/dokunmatik-olmayan-macbook-pro-modellerine-yakinda-veda-edebiliriz-6949ea3b/"
-  },
-  {
-   "id": "18243fe0",
-   "title": "Pegasus'tan 173 GB veri çalındığı iddia edildi: Yolcuların bilgileri tehlikede olabilir",
-   "summary": "Pegasus Hava Yolları sistemlerine sızıldığı ve yaklaşık 173 GB verinin ele geçirildiği iddia edildi. Erişilen veriler arasında yolcuların kimlik, pasaport ve rezervasyon bilgileri de bulunuyor.",
-   "link": "https://www.donanimhaber.com/pegasus-tan-173-gb-veri-calindigi-iddia-edildi-yolcularin-bilgil--212487",
-   "image": "https://www.donanimhaber.com/images/images/haber/212487/1200x675pegasus-tan-173-gb-veri-calindigi-iddia-edildi-yolcularin-bilgil.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-04T14:39:00+00:00",
-   "url": "/haber/pegasus-tan-173-gb-veri-calindigi-iddia-edildi-yolcularin-bilgileri-te-18243fe0/"
   },
   {
    "id": "e17e3f20",
@@ -1045,28 +1067,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T09:54:45+00:00",
    "url": "/haber/binance-6-3-milyar-dolarlik-saldirinin-detaylarini-acikladi-sahte-is-g-e2ad4ebb/"
-  },
-  {
-   "id": "6bd0bfc0",
-   "title": "Ümraniye'de skuter kullanan kişiye saldıran sürücüye 180 bin lira ceza",
-   "summary": "Ümraniye'de aracından inerek skuter sürücüsüne saldıran ve trafikte tehlikeli hareketlerde bulunan otomobil sürücüsüne 180 bin lira idari para cezası uygulandı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-umraniyede-skuter-kullanan-kisiye-saldiran-surucuye-180-bin-lira-ceza-1749357",
-   "image": "https://images.ntv.com.tr/images/UMRANIYEDE-SKUTER-KULLANAN-KISIYE-SALDI_1589031_472552-610549.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-04T09:33:10+00:00",
-   "url": "/haber/umraniye-de-skuter-kullanan-kisiye-saldiran-surucuye-180-bin-lira-ceza-6bd0bfc0/"
-  },
-  {
-   "id": "fc0f84f3",
-   "title": "Antalya'da COP-31 için geri sayım: Dünya liderlerinin gündemi belli oldu",
-   "summary": "Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi (UNFCCC) 31'inci Taraflar Konferansı'nın (COP31) 12 günlük programı açıklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-antalyada-cop-31-icin-geri-sayim-dunya-liderlerinin-gundemi-belli-oldu-1749345",
-   "image": "https://images.ntv.com.tr/images/DUNYA-LIDERLERININ-ANTALYA-GUNDEMI-BELLI_1589472_472672-575568.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-04T08:48:01+00:00",
-   "url": "/haber/antalya-da-cop-31-icin-geri-sayim-dunya-liderlerinin-gundemi-belli-old-fc0f84f3/"
   },
   {
    "id": "35493a8f",
