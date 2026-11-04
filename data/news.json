@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T22:30:52.721725+00:00",
+ "updated": "2026-11-04T23:01:06.134395+00:00",
  "items": [
   {
    "id": "29602010",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-04T22:30:00+00:00",
+   "date": "2026-11-04T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-29602010/"
+  },
+  {
+   "id": "c72f5304",
+   "title": "Yemen ordusu el-Cevf ve Taiz'deki operasyonlarda yaklaşık 340 Husinin etkisiz hale getirildiğini duyurdu",
+   "summary": "Yemen ordusu, ülkenin kuzeyindeki el-Cevf vilayetinde Husilere ait bazı mevzileri kontrol altına aldığını, güneybatıdaki Taiz vilayetinde ise saha kazanımları elde ettiğini ve operasyonlarda yaklaşık 340 Husinin etkisiz…",
+   "link": "https://www.aa.com.tr/tr/dunya/yemen-ordusu-el-cevf-ve-taizdeki-operasyonlarda-yaklasik-340-husinin-etkisiz-hale-getirildigini-duyurdu/4112125",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T22:56:58+00:00",
+   "url": "/haber/yemen-ordusu-el-cevf-ve-taiz-deki-operasyonlarda-yaklasik-340-husinin-c72f5304/"
   },
   {
    "id": "86e2d941",
@@ -440,17 +451,6 @@
    "category": "gundem",
    "date": "2026-11-04T18:45:27+00:00",
    "url": "/haber/trump-secim-yenilgisinde-iran-savasi-ve-benzin-fiyatlarinin-rol-oynadi-c1f801dd/"
-  },
-  {
-   "id": "e9e81b19",
-   "title": "ABD'deki seçimlere dünyadan tepkiler",
-   "summary": "ABD'de resmi olmayan sonuçlara göre Demokratların Senato ve Temsilciler Meclisinde üstünlük sağladığı ara seçimlere ilişkin birçok ülkeden açıklama geldi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abddeki-secimlere-dunyadan-tepkiler/4111945",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T18:44:55+00:00",
-   "url": "/haber/abd-deki-secimlere-dunyadan-tepkiler-e9e81b19/"
   },
   {
    "id": "9317a0ea",
