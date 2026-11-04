@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-04T18:30:52.555956+00:00",
+ "updated": "2026-11-04T18:51:17.687281+00:00",
  "items": [
+  {
+   "id": "c1f801dd",
+   "title": "Donald Trump: Büyük ölçüde İran savaşı yüzünden kaybettik",
+   "summary": "ABD Başkan Yardımcısı JD Vance, Cumhuriyetçilerin ara seçimlerdeki yenilgisinde İran savaşının başrol oynadığını söyledi. Bu açıklamayla ilgili görüşleri sorulan Donald Trump, \"Büyük ölçüde doğru\" dedi.",
+   "link": "https://www.bbc.com/turkce/articles/c317kjny5jedo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e18/live/78158070-d87e-11f1-a364-a1fce50dd192.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-04T18:45:27+00:00",
+   "url": "/haber/donald-trump-buyuk-olcude-iran-savasi-yuzunden-kaybettik-c1f801dd/"
+  },
+  {
+   "id": "9317a0ea",
+   "title": "Nintendo Switch kartuş tedarikçisini kaybediyor",
+   "summary": "Nintendo'nun Switch kartuş tedarikçisi Macronix, veri merkezlerindeki NOR flash talebi nedeniyle ROM üretimini kademeli olarak durduracağını açıkladı.",
+   "link": "https://shiftdelete.net/nintendo-switch-kartus-tedarikcisi-macronix",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nintendo-switch-kartus-kapak.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T18:42:05+00:00",
+   "url": "/haber/nintendo-switch-kartus-tedarikcisini-kaybediyor-9317a0ea/"
+  },
+  {
+   "id": "808c6e5d",
+   "title": "Cumhurbaşkanı Erdoğan, Güney Kore'deki temaslarının ardından yurda döndü",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'ın davetine icabetle resmi ziyaret gerçekleştirdiği Seul'deki temaslarını tamamlayarak yurda döndü.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koredeki-temaslarinin-ardindan-yurda-dondu/4111939",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T18:37:31+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-guney-kore-deki-temaslarinin-ardindan-yurda-dond-808c6e5d/"
+  },
+  {
+   "id": "98a6f842",
+   "title": "Bayraktar TB2, FPV kamikaze dronları havadan bırakarak hedefleri vurdu",
+   "summary": "Bayraktar TB2, Skydagger FPV kamikaze dronları havadan bırakarak hedefleri tam isabetle vurdu. Test, FPV dronların menzilini binlerce kilometreye çıkarabilecek yeni bir kabiliyeti ortaya koydu.",
+   "link": "https://www.donanimhaber.com/bayraktar-tb2-bu-sefer-fpv-kamikaze-dronlarla-vurdu--212474",
+   "image": "https://www.donanimhaber.com/images/images/haber/212474/1200x675bayraktar-tb2-bu-sefer-fpv-kamikaze-dronlarla-vurdu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-04T18:36:00+00:00",
+   "url": "/haber/bayraktar-tb2-fpv-kamikaze-dronlari-havadan-birakarak-hedefleri-vurdu-98a6f842/"
+  },
+  {
+   "id": "d3a1166f",
+   "title": "THY bilanço sonuçları: Gelir 8,3 milyar dolar",
+   "summary": "Türk Hava Yolları, üçüncü çeyrekte gelirini yüzde 19,3 artırarak 8,3 milyar dolara çıkardı. Ancak yakıt maliyetindeki sert yükseliş, esas faaliyet karını 929 milyon dolara indirdi.",
+   "link": "https://shiftdelete.net/thy-bilanco-ucuncu-ceyrek",
+   "image": "https://shiftdelete.net/static/img/content/26-11/04/thy-bilanco-ucuncu-ceyrek.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T18:32:07+00:00",
+   "url": "/haber/thy-bilanco-sonuclari-gelir-8-3-milyar-dolar-d3a1166f/"
+  },
   {
    "id": "503eea9e",
    "title": "MacBook Neo 2 için satış hedefi ikiye katlandı",
@@ -24,15 +79,15 @@
    "url": "/haber/manjaro-linux-nedir-nasil-kurulur-2026-rehberi-1324b209/"
   },
   {
-   "id": "c8c40c50",
-   "title": "Trump, seçimleri kaybetmelerinin sebebinin \"İran savaşı\" ve buna bağlı \"hayat pahalılığı\" olduğunu söyledi",
-   "summary": "ABD Başkanı Trump, Kongre seçimlerini Demokratlara karşı kaybetmelerinin sebebinin büyük ölçüde \"İran savaşı\" ve buna bağlı \"hayat pahalılığı\" olduğunu söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-secimleri-kaybetmelerinin-sebebinin-iran-savasi-ve-buna-bagli-hayat-pahaliligi-oldugunu-soyledi/4111910",
+   "id": "d779b20d",
+   "title": "Trump, Demokratlara karşı seçimleri kaybetmelerini \"İran'la savaş\" ve \"hayat pahalılığına\" bağladı",
+   "summary": "ABD Başkanı Donald Trump, Kongre ara seçimlerinde Demokratlara karşı yaşadıkları yenilginin büyük ölçüde \"İran savaşı\" ve savaşın yol açtığı \"hayat pahalılığından\" kaynaklandığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-demokratlara-karsi-secimleri-kaybetmelerini-iranla-savas-ve-hayat-pahaliligina-bagladi/4111910",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-04T18:15:28+00:00",
-   "url": "/haber/trump-secimleri-kaybetmelerinin-sebebinin-iran-savasi-ve-buna-bagli-ha-c8c40c50/"
+   "url": "/haber/trump-demokratlara-karsi-secimleri-kaybetmelerini-iran-la-savas-ve-hay-d779b20d/"
   },
   {
    "id": "920d972e",
@@ -110,17 +165,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T17:52:00+00:00",
    "url": "/haber/sam-altman-ram-tartismasinin-ardindan-adini-ram-altman-yapti-2e25b88e/"
-  },
-  {
-   "id": "c1f801dd",
-   "title": "ABD Başkan Yardımcısı JD Vance: 'Savaş yüzünden kaybettik'",
-   "summary": "ABD Başkan Yardımcısı JD Vance, Cumhuriyetçilerin ara seçimlerdeki yenilgisine ilişkin X platformunda paylaştığı uzun bir gönderide, ABD'nin İran'daki savaşının partinin mağlubiyetinde baş rol oynadığını yol söyledi.",
-   "link": "https://www.bbc.com/turkce/articles/c317kjny5jedo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a6b/live/258f4450-d877-11f1-a364-a1fce50dd192.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-04T17:45:47+00:00",
-   "url": "/haber/abd-baskan-yardimcisi-jd-vance-savas-yuzunden-kaybettik-c1f801dd/"
   },
   {
    "id": "cb90fb50",
@@ -398,17 +442,6 @@
    "url": "/haber/filistin-topraklarini-gasbeden-israilliler-bati-seria-da-filistinliler-29703981/"
   },
   {
-   "id": "46f72783",
-   "title": "Mexican Ninja incelemeleri: Basın ne diyor?",
-   "summary": "Kartel ile Yakuza'yı aynı potada eriten roguelike dövüş oyunu Mexican Ninja, yabancı basında olumlu karşılandı.",
-   "link": "https://shiftdelete.net/mexican-ninja-inceleme-puanlari",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/mexican-ninja-inceleme-puanlari-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T16:14:53+00:00",
-   "url": "/haber/mexican-ninja-incelemeleri-basin-ne-diyor-46f72783/"
-  },
-  {
    "id": "bcba1554",
    "title": "İlklere sahne olan ABD ara seçimlerinin çok konuşulan kazananları gündemde",
    "summary": "2026 ABD ara seçimleri, Kongre ve eyalet yönetimlerinde siyasi dengeleri değiştiren sonuçların yanı sıra farklı toplumsal kesimlerin temsili açısından da ilklere sahne olan kazananlarıyla gündeme geldi.",
@@ -418,17 +451,6 @@
    "category": "gundem",
    "date": "2026-11-04T16:09:43+00:00",
    "url": "/haber/ilklere-sahne-olan-abd-ara-secimlerinin-cok-konusulan-kazananlari-gund-bcba1554/"
-  },
-  {
-   "id": "b872954c",
-   "title": "YEKA 2026 yarışmalarında 2.285 MW tahsis edildi",
-   "summary": "YEKA 2026 yarışmalarında rüzgar ve güneş için toplam 2 bin 285 MW kapasite tahsis edildi. Projelerin yaklaşık 1,9 milyar dolarlık yatırım getirmesi bekleniyor.",
-   "link": "https://shiftdelete.net/yeka-2026-ruzgar-gunes-kapasite-tahsisi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/691d6bc0b87f9de074e44c31b0a3f562835d7cc0.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T16:06:17+00:00",
-   "url": "/haber/yeka-2026-yarismalarinda-2-285-mw-tahsis-edildi-b872954c/"
   },
   {
    "id": "e32be3e9",
@@ -495,17 +517,6 @@
    "category": "gundem",
    "date": "2026-11-04T15:50:43+00:00",
    "url": "/haber/trabzonspor-teknik-direktoru-reis-freiburg-maci-kalitemizin-ne-kadar-y-3168b0d3/"
-  },
-  {
-   "id": "0968c391",
-   "title": "İsrail basını: ABD ara seçimlerini Demokratların kazanması Trump ve İsrail için ağır darbe",
-   "summary": "İsrail basını, ABD ara seçimlerinde Cumhuriyetçilerin Kongredeki çoğunluğu kaybetmesini, Başkan Donald Trump ve İsrail için \"ağır darbe\" olarak nitelendirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-abd-ara-secimlerini-demokratlarin-kazanmasi-trump-ve-israil-icin-agir-darbe/4111777",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T15:48:41+00:00",
-   "url": "/haber/israil-basini-abd-ara-secimlerini-demokratlarin-kazanmasi-trump-ve-isr-0968c391/"
   },
   {
    "id": "f8e267ac",
@@ -682,17 +693,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T14:14:58+00:00",
    "url": "/haber/honor-un-hedefi-haftada-bir-sarj-15-000-mah-bataryali-bir-model-uzerin-7ed84d98/"
-  },
-  {
-   "id": "f8abaa67",
-   "title": "GTA 6 tarihe geçiyor: Ön siparişlerden 7.7 milyon dolar gelir!",
-   "summary": "GTA 6 ön siparişleri 7.71 milyon adede ulaştı. Bu, geçen aya kıyasla 1 milyonluk artış anlamına geliyor. Oyun, Cyberpunk 2077'nin rekorunu geride bırakma yolunda ilerliyor.",
-   "link": "https://www.donanimhaber.com/gta-6-on-siparis-rekoru-1-milyar-dolara-yaklasti--212472",
-   "image": "https://www.donanimhaber.com/images/images/haber/212472/1200x675gta-6-on-siparis-rekoru-1-milyar-dolara-yaklasti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-04T14:12:00+00:00",
-   "url": "/haber/gta-6-tarihe-geciyor-on-siparislerden-7-7-milyon-dolar-gelir-f8abaa67/"
   },
   {
    "id": "900fd7be",
