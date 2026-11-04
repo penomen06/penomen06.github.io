@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-04T04:31:00.157672+00:00",
+ "updated": "2026-11-04T05:01:09.916071+00:00",
  "items": [
+  {
+   "id": "090021ed",
+   "title": "Canva'da 1.271 çalışanı etkileyen değişiklik",
+   "summary": "Canva, 1.271 çalışanını, yani personelinin yüzde 22'sini etkileyen büyük bir yeniden yapılanma açıkladı. Bazı çalışanlar işini kaybedecek, bazılarının ise görevi değişecek.",
+   "link": "https://shiftdelete.net/canva-calisanlarin-yuzde-22-sini-etkileyecek",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/c1a2bdcce03d2e2d413e2923f27edccf23276755.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T05:00:00+00:00",
+   "url": "/haber/canva-da-1-271-calisani-etkileyen-degisiklik-090021ed/"
+  },
   {
    "id": "900f0ee0",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 04 Kasım 2026",
@@ -9,19 +20,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-04T04:30:00+00:00",
+   "date": "2026-11-04T05:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-900f0ee0/"
   },
   {
    "id": "18390461",
-   "title": "ABD'de ara seçimler: Demokratlar Temsilciler Meclisi'nde çoğunluğu sağlıyor",
-   "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. CBS News'un tahminine göre Demokratlar, ABD Temsilciler Meclisi'nde Cumhuriyetçilerin elinde olan çoğunluğu ele geçiriyor.…",
+   "title": "ABD'de ara seçimler: Demokratlar Kongre'nin iki kanadında da çoğunluğu kazandı",
+   "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. CBS News'un tahminine göre Demokratlar, Senato ve Temsilciler Meclisi'nde Cumhuriyetçilerin elinde olan çoğunluğu ele…",
    "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fac3/live/863d4270-d7ff-11f1-a701-fddedf244c16.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-11-04T04:29:49+00:00",
-   "url": "/haber/abd-de-ara-secimler-demokratlar-temsilciler-meclisi-nde-cogunlugu-sagl-18390461/"
+   "date": "2026-11-04T04:59:16+00:00",
+   "url": "/haber/abd-de-ara-secimler-demokratlar-kongre-nin-iki-kanadinda-da-cogunlugu-18390461/"
+  },
+  {
+   "id": "983c7bdd",
+   "title": "Galaxy A38 5G'nin pili 6000 mAh olabilir",
+   "summary": "Samsung'un orta segment modeli Galaxy A38 5G, sızıntılara göre selefinden yüzde 20 daha büyük bir pille gelebilir. Telefonun 2027 baharında çıkması bekleniyor.",
+   "link": "https://shiftdelete.net/galaxy-a38-5g-6000-mah-pil-fiyat",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/8e06b18ee16e046953c3ca9dda79518000bb9d10.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T04:40:00+00:00",
+   "url": "/haber/galaxy-a38-5g-nin-pili-6000-mah-olabilir-983c7bdd/"
   },
   {
    "id": "acba35f3",
@@ -147,7 +169,7 @@
   {
    "id": "d9c301c1",
    "title": "ABD'de Kongre ara seçimlerinde oy sayımı devam ediyor",
-   "summary": "ABD'de Kongre ara seçimleri kapsamında Indiana ve Kentucky eyaletlerinde oy verme işlemi tamamlanırken, AP'nin resmi olmayan sonuçlarına göre Temsilciler Meclisinde Demokratlar 143, Cumhuriyetçiler 86 sandalye kazandı.",
+   "summary": "ABD'de Kongre ara seçimleri kapsamında Indiana ve Kentucky eyaletlerinde oy verme işlemi tamamlanırken, Temsilciler Meclisi için yapılan yarışta Demokratlar 173, Cumhuriyetçiler 106 sandalye kazandı.",
    "link": "https://www.aa.com.tr/tr/live-blog/abdde-kongre-ara-secimlerinde-oy-sayimi-devam-ediyor/7124",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -363,17 +385,6 @@
    "category": "gundem",
    "date": "2026-11-03T20:45:40+00:00",
    "url": "/haber/emre-belozoglu-fenerbahce-nin-ikinci-kez-teknik-direktorluk-gorevine-g-21bf2adf/"
-  },
-  {
-   "id": "df9ffa14",
-   "title": "AB, vatandaşlar için acil durumlara hazırlık rehberi yayımladı",
-   "summary": "Avrupa Birliği (AB) Komisyonu, vatandaşların kriz durumunda ilk 3 gün boyunca temel ihtiyaçlarını kendileri karşılamaları, hazırlıklılık eğitimi ve güvenilir bilgi alınmasının sağlanması gibi tavsiyeleri içeren yeni…",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-vatandaslar-icin-acil-durumlara-hazirlik-rehberi-yayimladi/4110549",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-03T20:39:53+00:00",
-   "url": "/haber/ab-vatandaslar-icin-acil-durumlara-hazirlik-rehberi-yayimladi-df9ffa14/"
   },
   {
    "id": "24d09918",
@@ -618,17 +629,6 @@
    "url": "/haber/apple-dan-gelistiricilere-uyari-flort-ve-ai-iliski-uygulamalari-18-ola-4c8be5e8/"
   },
   {
-   "id": "9f9ab3b7",
-   "title": "iOS 27.3 beta 1 geliştiricilere sunuldu",
-   "summary": "Apple, iOS 27.3 beta ve iPadOS 27.3 beta sürümlerinin ilk denemelerini geliştiricilere dağıttı. Güncelleme Apple Intelligence'ı Çin'e taşıyabilir.",
-   "link": "https://shiftdelete.net/ios-27-3-beta-gelistiricilere-sunuldu",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/c6ce063b4690fee008c169014bd6b487d7ddbbbc.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T18:29:07+00:00",
-   "url": "/haber/ios-27-3-beta-1-gelistiricilere-sunuldu-9f9ab3b7/"
-  },
-  {
    "id": "4b50e428",
    "title": "Bilim-kurgu romanı Robokıyamet, Oscarlı yönetmen tarafından diziye dönüştürülüyor",
    "summary": "Bir dönem Steven Spielberg tarafından büyük bütçeli bir filme dönüştürülmesi gündemde olan Robokıyamet (Robopocalypse), şimdi bir başka Oscar ödüllü yönetmen tarafından diziye uyarlanıyor.",
@@ -638,17 +638,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T18:10:00+00:00",
    "url": "/haber/bilim-kurgu-romani-robokiyamet-oscarli-yonetmen-tarafindan-diziye-donu-4b50e428/"
-  },
-  {
-   "id": "923a5945",
-   "title": "iOS 27.2 ile gelen iki yeni özellik öne çıktı",
-   "summary": "iOS 27.2 güncellemesi iPhone'lara geldi. Apple Podcasts'te sıra düzeni baştan kuruldu, Fotoğraflar'daki Paylaşılan Albümler ise yeni araçlarla güçlendi.",
-   "link": "https://shiftdelete.net/ios-27-2-podcasts-paylasilan-albumler-yenilikleri",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/ios-27-2-iki-yeni-ozellik-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T18:05:31+00:00",
-   "url": "/haber/ios-27-2-ile-gelen-iki-yeni-ozellik-one-cikti-923a5945/"
   },
   {
    "id": "bbac8194",
