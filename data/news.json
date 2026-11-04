@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-04T02:31:05.183492+00:00",
+ "updated": "2026-11-04T03:01:10.045180+00:00",
  "items": [
   {
-   "id": "18390461",
-   "title": "ABD'de ara seçimler: Kongre'nin kontrolü ve Trump'ın son iki yılı oylanıyor",
-   "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Sandıkların kapanmaya başladığı doğu ve orta kesim eyaletlerin bazılarından ilk sonuçlar gelmeye başladı.",
-   "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d474/live/4b806710-d7d8-11f1-8cb0-d304936875f3.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-04T02:26:23+00:00",
-   "url": "/haber/abd-de-ara-secimler-kongre-nin-kontrolu-ve-trump-in-son-iki-yili-oylan-18390461/"
+   "id": "a766d60c",
+   "title": "GTA 6 ön yükleme 10 Kasım'da başlıyor",
+   "summary": "Rockstar Games, GTA 6 ön yükleme tarihini iki gün öne çekti. Oyunun dosya boyutu da 212 GB olarak netleşti; konsol sahipleri depolama alanını hazırlamalı.",
+   "link": "https://shiftdelete.net/gta-6-on-yukleme-tarihi-one-cekildi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/9c4c181af9d152cfe509837fa55573780780949f.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-04T03:00:00+00:00",
+   "url": "/haber/gta-6-on-yukleme-10-kasim-da-basliyor-a766d60c/"
   },
   {
    "id": "900f0ee0",
@@ -20,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-04T02:00:00+00:00",
+   "date": "2026-11-04T03:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-900f0ee0/"
+  },
+  {
+   "id": "18390461",
+   "title": "ABD'de ara seçimler: İlk sonuçlar gelmeye başladı",
+   "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Sandıkların kapanmaya başladığı doğu ve orta kesim eyaletlerin bazılarından ilk sonuçlar gelmeye başladı.",
+   "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d474/live/4b806710-d7d8-11f1-8cb0-d304936875f3.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-04T02:37:48+00:00",
+   "url": "/haber/abd-de-ara-secimler-ilk-sonuclar-gelmeye-basladi-18390461/"
   },
   {
    "id": "4eb7da4a",
@@ -627,17 +638,6 @@
    "category": "teknoloji",
    "date": "2026-11-03T17:10:24+00:00",
    "url": "/haber/n11-de-kasim-firsatlari-30-teknolojik-urunde-son-6-ayin-en-dusuk-fiyat-2587ff5d/"
-  },
-  {
-   "id": "712369d2",
-   "title": "Windows 11 PC alana 25 ücretsiz Xbox oyunu",
-   "summary": "Microsoft, Xbox'ın 25. yılına özel olarak yeni Windows 11 bilgisayar alanlara 500 doları aşan değerde 25 ücretsiz oyun veriyor. Kampanya şimdilik yalnızca ABD'de geçerli.",
-   "link": "https://shiftdelete.net/xbox-25-yil-windows-11-pc-25-ucretsiz-oyun",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/xbox-25-yil-windows-11-25-ucretsiz-oyun-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-03T17:05:31+00:00",
-   "url": "/haber/windows-11-pc-alana-25-ucretsiz-xbox-oyunu-712369d2/"
   },
   {
    "id": "724a5722",
