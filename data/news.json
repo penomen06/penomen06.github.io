@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:01:01.054161+00:00",
+ "updated": "2026-11-04T21:30:56.127376+00:00",
  "items": [
   {
    "id": "29602010",
@@ -9,8 +9,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-04T21:00:00+00:00",
+   "date": "2026-11-04T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-29602010/"
+  },
+  {
+   "id": "5053a033",
+   "title": "Sony’nin Turuncu Süngerli Walkman Kulaklıkları Geri mi Dönüyor?",
+   "summary": "Sony’nin yeni tanıtım videosu, 1979’da ilk Walkman’le birlikte çıkan kulaklıkların dönüşüne işaret ediyor.",
+   "link": "https://www.webtekno.com/sony-1979-retro-walkman-kulaklik-geri-donuyor-h228316.html",
+   "image": "https://imgrosetta.webtekno.com/file/695734/695734-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-04T21:19:34+00:00",
+   "url": "/haber/sony-nin-turuncu-sungerli-walkman-kulakliklari-geri-mi-donuyor-5053a033/"
+  },
+  {
+   "id": "c0815d76",
+   "title": "Fenerbahçe Liverpool'u yendi: 18 yıl sonra ilk Devler Ligi galibiyeti",
+   "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki dördüncü maçında İngiliz temsilcisi Liverpool'u Kadıköy'de 3-2 yendi.",
+   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ac7c/live/3650d380-d886-11f1-ad49-25abedf165e8.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-04T21:17:58+00:00",
+   "url": "/haber/fenerbahce-liverpool-u-yendi-18-yil-sonra-ilk-devler-ligi-galibiyeti-c0815d76/"
+  },
+  {
+   "id": "4baecedf",
+   "title": "Kozinoğlu soruşturması. Resmi rapora göre ölümü kalp krizi, savcılık itiraz edecek",
+   "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun adli tıp raporu başsavcılığa gönderildi. Raporda Kozinoğlu'nun ölümünün kalp hastalığı nedeniyle gerçekleştiği belirtildi. Savcılık, karara itiraz edecek.",
+   "link": "https://www.ntv.com.tr/turkiye/kozinoglu-sorusturmasi-resmi-rapora-gore-olumu-kalp-krizi-1749412",
+   "image": "https://images.ntv.com.tr/images/ka_C5_9Fif-kozino_C4_9Flu-868064-718765.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-04T21:14:39+00:00",
+   "url": "/haber/kozinoglu-sorusturmasi-resmi-rapora-gore-olumu-kalp-krizi-savcilik-iti-4baecedf/"
+  },
+  {
+   "id": "15d6a45c",
+   "title": "Yeni X-Men filmlerinin Wolverine'i için sürpriz bir isim gündemde",
+   "summary": "X-Men filmleri için yepyeni bir ekip toplamaya başlayan Marvel, Wolverine rolü için sürpriz bir isimle görüşüyor. Hugh Jackman'dan çok daha farklı bir Wolverine görebiliriz.",
+   "link": "https://www.donanimhaber.com/yeni-x-men-filmlerinde-wolverine-i-bu-oyunda-canlandirabilir--212490",
+   "image": "https://www.donanimhaber.com/images/images/haber/212490/1200x675yeni-x-men-filmlerinde-wolverine-i-bu-oyunda-canlandirabilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-04T21:09:00+00:00",
+   "url": "/haber/yeni-x-men-filmlerinin-wolverine-i-icin-surpriz-bir-isim-gundemde-15d6a45c/"
   },
   {
    "id": "01c4d10d",
@@ -24,6 +68,17 @@
    "url": "/haber/turk-futbolunda-yayin-ihalesi-sureci-basladi-01c4d10d/"
   },
   {
+   "id": "305b383c",
+   "title": "NASA'nın Swift Gözlemevi Dünya'ya düşüyor",
+   "summary": "ABD Havacılık ve Uzay Ajansının (NASA) Neil Gehrels Swift Gözlemevi'nin göreve başlamasından 22 yıl sonra kontrolsüz bir şekilde Dünya'ya doğru düşmeye başladığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/nasanin-swift-gozlemevi-dunyaya-dusuyor/4112068",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T20:55:37+00:00",
+   "url": "/haber/nasa-nin-swift-gozlemevi-dunya-ya-dusuyor-305b383c/"
+  },
+  {
    "id": "5d793a09",
    "title": "Kale'den yeni turbojet ve turbofan motor planı",
    "summary": "Kale Jet Motorları, ürün ailesini yeni turbojet ve turbofan motorlarla genişletiyor. Grup Başkanı Ali Rıza Alptekin, geliştirme takvimini tedarikçi buluşmasında anlattı.",
@@ -33,17 +88,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T20:52:09+00:00",
    "url": "/haber/kale-den-yeni-turbojet-ve-turbofan-motor-plani-5d793a09/"
-  },
-  {
-   "id": "4baecedf",
-   "title": "Kozinoğlu soruşturması. Resmi rapora göre ölümü kalp krizi",
-   "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun adli tıp raporu başsavcılığa gönderildi. Raporda Kozinoğlu'nun ölümünün kalp hastalığı nedeniyle gerçekleştiği belirtildi.",
-   "link": "https://www.ntv.com.tr/turkiye/kozinoglu-sorusturmasi-resmi-rapora-gore-olumu-kalp-krizi-1749412",
-   "image": "https://images.ntv.com.tr/images/ka_C5_9Fif-kozino_C4_9Flu-868064-718765.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-04T20:50:27+00:00",
-   "url": "/haber/kozinoglu-sorusturmasi-resmi-rapora-gore-olumu-kalp-krizi-4baecedf/"
   },
   {
    "id": "ebc7f9f4",
@@ -255,17 +299,6 @@
    "url": "/haber/kasif-kozinoglu-nun-olumuyle-ilgili-adli-tip-raporu-cikti-9b8eab4c/"
   },
   {
-   "id": "c0815d76",
-   "title": "Fenerbahçe Liverpool'u yendi: 18 yıl sonra ilk Devler Ligi galibiyeti",
-   "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki dördüncü maçında İngiliz temsilcisi Liverpool'u Kadıköy'de 3-2 yendi.",
-   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ac7c/live/3650d380-d886-11f1-ad49-25abedf165e8.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-04T19:42:57+00:00",
-   "url": "/haber/fenerbahce-liverpool-u-yendi-18-yil-sonra-ilk-devler-ligi-galibiyeti-c0815d76/"
-  },
-  {
    "id": "1477d5ce",
    "title": "Mercedes’e ekranlar yetmedi: Şimdi sıra otomobil camlarında",
    "summary": "Mercedes-Benz, araç camlarına entegre LED ekranlar ve holografik ön cam teknolojisi geliştiriyor. Sistemler, dışarıya uyarı gösterebilirken yolculara navigasyon ve eğlence içerikleri sunmayı amaçlıyor",
@@ -385,17 +418,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T19:00:00+00:00",
    "url": "/haber/fransa-da-kan-bankalarina-siber-saldiri-tum-stok-cop-oldu-46341deb/"
-  },
-  {
-   "id": "667cb53e",
-   "title": "İsrail vatandaşı Filistinlileri temsil eden Raam Partisi, başbakanlık için Eisenkot'u önereceğini duyurdu",
-   "summary": "İsrail vatandaşı Filistinlileri temsil eden Raam Partisi (Birleşik Arap Listesi), Cumhurbaşkanı Isaac Herzog'a hükümeti kurması için Gadi Eisenkot'un ismini önereceklerini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-vatandasi-filistinlileri-temsil-eden-raam-partisi-basbakanlik-icin-eisenkotu-onerecegini-duyurdu/4111955",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T18:53:19+00:00",
-   "url": "/haber/israil-vatandasi-filistinlileri-temsil-eden-raam-partisi-basbakanlik-i-667cb53e/"
   },
   {
    "id": "c1f801dd",
@@ -660,17 +682,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T16:00:50+00:00",
    "url": "/haber/yale-ve-samsung-smartthings-is-birligi-genisliyor-7f8f5959/"
-  },
-  {
-   "id": "ce0a622d",
-   "title": "Siber Güvenlik Başkanlığı’ndan kritik uyarı: WhatsApp hesapları tehlikede!",
-   "summary": "Siber Güvenlik Başkanlığı, son dönemde hızla artan WhatsApp dolandırıcılıklarına karşı kritik bir güvenlik uyarısı yayınladı. WhatsApp hesabını korumak için ne yapmalı?",
-   "link": "https://www.donanimhaber.com/siber-guvenlik-baskanligi-ndan-kritik-whatsapp-uyarisi--212492",
-   "image": "https://www.donanimhaber.com/images/images/haber/212492/1200x675siber-guvenlik-baskanligi-ndan-kritik-whatsapp-uyarisi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-04T15:58:00+00:00",
-   "url": "/haber/siber-guvenlik-baskanligi-ndan-kritik-uyari-whatsapp-hesaplari-tehlike-ce0a622d/"
   },
   {
    "id": "9235bd92",
@@ -1089,17 +1100,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T10:09:36+00:00",
    "url": "/haber/615-bin-dolarlik-tartismali-elektrikli-ferrari-luce-2027-icin-tamamen-992bd5af/"
-  },
-  {
-   "id": "e2ad4ebb",
-   "title": "Binance, 6,3 Milyar Dolarlık Saldırının Detaylarını Açıkladı: Sahte İş Görüşmesiyle Sisteme Sızmışlar!",
-   "summary": "Binance, milyarlarca dolarlık kripto varlığın çalındığı saldırıya ilişkin ilk bulgularını paylaştı.",
-   "link": "https://www.webtekno.com/binance-6-3-milyar-dolar-kripto-soygunu-detaylari-h228253.html",
-   "image": "https://imgrosetta.webtekno.com/file/695614/695614-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-04T09:54:45+00:00",
-   "url": "/haber/binance-6-3-milyar-dolarlik-saldirinin-detaylarini-acikladi-sahte-is-g-e2ad4ebb/"
   },
   {
    "id": "35493a8f",
