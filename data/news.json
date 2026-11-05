@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:01:03.023002+00:00",
+ "updated": "2026-11-05T23:30:51.935133+00:00",
  "items": [
   {
    "id": "e82727c3",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-05T23:00:00+00:00",
+   "date": "2026-11-05T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-e82727c3/"
+  },
+  {
+   "id": "d44d6555",
+   "title": "Fatma Betül Sayan Kaya tutuklandı",
+   "summary": "Savcılığın, \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından tutuklama talep ettiği eski AKP'li bakan Fatma Betül Sayan Kaya, çıkarıldığı nöbetçi mahkemece tutuklandı.",
+   "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e49/live/6fc84870-d96f-11f1-93e1-3b657b665bcf.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-05T23:23:19+00:00",
+   "url": "/haber/fatma-betul-sayan-kaya-tutuklandi-d44d6555/"
   },
   {
    "id": "d55d0181",
@@ -46,6 +57,17 @@
    "url": "/haber/ktj-turbojet-motorlarinda-1000-inci-uretim-70363c45/"
   },
   {
+   "id": "c94d381b",
+   "title": "Fatma Betül Sayan Kaya tutuklandı",
+   "summary": "Fon soruşturması kapsamında \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından mahkemeye sevk edilen Fatma Betül Sayan Kaya tutuklandı.",
+   "link": "https://www.trthaber.com/haber/gundem/fatma-betul-sayan-kaya-tutuklandi-962372.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2490000/fatma-betul-sayan-kaya-aa-2491961.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-05T22:00:00+00:00",
+   "url": "/haber/fatma-betul-sayan-kaya-tutuklandi-c94d381b/"
+  },
+  {
    "id": "48f8766c",
    "title": "Avrupa uçuşlarında bomba ihbarları: En az 21 uçuş etkilendi",
    "summary": "Avrupa genelinde en az 21 uçak, güvenlik tehdidi ve bomba ihbarı sebebiyle acil durum alarmı verdi. Bazı uçaklar güzergah değiştirdi. Bazıları askeri kuvvetler eşliğinde iniş yapabildi. İngiltere olayı \"kötü niyetli…",
@@ -66,17 +88,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T21:45:00+00:00",
    "url": "/haber/isi-pompalari-termokimyasal-enerji-depolama-ile-daha-verimli-hale-gele-e270d8a5/"
-  },
-  {
-   "id": "d44d6555",
-   "title": "Fatma Betül Sayan Kaya için tutuklama talebi",
-   "summary": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya eşi İlyas Kaya ve eski SPK başkanı İbrahim Ömer Gönül şüpheli sıfatıyla ifade verdi. İfade sonunda Savcılık, Kaya'yı \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç…",
-   "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b52c/live/6b6dbce0-c242-11f1-b2a8-994b2a5598cb.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-05T21:42:03+00:00",
-   "url": "/haber/fatma-betul-sayan-kaya-icin-tutuklama-talebi-d44d6555/"
   },
   {
    "id": "839fa816",
@@ -365,26 +376,15 @@
    "url": "/haber/nasa-yeni-deneysel-ucagi-x-70-fractal-i-tanitti-7b80180e/"
   },
   {
-   "id": "c94d381b",
-   "title": "Fatma Betül Sayan Kaya tutuklandı",
-   "summary": "Fon soruşturması kapsamında \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından mahkemeye sevk edilen Fatma Betül Sayan Kaya tutuklandı.",
-   "link": "https://www.trthaber.com/haber/gundem/fatma-betul-sayan-kaya-tutuklandi-962372.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2490000/fatma-betul-sayan-kaya-aa-2491961.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-05T19:51:00+00:00",
-   "url": "/haber/fatma-betul-sayan-kaya-tutuklandi-c94d381b/"
-  },
-  {
-   "id": "44cf02f0",
-   "title": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya'ya tutuklama talebi",
-   "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında \"şüpheli\" sıfatıyla ifadesi alınan Fatma Betül Sayan Kaya tutuklama talebiyle hakimliğe sevk edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/fon-sorusturmasi-kapsaminda-fatma-betul-sayan-kayaya-tutuklama-talebi/4113433",
+   "id": "edf200c5",
+   "title": "Eski bakan Fatma Betül Sayan Kaya fon soruşturması kapsamında tutuklandı",
+   "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında hakimliğe sevk edilen eski bakan Fatma Betül Sayan Kaya tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/eski-bakan-fatma-betul-sayan-kaya-fon-sorusturmasi-kapsaminda-tutuklandi/4113433",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-05T19:48:50+00:00",
-   "url": "/haber/fon-sorusturmasi-kapsaminda-fatma-betul-sayan-kaya-ya-tutuklama-talebi-44cf02f0/"
+   "url": "/haber/eski-bakan-fatma-betul-sayan-kaya-fon-sorusturmasi-kapsaminda-tutuklan-edf200c5/"
   },
   {
    "id": "0b2b73ce",
