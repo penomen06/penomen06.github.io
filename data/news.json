@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:00:59.847121+00:00",
+ "updated": "2026-11-05T22:30:52.169173+00:00",
  "items": [
   {
    "id": "e82727c3",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-05T22:00:00+00:00",
+   "date": "2026-11-05T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-e82727c3/"
+  },
+  {
+   "id": "d55d0181",
+   "title": "NVIDIA Kyber rafı 500 evlik elektrik çekecek",
+   "summary": "NVIDIA'nın Rubin Ultra için hazırladığı Kyber rafı 600 kW güç isteyecek. Bu, yaklaşık 500 Amerikan evinin elektriğine denk ve veri merkezlerini zorlayacak.",
+   "link": "https://shiftdelete.net/nvidia-kyber-raf-600-kw-elektrik",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nvidia-kyber-raf-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T22:25:00+00:00",
+   "url": "/haber/nvidia-kyber-rafi-500-evlik-elektrik-cekecek-d55d0181/"
+  },
+  {
+   "id": "13cb4b27",
+   "title": "Afyonkarahisar'da 8 kişiyi katleden saldırgan yakalandı",
+   "summary": "Afyonkarahisar'da 8 kişiyi öldüren, 1 kişiyi de ağır yaralayan şahıs, Eskişehir'de yakalandı. Şüpheli Afyonkarahisar'a götürüldü.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-1749559",
+   "image": "https://images.ntv.com.tr/images/afyonnmansetcopy-537508(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-05T22:23:32+00:00",
+   "url": "/haber/afyonkarahisar-da-8-kisiyi-katleden-saldirgan-yakalandi-13cb4b27/"
+  },
+  {
+   "id": "70363c45",
+   "title": "KTJ turbojet motorlarında 1000'inci üretim",
+   "summary": "Kale Jet Motorları'nın ürettiği KTJ turbojet motorları 1000 adetlik üretim seviyesine ulaştı. Yerli üretim sayesinde en az 200 milyon dolarlık kaynak ülkede kaldı.",
+   "link": "https://shiftdelete.net/ktj-turbojet-motorlari-1000-uretim",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/kale-ktj-turbojet-motor-kapak.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T22:10:00+00:00",
+   "url": "/haber/ktj-turbojet-motorlarinda-1000-inci-uretim-70363c45/"
   },
   {
    "id": "48f8766c",
@@ -66,17 +99,6 @@
    "category": "gundem",
    "date": "2026-11-05T21:36:13+00:00",
    "url": "/haber/kyb-baskani-talabani-ikby-yonetiminden-cekiliyoruz-meclisin-kararlarin-ebe7f581/"
-  },
-  {
-   "id": "13cb4b27",
-   "title": "Afyonkarahisar'da 8 kişiyi katleden saldırgan yakalandı",
-   "summary": "Afyonkarahisar'da 8 kişiyi öldüren, 1 kişiyi de ağır yaralayan şahıs, Eskişehir'de yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-1749559",
-   "image": "https://images.ntv.com.tr/images/afyonnmansetcopy-537508(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-05T21:29:14+00:00",
-   "url": "/haber/afyonkarahisar-da-8-kisiyi-katleden-saldirgan-yakalandi-13cb4b27/"
   },
   {
    "id": "bfe60c2f",
@@ -211,15 +233,15 @@
    "url": "/haber/mekke-anlasmasi-tbmm-genel-kurulu-nda-kabul-edildi-769f9c75/"
   },
   {
-   "id": "eed83504",
-   "title": "Beşiktaş, UEFA Avrupa Ligi'nde Celtic'e mağlup oldu",
-   "summary": "UEFA Avrupa Ligi'nin 4. haftasında Beşiktaş, Celtic'e 3-2 mağlup oldu.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-celtice-maglup-oldu/4113470",
+   "id": "c1c33d9a",
+   "title": "Beşiktaş, Avrupa Ligi'nde ilk yenilgisini yaşadı",
+   "summary": "UEFA Avrupa Ligi'nin 4. haftasında İskoçya'nın Celtic takımına konuk olan Beşiktaş, rakibine 3-2 yenilerek lig aşamasındaki ilk mağlubiyetini aldı.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-avrupa-liginde-ilk-yenilgisini-yasadi-/4113470",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-05T20:53:07+00:00",
-   "url": "/haber/besiktas-uefa-avrupa-ligi-nde-celtic-e-maglup-oldu-eed83504/"
+   "url": "/haber/besiktas-avrupa-ligi-nde-ilk-yenilgisini-yasadi-c1c33d9a/"
   },
   {
    "id": "256b8e69",
@@ -431,17 +453,6 @@
    "url": "/haber/afyon-da-8-kisiyi-olduren-saldirgan-yakalandi-5f3358b5/"
   },
   {
-   "id": "f3f4f200",
-   "title": "iOS 27.3 genel betası yayında: Sağlık yenilendi",
-   "summary": "Apple, iOS 27.3'ün ilk herkese açık betasını yayınladı. Türkçe desteğiyle gelen yenilenmiş Sağlık uygulaması, Safari'nin dikey sekmeleri ve yeni Siri AI eylemleri artık denenebiliyor.",
-   "link": "https://shiftdelete.net/ios-27-3-herkese-acik-beta-yayinda",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/ios-27-3-genel-beta-saglik-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T19:30:17+00:00",
-   "url": "/haber/ios-27-3-genel-betasi-yayinda-saglik-yenilendi-f3f4f200/"
-  },
-  {
    "id": "dbc4aab3",
    "title": "Uyurken kulaklığa gerek kalmayacak: Baseus'tan yastık altı hoparlör",
    "summary": "Kulaklık takmadan yatakta müzik ve podcast dinlemek isteyenlere yönelik geliştirilen Baseus Sleep SK1, çevreye ses yayılımını azaltan özel teknolojisiyle dikkat çekiyor.",
@@ -451,17 +462,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T19:29:00+00:00",
    "url": "/haber/uyurken-kulakliga-gerek-kalmayacak-baseus-tan-yastik-alti-hoparlor-dbc4aab3/"
-  },
-  {
-   "id": "69c0f983",
-   "title": "MaliSX2 sürücüsü Dolphin ve HakuX'e geliyor",
-   "summary": "MaliSX2 Vulkan sürücüsü, ARMSX2 ile başladığı yolculuğa Dolphin ve HakuX'le devam ediyor. Snapdragon kullanmayan Android cihazlarda emülasyon için yeni bir umut var.",
-   "link": "https://shiftdelete.net/malisx2-dolphin-hakux-emulator-surucusu",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/malisx2-dolphin-emulator-android-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T19:25:00+00:00",
-   "url": "/haber/malisx2-surucusu-dolphin-ve-hakux-e-geliyor-69c0f983/"
   },
   {
    "id": "28999ae2",
