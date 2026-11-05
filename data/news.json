@@ -1,16 +1,159 @@
 {
- "updated": "2026-11-05T14:30:55.249490+00:00",
+ "updated": "2026-11-05T15:01:05.136598+00:00",
  "items": [
   {
+   "id": "297bedd6",
+   "title": "One UI 9 sonrası Galaxy'lerde bağlantı sorunu",
+   "summary": "One UI 9 bağlantı sorunu, güncellemeyi yükleyen bazı Galaxy kullanıcılarında Wi-Fi kopmalarına, mobil veri kesintilerine ve SIM kartın algılanmamasına yol açıyor.",
+   "link": "https://shiftdelete.net/one-ui-9-baglanti-sorunu-wifi-mobil-veri-sim",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/one-ui-9-baglanti-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T14:54:33+00:00",
+   "url": "/haber/one-ui-9-sonrasi-galaxy-lerde-baglanti-sorunu-297bedd6/"
+  },
+  {
+   "id": "48f8766c",
+   "title": "Avrupa'da en az 18 uçak bomba ihbarından etkilendi",
+   "summary": "Avrupa genelinde en az 18 uçak, güvenlik tehdidi ve bomba ihbarı sebebiyle acil durum alarmı verdi. Bazı uçaklar güzergah değiştirdi. Bazıları askeri kuvvetler eşliğinde iniş yapabildi. Bu hafta, Avrupa'nın farklı…",
+   "link": "https://www.bbc.com/turkce/articles/ckz7xd2g9edqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b549/live/72afb9f0-d90c-11f1-94c6-3f8050561bf5.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-05T14:44:13+00:00",
+   "url": "/haber/avrupa-da-en-az-18-ucak-bomba-ihbarindan-etkilendi-48f8766c/"
+  },
+  {
+   "id": "2e37f870",
+   "title": "Bakan Fidan'dan peş peşe diplomatik temaslar: Önce Katar, ardından İran",
+   "summary": "Dışişleri Bakanı Fidan, Ankara'da Katar Savunma Bakanı Suud bin Abdurahman Al Sani'yi ağırlarken, İran Dışişleri Bakanı Abbas Arakçi ile de telefon görüşmesi gerçekleştirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-fidandan-pes-pese-diplomatik-temaslar-once-katar-ardindan-iran-1749562",
+   "image": "https://images.ntv.com.tr/images/fidan-933387(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-05T14:42:26+00:00",
+   "url": "/haber/bakan-fidan-dan-pes-pese-diplomatik-temaslar-once-katar-ardindan-iran-2e37f870/"
+  },
+  {
    "id": "02a93971",
-   "title": "Afyonkarahisar'da iki araç içinde beş ceset bulundu",
-   "summary": "Afyonkarahisar'da iki otomobilin içinde beş kişiye ait ceset bulundu. Jandarma olay yerinde inceleme yapıyor.",
+   "title": "Afyonkarahisar'da silahlı saldırı. 7 ölü, 2 ağır yaralı",
+   "summary": "Afyonkarahisar'da farklı noktalarda 7 ceset bulundu. 2 kişinin ise ağır yaralı olduğu öğrenildi. Olayın silahlı saldırı olduğu değerlendiriliyor.",
    "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-bir-arabada-bes-ceset-bulundu-1749559",
    "image": "https://images.ntv.com.tr/images/afyon-1-371693.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-05T14:29:34+00:00",
-   "url": "/haber/afyonkarahisar-da-iki-arac-icinde-bes-ceset-bulundu-02a93971/"
+   "date": "2026-11-05T14:41:37+00:00",
+   "url": "/haber/afyonkarahisar-da-silahli-saldiri-7-olu-2-agir-yarali-02a93971/"
+  },
+  {
+   "id": "3fb4e12b",
+   "title": "Samsung TV gizlilik iddialarına yanıt verdi",
+   "summary": "Araştırmacı Log4j'nin Tizen'li akıllı televizyonlara dair iddiaları tartışma yaratmıştı. Samsung TV gizlilik endişelerine ACR açıklamasıyla yanıt verdi.",
+   "link": "https://shiftdelete.net/samsung-tv-gizlilik-iddialarina-yanit",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/01fa4a6d18d3ca36655dc7b850d3056995e46f07.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T14:39:53+00:00",
+   "url": "/haber/samsung-tv-gizlilik-iddialarina-yanit-verdi-3fb4e12b/"
+  },
+  {
+   "id": "2b0b9c10",
+   "title": "OpenAI başkanından yapay zeka açıklaması: Ölüm bir seçenek olacak",
+   "summary": "OpenAI Başkanı Greg Brockman, yapay zekanın 18 ay içinde sağlık alanında büyük atılımlar yapacağını ve gelecekte ölümün bile bir tercih haline gelebileceğini öne sürdü.",
+   "link": "https://www.donanimhaber.com/openai-baskanindan-yapay-zeka-aciklamasi-olum-bir-secenek-olacak--212535",
+   "image": "https://www.donanimhaber.com/images/images/haber/212535/1200x675openai-baskanindan-yapay-zeka-aciklamasi-olum-bir-secenek-olacak.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-05T14:37:00+00:00",
+   "url": "/haber/openai-baskanindan-yapay-zeka-aciklamasi-olum-bir-secenek-olacak-2b0b9c10/"
+  },
+  {
+   "id": "b5b0e8f5",
+   "title": "You Can See Everything Uzaya Gidiyor: Belgeseli Avrupa’dan Önce Astronotlar İzleyecek",
+   "summary": "NASA’nın özel gösterim talebini kabul eden A24, You Can See Everything’i Uluslararası Uzay İstasyonu’na gönderiyor. Böylece astronotlar, Elizabeth Holmes belgeselini Avrupa’daki pek çok izleyiciden önce izleyebilecek.",
+   "link": "https://www.webtekno.com/you-can-see-everything-uzaya-gidiyor-h228337.html",
+   "image": "https://imgrosetta.webtekno.com/file/695773/695773-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-05T14:35:30+00:00",
+   "url": "/haber/you-can-see-everything-uzaya-gidiyor-belgeseli-avrupa-dan-once-astrono-b5b0e8f5/"
+  },
+  {
+   "id": "4935e79f",
+   "title": "Dışişleri Bakanı Fidan, İranlı mevkidaşı Erakçi ile telefonda görüştü",
+   "summary": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Erakçi ile İran ile ABD arasındaki müzakere sürecini görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-iranli-mevkidasi-erakci-ile-telefonda-gorustu/4113141",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T14:35:15+00:00",
+   "url": "/haber/disisleri-bakani-fidan-iranli-mevkidasi-erakci-ile-telefonda-gorustu-4935e79f/"
+  },
+  {
+   "id": "c799d700",
+   "title": "WhatsApp'a Yapay Zekâ Destekli Fotoğraf Genişletme Özelliği Geliyor",
+   "summary": "WhatsApp, Meta AI desteğiyle Android'de fotoğrafları 9:16 dikey formatına otomatik genişleten yeni yapay zekâ aracını test etmeye başladı.",
+   "link": "https://www.webtekno.com/whatsapp-yapay-zeka-destekli-fotograf-genisletme-ozelligi-geliyor-h228340.html",
+   "image": "https://imgrosetta.webtekno.com/file/695779/695779-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-05T14:30:51+00:00",
+   "url": "/haber/whatsapp-a-yapay-zeka-destekli-fotograf-genisletme-ozelligi-geliyor-c799d700/"
+  },
+  {
+   "id": "9bb2cab4",
+   "title": "Casper Excalibur G887 tanıtıldı: 17,3 inç ekranıyla monitör ihtiyacını azaltıyor",
+   "summary": "Casper Excalibur G887, 17,3 inç Full HD 144 Hz ekranı, Intel Core HX işlemci ve RTX 50 serisi ekran kartı seçenekleriyle oyun ve içerik üretimine yönelik geniş bir kullanım alanı sunuyor.",
+   "link": "https://www.donanimhaber.com/17-3-inc-ekranli-yeni-oyun-laptop-casper-excalibur-g887-tanitildi--212537",
+   "image": "https://www.donanimhaber.com/images/images/haber/212537/1200x67517-3-inc-ekranli-yeni-oyun-laptop-casper-excalibur-g887-tanitildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-05T14:30:43+00:00",
+   "url": "/haber/casper-excalibur-g887-tanitildi-17-3-inc-ekraniyla-monitor-ihtiyacini-9bb2cab4/"
+  },
+  {
+   "id": "4ff277d5",
+   "title": "iPhone’un Sevilen Özelliği Mac’lere Geldi: Canlı Etkinlikler Menü Çubuğunda",
+   "summary": "Mac bilgisayarlara gelecek yeni güncellemenin ilk test sürümü, Canlı Etkinlikler’i doğrudan menü çubuğuna taşıyor.",
+   "link": "https://www.webtekno.com/canli-etkinlikler-mac-menu-cubuguna-geldi-h228382.html",
+   "image": "https://imgrosetta.webtekno.com/file/695863/695863-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-05T14:30:23+00:00",
+   "url": "/haber/iphone-un-sevilen-ozelligi-mac-lere-geldi-canli-etkinlikler-menu-cubug-4ff277d5/"
+  },
+  {
+   "id": "70cdde56",
+   "title": "İran Ordusu: Hürmüz Boğazı'nın doğusunda 2 petrol tankeri deniz mayınlarına çarptı",
+   "summary": "İran Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın doğusunda deniz mayınlarına çarpan 2 petrol tankerinin alev aldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinin-dogusunda-2-petrol-tankeri-deniz-mayinlarina-carpti/4113131",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T14:30:13+00:00",
+   "url": "/haber/iran-ordusu-hurmuz-bogazi-nin-dogusunda-2-petrol-tankeri-deniz-mayinla-70cdde56/"
+  },
+  {
+   "id": "f934d7fe",
+   "title": "Google’ı Tedirgin Edecek Rakam: ChatGPT’nin Arama Hacmi Google’ın Beşte Birine Ulaştı",
+   "summary": "OpenAI’a göre ChatGPT’nin arama hacmi, Google’ın beşte birine ulaştı. Haftalık 1,2 milyar aktif kullanıcıya ulaşan platform, internette bilgi arama alışkanlıklarıyla birlikte arama motoru pazarındaki dengeleri de…",
+   "link": "https://www.webtekno.com/chatgpt-arama-hacmi-google-beste-biri-h228394.html",
+   "image": "https://imgrosetta.webtekno.com/file/695891/695891-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-05T14:30:00+00:00",
+   "url": "/haber/google-i-tedirgin-edecek-rakam-chatgpt-nin-arama-hacmi-google-in-beste-f934d7fe/"
+  },
+  {
+   "id": "5943364a",
+   "title": "Türkiye'de Satılan En Ucuz Elektrikli Otomobiller: 2026 Kasım Güncel",
+   "summary": "Türkiye'de satılan en ucuz elektrikli otomobilleri derledik. İşte 2026 Kasım güncel liste...",
+   "link": "https://www.webtekno.com/turkiye-satilan-en-ucuz-elektrikli-otomobiller-kasim-2026-h228400.html",
+   "image": "https://imgrosetta.webtekno.com/file/695918/695918-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-05T14:29:15+00:00",
+   "url": "/haber/turkiye-de-satilan-en-ucuz-elektrikli-otomobiller-2026-kasim-guncel-5943364a/"
   },
   {
    "id": "302403cb",
@@ -33,6 +176,17 @@
    "category": "teknoloji",
    "date": "2026-11-05T14:24:44+00:00",
    "url": "/haber/ps5-satislari-35-dustu-playstation-kar-etti-09882c83/"
+  },
+  {
+   "id": "7672bdc5",
+   "title": "İçişleri Bakanı Çiftçi, Suudi Arabistanlı mevkidaşıyla görüştü",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, Suudi Arabistan İçişleri Bakanı Prens Abdülaziz bin Suud bin Nayif Al Suud ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-suudi-arabistanli-mevkidasiyla-gorustu/4113118",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T14:23:34+00:00",
+   "url": "/haber/icisleri-bakani-ciftci-suudi-arabistanli-mevkidasiyla-gorustu-7672bdc5/"
   },
   {
    "id": "78bd4818",
@@ -453,17 +607,6 @@
    "url": "/haber/1-600-dolarlik-amiral-gemisi-motorola-signature-27-tanitildi-91b9c386/"
   },
   {
-   "id": "a3f14ca5",
-   "title": "Axios: ABD istihbarat raporuna göre İran \"yükselmekte olan bir uzay gücü\"",
-   "summary": "ABD istihbarat raporunda İran'ın, ABD'nin uzay kabiliyetlerine karşı saldırgan eylemlerde bulunduğu ve \"yükselmekte olan bir uzay gücü\" olarak görüldüğü öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/axios-abd-istihbarat-raporuna-gore-iran-yukselmekte-olan-bir-uzay-gucu/4113032",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T13:17:14+00:00",
-   "url": "/haber/axios-abd-istihbarat-raporuna-gore-iran-yukselmekte-olan-bir-uzay-gucu-a3f14ca5/"
-  },
-  {
    "id": "3110d56b",
    "title": "'Suç yapısı tespit edilen' fon krizinde şimdiye kadar neler oldu, ne kadar ödeme yapıldı?",
    "summary": "Eylül ayında Borsa İstanbul'da sert düşüşlere yol açan fon krizi gündemdeki yerini koruyor. Peki, krizin patlak vermesinden bu yana hangi gelişmeler yaşandı?",
@@ -495,28 +638,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T13:09:55+00:00",
    "url": "/haber/volvo-fiyat-listesi-kasim-2026-tum-modeller-48d42945/"
-  },
-  {
-   "id": "8e6d84f8",
-   "title": "Ermenistan Başbakanı Paşinyan, COP31'e katılacak",
-   "summary": "Ermenistan Başbakanı Nikol Paşinyan, Antalya'da düzenlenecek Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'na (COP31) katılacağını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/ermenistan-basbakani-pasinyan-cop31e-katilacak/4113022",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T13:09:36+00:00",
-   "url": "/haber/ermenistan-basbakani-pasinyan-cop31-e-katilacak-8e6d84f8/"
-  },
-  {
-   "id": "0cdef74b",
-   "title": "AB'den çip tasarımına 525 milyon avroluk yatırım",
-   "summary": "Avrupa Birliği (AB), yeni nesil Avrupalı çip tasarım şirketlerinin gelişimini desteklemek amacıyla 525 milyon avroluk yatırımı harekete geçirecek Avrupa Çip Tasarım Platformu'nu kurdu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abden-cip-tasarimina-525-milyon-avroluk-yatirim/4113020",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T13:06:47+00:00",
-   "url": "/haber/ab-den-cip-tasarimina-525-milyon-avroluk-yatirim-0cdef74b/"
   },
   {
    "id": "15b5ea9d",
@@ -651,17 +772,6 @@
    "url": "/haber/discord-un-windows-uygulamasi-rust-a-gecirilecek-2b9dce99/"
   },
   {
-   "id": "4c19c2c6",
-   "title": "Bayraktar: 2040'ta enerjide bağımsız olacağız",
-   "summary": "Bakan Bayraktar Milli Enerji 2040 vizyonunu açıkladı: Yüzde 36 elektrikleşme, 281 GW kurulu güç, 10 GW nükleer ve 500 milyar dolarlık yatırım.",
-   "link": "https://shiftdelete.net/bayraktar-milli-enerji-2040-lansmani-enerjide-bagimsizlik",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/milli-enerji-2040-bayraktar-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T12:33:09+00:00",
-   "url": "/haber/bayraktar-2040-ta-enerjide-bagimsiz-olacagiz-4c19c2c6/"
-  },
-  {
    "id": "bfafb354",
    "title": "Avrupa’da fabrikalarını kapatan Honda, üretime geri dönebilir",
    "summary": "Honda, Avrupa’da otomobil üretimine yeniden başlayabilir. Markanın Avrupa başkanı, “Made in EU” kurallarının yerel üretimi gündeme getirebileceğini belirtti. Ancak henüz somut bir plan bulunmuyor.",
@@ -682,17 +792,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T12:26:46+00:00",
    "url": "/haber/playstation-5-satislari-100-milyona-ulasmak-uzere-57d310d9/"
-  },
-  {
-   "id": "8f253024",
-   "title": "Opel Fiyat Listesi Kasım 2026: Tüm Modeller",
-   "summary": "Opel fiyat listesi Kasım 2026 açıklandı. En ucuz Opel 1.535.000 TL. İşte tüm modellerin güncel fiyatları.",
-   "link": "https://shiftdelete.net/opel-kasim-2026-fiyat-listesi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/opel-fiyat-listesi-kasim-2026-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T12:24:49+00:00",
-   "url": "/haber/opel-fiyat-listesi-kasim-2026-tum-modeller-8f253024/"
   },
   {
    "id": "e4e9ecdc",
@@ -794,17 +893,6 @@
    "url": "/haber/turkiye-nin-2040-enerji-plani-175-gw-yenilenebilir-enerji-20-milyon-el-7d368a76/"
   },
   {
-   "id": "48f8766c",
-   "title": "Avrupa'da uçuşlara bomba ihbarı: Roma ve Varşova'ya giden uçaklar acil durum alarmı verdi",
-   "summary": "Roma'ya uçan iki uçak ve Varşova'ya uçan bir uçak acil durum alarmı verdi. Bu hafta, Avrupa'nın farklı noktalarına uçan yedi yolcu uçağı da bomba ihbarları nedeniyle, güvenlik önlemleri kapsamında incelemeye alınmıştı.",
-   "link": "https://www.bbc.com/turkce/articles/ckz7xd2g9edqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b549/live/72afb9f0-d90c-11f1-94c6-3f8050561bf5.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-05T11:33:23+00:00",
-   "url": "/haber/avrupa-da-ucuslara-bomba-ihbari-roma-ve-varsova-ya-giden-ucaklar-acil-48f8766c/"
-  },
-  {
    "id": "bb15c8c5",
    "title": "Yeni bir Constantine filmi hazırlanıyor ama yıllardır beklenen proje olmayacak",
    "summary": "Keanu Reeves'in Constantine rolüyle geri döneceği devam filmi için yeni gelişmeler duymayı beklerken, farklı bir Constantine projesi ortaya çıktı. İşte DC cephesinde son yaşananlar...",
@@ -825,50 +913,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T11:24:04+00:00",
    "url": "/haber/byd-nin-rolls-royce-rakibi-otomobilinden-yeni-fotograflarlar-geldi-c08325b3/"
-  },
-  {
-   "id": "3042cbca",
-   "title": "Dev Otomotiv Üreticilerinden ABD Hükümetine Acil Çağrı: Çinli Otomobilleri Kalıcı Olarak Yasaklayın!",
-   "summary": "General Motors, Toyota ve Volkswagen gibi şirketleri temsil eden Otomotiv İnovasyon İttifakı, Çinli araçlara yönelik mevcut kısıtlamaların kalıcı bir yasaya dönüştürülmesini istiyor. İttifak, talebini ulusal güvenlik…",
-   "link": "https://www.webtekno.com/abd-cinli-otomobillere-kalici-yasak-h228352.html",
-   "image": "https://imgrosetta.webtekno.com/file/695815/695815-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-05T11:23:43+00:00",
-   "url": "/haber/dev-otomotiv-ureticilerinden-abd-hukumetine-acil-cagri-cinli-otomobill-3042cbca/"
-  },
-  {
-   "id": "747ec7d3",
-   "title": "WhatsApp Kullanıcılarının Beklediği Özellik Geliyor: Mesajları Açmadan Önizleme",
-   "summary": "WhatsApp, Android kullanıcılarının sohbeti açmadan mesajlara göz atabileceği bir önizleme ekranı üzerinde çalışıyor.",
-   "link": "https://www.webtekno.com/whatsapp-mesajlari-acmadan-onizleme-h228347.html",
-   "image": "https://imgrosetta.webtekno.com/file/695812/695812-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-05T11:23:10+00:00",
-   "url": "/haber/whatsapp-kullanicilarinin-bekledigi-ozellik-geliyor-mesajlari-acmadan-747ec7d3/"
-  },
-  {
-   "id": "fa3b75c0",
-   "title": "SEAT Kasım 2026 Fiyat Listesi",
-   "summary": "SEAT Kasım 2026 fiyat listesi belli oldu. Markanın güncel Ibiza, Arona, Leon ve Ateca modellerinin fiyatları Webtekno'da!",
-   "link": "https://www.webtekno.com/seat-kasim-2026-fiyat-listesi-h228361.html",
-   "image": "https://imgrosetta.webtekno.com/file/695837/695837-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-05T11:22:25+00:00",
-   "url": "/haber/seat-kasim-2026-fiyat-listesi-fa3b75c0/"
-  },
-  {
-   "id": "8688f4d5",
-   "title": "Land Rover Kasım 2026 Fiyat Listesi",
-   "summary": "Land Rover Kasım 2026 fiyat listesi açıklandı. Range Rover Evoque, Defender, Discovery ve diğer modellerin güncel fiyatlarını inceliyoruz.",
-   "link": "https://www.webtekno.com/land-rover-kasim-2026-fiyat-listesi-h228355.html",
-   "image": "https://imgrosetta.webtekno.com/file/678748/678748-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-05T11:21:57+00:00",
-   "url": "/haber/land-rover-kasim-2026-fiyat-listesi-8688f4d5/"
   },
   {
    "id": "dac952a9",
@@ -904,17 +948,6 @@
    "url": "/haber/skoda-karoq-yeni-prestige-donanimi-satisa-sunuldu-iste-fiyati-ve-ozell-83bbc9cc/"
   },
   {
-   "id": "7cb5631f",
-   "title": "SpaceX ve Qualcomm’dan Starlink Mobile için 5G hamlesi",
-   "summary": "Qualcomm ve SpaceX, Starlink Mobile için ABD genelinde on binlerce 5G baz istasyonu kuracak. Bu anlaşma sayesinde SpaceX, ABD’deki dev operatörler ile rekabete girecek.",
-   "link": "https://www.donanimhaber.com/spacex-ve-qualcomm-dan-starlink-mobile-icin-5g-hamlesi--212497",
-   "image": "https://www.donanimhaber.com/images/images/haber/212497/1200x675spacex-ve-qualcomm-dan-starlink-mobile-icin-5g-hamlesi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-05T10:37:00+00:00",
-   "url": "/haber/spacex-ve-qualcomm-dan-starlink-mobile-icin-5g-hamlesi-7cb5631f/"
-  },
-  {
    "id": "a9f197d0",
    "title": "Erdoğan'dan fon açıklaması: 'Hiç ummadığınız insanlar bu işlerin içerisine girmişler'",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yüzbinlerce yatırımcıyı etkileyen ve hacmi yüzmilyarlarca lirayı aşan fon krizine \"ummadığı kişilerin\" dahil olduğunu öğrendiklerini söyledi, \"yargının gerekeni yaptığını\" belirtti.",
@@ -946,28 +979,6 @@
    "category": "gundem",
    "date": "2026-11-05T10:22:04+00:00",
    "url": "/haber/msb-den-iran-sinirinda-sehit-olan-askerle-ilgili-aciklama-afa00151/"
-  },
-  {
-   "id": "3643aea2",
-   "title": "macOS 27.3 ile iPhone'un sevilen özelliği Mac'lere geliyor",
-   "summary": "Dynamic Island, PROLED ekranlı yeni MacBook Pro'ya özel olabilir ancak Canlı Etkinlikler (Live Activities), macOS 27.3 sürümünü çalıştırabilen tüm Mac'lere gelecek.",
-   "link": "https://www.donanimhaber.com/macos-27-3-ile-iphone-un-sevilen-ozelligi-mac-lere-geliyor--212498",
-   "image": "https://www.donanimhaber.com/images/images/haber/212498/1200x675macos-27-3-ile-iphone-un-sevilen-ozelligi-mac-lere-geliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-05T10:19:00+00:00",
-   "url": "/haber/macos-27-3-ile-iphone-un-sevilen-ozelligi-mac-lere-geliyor-3643aea2/"
-  },
-  {
-   "id": "93e3d618",
-   "title": "iPhone Duo'da İlginç Bir Sorun Daha: Basit Bir Ayarı Değiştirmek İçin Telefonu Sıfırlamak Gerekiyor!",
-   "summary": "iPhone Duo'da simge ve metin boyutunu sonradan değiştirmek isteyen kullanıcıların tüm cihazı sıfırlaması gerekiyor.",
-   "link": "https://www.webtekno.com/iphone-duo-ilginc-bir-sorun-daha-h228350.html",
-   "image": "https://imgrosetta.webtekno.com/file/695791/695791-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-05T10:10:00+00:00",
-   "url": "/haber/iphone-duo-da-ilginc-bir-sorun-daha-basit-bir-ayari-degistirmek-icin-t-93e3d618/"
   },
   {
    "id": "e2a788a9",
@@ -1018,22 +1029,11 @@
    "title": "Bakan Şimşek: 179 bin 449 kişi net yatırım tutarının tamamını aldı",
    "summary": "Hazine ve Maliye Bakanı Şimşek, \"Tasfiyedeki fonlarda 614 bin 874 hesaba 130,2 milyar lira ödeme yapıldı, 179 bin 449 kişi net yatırım tutarının tamamını aldı\" dedi.",
    "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-179-bin-449-kisi-net-yatirim-tutarinin-tamamini-aldi-962324.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2148000/mehmet-simsek-2149581.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/mehmet-simsek-2501638.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-05T09:08:00+00:00",
    "url": "/haber/bakan-simsek-179-bin-449-kisi-net-yatirim-tutarinin-tamamini-aldi-cdb00055/"
-  },
-  {
-   "id": "62778512",
-   "title": "Gazetecilere fon iddianamesi. İsmail Saymaz ve Murat Ağırel dahil dört isme istenen ceza belli oldu",
-   "summary": "Fon soruşturmasında yalan bilgi yaydıkları iddiasıyla tutuklanan ya da ev hapsinde tutulan dört gazeteci hakkında iddianame düzenlendi.",
-   "link": "https://www.ntv.com.tr/turkiye/gazetecilere-fon-iddianamesi-ismail-saymaz-ve-murat-agirel-dahil-dort-isme-istenen-ceza-belli-oldu-1749505",
-   "image": "https://images.ntv.com.tr/images/saymaz-ağırel-485180.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-05T09:03:10+00:00",
-   "url": "/haber/gazetecilere-fon-iddianamesi-ismail-saymaz-ve-murat-agirel-dahil-dort-62778512/"
   },
   {
    "id": "bb95677d",
