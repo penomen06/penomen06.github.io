@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-05T15:47:06.864645+00:00",
+ "updated": "2026-11-05T16:01:09.133686+00:00",
  "items": [
+  {
+   "id": "a79d0bb7",
+   "title": "KKTC Dışişleri Bakanlığından \"Avrupa Komisyonu 2026 Türkiye Raporu\"na tepki",
+   "summary": "KKTC Dışişleri Bakanlığı, Avrupa Komisyonunun 2026 Türkiye Raporu'nda KKTC ve Kıbrıs Türk halkının meşru haklarına yönelik ithamları \"taraflı, gerçeklerden kopuk ve haksız\" olarak nitelendirerek reddetti.",
+   "link": "https://www.aa.com.tr/tr/gundem/kktc-disisleri-bakanligindan-avrupa-komisyonu-2026-turkiye-raporuna-tepki/4113226",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T15:57:28+00:00",
+   "url": "/haber/kktc-disisleri-bakanligindan-avrupa-komisyonu-2026-turkiye-raporu-na-t-a79d0bb7/"
+  },
+  {
+   "id": "13cb4b27",
+   "title": "Afyonkarahisar'da silahlı saldırı. Üç ayrı noktada 8 ceset bulundu",
+   "summary": "Afyonkarahisar'da farklı noktalarda 8 ceset bulundu. 1 kişinin ise ağır yaralı olduğu öğrenildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-1749559",
+   "image": "https://images.ntv.com.tr/images/afyon-1-371693.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-05T15:56:44+00:00",
+   "url": "/haber/afyonkarahisar-da-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-13cb4b27/"
+  },
+  {
+   "id": "20424e14",
+   "title": "Nova Launcher açık ara en sevilen başlatıcı",
+   "summary": "Nova Launcher, 1.400'den fazla oyun alan okur anketinde yüzde 36,2 ile açık ara birinci oldu. İkinci sıradaki Smart Launcher yalnızca yüzde 16,3'te kaldı.",
+   "link": "https://shiftdelete.net/nova-launcher-anketi-android-launcher-sonuclari",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nova-launcher-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T15:54:43+00:00",
+   "url": "/haber/nova-launcher-acik-ara-en-sevilen-baslatici-20424e14/"
+  },
+  {
+   "id": "bfb961ae",
+   "title": "Gazze Sivil Savunma Müdürlüğü, çadırlarda kalan Filistinlileri şiddetli yağış ve rüzgara karşı uyardı",
+   "summary": "Gazze Sivil Savunma Müdürlüğü, cuma günü beklenen şiddetli yağış ve rüzgarlara karşı uyarıda bulunarak, bu durumun İsrail saldırıları nedeniyle çadırlarda kalan Filistinlileri tehdit ettiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazze-sivil-savunma-mudurlugu-cadirlarda-kalan-filistinlileri-siddetli-yagis-ve-ruzgara-karsi-uyardi/4113221",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T15:52:47+00:00",
+   "url": "/haber/gazze-sivil-savunma-mudurlugu-cadirlarda-kalan-filistinlileri-siddetli-bfb961ae/"
+  },
+  {
+   "id": "4bf27085",
+   "title": "GTA 6'dan 39 yeni ekran görüntüsü geldi",
+   "summary": "Rockstar Games, GTA 6'nın çıkışına iki haftadan kısa süre kala 39 yeni ekran görüntüsü paylaştı. Lansman galerisinde Jason, Lucia ve Vice City öne çıkıyor.",
+   "link": "https://shiftdelete.net/gta-6-39-yeni-ekran-goruntusu-lansman-galerisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/gta-6-lansman-galerisi-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T15:50:33+00:00",
+   "url": "/haber/gta-6-dan-39-yeni-ekran-goruntusu-geldi-4bf27085/"
+  },
+  {
+   "id": "b1e806fa",
+   "title": "Interpol tarafından aranan firari hükümlü Mersin'de yakalandı",
+   "summary": "Interpol tarafından aranan ve hakkında 9 yıl 7 ay hapis cezası olan firari hükümlü Mersin'deki Çukurova Uluslararası Havalimanı'nda yakalandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/interpol-tarafindan-aranan-firari-hukumlu-mersinde-yakalandi-/4113215",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T15:48:50+00:00",
+   "url": "/haber/interpol-tarafindan-aranan-firari-hukumlu-mersin-de-yakalandi-b1e806fa/"
+  },
+  {
+   "id": "41a96326",
+   "title": "Intel Nova Lake-S işlemcilerde 90 derece sınırı: Frekans düşebilir",
+   "summary": "Intel'in yeni nesil Nova Lake-S işlemcileri için sıcaklığa bağlı yeni bir frekans sınırı gündemde. İddiaya göre sıcaklık 90 dereceyi geçtiğinde işlemciler 5,1 GHz'i aşamayacak.",
+   "link": "https://www.donanimhaber.com/intel-nova-lake-s-islemcilerde-90-derece-siniri-frekans-dusuyor--212520",
+   "image": "https://www.donanimhaber.com/images/images/haber/212520/1200x675intel-nova-lake-s-islemcilerde-90-derece-siniri-frekans-dusuyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-05T15:47:00+00:00",
+   "url": "/haber/intel-nova-lake-s-islemcilerde-90-derece-siniri-frekans-dusebilir-41a96326/"
+  },
+  {
+   "id": "01a75098",
+   "title": "\"5. Göbeklitepe Uluslararası Film Festivali\" başladı",
+   "summary": "Şanlıurfa Büyükşehir Belediyesi desteğiyle, Göbeklitepe Kültür Sanat Derneği tarafından bu yıl beşincisi düzenlenen \"Göbeklitepe Uluslararası Film Festivali\" başladı.",
+   "link": "https://www.aa.com.tr/tr/kultur/5-gobeklitepe-uluslararasi-film-festivali-basladi/4113209",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T15:41:13+00:00",
+   "url": "/haber/5-gobeklitepe-uluslararasi-film-festivali-basladi-01a75098/"
+  },
   {
    "id": "0e0e5b1f",
    "title": "Kasım 2026'da çıkması beklenen telefonlar",
@@ -33,17 +121,6 @@
    "category": "gundem",
    "date": "2026-11-05T15:31:38+00:00",
    "url": "/haber/dunya-bankasi-gelismekte-olan-ulkelerin-dis-borcu-9-4-trilyon-dolarla-daf035c5/"
-  },
-  {
-   "id": "13cb4b27",
-   "title": "Afyonkarahisar'da silahlı saldırı. Üç ayrı noktada 8 ceset bulundu",
-   "summary": "Afyonkarahisar'da farklı noktalarda 8 ceset bulundu. 1 kişinin ise ağır yaralı olduğu öğrenildi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-1749559",
-   "image": "https://images.ntv.com.tr/images/afyon-1-371693.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-05T15:31:31+00:00",
-   "url": "/haber/afyonkarahisar-da-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-13cb4b27/"
   },
   {
    "id": "006721c4",
@@ -431,17 +508,6 @@
    "url": "/haber/turkiye-ve-ab-den-vize-mesajlari-ankara-muafiyet-bruksel-uyum-istiyor-e908c94c/"
   },
   {
-   "id": "34c0904c",
-   "title": "Afyonkarahisar'da silahla vurulan 7 kişi hayatını kaybetti, 1 kişi yaralandı",
-   "summary": "Afyonkarahisar'ın İhsaniye ilçesinde silahla vurulan 7 kişi hayatını kaybetti, 1 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/afyonkarahisarda-silahla-vurulan-7-kisi-hayatini-kaybetti-1-kisi-yaralandi/4113099",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T14:04:33+00:00",
-   "url": "/haber/afyonkarahisar-da-silahla-vurulan-7-kisi-hayatini-kaybetti-1-kisi-yara-34c0904c/"
-  },
-  {
    "id": "a1d899d7",
    "title": "Bosch çip işini ayırıyor, 2030 hedefi 5 milyar euro",
    "summary": "Bosch, yarı iletken işini ayrı bir bölüme dönüştürerek çip pazarındaki konumunu güçlendirmeye hazırlanıyor. Şirket, otomotiv dışındaki sektörlerde de büyümeyi hedefliyor.",
@@ -464,17 +530,6 @@
    "url": "/haber/whatsapp-a-yapay-zekali-fotograf-genisletme-geliyor-b760802a/"
   },
   {
-   "id": "92115d3e",
-   "title": "BoE Başkanı Bailey, faiz patikasına ilişkin Orta Doğu'daki gelişmelere işaret etti",
-   "summary": "İngiltere Merkez Bankası (BoE) Başkanı Andrew Bailey, Orta Doğu'daki savaş sonrası artan enerji fiyatlarının enflasyonist baskılara yol açtığını belirterek, Orta Doğu'da barış sağlanmadığı sürece faiz artışının devam…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/boe-baskani-bailey-faiz-patikasina-iliskin-orta-dogudaki-gelismelere-isaret-etti/4113085",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T13:54:28+00:00",
-   "url": "/haber/boe-baskani-bailey-faiz-patikasina-iliskin-orta-dogu-daki-gelismelere-92115d3e/"
-  },
-  {
    "id": "0871bb57",
    "title": "Avrupa hava sahasında bomba alarmı: En az 25 uçuş etkilendi",
    "summary": "Avrupa'da ikinci kez yaşanan bomba ihbarı dalgası en az 25 uçuşu etkiledi. Bazı uçaklar yönlendirilirken savaş uçakları havalandı. İncelemelerde patlayıcı bulunamadı.",
@@ -495,17 +550,6 @@
    "category": "gundem",
    "date": "2026-11-05T13:53:16+00:00",
    "url": "/haber/omrunuzun-kisa-olacagini-gosterebilecek-bir-test-olsa-yaptirir-miydini-570f5f45/"
-  },
-  {
-   "id": "03cd7455",
-   "title": "Bakan Kurum: Görevimiz deprem gelmeden önce hazır olmak",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Deprem bize 'Şu gün, şu saatte geliyorum.' demiyor, takvim göndermiyor, saat vermiyor. O halde bizim görevimiz nedir? Deprem gelmeden önce hazır olmak.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-gorevimiz-deprem-gelmeden-once-hazir-olmak/4113072",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T13:48:59+00:00",
-   "url": "/haber/bakan-kurum-gorevimiz-deprem-gelmeden-once-hazir-olmak-03cd7455/"
   },
   {
    "id": "8be96f14",
@@ -684,28 +728,6 @@
    "url": "/haber/huawei-mate-80-air-aralikta-tanitilabilir-beceec25/"
   },
   {
-   "id": "0be7fa54",
-   "title": "Moto Buds Ultra 27 ve Watch Fit 27 tanıtıldı",
-   "summary": "Motorola, Signature 27 ile birlikte Moto Buds Ultra 27 kulaklığını ve Moto Watch Fit 27 akıllı saatini duyurdu. İkilinin fiyatı ve çıkış tarihi henüz belli değil.",
-   "link": "https://shiftdelete.net/moto-buds-ultra-27-moto-watch-fit-27-ozellikleri",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/24568c50254f8268e7f4c5414bd5ad8999c385d9.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T13:20:54+00:00",
-   "url": "/haber/moto-buds-ultra-27-ve-watch-fit-27-tanitildi-0be7fa54/"
-  },
-  {
-   "id": "0a2d3465",
-   "title": "Motorola Signature 27 tanıtıldı: 7.000 mAh pil",
-   "summary": "Motorola, Snapdragon 8 Elite Extreme Gen 6 işlemcili, 7.000 mAh pilli ve yedi yıl Android güncellemesi alacak yeni amiral gemisi Signature 27'yi resmen tanıttı.",
-   "link": "https://shiftdelete.net/motorola-signature-27-fiyati-ozellikleri",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/eab8c2d00e129dfce245db6370d0b6a50e158dc4.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T13:20:23+00:00",
-   "url": "/haber/motorola-signature-27-tanitildi-7-000-mah-pil-0a2d3465/"
-  },
-  {
    "id": "91b9c386",
    "title": "1.600 dolarlık amiral gemisi “Motorola Signature 27” tanıtıldı",
    "summary": "Motorola’nın yeni amiral gemisi Signature 27, 1.600 dolarlık fiyatıyla son dönemde çıkan en pahalı telefonlardan biri oldu. Gücünü Snapdragon 8 Elite Extreme Gen 6 işlemciden alan cihazda, 6,8 inç boyutunda çift…",
@@ -770,17 +792,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T12:52:00+00:00",
    "url": "/haber/toyota-cin-de-121-bini-askin-elektrikli-araci-geri-cagiriyor-42d9432e/"
-  },
-  {
-   "id": "88ed5939",
-   "title": "60 saniyede bugün (05 Kasım 2026)",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-05-kasim-2026/4112997",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T12:51:59+00:00",
-   "url": "/haber/60-saniyede-bugun-05-kasim-2026-88ed5939/"
   },
   {
    "id": "7ae0085b",
@@ -913,17 +924,6 @@
    "category": "gundem",
    "date": "2026-11-05T11:47:57+00:00",
    "url": "/haber/fenerbahce-liverpool-maci-oncesi-karaborsa-bilet-operasyonu-37bdae0e/"
-  },
-  {
-   "id": "59297d29",
-   "title": "En çok indirilen PlayStation oyunları açıklandı (Ekim 2026)",
-   "summary": "Sony, Ekim 2026'da PlayStation Store üzerinden en çok indirilen oyunları açıkladı. Call of Duty: Modern Warfare 4, PS5 listelerinde zirveye yerleşti. İşte tüm kategorilerde öne çıkan yapımlar...",
-   "link": "https://www.donanimhaber.com/en-cok-indirilen-playstation-oyunlari-aciklandi-ekim-2026--212505",
-   "image": "https://www.donanimhaber.com/images/images/haber/212505/1200x675en-cok-indirilen-playstation-oyunlari-aciklandi-ekim-2026.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-05T11:45:00+00:00",
-   "url": "/haber/en-cok-indirilen-playstation-oyunlari-aciklandi-ekim-2026-59297d29/"
   },
   {
    "id": "c08325b3",
