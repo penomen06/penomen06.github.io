@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-05T16:30:58.976124+00:00",
+ "updated": "2026-11-05T17:01:05.952813+00:00",
  "items": [
+  {
+   "id": "b1918643",
+   "title": "Arif Ahmet Denizolgun'un ölümüne ilişkin Adli Tıp raporu çıktı",
+   "summary": "Eski Bakan Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmada, Adli Tıp Kurumu incelemesinde ölümünün yüksek tansiyona bağlı beyin kanaması sonucu meydana geldiği bildirildi.",
+   "link": "https://www.ntv.com.tr/turkiye/arif-ahmet-denizolgunun-olumune-iliskin-adli-tip-raporu-cikti-1749569",
+   "image": "https://images.ntv.com.tr/images/Ahmet-Arif-Denizolgun-908985-916460.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-05T17:00:24+00:00",
+   "url": "/haber/arif-ahmet-denizolgun-un-olumune-iliskin-adli-tip-raporu-cikti-b1918643/"
+  },
+  {
+   "id": "bbd1485d",
+   "title": "İran: UAEA Başkanı Grossi, düşmanımızın bir unsuru haline geldi",
+   "summary": "İran Atom Enerjisi Kurumu Başkanı Muhammed İslami, Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Mariano Grossi'yi gizli veya hassas bilgileri İran'ın düşmanlarıyla paylaşmakla ve \"düşmanın bir unsuru haline…",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-uaea-baskani-grossi-dusmanimizin-bir-unsuru-haline-geldi/4113283",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T16:57:03+00:00",
+   "url": "/haber/iran-uaea-baskani-grossi-dusmanimizin-bir-unsuru-haline-geldi-bbd1485d/"
+  },
+  {
+   "id": "b934bb17",
+   "title": "Google Play'e oyun hediye etme özelliği geliyor",
+   "summary": "Google Play hediye özelliği, Play Store'un yeni sürümünün kodlarında ortaya çıktı. Ücretli oyunları arkadaşlara not ekleyerek göndermek mümkün olabilecek.",
+   "link": "https://shiftdelete.net/google-play-hediye-ozelligi-oyun-gonderme",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/google-play-hediye-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T16:55:00+00:00",
+   "url": "/haber/google-play-e-oyun-hediye-etme-ozelligi-geliyor-b934bb17/"
+  },
+  {
+   "id": "a2d308db",
+   "title": "AMD'den Samsung'a büyük sipariş: 2nm HBM üretimi 2030'da başlıyor",
+   "summary": "Samsung'un henüz inşaatına başlamadığı Taylor Fab 2 tesisinin 2nm üretim kapasitesi şimdiden doldu. Siparişlerin büyük bölümünün AMD'den geldiği belirtiliyor.",
+   "link": "https://www.donanimhaber.com/amd-den-samsung-a-buyuk-siparis-2nm-hbm-uretimi-2030-da-basliyor--212511",
+   "image": "https://www.donanimhaber.com/images/images/haber/212511/1200x675amd-den-samsung-a-buyuk-siparis-2nm-hbm-uretimi-2030-da-basliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-05T16:54:00+00:00",
+   "url": "/haber/amd-den-samsung-a-buyuk-siparis-2nm-hbm-uretimi-2030-da-basliyor-a2d308db/"
+  },
+  {
+   "id": "dd38f90b",
+   "title": "Instagram Edits Mac'e geldi: CapCut'a rakip",
+   "summary": "Instagram Edits Mac masaüstü sürümü ayda 50 milyondan fazla kullanıcının bir numaralı talebiydi. Mac'te ücretsiz geldi: CapCut'a gerçek bir rakip olur mu?",
+   "link": "https://shiftdelete.net/instagram-edits-mac",
+   "image": "https://shiftdelete.net/static/img/content/26-11/05/instagram-edits-mac.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T16:47:32+00:00",
+   "url": "/haber/instagram-edits-mac-e-geldi-capcut-a-rakip-dd38f90b/"
+  },
+  {
+   "id": "13cb4b27",
+   "title": "Afyonkarahisar'da silahlı saldırı. Üç ayrı noktada 8 ceset bulundu",
+   "summary": "Afyonkarahisar'da farklı noktalarda 8 ceset bulundu. 1 kişinin ise ağır yaralı olduğu öğrenildi. Saldırıları gerçekleştiren şüpheli aranıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-1749559",
+   "image": "https://images.ntv.com.tr/images/afyonnmansetcopy-537508(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-05T16:41:43+00:00",
+   "url": "/haber/afyonkarahisar-da-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-13cb4b27/"
+  },
+  {
+   "id": "70dfb3aa",
+   "title": "YouTube'un alt çubuğu Liquid Glass görünümünde",
+   "summary": "Google, YouTube gezinme çubuğunu şeffaf ve yüzen bir tasarıma taşımayı deniyor. Liquid Glass esintili görünüm şimdilik çok sınırlı bir testte.",
+   "link": "https://shiftdelete.net/youtube-gezinme-cubugu-liquid-glass",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/youtube-gezinme-cubugu-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T16:40:00+00:00",
+   "url": "/haber/youtube-un-alt-cubugu-liquid-glass-gorunumunde-70dfb3aa/"
+  },
+  {
+   "id": "59513193",
+   "title": "One UI 9'da yeni sorun: İnternet kopuyor, SIM kart algılanmıyor!",
+   "summary": "Bazı Samsung telefon kullanıcıları, One UI 9 güncellemesinden sonra mobil veri, Wi-Fi ve SIM kart algılama gibi sorunlar yaşadıklarını dile getiriyor. Daha kötüsü kesin çözüm yolu yok!",
+   "link": "https://www.donanimhaber.com/one-ui-9-da-yeni-sorun-internet-kopuyor-sim-kart-algilanmiyor--212518",
+   "image": "https://www.donanimhaber.com/images/images/haber/212518/1200x675one-ui-9-da-yeni-sorun-internet-kopuyor-sim-kart-algilanmiyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-05T16:32:00+00:00",
+   "url": "/haber/one-ui-9-da-yeni-sorun-internet-kopuyor-sim-kart-algilanmiyor-59513193/"
+  },
+  {
+   "id": "550a3f3e",
+   "title": "Arif Ahmet Denizolgun'un ölümüne ilişkin Adli Tıp raporu çıktı",
+   "summary": "Eski ulaştırma bakanlarından Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturma kapsamında, Adli Tıp Kurumunca veriler üzerinde yapılan incelemede ölümünün yüksek tansiyona bağlı beyin kanaması sonucu meydana geldiği…",
+   "link": "https://www.aa.com.tr/tr/gundem/arif-ahmet-denizolgunun-olumune-iliskin-adli-tip-raporu-cikti/4113260",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T16:26:46+00:00",
+   "url": "/haber/arif-ahmet-denizolgun-un-olumune-iliskin-adli-tip-raporu-cikti-550a3f3e/"
+  },
   {
    "id": "3babf826",
    "title": "Altman: Musk güç yoğunlaşmasından endişe ediyor",
@@ -11,17 +110,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T16:25:00+00:00",
    "url": "/haber/altman-musk-guc-yogunlasmasindan-endise-ediyor-3babf826/"
-  },
-  {
-   "id": "13cb4b27",
-   "title": "Afyonkarahisar'da silahlı saldırı. Üç ayrı noktada 8 ceset bulundu",
-   "summary": "Afyonkarahisar'da farklı noktalarda 8 ceset bulundu. 1 kişinin ise ağır yaralı olduğu öğrenildi. Saldırıları gerçekleştiren şüpheli aranıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-1749559",
-   "image": "https://images.ntv.com.tr/images/afyonnmansetcopy-537508(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-05T16:22:34+00:00",
-   "url": "/haber/afyonkarahisar-da-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-13cb4b27/"
   },
   {
    "id": "a2f04dcd",
@@ -365,6 +453,17 @@
    "url": "/haber/iranli-uzmanlara-gore-trump-in-kongre-de-cogunlugu-kaybetmesi-iran-a-s-876b8014/"
   },
   {
+   "id": "e94722b5",
+   "title": "Gazzeli anne, eşi ve kızını tedavi için Mısır'a uğurladıktan sonra döndüğü çadırda İsrail ateşiyle öldürüldü",
+   "summary": "Gazze Şeridi'nde Filistinli kadın, tedavi için Mısır'a gidecek eşi ve kızıyla vedalaştıktan sonra döndüğü çadırında İsrail ordusunun açtığı ateş sonucu hayatını kaybetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzeli-anne-esi-ve-kizini-tedavi-icin-misira-ugurladiktan-sonra-dondugu-cadirda-israil-atesiyle-olduruldu/4113150",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T14:47:44+00:00",
+   "url": "/haber/gazzeli-anne-esi-ve-kizini-tedavi-icin-misir-a-ugurladiktan-sonra-dond-e94722b5/"
+  },
+  {
    "id": "48f8766c",
    "title": "Avrupa'da en az 18 uçak bomba ihbarından etkilendi",
    "summary": "Avrupa genelinde en az 18 uçak, güvenlik tehdidi ve bomba ihbarı sebebiyle acil durum alarmı verdi. Bazı uçaklar güzergah değiştirdi. Bazıları askeri kuvvetler eşliğinde iniş yapabildi. Bu hafta, Avrupa'nın farklı…",
@@ -420,17 +519,6 @@
    "url": "/haber/you-can-see-everything-uzaya-gidiyor-belgeseli-avrupa-dan-once-astrono-b5b0e8f5/"
   },
   {
-   "id": "4935e79f",
-   "title": "Dışişleri Bakanı Fidan, İranlı mevkidaşı Erakçi ile telefonda görüştü",
-   "summary": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Erakçi ile İran ile ABD arasındaki müzakere sürecini görüştü.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-iranli-mevkidasi-erakci-ile-telefonda-gorustu/4113141",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T14:35:15+00:00",
-   "url": "/haber/disisleri-bakani-fidan-iranli-mevkidasi-erakci-ile-telefonda-gorustu-4935e79f/"
-  },
-  {
    "id": "c799d700",
    "title": "WhatsApp'a Yapay Zekâ Destekli Fotoğraf Genişletme Özelliği Geliyor",
    "summary": "WhatsApp, Meta AI desteğiyle Android'de fotoğrafları 9:16 dikey formatına otomatik genişleten yeni yapay zekâ aracını test etmeye başladı.",
@@ -464,17 +552,6 @@
    "url": "/haber/iphone-un-sevilen-ozelligi-mac-lere-geldi-canli-etkinlikler-menu-cubug-4ff277d5/"
   },
   {
-   "id": "70cdde56",
-   "title": "İran Ordusu: Hürmüz Boğazı'nın doğusunda 2 petrol tankeri deniz mayınlarına çarptı",
-   "summary": "İran Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın doğusunda deniz mayınlarına çarpan 2 petrol tankerinin alev aldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinin-dogusunda-2-petrol-tankeri-deniz-mayinlarina-carpti/4113131",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T14:30:13+00:00",
-   "url": "/haber/iran-ordusu-hurmuz-bogazi-nin-dogusunda-2-petrol-tankeri-deniz-mayinla-70cdde56/"
-  },
-  {
    "id": "f934d7fe",
    "title": "Google’ı Tedirgin Edecek Rakam: ChatGPT’nin Arama Hacmi Google’ın Beşte Birine Ulaştı",
    "summary": "OpenAI’a göre ChatGPT’nin arama hacmi, Google’ın beşte birine ulaştı. Haftalık 1,2 milyar aktif kullanıcıya ulaşan platform, internette bilgi arama alışkanlıklarıyla birlikte arama motoru pazarındaki dengeleri de…",
@@ -497,39 +574,6 @@
    "url": "/haber/turkiye-de-satilan-en-ucuz-elektrikli-otomobiller-2026-kasim-guncel-5943364a/"
   },
   {
-   "id": "09882c83",
-   "title": "PS5 satışları %35 düştü, PlayStation kar etti",
-   "summary": "PS5 satışları ikinci çeyrekte 4,0 milyondan 2,6 milyon adede indi. Buna rağmen PlayStation bölümü yazılım ve hizmet gelirleriyle güçlü bir çeyrek geçirdi.",
-   "link": "https://shiftdelete.net/ps5-satislari-dustu-playstation-kar-etti",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/def0b67ec4c3d778544430f59c381ab897705e46.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T14:24:44+00:00",
-   "url": "/haber/ps5-satislari-35-dustu-playstation-kar-etti-09882c83/"
-  },
-  {
-   "id": "7672bdc5",
-   "title": "İçişleri Bakanı Çiftçi, Suudi Arabistanlı mevkidaşıyla görüştü",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, Suudi Arabistan İçişleri Bakanı Prens Abdülaziz bin Suud bin Nayif Al Suud ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-suudi-arabistanli-mevkidasiyla-gorustu/4113118",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T14:23:34+00:00",
-   "url": "/haber/icisleri-bakani-ciftci-suudi-arabistanli-mevkidasiyla-gorustu-7672bdc5/"
-  },
-  {
-   "id": "78bd4818",
-   "title": "Konum Nasıl Atılır? WhatsApp, iPhone ve Android",
-   "summary": "Telefonunuzdan konum atmak 1 dakikada biter: WhatsApp, Google Haritalar veya Mesajlar ile mevcut ya da canlı konum paylaşabilirsiniz. Hangi yöntem size uyar?",
-   "link": "https://shiftdelete.net/konum-nasil-atilir",
-   "image": "/static/img/content/26-11/05/konum-nasil-atilir-whatsapp-iphone-android.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T14:23:12+00:00",
-   "url": "/haber/konum-nasil-atilir-whatsapp-iphone-ve-android-78bd4818/"
-  },
-  {
    "id": "3561a747",
    "title": "Cristiano Ronaldo milli takım kariyerini noktaladı",
    "summary": "Portekiz futbolunun efsane ismi Cristiano Ronaldo, milli takım kariyerini noktaladığını açıkladı.",
@@ -550,17 +594,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T14:17:00+00:00",
    "url": "/haber/iphone-duo-stokcularin-elinde-patladi-ikinci-el-fiyati-da-dusuyor-0bdc2f68/"
-  },
-  {
-   "id": "26270da5",
-   "title": "Apple beş yeni ürünü yarın satışa çıkarıyor",
-   "summary": "Apple, ön siparişlerin ardından beş yeni ürünü yarın satışa çıkarıyor. İlk dokunmatik ekranlı MacBook Pro OLED modelleri de bu listede yer alıyor. Fiyatlar 699 dolardan başlıyor.",
-   "link": "https://shiftdelete.net/macbook-pro-oled-dokunmatik-yarin-satista",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/a17cdb1ce49d3d1eeb30fedd6634557d7ade8061.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T14:09:34+00:00",
-   "url": "/haber/apple-bes-yeni-urunu-yarin-satisa-cikariyor-26270da5/"
   },
   {
    "id": "08b6d5d7",
@@ -794,17 +827,6 @@
    "url": "/haber/suc-yapisi-tespit-edilen-fon-krizinde-simdiye-kadar-neler-oldu-ne-kada-3110d56b/"
   },
   {
-   "id": "423eebdd",
-   "title": "Rus hackerlardan iPhone ve Android kullanıcılarına büyük saldırı",
-   "summary": "Rus hackerlar, sahte internet siteleri ve güvenlik açıkları üzerinden iPhone ve Android kullanıcılarını hedef aldı. Saldırganlar, mesajlardan şifrelere kadar kişisel verileri çalmaya çalıştı.",
-   "link": "https://www.donanimhaber.com/rus-hackerlardan-iphone-ve-android-kullanicilarina-buyuk-saldiri--212506",
-   "image": "https://www.donanimhaber.com/images/images/haber/212506/1200x675rus-hackerlardan-iphone-ve-android-kullanicilarina-buyuk-saldiri.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-05T13:13:00+00:00",
-   "url": "/haber/rus-hackerlardan-iphone-ve-android-kullanicilarina-buyuk-saldiri-423eebdd/"
-  },
-  {
    "id": "ff18f513",
    "title": "Spotify, sesli kitapları Türkiye’ye de getirdi",
    "summary": "Bu konuda Spotify Türkiye tarafından yapılan açıklamada, “Spotify, sesli kitapların 5 Kasım itibarıyla Türkiye’deki dinleyicilerin kullanımına sunulduğunu duyurdu. Türkiye lansmanı, Spotify’ın sesli kitap hizmetini 2026…",
@@ -825,17 +847,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T13:02:11+00:00",
    "url": "/haber/apple-dan-labrinth-in-dokunmatik-ekranli-macbook-pro-ile-sifirdan-sark-9f02cba0/"
-  },
-  {
-   "id": "42d9432e",
-   "title": "Toyota, Çin’de 121 bini aşkın elektrikli aracı geri çağırıyor",
-   "summary": "Toyota, Çin’de bZ3X ve bZ7 modellerini kapsayan üç geri çağırma başlattı. Süspansiyon bağlantıları, frenleme ve direksiyon kontrolüyle ilgili sorunlar ücretsiz onarım ve güncellemelerle giderilecek.",
-   "link": "https://www.donanimhaber.com/toyota-cin-de-121-bini-askin-elektrikli-araci-geri-cagiriyor--212523",
-   "image": "https://www.donanimhaber.com/images/images/haber/212523/1200x675toyota-cin-de-121-bini-askin-elektrikli-araci-geri-cagiriyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-05T12:52:00+00:00",
-   "url": "/haber/toyota-cin-de-121-bini-askin-elektrikli-araci-geri-cagiriyor-42d9432e/"
   },
   {
    "id": "7ae0085b",
@@ -1034,17 +1045,6 @@
    "category": "gundem",
    "date": "2026-11-05T09:41:33+00:00",
    "url": "/haber/surucusunun-fren-yerine-gaza-bastigi-cip-bina-bosluguna-dustu-42f894d0/"
-  },
-  {
-   "id": "156f9f51",
-   "title": "Erdoğan'dan fon soruşturması açıklaması: \"Ummadığınız insanlar bu işlerin içine girmiş\"",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon soruşturmasına ilişkin \"Hiç ummadığınız insanlar, bu işlerin içerisine girmişler.\" diyerek sürecin yakından takip edildiğine işaret etti.",
-   "link": "https://www.ntv.com.tr/turkiye/erdogandan-fon-sorusturmasi-aciklamasi-ummadiginiz-insanlar-bu-islerin-icine-girmis-1749513",
-   "image": "https://images.ntv.com.tr/images/CumhurbaşkanıErdoğan-269020",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-05T09:29:12+00:00",
-   "url": "/haber/erdogan-dan-fon-sorusturmasi-aciklamasi-ummadiginiz-insanlar-bu-isleri-156f9f51/"
   },
   {
    "id": "cdb00055",
