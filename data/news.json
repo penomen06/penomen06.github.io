@@ -1,17 +1,6 @@
 {
- "updated": "2026-11-05T01:01:04.247086+00:00",
+ "updated": "2026-11-05T01:30:50.213943+00:00",
  "items": [
-  {
-   "id": "1a4f3d6d",
-   "title": "Son dakika Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 05 Kasım 2026",
-   "summary": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 05 Kasım 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-adanada-deprem-mi-oldu-az-once-deprem-adanada-nerede-oldu-adana-deprem-kandilli-ve-afad-son-depremler-listesi-05-kasim-2026-1749433",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-05T01:00:00+00:00",
-   "url": "/haber/son-dakika-adana-da-deprem-mi-oldu-az-once-deprem-adana-da-nerede-oldu-1a4f3d6d/"
-  },
   {
    "id": "29602010",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Kasım 2026",
@@ -20,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-05T01:00:00+00:00",
+   "date": "2026-11-05T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-29602010/"
   },
   {
@@ -31,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-05034906-394498.png",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-05T00:50:36+00:00",
+   "date": "2026-11-05T01:23:32+00:00",
    "url": "/haber/dinar-da-4-1-buyuklugunde-deprem-0360ffb5/"
+  },
+  {
+   "id": "1a4f3d6d",
+   "title": "Son dakika Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 05 Kasım 2026",
+   "summary": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 05 Kasım 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-adanada-deprem-mi-oldu-az-once-deprem-adanada-nerede-oldu-adana-deprem-kandilli-ve-afad-son-depremler-listesi-05-kasim-2026-1749433",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-05T01:00:00+00:00",
+   "url": "/haber/son-dakika-adana-da-deprem-mi-oldu-az-once-deprem-adana-da-nerede-oldu-1a4f3d6d/"
   },
   {
    "id": "d9387937",
