@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-05T18:01:06.577880+00:00",
+ "updated": "2026-11-05T18:30:56.181991+00:00",
  "items": [
+  {
+   "id": "13cb4b27",
+   "title": "Afyonkarahisar'da 8 kişiyi katleden saldırgan yakalandı",
+   "summary": "Afyonkarahisar'da 8 kişiyi öldüren, 1 kişiyi de ağır yaralayan şahıs, Eskişehir'de yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-1749559",
+   "image": "https://images.ntv.com.tr/images/afyonnmansetcopy-537508(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-05T18:30:30+00:00",
+   "url": "/haber/afyonkarahisar-da-8-kisiyi-katleden-saldirgan-yakalandi-13cb4b27/"
+  },
+  {
+   "id": "53234c43",
+   "title": "PlayStation Ekim 2026 indirme listesi açıklandı",
+   "summary": "Sony, PlayStation Store'da Ekim 2026'da en çok indirilen oyunları duyurdu. PlayStation Ekim 2026 indirme listesinde PS5 tarafında Call of Duty: Modern Warfare 4 birinci oldu.",
+   "link": "https://shiftdelete.net/playstation-ekim-2026-indirme-listesi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/playstation-ekim-2026-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T18:25:00+00:00",
+   "url": "/haber/playstation-ekim-2026-indirme-listesi-aciklandi-53234c43/"
+  },
+  {
+   "id": "f70fb4ec",
+   "title": "PS Store \"Black Friday\" indirimleri başladı: İşte öne çıkan oyunlar",
+   "summary": "Playstation Store'da başlayan \"Black Friday\" indirimleri kapsamında birçok oyun yüzde %75'e varan indirimle sunuluyor. işte Playstation Store'da indirime giren oyunlar...",
+   "link": "https://www.donanimhaber.com/ps-store-black-friday-indirimleri-basladi-iste-firsat-oyunlar--212538",
+   "image": "https://www.donanimhaber.com/images/images/haber/212538/1200x675ps-store-black-friday-indirimleri-basladi-iste-firsat-oyunlar.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-05T18:22:00+00:00",
+   "url": "/haber/ps-store-black-friday-indirimleri-basladi-iste-one-cikan-oyunlar-f70fb4ec/"
+  },
+  {
+   "id": "5f3358b5",
+   "title": "Afyon'da en az 8 kişiyi öldüren saldırgan yakalandı",
+   "summary": "Afyonkarahisar Valiliği, ilde meydana gelen silahlı saldırılarda sekiz kişinin hayatını kaybettiğini ve bir kişinin de yaralandığını duyurdu.",
+   "link": "https://www.bbc.com/turkce/articles/cm8xzzl5q98xo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67e6/live/a50604a0-d942-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-05T18:13:34+00:00",
+   "url": "/haber/afyon-da-en-az-8-kisiyi-olduren-saldirgan-yakalandi-5f3358b5/"
+  },
+  {
+   "id": "e797237e",
+   "title": "RTX 5080 DirectX örnek testinde 221 kat hızlandı",
+   "summary": "Microsoft'un yeni DirectX Raytracing özelliği, RTX 5080 DXR testinde sentetik bir senaryoda kare hızını 1,4 FPS'ten 310 FPS'e taşıdı. Sonuçlar oyunlara birebir yansımayabilir.",
+   "link": "https://shiftdelete.net/rtx-5080-dxr-221-kat-fps-artisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/rtx-5080-dxr-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T18:10:00+00:00",
+   "url": "/haber/rtx-5080-directx-ornek-testinde-221-kat-hizlandi-e797237e/"
+  },
+  {
+   "id": "d4cf3cc9",
+   "title": "NATO, İHA karşıtı teknolojilerin tedarikini hızlandırmak için yeni pazar yeri oluşturdu",
+   "summary": "NATO, Ankara Zirvesi'nde kabul ettiği \"Drone Edge\" programı kapsamında insansız hava araçlarına (İHA) karşı geliştirilen teknolojilerin tedarikini hızlandırmak amacıyla İHA karşıtı sistemler için yeni bir pazar yeri…",
+   "link": "https://www.aa.com.tr/tr/dunya/nato-iha-karsiti-teknolojilerin-tedarikini-hizlandirmak-icin-yeni-pazar-yeri-olusturdu/4113348",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T18:09:17+00:00",
+   "url": "/haber/nato-iha-karsiti-teknolojilerin-tedarikini-hizlandirmak-icin-yeni-paza-d4cf3cc9/"
+  },
   {
    "id": "33e6389a",
    "title": "İspanya elektrik kesintilerine karşı siber güvenlik kalkanı kuruyor",
@@ -13,17 +79,6 @@
    "url": "/haber/ispanya-elektrik-kesintilerine-karsi-siber-guvenlik-kalkani-kuruyor-33e6389a/"
   },
   {
-   "id": "13cb4b27",
-   "title": "Afyonkarahisar'da silahlı saldırı. Üç ayrı noktada 8 ceset bulundu",
-   "summary": "Afyonkarahisar'da farklı noktalarda 8 ceset bulundu. 1 kişinin ise ağır yaralı olduğu öğrenildi. Saldırıları gerçekleştiren şüpheli aranıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-1749559",
-   "image": "https://images.ntv.com.tr/images/afyonnmansetcopy-537508(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-05T17:57:32+00:00",
-   "url": "/haber/afyonkarahisar-da-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-13cb4b27/"
-  },
-  {
    "id": "777d11ad",
    "title": "Skoda Karoq Yeni Prestige Türkiye'de satışta",
    "summary": "Skoda Karoq Yeni Prestige donanımı Türkiye'de lansmana özel 2.999.900 TL fiyatla satışa çıktı. Hafızalı koltuklar, üç bölgeli klima ve CANTON ses sistemi öne çıkıyor.",
@@ -33,6 +88,17 @@
    "category": "teknoloji",
    "date": "2026-11-05T17:55:00+00:00",
    "url": "/haber/skoda-karoq-yeni-prestige-turkiye-de-satista-777d11ad/"
+  },
+  {
+   "id": "ca9a031a",
+   "title": "ABD borsaları sert düşerken petrol fiyatları yeniden yükselişte",
+   "summary": "Küresel piyasalarda ABD seçimleri sonrası teknoloji hisseleri öncülüğünde sert satışlar yaşanırken, İran-ABD çatışmalarına dair belirsizlikler ve Hürmüz Boğazı'nda tankerlerin alev aldığı yönündeki açıklamalar petrol…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abd-borsalari-sert-duserken-petrol-fiyatlari-yeniden-yukseliste/4113333",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T17:52:41+00:00",
+   "url": "/haber/abd-borsalari-sert-duserken-petrol-fiyatlari-yeniden-yukseliste-ca9a031a/"
   },
   {
    "id": "b7de3a9e",
@@ -332,6 +398,17 @@
    "url": "/haber/murad-aesa-radari-herikks-e-ilk-kez-baglandi-7859ac47/"
   },
   {
+   "id": "1b0ce509",
+   "title": "Afyonkarahisar'da silahlı saldırı: 8 ölü",
+   "summary": "Afyonkarahisar'da silahla vurulan 8 kişi hayatını kaybetti, 1 kişi ağır yaralandı. Saldırgan Eskişehir'in Seyitgazi ilçesinde yakalandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/afyonkarahisarda-silahli-saldiri-8-olu-962362.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/cinayet-aa-2501640.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-05T16:07:00+00:00",
+   "url": "/haber/afyonkarahisar-da-silahli-saldiri-8-olu-1b0ce509/"
+  },
+  {
    "id": "14c6ffae",
    "title": "BYD'nin Rolls-Royce'a rakip lüks elektrikli sedanı sızdırıldı: İşte Yangwang Altior",
    "summary": "BYD'nin Rolls-Royce, Mercedes-Maybach ve Bentley gibi üst segment araçlarla rekabet edecek yeni elektrikli lüks sedan modeli resmi tanıtımına kısa süre kala kamuflajsız olarak görüntülendi.",
@@ -398,17 +475,6 @@
    "url": "/haber/a101-katalog-teknolojik-urunlerde-bu-hafta-5-kasim-2026-d4cd964d/"
   },
   {
-   "id": "a79d0bb7",
-   "title": "KKTC Dışişleri Bakanlığından \"Avrupa Komisyonu 2026 Türkiye Raporu\"na tepki",
-   "summary": "KKTC Dışişleri Bakanlığı, Avrupa Komisyonunun 2026 Türkiye Raporu'nda KKTC ve Kıbrıs Türk halkının meşru haklarına yönelik ithamları \"taraflı, gerçeklerden kopuk ve haksız\" olarak nitelendirerek reddetti.",
-   "link": "https://www.aa.com.tr/tr/gundem/kktc-disisleri-bakanligindan-avrupa-komisyonu-2026-turkiye-raporuna-tepki/4113226",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T15:57:28+00:00",
-   "url": "/haber/kktc-disisleri-bakanligindan-avrupa-komisyonu-2026-turkiye-raporu-na-t-a79d0bb7/"
-  },
-  {
    "id": "20424e14",
    "title": "Nova Launcher açık ara en sevilen başlatıcı",
    "summary": "Nova Launcher, 1.400'den fazla oyun alan okur anketinde yüzde 36,2 ile açık ara birinci oldu. İkinci sıradaki Smart Launcher yalnızca yüzde 16,3'te kaldı.",
@@ -418,17 +484,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T15:54:43+00:00",
    "url": "/haber/nova-launcher-acik-ara-en-sevilen-baslatici-20424e14/"
-  },
-  {
-   "id": "bfb961ae",
-   "title": "Gazze Sivil Savunma Müdürlüğü, çadırlarda kalan Filistinlileri şiddetli yağış ve rüzgara karşı uyardı",
-   "summary": "Gazze Sivil Savunma Müdürlüğü, cuma günü beklenen şiddetli yağış ve rüzgarlara karşı uyarıda bulunarak, bu durumun İsrail saldırıları nedeniyle çadırlarda kalan Filistinlileri tehdit ettiğini belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/gazze-sivil-savunma-mudurlugu-cadirlarda-kalan-filistinlileri-siddetli-yagis-ve-ruzgara-karsi-uyardi/4113221",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T15:52:47+00:00",
-   "url": "/haber/gazze-sivil-savunma-mudurlugu-cadirlarda-kalan-filistinlileri-siddetli-bfb961ae/"
   },
   {
    "id": "4bf27085",
@@ -453,17 +508,6 @@
    "url": "/haber/intel-nova-lake-s-islemcilerde-90-derece-siniri-frekans-dusebilir-41a96326/"
   },
   {
-   "id": "0e0e5b1f",
-   "title": "Kasım 2026'da çıkması beklenen telefonlar",
-   "summary": "Kasım 2026 telefonları arasında Motorola, Oppo, Honor ve Vivo'nun yeni modelleri yer alıyor. Periskop kameralar, büyük bataryalar ve güçlü Snapdragon işlemciler öne çıkıyor.",
-   "link": "https://shiftdelete.net/kasim-2026-telefonlari-motorola-oppo-honor-vivo",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/0bad668f7f5e87a141260ac3de7f0ca0e32dd10f.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T15:39:32+00:00",
-   "url": "/haber/kasim-2026-da-cikmasi-beklenen-telefonlar-0e0e5b1f/"
-  },
-  {
    "id": "006721c4",
    "title": "ZEED, Türkiye pazarına giriş yaptı: Uygun fiyat, yüksek performans",
    "summary": "EED, Türkiye pazarına akıllı telefon, tablet ve aksesuar modelleriyle giriş yaptı. Telefonlarında üç yıl garanti süresiyle ve uygun fiyatlarıyla dikkat çekiyor.",
@@ -473,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T15:28:34+00:00",
    "url": "/haber/zeed-turkiye-pazarina-giris-yapti-uygun-fiyat-yuksek-performans-006721c4/"
-  },
-  {
-   "id": "b99b4dde",
-   "title": "40 Ton E-Atık Çocukların Geleceğine ve Doğaya Dönüştü Nasıl Dönüştü?",
-   "summary": "",
-   "link": "https://shiftdelete.net/40-ton-e-atik-cocuklarin-gelecegine-ve-dogaya-donustu-nasil-donustu",
-   "image": "https://shiftdelete.net/static/img/content/26-11/05/40-ton-e-atik-cocuklarin-gelecegine-ve-dogaya-donustu-nasil-donustu.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T15:25:00+00:00",
-   "url": "/haber/40-ton-e-atik-cocuklarin-gelecegine-ve-dogaya-donustu-nasil-donustu-b99b4dde/"
   },
   {
    "id": "d2a43164",
@@ -627,17 +660,6 @@
    "category": "gundem",
    "date": "2026-11-05T14:20:39+00:00",
    "url": "/haber/cristiano-ronaldo-milli-takim-kariyerini-noktaladi-3561a747/"
-  },
-  {
-   "id": "0bdc2f68",
-   "title": "iPhone Duo stokçuların elinde patladı: İkinci el fiyatı da düşüyor!",
-   "summary": "Apple’ın ilk katlanabilir iPhone'undan büyük kâr elde etme umuduyla stok yapan fırsatçılar, ciddi zarar etti. İkinci el piyasasında fiyatlar, çoğunun beklediğinden çok daha hızlı bir şekilde düştü.",
-   "link": "https://www.donanimhaber.com/iphone-duo-stokcularin-elinde-patladi-2-el-fiyati-dusuyor--212509",
-   "image": "https://www.donanimhaber.com/images/images/haber/212509/1200x675iphone-duo-stokcularin-elinde-patladi-2-el-fiyati-dusuyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-05T14:17:00+00:00",
-   "url": "/haber/iphone-duo-stokcularin-elinde-patladi-ikinci-el-fiyati-da-dusuyor-0bdc2f68/"
   },
   {
    "id": "08b6d5d7",
@@ -1190,17 +1212,6 @@
    "url": "/haber/turkiyeguney-kore-stratejik-is-birlikleri-uluslararasi-basinda-6613e46c/"
   },
   {
-   "id": "867360e7",
-   "title": "Erdoğan, Güney Kore'de küresel şirketlerin üst yöneticilerini kabul etti",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, resmi temaslarda bulunmak üzere gittiği Güney Kore'nin başkenti Seul'de, ülkenin önde gelen küresel teknoloji ve sanayi şirketlerinin üst yöneticileriyle (CEO) bir araya geldi.",
-   "link": "https://www.trthaber.com/haber/gundem/erdogan-guney-korede-kuresel-sirketlerin-ust-yoneticilerini-kabul-etti-962170.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/erdogan-lg-2500915.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-04T05:09:00+00:00",
-   "url": "/haber/erdogan-guney-kore-de-kuresel-sirketlerin-ust-yoneticilerini-kabul-ett-867360e7/"
-  },
-  {
    "id": "9d712fa7",
    "title": "Öcalan'ın İmralı'da yeni yere geçişi ne anlama geliyor?",
    "summary": "PKK lideri Abdullah Öcalan'ın İmralı Cezaevi'nde kendisi için hazırlanan yeni alana geçmesi, yürütülen çözüm sürecinde yeni bir aşamaya geçilip geçilmediği tartışmasını gündeme getirdi. Ankara'da DEM Partili ve AKP'li…",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-11-03T12:08:24+00:00",
    "url": "/haber/buyu-fal-ruhlar-ve-casuslar-iran-siyasetinin-dogaustu-dunyasi-46c1d7a2/"
-  },
-  {
-   "id": "12c449de",
-   "title": "30. yılında Susurluk skandalı: 3 Kasım 1996'daki kaza sonrası neler yaşandı?",
-   "summary": "3 Kasım 1996'da yaşanan Susurluk kazasını, tetiklediği tartışmaları ve olayın bugüne kadar uzanan etkilerini inceledik.",
-   "link": "https://www.bbc.com/turkce/articles/cq5e3z1edp9o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3d9/live/c108c800-7d18-11ef-a8f7-6510b893a4f7.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-03T10:52:48+00:00",
-   "url": "/haber/30-yilinda-susurluk-skandali-3-kasim-1996-daki-kaza-sonrasi-neler-yasa-12c449de/"
   },
   {
    "id": "55b18fff",
