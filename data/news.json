@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T04:01:02.806406+00:00",
+ "updated": "2026-11-05T04:30:50.899768+00:00",
  "items": [
   {
    "id": "29602010",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-05T04:00:00+00:00",
+   "date": "2026-11-05T04:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-29602010/"
+  },
+  {
+   "id": "2b1334f1",
+   "title": "Waymo, Uber ile yollarını Ocak 2028'de ayırıyor",
+   "summary": "Waymo Uber ile Austin ve Atlanta'daki özel anlaşmayı Ocak 2028'de bitirecek. Şirket, robotaksi yolculuklarını bu şehirlerde kendi uygulamasından sunacak.",
+   "link": "https://shiftdelete.net/waymo-uber-ortakligi-ocak-2028-bitiyor",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/d0cdf7ca70a37e97cf25a75545c143f0bcce5218.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T04:19:39+00:00",
+   "url": "/haber/waymo-uber-ile-yollarini-ocak-2028-de-ayiriyor-2b1334f1/"
+  },
+  {
+   "id": "9235bd92",
+   "title": "Fon soruşturması. Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül ifadeye çağrıldı",
+   "summary": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül şüpheli sıfatıyla ifadeye çağrıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gonul-ifadeye-cagrildi-1749399",
+   "image": "https://images.ntv.com.tr/images/fatma-bet_C3_BCl-sayan-941856-492547.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-05T04:05:42+00:00",
+   "url": "/haber/fon-sorusturmasi-fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gon-9235bd92/"
+  },
+  {
+   "id": "b82569e9",
+   "title": "Qualcomm bilançosu: Otomotiv rekor kırdı",
+   "summary": "Telefonlarda kullandığımız Snapdragon çiplerinin üreticisi Qualcomm, telefon satışından gelen gelirde sert bir düşüş yaşarken otomobil ve yapay zeka veri merkezi işini hızla büyütüyor. Şirketin yeni yol haritası ve…",
+   "link": "https://shiftdelete.net/qualcomm-bilanco-q4-fy26",
+   "image": "https://shiftdelete.net/static/img/content/26-11/05/qualcomm-q4-fy26-hero.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T04:05:04+00:00",
+   "url": "/haber/qualcomm-bilancosu-otomotiv-rekor-kirdi-b82569e9/"
   },
   {
    "id": "027f2d60",
@@ -585,17 +618,6 @@
    "url": "/haber/trump-secim-yenilgisinde-iran-savasi-ve-benzin-fiyatlarinin-rol-oynadi-c1f801dd/"
   },
   {
-   "id": "9317a0ea",
-   "title": "Nintendo Switch kartuş tedarikçisini kaybediyor",
-   "summary": "Nintendo'nun Switch kartuş tedarikçisi Macronix, veri merkezlerindeki NOR flash talebi nedeniyle ROM üretimini kademeli olarak durduracağını açıkladı.",
-   "link": "https://shiftdelete.net/nintendo-switch-kartus-tedarikcisi-macronix",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nintendo-switch-kartus-kapak.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T18:42:05+00:00",
-   "url": "/haber/nintendo-switch-kartus-tedarikcisini-kaybediyor-9317a0ea/"
-  },
-  {
    "id": "98a6f842",
    "title": "Bayraktar TB2, FPV kamikaze dronları havadan bırakarak hedefleri vurdu",
    "summary": "Bayraktar TB2, Skydagger FPV kamikaze dronları havadan bırakarak hedefleri tam isabetle vurdu. Test, FPV dronların menzilini binlerce kilometreye çıkarabilecek yeni bir kabiliyeti ortaya koydu.",
@@ -605,17 +627,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T18:36:00+00:00",
    "url": "/haber/bayraktar-tb2-fpv-kamikaze-dronlari-havadan-birakarak-hedefleri-vurdu-98a6f842/"
-  },
-  {
-   "id": "d3a1166f",
-   "title": "THY bilanço sonuçları: Gelir 8,3 milyar dolar",
-   "summary": "Türk Hava Yolları, üçüncü çeyrekte gelirini yüzde 19,3 artırarak 8,3 milyar dolara çıkardı. Ancak yakıt maliyetindeki sert yükseliş, esas faaliyet karını 929 milyon dolara indirdi.",
-   "link": "https://shiftdelete.net/thy-bilanco-ucuncu-ceyrek",
-   "image": "https://shiftdelete.net/static/img/content/26-11/04/thy-bilanco-ucuncu-ceyrek.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-04T18:32:07+00:00",
-   "url": "/haber/thy-bilanco-sonuclari-gelir-8-3-milyar-dolar-d3a1166f/"
   },
   {
    "id": "36f5029d",
@@ -737,17 +748,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T16:00:50+00:00",
    "url": "/haber/yale-ve-samsung-smartthings-is-birligi-genisliyor-7f8f5959/"
-  },
-  {
-   "id": "9235bd92",
-   "title": "Fon soruşturması. Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül ifadeye çağrıldı",
-   "summary": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül şüpheli sıfatıyla ifadeye çağrıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gonul-ifadeye-cagrildi-1749399",
-   "image": "https://images.ntv.com.tr/images/fatma-bet_C3_BCl-sayan-941856-492547.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-04T15:51:04+00:00",
-   "url": "/haber/fon-sorusturmasi-fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gon-9235bd92/"
   },
   {
    "id": "47f057a3",
