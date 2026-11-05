@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-05T20:30:52.638420+00:00",
+ "updated": "2026-11-05T21:01:03.049449+00:00",
  "items": [
+  {
+   "id": "c1d1773c",
+   "title": "Mekke Anlaşması TBMM'de kabul edildi",
+   "summary": "Mekke Anlaşması, TBMM'de kabul edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/mekke-anlasmasi-tbmmde-kabul-edildi-1749576",
+   "image": "https://images.ntv.com.tr/images/tbmm-256622.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-05T20:57:13+00:00",
+   "url": "/haber/mekke-anlasmasi-tbmm-de-kabul-edildi-c1d1773c/"
+  },
+  {
+   "id": "1196bbb9",
+   "title": "TSMC 1 nm fabrikası Tainan'da kurulabilir",
+   "summary": "Tayvan Ulusal Bilim Konseyi Başkanı Cheng-Wen Wu, TSMC'nin 1 nm fabrikasının Tainan'da kurulacağına işaret etti. Tesisin Shalun Parkı'nda yer alabileceği belirtiliyor.",
+   "link": "https://shiftdelete.net/tsmc-1-nm-fabrikasi-tainan-shalun-parki",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/935148c2abbae01722d5dab2ee415e5089b4a7c9.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T20:55:00+00:00",
+   "url": "/haber/tsmc-1-nm-fabrikasi-tainan-da-kurulabilir-1196bbb9/"
+  },
+  {
+   "id": "62e98f16",
+   "title": "A101 marketler akıllı çocuk saati satıyor",
+   "summary": "5 Kasım A101 Ekstra teknoloji ürünleri arasında TCL markasına ait Movetime Family Watch MT46X ve Movetime Family MT40X akıllı çocuk saatleri yer alıyor.",
+   "link": "https://www.donanimhaber.com/5-kasim-a101-ekstra-katalogunda-neler-var--212543",
+   "image": "https://www.donanimhaber.com/images/images/haber/212543/1200x6755-kasim-a101-ekstra-katalogunda-neler-var.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-05T20:55:00+00:00",
+   "url": "/haber/a101-marketler-akilli-cocuk-saati-satiyor-62e98f16/"
+  },
+  {
+   "id": "aa47c694",
+   "title": "Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi TBMM'de kabul edildi",
+   "summary": "Türkiye, Pakistan ve Suudi Arabistan Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi, TBMM Genel Kurulunda kabul edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-tbmmde-kabul-edildi/4113475",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T20:54:47+00:00",
+   "url": "/haber/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-aa47c694/"
+  },
+  {
+   "id": "256b8e69",
+   "title": "GeForce 8800 GTX 20 yaşında: Steam'e demo geldi",
+   "summary": "NVIDIA, 2006'da 599 dolara çıkan ve CUDA'yı başlatan GeForce 8800 GTX için Steam'de ücretsiz demo yayınladı. Peki bu kart yapay zekâ çağını nasıl başlattı?",
+   "link": "https://shiftdelete.net/geforce-8800-gtx-20-yasinda",
+   "image": "https://shiftdelete.net/static/img/content/26-11/05/geforce-8800-gtx-20-yil.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T20:50:17+00:00",
+   "url": "/haber/geforce-8800-gtx-20-yasinda-steam-e-demo-geldi-256b8e69/"
+  },
+  {
+   "id": "102f04d5",
+   "title": "İran Devrim Muhafızları: Hürmüz Boğazı'ndaki Keşm Adası'nda ABD'ye ait MQM-170 tipi İHA düşürüldü",
+   "summary": "İran Devrim Muhafızları Ordusu, Keşm Adası semalarında ABD'ye ait MQM-170 tipi insansız hava aracının (İHA) elektronik harp sistemleriyle etkisiz hale getirildiğini öne sürdü.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazindaki-kesm-adasinda-abdye-ait-mqm-170-tipi-iha-dusuruldu/4113466",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T20:47:38+00:00",
+   "url": "/haber/iran-devrim-muhafizlari-hurmuz-bogazi-ndaki-kesm-adasi-nda-abd-ye-ait-102f04d5/"
+  },
+  {
+   "id": "11175938",
+   "title": "Discord Electron'u bırakıp Rust'a geçiyor",
+   "summary": "Discord Rust diliyle yazılan yeni masaüstü uygulamasına geçiyor. Phoenix adlı erken Windows sürümü 290 MB RAM kullanırken Electron dönemi kapanıyor.",
+   "link": "https://shiftdelete.net/discord-rust-electron-phoenix-290-mb-ram",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/discord-rust-electron-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T20:40:00+00:00",
+   "url": "/haber/discord-electron-u-birakip-rust-a-geciyor-11175938/"
+  },
+  {
+   "id": "72bd3522",
+   "title": "Yapay zekanın enerji açlığı bitmiyor: Eski jet motorları gündemde",
+   "summary": "Şebeke bağlantısı için yıllarca bekleyen yapay zeka veri merkezleri, elektrik üretimini hızlandırmak için emekliye ayrılmış uçak motorlarını doğal gazla çalışan türbinlere dönüştürüyor.",
+   "link": "https://www.donanimhaber.com/yapay-zekanin-enerji-acligi-bitmiyor-eski-jet-motorlari-gundemde--212542",
+   "image": "https://www.donanimhaber.com/images/images/haber/212542/1200x675yapay-zekanin-enerji-acligi-bitmiyor-eski-jet-motorlari-gundemde.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-05T20:34:00+00:00",
+   "url": "/haber/yapay-zekanin-enerji-acligi-bitmiyor-eski-jet-motorlari-gundemde-72bd3522/"
+  },
   {
    "id": "9fbd620e",
    "title": "Bitcoin 76 bin doların altını gördü",
@@ -110,6 +198,17 @@
    "category": "gundem",
    "date": "2026-11-05T19:51:00+00:00",
    "url": "/haber/fatma-betul-sayan-kaya-ya-tutuklama-talebi-a6cae31a/"
+  },
+  {
+   "id": "44cf02f0",
+   "title": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya'ya tutuklama talebi",
+   "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında \"şüpheli\" sıfatıyla ifadesi alınan Fatma Betül Sayan Kaya tutuklama talebiyle hakimliğe sevk edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/fon-sorusturmasi-kapsaminda-fatma-betul-sayan-kayaya-tutuklama-talebi/4113433",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T19:48:50+00:00",
+   "url": "/haber/fon-sorusturmasi-kapsaminda-fatma-betul-sayan-kaya-ya-tutuklama-talebi-44cf02f0/"
   },
   {
    "id": "0b2b73ce",
@@ -332,17 +431,6 @@
    "url": "/haber/altman-dan-ram-tepkilerine-yanit-geldi-b9c126d6/"
   },
   {
-   "id": "0c3ef461",
-   "title": "ABD'de ara seçimler, Demokratların demografik gruplar arasında ilerleme kaydettiğini gösterdi",
-   "summary": "ABD'de 3 Kasım'da yapılan Kongre ara seçimlerinin ardından seçmen anketleri, Demokratların kilit demografik gruplar arasında önemli ölçüde ilerleme kaydettiğini ortaya koydu.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimler-demokratlarin-demografik-gruplar-arasinda-ilerleme-kaydettigini-gosterdi/4113377",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T18:46:34+00:00",
-   "url": "/haber/abd-de-ara-secimler-demokratlarin-demografik-gruplar-arasinda-ilerleme-0c3ef461/"
-  },
-  {
    "id": "199a1629",
    "title": "NASA'nın Swift uzay teleskobu Dünya'ya düştü: İşte o anlar",
    "summary": "NASA'nın 22 yıllık Swift uzay teleskobu, yörüngesini yükseltme girişiminin başarısız olmasının ardından Dünya'ya düştü. Teleskop, görev süresi boyunca binlerce kozmik olayı gözlemledi.",
@@ -387,28 +475,6 @@
    "url": "/haber/istanbul-da-3-medya-ve-dijital-habercilik-akademisi-nin-lansmani-yapil-854e3d6f/"
   },
   {
-   "id": "848e0308",
-   "title": "ABD'nin ilk Müslüman senatörü Sayed, Trump'ın İsrail'e yardımların kesilmesi çağrısını destekledi",
-   "summary": "ABD Senatosuna seçilen ilk Müslüman senatör Abdul el-Sayed, Başkan Donald Trump'ın İsrail'e dış yardımların kesilmesi yönündeki çağrısına destek verdiğini belirterek, birlikte çalışma çağrısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdnin-ilk-musluman-senatoru-sayed-trumpin-israile-yardimlarin-kesilmesi-cagrisini-destekledi/4113361",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T18:28:08+00:00",
-   "url": "/haber/abd-nin-ilk-musluman-senatoru-sayed-trump-in-israil-e-yardimlarin-kesi-848e0308/"
-  },
-  {
-   "id": "53234c43",
-   "title": "PlayStation Ekim 2026 indirme listesi açıklandı",
-   "summary": "Sony, PlayStation Store'da Ekim 2026'da en çok indirilen oyunları duyurdu. PlayStation Ekim 2026 indirme listesinde PS5 tarafında Call of Duty: Modern Warfare 4 birinci oldu.",
-   "link": "https://shiftdelete.net/playstation-ekim-2026-indirme-listesi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/playstation-ekim-2026-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T18:25:00+00:00",
-   "url": "/haber/playstation-ekim-2026-indirme-listesi-aciklandi-53234c43/"
-  },
-  {
    "id": "f70fb4ec",
    "title": "PS Store \"Black Friday\" indirimleri başladı: İşte öne çıkan oyunlar",
    "summary": "Playstation Store'da başlayan \"Black Friday\" indirimleri kapsamında birçok oyun yüzde %75'e varan indirimle sunuluyor. işte Playstation Store'da indirime giren oyunlar...",
@@ -420,28 +486,6 @@
    "url": "/haber/ps-store-black-friday-indirimleri-basladi-iste-one-cikan-oyunlar-f70fb4ec/"
   },
   {
-   "id": "e797237e",
-   "title": "RTX 5080 DirectX örnek testinde 221 kat hızlandı",
-   "summary": "Microsoft'un yeni DirectX Raytracing özelliği, RTX 5080 DXR testinde sentetik bir senaryoda kare hızını 1,4 FPS'ten 310 FPS'e taşıdı. Sonuçlar oyunlara birebir yansımayabilir.",
-   "link": "https://shiftdelete.net/rtx-5080-dxr-221-kat-fps-artisi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/rtx-5080-dxr-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T18:10:00+00:00",
-   "url": "/haber/rtx-5080-directx-ornek-testinde-221-kat-hizlandi-e797237e/"
-  },
-  {
-   "id": "d4cf3cc9",
-   "title": "NATO, İHA karşıtı teknolojilerin tedarikini hızlandırmak için yeni pazar yeri oluşturdu",
-   "summary": "NATO, Ankara Zirvesi'nde kabul ettiği \"Drone Edge\" programı kapsamında insansız hava araçlarına (İHA) karşı geliştirilen teknolojilerin tedarikini hızlandırmak amacıyla İHA karşıtı sistemler için yeni bir pazar yeri…",
-   "link": "https://www.aa.com.tr/tr/dunya/nato-iha-karsiti-teknolojilerin-tedarikini-hizlandirmak-icin-yeni-pazar-yeri-olusturdu/4113348",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T18:09:17+00:00",
-   "url": "/haber/nato-iha-karsiti-teknolojilerin-tedarikini-hizlandirmak-icin-yeni-paza-d4cf3cc9/"
-  },
-  {
    "id": "33e6389a",
    "title": "İspanya elektrik kesintilerine karşı siber güvenlik kalkanı kuruyor",
    "summary": "İspanya, siber saldırıların elektrik kesintilerine yol açmasını önlemek için yeni adımlar attı. Düzenlemeler, kritik kuruluşlara risk değerlendirmesi ve saldırı bildirimi yükümlülükleri getiriyor.",
@@ -451,17 +495,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T18:00:00+00:00",
    "url": "/haber/ispanya-elektrik-kesintilerine-karsi-siber-guvenlik-kalkani-kuruyor-33e6389a/"
-  },
-  {
-   "id": "777d11ad",
-   "title": "Skoda Karoq Yeni Prestige Türkiye'de satışta",
-   "summary": "Skoda Karoq Yeni Prestige donanımı Türkiye'de lansmana özel 2.999.900 TL fiyatla satışa çıktı. Hafızalı koltuklar, üç bölgeli klima ve CANTON ses sistemi öne çıkıyor.",
-   "link": "https://shiftdelete.net/skoda-karoq-yeni-prestige-satisa-cikti",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/1fea217adffffe4d984b77ee3d87a4a0ecb83b38.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T17:55:00+00:00",
-   "url": "/haber/skoda-karoq-yeni-prestige-turkiye-de-satista-777d11ad/"
   },
   {
    "id": "618f3d81",
@@ -594,28 +627,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T16:00:23+00:00",
    "url": "/haber/a101-katalog-teknolojik-urunlerde-bu-hafta-5-kasim-2026-d4cd964d/"
-  },
-  {
-   "id": "41a96326",
-   "title": "Intel Nova Lake-S işlemcilerde 90 derece sınırı: Frekans düşebilir",
-   "summary": "Intel'in yeni nesil Nova Lake-S işlemcileri için sıcaklığa bağlı yeni bir frekans sınırı gündemde. İddiaya göre sıcaklık 90 dereceyi geçtiğinde işlemciler 5,1 GHz'i aşamayacak.",
-   "link": "https://www.donanimhaber.com/intel-nova-lake-s-islemcilerde-90-derece-siniri-frekans-dusuyor--212520",
-   "image": "https://www.donanimhaber.com/images/images/haber/212520/1200x675intel-nova-lake-s-islemcilerde-90-derece-siniri-frekans-dusuyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-05T15:47:00+00:00",
-   "url": "/haber/intel-nova-lake-s-islemcilerde-90-derece-siniri-frekans-dusebilir-41a96326/"
-  },
-  {
-   "id": "006721c4",
-   "title": "ZEED, Türkiye pazarına giriş yaptı: Uygun fiyat, yüksek performans",
-   "summary": "EED, Türkiye pazarına akıllı telefon, tablet ve aksesuar modelleriyle giriş yaptı. Telefonlarında üç yıl garanti süresiyle ve uygun fiyatlarıyla dikkat çekiyor.",
-   "link": "https://www.donanimhaber.com/zeed-turkiye-pazarina-giris-yapti-uygun-fiyat-yuksek-performans--212545",
-   "image": "https://www.donanimhaber.com/images/images/haber/212545/1200x675zeed-turkiye-pazarina-giris-yapti-uygun-fiyat-yuksek-performans.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-05T15:28:34+00:00",
-   "url": "/haber/zeed-turkiye-pazarina-giris-yapti-uygun-fiyat-yuksek-performans-006721c4/"
   },
   {
    "id": "2e37f870",
@@ -891,17 +902,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T13:02:11+00:00",
    "url": "/haber/apple-dan-labrinth-in-dokunmatik-ekranli-macbook-pro-ile-sifirdan-sark-9f02cba0/"
-  },
-  {
-   "id": "7ae0085b",
-   "title": "Bebeğe şiddet görüntüleri Türkiye'yi ayağa kaldırmıştı. Hemşirenin cezası belli oldu",
-   "summary": "Kahramanmaraş'ta beş günlük bebeğe şiddet uygulayarak engelli kalmasına neden olduğu gerekçesiyle yargılanan hemşirenin cezası belli oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bebege-siddet-goruntuleri-turkiyeyi-ayaga-kaldirmisti-hemsirenin-cezasi-belli-oldu-1749521",
-   "image": "https://images.ntv.com.tr/images/bebeğeşiddet4-710448.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-05T12:49:09+00:00",
-   "url": "/haber/bebege-siddet-goruntuleri-turkiye-yi-ayaga-kaldirmisti-hemsirenin-ceza-7ae0085b/"
   },
   {
    "id": "1dfae5a4",
