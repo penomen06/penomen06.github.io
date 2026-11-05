@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-05T18:30:56.181991+00:00",
+ "updated": "2026-11-05T19:01:01.589972+00:00",
  "items": [
+  {
+   "id": "b9c126d6",
+   "title": "Altman'dan RAM tepkilerine yanıt geldi",
+   "summary": "OpenAI CEO'su Sam Altman, bilgisayarlardaki RAM kullanımına dair sözlerinin tepki çekmesinin ardından konuştu. Altman, yorumlarının bağlamdan koparıldığını söyledi.",
+   "link": "https://shiftdelete.net/sam-altman-ram-aciklamasi",
+   "image": "https://ares.shiftdelete.net/2026/10/52613df03a2b80fceb2805aa1294a10cc5c5db86.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T18:55:00+00:00",
+   "url": "/haber/altman-dan-ram-tepkilerine-yanit-geldi-b9c126d6/"
+  },
+  {
+   "id": "5f3358b5",
+   "title": "Afyon'da en az 8 kişiyi öldüren saldırgan yakalandı",
+   "summary": "Afyonkarahisar Valiliği, ilde meydana gelen silahlı saldırılarda sekiz kişinin hayatını kaybettiğini ve bir kişinin de yaralandığını duyurdu.",
+   "link": "https://www.bbc.com/turkce/articles/cm8xzzl5q98xo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67e6/live/a50604a0-d942-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-05T18:54:57+00:00",
+   "url": "/haber/afyon-da-en-az-8-kisiyi-olduren-saldirgan-yakalandi-5f3358b5/"
+  },
+  {
+   "id": "0c3ef461",
+   "title": "ABD'de ara seçimler, Demokratların demografik gruplar arasında ilerleme kaydettiğini gösterdi",
+   "summary": "ABD'de 3 Kasım'da yapılan Kongre ara seçimlerinin ardından seçmen anketleri, Demokratların kilit demografik gruplar arasında önemli ölçüde ilerleme kaydettiğini ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimler-demokratlarin-demografik-gruplar-arasinda-ilerleme-kaydettigini-gosterdi/4113377",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T18:46:34+00:00",
+   "url": "/haber/abd-de-ara-secimler-demokratlarin-demografik-gruplar-arasinda-ilerleme-0c3ef461/"
+  },
+  {
+   "id": "199a1629",
+   "title": "NASA'nın Swift uzay teleskobu Dünya'ya düştü: İşte o anlar",
+   "summary": "NASA'nın 22 yıllık Swift uzay teleskobu, yörüngesini yükseltme girişiminin başarısız olmasının ardından Dünya'ya düştü. Teleskop, görev süresi boyunca binlerce kozmik olayı gözlemledi.",
+   "link": "https://www.donanimhaber.com/nasa-nin-swift-uzay-teleskobu-dunya-ya-dustu-iste-o-anlar--212515",
+   "image": "https://www.donanimhaber.com/images/images/haber/212515/1200x675nasa-nin-swift-uzay-teleskobu-dunya-ya-dustu-iste-o-anlar.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-05T18:43:00+00:00",
+   "url": "/haber/nasa-nin-swift-uzay-teleskobu-dunya-ya-dustu-iste-o-anlar-199a1629/"
+  },
+  {
+   "id": "0a9b64e9",
+   "title": "Peugeot Fiyat Listesi Kasım 2026: En Ucuzu E-208",
+   "summary": "Kasım 2026'da Peugeot binekleri 2.080.000 TL'den başlıyor; 3008'de 212 bin TL'lik kampanya var. Güncel 2008 ve 408 fiyatları burada. Hangisini düşünüyorsunuz?",
+   "link": "https://shiftdelete.net/peugeot-fiyat-listesi",
+   "image": "/static/img/content/26-11/05/peugeot-fiyat-listesi-kasim-2026.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T18:37:44+00:00",
+   "url": "/haber/peugeot-fiyat-listesi-kasim-2026-en-ucuzu-e-208-0a9b64e9/"
+  },
   {
    "id": "13cb4b27",
    "title": "Afyonkarahisar'da 8 kişiyi katleden saldırgan yakalandı",
@@ -9,8 +64,19 @@
    "image": "https://images.ntv.com.tr/images/afyonnmansetcopy-537508(2).jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-05T18:30:30+00:00",
+   "date": "2026-11-05T18:32:52+00:00",
    "url": "/haber/afyonkarahisar-da-8-kisiyi-katleden-saldirgan-yakalandi-13cb4b27/"
+  },
+  {
+   "id": "848e0308",
+   "title": "ABD'nin ilk Müslüman senatörü Sayed, Trump'ın İsrail'e yardımların kesilmesi çağrısını destekledi",
+   "summary": "ABD Senatosuna seçilen ilk Müslüman senatör Abdul el-Sayed, Başkan Donald Trump'ın İsrail'e dış yardımların kesilmesi yönündeki çağrısına destek verdiğini belirterek, birlikte çalışma çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-ilk-musluman-senatoru-sayed-trumpin-israile-yardimlarin-kesilmesi-cagrisini-destekledi/4113361",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T18:28:08+00:00",
+   "url": "/haber/abd-nin-ilk-musluman-senatoru-sayed-trump-in-israil-e-yardimlarin-kesi-848e0308/"
   },
   {
    "id": "53234c43",
@@ -33,17 +99,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T18:22:00+00:00",
    "url": "/haber/ps-store-black-friday-indirimleri-basladi-iste-one-cikan-oyunlar-f70fb4ec/"
-  },
-  {
-   "id": "5f3358b5",
-   "title": "Afyon'da en az 8 kişiyi öldüren saldırgan yakalandı",
-   "summary": "Afyonkarahisar Valiliği, ilde meydana gelen silahlı saldırılarda sekiz kişinin hayatını kaybettiğini ve bir kişinin de yaralandığını duyurdu.",
-   "link": "https://www.bbc.com/turkce/articles/cm8xzzl5q98xo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67e6/live/a50604a0-d942-11f1-a701-fddedf244c16.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-05T18:13:34+00:00",
-   "url": "/haber/afyon-da-en-az-8-kisiyi-olduren-saldirgan-yakalandi-5f3358b5/"
   },
   {
    "id": "e797237e",
@@ -255,15 +310,15 @@
    "url": "/haber/arif-ahmet-denizolgun-un-olumune-iliskin-adli-tip-raporu-cikti-b1918643/"
   },
   {
-   "id": "623af99d",
-   "title": "Emniyet Genel Müdürlüğünden COP31 açıklaması: 25 bin 739 personel sahada aktif olarak görevlendirildi",
+   "id": "09f47d5f",
+   "title": "COP31 kapsamında 25 bin 739 emniyet personeli sahada görevlendirildi",
    "summary": "Emniyet Genel Müdürlüğü (EGM), 9-20 Kasım'da Antalya'da düzenlenecek COP31 kapsamında, toplam 25 bin 739 personelin sahada aktif olarak görevlendirildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/emniyet-genel-mudurlugunden-cop31-aciklamasi-25-bin-739-personel-sahada-aktif-olarak-gorevlendirildi/4113290",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-25-bin-739-emniyet-personeli-sahada-gorevlendirildi/4113290",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-05T17:08:18+00:00",
-   "url": "/haber/emniyet-genel-mudurlugunden-cop31-aciklamasi-25-bin-739-personel-sahad-623af99d/"
+   "url": "/haber/cop31-kapsaminda-25-bin-739-emniyet-personeli-sahada-gorevlendirildi-09f47d5f/"
   },
   {
    "id": "2abda61e",
@@ -431,28 +486,6 @@
    "url": "/haber/epic-games-in-bu-haftaki-ucretsiz-oyunlari-erisime-acildi-c0eff57c/"
   },
   {
-   "id": "52dbdac5",
-   "title": "Dışişleri Bakanı Fidan, Hırvatistan Meclis Başkanı Jandrokovic ile görüştü",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Ankara'da Hırvatistan Meclis Başkanı Gordan Jandrokovic ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-hirvatistan-meclis-baskani-jandrokovic-ile-gorustu/4113230",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T16:02:48+00:00",
-   "url": "/haber/disisleri-bakani-fidan-hirvatistan-meclis-baskani-jandrokovic-ile-goru-52dbdac5/"
-  },
-  {
-   "id": "42556d8a",
-   "title": "Milli füzeleri uçuran yerli jet motorlarında 1000'inci teslimat gerçekleştirildi",
-   "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, milli füzelerin yerli motor ihtiyacını karşılamak amacıyla yürütülen çalışmalara yönelik, \"Bu projede 200 milyon dolarlık bir kaynağın ülkemizde kalmasını…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/milli-fuzeleri-ucuran-yerli-jet-motorlarinda-1000inci-teslimat-gerceklestirildi/4113229",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T16:02:33+00:00",
-   "url": "/haber/milli-fuzeleri-ucuran-yerli-jet-motorlarinda-1000-inci-teslimat-gercek-42556d8a/"
-  },
-  {
    "id": "880bcc1a",
    "title": "Epic Games Store, yeni oyun hediyelerini duyurdu [5 Kasım]",
    "summary": "Epic Games Store, oyun hediyelerine hız kesmeden devam ediyor. Şirketin bugün ücretsiz olarak verdiği ilk oyun “Flotsam” oldu. Yapım için şu açıklama yapıldı: “Rengarenk bir yüzen şehir kurma oyununda yelken aç, kaynak…",
@@ -473,28 +506,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T16:00:23+00:00",
    "url": "/haber/a101-katalog-teknolojik-urunlerde-bu-hafta-5-kasim-2026-d4cd964d/"
-  },
-  {
-   "id": "20424e14",
-   "title": "Nova Launcher açık ara en sevilen başlatıcı",
-   "summary": "Nova Launcher, 1.400'den fazla oyun alan okur anketinde yüzde 36,2 ile açık ara birinci oldu. İkinci sıradaki Smart Launcher yalnızca yüzde 16,3'te kaldı.",
-   "link": "https://shiftdelete.net/nova-launcher-anketi-android-launcher-sonuclari",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nova-launcher-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T15:54:43+00:00",
-   "url": "/haber/nova-launcher-acik-ara-en-sevilen-baslatici-20424e14/"
-  },
-  {
-   "id": "4bf27085",
-   "title": "GTA 6'dan 39 yeni ekran görüntüsü geldi",
-   "summary": "Rockstar Games, GTA 6'nın çıkışına iki haftadan kısa süre kala 39 yeni ekran görüntüsü paylaştı. Lansman galerisinde Jason, Lucia ve Vice City öne çıkıyor.",
-   "link": "https://shiftdelete.net/gta-6-39-yeni-ekran-goruntusu-lansman-galerisi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/gta-6-lansman-galerisi-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T15:50:33+00:00",
-   "url": "/haber/gta-6-dan-39-yeni-ekran-goruntusu-geldi-4bf27085/"
   },
   {
    "id": "41a96326",
@@ -605,17 +616,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T14:30:51+00:00",
    "url": "/haber/whatsapp-a-yapay-zeka-destekli-fotograf-genisletme-ozelligi-geliyor-c799d700/"
-  },
-  {
-   "id": "9bb2cab4",
-   "title": "Casper Excalibur G887 tanıtıldı: 17,3 inç ekranıyla monitör ihtiyacını azaltıyor",
-   "summary": "Casper Excalibur G887, 17,3 inç Full HD 144 Hz ekranı, Intel Core HX işlemci ve RTX 50 serisi ekran kartı seçenekleriyle oyun ve içerik üretimine yönelik geniş bir kullanım alanı sunuyor.",
-   "link": "https://www.donanimhaber.com/17-3-inc-ekranli-yeni-oyun-laptop-casper-excalibur-g887-tanitildi--212537",
-   "image": "https://www.donanimhaber.com/images/images/haber/212537/1200x67517-3-inc-ekranli-yeni-oyun-laptop-casper-excalibur-g887-tanitildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-05T14:30:43+00:00",
-   "url": "/haber/casper-excalibur-g887-tanitildi-17-3-inc-ekraniyla-monitor-ihtiyacini-9bb2cab4/"
   },
   {
    "id": "4ff277d5",
