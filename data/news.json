@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T05:01:01.512786+00:00",
+ "updated": "2026-11-05T05:30:50.198935+00:00",
  "items": [
   {
    "id": "29602010",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-05T05:00:00+00:00",
+   "date": "2026-11-05T05:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-29602010/"
+  },
+  {
+   "id": "caae25df",
+   "title": "Şehit polis Şeyda Yılmaz'ın katil zanlısına verilen ceza onandı",
+   "summary": "İstanbul'da polis memuru Şeyda Yılmaz'ı şehit eden Yunus Emre Geçti hakkında verilen ağırlaştırılmış müebbet hapis cezası Yargıtay tarafından onandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sehit-polis-seyda-yilmazin-katil-zanlisina-verilen-ceza-onandi-1749445",
+   "image": "https://images.ntv.com.tr/images/polisşeydayılmazkatiliyunusemregeçti-964454(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-05T05:28:36+00:00",
+   "url": "/haber/sehit-polis-seyda-yilmaz-in-katil-zanlisina-verilen-ceza-onandi-caae25df/"
   },
   {
    "id": "d56e043e",
@@ -102,7 +113,7 @@
   },
   {
    "id": "a3ed9e73",
-   "title": "SpaceX Qualcomm ile Starlink 5G şebekesi kuruyor",
+   "title": "SpaceX, Qualcomm ile Starlink 5G şebekesi kuruyor",
    "summary": "SpaceX, Starlink Mobile'ın ABD genelindeki karasal 5G şebekesi için Qualcomm Dragonwing çiplerini seçti. On binlerce baz istasyonunun kurulumu 2027'de başlayacak.",
    "link": "https://shiftdelete.net/spacex-qualcomm-starlink-mobile-5g-sebekesi",
    "image": "https://shiftdelete.net/static/img/content/26-11/05/spacex-qualcomm-starlink-5g.jpg",
@@ -541,17 +552,6 @@
    "url": "/haber/mercedes-e-ekranlar-yetmedi-simdi-sira-otomobil-camlarinda-1477d5ce/"
   },
   {
-   "id": "7eacf0c4",
-   "title": "Ticaret Bakanı Bolat, Bakanlığının bütçe görüşmelerinde milletvekillerinin sorularını yanıtladı",
-   "summary": "Ticaret Bakanı Ömer Bolat, TBMM Plan ve Bütçe Komisyonunda, Bakanlığı ve bağlı kuruluşlarının 2027 yılı bütçe görüşmelerinin ardından milletvekillerinin sorularını yanıtladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-bakanliginin-butce-gorusmelerinde-milletvekillerinin-sorularini-yanitladi/4112009",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-04T19:38:30+00:00",
-   "url": "/haber/ticaret-bakani-bolat-bakanliginin-butce-gorusmelerinde-milletvekilleri-7eacf0c4/"
-  },
-  {
    "id": "657e6c97",
    "title": "Fenerbahçe Liverpool'u devirdi",
    "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında İngiltere'nin Liverpool ekibini konuk eden Fenerbahçe, sahadan 3-2'lik galibiyetle ayrıldı.",
@@ -616,6 +616,17 @@
    "category": "gundem",
    "date": "2026-11-04T18:45:27+00:00",
    "url": "/haber/trump-secim-yenilgisinde-iran-savasi-ve-benzin-fiyatlarinin-rol-oynadi-c1f801dd/"
+  },
+  {
+   "id": "a3ea2494",
+   "title": "Fenerbahçe \"İngiliz devi\" Liverpool'u \"devirdi\"",
+   "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında İngiltere'nin Liverpool ekibini konuk eden Fenerbahçe, sahadan 3-2'lik galibiyetle ayrıldı.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-ingiliz-devi-liverpoolu-devirdi/4111940",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T18:38:18+00:00",
+   "url": "/haber/fenerbahce-ingiliz-devi-liverpool-u-devirdi-a3ea2494/"
   },
   {
    "id": "98a6f842",
@@ -814,17 +825,6 @@
    "category": "teknoloji",
    "date": "2026-11-04T14:42:21+00:00",
    "url": "/haber/dokunmatik-olmayan-macbook-pro-modellerine-yakinda-veda-edebiliriz-6949ea3b/"
-  },
-  {
-   "id": "e17e3f20",
-   "title": "İş insanı Ahmet Nazif Zorlu'ya veda. Gözyaşlarıyla son yolculuğuna uğurlandı",
-   "summary": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, yaşamını yitirdi. Bugün son yolculuğuna uğurlanan Zorlu'nun eşi, çocukları ve torunları gözyaşlarına boğuldu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-is-insani-ahmet-nazif-zorluya-veda-gozyaslariyla-son-yolculuguna-ugurlandi-1749381",
-   "image": "https://images.ntv.com.tr/images/zorlu-cenaze-301888.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-04T14:28:25+00:00",
-   "url": "/haber/is-insani-ahmet-nazif-zorlu-ya-veda-gozyaslariyla-son-yolculuguna-ugur-e17e3f20/"
   },
   {
    "id": "4e33e8dd",
