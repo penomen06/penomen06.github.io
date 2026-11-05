@@ -1,16 +1,115 @@
 {
- "updated": "2026-11-05T10:30:53.978310+00:00",
+ "updated": "2026-11-05T11:01:04.930574+00:00",
  "items": [
   {
    "id": "fee04f0b",
-   "title": "Bahçelievler'de inşaatta toprak kayması. Göçük altında kalan işçiler var",
-   "summary": "İstanbul Bahçelievler'de bir inşaatın inşaatın temel kazısı sırasında toprak kayması meydana geldi. İki işçinin göçük altında kaldığı belirtiliyor.",
+   "title": "Bahçelievler'de inşaatta toprak kayması. Göçük altında kalan iki işçiden biri kurtarıldı",
+   "summary": "İstanbul Bahçelievler'de bir inşaatın temel kazısı sırasında toprak kayması meydana geldi. Göçük altında kalan iki işçiden biri kurtarıldı, diğerini kurtarma çalışmaları sürüyor.",
    "link": "https://www.ntv.com.tr/turkiye/galeri-bahcelievlerde-toprak-kaymasi-gocuk-altinda-kalanlar-var-1749527",
-   "image": "https://images.ntv.com.tr/dha/BAHCELIEVLERDE-INSAATTA-TOPRAK-KAYMASI_1591774_473375-527961.jpg",
+   "image": "https://images.ntv.com.tr/images/BAHCELIEVLERDE-INSAATTA-TOPRAK-KAYMASI_1591836_473375-511570.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-05T10:29:17+00:00",
-   "url": "/haber/bahcelievler-de-insaatta-toprak-kaymasi-gocuk-altinda-kalan-isciler-va-fee04f0b/"
+   "date": "2026-11-05T10:55:26+00:00",
+   "url": "/haber/bahcelievler-de-insaatta-toprak-kaymasi-gocuk-altinda-kalan-iki-iscide-fee04f0b/"
+  },
+  {
+   "id": "83bbc9cc",
+   "title": "Skoda Karoq Yeni Prestige donanımı satışa sunuldu: İşte fiyatı ve özellikleri",
+   "summary": "Skoda Karoq'un Yeni Prestige donanımı Türkiye'de satışa sunuldu. Karoq Yeni Prestige fiyatı ne kadar? Karoq Yeni Prestige neler sunuyor? İşte detaylar:",
+   "link": "https://www.donanimhaber.com/skoda-karoq-yeni-prestige-donanimi-satisa-sunuldu--212514",
+   "image": "https://www.donanimhaber.com/images/images/haber/212514/1200x675skoda-karoq-yeni-prestige-donanimi-satisa-sunuldu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-05T10:55:00+00:00",
+   "url": "/haber/skoda-karoq-yeni-prestige-donanimi-satisa-sunuldu-iste-fiyati-ve-ozell-83bbc9cc/"
+  },
+  {
+   "id": "d07c11d6",
+   "title": "iPhone Duo'da ilginç sıfırlama şartı",
+   "summary": "Apple'ın ilk katlanabilir telefonunda iPhone Duo Ekran Yakınlaştırma seçeneği kurulumdan sonra ortadan kayboluyor. Metin boyutunu değiştirmek isteyenler telefonu sıfırlamak zorunda.",
+   "link": "https://shiftdelete.net/iphone-duo-ekran-yakinlastirma-sifirlama",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/iphone-duo-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T10:54:50+00:00",
+   "url": "/haber/iphone-duo-da-ilginc-sifirlama-sarti-d07c11d6/"
+  },
+  {
+   "id": "d5083937",
+   "title": "Uluslararası Filistin Dayanışma Konseri üç şehirde sanatseverlerle buluşacak",
+   "summary": "Filistin halkıyla dayanışmayı güçlendirmek ve insanlığın ortak vicdanına seslenmek amacıyla hayata geçirilen \"Uluslararası Filistin Dayanışma Konseri-Dünyaya Barış Çağrısı\" konser serisi, 6-8 Kasım'da İzmir, Ankara ve…",
+   "link": "https://www.aa.com.tr/tr/kultur/uluslararasi-filistin-dayanisma-konseri-uc-sehirde-sanatseverlerle-bulusacak/4112797",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T10:46:35+00:00",
+   "url": "/haber/uluslararasi-filistin-dayanisma-konseri-uc-sehirde-sanatseverlerle-bul-d5083937/"
+  },
+  {
+   "id": "55305328",
+   "title": "İsrail ordusunun Gazze'de açtığı ateş sonucu 1 çocuk ve 1 kadın hayatını kaybetti",
+   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin orta ve güney bölgelerinde açtığı ateş nedeniyle 1 kadın ve 1 çocuk yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzede-actigi-ates-sonucu-1-cocuk-ve-1-kadin-hayatini-kaybetti/4112795",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T10:46:19+00:00",
+   "url": "/haber/israil-ordusunun-gazze-de-actigi-ates-sonucu-1-cocuk-ve-1-kadin-hayati-55305328/"
+  },
+  {
+   "id": "a6518442",
+   "title": "ABD ara seçimleri: Sonuçlar diğer ülkeler için ne anlama geliyor?",
+   "summary": "ABD'de Demokratlar Kongre'de çoğunluğu ele geçirdi. Ara seçim sonuçları ABD siyasetinde kapsamlı bir değişime işaret ediyor. BBC gazetecileri, seçimlerin Ukrayna ve Ortadoğu'daki çatışmalardan Çin ile ticaret…",
+   "link": "https://www.bbc.com/turkce/articles/c6zxjzq7w2eko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/634f/live/515ba0a0-d887-11f1-ad49-25abedf165e8.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-05T10:45:37+00:00",
+   "url": "/haber/abd-ara-secimleri-sonuclar-diger-ulkeler-icin-ne-anlama-geliyor-a6518442/"
+  },
+  {
+   "id": "2703629a",
+   "title": "Huawei Osta: O1 ve O1 Pro geliyor iddiası",
+   "summary": "Huawei Osta adlı yeni bir alt marka kurmaya hazırlanıyor. İddiaya göre markanın ilk modelleri, amiral gemisi seviyesinde özellikler sunacak O1 ve O1 Pro olacak.",
+   "link": "https://shiftdelete.net/huawei-osta-o1-o1-pro-telefon-iddiasi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/c394100574b21b07a5cf753cc3474ea88b1f6d0f.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T10:39:40+00:00",
+   "url": "/haber/huawei-osta-o1-ve-o1-pro-geliyor-iddiasi-2703629a/"
+  },
+  {
+   "id": "7cb5631f",
+   "title": "SpaceX ve Qualcomm’dan Starlink Mobile için 5G hamlesi",
+   "summary": "Qualcomm ve SpaceX, Starlink Mobile için ABD genelinde on binlerce 5G baz istasyonu kuracak. Bu anlaşma sayesinde SpaceX, ABD’deki dev operatörler ile rekabete girecek.",
+   "link": "https://www.donanimhaber.com/spacex-ve-qualcomm-dan-starlink-mobile-icin-5g-hamlesi--212497",
+   "image": "https://www.donanimhaber.com/images/images/haber/212497/1200x675spacex-ve-qualcomm-dan-starlink-mobile-icin-5g-hamlesi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-05T10:37:00+00:00",
+   "url": "/haber/spacex-ve-qualcomm-dan-starlink-mobile-icin-5g-hamlesi-7cb5631f/"
+  },
+  {
+   "id": "a9f197d0",
+   "title": "Erdoğan'dan fon açıklaması: 'Hiç ummadığınız insanlar bu işlerin içerisine girmişler'",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yüzbinlerce yatırımcıyı etkileyen ve hacmi yüzmilyarlarca lirayı aşan fon krizine \"ummadığı kişilerin\" dahil olduğunu öğrendiklerini söyledi, \"yargının gerekeni yaptığını\" belirtti.",
+   "link": "https://www.bbc.com/turkce/articles/cr15j811q309o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/adbd/live/e2ce6d90-d901-11f1-9c68-d767468fa269.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-05T10:31:25+00:00",
+   "url": "/haber/erdogan-dan-fon-aciklamasi-hic-ummadiginiz-insanlar-bu-islerin-icerisi-a9f197d0/"
+  },
+  {
+   "id": "9f55fe2d",
+   "title": "Avrupa Parlamentosu üyelerinden BYD marka otomobillere güvenlik gerekçesiyle kısıtlama çağrısı",
+   "summary": "Avrupa Parlamentosunun (AP) bazı üyeleri, güvenlik risklerini gerekçe göstererek Çinli otomobil üreticisi BYD'nin kamu alımlarının dışında tutulmasını ve araçlarının askeri tesisler ile hassas bölgelere erişiminin…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-parlamentosu-uyelerinden-byd-marka-otomobillere-guvenlik-gerekcesiyle-kisitlama-cagrisi/4112769",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T10:26:40+00:00",
+   "url": "/haber/avrupa-parlamentosu-uyelerinden-byd-marka-otomobillere-guvenlik-gerekc-9f55fe2d/"
   },
   {
    "id": "79a60e40",
@@ -33,6 +132,17 @@
    "category": "teknoloji",
    "date": "2026-11-05T10:23:33+00:00",
    "url": "/haber/world-of-warcraft-forever-yayinlandi-9d807849/"
+  },
+  {
+   "id": "dde37161",
+   "title": "Bahçelievler'de toprak kaydı: 2 işçi toprak altında kaldı",
+   "summary": "Bahçelievler'de inşaatta meydana gelen toprak kayması nedeniyle göçük altında kalan işçilerin kurtarılması için çalışma başlatıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/bahcelievlerde-toprak-kaydi-2-isci-toprak-altinda-kaldi-962335.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/bahcelievler-2501455.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-05T10:23:00+00:00",
+   "url": "/haber/bahcelievler-de-toprak-kaydi-2-isci-toprak-altinda-kaldi-dde37161/"
   },
   {
    "id": "d44253cd",
@@ -99,6 +209,17 @@
    "category": "gundem",
    "date": "2026-11-05T10:16:11+00:00",
    "url": "/haber/fatma-betul-sayan-kaya-esi-ilyas-kaya-ve-eski-spk-baskani-gonul-ifade-d44d6555/"
+  },
+  {
+   "id": "9153062f",
+   "title": "Yurdun bazı kesimlerinde etkili olan sağanak yaşamı olumsuz etkiliyor",
+   "summary": "Kastamonu, Zonguldak ve Tekirdağ'da etkili olan sağanak nedeniyle su baskınları yaşanırken, heyelan, toprak kayması ve çökmeler meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/yurdun-bazi-kesimlerinde-etkili-olan-saganak-yasami-olumsuz-etkiliyor/4112758",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T10:15:41+00:00",
+   "url": "/haber/yurdun-bazi-kesimlerinde-etkili-olan-saganak-yasami-olumsuz-etkiliyor-9153062f/"
   },
   {
    "id": "9e91886e",
@@ -266,17 +387,6 @@
    "url": "/haber/gazprom-cin-e-gunluk-gaz-sevkiyatinda-kasimda-ucuncu-rekorunu-kirdi-d17f9298/"
   },
   {
-   "id": "a1a91e2e",
-   "title": "İran Meclis Başkanı'ndan \"Vance'in açıklamasına rağmen Trump savaşın sonraki aşamasına hazırlanıyor\" yorumu",
-   "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD Başkan Yardımcısı JD Vance'in İran ile savaşın durdurulması gerektiğine dair açıklamasına rağmen ABD'nin, \"savaşın bir sonraki aşamasına\" hazırlık yaptığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskanindan-vancein-aciklamasina-ragmen-trump-savasin-sonraki-asamasina-hazirlaniyor-yorumu/4112702",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T09:46:39+00:00",
-   "url": "/haber/iran-meclis-baskani-ndan-vance-in-aciklamasina-ragmen-trump-savasin-so-a1a91e2e/"
-  },
-  {
    "id": "7f0e38da",
    "title": "Denizaltıların keşif ve gözetleme yeteneği ASELSAN MERCAN 100 ile artacak",
    "summary": "ASELSAN, modern denizaltı platformlarının keşif, gözetleme, hedef tespiti ve takip ihtiyaçlarını karşılamak üzere gelişmiş elektro-optik kabiliyetler sunan MERCAN 100 Denizaltı Optronik Mast Sistemi'ni geliştirdi.",
@@ -297,17 +407,6 @@
    "category": "gundem",
    "date": "2026-11-05T09:45:30+00:00",
    "url": "/haber/avrupa-parlamentosu-komitesi-otomobillerin-2035-emisyon-hedefinin-dusu-3c865eab/"
-  },
-  {
-   "id": "e4a79ee1",
-   "title": "Türk Telekom'dan üçüncü çeyrekte gelir ve yatırımda güçlü büyüme",
-   "summary": "Türk Telekom, 2026'nın üçüncü çeyreğinde büyüme ivmesini hızlandırarak konsolide gelirlerini yıllık bazda yüzde 11,9 artışla 86,4 milyar liraya yükseltti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekomdan-ucuncu-ceyrekte-gelir-ve-yatirimda-guclu-buyume/4112699",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T09:45:17+00:00",
-   "url": "/haber/turk-telekom-dan-ucuncu-ceyrekte-gelir-ve-yatirimda-guclu-buyume-e4a79ee1/"
   },
   {
    "id": "42f894d0",
@@ -442,17 +541,6 @@
    "url": "/haber/netflix-turkiye-ye-10-milyar-tl-yatiracak-ae76e747/"
   },
   {
-   "id": "73c22d92",
-   "title": "Sinop'ta sağanak hayatı olumsuz etkiledi",
-   "summary": "Sinop'un Türkeli ilçesinde etkili olan sağanak, hayatı olumsuz etkiledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/sinopta-saganak-hayati-olumsuz-etkiledi/4112505",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T09:08:41+00:00",
-   "url": "/haber/sinop-ta-saganak-hayati-olumsuz-etkiledi-73c22d92/"
-  },
-  {
    "id": "cdb00055",
    "title": "Bakan Şimşek: 179 bin 449 kişi net yatırım tutarının tamamını aldı",
    "summary": "Hazine ve Maliye Bakanı Şimşek, \"Tasfiyedeki fonlarda 614 bin 874 hesaba 130,2 milyar lira ödeme yapıldı, 179 bin 449 kişi net yatırım tutarının tamamını aldı\" dedi.",
@@ -519,17 +607,6 @@
    "url": "/haber/rusya-ilk-hidrojenli-yolcu-trenini-uretti-740-km-menzil-sunacak-183d1bc2/"
   },
   {
-   "id": "678a8785",
-   "title": "Türkiye'nin derin bilim girişimleri için pazara çıkma zamanı",
-   "summary": "SER Danışmanlık Genel Müdürü Dr. Ömer Özdinç, Türkiye'nin son 5 yılda derin bilim girişimlerini en hızlı artıran orta gelirli ülke olduğunu belirterek, \"Bu ivmeyi sürdürmeli ve bu girişimleri pazarda satılan ürünlere…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyenin-derin-bilim-girisimleri-icin-pazara-cikma-zamani/4112396",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T08:51:35+00:00",
-   "url": "/haber/turkiye-nin-derin-bilim-girisimleri-icin-pazara-cikma-zamani-678a8785/"
-  },
-  {
    "id": "cfb32a15",
    "title": "Samsung, TV’lerine yönelik gizlilik endişelerine yanıt verdi",
    "summary": "Log4j’nin X’te paylaştığı iddialar, Samsung markalı bir akıllı televizyona sahip olan kişileri oldukça endişelendirmişti. Araştırmacının iddialarına göre Samsung’un Tizen işletim sistemli akıllı televizyonları,…",
@@ -572,17 +649,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T08:44:19+00:00",
    "url": "/haber/apple-macbook-neo-icin-buyuk-beklenti-icinde-8d3d0b89/"
-  },
-  {
-   "id": "c84bb01a",
-   "title": "Robotik Türkiye Platformu kuruldu",
-   "summary": "Türkiye Bilişim Vakfı'nın kurduğu Robotik Türkiye Platformu, fiziksel yapay zeka ve robotik alanındaki kurumları tek çatı altında buluşturmak için çalışmalara başladı.",
-   "link": "https://shiftdelete.net/robotik-turkiye-platformu-kuruldu",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/2c930ab6c3bdffdae19ee12fff12fff45add1eeb.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T08:39:52+00:00",
-   "url": "/haber/robotik-turkiye-platformu-kuruldu-c84bb01a/"
   },
   {
    "id": "b19fbf29",
@@ -638,17 +704,6 @@
    "category": "gundem",
    "date": "2026-11-05T08:28:00+00:00",
    "url": "/haber/ruzgar-ve-guneste-2040-hedefi-175-bin-megavat-kurulu-guc-4c1072ec/"
-  },
-  {
-   "id": "c5c7df5b",
-   "title": "Huawei Nova 16 serisi 3 milyonu aştı",
-   "summary": "Huawei Nova 16 serisi, Çin'de haziranda çıktığı günden beri 3 milyondan fazla sattı. Serinin fiyatı, ekranı, kamerası ve bataryası da öne çıkıyor.",
-   "link": "https://shiftdelete.net/huawei-nova-16-serisi-3-milyon-satis",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/21d7eb3c36fbc854cde0094c7b4e999cefef87d2.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T08:24:43+00:00",
-   "url": "/haber/huawei-nova-16-serisi-3-milyonu-asti-c5c7df5b/"
   },
   {
    "id": "e8699cce",
@@ -748,17 +803,6 @@
    "category": "gundem",
    "date": "2026-11-05T08:03:50+00:00",
    "url": "/haber/gana-da-aort-damarinin-capi-11-santimetreye-ulasan-hasta-turkiye-de-sa-a7fd6bd7/"
-  },
-  {
-   "id": "d7cbcf97",
-   "title": "COP31, Türkiye'nin elektrikli ulaşım teknolojilerini dünyaya tanıtma fırsatı sağlayacak",
-   "summary": "Emobilite Operatörleri Derneği Başkanı Somalı, COP31'i Türkiye'nin elektrikli ulaşım dönüşümünü hızlandıracak ve bu alandaki yerli teknoloji kapasitesini dünyaya gösterecek stratejik bir fırsat olarak gördüklerini…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cop31-turkiyenin-elektrikli-ulasim-teknolojilerini-dunyaya-tanitma-firsati-saglayacak/4112297",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T08:02:12+00:00",
-   "url": "/haber/cop31-turkiye-nin-elektrikli-ulasim-teknolojilerini-dunyaya-tanitma-fi-d7cbcf97/"
   },
   {
    "id": "6c0f62be",
@@ -915,17 +959,6 @@
    "url": "/haber/huawei-nin-osta-adini-tasiyacagi-iddia-edilen-alt-markasindan-iki-yeni-c31d879a/"
   },
   {
-   "id": "e8a59362",
-   "title": "ABD'de Cumhuriyetçilerin ağır yenilgi almasının beş nedeni",
-   "summary": "ABD ara seçimlerinde Demokratlar ezici bir zafer kazanarak Kongre'de kontrolünü ele geçirdi. Cumhuriyetçilerin aldığı yenilginin büyüklüğü, Donald Trump'ın Beyaz Saray'daki ilk iki senesine yönelik güçlü bir tepki…",
-   "link": "https://www.bbc.com/turkce/articles/cqn734jpd8vro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af16/live/b7f5b9f0-d84a-11f1-b870-55415e6a9944.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-05T07:11:30+00:00",
-   "url": "/haber/abd-de-cumhuriyetcilerin-agir-yenilgi-almasinin-bes-nedeni-e8a59362/"
-  },
-  {
    "id": "5afb6256",
    "title": "Bluetooth'un hızı dörde katlanacak: Yeni HDT teknolojisi duyuruldu",
    "summary": "Bluetooth SIG, yeni HDT teknolojisini duyurdu. Bluetooth LE'nin hızını 2 Mbps'den 7,5 Mbps'ye çıkaracak yenilik, kablosuz kulaklıklardan akıllı saatlere kadar birçok cihazın performansını artıracak.",
@@ -974,7 +1007,7 @@
    "title": "MİT ve Emniyet'ten ortak operasyon: Daltonlar suç örgütü üyesi Türkiye'de",
    "summary": "İçişleri Bakanlığı, uluslararası seviyede kırmızı bültenle aranan Daltonlar organize suç örgütü üyesi Gökhan Şahin’in Gürcistan’da yakalanarak Türkiye’ye iade edildiğini duyurdu.",
    "link": "https://www.trthaber.com/haber/gundem/mit-ve-emniyetten-ortak-operasyon-daltonlar-suc-orgutu-uyesi-turkiyede-962305.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/orgut-uyesi-gokhan-sahin-2501316.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/suc-orgutu-uyesi-2501458.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-05T07:03:00+00:00",
@@ -1036,6 +1069,17 @@
    "url": "/haber/chatgpt-google-arama-trafiginin-yuzde-20-sine-ulasti-1b7c1fa7/"
   },
   {
+   "id": "4177c2d2",
+   "title": "KARDEMİR'den yılın dokuz ayında 6,58 milyar lira net kar",
+   "summary": "KARDEMİR, 2026'nın dokuz ayında 6,58 milyar lira net kar elde etti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kardemirden-yilin-dokuz-ayinda-6-58-milyar-lira-net-kar/4112056",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-04T20:36:27+00:00",
+   "url": "/haber/kardemir-den-yilin-dokuz-ayinda-6-58-milyar-lira-net-kar-4177c2d2/"
+  },
+  {
    "id": "606e68d0",
    "title": "Adli Tıp: Kaşif Kozinoğlu'nun ölüm nedeni kalp hastalığı",
    "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüne ilişkin yeniden başlatılan soruşturmada gözaltına alınıp daha sonra serbest bırakılan eski cezaevi doktoru Turgay Tamer İstanbul'daki evinde ölü bulundu.",
@@ -1045,28 +1089,6 @@
    "category": "gundem",
    "date": "2026-11-04T20:28:41+00:00",
    "url": "/haber/adli-tip-kasif-kozinoglu-nun-olum-nedeni-kalp-hastaligi-606e68d0/"
-  },
-  {
-   "id": "50f1f802",
-   "title": "Galaxy S27 Pro'da Snapdragon sürprizi: S27 Ultra'dan farklı olacak",
-   "summary": "Samsung'un gelecek yıl tanıtacağı Galaxy S27 ailesinin işlemci detayları ortaya çıktı. Şirketin dört modelde üç farklı işlemci kullanması bekleniyor.",
-   "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinde-uc-farkli-islemci-yer-alacak--212485",
-   "image": "https://www.donanimhaber.com/images/images/haber/212485/1200x675samsung-galaxy-s27-serisinde-uc-farkli-islemci-yer-alacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-04T20:26:00+00:00",
-   "url": "/haber/galaxy-s27-pro-da-snapdragon-surprizi-s27-ultra-dan-farkli-olacak-50f1f802/"
-  },
-  {
-   "id": "72974279",
-   "title": "AKSUNGUR, İHA'dan sonobuoy bırakarak denizaltı tespiti yaptı",
-   "summary": "TUSAŞ'ın AKSUNGUR İHA'sı Akdeniz'de ilk kez havadan sonobuoy bırakarak denizaltı tespit görevi gerçekleştirdi. Toplanan veriler ise Ankara'da işlendi ve hedefler tespit edildi.",
-   "link": "https://www.donanimhaber.com/aksungur-iha-dan-sonobuoy-birakarak-denizalti-tespiti-yapti--212482",
-   "image": "https://www.donanimhaber.com/images/images/haber/212482/1200x675aksungur-iha-dan-sonobuoy-birakarak-denizalti-tespiti-yapti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-04T20:04:00+00:00",
-   "url": "/haber/aksungur-iha-dan-sonobuoy-birakarak-denizalti-tespiti-yapti-72974279/"
   },
   {
    "id": "9b8eab4c",
@@ -1124,17 +1146,6 @@
    "url": "/haber/agirel-saymaz-balci-ve-saban-sevinc-e-hapis-istemleri-47f057a3/"
   },
   {
-   "id": "4e33e8dd",
-   "title": "Türkiye-ABD ilişkisi ara seçimlerden sonra nasıl şekillenecek?",
-   "summary": "Demokratlar, ABD ara seçimlerinde Başkan Donald Trump ve Cumhuriyetçileri hezimete uğrattı. İktidarının kalan iki yılını \"topal ördek\" olarak geçirecek Trump'ın dış politika yaklaşımının değişmesi bekleniyor. Peki…",
-   "link": "https://www.bbc.com/turkce/articles/ck5ynwejp2g5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db06/live/206fbb60-d851-11f1-b710-b15e87d8ef65.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-04T14:23:16+00:00",
-   "url": "/haber/turkiye-abd-iliskisi-ara-secimlerden-sonra-nasil-sekillenecek-4e33e8dd/"
-  },
-  {
    "id": "78899d3b",
    "title": "ABD'deki seçimler İran'da nasıl yorumlandı?",
    "summary": "ABD Kongre ara seçimlerinde Demokratların, resmi olmayan sonuçlara göre Senatoda 54, Temsilciler Meclisinde ise 228 sandalyeye ulaşarak her iki kanatta çoğunluğu elde etmesi, İran'da Washington yönetiminin Tahran'a…",
@@ -1155,17 +1166,6 @@
    "category": "gundem",
    "date": "2026-11-04T12:50:00+00:00",
    "url": "/haber/turkiyeguney-kore-stratejik-is-birlikleri-uluslararasi-basinda-6613e46c/"
-  },
-  {
-   "id": "4701d041",
-   "title": "Bayraktar TB2'den ezber bozan kabiliyet: 16 FPV Drone ile atış testi",
-   "summary": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, Bayraktar TB2 SİHA’nın kanatları altına yerleştirilen 16 adet FPV drone ile gerçekleştirdiği atış testinin başarıyla tamamlandığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/savunma/bayraktar-tb2den-ezber-bozan-kabiliyet-16-fpv-drone-ile-atis-testi-962225.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/tb2-fpv-drone-testi-2501111.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-04T10:53:00+00:00",
-   "url": "/haber/bayraktar-tb2-den-ezber-bozan-kabiliyet-16-fpv-drone-ile-atis-testi-4701d041/"
   },
   {
    "id": "35493a8f",
