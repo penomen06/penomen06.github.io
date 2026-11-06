@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-06T20:01:02.688303+00:00",
+ "updated": "2026-11-06T20:30:57.874959+00:00",
  "items": [
+  {
+   "id": "26951443",
+   "title": "ABD Başkanı Trump, İran'la görüşmelerin sürdüğünü belirtti",
+   "summary": "ABD Başkanı Donald Trump, İran'la görüşmelerin sürdüğünü belirterek, \"İran konusunda çok iyi gidiyoruz. İran ile görüşüyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-gorusmelerin-surdugunu-belirtti/4114761",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T20:25:09+00:00",
+   "url": "/haber/abd-baskani-trump-iran-la-gorusmelerin-surdugunu-belirtti-26951443/"
+  },
+  {
+   "id": "50880506",
+   "title": "ABD'deki seçimler teknoloji şirketlerine ağır darbe indirdi: Bir günde 2 trilyon dolar kayıp",
+   "summary": "Trump'ın partisinin bu haftaki seçimlerde hezimete uğraması teknoloji şirketlerine de büyük darbe indirdi. Planlanan veri merkezi ve yapay zekâ yatırımları tehlikeye girince hisseler çakıldı.",
+   "link": "https://www.donanimhaber.com/abd-deki-secimler-teknoloji-sirketlerine-agir-darbe-indirdi--212588",
+   "image": "https://www.donanimhaber.com/images/images/haber/212588/1200x675abd-deki-secimler-teknoloji-sirketlerine-agir-darbe-indirdi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-06T20:20:00+00:00",
+   "url": "/haber/abd-deki-secimler-teknoloji-sirketlerine-agir-darbe-indirdi-bir-gunde-50880506/"
+  },
+  {
+   "id": "bbb82f8d",
+   "title": "Alphabet'ten Qualcomm'a 548 milyon dolar",
+   "summary": "Alphabet'in, Qualcomm'un yapay zeka veri merkezi atılımını desteklemek için şirkete yaklaşık 548 milyon dolar yatırdığı bildirildi.",
+   "link": "https://shiftdelete.net/alphabet-qualcomm-548-milyon-dolar-yatirim",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/qualcomm-alphabet-yatirim-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-06T20:10:42+00:00",
+   "url": "/haber/alphabet-ten-qualcomm-a-548-milyon-dolar-bbb82f8d/"
+  },
+  {
+   "id": "4bf00cfe",
+   "title": "Bakan Ersoy: COP31 sahası etkinlik bittikten sonra Kültür ve Turizm Bakanlığının yönetimine devrediliyor",
+   "summary": "Kültür ve Turizm Bakanı Ersoy,\"COP31 sahası, etkinlik bittikten sonra aşamalı bir şekilde Kültür ve Turizm Bakanlığının yönetimine devrediliyor. TGA içinde kurduğumuz MICE Başkanlığı, buranın devrini almış olacak.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/cop31/bakan-ersoy-cop31-sahasi-etkinlik-bittikten-sonra-kultur-ve-turizm-bakanliginin-yonetimine-devrediliyor/4114743",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T20:09:31+00:00",
+   "url": "/haber/bakan-ersoy-cop31-sahasi-etkinlik-bittikten-sonra-kultur-ve-turizm-bak-4bf00cfe/"
+  },
+  {
+   "id": "aefebafc",
+   "title": "Gazze'de 500 kişi, İsrail saldırılarının ve ablukanın gölgesinde enkazların arasında dünyaevine girdi",
+   "summary": "Filistinli damat Said en-Neccar, “Bu sevinç yalnızca bir damadın ya da 250 damadın değil, bütün Gazze halkının sevincidir.” dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-500-kisi-israil-saldirilarinin-ve-ablukanin-golgesinde-enkazlarin-arasinda-dunyaevine-girdi/4114735",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T20:01:51+00:00",
+   "url": "/haber/gazze-de-500-kisi-israil-saldirilarinin-ve-ablukanin-golgesinde-enkazl-aefebafc/"
+  },
   {
    "id": "b6ac2488",
    "title": "Tesla'nın büyük hayal kırıklığı: Cybertruck üretimden kalkıyor!",
@@ -222,28 +277,6 @@
    "url": "/haber/tir-ile-carpisan-otomobil-alev-topuna-dondu-iki-kisi-feci-sekilde-yana-8fe54419/"
   },
   {
-   "id": "986e4efb",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: (Fon tasfiye süreci) Gelecek hafta cuma günü bir ödeme yapma yönünde hazırlık içindeyiz",
-   "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, fon tasfiye sürecine ilişkin, \"Gelecek hafta cuma günü yine bir ödeme yapma yönünde hazırlık içindeyiz. TMSF'de biriken bir miktar var. Yine bu bankalar ve saklama kuruluşları nezdindeki…",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiye-sureci-gelecek-hafta-cuma-gunu-bir-odeme-yapma-yonunde-hazirlik-icindeyiz/4114684",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T18:47:37+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiye-sureci-gelecek-hafta-cuma-986e4efb/"
-  },
-  {
-   "id": "dddeba7d",
-   "title": "ABD'deki ara seçimlerde Temsilciler Meclisinde Demokratlar 253, Cumhuriyetçiler 161 sandalyeye ulaştı",
-   "summary": "ABD'de 3 Kasım'da düzenlenen Kongre ara seçimlerinde oy sayımı devam ederken, Temsilciler Meclisinde Demokratlar 253, Cumhuriyetçiler 161 sandalye kazandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abddeki-ara-secimlerde-temsilciler-meclisinde-demokratlar-253-cumhuriyetciler-161-sandalyeye-ulasti/4114681",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T18:41:04+00:00",
-   "url": "/haber/abd-deki-ara-secimlerde-temsilciler-meclisinde-demokratlar-253-cumhuri-dddeba7d/"
-  },
-  {
    "id": "ce25f0ee",
    "title": "Gaziosmanpaşa Belediyesi davası. Hakan Bahçetepe ev hapsi ile tahliye edildi",
    "summary": "Gaziosmanpaşa Belediyesi davasında tutuklu bulunan ve görevden uzaklaştırılan Belediye Başkanı Hakan Bahçetepe, ev hapsi kararıyla tahliye edildi.",
@@ -253,17 +286,6 @@
    "category": "gundem",
    "date": "2026-11-06T18:37:40+00:00",
    "url": "/haber/gaziosmanpasa-belediyesi-davasi-hakan-bahcetepe-ev-hapsi-ile-tahliye-e-ce25f0ee/"
-  },
-  {
-   "id": "c71eefc6",
-   "title": "Fransa'da lise eylemleri kapsamında 10 kişi daha gözaltına alındı",
-   "summary": "Fransa'da daha iyi eğitim koşulları talebiyle düzenlenen eylemler kapsamında 10 kişinin daha gözaltına alındığı öğrenildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-lise-eylemleri-kapsaminda-10-kisi-daha-gozaltina-alindi/4114678",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T18:32:32+00:00",
-   "url": "/haber/fransa-da-lise-eylemleri-kapsaminda-10-kisi-daha-gozaltina-alindi-c71eefc6/"
   },
   {
    "id": "44d9bd0c",
@@ -286,6 +308,17 @@
    "category": "teknoloji",
    "date": "2026-11-06T18:28:00+00:00",
    "url": "/haber/keanu-reeves-in-rol-alacagi-yeni-john-wick-filmi-duyuruldu-51a03720/"
+  },
+  {
+   "id": "fc87c16e",
+   "title": "Hakan Bahçetepe ve 8 sanığın yargılandığı davada karar",
+   "summary": "Tutuklanmasının ardından Gaziosmanpaşa Belediye Başkanlığı görevinden uzaklaştırılan Hakan Bahçetepe ile 8 sanığın yargılandığı dava karara bağlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/hakan-bahcetepe-ve-8-sanigin-yargilandigi-davada-karar/4114668",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T18:18:47+00:00",
+   "url": "/haber/hakan-bahcetepe-ve-8-sanigin-yargilandigi-davada-karar-fc87c16e/"
   },
   {
    "id": "e1ba91d4",
@@ -352,17 +385,6 @@
    "category": "gundem",
    "date": "2026-11-06T18:02:20+00:00",
    "url": "/haber/kasimpasa-deplasmandan-3-puanla-ayrildi-51440444/"
-  },
-  {
-   "id": "445fb605",
-   "title": "Fenerbahçe takım otobüsüne saldırıya ilişkin 5 şüpheli hakkındaki iddianame tamamlandı",
-   "summary": "Fenerbahçe takım otobüsüne Nisan 2015'te Trabzon'un Sürmene ilçesinde gerçekleştirilen silahlı saldırıya yönelik 5 şüpheli hakkında iddianame düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/fenerbahce-takim-otobusune-saldiriya-iliskin-5-supheli-hakkindaki-iddianame-tamamlandi/4114655",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T17:48:42+00:00",
-   "url": "/haber/fenerbahce-takim-otobusune-saldiriya-iliskin-5-supheli-hakkindaki-iddi-445fb605/"
   },
   {
    "id": "b77b2722",
@@ -596,17 +618,6 @@
    "url": "/haber/son-dakika-mugla-da-deprem-mi-oldu-az-once-deprem-mugla-da-nerede-oldu-fbe2c457/"
   },
   {
-   "id": "5ad9fc94",
-   "title": "Motorola Signature 27 yedi yıl güncelleme alacak",
-   "summary": "Motorola, Signature 27 için yedi yıllık Android sürüm desteği sundu. Signature 27 güncelleme takvimi 26 Kasım'daki satışla başlıyor ve Kasım 2033'e uzanıyor.",
-   "link": "https://shiftdelete.net/signature-27-guncelleme-suresi-yedi-yil",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/b4ed040858660eef0396d56ae5c30f8c3d7a5086.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-06T15:47:00+00:00",
-   "url": "/haber/motorola-signature-27-yedi-yil-guncelleme-alacak-5ad9fc94/"
-  },
-  {
    "id": "7bcfd180",
    "title": "Once Upon a Time in Hollywood'un devam filminden yeni fragman yayınlandı",
    "summary": "Once Upon a Time in Hollywood'un David Fincher tarafından yönetilen devam filminden yeni fragman geldi. The Further Mis-Adventures of Cliff Booth adını taşıyan film, bu yıl Netflix'te yayınlanacak.",
@@ -627,17 +638,6 @@
    "category": "gundem",
    "date": "2026-11-06T15:30:08+00:00",
    "url": "/haber/ab-nin-stratejik-uyum-talebi-turkiye-icin-yeni-bir-engel-olur-mu-8264f015/"
-  },
-  {
-   "id": "dd3bc419",
-   "title": "ABD hava trafik kontrolünde onlarca yıllık disket dönemi sona eriyor",
-   "summary": "ABD, hava trafik kontrol sistemlerinde kullanılan disketleri tarihe gömmeye hazırlanıyor. FAA, 435 tesisteki eski altyapıyı 2028 sonuna kadar modern sistemlerle değiştirecek.",
-   "link": "https://www.donanimhaber.com/abd-hava-trafik-kontrolunde-disket-donemi-sona-eriyor--212583",
-   "image": "https://www.donanimhaber.com/images/images/haber/212583/1200x675abd-hava-trafik-kontrolunde-disket-donemi-sona-eriyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-06T15:25:00+00:00",
-   "url": "/haber/abd-hava-trafik-kontrolunde-onlarca-yillik-disket-donemi-sona-eriyor-dd3bc419/"
   },
   {
    "id": "74edabe5",
