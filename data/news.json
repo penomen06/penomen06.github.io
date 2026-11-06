@@ -1,16 +1,82 @@
 {
- "updated": "2026-11-06T18:30:51.548851+00:00",
+ "updated": "2026-11-06T19:01:03.787214+00:00",
  "items": [
   {
    "id": "c5055826",
-   "title": "Kılıçdaroğlu'ndan NTV'ye özel açıklamalar",
-   "summary": "CHP Genel Başkanı Kılıçdaroğlu, NTV'de gündeme ilişkin açıklamalarda bulunuyor.",
+   "title": "Kılıçdaroğlu'ndan erken seçim teklifine destek mesajı. \"Bir muhalefet partisi seçimden kaçmaz\"",
+   "summary": "CHP Genel Başkanı Kılıçdaroğlu, erken seçim teklifine destek vereceklerini söyleyerek, \"Bir muhalefet partisinin seçimden kaçma gibi bir lüksü olamaz\" dedi.",
    "link": "https://www.ntv.com.tr/turkiye/kilicdaroglundan-ntvye-ozel-aciklamalar-1749722",
    "image": "https://images.ntv.com.tr/images/AA-20261031-42925319-42925307-CHP_GENEL_BASKANI_KILICDAROGLU_GENCLIK_KOLLARI_IL_KOORDINASYONU_TOPLANTISINDA_KONUSTU-597605.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-06T18:30:18+00:00",
-   "url": "/haber/kilicdaroglu-ndan-ntv-ye-ozel-aciklamalar-c5055826/"
+   "date": "2026-11-06T19:00:31+00:00",
+   "url": "/haber/kilicdaroglu-ndan-erken-secim-teklifine-destek-mesaji-bir-muhalefet-pa-c5055826/"
+  },
+  {
+   "id": "693c8bb9",
+   "title": "Fabrikalardaki atık ısıyı enerjiye dönüştüren endüstriyel ısı pompası tanıtıldı",
+   "summary": "Doğaz gaz kazanlarına alternatif geliyor. ABD'li Johnson Controls, fabrikalardaki atık ısıyı yeniden kullanarak 87,8 dereceye kadar sıcak su üretebilen endüstriyel ısı pompasını tanıttı.",
+   "link": "https://www.donanimhaber.com/atik-isiyi-enerjiye-donusturen-endustriyel-isi-pompasi-tanitildi--212549",
+   "image": "https://www.donanimhaber.com/images/images/haber/212549/1200x675atik-isiyi-enerjiye-donusturen-endustriyel-isi-pompasi-tanitildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-06T18:50:00+00:00",
+   "url": "/haber/fabrikalardaki-atik-isiyi-enerjiye-donusturen-endustriyel-isi-pompasi-693c8bb9/"
+  },
+  {
+   "id": "8fe54419",
+   "title": "TIR ile çarpışan otomobil alev topuna döndü. İki kişi feci şekilde yanarak öldü",
+   "summary": "Çanakkale'de TIR ile otomobil kafa kafaya çarpıştı. Kazada TIR sürücüsü yaralanırken, otomobilde bulunan iki kişi yanarak hayatını kaybetti.",
+   "link": "https://www.ntv.com.tr/turkiye/tir-ile-carpisan-otomobil-alev-topuna-dondu-iki-kisi-feci-sekilde-yanarak-oldu-1749727",
+   "image": "https://images.ntv.com.tr/images/AW827073_03-187623.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-06T18:49:54+00:00",
+   "url": "/haber/tir-ile-carpisan-otomobil-alev-topuna-dondu-iki-kisi-feci-sekilde-yana-8fe54419/"
+  },
+  {
+   "id": "986e4efb",
+   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: (Fon tasfiye süreci) Gelecek hafta cuma günü bir ödeme yapma yönünde hazırlık içindeyiz",
+   "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, fon tasfiye sürecine ilişkin, \"Gelecek hafta cuma günü yine bir ödeme yapma yönünde hazırlık içindeyiz. TMSF'de biriken bir miktar var. Yine bu bankalar ve saklama kuruluşları nezdindeki…",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiye-sureci-gelecek-hafta-cuma-gunu-bir-odeme-yapma-yonunde-hazirlik-icindeyiz/4114684",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T18:47:37+00:00",
+   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiye-sureci-gelecek-hafta-cuma-986e4efb/"
+  },
+  {
+   "id": "dddeba7d",
+   "title": "ABD'deki ara seçimlerde Temsilciler Meclisinde Demokratlar 253, Cumhuriyetçiler 161 sandalyeye ulaştı",
+   "summary": "ABD'de 3 Kasım'da düzenlenen Kongre ara seçimlerinde oy sayımı devam ederken, Temsilciler Meclisinde Demokratlar 253, Cumhuriyetçiler 161 sandalye kazandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abddeki-ara-secimlerde-temsilciler-meclisinde-demokratlar-253-cumhuriyetciler-161-sandalyeye-ulasti/4114681",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T18:41:04+00:00",
+   "url": "/haber/abd-deki-ara-secimlerde-temsilciler-meclisinde-demokratlar-253-cumhuri-dddeba7d/"
+  },
+  {
+   "id": "ce25f0ee",
+   "title": "Gaziosmanpaşa Belediyesi davası. Hakan Bahçetepe ev hapsi ile tahliye edildi",
+   "summary": "Gaziosmanpaşa Belediyesi davasında tutuklu bulunan ve görevden uzaklaştırılan Belediye Başkanı Hakan Bahçetepe, ev hapsi kararıyla tahliye edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-1749718",
+   "image": "https://images.ntv.com.tr/images/HakanBah_C3_A7etepe-473077-185536-721701.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-06T18:37:40+00:00",
+   "url": "/haber/gaziosmanpasa-belediyesi-davasi-hakan-bahcetepe-ev-hapsi-ile-tahliye-e-ce25f0ee/"
+  },
+  {
+   "id": "c71eefc6",
+   "title": "Fransa'da lise eylemleri kapsamında 10 kişi daha gözaltına alındı",
+   "summary": "Fransa'da daha iyi eğitim koşulları talebiyle düzenlenen eylemler kapsamında 10 kişinin daha gözaltına alındığı öğrenildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-lise-eylemleri-kapsaminda-10-kisi-daha-gozaltina-alindi/4114678",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T18:32:32+00:00",
+   "url": "/haber/fransa-da-lise-eylemleri-kapsaminda-10-kisi-daha-gozaltina-alindi-c71eefc6/"
   },
   {
    "id": "44d9bd0c",
@@ -165,17 +231,6 @@
    "category": "gundem",
    "date": "2026-11-06T17:33:36+00:00",
    "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-turkiye-diplomatik-temaslarini-genisle-53583cac/"
-  },
-  {
-   "id": "ce25f0ee",
-   "title": "Gaziosmanpaşa Belediyesi davası. Hakan Bahçetepe ev hapsi ile tahliye edildi",
-   "summary": "Gaziosmanpaşa Belediyesi davasında tutuklu bulunan ve görevden uzaklaştırılan Belediye Başkanı Hakan Bahçetepe, ev hapsi kararıyla tahliye edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-1749718",
-   "image": "https://images.ntv.com.tr/images/HakanBah_C3_A7etepe-473077-185536-721701.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-06T17:29:00+00:00",
-   "url": "/haber/gaziosmanpasa-belediyesi-davasi-hakan-bahcetepe-ev-hapsi-ile-tahliye-e-ce25f0ee/"
   },
   {
    "id": "4d5b6dd3",
@@ -343,17 +398,6 @@
    "url": "/haber/ios-klavyesinde-gizli-yasakli-kelime-listesi-7ded3d09/"
   },
   {
-   "id": "bbafb11b",
-   "title": "TBMM Başkanı Kurtulmuş: Hem Terörsüz Türkiye sürecine sahip çıkacağız hem provokasyonlara asla müsaade etmeyeceğiz",
-   "summary": "Numan Kurtulmuş, \"(Terörsüz Türkiye) Hep beraber hem sürece sahip çıkacağız hem sürecin bundan sonraki kısımlarında uyanık olacağız. Provokasyonlara asla müsaade etmeyeceğiz. Kullanılan dilin sahih, dost ve kardeşçe…",
-   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-hem-terorsuz-turkiye-surecine-sahip-cikacagiz-hem-provokasyonlara-asla-musaade-etmeyecegiz/4114600",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T16:37:24+00:00",
-   "url": "/haber/tbmm-baskani-kurtulmus-hem-terorsuz-turkiye-surecine-sahip-cikacagiz-h-bbafb11b/"
-  },
-  {
    "id": "647bc87e",
    "title": "Teknoloji hisseleri trilyonlarca dolarlık kaybın ardından toparlanıyor",
    "summary": "Teknoloji devlerinin hisselerinde yapay zeka yatırımlarının yavaşlama ihtimaline dair endişeler sebebiyle trilyonlarca dolarlık düşüş yaşandı. Uzmanlara göre düşüşün ardında yatırımcıların yapay zeka yatırımlarından…",
@@ -431,17 +475,6 @@
    "url": "/haber/google-a-yapay-zeka-davasi-ogrenciye-zarar-4570467a/"
   },
   {
-   "id": "973f72e6",
-   "title": "TCMB Başkanı Karahan: Fon piyasasındaki gelişmelerin bankacılık sistemi ve diğer piyasalarla etkileşimini takip ediyoruz",
-   "summary": "TCMB Başkanı Karahan, fon piyasasındaki gelişmelerin bankacılık sistemi ve diğer finansal piyasalarla olan etkileşimini yakından takip ettiklerini belirterek, \"Gerek görülmesi halinde her türlü ek tedbiri proaktif bir…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-fon-piyasasindaki-gelismelerin-bankacilik-sistemi-ve-diger-piyasalarla-etkilesimini-takip-ediyoruz/4114582",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T16:12:58+00:00",
-   "url": "/haber/tcmb-baskani-karahan-fon-piyasasindaki-gelismelerin-bankacilik-sistemi-973f72e6/"
-  },
-  {
    "id": "c68c6682",
    "title": "Irak’ın Amare kentinde Osmanlı döneminde yaptırılan Ulu Cami restore edildi",
    "summary": "Irak’ın güneyindeki Amare kentinde Osmanlı döneminde 1861 yılında yaptırılan, kentin ilk ve tek tarihi yapısı olan Ulu Cami’nin yaklaşık iki yıl önce başlatılan restorasyonu tamamlandı.",
@@ -462,17 +495,6 @@
    "category": "teknoloji",
    "date": "2026-11-06T16:09:00+00:00",
    "url": "/haber/honor-700-serisi-ortaya-cikti-uc-modelde-de-arka-ekran-bulunuyor-471293ef/"
-  },
-  {
-   "id": "e1a66657",
-   "title": "Bakan Kacır, KKTC Cumhurbaşkanı Erhürman ile İstanbul'da görüştü",
-   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman ile İstanbul'da bir araya geldiklerini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kacir-kktc-cumhurbaskani-erhurman-ile-istanbulda-gorustu/4114573",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T16:04:51+00:00",
-   "url": "/haber/bakan-kacir-kktc-cumhurbaskani-erhurman-ile-istanbul-da-gorustu-e1a66657/"
   },
   {
    "id": "4a34af83",
@@ -715,17 +737,6 @@
    "category": "teknoloji",
    "date": "2026-11-06T14:00:03+00:00",
    "url": "/haber/call-of-duty-mobile-10-sezon-ile-gelecek-yenilikler-belli-oldu-c3dd530c/"
-  },
-  {
-   "id": "e4f77795",
-   "title": "Türkiye'nin uzay bütçesi 3 yılda 20 milyar lirayı aşacak",
-   "summary": "Türkiye Uzay Ajansı’nın (TUA) 2027-2029 dönemindeki bütçesinin 20 milyar lirayı aşması planlanıyor. Ajans, Ay görevi, uzay limanı ve füzyon teknolojisi gibi projelere odaklanıyor.",
-   "link": "https://www.donanimhaber.com/turkiye-nin-uzay-butcesi-3-yilda-20-milyar-lirayi-asacak--212576",
-   "image": "https://www.donanimhaber.com/images/images/haber/212576/1200x675turkiye-nin-uzay-butcesi-3-yilda-20-milyar-lirayi-asacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-06T13:55:00+00:00",
-   "url": "/haber/turkiye-nin-uzay-butcesi-3-yilda-20-milyar-lirayi-asacak-e4f77795/"
   },
   {
    "id": "b0fc4780",
@@ -1056,17 +1067,6 @@
    "category": "gundem",
    "date": "2026-11-06T09:43:19+00:00",
    "url": "/haber/fon-sorusturmasinda-yeni-gelisme-adliyeye-sevk-edildiler-dbaba223/"
-  },
-  {
-   "id": "361e7fa6",
-   "title": "Başsavcılıktan Arif Ahmet Denizolgun için ayrıntılı rapor talebi",
-   "summary": "Adli Tıp Kurumu, eski bakan Arif Ahmet Denizolgun'un ölümünün yüksek tansiyona bağlı beyin kanaması sonucu meydana geldiğini bildirdi. Başsavcılık, ayrıntılı rapor talep etti.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bassavciliktan-arif-ahmet-denizolgun-icin-ayrintili-rapor-talebi-1749649",
-   "image": "https://images.ntv.com.tr/images/arif-ahmet-denizolgun-310268.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-06T09:40:12+00:00",
-   "url": "/haber/bassavciliktan-arif-ahmet-denizolgun-icin-ayrintili-rapor-talebi-361e7fa6/"
   },
   {
    "id": "c0cd39b1",
