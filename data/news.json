@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:30:51.935133+00:00",
+ "updated": "2026-11-06T00:01:01.707881+00:00",
  "items": [
   {
    "id": "e82727c3",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-05T23:30:00+00:00",
+   "date": "2026-11-06T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-e82727c3/"
+  },
+  {
+   "id": "3bc579cf",
+   "title": "AMD Umbra kuantum hata düzeltmeyi hızlandıracak",
+   "summary": "AMD'nin MI355X GPU'ları, IBM'in kuantum işlemcisiyle birlikte çalışacak. Yeni platform, 2028'e kadar hata düzeltmede büyük bir ilerleme sağlayabilir.",
+   "link": "https://shiftdelete.net/amd-umbra-ibm-kuantum-hata-duzeltme",
+   "image": "https://shiftdelete.net/static/img/content/26-11/06/amd-umbra-quantum.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T23:41:37+00:00",
+   "url": "/haber/amd-umbra-kuantum-hata-duzeltmeyi-hizlandiracak-3bc579cf/"
+  },
+  {
+   "id": "c14da914",
+   "title": "Trump, sadece 18 kayıpla Hürmüz Boğazı'nda kontrolü sağlayabildiğini öne sürdü",
+   "summary": "ABD Başkanı Donald Trump, Vietnam Savaşı'nda binlerce ABD askerinin kaybedildiğini hatırlatarak, kendi yönetiminin ise sadece 18 kayıpla Hürmüz Boğazı'nda kontrolü sağlayabildiğini iddia etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-sadece-18-kayipla-hurmuz-bogazinda-kontrolu-saglayabildigini-one-surdu/4113552",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T23:33:12+00:00",
+   "url": "/haber/trump-sadece-18-kayipla-hurmuz-bogazi-nda-kontrolu-saglayabildigini-on-c14da914/"
   },
   {
    "id": "d44d6555",
@@ -22,6 +44,28 @@
    "category": "gundem",
    "date": "2026-11-05T23:23:19+00:00",
    "url": "/haber/fatma-betul-sayan-kaya-tutuklandi-d44d6555/"
+  },
+  {
+   "id": "01c5db4b",
+   "title": "NVIDIA Cosmos 3 otonom testleri değiştiriyor",
+   "summary": "NVIDIA'nın 5 Kasım'da tanıttığı 4 açık ağırlıklı model, otonom sürüş ve robot testleri için veri üretiyor. Bu araçlar geliştirme sürecini nasıl değiştirecek?",
+   "link": "https://shiftdelete.net/nvidia-cosmos-3-nano-otonom",
+   "image": "https://shiftdelete.net/static/img/content/26-11/06/cosmos3-nano-nvidia.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-05T23:17:53+00:00",
+   "url": "/haber/nvidia-cosmos-3-otonom-testleri-degistiriyor-01c5db4b/"
+  },
+  {
+   "id": "e3698e80",
+   "title": "Hazine ve Maliye Bakanı Şimşek: Düzenleme tüm emeklilerimizi kapsayacak",
+   "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Yapılacak artışın emeklilerimizin yaş ve prim ödeme gün sayısına göre farklılaşmasının doğru olacağını düşünüyoruz. Çünkü bu daha adaletli bir yaklaşım olur. Seyyanen olsa da bu…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-duzenleme-tum-emeklilerimizi-kapsayacak/4113546",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-05T23:13:08+00:00",
+   "url": "/haber/hazine-ve-maliye-bakani-simsek-duzenleme-tum-emeklilerimizi-kapsayacak-e3698e80/"
   },
   {
    "id": "d55d0181",
@@ -420,28 +464,6 @@
    "url": "/haber/claude-kisisel-finans-banka-hesabiniz-claude-da-19ab0cb2/"
   },
   {
-   "id": "530896a9",
-   "title": "Perplexity Teammates: İşinizi yapan yapay zeka",
-   "summary": "Perplexity Teammates, 5 Kasım'da Max abonelerine açıldı. Ajanlar komut beklemeden işleri takip ediyor, Slack'te mesaj atıyor. Peki işinizi ajana bırakır mısınız?",
-   "link": "https://shiftdelete.net/perplexity-teammates",
-   "image": "https://shiftdelete.net/static/img/content/26-11/05/perplexity-teammates-1793907845.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T19:44:06+00:00",
-   "url": "/haber/perplexity-teammates-isinizi-yapan-yapay-zeka-530896a9/"
-  },
-  {
-   "id": "0f282cb6",
-   "title": "Yanlış takılan işlemci tüm bilgisayarı yaktı",
-   "summary": "Reddit'te paylaşılan olayda yanlış takılan işlemci, bir oyuncunun Core i5-13400F'ini ve Z690 anakartını ilk çalıştırmada dumana boğdu. Hasar yüksek değildi.",
-   "link": "https://shiftdelete.net/yanlis-takilan-islemci-bilgisayari-yakti",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/cd53d351bf5e32654ee998899439bfc2811f430b.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T19:40:00+00:00",
-   "url": "/haber/yanlis-takilan-islemci-tum-bilgisayari-yakti-0f282cb6/"
-  },
-  {
    "id": "5f3358b5",
    "title": "Afyon'da 8 kişiyi öldüren saldırgan yakalandı",
    "summary": "Afyonkarahisar Valiliği, ilde meydana gelen silahlı saldırılarda sekiz kişinin hayatını kaybettiğini ve bir kişinin de yaralandığını duyurdu. Eskişehir Valiliği saldırganın yakalandığını duyurdu.",
@@ -464,17 +486,6 @@
    "url": "/haber/uyurken-kulakliga-gerek-kalmayacak-baseus-tan-yastik-alti-hoparlor-dbc4aab3/"
   },
   {
-   "id": "28999ae2",
-   "title": "Bakırköy Cumhuriyet Başsavcılığından Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmayla ilgili açıklama",
-   "summary": "Bakırköy Cumhuriyet Başsavcılığı, eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmanın elde edilen tüm deliller ve Adli Tıp Kurumunun bilimsel değerlendirmeleri doğrultusunda titizlikle…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakirkoy-cumhuriyet-bassavciligindan-arif-ahmet-denizolgunun-olumune-iliskin-sorusturmayla-ilgili-aciklama/4113409",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T19:23:58+00:00",
-   "url": "/haber/bakirkoy-cumhuriyet-bassavciligindan-arif-ahmet-denizolgun-un-olumune-28999ae2/"
-  },
-  {
    "id": "ed92350a",
    "title": "Bakan Memişoğlu: Sağlığın teknolojisini ve malzemesini de üretebilen, geliştirebilen bir insan gücüne sahibiz",
    "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Sağlığın aynı zamanda teknolojisini, cihazını, malzemesini de üretebilen, bunları geliştirebilen bir insan gücüne sahibiz. Onun için 'Üreten Sağlık' diyoruz.\" ifadesini kullandı.",
@@ -495,17 +506,6 @@
    "category": "gundem",
    "date": "2026-11-05T19:21:56+00:00",
    "url": "/haber/super-loto-cekilis-sonuclari-belli-oldu-5-kasim-2026-mpi-super-loto-ka-c769456f/"
-  },
-  {
-   "id": "91c49288",
-   "title": "Fransa'da polis maaş artışı talep eden göstericilere biber gazıyla müdahale etti",
-   "summary": "Fransa'da hayat pahalılığına karşı ve maaş artışı talebiyle sendikaların düzenlediği gösterilerde polis, göstericilere biber gazıyla müdahalede bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-polis-maas-artisi-talep-eden-gostericilere-biber-gaziyla-mudahale-etti-/4113401",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T19:17:21+00:00",
-   "url": "/haber/fransa-da-polis-maas-artisi-talep-eden-gostericilere-biber-gaziyla-mud-91c49288/"
   },
   {
    "id": "d956eb8f",
