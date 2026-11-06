@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-06T03:30:54.231681+00:00",
+ "updated": "2026-11-06T04:01:00.406147+00:00",
  "items": [
+  {
+   "id": "1aacc5f7",
+   "title": "*sshole açığı Linux'a şifresiz giriş sağlıyor",
+   "summary": "*sshole açığı, OpenSSH ile musl kütüphanesinin etkileşiminden doğuyor. On yıllık zafiyet, Alpine Linux çalıştıran bazı cihazlara şifresiz girişe imkan tanıyor.",
+   "link": "https://shiftdelete.net/sshole-acigi-alpine-linux-sifresiz-ssh-girisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/sshole-linux-acik-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-06T04:00:00+00:00",
+   "url": "/haber/sshole-acigi-linux-a-sifresiz-giris-sagliyor-1aacc5f7/"
+  },
+  {
+   "id": "c64a70e8",
+   "title": "Apple akıllı telefon gelirinin yarısını topladı",
+   "summary": "Counterpoint Research'e göre Apple akıllı telefon geliri, üçüncü çeyrekte küresel pazarın yarısını buldu. iPhone'un ortalama satış fiyatı da rekor kırdı.",
+   "link": "https://shiftdelete.net/apple-akilli-telefon-geliri-ucuncu-ceyrek-rekor",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/299cd9611e8e60093e19c9aca47cd83f2c19ee75.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-06T03:40:00+00:00",
+   "url": "/haber/apple-akilli-telefon-gelirinin-yarisini-topladi-c64a70e8/"
+  },
+  {
+   "id": "e82727c3",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 06 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 06 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-06-kasim-2026-1749577",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-06T03:30:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-e82727c3/"
+  },
+  {
+   "id": "b4d39397",
+   "title": "Hafta sonu kış havası yaşanacak: Sıcaklıklar sert düşüyor, kar ve fırtına geliyor",
+   "summary": "Hafta sonu yurt genelinde hava sıcaklıklarının hissedilir derecede düşeceği, Karadeniz ve Güneydoğu'da kuvvetli yağış, Doğu Anadolu'da kar, kıyı ve iç kesimlerde ise fırtınanın etkili olması bekleniyor.",
+   "link": "https://www.trthaber.com/haber/gundem/hafta-sonu-kis-havasi-yasanacak-sicakliklar-sert-dusuyor-kar-ve-firtina-geliyor-962392.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2156000/kar-yagisi-2157362.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-06T03:27:00+00:00",
+   "url": "/haber/hafta-sonu-kis-havasi-yasanacak-sicakliklar-sert-dusuyor-kar-ve-firtin-b4d39397/"
+  },
   {
    "id": "6e97214d",
    "title": "ABD seçimi teknoloji hisselerini çökertti",
@@ -13,6 +57,28 @@
    "url": "/haber/abd-secimi-teknoloji-hisselerini-cokertti-6e97214d/"
   },
   {
+   "id": "8f5efc93",
+   "title": "16 il için sarı uyarı: Kuvvetli yağışa dikkat",
+   "summary": "Yurdun güneydoğu kesimlerinde beklenen kuvvetli yağışlar nedeniyle 16 il için \"sarı\" kodlu uyarıda bulunuldu.",
+   "link": "https://www.trthaber.com/haber/turkiye/16-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-962389.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2012000/diyarbakir-saganak-2012448.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-06T03:19:00+00:00",
+   "url": "/haber/16-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-8f5efc93/"
+  },
+  {
+   "id": "f631cb32",
+   "title": "10. TRT World Forum Merkezsiz Dünya temasıyla İstanbul'da toplanacak",
+   "summary": "Küresel güç dengelerinin ve yeni dünya düzeninin tartışılacağı 10. TRT World Forum, bugün İstanbul Kongre Merkezi'nde kapılarını açıyor. Açılışına Cumhurbaşkanı Recep Tayyip Erdoğan'ın da katılması beklenen forum,…",
+   "link": "https://www.trthaber.com/haber/gundem/10-trt-world-forum-merkezsiz-dunya-temasiyla-istanbulda-toplanacak-962386.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/trt-world-forum-2497016.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-06T03:10:00+00:00",
+   "url": "/haber/10-trt-world-forum-merkezsiz-dunya-temasiyla-istanbul-da-toplanacak-f631cb32/"
+  },
+  {
    "id": "ff045399",
    "title": "One UI 9 SIM kart ve Wi-Fi sorunu yaygınlaşıyor",
    "summary": "One UI 9 SIM kart sorunu, güncellemeyi alan bazı Galaxy kullanıcılarının işini zorlaştırıyor. Wi-Fi ve hücresel veri kopuyor, fiziksel SIM kart algılanmıyor.",
@@ -22,17 +88,6 @@
    "category": "teknoloji",
    "date": "2026-11-06T03:00:00+00:00",
    "url": "/haber/one-ui-9-sim-kart-ve-wi-fi-sorunu-yayginlasiyor-ff045399/"
-  },
-  {
-   "id": "e82727c3",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 06 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 06 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-06-kasim-2026-1749577",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-06T03:00:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-e82727c3/"
   },
   {
    "id": "b1918643",
@@ -464,17 +519,6 @@
    "url": "/haber/ab-ve-iea-petrol-stoklarinin-kullanima-yonelik-adimlari-koordine-ediyo-25c68f83/"
   },
   {
-   "id": "8c2aa228",
-   "title": "Huawei Nova 17 Pro'nun özellikleri sızdı",
-   "summary": "Huawei Nova 17 Pro, sızıntılara göre 6,84 inç 1,5K OLED ekranı, 200 MP ana kamerası ve 50 MP telefoto lensiyle geliyor. Seri ay sonuna kadar Çin'de tanıtılabilir.",
-   "link": "https://shiftdelete.net/huawei-nova-17-pro-ozellikleri-sizdi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/8863c77f72edcffb58905f0082ddfcb1692c5760.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T19:55:00+00:00",
-   "url": "/haber/huawei-nova-17-pro-nun-ozellikleri-sizdi-8c2aa228/"
-  },
-  {
    "id": "7b80180e",
    "title": "NASA, yeni deneysel uçağı X-70 Fractal'ı tanıttı",
    "summary": "NASA, yeni deneysel uçağı X-70 Fractal'ı tanıttı. Gelişmiş uçuş kontrol sistemlerini test etmek için tasarlanan uçak, farklı araştırma görevlerine hızlıca uyarlanabilecek.",
@@ -495,17 +539,6 @@
    "category": "gundem",
    "date": "2026-11-05T19:48:50+00:00",
    "url": "/haber/eski-bakan-fatma-betul-sayan-kaya-fon-sorusturmasi-kapsaminda-tutuklan-edf200c5/"
-  },
-  {
-   "id": "0b2b73ce",
-   "title": "Gemini Omni 1.2 Flash: 15 sn, %30 ucuz",
-   "summary": "Gemini Omni 1.2 Flash, AI Studio ile Gemini API'de GA oldu: 15 sn klip ve yüzde 30 daha ucuz üretim. Kısa video maliyetiniz düşecek mi?",
-   "link": "https://shiftdelete.net/google-gemini-omni-1-2-flash",
-   "image": "https://shiftdelete.net/static/img/content/26-11/05/gemini-omni-1-2-flash.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T19:47:39+00:00",
-   "url": "/haber/gemini-omni-1-2-flash-15-sn-30-ucuz-0b2b73ce/"
   },
   {
    "id": "5f3358b5",
@@ -1179,17 +1212,6 @@
    "url": "/haber/abd-de-secim-sonuclari-demokratlar-neler-yapabilir-neler-yapamaz-d45cac6f/"
   },
   {
-   "id": "bd66b05a",
-   "title": "NASA'nın Swift Gözlemevi Dünya'ya düşüyor",
-   "summary": "ABD Havacılık ve Uzay Ajansının (NASA) Neil Gehrels Swift Gözlemevi'nin göreve başlamasından 22 yıl sonra kontrolsüz bir şekilde Dünya'ya doğru düşmeye başladığı bildirildi.",
-   "link": "https://www.trthaber.com/haber/dunya/nasanin-swift-gozlemevi-dunyaya-dusuyor-962275.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2492000/swift-uzay-2492475.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-04T23:25:00+00:00",
-   "url": "/haber/nasa-nin-swift-gozlemevi-dunya-ya-dusuyor-bd66b05a/"
-  },
-  {
    "id": "9b8eab4c",
    "title": "Kaşif Kozinoğlu'nun ölümüyle ilgili Adli Tıp raporu çıktı",
    "summary": "Milli İstihbarat Teşkilatının (MİT) eski görevlisi Kaşif Kozinoğlu'nun ölümüne ilişkin yeniden başlatılan soruşturma kapsamında, Adli Tıp Kurumunca, Kozinoğlu'nun mezarından alınan örneklerde yapılan incelemede,…",
@@ -1201,17 +1223,6 @@
    "url": "/haber/kasif-kozinoglu-nun-olumuyle-ilgili-adli-tip-raporu-cikti-9b8eab4c/"
   },
   {
-   "id": "657e6c97",
-   "title": "Fenerbahçe Liverpool'u devirdi",
-   "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında İngiltere'nin Liverpool ekibini konuk eden Fenerbahçe, sahadan 3-2'lik galibiyetle ayrıldı.",
-   "link": "https://www.trthaber.com/haber/gundem/fenerbahce-liverpoolu-devirdi-962268.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/fenerbahce-aa-2501206.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-04T19:36:00+00:00",
-   "url": "/haber/fenerbahce-liverpool-u-devirdi-657e6c97/"
-  },
-  {
    "id": "7600e719",
    "title": "Avrupa Birliği'nden Türkiye'ye 'uçurum' uyarısı",
    "summary": "Brüksel'e göre Türkiye'nin AB'ye katılma hedefine ilişkin beyanlarıyla katılım için gerekli siyasi kriterlerdeki durum arasındaki \"uçurum\" daha da genişledi. Dışişleri Bakanlığı, AB raporunu \"ön yargılı ve hakkaniyetten…",
@@ -1221,17 +1232,6 @@
    "category": "gundem",
    "date": "2026-11-04T16:55:35+00:00",
    "url": "/haber/avrupa-birligi-nden-turkiye-ye-ucurum-uyarisi-7600e719/"
-  },
-  {
-   "id": "78899d3b",
-   "title": "ABD'deki seçimler İran'da nasıl yorumlandı?",
-   "summary": "ABD Kongre ara seçimlerinde Demokratların, resmi olmayan sonuçlara göre Senatoda 54, Temsilciler Meclisinde ise 228 sandalyeye ulaşarak her iki kanatta çoğunluğu elde etmesi, İran'da Washington yönetiminin Tahran'a…",
-   "link": "https://www.trthaber.com/haber/dunya/abddeki-secimler-iranda-nasil-yorumlandi-962241.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2460000/iran-gunluk-yasam-a-2460474.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-04T13:14:00+00:00",
-   "url": "/haber/abd-deki-secimler-iran-da-nasil-yorumlandi-78899d3b/"
   },
   {
    "id": "9d712fa7",
