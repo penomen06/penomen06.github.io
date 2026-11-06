@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:30:50.795336+00:00",
+ "updated": "2026-11-06T09:01:02.102788+00:00",
  "items": [
   {
    "id": "e82727c3",
@@ -9,8 +9,129 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-06T08:30:00+00:00",
+   "date": "2026-11-06T09:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-e82727c3/"
+  },
+  {
+   "id": "9f8d9811",
+   "title": "İstanbul'a su sağlayan barajlardaki doluluk oranı yüzde 60'ı geçti",
+   "summary": "İstanbul'a su sağlayan barajlardaki ortalama doluluk oranı, geçen ay başlayan rekor miktardaki yağışların etkisiyle son 10 yılın aynı dönemine göre en yüksek seviyeyi görerek yüzde 61,5'e çıktı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbula-su-saglayan-barajlardaki-doluluk-orani-yuzde-60i-gecti/4113780",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T08:55:03+00:00",
+   "url": "/haber/istanbul-a-su-saglayan-barajlardaki-doluluk-orani-yuzde-60-i-gecti-9f8d9811/"
+  },
+  {
+   "id": "63fe6be1",
+   "title": "Antalya Havalimanı'nda COP31 için 1500 personelle güvenlik mesaisi",
+   "summary": "Antalya Havalimanı'nda, 9-20 Kasım'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) dolayısıyla 1500 polisin görev yapması planlanıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/antalya-havalimaninda-cop31-icin-1500-personelle-guvenlik-mesaisi/4113777",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T08:49:36+00:00",
+   "url": "/haber/antalya-havalimani-nda-cop31-icin-1500-personelle-guvenlik-mesaisi-63fe6be1/"
+  },
+  {
+   "id": "463bf09e",
+   "title": "Fransa’da tırmanan protestolar ve siyasi otorite krizi",
+   "summary": "Macron’un önündeki en acil mesele, şiddetin daha fazla tırmanmasını önlemektir. Ancak kendisinden sonra yönetimi devralacak isim, devlet kurumlarına duyulan güveni yeniden inşa etmek gibi daha zorlu bir görevle karşı…",
+   "link": "https://www.aa.com.tr/tr/analiz/fransa-da-tirmanan-protestolar-ve-siyasi-otorite-krizi/4113776",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T08:48:21+00:00",
+   "url": "/haber/fransa-da-tirmanan-protestolar-ve-siyasi-otorite-krizi-463bf09e/"
+  },
+  {
+   "id": "8cd0fd15",
+   "title": "Fiat CEO’su Punto’yu geri getirmek istiyor",
+   "summary": "L’Automobile Magazine’e röportaj veren Fiat CEO’su Arnaud Belloni, markanın kompakt modeli Punto’yu rafa kaldırmanın bir hata olduğunu belirtti. “Punto’nun üretimden kalkması, Renault’nun Clio’yu segmentin merkezine…",
+   "link": "https://www.log.com.tr/fiat-ceosu-puntoyu-geri-getirmek-istiyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-06_11-36-20_iRBwC-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-06T08:41:33+00:00",
+   "url": "/haber/fiat-ceo-su-punto-yu-geri-getirmek-istiyor-8cd0fd15/"
+  },
+  {
+   "id": "b0d27c3b",
+   "title": "TBMM Başkanı Kurtulmuş: Terörsüz Türkiye'yi eninde sonunda başaracağız",
+   "summary": "TBMM Başkanı Numan Kurtulmuş, Terörsüz Türkiye süreci konusunda, \"Cumhuriyet tarihimizin en ağır meselesi buydu, ikinci asrının da en önemli projesi bu olacaktır. Eninde sonunda başaracağız.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-terorsuz-turkiyeyi-eninde-sonunda-basaracagiz/4113763",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T08:38:11+00:00",
+   "url": "/haber/tbmm-baskani-kurtulmus-terorsuz-turkiye-yi-eninde-sonunda-basaracagiz-b0d27c3b/"
+  },
+  {
+   "id": "b1f6f315",
+   "title": "Göçmen kaçakçılığına yönelik 34 ilde eş zamanlı operasyon",
+   "summary": "Ankara, İzmir ve İstanbul'un da aralarında bulunduğu 34 ilde göçmen kaçakçılığına yönelik eş zamanlı operasyonlarda, 2 bin 116 yabancı uyruklu yakalandı, 63 göçmen kaçakçılığı zanlısı tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/gocmen-kacakciligina-yonelik-34-ilde-es-zamanli-operasyon/4113760",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T08:35:34+00:00",
+   "url": "/haber/gocmen-kacakciligina-yonelik-34-ilde-es-zamanli-operasyon-b1f6f315/"
+  },
+  {
+   "id": "01e85323",
+   "title": "Dünya futbolu efsanelerinin milli takıma veda yılı",
+   "summary": "Dünya futboluna damga vuran Arjantinli Lionel Messi, Portekizli Cristiano Ronaldo ve Brezilyalı Neymar, 2026'da milli takım kariyerlerini sona erdirdi.",
+   "link": "https://www.aa.com.tr/tr/spor/dunya-futbolu-efsanelerinin-milli-takima-veda-yili/4113759",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T08:35:04+00:00",
+   "url": "/haber/dunya-futbolu-efsanelerinin-milli-takima-veda-yili-01e85323/"
+  },
+  {
+   "id": "f39c5d40",
+   "title": "İsrail'in Gazze'ye saldırılarında yaralanan biri tıp fakültesi öğrencisi 2 kişi hayatını kaybetti",
+   "summary": "İsrail ordusunun, ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda yaralanan, biri tıp fakültesi öğrencisi olmak üzere 2 Filistinli yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-saldirilarinda-yaralanan-biri-tip-fakultesi-ogrencisi-2-kisi-hayatini-kaybetti/4113756",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T08:32:22+00:00",
+   "url": "/haber/israil-in-gazze-ye-saldirilarinda-yaralanan-biri-tip-fakultesi-ogrenci-f39c5d40/"
+  },
+  {
+   "id": "28482aac",
+   "title": "Afyonkarahisar'da sekiz kişiyi öldüren Arif Sefa Özdemir'in ilk ifadesi ortaya çıktı",
+   "summary": "Afyonkarahisar'da sekiz kişiyi öldüren Arif Sefa Özdemir'in ilk ifadesi ortaya çıktı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-sekiz-kisiyi-olduren-arif-sefa-ozdemirin-ilk-ifadesi-ortaya-cikti-1749633",
+   "image": "https://images.ntv.com.tr/images/katilin-ifadesi-128444.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-06T08:31:43+00:00",
+   "url": "/haber/afyonkarahisar-da-sekiz-kisiyi-olduren-arif-sefa-ozdemir-in-ilk-ifades-28482aac/"
+  },
+  {
+   "id": "b70ddfd1",
+   "title": "Fransa'da hayat pahalılığına karşı gösterilerde 448 kişi gözaltına alındı",
+   "summary": "Fransa'da hayat pahalılığına karşı ve maaş artışı talebiyle düzenlenen gösteriler kapsamında 448 kişinin gözaltına alındığı belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-hayat-pahaliligina-karsi-gosterilerde-448-kisi-gozaltina-alindi/4113752",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T08:30:50+00:00",
+   "url": "/haber/fransa-da-hayat-pahaliligina-karsi-gosterilerde-448-kisi-gozaltina-ali-b70ddfd1/"
+  },
+  {
+   "id": "b08cf079",
+   "title": "Mekke Anlaşması TBMM'de kabul edildi: Muhalefet neden karşı çıktı?",
+   "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Anlaşması'nın onaylanmasına ilişkin kanun teklifi TBMM Genel Kurulu'nda kabul edildi. Muhalefet hangi gerekçelerle anlaşmaya karşı çıktı?",
+   "link": "https://www.bbc.com/turkce/articles/cm3elqk438e2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f98/live/93599450-d8f3-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-06T08:30:34+00:00",
+   "url": "/haber/mekke-anlasmasi-tbmm-de-kabul-edildi-muhalefet-neden-karsi-cikti-b08cf079/"
   },
   {
    "id": "fae303bc",
@@ -57,17 +178,6 @@
    "url": "/haber/abd-de-israil-destekcisi-jeffries-in-temsilciler-meclisi-baskani-secil-40c5c82c/"
   },
   {
-   "id": "6a516aa0",
-   "title": "AYM paylı mülkiyette önalım hakkındaki rayiç bedel kuralını iptal etti",
-   "summary": "Anayasa Mahkemesi (AYM), paylı mülkiyette önalım hakkının kullanımında payın rayiç bedelinin hakim tarafından belirlenmesini öngören kuralı Anayasa'ya aykırı bularak iptal etti. İptal hükmü, dokuz ay sonra yürürlüğe…",
-   "link": "https://www.aa.com.tr/tr/gundem/aym-payli-mulkiyette-onalim-hakkindaki-rayic-bedel-kuralini-iptal-etti/4113741",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T08:21:59+00:00",
-   "url": "/haber/aym-payli-mulkiyette-onalim-hakkindaki-rayic-bedel-kuralini-iptal-etti-6a516aa0/"
-  },
-  {
    "id": "20db9c9a",
    "title": "Türk savunma ve havacılık sanayisi ihracat başarısını kalıcılaştırdı",
    "summary": "Türkiye'nin savunma ve havacılık sanayisine yaptığı yatırımlar, ihracatta yıllık bazda 2020'den bu yana artışı beraberinde getirdi.",
@@ -79,37 +189,26 @@
    "url": "/haber/turk-savunma-ve-havacilik-sanayisi-ihracat-basarisini-kalicilastirdi-20db9c9a/"
   },
   {
-   "id": "be49aba8",
-   "title": "TUA gelecek 3 yılda yenilikçi uzay projelerine odaklanacak",
-   "summary": "Türkiye Uzay Ajansı (TUA) için 2027-2029 döneminde, toplam 20 milyar 18 milyon 108 bin liralık bütçe planlanıyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tua-gelecek-3-yilda-yenilikci-uzay-projelerine-odaklanacak/4113735",
+   "id": "5bc6b059",
+   "title": "Financial Times: İran, 2024-2025'te Rusya'dan 90 füze fırlatma sistemi sipariş etti",
+   "summary": "İran'ın 2024-2025 döneminde, Rus savunma sanayi üreticileriyle vardığı anlaşma uyarınca bu ülkeden 90 füze fırlatma sistemi sipariş ettiği ileri sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/financial-times-iran-2024-2025te-rusyadan-90-fuze-firlatma-sistemi-siparis-etti/4113737",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-06T08:19:20+00:00",
-   "url": "/haber/tua-gelecek-3-yilda-yenilikci-uzay-projelerine-odaklanacak-be49aba8/"
+   "date": "2026-11-06T08:20:48+00:00",
+   "url": "/haber/financial-times-iran-2024-2025-te-rusya-dan-90-fuze-firlatma-sistemi-s-5bc6b059/"
   },
   {
-   "id": "28482aac",
-   "title": "Afyonkarahisar'da sekiz kişiyi öldüren Arif Sefa Özdemir'in ilk ifadesi ortaya çıktı",
-   "summary": "Afyonkarahisar'da sekiz kişiyi öldüren Arif Sefa Özdemir'in ilk ifadesi ortaya çıktı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-sekiz-kisiyi-olduren-arif-sefa-ozdemirin-ilk-ifadesi-ortaya-cikti-1749633",
-   "image": "https://images.ntv.com.tr/images/katilin-ifadesi-128444.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-06T08:16:20+00:00",
-   "url": "/haber/afyonkarahisar-da-sekiz-kisiyi-olduren-arif-sefa-ozdemir-in-ilk-ifades-28482aac/"
-  },
-  {
-   "id": "c14f27a4",
-   "title": "ABD'deki ara seçimlerin ardından gözler ekonomi ve ticaret politikalarına çevrildi",
-   "summary": "ABD'de ara seçimlerde Demokratların, Temsilciler Meclisi ve Senatoda çoğunluğu kazanmasının ardından dünyanın en büyük ekonomisinin maliye ve ticaret politikalarının geleceği uluslararası yatırımcıların gündeminde öne…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abddeki-ara-secimlerin-ardindan-gozler-ekonomi-ve-ticaret-politikalarina-cevrildi/4113729",
+   "id": "7e4f2ef5",
+   "title": "Türkiye'ye kara yolu projelerinden iki uluslararası ödül",
+   "summary": "Ulaştırma ve Altyapı Bakanı Uraloğlu, Uluslararası Yol Federasyonunun (IRF) Aydın-Denizli Otoyolu ve Yusufeli Viyadüğü'ne verdiği ödüllere ilişkin, \"2 ödül aldık, ikisi de birbirinden kıymetliydi.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyeye-kara-yolu-projelerinden-iki-uluslararasi-odul/4113733",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-06T08:15:55+00:00",
-   "url": "/haber/abd-deki-ara-secimlerin-ardindan-gozler-ekonomi-ve-ticaret-politikalar-c14f27a4/"
+   "date": "2026-11-06T08:17:30+00:00",
+   "url": "/haber/turkiye-ye-kara-yolu-projelerinden-iki-uluslararasi-odul-7e4f2ef5/"
   },
   {
    "id": "1960c9dc",
@@ -134,81 +233,15 @@
    "url": "/haber/hepsiburada-kullanicilarinin-verileri-guvende-mi-kaspi-kz-nin-sicili-t-3d2b5f5b/"
   },
   {
-   "id": "287f918f",
-   "title": "COP31 alanında sağlık tedbirleri üst seviyeye çıkarıldı",
-   "summary": "Türkiye'nin ev sahipliğinde düzenlenecek Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Antalya'daki etkinlik alanında sağlık tedbirleri alınıyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31-alaninda-saglik-tedbirleri-ust-seviyeye-cikarildi/4113726",
+   "id": "1250fd65",
+   "title": "Türkiye'de spor ekosisteminin büyüme potansiyeli artıyor",
+   "summary": "Marmara Üniversitesi İşletme Fakültesi Pazarlama Ana Bilim Dalı Öğretim Üyesi Doç. Dr. Sibel Aydoğan, Türkiye'de dünyaya paralel olarak spor ekonomisinin geliştiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiyede-spor-ekosisteminin-buyume-potansiyeli-artiyor/4113709",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-06T08:14:24+00:00",
-   "url": "/haber/cop31-alaninda-saglik-tedbirleri-ust-seviyeye-cikarildi-287f918f/"
-  },
-  {
-   "id": "82fe9d29",
-   "title": "Mekanik bir bebeğin hikayesiyle 156 yıldır sahnelenen \"Coppelia\" balesi Ankara'da seyirciyle buluşacak",
-   "summary": "Ankara Devlet Opera ve Balesince, Macar koreograf Gyula György Harangozo'nun koreografisiyle sahnelenecek \"Coppelia\" balesi, 7 Kasım'da Opera Sahnesi'nde prömiyer yapacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/mekanik-bir-bebegin-hikayesiyle-156-yildir-sahnelenen-coppelia-balesi-ankarada-seyirciyle-bulusacak/4113724",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T08:12:55+00:00",
-   "url": "/haber/mekanik-bir-bebegin-hikayesiyle-156-yildir-sahnelenen-coppelia-balesi-82fe9d29/"
-  },
-  {
-   "id": "9c50bc12",
-   "title": "Türkiye'nin 2040 rüzgar hedefi için 50 milyar doları aşan yatırım öngörülüyor",
-   "summary": "Türkiye Rüzgar Enerjisi Birliği (TÜREB) Başkanı İbrahim Erden, Türkiye'nin 2040'a yönelik enerji yol haritası kapsamında belirlenen 63 bin megavatlık rüzgar enerjisi kurulu güç hedefi için 50 milyar doları aşan yatırım…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-2040-ruzgar-hedefi-icin-50-milyar-dolari-asan-yatirim-ongoruluyor/4113720",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T08:09:33+00:00",
-   "url": "/haber/turkiye-nin-2040-ruzgar-hedefi-icin-50-milyar-dolari-asan-yatirim-ongo-9c50bc12/"
-  },
-  {
-   "id": "81d6a18b",
-   "title": "İstanbul'da hava kirliliği ekimde yüzde 10 arttı",
-   "summary": "İstanbul Teknik Üniversitesi (İTÜ) bünyesinde yürütülen bir araştırmada, kentteki havanın partikül madde (PM10) konsantrasyonunun ekimde geçen yılın aynı ayına göre yüzde 10,3 arttığı belirlendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-hava-kirliligi-ekimde-yuzde-10-artti/4113719",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T08:09:28+00:00",
-   "url": "/haber/istanbul-da-hava-kirliligi-ekimde-yuzde-10-artti-81d6a18b/"
-  },
-  {
-   "id": "44bd3410",
-   "title": "Karadeniz'de Avrupa'nın yeni hamlesi ve Montrö gerçeği",
-   "summary": "AB'nin Karadeniz'deki askeri rolünü genişletme ihtimali, Montrö Boğazlar Sözleşmesi'nin oluşturduğu hukuki düzen, kıyıdaş ülkelerin güvenlik sorumlulukları ve Türkiye'nin bölgesel askeri dengelerin korunmasına yönelik…",
-   "link": "https://www.aa.com.tr/tr/analiz/karadenizde-avrupanin-yeni-hamlesi-ve-montro-gercegi/4113718",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T08:08:50+00:00",
-   "url": "/haber/karadeniz-de-avrupa-nin-yeni-hamlesi-ve-montro-gercegi-44bd3410/"
-  },
-  {
-   "id": "3e8ac6cf",
-   "title": "Böbrek nakli ilk yıldan sonra diyalize göre sağlık harcamalarını yüzde 50 azaltıyor",
-   "summary": "Türk Nefroloji Derneği Başkanı Prof. Dr. Aydın Türkmen, böbrek naklinin hastaların yaşam süresi ve kalitesini artırmasının yanı sıra sağlık ekonomisine de önemli katkı sağladığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/gundem/bobrek-nakli-ilk-yildan-sonra-diyalize-gore-saglik-harcamalarini-yuzde-50-azaltiyor/4113714",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T08:07:51+00:00",
-   "url": "/haber/bobrek-nakli-ilk-yildan-sonra-diyalize-gore-saglik-harcamalarini-yuzde-3e8ac6cf/"
-  },
-  {
-   "id": "e689e4e1",
-   "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda iki petrol tankeri mayına çarptı",
-   "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı’nda iki tankerin mayına çarptığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-iki-petrol-tankeri-mayina-carpti/4113696",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T08:05:36+00:00",
-   "url": "/haber/iran-devrim-muhafizlari-hurmuz-bogazi-nda-iki-petrol-tankeri-mayina-ca-e689e4e1/"
+   "date": "2026-11-06T08:07:28+00:00",
+   "url": "/haber/turkiye-de-spor-ekosisteminin-buyume-potansiyeli-artiyor-1250fd65/"
   },
   {
    "id": "2e62c234",
@@ -220,17 +253,6 @@
    "category": "gundem",
    "date": "2026-11-06T08:04:37+00:00",
    "url": "/haber/akdeniz-universitesi-hastanesi-nde-29-yilda-150-kalp-nakli-yapildi-2e62c234/"
-  },
-  {
-   "id": "ebf549fd",
-   "title": "Eyüpspor, Süper Lig'de yarın Kocaelispor'u ağırlayacak",
-   "summary": "Eyüpspor, Trendyol Süper Lig'in 11. haftasında yarın sahasında Kocaelispor ile karşı karşıya gelecek.",
-   "link": "https://www.aa.com.tr/tr/spor/eyupspor-super-ligde-yarin-kocaelisporu-agirlayacak/4113687",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T08:03:05+00:00",
-   "url": "/haber/eyupspor-super-lig-de-yarin-kocaelispor-u-agirlayacak-ebf549fd/"
   },
   {
    "id": "dadaea42",
@@ -266,15 +288,15 @@
    "url": "/haber/39-tl-degerindeki-oyun-epic-games-te-bu-hafta-ucretsiz-oldu-5-12-kasim-2a32337a/"
   },
   {
-   "id": "50fdc61f",
-   "title": "Voleybolda haftanın programı",
-   "summary": "Voleybolda SMS Grup Efeler Ligi'nde 5'inci, Vodafone Sultanlar Ligi'nde ise 8'inci hafta karşılaşmaları yapılacak.",
-   "link": "https://www.aa.com.tr/tr/spor/voleybolda-haftanin-programi/4113667",
+   "id": "ca4e0f92",
+   "title": "Formula 1'de sıradaki durak Brezilya",
+   "summary": "Formula 1 Dünya Şampiyonası'nda heyecan, sezonun 20. yarışı Sao Paulo Grand Prix'siyle devam edecek.",
+   "link": "https://www.aa.com.tr/tr/spor/formula-1de-siradaki-durak-brezilya/4113675",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-06T07:50:47+00:00",
-   "url": "/haber/voleybolda-haftanin-programi-50fdc61f/"
+   "date": "2026-11-06T07:55:11+00:00",
+   "url": "/haber/formula-1-de-siradaki-durak-brezilya-ca4e0f92/"
   },
   {
    "id": "4ccdec3d",
@@ -618,17 +640,6 @@
    "url": "/haber/whatsapp-etkinlikler-hesapsiz-kisilere-de-acildi-67ad9d6e/"
   },
   {
-   "id": "f3877475",
-   "title": "Samsung, “Android XR” temelli akıllı gözlüklerini çok yakında ön siparişe açabilir",
-   "summary": "Samsung, Gentle Monster, Warby Parker ve Google iş birliğiyle geliştirdiği akıllı gözlüklerini 12 Kasım tarihinde ön siparişe açacak. Geçtiğimiz kadar aktarıldığı kadarıyla gözlükler ilk aşamada yalnızca ABD ve Güney…",
-   "link": "https://www.log.com.tr/samsung-android-xr-temelli-akilli-gozluklerini-cok-yakinda-on-siparise-acabilir/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-10-13_15-29-08_7QE0z_FHD_FHD-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-06T06:29:21+00:00",
-   "url": "/haber/samsung-android-xr-temelli-akilli-gozluklerini-cok-yakinda-on-siparise-f3877475/"
-  },
-  {
    "id": "2613f4a8",
    "title": "Sarıgül soruşturması: Şişli Meslek Yüksekokulu'na kayyum atandı, 11 kişi için gözaltı kararı verildi",
    "summary": "Sarıgül ailesiyle ilgili kara para aklama soruşturmasında Şişli Meslek Yüksekokulu'na kayyum atandı. Savcılık, 11 şüpheli hakkında gözaltı kararı verdi.",
@@ -847,17 +858,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T21:45:00+00:00",
    "url": "/haber/isi-pompalari-termokimyasal-enerji-depolama-ile-daha-verimli-hale-gele-e270d8a5/"
-  },
-  {
-   "id": "b08cf079",
-   "title": "Mekke Anlaşması TBMM'de kabul edildi",
-   "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Anlaşması'nın onaylanmasına ilişkin kanun teklifi TBMM Genel Kurulu'nda oylanarak kabul edildi.",
-   "link": "https://www.bbc.com/turkce/articles/cm3elqk438e2o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f98/live/93599450-d8f3-11f1-a701-fddedf244c16.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-05T21:21:31+00:00",
-   "url": "/haber/mekke-anlasmasi-tbmm-de-kabul-edildi-b08cf079/"
   },
   {
    "id": "b476ee3f",
