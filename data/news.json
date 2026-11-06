@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T23:01:03.650796+00:00",
+ "updated": "2026-11-06T23:30:52.071693+00:00",
  "items": [
   {
    "id": "69ed9ef5",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-06T23:00:00+00:00",
+   "date": "2026-11-06T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-69ed9ef5/"
+  },
+  {
+   "id": "09ab762e",
+   "title": "Birçok şehirde yılın ilk karı yağdı",
+   "summary": "Meteorolojinin kar ve sağanak uyarılarının ardından birçok ile yılın ilk karı yağdı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-bircok-sehirde-yilin-ilk-kari-yagdi-1749736",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-07020532-106280.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-06T23:19:10+00:00",
+   "url": "/haber/bircok-sehirde-yilin-ilk-kari-yagdi-09ab762e/"
+  },
+  {
+   "id": "f687b5a7",
+   "title": "Gazze'de şiddetli yağışlar nedeniyle yerinden edilen Filistinlilerin çadırlarını su bastı",
+   "summary": "İsrail ordusunun soykırıma varan saldırılarıyla büyük yıkıma uğrattığı Gazze Şeridi'nde etkili olan şiddetli yağışlar, yerinden edilen Filistinlilerin çadırlarını sular altında bıraktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-siddetli-yagislar-nedeniyle-yerinden-edilen-filistinlilerin-cadirlarini-su-basti/4114827",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T23:05:06+00:00",
+   "url": "/haber/gazze-de-siddetli-yagislar-nedeniyle-yerinden-edilen-filistinlilerin-c-f687b5a7/"
+  },
+  {
+   "id": "e5550d6b",
+   "title": "Fenerbahçe otobüsüne saldırı iddianamesi: 5 şüpheliye ceza isteniyor",
+   "summary": "Trabzon Cumhuriyet Başsavcılığı, Fenerbahçe futbol takımını taşıyan otobüse 4 Nisan 2015 tarihinde düzenlenen silahlı saldırıya ilişkin yürütülen soruşturmanın tamamlandığını açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/cn5p9xwe9glo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb73/live/bd8e0cd0-59b2-11f1-a4b7-619c279792a3.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-06T23:00:33+00:00",
+   "url": "/haber/fenerbahce-otobusune-saldiri-iddianamesi-5-supheliye-ceza-isteniyor-e5550d6b/"
   },
   {
    "id": "4809971e",
@@ -26,7 +59,7 @@
   {
    "id": "2233cccc",
    "title": "Donald Trump ara seçim yenilgisi sonrası özel kalemini değiştirdi",
-   "summary": "ABD Başkanı Donald Trump, ABD ara seçimlerinde yaşanan tarihi kayıpların ardından, sert göçmenlik siyasetinin mimarı Stephen Miller'ı yeni Beyaz Saray Genel Sekreteri olarak atadı. Cumhuriyetçilerin Kongre'yi…",
+   "summary": "ABD Başkanı Donald Trump, ABD ara seçimlerinde yaşanan tarihi kayıpların ardından, sert göçmenlik siyasetinin mimarı Stephen Miller'ı yeni Beyaz Saray Özel Kalem Müdürü olarak atadı. Cumhuriyetçilerin Kongre'yi…",
    "link": "https://www.bbc.com/turkce/articles/cwp9ggvdg7rdo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f45c/live/b31258a0-da32-11f1-9fbd-45a32d24ae34.jpg",
    "source": "BBC Turkish",
@@ -66,6 +99,17 @@
    "category": "gundem",
    "date": "2026-11-06T22:05:36+00:00",
    "url": "/haber/iran-basini-kesm-adasi-ile-bender-hamir-de-kaynagi-belirsiz-patlama-se-6e1d9948/"
+  },
+  {
+   "id": "9687e062",
+   "title": "ABD'den Kanadalı 8 şirkete İran ile bağlantılı işlemler nedeniyle yaptırım",
+   "summary": "ABD Hazine Bakanlığı, İran yönetiminin yaptırımları aşmasına yardımcı oldukları ve yasa dışı finansal faaliyetlere aracılık ettikleri gerekçesiyle Kanada merkezli 8 para hizmetleri şirketini yaptırım listesine aldı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdden-kanadali-8-sirkete-iran-ile-baglantili-islemler-nedeniyle-yaptirim/4114818",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T22:05:31+00:00",
+   "url": "/haber/abd-den-kanadali-8-sirkete-iran-ile-baglantili-islemler-nedeniyle-yapt-9687e062/"
   },
   {
    "id": "a533f99f",
@@ -121,6 +165,17 @@
    "category": "gundem",
    "date": "2026-11-06T21:59:04+00:00",
    "url": "/haber/uzmanlar-etiyopya-nin-deniz-kapisi-arayisinda-bolgesel-uzlasiyi-zor-go-c1bc74bc/"
+  },
+  {
+   "id": "800f336b",
+   "title": "Yeni Zelanda'daki genel seçimlerde oy verme işlemi başladı",
+   "summary": "Okyanusya ülkesi Yeni Zelanda'da yeni hükümeti belirlemek üzere düzenlenen genel seçimlerde oy verme işleminin başladığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/yeni-zelandadaki-genel-secimlerde-oy-verme-islemi-basladi/4114809",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T21:57:19+00:00",
+   "url": "/haber/yeni-zelanda-daki-genel-secimlerde-oy-verme-islemi-basladi-800f336b/"
   },
   {
    "id": "ad3e59b5",
@@ -231,39 +286,6 @@
    "category": "teknoloji",
    "date": "2026-11-06T20:40:00+00:00",
    "url": "/haber/blue-origin-new-glenn-roketini-buyutuyor-yeni-motor-ve-ucuncu-asama-ge-9b0166eb/"
-  },
-  {
-   "id": "656be14d",
-   "title": "ABD'de tüketici kredilerindeki artış eylülde beklentileri aştı",
-   "summary": "ABD'de tüketici kredileri eylülde 27,8 milyar dolarla piyasa beklentilerinin üzerinde artış kaydetti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-tuketici-kredilerindeki-artis-eylulde-beklentileri-asti-/4114769",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T20:38:44+00:00",
-   "url": "/haber/abd-de-tuketici-kredilerindeki-artis-eylulde-beklentileri-asti-656be14d/"
-  },
-  {
-   "id": "b6cf0563",
-   "title": "Üsküp'teki Osmanlı mirası Taşköprü dekoratif ve mimari aydınlatmaya kavuştu",
-   "summary": "Kuzey Makedonya'nın başkenti Üsküp'ün simge yapılarından tarihi Taşköprü'de Esenler Belediyesi ile Halkbank'ın destekleriyle gerçekleştirilen aydınlatma çalışmalarının tamamlanması vesilesiyle tören düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/kultur/uskupteki-osmanli-mirasi-taskopru-dekoratif-ve-mimari-aydinlatmaya-kavustu/4114764",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T20:29:32+00:00",
-   "url": "/haber/uskup-teki-osmanli-mirasi-taskopru-dekoratif-ve-mimari-aydinlatmaya-ka-b6cf0563/"
-  },
-  {
-   "id": "9f70b58e",
-   "title": "Cumhurbaşkanı Erdoğan, Malezya Başbakan Yardımcısı Hamidi'yi kabul etti",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Malezya Başbakan Yardımcısı Ahmad Zahid Hamidi'yi kabul etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-malezya-basbakan-yardimcisi-hamidiyi-kabul-etti/4114762",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T20:27:29+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-malezya-basbakan-yardimcisi-hamidi-yi-kabul-etti-9f70b58e/"
   },
   {
    "id": "50880506",
@@ -1014,17 +1036,6 @@
    "url": "/haber/oled-ekranli-ipad-mini-yeni-imac-ve-yeni-macbook-pro-lar-turkiye-de-sa-8d14fb5c/"
   },
   {
-   "id": "d6d83a29",
-   "title": "Kahramanmaraş'taki okul saldırısında hayatını kaybeden öğrencilerin isimleri okullara veriliyor",
-   "summary": "Kahramanmaraş'ta 15 Nisan'daki okul saldırısında hayatını kaybeden öğrencilerin isimleri dört okula verildi. İki okulun tabelası değiştirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/kahramanmarastaki-okul-saldirisinda-hayatini-kaybeden-ogrencilerin-isimleri-okullara-veriliyor-1749673",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_dbd2aa8de8c9454f9ebc0ba3ab048cd5-992305.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-06T11:30:03+00:00",
-   "url": "/haber/kahramanmaras-taki-okul-saldirisinda-hayatini-kaybeden-ogrencilerin-is-d6d83a29/"
-  },
-  {
    "id": "3db60567",
    "title": "A Milli Futbol Takımı aday kadrosu açıklandı",
    "summary": "A Milli Takım Teknik Direktörü Sergen Yalçın, Türkiye'nin UEFA Uluslar A Ligi’nde 12 Kasım’da Belçika ve 15 Kasım’da Fransa ile oynayacağı karşılaşmaların aday kadrosunu açıkladı.",
@@ -1056,17 +1067,6 @@
    "category": "gundem",
    "date": "2026-11-06T10:45:00+00:00",
    "url": "/haber/oruc-reis-sismik-arastirma-gemisi-pakistan-yolunda-1d9d2210/"
-  },
-  {
-   "id": "6d79f124",
-   "title": "Sarıgül ailesi soruşturması: 11 yeni gözaltı, Şişli Meslek Yüksekokulu'na kayyum atandı",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı'nın para aklama iddiasıyla yürüttüğü ve Mustafa Sarıgül'ün aile üyelerinin de tutuklandığı soruşturmada 11 kişi daha gözaltına alındı, Şişli Meslek Yüksekokulu'na kayyum atandı.",
-   "link": "https://www.bbc.com/turkce/articles/cm86zz07qlx5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e96f/live/c4805810-d9cb-11f1-bb8e-efaa31738708.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-06T10:37:09+00:00",
-   "url": "/haber/sarigul-ailesi-sorusturmasi-11-yeni-gozalti-sisli-meslek-yuksekokulu-n-6d79f124/"
   },
   {
    "id": "c0cd39b1",
