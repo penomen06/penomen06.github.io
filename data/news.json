@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:30:52.104899+00:00",
+ "updated": "2026-11-06T06:00:58.809546+00:00",
  "items": [
   {
    "id": "e82727c3",
@@ -9,8 +9,96 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-06T05:30:00+00:00",
+   "date": "2026-11-06T06:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-e82727c3/"
+  },
+  {
+   "id": "b367ecca",
+   "title": "Sarıgül soruşturmasında 11 gözaltı",
+   "summary": "Sarıgül ailesiyle ilgili kara para aklama iddialarına ilişkin soruşturmada 11 şüpheli gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sarigul-sorusturmasinda-11-gozalti-1749618",
+   "image": "https://images.ntv.com.tr/son-dakika-gorselleri/son-kirmizi(6).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-06T05:59:35+00:00",
+   "url": "/haber/sarigul-sorusturmasinda-11-gozalti-b367ecca/"
+  },
+  {
+   "id": "4aadc6c5",
+   "title": "Rockstar Games, GTA 6 için çok sayıda yeni ekran görüntüsü yayınladı",
+   "summary": "Rockstar Games, merakla beklenen GTA 6 için geçtiğimiz saatlerde 39 yeni ekran görüntüsü yayınladı. Yüksek çözünürlüklü olarak buradaki resmi sayfada görülebilen yeni görseller, oyuna yönelik heyecanı daha da artırmış…",
+   "link": "https://www.log.com.tr/rockstar-games-gta-6-icin-cok-sayida-yeni-ekran-goruntusu-yayinladi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-06_08-50-02_13ulc-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-06T05:53:01+00:00",
+   "url": "/haber/rockstar-games-gta-6-icin-cok-sayida-yeni-ekran-goruntusu-yayinladi-4aadc6c5/"
+  },
+  {
+   "id": "8dc764e9",
+   "title": "Sanayi ve Teknoloji Bakanı, “Made in EU” düzenlemesi hakkında konuştu",
+   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Uluslararası İşbirliği Platformu (UİP) tarafından İstanbul’da düzenlenen 17. Boğaziçi Zirvesi’ne katıldı. Kacır etkinlikte Avrupa’nın “Made in EU” düzenlemesi hakkında da…",
+   "link": "https://www.log.com.tr/sanayi-ve-teknoloji-bakani-made-in-eu-duzenlemesi-hakkinda-konustu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-06_08-48-02_hJQIV-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-06T05:48:57+00:00",
+   "url": "/haber/sanayi-ve-teknoloji-bakani-made-in-eu-duzenlemesi-hakkinda-konustu-8dc764e9/"
+  },
+  {
+   "id": "ba856352",
+   "title": "Afyonkarahisar'da 8 kişinin öldürüldüğü katliamda sır perdesi aralanıyor. İşte saldırının nedeni",
+   "summary": "Afyonkarahisar'da saldırgan Arif Sefa Özdemir, 3 ayrı noktada 8 kişiyi öldürdü. Şüphelinin kendisini MİT görevlisi olarak tanıttığı öğrenilirken katliamın nedeni de belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-8-kisinin-olduruldugu-katliamda-sir-perdesi-aralaniyor-iste-saldirinin-nedeni-1749609",
+   "image": "https://images.ntv.com.tr/images/AW826302_01-477929.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-06T05:46:13+00:00",
+   "url": "/haber/afyonkarahisar-da-8-kisinin-olduruldugu-katliamda-sir-perdesi-aralaniy-ba856352/"
+  },
+  {
+   "id": "2a28c2a7",
+   "title": "WhatsApp, “etkinlik” merkezli yeniliklerini duyurdu",
+   "summary": "“İnsanların WhatsApp’ta olmayan arkadaşlarını davet etmek de dahil olmak üzere, etkinlik oluşturmak ve koordine etmek için tek bir yerden hizmet almak istediklerini duyduk. İster ailenizle, ister yeni arkadaşlarınızla,…",
+   "link": "https://www.log.com.tr/whatsapp-etkinlik-merkezli-yeniliklerini-duyurdu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-06_08-44-00_OvWVV-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-06T05:45:53+00:00",
+   "url": "/haber/whatsapp-etkinlik-merkezli-yeniliklerini-duyurdu-2a28c2a7/"
+  },
+  {
+   "id": "9a1a69a0",
+   "title": "ABD'deki ara seçimlerde Temsilciler Meclisinde Demokratlar 253, Cumhuriyetçiler 157 sandalyeye ulaştı",
+   "summary": "ABD'de 3 Kasım'da düzenlenen ara seçimlerde oy sayımı devam ederken, Temsilciler Meclisinde Demokratlar 253, Cumhuriyetçiler 157 sandalye kazandı. Temsilciler Meclisindeki 25 sandalyenin kazananı henüz belli olmadı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abddeki-ara-secimlerde-temsilciler-meclisinde-demokratlar-253-cumhuriyetciler-157-sandalyeye-ulasti/4113574",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T05:44:29+00:00",
+   "url": "/haber/abd-deki-ara-secimlerde-temsilciler-meclisinde-demokratlar-253-cumhuri-9a1a69a0/"
+  },
+  {
+   "id": "98fa60fa",
+   "title": "Nvidia, GeForce 8800 GTX’in 20. yılını oyuncuları 2006’ya götüren özel bir Steam demosuyla kutluyor",
+   "summary": "Nvdia, GeForce 8800 GTX ekran kartının 20. yılını, oyuncuları 2006 yılına götüren özel bir Steam demosuyla kutluyor. Buradan ücretsiz olarak indirilebilen “GeForce 8800 GTX – 20 Years of a Legend” isimli demo için…",
+   "link": "https://www.log.com.tr/nvidia-geforce-8800-gtxin-20-yilini-oyunculari-2006ya-goturen-ozel-bir-steam-demosuyla-kutluyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-06_08-41-52_Y5GvR-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-06T05:43:35+00:00",
+   "url": "/haber/nvidia-geforce-8800-gtx-in-20-yilini-oyunculari-2006-ya-goturen-ozel-b-98fa60fa/"
+  },
+  {
+   "id": "7db33eeb",
+   "title": "İstanbul merkezli suç örgütü operasyonunda 12 şüpheli yakalandı",
+   "summary": "İstanbul merkezli 3 ilde düzenlenen suç örgütü operasyonunda, iş yeri kurşunlama, kundaklama ve tehdit suçlarını işledikleri iddiasıyla 12 zanlı gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-suc-orgutu-operasyonunda-12-supheli-yakalandi/4113564",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T05:32:18+00:00",
+   "url": "/haber/istanbul-merkezli-suc-orgutu-operasyonunda-12-supheli-yakalandi-7db33eeb/"
   },
   {
    "id": "bdd8f09c",
@@ -519,15 +607,15 @@
    "url": "/haber/whatsapp-android-kullanicilarina-mavi-tik-birakmadan-mesaj-okuma-ozell-e898a831/"
   },
   {
-   "id": "25c68f83",
-   "title": "AB ve IEA, petrol stoklarının kullanıma yönelik adımları koordine ediyor",
-   "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Uluslararası Enerji Ajansı (IEA) Başkanı Fatih Birol ile G7'nin üzerinde uzlaştığı petrol stoklarının kullanıma sunulmasına yönelik adımları koordine…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ab-ve-iea-petrol-stoklarinin-kullanima-yonelik-adimlari-koordine-ediyor/4113440",
+   "id": "bd11e2e4",
+   "title": "Türkiye'nin 81 ilinden kadınların emek ve hikayeleri Rami Kütüphanesi'nde buluşuyor",
+   "summary": "Türkiye'nin yedi coğrafi bölgesinden kadın zanaatkarların el emeği eserleri ve ilham veren hayat hikayeleri, Rami Kütüphanesi'nde düzenlenecek özel bir programla ziyaretçilerle buluşacak.",
+   "link": "https://www.aa.com.tr/tr/kultur/turkiyenin-81-ilinden-kadinlarin-emek-ve-hikayeleri-rami-kutuphanesinde-bulusuyor/4113446",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-05T19:59:00+00:00",
-   "url": "/haber/ab-ve-iea-petrol-stoklarinin-kullanima-yonelik-adimlari-koordine-ediyo-25c68f83/"
+   "date": "2026-11-05T20:07:09+00:00",
+   "url": "/haber/turkiye-nin-81-ilinden-kadinlarin-emek-ve-hikayeleri-rami-kutuphanesi-bd11e2e4/"
   },
   {
    "id": "7b80180e",
@@ -572,17 +660,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T19:29:00+00:00",
    "url": "/haber/uyurken-kulakliga-gerek-kalmayacak-baseus-tan-yastik-alti-hoparlor-dbc4aab3/"
-  },
-  {
-   "id": "ed92350a",
-   "title": "Bakan Memişoğlu: Sağlığın teknolojisini ve malzemesini de üretebilen, geliştirebilen bir insan gücüne sahibiz",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Sağlığın aynı zamanda teknolojisini, cihazını, malzemesini de üretebilen, bunları geliştirebilen bir insan gücüne sahibiz. Onun için 'Üreten Sağlık' diyoruz.\" ifadesini kullandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-sagligin-teknolojisini-ve-malzemesini-de-uretebilen-gelistirebilen-bir-insan-gucune-sahibiz/4113407",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T19:23:14+00:00",
-   "url": "/haber/bakan-memisoglu-sagligin-teknolojisini-ve-malzemesini-de-uretebilen-ge-ed92350a/"
   },
   {
    "id": "c769456f",
@@ -704,17 +781,6 @@
    "category": "gundem",
    "date": "2026-11-05T16:07:00+00:00",
    "url": "/haber/afyonkarahisar-da-silahli-saldiri-8-olu-1b0ce509/"
-  },
-  {
-   "id": "c3a1100a",
-   "title": "Denizli Devlet Hastanesi'nin açılışı bugün yapılacak",
-   "summary": "Denizli Devlet Hastanesi'nin açılışı, Sağlık Bakanı Kemal Memişoğlu'nun katılımıyla bugün gerçekleştirilecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/denizli-devlet-hastanesinin-acilisi-bugun-yapilacak/4113233",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-05T16:03:58+00:00",
-   "url": "/haber/denizli-devlet-hastanesi-nin-acilisi-bugun-yapilacak-c3a1100a/"
   },
   {
    "id": "880bcc1a",
@@ -1003,39 +1069,6 @@
    "url": "/haber/apple-dan-labrinth-in-dokunmatik-ekranli-macbook-pro-ile-sifirdan-sark-9f02cba0/"
   },
   {
-   "id": "1dfae5a4",
-   "title": "Yeni harici ekran kartı istasyonu “Asus ROG XG Station 3” tanıtıldı",
-   "summary": "Thunderbolt 5 destekli yeni harici ekran kartı istasyonu Asus ROG XG Station 3, açık yapıda tasarlanmış ve GeForce RTX 5070’ten RTX 5090’a, Radeon RX 9070 XT’den Intel Arc B580’e kadar pek çok ekran kartını, hatta…",
-   "link": "https://www.log.com.tr/yeni-harici-ekran-karti-istasyonu-asus-rog-xg-station-3-tanitildi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-05_15-45-58_ttzaA-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-05T12:48:14+00:00",
-   "url": "/haber/yeni-harici-ekran-karti-istasyonu-asus-rog-xg-station-3-tanitildi-1dfae5a4/"
-  },
-  {
-   "id": "2b9dce99",
-   "title": "Discord’un Windows uygulaması Rust’a geçirilecek",
-   "summary": "En son detaylarına burada yer verdiğimiz tartışmalı kararıyla gündemde ses getiren Türkiye’de erişime engelli iletişim platformu Discord, bugün birçok kullanıcıyı memnun edecek bir haber verdi. Şirketin açıklamasına…",
-   "link": "https://www.log.com.tr/discordun-windows-uygulamasi-rusta-gecirilecek/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2023/11/discord-chatgpt-temelli-sohbet-botunu-kapatiyor-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-05T12:37:08+00:00",
-   "url": "/haber/discord-un-windows-uygulamasi-rust-a-gecirilecek-2b9dce99/"
-  },
-  {
-   "id": "57d310d9",
-   "title": "PlayStation 5 satışları 100 milyona ulaşmak üzere",
-   "summary": "Sony’nin yaptığı açıklamaya göre PlayStation 5 satışları, son çeyrekte eklenen 2,6 milyon üniteyle birlikte 97,9 milyona kadar ulaştı. Aynı dönemde PS4 ve PS5 için toplam 88,2 milyon adet oyun satıldığını açıklayan…",
-   "link": "https://www.log.com.tr/playstation-5-satislari-100-milyona-ulasmak-uzere/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2025/11/playstation-5-842-milyonu-geride-birakti-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-05T12:26:46+00:00",
-   "url": "/haber/playstation-5-satislari-100-milyona-ulasmak-uzere-57d310d9/"
-  },
-  {
    "id": "e4e9ecdc",
    "title": "Togg, THY ve Eczacıbaşı’ndan Dev Adım: Robotik Türkiye Platformu Kuruldu!",
    "summary": "TBV çatısında kurulan Robotik Türkiye Platformu, yerli sanayi ve girişimleri buluşturarak fiziksel yapay zekâda küresel rekabeti hedefliyor.",
@@ -1091,17 +1124,6 @@
    "url": "/haber/turkiye-genelinde-sahte-alkol-operasyonu-121-supheliye-islem-16c0ec09/"
   },
   {
-   "id": "37bdae0e",
-   "title": "Fenerbahçe-Liverpool maçı öncesi karaborsa bilet operasyonu",
-   "summary": "Fenerbahçe-Liverpool maçı öncesinde sosyal medyada karaborsa bilet sattıkları belirlenen 9 şüpheli gözaltına alındı. Şüphelilerden 4'ü hakkında adli kontrol kararı verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/fenerbahce-liverpool-maci-oncesi-karaborsa-bilet-operasyonu-1749531",
-   "image": "https://images.ntv.com.tr/images/images-281252.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-05T11:47:57+00:00",
-   "url": "/haber/fenerbahce-liverpool-maci-oncesi-karaborsa-bilet-operasyonu-37bdae0e/"
-  },
-  {
    "id": "c08325b3",
    "title": "BYD’nin Rolls-Royce Rakibi Otomobilinden Yeni Fotoğraflarlar Geldi!",
    "summary": "BYD’nin ultra lüks markası Yangwang’ın yeni sedanı Altior, 8 Kasım’da Abu Dabi’de yapılacak tanıtım öncesinde kamuflajsız görüntülendi.",
@@ -1144,28 +1166,6 @@
    "category": "gundem",
    "date": "2026-11-05T10:23:00+00:00",
    "url": "/haber/bahcelievler-de-toprak-altinda-kalan-2-isciden-1-i-hayatini-kaybetti-7087f281/"
-  },
-  {
-   "id": "afa00151",
-   "title": "MSB'den İran sınırında şehit olan askerle ilgili açıklama",
-   "summary": "Milli Savunma Bakanlığı, Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün şehit olduğu olayda ateşin İran tarafından geldiğinin değerlendirildiğini açıkladı.",
-   "link": "https://www.ntv.com.tr/turkiye/msbden-iran-sinirinda-sehit-olan-askerle-ilgili-aciklama-1749528",
-   "image": "https://images.ntv.com.tr/images/şehit-119897.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-05T10:22:04+00:00",
-   "url": "/haber/msb-den-iran-sinirinda-sehit-olan-askerle-ilgili-aciklama-afa00151/"
-  },
-  {
-   "id": "f2c65497",
-   "title": "PUBG: Battlegrounds 44.1 güncellemesiyle gelen yenilikler belli oldu",
-   "summary": "Krafton, Inc. bugün yaptığı açıklamayla PUBG: Battlegrounds‘un 44.1 güncellemesini yayınladığını duyurdu. Güncelleme, K-pop grubu IVE ile iş birliğini, eski PvE modlarının daha zorlu yepyeni versiyonlarını ve PUBG…",
-   "link": "https://www.log.com.tr/pubg-battlegrounds-44-1-guncellemesi-yepyeni-iceriklerle-sizlerle/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/PUBG-Battlegrounds-25-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-05T10:00:20+00:00",
-   "url": "/haber/pubg-battlegrounds-44-1-guncellemesiyle-gelen-yenilikler-belli-oldu-f2c65497/"
   },
   {
    "id": "cdb00055",
