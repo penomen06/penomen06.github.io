@@ -1,16 +1,137 @@
 {
- "updated": "2026-11-06T16:30:52.809515+00:00",
+ "updated": "2026-11-06T17:01:05.481219+00:00",
  "items": [
   {
    "id": "35314d4c",
-   "title": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'dan NTV'ye özel açıklamalar",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, NTV'de gündeme ilişkin açıklamalarda bulunuyor.",
+   "title": "Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 Kasım'da yeni bir ödeme yapılacak",
+   "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, fon tasfiye sürecinde şu ana kadar toplam 130 milyar liranın yatırımcılara iade edildiğini belirtti. 13 Kasım'da yeni bir ödeme yapılacağını söyledi.",
    "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-yardimcisi-cevdet-yilmazdan-ntvye-ozel-aciklamalar-1749713",
    "image": "https://images.ntv.com.tr/images/cevdetyılmazntv-665273.png",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-06T16:29:09+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-cevdet-yilmaz-dan-ntv-ye-ozel-aciklamalar-35314d4c/"
+   "date": "2026-11-06T17:00:02+00:00",
+   "url": "/haber/cevdet-yilmaz-yatirimcilara-130-milyar-tl-iade-edildi-13-kasim-da-yeni-35314d4c/"
+  },
+  {
+   "id": "f58fcbc5",
+   "title": "Çin, 2030’dan önce Ay’a insan indirmek için düğmeye bastı: İşte plan",
+   "summary": "Çin, 2030’dan önce Ay’a astronot indirmek için dört yıllık yol haritasını açıkladı. Plan, insansız iniş testinden Ay yörüngesinde kenetlenme provasına kadar kritik aşamaları kapsıyor.",
+   "link": "https://www.donanimhaber.com/cin-2030-dan-once-ay-a-insan-indirmek-icin-dugmeye-basti--212575",
+   "image": "https://www.donanimhaber.com/images/images/haber/212575/1200x675cin-2030-dan-once-ay-a-insan-indirmek-icin-dugmeye-basti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-06T17:00:00+00:00",
+   "url": "/haber/cin-2030-dan-once-ay-a-insan-indirmek-icin-dugmeye-basti-iste-plan-f58fcbc5/"
+  },
+  {
+   "id": "ce25f0ee",
+   "title": "Gaziosmanpaşa Belediyesi davası. Başkan Hakan Bahçetepe tahliye edildi",
+   "summary": "Gaziosmanpaşa Belediyesi davasında tutuklu bulunan Belediye Başkanı Hakan Bahçetepe ev hapsi kararıyla tahliye edildi. Bahçetepe rüşvet suçundan 6 yıl 3 ay hapis cezası ile cezalandırıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-1749718",
+   "image": "https://images.ntv.com.tr/images/HakanBah_C3_A7etepe-473077-185536-721701.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-06T16:59:36+00:00",
+   "url": "/haber/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-ce25f0ee/"
+  },
+  {
+   "id": "1f92c976",
+   "title": "Meghan Markle'ın babası çocuk istismarı materyali nedeniyle gözaltına alındı",
+   "summary": "Sussex Düşesi Meghan Markle'ın babası Thomas Markle, çocuk cinsel istismarı içerikli materyallere sahip olmakla suçlanıyor.",
+   "link": "https://www.bbc.com/turkce/articles/cm70p18ldrwjo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e831/live/b27def00-cff9-11f1-b0ff-614e4f91e969.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-06T16:47:55+00:00",
+   "url": "/haber/meghan-markle-in-babasi-cocuk-istismari-materyali-nedeniyle-gozaltina-1f92c976/"
+  },
+  {
+   "id": "7ded3d09",
+   "title": "iOS klavyesinde gizli yasaklı kelime listesi",
+   "summary": "Bir araştırmacı, iPhone klavyesinin otomatik tamamlamada 100 binden fazla kelime ve ifadeyi gizlice engellediğini ortaya çıkardı; listede siyasi ifadeler de var.",
+   "link": "https://shiftdelete.net/ios-klavye-gizli-yasakli-kelime-listesi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/ios-klavye-yasakli-ifade-listesi-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-06T16:47:00+00:00",
+   "url": "/haber/ios-klavyesinde-gizli-yasakli-kelime-listesi-7ded3d09/"
+  },
+  {
+   "id": "647bc87e",
+   "title": "Teknoloji hisseleri trilyonlarca dolarlık kaybın ardından toparlanıyor",
+   "summary": "Teknoloji devlerinin hisselerinde yapay zeka yatırımlarının yavaşlama ihtimaline dair endişeler sebebiyle trilyonlarca dolarlık düşüş yaşandı. Uzmanlara göre düşüşün ardında yatırımcıların yapay zeka yatırımlarından…",
+   "link": "https://www.bbc.com/turkce/articles/cxvgdd06y2m4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/93ca/live/ce7bd110-d9f2-11f1-93e1-3b657b665bcf.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-06T16:33:11+00:00",
+   "url": "/haber/teknoloji-hisseleri-trilyonlarca-dolarlik-kaybin-ardindan-toparlaniyor-647bc87e/"
+  },
+  {
+   "id": "6c01ea17",
+   "title": "Çin Devlet Başkanı Şi: Büyüyen ve güçlenen Çin, Avrupa'nın problemlerinin sebebi değil",
+   "summary": "Çin Devlet Başkanı Şi Cinping, büyüyen ve güçlenen Çin'in Avrupa'nın aleyhine olmadığını, bilakis bir ortak olarak kıtadaki ekonomik sorunların çözümüne destek sunabileceğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/cin-devlet-baskani-si-buyuyen-ve-guclenen-cin-avrupanin-problemlerinin-sebebi-degil/4114598",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T16:32:12+00:00",
+   "url": "/haber/cin-devlet-baskani-si-buyuyen-ve-guclenen-cin-avrupa-nin-problemlerini-6c01ea17/"
+  },
+  {
+   "id": "1a9874ae",
+   "title": "ROKETSAN ChainUp için başvurular başladı",
+   "summary": "ROKETSAN ChainUp Tedarik Zinciri Deneyim ve Gelişim Programı için başvurular başladı. Program 18-19 Aralık 2026'da Ankara'da yapılacak ve katılım ücretsiz.",
+   "link": "https://shiftdelete.net/roketsan-chainup-programi-basvurulari-basladi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/e70c44d10bda84cdabb199b00641fab69c63ab26.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-06T16:32:00+00:00",
+   "url": "/haber/roketsan-chainup-icin-basvurular-basladi-1a9874ae/"
+  },
+  {
+   "id": "09308a46",
+   "title": "Et işareti nasıl yapılır? Klavye ve telefon",
+   "summary": "Windows’ta 2 tuş, Mac’te Option ve telefonda 123 menüsü yeterli. Gmail, sosyal medya ve oyunlarda kullanılan @ sembolü neden önemli, nerede işe yarar?",
+   "link": "https://shiftdelete.net/et-isareti-nasil-yapilir-nerelerde-kullanilir",
+   "image": "https://shiftdelete.net/static/img/content/26-11/06/et-isareti-nasil-yapilir.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-06T16:31:30+00:00",
+   "url": "/haber/et-isareti-nasil-yapilir-klavye-ve-telefon-09308a46/"
+  },
+  {
+   "id": "bd299dc0",
+   "title": "RPG, FPS ve strateji oyuncularının tercihlerini anlamanın daha akıllı yolu",
+   "summary": "RPG, FPS ve strateji oyunları farklı oyuncu motivasyonlarına hitap ediyor. Oyun türü etiketleri ve dijital mağaza filtreleri, oyuncuların kendilerine uygun oyunları keşfetmesini kolaylaştırıyor.",
+   "link": "https://www.donanimhaber.com/oyun-turleri-oyuncu-tercihlerini-nasil-sekillendiriyor--212592",
+   "image": "https://www.donanimhaber.com/images/images/haber/212592/1200x675oyun-turleri-oyuncu-tercihlerini-nasil-sekillendiriyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-06T16:30:44+00:00",
+   "url": "/haber/rpg-fps-ve-strateji-oyuncularinin-tercihlerini-anlamanin-daha-akilli-y-bd299dc0/"
+  },
+  {
+   "id": "a47a7d84",
+   "title": "Sinemada bu hafta: Cinlerin Düğünü, Olası Aşklar, Vahşi At Dokuz (6 Kasım 2026)",
+   "summary": "Bu hafta sinema salonlarında 10 yeni film gösterime girerken, dijital platformlara da yeni filmler geliyor. İşte bu hafta sinemaseverleri bekleyen yeni filmler:",
+   "link": "https://www.donanimhaber.com/sinemada-bu-hafta-6-kasim-2026--212577",
+   "image": "https://www.donanimhaber.com/images/images/haber/212577/1200x675sinemada-bu-hafta-6-kasim-2026.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-06T16:30:00+00:00",
+   "url": "/haber/sinemada-bu-hafta-cinlerin-dugunu-olasi-asklar-vahsi-at-dokuz-6-kasim-a47a7d84/"
+  },
+  {
+   "id": "f15e262a",
+   "title": "SPK'den tasfiye kapsamı dışındaki kapalı fonların yeniden açılma sürecine ilişkin açıklama",
+   "summary": "SPK, A1 Capital, Bulls ve Pardus portföy yönetim şirketlerinin tasfiye kapsamında bulunmayan ancak alım satıma kapalı olan fonlarının yeniden işleme açılabilmesi için ilgili şirketlerin Ziraat Bankası'na başvurması…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spkden-tasfiye-kapsami-disindaki-kapali-fonlarin-yeniden-acilma-surecine-iliskin-aciklama/4114597",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T16:29:26+00:00",
+   "url": "/haber/spk-den-tasfiye-kapsami-disindaki-kapali-fonlarin-yeniden-acilma-surec-f15e262a/"
   },
   {
    "id": "4526bede",
@@ -68,6 +189,17 @@
    "url": "/haber/google-a-yapay-zeka-davasi-ogrenciye-zarar-4570467a/"
   },
   {
+   "id": "973f72e6",
+   "title": "TCMB Başkanı Karahan: Fon piyasasındaki gelişmelerin bankacılık sistemi ve diğer piyasalarla etkileşimini takip ediyoruz",
+   "summary": "TCMB Başkanı Karahan, fon piyasasındaki gelişmelerin bankacılık sistemi ve diğer finansal piyasalarla olan etkileşimini yakından takip ettiklerini belirterek, \"Gerek görülmesi halinde her türlü ek tedbiri proaktif bir…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-fon-piyasasindaki-gelismelerin-bankacilik-sistemi-ve-diger-piyasalarla-etkilesimini-takip-ediyoruz/4114582",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T16:12:58+00:00",
+   "url": "/haber/tcmb-baskani-karahan-fon-piyasasindaki-gelismelerin-bankacilik-sistemi-973f72e6/"
+  },
+  {
    "id": "471293ef",
    "title": "Honor 700 serisi ortaya çıktı: Üç modelde de arka ekran bulunuyor",
    "summary": "Honor 700 serisi için Çin'de ön sipariş süreci başladı. Dört farklı renk seçeneğiyle sunulacak modeller, arka taraftaki ikincil ekranları ve yüksek batarya kapasiteleriyle dikkat çekiyor.",
@@ -88,6 +220,28 @@
    "category": "gundem",
    "date": "2026-11-06T16:08:19+00:00",
    "url": "/haber/israil-ordusu-lubnan-in-guneyinde-zeytin-hasadi-yapan-ciftcilerin-yaki-2d1eac00/"
+  },
+  {
+   "id": "1a476911",
+   "title": "Nemrut Kalderası Milli Parkı karla beyaza büründü",
+   "summary": "Bitlis'in Ahlat, Güroymak ve Tatvan ilçeleri sınırlarındaki Nemrut Kalderası Milli Parkı, kar yağışıyla beyaza büründü.",
+   "link": "https://www.aa.com.tr/tr/gundem/nemrut-kalderasi-milli-parki-karla-beyaza-burundu/4114574",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T16:06:50+00:00",
+   "url": "/haber/nemrut-kalderasi-milli-parki-karla-beyaza-burundu-1a476911/"
+  },
+  {
+   "id": "e1a66657",
+   "title": "Bakan Kacır, KKTC Cumhurbaşkanı Erhürman ile İstanbul'da görüştü",
+   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman ile İstanbul'da bir araya geldiklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kacir-kktc-cumhurbaskani-erhurman-ile-istanbulda-gorustu/4114573",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T16:04:51+00:00",
+   "url": "/haber/bakan-kacir-kktc-cumhurbaskani-erhurman-ile-istanbul-da-gorustu-e1a66657/"
   },
   {
    "id": "24ed2f18",
@@ -178,6 +332,17 @@
    "url": "/haber/tesla-texas-fabrikasinda-cybertruck-uretimini-sonlandirmayi-planliyor-12fa2687/"
   },
   {
+   "id": "fdf3f2db",
+   "title": "Bakan Bolat: Türkiye, dünyada seramik karoda 5'inci, genel seramik ürünlerinde ilk 10'un içinde",
+   "summary": "Ticaret Bakanı Ömer Bolat, Türkiye'nin yıllık 1,3 milyar dolarlık seramik ihraç ettiğini belirterek, \"Dünyada özellikle seramik karoda 5'inci. Genel seramik ürünlerinde de ilk 10'un içinde.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-turkiye-dunyada-seramik-karoda-5inci-genel-seramik-urunlerinde-ilk-10un-icinde/4114530",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T15:38:25+00:00",
+   "url": "/haber/bakan-bolat-turkiye-dunyada-seramik-karoda-5-inci-genel-seramik-urunle-fdf3f2db/"
+  },
+  {
    "id": "60a08ab0",
    "title": "Pixel kasım güncellemesi neden gelmedi?",
    "summary": "Google'ın Pixel kasım güncellemesi ayın ilk salısında gelmedi. Güvenlik veri tabanı kayıtları ve sızan yapılar, Android 17 QPR2'nin aralıktan önce yolda olabileceğini düşündürüyor.",
@@ -198,39 +363,6 @@
    "category": "gundem",
    "date": "2026-11-06T15:30:08+00:00",
    "url": "/haber/ab-nin-stratejik-uyum-talebi-turkiye-icin-yeni-bir-engel-olur-mu-8264f015/"
-  },
-  {
-   "id": "3440831a",
-   "title": "Fransız siyasetçi Melenchon'dan cumhurbaşkanı seçilmesi halinde Netanyahu'yu tutuklama emrini uygulama vaadi",
-   "summary": "Fransız Cumhurbaşkanı adayı Jean-Luc Melenchon, seçilmesi halinde Uluslararası Ceza Mahkemesinin (UCM) İsrail Başbakanı Binyamin Netanyahu hakkındaki tutuklama emrini uygulama vaadinde bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransiz-siyasetci-melenchondan-cumhurbaskani-secilmesi-halinde-netanyahuyu-tutuklama-emrini-uygulama-vaadi/4114523",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T15:28:24+00:00",
-   "url": "/haber/fransiz-siyasetci-melenchon-dan-cumhurbaskani-secilmesi-halinde-netany-3440831a/"
-  },
-  {
-   "id": "624bf4b5",
-   "title": "Cumhurbaşkanı Erdoğan'a kelebek figürü takdim eden Halepli Alabed'den okulların onarılması çağrısı",
-   "summary": "Cumhurbaşkanı Erdoğan'a savaştan etkilenen çocukları temsil eden kelebek figürünü takdim eden Suriyeli Alabed, Erdoğan'la 10 yıl sonra bir araya gelmenin kendisi için büyük bir onur olduğunu belirterek \"Kendisi, benim…",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogana-kelebek-figuru-takdim-eden-halepli-alabedden-okullarin-onarilmasi-cagrisi/4114522",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T15:27:43+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-a-kelebek-figuru-takdim-eden-halepli-alabed-den-624bf4b5/"
-  },
-  {
-   "id": "f1c174f6",
-   "title": "ROKETSAN'ın ChainUp programına başvurular başladı",
-   "summary": "ROKETSAN, savunma sanayisinde tedarik zinciri ve lojistik alanlarında genç yetenekleri sektör profesyonelleriyle buluşturmak amacıyla hayata geçirdiği ChainUp Tedarik Zinciri Deneyim ve Gelişim Programı için başvuruları…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/roketsanin-chainup-programina-basvurular-basladi/4114521",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T15:27:25+00:00",
-   "url": "/haber/roketsan-in-chainup-programina-basvurular-basladi-f1c174f6/"
   },
   {
    "id": "fe4f3b3b",
@@ -255,17 +387,6 @@
    "url": "/haber/abd-hava-trafik-kontrolunde-onlarca-yillik-disket-donemi-sona-eriyor-dd3bc419/"
   },
   {
-   "id": "c4cf9e88",
-   "title": "Borsa günü yükselişle tamamladı",
-   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,32 değer kazanarak 11.482,60 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4114518",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T15:24:45+00:00",
-   "url": "/haber/borsa-gunu-yukselisle-tamamladi-c4cf9e88/"
-  },
-  {
    "id": "46723be9",
    "title": "Gemini Live çevrimdışı modu için internet gerekecek",
    "summary": "Google uygulamasının yeni sürümündeki kodlar, Gemini Live çevrimdışı mod özelliğinin kurulum için internet isteyeceğini ve sınırlı özelliklerle çalışacağını gösteriyor.",
@@ -286,17 +407,6 @@
    "category": "gundem",
    "date": "2026-11-06T15:14:41+00:00",
    "url": "/haber/istanbul-da-zanaatkar-kadinlar-turkiye-81-il-81-kadin-81-hikaye-progra-a6f02157/"
-  },
-  {
-   "id": "9e62fba6",
-   "title": "Emre Belözoğlu için imza töreni yapıldı",
-   "summary": "Sarı-lacivertli ekipte teknik direktörlük görevine getirilen Belözoğlu, \"Fenerbahçe için net kriterler tutku ve kalitedir.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/emre-belozoglu-icin-imza-toreni-yapildi/4114503",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T15:06:36+00:00",
-   "url": "/haber/emre-belozoglu-icin-imza-toreni-yapildi-9e62fba6/"
   },
   {
    "id": "674d95f7",
@@ -321,26 +431,15 @@
    "url": "/haber/yeni-nissan-primastar-turkiye-de-satisa-sunuldu-iste-fiyati-ve-ozellik-0f5eb651/"
   },
   {
-   "id": "02bac697",
-   "title": "İletişim Başkanı Duran: Dünyanın ihtiyacı yeni bir savaşın galipleri değil, yeni bir barışın kurucularıdır",
-   "summary": "İletişim Başkanı Duran \"Dünyanın ihtiyacı yeni bir savaşın galipleri değil yeni bir barışın kurucularıdır. Geçmişte bir büyük savaştan sonra yapılan kurumsal yenilenmeyi bugün barış içinde gerçekleştirmek çağımızın en…",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-dunyanin-ihtiyaci-yeni-bir-savasin-galipleri-degil-yeni-bir-barisin-kurucularidir/4114495",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T14:59:28+00:00",
-   "url": "/haber/iletisim-baskani-duran-dunyanin-ihtiyaci-yeni-bir-savasin-galipleri-de-02bac697/"
-  },
-  {
    "id": "74edabe5",
-   "title": "Kuzey Irak'ta Talabani'nin partisi KYB hükümetten çekildi",
+   "title": "Talabani'nin partisi Kuzey Irak'ta hükümetten çekildi",
    "summary": "Kuzey Irak'ta Bafel Talabani'nin Süleymaniye merkezli Kürdistan Yurtseverler Birliği (KYB) partisi, Erbil merkezli Kürdistan Demokrat Partisi (KDP) ile kurulan hükümetten çekildiğini ilan etti. Talabani, KDP'nin tek…",
    "link": "https://www.bbc.com/turkce/articles/cm4g1191714lo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/308c/live/a8336070-d9ea-11f1-bbe5-797ee05bee69.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-06T14:51:30+00:00",
-   "url": "/haber/kuzey-irak-ta-talabani-nin-partisi-kyb-hukumetten-cekildi-74edabe5/"
+   "url": "/haber/talabani-nin-partisi-kuzey-irak-ta-hukumetten-cekildi-74edabe5/"
   },
   {
    "id": "889217cc",
@@ -506,39 +605,6 @@
    "category": "gundem",
    "date": "2026-11-06T14:11:54+00:00",
    "url": "/haber/afyon-da-8-kisiyi-olduren-saldirganin-ifadesi-ortaya-cikti-5f3358b5/"
-  },
-  {
-   "id": "6f8a962a",
-   "title": "HONOR Robot Phone 2 geliyor: 2027'de çıkabilir",
-   "summary": "Weibo'da paylaşılan yeni iddiaya göre HONOR Robot Phone 2 geliştirme aşamasında. Telefonun 2027'nin ikinci çeyreğinde tanıtılması bekleniyor.",
-   "link": "https://shiftdelete.net/honor-robot-phone-2-sizdirildi-2027",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/honor-robot-phone-2-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-06T14:08:26+00:00",
-   "url": "/haber/honor-robot-phone-2-geliyor-2027-de-cikabilir-6f8a962a/"
-  },
-  {
-   "id": "732bf169",
-   "title": "OLED iPad Air 2027'de Samsung ekranıyla geliyor",
-   "summary": "Apple'ın ilk OLED iPad Air modelinin 2027'de çıkması bekleniyor. Panel tarafında ağırlığın Samsung Display'de olacağı, LG ve BOE'nin de pay alacağı konuşuluyor.",
-   "link": "https://shiftdelete.net/oled-ipad-air-2027-samsung-display",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/oled-ipad-air-2027-samsung-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-06T14:08:18+00:00",
-   "url": "/haber/oled-ipad-air-2027-de-samsung-ekraniyla-geliyor-732bf169/"
-  },
-  {
-   "id": "e5ee9fac",
-   "title": "RTX 5070 Ti fiyatı neredeyse iki katına çıktı",
-   "summary": "RTX 5070 Ti fiyatı ABD mağazalarında önerilen satış fiyatının neredeyse iki katına çıktı. En ucuz model 1340 dolardan başlarken bazı versiyonlar 1500 dolara ulaştı.",
-   "link": "https://shiftdelete.net/rtx-5070-ti-fiyati-abd-iki-katina-cikti",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/4274eb12f03a1019e16caa3f128af53b02f8cd26.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-06T14:03:47+00:00",
-   "url": "/haber/rtx-5070-ti-fiyati-neredeyse-iki-katina-cikti-e5ee9fac/"
   },
   {
    "id": "c3dd530c",
@@ -838,17 +904,6 @@
    "url": "/haber/sanayi-ve-teknoloji-bakani-made-in-eu-duzenlemesi-hakkinda-aciklamalar-a93db322/"
   },
   {
-   "id": "d4074ccd",
-   "title": "GeForce 8800 GTX 20 yaşında: Ekran kartı dünyasını değiştiren model",
-   "summary": "Nvidia GeForce 8800 GTX, CUDA mimarisini ekran kartlarına taşımasının üzerinden 20 yıl geçmesine rağmen teknoloji tarihindeki yerini koruyor. Nvidia, özel bir Steam demosuyla bu modeli kutluyor.",
-   "link": "https://www.donanimhaber.com/geforce-8800-gtx-20-yasinda-ekran-karti-dunyasini-degistiren-gpu--212559",
-   "image": "https://www.donanimhaber.com/images/images/haber/212559/1200x675geforce-8800-gtx-20-yasinda-ekran-karti-dunyasini-degistiren-gpu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-06T11:50:00+00:00",
-   "url": "/haber/geforce-8800-gtx-20-yasinda-ekran-karti-dunyasini-degistiren-model-d4074ccd/"
-  },
-  {
    "id": "559a443e",
    "title": "Süper Lig'de Yeni Yayın Dönemi: İhale Paketleri ve Detaylar Belli Oldu!",
    "summary": "Süper Lig'in 2027-2032 dönemi yayın ihalesinde 5 farklı paket yer alıyor. Peki ihale paketlerinin tüm detayları neler?",
@@ -882,17 +937,6 @@
    "url": "/haber/kahramanmaras-taki-okul-saldirisinda-hayatini-kaybeden-ogrencilerin-is-d6d83a29/"
   },
   {
-   "id": "8b83dff1",
-   "title": "İlk kez bir insansı robot şirketi halka arz oldu: Geliri sadece 1,8 milyon dolar",
-   "summary": "Amazon depolarında kullanılan Digit robotlarının üreticisi Agility Robotics halka açıldı. Şirket, 465 milyon dolar sermaye sağlarken 2025'i 138,1 milyon dolar zararla kapattı.",
-   "link": "https://www.donanimhaber.com/ilk-kez-bir-insansi-robot-sirketi-halka-arz-oldu--212555",
-   "image": "https://www.donanimhaber.com/images/images/haber/212555/1200x675ilk-kez-bir-insansi-robot-sirketi-halka-arz-oldu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-06T11:29:00+00:00",
-   "url": "/haber/ilk-kez-bir-insansi-robot-sirketi-halka-arz-oldu-geliri-sadece-1-8-mil-8b83dff1/"
-  },
-  {
    "id": "3db60567",
    "title": "A Milli Futbol Takımı aday kadrosu açıklandı",
    "summary": "A Milli Takım Teknik Direktörü Sergen Yalçın, Türkiye'nin UEFA Uluslar A Ligi’nde 12 Kasım’da Belçika ve 15 Kasım’da Fransa ile oynayacağı karşılaşmaların aday kadrosunu açıkladı.",
@@ -902,28 +946,6 @@
    "category": "gundem",
    "date": "2026-11-06T11:29:00+00:00",
    "url": "/haber/a-milli-futbol-takimi-aday-kadrosu-aciklandi-3db60567/"
-  },
-  {
-   "id": "81a9d86f",
-   "title": "WhatsApp'ta fotoğraf ve videolar orijinal kalitede paylaşılacak",
-   "summary": "WhatsApp, fotoğraf ve videoları herhangi bir sıkıştırma olmadan orijinal kalitede paylaşmaya olanak tanıyan bir seçenek üzerinde çalışıyor. Bu, Standart ve HD seçeneğinin yanına eklenecek.",
-   "link": "https://www.donanimhaber.com/whatsapp-ta-fotograf-ve-video-kalitesi-dusmeyecek--212573",
-   "image": "https://www.donanimhaber.com/images/images/haber/212573/1200x675whatsapp-ta-fotograf-ve-video-kalitesi-dusmeyecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-06T11:26:29+00:00",
-   "url": "/haber/whatsapp-ta-fotograf-ve-videolar-orijinal-kalitede-paylasilacak-81a9d86f/"
-  },
-  {
-   "id": "647bc87e",
-   "title": "Küresel piyasalarda yapay zeka depremi: Teknoloji devleri trilyonlarca dolar zarar etti",
-   "summary": "Teknoloji devlerinin hisselerinde yapay zeka yatırımlarının yavaşlama ihtimaline dair endişeler sebebiyle trilyonlarca dolarlık düşüş yaşandı. Uzmanlara göre düşüşün ardında yatırımcıların yapay zeka yatırımlarından…",
-   "link": "https://www.bbc.com/turkce/articles/cxvgdd06y2m4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/93ca/live/ce7bd110-d9f2-11f1-93e1-3b657b665bcf.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-06T11:17:52+00:00",
-   "url": "/haber/kuresel-piyasalarda-yapay-zeka-depremi-teknoloji-devleri-trilyonlarca-647bc87e/"
   },
   {
    "id": "e569e269",
@@ -1056,17 +1078,6 @@
    "category": "gundem",
    "date": "2026-11-06T08:26:36+00:00",
    "url": "/haber/34-ilde-gocmen-kacakciligi-operasyonu-81-organizator-yakalandi-76debd92/"
-  },
-  {
-   "id": "e674487c",
-   "title": "Kış erken geldi, hafta sonu için uyarı yapıldı: \"Birden karlı havaya yakalanabilirsiniz\"",
-   "summary": "Sibirya'dan gelen soğuk hava dalgası Türkiye'yi etkisi altına aldı. Hava sıcaklıkları yarın bir kademe daha düşecek. Hafta sonu yola çıkacaklar için kar yağışı uyarısı yapıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kis-erken-geldi-hafta-sonu-icin-uyari-yapildi-birden-karli-havaya-yakalanabilirsiniz-1749624",
-   "image": "https://images.ntv.com.tr/images/kış-başlıyor-166265.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-06T07:34:20+00:00",
-   "url": "/haber/kis-erken-geldi-hafta-sonu-icin-uyari-yapildi-birden-karli-havaya-yaka-e674487c/"
   },
   {
    "id": "9b8844c6",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-11-05T09:08:00+00:00",
    "url": "/haber/bakan-simsek-179-bin-449-kisi-net-yatirim-tutarinin-tamamini-aldi-cdb00055/"
-  },
-  {
-   "id": "9d712fa7",
-   "title": "Öcalan'ın İmralı'da yeni yere geçişi ne anlama geliyor?",
-   "summary": "PKK lideri Abdullah Öcalan'ın İmralı Cezaevi'nde kendisi için hazırlanan yeni alana geçmesi, yürütülen çözüm sürecinde yeni bir aşamaya geçilip geçilmediği tartışmasını gündeme getirdi. Ankara'da DEM Partili ve AKP'li…",
-   "link": "https://www.bbc.com/turkce/articles/cqe9lez7j1r8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b92/live/b4e5db20-d7f8-11f1-abc5-0dcba7a60c65.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-04T03:05:17+00:00",
-   "url": "/haber/ocalan-in-imrali-da-yeni-yere-gecisi-ne-anlama-geliyor-9d712fa7/"
   },
   {
    "id": "46c1d7a2",
