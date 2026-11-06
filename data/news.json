@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T17:26:09.945291+00:00",
+ "updated": "2026-11-06T17:30:55.422253+00:00",
  "items": [
+  {
+   "id": "ce25f0ee",
+   "title": "Gaziosmanpaşa Belediyesi davası. Hakan Bahçetepe ev hapsi ile tahliye edildi",
+   "summary": "Gaziosmanpaşa Belediyesi davasında tutuklu bulunan ve görevden uzaklaştırılan Belediye Başkanı Hakan Bahçetepe, ev hapsi kararıyla tahliye edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-1749718",
+   "image": "https://images.ntv.com.tr/images/HakanBah_C3_A7etepe-473077-185536-721701.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-06T17:29:00+00:00",
+   "url": "/haber/gaziosmanpasa-belediyesi-davasi-hakan-bahcetepe-ev-hapsi-ile-tahliye-e-ce25f0ee/"
+  },
+  {
+   "id": "4d5b6dd3",
+   "title": "Almanya'da CDU ve CSU, İlse Aigner'i cumhurbaşkanı adayı gösterdi",
+   "summary": "Almanya'da Hristiyan Demokrat Birlik Partisi (CDU) ile Hristiyan Sosyal Birlik Partisinin (CSU) cumhurbaşkanlığı için CSU'lu siyasetçi İlse Aigner'i aday göstermeyi kararlaştırdığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyada-cdu-ve-csu-ilse-aigneri-cumhurbaskani-adayi-gosterdi/4114625",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T17:23:53+00:00",
+   "url": "/haber/almanya-da-cdu-ve-csu-ilse-aigner-i-cumhurbaskani-adayi-gosterdi-4d5b6dd3/"
+  },
   {
    "id": "37ad1d2e",
    "title": "AMD Zen 6 işlemcisi ilk kez Geekbench 7’de görüntülendi: 9950X3D'yi geçiyor",
@@ -33,17 +55,6 @@
    "category": "teknoloji",
    "date": "2026-11-06T17:17:00+00:00",
    "url": "/haber/one-ui-9-5-ile-takvim-ve-saglik-yenileniyor-5cefec3c/"
-  },
-  {
-   "id": "ce25f0ee",
-   "title": "Gaziosmanpaşa Belediyesi davası. Hakan Bahçetepe ev hapsi ile tahliye edildi",
-   "summary": "Gaziosmanpaşa Belediyesi davasında tutuklu bulunan ve görevden uzaklaştırılan Belediye Başkanı Hakan Bahçetepe ev hapsi kararıyla tahliye edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-1749718",
-   "image": "https://images.ntv.com.tr/images/HakanBah_C3_A7etepe-473077-185536-721701.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-06T17:15:55+00:00",
-   "url": "/haber/gaziosmanpasa-belediyesi-davasi-hakan-bahcetepe-ev-hapsi-ile-tahliye-e-ce25f0ee/"
   },
   {
    "id": "1f92c976",
@@ -374,17 +385,6 @@
    "category": "gundem",
    "date": "2026-11-06T15:50:00+00:00",
    "url": "/haber/son-dakika-mugla-da-deprem-mi-oldu-az-once-deprem-mugla-da-nerede-oldu-fbe2c457/"
-  },
-  {
-   "id": "2aa26a78",
-   "title": "Mısırlılar, Muhammed Salah'ın futbol hayatına Trabzon'da devam etmesinden memnun",
-   "summary": "Necric köyü Belediye Başkanı Maher Shetteh, \"Artık Türkiye ligini izlemek, maçları takip etmek ve Muhammed Salah'ı seyretmek için çok daha büyük bir heyecan duyuyoruz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/misirlilar-muhammed-salahin-futbol-hayatina-trabzonda-devam-etmesinden-memnun/4114541",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T15:49:34+00:00",
-   "url": "/haber/misirlilar-muhammed-salah-in-futbol-hayatina-trabzon-da-devam-etmesind-2aa26a78/"
   },
   {
    "id": "5ad9fc94",
