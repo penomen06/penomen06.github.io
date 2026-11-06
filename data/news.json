@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-06T02:30:56.342131+00:00",
+ "updated": "2026-11-06T03:01:00.904102+00:00",
  "items": [
+  {
+   "id": "ff045399",
+   "title": "One UI 9 SIM kart ve Wi-Fi sorunu yaygınlaşıyor",
+   "summary": "One UI 9 SIM kart sorunu, güncellemeyi alan bazı Galaxy kullanıcılarının işini zorlaştırıyor. Wi-Fi ve hücresel veri kopuyor, fiziksel SIM kart algılanmıyor.",
+   "link": "https://shiftdelete.net/one-ui-9-sim-kart-sorunu-wifi-kopuyor",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/620539efa1621929b67abe0a9abb9e593d515434.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-06T03:00:00+00:00",
+   "url": "/haber/one-ui-9-sim-kart-ve-wi-fi-sorunu-yayginlasiyor-ff045399/"
+  },
   {
    "id": "e82727c3",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 06 Kasım 2026",
@@ -9,7 +20,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-06T02:30:00+00:00",
+   "date": "2026-11-06T03:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-e82727c3/"
   },
   {
@@ -495,17 +506,6 @@
    "category": "teknoloji",
    "date": "2026-11-05T19:47:17+00:00",
    "url": "/haber/meta-muse-voice-acildi-asistaniniz-artik-sesli-konusuyor-a33b47e7/"
-  },
-  {
-   "id": "19ab0cb2",
-   "title": "Claude kişisel finans: Banka hesabınız Claude'da",
-   "summary": "Anthropic'in yeni Personal Finance özelliği, ABD'de Pro, Max ve Ultra planlarda 2 yıllık banka işleminizi salt okunur inceliyor. Paranıza ne kadar erişiyor?",
-   "link": "https://shiftdelete.net/claude-kisisel-finans",
-   "image": "https://shiftdelete.net/static/img/content/26-11/05/claude-personal-finance.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-05T19:44:22+00:00",
-   "url": "/haber/claude-kisisel-finans-banka-hesabiniz-claude-da-19ab0cb2/"
   },
   {
    "id": "5f3358b5",
