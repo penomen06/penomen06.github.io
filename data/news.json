@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:30:52.920221+00:00",
+ "updated": "2026-11-06T23:01:03.650796+00:00",
  "items": [
   {
    "id": "69ed9ef5",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-06T22:30:00+00:00",
+   "date": "2026-11-06T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-69ed9ef5/"
+  },
+  {
+   "id": "4809971e",
+   "title": "Bakan Çiftçi duyurdu. Okul saldırılarına yeni önlemler eklenecek",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, okul saldırılarının önlenmesine yönelik tedbirler kapsamında, silah ruhsatı almak isteyenlere çelik kasa zorunluluğu getirileceğini söyledi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-ciftci-duyurdu-okul-saldirilarina-yeni-onlemler-eklenecek-1749735",
+   "image": "https://images.ntv.com.tr/images/okullar4-314125.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-06T22:59:33+00:00",
+   "url": "/haber/bakan-ciftci-duyurdu-okul-saldirilarina-yeni-onlemler-eklenecek-4809971e/"
+  },
+  {
+   "id": "2233cccc",
+   "title": "Donald Trump ara seçim yenilgisi sonrası özel kalemini değiştirdi",
+   "summary": "ABD Başkanı Donald Trump, ABD ara seçimlerinde yaşanan tarihi kayıpların ardından, sert göçmenlik siyasetinin mimarı Stephen Miller'ı yeni Beyaz Saray Genel Sekreteri olarak atadı. Cumhuriyetçilerin Kongre'yi…",
+   "link": "https://www.bbc.com/turkce/articles/cwp9ggvdg7rdo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f45c/live/b31258a0-da32-11f1-9fbd-45a32d24ae34.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-06T22:41:33+00:00",
+   "url": "/haber/donald-trump-ara-secim-yenilgisi-sonrasi-ozel-kalemini-degistirdi-2233cccc/"
   },
   {
    "id": "f468d627",
@@ -46,6 +68,17 @@
    "url": "/haber/iran-basini-kesm-adasi-ile-bender-hamir-de-kaynagi-belirsiz-patlama-se-6e1d9948/"
   },
   {
+   "id": "a533f99f",
+   "title": "Güneydoğu Anadolu'nun kalkınmasında GAP imzası",
+   "summary": "Sanayi ve Teknoloji Bakanlığına bağlı Güneydoğu Anadolu Projesi (GAP) Bölge Kalkınma İdaresi Başkanlığı, tarımdan sanayiye, enerjiden turizme kadar farklı alanlarda yaptığı yatırımlarla bölgenin ekonomik ve sosyal…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/guneydogu-anadolunun-kalkinmasinda-gap-imzasi/4114817",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T22:04:38+00:00",
+   "url": "/haber/guneydogu-anadolu-nun-kalkinmasinda-gap-imzasi-a533f99f/"
+  },
+  {
    "id": "c6c9f0bb",
    "title": "Palamudun lezzeti salamurayla yaz sofralarına taşınıyor",
    "summary": "Karadeniz'de bu sezon yaşanan palamut bolluğu, Ordu'daki balıkçıları geleneksel salamura mesaisine yönlendirirken, palamudun lezzeti sezon sonrasına taşınıyor.",
@@ -55,6 +88,39 @@
    "category": "gundem",
    "date": "2026-11-06T22:03:18+00:00",
    "url": "/haber/palamudun-lezzeti-salamurayla-yaz-sofralarina-tasiniyor-c6c9f0bb/"
+  },
+  {
+   "id": "c4e4e148",
+   "title": "Gençlik olimpiyatlarında Türkiye'ye yüzmede ilk madalyasını kazandıran Kırhan Yılmaz'a göre başarının sırrı disiplin",
+   "summary": "Senegal'de düzenlenen 4. Yaz Gençlik Olimpiyat Oyunları'nda (Dakar 2026) bronz madalyaya ulaşan milli sporcu Kırhan Yılmaz, organizasyon tarihinde yüzmede madalya kazanan ilk Türk sporcu olmanın gururunu yaşadığını…",
+   "link": "https://www.aa.com.tr/tr/spor/genclik-olimpiyatlarinda-turkiyeye-yuzmede-ilk-madalyasini-kazandiran-kirhan-yilmaza-gore-basarinin-sirri-disiplin/4114812",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T21:59:23+00:00",
+   "url": "/haber/genclik-olimpiyatlarinda-turkiye-ye-yuzmede-ilk-madalyasini-kazandiran-c4e4e148/"
+  },
+  {
+   "id": "5c7a8933",
+   "title": "Yeni Zelanda, kendine has seçim sistemiyle bugün sandık başına gidiyor",
+   "summary": "Yeni Zelanda'da seçmenler, 7 Kasım'da yapılacak genel seçimlerde, parlamentodaki temsilcileri belirlemek için kendine has özellikleri olan, karma nispi temsil (MMP) olarak adlandırılan seçim sistemi kapsamında iki ayrı…",
+   "link": "https://www.aa.com.tr/tr/dunya/yeni-zelanda-kendine-has-secim-sistemiyle-bugun-sandik-basina-gidiyor/4114811",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T21:59:17+00:00",
+   "url": "/haber/yeni-zelanda-kendine-has-secim-sistemiyle-bugun-sandik-basina-gidiyor-5c7a8933/"
+  },
+  {
+   "id": "c1bc74bc",
+   "title": "Uzmanlar, Etiyopya'nın \"deniz kapısı\" arayışında bölgesel uzlaşıyı zor görüyor",
+   "summary": "Mısır ile Etiyopya arasında son dönemde \"deniz kapısı\" konusunda yaşanan tartışmaları değerlendiren iki ülkeden uzmanlar, Addis Ababa yönetimi ile bölge ülkeleri arasında kısa vadede uzlaşı sağlanmasını zor görüyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/uzmanlar-etiyopyanin-deniz-kapisi-arayisinda-bolgesel-uzlasiyi-zor-goruyor/4114810",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T21:59:04+00:00",
+   "url": "/haber/uzmanlar-etiyopya-nin-deniz-kapisi-arayisinda-bolgesel-uzlasiyi-zor-go-c1bc74bc/"
   },
   {
    "id": "ad3e59b5",
@@ -200,17 +266,6 @@
    "url": "/haber/cumhurbaskani-erdogan-malezya-basbakan-yardimcisi-hamidi-yi-kabul-etti-9f70b58e/"
   },
   {
-   "id": "26951443",
-   "title": "ABD Başkanı Trump, İran'la görüşmelerin sürdüğünü belirtti",
-   "summary": "ABD Başkanı Donald Trump, İran'la görüşmelerin sürdüğünü belirterek, \"İran konusunda çok iyi gidiyoruz. İran ile görüşüyoruz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-gorusmelerin-surdugunu-belirtti/4114761",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T20:25:09+00:00",
-   "url": "/haber/abd-baskani-trump-iran-la-gorusmelerin-surdugunu-belirtti-26951443/"
-  },
-  {
    "id": "50880506",
    "title": "ABD'deki seçimler teknoloji şirketlerine ağır darbe indirdi: Bir günde 2 trilyon dolar kayıp",
    "summary": "Trump'ın partisinin bu haftaki seçimlerde hezimete uğraması teknoloji şirketlerine de büyük darbe indirdi. Planlanan veri merkezi ve yapay zekâ yatırımları tehlikeye girince hisseler çakıldı.",
@@ -231,28 +286,6 @@
    "category": "teknoloji",
    "date": "2026-11-06T20:10:42+00:00",
    "url": "/haber/alphabet-ten-qualcomm-a-548-milyon-dolar-bbb82f8d/"
-  },
-  {
-   "id": "4bf00cfe",
-   "title": "Bakan Ersoy: COP31 sahası etkinlik bittikten sonra Kültür ve Turizm Bakanlığının yönetimine devrediliyor",
-   "summary": "Kültür ve Turizm Bakanı Ersoy,\"COP31 sahası, etkinlik bittikten sonra aşamalı bir şekilde Kültür ve Turizm Bakanlığının yönetimine devrediliyor. TGA içinde kurduğumuz MICE Başkanlığı, buranın devrini almış olacak.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/cop31/bakan-ersoy-cop31-sahasi-etkinlik-bittikten-sonra-kultur-ve-turizm-bakanliginin-yonetimine-devrediliyor/4114743",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T20:09:31+00:00",
-   "url": "/haber/bakan-ersoy-cop31-sahasi-etkinlik-bittikten-sonra-kultur-ve-turizm-bak-4bf00cfe/"
-  },
-  {
-   "id": "aefebafc",
-   "title": "Gazze'de 500 kişi, İsrail saldırılarının ve ablukanın gölgesinde enkazların arasında dünyaevine girdi",
-   "summary": "Filistinli damat Said en-Neccar, “Bu sevinç yalnızca bir damadın ya da 250 damadın değil, bütün Gazze halkının sevincidir.” dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzede-500-kisi-israil-saldirilarinin-ve-ablukanin-golgesinde-enkazlarin-arasinda-dunyaevine-girdi/4114735",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T20:01:51+00:00",
-   "url": "/haber/gazze-de-500-kisi-israil-saldirilarinin-ve-ablukanin-golgesinde-enkazl-aefebafc/"
   },
   {
    "id": "b6ac2488",
@@ -396,17 +429,6 @@
    "category": "teknoloji",
    "date": "2026-11-06T18:28:00+00:00",
    "url": "/haber/keanu-reeves-in-rol-alacagi-yeni-john-wick-filmi-duyuruldu-51a03720/"
-  },
-  {
-   "id": "fc87c16e",
-   "title": "Hakan Bahçetepe ve 8 sanığın yargılandığı davada karar",
-   "summary": "Tutuklanmasının ardından Gaziosmanpaşa Belediye Başkanlığı görevinden uzaklaştırılan Hakan Bahçetepe ile 8 sanığın yargılandığı dava karara bağlandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/hakan-bahcetepe-ve-8-sanigin-yargilandigi-davada-karar/4114668",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T18:18:47+00:00",
-   "url": "/haber/hakan-bahcetepe-ve-8-sanigin-yargilandigi-davada-karar-fc87c16e/"
   },
   {
    "id": "e1ba91d4",
@@ -838,17 +860,6 @@
    "url": "/haber/d-vitamini-eksikligi-isyerinde-bayilana-kadar-fark-etmedim-2faa8f71/"
   },
   {
-   "id": "0d0e4cfb",
-   "title": "Afyonkarahisar'daki katliamda yürek burkan ayrıntı: Altyazıda gördü, aynı anda müdür aradı",
-   "summary": "Afyonkarahisar'da sekiz kişinin öldürüldüğü katliamda yaşamını yitirenlerden Fen Bilimleri Öğretmeni Ayşe Sena Demir'in annesi saldırıyı televizyondan öğrendiğini anlattı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisardaki-katliamda-yurek-burkan-ayrinti-altyazida-gordu-ayni-anda-mudur-aradi-1749672",
-   "image": "https://images.ntv.com.tr/images/öğretmenlere-veda-976014.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-06T13:03:46+00:00",
-   "url": "/haber/afyonkarahisar-daki-katliamda-yurek-burkan-ayrinti-altyazida-gordu-ayn-0d0e4cfb/"
-  },
-  {
    "id": "2926d227",
    "title": "Türkiye'nin iki ulaşım projesine ABD'de ödül",
    "summary": "Aydın-Denizli Otoyolu ve Yusufeli Merkez Viyadüğü, ABD'de iki farklı kategoride ödül aldı.",
@@ -869,17 +880,6 @@
    "category": "teknoloji",
    "date": "2026-11-06T12:58:34+00:00",
    "url": "/haber/segway-emniyet-kemerli-elektrikli-motosiklet-konsepti-x-cruiser-i-serg-8ee25978/"
-  },
-  {
-   "id": "acd5fcfd",
-   "title": "Avrupa'da yolcu uçaklarına sahte bomba ihbarlarının arkasında kim olabilir?",
-   "summary": "Avrupa'da havayolu şirketleri ve havalimanlarına yönelik bomba tehditlerinini arkasında kim olduğu henüz bilinmiyor. Rusya ve İran'dan şüphelenilse de henüz bu iki ülke veya onlara bağlı grupları ihbarlara bağlayan bir…",
-   "link": "https://www.bbc.com/turkce/articles/cmvgxx5xn42qo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/feab/live/224ee450-d951-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-06T12:43:43+00:00",
-   "url": "/haber/avrupa-da-yolcu-ucaklarina-sahte-bomba-ihbarlarinin-arkasinda-kim-olab-acd5fcfd/"
   },
   {
    "id": "8a8a37b9",
