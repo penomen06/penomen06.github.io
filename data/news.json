@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:01:00.168539+00:00",
+ "updated": "2026-11-06T21:30:56.268069+00:00",
  "items": [
   {
    "id": "69ed9ef5",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-06T21:00:00+00:00",
+   "date": "2026-11-06T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-69ed9ef5/"
+  },
+  {
+   "id": "3ecad690",
+   "title": "Cumhurbaşkanı Erdoğan, 11 üniversiteye rektör atadı",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 11 üniversiteye rektör ataması yaptı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-11-universiteye-rektor-atadi/4114801",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T21:25:21+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-11-universiteye-rektor-atadi-3ecad690/"
+  },
+  {
+   "id": "4d222048",
+   "title": "Arap Koalisyonu: Riyad bölgesinde bir İHA imha edildi",
+   "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, başkent Riyad bölgesinde bir insansız hava aracının (İHA) engellenerek imha edildiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-riyad-bolgesinde-bir-iha-imha-edildi/4114791",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-06T21:07:27+00:00",
+   "url": "/haber/arap-koalisyonu-riyad-bolgesinde-bir-iha-imha-edildi-4d222048/"
   },
   {
    "id": "4496fb8f",
@@ -266,17 +288,6 @@
    "url": "/haber/artex-hacker-aracinin-yuzlerce-kopyasi-acikta-5f97674e/"
   },
   {
-   "id": "c4197072",
-   "title": "Beşiktaş, Zalgiris'e 83-67 yenildi",
-   "summary": "Basketbol Avrupa Ligi'nin 10. haftasında Beşiktaş, sahasında Litvanya temsilcisi Zalgiris'e 83-67 yenildi.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-zalgirise-83-67-yenildi/4114701",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T19:13:44+00:00",
-   "url": "/haber/besiktas-zalgiris-e-83-67-yenildi-c4197072/"
-  },
-  {
    "id": "7d1b949e",
    "title": "Sony, Walkman'in ikonik kulaklığını 47 yıl sonra yeniden canlandırdı",
    "summary": "Sony, 1979 yılında ilk Walkman ile birlikte tanıttığı ikonik MDR-3 kulaklık tasarımını yeniden canlandırdı. Yeni model, nostaljik görünümünü USB-C bağlantısı ve dahili mikrofonla birleştiriyor.",
@@ -297,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-11-06T19:01:46+00:00",
    "url": "/haber/animasyon-john-wick-filmi-resmen-duyuruldu-c9b55a90/"
-  },
-  {
-   "id": "6e19bca9",
-   "title": "MİT Başkanı Kalın: Sorun Filistin değil, sorun işgal. İşgali sonlandırmadan Orta Doğu'da bir çözüm ve barış olmayacak",
-   "summary": "MİT Başkanı Kalın, \"(Filistin sorunu) Sorun, Filistin değil sorun işgal ancak ne yazık ki sanki sorun Filistinlilermiş gibi 'Filistin sorunu' diyoruz. Bu, doğru değil sorun işgal. İşgali sonlandırmadan Orta Doğu'da bir…",
-   "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-sorun-filistin-degil-sorun-isgal-isgali-sonlandirmadan-orta-doguda-bir-cozum-ve-baris-olmayacak/4114693",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T19:00:00+00:00",
-   "url": "/haber/mit-baskani-kalin-sorun-filistin-degil-sorun-isgal-isgali-sonlandirmad-6e19bca9/"
   },
   {
    "id": "693c8bb9",
