@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-07T12:30:50.390281+00:00",
+ "updated": "2026-11-07T13:01:04.569517+00:00",
  "items": [
+  {
+   "id": "b847b0d9",
+   "title": "HyperOS 4 hataları için düzeltme yolda",
+   "summary": "Xiaomi, resmî forumda HyperOS 4 hataları listesini yayımladı. Sorunların çoğu Xiaomi 17 serisinde görülüyor ve düzeltmeler ilerleyen güncellemelerle gelecek.",
+   "link": "https://shiftdelete.net/hyperos-4-hatalari-xiaomi-duzeltme-hazirliyor",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/f9765c6d7de722cebb8c07cc771a57d2f954b222.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-07T13:00:00+00:00",
+   "url": "/haber/hyperos-4-hatalari-icin-duzeltme-yolda-b847b0d9/"
+  },
+  {
+   "id": "64064b7f",
+   "title": "Bahçeli'nin önerisi \"il olmalı\" dediği yerlerde nasıl karşılandı? \"30 yıldır bekliyoruz\"",
+   "summary": "MHP Genel Başkanı Devlet Bahçeli'nin il sayısının 100'e yükseltilmesi önerisi, bahsettiği ilçelerde bir numaralı gündem maddesi haline geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-bahcelinin-onerisi-il-olmali-dedigi-yerlerde-nasil-karsilandi-30-yildir-bekliyoruz-1749825",
+   "image": "https://images.ntv.com.tr/images/AA-20261103-42948644-42948640-MHP_TBMM_GRUP_TOPLANTISI-113107.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-07T12:49:44+00:00",
+   "url": "/haber/bahceli-nin-onerisi-il-olmali-dedigi-yerlerde-nasil-karsilandi-30-yild-64064b7f/"
+  },
+  {
+   "id": "ea3f8026",
+   "title": "Yemen'de çatışmalar yeniden tırmanırken 313 bin kişi evini terk etmek zorunda kaldı",
+   "summary": "Yemen'de hükümet güçleri ile İran destekli Husiler arasında yeniden şiddetlenen çatışmalar, binlerce ailenin evlerini terk etmesine ve ülkedeki insani ihtiyaçların artmasına yol açıyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-catismalar-yeniden-tirmanirken-313-bin-kisi-evini-terk-etmek-zorunda-kaldi/4115198",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T12:46:20+00:00",
+   "url": "/haber/yemen-de-catismalar-yeniden-tirmanirken-313-bin-kisi-evini-terk-etmek-ea3f8026/"
+  },
+  {
+   "id": "2011bdab",
+   "title": "Güneş'te 35 patlama: sayı 50'ye çıkabilir",
+   "summary": "Güneş patlaması sayısı iki günden kısa sürede 35'e ulaştı. Uzmanlar, cumartesi günü sonunda toplam olay sayısının 40-50 aralığına çıkabileceğini belirtiyor.",
+   "link": "https://shiftdelete.net/gunes-patlamasi-35-olay-uzay-havasi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/d919fbea522352904a0c2e3ed11ea50ed97db757.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-07T12:45:00+00:00",
+   "url": "/haber/gunes-te-35-patlama-sayi-50-ye-cikabilir-2011bdab/"
+  },
+  {
+   "id": "bd5cb112",
+   "title": "HİSAR A+ Otonom, kızılötesi arayıcı başlıklı füzesiyle jet motorlu hedefi başarıyla vurdu",
+   "summary": "ROKETSAN ve ASELSAN’ın ana yükleniciliğinde yürütülen HİSAR projesi kapsamında gerçekleştirilen atış faaliyetinde, HİSAR A+ Otonom sisteminden ateşlenen görüntüleyici kızılötesi (IIR) arayıcı başlıklı füze, jet motorlu…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/hisar-a-otonom-kizilotesi-arayici-baslikli-fuzesiyle-jet-motorlu-hedefi-basariyla-vurdu/4115193",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T12:36:27+00:00",
+   "url": "/haber/hisar-a-otonom-kizilotesi-arayici-baslikli-fuzesiyle-jet-motorlu-hedef-bd5cb112/"
+  },
   {
    "id": "54dec3ce",
    "title": "Intel Razor Lake-S 2028'de LGA 1954 ile gelecek",
@@ -66,17 +121,6 @@
    "category": "gundem",
    "date": "2026-11-07T12:14:14+00:00",
    "url": "/haber/cumhurbaskanligi-savunma-sanayii-baskanligi-41-kurulus-yil-donumunu-ku-495689f1/"
-  },
-  {
-   "id": "64064b7f",
-   "title": "Bahçeli'nin önerisi \"il olmalı\" dediği yerlerde nasıl karşılandı? \"30 yıldır bekliyoruz\"",
-   "summary": "MHP Genel Başkanı Devlet Bahçeli'nin il sayısının 100'e yükseltilmesi önerisi, bahsettiği ilçelerde bir numaralı gündem maddesi haline geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bahcelinin-onerisi-il-olmali-dedigi-yerlerde-nasil-karsilandi-30-yildir-bekliyoruz-1749825",
-   "image": "https://images.ntv.com.tr/images/AA-20261103-42948644-42948640-MHP_TBMM_GRUP_TOPLANTISI-113107.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-07T12:05:44+00:00",
-   "url": "/haber/bahceli-nin-onerisi-il-olmali-dedigi-yerlerde-nasil-karsilandi-30-yild-64064b7f/"
   },
   {
    "id": "473a5547",
@@ -209,6 +253,17 @@
    "category": "gundem",
    "date": "2026-11-07T11:24:45+00:00",
    "url": "/haber/11-turkiye-is-ahlaki-zirvesi-nde-guvene-dayali-liderlik-anlayisinin-ku-ae79dac5/"
+  },
+  {
+   "id": "1747468c",
+   "title": "11. Türkiye İş Ahlakı Zirvesi'nde \"Güven Ekonomisi ve İnsani Finans\" ele alındı",
+   "summary": "Anadolu Ajansının (AA) Global İletişim Ortağı olduğu 11. Türkiye İş Ahlakı Zirvesi, bu yıl İGİAD tarafından \"Güven Ekonomisi ve İnsani Finans\" temasıyla gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/11-turkiye-is-ahlaki-zirvesinde-guven-ekonomisi-ve-insani-finans-ele-alindi/4115122",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T11:23:46+00:00",
+   "url": "/haber/11-turkiye-is-ahlaki-zirvesi-nde-guven-ekonomisi-ve-insani-finans-ele-1747468c/"
   },
   {
    "id": "3c618c69",
@@ -387,17 +442,6 @@
    "url": "/haber/youtube-premium-fiyati-2026-turkiye-planlari-ead723de/"
   },
   {
-   "id": "d15beb27",
-   "title": "COP31'de \"küresel iklim politikası\" Mavi Bölge'de şekillenecek",
-   "summary": "Türkiye'nin ev sahipliğinde gerçekleştirilecek BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nda (COP31), dünya liderleri, iklimin geleceğini Mavi Bölge'de müzakere edecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31de-kuresel-iklim-politikasi-mavi-bolgede-sekillenecek/4115081",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T10:18:39+00:00",
-   "url": "/haber/cop31-de-kuresel-iklim-politikasi-mavi-bolge-de-sekillenecek-d15beb27/"
-  },
-  {
    "id": "414b0366",
    "title": "Lisa Su: AMD önce bir veri merkezi şirketi",
    "summary": "AMD CEO'su Lisa Su, şirketin ağırlığının veri merkezlerinde olduğunu açıkladı. Üçüncü çeyrekte gelirin yüzde 64'ü sunucu tarafından geldi, oyun geliri ise yüzde 40 düştü.",
@@ -407,50 +451,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T10:15:58+00:00",
    "url": "/haber/lisa-su-amd-once-bir-veri-merkezi-sirketi-414b0366/"
-  },
-  {
-   "id": "cb66fc73",
-   "title": "Galatasaray'ın yıldızı Victor Osimhen, ameliyat edildi",
-   "summary": "Galatasaray'ın Nijeryalı santrforu Victor Osimhen, sol dizinden operasyon geçirdi.",
-   "link": "https://www.aa.com.tr/tr/spor/galatasarayin-yildizi-victor-osimhen-ameliyat-edildi/4115080",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T10:15:07+00:00",
-   "url": "/haber/galatasaray-in-yildizi-victor-osimhen-ameliyat-edildi-cb66fc73/"
-  },
-  {
-   "id": "588e6db1",
-   "title": "Tesla Cybertruck üretimi 2027 ortasında bitiyor",
-   "summary": "Elon Musk, X üzerinden yaptığı paylaşımla Cybertruck üretimi 2027 ortasında durdurulacağını açıkladı. Boşalan alan, sürücüsüz Cybercab için kullanılacak.",
-   "link": "https://shiftdelete.net/cybertruck-uretimi-2027-ortasinda-bitiyor",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/4ba98e4fd139af41dc4e8278ba06bd5fbf8d1381.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-07T10:00:58+00:00",
-   "url": "/haber/tesla-cybertruck-uretimi-2027-ortasinda-bitiyor-588e6db1/"
-  },
-  {
-   "id": "8352b15a",
-   "title": "Chery Çin'de 53 bin aracı geri çağırıyor",
-   "summary": "Chery geri çağırma kararı aldı: Çin'de 53.882 Omoda ve Tiggo 5x, arka akstaki olası kaynak kusuru nedeniyle servise çağrılıyor. Süreç 27 Kasım'da başlayacak.",
-   "link": "https://shiftdelete.net/chery-geri-cagirma-cin-53-bin-arac",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/chery-geri-cagirma-kapak-0711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-07T09:45:58+00:00",
-   "url": "/haber/chery-cin-de-53-bin-araci-geri-cagiriyor-8352b15a/"
-  },
-  {
-   "id": "879654e0",
-   "title": "TRT World Forum 2026'da küresel ticaret yolları ve tedarik zincirlerinin geleceği ele alındı",
-   "summary": "TRT World Forum 2026 kapsamında düzenlenen oturumda, bölgesel çatışmaların ticaret yollarına etkileri, enerji arz güvenliği ve küresel tedarik zincirlerinde alternatif güzergah arayışları değerlendirildi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/trt-world-forum-2026da-kuresel-ticaret-yollari-ve-tedarik-zincirlerinin-gelecegi-ele-alindi/4115045",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T09:35:25+00:00",
-   "url": "/haber/trt-world-forum-2026-da-kuresel-ticaret-yollari-ve-tedarik-zincirlerin-879654e0/"
   },
   {
    "id": "d8ff10e1",
