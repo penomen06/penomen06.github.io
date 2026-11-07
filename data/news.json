@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-07T20:10:57.263208+00:00",
+ "updated": "2026-11-07T20:30:54.535262+00:00",
  "items": [
+  {
+   "id": "9d826959",
+   "title": "Van'da feci kaza. 9 kişi hayatını kaybetti",
+   "summary": "Van'da tır ile minibüsün çarpıştığı kazada 9 kişi hayatını kaybetti, 5 kişi de yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/vanda-feci-kaza-7-kisi-hayatini-kaybetti-1749867",
+   "image": "https://images.ntv.com.tr/images/AW827690_02-224951.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-07T20:27:30+00:00",
+   "url": "/haber/van-da-feci-kaza-9-kisi-hayatini-kaybetti-9d826959/"
+  },
+  {
+   "id": "c78df286",
+   "title": "İsrail Cumhurbaşkanı Herzog'un, hükümet kurma yetkisini muhalefet lideri Eisenkot'a vereceği bildirildi",
+   "summary": "İsrail Cumhurbaşkanı Isaac Herzog'un, 27 Ekim seçimlerinin ardından partilerle yaptığı istişare görüşmeleri sonrasında, hükümet kurma yetkisini Yashar Partisi lideri Gadi Eisenkot'a verme kararı aldığı açıklandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-herzogun-hukumet-kurma-yetkisini-muhalefet-lideri-eisenkota-verecegi-bildirildi-/4115536",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T20:23:33+00:00",
+   "url": "/haber/israil-cumhurbaskani-herzog-un-hukumet-kurma-yetkisini-muhalefet-lider-c78df286/"
+  },
+  {
+   "id": "8d2ef9c8",
+   "title": "Trump, UFC Başkanı Dana White'a Beyaz Saray basın sözcülüğü görevini teklif etti",
+   "summary": "ABD Başkanı Donald Trump, Ultimate Fighting Championship (UFC) Başkanı ve Üst Yöneticisi (CEO) Dana White'a, Beyaz Saray basın sözcülüğü görevini teklif ettiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-ufc-baskani-dana-whitea-beyaz-saray-basin-sozculugu-gorevini-teklif-etti/4115533",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T20:17:52+00:00",
+   "url": "/haber/trump-ufc-baskani-dana-white-a-beyaz-saray-basin-sozculugu-gorevini-te-8d2ef9c8/"
+  },
   {
    "id": "84aaadd8",
    "title": "İran basını: Keşm Adası'nda iki patlama sesi duyuldu",
@@ -11,6 +44,17 @@
    "category": "gundem",
    "date": "2026-11-07T20:06:27+00:00",
    "url": "/haber/iran-basini-kesm-adasi-nda-iki-patlama-sesi-duyuldu-84aaadd8/"
+  },
+  {
+   "id": "28c6947d",
+   "title": "Kars'ta kar yağışıyla ayılar mahalleye indi",
+   "summary": "Kars'ın Sarıkamış ilçesinde bozayılar, yavrularıyla geldikleri mahallede çöp konteynerlerinde beslenmeye çalıştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/karsta-kar-yagisiyla-ayilar-mahalleye-indi-/4115511",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T19:48:27+00:00",
+   "url": "/haber/kars-ta-kar-yagisiyla-ayilar-mahalleye-indi-28c6947d/"
   },
   {
    "id": "4e673e95",
@@ -99,17 +143,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T19:00:00+00:00",
    "url": "/haber/siri-ai-a-kullanim-siniri-geliyor-sinirsiz-erisim-ucretli-olacak-5c65aead/"
-  },
-  {
-   "id": "9d826959",
-   "title": "Van'da feci kaza. 9 kişi hayatını kaybetti",
-   "summary": "Van'da tır ile minibüsün çarpıştığı kazada 9 kişi hayatını kaybetti, 5 kişi de yaralandı.",
-   "link": "https://www.ntv.com.tr/turkiye/vanda-feci-kaza-7-kisi-hayatini-kaybetti-1749867",
-   "image": "https://images.ntv.com.tr/images/AW827690_02-224951.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-07T18:59:46+00:00",
-   "url": "/haber/van-da-feci-kaza-9-kisi-hayatini-kaybetti-9d826959/"
   },
   {
    "id": "511c434d",
@@ -224,7 +257,7 @@
   {
    "id": "69d78319",
    "title": "Bakan Murat Kurum: COP31'de Antalyadan tüm dünyaya ortak bir çağrı yapacağız",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, TRT Haber’de gündeme ilişkin soruları yanıtladı.",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Antalya’dan tüm dünyaya ortak bir çağrı yapacağız. COP31’de aldığımız kararların sahada yansımalarını göreceğiz. 10 madde belirledik. Sıfır Atık yaklaşımını…",
    "link": "https://www.trthaber.com/haber/gundem/bakan-murat-kurum-cop31de-antalyadan-tum-dunyaya-ortak-bir-cagri-yapacagiz-962556.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/murat-kurum-2502030.jpg",
    "source": "TRT Haber Manşet Haberleri",
@@ -321,6 +354,17 @@
    "url": "/haber/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-66acaed8/"
   },
   {
+   "id": "deebc2c7",
+   "title": "Kastamonu merkezli uyuşturucu operasyonunda 25 şüpheli tutuklandı",
+   "summary": "Kastamonu merkezli 3 ilde düzenlenen uyuşturucu operasyonunda gözaltına alınan 35 şüpheliden 25'i tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/kastamonu-merkezli-uyusturucu-operasyonunda-25-supheli-tutuklandi-/4115387",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T17:26:15+00:00",
+   "url": "/haber/kastamonu-merkezli-uyusturucu-operasyonunda-25-supheli-tutuklandi-deebc2c7/"
+  },
+  {
    "id": "5fd3ca0e",
    "title": "Dokunmatik ekranlı MacBook Pro kutudan çıktı",
    "summary": "Apple'ın ilk dokunmatik ekranlı MacBook Pro'sunu SDNTV'de kutusundan çıkardık. 234.990 TL'lik M5 Pro'lu 16 inç modelin ekranını, donanımını ve macOS'taki dokunmatik deneyimini değerlendirdik.",
@@ -330,17 +374,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T17:25:56+00:00",
    "url": "/haber/dokunmatik-ekranli-macbook-pro-kutudan-cikti-5fd3ca0e/"
-  },
-  {
-   "id": "5bbd7bd2",
-   "title": "Milli basketbolcu Cedi Osman, ameliyat edildi",
-   "summary": "A Milli Erkek Basketbol Takımı kaptanı Cedi Osman, ameliyat edildi.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-basketbolcu-cedi-osman-ameliyat-edildi/4115384",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T17:22:55+00:00",
-   "url": "/haber/milli-basketbolcu-cedi-osman-ameliyat-edildi-5bbd7bd2/"
   },
   {
    "id": "cc77eeac",
@@ -376,17 +409,6 @@
    "url": "/haber/galatasaray-sahasindan-galibiyetle-ayrildi-f4270bf9/"
   },
   {
-   "id": "98c3b24f",
-   "title": "MotoGP Katar Grand Prix'sinde sprint yarışını Marc Marquez kazandı",
-   "summary": "MotoGP Dünya Şampiyonası'nda sezonun 20. etabı olan Katar Grand Prix'sinin sprint yarışını Ducati Lenovo takımından İspanyol Marc Marquez kazandı.",
-   "link": "https://www.aa.com.tr/tr/dunyadan-spor/motogp-katar-grand-prixsinde-sprint-yarisini-marc-marquez-kazandi/4115378",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T17:12:08+00:00",
-   "url": "/haber/motogp-katar-grand-prix-sinde-sprint-yarisini-marc-marquez-kazandi-98c3b24f/"
-  },
-  {
    "id": "3110d56b",
    "title": "Fon krizinde şimdiye kadar neler oldu, ne kadar ödeme yapıldı?",
    "summary": "Eylül ayında Borsa İstanbul'da sert düşüşlere yol açan fon krizi gündemdeki yerini koruyor. Peki, krizin patlak vermesinden bu yana hangi gelişmeler yaşandı?",
@@ -409,17 +431,6 @@
    "url": "/haber/fon-sorusturmasinda-yeni-gelisme-4-kisi-gozaltina-alindi-b078c12f/"
   },
   {
-   "id": "2ea74ed0",
-   "title": "DMM'nin \"Bir Kare Gerçek\" Kısa Film Yarışması'na başvurular başladı",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanı Duran, Dezenformasyonla Mücadele Merkezi (DMM) tarafından düzenlenen \"Bir Kare Gerçek\" Kısa Film Yarışması başvurularının başladığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/dmmnin-bir-kare-gercek-kisa-film-yarismasina-basvurular-basladi/4115377",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T17:02:46+00:00",
-   "url": "/haber/dmm-nin-bir-kare-gercek-kisa-film-yarismasi-na-basvurular-basladi-2ea74ed0/"
-  },
-  {
    "id": "31760604",
    "title": "DJI Matrice 5T, LiDAR ve 176x zoom ile tanıtıldı",
    "summary": "DJI Matrice 5T, LiDAR, termal kamera, 176x hibrit zoom ve 59 dakikalık uçuş süresiyle endüstriyel görevleri hedefliyor. İşte yeni nesil drone'un özellikleri ve fiyatı:",
@@ -429,17 +440,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T17:00:00+00:00",
    "url": "/haber/dji-matrice-5t-lidar-ve-176x-zoom-ile-tanitildi-31760604/"
-  },
-  {
-   "id": "2681b86b",
-   "title": "Yemen'deki Husiler: Suudi Arabistan'ın Sana'ya düzenlediği saldırılarda 25 kişi öldü",
-   "summary": "Yemen ordusu, Husilere yönelik düzenlenen 875 operasyonda 130 milisi etkisiz hale getirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-25-kisi-oldu/4115375",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T16:56:02+00:00",
-   "url": "/haber/yemen-deki-husiler-suudi-arabistan-in-sana-ya-duzenledigi-saldirilarda-2681b86b/"
   },
   {
    "id": "e006c665",
