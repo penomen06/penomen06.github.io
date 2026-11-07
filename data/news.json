@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T23:01:02.375422+00:00",
+ "updated": "2026-11-07T23:30:51.683200+00:00",
  "items": [
   {
    "id": "a660ad76",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-07T23:00:00+00:00",
+   "date": "2026-11-07T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a660ad76/"
+  },
+  {
+   "id": "fec63e23",
+   "title": "Ankara'da kar yağışı etkili oldu",
+   "summary": "Başkentte gece saatlerinde başlayan kar yağışı etkili oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/ankarada-kar-yagisi-etkili-oldu-1749884",
+   "image": "https://images.ntv.com.tr/images/AW827762_02-746476.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-07T23:23:37+00:00",
+   "url": "/haber/ankara-da-kar-yagisi-etkili-oldu-fec63e23/"
   },
   {
    "id": "8dbd5b8f",
@@ -33,6 +44,17 @@
    "category": "gundem",
    "date": "2026-11-07T22:24:30+00:00",
    "url": "/haber/ukmto-umman-korfezi-nde-yuk-gemisi-ile-askeri-gucler-arasinda-bir-olay-311e4ef6/"
+  },
+  {
+   "id": "a0081295",
+   "title": "Arda Güler'in gol attığı maçta Real Madrid, Valencia'yı 3-0 yendi",
+   "summary": "İspanya LaLiga ekiplerinden Real Madrid, milli futbolcu Arda Güler'in 1 gol attığı maçta Valencia'yı 3-0 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/arda-gulerin-gol-attigi-macta-real-madrid-valenciayi-3-0-yendi/4115597",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T22:20:50+00:00",
+   "url": "/haber/arda-guler-in-gol-attigi-macta-real-madrid-valencia-yi-3-0-yendi-a0081295/"
   },
   {
    "id": "20a1fa05",
@@ -101,6 +123,17 @@
    "url": "/haber/bbc-acil-durumda-en-az-3-gun-internetsiz-yayin-yapacak-radyo-studyosu-425b7663/"
   },
   {
+   "id": "915e931f",
+   "title": "\"6. Korkut Ata Türk Dünyası Film Festivali\" ödül töreniyle sona erdi",
+   "summary": "Kültür ve Turizm Bakanlığı himayesinde, Uluslararası Sinema Derneği tarafından düzenlenen \"6. Korkut Ata Türk Dünyası Film Festivali\" kapanış ve ödül töreni, Atatürk Kültür Merkezi'nde (AKM) gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/kultur/6-korkut-ata-turk-dunyasi-film-festivali-odul-toreniyle-sona-erdi/4115558",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T21:01:23+00:00",
+   "url": "/haber/6-korkut-ata-turk-dunyasi-film-festivali-odul-toreniyle-sona-erdi-915e931f/"
+  },
+  {
    "id": "29dbf5ee",
    "title": "Fransa'da hükümet sözcülüğü görevini geçici olarak Mathieu Lefevre üstlenecek",
    "summary": "Fransa'da hükümet sözcülüğü görevini geçici olarak Mathieu Lefevre'in üstleneceği bildirildi.",
@@ -165,28 +198,6 @@
    "category": "gundem",
    "date": "2026-11-07T20:27:30+00:00",
    "url": "/haber/van-da-feci-kaza-9-kisi-hayatini-kaybetti-9d826959/"
-  },
-  {
-   "id": "c78df286",
-   "title": "İsrail Cumhurbaşkanı Herzog'un, hükümet kurma yetkisini muhalefet lideri Eisenkot'a vereceği bildirildi",
-   "summary": "İsrail Cumhurbaşkanı Isaac Herzog'un, 27 Ekim seçimlerinin ardından partilerle yaptığı istişare görüşmeleri sonrasında, hükümet kurma yetkisini Yashar Partisi lideri Gadi Eisenkot'a verme kararı aldığı açıklandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-herzogun-hukumet-kurma-yetkisini-muhalefet-lideri-eisenkota-verecegi-bildirildi-/4115536",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T20:23:33+00:00",
-   "url": "/haber/israil-cumhurbaskani-herzog-un-hukumet-kurma-yetkisini-muhalefet-lider-c78df286/"
-  },
-  {
-   "id": "8d2ef9c8",
-   "title": "Trump, UFC Başkanı Dana White'a Beyaz Saray basın sözcülüğü görevini teklif etti",
-   "summary": "ABD Başkanı Donald Trump, Ultimate Fighting Championship (UFC) Başkanı ve Üst Yöneticisi (CEO) Dana White'a, Beyaz Saray basın sözcülüğü görevini teklif ettiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-ufc-baskani-dana-whitea-beyaz-saray-basin-sozculugu-gorevini-teklif-etti/4115533",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T20:17:52+00:00",
-   "url": "/haber/trump-ufc-baskani-dana-white-a-beyaz-saray-basin-sozculugu-gorevini-te-8d2ef9c8/"
   },
   {
    "id": "28c6947d",
@@ -748,17 +759,6 @@
    "category": "gundem",
    "date": "2026-11-07T11:08:29+00:00",
    "url": "/haber/emine-erdogan-dan-sanat-mesaj-d065c84e/"
-  },
-  {
-   "id": "12624e65",
-   "title": "39 ilde yasa dışı bahis operasyonu, 121 tutuklama",
-   "summary": "İstanbul merkezli 39 ilde, yapay zeka destekli programla yasa dışı bahis ve kumar oynatan şüphelilere yönelik operasyon düzenlendi. Gözaltına alınan 169 kişiden 121'i tutuklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/39-ilde-yasa-disi-bahis-operasyonu-121-tutuklama-1749819",
-   "image": "https://images.ntv.com.tr/images/ISTANBUL-MERKEZLI-39-ILDE-YAPAY-ZEKA-DES_1587583_472081-141051.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-07T11:08:23+00:00",
-   "url": "/haber/39-ilde-yasa-disi-bahis-operasyonu-121-tutuklama-12624e65/"
   },
   {
    "id": "b759a147",
