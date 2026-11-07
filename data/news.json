@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-07T17:30:53.609064+00:00",
+ "updated": "2026-11-07T18:00:59.979657+00:00",
  "items": [
+  {
+   "id": "9d826959",
+   "title": "Van'da feci kaza. 7 kişi hayatını kaybetti",
+   "summary": "Van'da tır ile minibüsün çarpıştığı kazada 7 kişi hayatını kaybetti, 7 kişi de yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/vanda-feci-kaza-7-kisi-hayatini-kaybetti-1749867",
+   "image": "https://images.ntv.com.tr/images/mainart-son-dakika-haber-520714.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-07T17:51:12+00:00",
+   "url": "/haber/van-da-feci-kaza-7-kisi-hayatini-kaybetti-9d826959/"
+  },
+  {
+   "id": "bbcf6ef1",
+   "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile bir telefon görüşmesi gerçekleştirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-telefonda-gorustu/4115395",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T17:37:44+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-abd-baskani-trump-ile-telefonda-gorustu-bbcf6ef1/"
+  },
+  {
+   "id": "511c434d",
+   "title": "Fon soruşturmasında dört isim hakkında gözaltı kararı",
+   "summary": "Fon soruşturmasında Kemal Akkaya ve Yunus Arıncı yeniden gözaltına alındı. Ayrıca Muhammet Erişen ve Mehmed Nureddin Çevik hakkında gözaltı kararı verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-bulls-yatirim-yonetim-kurulu-baskani-ve-takasbank-genel-muduru-yeniden-gozaltinda-1749863",
+   "image": "https://images.ntv.com.tr/images/fonnmansetscopy-751258(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-07T17:37:26+00:00",
+   "url": "/haber/fon-sorusturmasinda-dort-isim-hakkinda-gozalti-karari-511c434d/"
+  },
+  {
+   "id": "d424aeb8",
+   "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
+   "summary": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü. Görüşmede ikili gelişmeler ile bölgesel ve küresel gelişmeler ele alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-1749866",
+   "image": "https://images.ntv.com.tr/images/LYNXMPEFAB0CQ-129757.jfif",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-07T17:36:50+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-d424aeb8/"
+  },
+  {
+   "id": "4d357397",
+   "title": "Polonya'nın Krakow kentinde silahlı saldırı: Altı ölü, en az 10 yaralı",
+   "summary": "Polonya'nın Krakow kentinin başlıca meydanında gerçekleşen silahlı saldırıda altı kişi hayatını kaybetti, aralarında iki polisin de bulunduğu en az 10 kişi ise yaralandı.",
+   "link": "https://www.bbc.com/turkce/articles/c83vqgrnr6ego?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d087/live/ec1421a0-dac9-11f1-b441-2b33b063138f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-07T17:33:53+00:00",
+   "url": "/haber/polonya-nin-krakow-kentinde-silahli-saldiri-alti-olu-en-az-10-yarali-4d357397/"
+  },
   {
    "id": "b3b8d3fb",
    "title": "Şarjı uzun giden laptop önerileri: Aynı koşullarda gerçek pil testleri",
@@ -11,6 +66,28 @@
    "category": "teknoloji",
    "date": "2026-11-07T17:30:00+00:00",
    "url": "/haber/sarji-uzun-giden-laptop-onerileri-ayni-kosullarda-gercek-pil-testleri-b3b8d3fb/"
+  },
+  {
+   "id": "66acaed8",
+   "title": "Cumhurbaşkanı Erdoğan ABD Başkanı Trump ile görüştü",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile görüştü. Liderler, Türkiye-ABD ikili ilişkileri ile bölgesel ve küresel gelişmeleri ele aldı. Cumhurbaşkanı Erdoğan görüşmede, ABD Başkanı Trump’a Türk…",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-962557.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2474000/erdogan-trump-ankara-aa-2474515.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-07T17:30:00+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-66acaed8/"
+  },
+  {
+   "id": "5fd3ca0e",
+   "title": "Dokunmatik ekranlı MacBook Pro kutudan çıktı",
+   "summary": "Apple'ın ilk dokunmatik ekranlı MacBook Pro'sunu SDNTV'de kutusundan çıkardık. 234.990 TL'lik M5 Pro'lu 16 inç modelin ekranını, donanımını ve macOS'taki dokunmatik deneyimini değerlendirdik.",
+   "link": "https://shiftdelete.net/dokunmatik-ekranli-macbook-pro-kutu-acilisi",
+   "image": "https://shiftdelete.net/static/img/content/26-11/07/dfa45070-a7ca-4382-9e8f-683721a4cbca.jpeg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-07T17:25:56+00:00",
+   "url": "/haber/dokunmatik-ekranli-macbook-pro-kutudan-cikti-5fd3ca0e/"
   },
   {
    "id": "5bbd7bd2",
@@ -33,17 +110,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T17:22:52+00:00",
    "url": "/haber/opel-fiyat-listesi-kasim-2026-cc77eeac/"
-  },
-  {
-   "id": "511c434d",
-   "title": "Fon soruşturmasında dört isim hakkında gözaltı kararı",
-   "summary": "Fon soruşturmasında Kemal Akkaya ve Yunus Arıncı yeniden gözaltına alındı. Ayrıca Muhammet Erişen ve Mehmed Nureddin Çevik hakkında gözaltı kararı verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-bulls-yatirim-yonetim-kurulu-baskani-ve-takasbank-genel-muduru-yeniden-gozaltinda-1749863",
-   "image": "https://images.ntv.com.tr/images/fonnmansetscopy-751258(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-07T17:17:05+00:00",
-   "url": "/haber/fon-sorusturmasinda-dort-isim-hakkinda-gozalti-karari-511c434d/"
   },
   {
    "id": "98c3b24f",
@@ -121,17 +187,6 @@
    "category": "gundem",
    "date": "2026-11-07T16:56:02+00:00",
    "url": "/haber/yemen-deki-husiler-suudi-arabistan-in-sana-ya-duzenledigi-saldirilarda-2681b86b/"
-  },
-  {
-   "id": "4d357397",
-   "title": "Polonya'nın Krakow kentinde silahlı saldırı: Beş ölü, en az 10 yaralı",
-   "summary": "Polonya'nın Krakow kentinin başlıca meydanında gerçekleşen silahlı saldırıda en az beş kişi hayatını kaybetti, en az 10 kişi ise yaralandı. Polis, saldırganın kentin ana meydanına gelip, bir araçtan ateş açtığını…",
-   "link": "https://www.bbc.com/turkce/articles/c83vqgrnr6ego?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d087/live/ec1421a0-dac9-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-07T16:50:21+00:00",
-   "url": "/haber/polonya-nin-krakow-kentinde-silahli-saldiri-bes-olu-en-az-10-yarali-4d357397/"
   },
   {
    "id": "e006c665",
@@ -319,17 +374,6 @@
    "category": "gundem",
    "date": "2026-11-07T15:41:01+00:00",
    "url": "/haber/filistin-bakanliklari-siddetli-yagisin-etkili-oldugu-gazze-dekiler-ici-def3e0ab/"
-  },
-  {
-   "id": "0a87a17d",
-   "title": "İsrail saldırılarında ölen Filistinli spor camiası mensuplarının sayısı 1016'ya yükseldi",
-   "summary": "İsrail askerlerinin Gazze Şeridi'nin güneyinde açtığı ateş sonucu 15 yaşındaki Muhammed Nidal Berbah'ın hayatını kaybetmesiyle, İsrail saldırılarında yaşamını yitiren spor camiası mensuplarının sayısı 1016'ya çıktı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-saldirilarinda-olen-filistinli-spor-camiasi-mensuplarinin-sayisi-1016ya-yukseldi/4115318",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T15:34:35+00:00",
-   "url": "/haber/israil-saldirilarinda-olen-filistinli-spor-camiasi-mensuplarinin-sayis-0a87a17d/"
   },
   {
    "id": "6687c68e",
@@ -552,17 +596,6 @@
    "url": "/haber/tekirdag-buyuksehir-belediye-baskani-yuceer-yeni-parti-den-istifa-etti-9fd1184c/"
   },
   {
-   "id": "d17ffa0d",
-   "title": "PS5 neslinin en çok kazandıran 10 oyunu",
-   "summary": "Alinea Analytics, PS5 neslinin en çok kazandıran oyunları listesini paylaştı. God of War: Ragnarok 1,4 milyar dolarla zirvede, ilk 10 oyun toplam 6,5 milyar dolar getirdi.",
-   "link": "https://shiftdelete.net/ps5-neslinin-en-cok-kazandiran-oyunlari",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/ps5-en-cok-kazandiran-oyunlar-kapak-0711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-07T13:45:00+00:00",
-   "url": "/haber/ps5-neslinin-en-cok-kazandiran-10-oyunu-d17ffa0d/"
-  },
-  {
    "id": "fb60a827",
    "title": "Android Auto'da sonsuz arama döngüsü: Gemini çıldırttı!",
    "summary": "Bazı Android Auto kullanıcıları, kişinin adını belirtmelerine rağmen sistemin sürekli olarak kimi aramak veya kime mesaj göndermek istediğini sorduğunu ifade ediyor. Google, sorunu araştırıyor.",
@@ -770,28 +803,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T09:04:28+00:00",
    "url": "/haber/epic-games-store-steamos-a-da-tasinacak-f034f9c1/"
-  },
-  {
-   "id": "1b261220",
-   "title": "İstanbul'da trafik kavgası: Aracından indi, camı yumrukladı",
-   "summary": "İstanbul'da trafikte yaşanan yol tartışması kavgaya dönüştü. Araçtan inen sürücülerden biri, diğer aracın camını yumrukladı.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbulda-trafik-kavgasi-aracindan-indi-cami-yumrukladi-1749800",
-   "image": "https://images.ntv.com.tr/images/sürücü-kavga-980989.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-07T08:59:02+00:00",
-   "url": "/haber/istanbul-da-trafik-kavgasi-aracindan-indi-cami-yumrukladi-1b261220/"
-  },
-  {
-   "id": "d9451240",
-   "title": "Yargıtay'dan boşanma davasında emsal karar",
-   "summary": "Yargıtay, eşinin evin ihtiyaçlarını karşılamaması üzerine alışveriş için borçlanan kadını boşanma davasında bu nedenle kusurlu bulmadı.",
-   "link": "https://www.ntv.com.tr/turkiye/yargitaydan-bosanma-davasinda-emsal-karar-1749791",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_60a6aa6d8db965ef9073dba9fcf895b2-397907.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-07T08:54:34+00:00",
-   "url": "/haber/yargitay-dan-bosanma-davasinda-emsal-karar-d9451240/"
   },
   {
    "id": "a2126b03",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-11-05T22:00:00+00:00",
    "url": "/haber/fatma-betul-sayan-kaya-tutuklandi-c94d381b/"
-  },
-  {
-   "id": "769f9c75",
-   "title": "Mekke Anlaşması TBMM Genel Kurulu'nda kabul edildi",
-   "summary": "Türkiye, Pakistan ve Suudi Arabistan Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi, TBMM Genel Kurulunda kabul edildi.",
-   "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-genel-kurulunda-kabul-edildi-962375.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/tbmm-genel-kurulu-aa-2501643.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-05T20:54:00+00:00",
-   "url": "/haber/mekke-anlasmasi-tbmm-genel-kurulu-nda-kabul-edildi-769f9c75/"
   }
  ]
 }
