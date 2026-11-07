@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:01:05.243637+00:00",
+ "updated": "2026-11-07T01:30:51.170843+00:00",
  "items": [
   {
    "id": "69ed9ef5",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-07T01:00:00+00:00",
+   "date": "2026-11-07T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-69ed9ef5/"
+  },
+  {
+   "id": "b2c2425e",
+   "title": "ABD basını: ABD Başkan Yardımcısı Vance, İran'la anlaşma için 2 haftadır görüşmeler yürütüyor",
+   "summary": "ABD Başkan Yardımcısı JD Vance'in, yeni bir ateşkes sağlamak ve nükleer müzakereleri yeniden başlatmak amacıyla son 2 haftadır İran'la dolaylı görüşmelere katıldığı iddia edildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-basini-abd-baskan-yardimcisi-vance-iranla-anlasma-icin-2-haftadir-gorusmeler-yurutuyor-/4114844",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T01:17:34+00:00",
+   "url": "/haber/abd-basini-abd-baskan-yardimcisi-vance-iran-la-anlasma-icin-2-haftadir-b2c2425e/"
+  },
+  {
+   "id": "8232ba66",
+   "title": "ABD Başkanı Trump, kabinesinde bazı değişiklikler yapmayı planladığını açıkladı",
+   "summary": "ABD Başkanı Donald Trump, Cumhuriyetçilerin Kongre seçimlerini kaybetmesinin ardından kabinesinde bazı değişiklikler yapmayı planladığını belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-kabinesinde-bazi-degisiklikler-yapmayi-planladigini-acikladi/4114843",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T01:01:14+00:00",
+   "url": "/haber/abd-baskani-trump-kabinesinde-bazi-degisiklikler-yapmayi-planladigini-8232ba66/"
+  },
+  {
+   "id": "71982c98",
+   "title": "\"Görevi kötüye kullanmak suçundan\" azledilen Paraguay Devlet Başkanı Pena gözaltına alındı",
+   "summary": "Sunduğu istifanın Kongre tarafından reddedilmesinin ardından Paraguay Senatosu tarafından \"görevi kötüye kullanmak\" suçundan azledilen Devlet Başkanı Santiago Pena gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/dunya/gorevi-kotuye-kullanmak-sucundan-azledilen-paraguay-devlet-baskani-pena-gozaltina-alindi/4114841",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T00:56:19+00:00",
+   "url": "/haber/gorevi-kotuye-kullanmak-sucundan-azledilen-paraguay-devlet-baskani-pen-71982c98/"
   },
   {
    "id": "019dbe8c",
@@ -145,17 +178,6 @@
    "url": "/haber/katar-abd-ile-iran-arasinda-anlasmaya-varilamadigi-yonundeki-iddialari-1697734f/"
   },
   {
-   "id": "76276823",
-   "title": "İran Ordusu: Keşm Adası'nda ABD'ye ait MQ-9 tipi İHA düşürüldü",
-   "summary": "İran Ordusu, ülkenin güneyindeki Hürmüz Boğazı'nda yer alan Keşm Adası üzerinde, ABD'ye ait MQ-9 tipi insansız hava aracının (İHA) hava savunma sistemlerince düşürüldüğünü duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-kesm-adasinda-abdye-ait-mq-9-tipi-iha-dusuruldu/4114819",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T22:05:36+00:00",
-   "url": "/haber/iran-ordusu-kesm-adasi-nda-abd-ye-ait-mq-9-tipi-iha-dusuruldu-76276823/"
-  },
-  {
    "id": "9687e062",
    "title": "ABD'den Kanadalı 8 şirkete İran ile bağlantılı işlemler nedeniyle yaptırım",
    "summary": "ABD Hazine Bakanlığı, İran yönetiminin yaptırımları aşmasına yardımcı oldukları ve yasa dışı finansal faaliyetlere aracılık ettikleri gerekçesiyle Kanada merkezli 8 para hizmetleri şirketini yaptırım listesine aldı.",
@@ -231,28 +253,6 @@
    "category": "gundem",
    "date": "2026-11-06T21:57:19+00:00",
    "url": "/haber/yeni-zelanda-daki-genel-secimlerde-oy-verme-islemi-basladi-800f336b/"
-  },
-  {
-   "id": "ad3e59b5",
-   "title": "İçişleri Bakanı Çiftçi: Fon soruşturmasında şu ana kadar toplamda 433 şüpheli şahıstan 112'si tutuklanmış durumda",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, fon soruşturmasına ilişkin, \"Şu ana kadar toplamda 433 şüpheli şahıstan 112'si tutuklanmış durumda. Yine 359 gerçek ve 111 tüzel kişinin mal varlıklarına da blokaj konuldu.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-fon-sorusturmasinda-su-ana-kadar-toplamda-433-supheli-sahistan-112si-tutuklanmis-durumda/4114807",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T21:44:03+00:00",
-   "url": "/haber/icisleri-bakani-ciftci-fon-sorusturmasinda-su-ana-kadar-toplamda-433-s-ad3e59b5/"
-  },
-  {
-   "id": "02c8996e",
-   "title": "Türkiye’nin BM Genel Sekreter adayı Sinirlioğlu, \"İnteraktif Diyalog Başlangıcı\" toplantısında hedeflerini açıkladı",
-   "summary": "Türkiye’nin Birleşmiş Milletler (BM) Genel Sekreter adayı Feridun Sinirlioğlu, \"Genel Sekreterlik görevine talibim çünkü BM'nin kusursuz olduğunu düşündüğüm için değil onun vazgeçilmez olduğuna inandığım için…",
-   "link": "https://www.aa.com.tr/tr/dunya/turkiye-nin-bm-genel-sekreter-adayi-sinirlioglu-interaktif-diyalog-baslangici-toplantisinda-hedeflerini-acikladi/4114805",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-06T21:39:49+00:00",
-   "url": "/haber/turkiye-nin-bm-genel-sekreter-adayi-sinirlioglu-interaktif-diyalog-bas-02c8996e/"
   },
   {
    "id": "e5322c11",
