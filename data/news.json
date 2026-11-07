@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T21:01:01.630880+00:00",
+ "updated": "2026-11-07T21:30:52.848493+00:00",
  "items": [
   {
    "id": "a660ad76",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-07T21:00:00+00:00",
+   "date": "2026-11-07T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a660ad76/"
+  },
+  {
+   "id": "15ef5be3",
+   "title": "Bakan Kurum: COP Başkanlarıyla basının karşısına geçip elde etmek istediğimiz hedeflerimizi tüm dünyayla paylaşacağım",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Tüm COP Başkanlarıyla basının karşısına geçip bugüne kadar geldiğimiz noktayı ve bundan sonra elde etmek istediğimiz hedeflerimizi tüm dünyayla paylaşacağım.\"…",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-cop-baskanlariyla-basinin-karsisina-gecip-elde-etmek-istedigimiz-hedeflerimizi-tum-dunyayla-paylasacagim/4115560",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T21:01:35+00:00",
+   "url": "/haber/bakan-kurum-cop-baskanlariyla-basinin-karsisina-gecip-elde-etmek-isted-15ef5be3/"
   },
   {
    "id": "6160077a",
@@ -277,15 +288,15 @@
    "url": "/haber/ekran-goruntusu-alma-pc-ve-telefon-kisayollari-65833705/"
   },
   {
-   "id": "8bbcf2cb",
-   "title": "Cumhurbaşkanı Erdoğan, yarın Azerbaycan'a gidecek",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yarın Azerbaycan'a gidecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yarin-azerbaycana-gidecek/4115459",
+   "id": "f6148d77",
+   "title": "Cumhurbaşkanı Erdoğan, bugün Azerbaycan'a gidecek",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, bugün Azerbaycan'a gidecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bugun-azerbaycana-gidecek/4115459",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-07T18:18:18+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-yarin-azerbaycan-a-gidecek-8bbcf2cb/"
+   "url": "/haber/cumhurbaskani-erdogan-bugun-azerbaycan-a-gidecek-f6148d77/"
   },
   {
    "id": "9f3eddb6",
@@ -429,17 +440,6 @@
    "category": "gundem",
    "date": "2026-11-07T17:16:14+00:00",
    "url": "/haber/basaksehir-deplasmandan-3-puanla-ayrildi-00054f71/"
-  },
-  {
-   "id": "f4270bf9",
-   "title": "Galatasaray, sahasından galibiyetle ayrıldı",
-   "summary": "Trendyol Süper Lig'in 11. haftasında Galatasaray, konuk ettiği Amed Sportif Faaliyetler'i 4-3 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-sahasindan-galibiyetle-ayrildi/4115380",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T17:14:16+00:00",
-   "url": "/haber/galatasaray-sahasindan-galibiyetle-ayrildi-f4270bf9/"
   },
   {
    "id": "3110d56b",
