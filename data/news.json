@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-07T13:01:04.569517+00:00",
+ "updated": "2026-11-07T13:31:01.435698+00:00",
  "items": [
+  {
+   "id": "e4745a13",
+   "title": "Tablet pazarı üçüncü çeyrekte %23 daraldı",
+   "summary": "Omdia verilerine göre tablet pazarı üçüncü çeyrekte yıllık bazda %23 küçüldü. Apple ve Samsung sert kayıp yaşarken Lenovo satışlarını artırmayı başardı.",
+   "link": "https://shiftdelete.net/tablet-pazari-ucuncu-ceyrek-lenovo-buyudu",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/tablet-pazari-ucuncu-ceyrek-kapak-0711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-07T13:30:00+00:00",
+   "url": "/haber/tablet-pazari-ucuncu-ceyrekte-23-daraldi-e4745a13/"
+  },
+  {
+   "id": "fb60a827",
+   "title": "Android Auto'da sonsuz arama döngüsü: Gemini çıldırttı!",
+   "summary": "Bazı Android Auto kullanıcıları, kişinin adını belirtmelerine rağmen sistemin sürekli olarak kimi aramak veya kime mesaj göndermek istediğini sorduğunu ifade ediyor. Google, sorunu araştırıyor.",
+   "link": "https://www.donanimhaber.com/android-auto-da-sonsuz-arama-dongusu-gemini-cildirtti--212609",
+   "image": "https://www.donanimhaber.com/images/images/haber/212609/1200x675android-auto-da-sonsuz-arama-dongusu-gemini-cildirtti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-07T13:30:00+00:00",
+   "url": "/haber/android-auto-da-sonsuz-arama-dongusu-gemini-cildirtti-fb60a827/"
+  },
+  {
+   "id": "1b0441a6",
+   "title": "Kış hızlı başladı, kar yağışı yolları kapattı: İşte yarın kar beklenen şehirler",
+   "summary": "Sibirya üzerinden gelen soğuk hava dalgası Türkiye'yi etkisi altına aldı. Meteoroloji Genel Müdürlüğü, 19 şehir için sarı kodlu uyarı yaptı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-kis-hizli-basladi-kar-yagisi-yollari-kapatti-iste-yarin-kar-beklenen-sehirler-1749850",
+   "image": "https://images.ntv.com.tr/images/kar-beklenen-şehirler-859922.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-07T13:21:12+00:00",
+   "url": "/haber/kis-hizli-basladi-kar-yagisi-yollari-kapatti-iste-yarin-kar-beklenen-s-1b0441a6/"
+  },
+  {
+   "id": "19831e07",
+   "title": "iPhone 17e Türkiye Fiyatı ve Özellikleri",
+   "summary": "Apple Store Türkiye'de iPhone 17e 256 GB modeli 72.999 TL, 512 GB modeli 89.999 TL. MagSafe ve A19 ile 16e'den farkı ne?",
+   "link": "https://shiftdelete.net/iphone-17e-ozellikleri-belli-oldu",
+   "image": "https://shiftdelete.net/static/img/content/26-11/07/iphone-17e-turkiye-fiyati.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-07T13:20:24+00:00",
+   "url": "/haber/iphone-17e-turkiye-fiyati-ve-ozellikleri-19831e07/"
+  },
+  {
+   "id": "d08efef8",
+   "title": "Bodrum FK'de 4 futbolcuya milli davet",
+   "summary": "Trendyol 1. Lig ekiplerinden Bodrum FK'de forma giyen 4 futbolcu, ülkelerinin milli takım kadrolarına davet edildi.",
+   "link": "https://www.aa.com.tr/tr/spor/bodrum-fkde-4-futbolcuya-milli-davet/4115218",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T13:16:17+00:00",
+   "url": "/haber/bodrum-fk-de-4-futbolcuya-milli-davet-d08efef8/"
+  },
+  {
+   "id": "f454efa0",
+   "title": "One UI 10 en büyük Samsung güncellemesi olabilir",
+   "summary": "Ice Universe'e göre Samsung, asıl yenilikleri One UI 10 için saklıyor. One UI 9.5 sızıntıları ise yalnızca küçük iyileştirmelere işaret ediyor.",
+   "link": "https://shiftdelete.net/one-ui-10-samsung-en-buyuk-arayuz-guncellemesi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/e8bba67d7171a52fd2ea2268025268e6244621fd.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-07T13:15:00+00:00",
+   "url": "/haber/one-ui-10-en-buyuk-samsung-guncellemesi-olabilir-f454efa0/"
+  },
+  {
+   "id": "f7e43745",
+   "title": "YÖK üniversitelerin öne çıkan çalışmalarını paylaştı",
+   "summary": "Yükseköğretim Kurulu (YÖK), üniversitelerin sağlık, teknoloji, tarım ve kültürel mirasın korunması gibi alanlarda yürüttüğü çalışmaları paylaştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/yok-universitelerin-one-cikan-calismalarini-paylasti/4115214",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T13:14:21+00:00",
+   "url": "/haber/yok-universitelerin-one-cikan-calismalarini-paylasti-f7e43745/"
+  },
+  {
+   "id": "30a46ab4",
+   "title": "Brüksel'de öğrenciler eylem yaptıkları üniversite binasından polis müdahalesiyle çıkarıldı",
+   "summary": "Belçika'da Brüksel Özgür Üniversitesinin (ULB) binasında 22 Ekim'den bu yana eylem yapan öğrenciler, polis müdahalesiyle buradan çıkarıldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/brukselde-ogrenciler-eylem-yaptiklari-universite-binasindan-polis-mudahalesiyle-cikarildi/4115207",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T13:00:14+00:00",
+   "url": "/haber/bruksel-de-ogrenciler-eylem-yaptiklari-universite-binasindan-polis-mud-30a46ab4/"
+  },
   {
    "id": "b847b0d9",
    "title": "HyperOS 4 hataları için düzeltme yolda",
@@ -11,6 +99,17 @@
    "category": "teknoloji",
    "date": "2026-11-07T13:00:00+00:00",
    "url": "/haber/hyperos-4-hatalari-icin-duzeltme-yolda-b847b0d9/"
+  },
+  {
+   "id": "95f0a366",
+   "title": "Motorola Signature 27, DXOMARK kamera sıralamasında ikinci sıraya yerleşti",
+   "summary": "Motorola Signature 27, DXOMARK kamera testinden 173 puan alarak küresel sıralamada ikinci oldu. Yeni model, iPhone 18 Pro'yu geride bırakırken Huawei Pura 80 Ultra'nın yalnızca 2 puan gerisinde kaldı.",
+   "link": "https://www.donanimhaber.com/motorola-signature-27-dxomark-kamera-siralamasinda-ikinci-siraya--212587",
+   "image": "https://www.donanimhaber.com/images/images/haber/212587/1200x675motorola-signature-27-dxomark-kamera-siralamasinda-ikinci-siraya.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-07T13:00:00+00:00",
+   "url": "/haber/motorola-signature-27-dxomark-kamera-siralamasinda-ikinci-siraya-yerle-95f0a366/"
   },
   {
    "id": "64064b7f",
@@ -145,6 +244,17 @@
    "url": "/haber/abd-de-sorgusuz-sualsiz-israil-e-destek-donemi-sona-mi-geliyor-abe329a2/"
   },
   {
+   "id": "67728803",
+   "title": "Kocaelispor, deplasmanda Eyüpspor'u yendi",
+   "summary": "Trendyol Süper Lig'in 11. haftasında Kocaelispor, deplasmanda Eyüpspor'u 2-0 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/kocaelispor-deplasmanda-eyupsporu-yendi/4115162",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T12:00:22+00:00",
+   "url": "/haber/kocaelispor-deplasmanda-eyupspor-u-yendi-67728803/"
+  },
+  {
    "id": "a712e02a",
    "title": "BİM'de Monster oyuncu bilgisayarları satışta",
    "summary": "BİM Monster ürünleri 11 Kasım aktüel kataloğunda yer alıyor. Abra dizüstü, Tulpar oyuncu kasası ve Pusat oyuncu faresi market raflarına geliyor.",
@@ -233,17 +343,6 @@
    "url": "/haber/instagram-edits-uygulamasi-macos-icin-yayinlandi-b5d5e7a6/"
   },
   {
-   "id": "77553f40",
-   "title": "Turkcell COP31'de dijital ve yeşil dönüşüm vizyonunu paylaşacak",
-   "summary": "Turkcell, \"Sektör Ortağı\" olarak destek verdiği COP31'de dijital ve yeşil dönüşüm vizyonunu uluslararası kamuoyuyla paylaşacak.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkcell-cop31de-dijital-ve-yesil-donusum-vizyonunu-paylasacak/4115125",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T11:26:59+00:00",
-   "url": "/haber/turkcell-cop31-de-dijital-ve-yesil-donusum-vizyonunu-paylasacak-77553f40/"
-  },
-  {
    "id": "ae79dac5",
    "title": "11. Türkiye İş Ahlakı Zirvesi'nde güvene dayalı liderlik anlayışının kurumsallaşması ele alındı",
    "summary": "Türkiye İktisadi Girişim ve İş Ahlakı Derneği (İGİAD) tarafından düzenlenen 11. Türkiye İş Ahlakı Zirvesi'nde iş dünyasında güvene dayalı liderlik anlayışının kurumsallaşması ve uzun vadeli stratejik planlamanın önemi…",
@@ -275,17 +374,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T11:20:28+00:00",
    "url": "/haber/anydesk-nedir-nasil-kullanilir-guvenli-uzaktan-erisim-3c618c69/"
-  },
-  {
-   "id": "34d2676f",
-   "title": "Avusturya ile İtalya arasındaki Brenner Tüneli projesini yürüten şirkete siber saldırı düzenlendi",
-   "summary": "Avusturya ile İtalya'yı demir yoluyla bağlayacak Brenner Tüneli projesini yürüten BBT SE, şirketin bilgi sistemlerine siber saldırı düzenlendiğini ve saldırganların bazı verilere eriştiğini doğruladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/avusturya-ile-italya-arasindaki-brenner-tuneli-projesini-yuruten-sirkete-siber-saldiri-duzenlendi/4115118",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T11:18:28+00:00",
-   "url": "/haber/avusturya-ile-italya-arasindaki-brenner-tuneli-projesini-yuruten-sirke-34d2676f/"
   },
   {
    "id": "d6668739",
@@ -376,17 +464,6 @@
    "url": "/haber/xiaomi-18-3c-sertifikasi-aldi-100-w-geliyor-311a0249/"
   },
   {
-   "id": "4a4a6df6",
-   "title": "Rusya'da siber saldırı nedeniyle bazı ekonomik verilerin yayımlanması gecikiyor",
-   "summary": "Rusya Federal İstatistik Kurumu (Rosstat), bilişim sistemlerine yönelik siber saldırının ardından bazı ekonomik verilerin açıklanmasında gecikmeler yaşanabileceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusyada-siber-saldiri-nedeniyle-bazi-ekonomik-verilerin-yayimlanmasi-gecikiyor/4115096",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T10:45:41+00:00",
-   "url": "/haber/rusya-da-siber-saldiri-nedeniyle-bazi-ekonomik-verilerin-yayimlanmasi-4a4a6df6/"
-  },
-  {
    "id": "569de531",
    "title": "Bursa'da mantar can aldı",
    "summary": "Bursa'da bir kadın komşularından aldığı mantarı evinde pişirerek tükettikten sonra yaşamını yitirdi.",
@@ -398,17 +475,6 @@
    "url": "/haber/bursa-da-mantar-can-aldi-569de531/"
   },
   {
-   "id": "f22ac06b",
-   "title": "Galaxy S27 serisinde en az 12 GB RAM olabilir",
-   "summary": "Yeni bir sızıntıya göre Galaxy S27 RAM miktarı, serinin bütün uluslararası modellerinde en az 12 GB olacak. Temel model de üst segment belleğini koruyabilir.",
-   "link": "https://shiftdelete.net/galaxy-s27-ram-en-az-12-gb",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/galaxy-s27-ram-kapak-0711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-07T10:30:58+00:00",
-   "url": "/haber/galaxy-s27-serisinde-en-az-12-gb-ram-olabilir-f22ac06b/"
-  },
-  {
    "id": "869f6333",
    "title": "Razer kablolu oyuncu kulaklığını duyurdu",
    "summary": "Razer Hammerhead V3 Chroma kulak içi kulaklık modeli kablolu olmasının yanı sıra aktif gürültü engelleme ve özelleştirilebilir RGB aydınlatma ile dikkat çekiyor.",
@@ -418,39 +484,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T10:30:00+00:00",
    "url": "/haber/razer-kablolu-oyuncu-kulakligini-duyurdu-869f6333/"
-  },
-  {
-   "id": "7075cd25",
-   "title": "Hürmüz Boğazı'nda bir petrol tankeri mayına çarptı",
-   "summary": "İran Ordusu Deniz Kuvvetleri Komutanlığı, Hürmüz Boğazı’nın doğusunda bir tankerin mayına çarptığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti/4115085",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T10:27:12+00:00",
-   "url": "/haber/hurmuz-bogazi-nda-bir-petrol-tankeri-mayina-carpti-7075cd25/"
-  },
-  {
-   "id": "ead723de",
-   "title": "YouTube Premium Fiyatı 2026 Türkiye Planları",
-   "summary": "YouTube Premium fiyatı Türkiye'de bireysel 119,99 TL, aile 239,99 TL; öğrenci ve Lite 79,99 TL. Yıllık plan 1.199,99 TL. Hangi paket size daha mantıklı?",
-   "link": "https://shiftdelete.net/youtube-premium-fiyati",
-   "image": "https://shiftdelete.net/static/img/content/26-11/07/youtube-premium-fiyati.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-07T10:18:59+00:00",
-   "url": "/haber/youtube-premium-fiyati-2026-turkiye-planlari-ead723de/"
-  },
-  {
-   "id": "414b0366",
-   "title": "Lisa Su: AMD önce bir veri merkezi şirketi",
-   "summary": "AMD CEO'su Lisa Su, şirketin ağırlığının veri merkezlerinde olduğunu açıkladı. Üçüncü çeyrekte gelirin yüzde 64'ü sunucu tarafından geldi, oyun geliri ise yüzde 40 düştü.",
-   "link": "https://shiftdelete.net/lisa-su-amd-veri-merkezi-sirketi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/f5150b1eb9ecfc420ab7c1330a025a2495be26e6.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-07T10:15:58+00:00",
-   "url": "/haber/lisa-su-amd-once-bir-veri-merkezi-sirketi-414b0366/"
   },
   {
    "id": "d8ff10e1",
@@ -838,17 +871,6 @@
    "url": "/haber/ofis-ve-gunluk-kullanim-icin-yeni-baslangic-standardi-100hz-monitorler-3a158109/"
   },
   {
-   "id": "ed4e1f6e",
-   "title": "Valilik duyurdu. 7 ilçede iki gün uzaktan eğitime geçilecek",
-   "summary": "Antalya'da düzenlenecek COP31 Liderler Zirvesi nedeniyle 7 ilçede iki gün uzaktan eğitime geçilecek. Kamuda çalışan anneler de idari izinli sayılacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-valilik-duyurdu-7-ilcede-iki-gun-uzaktan-egitime-gecilecek-1749758",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_7a9986084b6ef4d0b9a4a1a6e6f025dc-649352.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-07T05:53:55+00:00",
-   "url": "/haber/valilik-duyurdu-7-ilcede-iki-gun-uzaktan-egitime-gecilecek-ed4e1f6e/"
-  },
-  {
    "id": "fb35a922",
    "title": "Epic Games Bir Oyunu Daha Ücretsiz Sunuyor: Hızlı Aksiyon ve Arcade Severler Buraya!",
    "summary": "Epic Games, synthwave temalı hızlı aksiyon ve arcade oyunu GMH - Good Morning Human'ı ücretsiz olarak kullanıcılara sunuyor.",
@@ -913,28 +935,6 @@
    "category": "gundem",
    "date": "2026-11-06T20:44:50+00:00",
    "url": "/haber/israil-de-koalisyon-gorusmeleri-gadi-eisenkot-tan-onemli-ilerlemeler-k-5f27e0bb/"
-  },
-  {
-   "id": "9b0166eb",
-   "title": "Blue Origin, New Glenn roketini büyütüyor: Yeni motor ve üçüncü aşama geliyor",
-   "summary": "Blue Origin, New Glenn roketine Ay ve derin uzay görevleri için üçüncü aşama ekliyor. Şirket ayrıca BE-4'ten daha güçlü ve dörtte bir maliyetli yeni Northstar motorunu duyurdu.",
-   "link": "https://www.donanimhaber.com/blue-origin-new-glenn-roketini-buyutuyor-yeni-motor-tanitildi--212586",
-   "image": "https://www.donanimhaber.com/images/images/haber/212586/1200x675blue-origin-new-glenn-roketini-buyutuyor-yeni-motor-tanitildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-06T20:40:00+00:00",
-   "url": "/haber/blue-origin-new-glenn-roketini-buyutuyor-yeni-motor-ve-ucuncu-asama-ge-9b0166eb/"
-  },
-  {
-   "id": "50880506",
-   "title": "ABD'deki seçimler teknoloji şirketlerine ağır darbe indirdi: Bir günde 2 trilyon dolar kayıp",
-   "summary": "Trump'ın partisinin bu haftaki seçimlerde hezimete uğraması teknoloji şirketlerine de büyük darbe indirdi. Planlanan veri merkezi ve yapay zekâ yatırımları tehlikeye girince hisseler çakıldı.",
-   "link": "https://www.donanimhaber.com/abd-deki-secimler-teknoloji-sirketlerine-agir-darbe-indirdi--212588",
-   "image": "https://www.donanimhaber.com/images/images/haber/212588/1200x675abd-deki-secimler-teknoloji-sirketlerine-agir-darbe-indirdi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-06T20:20:00+00:00",
-   "url": "/haber/abd-deki-secimler-teknoloji-sirketlerine-agir-darbe-indirdi-bir-gunde-50880506/"
   },
   {
    "id": "a503efaf",
