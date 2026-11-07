@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T21:30:52.848493+00:00",
+ "updated": "2026-11-07T22:01:05.694843+00:00",
  "items": [
   {
    "id": "a660ad76",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-07T21:30:00+00:00",
+   "date": "2026-11-07T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a660ad76/"
+  },
+  {
+   "id": "20a1fa05",
+   "title": "İsrail askerleri Batı Şeria'da bir Filistinliyi bacağından yaraladı",
+   "summary": "İsrail askerlerinin, işgal altındaki Batı Şeria'nın Kalkilya kentinde bir genci bacağından vurduğu belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriada-bir-filistinliyi-bacagindan-yaraladi/4115583",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T21:13:46+00:00",
+   "url": "/haber/israil-askerleri-bati-seria-da-bir-filistinliyi-bacagindan-yaraladi-20a1fa05/"
+  },
+  {
+   "id": "60c3690f",
+   "title": "Filistin yönetimi, BM'den Gazze'deki insani felaketi durdurmasını istedi",
+   "summary": "Filistin yönetimi, şiddetli yağışlarla 70 bin çadırın sular altında kaldığı Gazze'deki insani felaketin sona erdirilmesi için Birleşmiş Milletler Güvenlik Konseyi'ne (BMGK) acil müdahale çağrısı yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-yonetimi-bmden-gazzedeki-insani-felaketi-durdurmasini-istedi/4115564",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T21:02:02+00:00",
+   "url": "/haber/filistin-yonetimi-bm-den-gazze-deki-insani-felaketi-durdurmasini-isted-60c3690f/"
   },
   {
    "id": "15ef5be3",
@@ -22,6 +44,28 @@
    "category": "gundem",
    "date": "2026-11-07T21:01:35+00:00",
    "url": "/haber/bakan-kurum-cop-baskanlariyla-basinin-karsisina-gecip-elde-etmek-isted-15ef5be3/"
+  },
+  {
+   "id": "425b7663",
+   "title": "BBC, acil durumda en az 3 gün internetsiz yayın yapacak radyo stüdyosu kurmayı planlıyor",
+   "summary": "İngiltere'de hükümet ve kamu yayıncısı BBC, olası siber saldırılar ve şiddetli hava olayları nedeniyle yaşanabilecek geniş çaplı elektrik kesintilerine karşı, internetsiz ortamda en az 3 gün yayın yapabilecek radyo…",
+   "link": "https://www.aa.com.tr/tr/dunya/bbc-acil-durumda-en-az-3-gun-internetsiz-yayin-yapacak-radyo-studyosu-kurmayi-planliyor/4115559",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T21:01:30+00:00",
+   "url": "/haber/bbc-acil-durumda-en-az-3-gun-internetsiz-yayin-yapacak-radyo-studyosu-425b7663/"
+  },
+  {
+   "id": "c2e90a99",
+   "title": "SOLOTÜRK, 10 Kasım Atatürk'ü Anma Günü'nde saygı uçuşu yapacak",
+   "summary": "Türk Hava Kuvvetlerinin gösteri ekibi SOLOTÜRK, 10 Kasım Atatürk'ü Anma Günü'nde Anıtkabir'de saygı uçuşu gerçekleştirecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/soloturk-10-kasim-ataturku-anma-gununde-saygi-ucusu-yapacak/4115556",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T21:01:11+00:00",
+   "url": "/haber/soloturk-10-kasim-ataturk-u-anma-gunu-nde-saygi-ucusu-yapacak-c2e90a99/"
   },
   {
    "id": "6160077a",
@@ -90,15 +134,15 @@
    "url": "/haber/trump-ufc-baskani-dana-white-a-beyaz-saray-basin-sozculugu-gorevini-te-8d2ef9c8/"
   },
   {
-   "id": "84aaadd8",
-   "title": "İran basını: Keşm Adası'nda iki patlama sesi duyuldu",
-   "summary": "Hürmüz Boğazı'na yakın Keşm Adası'nda iki patlama sesinin duyulduğu bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasinda-iki-patlama-sesi-duyuldu/4115519",
+   "id": "0ec2d672",
+   "title": "İran basını: Keşm Adası'nda duyulan patlama sesleri Hürmüz Boğazı ile ilgili",
+   "summary": "İran'ın güneyindeki Keşm Adası'nda duyulan iki patlama sesinin Hürmüz Boğazı ile ilgili olduğu ve adaya herhangi bir saldırı düzenlenmediği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasinda-duyulan-patlama-sesleri-hurmuz-bogazi-ile-ilgili/4115519",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-07T20:06:27+00:00",
-   "url": "/haber/iran-basini-kesm-adasi-nda-iki-patlama-sesi-duyuldu-84aaadd8/"
+   "url": "/haber/iran-basini-kesm-adasi-nda-duyulan-patlama-sesleri-hurmuz-bogazi-ile-i-0ec2d672/"
   },
   {
    "id": "28c6947d",
@@ -244,17 +288,6 @@
    "url": "/haber/snapchat-te-18-yas-altina-find-friends-kapaniyor-faea7f9f/"
   },
   {
-   "id": "bd9d1d22",
-   "title": "Trump, Demokratların üst düzey birçok Cumhuriyetçiyi tehdit ettiğini savundu",
-   "summary": "ABD Başkanı Donald Trump, Demokratların, Cumhuriyetçi bağışçılar dahil partiden birçok üst düzey kişiyi \"azil\" ve diğer ceza türleriyle tehdit ettiğini ileri sürdü.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-demokratlarin-ust-duzey-bircok-cumhuriyetciyi-tehdit-ettigini-savundu/4115469",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T18:39:58+00:00",
-   "url": "/haber/trump-demokratlarin-ust-duzey-bircok-cumhuriyetciyi-tehdit-ettigini-sa-bd9d1d22/"
-  },
-  {
    "id": "d6ed9fd1",
    "title": "DJI Matrice 5T LiDAR ve 176x zoom ile geldi",
    "summary": "DJI Matrice 5T, LiDAR, milimetre dalga radarı ve termal kamerayı kompakt gövdede birleştiriyor. 176x hibrit zoom ve 59 dakikalık uçuş süresi sunan drone satışa çıktı.",
@@ -288,17 +321,6 @@
    "url": "/haber/ekran-goruntusu-alma-pc-ve-telefon-kisayollari-65833705/"
   },
   {
-   "id": "f6148d77",
-   "title": "Cumhurbaşkanı Erdoğan, bugün Azerbaycan'a gidecek",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, bugün Azerbaycan'a gidecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bugun-azerbaycana-gidecek/4115459",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T18:18:18+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-bugun-azerbaycan-a-gidecek-f6148d77/"
-  },
-  {
    "id": "9f3eddb6",
    "title": "iPhone Air 2 için eksikler listesi uzun",
    "summary": "Gelecek bahara beklenen ikinci nesil model, ilk iPhone Air'in sorunlarını çözmek zorunda. iPhone Air 2 eksikleri arasında hoparlör, USB hızı, şarj ve kamera öne çıkıyor.",
@@ -330,17 +352,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T18:02:37+00:00",
    "url": "/haber/binance-cfo-su-kaiser-ng-sirketten-ayriliyor-34a6d2de/"
-  },
-  {
-   "id": "66ccd416",
-   "title": "BM İnsani İşler Koordinasyon Ofisi: Gazze'ye kışlık malzeme ve iş makinelerinin girişine izin verilmeli",
-   "summary": "OCHA, İsrail'in yıllardır sürdürdüğü abluka ve saldırılar nedeniyle ağır insani krizin yaşandığı Gazze Şeridi'nde etkili olan şiddetli yağışlar nedeniyle kışlık malzemeler ile ağır iş makinelerinin acilen girişine izin…",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-insani-isler-koordinasyon-ofisi-gazzeye-kislik-malzeme-ve-is-makinelerinin-girisine-izin-verilmeli/4115447",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T18:01:42+00:00",
-   "url": "/haber/bm-insani-isler-koordinasyon-ofisi-gazze-ye-kislik-malzeme-ve-is-makin-66ccd416/"
   },
   {
    "id": "ad8faabb",
@@ -429,17 +440,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T17:22:52+00:00",
    "url": "/haber/opel-fiyat-listesi-kasim-2026-cc77eeac/"
-  },
-  {
-   "id": "00054f71",
-   "title": "Başakşehir, deplasmandan 3 puanla ayrıldı",
-   "summary": "Trendyol Süper Lig'in 11. haftasında İstanbul Başakşehir, deplasmanda Göztepe'yi 2-1 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/basaksehir-deplasmandan-3-puanla-ayrildi/4115381",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T17:16:14+00:00",
-   "url": "/haber/basaksehir-deplasmandan-3-puanla-ayrildi-00054f71/"
   },
   {
    "id": "3110d56b",
