@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:00:58.913074+00:00",
+ "updated": "2026-11-07T00:30:49.987876+00:00",
  "items": [
   {
    "id": "69ed9ef5",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-07T00:00:00+00:00",
+   "date": "2026-11-07T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-69ed9ef5/"
+  },
+  {
+   "id": "019dbe8c",
+   "title": "ABD ara seçimleri, 2028 başkanlık seçimi için kimleri öne çıkardı?",
+   "summary": "ABD ara seçimleri sonrası ülkedeki siyasi atmosfer 2028 Beyaz Saray yarışı ekseninde şekillenmeye başladı. JD Vance'in hemen seçim yenilgisi sonrası açıklaması ve solcu Demokratların kazanımları dahil, ara seçim…",
+   "link": "https://www.bbc.com/turkce/articles/c6x2ww024g40o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-07T00:01:25+00:00",
+   "url": "/haber/abd-ara-secimleri-2028-baskanlik-secimi-icin-kimleri-one-cikardi-019dbe8c/"
   },
   {
    "id": "2b3df76e",
@@ -726,17 +737,6 @@
    "category": "gundem",
    "date": "2026-11-06T15:30:08+00:00",
    "url": "/haber/ab-nin-stratejik-uyum-talebi-turkiye-icin-yeni-bir-engel-olur-mu-8264f015/"
-  },
-  {
-   "id": "74edabe5",
-   "title": "Talabani'nin partisi Kuzey Irak'ta hükümetten çekildi",
-   "summary": "Kuzey Irak'ta Bafel Talabani'nin Süleymaniye merkezli Kürdistan Yurtseverler Birliği (KYB) partisi, Erbil merkezli Kürdistan Demokrat Partisi (KDP) ile kurulan hükümetten çekildiğini ilan etti. Talabani, KDP'nin tek…",
-   "link": "https://www.bbc.com/turkce/articles/cm4g1191714lo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/308c/live/a8336070-d9ea-11f1-bbe5-797ee05bee69.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-06T14:51:30+00:00",
-   "url": "/haber/talabani-nin-partisi-kuzey-irak-ta-hukumetten-cekildi-74edabe5/"
   },
   {
    "id": "86a53aad",
