@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-07T10:01:01.538605+00:00",
+ "updated": "2026-11-07T10:30:51.841614+00:00",
  "items": [
+  {
+   "id": "869f6333",
+   "title": "Razer kablolu oyuncu kulaklığını duyurdu",
+   "summary": "Razer Hammerhead V3 Chroma kulak içi kulaklık modeli kablolu olmasının yanı sıra aktif gürültü engelleme ve özelleştirilebilir RGB aydınlatma ile dikkat çekiyor.",
+   "link": "https://www.donanimhaber.com/razer-hammerhead-v3-chroma-tanitildi--212603",
+   "image": "https://www.donanimhaber.com/images/images/haber/212603/1200x675razer-hammerhead-v3-chroma-tanitildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-07T10:30:00+00:00",
+   "url": "/haber/razer-kablolu-oyuncu-kulakligini-duyurdu-869f6333/"
+  },
+  {
+   "id": "7075cd25",
+   "title": "Hürmüz Boğazı'nda bir petrol tankeri mayına çarptı",
+   "summary": "İran Ordusu Deniz Kuvvetleri Komutanlığı, Hürmüz Boğazı’nın doğusunda bir tankerin mayına çarptığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti/4115085",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T10:27:12+00:00",
+   "url": "/haber/hurmuz-bogazi-nda-bir-petrol-tankeri-mayina-carpti-7075cd25/"
+  },
+  {
+   "id": "ead723de",
+   "title": "YouTube Premium Fiyatı 2026 Türkiye Planları",
+   "summary": "YouTube Premium fiyatı Türkiye'de bireysel 119,99 TL, aile 239,99 TL; öğrenci ve Lite 79,99 TL. Yıllık plan 1.199,99 TL. Hangi paket size daha mantıklı?",
+   "link": "https://shiftdelete.net/youtube-premium-fiyati",
+   "image": "https://shiftdelete.net/static/img/content/26-11/07/youtube-premium-fiyati.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-07T10:18:59+00:00",
+   "url": "/haber/youtube-premium-fiyati-2026-turkiye-planlari-ead723de/"
+  },
+  {
+   "id": "d15beb27",
+   "title": "COP31'de \"küresel iklim politikası\" Mavi Bölge'de şekillenecek",
+   "summary": "Türkiye'nin ev sahipliğinde gerçekleştirilecek BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nda (COP31), dünya liderleri, iklimin geleceğini Mavi Bölge'de müzakere edecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-kuresel-iklim-politikasi-mavi-bolgede-sekillenecek/4115081",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T10:18:39+00:00",
+   "url": "/haber/cop31-de-kuresel-iklim-politikasi-mavi-bolge-de-sekillenecek-d15beb27/"
+  },
+  {
+   "id": "414b0366",
+   "title": "Lisa Su: AMD önce bir veri merkezi şirketi",
+   "summary": "AMD CEO'su Lisa Su, şirketin ağırlığının veri merkezlerinde olduğunu açıkladı. Üçüncü çeyrekte gelirin yüzde 64'ü sunucu tarafından geldi, oyun geliri ise yüzde 40 düştü.",
+   "link": "https://shiftdelete.net/lisa-su-amd-veri-merkezi-sirketi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/f5150b1eb9ecfc420ab7c1330a025a2495be26e6.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-07T10:15:58+00:00",
+   "url": "/haber/lisa-su-amd-once-bir-veri-merkezi-sirketi-414b0366/"
+  },
+  {
+   "id": "cb66fc73",
+   "title": "Galatasaray'ın yıldızı Victor Osimhen, ameliyat edildi",
+   "summary": "Galatasaray'ın Nijeryalı santrforu Victor Osimhen, sol dizinden operasyon geçirdi.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasarayin-yildizi-victor-osimhen-ameliyat-edildi/4115080",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T10:15:07+00:00",
+   "url": "/haber/galatasaray-in-yildizi-victor-osimhen-ameliyat-edildi-cb66fc73/"
+  },
+  {
+   "id": "4346f86d",
+   "title": "Yenilenen Volkswagen Virtus'un ilk fotoğrafları yayınlandı",
+   "summary": "Volkswagen, sevilen sedan modeli Virtus’un makyajlı versiyonuna ait ilk görüntüleri paylaştı. 2022’den bu yana ilk kapsamlı güncellemesini alan modelin tazelenen dış tasarımı dikkat çekiyor.",
+   "link": "https://www.donanimhaber.com/yenilenen-volkswagen-virtus-un-ilk-fotograflari-yayinlandi--212608",
+   "image": "https://www.donanimhaber.com/images/images/haber/212608/1200x675yenilenen-volkswagen-virtus-un-ilk-fotograflari-yayinlandi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-07T10:12:45+00:00",
+   "url": "/haber/yenilenen-volkswagen-virtus-un-ilk-fotograflari-yayinlandi-4346f86d/"
+  },
+  {
+   "id": "8b3b23b5",
+   "title": "Merz, Holokost'un tarihi sorumluluğuna uymayan Müslüman göçmenlerin ülkeyi terk etmelerini istedi",
+   "summary": "Almanya Başbakanı Friedrich Merz, Almanya’nın Holokost karşısındaki tarihi sorumluluğuna uymayan Müslüman göçmenlerin ülkeyi terk etmeleri gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/merz-holokostun-tarihi-sorumluluguna-uymayan-musluman-gocmenlerin-ulkeyi-terk-etmelerini-istedi/4115070",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T10:06:44+00:00",
+   "url": "/haber/merz-holokost-un-tarihi-sorumluluguna-uymayan-musluman-gocmenlerin-ulk-8b3b23b5/"
+  },
+  {
+   "id": "588e6db1",
+   "title": "Tesla Cybertruck üretimi 2027 ortasında bitiyor",
+   "summary": "Elon Musk, X üzerinden yaptığı paylaşımla Cybertruck üretimi 2027 ortasında durdurulacağını açıkladı. Boşalan alan, sürücüsüz Cybercab için kullanılacak.",
+   "link": "https://shiftdelete.net/cybertruck-uretimi-2027-ortasinda-bitiyor",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/4ba98e4fd139af41dc4e8278ba06bd5fbf8d1381.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-07T10:00:58+00:00",
+   "url": "/haber/tesla-cybertruck-uretimi-2027-ortasinda-bitiyor-588e6db1/"
+  },
   {
    "id": "bb3d74be",
    "title": "Dışişleri Bakanı Fidan: Politik anlaşmazlıklar global ekonomileri sürdüren sistemleri paralize etmemeli",
@@ -33,6 +132,17 @@
    "category": "gundem",
    "date": "2026-11-07T09:44:13+00:00",
    "url": "/haber/sigir-karkasinin-pazar-fiyati-sicak-agirliga-gore-belirlenecek-71b6bf78/"
+  },
+  {
+   "id": "879654e0",
+   "title": "TRT World Forum 2026'da küresel ticaret yolları ve tedarik zincirlerinin geleceği ele alındı",
+   "summary": "TRT World Forum 2026 kapsamında düzenlenen oturumda, bölgesel çatışmaların ticaret yollarına etkileri, enerji arz güvenliği ve küresel tedarik zincirlerinde alternatif güzergah arayışları değerlendirildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/trt-world-forum-2026da-kuresel-ticaret-yollari-ve-tedarik-zincirlerinin-gelecegi-ele-alindi/4115045",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T09:35:25+00:00",
+   "url": "/haber/trt-world-forum-2026-da-kuresel-ticaret-yollari-ve-tedarik-zincirlerin-879654e0/"
   },
   {
    "id": "05e32463",
@@ -123,28 +233,6 @@
    "url": "/haber/sabah-mesaiye-baslayip-gece-03-00-e-kadar-topluyorlar-kilosu-80-lira-b-a89cbe38/"
   },
   {
-   "id": "3017379a",
-   "title": "Meteorolojiden 19 il için sarı kodlu uyarı",
-   "summary": "Meteoroloji Genel Müdürlüğü, beklenen kuvvetli yağış nedeniyle bugün 19, yarın 9 il için sarı kodlu uyarıda bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-19-il-icin-sari-kodlu-uyari/4115029",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T09:19:47+00:00",
-   "url": "/haber/meteorolojiden-19-il-icin-sari-kodlu-uyari-3017379a/"
-  },
-  {
-   "id": "c96f1b24",
-   "title": "Aydın'da mobilya fabrikasında çıkan yangına müdahale ediliyor",
-   "summary": "Aydın'ın Kuşadası ilçesinde mobilya fabrikasının deposunda çıkan yangını itfaiye ekipleri söndürmeye çalışıyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/aydinda-mobilya-fabrikasinda-cikan-yangina-mudahale-ediliyor/4115027",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T09:17:24+00:00",
-   "url": "/haber/aydin-da-mobilya-fabrikasinda-cikan-yangina-mudahale-ediliyor-c96f1b24/"
-  },
-  {
    "id": "1e9f1cb4",
    "title": "TikTok Filigransız Video İndirme: 2026 Güncel Yöntemler",
    "summary": "Filigransız TikTok için 2026'da resmi durum net: 4 güvenli yöntem, kendi videoyu temiz saklama, Türkiye'de telif ve üçüncü taraf riskleri. İşte özeti.",
@@ -165,17 +253,6 @@
    "category": "gundem",
    "date": "2026-11-07T09:16:41+00:00",
    "url": "/haber/paraguay-da-bankacilik-krizi-devlet-baskani-gorevden-alindi-ve-ev-haps-05a8993e/"
-  },
-  {
-   "id": "43ff3f9e",
-   "title": "ABD'de Houston Belediye Başkanı Whitmire, eyalette polis ve ICE işbirliğini sınırlandıracak",
-   "summary": "ABD'nin Texas eyaletinin Houston kentinin Belediye Başkanı John Whitmire, eyalet polisinin Göçmenlik ve Gümrük Muhafaza Dairesi (ICE) ile işbirliğinin sınırlandırılmasına ilişkin karar aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-houston-belediye-baskani-whitmire-eyalette-polis-ve-ice-isbirligini-sinirlandiracak/4115018",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T09:13:42+00:00",
-   "url": "/haber/abd-de-houston-belediye-baskani-whitmire-eyalette-polis-ve-ice-isbirli-43ff3f9e/"
   },
   {
    "id": "3d94279c",
@@ -288,28 +365,6 @@
    "url": "/haber/whatsapp-a-yeni-etkinlik-ozellikleri-geliyor-hesabi-olmayanlar-da-kati-38ff5d3c/"
   },
   {
-   "id": "0d4b26d1",
-   "title": "TRT World Forum 2026 devam ediyor",
-   "summary": "TRT World Forum, 10. yılında \"Merkezsiz Dünya: Kurallar Geçersiz Kaldığında Kim Liderlik Eder?\" temasıyla son gününde devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/trt-world-forum-2026-devam-ediyor/4114983",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T08:26:47+00:00",
-   "url": "/haber/trt-world-forum-2026-devam-ediyor-0d4b26d1/"
-  },
-  {
-   "id": "99c76bd0",
-   "title": "Sosyal medya kentlerin deneyimlenme biçimini değiştirirken yerel kimliklerini de gölgeliyor",
-   "summary": "Bir zamanlar sokaklarında yürünerek keşfedilen, yerel mekanları ve kendine özgü mimarisiyle hafızalara kazınan kentlerin artık daha çok dijital ekranlar üzerinden tanınması, şehirlerin yerel kimliklerinin arka planda…",
-   "link": "https://www.aa.com.tr/tr/dunya/sosyal-medya-kentlerin-deneyimlenme-bicimini-degistirirken-yerel-kimliklerini-de-golgeliyor/4114981",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T08:24:31+00:00",
-   "url": "/haber/sosyal-medya-kentlerin-deneyimlenme-bicimini-degistirirken-yerel-kimli-99c76bd0/"
-  },
-  {
    "id": "1f92c976",
    "title": "Meghan Markle'ın babası çocuklara cinsel istismar görselleri nedeniyle mahkemeye çıktı",
    "summary": "Sussex Düşesi Meghan Markle'ın babası Thomas Markle, çocuklara cinsel istismar suçlamasıyla Florida'da gözaltına alındı.",
@@ -354,17 +409,6 @@
    "url": "/haber/instagram-dondurma-artik-uygulamadan-yapiliyor-c32b6b89/"
   },
   {
-   "id": "7317e66c",
-   "title": "Trabzonspor ile Alanyaspor 21. randevuda",
-   "summary": "Trabzonspor ile Corendon Alanyaspor, yarın Alanya'da yapacakları maçla ligde 21. kez karşı karşıya gelecek.",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-ile-alanyaspor-21-randevuda/4114966",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T08:14:41+00:00",
-   "url": "/haber/trabzonspor-ile-alanyaspor-21-randevuda-7317e66c/"
-  },
-  {
    "id": "2c8f4e6a",
    "title": "Fon soruşturmasında eski SPK yöneticileri tutuklandı",
    "summary": "Fon soruşturmasında dört kişi daha tutuklandı. Bu isimler arasında eski Sermaye Piyasası Kurulu (SPK) Başkanvekili Enver Usca ve eski SPK Piyasa Gözetim ve Denetim Daire Başkanı ⁠Ercan Urkan da var.",
@@ -396,6 +440,17 @@
    "category": "gundem",
    "date": "2026-11-07T08:10:09+00:00",
    "url": "/haber/besiktas-ile-genclerbirligi-ligde-97-kez-karsilasacak-005d39cc/"
+  },
+  {
+   "id": "2e2c3f08",
+   "title": "COP31, Türkiye'nin elektrik çağında sanayi gücüne dönüşümüne katkı sağlayabilir",
+   "summary": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı Danışma Grubu Üyesi ve eski ExxonMobil yöneticisi Jean Baderschneider, COP31'in iklim hedeflerini somut projelere dönüştürmeye odaklanması…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31-turkiyenin-elektrik-caginda-sanayi-gucune-donusumune-katki-saglayabilir/4114960",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-07T08:10:01+00:00",
+   "url": "/haber/cop31-turkiye-nin-elektrik-caginda-sanayi-gucune-donusumune-katki-sagl-2e2c3f08/"
   },
   {
    "id": "52ee39a2",
@@ -477,9 +532,9 @@
   {
    "id": "09702012",
    "title": "Kırmızı bültenle aranan uyuşturucu kaçakçısı yakalandı",
-   "summary": "Interpol tarafından kırmızı bültenle aranan uyuşturucu kaçakçısı Mersin'de yakalandı.",
+   "summary": "İçişleri Bakanlığı, \"uyuşturucu madde ticareti\" suçundan kırmızı bültenle uluslararası seviyede aranan Özbekistan uyruklu Odil Khudayberdıev isimli şüphelinin Mersin'de yakalandığını duyurdu.",
    "link": "https://www.trthaber.com/haber/turkiye/kirmizi-bultenle-aranan-uyusturucu-kacakcisi-yakalandi-962507.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/kacakci-2501954.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/mersin-uyusturucu-2501985.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-07T07:51:00+00:00",
@@ -706,39 +761,6 @@
    "url": "/haber/new-glenn-in-firlatilisi-ocak-2027-ye-ertelendi-cf54bba0/"
   },
   {
-   "id": "ea7203d7",
-   "title": "OpenAI veri merkezlerinin elektriğini ödeyecek",
-   "summary": "OpenAI, veri merkezi kurduğu bölgelerdeki halka yönelik Ulusal Toplum Sözleşmesi'ni duyurdu. Şirket, OpenAI elektrik faturası dahil enerji maliyetlerini üstlenecek.",
-   "link": "https://shiftdelete.net/openai-elektrik-faturasi-veri-merkezi-taahhut",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/c7b88777536009f0cdf65091ec09c786f404e2c5.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-07T05:00:00+00:00",
-   "url": "/haber/openai-veri-merkezlerinin-elektrigini-odeyecek-ea7203d7/"
-  },
-  {
-   "id": "4739f0c5",
-   "title": "Google Malezya'ya 15 milyar dolarlık yatırım yapacak",
-   "summary": "Google Malezya yatırımı kapsamında 2027-2028 yıllarında veri merkezleri ve bulut hizmetlerine 15 milyar dolar ayıracak. Plan su altyapısını ve istihdamı da kapsıyor.",
-   "link": "https://shiftdelete.net/google-malezya-yatirimi-veri-merkezi-15-milyar-dolar",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/google-malezya-yatirim-kapak-0711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-07T04:30:00+00:00",
-   "url": "/haber/google-malezya-ya-15-milyar-dolarlik-yatirim-yapacak-4739f0c5/"
-  },
-  {
-   "id": "03c7501f",
-   "title": "OpenAI, 1,25 trilyon dolar değerle para topladı",
-   "summary": "OpenAI yatırım turunda şirketi 1,25 trilyon dolar değerleyen yeni finansmanla şimdiye kadar 11 milyar dolar toplandığı iddia edildi. Tur henüz kapanmadı.",
-   "link": "https://shiftdelete.net/openai-yatirim-turu-1-25-trilyon-dolar-deger",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/openai-yatirim-turu-kapak-0711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-07T04:00:00+00:00",
-   "url": "/haber/openai-1-25-trilyon-dolar-degerle-para-topladi-03c7501f/"
-  },
-  {
    "id": "fb35a922",
    "title": "Epic Games Bir Oyunu Daha Ücretsiz Sunuyor: Hızlı Aksiyon ve Arcade Severler Buraya!",
    "summary": "Epic Games, synthwave temalı hızlı aksiyon ve arcade oyunu GMH - Good Morning Human'ı ücretsiz olarak kullanıcılara sunuyor.",
@@ -913,28 +935,6 @@
    "category": "teknoloji",
    "date": "2026-11-06T19:12:00+00:00",
    "url": "/haber/sony-walkman-in-ikonik-kulakligini-47-yil-sonra-yeniden-canlandirdi-7d1b949e/"
-  },
-  {
-   "id": "693c8bb9",
-   "title": "Fabrikalardaki atık ısıyı enerjiye dönüştüren endüstriyel ısı pompası tanıtıldı",
-   "summary": "Doğaz gaz kazanlarına alternatif geliyor. ABD'li Johnson Controls, fabrikalardaki atık ısıyı yeniden kullanarak 87,8 dereceye kadar sıcak su üretebilen endüstriyel ısı pompasını tanıttı.",
-   "link": "https://www.donanimhaber.com/atik-isiyi-enerjiye-donusturen-endustriyel-isi-pompasi-tanitildi--212549",
-   "image": "https://www.donanimhaber.com/images/images/haber/212549/1200x675atik-isiyi-enerjiye-donusturen-endustriyel-isi-pompasi-tanitildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-06T18:50:00+00:00",
-   "url": "/haber/fabrikalardaki-atik-isiyi-enerjiye-donusturen-endustriyel-isi-pompasi-693c8bb9/"
-  },
-  {
-   "id": "51a03720",
-   "title": "Keanu Reeves'in rol alacağı yeni John Wick filmi duyuruldu",
-   "summary": "John Wick serisi büyümeye devam ediyor. Bu hafta duyurulan yeni film projesinde, Keanu Reeves bir kez daha John Wick olarak izleyici karşısına çıkacak. İşte detaylar...",
-   "link": "https://www.donanimhaber.com/keanu-reeves-john-wick-roluyle-geri-donuyor--212557",
-   "image": "https://www.donanimhaber.com/images/images/haber/212557/1200x675keanu-reeves-john-wick-roluyle-geri-donuyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-06T18:28:00+00:00",
-   "url": "/haber/keanu-reeves-in-rol-alacagi-yeni-john-wick-filmi-duyuruldu-51a03720/"
   },
   {
    "id": "a503efaf",
