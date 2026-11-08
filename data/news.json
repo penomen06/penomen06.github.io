@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:01:03.540064+00:00",
+ "updated": "2026-11-08T01:30:55.413954+00:00",
  "items": [
   {
    "id": "a660ad76",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-08T01:00:00+00:00",
+   "date": "2026-11-08T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a660ad76/"
+  },
+  {
+   "id": "9d826959",
+   "title": "Van'da feci kaza. 9 kişi hayatını kaybetti",
+   "summary": "Van'da TIR ile minibüsün çarpıştığı kazada 9 kişi hayatını kaybetti, 5 kişi de yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/vanda-feci-kaza-7-kisi-hayatini-kaybetti-1749867",
+   "image": "https://images.ntv.com.tr/images/AW827690_02-224951.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-08T01:02:46+00:00",
+   "url": "/haber/van-da-feci-kaza-9-kisi-hayatini-kaybetti-9d826959/"
   },
   {
    "id": "5517ed66",
@@ -209,17 +220,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T20:43:05+00:00",
    "url": "/haber/yeni-james-bond-icin-surpriz-iki-isim-gundemde-614b107a/"
-  },
-  {
-   "id": "9d826959",
-   "title": "Van'da feci kaza. 9 kişi hayatını kaybetti",
-   "summary": "Van'da tır ile minibüsün çarpıştığı kazada 9 kişi hayatını kaybetti, 5 kişi de yaralandı.",
-   "link": "https://www.ntv.com.tr/turkiye/vanda-feci-kaza-7-kisi-hayatini-kaybetti-1749867",
-   "image": "https://images.ntv.com.tr/images/AW827690_02-224951.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-07T20:27:30+00:00",
-   "url": "/haber/van-da-feci-kaza-9-kisi-hayatini-kaybetti-9d826959/"
   },
   {
    "id": "4e673e95",
