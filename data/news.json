@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T04:30:52.940764+00:00",
+ "updated": "2026-11-08T05:01:00.283813+00:00",
  "items": [
   {
    "id": "a660ad76",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-08T04:30:01+00:00",
+   "date": "2026-11-08T05:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a660ad76/"
+  },
+  {
+   "id": "bdd8a2fb",
+   "title": "Shawn Layden: PS6 çok daha güçlü olmamalı",
+   "summary": "Eski PlayStation başkanı Shawn Layden PS6 için ilginç bir görüş paylaştı. Layden'a göre yeni konsolun asıl yeniliği daha fazla güç değil, daha uygun fiyat olmalı.",
+   "link": "https://shiftdelete.net/shawn-layden-ps6-guc-degil-fiyat-onemli",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/7626ce028657528b5e6a72629a06368e6f4985fc.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-08T04:54:00+00:00",
+   "url": "/haber/shawn-layden-ps6-cok-daha-guclu-olmamali-bdd8a2fb/"
   },
   {
    "id": "1defb46a",
@@ -616,17 +627,6 @@
    "category": "gundem",
    "date": "2026-11-07T15:45:41+00:00",
    "url": "/haber/fenerbahce-otobusunun-kursunlanmasinda-yeni-detaylar-ortaya-cikti-sald-72191c40/"
-  },
-  {
-   "id": "b0a5f185",
-   "title": "Jensen Huang'a casus Çin istihbaratından çıktı",
-   "summary": "Jensen Huang casus iddiasında yeni ayrıntılar geldi. NVIDIA CEO'sunu izlediği öne sürülen Alice Huang'ı Çin'in Devlet Güvenlik Bakanlığı'nın devşirdiği bildirildi.",
-   "link": "https://shiftdelete.net/jensen-huang-casus-cin-istihbarati-alice-huang",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/31583aff72a774164708a4d3951e5861a574e439.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-07T15:45:00+00:00",
-   "url": "/haber/jensen-huang-a-casus-cin-istihbaratindan-cikti-b0a5f185/"
   },
   {
    "id": "5f488c4f",
