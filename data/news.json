@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-08T17:30:53.619378+00:00",
+ "updated": "2026-11-08T18:01:00.018179+00:00",
  "items": [
+  {
+   "id": "77f4fbf6",
+   "title": "Büyük ekranlı telefonlardan sıkılanlara: Enough Phone tanıtıldı",
+   "summary": "Akıllı telefon pazarında giderek azalan kompakt modeller arasına yeni bir oyuncu katılıyor. 5,3 inç ekranı, değiştirilebilir bataryası ve 2032'ye kadar yazılım desteğiyle Enough Phone tanıtıldı.",
+   "link": "https://www.donanimhaber.com/kucuk-telefon-isteyenler-icin-enough-phone-tanitildi--212617",
+   "image": "https://www.donanimhaber.com/images/images/haber/212617/1200x675kucuk-telefon-isteyenler-icin-enough-phone-tanitildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-08T18:00:00+00:00",
+   "url": "/haber/buyuk-ekranli-telefonlardan-sikilanlara-enough-phone-tanitildi-77f4fbf6/"
+  },
+  {
+   "id": "e0aec9bc",
+   "title": "Trabzonspor, Corendon Alanyaspor'u 2-0 mağlup etti",
+   "summary": "Trendyol Süper Lig'in 11. haftasında Trabzonspor, deplasmanda Corendon Alanyaspor'u 2-0 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-corendon-alanyasporu-2-0-maglup-etti/4116256",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T17:36:33+00:00",
+   "url": "/haber/trabzonspor-corendon-alanyaspor-u-2-0-maglup-etti-e0aec9bc/"
+  },
+  {
+   "id": "fa84c378",
+   "title": "İsrail hapishanelerindeki Filistinli esirlerin yaklaşık yüzde 80'i uyuz hastalığından şikayet ediyor",
+   "summary": "İsrail hapishanelerinde tutulan 9 bini aşkın Filistinli esirin yaklaşık yüzde 80'inin uyuz hastalığına yakalandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-hapishanelerindeki-filistinli-esirlerin-yaklasik-yuzde-80i-uyuz-hastaligindan-sikayet-ediyor/4116255",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T17:35:15+00:00",
+   "url": "/haber/israil-hapishanelerindeki-filistinli-esirlerin-yaklasik-yuzde-80-i-uyu-fa84c378/"
+  },
+  {
+   "id": "68b7ff3e",
+   "title": "İran Ordusu: Hürmüz Boğazı'nda bir petrol tankeri mayına çarparak alev aldı",
+   "summary": "İran Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın doğusunda, izin verilmeyen bölgede hareket ettiği belirtilen bir petrol tankerinin deniz mayınına çarpması sonucu alev aldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carparak-alev-aldi/4116254",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T17:32:28+00:00",
+   "url": "/haber/iran-ordusu-hurmuz-bogazi-nda-bir-petrol-tankeri-mayina-carparak-alev-68b7ff3e/"
+  },
   {
    "id": "e559ab6f",
    "title": "DaVinci Resolve laptop önerileri: Renk düzenleme ve 4K kurgu",
@@ -11,6 +55,17 @@
    "category": "teknoloji",
    "date": "2026-11-08T17:30:00+00:00",
    "url": "/haber/davinci-resolve-laptop-onerileri-renk-duzenleme-ve-4k-kurgu-e559ab6f/"
+  },
+  {
+   "id": "ed664544",
+   "title": "Filistin Sağlık Bakanı: 1 milyar 300 doları aşan borcumuz sağlık hizmetlerini tehdit ediyor",
+   "summary": "Filistin Sağlık Bakanı Macid Ebu Ramazan, bakanlığının borcunun 1 milyar 300 milyon doları aştığını belirterek, bu durumun artan tıbbi ve insani ihtiyaçların karşılanmasını tehdit ettiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-saglik-bakani-1-milyar-300-dolari-asan-borcumuz-saglik-hizmetlerini-tehdit-ediyor/4116252",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T17:27:14+00:00",
+   "url": "/haber/filistin-saglik-bakani-1-milyar-300-dolari-asan-borcumuz-saglik-hizmet-ed664544/"
   },
   {
    "id": "b5339bc4",
@@ -69,14 +124,14 @@
   },
   {
    "id": "04436587",
-   "title": "Mısır'da tren kazası: En az yedi kişi öldü, onlarca kişi yaralı",
+   "title": "Mısır'da tren kazası: En az yedi kişi öldü, onlarca yaralı var",
    "summary": "Mısır'da iki yolcu treninin çarpışması sonucu en az yedi kişi hayatını kaybetti, onlarca kişi yaralandı. Ölenler arasında bir trenin makinisti de bulunuyor. Kazanın nedeni henüz bilinmiyor ancak kazanın yaşandığı bölge…",
    "link": "https://www.bbc.com/turkce/articles/c6lyekwgg18jo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e00/live/1dd44790-db94-11f1-9029-d35c55297624.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-08T16:54:41+00:00",
-   "url": "/haber/misir-da-tren-kazasi-en-az-yedi-kisi-oldu-onlarca-kisi-yarali-04436587/"
+   "url": "/haber/misir-da-tren-kazasi-en-az-yedi-kisi-oldu-onlarca-yarali-var-04436587/"
   },
   {
    "id": "6857f16b",
@@ -332,28 +387,6 @@
    "url": "/haber/apple-homeview-in-henuz-aciklanmayan-kamera-ozellikleri-sizdirildi-de7f79df/"
   },
   {
-   "id": "b946b7d3",
-   "title": "Cumhurbaşkanı Erdoğan, Hocalı Soykırım Anıtı ile Hankendi Zafer Anıtı'nı ziyaret etti",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Karabağ'da Hocalı Soykırım Anıtı ile Hankendi Zafer Anıtı'nı ziyaret etti.​​​​​​​",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-hocali-soykirim-aniti-ile-hankendi-zafer-anitini-ziyaret-etti/4116110",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T14:50:52+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-hocali-soykirim-aniti-ile-hankendi-zafer-aniti-n-b946b7d3/"
-  },
-  {
-   "id": "4531685f",
-   "title": "SOLOTÜRK, 10 Kasım öncesi Anıtkabir üzerinde prova uçuşu gerçekleştirdi",
-   "summary": "Türk Hava Kuvvetlerinin gösteri ekibi SOLOTÜRK, 10 Kasım Atatürk'ü Anma Günü öncesinde Anıtkabir üzerinde prova uçuşu gerçekleştirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/soloturk-10-kasim-oncesi-anitkabir-uzerinde-prova-ucusu-gerceklestirdi/4116108",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T14:49:11+00:00",
-   "url": "/haber/soloturk-10-kasim-oncesi-anitkabir-uzerinde-prova-ucusu-gerceklestirdi-4531685f/"
-  },
-  {
    "id": "92c2f54c",
    "title": "DeepMind, RSA-1024 açığını 1600 kat hızlı buldu",
    "summary": "Google DeepMind'ın yapay zeka ajanları, eski RSA-1024 şifrelemesindeki zayıflıkları önceki yöntemlere göre 1600 kat hızlı buldu. Modern anahtarlar ise güvende.",
@@ -363,17 +396,6 @@
    "category": "teknoloji",
    "date": "2026-11-08T14:47:00+00:00",
    "url": "/haber/deepmind-rsa-1024-acigini-1600-kat-hizli-buldu-92c2f54c/"
-  },
-  {
-   "id": "73c82b6a",
-   "title": "Bitlis'te karda mahsur kalan vatandaş UMKE ve 112 Acil Sağlık ekipleri tarafından kurtarıldı",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, Bitlis'te Nemrut Krater Gölü yolunda kar nedeniyle mahsur kalan vatandaşı, bölgeye ulaşan Ulusal Medikal Kurtarma Ekibi (UMKE) ve 112 Acil Sağlık ekiplerinin kurtardığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bitliste-karda-mahsur-kalan-vatandas-umke-ve-112-acil-saglik-ekipleri-tarafindan-kurtarildi/4116103",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T14:44:23+00:00",
-   "url": "/haber/bitlis-te-karda-mahsur-kalan-vatandas-umke-ve-112-acil-saglik-ekipleri-73c82b6a/"
   },
   {
    "id": "5853f8bf",
@@ -440,17 +462,6 @@
    "category": "teknoloji",
    "date": "2026-11-08T14:15:28+00:00",
    "url": "/haber/eski-apple-ceo-su-tim-cook-istanbul-a-geldi-ea54b135/"
-  },
-  {
-   "id": "aa231083",
-   "title": "Fenerbahçe, deplasmandan 3 puanla ayrıldı",
-   "summary": "Trendyol Süper Lig'in 11. haftasında Fenerbahçe, deplasmanda Arca Çorum FK'yi 5-0 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/-fenerbahce-deplasmandan-3-puanla-ayrildi/4116086",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T14:05:54+00:00",
-   "url": "/haber/fenerbahce-deplasmandan-3-puanla-ayrildi-aa231083/"
   },
   {
    "id": "8b80206b",
@@ -564,14 +575,14 @@
   },
   {
    "id": "87e86e59",
-   "title": "Erdoğan Azerbaycan'da: Aliyev ile ortak basın toplantısında 'birlik' mesajı",
+   "title": "Erdoğan'ın Azerbaycan ziyaretinde Aliyev ile 'birlik' mesajı verildi",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın başkenti Bakü'ye bir ziyarette bulunarak Azerbaycan Cumhurbaşkanı İlham Aliyev ile bir araya geldi. Ziyaret, Eylül'de basına yansıyan ve Ankara-Bakü ilişkilerinde…",
    "link": "https://www.bbc.com/turkce/articles/cw1m4dj30e05o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b107/live/e6e30840-db6e-11f1-9379-091c174aa659.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-08T12:41:11+00:00",
-   "url": "/haber/erdogan-azerbaycan-da-aliyev-ile-ortak-basin-toplantisinda-birlik-mesa-87e86e59/"
+   "url": "/haber/erdogan-in-azerbaycan-ziyaretinde-aliyev-ile-birlik-mesaji-verildi-87e86e59/"
   },
   {
    "id": "9b568a2b",
@@ -693,17 +704,6 @@
    "category": "teknoloji",
    "date": "2026-11-08T11:00:00+00:00",
    "url": "/haber/avrupa-komisyonu-tiktok-un-algoritmasini-degistirmesini-istedi-32108aa0/"
-  },
-  {
-   "id": "bf1bbc66",
-   "title": "11 milyon dolarlık Nvidia yongası çalındı",
-   "summary": "ABD’de sunucular için sipariş verilen yaklaşık 11 milyon dolarlık 6 palet Nvidia donanımı teslim alınıp bilinmeyen bir yere nakledildi. Hırsızlık 15 gün sonra fark edildi.",
-   "link": "https://www.donanimhaber.com/buyuk-nvidia-soygunu--212634",
-   "image": "https://www.donanimhaber.com/images/images/haber/212634/1200x675buyuk-nvidia-soygunu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-08T10:30:00+00:00",
-   "url": "/haber/11-milyon-dolarlik-nvidia-yongasi-calindi-bf1bbc66/"
   },
   {
    "id": "43546b07",
