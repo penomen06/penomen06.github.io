@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T04:01:03.168986+00:00",
+ "updated": "2026-11-08T04:30:52.940764+00:00",
  "items": [
+  {
+   "id": "a660ad76",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 08 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 08 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-08-kasim-2026-1749878",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-08T04:30:01+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a660ad76/"
+  },
+  {
+   "id": "1defb46a",
+   "title": "Red Magic 12 Pro söküldü: AquaCore 3.0 şaşırttı",
+   "summary": "JerryRigEverything, Red Magic 12 Pro söküm videosuyla telefonun çift devreli sıvı soğutma sistemini gösterdi. Cihaz 8400 mAh batarya ve Snapdragon 8 Elite Extreme Gen 6 ile geliyor.",
+   "link": "https://shiftdelete.net/red-magic-12-pro-sokum-aquacore-3-0",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/fcd42196b29655dcfa9a417911be274f5bd3ced9.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-08T04:27:00+00:00",
+   "url": "/haber/red-magic-12-pro-sokuldu-aquacore-3-0-sasirtti-1defb46a/"
+  },
+  {
+   "id": "35db2e70",
+   "title": "Ankara ve Kayseri'de yılın ilk karı yağdı",
+   "summary": "Başkentte gece saatlerinde başlayan kar yağışı etkili oldu. Hava sıcaklığının hissedilir derecede düştüğü Kayseri'ye de yılın ilk karı yağdı.",
+   "link": "https://www.ntv.com.tr/turkiye/ankara-ve-kayseride-yilin-ilk-kari-yagdi-1749884",
+   "image": "https://images.ntv.com.tr/images/AW827762_02-746476.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-08T04:17:22+00:00",
+   "url": "/haber/ankara-ve-kayseri-de-yilin-ilk-kari-yagdi-35db2e70/"
+  },
   {
    "id": "331151f8",
    "title": "Huawei Enjoy 100 serisi 4 günde 215 bin sattı",
@@ -11,17 +44,6 @@
    "category": "teknoloji",
    "date": "2026-11-08T04:00:00+00:00",
    "url": "/haber/huawei-enjoy-100-serisi-4-gunde-215-bin-satti-331151f8/"
-  },
-  {
-   "id": "a660ad76",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 08 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 08 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-08-kasim-2026-1749878",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-08T04:00:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a660ad76/"
   },
   {
    "id": "d54b0ae6",
@@ -88,17 +110,6 @@
    "category": "gundem",
    "date": "2026-11-08T00:41:39+00:00",
    "url": "/haber/paraguay-da-azledilen-eski-devlet-baskani-pena-hakkinda-tutuklama-kara-5517ed66/"
-  },
-  {
-   "id": "fec63e23",
-   "title": "Ankara'da kar yağışı etkili oldu",
-   "summary": "Başkentte gece saatlerinde başlayan kar yağışı etkili oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/ankarada-kar-yagisi-etkili-oldu-1749884",
-   "image": "https://images.ntv.com.tr/images/AW827762_02-746476.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-07T23:23:37+00:00",
-   "url": "/haber/ankara-da-kar-yagisi-etkili-oldu-fec63e23/"
   },
   {
    "id": "ff391010",
@@ -616,17 +627,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T15:45:00+00:00",
    "url": "/haber/jensen-huang-a-casus-cin-istihbaratindan-cikti-b0a5f185/"
-  },
-  {
-   "id": "d2149cbe",
-   "title": "iOS 27'de kilitlenince HDMI görüntüsü kesiliyor",
-   "summary": "iOS 27 HDMI sorunu, iPhone'u televizyona ya da AR gözlüğe bağlayan kullanıcıları etkiliyor. Ekran kilitlenince YouTube ve Netflix yayını kesiliyor.",
-   "link": "https://shiftdelete.net/ios-27-hdmi-video-sorunu-kilitli-ekran",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/a4e01a9550ca9c67b9a5ed9030e012da96773c1e.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-07T15:30:00+00:00",
-   "url": "/haber/ios-27-de-kilitlenince-hdmi-goruntusu-kesiliyor-d2149cbe/"
   },
   {
    "id": "5f488c4f",
