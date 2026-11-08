@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T18:01:00.018179+00:00",
+ "updated": "2026-11-08T18:28:54.031595+00:00",
  "items": [
+  {
+   "id": "e07c0d6a",
+   "title": "Tim Cook Türkiye'yi ziyaret etti",
+   "summary": "Apple yönetim kurulu başkanı Tim Cook, 8 Kasım'da İstanbul'da Kapalıçarşı ve Apple Bağdat Caddesi'nde görüldü. Ziyaret neleri kapsadı?",
+   "link": "https://shiftdelete.net/tim-cook-istanbul-kapalicarsi",
+   "image": "https://shiftdelete.net/static/img/content/26-11/08/tim-cook-turkey-visit.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-08T18:21:01+00:00",
+   "url": "/haber/tim-cook-turkiye-yi-ziyaret-etti-e07c0d6a/"
+  },
+  {
+   "id": "f56bee05",
+   "title": "AirPods 4 Yerini AirPods 5'e Bıraktı: 9.999 TL",
+   "summary": "Apple'ın sitesi 8 Kasım 2026'da AirPods 4 sayfalarını AirPods 5'e yönlendiriyor. Yeni modelde ANC standart, gürültü engelleme 1,5 kat daha güçlü ve IP57 var.",
+   "link": "https://shiftdelete.net/airpods-4-tanitildi-iste-ozellikleri-ve-fiyati",
+   "image": "/static/img/content/26-11/08/airpods-4-airpods-5.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-08T18:11:57+00:00",
+   "url": "/haber/airpods-4-yerini-airpods-5-e-birakti-9-999-tl-f56bee05/"
+  },
+  {
+   "id": "cd5e1e88",
+   "title": "ABD'nin İran'la savaşı bitirmek için Çin'den yardım istediği iddia edildi",
+   "summary": "ABD yönetiminin, İran'la savaşı sona erdirmek amacıyla Çin'den Tahran üzerindeki nüfuzunu kullanmasını istediği öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-iranla-savasi-bitirmek-icin-cinden-yardim-istedigi-iddia-edildi/4116267",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T18:03:34+00:00",
+   "url": "/haber/abd-nin-iran-la-savasi-bitirmek-icin-cin-den-yardim-istedigi-iddia-edi-cd5e1e88/"
+  },
   {
    "id": "77f4fbf6",
    "title": "Büyük ekranlı telefonlardan sıkılanlara: Enough Phone tanıtıldı",
@@ -343,28 +376,6 @@
    "url": "/haber/cupra-fiyat-listesi-kasim-2026-2-755-100-tl-den-fa25505e/"
   },
   {
-   "id": "37712c5a",
-   "title": "Türkiye-Irak ortak basın açıklaması yayımlandı",
-   "summary": "Türkiye ve Irak'ın yayımladığı ortak açıklamada, Irak makamlarının Sincar'da devlet otoritesinin bütünüyle tesisi ve terör örgütü PKK unsurlarının varlığına son verilmesine yönelik attığı adımların sürdürülmesi…",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-irak-ortak-basin-aciklamasi-yayimlandi/4116132",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T15:07:32+00:00",
-   "url": "/haber/turkiye-irak-ortak-basin-aciklamasi-yayimlandi-37712c5a/"
-  },
-  {
-   "id": "e07c0d6a",
-   "title": "Tim Cook İstanbul'da: Kapalıçarşı'yı gezdi",
-   "summary": "Apple yönetim kurulu başkanı Tim Cook İstanbul'a geldi. Cook, Cem Başak'la Kapalıçarşı'yı gezdiğini duyurdu, ancak ziyaretin sebebi henüz belli değil.",
-   "link": "https://shiftdelete.net/tim-cook-istanbul-kapalicarsi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/tim-cook-cem-basak-istanbul-kapak-0811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-08T15:06:12+00:00",
-   "url": "/haber/tim-cook-istanbul-da-kapalicarsi-yi-gezdi-e07c0d6a/"
-  },
-  {
    "id": "7f3941e8",
    "title": "Türkiye ve Irak'tan güvenlik mutabakatı",
    "summary": "Türkiye ve Irak'ın yayımladığı ortak açıklamada, Irak makamlarının Sincar'da devlet otoritesinin bütünüyle tesisi ve terör örgütü PKK unsurlarının varlığına son verilmesine yönelik attığı adımların sürdürülmesi…",
@@ -431,6 +442,17 @@
    "url": "/haber/iphone-18-x-ray-goruntuleri-ortaya-cikti-iste-ic-tasarim-be2b5079/"
   },
   {
+   "id": "a6ad4767",
+   "title": "Mısır'da tren kazası: 7 ölü, 112 yaralı",
+   "summary": "Mısır'ın Giza vilayetindeki Ayat kentinde meydana gelen tren kazasında 7 kişi öldü, 112 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/misirda-tren-kazasi-7-olu-112-yarali-962608.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1474000/misir-1475695.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-08T14:30:00+00:00",
+   "url": "/haber/misir-da-tren-kazasi-7-olu-112-yarali-a6ad4767/"
+  },
+  {
    "id": "f3420f70",
    "title": "Ford Fiyat Listesi Kasım 2026: 2.076.000 TL'den",
    "summary": "2025 Puma Gen-E 2.076.000 TL iken 2026 Puma Titanium kampanyalı 2.171.100 TL. Ford binek listesi 7 Kasım 2026'dan geçerli. Fiyatlar tavsiye niteliğinde.",
@@ -484,17 +506,6 @@
    "category": "teknoloji",
    "date": "2026-11-08T14:00:00+00:00",
    "url": "/haber/honor-gimbal-kamerali-telefonunu-yeniliyor-robot-phone-2-yolda-993a0136/"
-  },
-  {
-   "id": "ffabaef0",
-   "title": "AB, TikTok'un algoritmasını değiştirmek istiyor",
-   "summary": "Avrupa Komisyonu, TikTok algoritmasının Dijital Hizmetler Yasası'nı ihlal ediyor olabileceğini duyurdu. Şirket suçlamaları reddederken olası ceza küresel cironun yüzde 6'sına ulaşabilir.",
-   "link": "https://shiftdelete.net/tiktok-algoritmasi-avrupa-komisyonu-dsa",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/0d0d920671befdd6cb5b67ab74f0597d4dba9684.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-08T13:47:00+00:00",
-   "url": "/haber/ab-tiktok-un-algoritmasini-degistirmek-istiyor-ffabaef0/"
   },
   {
    "id": "b2114ff5",
@@ -803,17 +814,6 @@
    "category": "gundem",
    "date": "2026-11-08T07:55:59+00:00",
    "url": "/haber/tum-dunyanin-gozu-antalya-olacak-cop31-yarin-basliyor-b823d7cd/"
-  },
-  {
-   "id": "5fe5e775",
-   "title": "Tüketicilerin sağlığını tehlikeye atanlara 201,2 milyon liralık ceza",
-   "summary": "Türkiye'de geçen ay gıda işletmelerine yönelik 116 bin 815 denetim yapıldı, uygunsuzluk tespit edilenlere 201,2 milyon lira ceza kesildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/tuketicilerin-sagligini-tehlikeye-atanlara-2012-milyon-liralik-ceza-962580.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2380000/gida-denetimi-para-cezasi-aa-2381592.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-08T07:48:00+00:00",
-   "url": "/haber/tuketicilerin-sagligini-tehlikeye-atanlara-201-2-milyon-liralik-ceza-5fe5e775/"
   },
   {
    "id": "2fd56ff5",
