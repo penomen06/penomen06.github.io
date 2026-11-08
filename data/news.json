@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-08T20:01:03.155601+00:00",
+ "updated": "2026-11-08T20:30:57.511428+00:00",
  "items": [
+  {
+   "id": "f6b0acc1",
+   "title": "Cumhurbaşkanı Erdoğan’dan Azerbaycan ziyaretine ilişkin paylaşım",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan temaslarına ilişkin sanal medya hesabından paylaşımda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-azerbaycan-ziyaretine-iliskin-paylasim-1750014",
+   "image": "https://images.ntv.com.tr/images/CUMHURBASKANI-ERDOGAN’DAN-AZERBAYCAN-ZIY_1596733_474802-485326.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-08T20:22:03+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-dan-azerbaycan-ziyaretine-iliskin-paylasim-f6b0acc1/"
+  },
+  {
+   "id": "8a72125d",
+   "title": "Yeni Parti'nin genel başkanlık ön seçiminde Özgür Özel geçerli oyların tamamını aldı",
+   "summary": "Yeni Parti Genel Başkanı Özgür Özel, partisinin genel başkanlık ön seçiminde geçerli oyların tamamını aldı.",
+   "link": "https://www.ntv.com.tr/turkiye/yeni-partinin-genel-baskanlik-on-seciminde-ozgur-ozel-gecerli-oylarin-tamamini-aldi-1750012",
+   "image": "https://images.ntv.com.tr/images/özgürözel-323525.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-08T20:17:36+00:00",
+   "url": "/haber/yeni-parti-nin-genel-baskanlik-on-seciminde-ozgur-ozel-gecerli-oylarin-8a72125d/"
+  },
+  {
+   "id": "1dd62015",
+   "title": "15 Temmuz Şehitler Köprüsü Azerbaycan bayrağının renkleriyle ışıklandırıldı",
+   "summary": "Azerbaycan'ın Karabağ Zaferi dolayısıyla kutlanan \"8 Kasım Zafer Günü\"nde Galata Kulesi ve 15 Temmuz Şehitler Köprüsü özel ışıklandırmayla bu ülkenin bayrağının renklerine büründü.",
+   "link": "https://www.aa.com.tr/tr/gundem/15-temmuz-sehitler-koprusu-azerbaycan-bayraginin-renkleriyle-isiklandirildi/4116323",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T20:15:57+00:00",
+   "url": "/haber/15-temmuz-sehitler-koprusu-azerbaycan-bayraginin-renkleriyle-isiklandi-1dd62015/"
+  },
+  {
+   "id": "a5cda8fb",
+   "title": "Trendyol Süper Lig'de görünüm",
+   "summary": "Trendyol Süper Lig'de 11. hafta mücadelesi tamamlandı.",
+   "link": "https://www.aa.com.tr/tr/spor/trendyol-super-ligde-gorunum/4116322",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T20:15:32+00:00",
+   "url": "/haber/trendyol-super-lig-de-gorunum-a5cda8fb/"
+  },
+  {
+   "id": "e201656d",
+   "title": "Beşiktaş milli araya 3 puanla girdi",
+   "summary": "Son iki maçta rakipleri karşısında puan kaybeden Beşiktaş, Gençlerbirliği'ni yenerek puanını 22'ye yükseltti.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-milli-araya-3-puanla-girdi/4116320",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T20:11:50+00:00",
+   "url": "/haber/besiktas-milli-araya-3-puanla-girdi-e201656d/"
+  },
+  {
+   "id": "514a5472",
+   "title": "Gazze'de yağış sonrası meydana gelen göçükte 5 Filistinli hayatını kaybetti",
+   "summary": "Gazze Şeridi'nin orta kesiminde yer alan Deyr el-Belah kentinde yerinden edilmiş Filistinlilerin kaldığı çadırların yağış sonrası meydana gelen göçük altında kalması sonucu biri kadın, 3'ü çocuk 5 kişinin yaşamını…",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-yagis-sonrasi-meydana-gelen-gocukte-5-filistinli-hayatini-kaybetti/4116318",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T20:07:08+00:00",
+   "url": "/haber/gazze-de-yagis-sonrasi-meydana-gelen-gocukte-5-filistinli-hayatini-kay-514a5472/"
+  },
+  {
+   "id": "ed9569ed",
+   "title": "ABD Başkanı Trump'ın Gazze Barış Planı'nın uygulanmasında \"kararlı\" olduğu iddia edildi",
+   "summary": "ABD Başkanı Trump'ın Gazze Barış Planı'nın uygulanmasında \"kararlı\" olduğu iddia edildiABD Başkanı Donald Trump'ın, İsrail'deki seçimlerin sonucundan bağımsız olarak Gazze Barış Planı'nı uygulamakta \"kararlı olduğu\"…",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumpin-gazze-baris-planinin-uygulanmasinda-kararli-oldugu-iddia-edildi/4116316",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T20:02:11+00:00",
+   "url": "/haber/abd-baskani-trump-in-gazze-baris-plani-nin-uygulanmasinda-kararli-oldu-ed9569ed/"
+  },
   {
    "id": "9ad00db7",
    "title": "İran basını: Keşm Adası'nda dört patlama sesi duyuldu",
@@ -33,6 +110,17 @@
    "category": "gundem",
    "date": "2026-11-08T19:53:34+00:00",
    "url": "/haber/yemen-ordusu-husilere-yonelik-992-operasyonda-267-milis-oldu-veya-yara-19fb60d0/"
+  },
+  {
+   "id": "0862c4cd",
+   "title": "Konya Tropikal Kelebek Bahçesi, COP31'de yerini aldı",
+   "summary": "Konya Tropikal Kelebek Bahçesi'nin birebir aynısı, Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilecek COP31 İklim Zirvesi'nde dünyanın farklı ülkelerinden ziyaretçi ağırlayacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/konya-tropikal-kelebek-bahcesi-cop31de-yerini-aldi/4116308",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T19:47:41+00:00",
+   "url": "/haber/konya-tropikal-kelebek-bahcesi-cop31-de-yerini-aldi-0862c4cd/"
   },
   {
    "id": "5a972947",
@@ -123,28 +211,6 @@
    "url": "/haber/ukrayna-zaporijya-nukleer-santrali-dis-elektrik-kaynagini-bu-yil-16-ke-1a82bdd9/"
   },
   {
-   "id": "58ffb901",
-   "title": "Trump, müzakereler sürdükçe ABD'nin İran'a yeniden saldırma ihtimalinin \"son derece düşük\" olduğunu söyledi",
-   "summary": "ABD Başkanı Donald Trump, İran ile nükleer program ve Hürmüz Boğazı’nın açılması konusundaki müzakerelerde ilerleme kaydedildiği sürece ABD’nin İran’a tekrar saldırmasının “son derece düşük bir ihtimal” olduğunu…",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-muzakereler-surdukce-abdnin-irana-yeniden-saldirma-ihtimalinin-son-derece-dusuk-oldugunu-soyledi/4116276",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T18:40:46+00:00",
-   "url": "/haber/trump-muzakereler-surdukce-abd-nin-iran-a-yeniden-saldirma-ihtimalinin-58ffb901/"
-  },
-  {
-   "id": "5d1e8b84",
-   "title": "Cumhurbaşkanı Erdoğan, Azerbaycan'dan yurda döndü",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'daki temaslarının ardından yurda döndü.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycandan-yurda-dondu/4116274",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T18:28:42+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-azerbaycan-dan-yurda-dondu-5d1e8b84/"
-  },
-  {
    "id": "e07c0d6a",
    "title": "Tim Cook İstanbul'da: Kapalıçarşı'dan selam",
    "summary": "Apple'ın yönetim kurulu başkanı Tim Cook pazar gününü İstanbul'da geçirdi. Sabah Kapalıçarşı'daydı, akşam Bağdat Caddesi'nde.",
@@ -167,17 +233,6 @@
    "url": "/haber/airpods-4-yerini-airpods-5-e-birakti-9-999-tl-f56bee05/"
   },
   {
-   "id": "cd5e1e88",
-   "title": "ABD'nin İran'la savaşı bitirmek için Çin'den yardım istediği iddia edildi",
-   "summary": "ABD yönetiminin, İran'la savaşı sona erdirmek amacıyla Çin'den Tahran üzerindeki nüfuzunu kullanmasını istediği öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdnin-iranla-savasi-bitirmek-icin-cinden-yardim-istedigi-iddia-edildi/4116267",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T18:03:34+00:00",
-   "url": "/haber/abd-nin-iran-la-savasi-bitirmek-icin-cin-den-yardim-istedigi-iddia-edi-cd5e1e88/"
-  },
-  {
    "id": "77f4fbf6",
    "title": "Büyük ekranlı telefonlardan sıkılanlara: Enough Phone tanıtıldı",
    "summary": "Akıllı telefon pazarında giderek azalan kompakt modeller arasına yeni bir oyuncu katılıyor. 5,3 inç ekranı, değiştirilebilir bataryası ve 2032'ye kadar yazılım desteğiyle Enough Phone tanıtıldı.",
@@ -187,39 +242,6 @@
    "category": "teknoloji",
    "date": "2026-11-08T18:00:00+00:00",
    "url": "/haber/buyuk-ekranli-telefonlardan-sikilanlara-enough-phone-tanitildi-77f4fbf6/"
-  },
-  {
-   "id": "e0aec9bc",
-   "title": "Trabzonspor, Corendon Alanyaspor'u 2-0 mağlup etti",
-   "summary": "Trendyol Süper Lig'in 11. haftasında Trabzonspor, deplasmanda Corendon Alanyaspor'u 2-0 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-corendon-alanyasporu-2-0-maglup-etti/4116256",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T17:36:33+00:00",
-   "url": "/haber/trabzonspor-corendon-alanyaspor-u-2-0-maglup-etti-e0aec9bc/"
-  },
-  {
-   "id": "fa84c378",
-   "title": "İsrail hapishanelerindeki Filistinli esirlerin yaklaşık yüzde 80'i uyuz hastalığından şikayet ediyor",
-   "summary": "İsrail hapishanelerinde tutulan 9 bini aşkın Filistinli esirin yaklaşık yüzde 80'inin uyuz hastalığına yakalandığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-hapishanelerindeki-filistinli-esirlerin-yaklasik-yuzde-80i-uyuz-hastaligindan-sikayet-ediyor/4116255",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T17:35:15+00:00",
-   "url": "/haber/israil-hapishanelerindeki-filistinli-esirlerin-yaklasik-yuzde-80-i-uyu-fa84c378/"
-  },
-  {
-   "id": "68b7ff3e",
-   "title": "İran Ordusu: Hürmüz Boğazı'nda bir petrol tankeri mayına çarparak alev aldı",
-   "summary": "İran Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın doğusunda, izin verilmeyen bölgede hareket ettiği belirtilen bir petrol tankerinin deniz mayınına çarpması sonucu alev aldığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carparak-alev-aldi/4116254",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T17:32:28+00:00",
-   "url": "/haber/iran-ordusu-hurmuz-bogazi-nda-bir-petrol-tankeri-mayina-carparak-alev-68b7ff3e/"
   },
   {
    "id": "e559ab6f",
@@ -847,28 +869,6 @@
    "category": "gundem",
    "date": "2026-11-08T07:12:24+00:00",
    "url": "/haber/kis-lastigi-takma-uygulamasi-basladi-mi-ne-zaman-basliyor-hangi-aracla-03d04a43/"
-  },
-  {
-   "id": "1b96a0a7",
-   "title": "Gümrüklerde 10 ayda 54 ton uyuşturucuya el konuldu",
-   "summary": "Ticaret Bakanlığı gümrük muhafaza ekipleri tarafından ocak-ekim döneminde düzenlenen operasyonlarda, yaklaşık 54,5 ton uyuşturucu madde ele geçirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/gumruklerde-10-ayda-54-ton-uyusturucuya-el-konuldu-1749919",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_82c415b4e73ea7cd9ab8b2acc9627eb7-500341.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-08T06:40:01+00:00",
-   "url": "/haber/gumruklerde-10-ayda-54-ton-uyusturucuya-el-konuldu-1b96a0a7/"
-  },
-  {
-   "id": "666651ad",
-   "title": "Kocaeli'de akılalmaz olay: Camlarını kırdığı otomobili 1 saat sonra ateşe verdi",
-   "summary": "Kocaeli Derince ilçesinde park halindeki otomobilin camlarını kıran şüpheli, yaklaşık 1 saat sonra olay yerine dönerek aracı ateşe verdi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-kocaelide-akilalmaz-olay-camlarini-kirdigi-otomobili-1-saat-sonra-atese-verdi-1749915",
-   "image": "https://images.ntv.com.tr/images/camlarinikirdigiotomobilibirsaatsonraateseverdikapak04a232d8126e1705jpg-TMT_K8mlQ0mxkJNlOej7-g-521523.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-08T06:28:07+00:00",
-   "url": "/haber/kocaeli-de-akilalmaz-olay-camlarini-kirdigi-otomobili-1-saat-sonra-ate-666651ad/"
   },
   {
    "id": "66acaed8",
