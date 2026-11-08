@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-08T20:30:57.511428+00:00",
+ "updated": "2026-11-08T21:01:01.063024+00:00",
  "items": [
+  {
+   "id": "405d98e4",
+   "title": "Şans Topu Sonuçları Sorgulama Ekranı 8 Kasım | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
+   "summary": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1750024",
+   "image": "https://images.ntv.com.tr/images/sans-topu-sonuc-649314.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-08T20:59:25+00:00",
+   "url": "/haber/sans-topu-sonuclari-sorgulama-ekrani-8-kasim-mpi-sans-topu-sonuclari-t-405d98e4/"
+  },
+  {
+   "id": "8e2b7229",
+   "title": "Fransa, Avrupa'nın Abu Dabi'deki Rusya-Ukrayna müzakerelerinde masada olacağını açıkladı",
+   "summary": "Fransa Dışişleri Bakanı Jean-Noel Barrot, 10-11 Kasım'da Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi'de Ukrayna ile Rusya arasında ABD arabuluculuğunda yapılacak müzakerelerde Avrupa'nın da masada olacağını…",
+   "link": "https://www.aa.com.tr/tr/dunya/fransa-avrupanin-abu-dabideki-rusya-ukrayna-muzakerelerinde-masada-olacagini-acikladi/4116346",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T20:51:23+00:00",
+   "url": "/haber/fransa-avrupa-nin-abu-dabi-deki-rusya-ukrayna-muzakerelerinde-masada-o-8e2b7229/"
+  },
+  {
+   "id": "aa7ca125",
+   "title": "Stephen King uyarlaması 1408'e yıllar sonra bir devam filmi çekiliyor",
+   "summary": "2007 yılında çıkan 1408, neredeyse yirmi yıl sonra bir devam filmine kavuşuyor. Üstelik ilk filmin yıldızları John Cusack ve Samuel L. Jackson da bu yeni filmin parçası olabilir.",
+   "link": "https://www.donanimhaber.com/stephen-king-uyarlamasi-1408-in-devam-filmi-geliyor--212640",
+   "image": "https://www.donanimhaber.com/images/images/haber/212640/1200x675stephen-king-uyarlamasi-1408-in-devam-filmi-geliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-08T20:50:42+00:00",
+   "url": "/haber/stephen-king-uyarlamasi-1408-e-yillar-sonra-bir-devam-filmi-cekiliyor-aa7ca125/"
+  },
+  {
+   "id": "2660c473",
+   "title": "Cevad Prekazi hayatını kaybetti",
+   "summary": "Galatasaray'ın eski futbolcularından Cevad Prekazi, 69 yaşında hayatını kaybetti.",
+   "link": "https://www.aa.com.tr/tr/spor/cevad-prekazi-hayatini-kaybetti/4116339",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T20:42:27+00:00",
+   "url": "/haber/cevad-prekazi-hayatini-kaybetti-2660c473/"
+  },
+  {
+   "id": "a7069ca6",
+   "title": "G.I. Joe serisi yeni bir filmle geri dönüyor: Vizyon tarihi açıklandı",
+   "summary": "Son olarak Snake Eyes filmiyle sinemalara gelen G.I. Joe serisi beyaz perdeye geri dönüyor. Paramount'un kayda değer bir bütçeyle hayata geçireceği yeni G.I. Joe filminin ne zaman çıkacağı belli oldu.",
+   "link": "https://www.donanimhaber.com/yeni-g-i-joe-filminin-ne-zaman-cikacagi-aciklandi--212639",
+   "image": "https://www.donanimhaber.com/images/images/haber/212639/1200x675yeni-g-i-joe-filminin-ne-zaman-cikacagi-aciklandi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-08T20:30:54+00:00",
+   "url": "/haber/g-i-joe-serisi-yeni-bir-filmle-geri-donuyor-vizyon-tarihi-aciklandi-a7069ca6/"
+  },
   {
    "id": "f6b0acc1",
    "title": "Cumhurbaşkanı Erdoğan’dan Azerbaycan ziyaretine ilişkin paylaşım",
@@ -81,7 +136,7 @@
   {
    "id": "9ad00db7",
    "title": "İran basını: Keşm Adası'nda dört patlama sesi duyuldu",
-   "summary": "İran'ın güneyinde Hürmüz Boğazı'na yakın Keşm Adası'nda dört patlama sesinin duyulduğu, patlama seslerinin nedeninin ise bilinmediği bildirildi.",
+   "summary": "İran'ın güneyinde Hürmüz Boğazı'na yakın Keşm Adası'nda dört patlama sesinin duyulduğu bildirildi.",
    "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasinda-dort-patlama-sesi-duyuldu/4116313",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -187,28 +242,6 @@
    "category": "gundem",
    "date": "2026-11-08T18:53:19+00:00",
    "url": "/haber/amsterdam-da-dorduncu-kirmizi-cizgi-gosterisine-200-binden-fazla-kisi-f7ea222e/"
-  },
-  {
-   "id": "69bf45c2",
-   "title": "MotoGP'de Katar Grand Prix'sini Marco Bezzecchi kazandı",
-   "summary": "MotoGP Dünya Şampiyonası'nda Katar Grand Prix'sini, Aprilia takımından İtalyan Marco Bezzecchi kazandı.",
-   "link": "https://www.aa.com.tr/tr/spor/motogpde-katar-grand-prixsini-marco-bezzecchi-kazandi/4116278",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T18:44:24+00:00",
-   "url": "/haber/motogp-de-katar-grand-prix-sini-marco-bezzecchi-kazandi-69bf45c2/"
-  },
-  {
-   "id": "1a82bdd9",
-   "title": "Ukrayna: Zaporijya Nükleer Santrali dış elektrik kaynağını bu yıl 16. kez kaybetti",
-   "summary": "Ukrayna Dışişleri Bakanı Andrii Sybiha, ülkesinde Rusya'nın kontrolündeki Zaporijya Nükleer Güç Santrali'nin (NGS) yılın başından bu yana 16. kez tüm dış kaynaklı elektriğini kaybettiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-zaporijya-nukleer-santrali-dis-elektrik-kaynagini-bu-yil-16-kez-kaybetti-/4116277",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T18:42:47+00:00",
-   "url": "/haber/ukrayna-zaporijya-nukleer-santrali-dis-elektrik-kaynagini-bu-yil-16-ke-1a82bdd9/"
   },
   {
    "id": "e07c0d6a",
@@ -651,17 +684,6 @@
    "url": "/haber/erdogan-in-azerbaycan-ziyaretinde-aliyev-ile-birlik-mesaji-verildi-87e86e59/"
   },
   {
-   "id": "9b568a2b",
-   "title": "iPhone Duo için optimize edilen uygulama sayısı 100 bini aştı",
-   "summary": "Apple, iPhone Duo için optimize edilen uygulama sayısının 100 bini geçtiğini açıkladı. Her gün binlerce yeni uygulama App Store'a eklenirken bazı popüler yazılımlar henüz güncellenmedi.",
-   "link": "https://www.donanimhaber.com/iphone-duo-icin-optimize-edilen-uygulama-sayisi-100-bini-asti--212601",
-   "image": "https://www.donanimhaber.com/images/images/haber/212601/1200x675iphone-duo-icin-optimize-edilen-uygulama-sayisi-100-bini-asti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-08T12:00:00+00:00",
-   "url": "/haber/iphone-duo-icin-optimize-edilen-uygulama-sayisi-100-bini-asti-9b568a2b/"
-  },
-  {
    "id": "78feee72",
    "title": "Cumhurbaşkanı Erdoğan: Kardeşliğimizi zayıflatmak isteyenler emellerine asla ulaşamayacak",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"15 Haziran 2021 günü Şuşa'da imzaladığımız beyanname ile müttefiklik bağıyla tahkim ettiğimiz bu kardeşliğimizi zayıflatmak isteyenler; dün olduğu gibi bugün de, yarın da emellerine…",
@@ -682,17 +704,6 @@
    "category": "gundem",
    "date": "2026-11-08T11:51:51+00:00",
    "url": "/haber/krakow-da-silahli-saldiri-alti-kisiyi-olduren-saldirganin-evinde-de-uc-4d357397/"
-  },
-  {
-   "id": "87450e13",
-   "title": "Claude artık finans yardımcınız oluyor",
-   "summary": "Claude Personal Finance adındaki yeni yapay zekâ finans yardımcınız, varlık hesaplarınızı analiz ederek tavsiyeler veriyor ödemeler konusunda uyarılar yapıyor.",
-   "link": "https://www.donanimhaber.com/claude-personal-finance-tanitildi--212635",
-   "image": "https://www.donanimhaber.com/images/images/haber/212635/1200x675claude-personal-finance-tanitildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-08T11:30:00+00:00",
-   "url": "/haber/claude-artik-finans-yardimciniz-oluyor-87450e13/"
   },
   {
    "id": "31a4e609",
@@ -858,17 +869,6 @@
    "category": "gundem",
    "date": "2026-11-08T07:21:00+00:00",
    "url": "/haber/dunya-iklim-gundemi-icin-antalya-da-bulusuyor-cop31-yarin-basliyor-2fd56ff5/"
-  },
-  {
-   "id": "03d04a43",
-   "title": "Kış lastiği takma uygulaması başladı mı, ne zaman başlıyor? Hangi araçlarda zorunlu?",
-   "summary": "Kış lastiği takma uygulamasının başlayacağı tarih, hava sıcaklıklarının düşmesi, mevsim geçişleri ve yağışların etkisini artırmasıyla birlikte sürücüler tarafından merak ediliyor. Ulaştırma ve Altyapı Bakanlığı…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kis-lastigi-takma-uygulamasi-basladi-mi-ne-zaman-basliyor-hangi-araclarda-zorunlu-1749926",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_fb5a1719a3f9c8f6bf31ed67bbffc349-524281.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-08T07:12:24+00:00",
-   "url": "/haber/kis-lastigi-takma-uygulamasi-basladi-mi-ne-zaman-basliyor-hangi-aracla-03d04a43/"
   },
   {
    "id": "66acaed8",
