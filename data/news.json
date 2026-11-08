@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T02:30:54.112877+00:00",
+ "updated": "2026-11-08T03:01:03.304317+00:00",
  "items": [
   {
    "id": "a660ad76",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-08T02:30:00+00:00",
+   "date": "2026-11-08T03:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a660ad76/"
+  },
+  {
+   "id": "e48a1117",
+   "title": "Yeni Parti'de bugün genel başkanlık ön seçimi yapılacak",
+   "summary": "Yeni Parti'de kurultay öncesinde bugün genel başkanlık ön seçimi yapılacak. Partinin il ve ilçe başkanlıklarında sandıklarda parti üyesi olan herkes oy kullanabilecek.",
+   "link": "https://www.ntv.com.tr/turkiye/yeni-partide-bugun-genel-baskanlik-on-secimi-yapilacak-1749890",
+   "image": "https://images.ntv.com.tr/images/Ekrang_C3_B6r_C3_BCnt_C3_BCs_C3_BC2026-11-07092011-383792-678672.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-08T02:53:24+00:00",
+   "url": "/haber/yeni-parti-de-bugun-genel-baskanlik-on-secimi-yapilacak-e48a1117/"
   },
   {
    "id": "d54b0ae6",
@@ -506,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T16:30:00+00:00",
    "url": "/haber/google-icin-yapay-zeka-paradoksa-donustu-e006c665/"
-  },
-  {
-   "id": "a4f5d32d",
-   "title": "Afyonkarahisar'da 8 kişiyi öldüren katil zanlısı hakkında yeni ayrıntı: Silahı aldığı kişi bulundu",
-   "summary": "Afyonkarahisar'da 8 kişinin öldürüldüğü olayda, katil zanlısının silahı başka bir suçtan dolayı cezaevinde bulunan bir kişiden 12 bin lira karşılığında aldığı behülirlendi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-8-kisiyi-olduren-katil-zanlisi-hakkinda-yeni-ayrinti-silahi-aldigi-kisi-bulundu-1749832",
-   "image": "https://images.ntv.com.tr/images/afyon-katil-zanlısı-1-953038.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-07T16:27:24+00:00",
-   "url": "/haber/afyonkarahisar-da-8-kisiyi-olduren-katil-zanlisi-hakkinda-yeni-ayrinti-a4f5d32d/"
   },
   {
    "id": "113bc5d6",
