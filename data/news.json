@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T00:30:51.531432+00:00",
+ "updated": "2026-11-08T01:01:03.540064+00:00",
  "items": [
   {
    "id": "a660ad76",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-08T00:30:00+00:00",
+   "date": "2026-11-08T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a660ad76/"
+  },
+  {
+   "id": "5517ed66",
+   "title": "Paraguay'da azledilen eski Devlet Başkanı Pena hakkında tutuklama kararı",
+   "summary": "Paraguay'da finansal skandal iddialarının ardından görevinden alınan eski Devlet Başkanı Santiago Pena hakkında tutuklama kararı verildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/paraguayda-azledilen-eski-devlet-baskani-pena-hakkinda-tutuklama-karari/4115613",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T00:41:39+00:00",
+   "url": "/haber/paraguay-da-azledilen-eski-devlet-baskani-pena-hakkinda-tutuklama-kara-5517ed66/"
   },
   {
    "id": "fec63e23",
@@ -123,15 +134,15 @@
    "url": "/haber/arda-guler-in-gol-attigi-macta-real-madrid-valencia-yi-3-0-yendi-a0081295/"
   },
   {
-   "id": "20a1fa05",
-   "title": "İsrail askerleri Batı Şeria'da bir Filistinliyi bacağından yaraladı",
-   "summary": "İsrail askerlerinin, işgal altındaki Batı Şeria'nın Kalkilya kentinde bir genci bacağından vurduğu belirtildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriada-bir-filistinliyi-bacagindan-yaraladi/4115583",
+   "id": "86fad91a",
+   "title": "İsrail'den Batı Şeria’da 15 dönümlük araziyi hedef alan 4 askeri emir",
+   "summary": "Filistin Kurtuluş Örgütü'ne bağlı Ayrım (Utanç) Duvarı ve Yahudi Yerleşim Birimleriyle Mücadele Heyeti, İsrail makamlarının Batı Şeria'nın Beytüllahim kentinde yaklaşık 15 dönümlük araziye el konulmasını öngören 4…",
+   "link": "https://www.aa.com.tr/tr/dunya/israilden-bati-seria-da-15-donumluk-araziyi-hedef-alan-4-askeri-emir/4115583",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-07T21:13:46+00:00",
-   "url": "/haber/israil-askerleri-bati-seria-da-bir-filistinliyi-bacagindan-yaraladi-20a1fa05/"
+   "url": "/haber/israil-den-bati-seria-da-15-donumluk-araziyi-hedef-alan-4-askeri-emir-86fad91a/"
   },
   {
    "id": "08ad45cc",
@@ -154,17 +165,6 @@
    "category": "gundem",
    "date": "2026-11-07T21:06:10+00:00",
    "url": "/haber/israil-de-arap-partilerinin-de-yer-alacagi-bir-hukumet-kurulmasi-taleb-6f656ee2/"
-  },
-  {
-   "id": "60c3690f",
-   "title": "Filistin yönetimi, BM'den Gazze'deki insani felaketi durdurmasını istedi",
-   "summary": "Filistin yönetimi, şiddetli yağışlarla 70 bin çadırın sular altında kaldığı Gazze'deki insani felaketin sona erdirilmesi için Birleşmiş Milletler Güvenlik Konseyi'ne (BMGK) acil müdahale çağrısı yaptı.",
-   "link": "https://www.aa.com.tr/tr/dunya/filistin-yonetimi-bmden-gazzedeki-insani-felaketi-durdurmasini-istedi/4115564",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T21:02:02+00:00",
-   "url": "/haber/filistin-yonetimi-bm-den-gazze-deki-insani-felaketi-durdurmasini-isted-60c3690f/"
   },
   {
    "id": "915e931f",
