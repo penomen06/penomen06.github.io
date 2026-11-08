@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T16:01:00.662323+00:00",
+ "updated": "2026-11-08T16:30:51.781494+00:00",
  "items": [
+  {
+   "id": "0ded7396",
+   "title": "Elektrikli otomobiller için 2.000 km menzil vadeden batarya",
+   "summary": "CATL, tek şarjla 2.000 km menzil sunabilecek lityum-hava bataryaları üzerinde çalışıyor. Yeni teknoloji, mevcut bataryalardan çok daha yüksek enerji yoğunluğu vadediyor.",
+   "link": "https://www.donanimhaber.com/elektrikli-otomobiller-icin-2-000-km-menzil-vadeden-batarya--212632",
+   "image": "https://www.donanimhaber.com/images/images/haber/212632/1200x675elektrikli-otomobiller-icin-2-000-km-menzil-vadeden-batarya.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-08T16:30:00+00:00",
+   "url": "/haber/elektrikli-otomobiller-icin-2-000-km-menzil-vadeden-batarya-0ded7396/"
+  },
+  {
+   "id": "f74fd869",
+   "title": "ID. AURA L5 ile Volkswagen'in büyük dönüşü",
+   "summary": "Volkswagen, FAW-VW ortaklığında üreteceği elektrikli ID. AURA L5 sedanını tanıttı. Asıl hikaye ise aracın arkasındaki yazılım mimarisi ve Avrupa planları.",
+   "link": "https://shiftdelete.net/id-aura-l5-volkswagen-elektrikli-sedan",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/5612c78ff0891faf59cd28cef5691a321e92ba1b.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-08T16:17:00+00:00",
+   "url": "/haber/id-aura-l5-ile-volkswagen-in-buyuk-donusu-f74fd869/"
+  },
+  {
+   "id": "5c749bab",
+   "title": "Togg Fiyat Listesi Kasım 2026: 1.884.980 TL'den",
+   "summary": "Haziran'dan beri değişmeyen resmi listede T10F, aynı versiyondaki T10X'ten 40.070 TL'ye kadar ucuz. Uzun menzile geçmek 310.620 TL ek maliyet getiriyor.",
+   "link": "https://shiftdelete.net/togg-fiyat-listesi",
+   "image": "/static/img/content/26-11/08/togg-fiyat-listesi-kasim-2026.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-08T16:13:02+00:00",
+   "url": "/haber/togg-fiyat-listesi-kasim-2026-1-884-980-tl-den-5c749bab/"
+  },
   {
    "id": "ab0565a2",
    "title": "Google Mesajlar, yeni ana sayfa tasarımını test ediyor",
@@ -55,6 +88,17 @@
    "category": "gundem",
    "date": "2026-11-08T15:41:46+00:00",
    "url": "/haber/turkiye-ve-irak-tan-ortak-aciklama-basika-zilikan-in-devri-icin-adim-a-10a21f4b/"
+  },
+  {
+   "id": "4e0886f1",
+   "title": "Filistinli gazeteci İsrail güçlerince gözaltına alınmasının \"siyasi baskının bir parçası\" olduğunu söyledi",
+   "summary": "Abed Ebu Şehade: \"Bana yönelik saldırı bağlamından kopuk değil. Bu saldırı, aktivistlere, gazetecilere, yani aşırı sağ ana akıma uymayan herkese yönelik siyasi baskının bir parçası.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistinli-gazeteci-israil-guclerince-gozaltina-alinmasinin-siyasi-baskinin-bir-parcasi-oldugunu-soyledi/4116183",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T15:40:15+00:00",
+   "url": "/haber/filistinli-gazeteci-israil-guclerince-gozaltina-alinmasinin-siyasi-bas-4e0886f1/"
   },
   {
    "id": "df396882",
@@ -134,6 +178,17 @@
    "url": "/haber/tim-cook-istanbul-da-kapalicarsi-yi-gezdi-e07c0d6a/"
   },
   {
+   "id": "7f3941e8",
+   "title": "Türkiye ve Irak'tan güvenlik mutabakatı",
+   "summary": "Türkiye ve Irak'ın yayımladığı ortak açıklamada, Irak makamlarının Sincar'da devlet otoritesinin bütünüyle tesisi ve terör örgütü PKK unsurlarının varlığına son verilmesine yönelik attığı adımların sürdürülmesi…",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-iraktan-guvenlik-mutabakati-962611.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2268000/turkiye-irak-2268162.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-08T15:03:00+00:00",
+   "url": "/haber/turkiye-ve-irak-tan-guvenlik-mutabakati-7f3941e8/"
+  },
+  {
    "id": "de7f79df",
    "title": "Apple HomeView'ın henüz açıklanmayan kamera özellikleri sızdırıldı",
    "summary": "Apple HomeView, yazılım kodlarında ortaya çıkan yeni ayrıntılara göre 1080p video kaydı, canlı yayın ve hareket algılama özellikleriyle ev güvenlik kamerasına dönüşebilir. İşte detaylar:",
@@ -187,6 +242,17 @@
    "category": "gundem",
    "date": "2026-11-08T14:44:23+00:00",
    "url": "/haber/bitlis-te-karda-mahsur-kalan-vatandas-umke-ve-112-acil-saglik-ekipleri-73c82b6a/"
+  },
+  {
+   "id": "5853f8bf",
+   "title": "Yeni haftada hava nasıl olacak? İşte tahminler...",
+   "summary": "Yurdun büyük bölümünde etkili olan soğuk, yerini kademeli ısınmaya bırakıyor. Sıcaklık, çarşamba gününe kadar mevsim normalinin altında seyredecek. Bu nedenle iç ve doğu bölgelerde don olayına karşı kritik uyarı…",
+   "link": "https://www.trthaber.com/haber/turkiye/yeni-haftada-hava-nasil-olacak-iste-tahminler-962609.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2418000/kars-soguk-hava-a-2418093.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-08T14:44:00+00:00",
+   "url": "/haber/yeni-haftada-hava-nasil-olacak-iste-tahminler-5853f8bf/"
   },
   {
    "id": "be2b5079",
@@ -365,28 +431,6 @@
    "url": "/haber/israil-saldirilari-ve-yardimlara-getirdigi-kisitlamalarla-gazze-de-kis-54a96560/"
   },
   {
-   "id": "05ce37a4",
-   "title": "Eski İsrail Başbakanı Barak'tan Eisenkot'a hükümeti kurma sürecini hızlandırma çağrısı",
-   "summary": "Eski İsrail Başbakanı Ehud Barak, hükümeti kurmakla görevlendirilen Yashar Partisi lideri Gadi Eisenkot'a süreci hızlandırma çağrısında bulunarak önceliğin Başbakan Binyamin Netanyahu liderliğindeki hükümeti değiştirmek…",
-   "link": "https://www.aa.com.tr/tr/dunya/eski-israil-basbakani-baraktan-eisenkota-hukumeti-kurma-surecini-hizlandirma-cagrisi/4116065",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T13:26:20+00:00",
-   "url": "/haber/eski-israil-basbakani-barak-tan-eisenkot-a-hukumeti-kurma-surecini-hiz-05ce37a4/"
-  },
-  {
-   "id": "98e130ef",
-   "title": "Deprem sonrası yeniden yapılanan Malatya, çevreci yatırımlarla geleceğe hazırlanıyor",
-   "summary": "Depremlerin ardından konut ve iş yerlerinin yanı sıra altyapı ve üstyapı yatırımlarıyla yeniden şekillenen Malatya'da atık su arıtma tesisleri ile yenilenebilir enerji projeleri hayata geçiriliyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/deprem-sonrasi-yeniden-yapilanan-malatya-cevreci-yatirimlarla-gelecege-hazirlaniyor/4116061",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T13:19:59+00:00",
-   "url": "/haber/deprem-sonrasi-yeniden-yapilanan-malatya-cevreci-yatirimlarla-gelecege-98e130ef/"
-  },
-  {
    "id": "6a752875",
    "title": "Harşit Zaferi'nin 109. yıl dönümü dolayısıyla Gümüşhane'de anma töreni düzenlendi",
    "summary": "Anma törenine Kara Kuvvetleri Komutanı Orgeneral Metin Tokel, Gümüşhane Valisi Cevdet Atay, AK Parti Gümüşhane Milletvekili Celalettin Köse ve MHP Gümüşhane Milletvekili Musa Küçük de katıldı.",
@@ -442,6 +486,17 @@
    "url": "/haber/catl-den-2000-km-menzilli-lityum-hava-batarya-4b625b7a/"
   },
   {
+   "id": "61efd6ca",
+   "title": "Rizespor, sahasından galibiyetle ayrıldı",
+   "summary": "Trendyol Süper Lig'in 11. haftasında Çaykur Rizespor, konuk ettiği Erzurumspor FK'yi 2-1 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/rizespor-sahasindan-galibiyetle-ayrildi/4116052",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T13:00:55+00:00",
+   "url": "/haber/rizespor-sahasindan-galibiyetle-ayrildi-61efd6ca/"
+  },
+  {
    "id": "260052a5",
    "title": "Apple, iPhone 20'de Action Button'u kaldırabilir",
    "summary": "Apple'ın 20. yıl özel iPhone modeli, önemli bir tasarım değişikliğiyle gelebilir. Şirketin Action Button'ı Kamera Kontrolü ile birleştirerek cihazdaki fiziksel tuş sayısını azaltacağı iddia ediliyor.",
@@ -464,17 +519,6 @@
    "url": "/haber/60-saniyede-bugun-08-kasim-2026-ba5f0c7c/"
   },
   {
-   "id": "869628e6",
-   "title": "11,4 milyon dolarlık Nvidia yongası çalındı",
-   "summary": "Teksas'a gönderilen 11,4 milyon dolarlık altı palet donanım yolda kayboldu. Nvidia yongası çalındı ve hırsızlık tam 15 gün sonra anlaşıldı.",
-   "link": "https://shiftdelete.net/nvidia-yongasi-calindi-11-milyon-dolar",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nvidia-h100-kapak-0811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-08T12:47:00+00:00",
-   "url": "/haber/11-4-milyon-dolarlik-nvidia-yongasi-calindi-869628e6/"
-  },
-  {
    "id": "71786caf",
    "title": "Savunma devi ASELSAN, enerji ihtiyacının tamamını güneşten karşılayacak",
    "summary": "ASELSAN, iki yeni güneş enerjisi santralini devreye aldı. Şirket, bu yatırımlarla enerji ihtiyacının tamamını güneşten karşılayacak ve yılda 121 bin ton karbon salımını önleyecek.",
@@ -495,17 +539,6 @@
    "category": "gundem",
    "date": "2026-11-08T12:41:11+00:00",
    "url": "/haber/erdogan-azerbaycan-da-aliyev-ile-ortak-basin-toplantisinda-birlik-mesa-87e86e59/"
-  },
-  {
-   "id": "4afa6e2d",
-   "title": "GTA 6 başarım listesi: 55 başarım ve kupa",
-   "summary": "GTA 6 başarım listesi için sosyal medyada paylaşılan bilgiye göre oyunda 55 başarım ve kupa bulunacak. Bu sayı, serinin önceki oyunlarının çıkış günü rakamlarını geride bırakıyor.",
-   "link": "https://shiftdelete.net/gta-6-basarim-listesi-55-kupa",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/gta-6-resmi-kapak-0811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-08T12:32:00+00:00",
-   "url": "/haber/gta-6-basarim-listesi-55-basarim-ve-kupa-4afa6e2d/"
   },
   {
    "id": "9b568a2b",
@@ -684,17 +717,6 @@
    "url": "/haber/icerisinde-diskin-yer-almadigi-kutulu-gta-6-da-ortaya-cikti-9b5b4d7e/"
   },
   {
-   "id": "15f0cc77",
-   "title": "Telefon Tavsiyeleri - Kasım 2026",
-   "summary": "Telefon tavsiyeleri serisinde çeşitli fiyatlar ve niteliklerde tavsiyelerde bulunuyoruz.",
-   "link": "https://www.donanimhaber.com/telefon-tavsiyeleri--212628",
-   "image": "https://www.donanimhaber.com/images/images/haber/212628/1200x675telefon-tavsiyeleri.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-08T09:19:38+00:00",
-   "url": "/haber/telefon-tavsiyeleri-kasim-2026-15f0cc77/"
-  },
-  {
    "id": "b39d088b",
    "title": "Yeni elektrikli motosiklet Yamaha XENTER E görücüye çıkarıldı",
    "summary": "Yamaha, EICMA 2026’da NMAX E’nin yanı sıra XENTER E adlı yeni elektrikli motosiklet modelini de tanıttı. 125cc sınıfındaki modellere rakip olarak konumlandırılan XENTER E, maksimum 7,5 kW (10 beygir) güç ve 33,3 Nm tork…",
@@ -825,28 +847,6 @@
    "category": "gundem",
    "date": "2026-11-08T06:28:07+00:00",
    "url": "/haber/kocaeli-de-akilalmaz-olay-camlarini-kirdigi-otomobili-1-saat-sonra-ate-666651ad/"
-  },
-  {
-   "id": "acb37957",
-   "title": "TBMM'de bu hafta da bütçe maratonu sürecek",
-   "summary": "Türkiye Büyük Millet Meclisi'nin gündemi bu hafta da bir hayli yoğun olacak. Bütçe maratonu 4 bakanlığın 2027 yılı bütçesine dair görüşmelerle sürecek. Türk Kızılay'ın görev ve yetkilerini ilk kez müstakil bir kanunla…",
-   "link": "https://www.trthaber.com/haber/gundem/tbmmde-bu-hafta-da-butce-maratonu-surecek-962573.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2174000/tbmm-meclis-oylama-aa-2175276.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-08T06:18:00+00:00",
-   "url": "/haber/tbmm-de-bu-hafta-da-butce-maratonu-surecek-acb37957/"
-  },
-  {
-   "id": "9f1ed66b",
-   "title": "18 il için 'sarı' kodlu uyarı",
-   "summary": "Soğuk ve yağışlı hava yurt genelinde etkili oluyor. 18 il için Meteoroloji tarafından 'sarı' kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli olmaları istendi.",
-   "link": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-kodlu-uyari-962571.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2168000/hava-durumu-meteoroloji-2168362.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-08T04:27:00+00:00",
-   "url": "/haber/18-il-icin-sari-kodlu-uyari-9f1ed66b/"
   },
   {
    "id": "66acaed8",
