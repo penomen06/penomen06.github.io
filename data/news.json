@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-08T15:30:53.822089+00:00",
+ "updated": "2026-11-08T16:01:00.662323+00:00",
  "items": [
+  {
+   "id": "ab0565a2",
+   "title": "Google Mesajlar, yeni ana sayfa tasarımını test ediyor",
+   "summary": "Google Mesajlar, sabitlenmiş sohbet avatarları, alt bölüme taşınan arama çubuğu ve yeni Gemini kısayoluyla Android ana sayfasında kapsamlı bir tasarımı test ediyor.",
+   "link": "https://www.donanimhaber.com/google-mesajlar-yeni-ana-sayfa-tasarimini-test-ediyor--212629",
+   "image": "https://www.donanimhaber.com/images/images/haber/212629/1200x675google-mesajlar-yeni-ana-sayfa-tasarimini-test-ediyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-08T16:00:00+00:00",
+   "url": "/haber/google-mesajlar-yeni-ana-sayfa-tasarimini-test-ediyor-ab0565a2/"
+  },
+  {
+   "id": "edd051d5",
+   "title": "İsrail Cumhurbaşkanı Herzog, hükümeti kurma görevini muhalefet lideri Eisenkot'a verdi",
+   "summary": "İsrail'de 27 Ekim'de yapılan genel seçimlerin ardından Cumhurbaşkanı Isaac Herzog, hükümeti kurma görevini resmen muhalefetteki Yashar Partisi lideri Gadi Eisenkot'a verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-herzog-hukumeti-kurma-gorevini-muhalefet-lideri-eisenkota-verdi/4116189",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T15:53:58+00:00",
+   "url": "/haber/israil-cumhurbaskani-herzog-hukumeti-kurma-gorevini-muhalefet-lideri-e-edd051d5/"
+  },
+  {
+   "id": "e78554db",
+   "title": "Sons of Sparta PS4'e de geliyor olabilir",
+   "summary": "God of War: Sons of Sparta için PS4 ihtimali güçlendi. PlayStation veritabanında görülen yeni kayıt, 2D oyunun eski nesil konsola da gelebileceğini gösteriyor.",
+   "link": "https://shiftdelete.net/sons-of-sparta-ps4-surumu-veritabaninda-goruldu",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/sons-of-sparta-kapak-0811.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-08T15:47:00+00:00",
+   "url": "/haber/sons-of-sparta-ps4-e-de-geliyor-olabilir-e78554db/"
+  },
+  {
+   "id": "5950fb7f",
+   "title": "Türkiye ve Irak'tan ortak açıklama: TSK'nın Başika üssünden çekilme süreci başlayacak",
+   "summary": "Türkiye Cumhuriyeti ve Irak Cumhuriyeti ortak bir açıklama yaparak, eylül sonunda karar verildiği üzere Başika üssünün Irak güçlerine devredilmesi sürecinin başlatılacağını duyurdu.",
+   "link": "https://www.bbc.com/turkce/articles/cxnv04p1dvgpo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f48/live/154e2670-b800-11f1-97e1-83bf52ec4acd.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-08T15:42:33+00:00",
+   "url": "/haber/turkiye-ve-irak-tan-ortak-aciklama-tsk-nin-basika-ussunden-cekilme-sur-5950fb7f/"
+  },
+  {
+   "id": "10a21f4b",
+   "title": "Türkiye ve Irak'tan ortak açıklama. ''Başika-Zilikan'ın devri için adım atılacak''",
+   "summary": "Türkiye ve Irak'ın ortak açıklamasında Türkiye'nin Başika-Zilikan askeri yerleşkesini Irak hükümetine kademeli olarak devretmek üzere adım atmaya başlayacağı bildirildi.",
+   "link": "https://www.ntv.com.tr/turkiye/turkiye-ve-iraktan-ortak-aciklama-basika-zilikanin-devri-icin-adim-atilacak-1749996",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_5d3800ee9635ea7062ffccb0bf3e501b_20261108150403-795480.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-08T15:41:46+00:00",
+   "url": "/haber/turkiye-ve-irak-tan-ortak-aciklama-basika-zilikan-in-devri-icin-adim-a-10a21f4b/"
+  },
   {
    "id": "df396882",
    "title": "OpenAI, 1,25 trilyon dolar değerlemeye ulaştı, 11 milyar dolar topladı",
@@ -55,17 +110,6 @@
    "category": "teknoloji",
    "date": "2026-11-08T15:15:23+00:00",
    "url": "/haber/cupra-fiyat-listesi-kasim-2026-2-755-100-tl-den-fa25505e/"
-  },
-  {
-   "id": "10a21f4b",
-   "title": "Türkiye ve Irak'tan ortak açıklama. ''Başika-Zilikan'ın devri için adım atılacak''",
-   "summary": "Türkiye ve Irak'ın ortak açıklamasında Türkiye'nin Başika-Zilikan askeri yerleşkesini Irak hükümetine kademeli olarak devretmek üzere adım atmaya başlayacağı bildirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/turkiye-ve-iraktan-ortak-aciklama-basika-zilikanin-devri-icin-adim-atilacak-1749996",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_5d3800ee9635ea7062ffccb0bf3e501b_20261108150403-795480.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-08T15:10:24+00:00",
-   "url": "/haber/turkiye-ve-irak-tan-ortak-aciklama-basika-zilikan-in-devri-icin-adim-a-10a21f4b/"
   },
   {
    "id": "37712c5a",
@@ -354,17 +398,6 @@
    "url": "/haber/harsit-zaferi-nin-109-yil-donumu-dolayisiyla-gumushane-de-anma-toreni-6a752875/"
   },
   {
-   "id": "34ba27ba",
-   "title": "Mısır'daki tren kazasında 4 kişi öldü, 88 kişi yaralandı",
-   "summary": "Mısır'ın Giza vilayetindeki Ayat kentinde meydana gelen tren kazasında 4 kişi öldü, 88 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/misirdaki-tren-kazasinda-4-kisi-oldu-88-kisi-yaralandi/4116058",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T13:19:48+00:00",
-   "url": "/haber/misir-daki-tren-kazasinda-4-kisi-oldu-88-kisi-yaralandi-34ba27ba/"
-  },
-  {
    "id": "d80272ef",
    "title": "OLED TV'lerde kenar çürümesi: 16 panelin 14'ü",
    "summary": "RTINGS'in dayanıklılık testinde WOLED panelli 16 televizyonun 14'ünde ekran kenarlarında bozulma görüldü. OLED TV kenar çürümesi QD-OLED modellerde ortaya çıkmadı.",
@@ -473,17 +506,6 @@
    "category": "teknoloji",
    "date": "2026-11-08T12:32:00+00:00",
    "url": "/haber/gta-6-basarim-listesi-55-basarim-ve-kupa-4afa6e2d/"
-  },
-  {
-   "id": "4a6c719d",
-   "title": "Toyota Fiyat Listesi Kasım 2026: 1.965.000 TL'den",
-   "summary": "Yaris Hybrid 2.100.000 TL ve C-HR Hybrid 2.290.000 TL'den başlıyor. En uygun ticari 1.216.000 TL; kampanyalı fiyatlar stoklarla sınırlı. Bayiden teyit edin.",
-   "link": "https://shiftdelete.net/toyota-fiyat-listesi",
-   "image": "/static/img/content/26-11/08/toyota-fiyat-listesi-kasim-2026.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-08T12:21:56+00:00",
-   "url": "/haber/toyota-fiyat-listesi-kasim-2026-1-965-000-tl-den-4a6c719d/"
   },
   {
    "id": "9b568a2b",
@@ -715,17 +737,6 @@
    "category": "gundem",
    "date": "2026-11-08T08:39:55+00:00",
    "url": "/haber/akrobatik-hareketler-yapip-havai-fisek-patlatti-271-bin-lira-ceza-yedi-8079d83f/"
-  },
-  {
-   "id": "63e2a864",
-   "title": "Xbox Game Pass'e gelecek yeni oyunlar açıklandı: FM27 ve dahası",
-   "summary": "Kasım ayının ilk yarısında Xbox Game Pass'e eklenecek yeni oyunlar. Listede FM27, Void/Breaker ve Thronefall gibi yapımlar yer alıyor. İşte liste ve tarihler...",
-   "link": "https://www.donanimhaber.com/xbox-game-pass-e-gelecek-yeni-oyunlar-aciklandi-fm27-ve-dahasi--212625",
-   "image": "https://www.donanimhaber.com/images/images/haber/212625/1200x675xbox-game-pass-e-gelecek-yeni-oyunlar-aciklandi-fm27-ve-dahasi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-08T08:30:00+00:00",
-   "url": "/haber/xbox-game-pass-e-gelecek-yeni-oyunlar-aciklandi-fm27-ve-dahasi-63e2a864/"
   },
   {
    "id": "1d797b24",
@@ -1067,17 +1078,6 @@
    "category": "gundem",
    "date": "2026-11-06T16:33:11+00:00",
    "url": "/haber/teknoloji-hisseleri-trilyonlarca-dolarlik-kaybin-ardindan-toparlaniyor-647bc87e/"
-  },
-  {
-   "id": "8264f015",
-   "title": "AB'nin stratejik uyum talebi Türkiye için yeni bir engel olur mu?",
-   "summary": "Avrupa Birliği'nin açıkladığı son genişleme belgeleri stratejik uyum şartının birliğe üyelik için giderek öne çıkmaya başladığını gösteriyor. Bu uyumun Türkiye'yi çok yakından ilgilendiren konularda da aranacağına dair…",
-   "link": "https://www.bbc.com/turkce/articles/c64g11lx8jyzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7727/live/cb7aa230-d9f6-11f1-84c1-dbcae60402d7.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-06T15:30:08+00:00",
-   "url": "/haber/ab-nin-stratejik-uyum-talebi-turkiye-icin-yeni-bir-engel-olur-mu-8264f015/"
   },
   {
    "id": "86a53aad",
