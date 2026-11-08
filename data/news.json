@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T13:01:00.750015+00:00",
+ "updated": "2026-11-08T13:15:06.969855+00:00",
  "items": [
+  {
+   "id": "89b00452",
+   "title": "Emine Erdoğan, Karabağ Zaferi'nin 6. yılını kutladı",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Azerbaycan'ın 8 Kasım Zafer Günü'nü kutladı, zafer uğruna canlarını feda eden Azerbaycan'ın tüm kahramanlarını rahmet ve minnetle andı.",
+   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-karabag-zaferinin-6-yilini-kutladi/4116054",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T13:10:40+00:00",
+   "url": "/haber/emine-erdogan-karabag-zaferi-nin-6-yilini-kutladi-89b00452/"
+  },
+  {
+   "id": "11cad7dc",
+   "title": "Fiat Fiyat Listesi Kasım 2026: 579.900 TL'den",
+   "summary": "En uygun klasik binek Egea Sedan nakit 1.449.900 TL'den başlıyor. Topolino mikro mobilite; Grande Panda'da standart liste fiyatı görünmüyor. Bayiden teyit edin.",
+   "link": "https://shiftdelete.net/fiat-fiyat-listesi",
+   "image": "/static/img/content/26-11/08/fiat-fiyat-listesi-kasim-2026.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-08T13:08:17+00:00",
+   "url": "/haber/fiat-fiyat-listesi-kasim-2026-579-900-tl-den-11cad7dc/"
+  },
+  {
+   "id": "4b625b7a",
+   "title": "CATL'den 2000 km menzilli lityum-hava batarya",
+   "summary": "CATL lityum-hava bataryası, elektrikli otomobillere 2000 km'ye kadar menzil vaat eden uzun vadeli bir araştırma alanı olarak öne çıkıyor. Şirketin seri üretim planı ise yok.",
+   "link": "https://shiftdelete.net/catl-lityum-hava-bataryasi-2000-km-menzil",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/e82c52e82abcb6084e02f5c874e81eb9ec1851fe.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-08T13:02:00+00:00",
+   "url": "/haber/catl-den-2000-km-menzilli-lityum-hava-batarya-4b625b7a/"
+  },
   {
    "id": "260052a5",
    "title": "Apple, iPhone 20'de Action Button'u kaldırabilir",
@@ -332,26 +365,15 @@
    "url": "/haber/tesla-optimus-satilmayacak-kiralanacak-ea32fd1b/"
   },
   {
-   "id": "144658e2",
-   "title": "Türkiye'den Polonya'daki terör saldırısında hayatını kaybedenler için taziye mesajı",
-   "summary": "Dışişleri Bakanlığı, Polonya'nın Krakov şehrinde düzenlenen terör saldırısında hayatını kaybedenler için taziye mesajı yayımladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-polonyadaki-teror-saldirisinda-hayatini-kaybedenler-icin-taziye-mesaji/4115880",
+   "id": "2fcc5ccb",
+   "title": "AFAD'dan COP31'de yapılacak etkinliklere ilişkin açıklama",
+   "summary": "AFAD, 9-20 Kasım'da Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) afet risklerinin azaltılması ve iklim değişikliğine uyum konularında çeşitli…",
+   "link": "https://www.aa.com.tr/tr/gundem/afaddan-cop31de-yapilacak-etkinliklere-iliskin-aciklama/4115881",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-08T11:08:56+00:00",
-   "url": "/haber/turkiye-den-polonya-daki-teror-saldirisinda-hayatini-kaybedenler-icin-144658e2/"
-  },
-  {
-   "id": "daad8530",
-   "title": "İran Devrim Muhafızlarından Hürmüz Boğazı'nda mayınlar bekliyor uyarısı",
-   "summary": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, Hürmüz Boğazı'nda \"mayınların beklediği\" uyarısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlarindan-hurmuz-bogazinda-mayinlar-bekliyor-uyarisi/4115879",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T11:08:46+00:00",
-   "url": "/haber/iran-devrim-muhafizlarindan-hurmuz-bogazi-nda-mayinlar-bekliyor-uyaris-daad8530/"
+   "date": "2026-11-08T11:14:33+00:00",
+   "url": "/haber/afad-dan-cop31-de-yapilacak-etkinliklere-iliskin-aciklama-2fcc5ccb/"
   },
   {
    "id": "aa2eaad5",
@@ -363,6 +385,17 @@
    "category": "gundem",
    "date": "2026-11-08T11:07:04+00:00",
    "url": "/haber/direksiyon-hakimiyetini-kaybetti-takla-atti-aa2eaad5/"
+  },
+  {
+   "id": "c09116fb",
+   "title": "COP31 süresince Antalya'da trafik denetimleri üst seviyeye çıkartılacak",
+   "summary": "Antalya'da gerçekleştirilecek COP31'e katılan çok sayıda devlet ve hükümet başkanı ile üst düzey konuğun güvenli ve hızlı ulaşımını sağlamak amacıyla trafik denetimleri üst seviyede olacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-suresince-antalyada-trafik-denetimleri-ust-seviyeye-cikartilacak/4115876",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T11:04:48+00:00",
+   "url": "/haber/cop31-suresince-antalya-da-trafik-denetimleri-ust-seviyeye-cikartilaca-c09116fb/"
   },
   {
    "id": "bb1e141d",
@@ -409,17 +442,6 @@
    "url": "/haber/cumhurbaskani-erdogan-azerbaycan-la-gonul-birligimiz-sonmez-bir-mesale-53b24961/"
   },
   {
-   "id": "c450691d",
-   "title": "Azerbaycan'da Karabağ Zaferi'nin 6. yıl dönümü kutlanıyor",
-   "summary": "Azerbaycan'da 2. Karabağ Savaşı'nda elde edilen zaferin 6. yıl dönümü dolayısıyla 8 Kasım Zafer Günü çeşitli etkinliklerle kutlanıyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/azerbaycanda-karabag-zaferinin-6-yil-donumu-kutlaniyor/4115858",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T10:38:30+00:00",
-   "url": "/haber/azerbaycan-da-karabag-zaferi-nin-6-yil-donumu-kutlaniyor-c450691d/"
-  },
-  {
    "id": "bf1bbc66",
    "title": "11 milyon dolarlık Nvidia yongası çalındı",
    "summary": "ABD’de sunucular için sipariş verilen yaklaşık 11 milyon dolarlık 6 palet Nvidia donanımı teslim alınıp bilinmeyen bir yere nakledildi. Hırsızlık 15 gün sonra fark edildi.",
@@ -453,17 +475,6 @@
    "url": "/haber/aselsan-tum-enerjisini-gunesten-karsilayacak-59f7d318/"
   },
   {
-   "id": "97d5d300",
-   "title": "The Legend of Zelda: Ocarina of Time kaç yıldır geliştiriliyor?",
-   "summary": "Eiji Aonuma, Ocarina of Time Remake'in geliştirmesinin Tears of the Kingdom'dan sonra başladığını anlattı. Ancak projenin ne zaman başladığını kendisi de bilmiyor.",
-   "link": "https://shiftdelete.net/ocarina-of-time-yapim-sureci-aonuma",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/9e780647d1aaeb130ab2ac0f7548836783397e49.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-08T10:00:00+00:00",
-   "url": "/haber/the-legend-of-zelda-ocarina-of-time-kac-yildir-gelistiriliyor-97d5d300/"
-  },
-  {
    "id": "2af88cf4",
    "title": "Çin'in elektrikli Rolls-Royce'u tanıtıldı: 1.000 km menzil ve ihtişamlı tasarım",
    "summary": "BYD'nin ultra lüks markası Yangwang, yeni amiral gemisi elektrikli sedan modelini tanıttı. Rolls-Royce çizgilerini Çin zanaatıyla buluşturan araç yüksek menzili ve lüks detaylarıyla dikkat çekiyor.",
@@ -484,17 +495,6 @@
    "category": "gundem",
    "date": "2026-11-08T09:57:38+00:00",
    "url": "/haber/beslenmeniz-cildinizin-yaslanmasina-neden-olabilir-mi-43546b07/"
-  },
-  {
-   "id": "16daa660",
-   "title": "Galaxy S27 Pro ve Ultra Snapdragon ile gelebilir",
-   "summary": "Galaxy S27 Pro ve S27 Ultra'nın Güney Kore'de Snapdragon ile satılacağı iddia ediliyor. Exynos 2700 testlerde öne çıksa da karar maliyete bağlanıyor.",
-   "link": "https://shiftdelete.net/galaxy-s27-ultra-snapdragon-kore",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/galaxy-s27-pro-snapdragon-kapak-0811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-08T09:45:00+00:00",
-   "url": "/haber/galaxy-s27-pro-ve-ultra-snapdragon-ile-gelebilir-16daa660/"
   },
   {
    "id": "a40add43",
