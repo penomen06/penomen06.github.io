@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T21:30:54.784335+00:00",
+ "updated": "2026-11-08T22:01:02.809082+00:00",
  "items": [
   {
    "id": "1bdf9c40",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-08T21:30:00+00:00",
+   "date": "2026-11-08T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-1bdf9c40/"
+  },
+  {
+   "id": "41336f0f",
+   "title": "Nvidia şirketi, CEO'sunun casus olduğundan şüphelenilen Çinli biriyle ilişkisini soruşturuyor",
+   "summary": "ABD'li teknoloji devi Nvidia, CEO'su Jensen Huang hakkında bağımsız bir soruşturma başlattı. Huang'la ilgili geçtiğimiz günlerde, casus olduğundan şüphelenilen Çinli biriyle ilişkisi olduğuna dair haberler çıkmıştı.",
+   "link": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-08T21:53:45+00:00",
+   "url": "/haber/nvidia-sirketi-ceo-sunun-casus-oldugundan-suphelenilen-cinli-biriyle-i-41336f0f/"
   },
   {
    "id": "9996a778",
@@ -55,6 +66,17 @@
    "category": "teknoloji",
    "date": "2026-11-08T20:50:42+00:00",
    "url": "/haber/stephen-king-uyarlamasi-1408-e-yillar-sonra-bir-devam-filmi-cekiliyor-aa7ca125/"
+  },
+  {
+   "id": "d897be88",
+   "title": "14. Boğaziçi Film Festivali törenle başladı",
+   "summary": "Boğaziçi Kültür Sanat Vakfı tarafından Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğünün desteğiyle düzenlenen ve Anadolu Ajansının (AA) Global İletişim Ortağı olduğu 14. Boğaziçi Film Festivali, Atlas Sineması'nda…",
+   "link": "https://www.aa.com.tr/tr/kultur/14-bogazici-film-festivali-torenle-basladi/4116342",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T20:50:01+00:00",
+   "url": "/haber/14-bogazici-film-festivali-torenle-basladi-d897be88/"
   },
   {
    "id": "2660c473",
@@ -253,17 +275,6 @@
    "category": "gundem",
    "date": "2026-11-08T18:54:34+00:00",
    "url": "/haber/super-loto-cekilis-sonuclari-belli-oldu-8-kasim-2026-mpi-super-loto-ka-2aec6aaa/"
-  },
-  {
-   "id": "f7ea222e",
-   "title": "Amsterdam’da dördüncü “Kırmızı Çizgi” gösterisine 200 binden fazla kişi katıldı",
-   "summary": "Hollanda’nın başkenti Amsterdam’da Gazze’ye destek amacıyla düzenlenen dördüncü “Kırmızı Çizgi” gösterisinde toplanan 200 binden fazla kişi, hükümetin İsrail yanlısı politikasına tepki gösterdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/amsterdam-da-dorduncu-kirmizi-cizgi-gosterisine-200-binden-fazla-kisi-katildi/4116280",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T18:53:19+00:00",
-   "url": "/haber/amsterdam-da-dorduncu-kirmizi-cizgi-gosterisine-200-binden-fazla-kisi-f7ea222e/"
   },
   {
    "id": "e07c0d6a",
@@ -1045,17 +1056,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T03:01:40+00:00",
    "url": "/haber/epic-games-bir-oyunu-daha-ucretsiz-sunuyor-hizli-aksiyon-ve-arcade-sev-fb35a922/"
-  },
-  {
-   "id": "2233cccc",
-   "title": "Donald Trump, Beyaz Saray Genel Sekreterini değiştirdi",
-   "summary": "ABD Başkanı Donald Trump, ABD ara seçimlerinde yaşanan tarihi kayıpların ardından, sert göçmenlik siyasetinin mimarı Stephen Miller'ı yeni Beyaz Saray Genel Sekreteri olarak atadı. Cumhuriyetçilerin Kongre'yi…",
-   "link": "https://www.bbc.com/turkce/articles/cwp9ggvdg7rdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f45c/live/b31258a0-da32-11f1-9fbd-45a32d24ae34.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-06T22:41:33+00:00",
-   "url": "/haber/donald-trump-beyaz-saray-genel-sekreterini-degistirdi-2233cccc/"
   },
   {
    "id": "647bc87e",
