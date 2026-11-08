@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T22:30:54.224151+00:00",
+ "updated": "2026-11-08T23:01:03.289386+00:00",
  "items": [
   {
    "id": "1bdf9c40",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-08T22:30:00+00:00",
+   "date": "2026-11-08T23:00:01+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-1bdf9c40/"
   },
   {
@@ -66,6 +66,17 @@
    "category": "gundem",
    "date": "2026-11-08T21:31:24+00:00",
    "url": "/haber/nvidia-ceo-su-huang-in-yabanci-istihbaratin-hedefi-oldugu-haberleri-uz-b85a398d/"
+  },
+  {
+   "id": "5607c4ae",
+   "title": "Ankara'ya 247 kilometrelik akıllı ulaşım koridoru kuruluyor",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, toplam 247 kilometrelik akıllı ulaşım sistemi koridoru oluşturulmasına yönelik proje çalışmalarına devam ettiklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor/4116352",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T21:14:42+00:00",
+   "url": "/haber/ankara-ya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor-5607c4ae/"
   },
   {
    "id": "3bdd7d0f",
@@ -231,17 +242,6 @@
    "category": "gundem",
    "date": "2026-11-08T20:02:11+00:00",
    "url": "/haber/abd-baskani-trump-in-gazze-baris-plani-nin-uygulanmasinda-kararli-oldu-ed9569ed/"
-  },
-  {
-   "id": "9ad00db7",
-   "title": "İran basını: Keşm Adası'nda dört patlama sesi duyuldu",
-   "summary": "İran'ın güneyinde Hürmüz Boğazı'na yakın Keşm Adası'nda dört patlama sesinin duyulduğu bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasinda-dort-patlama-sesi-duyuldu/4116313",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T19:56:11+00:00",
-   "url": "/haber/iran-basini-kesm-adasi-nda-dort-patlama-sesi-duyuldu-9ad00db7/"
   },
   {
    "id": "19fb60d0",
