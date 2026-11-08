@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T02:01:05.264798+00:00",
+ "updated": "2026-11-08T02:30:54.112877+00:00",
  "items": [
   {
    "id": "a660ad76",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-08T02:00:00+00:00",
+   "date": "2026-11-08T02:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a660ad76/"
+  },
+  {
+   "id": "d54b0ae6",
+   "title": "21 il için kar ve fırtına uyarısı. Yoğun kar yağışı var",
+   "summary": "Ülkeye kış bu yıl her zamankinden daha erken geldi. Bazı noktalarda dün başlayan yoğun kar yağışı bugün de birçok ilde devam ediyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-21-il-icin-kar-ve-firtina-uyarisi-yogun-kar-yagisi-var-1749889",
+   "image": "https://images.ntv.com.tr/images/AA-20261107-42993441-42993438-KASTAMONUNUN_YUKSEK_KESIMLERINDE_KAR_YAGISI_ETKILI_OLUYOR-981200.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-08T02:15:56+00:00",
+   "url": "/haber/21-il-icin-kar-ve-firtina-uyarisi-yogun-kar-yagisi-var-d54b0ae6/"
+  },
+  {
+   "id": "d8e767f3",
+   "title": "Suudi Arabistan'ın Dammam, Ahsa ve Bukayk kentlerinde erken uyarı sistemi devreye alındı",
+   "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, Dammam, Ahsa ve Bukayk kentlerinde erken uyarı sisteminin tehlike alarmı verdiğini, daha sonra tehlikenin geçtiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-dammam-ahsa-ve-bukayk-kentlerinde-erken-uyari-sistemi-devreye-alindi/4115621",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T02:12:31+00:00",
+   "url": "/haber/suudi-arabistan-in-dammam-ahsa-ve-bukayk-kentlerinde-erken-uyari-siste-d8e767f3/"
   },
   {
    "id": "9d826959",
@@ -143,17 +165,6 @@
    "category": "gundem",
    "date": "2026-11-07T22:20:50+00:00",
    "url": "/haber/arda-guler-in-gol-attigi-macta-real-madrid-valencia-yi-3-0-yendi-a0081295/"
-  },
-  {
-   "id": "86fad91a",
-   "title": "İsrail'den Batı Şeria’da 15 dönümlük araziyi hedef alan 4 askeri emir",
-   "summary": "Filistin Kurtuluş Örgütü'ne bağlı Ayrım (Utanç) Duvarı ve Yahudi Yerleşim Birimleriyle Mücadele Heyeti, İsrail makamlarının Batı Şeria'nın Beytüllahim kentinde yaklaşık 15 dönümlük araziye el konulmasını öngören 4…",
-   "link": "https://www.aa.com.tr/tr/dunya/israilden-bati-seria-da-15-donumluk-araziyi-hedef-alan-4-askeri-emir/4115583",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-07T21:13:46+00:00",
-   "url": "/haber/israil-den-bati-seria-da-15-donumluk-araziyi-hedef-alan-4-askeri-emir-86fad91a/"
   },
   {
    "id": "08ad45cc",
@@ -748,17 +759,6 @@
    "category": "gundem",
    "date": "2026-11-07T12:01:32+00:00",
    "url": "/haber/abd-de-sorgusuz-sualsiz-israil-e-destek-donemi-sona-mi-geliyor-abe329a2/"
-  },
-  {
-   "id": "d065c84e",
-   "title": "Emine Erdoğan'dan sanat mesaj",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, kadınların sanatın ve zanaatın atan kalbi olduğunu söyledi.",
-   "link": "https://www.ntv.com.tr/turkiye/emine-erdogandan-sanat-mesaj-1749826",
-   "image": "https://images.ntv.com.tr/images/AA-20261106-42986866-42986839-EMINE_ERDOGAN_ZANAATKAR_KADINLAR_TURKIYE81_IL_81_KADIN_81_HIKAYE_PROGRAMINDA_KONUSTU-840154(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-07T11:08:29+00:00",
-   "url": "/haber/emine-erdogan-dan-sanat-mesaj-d065c84e/"
   },
   {
    "id": "b759a147",
