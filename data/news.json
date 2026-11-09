@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T00:01:01.669239+00:00",
+ "updated": "2026-11-09T00:30:53.888890+00:00",
  "items": [
   {
    "id": "1bdf9c40",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-09T00:00:01+00:00",
+   "date": "2026-11-09T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-1bdf9c40/"
+  },
+  {
+   "id": "3110d56b",
+   "title": "Fon krizinde şimdiye kadar neler oldu, ne kadar ödeme yapıldı?",
+   "summary": "Eylül ayında Borsa İstanbul'da sert düşüşlere yol açan fon krizi gündemdeki yerini koruyor. Peki, krizin patlak vermesinden bu yana hangi gelişmeler yaşandı?",
+   "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95d7/live/f93ca920-c56f-11f1-bc2e-018d645d8d21.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-09T00:26:11+00:00",
+   "url": "/haber/fon-krizinde-simdiye-kadar-neler-oldu-ne-kadar-odeme-yapildi-3110d56b/"
+  },
+  {
+   "id": "322ecf08",
+   "title": "Yemen'deki Husiler: Suudi Arabistan'ın Sana'ya düzenlediği saldırılarda ölü sayısı 44’e yükseldi",
+   "summary": "Yemen'de İran destekli Husiler, ülkenin başkenti Sana'ya Suudi Arabistan'ın düzenlediği saldırılarda ölü sayısının 44’e, yaralı sayısının 40’a yükseldiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-olu-sayisi-44-e-yukseldi/4116389",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T00:01:12+00:00",
+   "url": "/haber/yemen-deki-husiler-suudi-arabistan-in-sana-ya-duzenledigi-saldirilarda-322ecf08/"
+  },
+  {
+   "id": "0977d878",
+   "title": "İsrail ordusu Lübnan'ın güneyinde evleri yıkmayı ve bombardımanı sürdürüyor",
+   "summary": "İsrail ordusu, Lübnan'ın güneyindeki beldelerde topçu atışlarını ve ev yıkımlarını sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyinde-evleri-yikmayi-ve-bombardimani-surduruyor/4116387",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T23:14:45+00:00",
+   "url": "/haber/israil-ordusu-lubnan-in-guneyinde-evleri-yikmayi-ve-bombardimani-surdu-0977d878/"
   },
   {
    "id": "872093bc",
@@ -244,17 +277,6 @@
    "url": "/haber/abd-baskani-trump-in-gazze-baris-plani-nin-uygulanmasinda-kararli-oldu-ed9569ed/"
   },
   {
-   "id": "19fb60d0",
-   "title": "Yemen ordusu: Husilere yönelik 992 operasyonda 267 milis öldü veya yaralandı",
-   "summary": "Yemen ordusunun, ülkenin farklı vilayetlerinde İran destekli Husilere yönelik düzenlediği 992 operasyonda 267 milisin öldüğü veya yaralandığı belirtildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemen-ordusu-husilere-yonelik-992-operasyonda-267-milis-oldu-veya-yaralandi-/4116311",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T19:53:34+00:00",
-   "url": "/haber/yemen-ordusu-husilere-yonelik-992-operasyonda-267-milis-oldu-veya-yara-19fb60d0/"
-  },
-  {
    "id": "0862c4cd",
    "title": "Konya Tropikal Kelebek Bahçesi, COP31'de yerini aldı",
    "summary": "Konya Tropikal Kelebek Bahçesi'nin birebir aynısı, Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilecek COP31 İklim Zirvesi'nde dünyanın farklı ülkelerinden ziyaretçi ağırlayacak.",
@@ -275,17 +297,6 @@
    "category": "teknoloji",
    "date": "2026-11-08T19:00:00+00:00",
    "url": "/haber/cin-in-100-yerli-ilk-masaustu-bilgisayari-qingyun-hm650-bd8f8651/"
-  },
-  {
-   "id": "ef94fbb8",
-   "title": "Beşiktaş, sahasından galibiyetle ayrıldı",
-   "summary": "Beşiktaş, Trendyol Süper Lig'in 11. haftasında konuk ettiği Gençlerbirliği'ni 3-0 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-sahasindan-galibiyetle-ayrildi/4116284",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T18:57:36+00:00",
-   "url": "/haber/besiktas-sahasindan-galibiyetle-ayrildi-ef94fbb8/"
   },
   {
    "id": "2aec6aaa",
@@ -891,17 +902,6 @@
    "category": "gundem",
    "date": "2026-11-07T17:30:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-66acaed8/"
-  },
-  {
-   "id": "3110d56b",
-   "title": "Fon krizinde şimdiye kadar neler oldu, ne kadar ödeme yapıldı?",
-   "summary": "Eylül ayında Borsa İstanbul'da sert düşüşlere yol açan fon krizi gündemdeki yerini koruyor. Peki, krizin patlak vermesinden bu yana hangi gelişmeler yaşandı?",
-   "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95d7/live/f93ca920-c56f-11f1-bc2e-018d645d8d21.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-07T17:10:06+00:00",
-   "url": "/haber/fon-krizinde-simdiye-kadar-neler-oldu-ne-kadar-odeme-yapildi-3110d56b/"
   },
   {
    "id": "b078c12f",
