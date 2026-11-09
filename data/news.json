@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:01:04.377949+00:00",
+ "updated": "2026-11-09T22:30:54.825511+00:00",
  "items": [
   {
    "id": "eafb2d73",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-09T22:00:01+00:00",
+   "date": "2026-11-09T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-eafb2d73/"
+  },
+  {
+   "id": "4933e083",
+   "title": "Cumhurbaşkanı Erdoğan: Süreci dikkatle ilerletiyoruz",
+   "summary": "Cumhurbaşkanı Erdoğan, Terörsüz Türkiye süreciyle ilgili ''Büyük ve güçlü Türkiye ülkümüzün lokomotifi olan bu stratejik projeyi başarıyla sonuçlandırmakta kararlıyız.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-sureci-dikkatle-ilerletiyoruz-1750157",
+   "image": "https://images.ntv.com.tr/images/erdogan1-464540.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-09T22:13:41+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-sureci-dikkatle-ilerletiyoruz-4933e083/"
   },
   {
    "id": "41c3cdc7",
@@ -682,17 +693,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T16:47:00+00:00",
    "url": "/haber/byd-nin-hollanda-ofislerine-baskin-land-rover-dan-kopyalama-suclamasi-68897b8a/"
-  },
-  {
-   "id": "4933e083",
-   "title": "Cumhurbaşkanı Erdoğan: Süreci dikkatle ilerletiyoruz",
-   "summary": "Cumhurbaşkanı Erdoğan, Terörsüz Türkiye süreciyle ilgili ''Büyük ve güçlü Türkiye ülkümüzün lokomotifi olan bu stratejik projeyi başarıyla sonuçlandırmakta kararlıyız.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-sureci-dikkatle-ilerletiyoruz-1750157",
-   "image": "https://images.ntv.com.tr/images/erdogan1-464540.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-09T16:37:33+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-sureci-dikkatle-ilerletiyoruz-4933e083/"
   },
   {
    "id": "7a04648f",
