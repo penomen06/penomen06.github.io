@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-09T17:30:55.642468+00:00",
+ "updated": "2026-11-09T18:01:04.874857+00:00",
  "items": [
+  {
+   "id": "93dec6c6",
+   "title": "Nvidia hisseleri casusluk skandalıyla %5 düştü",
+   "summary": "Nvidia hisseleri, CEO Jensen Huang hakkındaki yabancı istihbarat iddiaları nedeniyle işlem öncesinde yaklaşık %5 geriledi. Yönetim kurulu bağımsız soruşturma başlattı.",
+   "link": "https://shiftdelete.net/nvidia-hisseleri-casusluk-skandali-dustu",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/1bb2e9e78e5fcc5f4a6fab25237c7efc6b0d7f47.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-09T18:00:00+00:00",
+   "url": "/haber/nvidia-hisseleri-casusluk-skandaliyla-5-dustu-93dec6c6/"
+  },
+  {
+   "id": "29125415",
+   "title": "Yeni Parti'de yönetim yapısı nasıl değişiyor?",
+   "summary": "Yeni Parti, 14-15 Kasım'da yapılacak ilk olağan kurultayında parti yönetimini genişletme kararı aldı. Kurucular Kurulu kararıyla, kurultayda seçilecek Parti Meclisi'nin (PM) üye sayısı 80'den 150'ye çıkarıldı. PM'nin…",
+   "link": "https://www.bbc.com/turkce/articles/c65yny8m1kzyo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d27c/live/c2c4dab0-dc63-11f1-8fe6-5becaee5408f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-09T17:59:35+00:00",
+   "url": "/haber/yeni-parti-de-yonetim-yapisi-nasil-degisiyor-29125415/"
+  },
+  {
+   "id": "d2a80afb",
+   "title": "Fransa Dışişleri Bakanı Barrot: (Marketlere) siber saldırının sorumluluğu İran Devrim Muhafızları'na ait",
+   "summary": "Fransa Dışişleri Bakanı Jean-Noel Barrot, ekimde Fransa'da yüzlerce market zincirini hedef alan siber saldırının sorumlusunun İran Devrim Muhafızları Ordusu olduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransa-disisleri-bakani-barrot-marketlere-siber-saldirinin-sorumlulugu-iran-devrim-muhafizlarina-ait/4117829",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T17:55:02+00:00",
+   "url": "/haber/fransa-disisleri-bakani-barrot-marketlere-siber-saldirinin-sorumlulugu-d2a80afb/"
+  },
+  {
+   "id": "1a2f1ff6",
+   "title": "Çinli bilim insanlarından tarihi başarı: Uzayda mutlak sıfıra yaklaşıldı",
+   "summary": "Çinli araştırmacılar, Tiangong Uzay İstasyonu'nda rubidyum atomlarını 9,7 pikokelvine kadar soğutarak uzayda şimdiye kadar ulaşılan en düşük sıcaklık rekorunu kırdı.",
+   "link": "https://www.donanimhaber.com/cin-uzayda-en-dusuk-sicaklik-rekorunu-kirdi--212687",
+   "image": "https://www.donanimhaber.com/images/images/haber/212687/1200x675cin-uzayda-en-dusuk-sicaklik-rekorunu-kirdi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-09T17:53:00+00:00",
+   "url": "/haber/cinli-bilim-insanlarindan-tarihi-basari-uzayda-mutlak-sifira-yaklasild-1a2f1ff6/"
+  },
+  {
+   "id": "8ae5a568",
+   "title": "İran Meclis Başkanı Kalibaf: İsrail, ABD'yi İran'la sonu olmayan bir savaşa sürüklemeye çalışıyor",
+   "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, İsrail'in ABD'yi İran ile sonu gelmeyen bir savaşa çekmeye çalıştığını belirterek, Washington yönetimine \"İsrail önce gelir\" politikasını terk etme çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-israil-abdyi-iranla-sonu-olmayan-bir-savasa-suruklemeye-calisiyor/4117825",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T17:52:54+00:00",
+   "url": "/haber/iran-meclis-baskani-kalibaf-israil-abd-yi-iran-la-sonu-olmayan-bir-sav-8ae5a568/"
+  },
+  {
+   "id": "22f442e8",
+   "title": "Cumhurbaşkanı Erdoğan, Nijer Cumhurbaşkanı Tchiani ile telefonda görüştü",
+   "summary": "",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-nijer-cumhurbaskani-tchiani-ile-telefonda-gorustu/4117824",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T17:51:21+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-nijer-cumhurbaskani-tchiani-ile-telefonda-gorust-22f442e8/"
+  },
+  {
+   "id": "22b868f4",
+   "title": "İzmir'de fabrikada patlama. Fotoğraflarla patlama bölgesinde son durum",
+   "summary": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında patlama sonrası yangın çıktı. Olayda 16 kişi hayatını kaybetti.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-izmirde-fabrikada-patlama-fotograflarla-patlama-bolgesinde-son-durum-1750150",
+   "image": "https://images.ntv.com.tr/iha/izmirpatlama-473524.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-09T17:47:24+00:00",
+   "url": "/haber/izmir-de-fabrikada-patlama-fotograflarla-patlama-bolgesinde-son-durum-22b868f4/"
+  },
+  {
+   "id": "9eff0b77",
+   "title": "Amazon'da Kasım indirimlerine ek 1.000 TL indirim kuponu!",
+   "summary": "Amazon, Gülümseten Kasım indirimlerine 1.000 TL'lik ek kupon fırsatı ekledi. 10.000 TL ve üzeri alışverişlerde geçerli kupon, kısa süreliğine ve sınırlı sayıda kullanılabiliyor.",
+   "link": "https://www.donanimhaber.com/amazon-da-indirimlere-ek-1-000-tl-indirim-kuponu--212692",
+   "image": "https://www.donanimhaber.com/images/images/haber/212692/1200x675amazon-da-indirimlere-ek-1-000-tl-indirim-kuponu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-09T17:46:22+00:00",
+   "url": "/haber/amazon-da-kasim-indirimlerine-ek-1-000-tl-indirim-kuponu-9eff0b77/"
+  },
+  {
+   "id": "f196991b",
+   "title": "Fitch, Binance saldırısının bitcoin piyasasının dayanıklılığına işaret ettiğini açıkladı",
+   "summary": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, kripto para borsası Binance'e yönelik siber saldırının ardından bitcoin fiyatında görülen sınırlı düşüşün, daha dayanıklı bir kripto piyasasına işaret ettiğini…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-binance-saldirisinin-bitcoin-piyasasinin-dayanikliligina-isaret-ettigini-acikladi/4117814",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T17:33:33+00:00",
+   "url": "/haber/fitch-binance-saldirisinin-bitcoin-piyasasinin-dayanikliligina-isaret-f196991b/"
+  },
+  {
+   "id": "ee96657c",
+   "title": "Geely’den elektrikli otomobil uyarısı: Batarya değişim maliyeti çok yüksek",
+   "summary": "Geely, elektrikli otomobillerde batarya ömrü sorununa dikkat çekti. Şirketin başkanı Eric Li, batarya değişim maliyetlerinin eski araçları ekonomik olmaktan çıkarabileceği uyarısında bulundu.",
+   "link": "https://www.donanimhaber.com/geely-den-elektrikli-otomobillerde-batarya-maliyeti-uyarisi--212682",
+   "image": "https://www.donanimhaber.com/images/images/haber/212682/1200x675geely-den-elektrikli-otomobillerde-batarya-maliyeti-uyarisi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-09T17:31:00+00:00",
+   "url": "/haber/geely-den-elektrikli-otomobil-uyarisi-batarya-degisim-maliyeti-cok-yuk-ee96657c/"
+  },
   {
    "id": "6f8a122f",
    "title": "Vivo 12.000 mAh bataryalı telefon geliyor",
@@ -22,6 +132,17 @@
    "category": "teknoloji",
    "date": "2026-11-09T17:17:12+00:00",
    "url": "/haber/alt-tire-nasil-yapilir-klavye-ve-telefonda-0d7f1f4f/"
+  },
+  {
+   "id": "64f89827",
+   "title": "Adalet Bakanı Gürlek: (Fon soruşturması) Şu an itibarıyla gönüllü iade hesabına 32,5 milyar lira ödeme yapıldı",
+   "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmaları kapsamında Tasarruf Mevduatı Sigorta Fonu (TMSF) bünyesinde oluşturulan \"gönüllü iade hesabı\"na şu ana kadar 32,5 milyar lira iade yapıldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-fon-sorusturmasi-su-an-itibariyla-gonullu-iade-hesabina-32-5-milyar-lira-odeme-yapildi/4117799",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T17:14:46+00:00",
+   "url": "/haber/adalet-bakani-gurlek-fon-sorusturmasi-su-an-itibariyla-gonullu-iade-he-64f89827/"
   },
   {
    "id": "7e11a933",
@@ -79,6 +200,17 @@
    "url": "/haber/suudi-arabistan-dogu-bati-petrol-boru-hatti-nin-hedef-alinmasi-sonucu-3b67c0d2/"
   },
   {
+   "id": "db780970",
+   "title": "MEB'in \"Türkiye İklim Okulu\" COP31'de kapılarını açtı",
+   "summary": "Milli Eğitim Bakanlığınca (MEB) Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında oluşturulan \"Türkiye İklim Okulu\" ziyaretçilere kapılarını açtı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mebin-turkiye-iklim-okulu-cop31de-kapilarini-acti/4117784",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T16:55:09+00:00",
+   "url": "/haber/meb-in-turkiye-iklim-okulu-cop31-de-kapilarini-acti-db780970/"
+  },
+  {
    "id": "f89c7181",
    "title": "İran, füze ve hava savunma sistemlerini Tahran'da sergiliyor",
    "summary": "İran, balistik ve hipersonik füzeler, insansız hava araçları (İHA), uydu taşıyıcı roketler ve hava savunma sistemlerinden oluşan askeri envanterini başkent Tahran'da sergiliyor.",
@@ -101,6 +233,17 @@
    "url": "/haber/byd-nin-hollanda-ofislerine-baskin-land-rover-dan-kopyalama-suclamasi-68897b8a/"
   },
   {
+   "id": "c248f8b5",
+   "title": "Türkiye ile Nijerya arasındaki diplomatik ilişkilerin 66. yılı kutlandı",
+   "summary": "Türkiye'nin Abuja Büyükelçisi Mehmet Poroy, Türkiye ile Nijerya arasındaki ilişkilerin 66 yıllık diplomatik geçmişe dayandığını belirterek, Nijerya'yı stratejik ortak olarak gördüklerini ve ilişkileri her alanda…",
+   "link": "https://www.aa.com.tr/tr/dunya/turkiye-ile-nijerya-arasindaki-diplomatik-iliskilerin-66-yili-kutlandi/4117754",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T16:46:57+00:00",
+   "url": "/haber/turkiye-ile-nijerya-arasindaki-diplomatik-iliskilerin-66-yili-kutlandi-c248f8b5/"
+  },
+  {
    "id": "74784445",
    "title": "Nvidia hisseleri, casusluk iddialarına ilişkin soruşturma kararı sonrası düşüşte",
    "summary": "ABD'li çip üreticisi Nvidia'nın, şirketin kurucusu ve Üst Yöneticisi (CEO) Jensen Huang'ın yabancı istihbarat faaliyetinin hedefi olduğuna ilişkin haberler üzerine bağımsız soruşturma başlatma kararının ardından…",
@@ -121,17 +264,6 @@
    "category": "gundem",
    "date": "2026-11-09T16:43:22+00:00",
    "url": "/haber/trt-ataturk-un-ebediyete-intikalinin-88-yilina-ozel-yayinlar-yapacak-a1385a7b/"
-  },
-  {
-   "id": "eb63df5b",
-   "title": "Trump, ABD'nin mevcut seçim sistemiyle ara seçimleri kazanmanın \"imkansız\" olduğunu belirtti",
-   "summary": "ABD Başkanı Donald Trump, Kongre ara seçimlerinde uygulanan seçim sistemini eleştirerek, bu şekilde seçim kazanmanın \"imkansız\" olduğunu ifade etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-abdnin-mevcut-secim-sistemiyle-ara-secimleri-kazanmanin-imkansiz-oldugunu-belirtti/4117724",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T16:40:25+00:00",
-   "url": "/haber/trump-abd-nin-mevcut-secim-sistemiyle-ara-secimleri-kazanmanin-imkansi-eb63df5b/"
   },
   {
    "id": "4933e083",
@@ -178,28 +310,6 @@
    "url": "/haber/galaxy-s24-guncellemesi-dagitilmaya-baslandi-19ea51c0/"
   },
   {
-   "id": "67f282f8",
-   "title": "Yemen'de hükümet güçleri ile Husiler arasındaki çatışmalar 6 vilayette tırmanıyor",
-   "summary": "Yemen'de ordu ile İran destekli Husiler arasında 6 vilayette devam eden çatışma ve hava saldırılarında, çok sayıda kişi hayatını kaybetti veya yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/-yemende-hukumet-gucleri-ile-husiler-arasindaki-catismalar-6-vilayette-tirmaniyor/4117658",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T16:28:30+00:00",
-   "url": "/haber/yemen-de-hukumet-gucleri-ile-husiler-arasindaki-catismalar-6-vilayette-67f282f8/"
-  },
-  {
-   "id": "bdc7d4b4",
-   "title": "Bakan Kurum: Mavi Bölge'de konuşulanları Yeşil Bölge'de pratiğe dökmek istiyoruz",
-   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum \"Mavi Bölge'de konuşulanları Yeşil Bölge'de pratiğe dökmek istiyoruz. Programımızda 203 kurumun düzenleyeceği oturumlar olacak.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-mavi-bolgede-konusulanlari-yesil-bolgede-pratige-dokmek-istiyoruz/4117648",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T16:26:22+00:00",
-   "url": "/haber/bakan-kurum-mavi-bolge-de-konusulanlari-yesil-bolge-de-pratige-dokmek-bdc7d4b4/"
-  },
-  {
    "id": "e1027e8a",
    "title": "DeepSeek’in AI ajan platformu günlük 1,54 milyon kullanıcıya ulaştı",
    "summary": "DeepSeek'in açık kaynaklı yapay zeka ajanı Harness, üç aydan kısa sürede 1,54 milyon günlük aktif kullanıcıya ulaştı. Platform günde 92 trilyon token tüketiyor.",
@@ -222,17 +332,6 @@
    "url": "/haber/gemini-mi-chatgpt-mi-hangisi-daha-iyi-2026-ab1dff64/"
   },
   {
-   "id": "3abfc892",
-   "title": "Çin, ABD'ye misilleme olarak getirdiği yüzde 24 ek tarifeyi 2 ay daha erteleyecek",
-   "summary": "Çin, ABD'ye misilleme olarak getirdiği yüzde 24'lük ek gümrük vergisini 2 ay daha erteleyeceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cin-abdye-misilleme-olarak-getirdigi-yuzde-24-ek-tarifeyi-2-ay-daha-erteleyecek/4117615",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T16:19:26+00:00",
-   "url": "/haber/cin-abd-ye-misilleme-olarak-getirdigi-yuzde-24-ek-tarifeyi-2-ay-daha-e-3abfc892/"
-  },
-  {
    "id": "21460020",
    "title": "TGTV Mütevelli Heyeti Başkanı Bilal Erdoğan, Siirt'te ziyaretlerde bulundu",
    "summary": "Türkiye Gönüllü Teşekküller Vakfı (TGTV) Mütevelli Heyeti Başkanı Bilal Erdoğan, Siirt'te ziyaretlerde bulundu.",
@@ -244,48 +343,15 @@
    "url": "/haber/tgtv-mutevelli-heyeti-baskani-bilal-erdogan-siirt-te-ziyaretlerde-bulu-21460020/"
   },
   {
-   "id": "ba9547f8",
-   "title": "Avro Bölgesi savunmada ortak alımları artırmayı planlıyor",
-   "summary": "Avro Grubu Başkanı Kiryakos Pierrakakis, Avrupa'nın artan savunma harcamalarını sürdürülebilir biçimde finanse edebilmesi için ortak alımları artırması ve daha fazla özel sermayeyi harekete geçirmesi gerektiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/avro-bolgesi-savunmada-ortak-alimlari-artirmayi-planliyor/4117600",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T16:14:20+00:00",
-   "url": "/haber/avro-bolgesi-savunmada-ortak-alimlari-artirmayi-planliyor-ba9547f8/"
-  },
-  {
    "id": "241d7238",
-   "title": "İzmir'de demir çelik fabrikasında patlama: Can kaybı 16'ya yükseldi",
+   "title": "İzmir'de demir çelik fabrikasında patlamada 16 kişi hayatını kaybetti",
    "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda meydana gelen patlamada can kaybı 16'ya yükseldi. Cumhurbaşkanı Erdoğan, patlamada ikisi ağır, 13 kişinin yaralandığını açıkladı.",
    "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b5c/live/323c78e0-dc59-11f1-93e1-3b657b665bcf.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/816d/live/a905bdb0-dc31-11f1-a701-fddedf244c16.png",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-09T16:11:33+00:00",
-   "url": "/haber/izmir-de-demir-celik-fabrikasinda-patlama-can-kaybi-16-ya-yukseldi-241d7238/"
-  },
-  {
-   "id": "ab89b563",
-   "title": "Meta, Instagram'da gençlere yönelik hesap korumalarını genişletiyor",
-   "summary": "ABD'li teknoloji şirketi Meta, yapay zeka destekli yaş tahmin teknolojisini küresel çapta genişleterek milyonlarca genci daha Instagram'daki \"Genç Hesabı\" korumalarına dahil edeceğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/meta-instagramda-genclere-yonelik-hesap-korumalarini-genisletiyor/4117589",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T16:08:56+00:00",
-   "url": "/haber/meta-instagram-da-genclere-yonelik-hesap-korumalarini-genisletiyor-ab89b563/"
-  },
-  {
-   "id": "84045cac",
-   "title": "Gazze Sağlık Bakanlığı: Sessiz soykırım yaşanan Gazze'de yaklaşık 2 bin bina her an çökebilir",
-   "summary": "Gazze Sağlık Bakanlığı Genel Müdürü Münir el-Burş, İsrail saldırılarında hasar gören yaklaşık 2 bin binanın her an çökebileceğini belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/gazze-saglik-bakanligi-sessiz-soykirim-yasanan-gazzede-yaklasik-2-bin-bina-her-an-cokebilir/4117585",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T16:08:00+00:00",
-   "url": "/haber/gazze-saglik-bakanligi-sessiz-soykirim-yasanan-gazze-de-yaklasik-2-bin-84045cac/"
+   "url": "/haber/izmir-de-demir-celik-fabrikasinda-patlamada-16-kisi-hayatini-kaybetti-241d7238/"
   },
   {
    "id": "dad29d49",
@@ -618,28 +684,6 @@
    "url": "/haber/byd-den-rolls-royce-a-rakip-elektrikli-otomobil-1-000-km-menzilli-alti-e989197d/"
   },
   {
-   "id": "22b868f4",
-   "title": "İzmir'de fabrikada patlama. Fotoğraflarla patlama bölgesinde son durum",
-   "summary": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında patlama sonrası yangın çıktı. Olayda 10 kişi hayatını kaybetti, dördü ağır 15 kişi yaralandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-izmirde-fabrikada-patlama-fotograflarla-patlama-bolgesinde-son-durum-1750150",
-   "image": "https://images.ntv.com.tr/iha/izmirpatlama-473524.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-09T14:24:31+00:00",
-   "url": "/haber/izmir-de-fabrikada-patlama-fotograflarla-patlama-bolgesinde-son-durum-22b868f4/"
-  },
-  {
-   "id": "22ad3026",
-   "title": "Google desteği kesti: Android Auto artık bu cihazlarda çalışmayacak!",
-   "summary": "Google, Android Auto için minimum gereksinimi Android 11'e yükseltti. Bu, Android 10 ve daha eski sürümü çalıştıran cihazların artık sisteme kablolu olarak bağlanamayacağı anlamına geliyor.",
-   "link": "https://www.donanimhaber.com/android-auto-artik-bu-cihazlarda-calismayacak--212674",
-   "image": "https://www.donanimhaber.com/images/images/haber/212674/1200x675android-auto-artik-bu-cihazlarda-calismayacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:22:00+00:00",
-   "url": "/haber/google-destegi-kesti-android-auto-artik-bu-cihazlarda-calismayacak-22ad3026/"
-  },
-  {
    "id": "eba045f9",
    "title": "iPhone 11 Özellikleri ve 2026'da Alınır Mı?",
    "summary": "iOS 27 desteği sürüyor ama 5G ve Apple Intelligence yok. 2026'da ikinci el iPhone 11 alacaksanız pil sağlığı, IMEI kaydı ve iPhone 12 farkı belirleyici.",
@@ -671,28 +715,6 @@
    "category": "gundem",
    "date": "2026-11-09T14:15:07+00:00",
    "url": "/haber/mustafa-sarigul-un-dosyasi-ankara-ya-gonderildi-ce3b42a2/"
-  },
-  {
-   "id": "5976f1db",
-   "title": "SKYDAGGER KIZILELMA'dan yüzlerce dron bırakacak",
-   "summary": "SKYDAGGER Genel Müdürü Mehmet Öztekin, Bayraktar KIZILELMA'dan yüzlerce dron bırakmayı hedeflediklerini açıkladı. Son testte TB2'nin kanatlarından 16 dron bırakıldı.",
-   "link": "https://shiftdelete.net/skydagger-kizilelma-yuzlerce-dron-hedefi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/69a0510699ca2f6511229c2f32b09157f6882718.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:00:00+00:00",
-   "url": "/haber/skydagger-kizilelma-dan-yuzlerce-dron-birakacak-5976f1db/"
-  },
-  {
-   "id": "fcb10c86",
-   "title": "BYD’den araçtan inmeden şarj: Kabloyu robot kol takıyor",
-   "summary": "BYD, sürücünün kablo takmasına gerek bırakmayan robotik şarj sistemini gösterdi. Şarj kapağını açıp fişi takan robot kolun kullanıldığı gösterimde, 1.000 kW güce ulaşıldığı bildirildi.",
-   "link": "https://www.donanimhaber.com/byd-den-aractan-inmeden-sarj-kabloyu-robot-kol-takiyor--212663",
-   "image": "https://www.donanimhaber.com/images/images/haber/212663/1200x675byd-den-aractan-inmeden-sarj-kabloyu-robot-kol-takiyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:00:00+00:00",
-   "url": "/haber/byd-den-aractan-inmeden-sarj-kabloyu-robot-kol-takiyor-fcb10c86/"
   },
   {
    "id": "528af68f",
@@ -770,17 +792,6 @@
    "category": "gundem",
    "date": "2026-11-09T13:45:29+00:00",
    "url": "/haber/adana-da-korkutan-deprem-c4deac7d/"
-  },
-  {
-   "id": "c6ea4ce7",
-   "title": "İngiltere'nin en büyük bankaları AI ajanlarını yasakladı: Kontrolden çıkabilirler!",
-   "summary": "Yapay zekâ ajanlarının kontrolden çıkıp onaylanmamış işlemler yaptığı vakaların artması bankaları harekete geçirdi. İngiltere'nin en büyük bankaları, AI ajanlarının hesaplara erişmesini yasakladı.",
-   "link": "https://www.donanimhaber.com/ingiltere-nin-en-buyuk-bankalari-yapay-zeka-ajanlarini-yasakladi--212670",
-   "image": "https://www.donanimhaber.com/images/images/haber/212670/1200x675ingiltere-nin-en-buyuk-bankalari-yapay-zeka-ajanlarini-yasakladi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-09T13:43:00+00:00",
-   "url": "/haber/ingiltere-nin-en-buyuk-bankalari-ai-ajanlarini-yasakladi-kontrolden-ci-c6ea4ce7/"
   },
   {
    "id": "0a91d201",
@@ -1012,17 +1023,6 @@
    "category": "gundem",
    "date": "2026-11-09T11:25:13+00:00",
    "url": "/haber/10-kasim-gunu-mansetler-de-yas-tuttu-39f3a48b/"
-  },
-  {
-   "id": "efeb595d",
-   "title": "İsrail'de hükümeti kurmakla görevlendirilen Gadi Eisenkot kimdir?",
-   "summary": "İsrail Cumhurbaşkanı Isaac Herzog, muhalefet lideri Gadi Eisenkot'u yeni bir koalisyon hükümeti kurmakla görevlendirdi.",
-   "link": "https://www.bbc.com/turkce/articles/cq3987zm19lgo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9574/live/a0336070-d14b-11f1-9eb5-811878e0f07d.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-09T10:51:33+00:00",
-   "url": "/haber/israil-de-hukumeti-kurmakla-gorevlendirilen-gadi-eisenkot-kimdir-efeb595d/"
   },
   {
    "id": "3a690ce6",
