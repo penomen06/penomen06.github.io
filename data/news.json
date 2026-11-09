@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T05:30:55.566339+00:00",
+ "updated": "2026-11-09T06:01:02.782203+00:00",
  "items": [
   {
    "id": "1bdf9c40",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-09T05:30:00+00:00",
+   "date": "2026-11-09T06:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-1bdf9c40/"
+  },
+  {
+   "id": "46a41fa1",
+   "title": "Nvidia, CEO’su Jensen Huang’ın romantik ilişki yaşadığı “Çinli casus” iddiasıyla anılan kişiyle bağlantısını inceleyecek",
+   "summary": "The New York Times’ın iddiasına göre Çin’in istihbarat teşkilatı Devlet Güvenlik Bakanlığı (MSS), Nvidia CEO’su Jensen Huang’a yönelik casusluk faaliyetlerinde “Megaspeed” şirketinin yöneticisi Alice Huang’ı kullandı.…",
+   "link": "https://www.log.com.tr/nvidia-ceosu-jensen-huangin-romantik-iliski-yasadigi-cinli-casus-iddiasiyla-anilan-kisiyle-baglantisini-inceleyecek/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2025/11/nvidia-ceosu-jensen-huang-yapay-zeka-yarisini-cin-kazanacak-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-09T05:55:16+00:00",
+   "url": "/haber/nvidia-ceo-su-jensen-huang-in-romantik-iliski-yasadigi-cinli-casus-idd-46a41fa1/"
+  },
+  {
+   "id": "4034413f",
+   "title": "Okullarda ilk ara tatil ne zaman başlayacak? 2026-2027 MEB kasım ara tatili tarihleri",
+   "summary": "Okullarda kasım ara tatilinin ne zaman başlayacağı, Milli Eğitim Bakanlığı’na (MEB) bağlı ilk ve ortaöğretim kurumlarında eğitim gören milyonlarca öğrenci, veli ve öğretmen tarafından merakla araştırılıyor. Sene başında…",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-okullarda-ilk-ara-tatil-ne-zaman-baslayacak-2026-2027-meb-kasim-ara-tatili-tarihleri-1750046",
+   "image": "https://images.ntv.com.tr/images/AA-37471894-172301.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-09T05:34:10+00:00",
+   "url": "/haber/okullarda-ilk-ara-tatil-ne-zaman-baslayacak-2026-2027-meb-kasim-ara-ta-4034413f/"
+  },
+  {
+   "id": "cfd8a4d1",
+   "title": "Son kullanma tarihi geçmiş kanser ilaçlarını piyasaya süren 15 şüpheliye operasyon",
+   "summary": "Son kullanma tarihi geçmiş kanser ilaçlarının yeniden ambalajlanarak satışa sunulmasına ilişkin soruşturma kapsamında tespit edilen 15 şüphelinin yakalanması için operasyon düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/son-kullanma-tarihi-gecmis-kanser-ilaclarini-piyasaya-suren-15-supheliye-operasyon-/4116413",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T05:33:32+00:00",
+   "url": "/haber/son-kullanma-tarihi-gecmis-kanser-ilaclarini-piyasaya-suren-15-supheli-cfd8a4d1/"
   },
   {
    "id": "eaaae092",
@@ -409,17 +442,6 @@
    "url": "/haber/besiktas-milli-araya-3-puanla-girdi-e201656d/"
   },
   {
-   "id": "514a5472",
-   "title": "Gazze'de yağış sonrası meydana gelen göçükte 5 Filistinli hayatını kaybetti",
-   "summary": "Gazze Şeridi'nin orta kesiminde yer alan Deyr el-Belah kentinde yerinden edilmiş Filistinlilerin kaldığı çadırların yağış sonrası meydana gelen göçük altında kalması sonucu biri kadın, 3'ü çocuk 5 kişinin yaşamını…",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzede-yagis-sonrasi-meydana-gelen-gocukte-5-filistinli-hayatini-kaybetti/4116318",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T20:07:08+00:00",
-   "url": "/haber/gazze-de-yagis-sonrasi-meydana-gelen-gocukte-5-filistinli-hayatini-kay-514a5472/"
-  },
-  {
    "id": "bd8f8651",
    "title": "Çin'in %100 yerli ilk masaüstü bilgisayarı: Qingyun HM650",
    "summary": "Huawei, işlemci, bellek, SSD ve güç kaynağı dahil olmak üzere tüm bileşenleri Çin'de üretilen ilk masaüstü bilgisayarını tanıttı. Qingyun HM650, devlet kurumları ve işletmeler için geliştirilmiş.",
@@ -794,17 +816,6 @@
    "url": "/haber/krakow-da-silahli-saldiri-alti-kisiyi-olduren-saldirganin-evinde-de-uc-4d357397/"
   },
   {
-   "id": "31a4e609",
-   "title": "KYK bursu ne zaman yatacak? 2026-2027 GSB KYK burs ödeme takvimi ve ücreti",
-   "summary": "2026-2027 eğitim-öğretim dönemi burs ve kredi sonuçlarının ilan edilmesinin ardından gözler ilk ödeme tarihlerine çevrildi. Hak kazandıkları burs veya kredileri hesaplarında görmek isteyen yüz binlerce öğrenci, KYK…",
-   "link": "https://www.ntv.com.tr/turkiye/kyk-bursu-ne-zaman-yatacak-2026-2027-gsb-kyk-burs-odeme-takvimi-ve-ucreti-1749955",
-   "image": "https://images.ntv.com.tr/images/9fecb255-240e-4405-96db-ae89abf65f46-337307.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-08T11:28:37+00:00",
-   "url": "/haber/kyk-bursu-ne-zaman-yatacak-2026-2027-gsb-kyk-burs-odeme-takvimi-ve-ucr-31a4e609/"
-  },
-  {
    "id": "5f27e0bb",
    "title": "İsrail Cumhurbaşkanı, muhalefet lideri Eisenkot'u hükümeti kurmakla görevlendirdi",
    "summary": "İsrail Cumhurbaşkanı Isaac Herzog, muhalefet lideri Gadi Eisenkot'u yeni bir koalisyon hükümeti kurmakla görevlendirdiğini açıkladı.",
@@ -990,17 +1001,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T09:04:28+00:00",
    "url": "/haber/epic-games-store-steamos-a-da-tasinacak-f034f9c1/"
-  },
-  {
-   "id": "a2126b03",
-   "title": "Apple Music Classical’ın simgesi de yenilendi",
-   "summary": "Apple, Apple Music’in ardından Türkiye’ye açılmayan Apple Music Classical’ın uygulama simgesini de yeniledi. Kullanıcıların pek beğenmediği siyah-beyaz tasarımı burada da tercih eden şirket, aynı zamanda genel arayüzü…",
-   "link": "https://www.log.com.tr/apple-music-classicalin-simgesi-de-yenilendi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-07_11-42-23_zNYxq-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-07T08:47:14+00:00",
-   "url": "/haber/apple-music-classical-in-simgesi-de-yenilendi-a2126b03/"
   },
   {
    "id": "fb287611",
