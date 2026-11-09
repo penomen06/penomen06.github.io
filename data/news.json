@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:30:54.825511+00:00",
+ "updated": "2026-11-09T23:01:09.776104+00:00",
  "items": [
   {
    "id": "eafb2d73",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-09T22:30:00+00:00",
+   "date": "2026-11-09T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-eafb2d73/"
+  },
+  {
+   "id": "a415667d",
+   "title": "COP31 alanında binlerce dronla gösteri",
+   "summary": "Türkiye’nin ilk kez ev sahipliği yaptığı Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi’nin 31’inci Taraflar Konferansı (COP31) için binlerce dronla gösteri düzenlendi.",
+   "link": "https://www.ntv.com.tr/turkiye/video-cop31-alaninda-binlerce-dronla-gosteri-1750174",
+   "image": "https://images.ntv.com.tr/images/DUNYANIN-IKLIM-GUNDEMI-ANTALYADA-COP31_1599190_475531-339890(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-09T22:58:36+00:00",
+   "url": "/haber/cop31-alaninda-binlerce-dronla-gosteri-a415667d/"
   },
   {
    "id": "4933e083",
@@ -33,6 +44,28 @@
    "category": "gundem",
    "date": "2026-11-09T21:33:34+00:00",
    "url": "/haber/bakan-gurlek-ten-yeni-parti-li-ozer-e-milletvekili-olmasan-evin-aranac-41c3cdc7/"
+  },
+  {
+   "id": "a148fa06",
+   "title": "\"Dinamik ve Dayanıklı Sağlık Sistemleri: Ülke Tecrübeleri\" paneli düzenlendi",
+   "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Sağlıkta adalet, insanın en çaresiz anında da hakkını korumayı gerektirir. Gazze'de bir çocuğun temiz suya, bir yaralının ilaca ve tedaviye erişmesi için hepimize görev düşüyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/cop31/dinamik-ve-dayanikli-saglik-sistemleri-ulke-tecrubeleri-paneli-duzenlendi/4118026",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T21:31:10+00:00",
+   "url": "/haber/dinamik-ve-dayanikli-saglik-sistemleri-ulke-tecrubeleri-paneli-duzenle-a148fa06/"
+  },
+  {
+   "id": "c0df5453",
+   "title": "Sudan'ın Kuzey Darfur eyaletinde 2 bin 500'den fazla kişi yerinden edildi",
+   "summary": "Sudan'ın Kuzey Darfur eyaletinde güvenlik koşullarının kötüleşmesi nedeniyle Um Baru bölgesindeki 5 köyde yaşayan 2 bin 510 kişinin yerinden edildiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/sudanin-kuzey-darfur-eyaletinde-2-bin-500den-fazla-kisi-yerinden-edildi/4118025",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T21:26:10+00:00",
+   "url": "/haber/sudan-in-kuzey-darfur-eyaletinde-2-bin-500-den-fazla-kisi-yerinden-edi-c0df5453/"
   },
   {
    "id": "35bbe8f1",
@@ -475,17 +508,6 @@
    "url": "/haber/apple-ios-27-2-1-guncellemesini-ve-fazlasini-yayinlandi-bac4ddf0/"
   },
   {
-   "id": "adcee85a",
-   "title": "Usta yönetmen Mecid Mecidi, 14. Boğaziçi Film Festivali'nde genç sinemacılarla bir araya geldi",
-   "summary": "İranlı yönetmen Mecid Mecidi, Anadolu Ajansının Global İletişim Ortağı olduğu \"14. Boğaziçi Film Festivali\" kapsamında genç sinemacılarla bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/kultur/usta-yonetmen-mecid-mecidi-14-bogazici-film-festivalinde-genc-sinemacilarla-bir-araya-geldi/4117888",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T18:46:12+00:00",
-   "url": "/haber/usta-yonetmen-mecid-mecidi-14-bogazici-film-festivali-nde-genc-sinemac-adcee85a/"
-  },
-  {
    "id": "bb73660a",
    "title": "Russell Brand, tecavüz ve cinsel saldırıdan 10 buçuk yıla mahkum oldu",
    "summary": "İngiliz komedyen ve aktör Russell Brand, tecavüz ve cinsel saldırı suçlarından 10 yıl 6 ay hapis cezasına çarptırıldı. Hakim Joel Bennathan, ceza kararını açıklarken Brand'i \"cinsel sapık\" olarak nitelendirdi.",
@@ -561,17 +583,6 @@
    "category": "gundem",
    "date": "2026-11-09T18:14:33+00:00",
    "url": "/haber/cumhurbaskani-erdogan-nijer-cumhurbaskani-tchiani-ile-telefonda-gorust-3c89bca9/"
-  },
-  {
-   "id": "de2e9f79",
-   "title": "Google, yapay zeka çip ailesini genişletti",
-   "summary": "ABD'li teknoloji şirketi Google, yapay zeka modellerinin eğitilmesi ve çalıştırılmasına yönelik geliştirdiği 2 yeni işlemci sistemini tanıttı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/google-yapay-zeka-cip-ailesini-genisletti-/4117856",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T18:13:55+00:00",
-   "url": "/haber/google-yapay-zeka-cip-ailesini-genisletti-de2e9f79/"
   },
   {
    "id": "898ef59e",
@@ -1034,17 +1045,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T12:52:46+00:00",
    "url": "/haber/bir-elektrikli-supurge-motoru-nasil-10-yil-dayanir-66-000-rpm-gucundek-52eb21c1/"
-  },
-  {
-   "id": "f17b694e",
-   "title": "Son dakika Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 09 Kasım 2026",
-   "summary": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 09 Kasım 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-adanada-deprem-mi-oldu-az-once-deprem-adanada-nerede-oldu-adana-deprem-kandilli-ve-afad-son-depremler-listesi-09-kasim-2026-1750136",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-09T12:50:00+00:00",
-   "url": "/haber/son-dakika-adana-da-deprem-mi-oldu-az-once-deprem-adana-da-nerede-oldu-f17b694e/"
   },
   {
    "id": "3897b839",
