@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-09T04:30:57.231886+00:00",
+ "updated": "2026-11-09T05:01:03.330387+00:00",
  "items": [
+  {
+   "id": "1b029e11",
+   "title": "Suno'ya Elvis ve Eminem davası",
+   "summary": "Yapay zekayla müzik üreten Suno, Elvis Presley'in hak sahipleri ile Eminem'in yayıncısının açtığı iki yeni davayla karşı karşıya. Şirket, sanatçıları taklit eden müzik ve söz ürettiği gerekçesiyle suçlanıyor.",
+   "link": "https://shiftdelete.net/suno-elvis-eminem-davasi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/030b6a89f3fda68d82eda92760e55673e4fd7ab6.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-09T05:00:00+00:00",
+   "url": "/haber/suno-ya-elvis-ve-eminem-davasi-1b029e11/"
+  },
+  {
+   "id": "6cfb5c0f",
+   "title": "Insta360 Efsane Cuma Fırsatları başlıyor: Seçili Ürünlerde %40’a varan indirim! Gelecek yılın çekimlerine şimdiden hazırlanın!",
+   "summary": "Insta360'ın Efsane Cuma kampanyasında seçili kamera ve aksesuarlar %40'a varan indirimlerle satışa sunuluyor. İşte öne çıkan indirimli Insta 360 modelleri...",
+   "link": "https://www.donanimhaber.com/insta360-efsane-cuma-firsatlari-basliyor--212643",
+   "image": "https://www.donanimhaber.com/images/images/haber/212643/1200x675insta360-efsane-cuma-firsatlari-basliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-09T05:00:00+00:00",
+   "url": "/haber/insta360-efsane-cuma-firsatlari-basliyor-secili-urunlerde-40-a-varan-i-6cfb5c0f/"
+  },
+  {
+   "id": "1bdf9c40",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 09 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-09-kasim-2026-1750025",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-09T05:00:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-1bdf9c40/"
+  },
   {
    "id": "aa93ddd4",
    "title": "Agility Robotics Nasdaq'ta işlem görecek",
@@ -13,15 +46,15 @@
    "url": "/haber/agility-robotics-nasdaq-ta-islem-gorecek-aa93ddd4/"
   },
   {
-   "id": "1bdf9c40",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 09 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-09-kasim-2026-1750025",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
+   "id": "08ac057e",
+   "title": "Dünyanın gözü COP31 için Antalya'da",
+   "summary": "Dünyanın gözü Antalya’ya çevrildi. Türkiye’nin ev sahipliğinde yapılacak COP31 İklim Zirvesi bugün başlıyor. Çok sayıda dünya liderini ağırlayacak dev organizasyon için hazırlıklar tamamlandı. 25 bin 739 emniyet…",
+   "link": "https://www.trthaber.com/haber/gundem/dunyanin-gozu-cop31-icin-antalyada-962631.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/cop31-aa-2500061.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
-   "date": "2026-11-09T04:30:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-1bdf9c40/"
+   "date": "2026-11-09T04:29:00+00:00",
+   "url": "/haber/dunyanin-gozu-cop31-icin-antalya-da-08ac057e/"
   },
   {
    "id": "bd170c8c",
@@ -220,17 +253,6 @@
    "category": "gundem",
    "date": "2026-11-08T21:09:11+00:00",
    "url": "/haber/cumhurbaskanligi-yatirim-ve-finans-ofisi-cop31-de-yesil-yatirimlarin-h-3bdd7d0f/"
-  },
-  {
-   "id": "9996a778",
-   "title": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor",
-   "summary": "Türkiye'nin ilk kez ev sahipliği yapacağı, iklim değişikliği ile mücadelede dünyanın en önemli organizasyonu olan BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31), Antalya COP31 Alanı'nda…",
-   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ev-sahipligindeki-cop31-bugun-basliyor-962621.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/cop31-antalya-aa-2502050.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-08T21:04:00+00:00",
-   "url": "/haber/turkiye-nin-ev-sahipligindeki-cop31-bugun-basliyor-9996a778/"
   },
   {
    "id": "405d98e4",
@@ -596,17 +618,6 @@
    "url": "/haber/openai-1-25-trilyon-dolar-degerlemeye-ulasti-11-milyar-dolar-topladi-df396882/"
   },
   {
-   "id": "fab64f05",
-   "title": "CERN, 42 yıldır aranan bozunmanın izini buldu",
-   "summary": "LHCb deneyi, B⁰-mezonu için 1984'ten beri aranan nadir bir bozunumun ilk güçlü kanıtını buldu. Sonuç Standart Model ile uyumlu, ancak yeni fiziğe bakışı keskinleştiriyor.",
-   "link": "https://shiftdelete.net/b0-mezonu-lhcb-nadir-bozunum-kaniti",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/cern-lhc-tunel-kapak-0811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-08T15:17:00+00:00",
-   "url": "/haber/cern-42-yildir-aranan-bozunmanin-izini-buldu-fab64f05/"
-  },
-  {
    "id": "7f3941e8",
    "title": "Türkiye ve Irak'tan güvenlik mutabakatı",
    "summary": "Türkiye ve Irak'ın yayımladığı ortak açıklamada, Irak makamlarının Sincar'da devlet otoritesinin bütünüyle tesisi ve terör örgütü PKK unsurlarının varlığına son verilmesine yönelik attığı adımların sürdürülmesi…",
@@ -715,17 +726,6 @@
    "category": "teknoloji",
    "date": "2026-11-08T13:30:00+00:00",
    "url": "/haber/red-dead-redemption-2-icin-laptop-onerileri-goruntu-kalitesi-ve-akicil-089bfb79/"
-  },
-  {
-   "id": "260052a5",
-   "title": "Apple, iPhone 20'de Action Button'u kaldırabilir",
-   "summary": "Apple'ın 20. yıl özel iPhone modeli, önemli bir tasarım değişikliğiyle gelebilir. Şirketin Action Button'ı Kamera Kontrolü ile birleştirerek cihazdaki fiziksel tuş sayısını azaltacağı iddia ediliyor.",
-   "link": "https://www.donanimhaber.com/apple-iphone-20-de-action-button-u-kaldirabilir--212615",
-   "image": "https://www.donanimhaber.com/images/images/haber/212615/1200x675apple-iphone-20-de-action-button-u-kaldirabilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-08T13:00:00+00:00",
-   "url": "/haber/apple-iphone-20-de-action-button-u-kaldirabilir-260052a5/"
   },
   {
    "id": "87e86e59",
