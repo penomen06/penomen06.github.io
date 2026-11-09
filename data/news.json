@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T00:30:53.888890+00:00",
+ "updated": "2026-11-09T01:01:07.848929+00:00",
  "items": [
   {
    "id": "1bdf9c40",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-09T00:30:00+00:00",
+   "date": "2026-11-09T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-1bdf9c40/"
+  },
+  {
+   "id": "ba6041c2",
+   "title": "Fon soruşturmasında yeni gelişme. BDDK 3. Daire Başkanı Bilal Soysal tutuklandı",
+   "summary": "Fon soruşturması kapsamında Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) 3. Daire Başkanı Bilal Soysal tutuklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasinda-yeni-gelisme-bddk-3-daire-baskani-bilal-soysal-tutuklandi-1749973",
+   "image": "https://images.ntv.com.tr/images/bilal-soysal-234344.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-09T00:53:46+00:00",
+   "url": "/haber/fon-sorusturmasinda-yeni-gelisme-bddk-3-daire-baskani-bilal-soysal-tut-ba6041c2/"
+  },
+  {
+   "id": "7d757a04",
+   "title": "Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıyordum'",
+   "summary": "Spencer Ali, okuldayken bir poşet dilimlenmiş elma yemektense üç öğle arasından vazgeçti. Şimdi 23 yaşındaki otizmli birey, yiyeceklerle ilişkisini anlatırken, uzmanlar duruma nasıl yaklaşılması gerektiği konusunda…",
+   "link": "https://www.bbc.com/turkce/articles/cw1m44pn19g9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6549/live/795815e0-d489-11f1-b441-2b33b063138f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-09T00:33:31+00:00",
+   "url": "/haber/otizmli-bireylerin-yemekle-iliskisi-daha-bebekken-zorlaniyordum-7d757a04/"
   },
   {
    "id": "3110d56b",
@@ -99,6 +121,17 @@
    "category": "gundem",
    "date": "2026-11-08T21:31:24+00:00",
    "url": "/haber/nvidia-ceo-su-huang-in-yabanci-istihbaratin-hedefi-oldugu-haberleri-uz-b85a398d/"
+  },
+  {
+   "id": "41ed7e23",
+   "title": "İsrail askerleri, Batı Şeria'daki baskın sırasında 13 yaşındaki bir çocuğu göğsünden yaraladı",
+   "summary": "İsrail askerlerinin, işgal altındaki Batı Şeria'nın Cenin kentinde 13 yaşındaki bir çocuğu göğsünden vurduğu belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriadaki-baskin-sirasinda-13-yasindaki-bir-cocugu-gogsunden-yaraladi/4116368",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-08T21:30:03+00:00",
+   "url": "/haber/israil-askerleri-bati-seria-daki-baskin-sirasinda-13-yasindaki-bir-coc-41ed7e23/"
   },
   {
    "id": "5607c4ae",
@@ -275,17 +308,6 @@
    "category": "gundem",
    "date": "2026-11-08T20:02:11+00:00",
    "url": "/haber/abd-baskani-trump-in-gazze-baris-plani-nin-uygulanmasinda-kararli-oldu-ed9569ed/"
-  },
-  {
-   "id": "0862c4cd",
-   "title": "Konya Tropikal Kelebek Bahçesi, COP31'de yerini aldı",
-   "summary": "Konya Tropikal Kelebek Bahçesi'nin birebir aynısı, Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilecek COP31 İklim Zirvesi'nde dünyanın farklı ülkelerinden ziyaretçi ağırlayacak.",
-   "link": "https://www.aa.com.tr/tr/gundem/konya-tropikal-kelebek-bahcesi-cop31de-yerini-aldi/4116308",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-08T19:47:41+00:00",
-   "url": "/haber/konya-tropikal-kelebek-bahcesi-cop31-de-yerini-aldi-0862c4cd/"
   },
   {
    "id": "bd8f8651",
@@ -517,17 +539,6 @@
    "category": "teknoloji",
    "date": "2026-11-08T15:30:00+00:00",
    "url": "/haber/openai-1-25-trilyon-dolar-degerlemeye-ulasti-11-milyar-dolar-topladi-df396882/"
-  },
-  {
-   "id": "ba6041c2",
-   "title": "Fon soruşturmasında yeni gelişme. BDDK 3. Daire Başkanı Bilal Soysal tutuklandı",
-   "summary": "Fon soruşturması kapsamında Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) 3. Daire Başkanı Bilal Soysal tutuklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasinda-yeni-gelisme-bddk-3-daire-baskani-bilal-soysal-tutuklandi-1749973",
-   "image": "https://images.ntv.com.tr/images/bilal-soysal-234344.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-08T15:18:00+00:00",
-   "url": "/haber/fon-sorusturmasinda-yeni-gelisme-bddk-3-daire-baskani-bilal-soysal-tut-ba6041c2/"
   },
   {
    "id": "fab64f05",
@@ -1056,17 +1067,6 @@
    "category": "teknoloji",
    "date": "2026-11-07T03:01:40+00:00",
    "url": "/haber/epic-games-bir-oyunu-daha-ucretsiz-sunuyor-hizli-aksiyon-ve-arcade-sev-fb35a922/"
-  },
-  {
-   "id": "647bc87e",
-   "title": "Teknoloji hisseleri trilyonlarca dolarlık kaybın ardından toparlanıyor",
-   "summary": "Teknoloji devlerinin hisselerinde yapay zeka yatırımlarının yavaşlama ihtimaline dair endişeler sebebiyle trilyonlarca dolarlık düşüş yaşandı. Uzmanlara göre düşüşün ardında yatırımcıların yapay zeka yatırımlarından…",
-   "link": "https://www.bbc.com/turkce/articles/cxvgdd06y2m4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/93ca/live/ce7bd110-d9f2-11f1-93e1-3b657b665bcf.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-06T16:33:11+00:00",
-   "url": "/haber/teknoloji-hisseleri-trilyonlarca-dolarlik-kaybin-ardindan-toparlaniyor-647bc87e/"
   },
   {
    "id": "86a53aad",
