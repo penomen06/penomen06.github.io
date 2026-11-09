@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-09T18:30:54.818391+00:00",
+ "updated": "2026-11-09T19:01:03.688968+00:00",
  "items": [
+  {
+   "id": "07b0f06f",
+   "title": "Claude Code GitHub'a binlerce parola sızdırdı",
+   "summary": "Güvenlik şirketi Apiiro, Claude Code'un ayar dosyası yüzünden GitHub'daki 1994 herkese açık depoda 2539 geçerli gizli bilginin yayımlandığını açıkladı. Sızıntıların bir kısmını güvenlik tarayıcıları bile yakalayamıyor.",
+   "link": "https://shiftdelete.net/claude-code-github-parola-sizintisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/9c3f338b58adeaa519cd93dabe9df68c443c9805.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-09T19:00:00+00:00",
+   "url": "/haber/claude-code-github-a-binlerce-parola-sizdirdi-07b0f06f/"
+  },
+  {
+   "id": "862c9599",
+   "title": "Kahve Makineleri Kahvemizi Nasıl Sevdiğimizi Nasıl Hatırlıyor?",
+   "summary": "Kabul edelim, kahve zevki adeta parmak izi gibidir. Kafeye gittiğimizde \"Sütü az olsun, çok sıcak olmasın, espressosu biraz sert olsun\" gibi upuzun siparişler vermeyi seviyoruz. Peki ama evimizin rahatlığında, sabahın o…",
+   "link": "https://www.webtekno.com/kahve-makineleri-kahvemizi-nasil-sevdigimizi-nasil-hatirliyor-h228571.html",
+   "image": "https://imgrosetta.webtekno.com/file/696121/696121-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-09T18:59:43+00:00",
+   "url": "/haber/kahve-makineleri-kahvemizi-nasil-sevdigimizi-nasil-hatirliyor-862c9599/"
+  },
+  {
+   "id": "b950302e",
+   "title": "AI Günlükleri: Yapay zekâ dünyasında bu hafta (9 Kasım 2026)",
+   "summary": "Yapay zekâ dünyasında bu hafta neler yaşandı; yeni neler tanıtıldı? \"AI Günlükleri\" serimizde, hızla büyüyen bu alanda neler olup bittiğini haftalık olarak kayıt altına almaya devam ediyoruz.",
+   "link": "https://www.donanimhaber.com/yapay-zeka-dunyasinda-bu-hafta-9-kasim-2026--212676",
+   "image": "https://www.donanimhaber.com/images/images/haber/212676/1200x675yapay-zeka-dunyasinda-bu-hafta-9-kasim-2026.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-09T18:58:00+00:00",
+   "url": "/haber/ai-gunlukleri-yapay-zeka-dunyasinda-bu-hafta-9-kasim-2026-b950302e/"
+  },
+  {
+   "id": "bac4ddf0",
+   "title": "Apple, iOS 27.2.1 güncellemesini ve fazlasını yayınlandı",
+   "summary": "Apple bu akşam hataları gideren ve güvenlik açıklarını kapatan iOS 27.2.1 ve iPadOS 27.2.1 güncellemelerinin yanı sıra, yeni sürümlere geçirilmeyen iPhone ve iPad kullanıcıları için güvenlik odaklı iOS 26.7.3, iPadOS…",
+   "link": "https://www.log.com.tr/apple-ios-27-2-1-guncellemesini-ve-fazlasini-yayinlandi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/03/apple-in-ios-27-ozelinde-siri-ve-klavye-icin-yeni-planlari-ortaya-cikti-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-09T18:55:08+00:00",
+   "url": "/haber/apple-ios-27-2-1-guncellemesini-ve-fazlasini-yayinlandi-bac4ddf0/"
+  },
+  {
+   "id": "adcee85a",
+   "title": "Usta yönetmen Mecid Mecidi, 14. Boğaziçi Film Festivali'nde genç sinemacılarla bir araya geldi",
+   "summary": "İranlı yönetmen Mecid Mecidi, Anadolu Ajansının Global İletişim Ortağı olduğu \"14. Boğaziçi Film Festivali\" kapsamında genç sinemacılarla bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/kultur/usta-yonetmen-mecid-mecidi-14-bogazici-film-festivalinde-genc-sinemacilarla-bir-araya-geldi/4117888",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T18:46:12+00:00",
+   "url": "/haber/usta-yonetmen-mecid-mecidi-14-bogazici-film-festivali-nde-genc-sinemac-adcee85a/"
+  },
+  {
+   "id": "bb73660a",
+   "title": "Russell Brand, tecavüz ve cinsel saldırıdan 10 buçuk yıla mahkum oldu",
+   "summary": "İngiliz komedyen ve aktör Russell Brand, tecavüz ve cinsel saldırı suçlarından 10 yıl 6 ay hapis cezasına çarptırıldı. Hakim Joel Bennathan, ceza kararını açıklarken Brand'i \"cinsel sapık\" olarak nitelendirdi.",
+   "link": "https://www.bbc.com/turkce/articles/cwvg0g89ne0mo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1c3/live/e7281af0-dc47-11f1-b441-2b33b063138f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-09T18:43:32+00:00",
+   "url": "/haber/russell-brand-tecavuz-ve-cinsel-saldiridan-10-bucuk-yila-mahkum-oldu-bb73660a/"
+  },
+  {
+   "id": "8997c475",
+   "title": "Assassin's Creed Hexe ertelendi: Beklenenden çok daha geç gelecek",
+   "summary": "Yapım aşaması epey sıkıntılı geçen Assassin's Creed Hexe, beklediğimizden de geç gelecek. Ubisoft cephesinden gelen son haberler, oyunun kayda değer bir ertelemeye konu olduğunu gösteriyor.",
+   "link": "https://www.donanimhaber.com/yeni-assassin-s-creed-oyunu-hexe-beklenenden-gec-gelecek--212658",
+   "image": "https://www.donanimhaber.com/images/images/haber/212658/1200x675yeni-assassin-s-creed-oyunu-hexe-beklenenden-gec-gelecek.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-09T18:37:00+00:00",
+   "url": "/haber/assassin-s-creed-hexe-ertelendi-beklenenden-cok-daha-gec-gelecek-8997c475/"
+  },
+  {
+   "id": "8393ab1e",
+   "title": "iPhone'lar için iOS 27.2.1 güncellemesi yayınlandı",
+   "summary": "Apple, iOS 27.2.1, iPadOS 27.2.1 ve macOS 27.2.1 güncellemelerini eş zamanlı yayınladı. Bu ara güncellemeler, çeşitli hata düzeltmeleri ve performans iyileştirmeleri getiriyor.",
+   "link": "https://www.donanimhaber.com/iphone-lar-icin-ios-27-2-1-guncellemesi-yayinlandi--212695",
+   "image": "https://www.donanimhaber.com/images/images/haber/212695/1200x675iphone-lar-icin-ios-27-2-1-guncellemesi-yayinlandi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-09T18:35:31+00:00",
+   "url": "/haber/iphone-lar-icin-ios-27-2-1-guncellemesi-yayinlandi-8393ab1e/"
+  },
+  {
+   "id": "732973ea",
+   "title": "Yenilenebilir enerji kuruluşları ve sektör temsilcilerinden yatırım ve işbirliği çağrısı",
+   "summary": "Uluslararası kuruluşlar ve sektör temsilcileri, enerji güvenliği ve iklim hedefleri doğrultusunda yenilenebilir enerjiye dayalı elektrifikasyonun hızlandırılması, yatırımların artırılması ve uluslararası işbirliğinin…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yenilenebilir-enerji-kuruluslari-ve-sektor-temsilcilerinden-yatirim-ve-isbirligi-cagrisi/4117873",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T18:33:32+00:00",
+   "url": "/haber/yenilenebilir-enerji-kuruluslari-ve-sektor-temsilcilerinden-yatirim-ve-732973ea/"
+  },
   {
    "id": "81a179e8",
    "title": "Motorola Razr Flex 2027 adı resmen göründü",
@@ -55,6 +154,17 @@
    "category": "gundem",
    "date": "2026-11-09T18:14:33+00:00",
    "url": "/haber/cumhurbaskani-erdogan-nijer-cumhurbaskani-tchiani-ile-telefonda-gorust-3c89bca9/"
+  },
+  {
+   "id": "de2e9f79",
+   "title": "Google, yapay zeka çip ailesini genişletti",
+   "summary": "ABD'li teknoloji şirketi Google, yapay zeka modellerinin eğitilmesi ve çalıştırılmasına yönelik geliştirdiği 2 yeni işlemci sistemini tanıttı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/google-yapay-zeka-cip-ailesini-genisletti-/4117856",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T18:13:55+00:00",
+   "url": "/haber/google-yapay-zeka-cip-ailesini-genisletti-de2e9f79/"
   },
   {
    "id": "898ef59e",
@@ -244,17 +354,6 @@
    "url": "/haber/von-der-leyen-romanya-bulgaristan-ve-turkiye-nin-artan-isbirligini-mem-0e4aa6d4/"
   },
   {
-   "id": "7e11a933",
-   "title": "Milli okçu Dünya Yenihayat, Dakar 2026'da altın madalya kazandı",
-   "summary": "Milli okçu Dünya Yenihayat, 4. Yaz Gençlik Olimpiyat Oyunları'nda (Dakar 2026) altın madalya kazandı.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-okcu-dunya-yenihayat-dakar-2026da-altin-madalya-kazandi/4117796",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T17:11:08+00:00",
-   "url": "/haber/milli-okcu-dunya-yenihayat-dakar-2026-da-altin-madalya-kazandi-7e11a933/"
-  },
-  {
    "id": "56eab785",
    "title": "Kullanıcı adı da şifresi de “admin”: İki otomobil markasında akılalmaz güvenlik açığı",
    "summary": "İki otomobil markasının sistemine yalnızca “admin” kullanıcı adı ve şifresiyle girildi. Araştırmacılar, araçların kilidini açıp motorlarını uzaktan çalıştırmayı başardı.",
@@ -264,17 +363,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T17:09:00+00:00",
    "url": "/haber/kullanici-adi-da-sifresi-de-admin-iki-otomobil-markasinda-akilalmaz-gu-56eab785/"
-  },
-  {
-   "id": "62df5dbf",
-   "title": "Ankara'da 10 Kasım'da bazı yollar trafiğe kapatılacak",
-   "summary": "Başkentte, 10 Kasım Atatürk'ü Anma Günü dolayısıyla bazı yollar yarın araç trafiğine kapatılacak.",
-   "link": "https://www.aa.com.tr/tr/gundem/ankarada-10-kasimda-bazi-yollar-trafige-kapatilacak/4117793",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T17:08:38+00:00",
-   "url": "/haber/ankara-da-10-kasim-da-bazi-yollar-trafige-kapatilacak-62df5dbf/"
   },
   {
    "id": "a2e2ce93",
@@ -330,17 +418,6 @@
    "category": "gundem",
    "date": "2026-11-09T16:46:57+00:00",
    "url": "/haber/turkiye-ile-nijerya-arasindaki-diplomatik-iliskilerin-66-yili-kutlandi-c248f8b5/"
-  },
-  {
-   "id": "a1385a7b",
-   "title": "TRT, Atatürk'ün ebediyete intikalinin 88. yılına özel yayınlar yapacak",
-   "summary": "TRT, Türkiye Cumhuriyeti'nin kurucusu, Milli Mücadele'nin Başkomutanı ve bağımsızlık mücadelesinin simgesi Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yıl dönümünde özel yayınlar yapacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/trt-ataturkun-ebediyete-intikalinin-88-yilina-ozel-yayinlar-yapacak/4117737",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T16:43:22+00:00",
-   "url": "/haber/trt-ataturk-un-ebediyete-intikalinin-88-yilina-ozel-yayinlar-yapacak-a1385a7b/"
   },
   {
    "id": "4933e083",
@@ -530,17 +607,6 @@
    "url": "/haber/fon-sorusturmalari-lydia-holding-yoneticisi-enver-cevik-gozaltina-alin-62ef6611/"
   },
   {
-   "id": "a5d8f5be",
-   "title": "Artık yüksek Watt GPU'lu! ''MSI Cyborg 15 MAX incelemesi''",
-   "summary": "Cyborg serisinde düşük Watt'lı GPU'lar vardı, fiyatları uygundu. Şimdi tasarım değişti, donanım kurgusu değişti, artık yüksek Watt'lı GPU kullanılıyor. Peki alınır mı? Tüm detaylarıyla anlattık.",
-   "link": "https://www.donanimhaber.com/artik-yuksek-watt-gpu-lu-msi-cyborg-15-max-incelemesi--212612",
-   "image": "https://www.donanimhaber.com/images/images/haber/212612/1200x675artik-yuksek-watt-gpu-lu-msi-cyborg-15-max-incelemesi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-09T15:27:37+00:00",
-   "url": "/haber/artik-yuksek-watt-gpu-lu-msi-cyborg-15-max-incelemesi-a5d8f5be/"
-  },
-  {
    "id": "03e2b426",
    "title": "MHP lideri Bahçeli'den 10 Kasım mesajı",
    "summary": "MHP Genel Başkanı Devlet Bahçeli, 10 Kasım mesajında, \"Atatürk'ü yaşatmanın doğru yolu, eserine sahip çıkmak ve fikirlerini çağın gerçekleriyle yorumlayarak geliştirmektir.\" dedi.",
@@ -585,17 +651,6 @@
    "url": "/haber/iphone-13-ozellikleri-ve-2026-da-alinir-mi-75b90c07/"
   },
   {
-   "id": "29ba80dc",
-   "title": "ABD'de seçim gecesine Türk yayıncı Hasan Piker (HasanAbi) damga vurdu",
-   "summary": "ABD son günlerde bir Türk'ü konuşuyor. Donald Trump'ın partisinin hezimete uğradığı seçim gecesinde milyonlarca Amerikalı sonuçları Türk yayıncı Hasan Piker'in yayınından takip etti.",
-   "link": "https://www.donanimhaber.com/abd-de-secim-gecesine-turk-yayinci-hasan-piker-damga-vurdu--212679",
-   "image": "https://www.donanimhaber.com/images/images/haber/212679/1200x675abd-de-secim-gecesine-turk-yayinci-hasan-piker-damga-vurdu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-09T15:06:00+00:00",
-   "url": "/haber/abd-de-secim-gecesine-turk-yayinci-hasan-piker-hasanabi-damga-vurdu-29ba80dc/"
-  },
-  {
    "id": "67715732",
    "title": "3 Senelik Lekeyi 10sn'de çıkarttı! Bissel ProHeat 2X Revolution CleanShot inceleme",
    "summary": "",
@@ -605,17 +660,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T15:01:00+00:00",
    "url": "/haber/3-senelik-lekeyi-10sn-de-cikartti-bissel-proheat-2x-revolution-cleansh-67715732/"
-  },
-  {
-   "id": "a0297940",
-   "title": "Pakistan'ın videosunda Türk savunma ürünleri",
-   "summary": "Pakistan Hava Kuvvetleri videosu Iqbal Günü kapsamında yayımlandı. Görüntülerde Baykar ve ASELSAN'ın sistemleri var, KAAN da \"TF-X İş Birliği\" adıyla yer alıyor.",
-   "link": "https://shiftdelete.net/pakistan-hava-kuvvetleri-videosu-turk-savunma",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/c372126cc4371f58d731629d2c3e203acf79ae12.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-09T15:00:00+00:00",
-   "url": "/haber/pakistan-in-videosunda-turk-savunma-urunleri-a0297940/"
   },
   {
    "id": "2b7805b8",
@@ -682,17 +726,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T14:44:02+00:00",
    "url": "/haber/baskentte-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor-peki-ne-is-272ad981/"
-  },
-  {
-   "id": "bbfcefaf",
-   "title": "Sony, PlayStation Portal'ı yeniledi: Çevrimdışı oyun desteği gelebilir",
-   "summary": "Sony, PlayStation Portal'ın dahili depolama alanına sahip yeni sürümünü duyurdu. Aralık ayında Japonya'da satışa çıkacak cihazın depolama kapasitesi ve kullanım amacı ise henüz açıklanmadı.",
-   "link": "https://www.donanimhaber.com/sony-playstation-portal-i-yeniledi-yerel-oyun-destegi-gelebilir--212662",
-   "image": "https://www.donanimhaber.com/images/images/haber/212662/1200x675sony-playstation-portal-i-yeniledi-yerel-oyun-destegi-gelebilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:44:00+00:00",
-   "url": "/haber/sony-playstation-portal-i-yeniledi-cevrimdisi-oyun-destegi-gelebilir-bbfcefaf/"
   },
   {
    "id": "8de467b4",
@@ -893,17 +926,6 @@
    "url": "/haber/bir-elektrikli-supurge-motoru-nasil-10-yil-dayanir-66-000-rpm-gucundek-52eb21c1/"
   },
   {
-   "id": "862c9599",
-   "title": "Kahve Makineleri Kahvemizi Nasıl Sevdiğimizi Nasıl Hatırlıyor?",
-   "summary": "Kabul edelim, kahve zevki adeta parmak izi gibidir. Kafeye gittiğimizde \"Sütü az olsun, çok sıcak olmasın, espressosu biraz sert olsun\" gibi upuzun siparişler vermeyi seviyoruz. Peki ama evimizin rahatlığında, sabahın o…",
-   "link": "https://www.webtekno.com/kahve-makineleri-kahvemizi-nasil-sevdigimizi-nasil-hatirliyor-h228571.html",
-   "image": "https://imgrosetta.webtekno.com/file/696121/696121-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T12:52:01+00:00",
-   "url": "/haber/kahve-makineleri-kahvemizi-nasil-sevdigimizi-nasil-hatirliyor-862c9599/"
-  },
-  {
    "id": "f17b694e",
    "title": "Son dakika Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 09 Kasım 2026",
    "summary": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 09 Kasım 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem…",
@@ -1078,28 +1100,6 @@
    "category": "gundem",
    "date": "2026-11-09T08:41:51+00:00",
    "url": "/haber/antalya-da-duzenlenen-cop31-den-neler-bekleniyor-kilit-sorular-neler-f2c4f21f/"
-  },
-  {
-   "id": "245c1c6a",
-   "title": "Jaguar Land Rover, BYD’yi “Defender” klonu üzerinden dava etti",
-   "summary": "Bugün gündeme getirilen yeni bilgilere göre Jaguar Land Rover (JLR), Çinli otomobil üreticisi BYD’yi “Defender” klonu nedeniyle dava etti ve süreç, mahkeme kararıyla görevlendirilen icra memurlarının BYD’nin…",
-   "link": "https://www.log.com.tr/jaguar-land-rover-bydyi-defender-klonu-uzerinden-dava-etti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-09_11-24-31_Q3ffT-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-09T08:28:55+00:00",
-   "url": "/haber/jaguar-land-rover-byd-yi-defender-klonu-uzerinden-dava-etti-245c1c6a/"
-  },
-  {
-   "id": "eafb9c54",
-   "title": "Çocukları cinayet için kullanan Fransız uyuşturucu çetelerinin iç yüzü",
-   "summary": "BBC, gençlerin tuzağa düşürüldüğü, vahşice muamele gördüğü ve sömürüldüğü Marsilya'nın tehlikeli yeraltı dünyasına giriyor.",
-   "link": "https://www.bbc.com/turkce/articles/cwdd81vd27yzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-09T07:10:58+00:00",
-   "url": "/haber/cocuklari-cinayet-icin-kullanan-fransiz-uyusturucu-cetelerinin-ic-yuzu-eafb9c54/"
   },
   {
    "id": "ff6c4dd3",
