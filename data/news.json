@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-09T16:30:51.670849+00:00",
+ "updated": "2026-11-09T17:01:05.607658+00:00",
  "items": [
+  {
+   "id": "a2e2ce93",
+   "title": "WhatsApp'a Kişiler sekmesi geliyor",
+   "summary": "WhatsApp Kişiler sekmesi, Android beta sürümünde Topluluklar sekmesinin yerine geliyor. Çevrim içi kişileri yeşil noktayla en üstte gösteren sekme, bazı test kullanıcılarına açıldı.",
+   "link": "https://shiftdelete.net/whatsapp-kisiler-sekmesi-android-beta",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/f22d1bb47664f55b95f4cdb4b38fbd785ea95fa2.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-09T17:00:00+00:00",
+   "url": "/haber/whatsapp-a-kisiler-sekmesi-geliyor-a2e2ce93/"
+  },
+  {
+   "id": "68897b8a",
+   "title": "BYD'nin Hollanda ofislerine baskın: Land Rover'dan kopyalama suçlaması",
+   "summary": "Jaguar Land Rover, BYD'nin Ti7 SUV modelinin Defender'ın fikri mülkiyet haklarını ihlal ettiğini iddia ediyor. Bu kapsamda BYD'nin Hollanda'daki ofisine baskın düzenlenerek kayıtlara el konuldu.",
+   "link": "https://www.donanimhaber.com/land-rover-byd-yi-defender-i-kopyalamakla-sucladi--212685",
+   "image": "https://www.donanimhaber.com/images/images/haber/212685/1200x675land-rover-byd-yi-defender-i-kopyalamakla-sucladi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-09T16:47:00+00:00",
+   "url": "/haber/byd-nin-hollanda-ofislerine-baskin-land-rover-dan-kopyalama-suclamasi-68897b8a/"
+  },
+  {
+   "id": "74784445",
+   "title": "Nvidia hisseleri, casusluk iddialarına ilişkin soruşturma kararı sonrası düşüşte",
+   "summary": "ABD'li çip üreticisi Nvidia'nın, şirketin kurucusu ve Üst Yöneticisi (CEO) Jensen Huang'ın yabancı istihbarat faaliyetinin hedefi olduğuna ilişkin haberler üzerine bağımsız soruşturma başlatma kararının ardından…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/nvidia-hisseleri-casusluk-iddialarina-iliskin-sorusturma-karari-sonrasi-dususte/4117740",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T16:43:56+00:00",
+   "url": "/haber/nvidia-hisseleri-casusluk-iddialarina-iliskin-sorusturma-karari-sonras-74784445/"
+  },
+  {
+   "id": "eb63df5b",
+   "title": "Trump, ABD'nin mevcut seçim sistemiyle ara seçimleri kazanmanın \"imkansız\" olduğunu belirtti",
+   "summary": "ABD Başkanı Donald Trump, Kongre ara seçimlerinde uygulanan seçim sistemini eleştirerek, bu şekilde seçim kazanmanın \"imkansız\" olduğunu ifade etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-abdnin-mevcut-secim-sistemiyle-ara-secimleri-kazanmanin-imkansiz-oldugunu-belirtti/4117724",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T16:40:25+00:00",
+   "url": "/haber/trump-abd-nin-mevcut-secim-sistemiyle-ara-secimleri-kazanmanin-imkansi-eb63df5b/"
+  },
+  {
+   "id": "4933e083",
+   "title": "Cumhurbaşkanı Erdoğan: Süreci dikkatle ilerletiyoruz",
+   "summary": "Cumhurbaşkanı Erdoğan, Terörsüz Türkiye süreciyle ilgili ''Büyük ve güçlü Türkiye ülkümüzün lokomotifi olan bu stratejik projeyi başarıyla sonuçlandırmakta kararlıyız.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-sureci-dikkatle-ilerletiyoruz-1750157",
+   "image": "https://images.ntv.com.tr/images/erdogan1-464540.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-09T16:37:33+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-sureci-dikkatle-ilerletiyoruz-4933e083/"
+  },
+  {
+   "id": "7a04648f",
+   "title": "Apple Türkiye'ye yatırım yapacak",
+   "summary": "Apple Türkiye yatırımı kapsamında ülkeye beş geliştirici akademisi, bir geliştirici merkezi ve bir üretim akademisi kazandıracak. İlk akademi 2027'de İstanbul'da açılacak.",
+   "link": "https://shiftdelete.net/apple-turkiye-yatirimi-akademi-developer-center",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/apple-logo-turkiye-yatirim-kapak-0911.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-09T16:35:33+00:00",
+   "url": "/haber/apple-turkiye-ye-yatirim-yapacak-7a04648f/"
+  },
   {
    "id": "19ea51c0",
    "title": "Galaxy S24 güncellemesi dağıtılmaya başlandı",
@@ -13,6 +79,28 @@
    "url": "/haber/galaxy-s24-guncellemesi-dagitilmaya-baslandi-19ea51c0/"
   },
   {
+   "id": "67f282f8",
+   "title": "Yemen'de hükümet güçleri ile Husiler arasındaki çatışmalar 6 vilayette tırmanıyor",
+   "summary": "Yemen'de ordu ile İran destekli Husiler arasında 6 vilayette devam eden çatışma ve hava saldırılarında, çok sayıda kişi hayatını kaybetti veya yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/-yemende-hukumet-gucleri-ile-husiler-arasindaki-catismalar-6-vilayette-tirmaniyor/4117658",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T16:28:30+00:00",
+   "url": "/haber/yemen-de-hukumet-gucleri-ile-husiler-arasindaki-catismalar-6-vilayette-67f282f8/"
+  },
+  {
+   "id": "bdc7d4b4",
+   "title": "Bakan Kurum: Mavi Bölge'de konuşulanları Yeşil Bölge'de pratiğe dökmek istiyoruz",
+   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum \"Mavi Bölge'de konuşulanları Yeşil Bölge'de pratiğe dökmek istiyoruz. Programımızda 203 kurumun düzenleyeceği oturumlar olacak.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-mavi-bolgede-konusulanlari-yesil-bolgede-pratige-dokmek-istiyoruz/4117648",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T16:26:22+00:00",
+   "url": "/haber/bakan-kurum-mavi-bolge-de-konusulanlari-yesil-bolge-de-pratige-dokmek-bdc7d4b4/"
+  },
+  {
    "id": "e1027e8a",
    "title": "DeepSeek’in AI ajan platformu günlük 1,54 milyon kullanıcıya ulaştı",
    "summary": "DeepSeek'in açık kaynaklı yapay zeka ajanı Harness, üç aydan kısa sürede 1,54 milyon günlük aktif kullanıcıya ulaştı. Platform günde 92 trilyon token tüketiyor.",
@@ -22,17 +110,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T16:25:00+00:00",
    "url": "/haber/deepseek-in-ai-ajan-platformu-gunluk-1-54-milyon-kullaniciya-ulasti-e1027e8a/"
-  },
-  {
-   "id": "3b3db30c",
-   "title": "Cumhurbaşkanı Erdoğan: Süreci dikkatle ilerletiyoruz",
-   "summary": "Cumhurbaşkanı Erdoğan kabine toplantısı sonrası açıklama yapıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-kabine-toplantisi-sonrasi-aciklama-yapiyor-1750157",
-   "image": "https://images.ntv.com.tr/images/erdogan1-464540.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-09T16:22:54+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-sureci-dikkatle-ilerletiyoruz-3b3db30c/"
   },
   {
    "id": "ab1dff64",
@@ -101,15 +178,15 @@
    "url": "/haber/gazze-saglik-bakanligi-sessiz-soykirim-yasanan-gazze-de-yaklasik-2-bin-84045cac/"
   },
   {
-   "id": "aedf8fdd",
-   "title": "Cumhurbaşkanı Erdoğan konuşuyor",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kabine toplantısının ardından açıklamalarda bulunuyor.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-962703.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2026000/canli-yayin-canli-2027973.jpg",
+   "id": "dad29d49",
+   "title": "Cumhurbaşkanı Erdoğan: Gabar'da 135 milyon varil yerinde petrol potansiyeli bulundu",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Gabar'da 75,4 milyon varil Türkiye'nin en kaliteli petrolünü üretiyoruz. Gabar'ın dağlarından sevindirici haberler gelmeye devam ediyor. 2 sahadan daha sevindirici haber geldi. 135…",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-gabarda-135-milyon-varil-yerinde-petrol-potansiyeli-bulundu-962703.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/cumhurbaskani-erdogan-kabine-aa-2502227.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-09T16:05:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-konusuyor-aedf8fdd/"
+   "url": "/haber/cumhurbaskani-erdogan-gabar-da-135-milyon-varil-yerinde-petrol-potansi-dad29d49/"
   },
   {
    "id": "2bd8861e",
@@ -420,17 +497,6 @@
    "url": "/haber/otv-muafiyetli-arac-limiti-artisi-sonrasi-alinabilecek-araclar-ce718f3b/"
   },
   {
-   "id": "2d6f0c52",
-   "title": "Bakan Yumaklı, gençlerin tarımda dönüşümün en önemli unsurlarından olduğunu bildirdi",
-   "summary": "Bakan Yumaklı, artan nüfusun gıda ihtiyacının karşılanması için doğal kaynakların korunmasının önemine dikkati çekerek \"Tarımda dönüşüm, artık bir tercih değil, zorunluluktur. Bu dönüşümün en önemli unsurlarından biri…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-genclerin-tarimda-donusumun-en-onemli-unsurlarindan-oldugunu-bildirdi/4117509",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T14:47:24+00:00",
-   "url": "/haber/bakan-yumakli-genclerin-tarimda-donusumun-en-onemli-unsurlarindan-oldu-2d6f0c52/"
-  },
-  {
    "id": "9a8a267c",
    "title": "Sony’den Sürücüleri Kızdıracak Patent: Reklamlar Arabanızın İçine, Hatta Burnunuzun Dibine Kadar Girecek!",
    "summary": "Sony'nin yeni patenti, araçların algıladığı reklamlara göre kabin içine özel kokular yayarak reklamcılığı bambaşka bir boyuta taşıyor.",
@@ -486,17 +552,6 @@
    "url": "/haber/gta-6-yi-indirdikten-sonra-hemen-oynayabilecek-miyiz-8de467b4/"
   },
   {
-   "id": "0ba1b523",
-   "title": "İsrail askerleri, Suriye'nin Kuneytra ilinde gazetecilere ateş açtı, 1 kişi yaralandı",
-   "summary": "İsrail askerlerinin Suriye'nin güneyindeki Kuneytra ilinin kırsalında baskını görüntüleyen bir grup gazeteciye ateş açtığı, 1 kişinin yaralandığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-suriyenin-kuneytra-ilinde-gazetecilere-ates-acti-1-kisi-yaralandi/4117497",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T14:34:47+00:00",
-   "url": "/haber/israil-askerleri-suriye-nin-kuneytra-ilinde-gazetecilere-ates-acti-1-k-0ba1b523/"
-  },
-  {
    "id": "8ebf592e",
    "title": "PlayStation Portal Player Japonya'da çıkıyor",
    "summary": "Sony, dahili depolama eklenen yeni PlayStation Portal Player modelini duyurdu. Cihaz 10 Aralık 2026'da yalnızca Japonya'da 39.980 yen fiyatla satışa çıkacak.",
@@ -519,17 +574,6 @@
    "url": "/haber/byd-den-rolls-royce-a-rakip-elektrikli-otomobil-1-000-km-menzilli-alti-e989197d/"
   },
   {
-   "id": "786c9d88",
-   "title": "Koç Holding 2040'a kadar tatlı su çekimini yüzde 85 azaltmayı hedefliyor",
-   "summary": "Koç Holding, Türkiye'nin ev sahipliğinde gerçekleştirilen ve iklim değişikliği ile mücadelede dünyanın en önemli organizasyonu olan BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında 2040…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/koc-holding-2040a-kadar-tatli-su-cekimini-yuzde-85-azaltmayi-hedefliyor/4117487",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T14:27:07+00:00",
-   "url": "/haber/koc-holding-2040-a-kadar-tatli-su-cekimini-yuzde-85-azaltmayi-hedefliy-786c9d88/"
-  },
-  {
    "id": "22b868f4",
    "title": "İzmir'de fabrikada patlama. Fotoğraflarla patlama bölgesinde son durum",
    "summary": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında patlama sonrası yangın çıktı. Olayda 10 kişi hayatını kaybetti, dördü ağır 15 kişi yaralandı.",
@@ -550,17 +594,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T14:22:00+00:00",
    "url": "/haber/google-destegi-kesti-android-auto-artik-bu-cihazlarda-calismayacak-22ad3026/"
-  },
-  {
-   "id": "155a766a",
-   "title": "DSİ'nin Agropi Io Yapay Zeka Destekli Sulama Otomasyonu Sistemi COP31'de tanıtıldı",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığının ev sahipliğinde Antalya'da düzenlenen COP31'de, Devlet Su İşleri Genel Müdürlüğünün (DSİ) Agropi Io Yapay Zeka Destekli Sulama Otomasyonu Sistemi tanıtıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/dsinin-agropi-io-yapay-zeka-destekli-sulama-otomasyonu-sistemi-cop31de-tanitildi/4117476",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T14:21:44+00:00",
-   "url": "/haber/dsi-nin-agropi-io-yapay-zeka-destekli-sulama-otomasyonu-sistemi-cop31-155a766a/"
   },
   {
    "id": "eba045f9",
@@ -772,17 +805,6 @@
    "url": "/haber/fon-krizinde-simdiye-kadar-neler-oldu-ne-kadar-odeme-yapildi-3110d56b/"
   },
   {
-   "id": "feba8730",
-   "title": "Instagram Video İndirme: Resmi ve Güvenli Yöntemler",
-   "summary": "Herkese açık Reels videolarını 4 adımda galeriye kaydedebilirsiniz. İndir düğmesi yoksa nedeni, kendi videolarınızı alma yolu ve şifre risklerini anlattık.",
-   "link": "https://shiftdelete.net/instagram-video-indirme-nasil-yapilir",
-   "image": "/static/img/content/26-11/09/instagram-video-indirme-2026.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-09T13:20:14+00:00",
-   "url": "/haber/instagram-video-indirme-resmi-ve-guvenli-yontemler-feba8730/"
-  },
-  {
    "id": "a40d1515",
    "title": "Apple CEO'su Tim Cook Anıtkabir'i ziyaret etti, ardından Cumhurbaşkanı Erdoğan ile buluştu",
    "summary": "Apple CEO'su Tim Cook, 10 Kasım öncesinde Anıtkabir'i ziyaret etti, ardından Cumhurbaşkanı Erdoğan ve milli voleybolcu Eda Erdem'le bir araya geldi.",
@@ -794,15 +816,15 @@
    "url": "/haber/apple-ceo-su-tim-cook-anitkabir-i-ziyaret-etti-ardindan-cumhurbaskani-a40d1515/"
   },
   {
-   "id": "418a330e",
-   "title": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
-   "summary": "Cumhurbaşkanı Erdoğan, Kabine Toplantısı'nın ardından konuşuyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4117359",
+   "id": "7bfc2b2e",
+   "title": "Cumhurbaşkanı Erdoğan: Etrafımızı kuşatan istikrarsızlık sarmalına rağmen kalkınma yolculuğumuzu kesintisiz sürdürüyoruz",
+   "summary": "Cumhurbaşkanı Erdoğan, “Etrafımızı kuşatan istikrarsızlık sarmalına rağmen istikrar ve güven içinde kalkınma yolculuğumuzu kesintiye uğratmadan sürdürüyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-etrafimizi-kusatan-istikrarsizlik-sarmalina-ragmen-kalkinma-yolculugumuzu-kesintisiz-surduruyoruz/4117359",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-09T13:14:35+00:00",
-   "url": "/haber/canli-cumhurbaskani-erdogan-konusuyor-418a330e/"
+   "url": "/haber/cumhurbaskani-erdogan-etrafimizi-kusatan-istikrarsizlik-sarmalina-ragm-7bfc2b2e/"
   },
   {
    "id": "06901b5b",
@@ -814,28 +836,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T13:14:19+00:00",
    "url": "/haber/iphone-18-ve-iphone-18e-icin-yeni-detaylar-paylasildi-06901b5b/"
-  },
-  {
-   "id": "27723a0a",
-   "title": "Renault’nun küçük SUV’si Avrupa’ya Dacia olarak gelebilir",
-   "summary": "Renault’nun Hindistan için geliştirdiği Bridger, Dacia markasıyla Avrupa’ya gelebilir. Dört metreden kısa SUV’nin elektrikli versiyonu, Dacia’nın ürün gamına katılması düşünülen modeller arasında.",
-   "link": "https://www.donanimhaber.com/renault-nun-kucuk-suv-si-avrupa-ya-dacia-olarak-gelebilir--212668",
-   "image": "https://www.donanimhaber.com/images/images/haber/212668/1200x675renault-nun-kucuk-suv-si-avrupa-ya-dacia-olarak-gelebilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-09T13:13:36+00:00",
-   "url": "/haber/renault-nun-kucuk-suv-si-avrupa-ya-dacia-olarak-gelebilir-27723a0a/"
-  },
-  {
-   "id": "aa28c560",
-   "title": "Yeni telefonda 185 Hz ekran test ediliyor",
-   "summary": "Digital Chat Station, bir telefon üreticisinin 185 Hz ekran yenileme hızı sunan yeni bir model denediğini açıkladı. Cihazın bir Redmi telefon olabileceği ileri sürülüyor.",
-   "link": "https://shiftdelete.net/185-hz-ekran-yeni-telefon-test-ediliyor",
-   "image": "https://butterfly.shiftdelete.net/static/sdnweb-haberbotu/hb/4437f22ece96154b95dea5ac50646a6379974881.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-09T13:00:00+00:00",
-   "url": "/haber/yeni-telefonda-185-hz-ekran-test-ediliyor-aa28c560/"
   },
   {
    "id": "48a53236",
@@ -1036,15 +1036,15 @@
    "url": "/haber/cumhurbaskani-erdogan-terorsuz-turkiye-surecinden-geriye-donus-olmayac-3a690ce6/"
   },
   {
-   "id": "b9fcf172",
-   "title": "İzmir'de demir çelik fabrikasında patlama: 10 ölü, 15 yaralı",
-   "summary": "İzmir'de 10 kişinin hayatını kaybettiği, 15 kişinin yaralandığı patlamanın meydana geldiği demir çelik fabrikasında arama kurtarma çalışmaları sürüyor.",
-   "link": "https://www.trthaber.com/haber/turkiye/izmirde-demir-celik-fabrikasinda-patlama-10-olu-15-yarali-962677.html",
+   "id": "18b16764",
+   "title": "İzmir'de demir çelik fabrikasında patlama: 16 ölü, 13 yaralı",
+   "summary": "İzmir'de 16 kişinin hayatını kaybettiği, 13 kişinin yaralandığı patlamanın meydana geldiği demir çelik fabrikasında arama kurtarma çalışmaları sürüyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/izmirde-demir-celik-fabrikasinda-patlama-16-olu-13-yarali-962677.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/patlama-aa-2502218.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-09T09:41:00+00:00",
-   "url": "/haber/izmir-de-demir-celik-fabrikasinda-patlama-10-olu-15-yarali-b9fcf172/"
+   "url": "/haber/izmir-de-demir-celik-fabrikasinda-patlama-16-olu-13-yarali-18b16764/"
   },
   {
    "id": "28619489",
