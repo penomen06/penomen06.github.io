@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T23:01:09.776104+00:00",
+ "updated": "2026-11-09T23:30:56.668194+00:00",
  "items": [
   {
    "id": "eafb2d73",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-09T23:00:00+00:00",
+   "date": "2026-11-09T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-eafb2d73/"
+  },
+  {
+   "id": "8f82eee4",
+   "title": "ABD Başkanı Trump: Savaşın bitişine dair olumluyuz",
+   "summary": "ABD Başkanı Donald Trump, Katar başbakanı El Sani ile görüştü. \"Görüşme mükemmel geçti, çatışmanın sona ermesine dair olumlu bir ivme görüyoruz.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/abd-baskani-trump-savasin-bitisine-dair-olumluyuz-1750175",
+   "image": "https://images.ntv.com.tr/images/trump-374027.JPG",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-09T23:21:47+00:00",
+   "url": "/haber/abd-baskani-trump-savasin-bitisine-dair-olumluyuz-8f82eee4/"
+  },
+  {
+   "id": "41336f0f",
+   "title": "Nvidia CEO'sunun evlilik dışı ilişkisi ve casusluk iddiaları: Trump, Huang'a inandığını söyledi",
+   "summary": "ABD'li teknoloji devi Nvidia, CEO'su Jensen Huang hakkında bağımsız bir soruşturma başlattı. Huang, casus olduğundan şüphelenilen Çinli bir kadınla ilişkisi olduğunu itiraf etti ve soruşturma kapsamında işbirliği…",
+   "link": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-09T23:14:56+00:00",
+   "url": "/haber/nvidia-ceo-sunun-evlilik-disi-iliskisi-ve-casusluk-iddialari-trump-hua-41336f0f/"
+  },
+  {
+   "id": "3dfa1a00",
+   "title": "Trump: İran'a askeri harekat düzenlemek pek gerekli bir şey gibi görünmüyor",
+   "summary": "ABD Başkanı Donald Trump, şu anda İran'a yönelik yeni bir askeri harekata gerek olduğunu düşünmediğini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-irana-askeri-harekat-duzenlemek-pek-gerekli-bir-sey-gibi-gorunmuyor/4118080",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T23:08:42+00:00",
+   "url": "/haber/trump-iran-a-askeri-harekat-duzenlemek-pek-gerekli-bir-sey-gibi-gorunm-3dfa1a00/"
   },
   {
    "id": "a415667d",
@@ -46,15 +79,26 @@
    "url": "/haber/bakan-gurlek-ten-yeni-parti-li-ozer-e-milletvekili-olmasan-evin-aranac-41c3cdc7/"
   },
   {
-   "id": "a148fa06",
+   "id": "926ac924",
+   "title": "Lübnanlı çiftçiler, İsrail'in kısıtlamaları nedeniyle günler sonra zeytin hasadına başlayabildi",
+   "summary": "İsrail ordusunun Lübnan'ın güneyinde işgal altında tuttuğu bölgelerde zeytin hasadına yönelik kısıtlamaları sürerken, Kefer Şuba beldesindeki çiftçiler, İsrail askerlerinin kontrol noktalarından geçerek zeytinliklerine…",
+   "link": "https://www.aa.com.tr/tr/dunya/lubnanli-ciftciler-israilin-kisitlamalari-nedeniyle-gunler-sonra-zeytin-hasadina-baslayabildi-/4118027",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T21:32:59+00:00",
+   "url": "/haber/lubnanli-ciftciler-israil-in-kisitlamalari-nedeniyle-gunler-sonra-zeyt-926ac924/"
+  },
+  {
+   "id": "d5380eb2",
    "title": "\"Dinamik ve Dayanıklı Sağlık Sistemleri: Ülke Tecrübeleri\" paneli düzenlendi",
    "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Sağlıkta adalet, insanın en çaresiz anında da hakkını korumayı gerektirir. Gazze'de bir çocuğun temiz suya, bir yaralının ilaca ve tedaviye erişmesi için hepimize görev düşüyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/cop31/dinamik-ve-dayanikli-saglik-sistemleri-ulke-tecrubeleri-paneli-duzenlendi/4118026",
+   "link": "https://www.aa.com.tr/tr/gundem/dinamik-ve-dayanikli-saglik-sistemleri-ulke-tecrubeleri-paneli-duzenlendi/4118026",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-09T21:31:10+00:00",
-   "url": "/haber/dinamik-ve-dayanikli-saglik-sistemleri-ulke-tecrubeleri-paneli-duzenle-a148fa06/"
+   "url": "/haber/dinamik-ve-dayanikli-saglik-sistemleri-ulke-tecrubeleri-paneli-duzenle-d5380eb2/"
   },
   {
    "id": "c0df5453",
@@ -376,17 +420,6 @@
    "url": "/haber/apple-turkiye-ye-uzun-vadeli-yatirim-yapacagini-duyurdu-6f7d651a/"
   },
   {
-   "id": "1d1a5365",
-   "title": "ABD, Ukrayna’ya NATO’nun 4. ve 5. maddelerine benzer \"güvenlik garantileri\" verilmesini istiyor",
-   "summary": "ABD yönetiminin, Rusya-Ukrayna savaşının sona erdirilmesine yönelik müzakerelerde, Ukrayna’ya NATO’nun 4. ve 5. maddelerine benzer \"güvenlik garantileri\" verilmesini Moskova'nın gündemine getirdiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-ukrayna-ya-nato-nun-4-ve-5-maddelerine-benzer-guvenlik-garantileri-verilmesini-istiyor/4117920",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T19:24:53+00:00",
-   "url": "/haber/abd-ukrayna-ya-nato-nun-4-ve-5-maddelerine-benzer-guvenlik-garantileri-1d1a5365/"
-  },
-  {
    "id": "b2f362f4",
    "title": "NASA’nın Ay’a fırlattığı roket atmosferde elektromanyetik boşluk oluşturdu",
    "summary": "NASA'nın Artemis II roketi, iyonosferde 5.000 kilometre genişliğinde iki boşluk oluşturdu. Bu bozulma GPS sinyallerinde birkaç metrelik konum hatalarına yol açtı.",
@@ -418,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T19:19:53+00:00",
    "url": "/haber/ces-2027-odulleri-one-cikanlar-5d1c6cb8/"
-  },
-  {
-   "id": "ab433edd",
-   "title": "Apple, Türkiye'ye uzun vadeli yatırım yapacağını duyurdu",
-   "summary": "Apple, yeni nesil içerik üreticileri, girişimciler ve üreticileri desteklemek, Türkiye'nin uluslararası uygulama geliştirme alanında önde gelen merkezlerden biri olmasına katkı sağlamak amacıyla ülkeye uzun vadeli…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/apple-turkiyeye-uzun-vadeli-yatirim-yapacagini-duyurdu/4117918",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T19:18:39+00:00",
-   "url": "/haber/apple-turkiye-ye-uzun-vadeli-yatirim-yapacagini-duyurdu-ab433edd/"
   },
   {
    "id": "62c86f7e",
@@ -893,17 +915,6 @@
    "url": "/haber/byd-den-rolls-royce-a-rakip-elektrikli-otomobil-1-000-km-menzilli-alti-e989197d/"
   },
   {
-   "id": "ce3b42a2",
-   "title": "Mustafa Sarıgül'ün dosyası Ankara'ya gönderildi",
-   "summary": "Mustafa Sarıgül hakkındaki suç örgütü ve cinsel saldırı dosyası Ankara Başsavcılığına gönderildi.",
-   "link": "https://www.ntv.com.tr/turkiye/mustafa-sarigulun-dosyasi-ankaraya-gonderildi-1750143",
-   "image": "https://images.ntv.com.tr/images/mustafasarıgül-694720.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-09T14:15:07+00:00",
-   "url": "/haber/mustafa-sarigul-un-dosyasi-ankara-ya-gonderildi-ce3b42a2/"
-  },
-  {
    "id": "528af68f",
    "title": "Samsung, Yapay Zekâ Özellikleri İçin \"Galaxy AI Premium\" Aboneliğini Sunmaya Hazırlanıyor: İşte Fiyatı!",
    "summary": "Samsung, Galaxy AI için aylık 4,99 dolarlık Premium abonelik ve kullanım limitleri getirmeye hazırlanıyor.",
@@ -1111,17 +1122,6 @@
    "category": "gundem",
    "date": "2026-11-09T09:41:00+00:00",
    "url": "/haber/izmir-de-demir-celik-fabrikasinda-patlama-17-olu-12-yarali-763dea3e/"
-  },
-  {
-   "id": "f2c4f21f",
-   "title": "Antalya'da düzenlenen COP31'den neler bekleniyor, kilit sorular neler?",
-   "summary": "Birleşmiş Milletler'in 31. iklim müzakereleri bu yıl Antalya'da Türkiye ve Avustralya eş başkanlığında yapılıyor. COP31, küresel iklim hedeflerine ilişkin uyarıların sertleştiği ve aşırı hava olaylarının Nepal'den…",
-   "link": "https://www.bbc.com/turkce/articles/cw073jxd20jro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d46/live/5cd1b1d0-d473-11f1-9dda-1ba6fcc7d159.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-09T08:41:51+00:00",
-   "url": "/haber/antalya-da-duzenlenen-cop31-den-neler-bekleniyor-kilit-sorular-neler-f2c4f21f/"
   },
   {
    "id": "ff6c4dd3",
