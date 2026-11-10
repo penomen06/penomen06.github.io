@@ -1,27 +1,115 @@
 {
- "updated": "2026-11-10T11:01:06.304923+00:00",
+ "updated": "2026-11-10T11:30:53.928232+00:00",
  "items": [
+  {
+   "id": "e9d57de2",
+   "title": "Meclis'te terörsüz Türkiye mesaisi. Kurtulmuş'un ilk durağı CHP",
+   "summary": "TBMM Başkanı Numan Kurtulmuş, siyasi parti turuna çıktı. Kurtulmuş'un ilk ziyaret ettiği isim CHP Genel Başkanı Kemal Kılıçdaroğlu oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/mecliste-terorsuz-turkiye-mesaisi-kurtulmusun-ilk-duragi-chp-1750286",
+   "image": "https://images.ntv.com.tr/images/numan-kemal-709557.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T11:30:12+00:00",
+   "url": "/haber/meclis-te-terorsuz-turkiye-mesaisi-kurtulmus-un-ilk-duragi-chp-e9d57de2/"
+  },
   {
    "id": "1d7a28c3",
    "title": "Ahmet Şık'ın eşi Yonca Şık gözaltına alındı",
-   "summary": "Türkiye İşçi Partisi (TİP) İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık “siyasal veya askeri casusluk” suçlamasıyla gözaltına alındı.",
+   "summary": "Türkiye İşçi Partisi (TİP) İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık \"siyasal veya askeri casusluk\" suçlamasıyla gözaltına alındı.",
    "link": "https://www.ntv.com.tr/turkiye/ahmet-sikin-esi-yonca-sik-gozaltina-alindi-1750284",
-   "image": "https://images.ntv.com.tr/son-dakika-gorselleri/son-kirmizi(6).jpg",
+   "image": "https://images.ntv.com.tr/images/ahmetyoncaşık-959546(3).jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-10T10:59:11+00:00",
+   "date": "2026-11-10T11:24:05+00:00",
    "url": "/haber/ahmet-sik-in-esi-yonca-sik-gozaltina-alindi-1d7a28c3/"
   },
   {
-   "id": "ae7b2094",
-   "title": "Aliağa HABAŞ fabrikasındaki patlamada son durum: Hayatını kaybeden 17 işçinin kimlikleri belli oldu",
-   "summary": "İzmir Aliağa'daki HABAŞ fabrikasındaki patlamada yaşamını yitiren 17 işçinin kimlikleri belli oldu. Patlamaya ilişkin gözaltına alınanların sayısı 11'e yükseldi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-aliaga-habas-fabrikasindaki-patlamada-son-durum-hayatini-kaybeden-17-iscinin-kimlikleri-belli-oldu-1750240",
-   "image": "https://images.ntv.com.tr/images/patlama-2-667134.jpg",
-   "source": "ntv.com.tr",
+   "id": "a24695ea",
+   "title": "Çin ve ABD arasındaki casusluk geriliminin odağındaki kişi hakkında neler biliniyor?",
+   "summary": "Dünyanın en büyük çip üreticilerinden Nvidia'nın CEO'su Jensen Huang'ın merkezinde olduğu olay, bir evlilik dışı ilişki skandalının ötesine geçti.",
+   "link": "https://www.bbc.com/turkce/articles/cmd6d6ezld6do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6de/live/38aacfe0-dcf6-11f1-9ef0-4b5930e2f80e.png",
+   "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-11-10T10:58:24+00:00",
-   "url": "/haber/aliaga-habas-fabrikasindaki-patlamada-son-durum-hayatini-kaybeden-17-i-ae7b2094/"
+   "date": "2026-11-10T11:21:00+00:00",
+   "url": "/haber/cin-ve-abd-arasindaki-casusluk-geriliminin-odagindaki-kisi-hakkinda-ne-a24695ea/"
+  },
+  {
+   "id": "81a6c533",
+   "title": "Meta, yapay zeka ajanları için en ucuz modelini tanıttı: Muse Ember",
+   "summary": "Meta, AI ajanlarının tekrarlayan görevleri için geliştirdiği Muse Ember modelini duyurdu. Model, düşük maliyeti ve bazı testlerde rakiplerini geride bırakan performansıyla öne çıkıyor.",
+   "link": "https://www.donanimhaber.com/meta-ai-ajanlari-icin-en-ucuz-modelini-tanitti-muse-ember--212712",
+   "image": "https://www.donanimhaber.com/images/images/haber/212712/1200x675meta-ai-ajanlari-icin-en-ucuz-modelini-tanitti-muse-ember.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-10T11:20:00+00:00",
+   "url": "/haber/meta-yapay-zeka-ajanlari-icin-en-ucuz-modelini-tanitti-muse-ember-81a6c533/"
+  },
+  {
+   "id": "f31ba1b3",
+   "title": "Galaxy A51 Fiyatı 2026: Sıfırı Hala Alınır mı?",
+   "summary": "Sıfır A51 bugün 28.499,91 TL'ye satılıyor, ama Galaxy A56 bile daha ucuz ve A51 2024'ten beri güncelleme almıyor. Paranı nereye harcaman gerektiğini anlattık.",
+   "link": "https://shiftdelete.net/samsung-galaxy-a51-ozelikleri-ve-fiyati",
+   "image": "https://ares.shiftdelete.net/2021/06/samsung-galaxy-a51-ozelikleri-ve-fiyati-3.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T11:15:03+00:00",
+   "url": "/haber/galaxy-a51-fiyati-2026-sifiri-hala-alinir-mi-f31ba1b3/"
+  },
+  {
+   "id": "ff3a0748",
+   "title": "Von der Leyen, Karadeniz'de seyrüsefer serbestisinin korunması çağrısını yineledi",
+   "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Karadeniz'in Avrupa için ticaret yolları açısından \"hayati öneme\" sahip olduğunu ve burada seyrüsefer serbestisinin \"yeniden tesis edilmesi ve korunması\"…",
+   "link": "https://www.aa.com.tr/tr/dunya/von-der-leyen-karadenizde-seyrusefer-serbestisinin-korunmasi-cagrisini-yineledi/4118724",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T11:14:52+00:00",
+   "url": "/haber/von-der-leyen-karadeniz-de-seyrusefer-serbestisinin-korunmasi-cagrisin-ff3a0748/"
+  },
+  {
+   "id": "418368e4",
+   "title": "Araştırma: İngilizlerin yüzde 78'i İsrail'i dünya barışı için \"ciddi tehdit\" olarak görüyor",
+   "summary": "İngiltere'de yapılan araştırma, halkın yüzde 78'inin İsrail'i dünya barışı için \"ciddi tehdit\" olarak gördüğünü ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arastirma-ingilizlerin-yuzde-78i-israili-dunya-barisi-icin-ciddi-tehdit-olarak-goruyor/4118721",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T11:14:37+00:00",
+   "url": "/haber/arastirma-ingilizlerin-yuzde-78-i-israil-i-dunya-barisi-icin-ciddi-teh-418368e4/"
+  },
+  {
+   "id": "3fbada6c",
+   "title": "Toyota GR Yaris Türkiye fiyatı açıklandı",
+   "summary": "Toyota GR Yaris, Türkiye'de 8.950.000 TL'den başlayan fiyatlarla listelendi. Model 280 HP güç, 4×4 çekiş ve manuel şanzımanla geliyor, ama sınırlı sayıda ithal edilecek.",
+   "link": "https://shiftdelete.net/toyota-gr-yaris-turkiye-fiyati-aciklandi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/561b03e661cbb8684122943b8add3f62d0e21a4a.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T11:08:00+00:00",
+   "url": "/haber/toyota-gr-yaris-turkiye-fiyati-aciklandi-3fbada6c/"
+  },
+  {
+   "id": "da87d3f9",
+   "title": "İran: Hürmüz Boğazı'nda biri mayına çarpan 2 petrol tankerinde yangın çıktı",
+   "summary": "İran Devrim Muhafızları Ordusu Donanması, Hürmüz Boğazı'nda, \"izin verilmeyen bölgede\" hareket eden 2 petrol tankerinden birinin deniz mayınına çarpması sonucu alev aldığını, diğerinde ise meydana gelen bir kaza sonrası…",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-biri-mayina-carpan-2-petrol-tankerinde-yangin-cikti/4118707",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T11:04:42+00:00",
+   "url": "/haber/iran-hurmuz-bogazi-nda-biri-mayina-carpan-2-petrol-tankerinde-yangin-c-da87d3f9/"
+  },
+  {
+   "id": "7f22adbe",
+   "title": "Anıtkabir'de ziyaretçi yoğunluğu",
+   "summary": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88'inci yılında Anıtkabir'de ziyaretçi yoğunluğu yaşandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/anitkabirde-ziyaretci-yogunlugu/4118706",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T11:02:43+00:00",
+   "url": "/haber/anitkabir-de-ziyaretci-yogunlugu-7f22adbe/"
   },
   {
    "id": "6c6bef2e",
@@ -167,6 +255,17 @@
    "url": "/haber/basaksehir-de-milli-futbolcu-yusuf-sari-sol-dizinden-operasyon-gecirdi-c671ba27/"
   },
   {
+   "id": "b1c74e4f",
+   "title": "Ortalama bir insan ne kadar gıda israf ediyor?",
+   "summary": "Uzmanlar, gıda israfını azaltmanın bireyler olarak alabileceğimiz en somut iklim eylemlerinden biri olduğunu söylüyor.",
+   "link": "https://www.bbc.com/turkce/articles/cqlyey4zn381o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf06/live/999d0700-d91d-11f1-a701-fddedf244c16.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-10T10:31:49+00:00",
+   "url": "/haber/ortalama-bir-insan-ne-kadar-gida-israf-ediyor-b1c74e4f/"
+  },
+  {
    "id": "d6a9d29c",
    "title": "Cumhurbaşkanı Erdoğan: Terör meselesini çözüme kavuşturma yolunda önemli mesafe aldık",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, terör meselesini çözüme kavuşturma yolunda önemli mesafeler aldıklarını dile getirip sivil anayasa mesajı verdi.",
@@ -222,17 +321,6 @@
    "url": "/haber/bakan-ersoy-bizlere-dusen-ataturk-un-bilime-ve-egitime-verdigi-degeri-d000045d/"
   },
   {
-   "id": "ec0c6320",
-   "title": "İsrail’de \"Değişim Bloğu\", Meclis ve komisyon başkanlıkları için ortak adaylar konusunda uzlaştı",
-   "summary": "İsrail'de hükümet kurma yetkisini alan Gadi Eisenkot liderliğindeki \"Değişim Bloğu\"nun, Meclis Başkanlığı ve kilit komisyonların başına getirilecek isimler konusunda anlaşmaya vardığı duyuruldu.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-de-degisim-blogu-meclis-ve-komisyon-baskanliklari-icin-ortak-adaylar-konusunda-uzlasti/4118642",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T10:18:38+00:00",
-   "url": "/haber/israil-de-degisim-blogu-meclis-ve-komisyon-baskanliklari-icin-ortak-ad-ec0c6320/"
-  },
-  {
    "id": "c3d87e2c",
    "title": "AgarZ Nedir, Nasıl Oynanır? 2026 Rehberi",
    "summary": "2015'ten beri açık olan oyun 2026'da da aktif. Tuşlardan gold kazanmaya, skin yüklemekten hesabını korumaya kadar bilmen gereken her şeyi tek yerde topladık.",
@@ -266,17 +354,6 @@
    "url": "/haber/yolun-karsisina-gecerken-metrelerce-savruldular-18-yasindaki-aysenur-u-bd895eea/"
   },
   {
-   "id": "6b954d9e",
-   "title": "Sanayi üretim endeksi eylülde yıllık yüzde 2,6, aylık yüzde 2,1 arttı",
-   "summary": "Sanayi üretim endeksi, eylülde aylık bazda yüzde 2,1, yıllık bazda yüzde 2,6 artış gösterdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/sanayi-uretim-endeksi-eylulde-yillik-yuzde-2-6-aylik-yuzde-2-1-artti/4118633",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T10:10:09+00:00",
-   "url": "/haber/sanayi-uretim-endeksi-eylulde-yillik-yuzde-2-6-aylik-yuzde-2-1-artti-6b954d9e/"
-  },
-  {
    "id": "4b4b700e",
    "title": "Huawei Starlight 16 GB RAM ile geliyor",
    "summary": "Huawei Xingmang, yani Starlight serisi geniş ekranlı telefonlarla geliyor. 16 GB RAM'li sürüm yalnızca online satılacak, ilk stoklar da sınırlı olacak.",
@@ -286,28 +363,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T10:08:00+00:00",
    "url": "/haber/huawei-starlight-16-gb-ram-ile-geliyor-4b4b700e/"
-  },
-  {
-   "id": "b7441d18",
-   "title": "Öğrenci eylemlerinin sürdüğü Fransa'da lise ateşe verildi",
-   "summary": "Öğrenci eylemlerinin haftalardır devam ettiği ve eğitim sendikalarının bugün greve gittiği Fransa'da bir lise sabah saatlerinde ateşe verildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ogrenci-eylemlerinin-surdugu-fransada-lise-atese-verildi/4118625",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T10:04:50+00:00",
-   "url": "/haber/ogrenci-eylemlerinin-surdugu-fransa-da-lise-atese-verildi-b7441d18/"
-  },
-  {
-   "id": "c0fc8b3d",
-   "title": "Malezya'da sele kapılan 5 kişi hayatını kaybetti, 3 kişi kayboldu",
-   "summary": "Malezya'nın Selangor eyaletinde meydana gelen selde akıntıya kapılan 5 kişi hayatını kaybetti, kayıp 3 kişiyi arama çalışmaları sürüyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/malezyada-sele-kapilan-5-kisi-hayatini-kaybetti-3-kisi-kayboldu/4118621",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T10:03:00+00:00",
-   "url": "/haber/malezya-da-sele-kapilan-5-kisi-hayatini-kaybetti-3-kisi-kayboldu-c0fc8b3d/"
   },
   {
    "id": "87ea67a3",
@@ -629,17 +684,6 @@
    "url": "/haber/windows-95-ten-beri-ayni-kalan-30-yillik-ozellik-nihayet-degisiyor-e3e2456d/"
   },
   {
-   "id": "ba7aa7c0",
-   "title": "Galaxy S27 serisinin kamera sensörleri sızdı",
-   "summary": "Yeni sızıntıya göre Galaxy S27 Pro kamera dizilimi 10 MP telefoto ve 3x optik zoom içeriyor. Ultra'yla aynı ana kamerayı paylaşsa da zoom tarafında geride kalıyor.",
-   "link": "https://shiftdelete.net/galaxy-s27-pro-kamera-telefoto-3x-zoom",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/galaxy-s27-kamera-sensor-kapak-1011.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T08:38:00+00:00",
-   "url": "/haber/galaxy-s27-serisinin-kamera-sensorleri-sizdi-ba7aa7c0/"
-  },
-  {
    "id": "20f974b0",
    "title": "Cafer Mahiroğlu soruşturmasında ikinci dalga: 8 kişi için gözaltı kararı verildi",
    "summary": "Halk TV'nin sahibi Cafer Mahiroğlu hakkında yürütülen soruşturmada sekiz şüpheli hakkında daha gözaltı kararı verildi. Başsavcılık yedi şüphelinin gözaltına alındığını, bir kişinin ise firari olduğunu duyurdu.",
@@ -671,17 +715,6 @@
    "category": "gundem",
    "date": "2026-11-10T08:16:37+00:00",
    "url": "/haber/cop31-de-ataturk-e-saygi-durusu-yabanci-bir-katilimci-gozyaslarini-tut-3ac143be/"
-  },
-  {
-   "id": "aef4067f",
-   "title": "Redmi Note 15 Alınır mı? Fiyatı ve Note 17 Farkı",
-   "summary": "18.999 TL'lik Redmi Note 15; 6.000 mAh pil, 3.200 nit AMOLED ekran ve NFC sunuyor. Peki 5G ve oyun isteyenler 6.000 TL fazlasıyla Note 17'ye mi geçmeli?",
-   "link": "https://shiftdelete.net/redmi-note-15-serisi-icin-tarih-verildi",
-   "image": "/static/img/content/26-11/10/redmi-note-15-alinir-mi.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T08:16:28+00:00",
-   "url": "/haber/redmi-note-15-alinir-mi-fiyati-ve-note-17-farki-aef4067f/"
   },
   {
    "id": "41336f0f",
@@ -959,17 +992,6 @@
    "url": "/haber/buyuk-onder-ataturk-un-ebediyete-intikalinin-uzerinden-88-yil-gecti-a501b0cb/"
   },
   {
-   "id": "eeecd274",
-   "title": "LG OLED televizyonlarda ekran çürümesi problemi ortaya çıktı",
-   "summary": "Rtings tarafından gerçekleştirilen uzun süreli test, LG Display üretimi bazı WOLED panellerde \"kenar çürümesi\" adı verilen ciddi bir sorunu ortaya çıkardı.",
-   "link": "https://www.donanimhaber.com/lg-oled-televizyonlarda-ekran-curumesi-problemi-ortaya-cikti--212693",
-   "image": "https://www.donanimhaber.com/images/images/haber/212693/1200x675lg-oled-televizyonlarda-ekran-curumesi-problemi-ortaya-cikti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-09T20:59:00+00:00",
-   "url": "/haber/lg-oled-televizyonlarda-ekran-curumesi-problemi-ortaya-cikti-eeecd274/"
-  },
-  {
    "id": "93822462",
    "title": "Rojin Kabaiş'in amcasının uğradığı saldırı hakkında neler biliniyor?",
    "summary": "Rojin Kabaiş'in İstanbul'da yaşayan amcası Ahmet Kabaiş, 8 Kasım'da iş çıkışında kimliği belirsiz dört kişinin saldırısına uğradı. Saldırganların, \"Rojin'in davasından vazgeçin\" diyerek tehditte bulunduğu öne sürüldü",
@@ -1014,17 +1036,6 @@
    "url": "/haber/kahve-makineleri-kahvemizi-nasil-sevdigimizi-nasil-hatirliyor-862c9599/"
   },
   {
-   "id": "bb73660a",
-   "title": "Russell Brand, tecavüz ve cinsel saldırıdan 10 buçuk yıla mahkum oldu",
-   "summary": "İngiliz komedyen ve aktör Russell Brand, tecavüz ve cinsel saldırı suçlarından 10 yıl 6 ay hapis cezasına çarptırıldı. Hakim Joel Bennathan, ceza kararını açıklarken Brand'i \"cinsel sapık\" olarak nitelendirdi.",
-   "link": "https://www.bbc.com/turkce/articles/cwvg0g89ne0mo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1c3/live/e7281af0-dc47-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-09T18:43:32+00:00",
-   "url": "/haber/russell-brand-tecavuz-ve-cinsel-saldiridan-10-bucuk-yila-mahkum-oldu-bb73660a/"
-  },
-  {
    "id": "29125415",
    "title": "Yeni Parti'de yönetim yapısı nasıl değişiyor?",
    "summary": "Yeni Parti, 14-15 Kasım'da yapılacak ilk olağan kurultayında parti yönetimini genişletme kararı aldı. Kurucular Kurulu kararıyla, kurultayda seçilecek Parti Meclisi'nin (PM) üye sayısı 80'den 150'ye çıkarıldı. PM'nin…",
@@ -1056,17 +1067,6 @@
    "category": "gundem",
    "date": "2026-11-09T15:43:30+00:00",
    "url": "/haber/hayali-arkadaslar-zihni-nasil-gelistirebilir-78078f88/"
-  },
-  {
-   "id": "62ef6611",
-   "title": "Fon soruşturmaları: Lydia Holding yöneticisi Enver Çevik gözaltına alındı",
-   "summary": "Fon soruştrmalarıyla ilgili olarak 9 Kasım'da aralarında Enver Öevik'in olduğu iş insanları gözaltına alındı. Adalet Bakanı Akın Gürlek 9 Kasım itibarıyla soruşturma kapsamında 120'si tutuklu 464 şüpheli bulunduğunu…",
-   "link": "https://www.bbc.com/turkce/articles/cr62y2xq09ppo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da3e/live/c9a37330-dc51-11f1-a869-656dc96bd12d.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-09T15:27:43+00:00",
-   "url": "/haber/fon-sorusturmalari-lydia-holding-yoneticisi-enver-cevik-gozaltina-alin-62ef6611/"
   },
   {
    "id": "16c985cd",
