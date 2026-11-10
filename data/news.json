@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-10T04:30:53.442304+00:00",
+ "updated": "2026-11-10T05:01:00.734420+00:00",
  "items": [
+  {
+   "id": "d4828bbf",
+   "title": "Epic Games Launcher SteamOS'a geliyor",
+   "summary": "Epic Games Launcher, SteamOS'a geliyor ve Steam Deck sahipleri uygulamayı cihazlarına kurabilecek. Plan yalnızca SteamOS'la sınırlı değil, ama çıkış tarihi henüz açıklanmadı.",
+   "link": "https://shiftdelete.net/epic-games-launcher-steamos-linux-steam-deck",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/1994c0de260e2aed0c05c3be02f0cb9375925871.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T05:00:00+00:00",
+   "url": "/haber/epic-games-launcher-steamos-a-geliyor-d4828bbf/"
+  },
+  {
+   "id": "eafb2d73",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-10-kasim-2026-1750169",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T05:00:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-eafb2d73/"
+  },
+  {
+   "id": "5f1b62c0",
+   "title": "Bazı ülkeler ve teknoloji şirketleri yapay zeka güvenliğine ilişkin bildiri imzaladı",
+   "summary": "Aralarında Kanada, Fransa ve Norveç'in bulunduğu ülkeler ile Anthropic, Microsoft ve OpenAI gibi teknoloji şirketleri, yapay zeka güvenliği ve emniyetinin sağlanmasına yönelik ortak bildiriye imza attı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bazi-ulkeler-ve-teknoloji-sirketleri-yapay-zeka-guvenligine-iliskin-bildiri-imzaladi/4118115",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T04:42:44+00:00",
+   "url": "/haber/bazi-ulkeler-ve-teknoloji-sirketleri-yapay-zeka-guvenligine-iliskin-bi-5f1b62c0/"
+  },
+  {
+   "id": "3ad22bce",
+   "title": "Adana'da 3,5 büyüklüğünde deprem",
+   "summary": "Adana'nın Kozan ilçesinde saat 06.42'de 3.5 büyüklüğünde bir deprem meydana geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/adanada-35-buyuklugunde-deprem-1750192",
+   "image": "https://images.ntv.com.tr/images/deprem-2-995400.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T04:39:22+00:00",
+   "url": "/haber/adana-da-3-5-buyuklugunde-deprem-3ad22bce/"
+  },
+  {
+   "id": "3c1223ce",
+   "title": "İstanbul'daki huzur uygulamasında 445 zanlı gözaltına alındı",
+   "summary": "İstanbul'da dün yapılan huzur uygulaması kapsamında toplam 445 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-huzur-uygulamasinda-445-zanli-gozaltina-alindi/4118114",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T04:36:46+00:00",
+   "url": "/haber/istanbul-daki-huzur-uygulamasinda-445-zanli-gozaltina-alindi-3c1223ce/"
+  },
   {
    "id": "520e0774",
    "title": "Apple yapay zeka kullanım paketi 49,99 dolar",
@@ -11,17 +66,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T04:30:00+00:00",
    "url": "/haber/apple-yapay-zeka-kullanim-paketi-49-99-dolar-520e0774/"
-  },
-  {
-   "id": "eafb2d73",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-10-kasim-2026-1750169",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T04:30:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-eafb2d73/"
   },
   {
    "id": "8f82eee4",
@@ -110,6 +154,17 @@
    "category": "teknoloji",
    "date": "2026-11-10T03:30:00+00:00",
    "url": "/haber/anthropic-3-4-milyar-dolarlik-turbin-aldi-372707da/"
+  },
+  {
+   "id": "b79a93bb",
+   "title": "Nvidia ve CEO'su Huang'a yatırımcıları yanılttıkları iddiasıyla dava açıldı",
+   "summary": "ABD'li çip üreticisi Nvidia ve şirketin Üst Yöneticisi (CEO) Jensen Huang hakkında, Huang'ın Çin adına istihbarat topladığı öne sürülen Singapur merkezli Megaspeed şirketinin eski yöneticisi Alice Huang ile ilişkisini…",
+   "link": "https://www.trthaber.com/haber/dunya/nvidia-ve-ceosu-huanga-yatirimcilari-yanilttiklari-iddiasiyla-dava-acildi-962737.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/jensen-huang-rei-2502238.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-10T03:13:00+00:00",
+   "url": "/haber/nvidia-ve-ceo-su-huang-a-yatirimcilari-yanilttiklari-iddiasiyla-dava-a-b79a93bb/"
   },
   {
    "id": "3b9fe1b6",
@@ -376,17 +431,6 @@
    "url": "/haber/rojin-kabais-in-amcasinin-ugradigi-saldiri-hakkinda-neler-biliniyor-93822462/"
   },
   {
-   "id": "89a8f8bd",
-   "title": "Biket İlhan imzalı \"Tatlı Maya\" filmi, 14. Boğaziçi Film Festivali'nde izleyiciyle buluştu",
-   "summary": "\"14. Boğaziçi Film Festivali\" kapsamında yönetmen Biket İlhan'ın yönetmenliğini üstlendiği \"Tatlı Maya\" filmi sinemaseverlerle buluştu.",
-   "link": "https://www.aa.com.tr/tr/kultur/biket-ilhan-imzali-tatli-maya-filmi-14-bogazici-film-festivalinde-izleyiciyle-bulustu/4117985",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T20:30:10+00:00",
-   "url": "/haber/biket-ilhan-imzali-tatli-maya-filmi-14-bogazici-film-festivali-nde-izl-89a8f8bd/"
-  },
-  {
    "id": "2ef363bc",
    "title": "Instagram yapay zekayla yaş tahmini yapacak",
    "summary": "Meta, yapay zekayla çalışan Instagram yaş tahmini sistemini tüm dünyada devreye alıyor. Sistem, yetişkin doğum tarihi girmiş gençleri de bulup Genç Hesabı korumalarına alıyor.",
@@ -462,17 +506,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T19:59:44+00:00",
    "url": "/haber/anthropic-claude-fable-5-2-ve-claude-mythos-5-2-modellerini-kullanima-0f751d9e/"
-  },
-  {
-   "id": "f0123db7",
-   "title": "İçişleri Bakanı Çiftçi'den \"İyi ki Erdoğan var\" paylaşımı",
-   "summary": "Bakan Çiftçi, \"Dünyanın savaşlar ve krizlerle sınandığı bir dönemde, muhterem Cumhurbaşkanımız Recep Tayyip Erdoğan'ın liderliğinde Türkiye'miz, milli birlik ve kardeşliğini güçlendirerek geleceğe emin adımlarla…",
-   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-iyi-ki-erdogan-var-paylasimi/4117949",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T19:51:59+00:00",
-   "url": "/haber/icisleri-bakani-ciftci-den-iyi-ki-erdogan-var-paylasimi-f0123db7/"
   },
   {
    "id": "eeeddd13",
@@ -706,17 +739,6 @@
    "url": "/haber/cumhurbaskani-erdogan-nijer-cumhurbaskani-tchiani-ile-telefonda-gorust-3c89bca9/"
   },
   {
-   "id": "898ef59e",
-   "title": "TPU 8tx ve 8i Max: Google'dan yeni sistem",
-   "summary": "TPU 8tx ve TPU 8i Max, Google'ın 9 Kasım 2026'da duyurduğu iki yeni sistem. Güvenli çıkarım ve bellek darboğazı için ne sunuyorlar?",
-   "link": "https://shiftdelete.net/google-tpu-8tx-ve-8i-max",
-   "image": "https://shiftdelete.net/static/img/content/26-11/09/google-tpu-8tx-1794247874.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-09T18:12:52+00:00",
-   "url": "/haber/tpu-8tx-ve-8i-max-google-dan-yeni-sistem-898ef59e/"
-  },
-  {
    "id": "29125415",
    "title": "Yeni Parti'de yönetim yapısı nasıl değişiyor?",
    "summary": "Yeni Parti, 14-15 Kasım'da yapılacak ilk olağan kurultayında parti yönetimini genişletme kararı aldı. Kurucular Kurulu kararıyla, kurultayda seçilecek Parti Meclisi'nin (PM) üye sayısı 80'den 150'ye çıkarıldı. PM'nin…",
@@ -803,17 +825,6 @@
    "category": "gundem",
    "date": "2026-11-09T16:05:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-gabar-da-135-milyon-varil-yerinde-petrol-potansi-dad29d49/"
-  },
-  {
-   "id": "5113cbda",
-   "title": "Cumhurbaşkanı Erdoğan, Apple Yönetim Kurulu Başkanı Tim Cook'u kabul etti",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Apple Yönetim Kurulu Başkanı Tim Cook'u kabul etti.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-apple-yonetim-kurulu-baskani-tim-cooku-kabul-etti-1750158",
-   "image": "https://images.ntv.com.tr/images/AA-20261109-43014751-43014750-TURKISH_PRESIDENT_RECEP_TAYYIP_ERDOGAN-434195.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-09T15:57:47+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-apple-yonetim-kurulu-baskani-tim-cook-u-kabul-et-5113cbda/"
   },
   {
    "id": "78078f88",
@@ -1122,17 +1133,6 @@
    "category": "gundem",
    "date": "2026-11-09T09:41:00+00:00",
    "url": "/haber/izmir-de-demir-celik-fabrikasinda-patlama-17-olu-12-yarali-763dea3e/"
-  },
-  {
-   "id": "ff6c4dd3",
-   "title": "SKYDAGGER sınır tanımıyor: TCG Anadoludan Kamikaze İHA kalkacak",
-   "summary": "Türkiye’nin dron ve Kamikaze İHA üretimi açısından küresel gözbebeği SKYDAGGER yine son derece stratejik bir işe imza atmaya hazırlanıyor. Geçtiğimiz günlerde TB-2’den 16 dron atabilen firma, yakın gelecekte TCG…",
-   "link": "https://www.trthaber.com/haber/gundem/skydagger-sinir-tanimiyor-tcg-anadoludan-kamikaze-iha-kalkacak-962643.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/skydagger-toyca-tcg-anadolu-yapay-zeka-2502135.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-09T07:00:00+00:00",
-   "url": "/haber/skydagger-sinir-tanimiyor-tcg-anadoludan-kamikaze-iha-kalkacak-ff6c4dd3/"
   },
   {
    "id": "180fc443",
