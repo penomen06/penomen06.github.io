@@ -1,12 +1,243 @@
 {
- "updated": "2026-11-10T12:01:03.202624+00:00",
+ "updated": "2026-11-10T12:30:55.749985+00:00",
  "items": [
+  {
+   "id": "e9d57de2",
+   "title": "Meclis'te terörsüz Türkiye mesaisi",
+   "summary": "TBMM Başkanı Numan Kurtulmuş, siyasi parti turuna çıktı. Kurtulmuş önce CHP Genel Başkanı Kemal Kılıçdaroğlu'nu ardından Yeni Yol Grubu'nu ziyaret etti.",
+   "link": "https://www.ntv.com.tr/turkiye/mecliste-terorsuz-turkiye-mesaisi-kurtulmusun-ilk-duragi-chp-1750286",
+   "image": "https://images.ntv.com.tr/images/numan-kemal-709557.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T12:28:15+00:00",
+   "url": "/haber/meclis-te-terorsuz-turkiye-mesaisi-e9d57de2/"
+  },
+  {
+   "id": "b082ea6f",
+   "title": "FETÖ'nün kamu mahrem yapılanmasına yönelik soruşturmada 6 şüpheli yakalandı",
+   "summary": "Ankara merkezli 3 ilde Fetullahçı Terör Örgütü'nün (FETÖ) kamu mahrem yapılanmasında faaliyet gösterdikleri belirlenen 6 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/fetonun-kamu-mahrem-yapilanmasina-yonelik-sorusturmada-6-supheli-yakalandi/4118847",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:27:36+00:00",
+   "url": "/haber/feto-nun-kamu-mahrem-yapilanmasina-yonelik-sorusturmada-6-supheli-yaka-b082ea6f/"
+  },
+  {
+   "id": "09b9f4c1",
+   "title": "TİP Milletvekili Ahmet Şık'ın eşi Yonca Şık gözaltına alındı",
+   "summary": "TİP İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Şık İstanbul'da gözaltına alındı. Kızı ve avukatı Mina Şık'ın BBC Türkçe'ye verdiği bilgiye göre, Yonca Şık'a \"siyasal veya askeri casusluk\" suçlaması yöneltiliyor.",
+   "link": "https://www.bbc.com/turkce/articles/cv62y219ded5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4beb/live/b27191e0-dcfd-11f1-933b-ff2499ee76f6.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-10T12:25:38+00:00",
+   "url": "/haber/tip-milletvekili-ahmet-sik-in-esi-yonca-sik-gozaltina-alindi-09b9f4c1/"
+  },
+  {
+   "id": "c01141d7",
+   "title": "Katar: ABD ile İran arasındaki müzakerelerde ilerleme kaydediliyor",
+   "summary": "Katar Dışişleri Bakanlığı Medya ve İletişim Dairesi Başkanı İbrahim bin Sultan el-Haşimi, ABD ile İran arasındaki krizin çözümüne yönelik müzakerelerde ilerleme kaydedildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-abd-ile-iran-arasindaki-muzakerelerde-ilerleme-kaydediliyor/4118843",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:25:23+00:00",
+   "url": "/haber/katar-abd-ile-iran-arasindaki-muzakerelerde-ilerleme-kaydediliyor-c01141d7/"
+  },
+  {
+   "id": "e3809da9",
+   "title": "Yandex, bulut hizmetindeki verilerin yüzde 97'sine erişimi yeniden sağladı",
+   "summary": "Rus teknoloji şirketi Yandex, insansız hava aracı (İHA) saldırılarında veri merkezlerinin zarar görmesinin ardından bulut hizmeti Yandex Cloud'daki müşteri verilerinin yüzde 97,16'sına erişimin yeniden sağlandığını…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yandex-bulut-hizmetindeki-verilerin-yuzde-97sine-erisimi-yeniden-sagladi/4118842",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:24:43+00:00",
+   "url": "/haber/yandex-bulut-hizmetindeki-verilerin-yuzde-97-sine-erisimi-yeniden-sagl-e3809da9/"
+  },
+  {
+   "id": "91ac80d7",
+   "title": "İsrail'in kısıtlamaları Gazze'de 560 binden fazla çocuğu güvenli barınma imkanından yoksun bıraktı",
+   "summary": "Uluslararası yardım kuruluşu Save the Children (Çocukları Kurtarın), İsrail'in insani yardım malzemelerinin girişine yönelik kısıtlamaları nedeniyle Gazze'de 560 binden fazla çocuğun kış koşullarına karşı barınma…",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-kisitlamalari-gazzede-560-binden-fazla-cocugu-guvenli-barinma-imkanindan-yoksun-birakti/4118838",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:21:49+00:00",
+   "url": "/haber/israil-in-kisitlamalari-gazze-de-560-binden-fazla-cocugu-guvenli-barin-91ac80d7/"
+  },
+  {
+   "id": "9925308c",
+   "title": "Mercedes-Benz Fiyat Listesi - Kasım 2026",
+   "summary": "Mercedes-Benz A-Serisi, CLA, C-Serisi, EQE, S Serisi ve diğer tüm Mercedes-Benz modellerinin Kasım 2026 fiyatları Webtekno'da!",
+   "link": "https://www.webtekno.com/mercedes-benz-kasim-2026-fiyat-listesi-h228664.html",
+   "image": "https://imgrosetta.webtekno.com/file/696541/696541-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:18:06+00:00",
+   "url": "/haber/mercedes-benz-fiyat-listesi-kasim-2026-9925308c/"
+  },
+  {
+   "id": "dbed42c7",
+   "title": "Redmi Note 12 Pro 2026'da Alınır mı? Fiyatı ve İnceleme",
+   "summary": "Sıfırı 16.099 TL'ye satılıyor ama yeni Redmi Note 15 yalnızca 900 TL fazlasına geliyor. Güncelleme durumunu ve bu paraya ne alınacağını sade bir dille anlattık.",
+   "link": "https://shiftdelete.net/redmi-note-12-ve-note-12-pro-inceleme",
+   "image": "https://ares.shiftdelete.net/2023/05/redmi-note-12-ve-note-12-pro-inceleme-kapak.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:18:05+00:00",
+   "url": "/haber/redmi-note-12-pro-2026-da-alinir-mi-fiyati-ve-inceleme-dbed42c7/"
+  },
+  {
+   "id": "52e63b34",
+   "title": "Alfa Romeo Kasım 2026 Fiyat Listesi",
+   "summary": "Kasım 2026 Alfa Romeo fiyat listesi belli oldu. Markanın güncel listesinde Junior Elettrica, Junior Ibrida ve Tonale Hybrid fiyatları Webtekno'da!",
+   "link": "https://www.webtekno.com/kasim-2026-alfa-romeo-fiyat-listesi-h228523.html",
+   "image": "https://imgrosetta.webtekno.com/file/616601/616601-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:17:47+00:00",
+   "url": "/haber/alfa-romeo-kasim-2026-fiyat-listesi-52e63b34/"
+  },
+  {
+   "id": "ce8827f9",
+   "title": "Trump: İran'a tekrar saldırmamız son derece düşük ihtimal",
+   "summary": "Beyaz Saray'da gazetecilere konuşan Trump, ABD'nin İran'a yönelik yeni saldırılara girişmesini \"son derece düşük bir ihtimal\" diye nitelerken, koşulların değişmesi halinde ülkesinin \"hazır ve tetikte\" olduğunu söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/cq2d6dy66lg1o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0baa/live/f351b160-dcd8-11f1-93e1-3b657b665bcf.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-10T12:16:23+00:00",
+   "url": "/haber/trump-iran-a-tekrar-saldirmamiz-son-derece-dusuk-ihtimal-ce8827f9/"
+  },
+  {
+   "id": "5b60b0cf",
+   "title": "İsrail Maliye Bakanı Smotrich, Hamas tamamen silahsızlandırılmadan Gazze’nin yeniden imarına karşı çıktı",
+   "summary": "İsrail’de aşırı sağcı Maliye Bakanı Bezalel Smotrich, Barış Kurulu'nun İsrail'e Gazze'ye ilişkin taahhütlerini yerine getirme çağrısına karşı çıkarak, Hamas tamamen silahsızlandırılmadan Gazze Şeridi'nin yeniden imarına…",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-maliye-bakani-smotrich-hamas-tamamen-silahsizlandirilmadan-gazze-nin-yeniden-imarina-karsi-cikti/4118824",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:11:38+00:00",
+   "url": "/haber/israil-maliye-bakani-smotrich-hamas-tamamen-silahsizlandirilmadan-gazz-5b60b0cf/"
+  },
+  {
+   "id": "e1a3a0cc",
+   "title": "Sarıgül soruşturmasında yeni gelişme. 11 şüpheliye adli kontrol kararı",
+   "summary": "Sarıgül ailesiyle ilgili kara para aklama soruşturmasında gözaltına alınan 11 şüpheli adli kontrol şartıyla serbest bırakıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-yeni-gelisme-11-supheliye-adli-kontrol-karari-1750273",
+   "image": "https://images.ntv.com.tr/images/emirsarıgülmustafasarıgül-652915.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T12:10:38+00:00",
+   "url": "/haber/sarigul-sorusturmasinda-yeni-gelisme-11-supheliye-adli-kontrol-karari-e1a3a0cc/"
+  },
+  {
+   "id": "cb61a10b",
+   "title": "Murat Saraçoğlu'nun \"At Üstünde\" filmi 14. Boğaziçi Film Festivali'nde gösterildi",
+   "summary": "Yönetmenliğini ve senaristliğini Murat Saraçoğlu'nun üstlendiği \"At Üstünde\" filmi, \"14. Boğaziçi Film Festivali\"nde sinemaseverlerle buluştu.",
+   "link": "https://www.aa.com.tr/tr/kultur/murat-saracoglunun-at-ustunde-filmi-14-bogazici-film-festivalinde-gosterildi/4118820",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:10:34+00:00",
+   "url": "/haber/murat-saracoglu-nun-at-ustunde-filmi-14-bogazici-film-festivali-nde-go-cb61a10b/"
+  },
+  {
+   "id": "c0c6467e",
+   "title": "İsrail, işgal altındaki Doğu Kudüs'teki tarihi derneği bir yıl içinde ikinci kez kapatma kararı aldı",
+   "summary": "İsrail, işgal altındaki Doğu Kudüs'ün Eski Şehir bölgesinde faaliyet gösteren tarihi Burc Laklak Derneğinin merkezini bu yıl içerisinde ikinci kez 6 ay süreyle kapatma kararı aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-isgal-altindaki-dogu-kudusteki-tarihi-dernegi-bir-yil-icinde-ikinci-kez-kapatma-karari-aldi/4118818",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:09:02+00:00",
+   "url": "/haber/israil-isgal-altindaki-dogu-kudus-teki-tarihi-dernegi-bir-yil-icinde-i-c0c6467e/"
+  },
+  {
+   "id": "8f161f27",
+   "title": "Malezyalı Bakan Nga, Türkiye ile aralarında güçlü ve sağlam ortaklık bulunduğunu söyledi",
+   "summary": "Malezya Konut ve Yerel Yönetim Bakanı ve Birleşmiş Milletler İnsan Yerleşimleri Programı (UN-Habitat) Asamblesi Başkanı Nga Kor Ming, Türkiye ile Malezya arasındaki ilişkilerin dostluktan ibaret olmadığını belirterek,…",
+   "link": "https://www.aa.com.tr/tr/gundem/malezyali-bakan-nga-turkiye-ile-aralarinda-guclu-ve-saglam-ortaklik-bulundugunu-soyledi/4118817",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:08:32+00:00",
+   "url": "/haber/malezyali-bakan-nga-turkiye-ile-aralarinda-guclu-ve-saglam-ortaklik-bu-8f161f27/"
+  },
+  {
+   "id": "14a8398f",
+   "title": "Oppo'nun 12.000 mAh'lik telefonu göründü",
+   "summary": "Oppo PNC110 kod adlı yeni telefonun resmi fotoğrafları Çin'deki MIIT ruhsat veritabanına eklendi. Mor renkli 5G modelin pili 12.000 mAh civarında olabilir.",
+   "link": "https://shiftdelete.net/oppo-pnc110-resmi-goruntuler-12000-mah",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/1dc9639efd71141deba0ddbb5dbdc4b9d66048b5.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:08:00+00:00",
+   "url": "/haber/oppo-nun-12-000-mah-lik-telefonu-gorundu-14a8398f/"
+  },
+  {
+   "id": "1d7a28c3",
+   "title": "Ahmet Şık'ın eşi Yonca Şık gözaltına alındı",
+   "summary": "Türkiye İşçi Partisi (TİP) İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık \"siyasal veya askeri casusluk\" suçlamasıyla gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/ahmet-sikin-esi-yonca-sik-gozaltina-alindi-1750284",
+   "image": "https://images.ntv.com.tr/images/ahmetyoncaşık-959546(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T12:05:30+00:00",
+   "url": "/haber/ahmet-sik-in-esi-yonca-sik-gozaltina-alindi-1d7a28c3/"
+  },
+  {
+   "id": "f28383ba",
+   "title": "İstanbul'daki kara para aklama soruşturmasında 11 şüpheliye adli kontrol kararı",
+   "summary": "Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin soruşturmada gözaltına alınan 11 şüpheli hakkında adli kontrol tedbiri uygulandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-kara-para-aklama-sorusturmasinda-11-supheliye-adli-kontrol-karari/4118811",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:03:45+00:00",
+   "url": "/haber/istanbul-daki-kara-para-aklama-sorusturmasinda-11-supheliye-adli-kontr-f28383ba/"
+  },
+  {
+   "id": "53009142",
+   "title": "Apple'ın Türkiye yatırımı hakkında neler biliniyor?",
+   "summary": "Apple Türkiye'de toplam yedi yeni geliştirici ve üretim akademisi açacağını duyurdu.",
+   "link": "https://www.bbc.com/turkce/articles/cm4g1gy1p18eo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec34/live/2184b2d0-dcfc-11f1-ac44-374ba65bb918.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-10T12:01:25+00:00",
+   "url": "/haber/apple-in-turkiye-yatirimi-hakkinda-neler-biliniyor-53009142/"
+  },
+  {
+   "id": "5a3b4395",
+   "title": "Koltukların Altında Gizlenen Tozların Sonunu Getiren Teknoloji: 90 Derece Bükülebilen Tasarımın Sırrı",
+   "summary": "Temizlik yaparken en çok üşendiğimiz, hatta bazen \"Aman orası da kalsın\" diyerek es geçtiğimiz yerler genellikle koltuk, baza ve TV ünitesi altlarıdır. Gözden ırak olan bu alanlar, zamanla devasa toz yumaklarına ve…",
+   "link": "https://www.webtekno.com/koltuklarin-altinda-gizlenen-tozlarin-sonunu-getiren-teknoloji-90-derece-bukulebilen-tasarimin-sirri-h228583.html",
+   "image": "https://imgrosetta.webtekno.com/file/696364/696364-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-10T11:59:44+00:00",
+   "url": "/haber/koltuklarin-altinda-gizlenen-tozlarin-sonunu-getiren-teknoloji-90-dere-5a3b4395/"
+  },
+  {
+   "id": "12ac302e",
+   "title": "Yeni Bir Kahve Makinesi Alırken Gözlerinizin Mutlaka Araması Gereken Akıllı Sensör Teknolojileri",
+   "summary": "Sabahları gözümüzü açar açmaz aradığımız ilk şey sağlam, dumanı tüten bir kahve oluyor. Ancak iyi bir kahve yapmak, sadece sıcak suyu kahve tozundan geçirmekten çok daha karmaşık bir mühendislik işi. Hele ki mutfağınıza…",
+   "link": "https://www.webtekno.com/yeni-bir-kahve-makinesi-alirken-gozlerinizin-mutlaka-aramasi-gereken-akilli-sensor-teknolojileri-h228478.html",
+   "image": "https://imgrosetta.webtekno.com/file/696124/696124-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-10T11:59:12+00:00",
+   "url": "/haber/yeni-bir-kahve-makinesi-alirken-gozlerinizin-mutlaka-aramasi-gereken-a-12ac302e/"
+  },
   {
    "id": "5def5ea8",
    "title": "Şirketlerde Rutin İşleri Azaltan Otomasyon Teknolojileri",
    "summary": "Veri girişi, onay, bildirim ve görev atama süreçlerinin otomasyonu şirketlerde rutin işleri azaltıyor. İş akışı otomasyonunun işletmelere sağladığı avantajları keşfedin.",
    "link": "https://shiftdelete.net/sirketlerde-rutin-isleri-azaltan-otomasyon-teknolojileri",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/bitrix24-otomasyon-kapak-1011.webp",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/otomasyon-yz-kapak-1011.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-10T11:55:37+00:00",
@@ -79,39 +310,6 @@
    "url": "/haber/fable-5-2-tek-komutla-fps-oyunu-yapti-11cb80d8/"
   },
   {
-   "id": "008ea148",
-   "title": "Ankara'nın yüksek kesimlerinde kar yağışı etkili oldu",
-   "summary": "Ankara'da öğle saatlerinde başlayan kar yağışı, kentin yüksek kesimlerinde etkili oldu.",
-   "link": "https://www.aa.com.tr/tr/gundem/ankaranin-yuksek-kesimlerinde-kar-yagisi-etkili-oldu/4118760",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T11:33:56+00:00",
-   "url": "/haber/ankara-nin-yuksek-kesimlerinde-kar-yagisi-etkili-oldu-008ea148/"
-  },
-  {
-   "id": "e9d57de2",
-   "title": "Meclis'te terörsüz Türkiye mesaisi. Kurtulmuş'un ilk durağı CHP",
-   "summary": "TBMM Başkanı Numan Kurtulmuş, siyasi parti turuna çıktı. Kurtulmuş'un ilk ziyaret ettiği isim CHP Genel Başkanı Kemal Kılıçdaroğlu oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/mecliste-terorsuz-turkiye-mesaisi-kurtulmusun-ilk-duragi-chp-1750286",
-   "image": "https://images.ntv.com.tr/images/numan-kemal-709557.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T11:32:42+00:00",
-   "url": "/haber/meclis-te-terorsuz-turkiye-mesaisi-kurtulmus-un-ilk-duragi-chp-e9d57de2/"
-  },
-  {
-   "id": "1d7a28c3",
-   "title": "Ahmet Şık'ın eşi Yonca Şık gözaltına alındı",
-   "summary": "Türkiye İşçi Partisi (TİP) İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık \"siyasal veya askeri casusluk\" suçlamasıyla gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/ahmet-sikin-esi-yonca-sik-gozaltina-alindi-1750284",
-   "image": "https://images.ntv.com.tr/images/ahmetyoncaşık-959546(3).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T11:24:05+00:00",
-   "url": "/haber/ahmet-sik-in-esi-yonca-sik-gozaltina-alindi-1d7a28c3/"
-  },
-  {
    "id": "a24695ea",
    "title": "Çin ve ABD arasındaki casusluk geriliminin odağındaki kişi hakkında neler biliniyor?",
    "summary": "Dünyanın en büyük çip üreticilerinden Nvidia'nın CEO'su Jensen Huang'ın merkezinde olduğu olay, bir evlilik dışı ilişki skandalının ötesine geçti.",
@@ -145,28 +343,6 @@
    "url": "/haber/galaxy-a51-fiyati-2026-sifiri-hala-alinir-mi-f31ba1b3/"
   },
   {
-   "id": "ff3a0748",
-   "title": "Von der Leyen, Karadeniz'de seyrüsefer serbestisinin korunması çağrısını yineledi",
-   "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Karadeniz'in Avrupa için ticaret yolları açısından \"hayati öneme\" sahip olduğunu ve burada seyrüsefer serbestisinin \"yeniden tesis edilmesi ve korunması\"…",
-   "link": "https://www.aa.com.tr/tr/dunya/von-der-leyen-karadenizde-seyrusefer-serbestisinin-korunmasi-cagrisini-yineledi/4118724",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T11:14:52+00:00",
-   "url": "/haber/von-der-leyen-karadeniz-de-seyrusefer-serbestisinin-korunmasi-cagrisin-ff3a0748/"
-  },
-  {
-   "id": "418368e4",
-   "title": "Araştırma: İngilizlerin yüzde 78'i İsrail'i dünya barışı için \"ciddi tehdit\" olarak görüyor",
-   "summary": "İngiltere'de yapılan araştırma, halkın yüzde 78'inin İsrail'i dünya barışı için \"ciddi tehdit\" olarak gördüğünü ortaya koydu.",
-   "link": "https://www.aa.com.tr/tr/dunya/arastirma-ingilizlerin-yuzde-78i-israili-dunya-barisi-icin-ciddi-tehdit-olarak-goruyor/4118721",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T11:14:37+00:00",
-   "url": "/haber/arastirma-ingilizlerin-yuzde-78-i-israil-i-dunya-barisi-icin-ciddi-teh-418368e4/"
-  },
-  {
    "id": "3fbada6c",
    "title": "Toyota GR Yaris Türkiye fiyatı açıklandı",
    "summary": "Toyota GR Yaris, Türkiye'de 8.950.000 TL'den başlayan fiyatlarla listelendi. Model 280 HP güç, 4×4 çekiş ve manuel şanzımanla geliyor, ama sınırlı sayıda ithal edilecek.",
@@ -176,28 +352,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T11:08:00+00:00",
    "url": "/haber/toyota-gr-yaris-turkiye-fiyati-aciklandi-3fbada6c/"
-  },
-  {
-   "id": "da87d3f9",
-   "title": "İran: Hürmüz Boğazı'nda biri mayına çarpan 2 petrol tankerinde yangın çıktı",
-   "summary": "İran Devrim Muhafızları Ordusu Donanması, Hürmüz Boğazı'nda, \"izin verilmeyen bölgede\" hareket eden 2 petrol tankerinden birinin deniz mayınına çarpması sonucu alev aldığını, diğerinde ise meydana gelen bir kaza sonrası…",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-biri-mayina-carpan-2-petrol-tankerinde-yangin-cikti/4118707",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T11:04:42+00:00",
-   "url": "/haber/iran-hurmuz-bogazi-nda-biri-mayina-carpan-2-petrol-tankerinde-yangin-c-da87d3f9/"
-  },
-  {
-   "id": "7f22adbe",
-   "title": "Anıtkabir'de ziyaretçi yoğunluğu",
-   "summary": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88'inci yılında Anıtkabir'de ziyaretçi yoğunluğu yaşandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/anitkabirde-ziyaretci-yogunlugu/4118706",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T11:02:43+00:00",
-   "url": "/haber/anitkabir-de-ziyaretci-yogunlugu-7f22adbe/"
   },
   {
    "id": "6c6bef2e",
@@ -233,28 +387,6 @@
    "url": "/haber/ios-27-2-1-yayimlandi-iste-iphone-lara-gelen-yeni-guncellemenin-detayl-b115ea23/"
   },
   {
-   "id": "0328cdd5",
-   "title": "Rusya Dışişleri Bakanı Lavrov, İsrail'in Trump'ın Gazze planını uygulamadığını söyledi",
-   "summary": "Rusya Dışişleri Bakanı Sergey Lavrov, İsrail'in, ABD Başkanı Donald Trump'ın Gazze planını uygulamadığını belirterek \"İsrail, Filistin Devleti'nin kurulmasının hayal edilmemesi gerektiğini açıklıyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-disisleri-bakani-lavrov-israilin-trumpin-gazze-planini-uygulamadigini-soyledi/4118694",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T10:50:56+00:00",
-   "url": "/haber/rusya-disisleri-bakani-lavrov-israil-in-trump-in-gazze-planini-uygulam-0328cdd5/"
-  },
-  {
-   "id": "9d69be00",
-   "title": "Küresel piyasalarda \"korku\" yumuşadı",
-   "summary": "Piyasalarda \"korku endeksi\" olarak bilinen VIX Endeksi, ABD'de Kongre ara seçimleri sonrası yapay zeka yatırımlarına ilişkin artan endişelerin yatışması ve Orta Doğu gündeminin ılımlı seyretmesiyle geçen haftadan bu…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-korku-yumusadi/4118693",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T10:50:47+00:00",
-   "url": "/haber/kuresel-piyasalarda-korku-yumusadi-9d69be00/"
-  },
-  {
    "id": "b5b58777",
    "title": "Ankara'da lapa lapa kar sürprizi: Kar yağışı devam edecek mi?",
    "summary": "Başkent Ankara'da sabah başlayan sağanak, öğle saatlerine doğru lapa lapa kar yağışına döndü. Yurdu etkisi altına alan Sibirya soğuklarının yarından itibaren etkisini yitirmesi bekleniyor.",
@@ -275,17 +407,6 @@
    "category": "gundem",
    "date": "2026-11-10T10:44:25+00:00",
    "url": "/haber/izmir-deki-habas-fabrikasinda-olen-muhendisin-kardesinden-carpici-iddi-51709411/"
-  },
-  {
-   "id": "c7c6474b",
-   "title": "İsrail'in Gazze'deki saldırılarında İngiltere'nin rolünün araştırılması için 100 binden fazla imza toplandı",
-   "summary": "İsrail'in Ekim 2023'ten bu yana Gazze'ye düzenlediği saldırılarda İngiltere'nin rolünün araştırılması talebiyle başlatılan imza kampanyasında 100 bin imza eşiği aşıldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzedeki-saldirilarinda-ingilterenin-rolunun-arastirilmasi-icin-100-binden-fazla-imza-toplandi/4118690",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T10:43:21+00:00",
-   "url": "/haber/israil-in-gazze-deki-saldirilarinda-ingiltere-nin-rolunun-arastirilmas-c7c6474b/"
   },
   {
    "id": "b7a23e65",
@@ -332,17 +453,6 @@
    "url": "/haber/cumhurbaskani-erdogan-teror-meselesini-cozume-kavusturma-yolunda-oneml-d6a9d29c/"
   },
   {
-   "id": "0138a4ba",
-   "title": "Sarıgül soruşturmasında yeni gelişme. Üç şüpheli adli kontrolle serbest bırakıldı",
-   "summary": "Sarıgül ailesiyle ilgili kara para aklama soruşturmasında gözaltına alınan üç şüpheli adli kontrol şartıyla serbest bırakıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-yeni-gelisme-uc-supheli-adli-kontrolle-serbest-birakildi-1750273",
-   "image": "https://images.ntv.com.tr/images/emirsarıgülmustafasarıgül-652915.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T10:31:32+00:00",
-   "url": "/haber/sarigul-sorusturmasinda-yeni-gelisme-uc-supheli-adli-kontrolle-serbest-0138a4ba/"
-  },
-  {
    "id": "c3d87e2c",
    "title": "AgarZ Nedir, Nasıl Oynanır? 2026 Rehberi",
    "summary": "2015'ten beri açık olan oyun 2026'da da aktif. Tuşlardan gold kazanmaya, skin yüklemekten hesabını korumaya kadar bilmen gereken her şeyi tek yerde topladık.",
@@ -387,17 +497,6 @@
    "url": "/haber/huawei-starlight-16-gb-ram-ile-geliyor-4b4b700e/"
   },
   {
-   "id": "87ea67a3",
-   "title": "Sanayinin yeşil dönüşümünde özel sektör finansmanı önem taşıyor",
-   "summary": "Birleşmiş Milletler Sınai Kalkınma Örgütü (UNIDO) İklim ve Teknoloji Ortaklıkları Bölümü Şefi Petra Schwager, sanayinin sürdürülebilir dönüşümü için kamu kaynaklarının yanı sıra özel sektör yatırımlarına da ihtiyaç…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/sanayinin-yesil-donusumunde-ozel-sektor-finansmani-onem-tasiyor-/4118573",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T09:44:12+00:00",
-   "url": "/haber/sanayinin-yesil-donusumunde-ozel-sektor-finansmani-onem-tasiyor-87ea67a3/"
-  },
-  {
    "id": "3226eb49",
    "title": "Samsung'dan bir modele daha One UI 9.0 sürprizi",
    "summary": "Samsung, Android 17 tabanlı One UI 9.0 güncellemesi için dağıtımı sürdürüyor. Son olarak yeni güncelleme, bir model için daha listelenmeye başladı. İşte detaylar...",
@@ -424,7 +523,7 @@
    "title": "Türkiye'nin COP ev sahipliği BM Genel Sekreteri Guterres'i etkiledi",
    "summary": "BM Genel Sekreteri Antonio Guterres, Türkiye'nin COP organizasyonunun yüksek kalitesinden etkilendiğini belirterek ev sahipliğine övgüde bulundu.",
    "link": "https://www.trthaber.com/haber/dunya/turkiyenin-cop-ev-sahipligi-bm-genel-sekreteri-guterresi-etkiledi-962796.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2444000/antonio-guterresaa-2445415.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/guterres-2502485.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-10T09:41:00+00:00",
@@ -596,28 +695,6 @@
    "url": "/haber/anitkabir-ve-dolmabahce-de-yas-0639daab/"
   },
   {
-   "id": "f605f1a5",
-   "title": "Desecure'den yapay zekalı güvenlik sistemi",
-   "summary": "Desecure Technology, yapay zeka destekli video analiz, radar ve termal kameraları tek mimaride birleştirip 7/24 alarm izlemeyle destekliyor.",
-   "link": "https://shiftdelete.net/desecure-technology-yapay-zeka-entegre-guvenlik",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/desecure-mobil-izleme-kulesi-kapak-1011.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T09:05:27+00:00",
-   "url": "/haber/desecure-den-yapay-zekali-guvenlik-sistemi-f605f1a5/"
-  },
-  {
-   "id": "21691fa1",
-   "title": "Vodafone'un servis geliri 84,8 milyar TL oldu",
-   "summary": "Vodafone Türkiye, 2026-27 mali yılının ilk yarısında 84,8 milyar TL servis geliri açıkladı; mobil abone sayısı 25,4 milyona çıktı.",
-   "link": "https://shiftdelete.net/vodafone-turkiye-2026-27-ilk-yariyil-sonuclari",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/vodafone-ilk-yariyil-kapak-1011.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T09:05:05+00:00",
-   "url": "/haber/vodafone-un-servis-geliri-84-8-milyar-tl-oldu-21691fa1/"
-  },
-  {
    "id": "5127c1e9",
    "title": "Blade Runner 2099 dizisinin yeni fragmanı yayınlandı: 25 Kasım'da geliyor",
    "summary": "Bu ay Amazon Prime Video'da izleyici ile buluşacak olan Blade Runner 2099 dizisinden son fragman yayınlandı. Dizi, sevilen bilim-kurgu serisinin hikâyesini devam ettiriyor.",
@@ -737,17 +814,6 @@
    "category": "gundem",
    "date": "2026-11-10T08:15:53+00:00",
    "url": "/haber/turkiye-sualti-sporlari-federasyonunun-da-yeniden-insa-calismalari-cb095631/"
-  },
-  {
-   "id": "41336f0f",
-   "title": "Trump: FBI, Nvidia CEO'sunun Çin casusu olduğu iddia edilen kadınla ilişkisini soruşturuyor",
-   "summary": "ABD Başkanı Donald Trump, FBI'ın Nvidia'nın CEO'su Jensen Huang'ın ile Çin casusu olduğu iddia edilen bir kadın arasındaki ilişkiyi soruşturduğunu söyledi.",
-   "link": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-10T08:15:14+00:00",
-   "url": "/haber/trump-fbi-nvidia-ceo-sunun-cin-casusu-oldugu-iddia-edilen-kadinla-ilis-41336f0f/"
   },
   {
    "id": "022a3aef",
@@ -992,17 +1058,6 @@
    "url": "/haber/buyuk-onder-ataturk-un-ebediyete-intikalinin-uzerinden-88-yil-gecti-a501b0cb/"
   },
   {
-   "id": "93822462",
-   "title": "Rojin Kabaiş'in amcasının uğradığı saldırı hakkında neler biliniyor?",
-   "summary": "Rojin Kabaiş'in İstanbul'da yaşayan amcası Ahmet Kabaiş, 8 Kasım'da iş çıkışında kimliği belirsiz dört kişinin saldırısına uğradı. Saldırganların, \"Rojin'in davasından vazgeçin\" diyerek tehditte bulunduğu öne sürüldü",
-   "link": "https://www.bbc.com/turkce/articles/c6rryr2evv5qo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3221/live/649ad480-dc7c-11f1-ba95-5f07efd49f42.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-09T20:36:20+00:00",
-   "url": "/haber/rojin-kabais-in-amcasinin-ugradigi-saldiri-hakkinda-neler-biliniyor-93822462/"
-  },
-  {
    "id": "afe27ddc",
    "title": "Apple'dan Türkiye'ye uzun vadeli yatırım: 5 yeni akademi ve 1 merkez açılacak",
    "summary": "ABD'li teknoloji şirketi Apple, Türkiye'de beş yeni Apple Developer Academy, bir Apple Developer Center ve bir Apple Manufacturing Academy açacağını duyurdu. Gelecek üç yılda hayata geçirilecek yatırımlar kapsamında ilk…",
@@ -1089,50 +1144,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T14:49:57+00:00",
    "url": "/haber/insta360-tan-efsane-cuma-firsati-yeni-x6-ve-luna-ultra-ilk-kez-indirim-9f48b7c2/"
-  },
-  {
-   "id": "ce718f3b",
-   "title": "ÖTV Muafiyetli Araç Limiti Artışı Sonrası Alınabilecek Araçlar",
-   "summary": "ÖTV muafiyetli araç alım limitinin 2027'de 3 milyon 673 bin TL'ye yükselmesi bekleniyor. Peki yeni limit kapsamında hangi otomobiller alınabilecek? İşte ÖTV muafiyetli araçlar ve fiyatları!",
-   "link": "https://www.webtekno.com/otv-muafiyetli-arac-limiti-artisi-sonrasi-alinabilecek-araclar-h228551.html",
-   "image": "https://imgrosetta.webtekno.com/file/696418/696418-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:48:24+00:00",
-   "url": "/haber/otv-muafiyetli-arac-limiti-artisi-sonrasi-alinabilecek-araclar-ce718f3b/"
-  },
-  {
-   "id": "9a8a267c",
-   "title": "Sony’den Sürücüleri Kızdıracak Patent: Reklamlar Arabanızın İçine, Hatta Burnunuzun Dibine Kadar Girecek!",
-   "summary": "Sony'nin yeni patenti, araçların algıladığı reklamlara göre kabin içine özel kokular yayarak reklamcılığı bambaşka bir boyuta taşıyor.",
-   "link": "https://www.webtekno.com/sony-suruculeri-kizdiracak-patent-h228598.html",
-   "image": "https://imgrosetta.webtekno.com/file/696376/696376-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:47:23+00:00",
-   "url": "/haber/sony-den-suruculeri-kizdiracak-patent-reklamlar-arabanizin-icine-hatta-9a8a267c/"
-  },
-  {
-   "id": "272ad981",
-   "title": "Başkentte 247 Kilometrelik Akıllı Ulaşım Koridoru Kuruluyor: Peki Ne İşe Yarayacak?",
-   "summary": "Ankara'da 247 kilometrelik akıllı ulaşım koridoru kurularak bağlantılı ve otonom sürüş teknolojileri daha geniş bir alana taşınıyor.",
-   "link": "https://www.webtekno.com/baskentte-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor-h228619.html",
-   "image": "https://imgrosetta.webtekno.com/file/696391/696391-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:44:02+00:00",
-   "url": "/haber/baskentte-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor-peki-ne-is-272ad981/"
-  },
-  {
-   "id": "8de467b4",
-   "title": "GTA 6'yı İndirdikten Sonra Hemen Oynayabilecek miyiz?",
-   "summary": "GTA 6'yı indirdikten sonra hemen oynayabilecek miyiz? GTA 6 ne zaman oynanacak?",
-   "link": "https://www.webtekno.com/gta-6-indirdikten-sonra-hemen-oynayabilecek-miyiz-h228616.html",
-   "image": "https://imgrosetta.webtekno.com/file/694897/694897-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:35:57+00:00",
-   "url": "/haber/gta-6-yi-indirdikten-sonra-hemen-oynayabilecek-miyiz-8de467b4/"
   },
   {
    "id": "0a91d201",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-11-08T14:30:00+00:00",
    "url": "/haber/misir-da-tren-kazasi-7-olu-112-yarali-a6ad4767/"
-  },
-  {
-   "id": "43546b07",
-   "title": "Beslenmeniz cildinizin yaşlanmasına neden olabilir mi?",
-   "summary": "Yediğiniz yiyecekler cildinizin yaşlanmasına neden olabilir mi? Uzmanlar, şeker, alkol ve aşırı işlenmiş gıdaların kırışıklıkları nasıl etkileyebileceğini ve daha sağlıklı görünen bir cildi destekleyebilecek basit…",
-   "link": "https://www.bbc.com/turkce/articles/c6073l3xld51o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f7e9/live/fb46df60-cee3-11f1-a701-fddedf244c16.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-08T09:57:38+00:00",
-   "url": "/haber/beslenmeniz-cildinizin-yaslanmasina-neden-olabilir-mi-43546b07/"
   },
   {
    "id": "60c24bbe",
