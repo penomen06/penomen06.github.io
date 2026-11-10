@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T21:30:52.768559+00:00",
+ "updated": "2026-11-10T22:01:07.257787+00:00",
  "items": [
   {
    "id": "816cae9f",
@@ -9,7 +9,7 @@
    "image": "https://www.donanimhaber.com/images/images/haber/212741/1200x675amazon-da-11-11-indirimleri-basladi-2026-11-kasim-a-ozel-firsat.jpg",
    "source": "DonanımHaber - Türkiye'nin Lider…",
    "category": "teknoloji",
-   "date": "2026-11-10T21:30:20+00:00",
+   "date": "2026-11-10T22:00:28+00:00",
    "url": "/haber/amazon-da-11-11-indirimleri-basladi-iste-11-kasim-a-ozel-firsatlar-816cae9f/"
   },
   {
@@ -20,8 +20,85 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-10T21:30:00+00:00",
+   "date": "2026-11-10T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f408b328/"
+  },
+  {
+   "id": "42162f1e",
+   "title": "Merkez Bankası iki elektronik para kuruluşunun faaliyet iznini iptal etti",
+   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Ozan Elektronik Para A.Ş. ile A Ödeme ve Elektronik Para Hizmetleri A.Ş.'nin faaliyet izinlerini iptal etti. Kararlar, Resmi Gazete'de yayımlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/merkez-bankasi-iki-elektronik-para-kurulusunun-faaliyet-iznini-iptal-etti-1750331",
+   "image": "https://images.ntv.com.tr/images/merkezbankasi-304287.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T21:51:56+00:00",
+   "url": "/haber/merkez-bankasi-iki-elektronik-para-kurulusunun-faaliyet-iznini-iptal-e-42162f1e/"
+  },
+  {
+   "id": "4d2cbba6",
+   "title": "İsrail'in yeni parlamentosu yemin etti, liderler hükümeti kurmak için yarışıyor",
+   "summary": "İsrail'in yeni parlamentosu yemin etti; muhalefet lideri Gadi Eisenkot hükümeti kurmak için girişimlerde bulunuyor.",
+   "link": "https://www.bbc.com/turkce/articles/c3j4rxxn0yy2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c59/live/be161870-dd4f-11f1-b441-2b33b063138f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-10T21:48:18+00:00",
+   "url": "/haber/israil-in-yeni-parlamentosu-yemin-etti-liderler-hukumeti-kurmak-icin-y-4d2cbba6/"
+  },
+  {
+   "id": "4babaf2b",
+   "title": "Businesses in ChatGPT, beta olarak açıldı",
+   "summary": "OpenAI, 10 Kasım'da Businesses in ChatGPT özelliğini beta olarak açtı. İşletmeler profilini talep edebiliyor; Business Agent ise şimdilik ABD ile sınırlı.",
+   "link": "https://shiftdelete.net/businesses-in-chatgpt",
+   "image": "https://shiftdelete.net/static/img/content/26-11/11/businesses-in-chatgpt-1794346771.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T21:39:32+00:00",
+   "url": "/haber/businesses-in-chatgpt-beta-olarak-acildi-4babaf2b/"
+  },
+  {
+   "id": "dc4c37d8",
+   "title": "İran Dışişleri Bakanı Erakçi, BM'den ABD'nin İran'ın nükleer programına yönelik ödül kararını kınamasını istedi",
+   "summary": "İran Dışişleri Bakanı Abbas Erakçi, ABD Dışişleri Bakanlığının İran'ın nükleer programına ilişkin bilgi sağlayanlara 20 milyon dolara kadar ödül verileceğini açıklamasına tepki gösterdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-bmden-abdnin-iranin-nukleer-programina-yonelik-odul-kararini-kinamasini-istedi/4119571",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T21:36:57+00:00",
+   "url": "/haber/iran-disisleri-bakani-erakci-bm-den-abd-nin-iran-in-nukleer-programina-dc4c37d8/"
+  },
+  {
+   "id": "33fc354b",
+   "title": "Claude Sheets, bugün ücretli planlara açıldı",
+   "summary": "Anthropic 10 Kasım'da Whiteboards ve Sheets'i beta olarak açtı, Claude Data da genel kullanıma geçti. Pro aylık 20 dolar; Türkiye'de toplam tutar değişir mi?",
+   "link": "https://shiftdelete.net/claude-sheets-acildi",
+   "image": "https://shiftdelete.net/static/img/content/26-11/10/claude-sheets.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T21:36:26+00:00",
+   "url": "/haber/claude-sheets-bugun-ucretli-planlara-acildi-33fc354b/"
+  },
+  {
+   "id": "b31c7ec0",
+   "title": "BBC araştırması, Epstein'in cinsel istismar ağına uzanan model ajansı bağlantılarını ortaya koydu",
+   "summary": "BBC'nin araştırması, reşit olmayan kız çocuklarına yönelik fuhuş ağı kurduğu iddiasıyla yargılanırken 2019'da hapishanede ölü bulunan Jeffrey Epstein'in model ajansları aracılığıyla genç kadınlara ulaştığına ilişkin…",
+   "link": "https://www.aa.com.tr/tr/dunya/bbc-arastirmasi-epsteinin-cinsel-istismar-agina-uzanan-model-ajansi-baglantilarini-ortaya-koydu/4119570",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T21:36:14+00:00",
+   "url": "/haber/bbc-arastirmasi-epstein-in-cinsel-istismar-agina-uzanan-model-ajansi-b-b31c7ec0/"
+  },
+  {
+   "id": "39e773ee",
+   "title": "Starlink Mini 2, değişebilir pille ön siparişte",
+   "summary": "Starlink Mini 2, 71 Wh değişebilir pille 4,5 saate kadar çalışıyor. Ön sipariş davetli ABD kullanıcılarına açık; Türkiye'de resmi fiyat yok.",
+   "link": "https://shiftdelete.net/starlink-mini-2-pil",
+   "image": "https://shiftdelete.net/static/img/content/26-11/10/starlink-mini-2.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T21:36:10+00:00",
+   "url": "/haber/starlink-mini-2-degisebilir-pille-on-sipariste-39e773ee/"
   },
   {
    "id": "7e506ad6",
@@ -35,8 +112,19 @@
    "url": "/haber/openai-chatgpt-yi-isletmeler-icin-yeni-bir-platforma-donusturuyor-7e506ad6/"
   },
   {
+   "id": "b7135b27",
+   "title": "ABD'li senatörden İsrail'e, \"Gazze'ye acil insani yardım girişine izin vermesi\" çağrısı",
+   "summary": "ABD'li senatör Brian Schatz, binlerce Filistinliyi etkileyen ölümcül sel felaketinin ardından Gazze'ye acil yardım malzemelerinin girmesine izin vermesi için İsrail'e çağrıda bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdli-senatorden-israile-gazzeye-acil-insani-yardim-girisine-izin-vermesi-cagrisi/4119556",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T21:10:59+00:00",
+   "url": "/haber/abd-li-senatorden-israil-e-gazze-ye-acil-insani-yardim-girisine-izin-v-b7135b27/"
+  },
+  {
    "id": "e52936cb",
-   "title": "OpenRouter Stripe'a katıldı: anlaşma kapandı",
+   "title": "OpenRouter, Stripe'a katıldı: anlaşma kapandı",
    "summary": "Stripe, OpenRouter'ın artık bünyesinde olduğunu duyurdu. 10 milyondan fazla geliştirici ve şirketin kullandığı platform için kapanış ne anlama geliyor?",
    "link": "https://shiftdelete.net/openrouter-stripe",
    "image": "https://shiftdelete.net/static/img/content/26-11/11/openrouter-stripe.jpg",
@@ -44,6 +132,17 @@
    "category": "teknoloji",
    "date": "2026-11-10T21:10:42+00:00",
    "url": "/haber/openrouter-stripe-a-katildi-anlasma-kapandi-e52936cb/"
+  },
+  {
+   "id": "322b4d7e",
+   "title": "İstanbul genelinde bu yıl 12 bin 500'ü aşkın su ürünleri denetimi gerçekleştirildi",
+   "summary": "İstanbul İl Tarım ve Orman Müdürü Suat Parıldar, 1 Ocak tarihinden bugüne kadar 12 bin 500'ü aşkın su ürünleri denetim faaliyeti gerçekleştirdiklerini belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-genelinde-bu-yil-12-bin-500u-askin-su-urunleri-denetimi-gerceklestirildi/4119552",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T21:05:15+00:00",
+   "url": "/haber/istanbul-genelinde-bu-yil-12-bin-500-u-askin-su-urunleri-denetimi-gerc-322b4d7e/"
   },
   {
    "id": "7b72c844",
@@ -55,6 +154,17 @@
    "category": "gundem",
    "date": "2026-11-10T20:59:51+00:00",
    "url": "/haber/italya-hukumeti-f-35-programina-7-3-milyar-avro-ek-harcama-icin-parlam-7b72c844/"
+  },
+  {
+   "id": "3396a15a",
+   "title": "İsrail'de Eisenkot'tan Netanyahu'nun partisi Likud ile müzakereleri iptal etme talimatı",
+   "summary": "Yashar Partisi lideri Gadi Eisenkot, geçici Başbakan Binyamin Netanyahu'nun İsrail Meclisinin açılışında yaptığı \"bölücü\" konuşma nedeniyle Yashar ve Likud partileri arasında gerçekleştirilecek müzakere toplantısını…",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-eisenkottan-netanyahunun-partisi-likud-ile-muzakereleri-iptal-etme-talimati/4119545",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T20:59:38+00:00",
+   "url": "/haber/israil-de-eisenkot-tan-netanyahu-nun-partisi-likud-ile-muzakereleri-ip-3396a15a/"
   },
   {
    "id": "d7368990",
@@ -277,17 +387,6 @@
    "url": "/haber/bm-gazze-de-hafta-sonu-yagan-yagmurlardan-yaklasik-200-binden-fazla-ki-270cb90a/"
   },
   {
-   "id": "881adeff",
-   "title": "Türkiye ve Özbekistan gümrük idareleri arasında anlaşmalar imzalandı",
-   "summary": "Türkiye-Özbekistan Ortak Gümrük Konseyi (OGK) 6. Toplantısı, Ticaret Bakan Yardımcısı Sezai Uçarmak ve Özbekistan Gümrük İdaresi Başkanı Akmalkhuja Mavlonov'un eş başkanlıklarında dün İstanbul'da gerçekleştirildi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-ozbekistan-gumruk-idareleri-arasinda-anlasmalar-imzalandi/4119488",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T19:21:11+00:00",
-   "url": "/haber/turkiye-ve-ozbekistan-gumruk-idareleri-arasinda-anlasmalar-imzalandi-881adeff/"
-  },
-  {
    "id": "dadcc1a3",
    "title": "Samsung Galeri'ye Google Fotoğraflar desteği resmen geldi",
    "summary": "Samsung, Microsoft OneDrive entegrasyonunun sona ermesinin ardından Galeri uygulamasına Google Fotoğraflar desteğini resmen getirdi.",
@@ -299,28 +398,6 @@
    "url": "/haber/samsung-galeri-ye-google-fotograflar-destegi-resmen-geldi-dadcc1a3/"
   },
   {
-   "id": "a7db999d",
-   "title": "AB Siber Güvenlik Ajansı: AB'ye yönelik siber tehdit seviyesi yüksek kalmaya devam ediyor",
-   "summary": "Avrupa Birliği Siber Güvenlik Ajansı (ENISA), birlik genelinde siber güvenlik kapasitesinde iyileşme kaydedilmesine rağmen AB'ye yönelik siber tehdit seviyesinin yüksek kalmaya devam ettiği konusunda uyardı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ab-siber-guvenlik-ajansi-abye-yonelik-siber-tehdit-seviyesi-yuksek-kalmaya-devam-ediyor/4119487",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T19:13:29+00:00",
-   "url": "/haber/ab-siber-guvenlik-ajansi-ab-ye-yonelik-siber-tehdit-seviyesi-yuksek-ka-a7db999d/"
-  },
-  {
-   "id": "b2a08aab",
-   "title": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da yeni kaçak yerleşim noktası kurdu",
-   "summary": "Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentine bağlı Dura beldesinde yeni kaçak yerleşim noktası kurduğu belirtildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-yeni-kacak-yerlesim-noktasi-kurdu-/4119484",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T19:08:20+00:00",
-   "url": "/haber/filistin-topraklarini-gasbeden-israilliler-bati-seria-da-yeni-kacak-ye-b2a08aab/"
-  },
-  {
    "id": "3238dbc0",
    "title": "Elektrik ihracatından 500 milyon dolar gelir",
    "summary": "Türkiye elektrik ihracatı Ocak 2025-Ağustos 2026 arasında yaklaşık 500 milyon dolar gelir getirdi. Ember'in raporuna göre bağlantı hatlarının potansiyeli çok daha büyük.",
@@ -330,17 +407,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T19:08:00+00:00",
    "url": "/haber/elektrik-ihracatindan-500-milyon-dolar-gelir-3238dbc0/"
-  },
-  {
-   "id": "072043c2",
-   "title": "Suriye'de 440 kilometrelik yolda savaş kalıntılarını temizleme çalışması başlatıldı",
-   "summary": "Suriye'de, yaklaşık 440 kilometre uzunluğundaki Şam-Tedmur-Deyrizor kara yolunda patlamamış mayın ve savaş kalıntılarının temizlenmesi amacıyla tarama çalışmaları başlatıldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/suriyede-440-kilometrelik-yolda-savas-kalintilarini-temizleme-calismasi-baslatildi/4119480",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T19:02:06+00:00",
-   "url": "/haber/suriye-de-440-kilometrelik-yolda-savas-kalintilarini-temizleme-calisma-072043c2/"
   },
   {
    "id": "474d8aa4",
@@ -363,17 +429,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T18:52:00+00:00",
    "url": "/haber/mexc-borsasinda-deprem-binance-tum-iletisimi-kesti-2996ff74/"
-  },
-  {
-   "id": "b0963e8c",
-   "title": "Almanya’da yapay zekanın 15 yılda 800 bin işi değiştirmesi bekleniyor",
-   "summary": "Almanya Federal İş Ajansı (BA) Başkanı Andrea Nahles, yapay zekanın gelecek 15 yıl içinde ülkede yaklaşık 800 bin iş kaybına yol açacağını ancak benzer sayıda yeni istihdam oluşturacağını belirtti.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/almanya-da-yapay-zekanin-15-yilda-800-bin-isi-degistirmesi-bekleniyor/4119470",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T18:49:07+00:00",
-   "url": "/haber/almanya-da-yapay-zekanin-15-yilda-800-bin-isi-degistirmesi-bekleniyor-b0963e8c/"
   },
   {
    "id": "04a6d022",
@@ -410,7 +465,7 @@
   },
   {
    "id": "efa9c76f",
-   "title": "GTA 6 Xbox One'a geliyor: Bulut üzerinden",
+   "title": "GTA 6, Xbox One'a geliyor: Bulut üzerinden",
    "summary": "GTA VI Xbox One konsollarda Xbox Cloud Gaming üzerinden oynanabilecek. Rockstar Games, bulut akışının PC, web ve TV'yi kapsamadığını da açıkladı.",
    "link": "https://shiftdelete.net/gta-vi-xbox-one-xbox-cloud-gaming",
    "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/b04e1a64349d2cb4b4f89c80bb5c4aea64fe9b1f.webp",
@@ -563,17 +618,6 @@
    "url": "/haber/sandisk-ten-iot-cihazlarina-yonelik-yeni-flash-depolama-cozumu-5cff91c8/"
   },
   {
-   "id": "241d7238",
-   "title": "İzmir'deki HABAŞ demir çelikte patlama: Can kaybı 18'e çıktı, 11 gözaltı",
-   "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda 18 kişinin ölümüyle sonuçlanan patlamanın ardından, şirketin yönetim kurulu başkanı dahil 11 kişi için gözaltı kararı verildi.",
-   "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/816d/live/a905bdb0-dc31-11f1-a701-fddedf244c16.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-10T15:46:29+00:00",
-   "url": "/haber/izmir-deki-habas-demir-celikte-patlama-can-kaybi-18-e-cikti-11-gozalti-241d7238/"
-  },
-  {
    "id": "09b9f4c1",
    "title": "Gözaltına alınan Yonca Şık adli kontrol şartı ile serbest",
    "summary": "TİP İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık İstanbul'da gözaltına alındıktan sonra adli kontrol şartı ile serbest bırakıldı.",
@@ -630,7 +674,7 @@
   },
   {
    "id": "afa9ecf9",
-   "title": "Artemis II atmosferde delik açtı, GPS saptı",
+   "title": "Artemis II, atmosferde delik açtı, GPS saptı",
    "summary": "Artemis II görevinin Nisan ayındaki fırlatması, iyonosferde iki büyük delik açtı. Tayvanlı araştırmacılara göre bu delikler GPS sinyallerinde birkaç metrelik sapma yarattı.",
    "link": "https://shiftdelete.net/artemis-ii-iyonosfer-gps-sinyalleri",
    "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/4e96a7a01f47c062a34e7d2ea498e83a29f21a47.webp",
@@ -671,28 +715,6 @@
    "category": "gundem",
    "date": "2026-11-10T14:42:00+00:00",
    "url": "/haber/kasif-kozinoglu-nun-olumune-iliskin-adli-tip-raporuna-itiraz-28d294a4/"
-  },
-  {
-   "id": "3eb7aa10",
-   "title": "One UI 9.5 ile WhatsApp aramaları kaydedilebilir",
-   "summary": "One UI 9.5 arama kaydı özelliği, Samsung'un Telefon uygulamasında WhatsApp, Telegram ve Google Meet aramalarını da kapsayabilir. Ancak her ülkede açık olmayabilir.",
-   "link": "https://shiftdelete.net/one-ui-9-5-arama-kaydi-whatsapp-telegram",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/3d3b014ac0d2975dadf10d0a95d3e6b5e71341b3.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T14:38:00+00:00",
-   "url": "/haber/one-ui-9-5-ile-whatsapp-aramalari-kaydedilebilir-3eb7aa10/"
-  },
-  {
-   "id": "091d5636",
-   "title": "GTA 6'dan yeni fragman: PS5 Pro'da da 30 FPS",
-   "summary": "Rockstar Games, ön yükleme sürecinin başlamasına özel yeni bir video paylaştı. GTA 6 ön yükleme fragmanı kısa ama daha önce görülmemiş sahneler içeriyor.",
-   "link": "https://shiftdelete.net/gta-6-on-yukleme-fragmani-yayimlandi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/9da8f7ec6743f2290a22fb3ce80145109b1cc93d.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T14:36:55+00:00",
-   "url": "/haber/gta-6-dan-yeni-fragman-ps5-pro-da-da-30-fps-091d5636/"
   },
   {
    "id": "22102cf8",
@@ -737,17 +759,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T14:11:26+00:00",
    "url": "/haber/iphone-18-ve-iphone-air-2-nin-maket-modelleri-ortaya-cikti-iste-boyle-fff95898/"
-  },
-  {
-   "id": "65640392",
-   "title": "Samsung 2 nm ile üretilen çip 5 watt harcıyor",
-   "summary": "Güney Koreli DEEPX, Samsung Foundry'nin 2nm GAA sürecinde üretilen DEEPX DX-M2 çipini tanıttı. Endüstriyel cihazlar ve robotlar için tasarlanan çip yaklaşık 5 watt güç tüketiyor.",
-   "link": "https://shiftdelete.net/deepx-dx-m2-samsung-2nm-yapay-zeka-cipi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/005f79ff18665f93df616fbde7bea41942c68940.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T14:08:00+00:00",
-   "url": "/haber/samsung-2-nm-ile-uretilen-cip-5-watt-harciyor-65640392/"
   },
   {
    "id": "86c1856b",
@@ -979,17 +990,6 @@
    "category": "gundem",
    "date": "2026-11-10T12:16:23+00:00",
    "url": "/haber/trump-iran-a-tekrar-saldirmamiz-son-derece-dusuk-ihtimal-ce8827f9/"
-  },
-  {
-   "id": "e1a3a0cc",
-   "title": "Sarıgül soruşturmasında yeni gelişme. 11 şüpheliye adli kontrol kararı",
-   "summary": "Sarıgül ailesiyle ilgili kara para aklama soruşturmasında gözaltına alınan 11 şüpheli adli kontrol şartıyla serbest bırakıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-yeni-gelisme-11-supheliye-adli-kontrol-karari-1750273",
-   "image": "https://images.ntv.com.tr/images/emirsarıgülmustafasarıgül-652915.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T12:10:38+00:00",
-   "url": "/haber/sarigul-sorusturmasinda-yeni-gelisme-11-supheliye-adli-kontrol-karari-e1a3a0cc/"
   },
   {
    "id": "53009142",
