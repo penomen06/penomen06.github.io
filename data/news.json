@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-10T18:01:07.173836+00:00",
+ "updated": "2026-11-10T18:31:04.043685+00:00",
  "items": [
+  {
+   "id": "7e1b9b25",
+   "title": "ABD'de benzin fiyatları temmuzdan bu yana ilk kez galon başına 4 doların altına düştü",
+   "summary": "ABD genelinde benzinin ortalama fiyatı galon başına 3,98 dolara gerileyerek, temmuzdan bu yana ilk kez 4 doların altına indi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-benzin-fiyatlari-temmuzdan-bu-yana-ilk-kez-galon-basina-4-dolarin-altina-dustu/4119437",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T18:26:56+00:00",
+   "url": "/haber/abd-de-benzin-fiyatlari-temmuzdan-bu-yana-ilk-kez-galon-basina-4-dolar-7e1b9b25/"
+  },
+  {
+   "id": "d9502b24",
+   "title": "Samsung Galaxy S27 serisinin kamera özellikleri sızdırıldı",
+   "summary": "Standart modellerin yıllardır kullanılan donanımları koruması beklenirken Galaxy S27 Ultra'nın çift telefoto kamera sisteminden vazgeçebileceği öne sürülüyor.",
+   "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinin-kamera-ozellikleri-sizdirildi--212717",
+   "image": "https://www.donanimhaber.com/images/images/haber/212717/1200x675samsung-galaxy-s27-serisinin-kamera-ozellikleri-sizdirildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-10T18:19:00+00:00",
+   "url": "/haber/samsung-galaxy-s27-serisinin-kamera-ozellikleri-sizdirildi-d9502b24/"
+  },
+  {
+   "id": "efa9c76f",
+   "title": "GTA 6 Xbox One'a geliyor: Bulut üzerinden",
+   "summary": "GTA VI Xbox One konsollarda Xbox Cloud Gaming üzerinden oynanabilecek. Rockstar Games, bulut akışının PC, web ve TV'yi kapsamadığını da açıkladı.",
+   "link": "https://shiftdelete.net/gta-vi-xbox-one-xbox-cloud-gaming",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/b04e1a64349d2cb4b4f89c80bb5c4aea64fe9b1f.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T18:08:00+00:00",
+   "url": "/haber/gta-6-xbox-one-a-geliyor-bulut-uzerinden-efa9c76f/"
+  },
+  {
+   "id": "aff2ab40",
+   "title": "Fatih Sultan Mehmet'in kütüphanesindeki İlyada nüshasının bilinmeyen özellikleri ortaya çıkarıldı",
+   "summary": "İstanbul Üniversitesinde yürütülen araştırmada, Fatih Sultan Mehmet'in kütüphanesindeki 260 yapraklık İlyada el yazmasının İstanbul'daki bir yazım atölyesinde kopyalanmış olabileceğine ilişkin bulgulara ulaşıldı.",
+   "link": "https://www.aa.com.tr/tr/kultur/fatih-sultan-mehmetin-kutuphanesindeki-ilyada-nushasinin-bilinmeyen-ozellikleri-ortaya-cikarildi/4119424",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T18:02:15+00:00",
+   "url": "/haber/fatih-sultan-mehmet-in-kutuphanesindeki-ilyada-nushasinin-bilinmeyen-o-aff2ab40/"
+  },
+  {
+   "id": "e392573d",
+   "title": "Savcılıktan Kozinoğlu'nun ölümüne ilişkin rapora itiraz",
+   "summary": "Silivri Cumhuriyet Başsavcılığı, eski MİT görevlisi Kaşif Kozinoğlu’nun ölümüne ilişkin adli tıp raporuna itiraz etti.",
+   "link": "https://www.ntv.com.tr/turkiye/kozinoglu-sorusturmasi-savciliktan-adli-tip-raporuna-itiraz-1750321",
+   "image": "https://images.ntv.com.tr/images/ka_C5_9Fif-kozino_C4_9Flu-868064-718765-645532.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T18:01:09+00:00",
+   "url": "/haber/savciliktan-kozinoglu-nun-olumune-iliskin-rapora-itiraz-e392573d/"
+  },
+  {
+   "id": "60c7de9a",
+   "title": "İstinaf genç kızın öldüğü motosiklet kazası kararını bozdu",
+   "summary": "İstanbul Bölge Adliye Mahkemesi, Sultanbeyli'de, erkek arkadaşının kullandığı motosikletin otomobille çarpışması sonucu meydana gelen kazada Yiğit'in hayatını kaybetmesine ilişkin Mert ile Bayramoğlu için hükmedilen…",
+   "link": "https://www.aa.com.tr/tr/gundem/istinaf-genc-kizin-oldugu-motosiklet-kazasi-kararini-bozdu/4119416",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T17:59:30+00:00",
+   "url": "/haber/istinaf-genc-kizin-oldugu-motosiklet-kazasi-kararini-bozdu-60c7de9a/"
+  },
   {
    "id": "55b77470",
    "title": "Googlebook bilgisayarlara ilk büyük güncelleme geldi",
@@ -88,17 +154,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T17:13:00+00:00",
    "url": "/haber/mercedes-patronu-tarih-verdi-icten-yanmali-motorlarin-10-15-yili-kaldi-de7641a4/"
-  },
-  {
-   "id": "e392573d",
-   "title": "Kozinoğlu soruşturması. Savcılıktan adli tıp raporuna itiraz",
-   "summary": "Silivri Cumhuriyet Başsavcılığı, eski MİT görevlisi Kaşif Kozinoğlu’nun ölümüne ilişkin adli tıp raporuna itiraz etti.",
-   "link": "https://www.ntv.com.tr/turkiye/kozinoglu-sorusturmasi-savciliktan-adli-tip-raporuna-itiraz-1750321",
-   "image": "https://images.ntv.com.tr/images/ka_C5_9Fif-kozino_C4_9Flu-868064-718765-645532.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T17:10:42+00:00",
-   "url": "/haber/kozinoglu-sorusturmasi-savciliktan-adli-tip-raporuna-itiraz-e392573d/"
   },
   {
    "id": "f9ab8a4d",
@@ -200,17 +255,6 @@
    "url": "/haber/menemen-cumhuriyet-bassavciligi-ndan-aliaga-da-fabrikadaki-patlamaya-i-627227a1/"
   },
   {
-   "id": "fa97fc33",
-   "title": "Rusya'nın bütçe açığı yaklaşık yüzde 33 arttı",
-   "summary": "Rusya'nın federal bütçe açığı, ocak-ekim döneminde, geçen yılın aynı dönemine göre yaklaşık yüzde 32,7 artarak 5,23 trilyon rubleye (yaklaşık 63 milyar dolar) ulaştı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/rusyanin-butce-acigi-yaklasik-yuzde-33-artti/4119293",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T16:30:58+00:00",
-   "url": "/haber/rusya-nin-butce-acigi-yaklasik-yuzde-33-artti-fa97fc33/"
-  },
-  {
    "id": "ffff294f",
    "title": "OpenAI'dan yapay zekalar için acil durdurma sistemi: 35 saniyede devreye giriyor",
    "summary": "OpenAI, araştırma altyapısında çalışan yapay zeka modellerini gerektiğinde durdurabilen Control Room sistemini devreye aldı. Sistem, modellerin yeni çıktılar üretmesini 35 saniyede engelleyebiliyor.",
@@ -220,17 +264,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T16:30:00+00:00",
    "url": "/haber/openai-dan-yapay-zekalar-icin-acil-durdurma-sistemi-35-saniyede-devrey-ffff294f/"
-  },
-  {
-   "id": "09f8ed7d",
-   "title": "Çin'in elektrikli araç ihracatı ekimde rekor seviyeye çıktı",
-   "summary": "Çin'in elektrikli araç ihracatı, Orta Doğu'daki savaşın petrol fiyatlarında artışa yol açmasının​​​​​​​ etkisiyle rekor seviyelere ulaştı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cinin-elektrikli-arac-ihracati-ekimde-rekor-seviyeye-cikti/4119284",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T16:27:16+00:00",
-   "url": "/haber/cin-in-elektrikli-arac-ihracati-ekimde-rekor-seviyeye-cikti-09f8ed7d/"
   },
   {
    "id": "eb800989",
@@ -253,17 +286,6 @@
    "category": "gundem",
    "date": "2026-11-10T16:20:12+00:00",
    "url": "/haber/gazeteci-ismail-saymaz-in-ev-hapsi-karari-kaldirildi-ee59e6de/"
-  },
-  {
-   "id": "09b6a699",
-   "title": "Emine Erdoğan, BM Habitat İcra Direktörü Anaclaudia Rossbach ile görüştü",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında, BM Habitat İcra Direktörü Anaclaudia Rossbach ile…",
-   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-bm-habitat-icra-direktoru-anaclaudia-rossbach-ile-gorustu/4119253",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T16:17:36+00:00",
-   "url": "/haber/emine-erdogan-bm-habitat-icra-direktoru-anaclaudia-rossbach-ile-gorust-09b6a699/"
   },
   {
    "id": "2b79df27",
@@ -385,6 +407,17 @@
    "category": "teknoloji",
    "date": "2026-11-10T15:32:00+00:00",
    "url": "/haber/gta-6-icin-onemli-duyurular-yapildi-tum-konsollarda-30-fps-calisacak-v-70ad5c90/"
+  },
+  {
+   "id": "f4bc8319",
+   "title": "COP31'de \"35'e 35\" hedefi kapsamında ilk Küresel Elektrifikasyon Forumu düzenlendi",
+   "summary": "Enerji ve Tabii Kaynaklar Bakan Yardımcısı Demircan \"Emisyonların azaltılması ve elektrifikasyon gündemini ilerletmeye, daha güvenli, uygun maliyetli ve sürdürülebilir bir enerji geleceğine yönelik küresel çabalara…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-35e-35-hedefi-kapsaminda-ilk-kuresel-elektrifikasyon-forumu-duzenlendi/4119183",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T15:28:11+00:00",
+   "url": "/haber/cop31-de-35-e-35-hedefi-kapsaminda-ilk-kuresel-elektrifikasyon-forumu-f4bc8319/"
   },
   {
    "id": "6f755450",
@@ -660,17 +693,6 @@
    "category": "gundem",
    "date": "2026-11-10T13:52:37+00:00",
    "url": "/haber/ali-koc-cop31-de-ntv-ye-konustu-iklim-hassasiyeti-artik-tercih-degil-m-e078db5d/"
-  },
-  {
-   "id": "1cdfcd44",
-   "title": "Yapay zeka GTA 6 için bir tehdit mi? Take-Two CEO'sundan açıklama",
-   "summary": "Take-Two CEO'su, GTA 6'nın kritik lansmanı öncesinde, oyunların yapay zeka destekli tersine mühendislik ve kaynak koduna dönüştürme yoluyla çözülmesi tehdidine yanıt verdi.",
-   "link": "https://www.donanimhaber.com/yapay-zeka-gta-6-icin-bir-tehdit-mi-take-two-ceo-sundan-aciklama--212716",
-   "image": "https://www.donanimhaber.com/images/images/haber/212716/1200x675yapay-zeka-gta-6-icin-bir-tehdit-mi-take-two-ceo-sundan-aciklama.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-10T13:41:00+00:00",
-   "url": "/haber/yapay-zeka-gta-6-icin-bir-tehdit-mi-take-two-ceo-sundan-aciklama-1cdfcd44/"
   },
   {
    "id": "0846678b",
@@ -970,17 +992,6 @@
    "url": "/haber/yeni-bir-kahve-makinesi-alirken-gozlerinizin-mutlaka-aramasi-gereken-a-12ac302e/"
   },
   {
-   "id": "5def5ea8",
-   "title": "Şirketlerde Rutin İşleri Azaltan Otomasyon Teknolojileri",
-   "summary": "Veri girişi, onay, bildirim ve görev atama süreçlerinin otomasyonu şirketlerde rutin işleri azaltıyor. İş akışı otomasyonunun işletmelere sağladığı avantajları keşfedin.",
-   "link": "https://shiftdelete.net/sirketlerde-rutin-isleri-azaltan-otomasyon-teknolojileri",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/otomasyon-yz-kapak-1011.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T11:55:37+00:00",
-   "url": "/haber/sirketlerde-rutin-isleri-azaltan-otomasyon-teknolojileri-5def5ea8/"
-  },
-  {
    "id": "6f7bb561",
    "title": "Taşacak Bu Deniz YouTube aramalarına da damga vurdu",
    "summary": "Türkiye'de 1 Temmuz 2025 – 30 Haziran 2026 dönemini kapsayan YouTube arama verilerine göre TRT 1'in rekortmen dizisi Taşacak Bu Deniz ilk sırada yer aldı. 10 Ekim 2025'te yayın hayatına başlayan dizinin arama endeksi de…",
@@ -1001,17 +1012,6 @@
    "category": "gundem",
    "date": "2026-11-10T11:21:00+00:00",
    "url": "/haber/cin-ve-abd-arasindaki-casusluk-geriliminin-odagindaki-kisi-hakkinda-ne-a24695ea/"
-  },
-  {
-   "id": "cfd6ec8b",
-   "title": "Ali Koç'tan COP31'de \"ekonomik rekabet ve enerji dönüşümü\" vurgusu",
-   "summary": "Koç Holding Yönetim Kurulu Başkan Vekili Ali Koç, enerji dönüşümünün yalnızca iklim değişikliğiyle mücadele kapsamında değerlendirilmemesi gerektiğini belirterek, \"Yeni denklem enerji dönüşümü, enerji bağımsızlığı ve…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ali-koctan-cop31de-ekonomik-rekabet-ve-enerji-donusumu-vurgusu/4118708",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T11:05:11+00:00",
-   "url": "/haber/ali-koc-tan-cop31-de-ekonomik-rekabet-ve-enerji-donusumu-vurgusu-cfd6ec8b/"
   },
   {
    "id": "43458835",
