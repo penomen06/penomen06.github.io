@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T00:30:56.349896+00:00",
+ "updated": "2026-11-10T01:01:04.236959+00:00",
  "items": [
   {
    "id": "eafb2d73",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-10T00:30:00+00:00",
+   "date": "2026-11-10T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-eafb2d73/"
+  },
+  {
+   "id": "41c3cdc7",
+   "title": "Bakan Gürlek'ten Yeni Parti'li Özer'e: 'Milletvekili olmasan evin aranacaktı'",
+   "summary": "Adalet Bakanı Akın Gürlek, TBMM Plan ve Bütçe Komisyonu'nda, Yeni Parti İstanbul Milletvekili Turan Taşkın Özer ile İstanbul Büyükşehir Belediyesi davasında dile getirilen iddialar üzerinden tartıştı. Bakan Gürlek,…",
+   "link": "https://www.bbc.com/turkce/articles/cqn7372n31ejo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c930/live/2476f460-dc86-11f1-851a-19e868620cad.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-10T00:40:43+00:00",
+   "url": "/haber/bakan-gurlek-ten-yeni-parti-li-ozer-e-milletvekili-olmasan-evin-aranac-41c3cdc7/"
+  },
+  {
+   "id": "1fe75130",
+   "title": "Arap Koalisyonu: Suudi Arabistan'ın güneyine fırlatılan balistik füze engellendi",
+   "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu Sözcüsü Tuğgeneral Turki el-Maliki, ülkenin güneyine fırlatılan balistik füzenin imha edildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistanin-guneyine-firlatilan-balistik-fuze-engellendi/4118087",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T00:31:38+00:00",
+   "url": "/haber/arap-koalisyonu-suudi-arabistan-in-guneyine-firlatilan-balistik-fuze-e-1fe75130/"
   },
   {
    "id": "8f82eee4",
@@ -110,17 +132,6 @@
    "category": "gundem",
    "date": "2026-11-09T21:43:19+00:00",
    "url": "/haber/abd-disisleri-bakani-rubio-israil-bizden-silah-alabilir-ama-artik-fina-ec37667f/"
-  },
-  {
-   "id": "41c3cdc7",
-   "title": "Bakan Gürlek'ten Yeni Parti'li Özer'e: 'Milletvekili olmasan evin aranacaktı'",
-   "summary": "Adalet Bakanı Akın Gürlek, TBMM Plan ve Bütçe Komisyonu'nda, Yeni Parti İstanbul Milletvekili Turan Taşkın Özer ile İstanbul Büyükşehir Belediyesi davasında dile getirilen iddialar üzerinden tartıştı. Bakan Gürlek,…",
-   "link": "https://www.bbc.com/turkce/articles/cqn7372n31ejo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c930/live/2476f460-dc86-11f1-851a-19e868620cad.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-09T21:33:34+00:00",
-   "url": "/haber/bakan-gurlek-ten-yeni-parti-li-ozer-e-milletvekili-olmasan-evin-aranac-41c3cdc7/"
   },
   {
    "id": "926ac924",
@@ -310,17 +321,6 @@
    "url": "/haber/on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-9-kasim-202-ba45dc4e/"
   },
   {
-   "id": "f41cc62a",
-   "title": "AB, Ukrayna Askeri Yardım Misyonu'nun görev süresini 2 yıl uzattı",
-   "summary": "Avrupa Birliği (AB) ülkeleri, Ukraynalı askerlere eğitim ve danışmanlık sağlayan AB Ukrayna Askeri Yardım Misyonu'nun (EUMAM Ukrayna) görev süresini 2 yıl uzatma kararı aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-ukrayna-askeri-yardim-misyonunun-gorev-suresini-2-yil-uzatti/4117978",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T20:18:42+00:00",
-   "url": "/haber/ab-ukrayna-askeri-yardim-misyonu-nun-gorev-suresini-2-yil-uzatti-f41cc62a/"
-  },
-  {
    "id": "b168441c",
    "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 9 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
    "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli…",
@@ -495,17 +495,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T19:00:00+00:00",
    "url": "/haber/claude-code-github-a-binlerce-parola-sizdirdi-07b0f06f/"
-  },
-  {
-   "id": "862c9599",
-   "title": "Kahve Makineleri Kahvemizi Nasıl Sevdiğimizi Nasıl Hatırlıyor?",
-   "summary": "Kabul edelim, kahve zevki adeta parmak izi gibidir. Kafeye gittiğimizde \"Sütü az olsun, çok sıcak olmasın, espressosu biraz sert olsun\" gibi upuzun siparişler vermeyi seviyoruz. Peki ama evimizin rahatlığında, sabahın o…",
-   "link": "https://www.webtekno.com/kahve-makineleri-kahvemizi-nasil-sevdigimizi-nasil-hatirliyor-h228571.html",
-   "image": "https://imgrosetta.webtekno.com/file/696121/696121-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T18:59:43+00:00",
-   "url": "/haber/kahve-makineleri-kahvemizi-nasil-sevdigimizi-nasil-hatirliyor-862c9599/"
   },
   {
    "id": "b950302e",
@@ -805,17 +794,6 @@
    "url": "/haber/mhp-lideri-bahceli-den-10-kasim-mesaji-03e2b426/"
   },
   {
-   "id": "16c985cd",
-   "title": "Land Rover ve BYD Davalık Oldu: İşte Olayın İlginç Perde Arkası!",
-   "summary": "Jaguar Land Rover, Defender modelinin kopyalandığı iddiasıyla BYD'ye karşı Hollanda'da fikri mülkiyet davası açtı.",
-   "link": "https://www.webtekno.com/land-rover-ve-byd-davalik-oldu-h228625.html",
-   "image": "https://imgrosetta.webtekno.com/file/696445/696445-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T15:24:03+00:00",
-   "url": "/haber/land-rover-ve-byd-davalik-oldu-iste-olayin-ilginc-perde-arkasi-16c985cd/"
-  },
-  {
    "id": "344d147e",
    "title": "Sağlık Bakanı Memişoğlu, COP31'de \"Üst Düzey Yuvarlak Masa Toplantısı\"na katıldı",
    "summary": "Sağlık Bakanı Kemal Memişoğlu, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında düzenlenen Üst Düzey Yuvarlak Masa Toplantısı'na katıldı.",
@@ -849,94 +827,6 @@
    "url": "/haber/kisa-ve-net-programi-ntv-de-basladi-a98a5b16/"
   },
   {
-   "id": "9f48b7c2",
-   "title": "Insta360’tan Efsane Cuma Fırsatı: Yeni X6 ve Luna Ultra İlk Kez İndirimde!",
-   "summary": "Insta360, Efsane Cuma kampanyası kapsamında seçili kamera ve aksesuarlarda %40'a varan indirimler sunuyor.",
-   "link": "https://www.webtekno.com/insta360-efsane-cuma-firsati-h228526.html",
-   "image": "https://imgrosetta.webtekno.com/file/696439/696439-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:49:57+00:00",
-   "url": "/haber/insta360-tan-efsane-cuma-firsati-yeni-x6-ve-luna-ultra-ilk-kez-indirim-9f48b7c2/"
-  },
-  {
-   "id": "ce718f3b",
-   "title": "ÖTV Muafiyetli Araç Limiti Artışı Sonrası Alınabilecek Araçlar",
-   "summary": "ÖTV muafiyetli araç alım limitinin 2027'de 3 milyon 673 bin TL'ye yükselmesi bekleniyor. Peki yeni limit kapsamında hangi otomobiller alınabilecek? İşte ÖTV muafiyetli araçlar ve fiyatları!",
-   "link": "https://www.webtekno.com/otv-muafiyetli-arac-limiti-artisi-sonrasi-alinabilecek-araclar-h228551.html",
-   "image": "https://imgrosetta.webtekno.com/file/696418/696418-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:48:24+00:00",
-   "url": "/haber/otv-muafiyetli-arac-limiti-artisi-sonrasi-alinabilecek-araclar-ce718f3b/"
-  },
-  {
-   "id": "9a8a267c",
-   "title": "Sony’den Sürücüleri Kızdıracak Patent: Reklamlar Arabanızın İçine, Hatta Burnunuzun Dibine Kadar Girecek!",
-   "summary": "Sony'nin yeni patenti, araçların algıladığı reklamlara göre kabin içine özel kokular yayarak reklamcılığı bambaşka bir boyuta taşıyor.",
-   "link": "https://www.webtekno.com/sony-suruculeri-kizdiracak-patent-h228598.html",
-   "image": "https://imgrosetta.webtekno.com/file/696376/696376-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:47:23+00:00",
-   "url": "/haber/sony-den-suruculeri-kizdiracak-patent-reklamlar-arabanizin-icine-hatta-9a8a267c/"
-  },
-  {
-   "id": "272ad981",
-   "title": "Başkentte 247 Kilometrelik Akıllı Ulaşım Koridoru Kuruluyor: Peki Ne İşe Yarayacak?",
-   "summary": "Ankara'da 247 kilometrelik akıllı ulaşım koridoru kurularak bağlantılı ve otonom sürüş teknolojileri daha geniş bir alana taşınıyor.",
-   "link": "https://www.webtekno.com/baskentte-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor-h228619.html",
-   "image": "https://imgrosetta.webtekno.com/file/696391/696391-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:44:02+00:00",
-   "url": "/haber/baskentte-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor-peki-ne-is-272ad981/"
-  },
-  {
-   "id": "8de467b4",
-   "title": "GTA 6'yı İndirdikten Sonra Hemen Oynayabilecek miyiz?",
-   "summary": "GTA 6'yı indirdikten sonra hemen oynayabilecek miyiz? GTA 6 ne zaman oynanacak?",
-   "link": "https://www.webtekno.com/gta-6-indirdikten-sonra-hemen-oynayabilecek-miyiz-h228616.html",
-   "image": "https://imgrosetta.webtekno.com/file/694897/694897-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:35:57+00:00",
-   "url": "/haber/gta-6-yi-indirdikten-sonra-hemen-oynayabilecek-miyiz-8de467b4/"
-  },
-  {
-   "id": "e989197d",
-   "title": "BYD'den Rolls-Royce'a Rakip Elektrikli Otomobil: 1.000 Km Menzilli Altior Tanıtıldı!",
-   "summary": "BYD'nin lüks alt markası Yangwang, dört motorlu, 39 hoparlörlü ve ultra lüks elektrikli sedanı Altior'u Abu Dabi'de tanıttı.",
-   "link": "https://www.webtekno.com/byd-1000-km-menzilli-altior-tanitildi-h228610.html",
-   "image": "https://imgrosetta.webtekno.com/file/696241/696241-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:28:59+00:00",
-   "url": "/haber/byd-den-rolls-royce-a-rakip-elektrikli-otomobil-1-000-km-menzilli-alti-e989197d/"
-  },
-  {
-   "id": "528af68f",
-   "title": "Samsung, Yapay Zekâ Özellikleri İçin \"Galaxy AI Premium\" Aboneliğini Sunmaya Hazırlanıyor: İşte Fiyatı!",
-   "summary": "Samsung, Galaxy AI için aylık 4,99 dolarlık Premium abonelik ve kullanım limitleri getirmeye hazırlanıyor.",
-   "link": "https://www.webtekno.com/samsung-galaxy-ai-premium-aboneligini-sunmaya-hazirlaniyor-h228574.html",
-   "image": "https://imgrosetta.webtekno.com/file/696349/696349-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T13:53:50+00:00",
-   "url": "/haber/samsung-yapay-zeka-ozellikleri-icin-galaxy-ai-premium-aboneligini-sunm-528af68f/"
-  },
-  {
-   "id": "748a4cf9",
-   "title": "Tim Cook'un 2. Kez Türkiye'ye Gelmesini Sağlayan Bünyamin Aydın Kimdir?",
-   "summary": "Tim Cook ile Bağdat Caddesi'ndeki Apple Store'daki etkinlikte yer alan Bünyamin Aydın kimdir?",
-   "link": "https://www.webtekno.com/bunyamin-aydin-kimdir-h228586.html",
-   "image": "https://imgrosetta.webtekno.com/file/696307/696307-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T13:53:02+00:00",
-   "url": "/haber/tim-cook-un-2-kez-turkiye-ye-gelmesini-saglayan-bunyamin-aydin-kimdir-748a4cf9/"
-  },
-  {
    "id": "2fe63682",
    "title": "Toyota Türkiye CEO’su Ali Haydar Bozkurt’tan ÖTV baremi ve kredi çağrısı",
    "summary": "Toyota Türkiye CEO’su Ali Haydar Bozkurt, Oto Ekonomi’de gazeteci Emre Özpeynirci’nin konuğu oldu ve önemli açıklamalarda bulundu. Ekim ayında pazarın yüzde 30’un üzerinde küçüldüğü ve yıl sonu için 1,1 milyon adetlik…",
@@ -946,39 +836,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T13:50:49+00:00",
    "url": "/haber/toyota-turkiye-ceo-su-ali-haydar-bozkurt-tan-otv-baremi-ve-kredi-cagri-2fe63682/"
-  },
-  {
-   "id": "fb7183f5",
-   "title": "Opel Kasım 2026 Sıfır Araç Fiyat Listesi: Güncel Kampanyalar ve Kredi Fırsatları",
-   "summary": "Opel 2026 Kasım sıfır otomobil kampanyaları, güncel indirim ve kampanya fırsatlarını inceliyoruz.",
-   "link": "https://www.webtekno.com/opel-kasim-2026-fiyat-indirim-kampanya-kredi-h228589.html",
-   "image": "https://imgrosetta.webtekno.com/file/696385/696385-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T13:48:23+00:00",
-   "url": "/haber/opel-kasim-2026-sifir-arac-fiyat-listesi-guncel-kampanyalar-ve-kredi-f-fb7183f5/"
-  },
-  {
-   "id": "531112e4",
-   "title": "Hyundai Kasım 2026 Fiyat Listesi, Güncel Kampanyalar ve İndirim Fırsatları",
-   "summary": "Hyundai Kasım 2026 sıfır araç fiyatları ve kampanyaları! Güncel Hyundai fiyat listesini, indirimleri ve avantajlı kredi fırsatlarını inceleyin.",
-   "link": "https://www.webtekno.com/hyundai-kasim-2026-fiyat-indirim-kampanya-kredi-h228584.html",
-   "image": "https://imgrosetta.webtekno.com/file/696373/696373-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T13:48:14+00:00",
-   "url": "/haber/hyundai-kasim-2026-fiyat-listesi-guncel-kampanyalar-ve-indirim-firsatl-531112e4/"
-  },
-  {
-   "id": "d5bec016",
-   "title": "Fiat Kasım 2026 Sıfır Araç Fiyat Listesi, İndirimler, Güncel Kampanyalar ve Kredi Fırsatları",
-   "summary": "Fiat'ın Kasım 2026 döneminde sunduğu indirimli otomobilleri ve güncel kampanyalarını derledik.",
-   "link": "https://www.webtekno.com/fiat-kasim-2026-fiyat-indirim-kampanya-kredi-h228580.html",
-   "image": "https://imgrosetta.webtekno.com/file/696370/696370-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T13:48:02+00:00",
-   "url": "/haber/fiat-kasim-2026-sifir-arac-fiyat-listesi-indirimler-guncel-kampanyalar-d5bec016/"
   },
   {
    "id": "c4deac7d",
@@ -1047,17 +904,6 @@
    "url": "/haber/instagram-yapay-zeka-tabanli-yas-belirleme-sistemini-kuresel-olarak-ku-278ef6d0/"
   },
   {
-   "id": "52eb21c1",
-   "title": "Bir Elektrikli Süpürge Motoru Nasıl 10 Yıl Dayanır? 66.000 RPM Gücündeki Alman Mühendisliğine Yakından Bakıyoruz",
-   "summary": "Yeni bir teknolojik alet aldığımızda hepimizin ortak bir korkusu vardır: \"Acaba ne zaman bozulacak veya çekim gücü düşecek?\" Özellikle evdeki en ağır işçilerden biri olan dikey süpürgelerde bu durum daha da can…",
-   "link": "https://www.webtekno.com/bir-elektrikli-supurge-motoru-nasil-10-yil-dayanir-66-000-rpm-gucundeki-alman-muhendisligine-yakindan-bakiyoruz-h228550.html",
-   "image": "https://imgrosetta.webtekno.com/file/696277/696277-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T12:52:46+00:00",
-   "url": "/haber/bir-elektrikli-supurge-motoru-nasil-10-yil-dayanir-66-000-rpm-gucundek-52eb21c1/"
-  },
-  {
    "id": "3897b839",
    "title": "Amiral gemisi Audi A8’in üretimi sona erdi",
    "summary": "Alman otomobil devi Audi’nin amiral gemisi modeli A8’in Almanya’daki Neckarsulm fabrikasında 32 yıldır süren üretimi kısa süre önce sona erdi. Neckarsulm’da A5 Sedan ile A5 Avant’ı da üreten ve A8’den açılan boşluğu bu…",
@@ -1089,17 +935,6 @@
    "category": "gundem",
    "date": "2026-11-09T12:39:00+00:00",
    "url": "/haber/adana-da-4-6-buyuklugunde-deprem-54bf64e4/"
-  },
-  {
-   "id": "75684d8f",
-   "title": "vivo X500 Pro Max, Özel Avantajlarla Türkiye'de Ön Siparişe Açıldı: İşte Fiyatı!",
-   "summary": "vivo X500 Pro Max, 200 MP ZEISS kamerası ve 16.999 TL'ye varan ön sipariş avantajlarıyla Türkiye'de satışa sunuldu.",
-   "link": "https://www.webtekno.com/vivo-x500-pro-max-turkiye-on-siparis-fiyati-h228569.html",
-   "image": "https://imgrosetta.webtekno.com/file/696328/696328-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T12:09:32+00:00",
-   "url": "/haber/vivo-x500-pro-max-ozel-avantajlarla-turkiye-de-on-siparise-acildi-iste-75684d8f/"
   },
   {
    "id": "3a690ce6",
