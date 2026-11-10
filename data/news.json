@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T02:01:06.054776+00:00",
+ "updated": "2026-11-10T02:30:58.253739+00:00",
  "items": [
   {
    "id": "eafb2d73",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-10T02:00:00+00:00",
+   "date": "2026-11-10T02:30:01+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-eafb2d73/"
+  },
+  {
+   "id": "6b20437e",
+   "title": "İzmir'de bir çiftçi tarlasına traktörle \"10 Kasım\" yazdı",
+   "summary": "İzmir'in Tire ilçesinde bir çiftçi, tarlasına büyük harflerle \"10 Kasım\" yazdı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-izmirde-bir-ciftci-tarlasina-traktorle-10-kasim-yazdi-1750179",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-10052223-514552(2).png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T02:24:33+00:00",
+   "url": "/haber/izmir-de-bir-ciftci-tarlasina-traktorle-10-kasim-yazdi-6b20437e/"
   },
   {
    "id": "41c3cdc7",
@@ -979,17 +990,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T13:48:02+00:00",
    "url": "/haber/fiat-kasim-2026-sifir-arac-fiyat-listesi-indirimler-guncel-kampanyalar-d5bec016/"
-  },
-  {
-   "id": "c4deac7d",
-   "title": "Adana'da korkutan deprem",
-   "summary": "Adana'nın Kozan ilçesinde saat 15.28'de 4.6 büyüklüğünde bir deprem meydana geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-adanada-korkutan-deprem-1750152",
-   "image": "https://images.ntv.com.tr/images/ASDSADSAD-926861.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-09T13:45:29+00:00",
-   "url": "/haber/adana-da-korkutan-deprem-c4deac7d/"
   },
   {
    "id": "0a91d201",
