@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T19:30:52.912793+00:00",
+ "updated": "2026-11-10T19:39:44.786125+00:00",
  "items": [
+  {
+   "id": "2da2d4e8",
+   "title": "TSMC, OpenAI ve Anthropic'e yatırım yapacak",
+   "summary": "TSMC yatırım kararı çıktı: yönetim kurulu OpenAI ve Anthropic'e 500'er milyon dolara kadar kaynak ayırmayı onayladı. Anthropic'in halka arz fiyat aralığı da netleşti.",
+   "link": "https://shiftdelete.net/tsmc-yatirim-openai-anthropic-1-milyar-dolar",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/dc785728c1243277cdbb9169cf8604f8c71bcc3e.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T19:38:00+00:00",
+   "url": "/haber/tsmc-openai-ve-anthropic-e-yatirim-yapacak-2da2d4e8/"
+  },
   {
    "id": "881adeff",
    "title": "Türkiye ve Özbekistan gümrük idareleri arasında anlaşmalar imzalandı",
@@ -770,17 +781,6 @@
    "category": "gundem",
    "date": "2026-11-10T13:12:36+00:00",
    "url": "/haber/ali-koc-cop31-kuresel-iklim-zirvesi-nde-ntv-ye-konustu-iklim-hassasiye-fb3013f0/"
-  },
-  {
-   "id": "e4d7d831",
-   "title": "macOS 27.2.1 eMudhra sertifika açığını kapattı",
-   "summary": "Apple, macOS 27.2.1 güncellemesini yayınladı. Güncelleme, eMudhra sertifikalarının curl ve git gibi komut satırı araçlarında hala kabul edilmesine yol açan güvenlik açığını kapatıyor.",
-   "link": "https://shiftdelete.net/macos-27-2-1-emudhra-sertifika-acigi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/macos-guncelleme-ekrani-kapak-1011.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T13:08:00+00:00",
-   "url": "/haber/macos-27-2-1-emudhra-sertifika-acigini-kapatti-e4d7d831/"
   },
   {
    "id": "281c2c31",
