@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T00:01:01.032356+00:00",
+ "updated": "2026-11-10T00:30:56.349896+00:00",
  "items": [
   {
    "id": "eafb2d73",
@@ -9,18 +9,18 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-10T00:00:00+00:00",
+   "date": "2026-11-10T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-eafb2d73/"
   },
   {
    "id": "8f82eee4",
    "title": "ABD Başkanı Trump: Savaşın bitişine dair olumluyuz",
-   "summary": "ABD Başkanı Donald Trump, Katar başbakanı El Sani ile görüştü. \"Görüşme mükemmel geçti, çatışmanın sona ermesine dair olumlu bir ivme görüyoruz.\" dedi.",
+   "summary": "Katar Başbakanı El Sani ile görüşen ABD Başkanı Donald Trump, \"Görüşme mükemmel geçti, çatışmanın sona ermesine dair olumlu bir ivme görüyoruz.\" dedi.",
    "link": "https://www.ntv.com.tr/turkiye/abd-baskani-trump-savasin-bitisine-dair-olumluyuz-1750175",
    "image": "https://images.ntv.com.tr/images/trump-374027.JPG",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-09T23:41:24+00:00",
+   "date": "2026-11-10T00:11:50+00:00",
    "url": "/haber/abd-baskani-trump-savasin-bitisine-dair-olumluyuz-8f82eee4/"
   },
   {
@@ -46,6 +46,17 @@
    "url": "/haber/trump-iran-a-askeri-harekat-duzenlemek-pek-gerekli-bir-sey-gibi-gorunm-3dfa1a00/"
   },
   {
+   "id": "064e94b3",
+   "title": "SpaceX'ten Texas'ta 24 milyar dolarlık doğal gaz santrali ve süper bilgisayar tesisi projesi",
+   "summary": "SpaceX'in, ABD'nin Texas eyaletindeki Starbase kentinde yaklaşık 24 milyar dolarlık doğal gazla çalışan bir elektrik santrali ve süper bilgisayar tesisi kurmayı planladığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spacexten-texasta-24-milyar-dolarlik-dogal-gaz-santrali-ve-super-bilgisayar-tesisi-projesi/4118079",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T23:08:24+00:00",
+   "url": "/haber/spacex-ten-texas-ta-24-milyar-dolarlik-dogal-gaz-santrali-ve-super-bil-064e94b3/"
+  },
+  {
    "id": "a415667d",
    "title": "COP31 alanında binlerce dronla gösteri",
    "summary": "Türkiye’nin ilk kez ev sahipliği yaptığı Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi’nin 31’inci Taraflar Konferansı (COP31) için binlerce dronla gösteri düzenlendi.",
@@ -66,6 +77,17 @@
    "category": "gundem",
    "date": "2026-11-09T22:13:41+00:00",
    "url": "/haber/cumhurbaskani-erdogan-sureci-dikkatle-ilerletiyoruz-4933e083/"
+  },
+  {
+   "id": "d6ab5805",
+   "title": "Boeing, ticari uçaklar birimindeki iş gücünü yaklaşık yüzde 5 azaltacak",
+   "summary": "ABD'li havacılık şirketi Boeing, ticari uçaklar birimindeki iş gücünü yaklaşık yüzde 5 azaltmayı planladığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/boeing-ticari-ucaklar-birimindeki-is-gucunu-yaklasik-yuzde-5-azaltacak/4118051",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T21:46:07+00:00",
+   "url": "/haber/boeing-ticari-ucaklar-birimindeki-is-gucunu-yaklasik-yuzde-5-azaltacak-d6ab5805/"
   },
   {
    "id": "fa9a4922",
@@ -321,17 +343,6 @@
    "url": "/haber/torpidolardan-ilham-alan-teknoloji-buyuk-gemilerin-yakit-tuketimini-az-04c25e3d/"
   },
   {
-   "id": "37d4bc9b",
-   "title": "İletişim Başkanı Duran'dan \"COP31\" paylaşımı",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanı Duran, NSosyal hesabından COP31'e ilişkin paylaşımda bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cop31-paylasimi/4117971",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T20:09:29+00:00",
-   "url": "/haber/iletisim-baskani-duran-dan-cop31-paylasimi-37d4bc9b/"
-  },
-  {
    "id": "50d65ade",
    "title": "Galaxy AI ücretli plan hazırlığında: 4,99 dolar",
    "summary": "Samsung'un Galaxy AI ücretli plan hazırlığı yazılım kodunda ortaya çıktı. Max adlı paket ayda 4,99 dolara gelebilir, ama mevcut özelliklerin çoğu ücretsiz kalacak.",
@@ -374,17 +385,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T19:45:00+00:00",
    "url": "/haber/motorola-razr-flex-27-ortaya-cikti-iphone-duo-ya-rakip-geliyor-eeeddd13/"
-  },
-  {
-   "id": "35f12a42",
-   "title": "İran basını: Hürmüz Boğazı'nın 8 milyar dolar karşılığında açılacağı iddiası gerçeği yansıtmıyor",
-   "summary": "İran, dondurulmuş varlıklarından 8 milyar doların serbest bırakılması karşılığında Hürmüz Boğazı'nın trafiğe açılmasına yönelik müzakereler yürütüldüğü iddialarını yalanladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-hurmuz-bogazinin-8-milyar-dolar-karsiliginda-acilacagi-iddiasi-gercegi-yansitmiyor/4117934",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T19:44:29+00:00",
-   "url": "/haber/iran-basini-hurmuz-bogazi-nin-8-milyar-dolar-karsiliginda-acilacagi-id-35f12a42/"
   },
   {
    "id": "afe27ddc",
