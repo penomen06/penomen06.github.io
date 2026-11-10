@@ -1,6 +1,160 @@
 {
- "updated": "2026-11-10T13:01:05.773461+00:00",
+ "updated": "2026-11-10T13:30:55.308168+00:00",
  "items": [
+  {
+   "id": "119f5f87",
+   "title": "Türk Telekom CEO'su Ebubekir Şahin'den NTV'ye özel açıklamalar",
+   "summary": "Antalya'da düzenlenen Birleşmiş Milletler COP 31 İklim Zirvesi, Türkiye'de ilk kez gerçekleştirilerek bilim ve sanayi dünyasını dev bir teknoloji altyapısıyla bir araya getirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/video-turk-telekom-ceosu-ebubekir-sahinden-ntvye-ozel-aciklamalar-1750311",
+   "image": "https://images.ntv.com.tr/images/sdfdsfds-992755.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T13:27:08+00:00",
+   "url": "/haber/turk-telekom-ceo-su-ebubekir-sahin-den-ntv-ye-ozel-aciklamalar-119f5f87/"
+  },
+  {
+   "id": "5793fc1b",
+   "title": "Antalya'da COP31 nedeniyle 7 ilçedeki kamu personeline 2 gün idari izin verilecek",
+   "summary": "Antalya Valiliği, kentte düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) dolayısıyla 7 ilçedeki kamu kurum ve kuruluşlarında görevli personelin 11-12 Kasım'da idari…",
+   "link": "https://www.aa.com.tr/tr/gundem/antalyada-cop31-nedeniyle-7-ilcedeki-kamu-personeline-2-gun-idari-izin-verilecek/4118941",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T13:23:05+00:00",
+   "url": "/haber/antalya-da-cop31-nedeniyle-7-ilcedeki-kamu-personeline-2-gun-idari-izi-5793fc1b/"
+  },
+  {
+   "id": "09b29a2e",
+   "title": "Galaxy S24 FE 2026'da Alınır mı? Fiyatı ve Özellikleri",
+   "summary": "Sıfır S24 FE 256 GB bugün 38.880 TL, yeni S25 FE ise 36.767 TL'den satılıyor. One UI 9 güncellemesini, fiyatları ve hangisini almanız gerektiğini anlattık.",
+   "link": "https://shiftdelete.net/samsung-galaxy-s24-fe-gorundu-iste-beklenen-ozellikleri",
+   "image": "https://ares.shiftdelete.net/2024/08/samsung-galaxy-s24-fe-gorundu-iste-beklenen-ozellikleri-1.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T13:19:12+00:00",
+   "url": "/haber/galaxy-s24-fe-2026-da-alinir-mi-fiyati-ve-ozellikleri-09b29a2e/"
+  },
+  {
+   "id": "1c8f0fad",
+   "title": "Anthropic, yeni yapay zekalarını duyurdu: Sıfırdan işletim sistemi geliştirdi!",
+   "summary": "Anthropic, kodlama ve bilimsel araştırmada önemli ilerlemeler kaydeden Claude Fable 5.2 ve Mythos 5.2 modellerini duyurdu. Fable 5.2, performans testlerinde zirveye yerleşti.",
+   "link": "https://www.donanimhaber.com/anthropic-claude-fable-5-2-ve-mythos-5-2-modellerini-duyurdu--212705",
+   "image": "https://www.donanimhaber.com/images/images/haber/212705/1200x675anthropic-claude-fable-5-2-ve-mythos-5-2-modellerini-duyurdu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-10T13:19:00+00:00",
+   "url": "/haber/anthropic-yeni-yapay-zekalarini-duyurdu-sifirdan-isletim-sistemi-gelis-1c8f0fad/"
+  },
+  {
+   "id": "07d16057",
+   "title": "KTM’den yeni eğlence makinesi: “X-Bow Arrow”",
+   "summary": "KTM, bugün resmi olarak görücüye çıkardığı yeni modeli Arrow ile X-Bow rozetini ilk kez araziye taşıyor. Kalbinde Audi’den gelen 2.0 litrelik turbo destekli bir dört silindirli motorun yer aldığı araç, gücü yedi ileri…",
+   "link": "https://www.log.com.tr/ktmden-yeni-eglence-makinesi-x-bow-arrow/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-10_16-11-45_JJBhB-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-10T13:14:36+00:00",
+   "url": "/haber/ktm-den-yeni-eglence-makinesi-x-bow-arrow-07d16057/"
+  },
+  {
+   "id": "355284fd",
+   "title": "AB, Fransa’nın İran’ı sorumlu tuttuğu siber saldırılara karşı ortak yanıt vermeye hazır olduğunu bildirdi",
+   "summary": "Avrupa Birliği (AB), Fransa’nın İran’ı sorumlu tuttuğu ve yüzlerce süpermarketin soğutma sistemlerini aksatan siber saldırıların ardından, yaptırımlar dahil mevcut araçlarını kullanarak hızlı ve ortak bir yanıt vermeye…",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-fransa-nin-iran-i-sorumlu-tuttugu-siber-saldirilara-karsi-ortak-yanit-vermeye-hazir-oldugunu-bildirdi/4118926",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T13:13:19+00:00",
+   "url": "/haber/ab-fransa-nin-iran-i-sorumlu-tuttugu-siber-saldirilara-karsi-ortak-yan-355284fd/"
+  },
+  {
+   "id": "fb3013f0",
+   "title": "Ali Koç, COP31 Küresel İklim Zirvesi'nde NTV'ye konuştu: İklim hassasiyeti tercih değil, mecburiyet",
+   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 Küresel İklim Zirvesi, iklim değişikliğiyle mücadele süreçlerini ve enerji dönüşümünü iş dünyasının gündemine taşıdı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-ali-koc-cop31-kuresel-iklim-zirvesinde-ntvye-konustu-iklim-hassasiyeti-tercih-degil-mecburiyet-1750308",
+   "image": "https://images.ntv.com.tr/images/ali-915606.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T13:12:36+00:00",
+   "url": "/haber/ali-koc-cop31-kuresel-iklim-zirvesi-nde-ntv-ye-konustu-iklim-hassasiye-fb3013f0/"
+  },
+  {
+   "id": "2375c406",
+   "title": "ABD'li Cumhuriyetçi Senatör Cruz: Hegseth ya istifa eder ya da Trump onu kovar",
+   "summary": "ABD'de Texas eyaletinin Cumhuriyetçi Senatörü Ted Cruz, Savunma Bakanı Pete Hegseth'in azline yönelik sunulan önergeye ilişkin \"Hegseth ya istifa eder ya da Trump onu kovar.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdli-cumhuriyetci-senator-cruz-hegseth-ya-istifa-eder-ya-da-trump-onu-kovar/4118918",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T13:08:49+00:00",
+   "url": "/haber/abd-li-cumhuriyetci-senator-cruz-hegseth-ya-istifa-eder-ya-da-trump-on-2375c406/"
+  },
+  {
+   "id": "d5d3cb1d",
+   "title": "A Milli Kadın Futbol Takımı, Kamerun ile 2 hazırlık maçı yapacak",
+   "summary": "A Milli Kadın Futbol Takımı, 2027 UEFA Uluslar Ligi hazırlıkları kapsamında 1 ve 4 Aralık'ta Kamerun ile iki hazırlık maçı oynayacak.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-futbol-takimi-kamerun-ile-2-hazirlik-maci-yapacak/4118917",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T13:08:42+00:00",
+   "url": "/haber/a-milli-kadin-futbol-takimi-kamerun-ile-2-hazirlik-maci-yapacak-d5d3cb1d/"
+  },
+  {
+   "id": "e4d7d831",
+   "title": "macOS 27.2.1 eMudhra sertifika açığını kapattı",
+   "summary": "Apple, macOS 27.2.1 güncellemesini yayınladı. Güncelleme, eMudhra sertifikalarının curl ve git gibi komut satırı araçlarında hala kabul edilmesine yol açan güvenlik açığını kapatıyor.",
+   "link": "https://shiftdelete.net/macos-27-2-1-emudhra-sertifika-acigi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/macos-guncelleme-ekrani-kapak-1011.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T13:08:00+00:00",
+   "url": "/haber/macos-27-2-1-emudhra-sertifika-acigini-kapatti-e4d7d831/"
+  },
+  {
+   "id": "a6ddf55b",
+   "title": "Türkiye, komşularıyla elektrik enterkonneksiyon kapasitesini yaklaşık 3 katına çıkaracak",
+   "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, komşu ülkelerle elektrik enterkonneksiyon kapasitesini 5,4 gigavattan 15 gigavata çıkarmayı hedeflediklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-komsulariyla-elektrik-enterkonneksiyon-kapasitesini-yaklasik-3-katina-cikaracak/4118911",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T13:04:01+00:00",
+   "url": "/haber/turkiye-komsulariyla-elektrik-enterkonneksiyon-kapasitesini-yaklasik-3-a6ddf55b/"
+  },
+  {
+   "id": "e1ced8a4",
+   "title": "Amazon'da televizyonlarda yılın en düşük fiyatları! İşte indirimli TV'ler",
+   "summary": "Amazon Gülümseten Kasım indirimlerinde televizyonlardaki düşük fiyatlar dikkat çekiyor. Kaçırmamanız gereken indirimli TV modellerini listeledik.",
+   "link": "https://www.donanimhaber.com/amazon-da-televizyonlarda-yilin-en-dusuk-fiyatlari-2026--212720",
+   "image": "https://www.donanimhaber.com/images/images/haber/212720/1200x675amazon-da-televizyonlarda-yilin-en-dusuk-fiyatlari-2026.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-10T13:03:55+00:00",
+   "url": "/haber/amazon-da-televizyonlarda-yilin-en-dusuk-fiyatlari-iste-indirimli-tv-l-e1ced8a4/"
+  },
+  {
+   "id": "281c2c31",
+   "title": "2027’nin başında tanıtılması beklenen iPhone Air 2 için yeni iddialar ortaya çıktı",
+   "summary": "2027’nin ilk çeyreğinde iPhone 18 ve iPhone 18e ile birlikte tanıtılması beklenen ince gövdeli iPhone Air 2, son iddialara göre 6,55 inç boyutunda 120 Hz LTPO OLED ekran ve A20 işlemciyle gelebilir, iPhone Air’den…",
+   "link": "https://www.log.com.tr/2027nin-basinda-tanitilmasi-beklenen-iphone-air-2-icin-yeni-iddialar-ortaya-cikti/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-10_15-56-09_ht4yO-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-10T13:02:21+00:00",
+   "url": "/haber/2027-nin-basinda-tanitilmasi-beklenen-iphone-air-2-icin-yeni-iddialar-281c2c31/"
+  },
+  {
+   "id": "e266808a",
+   "title": "Türkiye-Azerbaycan Ormancılık Eğitim Merkezi ve Fidanlık Tesisi Cebrayıl'da açıldı",
+   "summary": "Türkiye-Azerbaycan Ormancılık Eğitim Merkezi ve Fidanlık Tesisi, Azerbaycan'ın Cebrayıl ilinde hizmete girdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/turkiye-azerbaycan-ormancilik-egitim-merkezi-ve-fidanlik-tesisi-cebrayilda-acildi/4118903",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T13:00:02+00:00",
+   "url": "/haber/turkiye-azerbaycan-ormancilik-egitim-merkezi-ve-fidanlik-tesisi-cebray-e266808a/"
+  },
   {
    "id": "68c839f0",
    "title": "Çift ekranlı Honor 700 serisi 13 Kasım'da geliyor: Serideki en büyük değişim!",
@@ -24,15 +178,15 @@
    "url": "/haber/izmir-deki-habas-demir-celikte-patlama-yonetim-kurulu-baskani-dahil-11-241d7238/"
   },
   {
-   "id": "0e791e69",
-   "title": "Fransa'daki eylemlerde yaralanan Chelles Belediye Başkan Yardımcısı, bir liseliyi cinayete teşebbüsle suçladı",
-   "summary": "Haftalardır protestoların sürdüğü ve polis şiddetinin tartışma yarattığı Fransa’da Seine-et-Marne vilayetindeki lisede eylemler sırasında yaralanan belediye başkan yardımcısı bir liseli hakkında \"cinayete teşebbüs\"…",
-   "link": "https://www.aa.com.tr/tr/dunya/fransadaki-eylemlerde-yaralanan-chelles-belediye-baskan-yardimcisi-bir-liseliyi-cinayete-tesebbusle-sucladi/4118881",
+   "id": "c07fcd1b",
+   "title": "İngiltere'de okullarda cep telefonu kullanımına yönelik kısıtlamalar Eylül 2027'den itibaren sıkılaştırılacak",
+   "summary": "İngiltere'de öğrencilerin eğitim saatleri boyunca cep telefonlarına erişimini engellemek amacıyla mevcut kısıtlamalar Eylül 2027'den itibaren sıkılaştırılacak.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingilterede-okullarda-cep-telefonu-kullanimina-yonelik-kisitlamalar-eylul-2027den-itibaren-sikilastirilacak/4118880",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-10T12:47:14+00:00",
-   "url": "/haber/fransa-daki-eylemlerde-yaralanan-chelles-belediye-baskan-yardimcisi-bi-0e791e69/"
+   "date": "2026-11-10T12:46:59+00:00",
+   "url": "/haber/ingiltere-de-okullarda-cep-telefonu-kullanimina-yonelik-kisitlamalar-e-c07fcd1b/"
   },
   {
    "id": "f5f3c3f1",
@@ -200,17 +354,6 @@
    "url": "/haber/kibris-ta-iki-yeni-sinir-kapisi-acilacak-fa1469e5/"
   },
   {
-   "id": "e1ced8a4",
-   "title": "Amazon'da televizyonlarda yılın en düşük fiyatları! İşte indirimli TV'ler",
-   "summary": "Amazon Gülümseten Kasım indirimlerinde televizyonlardaki düşük fiyatlar dikkat çekiyor. Kaçırmamanız gereken indirimli TV modellerini listeledik.",
-   "link": "https://www.donanimhaber.com/amazon-da-televizyonlarda-yilin-en-dusuk-fiyatlari-2026--212720",
-   "image": "https://www.donanimhaber.com/images/images/haber/212720/1200x675amazon-da-televizyonlarda-yilin-en-dusuk-fiyatlari-2026.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-10T12:35:08+00:00",
-   "url": "/haber/amazon-da-televizyonlarda-yilin-en-dusuk-fiyatlari-iste-indirimli-tv-l-e1ced8a4/"
-  },
-  {
    "id": "20fe253f",
    "title": "Polestar, “Formula 2030” konseptini sergiledi",
    "summary": "Çinli Geely’nin sahibi olduğu Volvo’nun hayata geçirdiği marka Polestar, bugün “Formula 2030” adını verdiği yeni konseptiyle ses getirdi. Üretime alınamayacak kadar uçuk olmasa da satışa sunulmayacağı açıklanan dört…",
@@ -256,14 +399,14 @@
   },
   {
    "id": "09b9f4c1",
-   "title": "TİP Milletvekili Ahmet Şık'ın eşi Yonca Şık gözaltına alındı",
-   "summary": "TİP İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Şık İstanbul'da gözaltına alındı. Kızı ve avukatı Mina Şık'ın BBC Türkçe'ye verdiği bilgiye göre, Yonca Şık'a \"siyasal veya askeri casusluk\" suçlaması yöneltiliyor.",
+   "title": "TİP Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık gözaltına alındı",
+   "summary": "TİP İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık İstanbul'da gözaltına alındı. Kızı ve avukatı Mina Şık'ın BBC Türkçe'ye verdiği bilgiye göre, Yonca Şık'a \"siyasal veya askeri casusluk\" suçlaması…",
    "link": "https://www.bbc.com/turkce/articles/cv62y219ded5o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4beb/live/b27191e0-dcfd-11f1-933b-ff2499ee76f6.png",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-10T12:25:38+00:00",
-   "url": "/haber/tip-milletvekili-ahmet-sik-in-esi-yonca-sik-gozaltina-alindi-09b9f4c1/"
+   "url": "/haber/tip-milletvekili-ahmet-sik-in-esi-yonca-verdioglu-sik-gozaltina-alindi-09b9f4c1/"
   },
   {
    "id": "c01141d7",
@@ -275,28 +418,6 @@
    "category": "gundem",
    "date": "2026-11-10T12:25:23+00:00",
    "url": "/haber/katar-abd-ile-iran-arasindaki-muzakerelerde-ilerleme-kaydediliyor-c01141d7/"
-  },
-  {
-   "id": "e3809da9",
-   "title": "Yandex, bulut hizmetindeki verilerin yüzde 97'sine erişimi yeniden sağladı",
-   "summary": "Rus teknoloji şirketi Yandex, insansız hava aracı (İHA) saldırılarında veri merkezlerinin zarar görmesinin ardından bulut hizmeti Yandex Cloud'daki müşteri verilerinin yüzde 97,16'sına erişimin yeniden sağlandığını…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yandex-bulut-hizmetindeki-verilerin-yuzde-97sine-erisimi-yeniden-sagladi/4118842",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T12:24:43+00:00",
-   "url": "/haber/yandex-bulut-hizmetindeki-verilerin-yuzde-97-sine-erisimi-yeniden-sagl-e3809da9/"
-  },
-  {
-   "id": "91ac80d7",
-   "title": "İsrail'in kısıtlamaları Gazze'de 560 binden fazla çocuğu güvenli barınma imkanından yoksun bıraktı",
-   "summary": "Uluslararası yardım kuruluşu Save the Children (Çocukları Kurtarın), İsrail'in insani yardım malzemelerinin girişine yönelik kısıtlamaları nedeniyle Gazze'de 560 binden fazla çocuğun kış koşullarına karşı barınma…",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-kisitlamalari-gazzede-560-binden-fazla-cocugu-guvenli-barinma-imkanindan-yoksun-birakti/4118838",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T12:21:49+00:00",
-   "url": "/haber/israil-in-kisitlamalari-gazze-de-560-binden-fazla-cocugu-guvenli-barin-91ac80d7/"
   },
   {
    "id": "9925308c",
@@ -332,17 +453,6 @@
    "url": "/haber/trump-iran-a-tekrar-saldirmamiz-son-derece-dusuk-ihtimal-ce8827f9/"
   },
   {
-   "id": "5b60b0cf",
-   "title": "İsrail Maliye Bakanı Smotrich, Hamas tamamen silahsızlandırılmadan Gazze’nin yeniden imarına karşı çıktı",
-   "summary": "İsrail’de aşırı sağcı Maliye Bakanı Bezalel Smotrich, Barış Kurulu'nun İsrail'e Gazze'ye ilişkin taahhütlerini yerine getirme çağrısına karşı çıkarak, Hamas tamamen silahsızlandırılmadan Gazze Şeridi'nin yeniden imarına…",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-maliye-bakani-smotrich-hamas-tamamen-silahsizlandirilmadan-gazze-nin-yeniden-imarina-karsi-cikti/4118824",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T12:11:38+00:00",
-   "url": "/haber/israil-maliye-bakani-smotrich-hamas-tamamen-silahsizlandirilmadan-gazz-5b60b0cf/"
-  },
-  {
    "id": "e1a3a0cc",
    "title": "Sarıgül soruşturmasında yeni gelişme. 11 şüpheliye adli kontrol kararı",
    "summary": "Sarıgül ailesiyle ilgili kara para aklama soruşturmasında gözaltına alınan 11 şüpheli adli kontrol şartıyla serbest bırakıldı.",
@@ -352,39 +462,6 @@
    "category": "gundem",
    "date": "2026-11-10T12:10:38+00:00",
    "url": "/haber/sarigul-sorusturmasinda-yeni-gelisme-11-supheliye-adli-kontrol-karari-e1a3a0cc/"
-  },
-  {
-   "id": "cb61a10b",
-   "title": "Murat Saraçoğlu'nun \"At Üstünde\" filmi 14. Boğaziçi Film Festivali'nde gösterildi",
-   "summary": "Yönetmenliğini ve senaristliğini Murat Saraçoğlu'nun üstlendiği \"At Üstünde\" filmi, \"14. Boğaziçi Film Festivali\"nde sinemaseverlerle buluştu.",
-   "link": "https://www.aa.com.tr/tr/kultur/murat-saracoglunun-at-ustunde-filmi-14-bogazici-film-festivalinde-gosterildi/4118820",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T12:10:34+00:00",
-   "url": "/haber/murat-saracoglu-nun-at-ustunde-filmi-14-bogazici-film-festivali-nde-go-cb61a10b/"
-  },
-  {
-   "id": "c0c6467e",
-   "title": "İsrail, işgal altındaki Doğu Kudüs'teki tarihi derneği bir yıl içinde ikinci kez kapatma kararı aldı",
-   "summary": "İsrail, işgal altındaki Doğu Kudüs'ün Eski Şehir bölgesinde faaliyet gösteren tarihi Burc Laklak Derneğinin merkezini bu yıl içerisinde ikinci kez 6 ay süreyle kapatma kararı aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-isgal-altindaki-dogu-kudusteki-tarihi-dernegi-bir-yil-icinde-ikinci-kez-kapatma-karari-aldi/4118818",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T12:09:02+00:00",
-   "url": "/haber/israil-isgal-altindaki-dogu-kudus-teki-tarihi-dernegi-bir-yil-icinde-i-c0c6467e/"
-  },
-  {
-   "id": "8f161f27",
-   "title": "Malezyalı Bakan Nga, Türkiye ile aralarında güçlü ve sağlam ortaklık bulunduğunu söyledi",
-   "summary": "Malezya Konut ve Yerel Yönetim Bakanı ve Birleşmiş Milletler İnsan Yerleşimleri Programı (UN-Habitat) Asamblesi Başkanı Nga Kor Ming, Türkiye ile Malezya arasındaki ilişkilerin dostluktan ibaret olmadığını belirterek,…",
-   "link": "https://www.aa.com.tr/tr/gundem/malezyali-bakan-nga-turkiye-ile-aralarinda-guclu-ve-saglam-ortaklik-bulundugunu-soyledi/4118817",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T12:08:32+00:00",
-   "url": "/haber/malezyali-bakan-nga-turkiye-ile-aralarinda-guclu-ve-saglam-ortaklik-bu-8f161f27/"
   },
   {
    "id": "14a8398f",
@@ -413,7 +490,7 @@
    "title": "Apple'ın Türkiye yatırımı hakkında neler biliniyor?",
    "summary": "Apple Türkiye'de toplam yedi yeni geliştirici ve üretim akademisi açacağını duyurdu.",
    "link": "https://www.bbc.com/turkce/articles/cm4g1gy1p18eo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec34/live/2184b2d0-dcfc-11f1-ac44-374ba65bb918.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/184e/live/972fd540-dd07-11f1-b441-2b33b063138f.png",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-10T12:01:25+00:00",
@@ -838,50 +915,6 @@
    "url": "/haber/nvidia-rtx-5070-li-canavar-casper-excalibur-g915-b758ea05/"
   },
   {
-   "id": "64723548",
-   "title": "İlkokulda şiddet iddiası. 7 yaşındaki çocuğun dişleri kırıldı, öğretmene soruşturma başlatıldı",
-   "summary": "İstanbul Bahçelievler'deki bir ilkokulda 7 yaşındaki çocuğun, öğretmeni tarafından dövüldüğü edildiği iddia edildi. Öğretmen hakkında adli ve idari soruşturma başlatıldı. (Haber: Erva Balkı)",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-ilkokulda-siddet-iddiasi-7-yasindaki-cocugun-disleri-kirildi-ogretmene-sorusturma-baslatildi-1750250",
-   "image": "https://images.ntv.com.tr/images/okuldaşiddet-493353.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T09:06:56+00:00",
-   "url": "/haber/ilkokulda-siddet-iddiasi-7-yasindaki-cocugun-disleri-kirildi-ogretmene-64723548/"
-  },
-  {
-   "id": "0639daab",
-   "title": "Anıtkabir ve Dolmabahçe'de yas",
-   "summary": "Ulu Önder Mustafa Kemal Atatürk'ün 88 yıl önce ebediyete intikal ettiği Dolmabahçe Sarayı ve ebedi istirahatgahı Anıtkabir ziyaretçi akınına uğradı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-anitkabir-ve-dolmabahcede-yas-1750253",
-   "image": "https://images.ntv.com.tr/images/anmalar-687412.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T09:05:32+00:00",
-   "url": "/haber/anitkabir-ve-dolmabahce-de-yas-0639daab/"
-  },
-  {
-   "id": "f605f1a5",
-   "title": "Desecure'den yapay zekalı güvenlik sistemi",
-   "summary": "Desecure Technology, yapay zeka destekli video analiz, radar ve termal kameraları tek mimaride birleştirip 7/24 alarm izlemeyle destekliyor.",
-   "link": "https://shiftdelete.net/desecure-technology-yapay-zeka-entegre-guvenlik",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/desecure-mobil-izleme-kulesi-kapak-1011.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T09:05:27+00:00",
-   "url": "/haber/desecure-den-yapay-zekali-guvenlik-sistemi-f605f1a5/"
-  },
-  {
-   "id": "21691fa1",
-   "title": "Vodafone'un servis geliri 84,8 milyar TL oldu",
-   "summary": "Vodafone Türkiye, 2026-27 mali yılının ilk yarısında 84,8 milyar TL servis geliri açıkladı; mobil abone sayısı 25,4 milyona çıktı.",
-   "link": "https://shiftdelete.net/vodafone-turkiye-2026-27-ilk-yariyil-sonuclari",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/vodafone-ilk-yariyil-kapak-1011.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T09:05:05+00:00",
-   "url": "/haber/vodafone-un-servis-geliri-84-8-milyar-tl-oldu-21691fa1/"
-  },
-  {
    "id": "5127c1e9",
    "title": "Blade Runner 2099 dizisinin yeni fragmanı yayınlandı: 25 Kasım'da geliyor",
    "summary": "Bu ay Amazon Prime Video'da izleyici ile buluşacak olan Blade Runner 2099 dizisinden son fragman yayınlandı. Dizi, sevilen bilim-kurgu serisinin hikâyesini devam ettiriyor.",
@@ -894,14 +927,14 @@
   },
   {
    "id": "c56c0dcd",
-   "title": "Cumhurbaşkanı Erdoğan: Cumhuriyeti yeniden cumhurla buluşturduk",
+   "title": "Cumhurbaşkanı Erdoğan: Cumhuriyet'i yeniden cumhurla buluşturduk",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Gazi'nin mirasını istismar edenler, on yıllar boyunca bu millete tepeden baktılar. Zihinlerinde oluşturduğu Mustafa Kemal imgesi üzerinden cumhur ile Cumhuriyet'in arasını açtılar.…",
    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-cumhuriyeti-yeniden-cumhurla-bulusturduk-962788.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/erdogan-aa-2502406.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-10T08:59:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-cumhuriyeti-yeniden-cumhurla-bulusturduk-c56c0dcd/"
+   "url": "/haber/cumhurbaskani-erdogan-cumhuriyet-i-yeniden-cumhurla-bulusturduk-c56c0dcd/"
   },
   {
    "id": "ca3f0418",
@@ -992,17 +1025,6 @@
    "url": "/haber/apple-dan-turkiye-ye-dev-yatirim-akademiler-ve-gelistirici-merkezi-gel-b3f7081a/"
   },
   {
-   "id": "55e510bd",
-   "title": "Apple'dan tüm Mac'lere güvenlik güncellemesi: eMudhra sertifika açığı giderildi!",
-   "summary": "Apple, macOS Golden Gate 27.2.1 güncellemesinin yanı sıra macOS 26.7.3 ve macOS 15.8.3 sürümlerini yayınladı. Güncellemeler, eMudhra sertifika güvenlik açığını gideriyor.",
-   "link": "https://www.donanimhaber.com/apple-dan-tum-mac-lere-guvenlik-guncellemesi--212702",
-   "image": "https://www.donanimhaber.com/images/images/haber/212702/1200x675apple-dan-tum-mac-lere-guvenlik-guncellemesi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-10T07:58:07+00:00",
-   "url": "/haber/apple-dan-tum-mac-lere-guvenlik-guncellemesi-emudhra-sertifika-acigi-g-55e510bd/"
-  },
-  {
    "id": "cd2652c9",
    "title": "OPPO ve Vivo’dan 12.000 mAh bataryalı telefonlar geliyor",
    "summary": "Çinli akıllı telefon üreticileri OPPO ve Vivo, önümüzdeki dönemde tam 12.000 mAh kapasiteli batarya taşıyan telefonlarını pazara sunacak. Halihazırda 10.000 mAh bataryalı modelleri bulunan iki üretici, silikon karbon…",
@@ -1045,28 +1067,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T07:10:21+00:00",
    "url": "/haber/boston-dynamics-insansi-robotu-atlas-a-test-icin-tekerlekler-ekledi-vi-dbf2d4b3/"
-  },
-  {
-   "id": "c18670be",
-   "title": "Samsung Galaxy S27 serisine yönelik yeni kamera iddiaları geldi",
-   "summary": "2027’nin başında tanıtılacak Samsung Galaxy S27 serisinde Galaxy S27, Galaxy S27 Plus, Galaxy S27 Pro ve Galaxy S27 Ultra modelleri yer alacak. Son sızıntıya göre Galaxy S27 ve Galaxy S27 Plus’ın önünde Samsung S5K3LU…",
-   "link": "https://www.log.com.tr/samsung-galaxy-s27-serisine-yonelik-yeni-kamera-iddialari-geldi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/samsung-galaxy-s27-serisi-ocak-ayinin-basinda-tanitilabilir-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-10T06:59:58+00:00",
-   "url": "/haber/samsung-galaxy-s27-serisine-yonelik-yeni-kamera-iddialari-geldi-c18670be/"
-  },
-  {
-   "id": "2e999b73",
-   "title": "Opera, 100 milyon PC kullanıcısına ulaştı",
-   "summary": "Geride bırakılan bu önemli kilometre taşına yönelik olarak Opera tarafından yapılan resmi açıklamada, “Opera, PC tarayıcılarında aylık 100 milyon aktif kullanıcıya ulaşarak şirket tarihinde önemli bir eşiği geride…",
-   "link": "https://www.log.com.tr/opera-100-milyon-pc-kullanicisina-ulasti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-10_09-49-06_k6sdT-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-10T06:49:58+00:00",
-   "url": "/haber/opera-100-milyon-pc-kullanicisina-ulasti-2e999b73/"
   },
   {
    "id": "f64fdea0",
