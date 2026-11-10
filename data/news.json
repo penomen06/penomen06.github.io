@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-10T19:39:44.786125+00:00",
+ "updated": "2026-11-10T20:01:05.027778+00:00",
  "items": [
+  {
+   "id": "91d72576",
+   "title": "Çin, dünyanın ilk hibrit nükleer santralinin inşaatına başladı",
+   "summary": "Çin, dünyanın ilk ticari yüksek sıcaklıklı gaz soğutmalı nükleer reaktörünün inşasına başladı. Proje, nükleer enerjiyi doğrudan petrokimya sanayisinin ısı ihtiyacını karşılamak için kullanacak.",
+   "link": "https://www.donanimhaber.com/cin-dunyanin-ilk-hibrit-nukleer-santralinin-insaatina-basladi--212735",
+   "image": "https://www.donanimhaber.com/images/images/haber/212735/1200x675cin-dunyanin-ilk-hibrit-nukleer-santralinin-insaatina-basladi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-10T20:00:00+00:00",
+   "url": "/haber/cin-dunyanin-ilk-hibrit-nukleer-santralinin-insaatina-basladi-91d72576/"
+  },
+  {
+   "id": "606e68d0",
+   "title": "Başsavcılık, Adli Tıp'ın Kaşif Kozinoğlu raporuna itiraz etti",
+   "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüne ilişkin soruşturmada başsavcılık, Adli Tıp Kurumu'nun raporuna itiraz etti.",
+   "link": "https://www.bbc.com/turkce/articles/cwyzxq2g545o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e87/live/bd89f910-acff-11f1-b1d1-571ed4d7ff2c.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-10T19:50:07+00:00",
+   "url": "/haber/bassavcilik-adli-tip-in-kasif-kozinoglu-raporuna-itiraz-etti-606e68d0/"
+  },
+  {
+   "id": "8df4a8dc",
+   "title": "GTA 6, hem PlayStation hem de Xbox tarafında ön sipariş rekoru kırdı",
+   "summary": "GTA 6, bugün Sony ve Microsoft tarafından yapılan resmi açıklamalara göre hem PlayStation hem de Xbox mağazalarında tüm zamanların “en çok ön sipariş verilen” oyunu oldu. Geliştirici şirket Rockstar Games’in geçtiğimiz…",
+   "link": "https://www.log.com.tr/gta-6-hem-playstation-hem-de-xbox-tarafinda-on-siparis-rekoru-kirdi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-02_09-23-40_RHULO-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-10T19:49:59+00:00",
+   "url": "/haber/gta-6-hem-playstation-hem-de-xbox-tarafinda-on-siparis-rekoru-kirdi-8df4a8dc/"
+  },
+  {
+   "id": "e03547d9",
+   "title": "Oppo'nun 12.000 mAh bataryalı telefonu ortaya çıktı",
+   "summary": "Oppo, 12.000 mAh kapasiteli bataryaya sahip yeni orta segment akıllı telefon hazırlıyor. TENAA sertifikasında görüntülenen cihaz, devasa bataryasına rağmen nispeten ince tasarımla gelebilir.",
+   "link": "https://www.donanimhaber.com/oppo-nun-12-000-mah-bataryali-telefonu-ortaya-cikti--212737",
+   "image": "https://www.donanimhaber.com/images/images/haber/212737/1200x675oppo-nun-12-000-mah-bataryali-telefonu-ortaya-cikti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-10T19:40:00+00:00",
+   "url": "/haber/oppo-nun-12-000-mah-bataryali-telefonu-ortaya-cikti-e03547d9/"
+  },
+  {
+   "id": "d8c8faf2",
+   "title": "Gençlik ve Spor Bakanı Osman Aşkın Bak: KYK yurt başvurularının yüzde 96'sını yerleştirdik",
+   "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, 2026-2027 eğitim öğretim döneminde KYK yurtlarındaki yerleştirme oranının yüzde 96'ya eriştiğini ve kapasiteyi artırmak için çalışmayı sürdürdüklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/genclik-ve-spor-bakani-osman-askin-bak-kyk-yurt-basvurularinin-yuzde-96sini-yerlestirdik/4119503",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T19:39:02+00:00",
+   "url": "/haber/genclik-ve-spor-bakani-osman-askin-bak-kyk-yurt-basvurularinin-yuzde-9-d8c8faf2/"
+  },
   {
    "id": "2da2d4e8",
    "title": "TSMC, OpenAI ve Anthropic'e yatırım yapacak",
@@ -11,6 +66,17 @@
    "category": "teknoloji",
    "date": "2026-11-10T19:38:00+00:00",
    "url": "/haber/tsmc-openai-ve-anthropic-e-yatirim-yapacak-2da2d4e8/"
+  },
+  {
+   "id": "270cb90a",
+   "title": "BM: Gazze'de hafta sonu yağan yağmurlardan yaklaşık 200 binden fazla kişi etkilendi",
+   "summary": "Birleşmiş Milletler (BM), Gazze'de hafta sonu yağan yağmurlardan 40 binden fazla ailenin barınağında ve Gazze'deki 9 sağlık tesisinde hasar yaşandığını belirterek, ilk tahminlere göre 200 binden fazla kişinin etkilenmiş…",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-gazzede-hafta-sonu-yagan-yagmurlardan-yaklasik-200-binden-fazla-kisi-etkilendi/4119499",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T19:33:47+00:00",
+   "url": "/haber/bm-gazze-de-hafta-sonu-yagan-yagmurlardan-yaklasik-200-binden-fazla-ki-270cb90a/"
   },
   {
    "id": "881adeff",
@@ -233,17 +299,6 @@
    "url": "/haber/gta-6-xbox-one-a-geliyor-bulut-uzerinden-efa9c76f/"
   },
   {
-   "id": "aff2ab40",
-   "title": "Fatih Sultan Mehmet'in kütüphanesindeki İlyada nüshasının bilinmeyen özellikleri ortaya çıkarıldı",
-   "summary": "İstanbul Üniversitesinde yürütülen araştırmada, Fatih Sultan Mehmet'in kütüphanesindeki 260 yapraklık İlyada el yazmasının İstanbul'daki bir yazım atölyesinde kopyalanmış olabileceğine ilişkin bulgulara ulaşıldı.",
-   "link": "https://www.aa.com.tr/tr/kultur/fatih-sultan-mehmetin-kutuphanesindeki-ilyada-nushasinin-bilinmeyen-ozellikleri-ortaya-cikarildi/4119424",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T18:02:15+00:00",
-   "url": "/haber/fatih-sultan-mehmet-in-kutuphanesindeki-ilyada-nushasinin-bilinmeyen-o-aff2ab40/"
-  },
-  {
    "id": "e392573d",
    "title": "Savcılıktan Kozinoğlu'nun ölümüne ilişkin rapora itiraz",
    "summary": "Silivri Cumhuriyet Başsavcılığı, eski MİT görevlisi Kaşif Kozinoğlu’nun ölümüne ilişkin adli tıp raporuna itiraz etti.",
@@ -253,17 +308,6 @@
    "category": "gundem",
    "date": "2026-11-10T18:01:09+00:00",
    "url": "/haber/savciliktan-kozinoglu-nun-olumune-iliskin-rapora-itiraz-e392573d/"
-  },
-  {
-   "id": "60c7de9a",
-   "title": "İstinaf genç kızın öldüğü motosiklet kazası kararını bozdu",
-   "summary": "İstanbul Bölge Adliye Mahkemesi, Sultanbeyli'de, erkek arkadaşının kullandığı motosikletin otomobille çarpışması sonucu meydana gelen kazada Yiğit'in hayatını kaybetmesine ilişkin Mert ile Bayramoğlu için hükmedilen…",
-   "link": "https://www.aa.com.tr/tr/gundem/istinaf-genc-kizin-oldugu-motosiklet-kazasi-kararini-bozdu/4119416",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T17:59:30+00:00",
-   "url": "/haber/istinaf-genc-kizin-oldugu-motosiklet-kazasi-kararini-bozdu-60c7de9a/"
   },
   {
    "id": "55b77470",
@@ -574,17 +618,6 @@
    "url": "/haber/turkiye-elektrigini-komsularina-satiyor-gelir-500-milyon-dolara-ulasti-ec78f13a/"
   },
   {
-   "id": "4596b9e2",
-   "title": "GTA 6 tüm konsollarda 30 FPS çalışacak! PS5 Pro'ya özel ray tracing",
-   "summary": "Rockstar, GTA 6'nın PlayStation ve Xbox konsollarında 30 FPS hızda çalışacağını doğruladı. Işın izleme (ray-tracing) özelliği ise yalnızca PS5 Pro'da deneyimlenebilecek. İşte detaylar:",
-   "link": "https://www.donanimhaber.com/gta-6-30-fps-calisacak-ps5-pro-ya-ozel-ray-tracing--212732",
-   "image": "https://www.donanimhaber.com/images/images/haber/212732/1200x675gta-6-30-fps-calisacak-ps5-pro-ya-ozel-ray-tracing.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-10T14:53:28+00:00",
-   "url": "/haber/gta-6-tum-konsollarda-30-fps-calisacak-ps5-pro-ya-ozel-ray-tracing-4596b9e2/"
-  },
-  {
    "id": "2b1518d2",
    "title": "Sebebi Hiç Şaşırtmadı: Sıfır Telefonlarda ‘İkinci El Parça’ Dönemi Başlıyor!",
    "summary": "Artan maliyetler ve stok krizi nedeniyle akıllı telefon üreticileri, bütçe dostu modellerde kullanılmış bellek çiplerine yöneliyor.",
@@ -638,17 +671,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T14:36:55+00:00",
    "url": "/haber/gta-6-dan-yeni-fragman-ps5-pro-da-da-30-fps-091d5636/"
-  },
-  {
-   "id": "2727fca2",
-   "title": "GTA 6'nın süper otomobili dudak uçuklatan fiyata satışa çıktı!",
-   "summary": "Rockstar'ın Ferrari'den esinlenerek GTA serisine taşıdığı ikonik aracı Grotti Cheetah artık gerçekte satın alınabiliyor. Araç, Londra'da lüks bir mağazada 1 milyon sterline satışa çıktı!",
-   "link": "https://www.donanimhaber.com/gta-6-nin-super-otomobili-dudak-ucuklatan-fiyata-satisa-cikti--212725",
-   "image": "https://www.donanimhaber.com/images/images/haber/212725/1200x675gta-6-nin-super-otomobili-dudak-ucuklatan-fiyata-satisa-cikti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-10T14:35:00+00:00",
-   "url": "/haber/gta-6-nin-super-otomobili-dudak-ucuklatan-fiyata-satisa-cikti-2727fca2/"
   },
   {
    "id": "22102cf8",
@@ -904,17 +926,6 @@
    "url": "/haber/enerji-bakani-ntv-de-acikladi-avrupa-ya-yeni-enerji-koridoru-geliyor-28784ee8/"
   },
   {
-   "id": "fa1469e5",
-   "title": "Kıbrıs'ta iki yeni sınır kapısı açılacak",
-   "summary": "Kıbrıs'ın kuzeyindeki Türk yönetiminin lideri Tufan Erhürman ve Kıbrıs Cumhuriyeti Cumhurbaşkanı Nikos Hristodulides 9 Kasım'da yaptıkları görüşmede adada iki geçiş kapısı daha açılması kararı aldı.",
-   "link": "https://www.bbc.com/turkce/articles/c69vzv2ykpvro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f823/live/9b0e6bd0-dd03-11f1-b882-b9b1c69603b0.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-10T12:36:13+00:00",
-   "url": "/haber/kibris-ta-iki-yeni-sinir-kapisi-acilacak-fa1469e5/"
-  },
-  {
    "id": "20fe253f",
    "title": "Polestar, “Formula 2030” konseptini sergiledi",
    "summary": "Çinli Geely’nin sahibi olduğu Volvo’nun hayata geçirdiği marka Polestar, bugün “Formula 2030” adını verdiği yeni konseptiyle ses getirdi. Üretime alınamayacak kadar uçuk olmasa da satışa sunulmayacağı açıklanan dört…",
@@ -1067,17 +1078,6 @@
    "category": "gundem",
    "date": "2026-11-10T10:10:09+00:00",
    "url": "/haber/yolun-karsisina-gecerken-metrelerce-savruldular-18-yasindaki-aysenur-u-bd895eea/"
-  },
-  {
-   "id": "59b62f8a",
-   "title": "Mercedes-Benz Yönetim Kurulu Başkanı Ola Källenius: “İçten yanmalı motorların en az 10 yılı daha var”",
-   "summary": "Mercedes-Benz Yönetim Kurulu Başkanı Ola Källenius, katıldığı bir etkinlikte yaptığı açıklamada içten yanmalı motorların (benzinli ve dizel) önünde en az 10 yılın daha olduğunu söyledi. “İçten yanmalı motorlar en az 10,…",
-   "link": "https://www.log.com.tr/mercedes-benz-yonetim-kurulu-baskani-ola-kallenius-icten-yanmali-motorlarin-en-az-10-yili-daha-var/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-10_12-30-47_LZwSt-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-10T09:35:07+00:00",
-   "url": "/haber/mercedes-benz-yonetim-kurulu-baskani-ola-kallenius-icten-yanmali-motor-59b62f8a/"
   },
   {
    "id": "ca3f0418",
