@@ -1,16 +1,247 @@
 {
- "updated": "2026-11-10T12:30:55.749985+00:00",
+ "updated": "2026-11-10T13:01:05.773461+00:00",
  "items": [
+  {
+   "id": "68c839f0",
+   "title": "Çift ekranlı Honor 700 serisi 13 Kasım'da geliyor: Serideki en büyük değişim!",
+   "summary": "Honor 700 serisi arka ekranı ile ortaya çıktı. Görsel, kalp atış hızı ve kandaki oksijen seviyesini ölçme özelliğini gözler önüne seriyor ancak ikinci ekranın işlevi bununla sınırlı kalmayacak.",
+   "link": "https://www.donanimhaber.com/iki-ekranli-honor-700-serisi-13-kasim-da-tanitilacak--212708",
+   "image": "https://www.donanimhaber.com/images/images/haber/212708/1200x675iki-ekranli-honor-700-serisi-13-kasim-da-tanitilacak.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:57:00+00:00",
+   "url": "/haber/cift-ekranli-honor-700-serisi-13-kasim-da-geliyor-serideki-en-buyuk-de-68c839f0/"
+  },
+  {
+   "id": "241d7238",
+   "title": "İzmir'deki HABAŞ demir çelikte patlama: Yönetim Kurulu Başkanı dahil 11 gözaltı",
+   "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda 17 kişinin ölümüyle sonuçlanan patlamanın ardından, şirketin yönetim kurulu başkanı dahil 11 kişi için gözaltı kararı verildi.",
+   "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/816d/live/a905bdb0-dc31-11f1-a701-fddedf244c16.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-10T12:52:49+00:00",
+   "url": "/haber/izmir-deki-habas-demir-celikte-patlama-yonetim-kurulu-baskani-dahil-11-241d7238/"
+  },
+  {
+   "id": "0e791e69",
+   "title": "Fransa'daki eylemlerde yaralanan Chelles Belediye Başkan Yardımcısı, bir liseliyi cinayete teşebbüsle suçladı",
+   "summary": "Haftalardır protestoların sürdüğü ve polis şiddetinin tartışma yarattığı Fransa’da Seine-et-Marne vilayetindeki lisede eylemler sırasında yaralanan belediye başkan yardımcısı bir liseli hakkında \"cinayete teşebbüs\"…",
+   "link": "https://www.aa.com.tr/tr/dunya/fransadaki-eylemlerde-yaralanan-chelles-belediye-baskan-yardimcisi-bir-liseliyi-cinayete-tesebbusle-sucladi/4118881",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:47:14+00:00",
+   "url": "/haber/fransa-daki-eylemlerde-yaralanan-chelles-belediye-baskan-yardimcisi-bi-0e791e69/"
+  },
+  {
+   "id": "f5f3c3f1",
+   "title": "Yapay zeka şirketi Anthropic'ten 64,4 milyar dolarlık halka arz",
+   "summary": "Claude yapay zeka modellerinin geliştiricisi Anthropic, Wall Street tarihinin en büyük halka arzlarından​​​​​​​ birine imza atarak halka arz yoluyla 64,4 milyar dolara kadar kaynak oluşturmayı hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yapay-zeka-sirketi-anthropicten-64-4-milyar-dolarlik-halka-arz/4118879",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:46:29+00:00",
+   "url": "/haber/yapay-zeka-sirketi-anthropic-ten-64-4-milyar-dolarlik-halka-arz-f5f3c3f1/"
+  },
+  {
+   "id": "506d360d",
+   "title": "Anthropic, Yeni Claude Fable 5.2 ve Mythos 5.2 Modellerini Tanıttı",
+   "summary": "Anthropic, kodlama ve bilimde öne çıkan Claude Fable 5.2 ve Mythos 5.2 modellerini yeni fiyat ve güvenlik seçenekleriyle tanıttı.",
+   "link": "https://www.webtekno.com/anthropic-claude-fable-5-2-mythos-5-2-modellerini-tanitti-h228680.html",
+   "image": "https://imgrosetta.webtekno.com/file/696553/696553-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:45:13+00:00",
+   "url": "/haber/anthropic-yeni-claude-fable-5-2-ve-mythos-5-2-modellerini-tanitti-506d360d/"
+  },
+  {
+   "id": "5b88b9e4",
+   "title": "Gemini'a Hakkınızda Hatırladığı Her Şeyi Gösteren \"Hafıza Özeti\" Özelliği Geliyor",
+   "summary": "Gemini'ın yeni Hafıza Özeti özelliğiyle yapay zekânın hakkınızda bildiği her şeyi kolayca görebilecek, düzenleyebilecek ve silebileceksiniz.",
+   "link": "https://www.webtekno.com/gemini-hafiza-ozeti-ozelligi-geliyor-h228682.html",
+   "image": "https://imgrosetta.webtekno.com/file/696571/696571-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:44:43+00:00",
+   "url": "/haber/gemini-a-hakkinizda-hatirladigi-her-seyi-gosteren-hafiza-ozeti-ozellig-5b88b9e4/"
+  },
   {
    "id": "e9d57de2",
    "title": "Meclis'te terörsüz Türkiye mesaisi",
-   "summary": "TBMM Başkanı Numan Kurtulmuş, siyasi parti turuna çıktı. Kurtulmuş önce CHP Genel Başkanı Kemal Kılıçdaroğlu'nu ardından Yeni Yol Grubu'nu ziyaret etti.",
+   "summary": "TBMM Başkanı Numan Kurtulmuş, siyasi parti turuna çıktı. Kurtulmuş önce CHP Genel Başkanı Kemal Kılıçdaroğlu'nu, ardından Yeni Yol Grubu'nu ziyaret etti.",
    "link": "https://www.ntv.com.tr/turkiye/mecliste-terorsuz-turkiye-mesaisi-kurtulmusun-ilk-duragi-chp-1750286",
    "image": "https://images.ntv.com.tr/images/numan-kemal-709557.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-10T12:28:15+00:00",
+   "date": "2026-11-10T12:44:33+00:00",
    "url": "/haber/meclis-te-terorsuz-turkiye-mesaisi-e9d57de2/"
+  },
+  {
+   "id": "e41e03c1",
+   "title": "Galaxy S27 Serisinin Kamera Özellikleri Sızdırıldı: Samsung’dan Şaşırtan Karar!",
+   "summary": "Galaxy S27 serisinin tüm kamera sensörleri sızdırıldı. Standart modeller eski donanımı korurken Pro ve Ultra 200 MP ana kamerayla geliyor.",
+   "link": "https://www.webtekno.com/galaxy-s27-serisinin-kamera-ozellikleri-sizdirildi-h228685.html",
+   "image": "https://imgrosetta.webtekno.com/file/696572/696572-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:44:20+00:00",
+   "url": "/haber/galaxy-s27-serisinin-kamera-ozellikleri-sizdirildi-samsung-dan-sasirta-e41e03c1/"
+  },
+  {
+   "id": "abb3416a",
+   "title": "Xiaomi, 10.000 mAh kapasiteli yeni ince yapılı powerbank modelini Türkiye’de satışa sundu",
+   "summary": "Xiaomi, yılın başında 6 mm gövde kalınlığına, 98 gram ağırlığa ve 5.000 mAh batarya kapasitesine sahip ultra ince powerbank modelini Türkiye’ye getirmişti. Şirket şimdi de iPhone’larla da uyumlu 10.000 mAh kapasiteli…",
+   "link": "https://www.log.com.tr/xiaomi-10-000-mah-kapasiteli-yeni-ince-yapili-powerbank-modelini-turkiyede-satisa-sundu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-10_15-40-03_ptn2h-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:42:34+00:00",
+   "url": "/haber/xiaomi-10-000-mah-kapasiteli-yeni-ince-yapili-powerbank-modelini-turki-abb3416a/"
+  },
+  {
+   "id": "66401c42",
+   "title": "Türkiye, Azerbaycan, Bulgaristan ve Gürcistan temiz enerjide stratejik ortaklık anlaşması imzaladı",
+   "summary": "Türkiye, Azerbaycan, Bulgaristan ve Gürcistan, temiz enerji başta olmak üzere enerji sektöründeki işbirliğini güçlendirmek ve bölgesel enerji bağlantısallığını geliştirmek amacıyla stratejik ortaklık anlaşması imzaladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-azerbaycan-bulgaristan-ve-gurcistan-temiz-enerjide-stratejik-ortaklik-anlasmasi-imzaladi/4118873",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:42:07+00:00",
+   "url": "/haber/turkiye-azerbaycan-bulgaristan-ve-gurcistan-temiz-enerjide-stratejik-o-66401c42/"
+  },
+  {
+   "id": "fb2b5bc0",
+   "title": "İletişim Başkanlığının \"COP31\" temalı \"Ayın Tarihi\" dergisinin ekim sayısı yayımlandı",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanlığınca hazırlanan \"Ayın Tarihi\" dergisinin COP31 temalı ekim sayısı okuyucuyla buluştu.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanliginin-cop31-temali-ayin-tarihi-dergisinin-ekim-sayisi-yayimlandi/4118869",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:40:08+00:00",
+   "url": "/haber/iletisim-baskanliginin-cop31-temali-ayin-tarihi-dergisinin-ekim-sayisi-fb2b5bc0/"
+  },
+  {
+   "id": "0588e663",
+   "title": "Skoda Kasım 2026 Güncel Kampanyalar ve Kredi Fırsatları",
+   "summary": "Skoda Kasım 2026 sıfır araç fiyatları ve kampanyaları! Güncel Skoda fiyat listesini, indirimleri ve avantajlı kredi fırsatlarını inceleyin.",
+   "link": "https://www.webtekno.com/skoda-kasim-2026-fiyat-indirim-kredi-kampanya-h228679.html",
+   "image": "https://imgrosetta.webtekno.com/file/696550/696550-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:40:05+00:00",
+   "url": "/haber/skoda-kasim-2026-guncel-kampanyalar-ve-kredi-firsatlari-0588e663/"
+  },
+  {
+   "id": "bc465f66",
+   "title": "Peugeot Kasım 2026 Güncel Kampanyalar, İndirimler ve Kredi Fırsatları",
+   "summary": "Peugeot Kasım 2026 döneminde sıfır otomobiller için kampanya ve indirim fırsatı sunuyor. Kampanyaların detaylarını inceliyoruz.",
+   "link": "https://www.webtekno.com/peugeot-kasim-2026-fiyat-indirim-kredi-kampanya-h228676.html",
+   "image": "https://imgrosetta.webtekno.com/file/696547/696547-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:39:46+00:00",
+   "url": "/haber/peugeot-kasim-2026-guncel-kampanyalar-indirimler-ve-kredi-firsatlari-bc465f66/"
+  },
+  {
+   "id": "89f1fab6",
+   "title": "Toyota Kasım 2026 Fiyat Listesi, İndirimli Otomobiller ve Kredi Kampanyaları",
+   "summary": "Toyota Kasım 2026 güncel fiyat listesini indirimli modelleri ve tüm kredi kampanyalarını derledik.",
+   "link": "https://www.webtekno.com/toyota-kasim-2026-fiyat-indirim-kampanya-kredi-h228670.html",
+   "image": "https://imgrosetta.webtekno.com/file/696544/696544-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:39:38+00:00",
+   "url": "/haber/toyota-kasim-2026-fiyat-listesi-indirimli-otomobiller-ve-kredi-kampany-89f1fab6/"
+  },
+  {
+   "id": "00e95f03",
+   "title": "Antalya'da yeni COP31 önlemi: İki gün idari izin verildi",
+   "summary": "Antalya'da COP31 yoğunluğu bazı caddelerde trafiğin kilitlenmesine neden oldu. Valilik yedi ilçede iki gün idari izin kararı aldı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-antalyada-yeni-cop31-onlemi-iki-gun-idari-izin-verildi-1750297",
+   "image": "https://images.ntv.com.tr/images/cop31antalya-711878.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T12:38:50+00:00",
+   "url": "/haber/antalya-da-yeni-cop31-onlemi-iki-gun-idari-izin-verildi-00e95f03/"
+  },
+  {
+   "id": "ff172258",
+   "title": "Audi A8'in üretimi bitti, yeni amiral gemisi Q9",
+   "summary": "Audi A8, Neckarsulm fabrikasındaki 32 yıllık üretimin ardından montaj hattından son kez indi. Marka sedan halefini hazırlarken amiral gemisi unvanını şimdilik Q9 taşıyacak.",
+   "link": "https://shiftdelete.net/audi-a8-uretimi-sona-erdi-q9-amiral-gemisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/1e4480d56564145d0a27b5946e275e0bf53809e6.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:38:00+00:00",
+   "url": "/haber/audi-a8-in-uretimi-bitti-yeni-amiral-gemisi-q9-ff172258/"
+  },
+  {
+   "id": "28784ee8",
+   "title": "Enerji Bakanı NTV'de açıkladı: Avrupa'ya yeni enerji koridoru geliyor",
+   "summary": "Türkiye, Azerbaycan, Gürcistan ve Bulgaristan arasında temiz enerjinin Avrupa'ya taşınmasını sağlayacak dev proje için hükümetler arası anlaşma imzalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-enerji-bakani-ntvde-acikladi-avrupaya-yeni-enerji-koridoru-geliyor-1750298",
+   "image": "https://images.ntv.com.tr/images/dsfsdfds-649214.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T12:37:12+00:00",
+   "url": "/haber/enerji-bakani-ntv-de-acikladi-avrupa-ya-yeni-enerji-koridoru-geliyor-28784ee8/"
+  },
+  {
+   "id": "fa1469e5",
+   "title": "Kıbrıs'ta iki yeni sınır kapısı açılacak",
+   "summary": "Kıbrıs'ın kuzeyindeki Türk yönetiminin lideri Tufan Erhürman ve Kıbrıs Cumhuriyeti Cumhurbaşkanı Nikos Hristodulides 9 Kasım'da yaptıkları görüşmede adada iki geçiş kapısı daha açılması kararı aldı.",
+   "link": "https://www.bbc.com/turkce/articles/c69vzv2ykpvro?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f823/live/9b0e6bd0-dd03-11f1-b882-b9b1c69603b0.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-10T12:36:13+00:00",
+   "url": "/haber/kibris-ta-iki-yeni-sinir-kapisi-acilacak-fa1469e5/"
+  },
+  {
+   "id": "e1ced8a4",
+   "title": "Amazon'da televizyonlarda yılın en düşük fiyatları! İşte indirimli TV'ler",
+   "summary": "Amazon Gülümseten Kasım indirimlerinde televizyonlardaki düşük fiyatlar dikkat çekiyor. Kaçırmamanız gereken indirimli TV modellerini listeledik.",
+   "link": "https://www.donanimhaber.com/amazon-da-televizyonlarda-yilin-en-dusuk-fiyatlari-2026--212720",
+   "image": "https://www.donanimhaber.com/images/images/haber/212720/1200x675amazon-da-televizyonlarda-yilin-en-dusuk-fiyatlari-2026.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:35:08+00:00",
+   "url": "/haber/amazon-da-televizyonlarda-yilin-en-dusuk-fiyatlari-iste-indirimli-tv-l-e1ced8a4/"
+  },
+  {
+   "id": "20fe253f",
+   "title": "Polestar, “Formula 2030” konseptini sergiledi",
+   "summary": "Çinli Geely’nin sahibi olduğu Volvo’nun hayata geçirdiği marka Polestar, bugün “Formula 2030” adını verdiği yeni konseptiyle ses getirdi. Üretime alınamayacak kadar uçuk olmasa da satışa sunulmayacağı açıklanan dört…",
+   "link": "https://www.log.com.tr/polestar-formula-2030-konseptini-sergiledi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-10_15-32-25_PVm4A-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-10T12:34:54+00:00",
+   "url": "/haber/polestar-formula-2030-konseptini-sergiledi-20fe253f/"
+  },
+  {
+   "id": "1ebaab71",
+   "title": "COP31 Yeşil Bölge'deki \"Küresel Çevre Fonu Küçük Destek Programı\" pavilyonu tanıtıldı",
+   "summary": "Antalya'da düzenlenen COP31 kapsamında kurulan Birleşmiş Milletler Kalkınma Programının (UNDP) Küresel Çevre Fonu Küçük Destek Programı (GEF SGP) pavilyonu tanıtıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-yesil-bolgedeki-kuresel-cevre-fonu-kucuk-destek-programi-pavilyonu-tanitildi/4118858",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:33:51+00:00",
+   "url": "/haber/cop31-yesil-bolge-deki-kuresel-cevre-fonu-kucuk-destek-programi-pavily-1ebaab71/"
+  },
+  {
+   "id": "022d8a23",
+   "title": "Rusya'da Apple, Google, Telegram ve Wikimedia'ya para cezası",
+   "summary": "Rusya'da mahkeme, Apple, Google, Telegram ve Wikipedia'yı işleten Wikimedia Vakfına, yasaklı içerikleri kaldırmadıkları gerekçesiyle toplam 26,3 milyon ruble (yaklaşık 318 bin dolar) para cezası verdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/rusyada-apple-google-telegram-ve-wikimediaya-para-cezasi/4118850",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T12:29:52+00:00",
+   "url": "/haber/rusya-da-apple-google-telegram-ve-wikimedia-ya-para-cezasi-022d8a23/"
   },
   {
    "id": "b082ea6f",
@@ -77,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T12:18:06+00:00",
    "url": "/haber/mercedes-benz-fiyat-listesi-kasim-2026-9925308c/"
-  },
-  {
-   "id": "dbed42c7",
-   "title": "Redmi Note 12 Pro 2026'da Alınır mı? Fiyatı ve İnceleme",
-   "summary": "Sıfırı 16.099 TL'ye satılıyor ama yeni Redmi Note 15 yalnızca 900 TL fazlasına geliyor. Güncelleme durumunu ve bu paraya ne alınacağını sade bir dille anlattık.",
-   "link": "https://shiftdelete.net/redmi-note-12-ve-note-12-pro-inceleme",
-   "image": "https://ares.shiftdelete.net/2023/05/redmi-note-12-ve-note-12-pro-inceleme-kapak.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T12:18:05+00:00",
-   "url": "/haber/redmi-note-12-pro-2026-da-alinir-mi-fiyati-ve-inceleme-dbed42c7/"
   },
   {
    "id": "52e63b34",
@@ -189,17 +409,6 @@
    "url": "/haber/ahmet-sik-in-esi-yonca-sik-gozaltina-alindi-1d7a28c3/"
   },
   {
-   "id": "f28383ba",
-   "title": "İstanbul'daki kara para aklama soruşturmasında 11 şüpheliye adli kontrol kararı",
-   "summary": "Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin soruşturmada gözaltına alınan 11 şüpheli hakkında adli kontrol tedbiri uygulandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-kara-para-aklama-sorusturmasinda-11-supheliye-adli-kontrol-karari/4118811",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T12:03:45+00:00",
-   "url": "/haber/istanbul-daki-kara-para-aklama-sorusturmasinda-11-supheliye-adli-kontr-f28383ba/"
-  },
-  {
    "id": "53009142",
    "title": "Apple'ın Türkiye yatırımı hakkında neler biliniyor?",
    "summary": "Apple Türkiye'de toplam yedi yeni geliştirici ve üretim akademisi açacağını duyurdu.",
@@ -244,26 +453,15 @@
    "url": "/haber/sirketlerde-rutin-isleri-azaltan-otomasyon-teknolojileri-5def5ea8/"
   },
   {
-   "id": "92d6cbc1",
-   "title": "Tarihçi Prof. Dr. Engin Deniz Akarlı son yolculuğuna uğurlandı",
-   "summary": "Osmanlı, hukuk ve iktisat tarihi alanlarındaki çalışmalarıyla tanınan, 2014 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülü sahibi Prof. Dr. Engin Deniz Akarlı, son yolculuğuna uğurlandı.",
-   "link": "https://www.aa.com.tr/tr/kultur/tarihci-prof-dr-engin-deniz-akarli-son-yolculuguna-ugurlandi/4118795",
+   "id": "ef34446c",
+   "title": "Çello virtüözü Luka Sulic, Türkiye'deki ilk konserleri için Zorlu PSM'ye geliyor",
+   "summary": "2CELLOS grubuyla dünya çapında milyonlarca dinleyiciye ulaşan çellist ve besteci Luka Sulic, solo turnesi \"Life Tour\" kapsamında İstanbul'da konser verecek.",
+   "link": "https://www.aa.com.tr/tr/kultur/cello-virtuozu-luka-sulic-turkiyedeki-ilk-konserleri-icin-zorlu-psmye-geliyor/4118790",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-10T11:50:36+00:00",
-   "url": "/haber/tarihci-prof-dr-engin-deniz-akarli-son-yolculuguna-ugurlandi-92d6cbc1/"
-  },
-  {
-   "id": "c732fe23",
-   "title": "Bakan Kurum: 1,5 derece hedefinden asla vazgeçemeyiz",
-   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"1,5 derece hedefinden asla vazgeçemeyiz. Paris Anlaşması bize yol göstermeye devam ediyor. Görevimiz yeniden bu eşiğin altına dönmek için…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-1-5-derece-hedefinden-asla-vazgecemeyiz/4118791",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T11:46:14+00:00",
-   "url": "/haber/bakan-kurum-1-5-derece-hedefinden-asla-vazgecemeyiz-c732fe23/"
+   "date": "2026-11-10T11:46:03+00:00",
+   "url": "/haber/cello-virtuozu-luka-sulic-turkiye-deki-ilk-konserleri-icin-zorlu-psm-y-ef34446c/"
   },
   {
    "id": "186e3690",
@@ -277,28 +475,6 @@
    "url": "/haber/bu-da-oldu-ucuz-telefonlarda-ikinci-el-ram-donemi-baslayabilir-186e3690/"
   },
   {
-   "id": "fea1e397",
-   "title": "Palantir CEO'su Karp'a göre verileri kontrol eden şirketler insanların düşüncelerini de kontrol edebilir",
-   "summary": "ABD merkezli veri analizi ve yazılım şirketi Palantir'in Üst Yöneticisi (CEO) Alexander Karp, verileri kontrol eden şirketlerin insanların düşüncelerini de kontrol edebileceğini ya da büyük ölçüde etkileyebileceğini…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/palantir-ceosu-karpa-gore-verileri-kontrol-eden-sirketler-insanlarin-dusuncelerini-de-kontrol-edebilir/4118779",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T11:42:17+00:00",
-   "url": "/haber/palantir-ceo-su-karp-a-gore-verileri-kontrol-eden-sirketler-insanlarin-fea1e397/"
-  },
-  {
-   "id": "23fa7b34",
-   "title": "Türk sanayisinin yeşil dönüşümü için finansman imkanları geliştirilecek",
-   "summary": "Türkiye'nin yeni Yeşil Mutabakat Eylem Planı kapsamında başta KOBİ'ler olmak üzere işletmelerin yeşil dönüşüm sürecine uyumunun desteklenmesi amacıyla yatırım destekleri ve kapasite geliştirme programlarının…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turk-sanayisinin-yesil-donusumu-icin-finansman-imkanlari-gelistirilecek/4118773",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T11:40:05+00:00",
-   "url": "/haber/turk-sanayisinin-yesil-donusumu-icin-finansman-imkanlari-gelistirilece-23fa7b34/"
-  },
-  {
    "id": "11cb80d8",
    "title": "Fable 5.2 tek komutla FPS oyunu yaptı",
    "summary": "Fable 5.2, geliştirici Felix Rieseberg'in verdiği tek bir komutla yaklaşık sekiz saatte sıfırdan bir birinci şahıs nişancı oyunu üretti. Oyunu herkes online deneyebiliyor.",
@@ -308,6 +484,17 @@
    "category": "teknoloji",
    "date": "2026-11-10T11:38:00+00:00",
    "url": "/haber/fable-5-2-tek-komutla-fps-oyunu-yapti-11cb80d8/"
+  },
+  {
+   "id": "6f7bb561",
+   "title": "Taşacak Bu Deniz YouTube aramalarına da damga vurdu",
+   "summary": "Türkiye'de 1 Temmuz 2025 – 30 Haziran 2026 dönemini kapsayan YouTube arama verilerine göre TRT 1'in rekortmen dizisi Taşacak Bu Deniz ilk sırada yer aldı. 10 Ekim 2025'te yayın hayatına başlayan dizinin arama endeksi de…",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/tasacak-bu-deniz-youtube-aramalarina-da-damga-vurdu-962809.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/tasacak-bu-deniz-youtube-2502486.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-10T11:28:00+00:00",
+   "url": "/haber/tasacak-bu-deniz-youtube-aramalarina-da-damga-vurdu-6f7bb561/"
   },
   {
    "id": "a24695ea",
@@ -330,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T11:20:00+00:00",
    "url": "/haber/meta-yapay-zeka-ajanlari-icin-en-ucuz-modelini-tanitti-muse-ember-81a6c533/"
-  },
-  {
-   "id": "f31ba1b3",
-   "title": "Galaxy A51 Fiyatı 2026: Sıfırı Hala Alınır mı?",
-   "summary": "Sıfır A51 bugün 28.499,91 TL'ye satılıyor, ama Galaxy A56 bile daha ucuz ve A51 2024'ten beri güncelleme almıyor. Paranı nereye harcaman gerektiğini anlattık.",
-   "link": "https://shiftdelete.net/samsung-galaxy-a51-ozelikleri-ve-fiyati",
-   "image": "https://ares.shiftdelete.net/2021/06/samsung-galaxy-a51-ozelikleri-ve-fiyati-3.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T11:15:03+00:00",
-   "url": "/haber/galaxy-a51-fiyati-2026-sifiri-hala-alinir-mi-f31ba1b3/"
   },
   {
    "id": "3fbada6c",
@@ -432,14 +608,14 @@
   },
   {
    "id": "b1c74e4f",
-   "title": "Ortalama bir insan ne kadar gıda israf ediyor?",
+   "title": "Bir insan ortalama olarak ne kadar gıda israf ediyor?",
    "summary": "Uzmanlar, gıda israfını azaltmanın bireyler olarak alabileceğimiz en somut iklim eylemlerinden biri olduğunu söylüyor.",
    "link": "https://www.bbc.com/turkce/articles/cqlyey4zn381o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf06/live/999d0700-d91d-11f1-a701-fddedf244c16.png",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-10T10:31:49+00:00",
-   "url": "/haber/ortalama-bir-insan-ne-kadar-gida-israf-ediyor-b1c74e4f/"
+   "url": "/haber/bir-insan-ortalama-olarak-ne-kadar-gida-israf-ediyor-b1c74e4f/"
   },
   {
    "id": "d6a9d29c",
@@ -451,17 +627,6 @@
    "category": "gundem",
    "date": "2026-11-10T10:31:42+00:00",
    "url": "/haber/cumhurbaskani-erdogan-teror-meselesini-cozume-kavusturma-yolunda-oneml-d6a9d29c/"
-  },
-  {
-   "id": "c3d87e2c",
-   "title": "AgarZ Nedir, Nasıl Oynanır? 2026 Rehberi",
-   "summary": "2015'ten beri açık olan oyun 2026'da da aktif. Tuşlardan gold kazanmaya, skin yüklemekten hesabını korumaya kadar bilmen gereken her şeyi tek yerde topladık.",
-   "link": "https://shiftdelete.net/agarz-nedir-nasil-oynanir-64640",
-   "image": "https://shiftdelete.net/static/img/content/26-11/10/agarz-nasil-oynanir.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T10:15:15+00:00",
-   "url": "/haber/agarz-nedir-nasil-oynanir-2026-rehberi-c3d87e2c/"
   },
   {
    "id": "aa953380",
@@ -695,6 +860,28 @@
    "url": "/haber/anitkabir-ve-dolmabahce-de-yas-0639daab/"
   },
   {
+   "id": "f605f1a5",
+   "title": "Desecure'den yapay zekalı güvenlik sistemi",
+   "summary": "Desecure Technology, yapay zeka destekli video analiz, radar ve termal kameraları tek mimaride birleştirip 7/24 alarm izlemeyle destekliyor.",
+   "link": "https://shiftdelete.net/desecure-technology-yapay-zeka-entegre-guvenlik",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/desecure-mobil-izleme-kulesi-kapak-1011.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T09:05:27+00:00",
+   "url": "/haber/desecure-den-yapay-zekali-guvenlik-sistemi-f605f1a5/"
+  },
+  {
+   "id": "21691fa1",
+   "title": "Vodafone'un servis geliri 84,8 milyar TL oldu",
+   "summary": "Vodafone Türkiye, 2026-27 mali yılının ilk yarısında 84,8 milyar TL servis geliri açıkladı; mobil abone sayısı 25,4 milyona çıktı.",
+   "link": "https://shiftdelete.net/vodafone-turkiye-2026-27-ilk-yariyil-sonuclari",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/vodafone-ilk-yariyil-kapak-1011.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T09:05:05+00:00",
+   "url": "/haber/vodafone-un-servis-geliri-84-8-milyar-tl-oldu-21691fa1/"
+  },
+  {
    "id": "5127c1e9",
    "title": "Blade Runner 2099 dizisinin yeni fragmanı yayınlandı: 25 Kasım'da geliyor",
    "summary": "Bu ay Amazon Prime Video'da izleyici ile buluşacak olan Blade Runner 2099 dizisinden son fragman yayınlandı. Dizi, sevilen bilim-kurgu serisinin hikâyesini devam ettiriyor.",
@@ -704,17 +891,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T09:02:00+00:00",
    "url": "/haber/blade-runner-2099-dizisinin-yeni-fragmani-yayinlandi-25-kasim-da-geliy-5127c1e9/"
-  },
-  {
-   "id": "e6efb006",
-   "title": "Bakan Kurum: Antalya'da hedefimiz iklim eyleminin uygulamasını hızlandıran sonuçlara ulaştırmak",
-   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31'in düzenlendiği Antalya'da hedeflerinin birikimi ileriye taşıyan ve iklim eyleminin uygulamasını hızlandıran sonuçlara ulaştırmak…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-antalyada-hedefimiz-iklim-eyleminin-uygulamasini-hizlandiran-sonuclara-ulastirmak/4118423",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T09:00:28+00:00",
-   "url": "/haber/bakan-kurum-antalya-da-hedefimiz-iklim-eyleminin-uygulamasini-hizlandi-e6efb006/"
   },
   {
    "id": "c56c0dcd",
@@ -794,28 +970,6 @@
    "url": "/haber/automattic-vibe-coding-ile-gelistirilen-uygulamalar-icin-bir-yayin-pla-c8cf48fd/"
   },
   {
-   "id": "3ac143be",
-   "title": "COP31'de Atatürk'e saygı duruşu: Yabancı bir katılımcı gözyaşlarını tutamadı",
-   "summary": "COP31'de Atatürk, ölümünün 88'inci yılında saat 09.05'te uluslararası katılımcılarla anıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-cop31de-ataturke-saygi-durusu-yabanci-bir-katilimci-gozyaslarini-tutamadi-1750245",
-   "image": "https://images.ntv.com.tr/images/GOPS-419169.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T08:16:37+00:00",
-   "url": "/haber/cop31-de-ataturk-e-saygi-durusu-yabanci-bir-katilimci-gozyaslarini-tut-3ac143be/"
-  },
-  {
-   "id": "cb095631",
-   "title": "Türkiye Sualtı Sporları Federasyonunun da \"yeniden inşa\" çalışmaları",
-   "summary": "Federasyon Başkanı Kadir Sağlam, \"1980'de kurulan federasyonumuzu son 3 yılda yeniden inşa ettik.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/turkiye-sualti-sporlari-federasyonunun-da-yeniden-insa-calismalari/4118324",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T08:15:53+00:00",
-   "url": "/haber/turkiye-sualti-sporlari-federasyonunun-da-yeniden-insa-calismalari-cb095631/"
-  },
-  {
    "id": "022a3aef",
    "title": "DC evreninde deprem: James Gunn görevden alındı",
    "summary": "DC Studios’ta 4 yıldır eş CEO görevini yürüten James Gunn ve Peter Safran’ın sürpriz bir şekilde görevden alınması sinematik evrenin hayranlarında endişe yarattı.",
@@ -838,17 +992,6 @@
    "url": "/haber/apple-dan-turkiye-ye-dev-yatirim-akademiler-ve-gelistirici-merkezi-gel-b3f7081a/"
   },
   {
-   "id": "f3b069a6",
-   "title": "3 aylar başlangıcı 2026. 3 aylar ne zaman, hangi tarihte başlayacak?",
-   "summary": "İslam aleminde rahmet, bereket ve arınma mevsimi olarak kabul edilen mübarek 3 aylar için geri sayım başladı. Recep, Şaban ve Ramazan aylarını kapsayan bu kutsal aylar öncesinde ibadetlerini planlamak ve kandil…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-3-aylar-baslangici-2026-3-aylar-ne-zaman-hangi-tarihte-baslayacak-1750239",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_2143caad1f1aa88c8087bc6c9379a565-748427.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T08:04:07+00:00",
-   "url": "/haber/3-aylar-baslangici-2026-3-aylar-ne-zaman-hangi-tarihte-baslayacak-f3b069a6/"
-  },
-  {
    "id": "55e510bd",
    "title": "Apple'dan tüm Mac'lere güvenlik güncellemesi: eMudhra sertifika açığı giderildi!",
    "summary": "Apple, macOS Golden Gate 27.2.1 güncellemesinin yanı sıra macOS 26.7.3 ve macOS 15.8.3 sürümlerini yayınladı. Güncellemeler, eMudhra sertifika güvenlik açığını gideriyor.",
@@ -858,17 +1001,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T07:58:07+00:00",
    "url": "/haber/apple-dan-tum-mac-lere-guvenlik-guncellemesi-emudhra-sertifika-acigi-g-55e510bd/"
-  },
-  {
-   "id": "2db3ed1d",
-   "title": "ABD ordusu Ay çevresinde askeri uydu ağı kurmaya hazırlanıyor",
-   "summary": "ABD ordusu, Ay çevresinde kalıcı bir askeri gözetleme ağı oluşturmak istiyor. İlk aşamada beş uyduya kadar konuşlandırılması planlanan proje, daha büyük bir uzay filosunun başlangıcı olabilir.",
-   "link": "https://www.donanimhaber.com/abd-ordusu-ay-cevresinde-askeri-uydu-agi-kurmaya-hazirlaniyor--212696",
-   "image": "https://www.donanimhaber.com/images/images/haber/212696/1200x675abd-ordusu-ay-cevresinde-askeri-uydu-agi-kurmaya-hazirlaniyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-10T07:50:00+00:00",
-   "url": "/haber/abd-ordusu-ay-cevresinde-askeri-uydu-agi-kurmaya-hazirlaniyor-2db3ed1d/"
   },
   {
    "id": "cd2652c9",
@@ -882,50 +1014,6 @@
    "url": "/haber/oppo-ve-vivo-dan-12-000-mah-bataryali-telefonlar-geliyor-cd2652c9/"
   },
   {
-   "id": "14ab41f4",
-   "title": "Boşta duran ekran kartları para kazandırabilir: İlginç Microsoft patenti",
-   "summary": "Microsoft'un yeni patent başvurusu, oyuncuların boşta duran ekran kartlarını yapay zeka eğitimi için paylaşarak para veya çeşitli ödüller kazanabileceği bir sistemi ortaya koydu.",
-   "link": "https://www.donanimhaber.com/bosta-duran-ekran-kartlari-para-kazandirabilir--212699",
-   "image": "https://www.donanimhaber.com/images/images/haber/212699/1200x675bosta-duran-ekran-kartlari-para-kazandirabilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-10T07:29:37+00:00",
-   "url": "/haber/bosta-duran-ekran-kartlari-para-kazandirabilir-ilginc-microsoft-patent-14ab41f4/"
-  },
-  {
-   "id": "0cab8813",
-   "title": "Motorola Razr Flex 2027 Tasarımıyla Ortaya Çıktı: iPhone Duo ve Galaxy Z Fold8’e Rakip Olacak!",
-   "summary": "Motorola, iPhone Duo ve Galaxy Z Fold8 rakibi Razr Flex 2027'nin adını doğruladı.",
-   "link": "https://www.webtekno.com/motorola-razr-flex-2027-tasarimiyla-ortaya-cikti-h228650.html",
-   "image": "https://imgrosetta.webtekno.com/file/696502/696502-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-10T07:26:20+00:00",
-   "url": "/haber/motorola-razr-flex-2027-tasarimiyla-ortaya-cikti-iphone-duo-ve-galaxy-0cab8813/"
-  },
-  {
-   "id": "b7c78de4",
-   "title": "Audi A8'in Üretimi Sona Erdi, Markanın Yeni Amiral Gemisi de Belli Oldu!",
-   "summary": "Audi, 32 yıllık Neckarsulm üretiminin ardından A8'e veda ediyor ancak 2030 öncesi yeni bir halef ve geçici amiral gemisi Q9 yolda.",
-   "link": "https://www.webtekno.com/audi-a8-uretimi-sona-erdi-h228652.html",
-   "image": "https://imgrosetta.webtekno.com/file/696503/696503-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-10T07:25:48+00:00",
-   "url": "/haber/audi-a8-in-uretimi-sona-erdi-markanin-yeni-amiral-gemisi-de-belli-oldu-b7c78de4/"
-  },
-  {
-   "id": "a33dba8c",
-   "title": "Toyota GR Yaris, Türkiye'de Satışa Sunuldu (Fiyatı Dudak Uçuklatıyor)",
-   "summary": "Toyota GR Yaris, Türkiye'de 8.950.000 TL'den başlayan fiyatlarla listelendi.",
-   "link": "https://www.webtekno.com/toyota-gr-yaris-turkiye-fiyati-h228649.html",
-   "image": "https://imgrosetta.webtekno.com/file/696490/696490-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-10T07:25:32+00:00",
-   "url": "/haber/toyota-gr-yaris-turkiye-de-satisa-sunuldu-fiyati-dudak-ucuklatiyor-a33dba8c/"
-  },
-  {
    "id": "1919afa9",
    "title": "Vespa, yeni elektrikli motosiklet modellerini tanıttı",
    "summary": "Vespa, EICMA 2026 etkinliğinde Primavera Elettrica, Sprint S Elettrica ve Primavera Tech Elettrica adlı yeni elektrikli motosiklet modellerini tanıttı. Markanın ikonik tasarım çizgisini sürdüren yeni şehir…",
@@ -935,17 +1023,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T07:24:54+00:00",
    "url": "/haber/vespa-yeni-elektrikli-motosiklet-modellerini-tanitti-1919afa9/"
-  },
-  {
-   "id": "1a3ddd17",
-   "title": "Fotoğraflarla: Atatürk'ün 88. ölüm yıldönümü",
-   "summary": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk, ölümünün 88. yıldönümünde ülke genelinde saygıyla anıldı.",
-   "link": "https://www.bbc.com/turkce/articles/cmwyvyk90xgko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d698/live/ac01fec0-dcd6-11f1-a8e1-e3454837ffc6.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-10T07:16:43+00:00",
-   "url": "/haber/fotograflarla-ataturk-un-88-olum-yildonumu-1a3ddd17/"
   },
   {
    "id": "ed84e874",
@@ -990,28 +1067,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T06:49:58+00:00",
    "url": "/haber/opera-100-milyon-pc-kullanicisina-ulasti-2e999b73/"
-  },
-  {
-   "id": "ae3c0ff5",
-   "title": "Meta, yapay zeka ajanı Muse’u akıllı saatlere de getirdi",
-   "summary": "Meta, popüler yapay zeka ajanı Muse’u bugün Apple Watch ve Wear OS işletim sistemli Android akıllı saatlere de getirdi. Bu sayede kullanıcılar artık oluşturdukları kişisel asistanlarla saatleri üzerinden de etkileşim…",
-   "link": "https://www.log.com.tr/meta-yapay-zeka-ajani-museu-akilli-saatlere-de-getirdi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-10_09-43-34_YcEkR-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-10T06:46:22+00:00",
-   "url": "/haber/meta-yapay-zeka-ajani-muse-u-akilli-saatlere-de-getirdi-ae3c0ff5/"
-  },
-  {
-   "id": "e9081221",
-   "title": "Meta, en küçük ve verimli yapay zeka modelimiz dediği Muse Ember’i duyurdu",
-   "summary": "Yapay zeka atılımlarını sürdüren Meta, bugün yüksek verimliliğe odaklanan yeni modeli Muse Ember’i kullanıma sundu (Meta Model API). Şirketin en küçük modeli olan Muse Ember, yapılan açıklamaya göre yapay zeka…",
-   "link": "https://www.log.com.tr/meta-en-kucuk-ve-verimli-yapay-zeka-modeli-olarak-tanittigi-muse-emberi-duyurdu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-10_09-34-59_BD9gs-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-10T06:41:55+00:00",
-   "url": "/haber/meta-en-kucuk-ve-verimli-yapay-zeka-modelimiz-dedigi-muse-ember-i-duyu-e9081221/"
   },
   {
    "id": "f64fdea0",
@@ -1069,28 +1124,6 @@
    "url": "/haber/apple-dan-turkiye-ye-uzun-vadeli-yatirim-5-yeni-akademi-ve-1-merkez-ac-afe27ddc/"
   },
   {
-   "id": "241d7238",
-   "title": "İzmir'deki demir çelik fabrikasındaki patlamada can kaybı 17'ye çıktı",
-   "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda meydana gelen patlamada can kaybı 17'ye çıktı. Sağlık Bakanı Kemal Memişoğlu, ağır yaralı bir kişinin daha hayatını kaybettiğini duyurdu.",
-   "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/816d/live/a905bdb0-dc31-11f1-a701-fddedf244c16.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-09T19:21:35+00:00",
-   "url": "/haber/izmir-deki-demir-celik-fabrikasindaki-patlamada-can-kaybi-17-ye-cikti-241d7238/"
-  },
-  {
-   "id": "862c9599",
-   "title": "Kahve Makineleri Kahvemizi Nasıl Sevdiğimizi Nasıl Hatırlıyor?",
-   "summary": "Kabul edelim, kahve zevki adeta parmak izi gibidir. Kafeye gittiğimizde \"Sütü az olsun, çok sıcak olmasın, espressosu biraz sert olsun\" gibi upuzun siparişler vermeyi seviyoruz. Peki ama evimizin rahatlığında, sabahın o…",
-   "link": "https://www.webtekno.com/kahve-makineleri-kahvemizi-nasil-sevdigimizi-nasil-hatirliyor-h228571.html",
-   "image": "https://imgrosetta.webtekno.com/file/696121/696121-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T18:59:43+00:00",
-   "url": "/haber/kahve-makineleri-kahvemizi-nasil-sevdigimizi-nasil-hatirliyor-862c9599/"
-  },
-  {
    "id": "29125415",
    "title": "Yeni Parti'de yönetim yapısı nasıl değişiyor?",
    "summary": "Yeni Parti, 14-15 Kasım'da yapılacak ilk olağan kurultayında parti yönetimini genişletme kararı aldı. Kurucular Kurulu kararıyla, kurultayda seçilecek Parti Meclisi'nin (PM) üye sayısı 80'den 150'ye çıkarıldı. PM'nin…",
@@ -1122,28 +1155,6 @@
    "category": "gundem",
    "date": "2026-11-09T15:43:30+00:00",
    "url": "/haber/hayali-arkadaslar-zihni-nasil-gelistirebilir-78078f88/"
-  },
-  {
-   "id": "16c985cd",
-   "title": "Land Rover ve BYD Davalık Oldu: İşte Olayın İlginç Perde Arkası!",
-   "summary": "Jaguar Land Rover, Defender modelinin kopyalandığı iddiasıyla BYD'ye karşı Hollanda'da fikri mülkiyet davası açtı.",
-   "link": "https://www.webtekno.com/land-rover-ve-byd-davalik-oldu-h228625.html",
-   "image": "https://imgrosetta.webtekno.com/file/696445/696445-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T15:24:03+00:00",
-   "url": "/haber/land-rover-ve-byd-davalik-oldu-iste-olayin-ilginc-perde-arkasi-16c985cd/"
-  },
-  {
-   "id": "9f48b7c2",
-   "title": "Insta360’tan Efsane Cuma Fırsatı: Yeni X6 ve Luna Ultra İlk Kez İndirimde!",
-   "summary": "Insta360, Efsane Cuma kampanyası kapsamında seçili kamera ve aksesuarlarda %40'a varan indirimler sunuyor.",
-   "link": "https://www.webtekno.com/insta360-efsane-cuma-firsati-h228526.html",
-   "image": "https://imgrosetta.webtekno.com/file/696439/696439-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-09T14:49:57+00:00",
-   "url": "/haber/insta360-tan-efsane-cuma-firsati-yeni-x6-ve-luna-ultra-ilk-kez-indirim-9f48b7c2/"
   },
   {
    "id": "0a91d201",
@@ -1223,17 +1234,6 @@
    "url": "/haber/cumhurbaskanligi-kabinesi-bugun-toplanacak-eade0bb1/"
   },
   {
-   "id": "7d757a04",
-   "title": "Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıyordum'",
-   "summary": "Spencer Ali, okuldayken bir poşet dilimlenmiş elma yemektense üç öğle arasından vazgeçti. Şimdi 23 yaşındaki otizmli birey, yiyeceklerle ilişkisini anlatırken, uzmanlar duruma nasıl yaklaşılması gerektiği konusunda…",
-   "link": "https://www.bbc.com/turkce/articles/cw1m44pn19g9o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6549/live/795815e0-d489-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-09T00:33:31+00:00",
-   "url": "/haber/otizmli-bireylerin-yemekle-iliskisi-daha-bebekken-zorlaniyordum-7d757a04/"
-  },
-  {
    "id": "7f3941e8",
    "title": "Türkiye ve Irak'tan güvenlik mutabakatı",
    "summary": "Türkiye ve Irak'ın yayımladığı ortak açıklamada, Irak makamlarının Sincar'da devlet otoritesinin bütünüyle tesisi ve terör örgütü PKK unsurlarının varlığına son verilmesine yönelik attığı adımların sürdürülmesi…",
@@ -1245,15 +1245,15 @@
    "url": "/haber/turkiye-ve-irak-tan-guvenlik-mutabakati-7f3941e8/"
   },
   {
-   "id": "a6ad4767",
-   "title": "Mısır'da tren kazası: 7 ölü, 112 yaralı",
-   "summary": "Mısır'ın Giza vilayetindeki Ayat kentinde meydana gelen tren kazasında 7 kişi öldü, 112 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/misirda-tren-kazasi-7-olu-112-yarali-962608.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1474000/misir-1475695.jpg",
-   "source": "TRT Haber Manşet Haberleri",
+   "id": "43546b07",
+   "title": "Beslenmeniz cildinizin yaşlanmasına neden olabilir mi?",
+   "summary": "Yediğiniz yiyecekler cildinizin yaşlanmasına neden olabilir mi? Uzmanlar, şeker, alkol ve aşırı işlenmiş gıdaların kırışıklıkları nasıl etkileyebileceğini ve daha sağlıklı görünen bir cildi destekleyebilecek basit…",
+   "link": "https://www.bbc.com/turkce/articles/c6073l3xld51o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f7e9/live/fb46df60-cee3-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-11-08T14:30:00+00:00",
-   "url": "/haber/misir-da-tren-kazasi-7-olu-112-yarali-a6ad4767/"
+   "date": "2026-11-08T09:57:38+00:00",
+   "url": "/haber/beslenmeniz-cildinizin-yaslanmasina-neden-olabilir-mi-43546b07/"
   },
   {
    "id": "60c24bbe",
