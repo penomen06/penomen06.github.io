@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T23:30:56.668194+00:00",
+ "updated": "2026-11-10T00:01:01.032356+00:00",
  "items": [
   {
    "id": "eafb2d73",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-09T23:30:00+00:00",
+   "date": "2026-11-10T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-eafb2d73/"
   },
   {
@@ -20,7 +20,7 @@
    "image": "https://images.ntv.com.tr/images/trump-374027.JPG",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-09T23:21:47+00:00",
+   "date": "2026-11-09T23:41:24+00:00",
    "url": "/haber/abd-baskani-trump-savasin-bitisine-dair-olumluyuz-8f82eee4/"
   },
   {
@@ -66,6 +66,28 @@
    "category": "gundem",
    "date": "2026-11-09T22:13:41+00:00",
    "url": "/haber/cumhurbaskani-erdogan-sureci-dikkatle-ilerletiyoruz-4933e083/"
+  },
+  {
+   "id": "fa9a4922",
+   "title": "İsrail ordusunun Batı Şeria'nın Nablus kentinde açtığı ateşte bir Filistinli çocuk hayatını kaybetti",
+   "summary": "İsrail askerlerinin, işgal altındaki Batı Şeria'nın kuzeybatısındaki Nablus kentine bağlı Burka köyünde sivillere ateş açması sonucu bir çocuk hayatını kaybetti, 1 Filistinli yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-bati-serianin-nablus-kentinde-actigi-ateste-bir-filistinli-cocuk-hayatini-kaybetti/4118049",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T21:45:14+00:00",
+   "url": "/haber/israil-ordusunun-bati-seria-nin-nablus-kentinde-actigi-ateste-bir-fili-fa9a4922/"
+  },
+  {
+   "id": "ec37667f",
+   "title": "ABD Dışişleri Bakanı Rubio: İsrail bizden silah alabilir ama artık finansman sağlamamız gerekmiyor",
+   "summary": "ABD Dışişleri Bakanı Marco Rubio, İsrail'in finansal açıdan yeterli bir seviyede olduğunu ve ülkesinin artık Tel Aviv yönetimine finansman sağlamasına gerek kalmadığını ifade etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-israil-bizden-silah-alabilir-ama-artik-finansman-saglamamiz-gerekmiyor/4118046",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-09T21:43:19+00:00",
+   "url": "/haber/abd-disisleri-bakani-rubio-israil-bizden-silah-alabilir-ama-artik-fina-ec37667f/"
   },
   {
    "id": "41c3cdc7",
@@ -376,17 +398,6 @@
    "url": "/haber/apple-dan-turkiye-ye-uzun-vadeli-yatirim-5-yeni-akademi-ve-1-merkez-ac-afe27ddc/"
   },
   {
-   "id": "82f0c848",
-   "title": "Azerbaycan Enerji Bakanı Şahbazov'dan yatırımcılara işbirliği çağrısı",
-   "summary": "Azerbaycan Enerji Bakanı Perviz Şahbazov, uluslararası finans kuruluşlarını, yatırımcıları ve şirketleri yenilenebilir enerji üretimi, sınır ötesi elektrik koridorları ve uzun vadeli elektrik alım anlaşmaları konusunda…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/azerbaycan-enerji-bakani-sahbazovdan-yatirimcilara-isbirligi-cagrisi/4117926",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T19:35:50+00:00",
-   "url": "/haber/azerbaycan-enerji-bakani-sahbazov-dan-yatirimcilara-isbirligi-cagrisi-82f0c848/"
-  },
-  {
    "id": "6d79f124",
    "title": "Mustafa Sarıgül dosyası Ankara'ya gönderildi",
    "summary": "İstanbul Cumhuriyet Başsavcılığı, Erzincan Milletvekili Mustafa Sarıgül hakkındaki tahkikat dosyası yetkisizlik kararı verilerek Ankara Cumhuriyet Başsavcılığı'na gönderildiğini duyurdu.",
@@ -495,17 +506,6 @@
    "category": "teknoloji",
    "date": "2026-11-09T18:59:43+00:00",
    "url": "/haber/kahve-makineleri-kahvemizi-nasil-sevdigimizi-nasil-hatirliyor-862c9599/"
-  },
-  {
-   "id": "d0990a4c",
-   "title": "Türkiye, 2040'a kadar rüzgar enerjisi kapasitesini 4 katına çıkarmayı hedefliyor",
-   "summary": "Enerji ve Tabii Kaynaklar Bakan Yardımcısı Zafer Demircan, Türkiye'nin rüzgar enerjisi kurulu gücünü 2040'a kadar 4 katına çıkarmayı ve 6 gigavat deniz üstü rüzgar enerjisi kapasitesini devreye almayı hedeflediğini…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/-turkiye-2040a-kadar-ruzgar-enerjisi-kapasitesini-4-katina-cikarmayi-hedefliyor/4117895",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-09T18:59:30+00:00",
-   "url": "/haber/turkiye-2040-a-kadar-ruzgar-enerjisi-kapasitesini-4-katina-cikarmayi-h-d0990a4c/"
   },
   {
    "id": "b950302e",
