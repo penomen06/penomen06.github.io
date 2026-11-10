@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-10T15:01:10.867336+00:00",
+ "updated": "2026-11-10T15:30:56.974371+00:00",
  "items": [
+  {
+   "id": "a7c568fd",
+   "title": "Cumhurbaşkanı Erdoğan'dan COP31 zirvesi kapsamında Antalya'da diplomasi trafiği",
+   "summary": "Cumhurbaşkanı Erdoğan Antalya'daki COP31 zirvesinde diplomasi trafiğini sürdürüyor.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bm-genel-sekreteri-guterres-ile-gorustu-1750315",
+   "image": "https://images.ntv.com.tr/images/AA-20261110-43028900-43028899-CUMHURBASKANI_ERDOGAN_BM_GENEL_SEKRETERI_GUTERRES_ILE_GORUSTU-983810(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T15:29:39+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-dan-cop31-zirvesi-kapsaminda-antalya-da-diplomas-a7c568fd/"
+  },
+  {
+   "id": "997d2708",
+   "title": "Borsa günü düşüşle tamamladı",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,43 değer kaybederek 11.661,86 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4119182",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T15:27:57+00:00",
+   "url": "/haber/borsa-gunu-dususle-tamamladi-997d2708/"
+  },
+  {
+   "id": "71165ffa",
+   "title": "Ahmet Şık'ın eşi Yonca Şık ifade verdi",
+   "summary": "Türkiye İşçi Partisi (TİP) İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık \"siyasal veya askeri casusluk\" soruşturması kapsamında ifade verdi.",
+   "link": "https://www.ntv.com.tr/turkiye/ahmet-sikin-esi-yonca-sik-ifade-verdi-1750284",
+   "image": "https://images.ntv.com.tr/images/ahmetyoncaşık-959546(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T15:26:11+00:00",
+   "url": "/haber/ahmet-sik-in-esi-yonca-sik-ifade-verdi-71165ffa/"
+  },
+  {
+   "id": "6f755450",
+   "title": "Çin'den 800 MW'lık dev yapay zeka veri merkezi hamlesi: ABD’ye meydan okuyor",
+   "summary": "Çin, ABD'nin Stargate projesine rakip 800 MW'lık yapay zeka veri merkezi kuruyor. İlk 120 MW'lık kapasite bir yıldan kısa sürede ve rakiplerinin beşte biri maliyetle tamamlandı.",
+   "link": "https://www.donanimhaber.com/cin-den-800-mw-lik-dev-yapay-zeka-veri-merkezi-hamlesi--212722",
+   "image": "https://www.donanimhaber.com/images/images/haber/212722/1200x675cin-den-800-mw-lik-dev-yapay-zeka-veri-merkezi-hamlesi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-10T15:25:00+00:00",
+   "url": "/haber/cin-den-800-mw-lik-dev-yapay-zeka-veri-merkezi-hamlesi-abd-ye-meydan-o-6f755450/"
+  },
+  {
+   "id": "d87c0a19",
+   "title": "Instagram Edits'e yapay zekayla kurgu yaptırdık",
+   "summary": "Instagram'ın ücretsiz video düzenleme uygulaması Edits'i Mac'te kurduk, araçlarını denedik ve Claude Code'a bağlayarak bir videoyu yapay zekaya kurgulattık; sonucu kendi CapCut kurgumuzla karşılaştırdık.",
+   "link": "https://shiftdelete.net/instagram-edits-claude-code-yapay-zeka-kurgu-sdntv",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/sdntv-EnP_1m59flk-ender.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T15:24:53+00:00",
+   "url": "/haber/instagram-edits-e-yapay-zekayla-kurgu-yaptirdik-d87c0a19/"
+  },
+  {
+   "id": "60e7fd21",
+   "title": "Cumhurbaşkanı Erdoğan, Etiyopya Başbakanı Abiy Ahmed'i kabul etti",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Etiyopya Başbakanı Abiy Ahmed ile görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-etiyopya-basbakani-abiy-ahmedi-kabul-etti/4119180",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T15:24:33+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-etiyopya-basbakani-abiy-ahmed-i-kabul-etti-60e7fd21/"
+  },
+  {
+   "id": "a6eb44f8",
+   "title": "Cumhurbaşkanı Erdoğan, Suudi Arabistan Enerji Bakanı Al Saud'u kabul etti",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan Enerji Bakanı Abdulaziz bin Salman Al Saud ile görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-suudi-arabistan-enerji-bakani-al-saudu-kabul-etti/4119171",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T15:13:10+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-suudi-arabistan-enerji-bakani-al-saud-u-kabul-et-a6eb44f8/"
+  },
+  {
+   "id": "afa9ecf9",
+   "title": "Artemis II atmosferde delik açtı, GPS saptı",
+   "summary": "Artemis II görevinin Nisan ayındaki fırlatması, iyonosferde iki büyük delik açtı. Tayvanlı araştırmacılara göre bu delikler GPS sinyallerinde birkaç metrelik sapma yarattı.",
+   "link": "https://shiftdelete.net/artemis-ii-iyonosfer-gps-sinyalleri",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/4e96a7a01f47c062a34e7d2ea498e83a29f21a47.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-10T15:08:00+00:00",
+   "url": "/haber/artemis-ii-atmosferde-delik-acti-gps-sapti-afa9ecf9/"
+  },
+  {
+   "id": "82072da1",
+   "title": "Dışişleri'nden Kıbrıs'taki üçlü görüşmeye ilişkin açıklama",
+   "summary": "Dışişleri Bakanlığı, Kıbrıs'ta BM öncülüğünde yapılan üçlü görüşmede güven artırıcı işbirliği alanlarının ele alınmasını olumlu karşıladı.",
+   "link": "https://www.ntv.com.tr/turkiye/disislerinden-kibristaki-uclu-gorusmeye-iliskin-aciklama-1750316",
+   "image": "https://images.ntv.com.tr/images/DışişleriBakanlığı-120292(9).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-10T15:05:57+00:00",
+   "url": "/haber/disisleri-nden-kibris-taki-uclu-gorusmeye-iliskin-aciklama-82072da1/"
+  },
+  {
+   "id": "6f047b59",
+   "title": "BM Genel Sekreteri Guterres'ten fosil yakıtlardan uzaklaşmanın hayata geçirilmesi çağrısı",
+   "summary": "BM Genel Sekreteri Guterres, fosil yakıtlardan uzaklaşmanın tabu olmadığını belirterek, \"Şu an burada, COP31'de geçiş sürecini tartışmaktan öteye geçip, bu süreci organize etmeye, finanse etmeye ve hayata geçirmeye…",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreteri-guterresten-fosil-yakitlardan-uzaklasmanin-hayata-gecirilmesi-cagrisi/4119161",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T15:04:37+00:00",
+   "url": "/haber/bm-genel-sekreteri-guterres-ten-fosil-yakitlardan-uzaklasmanin-hayata-6f047b59/"
+  },
+  {
+   "id": "58583b1e",
+   "title": "Rusya: Avrupa'nın Ukrayna'da ateşkes talebini kabul etmeyeceğiz",
+   "summary": "Rusya Dışişleri Bakanı Sergey Lavrov, Avrupa'nın Ukrayna'da ateşkesin sağlanmasıyla ilgili talebini kabul etmeyeceklerini belirterek, \"Bu, Ukrayna'ya zaman kazandırmak ve kayıpları telafi etmek için yapılıyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-avrupanin-ukraynada-ateskes-talebini-kabul-etmeyecegiz/4119150",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T15:01:30+00:00",
+   "url": "/haber/rusya-avrupa-nin-ukrayna-da-ateskes-talebini-kabul-etmeyecegiz-58583b1e/"
+  },
   {
    "id": "ee4dbd38",
    "title": "İran, Fransa'nın siber saldırı suçlamasına tepki gösterdi",
@@ -35,15 +156,15 @@
    "url": "/haber/gta-6-tum-konsollarda-30-fps-calisacak-ps5-pro-ya-ozel-ray-tracing-4596b9e2/"
   },
   {
-   "id": "1d7a28c3",
-   "title": "Ahmet Şık'ın eşi Yonca Şık ifade verecek",
-   "summary": "Türkiye İşçi Partisi (TİP) İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık \"siyasal veya askeri casusluk\" soruşturması kapsamında ifade vermeye götürüldü.",
-   "link": "https://www.ntv.com.tr/turkiye/ahmet-sikin-esi-yonca-sik-gozaltina-alindi-1750284",
-   "image": "https://images.ntv.com.tr/images/ahmetyoncaşık-959546(3).jpg",
-   "source": "ntv.com.tr",
+   "id": "1441a283",
+   "title": "Dışişleri Sözcüsü Keçeli'den Kıbrıs'ta BM öncülüğündeki üçlü görüşmeye ilişkin açıklama",
+   "summary": "Keçeli, KKTC Cumhurbaşkanı Erhürman ve GKRY lideri Hristodulidis ile yapılan üçlü görüşmede, Türk tarafının hassasiyetle üzerinde durduğu iki taraf arasında güvenin tesisine yönelik işbirliği alanlarının ele alınmasının…",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-sozcusu-keceliden-kibrista-bm-onculugundeki-uclu-gorusmeye-iliskin-aciklama/4119132",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-10T14:49:30+00:00",
-   "url": "/haber/ahmet-sik-in-esi-yonca-sik-ifade-verecek-1d7a28c3/"
+   "date": "2026-11-10T14:50:44+00:00",
+   "url": "/haber/disisleri-sozcusu-keceli-den-kibris-ta-bm-onculugundeki-uclu-gorusmeye-1441a283/"
   },
   {
    "id": "2b1518d2",
@@ -57,6 +178,17 @@
    "url": "/haber/sebebi-hic-sasirtmadi-sifir-telefonlarda-ikinci-el-parca-donemi-basliy-2b1518d2/"
   },
   {
+   "id": "18e6a309",
+   "title": "Bakan Şimşek, COP31 kapsamında OPEC Fonu Başkanı Alkhalifa ile görüştü",
+   "summary": "Hazine ve Maliye Bakanı Şimşek, Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 kapsamında OPEC Uluslararası Kalkınma Fonu (OPEC Fund) Genel Direktörü ve İcra Kurulu Başkanı Abdulhamid Alkhalifa ile bir araya…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-cop31-kapsaminda-opec-fonu-baskani-alkhalifa-ile-gorustu/4119131",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T14:49:07+00:00",
+   "url": "/haber/bakan-simsek-cop31-kapsaminda-opec-fonu-baskani-alkhalifa-ile-gorustu-18e6a309/"
+  },
+  {
    "id": "2ca93ad5",
    "title": "ABD enflasyonu ve Fed üyesi Waller'ın şahin mesajı altın ve kripto piyasasında düşüşe neden oldu",
    "summary": "Küresel piyasalarda altın ve kripto para birimleri, beklentilerin üzerinde gelen ABD enflasyon verileri ve ABD Merkez Bankası (Fed) yetkililerinden gelen şahin açıklamaların ardından düşüş kaydetti.",
@@ -66,6 +198,17 @@
    "category": "gundem",
    "date": "2026-11-10T14:47:56+00:00",
    "url": "/haber/abd-enflasyonu-ve-fed-uyesi-waller-in-sahin-mesaji-altin-ve-kripto-piy-2ca93ad5/"
+  },
+  {
+   "id": "08f65e25",
+   "title": "ABD Savunma Bakanı Hegseth azil tartışmalarının ardından konuştu: 'Bu bir sabotaj'",
+   "summary": "ABD Savunma Bakanı Hegseth hakkında yapılan azil başvurusunun ardından yaptığı açıklamada suçlamaları reddetti, başvurunun \"sabotaj\" olduğunu söyledi. Cumhuriyetçi Thomas Massie, Pazartesi günü Hegseth'in azledilmesi…",
+   "link": "https://www.bbc.com/turkce/articles/cmj6j6414dy6o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a394/live/656b32b0-dd12-11f1-9019-999bcb7fa2d2.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-10T14:43:38+00:00",
+   "url": "/haber/abd-savunma-bakani-hegseth-azil-tartismalarinin-ardindan-konustu-bu-bi-08f65e25/"
   },
   {
    "id": "28d294a4",
@@ -79,6 +222,17 @@
    "url": "/haber/kasif-kozinoglu-nun-olumune-iliskin-adli-tip-raporuna-itiraz-28d294a4/"
   },
   {
+   "id": "96b90541",
+   "title": "Hazine ve Maliye Bakanlığı 18,5 milyar lira tutarında kira sertifikası ihraç etti",
+   "summary": "Hazine ve Maliye Bakanlığı, 18,5 milyar lira tutarında kira sertifikasının ihracını gerçekleştirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakanligi-18-5-milyar-lira-tutarinda-kira-sertifikasi-ihrac-etti/4119115",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T14:41:12+00:00",
+   "url": "/haber/hazine-ve-maliye-bakanligi-18-5-milyar-lira-tutarinda-kira-sertifikasi-96b90541/"
+  },
+  {
    "id": "241d7238",
    "title": "İzmir'deki HABAŞ demir çelikte patlama: Can kaybı 18'e çıktı, 11 gözaltı",
    "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda 18 kişinin ölümüyle sonuçlanan patlamanın ardından, şirketin yönetim kurulu başkanı dahil 11 kişi için gözaltı kararı verildi.",
@@ -88,17 +242,6 @@
    "category": "gundem",
    "date": "2026-11-10T14:39:58+00:00",
    "url": "/haber/izmir-deki-habas-demir-celikte-patlama-can-kaybi-18-e-cikti-11-gozalti-241d7238/"
-  },
-  {
-   "id": "a7c568fd",
-   "title": "Cumhurbaşkanı Erdoğan, BM Genel Sekreteri Guterres ile görüştü",
-   "summary": "Antalya'daki COP31 zirvesinde Cumhurbaşkanı Erdoğan, BM Genel Sekreteri Antonio Guterres ile görüştü.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bm-genel-sekreteri-guterres-ile-gorustu-1750315",
-   "image": "https://images.ntv.com.tr/images/AA-20261110-43028900-43028899-CUMHURBASKANI_ERDOGAN_BM_GENEL_SEKRETERI_GUTERRES_ILE_GORUSTU-983810(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T14:38:12+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-bm-genel-sekreteri-guterres-ile-gorustu-a7c568fd/"
   },
   {
    "id": "3eb7aa10",
@@ -156,17 +299,6 @@
    "url": "/haber/veri-merkezi-karsiti-gosteriler-avrupa-ya-da-sicradi-8e99b603/"
   },
   {
-   "id": "9bf89904",
-   "title": "Poco X3 Pro Fiyatı 2026: Hala Alınır mı?",
-   "summary": "Sıfır Poco X3 Pro bugün 16.000 TL, yeni Redmi Note 15 ise 16.999 TL. Nisan 2024'ten beri güncelleme almayan telefonu kimler almalı, kimler uzak durmalı?",
-   "link": "https://shiftdelete.net/butce-dostu-poco-x3-pro-fiyati-ne-kadar",
-   "image": "https://ares.shiftdelete.net/2021/03/poco-x3-pro-fiyati-ne-kadar.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T14:13:07+00:00",
-   "url": "/haber/poco-x3-pro-fiyati-2026-hala-alinir-mi-9bf89904/"
-  },
-  {
    "id": "22102cf8",
    "title": "GTA 6'dan Yeni Fragman Yayımlandı [Video]",
    "summary": "Rockstar Games, GTA 6'nın ön yükleme sürecinin başlamasına özel yeni bir fragman yayımladı.",
@@ -211,17 +343,6 @@
    "url": "/haber/iphone-18-ve-iphone-air-2-nin-maket-modelleri-ortaya-cikti-iste-boyle-fff95898/"
   },
   {
-   "id": "f0c9042d",
-   "title": "Cumhurbaşkanı Erdoğan BM Genel Sekreteri Guterres'i kabul etti",
-   "summary": "Cumhurbaşkanı Erdoğan'ın COP31 kapsamında Antalya'da bulunan BM Genel Sekreteri Guterres'i kabulünde bölgesel ve küresel konular ele alındı .",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bm-genel-sekreteri-guterresi-kabul-etti/4119051",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T14:08:52+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-bm-genel-sekreteri-guterres-i-kabul-etti-f0c9042d/"
-  },
-  {
    "id": "65640392",
    "title": "Samsung 2 nm ile üretilen çip 5 watt harcıyor",
    "summary": "Güney Koreli DEEPX, Samsung Foundry'nin 2nm GAA sürecinde üretilen DEEPX DX-M2 çipini tanıttı. Endüstriyel cihazlar ve robotlar için tasarlanan çip yaklaşık 5 watt güç tüketiyor.",
@@ -231,28 +352,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T14:08:00+00:00",
    "url": "/haber/samsung-2-nm-ile-uretilen-cip-5-watt-harciyor-65640392/"
-  },
-  {
-   "id": "9ed23d7a",
-   "title": "Süper Lig ve 1. Lig'de \"Çoklu Top Sistemi\" uygulanacak",
-   "summary": "Türkiye Futbol Federasyonu (TFF), Trendyol Süper Lig ve Trendyol 1. Lig'de \"Çoklu Top Sistemi\" uygulanacağını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/spor/super-lig-ve-1-ligde-coklu-top-sistemi-uygulanacak/4119018",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T13:59:24+00:00",
-   "url": "/haber/super-lig-ve-1-lig-de-coklu-top-sistemi-uygulanacak-9ed23d7a/"
-  },
-  {
-   "id": "a82acb87",
-   "title": "İsrail'de muhalefet bloğunda Arap partilerinin koalisyonda yer almasına ilişkin anlaşmazlık sürüyor",
-   "summary": "İsrail'de seçimlerin ardından hükümet kurmakla görevlendirilen Gadi Eisenkot liderliğindeki \"Değişim Bloğu\"nda İsrail vatandaşı Filistinlileri temsil eden Arap partilerinin koalisyona dahil edilmesine ilişkin…",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-blogunda-arap-partilerinin-koalisyonda-yer-almasina-iliskin-anlasmazlik-suruyor/4119014",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T13:58:08+00:00",
-   "url": "/haber/israil-de-muhalefet-blogunda-arap-partilerinin-koalisyonda-yer-almasin-a82acb87/"
   },
   {
    "id": "86c1856b",
@@ -321,17 +420,6 @@
    "url": "/haber/yurdun-buyuk-kesiminde-hava-parcali-ve-az-bulutlu-olacak-de4ff38b/"
   },
   {
-   "id": "22fc3327",
-   "title": "Cumhurbaşkanı Erdoğan, BM Genel Sekreteri Guterres ile görüştü",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında Antalya'da BM Genel Sekreteri Antonio Guterres ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bm-genel-sekreteri-guterres-ile-gorustu/4118988",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T13:43:04+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-bm-genel-sekreteri-guterres-ile-gorustu-22fc3327/"
-  },
-  {
    "id": "3064d747",
    "title": "COP31'de finans, telekomünikasyon ve havacılıkta iklim mücadelesi ele alındı",
    "summary": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında finans, teknoloji, telekomünikasyon ve havacılık sektörlerinin iklim değişikliğiyle mücadelesi ve yeşil dönüşümdeki…",
@@ -376,28 +464,6 @@
    "url": "/haber/ulastirma-ve-altyapi-bakani-uraloglu-teknoloji-iklim-eyleminin-onunde-8bd69353/"
   },
   {
-   "id": "07d8676f",
-   "title": "ABD'de enflasyon ekimde beklentilerin üzerinde arttı",
-   "summary": "",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-ekimde-beklentilerin-uzerinde-artti/4118964",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T13:34:20+00:00",
-   "url": "/haber/abd-de-enflasyon-ekimde-beklentilerin-uzerinde-artti-07d8676f/"
-  },
-  {
-   "id": "b19099c3",
-   "title": "Rusya-Çin yakınlaşması küresel askeri güç dengelerini etkileyebilir mi?",
-   "summary": "Moskova-Pekin yakınlaşmasının önemi, askeri güçlerini artırmanın yanı sıra Asya'dan Afrika'ya uzanan stratejik ilişkileriyle ABD'nin farklı coğrafyalardaki güvenlik hesaplarını eş zamanlı etkileyebilecek bir kapasite…",
-   "link": "https://www.aa.com.tr/tr/analiz/rusya-cin-yakinlasmasi-kuresel-askeri-guc-dengelerini-etkileyebilir-mi/4118958",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T13:31:43+00:00",
-   "url": "/haber/rusya-cin-yakinlasmasi-kuresel-askeri-guc-dengelerini-etkileyebilir-mi-b19099c3/"
-  },
-  {
    "id": "119f5f87",
    "title": "Türk Telekom CEO'su Ebubekir Şahin'den NTV'ye özel açıklamalar",
    "summary": "Antalya'da düzenlenen Birleşmiş Milletler COP 31 İklim Zirvesi, Türkiye'de ilk kez gerçekleştirilerek bilim ve sanayi dünyasını dev bir teknoloji altyapısıyla bir araya getirdi.",
@@ -418,28 +484,6 @@
    "category": "gundem",
    "date": "2026-11-10T13:23:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-guterres-i-kabul-etti-e19a1846/"
-  },
-  {
-   "id": "62e64165",
-   "title": "İngiltere Lordlar Kamarası Üyesi Scotland'dan COP31'in önemine vurgu",
-   "summary": "İngiltere Lordlar Kamarası Üyesi ve eski İngiliz Milletler Topluluğu Genel Sekreteri Patricia Scotland, Türkiye'nin COP31 sürecine Avustralya ile öncülük etmesinin küresel tehditlere çözüm bulunması açısından…",
-   "link": "https://www.aa.com.tr/tr/gundem/ingiltere-lordlar-kamarasi-uyesi-scotlanddan-cop31in-onemine-vurgu/4118939",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T13:21:56+00:00",
-   "url": "/haber/ingiltere-lordlar-kamarasi-uyesi-scotland-dan-cop31-in-onemine-vurgu-62e64165/"
-  },
-  {
-   "id": "09b29a2e",
-   "title": "Galaxy S24 FE 2026'da Alınır mı? Fiyatı ve Özellikleri",
-   "summary": "Sıfır S24 FE 256 GB bugün 38.880 TL, yeni S25 FE ise 36.767 TL'den satılıyor. One UI 9 güncellemesini, fiyatları ve hangisini almanız gerektiğini anlattık.",
-   "link": "https://shiftdelete.net/samsung-galaxy-s24-fe-gorundu-iste-beklenen-ozellikleri",
-   "image": "https://ares.shiftdelete.net/2024/08/samsung-galaxy-s24-fe-gorundu-iste-beklenen-ozellikleri-1.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T13:19:12+00:00",
-   "url": "/haber/galaxy-s24-fe-2026-da-alinir-mi-fiyati-ve-ozellikleri-09b29a2e/"
   },
   {
    "id": "1c8f0fad",
@@ -473,17 +517,6 @@
    "category": "gundem",
    "date": "2026-11-10T13:13:46+00:00",
    "url": "/haber/60-saniyede-ekonomide-bugun-10-kasim-2026-b96ab362/"
-  },
-  {
-   "id": "37884721",
-   "title": "60 saniyede bugün (10 Kasım 2026)",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
-   "link": "https://www.aa.com.tr/tr/gundem/-60-saniyede-bugun-10-kasim-2026/4118925",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T13:13:08+00:00",
-   "url": "/haber/60-saniyede-bugun-10-kasim-2026-37884721/"
   },
   {
    "id": "fb3013f0",
@@ -937,17 +970,6 @@
    "url": "/haber/bir-insan-ortalama-olarak-ne-kadar-gida-israf-ediyor-b1c74e4f/"
   },
   {
-   "id": "aa953380",
-   "title": "Disney ve Adobe, özel yapay zeka modelleri geliştirecek",
-   "summary": "Disney ve Adobe, tema parklarından ESPN yayınlarına kadar farklı alanlarda kullanılacak, şirkete özel üretken yapay zeka modelleri geliştirmek için çok yıllı ortaklık kurdu.",
-   "link": "https://www.donanimhaber.com/disney-ve-adobe-ozel-yapay-zeka-modelleri-gelistirecek--212709",
-   "image": "https://www.donanimhaber.com/images/images/haber/212709/1200x675disney-ve-adobe-ozel-yapay-zeka-modelleri-gelistirecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-10T10:14:00+00:00",
-   "url": "/haber/disney-ve-adobe-ozel-yapay-zeka-modelleri-gelistirecek-aa953380/"
-  },
-  {
    "id": "bd895eea",
    "title": "Yolun karşısına geçerken metrelerce savruldular. 18 yaşındaki Ayşenur'un öldüğü kaza kamerada",
    "summary": "İstanbul Bakırköy'de bir sürücü, yolun karşısına geçmeye çalışan dört gence çarptı. Kazada ağır yaralı olarak hastaneye kaldırılan Ayşenur Vatansever kurtarılamadı.",
@@ -1001,17 +1023,6 @@
    "category": "gundem",
    "date": "2026-11-10T09:29:01+00:00",
    "url": "/haber/icisleri-bakanligi-ndan-yeni-nesil-suclarla-teknoloji-destekli-mucadel-8c4ca1c4/"
-  },
-  {
-   "id": "da153c28",
-   "title": "Ramazan ayı başlangıcı ve bitiş tarihi 2027. Ramazan ayı ne zaman, ilk oruç hangi gün tutulacak?",
-   "summary": "On Bir Ayın Sultanı, rahmet, mağfiret ve dayanışma ayı olan Ramazan için geri sayım hız kazandı. İslam aleminde her yıl büyük bir heyecanla karşılanan oruç ayı öncesinde, sahur ve iftar sofralarını kuracak olan…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-ramazan-ayi-baslangici-ve-bitis-tarihi-2027-ramazan-ayi-ne-zaman-ilk-oruc-hangi-gun-tutulacak-1750263",
-   "image": "https://images.ntv.com.tr/images/iStock-1475382569-406920.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T09:22:46+00:00",
-   "url": "/haber/ramazan-ayi-baslangici-ve-bitis-tarihi-2027-ramazan-ayi-ne-zaman-ilk-o-da153c28/"
   },
   {
    "id": "ca3f0418",
@@ -1155,17 +1166,6 @@
    "category": "gundem",
    "date": "2026-11-09T15:43:30+00:00",
    "url": "/haber/hayali-arkadaslar-zihni-nasil-gelistirebilir-78078f88/"
-  },
-  {
-   "id": "0a91d201",
-   "title": "Türkiye-Azerbaycan arasındaki buzlar eridi mi?",
-   "summary": "Türkiye ile Azerbaycan arasında son iki aydır yaşanan gerilim, Cumhurbaşkanı Recep Tayyip Erdoğan ile Azerbaycan Devlet Başkanı İlham Aliyev'in 8 Kasım'da Şuşa'da yaptıkları görüşme sonunda yatışmış görünüyor.",
-   "link": "https://www.bbc.com/turkce/articles/c83vqvw35g4yo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f628/live/358d1760-dc41-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-09T13:35:18+00:00",
-   "url": "/haber/turkiye-azerbaycan-arasindaki-buzlar-eridi-mi-0a91d201/"
   },
   {
    "id": "6d369927",
