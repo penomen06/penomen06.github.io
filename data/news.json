@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:30:57.132891+00:00",
+ "updated": "2026-11-11T15:35:50.311627+00:00",
  "items": [
   {
    "id": "30b14bb9",
@@ -11,6 +11,17 @@
    "category": "gundem",
    "date": "2026-11-11T15:24:16+00:00",
    "url": "/haber/ispanya-da-konut-ve-ucret-talebiyle-14-yil-sonra-ilk-genel-grev-30b14bb9/"
+  },
+  {
+   "id": "04566413",
+   "title": "Galatasaray Kulübünde kasım ayı olağan divan kurulu toplantısı yapıldı",
+   "summary": "Başkan yardımcısı Mehmet Cibara, \"Zemin için SIS firmasıyla çalışıyoruz. Bu konulardaki en iyi firmalardan bir tanesi. Burada hepimizin kusuru var.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-kulubunde-kasim-ayi-olagan-divan-kurulu-toplantisi-yapildi/4121003",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T15:24:02+00:00",
+   "url": "/haber/galatasaray-kulubunde-kasim-ayi-olagan-divan-kurulu-toplantisi-yapildi-04566413/"
   },
   {
    "id": "8144162a",
@@ -57,6 +68,17 @@
    "url": "/haber/cop31-de-yesil-sanayilesmede-ekonomik-buyume-ve-istihdam-firsatlari-on-5036f8f6/"
   },
   {
+   "id": "0e0456aa",
+   "title": "İtalya'da binlerce okulda bomba tehdidi nedeniyle tahliye ve aramalar",
+   "summary": "İtalya'da bomba tehdidi içeren bir mesaj nedeniyle binlerce okulda tahliye ve arama çalışmaları yapıldı. Başbakan Giorgia Meloni, bakanlar ve güvenlik yetkililerini toplantıya çağırdı.",
+   "link": "https://www.bbc.com/turkce/articles/c51k93wjnk02o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63e5/live/dcc27e70-dde1-11f1-9cf4-b188db5b2d8c.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-11T15:16:56+00:00",
+   "url": "/haber/italya-da-binlerce-okulda-bomba-tehdidi-nedeniyle-tahliye-ve-aramalar-0e0456aa/"
+  },
+  {
    "id": "24cb2b9b",
    "title": "Almanya'da \"Müslüman düşmanı\" söylemlere destek arttı",
    "summary": "Almanya'da yapılan bir araştırmada, ülkede \"Müslüman düşmanı\" söylemlere verilen desteğin arttığı ortaya konuldu.",
@@ -88,17 +110,6 @@
    "category": "gundem",
    "date": "2026-11-11T15:06:14+00:00",
    "url": "/haber/istanbul-un-da-aralarinda-bulundugu-11-il-icin-sari-kodlu-uyari-6020ee14/"
-  },
-  {
-   "id": "cae6c230",
-   "title": "Güllü'nün oğlundan yeni suç duyurusu. Ses kayıtları çözümlendi, erkek sesi kime ait?",
-   "summary": "Şarkıcı Güllü’nün ölümüne ilişkin ev içi güvenlik kameralarındaki sesler çözümlendi. Raporda bir erkeğe ait olduğu öne sürülen konuşmalar yer alırken, Güllü'nün oğlu yeni suç duyurusunda bulundu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-gullunun-oglundan-yeni-suc-duyurusu-ses-kayitlari-cozumlendi-erkek-sesi-kime-ait-1750457",
-   "image": "https://images.ntv.com.tr/images/SARKICI-GULLUNUN-KIZI-ILE-ARKADASI-SAC_1028185_305070copy2-370732.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T15:03:43+00:00",
-   "url": "/haber/gullu-nun-oglundan-yeni-suc-duyurusu-ses-kayitlari-cozumlendi-erkek-se-cae6c230/"
   },
   {
    "id": "e5a27033",
@@ -266,28 +277,6 @@
    "url": "/haber/iran-ulusal-guvenlik-yuksek-konseyi-abd-nin-avrupa-ulkelerindeki-bazi-3daa54dc/"
   },
   {
-   "id": "f5c49d1c",
-   "title": "COP31 Başkanı Kurum: Türkiye uzlaşıya katkı sunmaya hazır",
-   "summary": "COP31 Başkanı Murat Kurum, iklim değişikliğiyle mücadelede adalet ve uluslararası işbirliği çağrısı yaptı. Kurum, Türkiye'nin küresel uzlaşıya katkı sunmaya hazır olduğunu belirtti.",
-   "link": "https://www.ntv.com.tr/turkiye/cop31-baskani-kurum-turkiye-uzlasiya-katki-sunmaya-hazir-1750454",
-   "image": "https://images.ntv.com.tr/images/AA-20261111-43044200-43044194-CO-905060.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T14:23:28+00:00",
-   "url": "/haber/cop31-baskani-kurum-turkiye-uzlasiya-katki-sunmaya-hazir-f5c49d1c/"
-  },
-  {
-   "id": "5243b175",
-   "title": "TBMM Başkanı Kurtulmuş, ATO Başkanı Baran'ı kabul etti",
-   "summary": "",
-   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-ato-baskani-barani-kabul-etti/4120834",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T14:22:44+00:00",
-   "url": "/haber/tbmm-baskani-kurtulmus-ato-baskani-baran-i-kabul-etti-5243b175/"
-  },
-  {
    "id": "c8d064bf",
    "title": "Logitech'ten çalışanlarına GTA 6 için oyun izni",
    "summary": "Logitech, Logi Game Day uygulamasıyla dünyadaki yaklaşık 7.000 çalışanına oyun oynamaları için bir gün izin tanıdı. Ofisler ise GTA 6'nın çıkış günü olan 19 Kasım'da açık kalacak.",
@@ -376,17 +365,6 @@
    "url": "/haber/pakistan-a-100-bin-turk-kamikaze-dronu-gidiyor-52897a96/"
   },
   {
-   "id": "473fe3e1",
-   "title": "Poligonda dehşet anlar: Tabancayı başına doğrultan kişiye eğitmen böyle müdahale etti",
-   "summary": "Bursa’da poligonda elindeki tabancayı başına doğrultarak tetiği çekmeye çalışan kişiyi, yanında bulunan atış eğitmeni müdahale ederek son anda kurtardı. O anlar, güvenlik kamerasına yansıdı",
-   "link": "https://www.ntv.com.tr/turkiye/video-poligonda-dehset-anlar-tabancayi-basina-dogrultan-kisiye-egitmen-boyle-mudahale-etti-1750453",
-   "image": "https://images.ntv.com.tr/images/POLIGONDA-TABANCAYI-BASINA-DOGRULTAN-KIS_1602777_476483-390709.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T13:26:12+00:00",
-   "url": "/haber/poligonda-dehset-anlar-tabancayi-basina-dogrultan-kisiye-egitmen-boyle-473fe3e1/"
-  },
-  {
    "id": "e8c7e513",
    "title": "Elektriğin en pahalı olduğu ülkeler belli oldu: Türkiye kaçıncı sırada?",
    "summary": "2025 verilerine göre Bermuda, kWh başına 46,5 sentle elektriğin en pahalı olduğu bölge oldu. Türkiye'de ise elektrik fiyatı 7 sentin altında kalırken Avrupa ülkeleri üst sıralarda yer aldı.",
@@ -418,39 +396,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T13:13:00+00:00",
    "url": "/haber/amazon-da-11-11-e-ozel-1-000-tl-kuponlari-yenilendi-saat-16-11-e-ozel-094650fe/"
-  },
-  {
-   "id": "07ce9235",
-   "title": "CHP kurultay davası 18 Kasım'a ertelendi",
-   "summary": "CHP’nin 38’inci Olağan Kurultayı’nda usulsüzlük yapıldığı iddiasıyla aralarında Ekrem İmamoğlu’nun da olduğu 12 sanığın yargılandığı dava, 18 Kasım'a ertelendi.",
-   "link": "https://www.ntv.com.tr/turkiye/chp-kurultay-davasi-18-kasima-ertelendi-1750435",
-   "image": "https://images.ntv.com.tr/images/chpKurultay-398799.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T13:09:55+00:00",
-   "url": "/haber/chp-kurultay-davasi-18-kasim-a-ertelendi-07ce9235/"
-  },
-  {
-   "id": "decd45ff",
-   "title": "Bursa'da poligonda korku dolu anlar: Son anda engellendi",
-   "summary": "Bursa'da bir poligonda elindeki tabancayı başına doğrultan kişi, yanında bulunan atış eğitmeninin müdahalesiyle son anda kurtarıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/bursada-poligonda-korku-dolu-anlar-son-anda-engellendi-1750448",
-   "image": "https://images.ntv.com.tr/images/poligon-130592.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T13:09:45+00:00",
-   "url": "/haber/bursa-da-poligonda-korku-dolu-anlar-son-anda-engellendi-decd45ff/"
-  },
-  {
-   "id": "5b0c6c3f",
-   "title": "Meclis'te terörsüz Türkiye mesaisi. TBMM Başkanı Kurtulmuş AK Parti'yi ziyaret etti",
-   "summary": "TBMM Başkanı Numan Kurtulmuş, terörsüz Türkiye süreci kapsamında kurulacak İzleme Komisyonu'na ilişkin ziyaretlerine devam etti. Kurtulmuş'un bugünkü durağı AK Parti oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/mecliste-terorsuz-turkiye-mesaisi-tbmm-baskani-kurtulmus-ak-partiyi-ziyaret-etti-1750441",
-   "image": "https://images.ntv.com.tr/images/NumanKurtulmuşAKParti-987017.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T13:09:26+00:00",
-   "url": "/haber/meclis-te-terorsuz-turkiye-mesaisi-tbmm-baskani-kurtulmus-ak-parti-yi-5b0c6c3f/"
   },
   {
    "id": "481a6977",
@@ -695,17 +640,6 @@
    "url": "/haber/google-turkiye-deki-reklam-ek-ucretini-dusuruyor-2027-de-baslayacak-5aeaaa52/"
   },
   {
-   "id": "60ba10c2",
-   "title": "Bu gece başlıyor, 8 saat sürecek. İstanbul'un 21 ilçesinde elektrik kesintisi yaşanacak",
-   "summary": "İstanbul Avrupa Yakası elektrik dağıtımını sağlayan Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), şebeke iyileştirme, trafo bakımı ve altyapı yenileme çalışmaları kapsamında dev bir planlı kesinti programı duyurdu. Kent…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bu-gece-basliyor-8-saat-surecek-istanbulun-21-ilcesinde-elektrik-kesintisi-yasanacak-1750438",
-   "image": "https://images.ntv.com.tr/images/iStock-2188160854-215004.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T11:56:01+00:00",
-   "url": "/haber/bu-gece-basliyor-8-saat-surecek-istanbul-un-21-ilcesinde-elektrik-kesi-60ba10c2/"
-  },
-  {
    "id": "f6ffc8f2",
    "title": "HMD 101 4G: Tuşlu telefona yapay zeka asistanı",
    "summary": "HMD'nin tuşlu telefonu HMD 101 4G, resmi tanıtımdan önce ortaya çıktı. Yapay zekâ asistanı ve bulut uygulamaları desteğiyle gelecek model 7 güne kadar pil ömrü vaat ediyor.",
@@ -717,17 +651,6 @@
    "url": "/haber/hmd-101-4g-tuslu-telefona-yapay-zeka-asistani-f6ffc8f2/"
   },
   {
-   "id": "87d93f27",
-   "title": "Emine Erdoğan'dan 11 Kasım Milli Ağaçlandırma Günü paylaşımı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, 11 Kasım Milli Ağaçlandırma Günü'nü kutladı.",
-   "link": "https://www.ntv.com.tr/turkiye/emine-erdogandan-11-kasim-milli-agaclandirma-gunu-paylasimi-1750434",
-   "image": "https://images.ntv.com.tr/images/emine-erdoğan-882340.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T11:40:09+00:00",
-   "url": "/haber/emine-erdogan-dan-11-kasim-milli-agaclandirma-gunu-paylasimi-87d93f27/"
-  },
-  {
    "id": "074710fd",
    "title": "HyperOS 4 alamayacak Xiaomi ve Poco modelleri belli oldu",
    "summary": "Xiaomi, yeni HyperOS 4 güncellemesini desteklenen modellere dağıtmaya başladı. Ancak Xiaomi 12T ve Redmi Note 12 gibi bazı popüler telefonlar yeni sürümü alamayacak.",
@@ -737,17 +660,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T11:37:00+00:00",
    "url": "/haber/hyperos-4-alamayacak-xiaomi-ve-poco-modelleri-belli-oldu-074710fd/"
-  },
-  {
-   "id": "d6536e78",
-   "title": "Bakan Göktaş duyurdu. Kreşler için ilk kez teşvik paketi geliyor",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, kreşlerin yaygınlaşması için ilk kez bir teşvik paketini devreye alacaklarını açıkladı.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-goktas-duyurdu-kresler-icin-ilk-kez-tesvik-paketi-geliyor-1750432",
-   "image": "https://images.ntv.com.tr/images/AA-20261111-43037317-43037312-AILE_VE_SOSYAL_HIZMETLER_BAKANLIGININ_2027_YILI_BUTCESI_TBMM_PLAN_VE_BUTCE_KOMISYONUNDA-409809.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T11:34:32+00:00",
-   "url": "/haber/bakan-goktas-duyurdu-kresler-icin-ilk-kez-tesvik-paketi-geliyor-d6536e78/"
   },
   {
    "id": "98e38096",
@@ -816,28 +728,6 @@
    "url": "/haber/ps5-40-gunde-2-1-milyon-satip-100-milyonu-gecti-2a27c3f0/"
   },
   {
-   "id": "cd379ecb",
-   "title": "SOLOTÜRK'te görev değişimi",
-   "summary": "Türk Hava Kuvvetleri'nin akrobasi timi SOLOTÜRK'te kol komutanı olarak görev yapan Yarbay Murat Bakıcı, görevini Hava Pilot Yarbay M. Erhan Aydemir'e teslim etti.",
-   "link": "https://www.ntv.com.tr/turkiye/soloturkte-gorev-degisimi-1750426",
-   "image": "https://images.ntv.com.tr/images/SOLOTURKTE-GOREV-DEGISIMI-GERCEKLESTI_1602316_476298-661025(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T10:47:35+00:00",
-   "url": "/haber/soloturk-te-gorev-degisimi-cd379ecb/"
-  },
-  {
-   "id": "fc0e069b",
-   "title": "Güllü'nün ölümünde yalan tanıklık davası. Sultan Nur Ulu: Tuğyan beni tehdit edip baskıladı",
-   "summary": "Şarkıcı Güllü'nün ölümüne ilişkin yalan tanıklık suçlamasıyla hakkında 4 yıla kadar hapis cezası istenen Sultan Nur Ulu'nun yargılanmasına başlandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-gullunun-olumunde-yalan-taniklik-davasi-sultan-nur-ulu-tugyan-beni-tehdit-edip-baskiladi-1750422",
-   "image": "https://images.ntv.com.tr/images/güllü-547355(3).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T10:47:32+00:00",
-   "url": "/haber/gullu-nun-olumunde-yalan-taniklik-davasi-sultan-nur-ulu-tugyan-beni-te-fc0e069b/"
-  },
-  {
    "id": "3060a0a0",
    "title": "Ford, Mustang Cobra'yı 2027 için geri getiriyor",
    "summary": "Ford Racing, yeni Ford Mustang Cobra'nın 2027'de geleceğini duyurdu. Yaklaşık 600 beygirlik atmosferik V8 ve manuel şanzıman iddiası öne çıkarken, model büyük ihtimalle sıfırdan geliştirilmiş olmayacak.",
@@ -893,28 +783,6 @@
    "url": "/haber/istanbul-a-firtina-uyarisi-ruzgarin-hizi-90-kilometreye-cikacak-67015c8b/"
   },
   {
-   "id": "b76b1cf4",
-   "title": "VGM ortaöğrenim burs sonuçları sorgulama ekranı 2026. VGM ortaöğrenim burs sonuçları açıklandı",
-   "summary": "Vakıflar Genel Müdürlüğünün 2026-2027 eğitim öğretim yılı ortaöğrenim burs başvuru sonuçları açıklandı. Adaylar, VGM ortaöğrenim burs sonuçlarını burs.vgm.gov.tr adresi üzerinden sorgulayabilecek.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-vgm-ortaogrenim-burs-sonuclari-sorgulama-ekrani-2026-vgm-ortaogrenim-burs-sonuclari-aciklandi-1750419",
-   "image": "https://images.ntv.com.tr/images/606459f4-6c61-4e48-ad32-1903ab0d0484-738240.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T10:05:41+00:00",
-   "url": "/haber/vgm-ortaogrenim-burs-sonuclari-sorgulama-ekrani-2026-vgm-ortaogrenim-b-b76b1cf4/"
-  },
-  {
-   "id": "a178f193",
-   "title": "2027 Diyanet umre turu kayıtları başladı. Ramazan ve şevval ayı umre turu kayıtları nasıl yapılır?",
-   "summary": "Diyanet İşleri Başkanlığı Hac ve Umre Hizmetleri Genel Müdürlüğü, 2026-2027 umre organizasyonu kapsamında kutsal topraklara gitmek isteyen binlerce vatandaşın beklediği müjdeli haberi duyurdu. Peki, Ramazan ve şevval…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-2027-diyanet-umre-turu-kayitlari-basladi-ramazan-ve-sevval-ayi-umre-turu-kayitlari-nasil-yapilir-1750417",
-   "image": "https://images.ntv.com.tr/images/4d8ca6681e1a986bee730622f8f7bcfc-662276.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T09:56:14+00:00",
-   "url": "/haber/2027-diyanet-umre-turu-kayitlari-basladi-ramazan-ve-sevval-ayi-umre-tu-a178f193/"
-  },
-  {
    "id": "1c4a3334",
    "title": "Guterres: İklim önümüzdeki yılların sınaması olacak",
    "summary": "BM Genel Sekreteri Antonio Guterres, Antalya'daki COP31 Liderler Zirvesi Açılış Programı'nda konuştu. Guterres, \"Yeni bir iklim adaletine ihtiyaç var. Tüm ülkeler iklim için üzerine düşeni yapmalı.\" mesajını verdi.",
@@ -946,28 +814,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T09:35:00+00:00",
    "url": "/haber/1-169-beygirlik-amg-gt-suv-turkiye-yolunda-0f1ded62/"
-  },
-  {
-   "id": "659d4e39",
-   "title": "Beşiktaş’taki saldırının şüphelileri çalıların altında böyle yakalandı",
-   "summary": "İstanbul Beşiktaş’ta 24 yaşındaki Umut A.’nın hayatını kaybettiği silahlı saldırının ardından kaçan iki şüpheli, bir koruda çalıların altına saklanırken yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-besiktastaki-saldirinin-suphelileri-calilarin-altinda-boyle-yakalandi-1750412",
-   "image": "https://images.ntv.com.tr/images/asdsadsa-786029.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T09:30:25+00:00",
-   "url": "/haber/besiktas-taki-saldirinin-suphelileri-calilarin-altinda-boyle-yakalandi-659d4e39/"
-  },
-  {
-   "id": "6c56baa5",
-   "title": "Akdeniz'in derinliklerindeki batık tank milli STM NETA ile görüntülendi",
-   "summary": "STM'nin millî imkânlarla geliştirdiği insansız otonom sualtı aracı STM NETA 300, Antalya'nın Kaş ilçesi açıklarında gerçekleştirdiği sualtı keşfinde batık tankı görüntüledi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-akdenizin-derinliklerindeki-batik-tank-milli-stm-neta-ile-goruntulendi-1750410",
-   "image": "https://images.ntv.com.tr/images/AW830058_01-194489.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T09:19:45+00:00",
-   "url": "/haber/akdeniz-in-derinliklerindeki-batik-tank-milli-stm-neta-ile-goruntulend-6c56baa5/"
   },
   {
    "id": "dc675293",
@@ -1210,17 +1056,6 @@
    "category": "gundem",
    "date": "2026-11-10T11:28:00+00:00",
    "url": "/haber/tasacak-bu-deniz-youtube-aramalarina-da-damga-vurdu-6f7bb561/"
-  },
-  {
-   "id": "a24695ea",
-   "title": "Çin ve ABD arasındaki casusluk geriliminin odağındaki kişi hakkında neler biliniyor?",
-   "summary": "Dünyanın en büyük çip üreticilerinden Nvidia'nın CEO'su Jensen Huang'ın merkezinde olduğu olay, bir evlilik dışı ilişki skandalının ötesine geçti.",
-   "link": "https://www.bbc.com/turkce/articles/cmd6d6ezld6do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6de/live/38aacfe0-dcf6-11f1-9ef0-4b5930e2f80e.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-10T11:21:00+00:00",
-   "url": "/haber/cin-ve-abd-arasindaki-casusluk-geriliminin-odagindaki-kisi-hakkinda-ne-a24695ea/"
   },
   {
    "id": "b1c74e4f",
