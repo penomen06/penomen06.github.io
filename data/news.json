@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T23:01:09.761437+00:00",
+ "updated": "2026-11-11T23:30:55.111516+00:00",
  "items": [
   {
    "id": "44bfe53f",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-11T23:00:00+00:00",
+   "date": "2026-11-11T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-44bfe53f/"
+  },
+  {
+   "id": "68ca2b74",
+   "title": "Askeri anıtın yanında gürültü yapan ABD Savunma Bakanı Hegseth'e nöbetçi askerden \"sessiz olun\" uyarısı",
+   "summary": "Arlington Ulusal Mezarlığı'ndaki Gaziler Günü anma töreninden sonra hatıra fotoğrafı çektirirken gürültü yapan ABD Savunma Bakanı Pete Hegseth ile beraberindekiler, görevli nöbetçi asker tarafından \"sessiz olmaları\"…",
+   "link": "https://www.aa.com.tr/tr/dunya/askeri-anitin-yaninda-gurultu-yapan-abd-savunma-bakani-hegsethe-nobetci-askerden-sessiz-olun-uyarisi/4121540",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T23:05:45+00:00",
+   "url": "/haber/askeri-anitin-yaninda-gurultu-yapan-abd-savunma-bakani-hegseth-e-nobet-68ca2b74/"
+  },
+  {
+   "id": "3f77f5ec",
+   "title": "Küresel endeks sağlayıcısı MSCI endekslerde değişikliğe gitti",
+   "summary": "Küresel endeks sağlayıcılarından MSCI, dünya genelinde endeks değişikliklerini duyururken, Türkiye'nin küçük ölçekli şirketler endeksine 2 yeni hissenin eklendiğini, 18 hissenin çıkarıldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-endeks-saglayicisi-msci-endekslerde-degisiklige-gitti/4121539",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T23:04:51+00:00",
+   "url": "/haber/kuresel-endeks-saglayicisi-msci-endekslerde-degisiklige-gitti-3f77f5ec/"
   },
   {
    "id": "f92f8a8c",
@@ -255,17 +277,6 @@
    "url": "/haber/katlanabilir-telefonlarin-yuzde-69-u-samsung-dan-9bf4880c/"
   },
   {
-   "id": "a52b8358",
-   "title": "TCMB kredi büyüme sınırlarını yükseltti",
-   "summary": "TCMB, bankaların ve finansman şirketlerinin 1 yıldan uzun vadeli Türk lirası ve yabancı para cinsinden mevduat dışı yükümlülükleri için tesis edilen zorunlu karşılıklara Türk lirası cinsinden faiz-telafi ödemesi…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-kredi-buyume-sinirlarini-yukseltti/4121423",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T20:09:09+00:00",
-   "url": "/haber/tcmb-kredi-buyume-sinirlarini-yukseltti-a52b8358/"
-  },
-  {
    "id": "02dacccc",
    "title": "Bakan Kurum: İklim krizine karşı güvende değiliz",
    "summary": "Bakan Kurum, COP31'de yaptığı konuşmada hiçbir ülkenin ne kadar güçlü olursa olsun iklim krizinin karşısında duramayacağı mesajını verdi.",
@@ -385,17 +396,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T18:50:00+00:00",
    "url": "/haber/huawei-nova-18-e-68-mp-kare-selfie-kamerasi-efe646c9/"
-  },
-  {
-   "id": "3016ba4b",
-   "title": "\"Kör Gece\" filmi 14. Boğaziçi Film Festivali'nde seyirciyle buluştu",
-   "summary": "Boğaziçi Kültür Sanat Vakfı tarafından Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğünün desteğiyle düzenlenen 14. Boğaziçi Film Festivali'nde, yönetmenliğini Reis Çelik'in üstlendiği \"Kör Gece\" filmi gösterildi.",
-   "link": "https://www.aa.com.tr/tr/kultur/kor-gece-filmi-14-bogazici-film-festivalinde-seyirciyle-bulustu/4121361",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T18:45:47+00:00",
-   "url": "/haber/kor-gece-filmi-14-bogazici-film-festivali-nde-seyirciyle-bulustu-3016ba4b/"
   },
   {
    "id": "80c288b1",
