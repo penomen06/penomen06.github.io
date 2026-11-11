@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:31:00.942156+00:00",
+ "updated": "2026-11-11T22:01:01.879758+00:00",
  "items": [
   {
    "id": "44bfe53f",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-11T21:30:00+00:00",
+   "date": "2026-11-11T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-44bfe53f/"
+  },
+  {
+   "id": "30b14bb9",
+   "title": "İspanya'da 14 yıl sonra ilk genel grev: Madrid ve Barcelona'da 200 bine yakın kişi sokağa çıktı",
+   "summary": "İspanya'da işçiler 14 yıl sonra ilk kez genel greve çıktı. Ülkenin en büyük iki sendikasının desteklediği grevin nedeni konut krizi ve hayat pahalılığı. Madrid ve Barcelona'da toplam 200 bine yakın kişi eylem yaptı.",
+   "link": "https://www.bbc.com/turkce/articles/cmvg2rvpg774o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2af8/live/9dae83b0-de17-11f1-9f86-23852740988a.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-11T21:40:37+00:00",
+   "url": "/haber/ispanya-da-14-yil-sonra-ilk-genel-grev-madrid-ve-barcelona-da-200-bine-30b14bb9/"
   },
   {
    "id": "15143746",
@@ -44,6 +55,28 @@
    "category": "teknoloji",
    "date": "2026-11-11T21:20:00+00:00",
    "url": "/haber/quantumscape-tamamen-kati-hal-pilini-tanitti-5-dakikada-yuzde-80-sarj-4cfbc567/"
+  },
+  {
+   "id": "fd827a24",
+   "title": "Azerbaycan Cumhurbaşkanı Yardımcısı Alekberov'dan Azerbaycan Pavilyonu'na ziyaret",
+   "summary": "Azerbaycan Cumhurbaşkanı Yardımcısı Anar Alekberov ile Azerbaycan Cumhurbaşkanı İlham Aliyev'in kızı Leyla Aliyeva, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda Azerbaycan…",
+   "link": "https://www.aa.com.tr/tr/gundem/azerbaycan-cumhurbaskani-yardimcisi-alekberovdan-azerbaycan-pavilyonuna-ziyaret/4121482",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T21:10:34+00:00",
+   "url": "/haber/azerbaycan-cumhurbaskani-yardimcisi-alekberov-dan-azerbaycan-pavilyonu-fd827a24/"
+  },
+  {
+   "id": "7f5dca1a",
+   "title": "BM Genel Sekreteri Guterres: Doğal afetlerde ve iklim değişikliklerinde erken uyarı hayat kurtarır",
+   "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"Doğal afetlerde ve iklim değişikliklerinde erken uyarı hayat kurtarır. Kapsamlı erken uyarı sistemlerine sahip ülkelerde afet kaynaklı ölüm oranları neredeyse…",
+   "link": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreteri-guterres-dogal-afetlerde-ve-iklim-degisikliklerinde-erken-uyari-hayat-kurtarir/4121480",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T21:10:26+00:00",
+   "url": "/haber/bm-genel-sekreteri-guterres-dogal-afetlerde-ve-iklim-degisikliklerinde-7f5dca1a/"
   },
   {
    "id": "2de4f677",
@@ -310,17 +343,6 @@
    "url": "/haber/bakan-kurum-kaderlerimiz-birbirine-baglidir-b0e918ac/"
   },
   {
-   "id": "4110443d",
-   "title": "Türk Yıldızları, Girne'de gösteri uçuşu yapacak",
-   "summary": "Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları, Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) 43. kuruluş yıl dönümü kutlamalarında Girne'de gösteri uçuşu yapacak.",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-yildizlari-girnede-gosteri-ucusu-yapacak/4121374",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T19:08:53+00:00",
-   "url": "/haber/turk-yildizlari-girne-de-gosteri-ucusu-yapacak-4110443d/"
-  },
-  {
    "id": "f57e8a0a",
    "title": "Yerin 1.5 kilometre altında dev deney başlıyor: Evrenin sırları nötrinolarda aranacak",
    "summary": "ABD'de yerin 1,5 kilometre altında inşa edilmeye başlanan dev nötrino deneyi, evrenin oluşumuna ve maddenin antimaddeye neden baskın olduğuna dair önemli sorulara yanıt arayacak.",
@@ -541,6 +563,17 @@
    "url": "/haber/turk-telekom-un-cop31-standini-gezdik-6c87d54a/"
   },
   {
+   "id": "a05d9806",
+   "title": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Herkes İçin Erken Uyarı Sistemleri\" Oturumu'nda konuştu",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Türkiye'nin meteoroloji, afet yönetimi ve erken uyarı alanlarındaki tecrübesini eğitim, teknik işbirliği ve veri paylaşımı yoluyla kırılgan ülkelerle paylaşmaya hazır olduğunu…",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-herkes-icin-erken-uyari-sistemleri-oturumunda-konustu/4121147",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T16:27:54+00:00",
+   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-herkes-icin-erken-uyari-sistemleri-otu-a05d9806/"
+  },
+  {
    "id": "4016630d",
    "title": "MSI'ın RTX Spark'lı mini PC'si 1,3 litreye sığdı",
    "summary": "MSI EdgeMesa N AI+, Nvidia RTX Spark kullanan ilk MSI mini bilgisayarı olarak ABD'de satışa çıktı. 1,3 litrelik kasada 6.144 CUDA çekirdekli GPU bulunuyor.",
@@ -583,28 +616,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T15:50:00+00:00",
    "url": "/haber/24-gb-lik-rtx-5080-bellek-krizine-takildi-3629d774/"
-  },
-  {
-   "id": "28bb3e4b",
-   "title": "İçişleri Bakanı Çiftçi, COP31 Kriz Merkezi'ni ziyaret etti",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında Antalya'da oluşturulan COP31 Kriz Merkezi'ni ziyaret etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-cop31-kriz-merkezini-ziyaret-etti/4121072",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T15:48:35+00:00",
-   "url": "/haber/icisleri-bakani-ciftci-cop31-kriz-merkezi-ni-ziyaret-etti-28bb3e4b/"
-  },
-  {
-   "id": "30b14bb9",
-   "title": "İspanya'da konut ve ücret talebiyle 14 yıl sonra ilk genel grev",
-   "summary": "İspanya'da işçiler 14 yıl sonra ilk kez genel greve çıktı. Ülkenin en büyük iki sendikasının desteklediği grevin nedeni konut krizi ve hayat pahalılığı. İşçiler konut fiyatları ve kiraların düşmesini ve maaşların…",
-   "link": "https://www.bbc.com/turkce/articles/cmvg2rvpg774o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7042/live/7eacbad0-ddbe-11f1-a50f-85eebf9e50e5.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-11T15:24:16+00:00",
-   "url": "/haber/ispanya-da-konut-ve-ucret-talebiyle-14-yil-sonra-ilk-genel-grev-30b14bb9/"
   },
   {
    "id": "cae6c230",
@@ -715,17 +726,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T14:14:37+00:00",
    "url": "/haber/mutfakta-sadece-havayi-degil-modunuzu-da-degistiren-teknolojiler-renk-203dd530/"
-  },
-  {
-   "id": "9143df4c",
-   "title": "Yüksek Düzeyli Bölüm'de iklim kriziyle mücadelede hız ve finansman vurgusu",
-   "summary": "COP31 Liderler Zirvesi'nin Yüksek Düzeyli Bölümü'nde, iklim kriziyle mücadelede hızın önemi, temiz enerji dönüşümü, iklim finansmanının artırılması ve küresel işbirliğinin güçlendirilmesi konuları ele alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/yuksek-duzeyli-bolumde-iklim-kriziyle-mucadelede-hiz-ve-finansman-vurgusu/4120820",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T14:12:28+00:00",
-   "url": "/haber/yuksek-duzeyli-bolum-de-iklim-kriziyle-mucadelede-hiz-ve-finansman-vur-9143df4c/"
   },
   {
    "id": "9171506c",
