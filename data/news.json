@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:30:53.359457+00:00",
+ "updated": "2026-11-11T02:01:03.227704+00:00",
  "items": [
   {
    "id": "f408b328",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-11T01:30:00+00:00",
+   "date": "2026-11-11T02:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f408b328/"
+  },
+  {
+   "id": "24dd6876",
+   "title": "Havacılık yakıtında çevreci anlaşma",
+   "summary": "Antalya'daki COP31 zirvesinde dünyanın havacılık alanında önde gelen şirketlerinden BOEİNG, Türk Hava Yolları ve İTÜ ile birlikte anlaşmaya imza attı.",
+   "link": "https://www.ntv.com.tr/turkiye/havacilik-yakitinda-cevreci-anlasma-1750340",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-11043549-142607.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-11T01:47:08+00:00",
+   "url": "/haber/havacilik-yakitinda-cevreci-anlasma-24dd6876/"
   },
   {
    "id": "d0e33883",
@@ -605,17 +616,6 @@
    "category": "teknoloji",
    "date": "2026-11-10T16:38:00+00:00",
    "url": "/haber/iphone-20-icin-sizan-10-buyuk-degisiklik-3f689ef1/"
-  },
-  {
-   "id": "71165ffa",
-   "title": "Ahmet Şık'ın eşi Yonca Şık ifade verdi",
-   "summary": "Türkiye İşçi Partisi (TİP) İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık \"siyasal veya askeri casusluk\" soruşturması kapsamında ifade verdi.",
-   "link": "https://www.ntv.com.tr/turkiye/ahmet-sikin-esi-yonca-sik-ifade-verdi-1750284",
-   "image": "https://images.ntv.com.tr/images/ahmetyoncaşık-959546(3).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T16:34:57+00:00",
-   "url": "/haber/ahmet-sik-in-esi-yonca-sik-ifade-verdi-71165ffa/"
   },
   {
    "id": "ba16fabd",
