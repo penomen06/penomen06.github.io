@@ -1,6 +1,171 @@
 {
- "updated": "2026-11-11T11:30:58.887352+00:00",
+ "updated": "2026-11-11T12:01:07.221225+00:00",
  "items": [
+  {
+   "id": "5aeaaa52",
+   "title": "Google, Türkiye'deki reklam ek ücretini düşürüyor: 2027'de başlayacak",
+   "summary": "Google, Türkiye'de yayınlanan reklamlar için uyguladığı Yasal İşletim Maliyeti oranını 1 Ocak 2027 itibarıyla düşürecek. Düzenleme Google Ads ve YouTube reklamlarını kapsıyor.",
+   "link": "https://www.donanimhaber.com/google-turkiye-deki-reklam-ek-ucretini-dusuruyor--212769",
+   "image": "https://www.donanimhaber.com/images/images/haber/212769/1200x675google-turkiye-deki-reklam-ek-ucretini-dusuruyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-11T11:58:43+00:00",
+   "url": "/haber/google-turkiye-deki-reklam-ek-ucretini-dusuruyor-2027-de-baslayacak-5aeaaa52/"
+  },
+  {
+   "id": "07ce9235",
+   "title": "CHP kurultay davası 18 Kasım'a ertelendi",
+   "summary": "CHP’nin 38’inci Olağan Kurultayı’nda usulsüzlük yapıldığı suçlamasıyla aralarında Ekrem İmamoğlu’nun da bulunduğu 12 sanığın yargılandığı dava, 18 Kasım'a ertelendi.",
+   "link": "https://www.ntv.com.tr/turkiye/chp-kurultay-davasi-18-kasima-ertelendi-1750435",
+   "image": "https://images.ntv.com.tr/images/chpKurultay-398799.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-11T11:58:04+00:00",
+   "url": "/haber/chp-kurultay-davasi-18-kasim-a-ertelendi-07ce9235/"
+  },
+  {
+   "id": "60ba10c2",
+   "title": "Bu gece başlıyor, 8 saat sürecek. İstanbul'un 21 ilçesinde elektrik kesintisi yaşanacak",
+   "summary": "İstanbul Avrupa Yakası elektrik dağıtımını sağlayan Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), şebeke iyileştirme, trafo bakımı ve altyapı yenileme çalışmaları kapsamında dev bir planlı kesinti programı duyurdu. Kent…",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-bu-gece-basliyor-8-saat-surecek-istanbulun-21-ilcesinde-elektrik-kesintisi-yasanacak-1750438",
+   "image": "https://images.ntv.com.tr/images/iStock-2188160854-215004.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-11T11:56:01+00:00",
+   "url": "/haber/bu-gece-basliyor-8-saat-surecek-istanbul-un-21-ilcesinde-elektrik-kesi-60ba10c2/"
+  },
+  {
+   "id": "abda460e",
+   "title": "Hollanda'da 6 parti, İsrailli şirketle ortak silah üretimi planına karşı çıktı",
+   "summary": "Hollanda'da 6 parti, Hollandalı savunma şirketi Artillerie Inrichtingen Armaments'ın (AIA), İsrail ordusunun ana silah tedarikçisi Israel Weapon Industries (IWI) ile ortak silah üretimi planına karşı belediyeye soru…",
+   "link": "https://www.aa.com.tr/tr/dunya/hollandada-6-parti-israilli-sirketle-ortak-silah-uretimi-planina-karsi-cikti/4120598",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T11:51:48+00:00",
+   "url": "/haber/hollanda-da-6-parti-israilli-sirketle-ortak-silah-uretimi-planina-kars-abda460e/"
+  },
+  {
+   "id": "9faac847",
+   "title": "Dünya Bankası IFC aracılığıyla finansmanının yaklaşık yüzde 35'ini yerel para biriminde sağlıyor",
+   "summary": "Dünya Bankası Grubu Başkanı Ajay Banga, \"IFC aracılığıyla finansmanımızın yaklaşık yüzde 35'ini yerel para biriminde sağlıyoruz. Aslında 40 ülkede daha yerel para birimi piyasaları geliştirmek için IMF ile birlikte…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-ifc-araciligiyla-finansmaninin-yaklasik-yuzde-35ini-yerel-para-biriminde-sagliyor/4120597",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T11:50:24+00:00",
+   "url": "/haber/dunya-bankasi-ifc-araciligiyla-finansmaninin-yaklasik-yuzde-35-ini-yer-9faac847/"
+  },
+  {
+   "id": "f6ffc8f2",
+   "title": "HMD 101 4G: Tuşlu telefona yapay zeka asistanı",
+   "summary": "HMD'nin tuşlu telefonu HMD 101 4G, resmi tanıtımdan önce ortaya çıktı. Yapay zekâ asistanı ve bulut uygulamaları desteğiyle gelecek model 7 güne kadar pil ömrü vaat ediyor.",
+   "link": "https://shiftdelete.net/hmd-101-4g-ozellikleri-sizdirildi",
+   "image": "https://butterfly.shiftdelete.net/static/sdnweb-haberbotu/hb/32a5b3bf68983dfe451b7dbf860dcb0c52416a42.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-11T11:50:06+00:00",
+   "url": "/haber/hmd-101-4g-tuslu-telefona-yapay-zeka-asistani-f6ffc8f2/"
+  },
+  {
+   "id": "0036f8d5",
+   "title": "Cumhurbaşkanı Erdoğan'dan 11 Kasım Milli Ağaçlandırma Günü paylaşımı",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"11 Kasım Milli Ağaçlandırma Günü'müzün ülkemiz, milletimiz ve çevremiz için hayırlara vesile olmasını diliyorum.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-11-kasim-milli-agaclandirma-gunu-paylasimi/4120594",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T11:49:11+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-dan-11-kasim-milli-agaclandirma-gunu-paylasimi-0036f8d5/"
+  },
+  {
+   "id": "9c8bdf65",
+   "title": "İstanbul simidinin coğrafi işaretli ilk üreticisi Merkezefendi Tarihi Fırını oldu",
+   "summary": "Simidin coğrafi işaret belgesinin ilk kullanım hakkı, Merkezefendi Tarihi Fırını adına Zeytinburnu Belediye Başkanı Ömer Arısoy'a takdim edildi.",
+   "link": "https://www.aa.com.tr/tr/kultur/istanbul-simidinin-cografi-isaretli-ilk-ureticisi-merkezefendi-tarihi-firini-oldu/4120586",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T11:43:09+00:00",
+   "url": "/haber/istanbul-simidinin-cografi-isaretli-ilk-ureticisi-merkezefendi-tarihi-9c8bdf65/"
+  },
+  {
+   "id": "87d93f27",
+   "title": "Emine Erdoğan'dan 11 Kasım Milli Ağaçlandırma Günü paylaşımı",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, 11 Kasım Milli Ağaçlandırma Günü'nü kutladı.",
+   "link": "https://www.ntv.com.tr/turkiye/emine-erdogandan-11-kasim-milli-agaclandirma-gunu-paylasimi-1750434",
+   "image": "https://images.ntv.com.tr/images/emine-erdoğan-882340.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-11T11:40:09+00:00",
+   "url": "/haber/emine-erdogan-dan-11-kasim-milli-agaclandirma-gunu-paylasimi-87d93f27/"
+  },
+  {
+   "id": "30b14bb9",
+   "title": "İspanya'da 14 yıl sonra ilk genel grev",
+   "summary": "İspanya'da işçiler 14 yıl sonra ilk kez genel greve çıktı. Ülkenin en büyük iki sendikasının desteklediği grevin nedeni konut krizi ve hayat pahalılığı. İşçiler konut fiyatları ve kiraların düşmesini ve maaşların…",
+   "link": "https://www.bbc.com/turkce/articles/cmvg2rvpg774o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7042/live/7eacbad0-ddbe-11f1-a50f-85eebf9e50e5.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-11T11:40:00+00:00",
+   "url": "/haber/ispanya-da-14-yil-sonra-ilk-genel-grev-30b14bb9/"
+  },
+  {
+   "id": "074710fd",
+   "title": "HyperOS 4 alamayacak Xiaomi ve Poco modelleri belli oldu",
+   "summary": "Xiaomi, yeni HyperOS 4 güncellemesini desteklenen modellere dağıtmaya başladı. Ancak Xiaomi 12T ve Redmi Note 12 gibi bazı popüler telefonlar yeni sürümü alamayacak.",
+   "link": "https://www.donanimhaber.com/hyperos-4-alamayacak-xiaomi-ve-poco-modelleri-belli-oldu--212756",
+   "image": "https://www.donanimhaber.com/images/images/haber/212756/1200x675hyperos-4-alamayacak-xiaomi-ve-poco-modelleri-belli-oldu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-11T11:37:00+00:00",
+   "url": "/haber/hyperos-4-alamayacak-xiaomi-ve-poco-modelleri-belli-oldu-074710fd/"
+  },
+  {
+   "id": "d6536e78",
+   "title": "Bakan Göktaş duyurdu. Kreşler için ilk kez teşvik paketi geliyor",
+   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, kreşlerin yaygınlaşması için ilk kez bir teşvik paketini devreye alacaklarını açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-goktas-duyurdu-kresler-icin-ilk-kez-tesvik-paketi-geliyor-1750432",
+   "image": "https://images.ntv.com.tr/images/AA-20261111-43037317-43037312-AILE_VE_SOSYAL_HIZMETLER_BAKANLIGININ_2027_YILI_BUTCESI_TBMM_PLAN_VE_BUTCE_KOMISYONUNDA-409809.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-11T11:34:32+00:00",
+   "url": "/haber/bakan-goktas-duyurdu-kresler-icin-ilk-kez-tesvik-paketi-geliyor-d6536e78/"
+  },
+  {
+   "id": "beff6e43",
+   "title": "Emine Erdoğan'dan 11 Kasım Milli Ağaçlandırma Günü paylaşımı",
+   "summary": "Emine Erdoğan, 11 Kasım Milli Ağaçlandırma Günü'nü kutladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-11-kasim-milli-agaclandirma-gunu-paylasimi/4120547",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T11:31:51+00:00",
+   "url": "/haber/emine-erdogan-dan-11-kasim-milli-agaclandirma-gunu-paylasimi-beff6e43/"
+  },
+  {
+   "id": "98e38096",
+   "title": "Honor'dan dev Kasım indirimleri",
+   "summary": "Honor, Türkiye'de Kasım Fırsatları kampanyasını başlattı. Magic V6'da 8.000 TL takas desteği, telefon ve tabletlerde indirim, kupon ve hediye ürünler sunuluyor.",
+   "link": "https://shiftdelete.net/honor-kasim-firsatlari",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/honor-kasim-firsatlari-1111.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-11T11:31:00+00:00",
+   "url": "/haber/honor-dan-dev-kasim-indirimleri-98e38096/"
+  },
+  {
+   "id": "62ef6611",
+   "title": "Fon soruşturması: Eski Takasbank genel müdürü, Adil Katılım Bankası ortağı tutuklandı",
+   "summary": "Fon soruşturmalarıyla ilgili 11 Kasım'da OMG Capital Advisors Yönetim Kurulu Başkanı Ömer Murat Gülkan, eski Takasbank Genel Müdürü Yunus Arıncı ve Adil Katılım Bankası ortaklarından Ali Paslı tutuklandı. Dört kişi…",
+   "link": "https://www.bbc.com/turkce/articles/cr62y2xq09ppo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da3e/live/c9a37330-dc51-11f1-a869-656dc96bd12d.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-11T11:30:56+00:00",
+   "url": "/haber/fon-sorusturmasi-eski-takasbank-genel-muduru-adil-katilim-bankasi-orta-62ef6611/"
+  },
   {
    "id": "4d65eab9",
    "title": "İsrail'in Gazze'deki sivil katliamını gözler önüne seren NAZA, 2 ayda 1,5 milyon izleyiciyi aştı",
@@ -167,6 +332,17 @@
    "url": "/haber/n11-de-merakla-beklenen-11-11-indirimleri-basladi-iste-indirimli-urunl-101e30ff/"
   },
   {
+   "id": "b6a8384e",
+   "title": "İtalya'da 100'den fazla okulda bomba alarmı verildi",
+   "summary": "İtalya'da 100'den fazla okula gönderilen bomba tehdidi içeren anonim bir e-postanın, endişeye ve okulların tahliye edilmesine neden olduğu bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/italyada-100den-fazla-okulda-bomba-alarmi-verildi/4120149",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T10:53:02+00:00",
+   "url": "/haber/italya-da-100-den-fazla-okulda-bomba-alarmi-verildi-b6a8384e/"
+  },
+  {
    "id": "7b031a0b",
    "title": "Land Rover Kasım 2026 Fiyat Listesi ve Güncel Kampanyalar",
    "summary": "Land Rover Kasım 2026 sıfır araç fiyatları ve kampanyalarını inceliyoruz. Range Rover, Defender ve Discovery güncel fiyatları, kampanyaları ve indirimleri Webtekno'da!",
@@ -222,28 +398,6 @@
    "url": "/haber/gullu-nun-olumunde-yalan-taniklik-davasi-sultan-nur-ulu-tugyan-beni-te-fc0e069b/"
   },
   {
-   "id": "07145bd1",
-   "title": "Ukrayna Devlet Başkanı Zelenskiy, füze savunma sistemi \"Freyja\"nın geliştirilmesinin önemli olduğunu belirtti",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ülkesinin Avrupa ülkeleriyle geliştireceği \"Freyja\" füze savunma sistemi projesinin önemli olduğunu söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-devlet-baskani-zelenskiy-fuze-savunma-sistemi-freyjanin-gelistirilmesinin-onemli-oldugunu-belirtti/4120125",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T10:41:50+00:00",
-   "url": "/haber/ukrayna-devlet-baskani-zelenskiy-fuze-savunma-sistemi-freyja-nin-gelis-07145bd1/"
-  },
-  {
-   "id": "941ed4fb",
-   "title": "THY, Çin'deki uçuş ağını Çengdu ile güçlendiriyor",
-   "summary": "Türk Hava Yolları (THY), Çin'in batısındaki en önemli ekonomik, kültürel ve teknoloji merkezlerinden Çengdu'ya tarifeli seferlerini başlattı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/thy-cindeki-ucus-agini-cengdu-ile-guclendiriyor/4120120",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T10:39:49+00:00",
-   "url": "/haber/thy-cin-deki-ucus-agini-cengdu-ile-guclendiriyor-941ed4fb/"
-  },
-  {
    "id": "6d369927",
    "title": "COP31'de liderler zirvesi başladı, BM Genel Sekreteri fosil yakıt uyarısı yaptı",
    "summary": "Türkiye ve Avustralya eş başkanlığında Antalya'da düzenlenen düzenlenen Birleşmiş Milletler iklim konferansı COP31'de liderler zirvesi başladı. Zirvede ilk konuşmayı yapan BM Genel Sekreteri Antonio Guterres, iklim…",
@@ -253,17 +407,6 @@
    "category": "gundem",
    "date": "2026-11-11T10:35:25+00:00",
    "url": "/haber/cop31-de-liderler-zirvesi-basladi-bm-genel-sekreteri-fosil-yakit-uyari-6d369927/"
-  },
-  {
-   "id": "d4eeae1d",
-   "title": "COP31 kapsamında \"5 Yönetmen 5 Yeşil Film\" projesi hayata geçirildi",
-   "summary": "Türk sinemasında sürdürülebilir yapım anlayışını yaygınlaştırmayı hedefleyen proje kapsamında çekilen beş kısa film, 17 Kasım'da COP31 Amfi Tiyatro'da özel gösterimle izleyiciyle buluşacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/cop31-kapsaminda-5-yonetmen-5-yesil-film-projesi-hayata-gecirildi/4120110",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T10:35:11+00:00",
-   "url": "/haber/cop31-kapsaminda-5-yonetmen-5-yesil-film-projesi-hayata-gecirildi-d4eeae1d/"
   },
   {
    "id": "5d775af7",
@@ -277,17 +420,6 @@
    "url": "/haber/sony-playstation-plus-in-pc-uygulamasini-kapatiyor-5d775af7/"
   },
   {
-   "id": "e38a1ccd",
-   "title": "İstanbul'daki 2027 İspanya Süper Kupası'nın biletleri satışta",
-   "summary": "İspanyol futbolunun dört büyük kulübünü İstanbul'da bir araya getiren 2027 Türk Hava Yolları İspanya Süper Kupası'nda maç biletlerinin satışı başladı.",
-   "link": "https://www.aa.com.tr/tr/spor/istanbuldaki-2027-ispanya-super-kupasinin-biletleri-satista/4120098",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T10:31:08+00:00",
-   "url": "/haber/istanbul-daki-2027-ispanya-super-kupasi-nin-biletleri-satista-e38a1ccd/"
-  },
-  {
    "id": "3060a0a0",
    "title": "Ford, Mustang Cobra'yı 2027 için geri getiriyor",
    "summary": "Ford Racing, yeni Ford Mustang Cobra'nın 2027'de geleceğini duyurdu. Yaklaşık 600 beygirlik atmosferik V8 ve manuel şanzıman iddiası öne çıkarken, model büyük ihtimalle sıfırdan geliştirilmiş olmayacak.",
@@ -299,6 +431,17 @@
    "url": "/haber/ford-mustang-cobra-yi-2027-icin-geri-getiriyor-3060a0a0/"
   },
   {
+   "id": "996b4ecb",
+   "title": "VPN'li Opera 100 milyon barajını aştı",
+   "summary": "Opera'nın PC tarayıcıları Ekim 2026 itibarıyla aylık 100 milyon aktif kullanıcıya ulaştı. Şirket son bir yılda yüzde 16 büyüyerek 14 milyon yeni kullanıcı kazandı.",
+   "link": "https://shiftdelete.net/opera-100-milyon-pc-kullanicisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/opera-100-milyon-pc-kullanici-1111.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-11T10:20:00+00:00",
+   "url": "/haber/vpn-li-opera-100-milyon-barajini-asti-996b4ecb/"
+  },
+  {
    "id": "730151ab",
    "title": "Samsung'un ekranı uzayan telefonunda pil sorunu",
    "summary": "Samsung genişleyen ekran özelliğine sahip bir telefon üzerinde çalışıyor. Ekran 16:9'dan 21:9'a uzayabiliyor, ama mekanizma pil alanından ciddi bir pay alıyor.",
@@ -308,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T10:20:00+00:00",
    "url": "/haber/samsung-un-ekrani-uzayan-telefonunda-pil-sorunu-730151ab/"
-  },
-  {
-   "id": "51e0ebc2",
-   "title": "\"Drone Kalkanı\" Afrika'da vitrine çıktı",
-   "summary": "Muharebe sahasının güncel tehditlerinden dronlara karşı Türk savunma sanayisi bünyesinde geliştirilen \"Drone Kalkanı\" Afrika'da ilk kez karar vericilere tanıtıldı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/drone-kalkani-afrikada-vitrine-cikti/4120072",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T10:17:50+00:00",
-   "url": "/haber/drone-kalkani-afrika-da-vitrine-cikti-51e0ebc2/"
   },
   {
    "id": "0e69fe49",
@@ -684,17 +816,6 @@
    "url": "/haber/mert-hakan-yandas-in-yargilandigi-davada-yeni-gelisme-2a939525/"
   },
   {
-   "id": "1f1b0ecd",
-   "title": "BDDK Başkanı Şahap Kavcıoğlu görevden affını istedi",
-   "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu, Cumhurbaşkanı Recep Tayyip Erdoğan'dan görevden affını istediğini açıkladı.",
-   "link": "https://www.ntv.com.tr/turkiye/bddk-baskani-sahap-kavcioglu-gorevden-affini-istedi-1750401",
-   "image": "https://images.ntv.com.tr/images/kavcıoğlu-343468.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T08:43:37+00:00",
-   "url": "/haber/bddk-baskani-sahap-kavcioglu-gorevden-affini-istedi-1f1b0ecd/"
-  },
-  {
    "id": "3b5d3475",
    "title": "Apple resmi destek forumu kalıcı olarak kapatılıyor",
    "summary": "Apple, uzun süredir faaliyette olan Apple Support Community forumunun 20 Kasım Cuma günü kalıcı olarak kapatılacağını duyurdu. Kullanıcılar, Apple Destek sitesinden sorunlarına çözüm arayacak.",
@@ -781,17 +902,6 @@
    "category": "gundem",
    "date": "2026-11-11T08:33:34+00:00",
    "url": "/haber/fon-krizi-borsayi-ne-boyutta-etkiledi-uzmanlar-ve-yatirimcilar-ne-diyo-3a50fc29/"
-  },
-  {
-   "id": "e81791ab",
-   "title": "Cumhurbaşkanı Erdoğan: Yeşil Kalkınma yolculuğumuzu kararlılıkla sürdürüyoruz",
-   "summary": "Cumhurbaşkanı Erdoğan, \"Kalkınma hedeflerimizi ve enerji güvenliğimizi planlarken, çevresel faktörleri en ince ayrıntısına kadar gözetiyoruz. Yeşil Kalkınma yolculuğumuzu kararlılıkla sürdürüyoruz.” dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yesil-kalkinma-yolculugumuzu-kararlilikla-surduruyoruz/4119862",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T08:28:29+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-yesil-kalkinma-yolculugumuzu-kararlilikla-surdur-e81791ab/"
   },
   {
    "id": "7d9c23db",
@@ -882,28 +992,6 @@
    "url": "/haber/dunyada-130-kiside-rastlanan-hastaligin-tedavisi-bulunmus-olabilir-5112a3e2/"
   },
   {
-   "id": "6f1858f0",
-   "title": "Redmi 12.000 mAh bataryalı telefon hazırlıyor",
-   "summary": "Redmi 12.000 mAh kapasiteli bir batarya için seri üretim planlamasını tamamladı. Sızıntıya göre şirket bununla yetinmeyip 14.000 mAh'ye kadar çıkan hücreleri de değerlendiriyor.",
-   "link": "https://shiftdelete.net/redmi-12000-mah-batarya-seri-uretim",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/redmi-k100-ultra-kapak-1011.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-11T07:50:00+00:00",
-   "url": "/haber/redmi-12-000-mah-bataryali-telefon-hazirliyor-6f1858f0/"
-  },
-  {
-   "id": "abe8a1ae",
-   "title": "Türk iş insanı Fildişi Sahili'nde kaçırıldı mı? Arabasını satışa çıkardılar, aylardır haber yok",
-   "summary": "Fildişi Sahili'nde kaçırıldığı belirtilen Adanalı iş insanından beş aydır haber alınamıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-turk-is-insani-fildisi-sahilinde-kacirildi-mi-arabasini-satisa-cikardilar-aylardir-haber-yok-1750394",
-   "image": "https://images.ntv.com.tr/images/kayıp-iş-insanı-fildişi-sahili-767339.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T07:43:15+00:00",
-   "url": "/haber/turk-is-insani-fildisi-sahili-nde-kacirildi-mi-arabasini-satisa-cikard-abe8a1ae/"
-  },
-  {
    "id": "e2fcaaa1",
    "title": "AMD Zen 6 mimarisini tanıttı: Tek işlemcide 256 çekirdek ve tüm detaylar",
    "summary": "AMD, yeni Zen 6 mimarisini tanıttı. Yeni nesil EPYC işlemciler, tek pakette 256 çekirdeğe kadar destek sunarken yapay zeka ve sunucu iş yüklerinde önemli performans artışları vadediyor.",
@@ -926,28 +1014,6 @@
    "url": "/haber/habas-ta-gecmiste-yasanan-is-kazalari-hakkinda-ne-biliyoruz-ba16fabd/"
   },
   {
-   "id": "e731f99d",
-   "title": "Apple Support Community 20 Kasım'da kapanıyor",
-   "summary": "Apple Support Community 20 Kasım 2026'da kalıcı olarak kapanacak. Forum yeni gönderi almayı bıraktı, ama açılan mesajda Apple'ın farklı bir ad kullanması ilginç.",
-   "link": "https://shiftdelete.net/apple-support-community-kapaniyor",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/e6177ef4fa47a6ee9cc0e1e34624b23f33a93a1d.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-11T07:20:00+00:00",
-   "url": "/haber/apple-support-community-20-kasim-da-kapaniyor-e731f99d/"
-  },
-  {
-   "id": "ea78098a",
-   "title": "Yandex, veri merkezine yapılan saldırılar yüzünden kullanıcı verilerini kaybetti",
-   "summary": "Ukrayna'nın Rusya'daki veri merkezlerini hedef almasının yankıları sürüyor. Gelen son haberler, Rus teknoloji devi Yandex'in bazı kullanıcı verilerini kalıcı olarak yitirdiğini gösteriyor.",
-   "link": "https://www.donanimhaber.com/yandex-saldirilar-yuzunden-kullanici-verilerini-kaybetti--212743",
-   "image": "https://www.donanimhaber.com/images/images/haber/212743/1200x675yandex-saldirilar-yuzunden-kullanici-verilerini-kaybetti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-11T07:19:57+00:00",
-   "url": "/haber/yandex-veri-merkezine-yapilan-saldirilar-yuzunden-kullanici-verilerini-ea78098a/"
-  },
-  {
    "id": "77ee8f8a",
    "title": "İspanya'da sendikalar konut krizine çözüm ve maaş artışı talebiyle genel greve gitti",
    "summary": "İspanya'da işçi sendikaları ve kiracılar sendikaları konut krizine çözüm ve maaş artışı talebiyle 24 saatlik genel grev düzenliyor.",
@@ -957,17 +1023,6 @@
    "category": "gundem",
    "date": "2026-11-11T07:17:52+00:00",
    "url": "/haber/ispanya-da-sendikalar-konut-krizine-cozum-ve-maas-artisi-talebiyle-gen-77ee8f8a/"
-  },
-  {
-   "id": "08f65e25",
-   "title": "ABD Savunma Bakanı Hegseth şimdilik azilden kurtuldu",
-   "summary": "ABD Savunma Bakanı Pete Hegseth, görevden alınması için kendisinin de mensup olduğu Cumhuriyetçi Parti'den bir kongre üyesinin başlattığı azil girişiminden şimdilik kurtuldu.",
-   "link": "https://www.bbc.com/turkce/articles/cmj6j6414dy6o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a394/live/656b32b0-dd12-11f1-9019-999bcb7fa2d2.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-11T07:14:45+00:00",
-   "url": "/haber/abd-savunma-bakani-hegseth-simdilik-azilden-kurtuldu-08f65e25/"
   },
   {
    "id": "209405d5",
@@ -992,17 +1047,6 @@
    "url": "/haber/firefox-160-ile-mini-window-ozelligi-kullanima-sunuldu-444ac371/"
   },
   {
-   "id": "3a3d0ba0",
-   "title": "Beşiktaş'ta çalıntı motosikletle cinayet: Çalıların arasında yakalandılar",
-   "summary": "İstanbul Beşiktaş'ta bir eğlence mekanına yönelik silahlı saldırıda bir kişi öldü. Şüpheliler bir koruda çalıların arasında yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/besiktasta-calinti-motosikletle-cinayet-calilarin-arasinda-yakalandilar-1750386",
-   "image": "https://images.ntv.com.tr/images/beşiktaş-silahlı-saldırı-950497.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T07:01:04+00:00",
-   "url": "/haber/besiktas-ta-calinti-motosikletle-cinayet-calilarin-arasinda-yakalandil-3a3d0ba0/"
-  },
-  {
    "id": "4535f8df",
    "title": "Yine söylendi: “Samsung, genişleyebilir yapıda bir telefon geliştiriyor”",
    "summary": "Bugün yeniden gündeme gelen iddialara göre Samsung, genişleyebilir yapıda bir akıllı telefon modeli geliştiriyor. Aktarıldığı kadarıyla ekranı yukarı doğru uzayarak 16:9’dan 21:9 en boy oranına geçiş yapabilecek bu…",
@@ -1014,28 +1058,6 @@
    "url": "/haber/yine-soylendi-samsung-genisleyebilir-yapida-bir-telefon-gelistiriyor-4535f8df/"
   },
   {
-   "id": "055d34ab",
-   "title": "Tesla Çin satışları yüzde 66 düşerek dipte",
-   "summary": "Tesla Çin satışları ekimde bir önceki yılın aynı ayına göre yüzde 66 düşüp 8.817 adede indi. Şirketin Çin'deki toplam toptan satışı ise yüzde 10,3 arttı.",
-   "link": "https://shiftdelete.net/tesla-cin-satislari-yuzde-66-dustu",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/aff9cb09c0426ad0a5e62ad39527996beb4d2d7f.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-11T06:50:00+00:00",
-   "url": "/haber/tesla-cin-satislari-yuzde-66-duserek-dipte-055d34ab/"
-  },
-  {
-   "id": "e6fc0adb",
-   "title": "İklim Sözlüğü NTV'de",
-   "summary": "İklim değişikliği ve küresel ısınma gibi önemli konular, NTV ekranlarında yayınlanacak İklim Sözlüğü'nde ele alınacak.",
-   "link": "https://www.ntv.com.tr/turkiye/iklim-sozlugu-ntvde-1750382",
-   "image": "https://images.ntv.com.tr/images/outlook.office-379812.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T06:48:55+00:00",
-   "url": "/haber/iklim-sozlugu-ntv-de-e6fc0adb/"
-  },
-  {
    "id": "b4ae15dc",
    "title": "Apple, yapay zeka modellerini Mac’lerde lokal olarak çalıştırmaya yönelik bir uygulama hazırlıyor",
    "summary": "Aaron Perris’in ortaya çıkardığı bilgilere göre Apple, açık ağırlıklı yapay zeka modellerini Mac’lerde lokal olarak çalıştırmaya yönelik bir uygulama üzerinde çalışıyor. Şu anda “Harbor” adıyla anılan uygulama, şirketin…",
@@ -1045,17 +1067,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T06:44:44+00:00",
    "url": "/haber/apple-yapay-zeka-modellerini-mac-lerde-lokal-olarak-calistirmaya-yonel-b4ae15dc/"
-  },
-  {
-   "id": "9942642b",
-   "title": "Çinli otomotiv devleri Formula 1'e göz dikti: BYD ve Geely harekete geçti",
-   "summary": "FIA Başkanı Mohammed Ben Sulayem, BYD ve Geely'nin Formula 1'e katılmak için kendileriyle iletişime geçtiğini doğruladı. BYD mevcut bir takımı satın almak yerine kendi ekibini kurmak istiyor.",
-   "link": "https://www.donanimhaber.com/cinli-byd-ve-geely-formula-1-e-girmek-icin-fia-ile-gorusuyor--212742",
-   "image": "https://www.donanimhaber.com/images/images/haber/212742/1200x675cinli-byd-ve-geely-formula-1-e-girmek-icin-fia-ile-gorusuyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-11T06:37:06+00:00",
-   "url": "/haber/cinli-otomotiv-devleri-formula-1-e-goz-dikti-byd-ve-geely-harekete-gec-9942642b/"
   },
   {
    "id": "dcecf34c",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-11-09T09:41:00+00:00",
    "url": "/haber/izmir-de-demir-celik-fabrikasinda-patlama-17-olu-12-yarali-763dea3e/"
-  },
-  {
-   "id": "fb287611",
-   "title": "Yatmadan önce atıştırmalık mı istiyorsunuz? Nedenleri ve yapabileceğiniz şeyler",
-   "summary": "Yatmadan önce tatlılara yönelmenizin biyolojik nedenleri olabilir, ancak bu alışkanlığı değiştirebilirsiniz.",
-   "link": "https://www.bbc.com/turkce/articles/cm62yy51ekgyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd14/live/190b36a0-d9fb-11f1-84c1-dbcae60402d7.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-07T08:10:12+00:00",
-   "url": "/haber/yatmadan-once-atistirmalik-mi-istiyorsunuz-nedenleri-ve-yapabilecegini-fb287611/"
   }
  ]
 }
