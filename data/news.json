@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T22:15:32.002351+00:00",
+ "updated": "2026-11-11T22:30:56.155473+00:00",
  "items": [
   {
    "id": "44bfe53f",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-11T22:00:00+00:00",
+   "date": "2026-11-11T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-44bfe53f/"
   },
   {
@@ -99,6 +99,17 @@
    "category": "gundem",
    "date": "2026-11-11T20:58:33+00:00",
    "url": "/haber/londra-belediye-baskani-khan-iklim-krizinin-yikici-etkilerine-dikkati-d423b5df/"
+  },
+  {
+   "id": "c1b057d5",
+   "title": "Ünlü isimlerden iklim değişikliğiyle mücadele için ortak sorumluluk ve somut adım vurgusu",
+   "summary": "COP31 kapsamındaki Bakanlar Yemeği'ne katılan oyuncular Hatice Şendil, Hande Erçel ve Ekin Koç ile sunucu Saba Tümer, iklim değişikliğiyle mücadelede ortak hareket edilmesi, farkındalığın artırılması ve somut adımlar…",
+   "link": "https://www.aa.com.tr/tr/gundem/unlu-isimlerden-iklim-degisikligiyle-mucadele-icin-ortak-sorumluluk-ve-somut-adim-vurgusu/4121463",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T20:50:44+00:00",
+   "url": "/haber/unlu-isimlerden-iklim-degisikligiyle-mucadele-icin-ortak-sorumluluk-ve-c1b057d5/"
   },
   {
    "id": "0c2d488e",
@@ -286,17 +297,6 @@
    "category": "gundem",
    "date": "2026-11-11T19:42:42+00:00",
    "url": "/haber/ab-son-gunlerdeki-bazi-siber-saldirilar-ab-kurallari-etkin-sekilde-uyg-93dc70c0/"
-  },
-  {
-   "id": "f4e25a58",
-   "title": "Yunanistan'da konut krizine karşı protesto düzenlendi",
-   "summary": "Yunanistan'ın başkenti Atina'da, artan kira fiyatları ve konut krizine karşı protesto gösterisi düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/dunya/yunanistanda-konut-krizine-karsi-protesto-duzenlendi/4121398",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T19:36:48+00:00",
-   "url": "/haber/yunanistan-da-konut-krizine-karsi-protesto-duzenlendi-f4e25a58/"
   },
   {
    "id": "2e6bc3f9",
