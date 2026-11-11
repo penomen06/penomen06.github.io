@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T22:30:56.155473+00:00",
+ "updated": "2026-11-11T23:01:09.761437+00:00",
  "items": [
   {
    "id": "44bfe53f",
@@ -9,8 +9,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-11T22:30:00+00:00",
+   "date": "2026-11-11T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-44bfe53f/"
+  },
+  {
+   "id": "f92f8a8c",
+   "title": "New York'ta çöken binanın enkazı altında kalan en az bir kişi hayatını kaybetti",
+   "summary": "New York'un Brooklyn kentinde çöken binanın enkazı altında kalan en az bir kişinin öldüğü, bazı apartman sakinlerinin yaralandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/new-yorkta-coken-binanin-enkazi-altinda-kalan-en-az-bir-kisi-hayatini-kaybetti/4121532",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T22:37:15+00:00",
+   "url": "/haber/new-york-ta-coken-binanin-enkazi-altinda-kalan-en-az-bir-kisi-hayatini-f92f8a8c/"
+  },
+  {
+   "id": "05491eec",
+   "title": "ABD Temsilciler Meclisi, Savunma Bakanı Hegseth'e yönelik azil girişimini engelledi",
+   "summary": "ABD Temsilciler Meclisi, Savunma Bakanı Pete Hegseth'in görevden alınmasına yönelik azil girişimini engelledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-temsilciler-meclisi-savunma-bakani-hegsethe-yonelik-azil-girisimini-engelledi/4121524",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T22:25:49+00:00",
+   "url": "/haber/abd-temsilciler-meclisi-savunma-bakani-hegseth-e-yonelik-azil-girisimi-05491eec/"
+  },
+  {
+   "id": "76d050f0",
+   "title": "Rusya'nın Washington Büyükelçisi Darçiyev hayatını kaybetti",
+   "summary": "Rusya'nın Washington Büyükelçisi Aleksandr Darçiyev'in 66 yaşında hayatını kaybettiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyanin-washington-buyukelcisi-darciyev-hayatini-kaybetti/4121519",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T22:23:41+00:00",
+   "url": "/haber/rusya-nin-washington-buyukelcisi-darciyev-hayatini-kaybetti-76d050f0/"
+  },
+  {
+   "id": "ee7ef3f5",
+   "title": "ACWA Türkiye'deki yenilenebilir enerji yatırımlarını artırmayı hedefliyor",
+   "summary": "Suudi Arabistanlı küresel enerji şirketi ACWA, Türkiye'nin yenilenebilir enerji hedefleri doğrultusunda güneş enerjisi, elektrik iletim altyapısı ve batarya depolama alanlarındaki yatırımlarını artırmayı hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/acwa-turkiyedeki-yenilenebilir-enerji-yatirimlarini-artirmayi-hedefliyor/4121505",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T22:18:43+00:00",
+   "url": "/haber/acwa-turkiye-deki-yenilenebilir-enerji-yatirimlarini-artirmayi-hedefli-ee7ef3f5/"
   },
   {
    "id": "30b14bb9",
@@ -255,17 +299,6 @@
    "url": "/haber/habas-demir-celikteki-patlamada-can-kaybi-19-a-cikti-11-gozalti-241d7238/"
   },
   {
-   "id": "c320c0cd",
-   "title": "İsrail'de Netanyahu bloğu yeni meclisteki ilk oylamayı muhalefete kaybetti",
-   "summary": "İsrail Başbakanı Binyamin Netanyahu liderliğindeki blok, dün açılan yeni İsrail Meclisi'ndeki ilk oylamayı Gadi Eisenkot öncülüğündeki muhalefete İsrail vatandaşı Filistinlileri temsil eden partilerin desteğiyle…",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-netanyahu-blogu-yeni-meclisteki-ilk-oylamayi-muhalefete-kaybetti/4121415",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T19:51:20+00:00",
-   "url": "/haber/israil-de-netanyahu-blogu-yeni-meclisteki-ilk-oylamayi-muhalefete-kayb-c320c0cd/"
-  },
-  {
    "id": "6951b134",
    "title": "GTA 6 kutusundan disk çıkmadı, poster çıktı",
    "summary": "GTA 6'nın PlayStation 5 kutulu sürümünün açılış videosu yayınlandı. Kutuda disk yok; oyuncuları çift taraflı bir poster ve boş bir disk yuvası karşılıyor.",
@@ -288,28 +321,6 @@
    "url": "/haber/microsoft-windows-11-in-windows-95-ten-kalan-arayuzlerini-degistirmeye-5324e76a/"
   },
   {
-   "id": "93dc70c0",
-   "title": "AB: Son günlerdeki bazı siber saldırılar AB kuralları etkin şekilde uygulansaydı önlenebilirdi",
-   "summary": "Avrupa Birliği (AB) Komisyonunun Teknolojik Egemenlik, Güvenlik ve Demokrasiden Sorumlu Başkan Yardımcısı Henna Virkkunen, \"Son günlerdeki bazı siber saldırılar AB kuralları etkin şekilde uygulansaydı önlenebilirdi.\"…",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-son-gunlerdeki-bazi-siber-saldirilar-ab-kurallari-etkin-sekilde-uygulansaydi-onlenebilirdi/4121403",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T19:42:42+00:00",
-   "url": "/haber/ab-son-gunlerdeki-bazi-siber-saldirilar-ab-kurallari-etkin-sekilde-uyg-93dc70c0/"
-  },
-  {
-   "id": "2e6bc3f9",
-   "title": "Türkiye'ye 2027 hac hazırlıklarındaki çalışmaları dolayısıyla ödül",
-   "summary": "Suudi Arabistan Hac ve Umre Bakanlığınca Cidde kentinde düzenlenen \"2026 Hac Konferansı ve Fuarı\" kapsamında Türkiye, 2027 yılı hac hazırlıklarındaki çalışmaları dolayısıyla ödüle değer görüldü.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiyeye-2027-hac-hazirliklarindaki-calismalari-dolayisiyla-odul/4121390",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T19:32:58+00:00",
-   "url": "/haber/turkiye-ye-2027-hac-hazirliklarindaki-calismalari-dolayisiyla-odul-2e6bc3f9/"
-  },
-  {
    "id": "77258295",
    "title": "Redmi 12.000 mAh bataryalı telefon hazırlığında: Sırada 14.000 mAh var",
    "summary": "Akıllı telefonlarda batarya kapasiteleri hızla yükselirken Redmi'nin yeni hedefi 12.000 mAh oldu. Şirketin ayrıca 14.000 mAh seviyesindeki bataryaları da değerlendirdiği öne sürülüyor.",
@@ -330,17 +341,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T19:20:00+00:00",
    "url": "/haber/elektrik-fiyatinda-zirve-bermuda-turkiye-109-89ac7327/"
-  },
-  {
-   "id": "b0e918ac",
-   "title": "Bakan Kurum: Kaderlerimiz birbirine bağlıdır",
-   "summary": "Bakan Kurum, \"Hiçbir sınır, yükselen denizleri durduramaz. Hiçbir duvar, kuraklığın önüne geçemez. Hiçbir bayrak, fırtınanın yönünü değiştiremez. İklim değişikliği bize çok önemli bir gerçeği hatırlatıyor. Kaderlerimiz…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-kaderlerimiz-birbirine-baglidir/4121376",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T19:09:43+00:00",
-   "url": "/haber/bakan-kurum-kaderlerimiz-birbirine-baglidir-b0e918ac/"
   },
   {
    "id": "f57e8a0a",
