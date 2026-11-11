@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T03:01:04.050958+00:00",
+ "updated": "2026-11-11T03:31:00.525922+00:00",
  "items": [
+  {
+   "id": "4939cb03",
+   "title": "GTA 6 mağaza ön sipariş rekoru kırdı",
+   "summary": "GTA 6 ön sipariş rekoru hem PlayStation hem Xbox mağazalarında kırıldı. Sensor Tower'ın verilerine göre satış 9,69 milyon adede ulaştı, ancak resmî rakam yok.",
+   "link": "https://shiftdelete.net/gta-6-on-siparis-rekoru-playstation-xbox",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/33c8c3ee0acf361b5531f861e2afa0d58b4057e9.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-11T03:30:00+00:00",
+   "url": "/haber/gta-6-magaza-on-siparis-rekoru-kirdi-4939cb03/"
+  },
   {
    "id": "f408b328",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 11 Kasım 2026",
@@ -9,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-11T03:00:00+00:00",
+   "date": "2026-11-11T03:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f408b328/"
+  },
+  {
+   "id": "33c7e29c",
+   "title": "Kış havası, yerini pastırma sıcaklarına bırakıyor",
+   "summary": "Kasım ayının ilk günlerinde etkili olan ve yer yer kar yağışıyla birlikte dondurucu günlerin yaşanmasına yol açan soğuk hava dalgası yurdu terk ediyor. Hava sıcaklıkları bugünden itibaren batı kesimlerden başlayarak…",
+   "link": "https://www.trthaber.com/haber/gundem/kis-havasi-yerini-pastirma-sicaklarina-birakiyor-962870.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2350000/hava-istanbul-2351604.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-11T03:05:00+00:00",
+   "url": "/haber/kis-havasi-yerini-pastirma-sicaklarina-birakiyor-33c7e29c/"
   },
   {
    "id": "b41c745c",
@@ -310,6 +332,17 @@
    "url": "/haber/istanbul-genelinde-bu-yil-12-bin-500-u-askin-su-urunleri-denetimi-gerc-322b4d7e/"
   },
   {
+   "id": "abc7d546",
+   "title": "İngiltere, 16 yaş altı sosyal medya yasasında genişlemeye gidebilir",
+   "summary": "İngiltere'nin 16 yaş altı çocukları korumak amacıyla hazırladığı sosyal medya yasasının kapsamı beklenenden çok daha geniş bir alanı etkileyebilir. Önerilen düzenlemeler; YouTube Kids, Spotify, eBay ve Lego Play gibi…",
+   "link": "https://www.trthaber.com/haber/dunya/ingiltere-16-yas-alti-sosyal-medya-yasasinda-genislemeye-gidebilir-962862.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/sosyal-medya-yasaklari-2497476.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-10T21:00:00+00:00",
+   "url": "/haber/ingiltere-16-yas-alti-sosyal-medya-yasasinda-genislemeye-gidebilir-abc7d546/"
+  },
+  {
    "id": "7b72c844",
    "title": "İtalya hükümeti F-35 programına 7,3 milyar avro ek harcama için parlamentoya başvurdu",
    "summary": "İtalya'da sağ koalisyon hükümeti, F-35 savaş uçağı programı için yaklaşık 7,3 milyar avroluk ek harcama yapmak üzere parlamentoya başvurdu.",
@@ -352,6 +385,17 @@
    "category": "gundem",
    "date": "2026-11-10T20:51:27+00:00",
    "url": "/haber/abd-nin-iran-a-yonelik-olasi-saldirisini-arabulucularin-yuruttugu-dola-d0fbdbb3/"
+  },
+  {
+   "id": "a982193e",
+   "title": "Antalya'da COP31 için üst düzey güvenlik ve trafik önlemi",
+   "summary": "Antalya'da 11-12 Kasım'da düzenlenecek COP31 Dünya Liderler Zirvesi dolayısıyla kent genelinde üst düzey güvenlik ve trafik tedbirleri uygulanacak. Valilik, özellikle 08.00-10.00 saatlerinde ana güzergahlarda…",
+   "link": "https://www.trthaber.com/haber/turkiye/antalyada-cop31-icin-ust-duzey-guvenlik-ve-trafik-onlemi-962860.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/cop31-trafik-guvenlik-tedbiri-aa-2502556.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-10T20:44:00+00:00",
+   "url": "/haber/antalya-da-cop31-icin-ust-duzey-guvenlik-ve-trafik-onlemi-a982193e/"
   },
   {
    "id": "82695a23",
@@ -618,6 +662,17 @@
    "url": "/haber/ucuz-telefonlara-ikinci-el-ram-gelebilir-f9ab8a4d/"
   },
   {
+   "id": "3450db4f",
+   "title": "Türkiye İklim Okulu, COP31 kapsamında uluslararası etkinliklere ev sahipliği yaptı",
+   "summary": "Milli Eğitim Bakanlığınca, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında oluşturulan \"Türkiye İklim Okulu\"nda iklim değişikliğiyle mücadelede eğitimin rolü,…",
+   "link": "https://www.trthaber.com/haber/egitim/turkiye-iklim-okulu-cop31-kapsaminda-uluslararasi-etkinliklere-ev-sahipligi-yapti-962849.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/turkiye-iklim-okulu-aa-2502543.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-10T17:04:00+00:00",
+   "url": "/haber/turkiye-iklim-okulu-cop31-kapsaminda-uluslararasi-etkinliklere-ev-sahi-3450db4f/"
+  },
+  {
    "id": "3f689ef1",
    "title": "iPhone 20 için sızan 10 büyük değişiklik",
    "summary": "iPhone 20, 2027 sonbaharında 20. yıl dönümü modeli olarak gelebilir. Sızıntılar dört kenarı kavisli cam gövdeden özel kamera sensörüne uzanan 10 değişikliği işaret ediyor.",
@@ -726,17 +781,6 @@
    "category": "gundem",
    "date": "2026-11-10T15:21:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-dan-cop31-de-yogun-diplomasi-trafigi-07e31d27/"
-  },
-  {
-   "id": "afa9ecf9",
-   "title": "Artemis II, atmosferde delik açtı, GPS saptı",
-   "summary": "Artemis II görevinin Nisan ayındaki fırlatması, iyonosferde iki büyük delik açtı. Tayvanlı araştırmacılara göre bu delikler GPS sinyallerinde birkaç metrelik sapma yarattı.",
-   "link": "https://shiftdelete.net/artemis-ii-iyonosfer-gps-sinyalleri",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/4e96a7a01f47c062a34e7d2ea498e83a29f21a47.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T15:08:00+00:00",
-   "url": "/haber/artemis-ii-atmosferde-delik-acti-gps-sapti-afa9ecf9/"
   },
   {
    "id": "2b1518d2",
@@ -1157,17 +1201,6 @@
    "url": "/haber/yeni-parti-de-yonetim-yapisi-nasil-degisiyor-29125415/"
   },
   {
-   "id": "dad29d49",
-   "title": "Cumhurbaşkanı Erdoğan: Gabar'da 135 milyon varil yerinde petrol potansiyeli bulundu",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Gabar'da 75,4 milyon varil Türkiye'nin en kaliteli petrolünü üretiyoruz. Gabar'ın dağlarından sevindirici haberler gelmeye devam ediyor. 2 sahadan daha sevindirici haber geldi. 135…",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-gabarda-135-milyon-varil-yerinde-petrol-potansiyeli-bulundu-962703.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/cumhurbaskani-erdogan-kabine-aa-2502227.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-09T16:05:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-gabar-da-135-milyon-varil-yerinde-petrol-potansi-dad29d49/"
-  },
-  {
    "id": "78078f88",
    "title": "Hayali arkadaşlar zihni nasıl geliştirebilir?",
    "summary": "Hangi biçimde olursa olsun, hayali arkadaşların faydaları yetişkinliğe kadar sürebiliyor ve gerçek hayattaki zorlu durumların üstesinden gelmemize yardımcı olabiliyor.",
@@ -1201,17 +1234,6 @@
    "url": "/haber/adana-da-4-6-buyuklugunde-deprem-54bf64e4/"
   },
   {
-   "id": "3a690ce6",
-   "title": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye sürecinden geriye dönüş olmayacak",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Biz hem Cumhur İttifakı hem de devlet olarak Terörsüz Türkiye sürecine sadece elimizi değil, aynı zamanda vücudumuzu koyduk. Milletimiz ve devletimiz, yarım asrına mal olan terör…",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-terorsuz-turkiye-surecinden-geriye-donus-olmayacak-962665.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2468000/erdogan-aa-2469001.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-09T10:00:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-terorsuz-turkiye-surecinden-geriye-donus-olmayac-3a690ce6/"
-  },
-  {
    "id": "763dea3e",
    "title": "İzmir'de demir çelik fabrikasında patlama: 17 ölü, 12 yaralı",
    "summary": "İzmir'de 17 kişinin hayatını kaybettiği, 12 kişinin yaralandığı patlamanın meydana geldiği demir çelik fabrikasında arama kurtarma çalışmaları sürüyor.",
@@ -1221,28 +1243,6 @@
    "category": "gundem",
    "date": "2026-11-09T09:41:00+00:00",
    "url": "/haber/izmir-de-demir-celik-fabrikasinda-patlama-17-olu-12-yarali-763dea3e/"
-  },
-  {
-   "id": "180fc443",
-   "title": "Mars'ın milyarlarca yıllık sırrı Sahra Çölü'nde bulundu",
-   "summary": "Mali'de Sahra Çölü'nde bulunan 4,1 milyar yıllık Mars meteoriti, Kızıl Gezegen'in erken dönemlerinde suyla etkileşime girdiğine dair önemli kanıtlar sundu.",
-   "link": "https://www.trthaber.com/haber/dunya/marsin-milyarlarca-yillik-sirri-sahra-colunde-bulundu-962632.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/mars-meteor-2502131.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-09T04:37:00+00:00",
-   "url": "/haber/mars-in-milyarlarca-yillik-sirri-sahra-colu-nde-bulundu-180fc443/"
-  },
-  {
-   "id": "eade0bb1",
-   "title": "Cumhurbaşkanlığı Kabinesi bugün toplanacak",
-   "summary": "Kabine, Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında toplanacak. Toplantıda, fon soruşturmasındaki gelişmeler, Terörsüz Türkiye sürecinde gelinen aşama ile Antalya'da yapılacak ve 197 ülkeden 100 bin misafirin…",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskanligi-kabinesi-bugun-toplanacak-962627.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/kabine-toplantisiaa-2502129.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-09T02:34:00+00:00",
-   "url": "/haber/cumhurbaskanligi-kabinesi-bugun-toplanacak-eade0bb1/"
   },
   {
    "id": "7f3941e8",
