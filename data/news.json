@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-11T07:09:14.089377+00:00",
+ "updated": "2026-11-11T07:31:05.854443+00:00",
  "items": [
+  {
+   "id": "7d7ee539",
+   "title": "NBA'de Celtics'ten üst üste 4. galibiyet",
+   "summary": "Amerikan Basketbol Ligi'nde (NBA) Boston Celtics, deplasmanda Philadelphia 76ers'ı 123-101 yenerek üst üste 4. galibiyetini aldı.",
+   "link": "https://www.aa.com.tr/tr/spor/nbade-celticsten-ust-uste-4-galibiyet/4119726",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T07:26:42+00:00",
+   "url": "/haber/nba-de-celtics-ten-ust-uste-4-galibiyet-7d7ee539/"
+  },
+  {
+   "id": "01cdac3c",
+   "title": "İran: Hürmüz Boğazı'nda bir tanker deniz mayınına çarparak alev aldı",
+   "summary": "İran Ordusu, Hürmüz Boğazı’nın doğusunda bir petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-bir-tanker-deniz-mayinina-carparak-alev-aldi/4119721",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T07:23:53+00:00",
+   "url": "/haber/iran-hurmuz-bogazi-nda-bir-tanker-deniz-mayinina-carparak-alev-aldi-01cdac3c/"
+  },
+  {
+   "id": "ba16fabd",
+   "title": "HABAŞ'ta geçmişte yaşanan iş kazaları hakkında ne biliyoruz?",
+   "summary": "İzmir'in Aliağa ilçesindeki HABAŞ Demir Çelik fabrikasında 9 Kasım'da meydana gelen kazada 18 işçi hayatını kaybetti, 14 işçi yaralandı. HABAŞ, geçmişte de iş kazalarıyla gündeme gelen bir şirket. BBC Türkçe'nin açık…",
+   "link": "https://www.bbc.com/turkce/articles/cmlylyr44wzdo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1ca4/live/463e79e0-dd14-11f1-9ee9-1b95b66787ea.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-11T07:23:03+00:00",
+   "url": "/haber/habas-ta-gecmiste-yasanan-is-kazalari-hakkinda-ne-biliyoruz-ba16fabd/"
+  },
+  {
+   "id": "ea78098a",
+   "title": "Yandex, veri merkezine yapılan saldırılar yüzünden kullanıcı verilerini kaybetti",
+   "summary": "Ukrayna'nın Rusya'daki veri merkezlerini hedef almasının yankıları sürüyor. Gelen son haberler, Rus teknoloji devi Yandex'in bazı kullanıcı verilerini kalıcı olarak yitirdiğini gösteriyor.",
+   "link": "https://www.donanimhaber.com/yandex-saldirilar-yuzunden-kullanici-verilerini-kaybetti--212743",
+   "image": "https://www.donanimhaber.com/images/images/haber/212743/1200x675yandex-saldirilar-yuzunden-kullanici-verilerini-kaybetti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-11T07:19:57+00:00",
+   "url": "/haber/yandex-veri-merkezine-yapilan-saldirilar-yuzunden-kullanici-verilerini-ea78098a/"
+  },
+  {
+   "id": "08f65e25",
+   "title": "ABD Savunma Bakanı Hegseth şimdilik azilden kurtuldu",
+   "summary": "ABD Savunma Bakanı Pete Hegseth, görevden alınması için kendisinin de mensup olduğu Cumhuriyetçi Parti'den bir kongre üyesinin başlattığı azil girişiminden şimdilik kurtuldu.",
+   "link": "https://www.bbc.com/turkce/articles/cmj6j6414dy6o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a394/live/656b32b0-dd12-11f1-9019-999bcb7fa2d2.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-11T07:14:45+00:00",
+   "url": "/haber/abd-savunma-bakani-hegseth-simdilik-azilden-kurtuldu-08f65e25/"
+  },
+  {
+   "id": "209405d5",
+   "title": "Yeni bir “Ford Mustang Cobra” geliyor",
+   "summary": "Ford Racing’in X’te yaptığı duyuruya göre 2027’de yeni bir Ford Mustang Cobra karşımıza çıkarılacak. Yaklaşık 600 beygirlik atmosferik bir V8 motorla donatılacağı ve manuel şanzımanla sunulacağı iddia edilen yeni…",
+   "link": "https://www.log.com.tr/yeni-bir-ford-mustang-cobra-geliyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-11_10-03-50_gBJ1n-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-11T07:13:45+00:00",
+   "url": "/haber/yeni-bir-ford-mustang-cobra-geliyor-209405d5/"
+  },
+  {
+   "id": "4975d155",
+   "title": "Maldivler, İsrail pasaportu taşıyanların hiçbir şekilde ülkeye girişine izin vermeyecek",
+   "summary": "Maldivler Cumhurbaşkanı Muhammed Muizzu, İsrail pasaportu taşıyanların ülkeye girişine hiçbir koşulda izin verilmeyeceğini, hükümetin bu konuda kararlı olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/maldivler-israil-pasaportu-tasiyanlarin-hicbir-sekilde-ulkeye-girisine-izin-vermeyecek/4119710",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T07:11:40+00:00",
+   "url": "/haber/maldivler-israil-pasaportu-tasiyanlarin-hicbir-sekilde-ulkeye-girisine-4975d155/"
+  },
+  {
+   "id": "7d5e4341",
+   "title": "Elektrik hattı geriliminde yeni gelişme: Ankara'dan Fransız gemisine onay çıktı",
+   "summary": "Ankara-Paris-Atina hattında gerilime neden olan elektrik hattı projesinde, Fransız gemisinin Türkiye'nin belirlediği koordinatlarda çalışma yapabilmesine izin verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/ankaradan-fransiz-arastirma-gemisine-izin-cikti-1750383",
+   "image": "https://images.ntv.com.tr/images/DışişleriBakanlığı-120292.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-11T07:10:49+00:00",
+   "url": "/haber/elektrik-hatti-geriliminde-yeni-gelisme-ankara-dan-fransiz-gemisine-on-7d5e4341/"
+  },
+  {
+   "id": "ffcf2d3f",
+   "title": "Türkiye, Sergen Yalçın yönetiminde ilk maçında Belçika karşısında",
+   "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki beşinci maçında yarın İzmir'de Belçika ile karşı karşıya gelecek.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-sergen-yalcin-yonetiminde-ilk-macinda-belcika-karsisinda/4119705",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T07:09:18+00:00",
+   "url": "/haber/turkiye-sergen-yalcin-yonetiminde-ilk-macinda-belcika-karsisinda-ffcf2d3f/"
+  },
   {
    "id": "444ac371",
    "title": "Firefox 160 ile “Mini Window” özelliği kullanıma sunuldu",
@@ -11,17 +110,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T07:02:49+00:00",
    "url": "/haber/firefox-160-ile-mini-window-ozelligi-kullanima-sunuldu-444ac371/"
-  },
-  {
-   "id": "7d5e4341",
-   "title": "Ankara'dan Fransız araştırma gemisine izin çıktı",
-   "summary": "Türkiye, Doğu Akdeniz'de elektrik hattı için çalışacak Fransız araştırma gemisine izin verdi.",
-   "link": "https://www.ntv.com.tr/turkiye/ankaradan-fransiz-arastirma-gemisine-izin-cikti-1750383",
-   "image": "https://images.ntv.com.tr/images/DışişleriBakanlığı-120292.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T07:01:07+00:00",
-   "url": "/haber/ankara-dan-fransiz-arastirma-gemisine-izin-cikti-7d5e4341/"
   },
   {
    "id": "3a3d0ba0",
@@ -48,7 +136,7 @@
   {
    "id": "57da6e18",
    "title": "ABD'li Kongre üyesi İsrail'e silah satışının engellenmesi için İsrail destekçisi Demokrat liderle görüştü",
-   "summary": "ABD'li Demokrat Temsilciler Meclisi Üyesi Delia Ramirez, İsrail'e silah satışını engelleyen bir yasa tasarısı için, İsrail destekçisi ve halihazırda Demokratların Temsilciler Meclisindeki Azınlık Lideri olan Hakeem…",
+   "summary": "ABD'li Demokrat Temsilciler Meclisi Üyesi Delia Ramirez, İsrail'e silah satışını engelleyen bir yasa tasarısı için İsrail destekçisi ve halihazırda Demokratların Temsilciler Meclisindeki Azınlık Lideri olan Hakeem…",
    "link": "https://www.aa.com.tr/tr/dunya/abdli-kongre-uyesi-israile-silah-satisinin-engellenmesi-icin-israil-destekcisi-demokrat-liderle-gorustu/4119685",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -77,6 +165,17 @@
    "category": "teknoloji",
    "date": "2026-11-11T06:54:42+00:00",
    "url": "/haber/yine-soylendi-samsung-genisleyebilir-yapida-bir-telefon-gelistiriyor-4535f8df/"
+  },
+  {
+   "id": "055d34ab",
+   "title": "Tesla Çin satışları yüzde 66 düşerek dipte",
+   "summary": "Tesla Çin satışları ekimde bir önceki yılın aynı ayına göre yüzde 66 düşüp 8.817 adede indi. Şirketin Çin'deki toplam toptan satışı ise yüzde 10,3 arttı.",
+   "link": "https://shiftdelete.net/tesla-cin-satislari-yuzde-66-dustu",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/aff9cb09c0426ad0a5e62ad39527996beb4d2d7f.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-11T06:50:00+00:00",
+   "url": "/haber/tesla-cin-satislari-yuzde-66-duserek-dipte-055d34ab/"
   },
   {
    "id": "e6fc0adb",
@@ -321,17 +420,6 @@
    "url": "/haber/eia-petrol-fiyati-tahminlerini-ust-uste-dorduncu-ayda-da-yukseltti-9b6c1ea9/"
   },
   {
-   "id": "cc01b601",
-   "title": "Küresel piyasalar ABD'de açıklanan enflasyon verisi sonrası karışık seyrediyor",
-   "summary": "Küresel piyasalar, teknoloji şirketlerine ilişkin iyimserliğe karşın ABD'de beklentilerin üzerinde gelen enflasyon verisinin ABD Merkez Bankasının (Fed) gelecek ay faiz artıracağı yönündeki beklentileri güçlendirmesiyle…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-abdde-aciklanan-enflasyon-verisi-sonrasi-karisik-seyrediyor/4119645",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T06:11:48+00:00",
-   "url": "/haber/kuresel-piyasalar-abd-de-aciklanan-enflasyon-verisi-sonrasi-karisik-se-cc01b601/"
-  },
-  {
    "id": "aac7fcad",
    "title": "Türk Telekom dev GES'in temelini COP31'de attı",
    "summary": "Türk Telekom, 300 MWp'lik Malatya GES'in temelini COP31'den 5G bağlantısıyla attı. Santral Türkiye'nin en büyük üçüncü GES'i olacak.",
@@ -352,17 +440,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T06:07:57+00:00",
    "url": "/haber/playstation-5-satislari-100-milyonu-geride-birakti-062fc6c9/"
-  },
-  {
-   "id": "87dd0b9f",
-   "title": "Sürdürülebilir yatırım finansmanında bankaların rolü artıyor",
-   "summary": "QNB Türkiye Genel Müdürü Ömür Tan, bankaların iklim finansmanının önemli aktörlerinden olduğunu belirterek, \"Enerji dönüşümünün başarıya ulaşması için finans kuruluşlarının yatırım süreçlerinde aktif rol alması…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/surdurulebilir-yatirim-finansmaninda-bankalarin-rolu-artiyor/4119638",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T06:04:41+00:00",
-   "url": "/haber/surdurulebilir-yatirim-finansmaninda-bankalarin-rolu-artiyor-87dd0b9f/"
   },
   {
    "id": "975934b4",
@@ -398,17 +475,6 @@
    "url": "/haber/claude-meetings-claude-sheets-ve-claude-whiteboards-duyuruldu-f16826aa/"
   },
   {
-   "id": "e7892cba",
-   "title": "New York Times: ABD Hazine Bakanı Bessent, İran tehdidi nedeniyle askeri üsse taşındı",
-   "summary": "ABD Hazine Bakanı Scott Bessent'in, İran'dan gelen tehditler nedeniyle başkent Washington'daki evinden bir askeri üsse taşındığı öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi/4119634",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T05:57:33+00:00",
-   "url": "/haber/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-e7892cba/"
-  },
-  {
    "id": "2bc00a0f",
    "title": "Gazeteci İsmail Saymaz'ın ev hapsi kararı kaldırıldı",
    "summary": "Fon soruşturmasında \"halka yanıltıcı bilgi yaymak\" ile suçlanan gazeteci İsmail Saymaz'ın ev hapsi kaldırıldı.",
@@ -418,17 +484,6 @@
    "category": "gundem",
    "date": "2026-11-11T05:45:22+00:00",
    "url": "/haber/gazeteci-ismail-saymaz-in-ev-hapsi-karari-kaldirildi-2bc00a0f/"
-  },
-  {
-   "id": "2a4f1700",
-   "title": "Bakan Şimşek, Asya Altyapı Yatırım Bankası Başkanı Zou Ciayi ile görüştü",
-   "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek ile Asya Altyapı Yatırım Bankası (AIIB) Başkanı Zou Ciayi arasındaki görüşmede, Banka ile Türkiye arasında hazırlıkları süren Çok Yıllı Ülke Programı'nın ayrıntıları ele alındı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-asya-altyapi-yatirim-bankasi-baskani-zou-ciayi-ile-gorustu/4119627",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T05:42:25+00:00",
-   "url": "/haber/bakan-simsek-asya-altyapi-yatirim-bankasi-baskani-zou-ciayi-ile-gorust-2a4f1700/"
   },
   {
    "id": "013b9d85",
@@ -594,17 +649,6 @@
    "category": "gundem",
    "date": "2026-11-11T01:47:08+00:00",
    "url": "/haber/havacilik-yakitinda-cevreci-anlasma-24dd6876/"
-  },
-  {
-   "id": "08f65e25",
-   "title": "ABD Savunma Bakanı Hegseth şimdilik azilden kurtuldu",
-   "summary": "ABD Savunma Bakanı Pete Hegseth, görevden alınması için kendisinin de mensup olduğu Cumhuriyetçi Parti'den bir kongre üyesinin başlattığı azil girişiminden şimdilik kurtuldu.",
-   "link": "https://www.bbc.com/turkce/articles/cmj6j6414dy6o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a394/live/656b32b0-dd12-11f1-9019-999bcb7fa2d2.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-11T00:51:13+00:00",
-   "url": "/haber/abd-savunma-bakani-hegseth-simdilik-azilden-kurtuldu-08f65e25/"
   },
   {
    "id": "f828c0bb",
@@ -893,17 +937,6 @@
    "url": "/haber/aqua-florya-sailing-cup-5-kez-yelken-acti-d690218b/"
   },
   {
-   "id": "b7e90b4e",
-   "title": "Binance'ten iPhone kullanıcılarına acil uyarı",
-   "summary": "Binance, iOS'taki bir iPhone güvenlik açığına karşı kullanıcılarını uyardı. Açık, kötü amaçlı uygulamaların cihazdaki diğer uygulamaların dosyalarını okumasına izin veriyor.",
-   "link": "https://shiftdelete.net/iphone-guvenlik-acigi-binance-guncelleme-uyarisi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/4e1fc52df90cb5dbc06beddc21b6e9b049aca8e8.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-10T18:38:00+00:00",
-   "url": "/haber/binance-ten-iphone-kullanicilarina-acil-uyari-b7e90b4e/"
-  },
-  {
    "id": "d9502b24",
    "title": "Samsung Galaxy S27 serisinin kamera özellikleri sızdırıldı",
    "summary": "Standart modellerin yıllardır kullanılan donanımları koruması beklenirken Galaxy S27 Ultra'nın çift telefoto kamera sisteminden vazgeçebileceği öne sürülüyor.",
@@ -926,17 +959,6 @@
    "url": "/haber/googlebook-bilgisayarlara-ilk-buyuk-guncelleme-geldi-55b77470/"
   },
   {
-   "id": "e6ae4d59",
-   "title": "İlk kez bir robot uzayda kendi başına yapı inşa etti",
-   "summary": "Robotlar Dünya'dan sonra uzayda da devreye girmeye başladı. Caltech tarafından geliştirilen bir robot, Dünya yörüngesinde farklı parçaları birleştirerek otonom şekilde yapı inşa etmeyi başardı.",
-   "link": "https://www.donanimhaber.com/ilk-kez-bir-robot-uzayda-yapi-insa-etti--212715",
-   "image": "https://www.donanimhaber.com/images/images/haber/212715/1200x675ilk-kez-bir-robot-uzayda-yapi-insa-etti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-10T17:35:00+00:00",
-   "url": "/haber/ilk-kez-bir-robot-uzayda-kendi-basina-yapi-insa-etti-e6ae4d59/"
-  },
-  {
    "id": "3450db4f",
    "title": "Türkiye İklim Okulu, COP31 kapsamında uluslararası etkinliklere ev sahipliği yaptı",
    "summary": "Milli Eğitim Bakanlığınca, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında oluşturulan \"Türkiye İklim Okulu\"nda iklim değişikliğiyle mücadelede eğitimin rolü,…",
@@ -946,28 +968,6 @@
    "category": "gundem",
    "date": "2026-11-10T17:04:00+00:00",
    "url": "/haber/turkiye-iklim-okulu-cop31-kapsaminda-uluslararasi-etkinliklere-ev-sahi-3450db4f/"
-  },
-  {
-   "id": "ba16fabd",
-   "title": "HABAŞ'ta geçmişte yaşanan iş kazaları hakkında ne biliyoruz?",
-   "summary": "İzmir'in Aliağa ilçesindeki HABAŞ Demir Çelik fabrikasında 9 Kasım'da meydana gelen kazada 18 işçi hayatını kaybetti, 14 işçi yaralandı. HABAŞ, geçmişte de iş kazalarıyla gündeme gelen bir şirket. BBC Türkçe'nin açık…",
-   "link": "https://www.bbc.com/turkce/articles/cmlylyr44wzdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1ca4/live/463e79e0-dd14-11f1-9ee9-1b95b66787ea.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-10T16:08:58+00:00",
-   "url": "/haber/habas-ta-gecmiste-yasanan-is-kazalari-hakkinda-ne-biliyoruz-ba16fabd/"
-  },
-  {
-   "id": "3975e1aa",
-   "title": "Google, “Gemini 4 Carbon” yapay zeka modelini kullanıma sundu",
-   "summary": "Google tarafından 28 Ekim’de duyurulan yeni üst seviye yapay zeka modeli Gemini 4 Carbon, bugün geniş çapta kullanıma sunuldu. Şirkete göre birçok testte GPT-6 Astra, Claude Opus 5.5 ve Claude Fable 5.1’i geride bırakan…",
-   "link": "https://www.log.com.tr/google-gemini-4-carbon-yapay-zeka-modelini-kullanima-sundu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-10_15-45-27_Cqimz-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-10T16:07:13+00:00",
-   "url": "/haber/google-gemini-4-carbon-yapay-zeka-modelini-kullanima-sundu-3975e1aa/"
   },
   {
    "id": "09b9f4c1",
