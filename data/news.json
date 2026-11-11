@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T00:01:13.098660+00:00",
+ "updated": "2026-11-11T00:30:56.104619+00:00",
  "items": [
   {
    "id": "f408b328",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-11T00:00:00+00:00",
+   "date": "2026-11-11T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f408b328/"
+  },
+  {
+   "id": "b62f258d",
+   "title": "Epstein mağduru: 'Hâlâ modellik ajansı yöneten arkadaşı beni tehlikenin içine attı'",
+   "summary": "Jeffrey Epstein'in tecavüzüne uğrayan bir kadın, bağlı bulunduğu modellik ajansının sahibinin, Epstein'in Florida sahilindeki evinde yapılan iki fotoğraf çekimine göndererek kendisini tehlikeye attığını söylüyor.",
+   "link": "https://www.bbc.com/turkce/articles/cqn494rx2le4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9349/live/97006970-dc5a-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-11T00:23:45+00:00",
+   "url": "/haber/epstein-magduru-hala-modellik-ajansi-yoneten-arkadasi-beni-tehlikenin-b62f258d/"
+  },
+  {
+   "id": "68e53c56",
+   "title": "Ankara'da EGO otobüsü devrildi, şoför yaralandı",
+   "summary": "Ankara'nın Gölbaşı ilçesinde EGO otobüsünün devrildiği kazada otobüs şoförü yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/ankarada-ego-otobusu-devrildi-sofor-yaralandi-1750336",
+   "image": "https://images.ntv.com.tr/images/AA-20261110-43032732-43032727-BASKENTTE_EGO_OTOBUSUNUN_DEVRILDIGI_KAZADA_SOFOR_YARALANDI-726530.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-11T00:22:37+00:00",
+   "url": "/haber/ankara-da-ego-otobusu-devrildi-sofor-yaralandi-68e53c56/"
   },
   {
    "id": "5072ec93",
@@ -706,17 +728,6 @@
    "url": "/haber/sebebi-hic-sasirtmadi-sifir-telefonlarda-ikinci-el-parca-donemi-basliy-2b1518d2/"
   },
   {
-   "id": "08f65e25",
-   "title": "ABD Savunma Bakanı Hegseth azil tartışmalarının ardından konuştu: 'Bu bir sabotaj'",
-   "summary": "ABD Savunma Bakanı Hegseth hakkında yapılan azil başvurusunun ardından yaptığı açıklamada suçlamaları reddetti, başvurunun \"sabotaj\" olduğunu söyledi. Cumhuriyetçi Thomas Massie, Pazartesi günü Hegseth'in azledilmesi…",
-   "link": "https://www.bbc.com/turkce/articles/cmj6j6414dy6o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a394/live/656b32b0-dd12-11f1-9019-999bcb7fa2d2.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-10T14:43:38+00:00",
-   "url": "/haber/abd-savunma-bakani-hegseth-azil-tartismalarinin-ardindan-konustu-bu-bi-08f65e25/"
-  },
-  {
    "id": "28d294a4",
    "title": "Kaşif Kozinoğlu'nun ölümüne ilişkin Adli Tıp raporuna itiraz",
    "summary": "Silivri Cumhuriyet Başsavcılığı, Eski MİT Mensubu Kaşif Kozinoğlu'nun şüpheli ölümüyle ilgili hazırlanan Adli Tıp raporuna itirazda bulundu. Başsavcılık, raporla ilgili detaylı inceleme yapılmasını talep etti.",
@@ -1056,17 +1067,6 @@
    "category": "gundem",
    "date": "2026-11-10T11:21:00+00:00",
    "url": "/haber/cin-ve-abd-arasindaki-casusluk-geriliminin-odagindaki-kisi-hakkinda-ne-a24695ea/"
-  },
-  {
-   "id": "43458835",
-   "title": "Güllü davasında istinaf başvurusu. \"3.53 promil alkollüydü, kaza ihtimali değerlendirilmedi\"",
-   "summary": "Şarkıcı Güllü'nün ölümüne ilişkin davada ağırlaştırılmış müebbet hapis cezasına çarptırılan kızı Tuğyan Ülkem Gülter, tahliyesini ve beraatini talep etti.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-gullu-davasinda-istinaf-basvurusu-353-promil-alkolluydu-kaza-ihtimali-degerlendirilmedi-1750279",
-   "image": "https://images.ntv.com.tr/images/güllü-davası-374847.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-10T10:51:21+00:00",
-   "url": "/haber/gullu-davasinda-istinaf-basvurusu-3-53-promil-alkolluydu-kaza-ihtimali-43458835/"
   },
   {
    "id": "b1c74e4f",
