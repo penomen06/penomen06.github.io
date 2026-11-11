@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T10:00:59.218839+00:00",
+ "updated": "2026-11-11T10:30:56.281576+00:00",
  "items": [
+  {
+   "id": "3060a0a0",
+   "title": "Ford, Mustang Cobra'yı 2027 için geri getiriyor",
+   "summary": "Ford Racing, yeni Ford Mustang Cobra'nın 2027'de geleceğini duyurdu. Yaklaşık 600 beygirlik atmosferik V8 ve manuel şanzıman iddiası öne çıkarken, model büyük ihtimalle sıfırdan geliştirilmiş olmayacak.",
+   "link": "https://shiftdelete.net/ford-mustang-cobra-2027-geliyor",
+   "image": "https://ares.shiftdelete.net/2026/04/Ford-Mustang-Cobra-Jet-2200.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-11T10:20:07+00:00",
+   "url": "/haber/ford-mustang-cobra-yi-2027-icin-geri-getiriyor-3060a0a0/"
+  },
   {
    "id": "730151ab",
    "title": "Samsung'un ekranı uzayan telefonunda pil sorunu",
@@ -11,6 +22,105 @@
    "category": "teknoloji",
    "date": "2026-11-11T10:20:00+00:00",
    "url": "/haber/samsung-un-ekrani-uzayan-telefonunda-pil-sorunu-730151ab/"
+  },
+  {
+   "id": "0e69fe49",
+   "title": "BDDK Başkanı Şahap Kavcıoğlu görevinden istifa etti",
+   "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu fon kriziyle ilgili hakkında çıkan iddialar nedeniyle görevinden istifa ettiğini duyurdu. Kavcıoğlu bu kararı \"kurumun daha fazla yıpranmaması için…",
+   "link": "https://www.bbc.com/turkce/articles/c5742lzd1m20o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da9e/live/422f1ed0-dda6-11f1-adb0-1dc1c3f8d17c.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-11T10:16:01+00:00",
+   "url": "/haber/bddk-baskani-sahap-kavcioglu-gorevinden-istifa-etti-0e69fe49/"
+  },
+  {
+   "id": "c1de0055",
+   "title": "İstanbul Recep Tayyip Erdoğan Anadolu İmam Hatip Lisesi Öğrenci Yurdu açıldı",
+   "summary": "İstanbul Recep Tayyip Erdoğan Anadolu İmam Hatip Lisesi öğrencileri için inşa edilen yeni yurt binası törenle hizmete açıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-recep-tayyip-erdogan-anadolu-imam-hatip-lisesi-ogrenci-yurdu-acildi/4120067",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T10:13:17+00:00",
+   "url": "/haber/istanbul-recep-tayyip-erdogan-anadolu-imam-hatip-lisesi-ogrenci-yurdu-c1de0055/"
+  },
+  {
+   "id": "9563393a",
+   "title": "Sam Altman çok sevinecek: AMD, Flash belleği RAM gibi kullanacak",
+   "summary": "AMD, MEXT ile DRAM ihtiyacını yüzde 75'e kadar azaltmayı ve bellek kapasitesini üç katına çıkarmayı hedefliyor. Yapay zeka destekli teknoloji, Flash depolama kullanarak maliyetleri düşürüyor.",
+   "link": "https://www.donanimhaber.com/sam-altman-cok-sevinecek-amd-flash-bellegi-ram-gibi-kullanacak--212750",
+   "image": "https://www.donanimhaber.com/images/images/haber/212750/1200x675sam-altman-cok-sevinecek-amd-flash-bellegi-ram-gibi-kullanacak.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-11T10:13:00+00:00",
+   "url": "/haber/sam-altman-cok-sevinecek-amd-flash-bellegi-ram-gibi-kullanacak-9563393a/"
+  },
+  {
+   "id": "67015c8b",
+   "title": "İstanbul'a fırtına uyarısı: Rüzgarın hızı 90 kilometreye çıkacak",
+   "summary": "İstanbul Valiliği, kentte yarın öğle saatlerinden itibaren kuvvetlenmesi, cuma günü ise hızının saatte 90 kilometreye ulaşması beklenen rüzgar ve fırtınaya karşı vatandaşları uyardı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbula-firtina-uyarisi-ruzgarin-hizi-90-kilometreye-cikacak-962934.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1708000/istanbul-ruzgar-aa-1709309.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-11T10:09:00+00:00",
+   "url": "/haber/istanbul-a-firtina-uyarisi-ruzgarin-hizi-90-kilometreye-cikacak-67015c8b/"
+  },
+  {
+   "id": "49aa9259",
+   "title": "Rosatom, Akkuyu NGS'nin ilk reaktörünü bu yıl çalıştırmak için çabaladıklarını bildirdi",
+   "summary": "Rusya Devlet Nükleer Enerji Kuruluşu Rosatom'un Genel Müdürü Aleksey Likhachev, Akkuyu Nükleer Güç Santrali'nin (NGS) ilk reaktörünü çalıştırmaya çok yaklaştıklarını ve bu sürecin 2026'da başlaması için çalıştıklarını…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/rosatom-akkuyu-ngsnin-ilk-reaktorunu-bu-yil-calistirmak-icin-cabaladiklarini-bildirdi/4120063",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T10:08:49+00:00",
+   "url": "/haber/rosatom-akkuyu-ngs-nin-ilk-reaktorunu-bu-yil-calistirmak-icin-cabaladi-49aa9259/"
+  },
+  {
+   "id": "675ff8a7",
+   "title": "Milli Ağaçlandırma Günü'nde fidanlar toprakla buluşturuldu",
+   "summary": "11 Kasım Milli Ağaçlandırma Günü dolayısıyla \"Geleceğe Nefes, Dünyaya Barış\" sloganıyla düzenlenen etkinliklerde binlerce fidan toprakla buluşturuldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/milli-agaclandirma-gununde-fidanlar-toprakla-bulusturuldu/4120059",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T10:06:37+00:00",
+   "url": "/haber/milli-agaclandirma-gunu-nde-fidanlar-toprakla-bulusturuldu-675ff8a7/"
+  },
+  {
+   "id": "e9dfacdc",
+   "title": "İran yüksek düzeyde zenginleştirilmiş uranyumu ülke dışına çıkarmayacak",
+   "summary": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, yüksek düzeyde zenginleştirilmiş uranyumu ülke dışına çıkarmayacaklarını ve bu durumu Rusya'ya da ilettiklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-yuksek-duzeyde-zenginlestirilmis-uranyumu-ulke-disina-cikarmayacak/4120055",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T10:06:07+00:00",
+   "url": "/haber/iran-yuksek-duzeyde-zenginlestirilmis-uranyumu-ulke-disina-cikarmayaca-e9dfacdc/"
+  },
+  {
+   "id": "b76b1cf4",
+   "title": "VGM ortaöğrenim burs sonuçları sorgulama ekranı 2026. VGM ortaöğrenim burs sonuçları açıklandı",
+   "summary": "Vakıflar Genel Müdürlüğünün 2026-2027 eğitim öğretim yılı ortaöğrenim burs başvuru sonuçları açıklandı. Adaylar, VGM ortaöğrenim burs sonuçlarını burs.vgm.gov.tr adresi üzerinden sorgulayabilecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-vgm-ortaogrenim-burs-sonuclari-sorgulama-ekrani-2026-vgm-ortaogrenim-burs-sonuclari-aciklandi-1750419",
+   "image": "https://images.ntv.com.tr/images/606459f4-6c61-4e48-ad32-1903ab0d0484-738240.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-11T10:05:41+00:00",
+   "url": "/haber/vgm-ortaogrenim-burs-sonuclari-sorgulama-ekrani-2026-vgm-ortaogrenim-b-b76b1cf4/"
+  },
+  {
+   "id": "588e3a25",
+   "title": "Bakan Uraloğlu: İstanbul Havalimanı'mızın 4. pistiyle 2 ayda karbon emisyonunu 2 bin ton azalttık",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, eylülde hizmete alınan İstanbul Havalimanı'nın 4. pistiyle, 2 ayda karbon emisyonunun 2 bin ton azaltıldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-istanbul-havalimanimizin-4-pistiyle-2-ayda-karbon-emisyonunu-2-bin-ton-azalttik/4120045",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T10:03:28+00:00",
+   "url": "/haber/bakan-uraloglu-istanbul-havalimani-mizin-4-pistiyle-2-ayda-karbon-emis-588e3a25/"
   },
   {
    "id": "7ba2b807",
@@ -66,6 +176,17 @@
    "category": "teknoloji",
    "date": "2026-11-11T09:55:01+00:00",
    "url": "/haber/samsung-genisleyebilir-ekranli-yeni-bir-akilli-telefon-uzerinde-calisi-6a1cf594/"
+  },
+  {
+   "id": "1c4a3334",
+   "title": "Guterres: İklim önümüzdeki yılların sınaması olacak",
+   "summary": "BM Genel Sekreteri Antonio Guterres, Antalya'daki COP31 Liderler Zirvesi Açılış Programı'nda konuştu. Guterres, \"Yeni bir iklim adaletine ihtiyaç var. Tüm ülkeler iklim için üzerine düşeni yapmalı.\" mesajını verdi.",
+   "link": "https://www.trthaber.com/haber/dunya/guterres-iklim-onumuzdeki-yillarin-sinamasi-olacak-962931.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/guterres-rea-2502749.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-11T09:55:00+00:00",
+   "url": "/haber/guterres-iklim-onumuzdeki-yillarin-sinamasi-olacak-1c4a3334/"
   },
   {
    "id": "ab4c8040",
@@ -145,6 +266,17 @@
    "url": "/haber/casper-excalibur-g887-ile-hangi-oyunlar-oynanabilir-6adb91fa/"
   },
   {
+   "id": "6045dc9a",
+   "title": "Şehirlerimizi iklim değişikliğinin etkilerinden nasıl koruyabiliriz?",
+   "summary": "Kentsel dirençliliği etkileyen faktörlerin bütüncül bir anlayışla ve uzun vadeli faydalar gözetilerek ele alındığı sürdürülebilir kentsel planlama, vazgeçilmez bir yaklaşım olarak benimsenmelidir.",
+   "link": "https://www.aa.com.tr/tr/analiz/sehirlerimizi-iklim-degisikliginin-etkilerinden-nasil-koruyabiliriz/4120014",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T09:51:42+00:00",
+   "url": "/haber/sehirlerimizi-iklim-degisikliginin-etkilerinden-nasil-koruyabiliriz-6045dc9a/"
+  },
+  {
    "id": "0bee92b5",
    "title": "Pixel Drop kasım: Pixel Tag ve Gemini geliyor",
    "summary": "Google, Pixel Drop kasım paketini yayına aldı. Gemini Intelligence Pixel 10'a ve Samsung ile Motorola telefonlara açılırken, yeni takip cihazı Pixel Tag de satışa çıkıyor.",
@@ -189,17 +321,6 @@
    "url": "/haber/super-lig-den-9-kulup-pfdk-ye-sevk-edildi-8442c592/"
   },
   {
-   "id": "d1c228a0",
-   "title": "\"Mike Hammer\" rolüyle tanınan aktör Stacy Keach hayatını kaybetti",
-   "summary": "\"Mike Hammer\" rolüyle tanınan 85 yaşındaki aktör Stacy Keach'in hayatını kaybettiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/mike-hammer-roluyle-taninan-aktor-stacy-keach-hayatini-kaybetti/4120005",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T09:46:55+00:00",
-   "url": "/haber/mike-hammer-roluyle-taninan-aktor-stacy-keach-hayatini-kaybetti-d1c228a0/"
-  },
-  {
    "id": "0f1ded62",
    "title": "1.169 beygirlik AMG GT SUV Türkiye yolunda",
    "summary": "Mercedes-AMG'nin 1.169 beygirlik elektrikli GT SUV'si Türkiye'de 2027 planında. Model 800 volt mimariyle 710 kW şarj destekliyor.",
@@ -209,17 +330,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T09:35:00+00:00",
    "url": "/haber/1-169-beygirlik-amg-gt-suv-turkiye-yolunda-0f1ded62/"
-  },
-  {
-   "id": "2a0a7163",
-   "title": "İran: Düzenin varlığını tehdit eden her nokta, operasyonların doğrudan hedefi olacak",
-   "summary": "İran Genelkurmay Başkanı Tümgeneral Ali Abdullahi, ülkesine yönelik her türlü tehdidin silahlı kuvvetlerin doğrudan hedefi olacağını söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-duzenin-varligini-tehdit-eden-her-nokta-operasyonlarin-dogrudan-hedefi-olacak/4119978",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T09:31:51+00:00",
-   "url": "/haber/iran-duzenin-varligini-tehdit-eden-her-nokta-operasyonlarin-dogrudan-h-2a0a7163/"
   },
   {
    "id": "659d4e39",
@@ -233,6 +343,17 @@
    "url": "/haber/besiktas-taki-saldirinin-suphelileri-calilarin-altinda-boyle-yakalandi-659d4e39/"
   },
   {
+   "id": "1e85d976",
+   "title": "Milli sualtı aracı STM NETA 300, Akdeniz'de batık tankı görüntüledi",
+   "summary": "STM tarafından milli imkanlarla geliştirilen hafif insansız otonom sualtı aracı STM NETA 300, Antalya'nın Kaş ilçesindeki Güvercin Adası açıklarında gerçekleştirdiği keşif faaliyetinde batık tankı görüntüledi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/milli-sualti-araci-stm-neta-300-akdenizde-batik-tanki-goruntuledi/4119973",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T09:27:55+00:00",
+   "url": "/haber/milli-sualti-araci-stm-neta-300-akdeniz-de-batik-tanki-goruntuledi-1e85d976/"
+  },
+  {
    "id": "2ad89b4b",
    "title": "1 GB'ı aşan önbelleğe sahip AMD EPYC Venice-X geliyor",
    "summary": "AMD'nin yeni EPYC Venice-X işlemcileri, 3D V-Cache teknolojisiyle toplam 1.152 MB önbellek sunuyor. Yeni nesil işlemcilerin gelecek yılın ikinci yarısında çıkması bekleniyor.",
@@ -244,39 +365,6 @@
    "url": "/haber/1-gb-i-asan-onbellege-sahip-amd-epyc-venice-x-geliyor-2ad89b4b/"
   },
   {
-   "id": "6986b583",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz, KKTC Başbakanı Üstel ile görüştü",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, KKTC Başbakanı Ünal Üstel, Başbakan Yardımcısı Fikri Ataoğlu ve Dışişleri Bakanı Tahsin Ertuğruloğlu ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-kktc-basbakani-ustel-ile-gorustu/4119969",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T09:26:10+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-kktc-basbakani-ustel-ile-gorustu-6986b583/"
-  },
-  {
-   "id": "0e69fe49",
-   "title": "BDDK Başkanı Şahap Kavcıoğlu görevinden istifa etti",
-   "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu fon kriziyle ilgili hakkında çıkan iddialar nedeniyle görevinden istifa ettiğini duyurdu. Kavcıoğlu bu kararı \"kurumun daha fazla yıpranmaması için…",
-   "link": "https://www.bbc.com/turkce/articles/c5742lzd1m20o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da9e/live/422f1ed0-dda6-11f1-adb0-1dc1c3f8d17c.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-11T09:25:32+00:00",
-   "url": "/haber/bddk-baskani-sahap-kavcioglu-gorevinden-istifa-etti-0e69fe49/"
-  },
-  {
-   "id": "af5ad187",
-   "title": "Bakan Göktaş: Kreşlerin yaygınlaştırılması için 2027'de ilk defa bir teşvik paketini devreye alıyoruz",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"2027'de kreşlerin yaygınlaştırılması için ilk defa bir teşvik paketini devreye alıyoruz. Ailelerin güvenilir ve nitelikli bakım hizmetinden yararlanması için…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-kreslerin-yayginlastirilmasi-icin-2027de-ilk-defa-bir-tesvik-paketini-devreye-aliyoruz/4119960",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T09:23:35+00:00",
-   "url": "/haber/bakan-goktas-kreslerin-yayginlastirilmasi-icin-2027-de-ilk-defa-bir-te-af5ad187/"
-  },
-  {
    "id": "6c56baa5",
    "title": "Akdeniz'in derinliklerindeki batık tank milli STM NETA ile görüntülendi",
    "summary": "STM'nin millî imkânlarla geliştirdiği insansız otonom sualtı aracı STM NETA 300, Antalya'nın Kaş ilçesi açıklarında gerçekleştirdiği sualtı keşfinde batık tankı görüntüledi.",
@@ -286,6 +374,17 @@
    "category": "gundem",
    "date": "2026-11-11T09:19:45+00:00",
    "url": "/haber/akdeniz-in-derinliklerindeki-batik-tank-milli-stm-neta-ile-goruntulend-6c56baa5/"
+  },
+  {
+   "id": "b3593829",
+   "title": "Hidrojenin küresel ölçekte yaygınlaşması için sanayide somut uygulamalara ihtiyaç var",
+   "summary": "Yeşil hidrojenin küresel ölçekte yaygınlaştırılması için uluslararası işbirliklerinin güçlendirilmesi, sanayi uygulamalarının artırılması ve Türkiye'nin Avrupa hidrojen pazarındaki potansiyelinin değerlendirilmesi…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hidrojenin-kuresel-olcekte-yayginlasmasi-icin-sanayide-somut-uygulamalara-ihtiyac-var/4119948",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T09:15:35+00:00",
+   "url": "/haber/hidrojenin-kuresel-olcekte-yayginlasmasi-icin-sanayide-somut-uygulamal-b3593829/"
   },
   {
    "id": "481d0689",
@@ -354,28 +453,6 @@
    "url": "/haber/burasi-bizim-dedi-karayolunun-ortasina-yerlesti-32be0d9c/"
   },
   {
-   "id": "e2f0ee91",
-   "title": "Kennedy ailesi, Trump'ın başkentte inşa etmek istediği kemer projesini durdurmak için harekete geçti",
-   "summary": "Eski ABD Başkanı John F. Kennedy'nin ailesi, Başkan Donald Trump'ın başkent Washington'da inşa etmeyi planladığı kemerin, aile üyelerinin mezarlarına gölge düşüreceği gerekçesiyle projeye karşı açılan davalara katılmak…",
-   "link": "https://www.aa.com.tr/tr/dunya/kennedy-ailesi-trumpin-baskentte-insa-etmek-istedigi-kemer-projesini-durdurmak-icin-harekete-gecti/4119930",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T08:59:33+00:00",
-   "url": "/haber/kennedy-ailesi-trump-in-baskentte-insa-etmek-istedigi-kemer-projesini-e2f0ee91/"
-  },
-  {
-   "id": "8796cbcd",
-   "title": "BM temsilcisi Kishore, iklimle mücadelede somut eylem çağrısı yaptı",
-   "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Özel Temsilcisi Kamal Kishore, \"Hepimiz birbirimizle konuşmalıyız. Bir konuda anlaşmaya varmalıyız ve en önemlisi eylem. Benim özellikle üzerinde durduğum ve beklentimin…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bm-temsilcisi-kishore-iklimle-mucadelede-somut-eylem-cagrisi-yapti/4119927",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T08:58:49+00:00",
-   "url": "/haber/bm-temsilcisi-kishore-iklimle-mucadelede-somut-eylem-cagrisi-yapti-8796cbcd/"
-  },
-  {
    "id": "0c2426f4",
    "title": "ABD'de Hivemind ile İHA'lar ilk kez birlikte uçtu",
    "summary": "ABD Hava Kuvvetleri'nin CCA programındaki insansız araçlar, Hivemind yazılımıyla ilk kez birlikte uçtu ve koordineli hava muharebesi manevraları yaptı.",
@@ -385,6 +462,17 @@
    "category": "teknoloji",
    "date": "2026-11-11T08:50:00+00:00",
    "url": "/haber/abd-de-hivemind-ile-iha-lar-ilk-kez-birlikte-uctu-0c2426f4/"
+  },
+  {
+   "id": "14e29d00",
+   "title": "Ankara'da AVM otoparkında yangın",
+   "summary": "Ankara'nın Mamak ilçesindeki bir alışveriş merkezinin (AVM) açık otoparkındaki otomobilde çıkıp indirim çadırlarına sıçrayan yangın söndürüldü. Olayda ölen ya da yaralanan olmaması sevindirdi.",
+   "link": "https://www.trthaber.com/haber/turkiye/ankarada-avm-otoparkinda-yangin-962921.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/ankara-avm-yangin-aa-2502689.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-11T08:48:00+00:00",
+   "url": "/haber/ankara-da-avm-otoparkinda-yangin-14e29d00/"
   },
   {
    "id": "ca25fbac",
@@ -440,17 +528,6 @@
    "category": "gundem",
    "date": "2026-11-11T08:42:08+00:00",
    "url": "/haber/ara-tatil-basliyor-bilet-fiyatlari-planlari-zorluyor-3580445f/"
-  },
-  {
-   "id": "03efbf19",
-   "title": "Bakan Şimşek: Türkiye'nin mali duruşu oldukça güçlü",
-   "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Deprem sonrası altyapının yeniden inşası için 100 milyar doların üzerinde harcama yapılmasına rağmen bütçe açığımız Gayri Safi Yurt İçi Hasıla'ya (GSYH) oranla yaklaşık yüzde 3…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-turkiyenin-mali-durusu-oldukca-guclu-/4119888",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T08:41:50+00:00",
-   "url": "/haber/bakan-simsek-turkiye-nin-mali-durusu-oldukca-guclu-03efbf19/"
   },
   {
    "id": "04267ea4",
@@ -552,6 +629,17 @@
    "url": "/haber/ps-plus-extra-ve-premium-kasim-ayinda-verilecek-ucretsiz-oyunlar-belli-14f8c7aa/"
   },
   {
+   "id": "262ab040",
+   "title": "Biket İlhan'ın \"Tatlı Maya\" filmi farklı kültürlerden kadınların dostluğunu anlatıyor",
+   "summary": "Yönetmenliğini Biket İlhan'ın üstlendiği, farklı köken ve kültürlerden gelen kadınların dayanışmasını ve insan sevgisini merkezine alan \"Tatlı Maya\" filmi, festival yolculuğunun ardından 20 Kasım'da vizyona girmeye…",
+   "link": "https://www.aa.com.tr/tr/kultur/biket-ilhanin-tatli-maya-filmi-farkli-kulturlerden-kadinlarin-dostlugunu-anlatiyor/4119850",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T08:19:32+00:00",
+   "url": "/haber/biket-ilhan-in-tatli-maya-filmi-farkli-kulturlerden-kadinlarin-dostlug-262ab040/"
+  },
+  {
    "id": "094650fe",
    "title": "Amazon'da 11.11'e özel 1.000 TL kupon hediyesi başladı!",
    "summary": "Amazon Türkiye, 11.11'e özel üç farklı saatte toplam 18 bin indirim kuponu dağıtıyor. Sınırlı sayıdaki 1.000 TL'ye varan kuponları kapmak için acele edin.",
@@ -574,28 +662,6 @@
    "url": "/haber/amd-venice-islemcilerle-256-cekirdege-cikti-58297125/"
   },
   {
-   "id": "dd232982",
-   "title": "Rahmindeki miyom girişimsel radyoloji yöntemiyle tedavi edildi",
-   "summary": "Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi'nde görev yapan Gül Oğuz, rahmindeki miyomun neden olduğu idrar sıkışması ve kasık ağrısı şikayetlerinden ameliyata gerek duyulmadan uygulanan girişimsel radyoloji…",
-   "link": "https://www.aa.com.tr/tr/gundem/rahmindeki-miyom-girisimsel-radyoloji-yontemiyle-tedavi-edildi/4119826",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T08:09:47+00:00",
-   "url": "/haber/rahmindeki-miyom-girisimsel-radyoloji-yontemiyle-tedavi-edildi-dd232982/"
-  },
-  {
-   "id": "71d50704",
-   "title": "T3 Vakfı, çocukları iklim sorunlarına teknolojiyle çözüm üretmeye teşvik ediyor",
-   "summary": "Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) bünyesinde yürütülen \"Bilim Türkiye\" adlı proje sayesinde erken yaşta bilimle buluşturulan çocuklar, iklim değişikliği ve sürdürülebilirlik alanlarında bilimsel çözümler…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/t3-vakfi-cocuklari-iklim-sorunlarina-teknolojiyle-cozum-uretmeye-tesvik-ediyor/4119817",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T08:07:26+00:00",
-   "url": "/haber/t3-vakfi-cocuklari-iklim-sorunlarina-teknolojiyle-cozum-uretmeye-tesvi-71d50704/"
-  },
-  {
    "id": "4c311391",
    "title": "Gemini 4 Carbon Ultra abonelerine açıldı",
    "summary": "Google, Gemini 4 Carbon Ultra aboneleri için yayına girdi. Model Gemini uygulamasında, Arama'daki AI Mode'da ve Antigravity'de kullanılabiliyor; API fiyatları 1 Aralık'ta ikiye katlanacak.",
@@ -605,17 +671,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T08:06:03+00:00",
    "url": "/haber/gemini-4-carbon-ultra-abonelerine-acildi-4c311391/"
-  },
-  {
-   "id": "0fc0de0b",
-   "title": "Osmanlı İstanbulu'nun gündelik yaşamı yapay zekayla gün yüzüne çıkarılıyor",
-   "summary": "Marmara Üniversitesi bünyesinde geliştirilen \"İstanbul Time Machine\" projesiyle, Osmanlı dönemine ait gazete haberleri ve tarihi haritalar yapay zeka teknolojileriyle bir araya getirilerek İstanbul'un geçmişteki…",
-   "link": "https://www.aa.com.tr/tr/kultur/osmanli-istanbulunun-gundelik-yasami-yapay-zekayla-gun-yuzune-cikariliyor/4119810",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T08:05:24+00:00",
-   "url": "/haber/osmanli-istanbulu-nun-gundelik-yasami-yapay-zekayla-gun-yuzune-cikaril-0fc0de0b/"
   },
   {
    "id": "090129bc",
@@ -772,17 +827,6 @@
    "url": "/haber/yeni-bir-ford-mustang-cobra-geliyor-209405d5/"
   },
   {
-   "id": "7d5e4341",
-   "title": "Elektrik hattı geriliminde yeni gelişme: Ankara'dan Fransız gemisine onay çıktı",
-   "summary": "Ankara-Paris-Atina hattında gerilime neden olan elektrik hattı projesinde, Fransız gemisinin Türkiye'nin belirlediği koordinatlarda çalışma yapabilmesine izin verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/ankaradan-fransiz-arastirma-gemisine-izin-cikti-1750383",
-   "image": "https://images.ntv.com.tr/images/DışişleriBakanlığı-120292.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T07:10:49+00:00",
-   "url": "/haber/elektrik-hatti-geriliminde-yeni-gelisme-ankara-dan-fransiz-gemisine-on-7d5e4341/"
-  },
-  {
    "id": "444ac371",
    "title": "Firefox 160 ile “Mini Window” özelliği kullanıma sunuldu",
    "summary": "Yayınlanan “Firefox 160” sürümüyle birlikte yeni geliştirilen “Mini Window” özelliği beta olarak kullanıma sunuldu. Temelde video odaklı Picture-in-Picture (PiP) modunun web siteleri için uyarlanmış hali olan Mini…",
@@ -937,17 +981,6 @@
    "url": "/haber/turk-telekom-dev-ges-in-temelini-cop31-de-atti-aac7fcad/"
   },
   {
-   "id": "013b9d85",
-   "title": "Sony, Fairgames oyununu iptal etti",
-   "summary": "Sony, 2023'te duyurduğu soygun temalı oyun Fairgames'i iptal etti. Karar, son testte oyuncu geri bildirimlerinin ve oyunda kalma oranlarının hedefin altında kalmasının ardından geldi.",
-   "link": "https://shiftdelete.net/fairgames-iptal-edildi-sony-haven-studios",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/998c901d8841b29f93a4018a7dd849284a43a9b4.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-11T05:30:00+00:00",
-   "url": "/haber/sony-fairgames-oyununu-iptal-etti-013b9d85/"
-  },
-  {
    "id": "39aefbab",
    "title": "Yılın son enflasyon raporu yarın açıklanacak",
    "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan yılın son Enflasyon Raporu'nu yarın İstanbul'da açıklayacak.",
@@ -959,15 +992,15 @@
    "url": "/haber/yilin-son-enflasyon-raporu-yarin-aciklanacak-39aefbab/"
   },
   {
-   "id": "a7998011",
-   "title": "Dünya liderleri iklim diplomasisi için Antalya'da buluşuyor",
+   "id": "e9179c51",
+   "title": "Dünya liderleri iklim diplomasisi için Antalya'da buluştu",
    "summary": "Dünyanın iklim geleceğinin şekillendirileceği BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı’nın (COP31) üçüncü gününde, Liderler Zirvesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın ev sahipliğinde bugün…",
-   "link": "https://www.trthaber.com/haber/gundem/dunya-liderleri-iklim-diplomasisi-icin-antalyada-bulusuyor-962880.html",
+   "link": "https://www.trthaber.com/haber/gundem/dunya-liderleri-iklim-diplomasisi-icin-antalyada-bulustu-962880.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/cop31-2502155.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-11T03:54:00+00:00",
-   "url": "/haber/dunya-liderleri-iklim-diplomasisi-icin-antalya-da-bulusuyor-a7998011/"
+   "url": "/haber/dunya-liderleri-iklim-diplomasisi-icin-antalya-da-bulustu-e9179c51/"
   },
   {
    "id": "33c7e29c",
@@ -1091,17 +1124,6 @@
    "url": "/haber/rusya-veri-merkezlerini-saldirilardan-korumak-icin-yer-altina-tasiyor-82695a23/"
   },
   {
-   "id": "745682b3",
-   "title": "Google’ın en güçlü yapay zekası kullanıma açıldı: İşte Gemini 4 Carbon",
-   "summary": "Google, bugüne kadarki en güçlü yapay zeka modeli Gemini 4 Carbon'u kullanıma sundu. Yeni model, karmaşık kodlama, siber güvenlik ve bilimsel araştırmalarda öne çıkıyor.",
-   "link": "https://www.donanimhaber.com/google-gemini-4-carbon-modelini-kullanima-sundu-iste-ozellikleri--212739",
-   "image": "https://www.donanimhaber.com/images/images/haber/212739/1200x675google-gemini-4-carbon-modelini-kullanima-sundu-iste-ozellikleri.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-10T20:26:38+00:00",
-   "url": "/haber/google-in-en-guclu-yapay-zekasi-kullanima-acildi-iste-gemini-4-carbon-745682b3/"
-  },
-  {
    "id": "606e68d0",
    "title": "Başsavcılık, Adli Tıp'ın Kaşif Kozinoğlu raporuna itiraz etti",
    "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüne ilişkin soruşturmada başsavcılık, Adli Tıp Kurumu'nun raporuna itiraz etti.",
@@ -1133,6 +1155,17 @@
    "category": "gundem",
    "date": "2026-11-10T14:42:00+00:00",
    "url": "/haber/kasif-kozinoglu-nun-olumune-iliskin-adli-tip-raporuna-itiraz-28d294a4/"
+  },
+  {
+   "id": "46d26a71",
+   "title": "Turkcell'den yılın üçüncü çeyreğinde güçlü büyüme",
+   "summary": "Turkcell, 2026 yılının üçüncü çeyreğinde konsolide gelirlerini yıllık bazda yüzde 6,2 artırarak 82 milyar liraya yükseltti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkcellden-yilin-ucuncu-ceyreginde-guclu-buyume/4119096",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-10T14:26:41+00:00",
+   "url": "/haber/turkcell-den-yilin-ucuncu-ceyreginde-guclu-buyume-46d26a71/"
   },
   {
    "id": "53009142",
@@ -1188,39 +1221,6 @@
    "category": "gundem",
    "date": "2026-11-10T08:54:00+00:00",
    "url": "/haber/brent-petrol-90-dolarin-altina-geriledi-ca3f0418/"
-  },
-  {
-   "id": "b79a93bb",
-   "title": "Nvidia ve CEO'su Huang'a yatırımcıları yanılttıkları iddiasıyla dava açıldı",
-   "summary": "ABD'li çip üreticisi Nvidia ve şirketin Üst Yöneticisi (CEO) Jensen Huang hakkında, Huang'ın Çin adına istihbarat topladığı öne sürülen Singapur merkezli Megaspeed şirketinin eski yöneticisi Alice Huang ile ilişkisini…",
-   "link": "https://www.trthaber.com/haber/dunya/nvidia-ve-ceosu-huanga-yatirimcilari-yanilttiklari-iddiasiyla-dava-acildi-962737.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/jensen-huang-rei-2502238.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-10T03:13:00+00:00",
-   "url": "/haber/nvidia-ve-ceo-su-huang-a-yatirimcilari-yanilttiklari-iddiasiyla-dava-a-b79a93bb/"
-  },
-  {
-   "id": "a501b0cb",
-   "title": "Büyük Önder Atatürk'ün ebediyete intikalinin üzerinden 88 yıl geçti",
-   "summary": "Umutları tükenmiş bir milleti Milli Mücadele ateşiyle ayağa kaldırıp Anadolu'nun vatan olmasını sağlayarak, bugün 103 yaşına giren Türkiye Cumhuriyeti'ni kuran Büyük Önder Gazi Mustafa Kemal Atatürk'ün ebediyete…",
-   "link": "https://www.trthaber.com/haber/gundem/buyuk-onder-ataturkun-ebediyete-intikalinin-uzerinden-88-yil-gecti-962660.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1940000/ataturk-cumhuriyet-aa-1940158.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-09T21:00:00+00:00",
-   "url": "/haber/buyuk-onder-ataturk-un-ebediyete-intikalinin-uzerinden-88-yil-gecti-a501b0cb/"
-  },
-  {
-   "id": "afe27ddc",
-   "title": "Apple'dan Türkiye'ye uzun vadeli yatırım: 5 yeni akademi ve 1 merkez açılacak",
-   "summary": "ABD'li teknoloji şirketi Apple, Türkiye'de beş yeni Apple Developer Academy, bir Apple Developer Center ve bir Apple Manufacturing Academy açacağını duyurdu. Gelecek üç yılda hayata geçirilecek yatırımlar kapsamında ilk…",
-   "link": "https://www.trthaber.com/haber/bilim-teknoloji/appledan-turkiyeye-uzun-vadeli-yatirim-5-yeni-akademi-ve-1-merkez-acilacak-962722.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1474000/apple-1475165.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-09T19:40:00+00:00",
-   "url": "/haber/apple-dan-turkiye-ye-uzun-vadeli-yatirim-5-yeni-akademi-ve-1-merkez-ac-afe27ddc/"
   },
   {
    "id": "29125415",
