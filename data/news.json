@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:01:09.440393+00:00",
+ "updated": "2026-11-11T21:31:00.942156+00:00",
  "items": [
   {
    "id": "44bfe53f",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-11T21:00:00+00:00",
+   "date": "2026-11-11T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-44bfe53f/"
+  },
+  {
+   "id": "15143746",
+   "title": "İngiltere Kralı 3. Charles'tan COP31 mesajı. Cumhurbaşkanı Erdoğan ve Türk halkıan teşekkür etti",
+   "summary": "İngiltere Kralı 3. Charles, Antalya'da düzenlenen COP31 Liderler Zirvesi'ne mesaj gönderdi.",
+   "link": "https://www.ntv.com.tr/turkiye/ingiltere-krali-3-charlestan-cop31-mesaji-cumhurbaskani-erdogan-ve-turk-halkian-tesekkur-etti-1750485",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_b77a0d20a739e49aa56c593b26ccb2f9-905864.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-11T21:29:57+00:00",
+   "url": "/haber/ingiltere-krali-3-charles-tan-cop31-mesaji-cumhurbaskani-erdogan-ve-tu-15143746/"
+  },
+  {
+   "id": "aa91cd2f",
+   "title": "Türkiye ve AB'den e-imza için ilk adım",
+   "summary": "Türkiye ile Avrupa Komisyonu, elektronik imza ve mühürlerin karşılıklı tanınması için Kişinev'de niyet beyanı imzaladı. İlk teknik toplantı Kasım 2026'da yapılacak.",
+   "link": "https://shiftdelete.net/turkiye-ab-elektronik-imza-karsilikli-taninma",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/c10c6a742fb6b6bbeb6b06cf7abd85ab1cfee2e6.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-11T21:20:00+00:00",
+   "url": "/haber/turkiye-ve-ab-den-e-imza-icin-ilk-adim-aa91cd2f/"
+  },
+  {
+   "id": "4cfbc567",
+   "title": "QuantumScape tamamen katı hal pilini tanıttı: 5 dakikada yüzde 80 şarj!",
+   "summary": "QuantumScape, Osprey adını verdiği tamamen katı hal batarya platformunu duyurdu. Şirket, uygun test koşullarında yüzde 10'dan yüzde 80 doluluğa yalnızca 5 dakikada ulaşabildiğini açıkladı.",
+   "link": "https://www.donanimhaber.com/quantumscape-tamamen-kati-hal-bataryasini-tanitti--212791",
+   "image": "https://www.donanimhaber.com/images/images/haber/212791/1200x675quantumscape-tamamen-kati-hal-bataryasini-tanitti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-11T21:20:00+00:00",
+   "url": "/haber/quantumscape-tamamen-kati-hal-pilini-tanitti-5-dakikada-yuzde-80-sarj-4cfbc567/"
   },
   {
    "id": "2de4f677",
@@ -508,17 +541,6 @@
    "url": "/haber/turk-telekom-un-cop31-standini-gezdik-6c87d54a/"
   },
   {
-   "id": "eb144080",
-   "title": "Ozempic ve Mounjaro gibi zayıflama ilaçları için ‘kalıcı körlük’ uyarısı",
-   "summary": "FDA, Ozempic ve Mounjaro dahil GLP-1 grubu diyabet ve zayıflama ilaçlarının ani görme kaybına ve kalıcı körlüğe yol açabilen nadir bir göz rahatsızlığıyla ilişkili olabileceği uyarısında bulundu.",
-   "link": "https://www.donanimhaber.com/ozempic-ve-mounjaro-gibi-zayiflama-ilaclari-icin-korluk-uyarisi--212782",
-   "image": "https://www.donanimhaber.com/images/images/haber/212782/1200x675ozempic-ve-mounjaro-gibi-zayiflama-ilaclari-icin-korluk-uyarisi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-11T16:35:00+00:00",
-   "url": "/haber/ozempic-ve-mounjaro-gibi-zayiflama-ilaclari-icin-kalici-korluk-uyarisi-eb144080/"
-  },
-  {
    "id": "4016630d",
    "title": "MSI'ın RTX Spark'lı mini PC'si 1,3 litreye sığdı",
    "summary": "MSI EdgeMesa N AI+, Nvidia RTX Spark kullanan ilk MSI mini bilgisayarı olarak ABD'de satışa çıktı. 1,3 litrelik kasada 6.144 CUDA çekirdekli GPU bulunuyor.",
@@ -684,17 +706,6 @@
    "url": "/haber/cop31-baskani-kurum-turkiye-uzlasiya-katki-sunmaya-hazir-f5c49d1c/"
   },
   {
-   "id": "c8d064bf",
-   "title": "Logitech'ten çalışanlarına GTA 6 için oyun izni",
-   "summary": "Logitech, Logi Game Day uygulamasıyla dünyadaki yaklaşık 7.000 çalışanına oyun oynamaları için bir gün izin tanıdı. Ofisler ise GTA 6'nın çıkış günü olan 19 Kasım'da açık kalacak.",
-   "link": "https://shiftdelete.net/logi-game-day-logitech-oyun-izni-gta-6",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/1547d10f09821df208ad828dc3d01ada325eb29f.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-11T14:20:00+00:00",
-   "url": "/haber/logitech-ten-calisanlarina-gta-6-icin-oyun-izni-c8d064bf/"
-  },
-  {
    "id": "203dd530",
    "title": "Mutfakta Sadece Havayı Değil, Modunuzu da Değiştiren Teknolojiler: Renk Değiştiren Akıllı Davlumbazlar",
    "summary": "Mutfaklar artık sadece yemek pişirip çıktığımız kapalı odalar olmaktan çoktan çıktı. Özellikle modern tasarımların ve açık mutfak konseptlerinin yaygınlaşmasıyla birlikte buralar; misafir ağırladığımız, kahve eşliğinde…",
@@ -737,17 +748,6 @@
    "category": "gundem",
    "date": "2026-11-11T13:26:12+00:00",
    "url": "/haber/poligonda-dehset-anlar-tabancayi-basina-dogrultan-kisiye-egitmen-boyle-473fe3e1/"
-  },
-  {
-   "id": "07ce9235",
-   "title": "CHP kurultay davası 18 Kasım'a ertelendi",
-   "summary": "CHP’nin 38’inci Olağan Kurultayı’nda usulsüzlük yapıldığı iddiasıyla aralarında Ekrem İmamoğlu’nun da olduğu 12 sanığın yargılandığı dava, 18 Kasım'a ertelendi.",
-   "link": "https://www.ntv.com.tr/turkiye/chp-kurultay-davasi-18-kasima-ertelendi-1750435",
-   "image": "https://images.ntv.com.tr/images/chpKurultay-398799.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T13:09:55+00:00",
-   "url": "/haber/chp-kurultay-davasi-18-kasim-a-ertelendi-07ce9235/"
   },
   {
    "id": "decd45ff",
