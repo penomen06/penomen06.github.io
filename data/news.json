@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:30:55.374368+00:00",
+ "updated": "2026-11-11T03:01:04.050958+00:00",
  "items": [
   {
    "id": "f408b328",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-11T02:30:00+00:00",
+   "date": "2026-11-11T03:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f408b328/"
+  },
+  {
+   "id": "b41c745c",
+   "title": "Bessent, ABD ve Çin'in yapay zeka risklerinin yönetimi için işbirliği yapacağını belirtti",
+   "summary": "ABD Hazine Bakanı Scott Bessent, ABD ile Çin'in yapay zeka alanındaki riskleri yönetmeye yönelik işbirliği yapacağını ancak bu alandaki çıkar farklılıkları konusunda yanılsamaya kapılmamaları gerektiğini ifade etti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bessent-abd-ve-cinin-yapay-zeka-risklerinin-yonetimi-icin-isbirligi-yapacagini-belirtti/4119609",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T02:41:02+00:00",
+   "url": "/haber/bessent-abd-ve-cin-in-yapay-zeka-risklerinin-yonetimi-icin-isbirligi-y-b41c745c/"
   },
   {
    "id": "9eb9eb20",
@@ -341,17 +352,6 @@
    "category": "gundem",
    "date": "2026-11-10T20:51:27+00:00",
    "url": "/haber/abd-nin-iran-a-yonelik-olasi-saldirisini-arabulucularin-yuruttugu-dola-d0fbdbb3/"
-  },
-  {
-   "id": "8c40fc4b",
-   "title": "İsrail'in Gazze kentine düzenlediği saldırıda Filistinlilerin yaşadığı çadırlar küle döndü",
-   "summary": "İsrail ordusunun, Gazze kentine bağlı Tel el-Heva Mahallesi'ne düzenlediği saldırıda yerinden edilmiş Filistinlilerin yaşadığı çok sayıda çadır yandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazze-kentine-duzenledigi-saldirida-filistinlilerin-yasadigi-cadirlar-kule-dondu/4119532",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-10T20:40:20+00:00",
-   "url": "/haber/israil-in-gazze-kentine-duzenledigi-saldirida-filistinlilerin-yasadigi-8c40fc4b/"
   },
   {
    "id": "82695a23",
