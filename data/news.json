@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:01:10.610864+00:00",
+ "updated": "2026-11-12T00:30:57.412984+00:00",
  "items": [
   {
    "id": "44bfe53f",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-12T00:00:00+00:00",
+   "date": "2026-11-12T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-44bfe53f/"
+  },
+  {
+   "id": "81f91559",
+   "title": "İzmir'de fabrikadaki patlamaya ilişkin 9 şüpheli tutuklandı",
+   "summary": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında 18 kişinin hayatını kaybettiği patlamaya ilişkin gözaltına alınan 11 şüpheliden 9'u tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/izmirde-fabrikadaki-patlamaya-iliskin-9-supheli-tutuklandi/4121551",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T00:20:58+00:00",
+   "url": "/haber/izmir-de-fabrikadaki-patlamaya-iliskin-9-supheli-tutuklandi-81f91559/"
+  },
+  {
+   "id": "3457a2f7",
+   "title": "İzmir'de fabrikadaki patlamaya ilişkin 9 şüpheli tutuklandı",
+   "summary": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında 18 kişinin hayatını kaybettiği patlamaya ilişkin gözaltına alınan 11 şüpheliden 9'u tutuklandı, şirketin yönetim kurulu başkanının da aralarında olduğu 2 şüpheli ev…",
+   "link": "https://www.trthaber.com/haber/turkiye/izmirde-fabrikadaki-patlamaya-iliskin-9-supheli-tutuklandi-962981.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/izmir-fabrika-patlama-aa-2502230.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-11T23:46:00+00:00",
+   "url": "/haber/izmir-de-fabrikadaki-patlamaya-iliskin-9-supheli-tutuklandi-3457a2f7/"
   },
   {
    "id": "68ca2b74",
@@ -55,6 +77,28 @@
    "category": "gundem",
    "date": "2026-11-11T22:25:49+00:00",
    "url": "/haber/abd-temsilciler-meclisi-savunma-bakani-hegseth-e-yonelik-azil-girisimi-05491eec/"
+  },
+  {
+   "id": "178bb6b0",
+   "title": "Gazze'de öldürülen Filistinli genç kaleci, İsrail soykırımının son sporcu kurbanı oldu",
+   "summary": "İsrail'in Gazze Şeridi'ne yönelik soykırımında hayatını kaybeden Filistinli sporcuların sayısı, Gazze Spor Kulübü kalecisi Mahmud Kemal Abdulmalik'in yaşamını yitirmesiyle 1017'ye yükseldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-oldurulen-filistinli-genc-kaleci-israil-soykiriminin-son-sporcu-kurbani-oldu/4121523",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T22:24:48+00:00",
+   "url": "/haber/gazze-de-oldurulen-filistinli-genc-kaleci-israil-soykiriminin-son-spor-178bb6b0/"
+  },
+  {
+   "id": "53fd054f",
+   "title": "BM Acil Yardım Koordinatörü Fletcher’dan, Gazze'de \"toplu cezalandırmanın durması\" çağrısı",
+   "summary": "Birleşmiş Milletler (BM) Genel Sekreter Yardımcısı ve Acil Yardım Koordinatörü Tom Fletcher, Gazze'ye \"tüm geçiş noktalarının açılması\" ve \"toplu cezalandırmanın durması\" çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-acil-yardim-koordinatoru-fletcher-dan-gazzede-toplu-cezalandirmanin-durmasi-cagrisi/4121522",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T22:24:32+00:00",
+   "url": "/haber/bm-acil-yardim-koordinatoru-fletcher-dan-gazze-de-toplu-cezalandirmani-53fd054f/"
   },
   {
    "id": "76d050f0",
@@ -156,28 +200,6 @@
    "url": "/haber/quantumscape-tamamen-kati-hal-pilini-tanitti-5-dakikada-yuzde-80-sarj-4cfbc567/"
   },
   {
-   "id": "fd827a24",
-   "title": "Azerbaycan Cumhurbaşkanı Yardımcısı Alekberov'dan Azerbaycan Pavilyonu'na ziyaret",
-   "summary": "Azerbaycan Cumhurbaşkanı Yardımcısı Anar Alekberov ile Azerbaycan Cumhurbaşkanı İlham Aliyev'in kızı Leyla Aliyeva, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda Azerbaycan…",
-   "link": "https://www.aa.com.tr/tr/gundem/azerbaycan-cumhurbaskani-yardimcisi-alekberovdan-azerbaycan-pavilyonuna-ziyaret/4121482",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T21:10:34+00:00",
-   "url": "/haber/azerbaycan-cumhurbaskani-yardimcisi-alekberov-dan-azerbaycan-pavilyonu-fd827a24/"
-  },
-  {
-   "id": "7f5dca1a",
-   "title": "BM Genel Sekreteri Guterres: Doğal afetlerde ve iklim değişikliklerinde erken uyarı hayat kurtarır",
-   "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"Doğal afetlerde ve iklim değişikliklerinde erken uyarı hayat kurtarır. Kapsamlı erken uyarı sistemlerine sahip ülkelerde afet kaynaklı ölüm oranları neredeyse…",
-   "link": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreteri-guterres-dogal-afetlerde-ve-iklim-degisikliklerinde-erken-uyari-hayat-kurtarir/4121480",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T21:10:26+00:00",
-   "url": "/haber/bm-genel-sekreteri-guterres-dogal-afetlerde-ve-iklim-degisikliklerinde-7f5dca1a/"
-  },
-  {
    "id": "2de4f677",
    "title": "Çin’de elektrikli araç ihracatı yüzde 140 arttı, iç satışlar geriledi",
    "summary": "Çin’den ekimde 606 bin yeni enerjili araç ihraç edildi. İhracat yıllık bazda yüzde 140 büyürken iç pazardaki satışlar yüzde 8,6 düştü. Böylece toplam satışların yaklaşık üçte biri yurt dışına gitti.",
@@ -220,17 +242,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T20:50:00+00:00",
    "url": "/haber/pil-testinde-zirve-iphone-18-pro-max-in-0c2d488e/"
-  },
-  {
-   "id": "7a2eddc0",
-   "title": "Ukrayna Devlet Başkanı Zelenskiy, liderler düzeyinde üçlü zirve için görüşmelerin sürdüğünü belirtti",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya ile savaşın sona erdirilmesi yönünde liderler düzeyinde üçlü zirvenin düzenlenmesi için görüşmelerin devam ettiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-devlet-baskani-zelenskiy-liderler-duzeyinde-uclu-zirve-icin-gorusmelerin-surdugunu-belirtti-/4121461",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T20:48:33+00:00",
-   "url": "/haber/ukrayna-devlet-baskani-zelenskiy-liderler-duzeyinde-uclu-zirve-icin-go-7a2eddc0/"
   },
   {
    "id": "47ea7a1a",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-11-10T08:54:00+00:00",
    "url": "/haber/brent-petrol-90-dolarin-altina-geriledi-ca3f0418/"
-  },
-  {
-   "id": "a501b0cb",
-   "title": "Büyük Önder Atatürk'ün ebediyete intikalinin üzerinden 88 yıl geçti",
-   "summary": "Umutları tükenmiş bir milleti Milli Mücadele ateşiyle ayağa kaldırıp Anadolu'nun vatan olmasını sağlayarak, bugün 103 yaşına giren Türkiye Cumhuriyeti'ni kuran Büyük Önder Gazi Mustafa Kemal Atatürk'ün ebediyete…",
-   "link": "https://www.trthaber.com/haber/gundem/buyuk-onder-ataturkun-ebediyete-intikalinin-uzerinden-88-yil-gecti-962660.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1940000/ataturk-cumhuriyet-aa-1940158.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-09T21:00:00+00:00",
-   "url": "/haber/buyuk-onder-ataturk-un-ebediyete-intikalinin-uzerinden-88-yil-gecti-a501b0cb/"
   },
   {
    "id": "763dea3e",
