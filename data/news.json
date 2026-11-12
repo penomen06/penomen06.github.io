@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-12T04:30:55.645424+00:00",
+ "updated": "2026-11-12T05:01:04.818465+00:00",
  "items": [
+  {
+   "id": "983881b3",
+   "title": "AB'nin yeni yasası loot box'lara göz dikti",
+   "summary": "AB Komisyonu, oyun, sosyal medya ve e-ticaret platformlarını kapsayan Dijital Adalet Yasası taslağını yayımladı. Taslak henüz yasalaşmadı ve değişebilir.",
+   "link": "https://shiftdelete.net/dijital-adalet-yasasi-ab-loot-box-influencer",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/a95b2d74b581f84d32f278cad18912fdbfe7924c.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-12T05:00:00+00:00",
+   "url": "/haber/ab-nin-yeni-yasasi-loot-box-lara-goz-dikti-983881b3/"
+  },
   {
    "id": "44bfe53f",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 12 Kasım 2026",
@@ -9,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-12T04:30:01+00:00",
+   "date": "2026-11-12T05:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-44bfe53f/"
+  },
+  {
+   "id": "49afbfca",
+   "title": "Apex Neural Rendering, beta olarak geldi",
+   "summary": "Apex Compute, 11 Kasım 2026'da kare üretimi betasını açtı. Şirket, NVIDIA DLSS karşısında 2,4 kata kadar hız iddiasını kendi testlerine mi dayandırıyor?",
+   "link": "https://shiftdelete.net/apex-neural-rendering",
+   "image": "https://shiftdelete.net/static/img/content/26-11/12/apex-neural-rendering.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-12T04:41:11+00:00",
+   "url": "/haber/apex-neural-rendering-beta-olarak-geldi-49afbfca/"
   },
   {
    "id": "c8107577",
@@ -176,6 +198,17 @@
    "category": "gundem",
    "date": "2026-11-12T02:36:11+00:00",
    "url": "/haber/meteoroloji-den-aralarinda-istanbul-un-da-oldugu-11-il-icin-sari-kodlu-40b33c32/"
+  },
+  {
+   "id": "78a08fb2",
+   "title": "New York'ta bina çöktü",
+   "summary": "New York'un Brooklyn kentinde çöken binanın enkazı altında kalan en az bir kişi öldü, bazı apartman sakinleri yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/new-yorkta-bina-coktu-962982.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/new-yorkta-coken-bina-aa-2502995.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-12T02:22:00+00:00",
+   "url": "/haber/new-york-ta-bina-coktu-78a08fb2/"
   },
   {
    "id": "02dacccc",
@@ -541,17 +574,6 @@
    "url": "/haber/abd-yonetimi-jensen-huang-in-cinli-casusla-iliskisi-hakkinda-aylar-onc-9506cd64/"
   },
   {
-   "id": "6724a6b2",
-   "title": "Google Ads'te Türkiye ek ücreti 2027'de düşüyor",
-   "summary": "Google, Türkiye'de yayınlanan reklamlar için aldığı Yasal İşletim Maliyeti oranını 1 Ocak 2027'den itibaren yüzde 4,5'ten düşürecek. Yeni oran e-postada yüzde 2,25, destek sayfasında yüzde 2,5.",
-   "link": "https://shiftdelete.net/google-reklam-ek-ucreti-turkiye-2027",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/google-reklam-ek-ucreti-turkiye-1111.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-11T17:20:00+00:00",
-   "url": "/haber/google-ads-te-turkiye-ek-ucreti-2027-de-dusuyor-6724a6b2/"
-  },
-  {
    "id": "2ff1f079",
    "title": "Burhanettin Duran: Türkiye diplomasinin merkezinde",
    "summary": "İletişim Başkanı Burhanettin Duran, Türkiye'nin NATO ve Türk Devletleri Teşkilatı zirvelerinin ardından COP31 ile diplomasinin merkezinde olmayı devam ettirdiğini söyledi.",
@@ -583,17 +605,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T16:55:00+00:00",
    "url": "/haber/kuresel-yesil-finans-piyasasi-7-3-trilyon-dolari-asti-ec6a6146/"
-  },
-  {
-   "id": "88a12206",
-   "title": "Oppo A7 Ultra, 12.000 mAh ile aralıkta gelebilir",
-   "summary": "Oppo A7 Ultra'nın Aralık ayında 12.000 mAh bataryayla piyasaya çıkacağı iddia edildi. MIIT'teki PNC110 kaydının yeni görselleri telefonun tasarımını gösteriyor.",
-   "link": "https://shiftdelete.net/oppo-a7-ultra-12000-mah-batarya-aralik",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/oppo-a7-ultra-kapak-v2-1111.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-11T16:50:00+00:00",
-   "url": "/haber/oppo-a7-ultra-12-000-mah-ile-aralikta-gelebilir-88a12206/"
   },
   {
    "id": "cae6c230",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-11-10T08:54:00+00:00",
    "url": "/haber/brent-petrol-90-dolarin-altina-geriledi-ca3f0418/"
-  },
-  {
-   "id": "763dea3e",
-   "title": "İzmir'de demir çelik fabrikasında patlama: 17 ölü, 12 yaralı",
-   "summary": "İzmir'de 17 kişinin hayatını kaybettiği, 12 kişinin yaralandığı patlamanın meydana geldiği demir çelik fabrikasında arama kurtarma çalışmaları sürüyor.",
-   "link": "https://www.trthaber.com/haber/turkiye/izmirde-demir-celik-fabrikasinda-patlama-17-olu-12-yarali-962677.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/patlama-aa-2502218.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-09T09:41:00+00:00",
-   "url": "/haber/izmir-de-demir-celik-fabrikasinda-patlama-17-olu-12-yarali-763dea3e/"
   }
  ]
 }
