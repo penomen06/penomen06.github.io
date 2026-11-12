@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-12T00:30:57.412984+00:00",
+ "updated": "2026-11-12T01:01:06.609495+00:00",
  "items": [
+  {
+   "id": "241d7238",
+   "title": "HABAŞ patlaması: Gözaltına alınan dokuz kişi tutuklandı, şirketin yönetim kurulu başkanı adli kontrolle serbest",
+   "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda 19 işçinin öldüğü patlamanın ardından gözaltına alınan 11 kişiden 9'u tutuklandı. Şirketin yönetim kurulu başkanı Mehmet Rüştü Başaran dahil…",
+   "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6845/live/1d47dab0-de34-11f1-b8ec-f53576d91bbb.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-12T01:00:02+00:00",
+   "url": "/haber/habas-patlamasi-gozaltina-alinan-dokuz-kisi-tutuklandi-sirketin-yoneti-241d7238/"
+  },
   {
    "id": "44bfe53f",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 12 Kasım 2026",
@@ -9,8 +20,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-12T00:30:00+00:00",
+   "date": "2026-11-12T01:00:01+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-44bfe53f/"
+  },
+  {
+   "id": "d42ac849",
+   "title": "Dokunulmazlık dosyaları için üç senaryo: Sarıgül dosyası 'koçbaşı' olur mu?",
+   "summary": "Bağımsız Erzincan Milletvekili Mustafa Sarıgül hakkında cinsel istismar ve nitelikli cinsel saldırı iddialarının da yer aldığı soruşturma dosyasının Ankara Cumhuriyet Başsavcılığı'na gönderilmesi, milletvekili…",
+   "link": "https://www.bbc.com/turkce/articles/cv1j6lk0x3xwo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8901/live/7c5e5c60-de1e-11f1-9d68-c1daaffc01f2.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-12T00:29:49+00:00",
+   "url": "/haber/dokunulmazlik-dosyalari-icin-uc-senaryo-sarigul-dosyasi-kocbasi-olur-m-d42ac849/"
+  },
+  {
+   "id": "b33caa23",
+   "title": "Beyaz ailenin büyüttüğü siyah kız çocuğu: 'Bana gerçeği neden söylemediniz?'",
+   "summary": "Lacey Tezino, Teksas'ta ırkçılığın kol gezdiği bir kasabada beyaz bir aile tarafından büyütüldü. Babası Ronnie ile mutlu bir çocukluk geçirdi. Öldüğü söylenen annesinin izini sürdüğünde ise hakikatle yüzleşti.",
+   "link": "https://www.bbc.com/turkce/articles/ckz6qx8841zjo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/77ab/live/369c8410-ddcc-11f1-93e1-3b657b665bcf.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-12T00:29:30+00:00",
+   "url": "/haber/beyaz-ailenin-buyuttugu-siyah-kiz-cocugu-bana-gercegi-neden-soylemedin-b33caa23/"
+  },
+  {
+   "id": "5314bf42",
+   "title": "ABD Savunma Bakanı Hegseth'e nöbetçi askerden sert uyarı",
+   "summary": "ABD Savunma Bakanı Pete Hegseth ve birlikte bulunduğu danışmanlardan oluşan bir grup, çarşamba günü Arlington Ulusal Mezarlığı'ndaki Meçhul Asker Mezarı'nda bir nöbetçi asker tarafından sert şekilde uyarıldı.",
+   "link": "https://www.bbc.com/turkce/articles/cmwy43jnqg9zo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f85b/live/1021b630-de2f-11f1-b774-7f78a4651a0b.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-12T00:28:39+00:00",
+   "url": "/haber/abd-savunma-bakani-hegseth-e-nobetci-askerden-sert-uyari-5314bf42/"
   },
   {
    "id": "81f91559",
@@ -308,17 +352,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T20:08:00+00:00",
    "url": "/haber/huawei-336-kwh-kapasiteli-yeni-ev-tipi-enerji-depolama-sistemini-tanit-aca13768/"
-  },
-  {
-   "id": "241d7238",
-   "title": "HABAŞ demir çelikteki patlamada can kaybı 19'a çıktı, 11 gözaltı",
-   "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda 19 kişinin ölümüyle sonuçlanan patlamanın ardından, şirketin yönetim kurulu başkanı dahil 11 kişi için gözaltı kararı verildi.",
-   "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/816d/live/a905bdb0-dc31-11f1-a701-fddedf244c16.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-11T19:52:55+00:00",
-   "url": "/haber/habas-demir-celikteki-patlamada-can-kaybi-19-a-cikti-11-gozalti-241d7238/"
   },
   {
    "id": "6951b134",
@@ -970,17 +1003,6 @@
    "url": "/haber/madrid-li-vinicius-jr-dan-savasta-bacaklarini-kaybeden-cocuga-surpriz-c8fb9ea9/"
   },
   {
-   "id": "0e69fe49",
-   "title": "BDDK Başkanı Şahap Kavcıoğlu istifa etti",
-   "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu fon kriziyle ilgili hakkında çıkan iddialar nedeniyle görevinden istifa ettiğini duyurdu. Kavcıoğlu bu kararı \"kurumun daha fazla yıpranmaması için…",
-   "link": "https://www.bbc.com/turkce/articles/c5742lzd1m20o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da9e/live/422f1ed0-dda6-11f1-adb0-1dc1c3f8d17c.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-11T10:16:01+00:00",
-   "url": "/haber/bddk-baskani-sahap-kavcioglu-istifa-etti-0e69fe49/"
-  },
-  {
    "id": "67015c8b",
    "title": "İstanbul'a fırtına uyarısı: Rüzgarın hızı 90 kilometreye çıkacak",
    "summary": "İstanbul Valiliği, kentte yarın öğle saatlerinden itibaren kuvvetlenmesi, cuma günü ise hızının saatte 90 kilometreye ulaşması beklenen rüzgar ve fırtınaya karşı vatandaşları uyardı.",
@@ -1056,17 +1078,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T08:34:32+00:00",
    "url": "/haber/dokunmatik-proled-xdr-ekranli-macbook-pro-parcalarina-ayrildi-video-11da7680/"
-  },
-  {
-   "id": "3a50fc29",
-   "title": "Fon krizi borsayı ne kadar etkiledi, uzmanlar ve yatırımcılar ne diyor?",
-   "summary": "Fon krizinin üzerinden yaklaşık 1,5 ay geçti. Kriz, Türkiye'de borsayı da etkiledi. Peki bu etkinin şekli ve boyutu ne oldu? BBC Türkçe araştırdı.",
-   "link": "https://www.bbc.com/turkce/articles/cmzxlxwzlkrqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4e1/live/6e847e80-dd38-11f1-ab86-698de9f28d28.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-11T08:33:34+00:00",
-   "url": "/haber/fon-krizi-borsayi-ne-kadar-etkiledi-uzmanlar-ve-yatirimcilar-ne-diyor-3a50fc29/"
   },
   {
    "id": "7d9c23db",
@@ -1210,17 +1221,6 @@
    "category": "gundem",
    "date": "2026-11-10T14:42:00+00:00",
    "url": "/haber/kasif-kozinoglu-nun-olumune-iliskin-adli-tip-raporuna-itiraz-28d294a4/"
-  },
-  {
-   "id": "53009142",
-   "title": "Apple'ın Türkiye yatırımı hakkında neler biliniyor?",
-   "summary": "Apple Türkiye'de toplam yedi yeni geliştirici ve üretim akademisi açacağını duyurdu.",
-   "link": "https://www.bbc.com/turkce/articles/cm4g1gy1p18eo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/184e/live/972fd540-dd07-11f1-b441-2b33b063138f.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-10T12:01:25+00:00",
-   "url": "/haber/apple-in-turkiye-yatirimi-hakkinda-neler-biliniyor-53009142/"
   },
   {
    "id": "6f7bb561",
