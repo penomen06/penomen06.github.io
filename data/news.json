@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-12T11:30:55.497863+00:00",
+ "updated": "2026-11-12T11:47:22.661612+00:00",
  "items": [
+  {
+   "id": "9855b4eb",
+   "title": "TBMM Başkanı Kurtulmuş'tan Bahçeli'ye ziyaret",
+   "summary": "TBMM Başkanı Numan Kurtulmuş, terörsüz Türkiye süreciyle ilgili son olarak MHP Genel Başkanı Devlet Bahçeli'yi ziyaret etti.",
+   "link": "https://www.ntv.com.tr/turkiye/tbmm-baskani-kurtulmustan-bahceliye-ziyaret-1750572",
+   "image": "https://images.ntv.com.tr/images/bahçelinuman-252867.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-12T11:42:46+00:00",
+   "url": "/haber/tbmm-baskani-kurtulmus-tan-bahceli-ye-ziyaret-9855b4eb/"
+  },
+  {
+   "id": "4e0d2337",
+   "title": "Manifest'in kurucusu Tolga Akış tahliye edildi",
+   "summary": "\"Müstehcenlik\" suçlamasıyla tutuklanan ve hakkında 3 yıla kadar hapis istenen Manifest'in kurucusu ve menajeri Tolga Akış, tahliye edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-manifestin-kurucusu-tolga-akis-tahliye-edildi-1750576",
+   "image": "https://images.ntv.com.tr/images/tolgaakış-593009.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-12T11:39:18+00:00",
+   "url": "/haber/manifest-in-kurucusu-tolga-akis-tahliye-edildi-4e0d2337/"
+  },
+  {
+   "id": "9ba148c9",
+   "title": "1980'lerde terk edilen benzersiz füzyon yöntemi: İlk kez başarılı oldu",
+   "summary": "Füzyon reaktörlerinin kesintisiz çalışmasını sağlayabilecek 40 yıllık bir teori ilk kez deneysel olarak doğrulandı. Helikon akım sürüşü, 1980'lerdeki başarısız denemelerin ardından başarıya ulaştı.",
+   "link": "https://www.donanimhaber.com/1980-lerde-terk-edilen-benzersiz-fuzyon-yontemi-yeniden-gundemde--212820",
+   "image": "https://www.donanimhaber.com/images/images/haber/212820/1200x6751980-lerde-terk-edilen-benzersiz-fuzyon-yontemi-yeniden-gundemde.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-12T11:39:00+00:00",
+   "url": "/haber/1980-lerde-terk-edilen-benzersiz-fuzyon-yontemi-ilk-kez-basarili-oldu-9ba148c9/"
+  },
+  {
+   "id": "e614b6c4",
+   "title": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Görgün: Türkiye son 20 yılda savunma sanayisinde önemli tecrübeler edindi",
+   "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, Türkiye'nin 1400'ü aşan projesi ve yaklaşık 120 milyar dolarlık proje portföyüyle Suudi Arabistan ile işbirliğini geliştirmeye hazır olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/cumhurbaskanligi-savunma-sanayii-baskani-gorgun-turkiye-son-20-yilda-savunma-sanayisinde-onemli-tecrubeler-edindi/4122374",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T11:30:32+00:00",
+   "url": "/haber/cumhurbaskanligi-savunma-sanayii-baskani-gorgun-turkiye-son-20-yilda-s-e614b6c4/"
+  },
   {
    "id": "54f17bef",
    "title": "Apple'ın kameralı AirPods'u üretim aşamasında",
@@ -101,17 +145,6 @@
    "url": "/haber/netanyahu-hukumeti-kurma-gorevi-alan-eisenkot-u-guvenlik-konularinda-b-6dfcdb1e/"
   },
   {
-   "id": "4e0d2337",
-   "title": "Manifest'in kurucusu Tolga Akış tahliye edildi",
-   "summary": "\"Müstehcenlik\" suçlamasıyla tutuklanan ve hakkında 3 yıla kadar hapis istenen Manifest'in kurucusu ve menajeri Tolga Akış, tahliye edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-manifestin-kurucusu-tolga-akis-tahliye-edildi-1750576",
-   "image": "https://images.ntv.com.tr/images/tolgaakış-593009.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-12T11:20:14+00:00",
-   "url": "/haber/manifest-in-kurucusu-tolga-akis-tahliye-edildi-4e0d2337/"
-  },
-  {
    "id": "80338a94",
    "title": "İsrail'de muhalif liderden Netanyahu'ya \"ülke güvenliğini tehlikeye atacak askeri kararlar almaması\" uyarısı",
    "summary": "İsrail'de muhalefet bloğunun bileşenlerinden İsrail Evimiz Partisi lideri Avigdor Liberman, Başbakan Binyamin Netanyahu'yu ülkeyi savaşa sürükleyecek güvenlik kararları almaması konusunda uyardı.",
@@ -176,17 +209,6 @@
    "category": "gundem",
    "date": "2026-11-12T11:10:58+00:00",
    "url": "/haber/demokratlarin-kongre-zaferi-turk-amerikan-iliskilerini-nasil-etkiler-514927ff/"
-  },
-  {
-   "id": "9855b4eb",
-   "title": "TBMM Başkanı Kurtulmuş'tan Bahçeli'ye ziyaret",
-   "summary": "TBMM Başkanı Numan Kurtulmuş, terörsüz Türkiye süreci kapsamında MHP Genel Başkanı Devlet Bahçeli'yi ziyaret ediyor.",
-   "link": "https://www.ntv.com.tr/turkiye/tbmm-baskani-kurtulmustan-bahceliye-ziyaret-1750572",
-   "image": "https://images.ntv.com.tr/images/bahçelinuman-252867.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-12T11:10:05+00:00",
-   "url": "/haber/tbmm-baskani-kurtulmus-tan-bahceli-ye-ziyaret-9855b4eb/"
   },
   {
    "id": "b51dce3c",
@@ -297,17 +319,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T10:34:00+00:00",
    "url": "/haber/gta-6-playstation-ve-xbox-tarihine-gecti-fd9e7cfd/"
-  },
-  {
-   "id": "90457119",
-   "title": "Türkiye'de yıllık 600 milyon fidan ve tohum hedefine ulaşıldı",
-   "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, \"Cumhurbaşkanı'mız Sayın Recep Tayyip Erdoğan'ın belirlediği 1 yılda 600 milyon fidan ve tohum hedefimizi gerçekleştirdik.\" ifadesini kullandı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyede-yillik-600-milyon-fidan-ve-tohum-hedefine-ulasildi/4122242",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T10:31:50+00:00",
-   "url": "/haber/turkiye-de-yillik-600-milyon-fidan-ve-tohum-hedefine-ulasildi-90457119/"
   },
   {
    "id": "191d3686",
@@ -1122,17 +1133,6 @@
    "category": "gundem",
    "date": "2026-11-11T23:46:00+00:00",
    "url": "/haber/izmir-de-fabrikadaki-patlamaya-iliskin-9-supheli-tutuklandi-3457a2f7/"
-  },
-  {
-   "id": "4cfbc567",
-   "title": "QuantumScape tamamen katı hal pilini tanıttı: 5 dakikada yüzde 80 şarj!",
-   "summary": "QuantumScape, Osprey adını verdiği tamamen katı hal batarya platformunu duyurdu. Şirket, uygun test koşullarında yüzde 10'dan yüzde 80 doluluğa yalnızca 5 dakikada ulaşabildiğini açıkladı.",
-   "link": "https://www.donanimhaber.com/quantumscape-tamamen-kati-hal-bataryasini-tanitti--212791",
-   "image": "https://www.donanimhaber.com/images/images/haber/212791/1200x675quantumscape-tamamen-kati-hal-bataryasini-tanitti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-11T21:20:00+00:00",
-   "url": "/haber/quantumscape-tamamen-kati-hal-pilini-tanitti-5-dakikada-yuzde-80-sarj-4cfbc567/"
   },
   {
    "id": "9171506c",
