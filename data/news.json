@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T23:30:55.111516+00:00",
+ "updated": "2026-11-12T00:01:10.610864+00:00",
  "items": [
   {
    "id": "44bfe53f",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-11T23:30:00+00:00",
+   "date": "2026-11-12T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-44bfe53f/"
   },
   {
@@ -66,6 +66,39 @@
    "category": "gundem",
    "date": "2026-11-11T22:23:41+00:00",
    "url": "/haber/rusya-nin-washington-buyukelcisi-darciyev-hayatini-kaybetti-76d050f0/"
+  },
+  {
+   "id": "6d4a3ff0",
+   "title": "Anket: Trump'ın MAGA destekçilerinin neredeyse yarısı, hareketin ara seçimlerde kaybettiğini düşünüyor",
+   "summary": "ABD'de yapılan yeni anket, Başkan Donald Trump'ın kurucusu olduğu Amerika'yı Yeniden Büyük Yap (MAGA) destekçilerinin \"neredeyse yarısının\", hareketin Kongre ara seçimlerinde kaybettiğini düşündüğünü ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/dunya/anket-trumpin-maga-destekcilerinin-neredeyse-yarisi-hareketin-ara-secimlerde-kaybettigini-dusunuyor/4121516",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T22:22:55+00:00",
+   "url": "/haber/anket-trump-in-maga-destekcilerinin-neredeyse-yarisi-hareketin-ara-sec-6d4a3ff0/"
+  },
+  {
+   "id": "837e8a41",
+   "title": "BUDO'nun 8 seferi olumsuz hava koşulları nedeniyle iptal edildi",
+   "summary": "Bursa Deniz Otobüslerinin (BUDO) 8 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/budonun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4121512",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T22:22:08+00:00",
+   "url": "/haber/budo-nun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi-837e8a41/"
+  },
+  {
+   "id": "7671ebdf",
+   "title": "United Airlines müşteri verilerinin güvenliği için yapay zeka ajanlarının erişimini kısıtlıyor",
+   "summary": "ABD'li hava yolu şirketi United Airlines, müşteri verilerini ve hesaplarını korumak amacıyla yetkisiz üçüncü taraf yapay zeka ajanlarının ve asistanlarının dijital platformlarına erişimini kısıtlayacağını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/united-airlines-musteri-verilerinin-guvenligi-icin-yapay-zeka-ajanlarinin-erisimini-kisitliyor/4121511",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T22:22:04+00:00",
+   "url": "/haber/united-airlines-musteri-verilerinin-guvenligi-icin-yapay-zeka-ajanlari-7671ebdf/"
   },
   {
    "id": "ee7ef3f5",
@@ -200,17 +233,6 @@
    "url": "/haber/ukrayna-devlet-baskani-zelenskiy-liderler-duzeyinde-uclu-zirve-icin-go-7a2eddc0/"
   },
   {
-   "id": "cf6c8e5f",
-   "title": "İngiltere Kralı 3. Charles, COP31 için Cumhurbaşkanı Erdoğan'a teşekkür etti",
-   "summary": "İngiltere Kralı 3. Charles, Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 dolayısıyla uluslararası toplumu bir araya getirdikleri için Cumhurbaşkanı Recep Tayyip Erdoğan'a, hükümetine ve Türk halkına teşekkür…",
-   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-krali-3-charles-cop31-icin-cumhurbaskani-erdogana-tesekkur-etti/4121455",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T20:44:58+00:00",
-   "url": "/haber/ingiltere-krali-3-charles-cop31-icin-cumhurbaskani-erdogan-a-tesekkur-cf6c8e5f/"
-  },
-  {
    "id": "47ea7a1a",
    "title": "Çip üretiminde yeni dönem: İlk 300 mm SiC wafer hazır",
    "summary": "Infineon, 300 mm silisyum karbür wafer kullanarak çalışan çipler üreten ilk şirket oldu. Yeni teknoloji, wafer (yonga plakası) başına çip üretimini 2,3 kat artırıyor.",
@@ -222,17 +244,6 @@
    "url": "/haber/cip-uretiminde-yeni-donem-ilk-300-mm-sic-wafer-hazir-47ea7a1a/"
   },
   {
-   "id": "e642c159",
-   "title": "Eisenkot'tan Netanyahu'ya acil olmayan askeri eylemlere kalkışmama uyarısı",
-   "summary": "İsrail'de hükümet kurma yetkisi alan Eisenkot, geçici Başbakan Netanyahu'ya acil olmayan askeri saldırılara kalkışmama uyarısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/eisenkottan-netanyahuya-acil-olmayan-askeri-eylemlere-kalkismama-uyarisi/4121445",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T20:37:57+00:00",
-   "url": "/haber/eisenkot-tan-netanyahu-ya-acil-olmayan-askeri-eylemlere-kalkismama-uya-e642c159/"
-  },
-  {
    "id": "80baf079",
    "title": "Golden Joystick'te bu yıl zirveye korku oturdu",
    "summary": "44. Golden Joystick Awards'ta Yılın Oyunu ödülünü Resident Evil Requiem kazandı. Capcom'un oyunu Konsolda Yılın Oyunu ve En İyi Fragman ödüllerini de aldı.",
@@ -242,17 +253,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T20:37:01+00:00",
    "url": "/haber/golden-joystick-te-bu-yil-zirveye-korku-oturdu-80baf079/"
-  },
-  {
-   "id": "7b6f5c6b",
-   "title": "ABD medyası: JD Vance, üst düzey İranlı güvenlik yetkilisi Rızai ile doğrudan görüşmeyi değerlendiriyor",
-   "summary": "ABD Başkan Yardımcısı JD Vance'in, \"İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai ile doğrudan görüşme yapmayı değerlendirdiği\" iddia edildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-medyasi-jd-vance-ust-duzey-iranli-guvenlik-yetkilisi-rizai-ile-dogrudan-gorusmeyi-degerlendiriyor/4121435",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T20:30:17+00:00",
-   "url": "/haber/abd-medyasi-jd-vance-ust-duzey-iranli-guvenlik-yetkilisi-rizai-ile-dog-7b6f5c6b/"
   },
   {
    "id": "a36d6f34",
