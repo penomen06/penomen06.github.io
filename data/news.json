@@ -1,6 +1,204 @@
 {
- "updated": "2026-11-12T12:30:56.280062+00:00",
+ "updated": "2026-11-12T13:01:05.990159+00:00",
  "items": [
+  {
+   "id": "419f0dc8",
+   "title": "Windows 11'de kasım yaması yarıda takılıyor",
+   "summary": "Windows 11 KB5132061 kasım güvenlik güncellemesi, ekim önizleme yamasını kuran bazı bilgisayarlarda kurulamıyor. Microsoft sorunu doğruladı ve düzeltmenin otomatik geleceğini açıkladı.",
+   "link": "https://shiftdelete.net/windows-11-kb5132061-kurulum-hatasi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/0079e06d883c6cafd8107b75fbec352e65b57de0.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-12T13:00:00+00:00",
+   "url": "/haber/windows-11-de-kasim-yamasi-yarida-takiliyor-419f0dc8/"
+  },
+  {
+   "id": "f7a99916",
+   "title": "Enerjiye ve sosyal güvenliğe ilişkin düzenlemeleri de içeren kanun teklifi TBMM'de",
+   "summary": "AK Parti milletvekillerinin imzasını taşıyan Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Başkanlığına…",
+   "link": "https://www.aa.com.tr/tr/gundem/enerjiye-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-teklifi-tbmmde/4122582",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T12:57:54+00:00",
+   "url": "/haber/enerjiye-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-tek-f7a99916/"
+  },
+  {
+   "id": "cafdc64c",
+   "title": "UKMTO: Basra Körfezi'nde bir tankere mühimmat isabet etti, çok sayıda yaralı var",
+   "summary": "İngiltere Deniz Ticaret Örgütü (UKMTO), Basra Körfezi'nde doğu yönünde seyreden bir tankere niteliği henüz belirlenemeyen mühimmatın isabet etmesi sonucu çok sayıda kişinin yaralandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukmto-basra-korfezinde-bir-tankere-muhimmat-isabet-etti-cok-sayida-yarali-var/4122581",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T12:57:44+00:00",
+   "url": "/haber/ukmto-basra-korfezi-nde-bir-tankere-muhimmat-isabet-etti-cok-sayida-ya-cafdc64c/"
+  },
+  {
+   "id": "fe76adef",
+   "title": "SEDDK'den bütünleşik sigortalara ilişkin yeni düzenleme",
+   "summary": "SEDDK tarafından hazırlanan Bütünleşik Sigortalar Hakkında Yönetmelik, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Yıllık brüt sigorta primine üst sınır getirilirken, sigortanın ürün veya hizmeti satın alma şartı…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/seddkden-butunlesik-sigortalara-iliskin-yeni-duzenleme/4122579",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T12:56:10+00:00",
+   "url": "/haber/seddk-den-butunlesik-sigortalara-iliskin-yeni-duzenleme-fe76adef/"
+  },
+  {
+   "id": "40825464",
+   "title": "Noctua, AMD’nin AM5 ve AM4 işlemcileri için uzun yıllar değişim gerektirmeyen yüksek performanslı bir termal ped tanıttı",
+   "summary": "İşlemci ile soğutucu arasına yerleştirilen termal ped ve macunların performansı zamanla düştüğü için bunların belirli aralıklarla değiştirilmesi gerekiyor. Noctua, AMD’nin AM5 ve AM4 serisi işlemcileri için geliştirdiği…",
+   "link": "https://www.log.com.tr/noctua-amdnin-am5-ve-am4-islemcileri-icin-uzun-yillar-degisim-gerektirmeyen-yuksek-performansli-bir-termal-ped-tanitti/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-12_15-51-46_E5pDN-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-12T12:54:17+00:00",
+   "url": "/haber/noctua-amd-nin-am5-ve-am4-islemcileri-icin-uzun-yillar-degisim-gerekti-40825464/"
+  },
+  {
+   "id": "6cf718ef",
+   "title": "Ticaret Bakanlığından kadın kooperatiflerinin perakende pazarlara erişimini güçlendirecek işbirliği",
+   "summary": "Ticaret Bakanlığı, kadın emeğinin ekonomik değere dönüştürülmesi, kadın girişimciliğinin desteklenmesi amacıyla özel sektörle işbirliğini sürdürerek Migros Ticaret AŞ ile anlaşma imzaladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligindan-kadin-kooperatiflerinin-perakende-pazarlara-erisimini-guclendirecek-isbirligi-/4122564",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T12:47:31+00:00",
+   "url": "/haber/ticaret-bakanligindan-kadin-kooperatiflerinin-perakende-pazarlara-eris-6cf718ef/"
+  },
+  {
+   "id": "c1802902",
+   "title": "İstanbul'da lodos etkili oluyor",
+   "summary": "İstanbul'da etkili olan lodos nedeniyle sahil kesimlerinde yüksek dalgalar oluşurken, bazı vapur seferleri iptal edildi, metro seferlerinde ise aksama yaşandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-lodos-etkili-oluyor/4122563",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T12:47:23+00:00",
+   "url": "/haber/istanbul-da-lodos-etkili-oluyor-c1802902/"
+  },
+  {
+   "id": "9c3aa6d0",
+   "title": "Otel mutfaklarındaki \"sıfır atık\" uygulamaları COP31'de anlatılıyor",
+   "summary": "Antalya'daki 5 yıldızlı otellerin mutfaklarında israfı önlemek amacıyla uygulanan \"sıfır atık\" yöntemleri, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) diğer ülkelere…",
+   "link": "https://www.aa.com.tr/tr/gundem/otel-mutfaklarindaki-sifir-atik-uygulamalari-cop31de-anlatiliyor/4122556",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T12:45:15+00:00",
+   "url": "/haber/otel-mutfaklarindaki-sifir-atik-uygulamalari-cop31-de-anlatiliyor-9c3aa6d0/"
+  },
+  {
+   "id": "b63a4db4",
+   "title": "GTA 6'da sansür tartışması: Dosya boyutu ülkeden ülkeye değişiyor!",
+   "summary": "GTA VI ön yüklemelerinde dikkat çeken detay! Oyunun hayranları, bazı ülkelerde dosya boyutunun daha küçük olması nedeniyle içeriğin sansürlenmiş olabileceğinden endişe ediyor.",
+   "link": "https://www.donanimhaber.com/gta-6-da-sansur-tartismasi-dosya-boyutu-ulkeden-ulkeye-degisiyor--212823",
+   "image": "https://www.donanimhaber.com/images/images/haber/212823/1200x675gta-6-da-sansur-tartismasi-dosya-boyutu-ulkeden-ulkeye-degisiyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-12T12:45:00+00:00",
+   "url": "/haber/gta-6-da-sansur-tartismasi-dosya-boyutu-ulkeden-ulkeye-degisiyor-b63a4db4/"
+  },
+  {
+   "id": "64598d25",
+   "title": "Mahkeme, JLR’ye “BYD” baskınında el konulan dosyaları imha etme emri verdi",
+   "summary": "Jaguar Land Rover (JLR), Çinli otomobil üreticisi BYD’ye “Defender” klonu gerekçesiyle dava açtı ve süreç mahkeme kararıyla görevlendirilen icra memurlarının BYD’nin Hollanda’daki ofislerindeki dijital kayıtlara el…",
+   "link": "https://www.log.com.tr/mahkeme-jlrye-byd-baskininda-el-konulan-dosyalari-imha-etme-emri-verdi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-12_15-37-53_9fpf9-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-12T12:43:21+00:00",
+   "url": "/haber/mahkeme-jlr-ye-byd-baskininda-el-konulan-dosyalari-imha-etme-emri-verd-64598d25/"
+  },
+  {
+   "id": "51e8c4b3",
+   "title": "ABD'nin ilk Müslüman senatörü seçilen Sayed: Kur'an üzerine yemin edeceğim",
+   "summary": "ABD'de 3 Kasım'da yapılan ara seçimlerde ülke tarihinin ilk Müslüman senatörü seçilen Mısır kökenli Abdul el-Sayed, senatörlük yeminini Kur'an-ı Kerim üzerine yapacağını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-ilk-musluman-senatoru-secilen-sayed-kuran-uzerine-yemin-edecegim/4122547",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T12:41:03+00:00",
+   "url": "/haber/abd-nin-ilk-musluman-senatoru-secilen-sayed-kur-an-uzerine-yemin-edece-51e8c4b3/"
+  },
+  {
+   "id": "991a6f85",
+   "title": "AK Partili Abdulhamit Gül: Fon soruşturmasında ismi geçenlerin listesi açıklanmalı",
+   "summary": "Fon soruşturmasında ismi geçenlerin kamuoyu ile paylaşılması gerektiğini söyleyen AK Parti Grup Başkanvekili Abdulhamit Gül, \"Liste açıklanmadıkça herkes suçluymuş gibi bir intiba oluşuyor.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-krizinde-dikkat-ceken-cagri-abdulhamit-gul-isimler-aciklansin-1750584",
+   "image": "https://images.ntv.com.tr/images/abdulhamitgül-573968.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-12T12:35:52+00:00",
+   "url": "/haber/ak-partili-abdulhamit-gul-fon-sorusturmasinda-ismi-gecenlerin-listesi-991a6f85/"
+  },
+  {
+   "id": "30450c28",
+   "title": "DLSS’ten daha iyi kalite ve performans sunduğu iddia edilen Apex Neural Rendering duyuruldu",
+   "summary": "Apex Compute, DLSS’ten daha iyi kalite ve performans sunduğunu öne sürdüğü Apex Neural Rendering (ANR) teknolojisini duyurdu. GeForce GTX 16, RTX 20, 30, 40 ve 50 serisi, Radeon RX 5000, 6000, 7000 ve 9000 serisi ile…",
+   "link": "https://www.log.com.tr/dlssten-daha-iyi-kalite-ve-performans-sundugu-iddia-edilen-apex-neural-rendering-duyuruldu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-12_15-23-54_00a4J-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-12T12:35:16+00:00",
+   "url": "/haber/dlss-ten-daha-iyi-kalite-ve-performans-sundugu-iddia-edilen-apex-neura-30450c28/"
+  },
+  {
+   "id": "2831f0b1",
+   "title": "Beyoğlu'nda evde halıya sarılı ceset bulundu",
+   "summary": "İstanbul Beyoğlu'nda bir evde halıya sarılı ceset bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-beyoglunda-evde-haliya-sarili-ceset-bulundu-1750587",
+   "image": "https://images.ntv.com.tr/images/beyoglu-ceset-665816.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-12T12:33:03+00:00",
+   "url": "/haber/beyoglu-nda-evde-haliya-sarili-ceset-bulundu-2831f0b1/"
+  },
+  {
+   "id": "2188ef8b",
+   "title": "Trump, Meksika'yı göçmen akınını durdurmazsa gümrük vergilerini 2 katına çıkarmakla tehdit etti",
+   "summary": "ABD Başkanı Donald Trump, ABD'ye doğru yola çıkan göçmen gruplarını durdurmaması durumunda Meksika'ya uygulanan gümrük vergilerinin iki katına çıkarılacağını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-meksikayi-gocmen-akinini-durdurmazsa-gumruk-vergilerini-2-katina-cikarmakla-tehdit-etti/4122530",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T12:32:47+00:00",
+   "url": "/haber/trump-meksika-yi-gocmen-akinini-durdurmazsa-gumruk-vergilerini-2-katin-2188ef8b/"
+  },
+  {
+   "id": "89d17870",
+   "title": "116 suçtan aranan suç örgütü elebaşı Sercan Sayal Türkiye'de",
+   "summary": "Kırmızı bültenle uluslararası seviyede aranan ve 116 suçtan aranma kaydı bulunan yeni nesil organize suç örgütü elebaşı Sercan Sayal, Yunanistan'dan Türkiye'ye getirildi.",
+   "link": "https://www.ntv.com.tr/turkiye/116-suctan-aranan-suc-orgutu-elebasi-sercan-sayal-turkiyeye-getiriliyor-1750558",
+   "image": "https://images.ntv.com.tr/images/glock-291290.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-12T12:32:18+00:00",
+   "url": "/haber/116-suctan-aranan-suc-orgutu-elebasi-sercan-sayal-turkiye-de-89d17870/"
+  },
+  {
+   "id": "d6b68461",
+   "title": "Melih Gökçek'in kız kardeşi yaşamını yitirdi",
+   "summary": "Ankara Büyükşehir Belediyesi'nin eski başkanlarından Melih Gökçek'in kız kardeşi son yolculuğuna uğurlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/melih-gokcekin-kiz-kardesi-yasamini-yitirdi-1750589",
+   "image": "https://images.ntv.com.tr/images/AW831079_01-724285.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-12T12:32:01+00:00",
+   "url": "/haber/melih-gokcek-in-kiz-kardesi-yasamini-yitirdi-d6b68461/"
+  },
+  {
+   "id": "9855b4eb",
+   "title": "TBMM Başkanı Kurtulmuş'tan Bahçeli'ye ziyaret",
+   "summary": "TBMM Başkanı Numan Kurtulmuş, terörsüz Türkiye süreciyle ilgili son olarak MHP Genel Başkanı Devlet Bahçeli'yi ziyaret etti.",
+   "link": "https://www.ntv.com.tr/turkiye/tbmm-baskani-kurtulmustan-bahceliye-ziyaret-1750572",
+   "image": "https://images.ntv.com.tr/images/AA-20261112-43055280-43055279-TBMM_BASKANI_KURTULMUS_MHP_GENEL_BASKANI_BAHCELIYI_ZIYARET_ETTI-572092.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-12T12:31:35+00:00",
+   "url": "/haber/tbmm-baskani-kurtulmus-tan-bahceli-ye-ziyaret-9855b4eb/"
+  },
   {
    "id": "d2bea309",
    "title": "Samsung'un dayanıklı telefonlarında kamera sızdı",
@@ -33,6 +231,17 @@
    "category": "teknoloji",
    "date": "2026-11-12T12:23:00+00:00",
    "url": "/haber/ab-den-dijital-platformlara-ve-oyunlara-kapsamli-duzenleme-iste-dfa-ya-68d2f28f/"
+  },
+  {
+   "id": "6aeb7e3b",
+   "title": "TBMM'ye sunuldu: GSS prim borçları silinecek",
+   "summary": "AK Parti, Genel Sağlık Sigortası (GSS) prim borçlarının silinmesini de içeren kanun teklifini TBMM Başkanlığı'na sundu.",
+   "link": "https://www.trthaber.com/haber/gundem/tbmmye-sunuldu-gss-prim-borclari-silinecek-963073.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/tbmm-genel-kurulu-aa-2501643.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-12T12:23:00+00:00",
+   "url": "/haber/tbmm-ye-sunuldu-gss-prim-borclari-silinecek-6aeb7e3b/"
   },
   {
    "id": "371fa871",
@@ -112,17 +321,6 @@
    "url": "/haber/istanbul-trafiginde-dehset-anlari-sopalarla-saldiran-6-supheli-yakalan-c9bb30ea/"
   },
   {
-   "id": "7cd8f531",
-   "title": "Asya'da işten çıkarmalar artarken yapay zekanın etkisi tartışılıyor",
-   "summary": "Asya'da yapay zeka teknolojilerinin yaygınlaşması ve şirketlerin yeniden yapılanma süreçleri istihdam piyasasında önemli değişikliklere yol açarken işten çıkarmalara ve yeni mezunların iş bulma imkanlarına ilişkin…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/asyada-isten-cikarmalar-artarken-yapay-zekanin-etkisi-tartisiliyor/4122452",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T12:08:08+00:00",
-   "url": "/haber/asya-da-isten-cikarmalar-artarken-yapay-zekanin-etkisi-tartisiliyor-7cd8f531/"
-  },
-  {
    "id": "207b4bab",
    "title": "2026 Golden Joystick Ödülleri'nde \"Yılın PC Oyunu\" Crimson Desert Oldu",
    "summary": "2026 Golden Joystick Ödülleri'nde Yılın PC Oyunu Crimson Desert seçilirken, gecenin büyük ödülü dört dalda kazanan Resident Evil Requiem'ın oldu.",
@@ -143,17 +341,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T12:07:00+00:00",
    "url": "/haber/whatsapp-mesajlari-da-tek-seferlik-yapiyor-yeni-ozellik-testte-3229010e/"
-  },
-  {
-   "id": "604132cc",
-   "title": "TCMB Başkan Yardımcıları Özkul, Kara, Karahan ve Akgündüz soruları yanıtladı",
-   "summary": "Yılın dördüncü Enflasyon Raporu'nun tanıtımı dolayısıyla düzenlenen bilgilendirme toplantısına, başkan yardımcıları Hatice Karahan, Fatma Özkul, Gazi İshak Kara ve Yusuf Emre Akgündüz ile katıldı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskan-yardimcilari-ozkul-kara-karahan-ve-akgunduz-sorulari-yanitladi/4122450",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T12:06:04+00:00",
-   "url": "/haber/tcmb-baskan-yardimcilari-ozkul-kara-karahan-ve-akgunduz-sorulari-yanit-604132cc/"
   },
   {
    "id": "df75560f",
@@ -178,72 +365,6 @@
    "url": "/haber/galaxy-s27-ultra-nin-kamerasi-yine-ayni-yolda-3d9bd874/"
   },
   {
-   "id": "73762be2",
-   "title": "Slovenya Cumhurbaşkanı Pirc Musar: Çevre sorunlarını hafife almak geriye doğru atılmış bir adımdır",
-   "summary": "Slovenya Cumhurbaşkanı Natasa Pirc Musar, \"Çevre sorunlarını inkar etmek veya hafife almak, geriye doğru atılmış bir adımdır. Çevre diplomasisi, çevre korumasına öncelik veren politikaların uygulanmasını sağlamalıdır.\"…",
-   "link": "https://www.aa.com.tr/tr/gundem/slovenya-cumhurbaskani-pirc-musar-cevre-sorunlarini-hafife-almak-geriye-dogru-atilmis-bir-adimdir/4122433",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T11:57:57+00:00",
-   "url": "/haber/slovenya-cumhurbaskani-pirc-musar-cevre-sorunlarini-hafife-almak-geriy-73762be2/"
-  },
-  {
-   "id": "e6b43295",
-   "title": "ABD'de Kongre üyesi Omar'ın vatandaşlığının iptali sürecinin \"sonuçlandırılmak üzere\" olduğu iddiası",
-   "summary": "ABD Adalet Bakanlığının, göçmenlik işlemlerinde \"usulsüzlük\" yaptığı iddia edilen Demokrat Kongre üyesi Ilhan Omar'ın vatandaşlığının iptali sürecini \"sonuçlandırmak üzere\" olduğu iddia edildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-kongre-uyesi-omarin-vatandasliginin-iptali-surecinin-sonuclandirilmak-uzere-oldugu-iddiasi/4122429",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T11:55:53+00:00",
-   "url": "/haber/abd-de-kongre-uyesi-omar-in-vatandasliginin-iptali-surecinin-sonucland-e6b43295/"
-  },
-  {
-   "id": "36c75646",
-   "title": "Afrikalı liderler, iklim hedeflerini ve yeşil dönüşüm önceliklerini açıkladı",
-   "summary": "Antalya'da düzenlenen COP31 Liderler Zirvesi'nde 6 Afrika ülkesinin temsilcileri, iklim değişikliğiyle mücadelede Afrika'nın kalkınma ihtiyaçlarının gözetilmesi çağrısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/afrikali-liderler-iklim-hedeflerini-ve-yesil-donusum-onceliklerini-acikladi/4122428",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T11:55:35+00:00",
-   "url": "/haber/afrikali-liderler-iklim-hedeflerini-ve-yesil-donusum-onceliklerini-aci-36c75646/"
-  },
-  {
-   "id": "424df294",
-   "title": "ABD Başkanı Trump, Demokratları yolsuzluk iddialarını örtbas etmeye çalışmakla suçladı",
-   "summary": "ABD Başkanı Donald Trump, Demokratların, kendi yönetimlerindeki eyaletlerde yaşandığını öne sürdüğü yolsuzlukları örtbas etmek amacıyla federal yönetimi suçladığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-demokratlari-yolsuzluk-iddialarini-ortbas-etmeye-calismakla-sucladi/4122427",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T11:55:31+00:00",
-   "url": "/haber/abd-baskani-trump-demokratlari-yolsuzluk-iddialarini-ortbas-etmeye-cal-424df294/"
-  },
-  {
-   "id": "0802f487",
-   "title": "Türkiye ile Çin arasında yenilenebilir enerji alanında yaklaşık 15 milyar dolarlık yatırım anlaşması",
-   "summary": "Bakan Bayraktar, Çin ile yaklaşık 15 milyar dolarlık yatırım öngören işbirliği kapsamında toplam 7 bin megavatlık güneş ve rüzgar enerjisi santrali ve 4 bin megavatlık elektrik iletim altyapısını hayata geçirmeyi…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-cin-arasinda-yenilenebilir-enerji-alaninda-yaklasik-15-milyar-dolarlik-yatirim-anlasmasi/4122419",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T11:50:04+00:00",
-   "url": "/haber/turkiye-ile-cin-arasinda-yenilenebilir-enerji-alaninda-yaklasik-15-mil-0802f487/"
-  },
-  {
-   "id": "41083e9b",
-   "title": "AB, Rusya'ya yönelik 22'nci yaptırım paketini hazırlıyor",
-   "summary": "AB Komisyonu Başkanı Ursula von der Leyen, Rusya'ya yönelik 22'nci yaptırım paketini ve Ukrayna'nın 2027 yılındaki finansman ihtiyaçlarının karşılanmasına ilişkin teklifi bir sonraki AB Liderler Zirvesi öncesinde…",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-rusyaya-yonelik-22nci-yaptirim-paketini-hazirliyor/4122412",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T11:47:44+00:00",
-   "url": "/haber/ab-rusya-ya-yonelik-22-nci-yaptirim-paketini-hazirliyor-41083e9b/"
-  },
-  {
    "id": "e8b5e2bb",
    "title": "Manifest'in menajerine 'müstehcen yayın' davasının ilk duruşmasında tahliye",
    "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında tutuklanan Manifest grubunun menajeri Tolga Akış hakkında altı aydan üç yıla kadar hapis istemiyle iddianame düzenlendi.",
@@ -253,17 +374,6 @@
    "category": "gundem",
    "date": "2026-11-12T11:44:46+00:00",
    "url": "/haber/manifest-in-menajerine-mustehcen-yayin-davasinin-ilk-durusmasinda-tahl-e8b5e2bb/"
-  },
-  {
-   "id": "9855b4eb",
-   "title": "TBMM Başkanı Kurtulmuş'tan Bahçeli'ye ziyaret",
-   "summary": "TBMM Başkanı Numan Kurtulmuş, terörsüz Türkiye süreciyle ilgili son olarak MHP Genel Başkanı Devlet Bahçeli'yi ziyaret etti.",
-   "link": "https://www.ntv.com.tr/turkiye/tbmm-baskani-kurtulmustan-bahceliye-ziyaret-1750572",
-   "image": "https://images.ntv.com.tr/images/bahçelinuman-252867.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-12T11:42:46+00:00",
-   "url": "/haber/tbmm-baskani-kurtulmus-tan-bahceli-ye-ziyaret-9855b4eb/"
   },
   {
    "id": "4e0d2337",
@@ -286,17 +396,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T11:39:00+00:00",
    "url": "/haber/1980-lerde-terk-edilen-benzersiz-fuzyon-yontemi-ilk-kez-basarili-oldu-9ba148c9/"
-  },
-  {
-   "id": "e614b6c4",
-   "title": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Görgün: Türkiye son 20 yılda savunma sanayisinde önemli tecrübeler edindi",
-   "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, Türkiye'nin 1400'ü aşan projesi ve yaklaşık 120 milyar dolarlık proje portföyüyle Suudi Arabistan ile işbirliğini geliştirmeye hazır olduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/cumhurbaskanligi-savunma-sanayii-baskani-gorgun-turkiye-son-20-yilda-savunma-sanayisinde-onemli-tecrubeler-edindi/4122374",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T11:30:32+00:00",
-   "url": "/haber/cumhurbaskanligi-savunma-sanayii-baskani-gorgun-turkiye-son-20-yilda-s-e614b6c4/"
   },
   {
    "id": "54f17bef",
@@ -363,17 +462,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T11:18:00+00:00",
    "url": "/haber/nvidia-ceo-su-jensen-huang-in-olasi-halefleri-belli-oldu-f534a4bd/"
-  },
-  {
-   "id": "0b060bf8",
-   "title": "COP31'de iklim uyumunu destekleyecek ARISE programının ilk ülkeleri açıklandı",
-   "summary": "ARISE programına seçilen ilk 5 ülke ve bölgesel girişim, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında açıklandı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-iklim-uyumunu-destekleyecek-arise-programinin-ilk-ulkeleri-aciklandi/4122323",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T11:10:03+00:00",
-   "url": "/haber/cop31-de-iklim-uyumunu-destekleyecek-arise-programinin-ilk-ulkeleri-ac-0b060bf8/"
   },
   {
    "id": "b51dce3c",
@@ -531,25 +619,14 @@
   },
   {
    "id": "6cf577b5",
-   "title": "Merkez Bankası yıl sonu enflasyon tahminini %29,5'e yükseltti, ekonomistler ne diyor?",
-   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) yılın son Enflasyon Raporu'nda yıl sonu enflasyon tahminlerini yükseltti. TCMB Başkanı Fatih Karahan tarafından açıklanan raporda 2026 yıl sonu enflasyon tahmini %28'den %29,5'e…",
+   "title": "Merkez Bankası yıl sonu enflasyon tahminini %29,5'e yükseltti",
+   "summary": "Merkez Bankası Enflasyon Raporu'nda yıl sonu enflasyon tahminlerini yükseltti. 2026 yıl sonu tahmini %28'den %29,5'e çıkarıldı. Ekonomistler nasıl değerlendirdi?",
    "link": "https://www.bbc.com/turkce/articles/ck1l05363jevo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/11a4/live/32c2a300-de81-11f1-b88b-3f1671ea859d.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-12T09:58:19+00:00",
-   "url": "/haber/merkez-bankasi-yil-sonu-enflasyon-tahminini-29-5-e-yukseltti-ekonomist-6cf577b5/"
-  },
-  {
-   "id": "89d17870",
-   "title": "116 suçtan aranan suç örgütü elebaşı Sercan Sayal Türkiye'ye getiriliyor",
-   "summary": "Kırmızı bültenle uluslararası seviyede aranan ve 116 suçtan aranma kaydı bulunan yeni nesil organize suç örgütü elebaşı Sercan Sayal, Yunanistan'dan Türkiye'ye getiriliyor.",
-   "link": "https://www.ntv.com.tr/turkiye/116-suctan-aranan-suc-orgutu-elebasi-sercan-sayal-turkiyeye-getiriliyor-1750558",
-   "image": "https://images.ntv.com.tr/images/glock-291290.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-12T09:56:03+00:00",
-   "url": "/haber/116-suctan-aranan-suc-orgutu-elebasi-sercan-sayal-turkiye-ye-getiriliy-89d17870/"
+   "url": "/haber/merkez-bankasi-yil-sonu-enflasyon-tahminini-29-5-e-yukseltti-6cf577b5/"
   },
   {
    "id": "5f4e241c",
@@ -583,6 +660,17 @@
    "category": "teknoloji",
    "date": "2026-11-12T09:52:10+00:00",
    "url": "/haber/avrupa-kupalari-exxen-ve-tivibu-ya-mi-gecti-1e709849/"
+  },
+  {
+   "id": "289e8445",
+   "title": "\"Dünya Nükleer Günleri\" etkinliği \"Gençlik Günü\" programıyla başladı",
+   "summary": "COP31 kapsamındaki Dünya Nükleer Günleri'nde, küresel nükleer enerji kapasitesinin 2050'ye dek üç katına çıkarılması hedefiyle gençlerin yetiştirilmesi, nitelikli insan kaynağının geliştirilmesi ve uluslararası…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/dunya-nukleer-gunleri-etkinligi-genclik-gunu-programiyla-basladi/4122151",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T09:44:56+00:00",
+   "url": "/haber/dunya-nukleer-gunleri-etkinligi-genclik-gunu-programiyla-basladi-289e8445/"
   },
   {
    "id": "115329c8",
@@ -684,6 +772,17 @@
    "url": "/haber/nvidia-ceo-su-huang-a-iliskin-ikinci-iliski-iddiasi-sonrasi-sirketin-y-b7ab31ec/"
   },
   {
+   "id": "0aca83b5",
+   "title": "İngiltere Başbakanı Burnham: İklim konusunda bir zamanlar sahip olduğumuz uzlaşı artık yok",
+   "summary": "İngiltere Başbakanı Andy Burnham, bilim ve iklim konularında geçmişte var olan fikir birliğinin ortadan kalktığını belirterek iklim değişikliğiyle mücadelede liderlik ve harekete geçmenin her zamankinden \"daha acil\"…",
+   "link": "https://www.aa.com.tr/tr/gundem/-ingiltere-basbakani-burnham-iklim-konusunda-bir-zamanlar-sahip-oldugumuz-uzlasi-artik-yok/4122062",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T09:11:09+00:00",
+   "url": "/haber/ingiltere-basbakani-burnham-iklim-konusunda-bir-zamanlar-sahip-oldugum-0aca83b5/"
+  },
+  {
    "id": "c7146152",
    "title": "Samsung, Apple ile tekrar dalga geçti: iPhone Duo'ya gönderme",
    "summary": "Samsung, Galaxy Z Fold 8 için hazırladığı yeni reklamda, bu kez Apple'ın iPhone Duo modelindeki kenar çubuğu arayüzünü hedef aldı. Şirket, kendi katlanabilir telefonunun ekran alanına vurgu yapıyor.",
@@ -704,17 +803,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T09:08:50+00:00",
    "url": "/haber/elon-musk-in-yapay-zekasi-kendi-sirketini-de-yakti-gizli-belgeler-inte-4a93788a/"
-  },
-  {
-   "id": "72744e83",
-   "title": "Cevdet Yılmaz: Ekolojik politikaları, ekonomik politikalarla bir bütünlük içinde ele alıyoruz",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, ekolojik politikaları ekonomik politikalarla bir bütünlük içinde ele aldıklarını belirterek \"Biz ekonomi ile ekolojinin örtüştüğüne inanıyoruz.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cevdet-yilmaz-ekolojik-politikalari-ekonomik-politikalarla-bir-butunluk-icinde-ele-aliyoruz-1750534",
-   "image": "https://images.ntv.com.tr/anadolu-ajansi/20261112_2_76895950_131081554_Web(4).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-12T09:04:20+00:00",
-   "url": "/haber/cevdet-yilmaz-ekolojik-politikalari-ekonomik-politikalarla-bir-butunlu-72744e83/"
   },
   {
    "id": "06384c24",
@@ -926,28 +1014,6 @@
    "url": "/haber/gta-6-fragmaninda-tanidik-bir-yuz-goruldu-7ba7a6a3/"
   },
   {
-   "id": "eeab6505",
-   "title": "Katlanabilir telefon pazarı küçüldü, Samsung rakipleriyle arayı açtı",
-   "summary": "Küresel katlanabilir telefon sevkiyatları 2026'nın üçüncü çeyreğinde yüzde 2 gerilerken Samsung, yüzde 69 pazar payıyla rakiplerine büyük fark attı.",
-   "link": "https://www.donanimhaber.com/samsung-katlanabilir-telefon-pazarinda-rakipleriyle-arayi-acti--212795",
-   "image": "https://www.donanimhaber.com/images/images/haber/212795/1200x675samsung-katlanabilir-telefon-pazarinda-rakipleriyle-arayi-acti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-12T08:00:00+00:00",
-   "url": "/haber/katlanabilir-telefon-pazari-kuculdu-samsung-rakipleriyle-arayi-acti-eeab6505/"
-  },
-  {
-   "id": "0af26b5a",
-   "title": "İstanbul trafiğinde dehşet anları. Sopalı saldırganlar yakalandı",
-   "summary": "İstanbul'da husumetli oldukları kişinin kullandığı minibüsün önünü kesen altı şüpheli yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-trafiginde-dehset-anlari-sopali-saldirganlar-yakalandi-1750536",
-   "image": "https://images.ntv.com.tr/images/trafikte-öldüresiye-dayak-895045.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-12T07:50:42+00:00",
-   "url": "/haber/istanbul-trafiginde-dehset-anlari-sopali-saldirganlar-yakalandi-0af26b5a/"
-  },
-  {
    "id": "5d82474e",
    "title": "Lotus’un ilk süper otomobili Type 135’e “Horse W40” güç verecek",
    "summary": "Lotus, 12 Mayıs’ta sürpriz bir adım atarak ilk süper otomobil modeli Type 135’i duyurmuştu. 2028’de satışa sunulacak araç, doğrudan Emira’nın üzerinde konumlanacak ve kalbinde yeni tanıtılan “Horse W40” yer alacak.…",
@@ -970,17 +1036,6 @@
    "url": "/haber/merkez-bankasi-yil-sonu-enflasyon-tahminini-acikladi-bf602afd/"
   },
   {
-   "id": "d15c3569",
-   "title": "Bose'un taşınabilir hoparlöründe pil alarmı",
-   "summary": "Bose S1 Pro ve S1 Pro+ hoparlörlerde kullanılan 670 binden fazla lityum iyon pil, aşırı ısınma ve yangın riski nedeniyle geri çağrıldı. Ücretsiz pil değişimi var.",
-   "link": "https://shiftdelete.net/bose-s1-pro-pil-geri-cagirma-yangin-riski",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/bose-s1-pro-pil-kapak-1211.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-12T07:30:00+00:00",
-   "url": "/haber/bose-un-tasinabilir-hoparlorunde-pil-alarmi-d15c3569/"
-  },
-  {
    "id": "dbb11b44",
    "title": "Apple’ın akıllı gözlük ve kameralı AirPods projelerini bu kez bir Çinli üretici gündeme taşıdı",
    "summary": "Bloomberg’den Mark Gurman’a göre Apple, uzun süredir standart formda bir akıllı gözlük ve kameralı AirPods modeli üzerinde çalışıyor. Merak uyandıran bu ürünleri bugün yeniden gündeme getiren, Çinli üretici “Quick…",
@@ -992,17 +1047,6 @@
    "url": "/haber/apple-in-akilli-gozluk-ve-kamerali-airpods-projelerini-bu-kez-bir-cinl-dbb11b44/"
   },
   {
-   "id": "d59859c1",
-   "title": "Nothing’in ilk yapay zeka cihazı için yeni bir paylaşım yapıldı",
-   "summary": "Şirket CEO’su Carl Pei’nin açıklamasına göre Nothing, önümüzdeki ay ekranı olmayan bir yapay zeka cihazı tanıtacak. Doğrudan sesli iletişimi temel alan cihazın tasarımına yönelik yeni bir paylaşımda daha bulunan Pei,…",
-   "link": "https://www.log.com.tr/nothingin-yapay-zeka-cihazi-icin-yeni-bir-paylasim-yapildi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-12_10-10-26_TfhzC-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-12T07:13:24+00:00",
-   "url": "/haber/nothing-in-ilk-yapay-zeka-cihazi-icin-yeni-bir-paylasim-yapildi-d59859c1/"
-  },
-  {
    "id": "52edb62c",
    "title": "Türkiye ile Kanada arasında nükleer santral için işbirliği anlaşması",
    "summary": "Türkiye Nükleer Enerji AŞ ile Kanada merkezli AtkinsRealis, CANDU reaktör teknolojisiyle kurulabilecek nükleer santral için fizibilite ve ön tasarım mühendisliği anlaşması imzaladı.",
@@ -1012,39 +1056,6 @@
    "category": "gundem",
    "date": "2026-11-12T07:07:00+00:00",
    "url": "/haber/turkiye-ile-kanada-arasinda-nukleer-santral-icin-isbirligi-anlasmasi-52edb62c/"
-  },
-  {
-   "id": "28f0fba4",
-   "title": "Huawei, yeni alt markası Osta’yı 20 Kasım’da tanıtacak",
-   "summary": "Richard Yu’nun yaptığı açıklamaya göre Çinli teknoloji devi Huawei, “Osta” adlı yeni alt markasını 20 Kasım’da resmi olarak tanıtacak. Çin’de “Xingmang” adını taşıyacağı belirtilen markadan gelecek ilk cihazların O1 ve…",
-   "link": "https://www.log.com.tr/huawei-yeni-alt-markasi-ostayi-20-kasimda-tanitacak/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-12_09-58-09_NbW3x-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-12T07:00:19+00:00",
-   "url": "/haber/huawei-yeni-alt-markasi-osta-yi-20-kasim-da-tanitacak-28f0fba4/"
-  },
-  {
-   "id": "6e126b8c",
-   "title": "Türkiye’den bini aşkın fotoğrafın yarıştığı Huawei XMAGE Awards 2026’nın kazananları açıklandı",
-   "summary": "Türkiye’den bini aşkın fotoğrafın yarıştığı Huawei XMAGE Awards 2026 yarışmasının kazananları açıklandı. Bu konuda şirketten yapılan resmi paylaşımda, “Dünyanın dört bir yanından 150’yi aşkın fotoğrafçı, görüntüleme…",
-   "link": "https://www.log.com.tr/turkiyeden-bini-askin-fotografin-yaristigi-huawei-xmage-awards-2026-yarismasinin-kazananlari-aciklandi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-12_09-51-08_448ng-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-12T06:56:00+00:00",
-   "url": "/haber/turkiye-den-bini-askin-fotografin-yaristigi-huawei-xmage-awards-2026-n-6e126b8c/"
-  },
-  {
-   "id": "cd171353",
-   "title": "18 yıl boyunca gizlendi, yeni teknolojiyle yakalandı",
-   "summary": "Bursa'da kan davası nedeniyle işlenen cinayette kullanılan çalıntı aracın kapısındaki parmak izleri 18 yıl sonra çözüldü.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-18-yil-boyunca-gizlendi-yeni-teknolojiyle-yakalandi-1750524",
-   "image": "https://images.ntv.com.tr/images/bursa-kan-davası-cinayeti-123-459156.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-12T06:55:09+00:00",
-   "url": "/haber/18-yil-boyunca-gizlendi-yeni-teknolojiyle-yakalandi-cd171353/"
   },
   {
    "id": "d5bec866",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-11-10T21:00:00+00:00",
    "url": "/haber/ingiltere-16-yas-alti-sosyal-medya-yasasinda-genislemeye-gidebilir-abc7d546/"
-  },
-  {
-   "id": "3450db4f",
-   "title": "Türkiye İklim Okulu, COP31 kapsamında uluslararası etkinliklere ev sahipliği yaptı",
-   "summary": "Milli Eğitim Bakanlığınca, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında oluşturulan \"Türkiye İklim Okulu\"nda iklim değişikliğiyle mücadelede eğitimin rolü,…",
-   "link": "https://www.trthaber.com/haber/egitim/turkiye-iklim-okulu-cop31-kapsaminda-uluslararasi-etkinliklere-ev-sahipligi-yapti-962849.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/turkiye-iklim-okulu-aa-2502543.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-10T17:04:00+00:00",
-   "url": "/haber/turkiye-iklim-okulu-cop31-kapsaminda-uluslararasi-etkinliklere-ev-sahi-3450db4f/"
   }
  ]
 }
