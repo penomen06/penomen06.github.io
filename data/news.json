@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:01:04.003654+00:00",
+ "updated": "2026-11-12T21:30:59.566390+00:00",
  "items": [
   {
    "id": "3ea0c992",
@@ -9,8 +9,52 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-12T21:00:01+00:00",
+   "date": "2026-11-12T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-3ea0c992/"
+  },
+  {
+   "id": "b0d7338f",
+   "title": "Malatya'daki helikopter kazasında 4 asker şehit oldu",
+   "summary": "Malatya'da S-70 tipi askeri helikopterin kaza kırıma uğraması sonucu 4 asker şehit oldu. Milli Savunma Bakanlığı (MSB), kazanın nedeninin henüz belirlenemediğini açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/malatyadan-aci-haber-helikopter-kazasinda-4-asker-sehit-oldu-1750611",
+   "image": "https://images.ntv.com.tr/images/MALATYADA-HELIKOPTER-KAZA-KIRIMA-UGRADI_1605501_477319-354465.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-12T21:23:52+00:00",
+   "url": "/haber/malatya-daki-helikopter-kazasinda-4-asker-sehit-oldu-b0d7338f/"
+  },
+  {
+   "id": "41da3dd3",
+   "title": "Bu yapay zekâ sadece 22 MB yer kaplıyor, telefonlarda yerel olarak çalışıyor",
+   "summary": "Cactus Compute, yalnızca 22 MB boyutundaki yeni yapay zeka modeli Mirage'ı tanıttı. Model, akıllı telefonlarda yerel olarak çalışıp çeşitli görevleri yerine getirebiliyor.",
+   "link": "https://www.donanimhaber.com/telefonlarda-calisabilen-yeni-yapay-zeka-sadece-22-mb--212845",
+   "image": "https://www.donanimhaber.com/images/images/haber/212845/1200x675telefonlarda-calisabilen-yeni-yapay-zeka-sadece-22-mb.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-12T21:22:00+00:00",
+   "url": "/haber/bu-yapay-zeka-sadece-22-mb-yer-kapliyor-telefonlarda-yerel-olarak-cali-41da3dd3/"
+  },
+  {
+   "id": "ad716405",
+   "title": "Arjantin Milli Takımı'nda Lionel Scaloni'nin sözleşmesi 2030'a kadar uzatıldı",
+   "summary": "Arjantin Milli Futbol Takımı'nda teknik direktör Lionel Scaloni'nin sözleşmesi 2030'a kadar uzatıldı.",
+   "link": "https://www.aa.com.tr/tr/spor/arjantin-milli-takiminda-lionel-scaloninin-sozlesmesi-2030a-kadar-uzatildi/4123499",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T21:11:30+00:00",
+   "url": "/haber/arjantin-milli-takimi-nda-lionel-scaloni-nin-sozlesmesi-2030-a-kadar-u-ad716405/"
+  },
+  {
+   "id": "e5e2da64",
+   "title": "İBB davasında 8 sanığa tahliye",
+   "summary": "İBB'ye yönelik yolsuzlık davasında Avukat Mehmet Pehlivan dahil 8 kişi tahliye edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/ibb-davasinda-8-saniga-tahliye-1750627",
+   "image": "https://images.ntv.com.tr/images/ibbbinas_C4_B1-486561-905831.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-12T21:11:10+00:00",
+   "url": "/haber/ibb-davasinda-8-saniga-tahliye-e5e2da64/"
   },
   {
    "id": "2c10c973",
@@ -77,17 +121,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T20:44:00+00:00",
    "url": "/haber/eski-openai-yoneticisinden-yeni-yapay-zeka-thinking-machines-inkling-2-732678e6/"
-  },
-  {
-   "id": "b0d7338f",
-   "title": "Malatya'daki helikopter kazasında 4 asker şehit oldu",
-   "summary": "Malatya'da S-70 tipi askeri helikopterin kaza kırıma uğraması sonucu 4 asker şehit oldu. Milli Savunma Bakanlığı (MSB), kazanın nedeninin henüz belirlenemediğini açıkladı.",
-   "link": "https://www.ntv.com.tr/turkiye/malatyadan-aci-haber-helikopter-kazasinda-4-asker-sehit-oldu-1750611",
-   "image": "https://images.ntv.com.tr/images/MALATYADA-HELIKOPTER-KAZA-KIRIMA-UGRADI_1605501_477319-354465.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-12T20:42:58+00:00",
-   "url": "/haber/malatya-daki-helikopter-kazasinda-4-asker-sehit-oldu-b0d7338f/"
   },
   {
    "id": "4d1be38a",
@@ -365,17 +398,6 @@
    "url": "/haber/xiaomi-18-icin-kapora-toplanmaya-baslandi-4223ca42/"
   },
   {
-   "id": "5ce4bdd5",
-   "title": "Sırbistan'da Öğrenci Listesi: Filistin halkını yok etme girişiminin suç ortağı olmayacağız",
-   "summary": "Sırbistan'da seçimi kazanan Öğrenci Listesi, İsrail'in Gazze'de yürüttüğü Filistin halkını sistematik olarak yok etme girişiminin suç ortağı olmayacaklarını ve Filistin'e insani yardım gönderimini yoğunlaştıracaklarını…",
-   "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-ogrenci-listesi-filistin-halkini-yok-etme-girisiminin-suc-ortagi-olmayacagiz/4123375",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T18:56:58+00:00",
-   "url": "/haber/sirbistan-da-ogrenci-listesi-filistin-halkini-yok-etme-girisiminin-suc-5ce4bdd5/"
-  },
-  {
    "id": "96f3b9d5",
    "title": "Gemini 4 Hydrogen, Argon'u geçti, herkese açıldı",
    "summary": "Gemini 4 Hydrogen, 3.8 Flash'a göre görevleri 2,5 kat hızlı bitiriyor; Arama ve Gemini uygulamasıyla ücretsiz kullanıcılara da ulaşıyor. Neler sunuyor?",
@@ -572,17 +594,6 @@
    "category": "gundem",
    "date": "2026-11-12T16:56:00+00:00",
    "url": "/haber/johnny-depp-iptal-yillari-sonrasi-ilk-kez-beyaz-perdede-0c4a40f2/"
-  },
-  {
-   "id": "5fc066a6",
-   "title": "Hades'e benzetilen yeni Conan oyunu tanıtıldı: 2027'de çıkacak",
-   "summary": "Diablo ve Hades gibi oyunlardan izler taşıyan yeni Conan oyunu yayınlanan ilk fragmanla resmen tanıtıldı. Conan: The Black Pyramid adını taşıyan oyun önümüzdeki yıl çıkacak.",
-   "link": "https://www.donanimhaber.com/hades-e-benzetilen-yeni-conan-oyunu-tanitildi--212812",
-   "image": "https://www.donanimhaber.com/images/images/haber/212812/1200x675hades-e-benzetilen-yeni-conan-oyunu-tanitildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-12T16:45:00+00:00",
-   "url": "/haber/hades-e-benzetilen-yeni-conan-oyunu-tanitildi-2027-de-cikacak-5fc066a6/"
   },
   {
    "id": "b215c06d",
@@ -1001,17 +1012,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T12:07:55+00:00",
    "url": "/haber/2026-golden-joystick-odulleri-nde-yilin-pc-oyunu-crimson-desert-oldu-207b4bab/"
-  },
-  {
-   "id": "4e0d2337",
-   "title": "Manifest'in kurucusu Tolga Akış tahliye edildi",
-   "summary": "\"Müstehcenlik\" suçlamasıyla tutuklanan ve hakkında 3 yıla kadar hapis istenen Manifest'in kurucusu ve menajeri Tolga Akış, tahliye edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-manifestin-kurucusu-tolga-akis-tahliye-edildi-1750576",
-   "image": "https://images.ntv.com.tr/images/tolgaakış-593009.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-12T11:39:18+00:00",
-   "url": "/haber/manifest-in-kurucusu-tolga-akis-tahliye-edildi-4e0d2337/"
   },
   {
    "id": "dc15695b",
