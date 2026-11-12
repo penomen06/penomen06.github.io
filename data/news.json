@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-12T14:30:54.575987+00:00",
+ "updated": "2026-11-12T15:01:07.558192+00:00",
  "items": [
+  {
+   "id": "9e7a7cf4",
+   "title": "Televizyon Tavsiyeleri - Kasım 2026",
+   "summary": "Televizyon tavsiyeleri serisinin yeni bölümünde görüntü, panel ve ses kalitesi gibi kriterlere göre sizin için Kasım ayında satın alabileceğiniz fiyat/performans olarak televizyonlardan bahsettik.",
+   "link": "https://www.donanimhaber.com/televizyon-tavsiyeleri--212831",
+   "image": "https://www.donanimhaber.com/images/images/haber/212831/1200x675televizyon-tavsiyeleri.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-12T15:00:07+00:00",
+   "url": "/haber/televizyon-tavsiyeleri-kasim-2026-9e7a7cf4/"
+  },
+  {
+   "id": "a72f3531",
+   "title": "Meclis'e sunuldu: 2,2 milyon kişinin GSS borcu silinecek",
+   "summary": "AK Parti Grup Başkanı Abdullah Güler, Genel Sağlık Sigortası (GSS) prim borçlarının silinmesini öngören düzenlemenin Türkiye Büyük Millet Meclisi (TBMM) Başkanlığına sunulduğunu açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/meclise-sunuldu-22-milyon-kisinin-gss-borcu-silinecek-1750609",
+   "image": "https://images.ntv.com.tr/images/para-aa-1722043-866630.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-12T14:57:19+00:00",
+   "url": "/haber/meclis-e-sunuldu-2-2-milyon-kisinin-gss-borcu-silinecek-a72f3531/"
+  },
+  {
+   "id": "83325bcb",
+   "title": "Anthropic, 1,4 trilyon dolar değerlemeyle halka arz olmaya hazırlanıyor",
+   "summary": "Anthropic, halka arzında 1,4 trilyon dolarlık değerleme hedefliyor. Şirket, Google, Nvidia ve AMD'nin de katıldığı yatırımlarla 90,4 milyar dolara kadar kaynak sağlamayı planlıyor.",
+   "link": "https://www.donanimhaber.com/anthropic-1-4-trilyon-dolar-degerlemeyle-halka-arza-hazirlaniyor--212802",
+   "image": "https://www.donanimhaber.com/images/images/haber/212802/1200x675anthropic-1-4-trilyon-dolar-degerlemeyle-halka-arza-hazirlaniyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-12T14:57:00+00:00",
+   "url": "/haber/anthropic-1-4-trilyon-dolar-degerlemeyle-halka-arz-olmaya-hazirlaniyor-83325bcb/"
+  },
+  {
+   "id": "1f123e08",
+   "title": "İran Ordusu: Hürmüz Boğazı'nda 2 petrol tankeri deniz mayınına çarparak alev aldı",
+   "summary": "İran ordusu, Hürmüz Boğazı'nın doğusunda 2 petrol tankerinin deniz mayınına çarpması sonucu alev aldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinda-2-petrol-tankeri-deniz-mayinina-carparak-alev-aldi/4122961",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T14:56:47+00:00",
+   "url": "/haber/iran-ordusu-hurmuz-bogazi-nda-2-petrol-tankeri-deniz-mayinina-carparak-1f123e08/"
+  },
+  {
+   "id": "53b5fedf",
+   "title": "Nvidia CEO'su Jensen Huang istifa etti",
+   "summary": "ABD'li çip üreticisi Nvidia, şirketin üst yöneticisi (CEO) Jensen Huang'ın, biri Çin adına istihbarat topladığı iddia edilen bir kadınla olmak üzere evlilik dışı iki ilişki yaşadığına dair haberlerin ardından istifa…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/nvidia-ceosu-jensen-huang-istifa-etti-/4122879",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T14:44:20+00:00",
+   "url": "/haber/nvidia-ceo-su-jensen-huang-istifa-etti-53b5fedf/"
+  },
+  {
+   "id": "338dd627",
+   "title": "OpenAI'ın çeyreklik geliri ilk kez 10 milyar dolara ulaştı",
+   "summary": "OpenAI, yeni yapay zeka modellerine yönelik talebin etkisiyle gelirlerini hızla artırdı. Şirketin üçüncü çeyrek geliri geçen yılın aynı dönemine göre yaklaşık üç katına çıktı.",
+   "link": "https://www.donanimhaber.com/openai-in-ceyreklik-geliri-ilk-kez-10-milyar-dolara-ulasti--212816",
+   "image": "https://www.donanimhaber.com/images/images/haber/212816/1200x675openai-in-ceyreklik-geliri-ilk-kez-10-milyar-dolara-ulasti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-12T14:36:00+00:00",
+   "url": "/haber/openai-in-ceyreklik-geliri-ilk-kez-10-milyar-dolara-ulasti-338dd627/"
+  },
   {
    "id": "0e2a80a0",
    "title": "iPhone X'ten beri en büyük değişim geliyor",
@@ -44,6 +110,17 @@
    "category": "teknoloji",
    "date": "2026-11-12T14:26:56+00:00",
    "url": "/haber/nvidia-ceo-su-jensen-huang-istifa-etti-iste-yerine-gecen-isim-930d5668/"
+  },
+  {
+   "id": "53015957",
+   "title": "Miles&Smiles Kuveyt Türk TROY Kart Lansmanı düzenlendi",
+   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, \"Ülkemiz gerek finansal düzenlemeler, gerek finansal teknolojiler ve dijitalleşme, gerekse de bankacılık sisteminin gelişmişliği ile dünyada öncü ülkeler…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/milessmiles-kuveyt-turk-troy-kart-lansmani-duzenlendi/4122830",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T14:26:01+00:00",
+   "url": "/haber/miles-smiles-kuveyt-turk-troy-kart-lansmani-duzenlendi-53015957/"
   },
   {
    "id": "be543688",
@@ -99,6 +176,17 @@
    "category": "teknoloji",
    "date": "2026-11-12T14:17:46+00:00",
    "url": "/haber/hangi-robot-supurge-size-uygun-evinize-ve-temizlik-aliskanliklariniza-4bb65f19/"
+  },
+  {
+   "id": "4d4c2b06",
+   "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Beyrut'ta dini toplulukların temsilcileriyle buluştu",
+   "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan ve beraberindeki Türk heyeti, başkent Beyrut'ta Lübnanlı Müslüman ve Hristiyan toplulukların liderleriyle görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-beyrutta-dini-topluluklarin-temsilcileriyle-bulustu/4122809",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T14:17:04+00:00",
+   "url": "/haber/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-beyrut-ta-dini-4d4c2b06/"
   },
   {
    "id": "0d63140f",
@@ -222,17 +310,6 @@
    "url": "/haber/nvidia-ceo-su-jensen-huang-istifa-etti-b16fcd82/"
   },
   {
-   "id": "1a08233c",
-   "title": "Filistin'den, İsrail'in bölgeyi patlamanın eşiğine sürükleyeceği uyarısı",
-   "summary": "Filistin Devlet Başkanlığı, Gazze Şeridi ve işgal altındaki Batı Şeria'da tırmanan gerilimin sonuçlarından Tel Aviv'i sorumlu tutarak, İsrail'in politikalarının bölgeyi patlamanın eşiğine sürükleyeceği konusunda uyardı.",
-   "link": "https://www.aa.com.tr/tr/dunya/filistinden-israilin-bolgeyi-patlamanin-esigine-surukleyecegi-uyarisi/4122749",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T13:55:46+00:00",
-   "url": "/haber/filistin-den-israil-in-bolgeyi-patlamanin-esigine-surukleyecegi-uyaris-1a08233c/"
-  },
-  {
    "id": "501e027f",
    "title": "Ne Nvidia ne AMD: DLSS Frame Generation'a yeni rakip geliyor",
    "summary": "Nvidia DLSS Frame Generation'a alternatif geliştiren Apex Compute, ANR teknolojisinin beta sürümünü yayınladı. Şirket, daha hızlı kare üretimi ve daha iyi görüntü kalitesi vadediyor.",
@@ -321,28 +398,6 @@
    "url": "/haber/iphone-duo-alanlarin-30-unun-cihazi-iade-ettigi-ortaya-cikti-apple-end-8fd99c55/"
   },
   {
-   "id": "7f7ae636",
-   "title": "Diyarbakır merkezli yasa dışı bahis operasyonunda 21 şüpheli yakalandı",
-   "summary": "Diyarbakır ve Şanlıurfa'da düzenlenen yasa dışı bahis operasyonunda 21 şüpheli gözaltına alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/diyarbakir-merkezli-yasa-disi-bahis-operasyonunda-21-supheli-yakalandi-/4122674",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T13:41:26+00:00",
-   "url": "/haber/diyarbakir-merkezli-yasa-disi-bahis-operasyonunda-21-supheli-yakalandi-7f7ae636/"
-  },
-  {
-   "id": "b9a9694a",
-   "title": "Japonya, ülkede konuşlu ABD güçleri için yıllık katkı payını yükseltmeyi planlıyor",
-   "summary": "Japonya'nın ülkede konuşlu ABD Kuvvetleri (USFJ) için sağladığı yıllık katkı payını, 300 milyar yenin (yaklaşık 95 milyar TL) üzerine çıkarmayı planladığı belirtildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/japonya-ulkede-konuslu-abd-gucleri-icin-yillik-katki-payini-yukseltmeyi-planliyor/4122673",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T13:41:07+00:00",
-   "url": "/haber/japonya-ulkede-konuslu-abd-gucleri-icin-yillik-katki-payini-yukseltmey-b9a9694a/"
-  },
-  {
    "id": "35942840",
    "title": "AMD'nin Zen 6 tabanlı yeni nesil Halo APU'su GDDR7 bellekle gelebilir",
    "summary": "AMD'nin yeni nesil Halo APU'su Siren Halo, GDDR7 grafik belleğiyle gelebilir. İşlemcinin yeni nesil Xbox konsolunda kullanılacak Magnus yongasıyla ortak donanım taşıması bekleniyor.",
@@ -418,6 +473,17 @@
    "category": "gundem",
    "date": "2026-11-12T13:17:24+00:00",
    "url": "/haber/beyoglu-nda-evde-haliya-sarili-ceset-bulundu-2831f0b1/"
+  },
+  {
+   "id": "53709a2c",
+   "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Beyrut Yunus Emre Enstitüsünü ziyaret etti",
+   "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmettin Bilal Erdoğan, Beyrut'taki Yunus Emre Enstitüsünü (YEE) ziyaret ederek Geleneksel Türk Okçuluğu Sergisi'nin açılışını yaptı.",
+   "link": "https://www.aa.com.tr/tr/kultur/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-beyrut-yunus-emre-enstitusunu-ziyaret-etti/4122605",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T13:13:23+00:00",
+   "url": "/haber/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-beyrut-yunus-e-53709a2c/"
   },
   {
    "id": "0e0959d0",
@@ -519,17 +585,6 @@
    "url": "/haber/mahkeme-jlr-ye-byd-baskininda-el-konulan-dosyalari-imha-etme-emri-verd-64598d25/"
   },
   {
-   "id": "e2afbd78",
-   "title": "60 saniyede bugün (12 Kasım 2026)",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-12-kasim-2026/4122538",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T12:36:36+00:00",
-   "url": "/haber/60-saniyede-bugun-12-kasim-2026-e2afbd78/"
-  },
-  {
    "id": "991a6f85",
    "title": "AK Partili Abdulhamit Gül: Fon soruşturmasında ismi geçenlerin listesi açıklanmalı",
    "summary": "Fon soruşturmasında ismi geçenlerin kamuoyu ile paylaşılması gerektiğini söyleyen AK Parti Grup Başkanvekili Abdulhamit Gül, \"Liste açıklanmadıkça herkes suçluymuş gibi bir intiba oluşuyor.\" dedi.",
@@ -539,17 +594,6 @@
    "category": "gundem",
    "date": "2026-11-12T12:35:52+00:00",
    "url": "/haber/ak-partili-abdulhamit-gul-fon-sorusturmasinda-ismi-gecenlerin-listesi-991a6f85/"
-  },
-  {
-   "id": "64760c8f",
-   "title": "60 saniyede ekonomide bugün (12 Kasım 2026)",
-   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-12-kasim-2026/4122534",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T12:35:31+00:00",
-   "url": "/haber/60-saniyede-ekonomide-bugun-12-kasim-2026-64760c8f/"
   },
   {
    "id": "30450c28",
@@ -783,17 +827,6 @@
    "url": "/haber/mini-kasim-2026-guncel-indirimler-kampanyalar-ve-kredi-firsatlari-c5524f80/"
   },
   {
-   "id": "f534a4bd",
-   "title": "Nvidia CEO’su Jensen Huang’ın olası halefleri belli oldu",
-   "summary": "Jensen Huang'ın olası ayrılığı gündemdeyken Nvidia'da CEO'luk için iki isim öne çıkıyor. CFO Colette Kress ve CUDA'nın mimarlarından Ian Buck, en güçlü halef adayları arasında gösteriliyor.",
-   "link": "https://www.donanimhaber.com/nvidia-ceo-su-jensen-huang-in-olasi-halefleri-belli-oldu--212805",
-   "image": "https://www.donanimhaber.com/images/images/haber/212805/1200x675nvidia-ceo-su-jensen-huang-in-olasi-halefleri-belli-oldu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-12T11:18:00+00:00",
-   "url": "/haber/nvidia-ceo-su-jensen-huang-in-olasi-halefleri-belli-oldu-f534a4bd/"
-  },
-  {
    "id": "b51dce3c",
    "title": "Merkezefendi Belediye Başkanvekili Yeni Partili Osman Bartal oldu",
    "summary": "Denizli'nin Merkezefendi ilçesinde Şeniz Doğan'ın görevden uzaklaştırılması nedeniyle yapılan başkanvekili seçimini Yeni Partili Meclis Üyesi Osman Bartal kazandı.",
@@ -814,17 +847,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T11:00:00+00:00",
    "url": "/haber/katlanabilir-telefon-caminda-kalinlik-plani-048d7e2c/"
-  },
-  {
-   "id": "19bca669",
-   "title": "En uzun pil ömrüne sahip telefonlar belli oldu: iPhone 18 Pro Max zirvede",
-   "summary": "Apple'ın iPhone 18 Pro Max modeli, 32 akıllı telefonun karşılaştırıldığı batarya testinde ilk sıraya yerleşti. iPhone 18 Pro ise video testinde rakiplerini geride bıraktı.",
-   "link": "https://www.donanimhaber.com/en-uzun-pil-omrune-sahip-telefonlar-belli-oldu-iste-liste--212813",
-   "image": "https://www.donanimhaber.com/images/images/haber/212813/1200x675en-uzun-pil-omrune-sahip-telefonlar-belli-oldu-iste-liste.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-12T10:56:00+00:00",
-   "url": "/haber/en-uzun-pil-omrune-sahip-telefonlar-belli-oldu-iphone-18-pro-max-zirve-19bca669/"
   },
   {
    "id": "a298a126",
@@ -858,17 +880,6 @@
    "category": "gundem",
    "date": "2026-11-12T10:34:38+00:00",
    "url": "/haber/cumhurbaskani-erdogan-pezeskiyan-ile-gorustu-13fdbba2/"
-  },
-  {
-   "id": "fd9e7cfd",
-   "title": "GTA 6, PlayStation ve Xbox tarihine geçti",
-   "summary": "Grand Theft Auto 6, PS5 ve Xbox Series X/S'te ön yüklemeye açıldı ve şimdiden Rockstar'a 1 milyar dolara yakın kazandırdı. GTA 6 aynı zamanda en çok ön sipariş verilen oyun unvanını aldı.",
-   "link": "https://www.donanimhaber.com/gta-6-playstation-ve-xbox-ta-en-cok-on-siparis-verilen-oyun-oldu--212814",
-   "image": "https://www.donanimhaber.com/images/images/haber/212814/1200x675gta-6-playstation-ve-xbox-ta-en-cok-on-siparis-verilen-oyun-oldu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-12T10:34:00+00:00",
-   "url": "/haber/gta-6-playstation-ve-xbox-tarihine-gecti-fd9e7cfd/"
   },
   {
    "id": "191d3686",
@@ -1012,17 +1023,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T09:27:48+00:00",
    "url": "/haber/kia-2026-altin-direksiyon-odulleri-nde-uc-odul-birden-kazandi-a26e8b34/"
-  },
-  {
-   "id": "53486787",
-   "title": "11 kişi can vermişti. Kuzey Marmara Otoyolu'ndaki katliam gibi kazada istenen ceza belli oldu",
-   "summary": "Kuzey Marmara Otoyolu'nun Sakarya kesiminde 28 Aralık 2023'te 11 kişinin hayatını kaybettiği zincirleme trafik kazasına ilişkin davada 4 sanığın 15'er yıla kadar hapsi istendi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-11-kisi-can-vermisti-kuzey-marmara-otoyolundaki-katliam-gibi-kazada-istenen-ceza-belli-oldu-1750551",
-   "image": "https://images.ntv.com.tr/images/kuzeymarmarakaza-699244.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-12T09:00:34+00:00",
-   "url": "/haber/11-kisi-can-vermisti-kuzey-marmara-otoyolu-ndaki-katliam-gibi-kazada-i-53486787/"
   },
   {
    "id": "feec94e4",
