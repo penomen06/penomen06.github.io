@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T02:01:00.135999+00:00",
+ "updated": "2026-11-12T02:30:57.261418+00:00",
  "items": [
   {
    "id": "44bfe53f",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-12T02:00:00+00:00",
+   "date": "2026-11-12T02:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-44bfe53f/"
+  },
+  {
+   "id": "b67bfaee",
+   "title": "Arap Koalisyonu: Suudi Arabistan’ın doğusunda bir İHA engellendi",
+   "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Suudi Arabistan’ın doğusunda bir insansız hava aracının (İHA) engellendiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistan-in-dogusunda-bir-iha-engellendi/4121563",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T02:25:26+00:00",
+   "url": "/haber/arap-koalisyonu-suudi-arabistan-in-dogusunda-bir-iha-engellendi-b67bfaee/"
+  },
+  {
+   "id": "02dacccc",
+   "title": "Antalya'dan dünyaya mesaj. \"Hayalimiz insanlığın ortak geleceği\"",
+   "summary": "COP31 Başkanı Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Gelecek nesiller bizleri yaptığımız konuşmalarla değil, aldığımız kararlarla hatırlayacak.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-kurum-iklim-krizine-karsi-guvende-degiliz-1750472",
+   "image": "https://images.ntv.com.tr/images/AA-20261111-43038386-43038376-COP31_LIDERLER_ZIRVESI-343403.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-12T02:21:44+00:00",
+   "url": "/haber/antalya-dan-dunyaya-mesaj-hayalimiz-insanligin-ortak-gelecegi-02dacccc/"
   },
   {
    "id": "241d7238",
@@ -101,28 +123,6 @@
    "url": "/haber/kuresel-endeks-saglayicisi-msci-endekslerde-degisiklige-gitti-3f77f5ec/"
   },
   {
-   "id": "f92f8a8c",
-   "title": "New York'ta çöken binanın enkazı altında kalan en az bir kişi hayatını kaybetti",
-   "summary": "New York'un Brooklyn kentinde çöken binanın enkazı altında kalan en az bir kişinin öldüğü, bazı apartman sakinlerinin yaralandığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/new-yorkta-coken-binanin-enkazi-altinda-kalan-en-az-bir-kisi-hayatini-kaybetti/4121532",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T22:37:15+00:00",
-   "url": "/haber/new-york-ta-coken-binanin-enkazi-altinda-kalan-en-az-bir-kisi-hayatini-f92f8a8c/"
-  },
-  {
-   "id": "05491eec",
-   "title": "ABD Temsilciler Meclisi, Savunma Bakanı Hegseth'e yönelik azil girişimini engelledi",
-   "summary": "ABD Temsilciler Meclisi, Savunma Bakanı Pete Hegseth'in görevden alınmasına yönelik azil girişimini engelledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-temsilciler-meclisi-savunma-bakani-hegsethe-yonelik-azil-girisimini-engelledi/4121524",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T22:25:49+00:00",
-   "url": "/haber/abd-temsilciler-meclisi-savunma-bakani-hegseth-e-yonelik-azil-girisimi-05491eec/"
-  },
-  {
    "id": "178bb6b0",
    "title": "Gazze'de öldürülen Filistinli genç kaleci, İsrail soykırımının son sporcu kurbanı oldu",
    "summary": "İsrail'in Gazze Şeridi'ne yönelik soykırımında hayatını kaybeden Filistinli sporcuların sayısı, Gazze Spor Kulübü kalecisi Mahmud Kemal Abdulmalik'in yaşamını yitirmesiyle 1017'ye yükseldi.",
@@ -145,15 +145,26 @@
    "url": "/haber/bm-acil-yardim-koordinatoru-fletcher-dan-gazze-de-toplu-cezalandirmani-53fd054f/"
   },
   {
-   "id": "76d050f0",
-   "title": "Rusya'nın Washington Büyükelçisi Darçiyev hayatını kaybetti",
-   "summary": "Rusya'nın Washington Büyükelçisi Aleksandr Darçiyev'in 66 yaşında hayatını kaybettiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusyanin-washington-buyukelcisi-darciyev-hayatini-kaybetti/4121519",
+   "id": "46918bc1",
+   "title": "İspanya Başbakanı Sanchez, savcılığın TikTok hakkında soruşturma başlatmasını memnuniyetle karşıladı",
+   "summary": "İspanya Başbakanı Pedro Sanchez, sosyal medya platformu TikTok'ta çocuk cinsel istismarına ilişkin görüntülerin yayılmasıyla ilgili savcılığın soruşturma başlatma kararının harika bir haber olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/ispanya-basbakani-sanchez-savciligin-tiktok-hakkinda-sorusturma-baslatmasini-memnuniyetle-karsiladi/4121520",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-11T22:23:41+00:00",
-   "url": "/haber/rusya-nin-washington-buyukelcisi-darciyev-hayatini-kaybetti-76d050f0/"
+   "date": "2026-11-11T22:24:11+00:00",
+   "url": "/haber/ispanya-basbakani-sanchez-savciligin-tiktok-hakkinda-sorusturma-baslat-46918bc1/"
+  },
+  {
+   "id": "54b29d4d",
+   "title": "Katar: Hürmüz Boğazı’ndaki krizin küresel kalkınmaya etkileri giderek ağırlaşıyor",
+   "summary": "Katar Uluslararası İşbirliğinden Sorumlu Devlet Bakanı Meryem bint Ali el-Misned, Hürmüz Boğazı’ndaki krizin küresel kalkınmaya etkilerinin giderek ağırlaştığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/katar-hurmuz-bogazi-ndaki-krizin-kuresel-kalkinmaya-etkileri-giderek-agirlasiyor/4121518",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T22:23:12+00:00",
+   "url": "/haber/katar-hurmuz-bogazi-ndaki-krizin-kuresel-kalkinmaya-etkileri-giderek-a-54b29d4d/"
   },
   {
    "id": "6d4a3ff0",
@@ -266,15 +277,15 @@
    "url": "/haber/ak-parti-genel-baskanvekili-ala-israil-in-istegi-soykirim-siyasetinin-77a70625/"
   },
   {
-   "id": "287d6eab",
-   "title": "İsrail ordusu, El Halil'de bir Filistinli ile oğlunu gözaltına aldı, 2 çocuğu alıkoydu",
-   "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın El Halil kentinde bir Filistinli ile oğlunu gözaltına alırken, 2 çocuğu da alıkoydu.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-el-halilde-bir-filistinli-ile-oglunu-gozaltina-aldi-2-cocugu-alikoydu/4121469",
+   "id": "9730d9f6",
+   "title": "İsrail'in Han Yunus’taki Nasır Hastanesi'ne düzenlediği saldırıda 6 kişi hayatını kaybetti",
+   "summary": "İsrail ordusunun Gazze Şeridi’nin güneyindeki Han Yunus kentinde yer alan Nasır Hastanesi'ne düzenlediği hava saldırısı sonucunda ilk belirlemelere göre 6 kişi yaşamını yitirdi, 20'den fazla kişi de yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-han-yunus-taki-nasir-hastanesine-duzenledigi-saldirida-6-kisi-hayatini-kaybetti/4121469",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-11T20:57:45+00:00",
-   "url": "/haber/israil-ordusu-el-halil-de-bir-filistinli-ile-oglunu-gozaltina-aldi-2-c-287d6eab/"
+   "url": "/haber/israil-in-han-yunus-taki-nasir-hastanesi-ne-duzenledigi-saldirida-6-ki-9730d9f6/"
   },
   {
    "id": "4938cd3d",
@@ -341,17 +352,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T20:20:00+00:00",
    "url": "/haber/katlanabilir-telefonlarin-yuzde-69-u-samsung-dan-9bf4880c/"
-  },
-  {
-   "id": "02dacccc",
-   "title": "Bakan Kurum: İklim krizine karşı güvende değiliz",
-   "summary": "Bakan Kurum, COP31'de yaptığı konuşmada hiçbir ülkenin ne kadar güçlü olursa olsun iklim krizinin karşısında duramayacağı mesajını verdi.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-kurum-iklim-krizine-karsi-guvende-degiliz-1750472",
-   "image": "https://images.ntv.com.tr/images/AA-20261111-43048503-43048484-IKLIM_ZIRVESI_COP31_ANTALYA_BAKAN_KURUM_COP31_BAKANLAR_YEMEGI_PROGRAMINDA_KONUSTU-241127.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-11T20:08:48+00:00",
-   "url": "/haber/bakan-kurum-iklim-krizine-karsi-guvende-degiliz-02dacccc/"
   },
   {
    "id": "aca13768",
