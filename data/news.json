@@ -1,17 +1,6 @@
 {
- "updated": "2026-11-12T01:01:06.609495+00:00",
+ "updated": "2026-11-12T01:30:57.930260+00:00",
  "items": [
-  {
-   "id": "241d7238",
-   "title": "HABAŞ patlaması: Gözaltına alınan dokuz kişi tutuklandı, şirketin yönetim kurulu başkanı adli kontrolle serbest",
-   "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda 19 işçinin öldüğü patlamanın ardından gözaltına alınan 11 kişiden 9'u tutuklandı. Şirketin yönetim kurulu başkanı Mehmet Rüştü Başaran dahil…",
-   "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6845/live/1d47dab0-de34-11f1-b8ec-f53576d91bbb.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-12T01:00:02+00:00",
-   "url": "/haber/habas-patlamasi-gozaltina-alinan-dokuz-kisi-tutuklandi-sirketin-yoneti-241d7238/"
-  },
   {
    "id": "44bfe53f",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 12 Kasım 2026",
@@ -20,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-12T01:00:01+00:00",
+   "date": "2026-11-12T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-44bfe53f/"
+  },
+  {
+   "id": "241d7238",
+   "title": "HABAŞ patlaması: Dokuz kişi tutuklandı, yönetim kurulu başkanı adli kontrolle serbest",
+   "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda 19 işçinin öldüğü patlamanın ardından gözaltına alınan 11 kişiden 9'u tutuklandı. Şirketin yönetim kurulu başkanı Mehmet Rüştü Başaran dahil…",
+   "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8031/live/bff1e4d0-de35-11f1-a70a-fb80733335aa.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-12T01:04:46+00:00",
+   "url": "/haber/habas-patlamasi-dokuz-kisi-tutuklandi-yonetim-kurulu-baskani-adli-kont-241d7238/"
   },
   {
    "id": "d42ac849",
@@ -264,6 +264,17 @@
    "category": "gundem",
    "date": "2026-11-11T20:58:33+00:00",
    "url": "/haber/londra-belediye-baskani-khan-iklim-krizinin-yikici-etkilerine-dikkati-d423b5df/"
+  },
+  {
+   "id": "287d6eab",
+   "title": "İsrail ordusu, El Halil'de bir Filistinli ile oğlunu gözaltına aldı, 2 çocuğu alıkoydu",
+   "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın El Halil kentinde bir Filistinli ile oğlunu gözaltına alırken, 2 çocuğu da alıkoydu.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-el-halilde-bir-filistinli-ile-oglunu-gozaltina-aldi-2-cocugu-alikoydu/4121469",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-11T20:57:45+00:00",
+   "url": "/haber/israil-ordusu-el-halil-de-bir-filistinli-ile-oglunu-gozaltina-aldi-2-c-287d6eab/"
   },
   {
    "id": "c1b057d5",
@@ -605,17 +616,6 @@
    "category": "teknoloji",
    "date": "2026-11-11T16:46:25+00:00",
    "url": "/haber/turk-telekom-un-cop31-standini-gezdik-6c87d54a/"
-  },
-  {
-   "id": "a05d9806",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Herkes İçin Erken Uyarı Sistemleri\" Oturumu'nda konuştu",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Türkiye'nin meteoroloji, afet yönetimi ve erken uyarı alanlarındaki tecrübesini eğitim, teknik işbirliği ve veri paylaşımı yoluyla kırılgan ülkelerle paylaşmaya hazır olduğunu…",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-herkes-icin-erken-uyari-sistemleri-oturumunda-konustu/4121147",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-11T16:27:54+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-herkes-icin-erken-uyari-sistemleri-otu-a05d9806/"
   },
   {
    "id": "4016630d",
