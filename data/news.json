@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T22:08:37.973000+00:00",
+ "updated": "2026-11-13T22:30:58.532423+00:00",
  "items": [
+  {
+   "id": "6d8d2203",
+   "title": "ABD'de tüm uçuşlar durduruldu: 'Bu yeni bir 11 Eylül değil'",
+   "summary": "ABD İç Güvenlik Bakanı Markwayne Mullin, \"uçakların yerde tutulması kararına bir telekomünikasyon kesintisinin yol açtığını\" söyledi. Mullin, \"Bu yeni bir 11 Eylül değil\" dedi.",
+   "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/467b/live/44176640-dfa8-11f1-b441-2b33b063138f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-13T22:20:55+00:00",
+   "url": "/haber/abd-de-tum-ucuslar-durduruldu-bu-yeni-bir-11-eylul-degil-6d8d2203/"
+  },
   {
    "id": "03298c9f",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 14 Kasım 2026",
@@ -13,15 +24,15 @@
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-03298c9f/"
   },
   {
-   "id": "6d8d2203",
-   "title": "ABD'de hava trafik kontrolündeki 'iletişim sorunu' nedeniyle tüm uçuşlar durduruldu",
-   "summary": "Ulaştırma Bakanı Sean Duffy, ABD Federal Havacılık İdaresi'nin \"tüm hava trafik kontrol merkezlerini etkileyen bir iletişim sorununun ardından ABD'deki tüm havalimanları için ülke genelinde uçakların yerde tutulması…",
-   "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/467b/live/44176640-dfa8-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
+   "id": "e33ee800",
+   "title": "UEFA Uluslar Ligi'nin 5. haftasında 10 maç oynandı",
+   "summary": "UEFA Uluslar Ligi'nin 5. haftasına 10 maçla devam edildi.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-5-haftasinda-10-mac-oynandi/4124797",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-13T21:57:37+00:00",
-   "url": "/haber/abd-de-hava-trafik-kontrolundeki-iletisim-sorunu-nedeniyle-tum-ucuslar-6d8d2203/"
+   "date": "2026-11-13T21:59:15+00:00",
+   "url": "/haber/uefa-uluslar-ligi-nin-5-haftasinda-10-mac-oynandi-e33ee800/"
   },
   {
    "id": "5c53beeb",
@@ -385,17 +396,6 @@
    "category": "gundem",
    "date": "2026-11-13T18:47:11+00:00",
    "url": "/haber/bakan-ciftci-den-yolda-kalan-iki-kadina-yardim-eden-polislere-tesekkur-97def169/"
-  },
-  {
-   "id": "6d372d9b",
-   "title": "ABD'de yaklaşık 721 bin BMW otomobil için \"açık alana park\" uyarısı",
-   "summary": "ABD Ulusal Kara Yolu Trafik Güvenliği İdaresi, Alman otomobil üreticisi BMW'nin yangın riski taşıyan 721 bin aracını geri çağırdığını belirterek, onarım işlemi tamamlanana kadar söz konusu araçların açık alana park…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-yaklasik-721-bin-bmw-otomobil-icin-acik-alana-park-uyarisi/4124680",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T18:43:59+00:00",
-   "url": "/haber/abd-de-yaklasik-721-bin-bmw-otomobil-icin-acik-alana-park-uyarisi-6d372d9b/"
   },
   {
    "id": "dda27843",
