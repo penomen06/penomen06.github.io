@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T07:30:53.112871+00:00",
+ "updated": "2026-11-13T07:51:14.130605+00:00",
  "items": [
+  {
+   "id": "63da8db2",
+   "title": "Bitcoin, satış baskısı ve jeopolitik risklerle yeniden 70 bin doların altına geriledi",
+   "summary": "Orta Doğu'da yeniden tırmanan askeri gerilimin tetiklediği jeopolitik riskler ve artan satış baskısının etkisiyle Bitcoin'in fiyatı yeniden 70 bin doların altına düştü.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bitcoin-satis-baskisi-ve-jeopolitik-risklerle-yeniden-70-bin-dolarin-altina-geriledi/4123686",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T07:37:40+00:00",
+   "url": "/haber/bitcoin-satis-baskisi-ve-jeopolitik-risklerle-yeniden-70-bin-dolarin-a-63da8db2/"
+  },
+  {
+   "id": "c889714e",
+   "title": "Volkswagen, yeni “T-Roc R” için kamuflajlı fotoğraflar paylaştı",
+   "summary": "Volkswagen, geçtiğimiz saatlerde yüksek performanslı SUV modeli T-Roc R’ın yeni sürümü için hafif kamuflajlı fotoğraflar paylaştı. Yıl sonunda resmi olarak tanıtılması beklenen araç, tasarımda daha sportif tamponlar,…",
+   "link": "https://www.log.com.tr/volkswagen-yeni-t-roc-r-icin-kamuflajli-fotograflar-paylasti/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-13_10-31-36_LlH9i-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-13T07:36:57+00:00",
+   "url": "/haber/volkswagen-yeni-t-roc-r-icin-kamuflajli-fotograflar-paylasti-c889714e/"
+  },
   {
    "id": "a9ab93cf",
    "title": "Audi'de ekran çılgınlığı sona eriyor",
@@ -11,6 +33,17 @@
    "category": "teknoloji",
    "date": "2026-11-13T07:30:00+00:00",
    "url": "/haber/audi-de-ekran-cilginligi-sona-eriyor-a9ab93cf/"
+  },
+  {
+   "id": "cce1bb58",
+   "title": "Microsoft Outlook çöktü, kesinti saatlerdir devam ediyor",
+   "summary": "Microsoft 365'te yaşanan küresel kesinti nedeniyle Outlook başta olmak üzere birçok hizmet saatlerdir kullanılamıyor. Microsoft, sorunu gidermek için çalışmalarını sürdürüyor.",
+   "link": "https://www.donanimhaber.com/microsoft-outlook-coktu-kesinti-saatlerdir-devam-ediyor--212851",
+   "image": "https://www.donanimhaber.com/images/images/haber/212851/1200x675microsoft-outlook-coktu-kesinti-saatlerdir-devam-ediyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-13T07:30:00+00:00",
+   "url": "/haber/microsoft-outlook-coktu-kesinti-saatlerdir-devam-ediyor-cce1bb58/"
   },
   {
    "id": "3ea0c992",
@@ -497,17 +530,6 @@
    "url": "/haber/iletisim-baskani-duran-cumhurbaskanimizin-cop31-liderler-zirvesi-nde-y-e9584de3/"
   },
   {
-   "id": "8c39b918",
-   "title": "ABD'li Demokrat Senatör Van Hollen, Senato Çoğunluk Liderliği için aday olacağını duyurdu",
-   "summary": "ABD'li Demokrat Senatör Chris Van Hollen, İsrail'e desteğiyle bilinen Senato Azınlık Lideri Chuck Schumer'a karşı Senato Çoğunluk Liderliği için aday olacağını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdli-demokrat-senator-van-hollen-senato-cogunluk-liderligi-icin-aday-olacagini-duyurdu/4123606",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T06:15:12+00:00",
-   "url": "/haber/abd-li-demokrat-senator-van-hollen-senato-cogunluk-liderligi-icin-aday-8c39b918/"
-  },
-  {
    "id": "0213e62c",
    "title": "Kushner, Rusya ve Ukrayna'nın Avrupalıların masaya alınması konusunda mutabık kaldığını duyurdu",
    "summary": "ABD Başkanı Trump'ın Özel Temsilcisi Jared Kushner, Rusya Devlet Başkanı Putin ve Ukrayna Devlet Başkanı Zelenskiy ile görüşmelerin ardından tarafların, ilerleyen aşamalarda Avrupalı müttefiklerin masaya alınmasında…",
@@ -561,17 +583,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T06:00:00+00:00",
    "url": "/haber/byd-denza-n8-tanitildi-1-193-beygir-guc-1-003-km-menzil-ve-9-dakikada-1eccf050/"
-  },
-  {
-   "id": "19c2cc2d",
-   "title": "X artık gönderilere 20’ye kadar fotoğraf ve video eklenmesine olanak tanıyor",
-   "summary": "Elon Musk’ın sahibi olduğu X (eski adıyla Twitter), artık tek bir gönderide 20’ye kadar fotoğraf ve video paylaşılmasına olanak tanıyor. Platform, yaklaşık 10 yıldır bir gönderiye en fazla 4 fotoğraf veya video…",
-   "link": "https://www.log.com.tr/x-artik-gonderilere-20ye-kadar-fotograf-ve-video-eklenmesine-olanak-taniyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-13_08-56-17_9IA8L-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-13T05:58:36+00:00",
-   "url": "/haber/x-artik-gonderilere-20-ye-kadar-fotograf-ve-video-eklenmesine-olanak-t-19c2cc2d/"
   },
   {
    "id": "df4ac4c7",
@@ -946,17 +957,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T18:55:00+00:00",
    "url": "/haber/cin-in-gunes-enerjisiyle-30-saat-havada-kalabilen-iha-si-ilk-ucusunu-y-8e0d2e5e/"
-  },
-  {
-   "id": "36747bda",
-   "title": "Netflix, büyük bütçeli animasyon filmi Ray Gunn'ın yeni fragmanını paylaştı",
-   "summary": "İnanılmaz Aile (Incredibles) filminin Oscar ödüllü yönetmeni Brad Bird, yeni bir animasyon filmiyle karşımızda. Netflix yapımı Ray Gunn, 18 Aralık'ta izleyici ile buluşacak.",
-   "link": "https://www.donanimhaber.com/netflix-animasyon-filmi-ray-gunn-in-yeni-fragmanini-paylasti--212837",
-   "image": "https://www.donanimhaber.com/images/images/haber/212837/1200x675netflix-animasyon-filmi-ray-gunn-in-yeni-fragmanini-paylasti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-12T18:33:00+00:00",
-   "url": "/haber/netflix-buyuk-butceli-animasyon-filmi-ray-gunn-in-yeni-fragmanini-payl-36747bda/"
   },
   {
    "id": "21e3412e",
