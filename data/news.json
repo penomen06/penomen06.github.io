@@ -1,6 +1,160 @@
 {
- "updated": "2026-11-13T09:30:57.236042+00:00",
+ "updated": "2026-11-13T10:01:00.151344+00:00",
  "items": [
+  {
+   "id": "a463b233",
+   "title": "Xiaomi'nin ilk NAS'ı Çin'de pazarı karıştırdı",
+   "summary": "Xiaomi NAS, Çin'de ağustosta satışa çıktı ve eylülde online satışlarda %32,5 paya ulaştı. Synology üçüncü sıraya düştü, lider hala Ugreen.",
+   "link": "https://shiftdelete.net/xiaomi-nas-cin-pazari-synology-ugreen",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/xiaomi-nas-cin-pazari-kapak-1311.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-13T10:00:00+00:00",
+   "url": "/haber/xiaomi-nin-ilk-nas-i-cin-de-pazari-karistirdi-a463b233/"
+  },
+  {
+   "id": "f0b88f14",
+   "title": "Sarıgül dosyasında yeni gelişmeler: Ömer Sarıgül ek ifade verecek, 15 kişi daha gözaltında",
+   "summary": "Kara para aklama iddiasıyla başlatılan soruşturmada tutuklanan Mustafa Sarıgül'ün oğlu Ömer Sarıgül, ek ifade verecek. Dosyada bugün yeni gözaltı kararları da verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sarigul-sorusturmasinda-yeni-operasyon-17-gozalti-karari-1750654",
+   "image": "https://images.ntv.com.tr/images/sarıgül-dosyası-290482.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-13T09:57:29+00:00",
+   "url": "/haber/sarigul-dosyasinda-yeni-gelismeler-omer-sarigul-ek-ifade-verecek-15-ki-f0b88f14/"
+  },
+  {
+   "id": "c29871eb",
+   "title": "Görevi başında rahatsızlanan asker şehit oldu",
+   "summary": "Milli Savunma Bakanı Yaşar Güler, görevi sırasında rahatsızlanarak şehit olan Mühimmat Er Kaan Öcal için başsağlığı mesajı yayımladı.",
+   "link": "https://www.ntv.com.tr/turkiye/gorevi-basinda-rahatsizlanan-asker-sehit-oldu-1750701",
+   "image": "https://images.ntv.com.tr/images/HW_u_DvXIAALkE1-840177.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-13T09:57:24+00:00",
+   "url": "/haber/gorevi-basinda-rahatsizlanan-asker-sehit-oldu-c29871eb/"
+  },
+  {
+   "id": "217c0029",
+   "title": "Xiaomi Türkiye lansmanı 17 Kasım'da: Xiaomi 18 Pro ve fazlası geliyor",
+   "summary": "Xiaomi 18 Pro Max 17 Kasım'da Türkiye'ye geliyor. Her ne kadar lansmanın yıldızı yeni Xiaomi 18 Pro serisi olacak olsa da, o gün başka ürünler de ülkemizde satışa sunulacak.",
+   "link": "https://www.donanimhaber.com/xiaomi-18-pro-max-turkiye-lansmani-17-kasim-da-iste-detaylar--212867",
+   "image": "https://www.donanimhaber.com/images/images/haber/212867/1200x675xiaomi-18-pro-max-turkiye-lansmani-17-kasim-da-iste-detaylar.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-13T09:57:09+00:00",
+   "url": "/haber/xiaomi-turkiye-lansmani-17-kasim-da-xiaomi-18-pro-ve-fazlasi-geliyor-217c0029/"
+  },
+  {
+   "id": "cfadfea4",
+   "title": "Mercedes Almanya’da yatırımları durdurdu, fabrikalar kapanabilir",
+   "summary": "Mercedes, işçilik maliyetlerini azaltmak için yürüttüğü görüşmelerden sonuç alamayınca Almanya’daki tesislerine yapacağı yeni yatırımları durdurdu. Şirket, fabrika kapatmayı da değerlendiriyor.",
+   "link": "https://www.donanimhaber.com/mercedes-almanya-da-yatirimlari-durdurdu-fabrikalar-kapanabilir--212858",
+   "image": "https://www.donanimhaber.com/images/images/haber/212858/1200x675mercedes-almanya-da-yatirimlari-durdurdu-fabrikalar-kapanabilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-13T09:56:00+00:00",
+   "url": "/haber/mercedes-almanya-da-yatirimlari-durdurdu-fabrikalar-kapanabilir-cfadfea4/"
+  },
+  {
+   "id": "14e928b1",
+   "title": "Türkiye Yüzyılı Maarif Modeli öğrencileri çevre bilinciyle yetiştiriyor",
+   "summary": "Milli Eğitim Bakan Yardımcısı Ömer Faruk Yelkenci, Türkiye Yüzyılı Maarif Modeli ile öğrencilerin ortaokuldan itibaren çevre bilinci ile yetiştirildiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-yuzyili-maarif-modeli-ogrencileri-cevre-bilinciyle-yetistiriyor/4123855",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T09:47:16+00:00",
+   "url": "/haber/turkiye-yuzyili-maarif-modeli-ogrencileri-cevre-bilinciyle-yetistiriyo-14e928b1/"
+  },
+  {
+   "id": "de06e384",
+   "title": "Afyonkarahisar'da 8 kişiyi katleden katil zanlısı için yeni karar",
+   "summary": "Afyonkarahisar'da 8 kişinin öldüren katil zanlısı tutuklu bulunduğu Afyonkarahisar'daki cezaevinden güvenlik gerekçesiyle İzmir'e nakledildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-8-kisiyi-katleden-katil-zanlisi-icin-yeni-karar-1750696",
+   "image": "https://images.ntv.com.tr/images/afyon-katil-zanl_C4_B1s_C4_B1-1-953038-404578.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-13T09:46:27+00:00",
+   "url": "/haber/afyonkarahisar-da-8-kisiyi-katleden-katil-zanlisi-icin-yeni-karar-de06e384/"
+  },
+  {
+   "id": "03f963d4",
+   "title": "Amerika-İsrail ilişkilerinin çok katmanlı boyutları: Ulusal çıkar, din ve ideoloji",
+   "summary": "Filistin konusunun artık Amerikan kamuoyunda önemli bir yere sahip olduğu ve sadece ABD'deki Müslüman toplum nezdinde değil diğer din mensupları nezdinde de bir eşitsizlik, insan hakları ve baskı sorunu olarak görüldüğü…",
+   "link": "https://www.aa.com.tr/tr/analiz/amerika-israil-iliskilerinin-cok-katmanli-boyutlari-ulusal-cikar-din-ve-ideoloji/4123852",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T09:44:38+00:00",
+   "url": "/haber/amerika-israil-iliskilerinin-cok-katmanli-boyutlari-ulusal-cikar-din-v-03f963d4/"
+  },
+  {
+   "id": "8dc1abda",
+   "title": "G7 Dışişleri Bakanları Toplantısı: Değişen jeopolitik düzene adaptasyon",
+   "summary": "Paris'teki toplantının önemi yeni bir uluslararası düzenin kurulduğunu ilan etmesi değil, mevcut düzenin hangi güvenlik ve güç ilişkileri üzerinden yeniden şekillendiğini göstermesidir.",
+   "link": "https://www.aa.com.tr/tr/analiz/g7-disisleri-bakanlari-toplantisi-degisen-jeopolitik-duzene-adaptasyon/4123850",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T09:42:54+00:00",
+   "url": "/haber/g7-disisleri-bakanlari-toplantisi-degisen-jeopolitik-duzene-adaptasyon-8dc1abda/"
+  },
+  {
+   "id": "958bd9be",
+   "title": "Türkiye-Fransa maçını İngiliz hakem Chris Kavanagh yönetecek",
+   "summary": "A Milli Futbol Takımı'nın UEFA Uluslar A Ligi 1. Grup'ta 15 Kasım Pazar günü Fransa'ya konuk olacağı altıncı hafta maçını İngiliz hakem Chris Kavanagh yönetecek.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-fransa-macini-ingiliz-hakem-chris-kavanagh-yonetecek/4123844",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T09:38:09+00:00",
+   "url": "/haber/turkiye-fransa-macini-ingiliz-hakem-chris-kavanagh-yonetecek-958bd9be/"
+  },
+  {
+   "id": "f4b4c3fd",
+   "title": "DSÖ yetkilisi İsmail'den COP31'in iklim kaynaklı sağlık sorunlarıyla mücadeledeki rolüne vurgu",
+   "summary": "Dünya Sağlık Örgütü (DSÖ) Program Yönetimi Direktörü ve Sorumlu Yetkilisi Adham İsmail, COP31'in, iklim değişikliğinin sağlık sistemleri üzerindeki etkilerine dair işbirliğinin güçlendirilmesi için önemli bir başlangıç…",
+   "link": "https://www.aa.com.tr/tr/gundem/dso-yetkilisi-ismailden-cop31in-iklim-kaynakli-saglik-sorunlariyla-mucadeledeki-rolune-vurgu/4123842",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T09:35:46+00:00",
+   "url": "/haber/dso-yetkilisi-ismail-den-cop31-in-iklim-kaynakli-saglik-sorunlariyla-m-f4b4c3fd/"
+  },
+  {
+   "id": "6ac8d17c",
+   "title": "Xiaomi 18 Pro'nun bir özelliği daha doğrulandı: Beklenen destek yolda",
+   "summary": "Xiaomi 18 Pro serisinin arka ekranında kullanılabilecek uygulamalar belli olmaya başladı. Google Maps, Spotify ve YouTube Music desteğiyle küçük ekranın kullanım alanı genişliyor.",
+   "link": "https://www.donanimhaber.com/xiaomi-18-pro-nun-bir-ozelligi-dogrulandi-beklenen-destek-yolda--212862",
+   "image": "https://www.donanimhaber.com/images/images/haber/212862/1200x675xiaomi-18-pro-nun-bir-ozelligi-dogrulandi-beklenen-destek-yolda.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-13T09:34:00+00:00",
+   "url": "/haber/xiaomi-18-pro-nun-bir-ozelligi-daha-dogrulandi-beklenen-destek-yolda-6ac8d17c/"
+  },
+  {
+   "id": "dba690fc",
+   "title": "WhatsApp'ta konum paylaşımı artık çıkartmasız",
+   "summary": "WhatsApp konum durumu özelliği Android beta sürümünde ortaya çıktı. Konum paylaşmak için artık fotoğraf, video ya da çıkartma gerekmeyecek.",
+   "link": "https://shiftdelete.net/whatsapp-konum-durumu-android-test",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/whatsapp-gizlilik-kapak-1211.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-13T09:32:37+00:00",
+   "url": "/haber/whatsapp-ta-konum-paylasimi-artik-cikartmasiz-dba690fc/"
+  },
+  {
+   "id": "fcef444d",
+   "title": "15 Temmuz Şehitler Köprüsü'nde İstanbul trafiğini kilitleyen eylem",
+   "summary": "15 Temmuz Şehitler Köprüsü girişinde bir kişi elinde silah ve bayrakla aracının üzerine çıktı, uzun süren ikna çabaları sonucu aracın üzerinden indirildi. Eylem, İstanbul trafiğini kilitledi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-15-temmuz-sehitler-koprusunde-hareketli-anlar-elinde-silahla-aracinin-uzerine-cikti-trafik-durdu-1750681",
+   "image": "https://images.ntv.com.tr/images/köprü-eylem-66-216843.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-13T09:30:07+00:00",
+   "url": "/haber/15-temmuz-sehitler-koprusu-nde-istanbul-trafigini-kilitleyen-eylem-fcef444d/"
+  },
   {
    "id": "db14134c",
    "title": "Huawei Mate X8'de yuvarlak kamera geri dönüyor",
@@ -11,6 +165,17 @@
    "category": "teknoloji",
    "date": "2026-11-13T09:30:00+00:00",
    "url": "/haber/huawei-mate-x8-de-yuvarlak-kamera-geri-donuyor-db14134c/"
+  },
+  {
+   "id": "61a77b4f",
+   "title": "Abu Dabi'den Moskova'ya, Moskova'dan Dublin'e: Ukrayna savaşında barışın jeopolitik sınavı",
+   "summary": "Abu Dabi, Moskova ve Dublin hattında gelişen diplomatik trafik, savaşın sona erdirilmesi açısından yeni bir fırsat penceresi açıyor. Ancak bu süreci doğrudan barışın yaklaştığı şeklinde yorumlamak erken olur.",
+   "link": "https://www.aa.com.tr/tr/analiz/abu-dabiden-moskovaya-moskovadan-dubline-ukrayna-savasinda-barisin-jeopolitik-sinavi/4123833",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T09:23:42+00:00",
+   "url": "/haber/abu-dabi-den-moskova-ya-moskova-dan-dublin-e-ukrayna-savasinda-barisin-61a77b4f/"
   },
   {
    "id": "2aa824b1",
@@ -90,28 +255,6 @@
    "url": "/haber/redmi-note-18-in-sarj-hizi-belli-oldu-76dd2f58/"
   },
   {
-   "id": "3ea0c992",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 13 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 13 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-13-kasim-2026-1750626",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T09:00:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-3ea0c992/"
-  },
-  {
-   "id": "fcef444d",
-   "title": "15 Temmuz Şehitler Köprüsü'nde İstanbul trafiğini kilitleyen eylem",
-   "summary": "15 Temmuz Şehitler Köprüsü girişinde bir kişi elinde silah ve bayrakla aracının üzerine çıktı, uzun süren ikna çabaları sonucu aracın üzerinden indirildi. Eylem, İstanbul trafiğini kilitledi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-15-temmuz-sehitler-koprusunde-hareketli-anlar-elinde-silahla-aracinin-uzerine-cikti-trafik-durdu-1750681",
-   "image": "https://images.ntv.com.tr/images/köprü-eylem-66-216843.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T08:59:24+00:00",
-   "url": "/haber/15-temmuz-sehitler-koprusu-nde-istanbul-trafigini-kilitleyen-eylem-fcef444d/"
-  },
-  {
    "id": "443b9914",
    "title": "Opera, özel veri tasarrufu teknolojisini iPhone’a da getirdi",
    "summary": "Opera One tarayıcının iOS sürümünde artık şirketin özel geliştirdiği veri tasarrufu teknolojisi de yer alıyor. Yapılan açıklamaya göre bu özellik açıldığında sitelerdeki görseller ve metinler kullanıcının cihazına…",
@@ -178,17 +321,6 @@
    "url": "/haber/youtube-gta-6-cikisina-ozel-24-saatlik-dev-bir-canli-yayin-gerceklesti-74423092/"
   },
   {
-   "id": "e4682834",
-   "title": "Yurt dışındaki Türk vatandaşlarının miraslarını dolandırıcılıkla ele geçiren 11 şüpheli yakalandı",
-   "summary": "İstanbul merkezli 3 ilde düzenlenen operasyonda, yurt dışında hayatını kaybeden veya hakkında gaiplik kararı bulunan Türk vatandaşlarının miraslarını sahte belgeler ve kişiler aracılığıyla ele geçirdikleri belirlenen 11…",
-   "link": "https://www.aa.com.tr/tr/gundem/yurt-disindaki-turk-vatandaslarinin-miraslarini-dolandiricilikla-ele-geciren-11-supheli-yakalandi/4123792",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T08:43:40+00:00",
-   "url": "/haber/yurt-disindaki-turk-vatandaslarinin-miraslarini-dolandiricilikla-ele-g-e4682834/"
-  },
-  {
    "id": "3d42be4e",
    "title": "BU FABRİKA TV TARİHİNİ NASIL DEĞİŞTİRDİ? | TCL’in Fabrikasında 3 Gün VLOG",
    "summary": "Bu videoda TCL'in Shenzhen, Çin'deki TCL CSOT fabrikasına girip Mini-LED teknolojisinin icat edildiği yeri birlikte keşfediyoruz.",
@@ -209,17 +341,6 @@
    "category": "gundem",
    "date": "2026-11-13T08:41:33+00:00",
    "url": "/haber/sirbistan-da-ogrenci-listesi-temsilcisi-ubovic-israil-ile-silah-ticare-6fd23133/"
-  },
-  {
-   "id": "dae0300b",
-   "title": "Gaziantep FK, Süper Lig'de gol sıkıntısını aşamıyor",
-   "summary": "Trendyol Süper Lig'de 8. sezonunu geçiren Gaziantep FK, hücum hattında yaşadığı gol sıkıntısını aşmakta zorlanıyor.",
-   "link": "https://www.aa.com.tr/tr/spor/gaziantep-fk-super-ligde-gol-sikintisini-asamiyor/4123786",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T08:38:58+00:00",
-   "url": "/haber/gaziantep-fk-super-lig-de-gol-sikintisini-asamiyor-dae0300b/"
   },
   {
    "id": "49a382c1",
@@ -244,15 +365,15 @@
    "url": "/haber/huawei-nin-yeni-cihazi-kan-sekerini-izleyecek-45d6f2cf/"
   },
   {
-   "id": "8203c67c",
-   "title": "İstanbul'da kripto üzerinden 2 milyon dolarlık dolandırıcılık iddiasına ilişkin 4 gözaltı",
-   "summary": "İstanbul'da kripto para borsasında yüksek kazanç vadederek 2 milyon dolar topladıkları belirlenen 4 şüpheli gözaltına alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-kripto-uzerinden-2-milyon-dolarlik-dolandiricilik-iddiasina-iliskin-4-gozalti/4123772",
+   "id": "a742af83",
+   "title": "Mavi Balina-2026 Davet Tatbikatı'nın seçkin gözlemci günü başladı",
+   "summary": "Türkiye'nin ev sahipliğinde Doğu Akdeniz'de düzenlenen Mavi Balina-2026 Davet Tatbikatı'nın basın ve seçkin gözlemci günü başladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mavi-balina-2026-davet-tatbikatinin-seckin-gozlemci-gunu-basladi/4123771",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-13T08:28:58+00:00",
-   "url": "/haber/istanbul-da-kripto-uzerinden-2-milyon-dolarlik-dolandiricilik-iddiasin-8203c67c/"
+   "date": "2026-11-13T08:28:36+00:00",
+   "url": "/haber/mavi-balina-2026-davet-tatbikati-nin-seckin-gozlemci-gunu-basladi-a742af83/"
   },
   {
    "id": "16b35b60",
@@ -321,17 +442,6 @@
    "url": "/haber/sariyer-de-feci-olay-bogazicili-oykum-yasam-savasi-veriyor-13e5aadd/"
   },
   {
-   "id": "2377da70",
-   "title": "Bakan Kurum: COP31 Başkanlığı olarak arzumuz Antalya'yı küresel iklim uygulamaları başkenti yapmaktır",
-   "summary": "Bakan Kurum, \"COP31 Başkanlığı olarak arzumuz, Antalya'da uygulamaya dönüşen işbirlikleri, finanse edilen projeler ve insanların hayatına ulaşan sonuçlar ortaya koymaktır. Antalya'yı küresel iklim uygulamaları başkenti…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kurum-cop31-baskanligi-olarak-arzumuz-antalyayi-kuresel-iklim-uygulamalari-baskenti-yapmaktir/4123741",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T08:08:47+00:00",
-   "url": "/haber/bakan-kurum-cop31-baskanligi-olarak-arzumuz-antalya-yi-kuresel-iklim-u-2377da70/"
-  },
-  {
    "id": "7fce73f8",
    "title": "Cafer Mahiroğlu soruşturmasında yeni gelişme",
    "summary": "Halk TV'nin sahibi Cafer Mahiroğlu'na yönelik soruşturmada gözaltına alınan altı şüpheli adliyeye sevk edildi.",
@@ -352,39 +462,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T08:07:25+00:00",
    "url": "/haber/youtube-gta-vi-canli-yayinini-duyurdu-24-saat-surecek-e3e09a00/"
-  },
-  {
-   "id": "f1ea8b41",
-   "title": "MEB gelecek yıl bilişim teknolojileri laboratuvarlarını ve yenilikçi sınıfları artırmayı hedefliyor",
-   "summary": "Milli Eğitim Bakanlığınca (MEB), öğrencilerin dijital becerilerinin geliştirilmesi ve okulların teknolojik altyapısının güçlendirilmesi amacıyla 2027'de 2 bin bilişim teknolojileri laboratuvarı ve 500 yenilikçi sınıf…",
-   "link": "https://www.aa.com.tr/tr/gundem/meb-gelecek-yil-bilisim-teknolojileri-laboratuvarlarini-ve-yenilikci-siniflari-artirmayi-hedefliyor/4123736",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T08:06:30+00:00",
-   "url": "/haber/meb-gelecek-yil-bilisim-teknolojileri-laboratuvarlarini-ve-yenilikci-s-f1ea8b41/"
-  },
-  {
-   "id": "2fe12c9e",
-   "title": "Türkiye'nin ilk aktif hidrojen dolum istasyonu 2027 başında devreye alınacak",
-   "summary": "Biga Hidrojen Kurucu Ortağı Aşçı, Türkiye'de hidrojen taşımacılığının geliştirilmesine yönelik yürüttükleri pilot proje kapsamında, Türkiye'nin ilk aktif hidrojen dolum istasyonunu 2027'nin başında devreye almayı…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-ilk-aktif-hidrojen-dolum-istasyonu-2027-basinda-devreye-alinacak/4123735",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T08:05:52+00:00",
-   "url": "/haber/turkiye-nin-ilk-aktif-hidrojen-dolum-istasyonu-2027-basinda-devreye-al-2fe12c9e/"
-  },
-  {
-   "id": "f48db28c",
-   "title": "Türkiye jeotermal enerjide 2040'a kadar 10 bin megavat kurulu güç hedefliyor",
-   "summary": "JESDER Başkanı Ufuk Şentürk, Türkiye'nin jeotermal enerjide önemli potansiyele sahip olduğunu belirterek, sektörde elektrik üretim kapasitesinin 2040'a kadar 10 bin megavata çıkarılmasını hedeflediklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-jeotermal-enerjide-2040a-kadar-10-bin-megavat-kurulu-guc-hedefliyor/4123732",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T08:05:16+00:00",
-   "url": "/haber/turkiye-jeotermal-enerjide-2040-a-kadar-10-bin-megavat-kurulu-guc-hede-f48db28c/"
   },
   {
    "id": "48976d38",
@@ -618,17 +695,6 @@
    "url": "/haber/mate-xt-2-nin-gizlilik-ekrani-artik-daha-ucuz-acc895fa/"
   },
   {
-   "id": "f0b88f14",
-   "title": "Sarıgül soruşturmasında yeni operasyon: 17 gözaltı kararı",
-   "summary": "Sarıgül ailesiyle ilgili kara para aklama iddialarıyla başlatılan soruşturmada 17 kişi hakkında gözaltı kararı verildi. Şüphelilerden 15'i gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sarigul-sorusturmasinda-yeni-operasyon-17-gozalti-karari-1750654",
-   "image": "https://images.ntv.com.tr/images/sarıgül-43-452507.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T06:58:19+00:00",
-   "url": "/haber/sarigul-sorusturmasinda-yeni-operasyon-17-gozalti-karari-f0b88f14/"
-  },
-  {
    "id": "d8590b92",
    "title": "Bannerlord'a kan davası ve feribot geldi",
    "summary": "TaleWorlds, Mount & Blade II: Bannerlord v1.5 ve War Sails v1.3 güncellemelerini Steam'de yayımladı; kampanya başlangıçları, deniz içerikleri ve yeni sistemler geliyor.",
@@ -849,17 +915,6 @@
    "url": "/haber/avci-isbasinda-kisisel-verilerle-santaj-yapip-telegram-dan-satan-cetey-644dff48/"
   },
   {
-   "id": "d4ec1ffc",
-   "title": "Standart iPhone 18 neden bahara kaldı?",
-   "summary": "iPhone 18 ertelemesinin nedeni yalnızca bellek çipi sıkıntısı olmayabilir. Japon yayın Semiconportal'a göre Apple, kamera sensörlerinde Sony'den Samsung'a geçiyor.",
-   "link": "https://shiftdelete.net/iphone-18-ertelemesi-samsung-kamera-sensoru",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/iphone-18-samsung-kamera-sensoru-kapak-1311.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-13T05:30:00+00:00",
-   "url": "/haber/standart-iphone-18-neden-bahara-kaldi-d4ec1ffc/"
-  },
-  {
    "id": "956368e5",
    "title": "Tesla ve SpaceX birleşmesinde geri sayım başladı: Rekor anlaşma yakında açıklanabilir",
    "summary": "Elon Musk'ın Tesla ve SpaceX'i tek çatı altında toplama planında görüşmeler hız kazandı. Bloomberg'e tarihin en büyük şirket birleşmesi aralık ayında açıklanabilir.",
@@ -869,17 +924,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T05:30:00+00:00",
    "url": "/haber/tesla-ve-spacex-birlesmesinde-geri-sayim-basladi-rekor-anlasma-yakinda-956368e5/"
-  },
-  {
-   "id": "b0510756",
-   "title": "Google'ın AdSense cezası yeniden masada",
-   "summary": "Avrupa Adalet Divanı'nın başsavcısı, Google'a kesilen 1,49 milyar euroluk (1,7 milyar dolar) cezayı destekledi. Google AB cezası davasında nihai karar gelecek yıl bekleniyor.",
-   "link": "https://shiftdelete.net/google-ab-cezasi-1-49-milyar-euro-kokott",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/ca033478eeaee937f16a443a68e33f517b358f25.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-13T05:00:00+00:00",
-   "url": "/haber/google-in-adsense-cezasi-yeniden-masada-b0510756/"
   },
   {
    "id": "ecb061e0",
@@ -990,50 +1034,6 @@
    "category": "gundem",
    "date": "2026-11-12T20:59:59+00:00",
    "url": "/haber/ibb-davasinda-ara-karar-imamoglu-nun-avukati-mehmet-pehlivan-dahil-sek-2b7805b8/"
-  },
-  {
-   "id": "ec387369",
-   "title": "Samsung'un ilk akıllı gözlüğü ön siparişe açıldı: İşte özellikleri ve fiyatı",
-   "summary": "Samsung, ilk akıllı gözlüğü Intelligent Eyewear modelini ABD ve Güney Kore'de ön siparişe açtı. 30 farklı tasarımla gelen cihaz neler sunuyor?",
-   "link": "https://www.donanimhaber.com/samsung-un-ilk-akilli-gozlugu-siparise-acildi-iste-ozellikleri--212841",
-   "image": "https://www.donanimhaber.com/images/images/haber/212841/1200x675samsung-un-ilk-akilli-gozlugu-siparise-acildi-iste-ozellikleri.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-12T20:59:00+00:00",
-   "url": "/haber/samsung-un-ilk-akilli-gozlugu-on-siparise-acildi-iste-ozellikleri-ve-f-ec387369/"
-  },
-  {
-   "id": "732678e6",
-   "title": "Eski OpenAI yöneticisinden yeni yapay zekâ: Thinking Machines, Inkling 2 Small'u tanıttı",
-   "summary": "Eski OpenAI CTO'su Mira Murati'nin şirketi Thinking Machines, 594 milyar parametreli yeni yapay zekâ modeli Inkling 2 Small'ı tanıttı. Performans testi sonuçları dikkat çekici.",
-   "link": "https://www.donanimhaber.com/thinking-machines-yeni-yapay-zekasi-inkling-2-small-u-tanitti--212840",
-   "image": "https://www.donanimhaber.com/images/images/haber/212840/1200x675thinking-machines-yeni-yapay-zekasi-inkling-2-small-u-tanitti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-12T20:44:00+00:00",
-   "url": "/haber/eski-openai-yoneticisinden-yeni-yapay-zeka-thinking-machines-inkling-2-732678e6/"
-  },
-  {
-   "id": "4d1be38a",
-   "title": "Süper Loto çekiliş sonuçları belli oldu: 13 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
-   "summary": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1750624",
-   "image": "https://images.ntv.com.tr/images/super-loto-cekilis-625467.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-12T20:39:16+00:00",
-   "url": "/haber/super-loto-cekilis-sonuclari-belli-oldu-13-kasim-2026-mpi-super-loto-k-4d1be38a/"
-  },
-  {
-   "id": "cf5bad65",
-   "title": "Wolverine'den sonra Marvel 1943: Rise of Hydra da büyük bir hayal kırıklığına dönüşebilir",
-   "summary": "Kaptan Amerika ve Black Panther'ın maceralarına odaklanan Marvel 1943: Rise of Hydra hakkında yeni detaylar ortaya çıktı. Beklediğimizden çok daha basit bir oyun geliyor.",
-   "link": "https://www.donanimhaber.com/marvel-1943-rise-of-hydra-bekleyenleri-uzebilir--212830",
-   "image": "https://www.donanimhaber.com/images/images/haber/212830/1200x675marvel-1943-rise-of-hydra-bekleyenleri-uzebilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-12T20:22:00+00:00",
-   "url": "/haber/wolverine-den-sonra-marvel-1943-rise-of-hydra-da-buyuk-bir-hayal-kirik-cf5bad65/"
   },
   {
    "id": "21e3412e",
