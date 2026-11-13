@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-13T16:15:28.305409+00:00",
+ "updated": "2026-11-13T16:33:08.630842+00:00",
  "items": [
+  {
+   "id": "f0e45118",
+   "title": "Tesla'nın en ucuz dört çekeri rafa kalktı",
+   "summary": "Tesla, Model Y AWD versiyonunu konfigüratörden kaldırdı. Çift motorlu Model Y almak isteyenler için giriş fiyatı artık 51.630 dolar.",
+   "link": "https://shiftdelete.net/model-y-awd-tesla-satistan-kaldirdi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/tesla-model-y-awd-satistan-kalkti-kapak-1311.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-13T16:30:00+00:00",
+   "url": "/haber/tesla-nin-en-ucuz-dort-cekeri-rafa-kalkti-f0e45118/"
+  },
+  {
+   "id": "de4b0c04",
+   "title": "Uluslararası Enerji Ajansı Başkanı Fatih Birol, NTV'nin sorularını yanıtladı",
+   "summary": "Uluslararası Enerji Ajansı Başkanı Fatih Birol, COP31 Zirvesi’nde NTV diplomasi muhabiri Deniz Kilislioğlu'nun sorularını yanıtladı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-uluslararasi-enerji-ajansi-baskani-fatih-birol-ntvnin-sorularini-yanitladi-1750750",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-13171953-481135.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-13T16:29:00+00:00",
+   "url": "/haber/uluslararasi-enerji-ajansi-baskani-fatih-birol-ntv-nin-sorularini-yani-de4b0c04/"
+  },
+  {
+   "id": "0cb5422c",
+   "title": "Microsoft uygulamalarında küresel kesinti neden bu kadar uzun sürdü?",
+   "summary": "Dünya çapında yüz milyonlarca kullanıcısı olan Microsoft işletim sistemine ait bazı uygulamalara birçok ülkede erişim sorunu yaşanıyor. Şirket, sorunun siber saldırı kaynaklı olmadığını ve çözüm üzerinde çalıştıklarını…",
+   "link": "https://www.bbc.com/turkce/articles/c5n4ez3gvp1zo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5941/live/71d898e0-df64-11f1-a8af-15d7a25dc0d1.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-13T16:27:39+00:00",
+   "url": "/haber/microsoft-uygulamalarinda-kuresel-kesinti-neden-bu-kadar-uzun-surdu-0cb5422c/"
+  },
+  {
+   "id": "a6b702d6",
+   "title": "ABD Hazine Bakanı Bessent, aylardır Megaspeed'in kara listeye alınmasından yana olduklarını söyledi",
+   "summary": "ABD Hazine Bakanı Bessent, Bakanlığının, Nvidia ile ilgili casusluk iddialarının merkezinde bulunan Megaspeed'in ABD'nin çıkarlarına tehdit oluşturduğu değerlendirilen kuruluşların yer aldığı \"Varlık Listesi\"ne…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-bessent-aylardir-megaspeedin-kara-listeye-alinmasindan-yana-olduklarini-soyledi/4124590",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T16:16:03+00:00",
+   "url": "/haber/abd-hazine-bakani-bessent-aylardir-megaspeed-in-kara-listeye-alinmasin-a6b702d6/"
+  },
   {
    "id": "48e71839",
    "title": "BYD’de ön ve arka jantlar yanlış takıldı: Şirket özür diledi",
@@ -77,6 +121,17 @@
    "category": "gundem",
    "date": "2026-11-13T15:52:25+00:00",
    "url": "/haber/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-turkiye-lubnan-245f5173/"
+  },
+  {
+   "id": "d7f0f69d",
+   "title": "MEB, gençleri yeşil ve dijital dönüşüme eğitimle hazırlıyor",
+   "summary": "MEB, iklim değişikliğiyle mücadele ve sürdürülebilir gelecek hedefleri doğrultusunda yürüttüğü Yeşil Beceri ve Dijital Dönüşüm Programı ile öğrencilerin çevre bilinci ve dijital yetkinliklerini geliştirmeye yönelik…",
+   "link": "https://www.aa.com.tr/tr/gundem/meb-gencleri-yesil-ve-dijital-donusume-egitimle-hazirliyor/4124568",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T15:51:56+00:00",
+   "url": "/haber/meb-gencleri-yesil-ve-dijital-donusume-egitimle-hazirliyor-d7f0f69d/"
   },
   {
    "id": "d6476650",
@@ -299,17 +354,6 @@
    "url": "/haber/nvidia-geforce-621-24-surucusu-yayinlandi-iste-yenilikler-7d8c5df1/"
   },
   {
-   "id": "b0c10dc7",
-   "title": "Milli Eğitim Bakanı Tekin'den ara tatil paylaşımı",
-   "summary": "Milli Eğitim Bakanı Yusuf Tekin, bugün başlayan ara tatile ilişkin, \"Tatilinizi dinlenmenin yanı sıra kitap okuyarak, ilgi duyduğunuz alanlara yönelerek ve şehrinizi keşfederek verimli bir şekilde geçirmenizi tavsiye…",
-   "link": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekinden-ara-tatil-paylasimi/4124340",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T14:47:57+00:00",
-   "url": "/haber/milli-egitim-bakani-tekin-den-ara-tatil-paylasimi-b0c10dc7/"
-  },
-  {
    "id": "8002c7ed",
    "title": "Google Mesajlar artık daha güvenli",
    "summary": "Google Messages'a gelen Gelişmiş koruma, tanımadığınız kişilerle yazışmaları Gemini ile inceliyor. Ayar isteğe bağlı ve yalnızca belirli telefonlarda tam çalışıyor.",
@@ -385,17 +429,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T14:26:00+00:00",
    "url": "/haber/nissan-dan-19-400-dolara-320-km-elektrik-menzilli-hibrit-suv-nissan-nx-3422b822/"
-  },
-  {
-   "id": "82917ed2",
-   "title": "Aile ve Sosyal Hizmetler Bakanı Göktaş, sanatçılarla COP31'de iklim ve çevre mesajı verdi",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, oyuncular Deniz Can Aktaş ve Sümeyye Aydoğan ile COP31'de iklim değişikliğiyle mücadele ve çevrenin korunmasına ilişkin mesajlar verdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakani-goktas-sanatcilarla-cop31de-iklim-ve-cevre-mesaji-verdi/4124314",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T14:24:12+00:00",
-   "url": "/haber/aile-ve-sosyal-hizmetler-bakani-goktas-sanatcilarla-cop31-de-iklim-ve-82917ed2/"
   },
   {
    "id": "d09a1122",
@@ -959,17 +992,6 @@
    "url": "/haber/sokaga-cikamayan-ferrari-499p-modificata-yaklasik-500-milyon-tl-ye-sat-6e4a28cc/"
   },
   {
-   "id": "d73d1061",
-   "title": "DLSS 5 artık tek ekran kartına sığıyor",
-   "summary": "İlk tanıtımda iki RTX 5090 isteyen DLSS 5, yedi ayda 10 kata varan performans artışıyla tek ekran kartında çalışır hale geldi ve War Thunder'a eklendi.",
-   "link": "https://shiftdelete.net/dlss-5-tek-ekran-karti-war-thunder-hogwarts-legacy",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/dlss-5-war-thunder-tek-ekran-karti-kapak-1311.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-13T11:16:44+00:00",
-   "url": "/haber/dlss-5-artik-tek-ekran-kartina-sigiyor-d73d1061/"
-  },
-  {
    "id": "68c4425b",
    "title": "18 işçinin öldüğü HABAŞ'ta telefon yasağı iddiası: Fabrika önünde arbede çıktı",
    "summary": "İzmir'de 18 işçinin yaşamını yitirdiği HABAŞ fabrikasında telefon yasağı getirildiği iddia edildi. Karara tepki gösteren işçiler fabrika önünde bekleyişe geçerken eylem sırasında arbede yaşandı.",
@@ -1014,17 +1036,6 @@
    "url": "/haber/dunya-nin-yeni-bir-mini-ay-i-var-7927f8d1/"
   },
   {
-   "id": "0cb5422c",
-   "title": "Microsoft uygulamalarında küresel kesinti: Outlook ve Teams neden çalışmıyor?",
-   "summary": "Dünya çapında yüz milyonlarca kullanıcısı olan Microsoft işletim sistemine ait bazı uygulamalara birçok ülkede erişim sorunu yaşanıyor. Şirket, sorunun siber saldırı kaynaklı olmadığını ve çözüm üzerinde çalıştıklarını…",
-   "link": "https://www.bbc.com/turkce/articles/c5n4ez3gvp1zo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5941/live/71d898e0-df64-11f1-a8af-15d7a25dc0d1.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-13T10:16:01+00:00",
-   "url": "/haber/microsoft-uygulamalarinda-kuresel-kesinti-outlook-ve-teams-neden-calis-0cb5422c/"
-  },
-  {
    "id": "28a7ab07",
    "title": "Görev esnasında rahatsızlanan bir askerimiz şehit oldu",
    "summary": "Kıbrıs Türk Barış Kuvvetleri Komutanlığı'nda görevli Mühimmat Er Kaan Öcal, görev esnasında rahatsızlanarak kaldırıldığı hastanede şehit oldu.",
@@ -1034,17 +1045,6 @@
    "category": "gundem",
    "date": "2026-11-13T10:14:00+00:00",
    "url": "/haber/gorev-esnasinda-rahatsizlanan-bir-askerimiz-sehit-oldu-28a7ab07/"
-  },
-  {
-   "id": "de06e384",
-   "title": "Afyonkarahisar'da 8 kişiyi katleden katil zanlısı için yeni karar",
-   "summary": "Afyonkarahisar'da 8 kişiyi öldüren Arif Sefa Özdemir'in kaldığı hapishane değiştirildi. Katil zanlısı güvenlik gerekçesiyle İzmir'deki cezaevine nakledildi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-8-kisiyi-katleden-katil-zanlisi-icin-yeni-karar-1750696",
-   "image": "https://images.ntv.com.tr/images/afyon-katil-zanl_C4_B1s_C4_B1-1-953038-404578.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T10:01:45+00:00",
-   "url": "/haber/afyonkarahisar-da-8-kisiyi-katleden-katil-zanlisi-icin-yeni-karar-de06e384/"
   },
   {
    "id": "c29871eb",
