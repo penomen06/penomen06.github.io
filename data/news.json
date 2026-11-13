@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T00:01:04.838988+00:00",
+ "updated": "2026-11-13T00:30:55.150845+00:00",
  "items": [
   {
    "id": "3ea0c992",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-13T00:00:00+00:00",
+   "date": "2026-11-13T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-3ea0c992/"
+  },
+  {
+   "id": "b7ab31ec",
+   "title": "Nvidia CEO'su Huang, ABD Kongresi'nde ifade verecek",
+   "summary": "Teknoloji milyarderi Jensen Huang, dünyanın en değerli şirketlerinden birinde patlak veren büyük bir skandalın ardından, ABD ulusal güvenliğine ilişkin Kongre önünde ifade vermeye hazır olduğunu belirtti.",
+   "link": "https://www.bbc.com/turkce/articles/cvj6l247pr4ro?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08af/live/640dfe40-de73-11f1-9115-cfe6d179af3a.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-13T00:28:40+00:00",
+   "url": "/haber/nvidia-ceo-su-huang-abd-kongresi-nde-ifade-verecek-b7ab31ec/"
+  },
+  {
+   "id": "28dbd16e",
+   "title": "Belçika medyası Türkiye karşısında elde edilen galibiyeti nasıl yorumladı?",
+   "summary": "Belçika medyası, İzmir'de Gürsel Aksel Stadyumu'nda oynanan karşılaşmaya geniş yer ayırdı.",
+   "link": "https://www.bbc.com/turkce/articles/c9p83m2e2ze6o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a502/live/58d3ae50-dee9-11f1-b441-2b33b063138f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-13T00:04:01+00:00",
+   "url": "/haber/belcika-medyasi-turkiye-karsisinda-elde-edilen-galibiyeti-nasil-yoruml-28dbd16e/"
+  },
+  {
+   "id": "aa8c8d78",
+   "title": "AKP'de fon krizi nasıl tartışılıyor, hangi seçenekler konuşuluyor?",
+   "summary": "AKP içinde, kamuoyunda büyük tepki yaratan fon skandalının ardından krizin nasıl aşılacağı tartışılıyor. Yaşananları \"24 yıllık iktidarımızda yaşadığımız en büyük kriz\" diye nitelendiren bazı AKP'li siyasetçiler, fon…",
+   "link": "https://www.bbc.com/turkce/articles/c6205jnldngwo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/acfa/live/8e55edc0-dee1-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-13T00:02:26+00:00",
+   "url": "/haber/akp-de-fon-krizi-nasil-tartisiliyor-hangi-secenekler-konusuluyor-aa8c8d78/"
   },
   {
    "id": "2e1142c1",
@@ -805,17 +838,6 @@
    "url": "/haber/beyaz-saray-cevresinde-silah-sesleri-ce01fd8d/"
   },
   {
-   "id": "b7ab31ec",
-   "title": "Nvidia CEO'su Huang ikinci ilişki iddiası sonrası istifa etti",
-   "summary": "Nvidia yönetim kurulu, şirketin kurucu CEO'su Jensen Huang'ın yönetim görevlerinden istifa ettiğini duyurdu. İstifa Huang hakkındaki ikinci evlilik dışı ilişki iddiası sonrası geldi.",
-   "link": "https://www.bbc.com/turkce/articles/cvj6l247pr4ro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08af/live/640dfe40-de73-11f1-9115-cfe6d179af3a.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-12T14:03:42+00:00",
-   "url": "/haber/nvidia-ceo-su-huang-ikinci-iliski-iddiasi-sonrasi-istifa-etti-b7ab31ec/"
-  },
-  {
    "id": "84e19df0",
    "title": "Jensen Huang Nvidia CEO'luğundan istifa etti",
    "summary": "Nvidia CEO'su Jensen Huang, hakkındaki skandalın ardından görevinden ayrıldı. Şirketin CFO'su Colette Kress, geçici CEO olarak görevlendirildi. Huang'ın evlilik dışı ilişkisini kabul etmesi ve ilişki yaşadığı öne…",
@@ -1179,17 +1201,6 @@
    "url": "/haber/new-york-ta-bina-coktu-78a08fb2/"
   },
   {
-   "id": "241d7238",
-   "title": "HABAŞ patlaması: Dokuz kişi tutuklandı, yönetim kurulu başkanı adli kontrolle serbest",
-   "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda 19 işçinin öldüğü patlamanın ardından gözaltına alınan 11 kişiden 9'u tutuklandı. Şirketin yönetim kurulu başkanı Mehmet Rüştü Başaran dahil…",
-   "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8031/live/bff1e4d0-de35-11f1-a70a-fb80733335aa.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-12T01:04:46+00:00",
-   "url": "/haber/habas-patlamasi-dokuz-kisi-tutuklandi-yonetim-kurulu-baskani-adli-kont-241d7238/"
-  },
-  {
    "id": "d42ac849",
    "title": "Dokunulmazlık dosyaları için üç senaryo: Sarıgül dosyası 'koçbaşı' olur mu?",
    "summary": "Bağımsız Erzincan Milletvekili Mustafa Sarıgül hakkında cinsel istismar ve nitelikli cinsel saldırı iddialarının da yer aldığı soruşturma dosyasının Ankara Cumhuriyet Başsavcılığı'na gönderilmesi, milletvekili…",
@@ -1199,17 +1210,6 @@
    "category": "gundem",
    "date": "2026-11-12T00:29:49+00:00",
    "url": "/haber/dokunulmazlik-dosyalari-icin-uc-senaryo-sarigul-dosyasi-kocbasi-olur-m-d42ac849/"
-  },
-  {
-   "id": "b33caa23",
-   "title": "Beyaz ailenin büyüttüğü siyah kız çocuğu: 'Bana gerçeği neden söylemediniz?'",
-   "summary": "Lacey Tezino, Teksas'ta ırkçılığın kol gezdiği bir kasabada beyaz bir aile tarafından büyütüldü. Babası Ronnie ile mutlu bir çocukluk geçirdi. Öldüğü söylenen annesinin izini sürdüğünde ise hakikatle yüzleşti.",
-   "link": "https://www.bbc.com/turkce/articles/ckz6qx8841zjo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/77ab/live/369c8410-ddcc-11f1-93e1-3b657b665bcf.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-12T00:29:30+00:00",
-   "url": "/haber/beyaz-ailenin-buyuttugu-siyah-kiz-cocugu-bana-gercegi-neden-soylemedin-b33caa23/"
   },
   {
    "id": "3457a2f7",
