@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-13T16:01:01.633163+00:00",
+ "updated": "2026-11-13T16:15:28.305409+00:00",
  "items": [
+  {
+   "id": "48e71839",
+   "title": "BYD’de ön ve arka jantlar yanlış takıldı: Şirket özür diledi",
+   "summary": "BYD, Da Tang elektrikli SUV’lerin ön ve arka jantları karıştırılarak teslim edildiğini doğruladı. Şirket, ücretsiz kontrol ve değişimin yanı sıra etkilenen araçların garantisini yeniden başlatacak.",
+   "link": "https://www.donanimhaber.com/byd-de-on-ve-arka-jantlar-yanlis-takildi-sirket-ozur-diledi--212890",
+   "image": "https://www.donanimhaber.com/images/images/haber/212890/1200x675byd-de-on-ve-arka-jantlar-yanlis-takildi-sirket-ozur-diledi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-13T16:14:00+00:00",
+   "url": "/haber/byd-de-on-ve-arka-jantlar-yanlis-takildi-sirket-ozur-diledi-48e71839/"
+  },
+  {
+   "id": "50c18955",
+   "title": "AKINCI ve Bayraktar TB2 kara yoluna iniş-kalkış yaptı. Acil durum senaryoları",
+   "summary": "Pistlerin kullanılamayacağı acil durum senaryolarına yönelik yürütülen çalışmalar kapsamında AKINCI ile Bayraktar TB2 SİHA'lar, Manisa-Balıkesir Karayolu'na başarıyla iniş ve kalkış yaptı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-akinci-ve-bayraktar-tb2-kara-yoluna-inis-kalkis-yapti-acil-durum-senaryolari-1750752",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-13173819-941299.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-13T16:11:35+00:00",
+   "url": "/haber/akinci-ve-bayraktar-tb2-kara-yoluna-inis-kalkis-yapti-acil-durum-senar-50c18955/"
+  },
+  {
+   "id": "ef9254c1",
+   "title": "Bakan Gürlek: Üç faili meçhul cinayet dosyası daha aydınlatıldı",
+   "summary": "Adalet Bakanı Akın Gürlek, Bursa'da iki ve Bitlis'te bir kayıp dosyasının daha aydınlatıldığını açıklarken, bugüne kadar 76 dosyada 83 cinayetin faili meçhul olmaktan çıkarıldığını söyledi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-gurlek-uc-faili-mechul-cinayet-dosyasi-daha-aydinlatildi-1750757",
+   "image": "https://images.ntv.com.tr/images/gürlek-823399-438409.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-13T16:00:42+00:00",
+   "url": "/haber/bakan-gurlek-uc-faili-mechul-cinayet-dosyasi-daha-aydinlatildi-ef9254c1/"
+  },
   {
    "id": "15a0a840",
    "title": "Nvidia'nın eski CEO'su Kongre'de ifade verecek",
@@ -11,17 +44,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T16:00:00+00:00",
    "url": "/haber/nvidia-nin-eski-ceo-su-kongre-de-ifade-verecek-15a0a840/"
-  },
-  {
-   "id": "a31e8e92",
-   "title": "Üç faili meçhul cinayet dosyası daha aydınlatıldı",
-   "summary": "Adalet Bakanı Akın Gürlek, Bursa'da iki ve Bitlis'te bir kayıp dosyasının daha aydınlatıldığını açıklarken, bugüne kadar 76 dosyada 83 cinayetin faili meçhul olmaktan çıkarıldığını söyledi.",
-   "link": "https://www.ntv.com.tr/turkiye/uc-faili-mechul-cinayet-dosyasi-daha-aydinlatildi-1750757",
-   "image": "https://images.ntv.com.tr/images/gürlek-823399-438409.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T15:59:44+00:00",
-   "url": "/haber/uc-faili-mechul-cinayet-dosyasi-daha-aydinlatildi-a31e8e92/"
   },
   {
    "id": "2ec18876",
@@ -44,6 +66,17 @@
    "category": "teknoloji",
    "date": "2026-11-13T15:53:00+00:00",
    "url": "/haber/elektrikli-tiguan-in-seri-uretimi-basladi-6a94df36/"
+  },
+  {
+   "id": "245f5173",
+   "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan: Türkiye, Lübnan'ın refahını, istikrarını ve barışını istiyor",
+   "summary": "Erdoğan, Lübnan'ın Trablusşam kentinde Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı (TİKA) tarafından restore edilen Mevlevihane'yi ziyaret ederek Türkiye ile Lübnan arasındaki tarihi ve kültürel bağların…",
+   "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-turkiye-lubnanin-refahini-istikrarini-ve-barisini-istiyor/4124571",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T15:52:25+00:00",
+   "url": "/haber/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-turkiye-lubnan-245f5173/"
   },
   {
    "id": "d6476650",
@@ -277,17 +310,6 @@
    "url": "/haber/milli-egitim-bakani-tekin-den-ara-tatil-paylasimi-b0c10dc7/"
   },
   {
-   "id": "50c18955",
-   "title": "AKINCI ve Bayraktar TB2 kara yoluna iniş-kalkış yaptı. Acil durum senaryoları",
-   "summary": "Pistlerin kullanılamayacağı acil durum senaryolarına yönelik yürütülen çalışmalar kapsamında AKINCI ile Bayraktar TB2 SİHA'lar, Manisa-Balıkesir Karayolu'na başarıyla iniş ve kalkış yaptı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-akinci-ve-bayraktar-tb2-kara-yoluna-inis-kalkis-yapti-acil-durum-senaryolari-1750752",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-13173819-941299.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T14:45:14+00:00",
-   "url": "/haber/akinci-ve-bayraktar-tb2-kara-yoluna-inis-kalkis-yapti-acil-durum-senar-50c18955/"
-  },
-  {
    "id": "8002c7ed",
    "title": "Google Mesajlar artık daha güvenli",
    "summary": "Google Messages'a gelen Gelişmiş koruma, tanımadığınız kişilerle yazışmaları Gemini ile inceliyor. Ayar isteğe bağlı ve yalnızca belirli telefonlarda tam çalışıyor.",
@@ -451,17 +473,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T14:00:00+00:00",
    "url": "/haber/openai-ve-google-a-yeni-model-yasagi-davasi-6d50334c/"
-  },
-  {
-   "id": "6677565b",
-   "title": "Bakan Kurum, COP31'deki Anka Kuşu alanını paylaştı",
-   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 6 Şubat 2023'teki Kahramanmaraş merkezli depremlerin ardından enkaz kalıntılarının geri dönüşümüyle oluşturulan COP31'deki Anka Kuşu alanına…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-cop31deki-anka-kusu-alanini-paylasti/4124232",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T13:52:27+00:00",
-   "url": "/haber/bakan-kurum-cop31-deki-anka-kusu-alanini-paylasti-6677565b/"
   },
   {
    "id": "d8e760b9",
@@ -847,17 +858,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T11:46:52+00:00",
    "url": "/haber/iphone-duo-gunluk-kullanimda-neyi-degistiriyor-f605b1a4/"
-  },
-  {
-   "id": "1c2363a0",
-   "title": "iPhone 18 neden ertelendi? Arkasında Samsung olabilir",
-   "summary": "Apple'ın standart iPhone 18 modelini gelecek yıla ertelemesinin arkasındaki neden ortaya çıktı. İddiaya göre şirket, Samsung'un kamera sensörü üretimini tamamlamasını bekliyor.",
-   "link": "https://www.donanimhaber.com/iphone-18-neden-ertelendi-arkasinda-samsung-olabilir--212864",
-   "image": "https://www.donanimhaber.com/images/images/haber/212864/1200x675iphone-18-neden-ertelendi-arkasinda-samsung-olabilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-13T11:42:00+00:00",
-   "url": "/haber/iphone-18-neden-ertelendi-arkasinda-samsung-olabilir-1c2363a0/"
   },
   {
    "id": "6f5057ef",
