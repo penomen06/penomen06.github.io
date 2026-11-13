@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:01:09.021780+00:00",
+ "updated": "2026-11-13T23:30:58.658500+00:00",
  "items": [
   {
    "id": "03298c9f",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-13T23:00:01+00:00",
+   "date": "2026-11-13T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-03298c9f/"
+  },
+  {
+   "id": "6d8d2203",
+   "title": "ABD'de tüm uçuşlar durduruldu: 'Bu yeni bir 11 Eylül değil'",
+   "summary": "ABD İç Güvenlik Bakanı Markwayne Mullin, \"uçakların yerde tutulması kararına bir telekomünikasyon kesintisinin yol açtığını\" söyledi. Mullin, \"Bu yeni bir 11 Eylül değil\" dedi.",
+   "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e32/live/525bb5e0-dfb6-11f1-93e1-3b657b665bcf.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-13T23:26:36+00:00",
+   "url": "/haber/abd-de-tum-ucuslar-durduruldu-bu-yeni-bir-11-eylul-degil-6d8d2203/"
+  },
+  {
+   "id": "b08cf079",
+   "title": "Mekke Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi",
+   "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Anlaşması, TBMM Genel Kurulu'nda kabul edilmesinin ardından 14 Kasım'da Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+   "link": "https://www.bbc.com/turkce/articles/cm3elqk438e2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f98/live/93599450-d8f3-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-13T22:59:46+00:00",
+   "url": "/haber/mekke-anlasmasi-resmi-gazete-de-yayimlanarak-yururluge-girdi-b08cf079/"
   },
   {
    "id": "050af5b3",
@@ -35,17 +57,6 @@
    "url": "/haber/abd-de-yuk-gemisinin-carptigi-kruz-gemisi-yan-yatti-29948f80/"
   },
   {
-   "id": "6d8d2203",
-   "title": "ABD'de tüm uçuşlar durduruldu: 'Bu yeni bir 11 Eylül değil'",
-   "summary": "ABD İç Güvenlik Bakanı Markwayne Mullin, \"uçakların yerde tutulması kararına bir telekomünikasyon kesintisinin yol açtığını\" söyledi. Mullin, \"Bu yeni bir 11 Eylül değil\" dedi.",
-   "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/467b/live/44176640-dfa8-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-13T22:20:55+00:00",
-   "url": "/haber/abd-de-tum-ucuslar-durduruldu-bu-yeni-bir-11-eylul-degil-6d8d2203/"
-  },
-  {
    "id": "e33ee800",
    "title": "UEFA Uluslar Ligi'nin 5. haftasında 10 maç oynandı",
    "summary": "UEFA Uluslar Ligi'nin 5. haftasına 10 maçla devam edildi.",
@@ -58,14 +69,14 @@
   },
   {
    "id": "5c53beeb",
-   "title": "Bir arıza ABD'deki tüm uçakları yerde tuttu",
+   "title": "Amerika’da uçuşlar durduruldu? Neler oluyor?",
    "summary": "FAA, birden fazla hava trafik kontrol merkezini etkileyen iletişim sorunları ve ekipman arızası nedeniyle ABD genelinde kalkışları bir sonraki duyuruya kadar durdurdu.",
    "link": "https://shiftdelete.net/faa-ucus-durdurma-abd-tum-ucuslar",
    "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/faa-abd-ucus-durdurma-ekipman-arizasi-kapak-1411.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-13T21:53:07+00:00",
-   "url": "/haber/bir-ariza-abd-deki-tum-ucaklari-yerde-tuttu-5c53beeb/"
+   "url": "/haber/amerika-da-ucuslar-durduruldu-neler-oluyor-5c53beeb/"
   },
   {
    "id": "5f5a3dbe",
@@ -1177,17 +1188,6 @@
    "category": "gundem",
    "date": "2026-11-13T00:02:26+00:00",
    "url": "/haber/akp-de-fon-krizi-nasil-tartisiliyor-hangi-secenekler-konusuluyor-aa8c8d78/"
-  },
-  {
-   "id": "2b7805b8",
-   "title": "İBB davasında İmamoğlu'nun avukatı Mehmet Pehlivan dahil sekiz tahliye",
-   "summary": "Görevden uzaklaştırılan İBB Başkanı Ekrem İmamoğlu'nun da aralarında bulunduğu 46'sı tutuklu 436 sanığın yargılandığı İBB davasında ara karar açıklandı ve sekiz kişi hakkında tahliye kararı verildi. Duruşma 4 Ocak…",
-   "link": "https://www.bbc.com/turkce/articles/cm87zngy4y5no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72b0/live/8a390190-ded8-11f1-a75a-dbf83836672c.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-12T20:59:59+00:00",
-   "url": "/haber/ibb-davasinda-imamoglu-nun-avukati-mehmet-pehlivan-dahil-sekiz-tahliye-2b7805b8/"
   },
   {
    "id": "21e3412e",
