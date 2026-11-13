@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-13T18:01:01.697297+00:00",
+ "updated": "2026-11-13T18:30:56.984121+00:00",
  "items": [
+  {
+   "id": "5c735655",
+   "title": "Kasım güncellemesi yazıcıları sessizce bozuyor",
+   "summary": "Microsoft, Kasım 2026 güvenlik güncellemelerinin bazı belgelerde yazdırmayı bozduğunu doğruladı. Windows yazdırma hatası, görünmeyen görseller içeren dosyaları etkiliyor.",
+   "link": "https://shiftdelete.net/windows-yazdirma-hatasi-kasim-2026-guncellemesi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/windows-kasim-guncellemesi-yazici-sorunu-kapak-1311.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-13T18:30:00+00:00",
+   "url": "/haber/kasim-guncellemesi-yazicilari-sessizce-bozuyor-5c735655/"
+  },
+  {
+   "id": "4dd4b271",
+   "title": "Türkiye Sigorta fon kazancını TMSF'ye iade etti",
+   "summary": "Türkiye Sigorta AŞ, 1 milyar 599 milyon 887 bin 908 TL'nin iade edilecek kazanç olarak belirlendiğini ve iade tutarının bugün Tasarruf Mevduatı Sigorta Fonu (TMSF) hesabına yatırıldığını bildirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/turkiye-sigorta-fon-kazancini-tmsfye-iade-etti-1750763",
+   "image": "https://images.ntv.com.tr/images/fonpiyasa-507541.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-13T18:28:48+00:00",
+   "url": "/haber/turkiye-sigorta-fon-kazancini-tmsf-ye-iade-etti-4dd4b271/"
+  },
+  {
+   "id": "2cac070c",
+   "title": "Londra Belediye Başkanı Sadık Han İstanbul'da. \"Birbirimizden öğrenebileceğimiz çok şey var\"",
+   "summary": "Londra Belediye Başkanı Sadık Han, COP31 için bulunduğu Antalya'dan sonra İstanbul'a geldi. Han, Londra ve İstanbul arasındaki benzerliklere dikkat çekti. Haber: Derya Acemoğlu",
+   "link": "https://www.ntv.com.tr/turkiye/londra-belediye-baskani-sadik-han-istanbulda-birbirimizden-ogrenmemiz-gereken-seyler-var-1750761",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-13205943-103149.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-13T18:17:33+00:00",
+   "url": "/haber/londra-belediye-baskani-sadik-han-istanbul-da-birbirimizden-ogrenebile-2cac070c/"
+  },
+  {
+   "id": "37214704",
+   "title": "Türkiye 2027 yılında işitme engellilerin 4 dünya şampiyonasına ev sahipliği yapacak",
+   "summary": "İşitme Engelliler Spor Federasyonu Başkanı Dursun Gözel, 2027 yılında işitme engelliler güreş, voleybol, futbol ve masa tenisi dünya şampiyonalarının Türkiye'nin ev sahipliğinde yapılacağını söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-2027-yilinda-isitme-engellilerin-4-dunya-sampiyonasina-ev-sahipligi-yapacak/4124659",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T18:14:24+00:00",
+   "url": "/haber/turkiye-2027-yilinda-isitme-engellilerin-4-dunya-sampiyonasina-ev-sahi-37214704/"
+  },
   {
    "id": "57b8355d",
    "title": "GitHub'da ele geçirilen hesaplar sır topladı",
@@ -352,17 +396,6 @@
    "category": "gundem",
    "date": "2026-11-13T15:45:10+00:00",
    "url": "/haber/ruzgar-tersine-donecek-sicaklik-sert-dusecek-istanbul-da-dolu-ve-hortu-54c19794/"
-  },
-  {
-   "id": "e25c881a",
-   "title": "BM Genel Sekreteri Guterres: Türkiye şüphesiz bu yılın en büyük BM konferansına ev sahipliği yapıyor",
-   "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"Türkiye, şimdiye kadarki en büyük COP'lardan birine ve şüphesiz bu yılın en büyük BM konferansına ev sahipliği yapıyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreteri-guterres-turkiye-suphesiz-bu-yilin-en-buyuk-bm-konferansina-ev-sahipligi-yapiyor/4124531",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T15:44:00+00:00",
-   "url": "/haber/bm-genel-sekreteri-guterres-turkiye-suphesiz-bu-yilin-en-buyuk-bm-konf-e25c881a/"
   },
   {
    "id": "f949726e",
@@ -860,17 +893,6 @@
    "url": "/haber/amiral-gemisi-oppo-find-x10-turkiye-de-satisa-sunuldu-6c2d0d0d/"
   },
   {
-   "id": "34ac6d16",
-   "title": "TV+'ta kasımda John Wick evreni de var",
-   "summary": "TV+'ın kasım listesinde Ballerina, The Death of Robin Hood, Backrooms ve The Gilded Age'in yeni sezonu var; seçili Bundesliga maçları TV+ Extra'da.",
-   "link": "https://shiftdelete.net/tv-plus-kasim-2026-yeni-filmler-diziler",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/tv-plus-kasim-2026-icerikleri-kapak-1311.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-13T12:30:00+00:00",
-   "url": "/haber/tv-ta-kasimda-john-wick-evreni-de-var-34ac6d16/"
-  },
-  {
    "id": "f973f2a8",
    "title": "Rekabet Kurumu, reyting ölçümleri hakkında soruşturma başlattı",
    "summary": "Rekabet Kurumu, bugün televizyonda hangi programın yayında kalacağından, milyarlarca liralık reklam bütçesinin hangi kanala gideceğine kadar tüm dengeyi belirleyen reyting ölçümleri hakkında soruşturma başlatıldığını…",
@@ -1025,17 +1047,6 @@
    "url": "/haber/istanbul-valiligi-firtina-tedbirlerini-acikladi-b4241e80/"
   },
   {
-   "id": "5b73108b",
-   "title": "Kara Maskeliler davasında ceza yağdı",
-   "summary": "İstanbul'da gerçekleştirdikleri kurşunlama eylemleriyle bilinen Kara Maskeliler isimli suç örgütünün iki üyesine toplam 116 yıl hapis cezası verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/kara-maskeliler-davasinda-ceza-yagdi-1750704",
-   "image": "https://images.ntv.com.tr/images/karamaskelilerçetesi-881730.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T10:38:10+00:00",
-   "url": "/haber/kara-maskeliler-davasinda-ceza-yagdi-5b73108b/"
-  },
-  {
    "id": "7927f8d1",
    "title": "Dünya'nın yeni bir 'mini ay'ı var",
    "summary": "2026 QQ8 adlı mini uydu ağustos ayında keşfedildi, ancak bu Dünya'ya eşlik eden tek geçici gök cismi değil.",
@@ -1056,17 +1067,6 @@
    "category": "gundem",
    "date": "2026-11-13T10:14:00+00:00",
    "url": "/haber/gorev-esnasinda-rahatsizlanan-bir-askerimiz-sehit-oldu-28a7ab07/"
-  },
-  {
-   "id": "c29871eb",
-   "title": "Görevi başında rahatsızlanan asker şehit oldu",
-   "summary": "Milli Savunma Bakanı Yaşar Güler, görevi sırasında rahatsızlanarak şehit olan Mühimmat Er Kaan Öcal için başsağlığı mesajı yayımladı.",
-   "link": "https://www.ntv.com.tr/turkiye/gorevi-basinda-rahatsizlanan-asker-sehit-oldu-1750701",
-   "image": "https://images.ntv.com.tr/images/HW_u_DvXIAALkE1-840177.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T09:57:24+00:00",
-   "url": "/haber/gorevi-basinda-rahatsizlanan-asker-sehit-oldu-c29871eb/"
   },
   {
    "id": "b7ab31ec",
