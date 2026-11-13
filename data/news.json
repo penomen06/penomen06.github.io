@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:01:02.934918+00:00",
+ "updated": "2026-11-13T21:31:01.188864+00:00",
  "items": [
   {
    "id": "03298c9f",
@@ -9,8 +9,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-13T21:00:00+00:00",
+   "date": "2026-11-13T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-03298c9f/"
+  },
+  {
+   "id": "c485b943",
+   "title": "Mekke Savunma Anlaşması yürürlüğe girdi",
+   "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Savunma Anlaşması, Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+   "link": "https://www.ntv.com.tr/turkiye/mekke-savunma-anlasmasi-yururluge-girdi-1750772",
+   "image": "https://images.ntv.com.tr/images/mekke-838564-891557.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-13T21:27:11+00:00",
+   "url": "/haber/mekke-savunma-anlasmasi-yururluge-girdi-c485b943/"
+  },
+  {
+   "id": "6d8d2203",
+   "title": "ABD'de 'olağanüstü koşullar ve güvenlik' nedeniyle tüm uçuşlar durduruldu",
+   "summary": "ABD Federal Havacılık İdaresi (FAA), \"olağanüstü koşullar ve güvenlik gerekçeleri nedeniyle\" ülke genelinde uçuşları durdurdu. Uluslararası uçuşların her biri durum özelinde değerlendirilecek.",
+   "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/467b/live/44176640-dfa8-11f1-b441-2b33b063138f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-13T21:26:06+00:00",
+   "url": "/haber/abd-de-olaganustu-kosullar-ve-guvenlik-nedeniyle-tum-ucuslar-durduruld-6d8d2203/"
+  },
+  {
+   "id": "1bc834ab",
+   "title": "Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun Resmi Gazete'de",
+   "summary": "Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı arasında ortak savunmaya ilişkin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun, Resmi Gazete'de yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-resmi-gazetede/4124780",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T21:24:31+00:00",
+   "url": "/haber/mekke-anlasmasi-nin-onaylanmasinin-uygun-bulunduguna-dair-kanun-resmi-1bc834ab/"
+  },
+  {
+   "id": "486e7d7a",
+   "title": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde tanker yolcu gemisine çarptı",
+   "summary": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde tanker, 129 kişinin bulunduğu ve kıyıda bekleyen büyük yolcu gemisine çarptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-louisiana-eyaletindeki-mississippi-nehrinde-tanker-yolcu-gemisine-carpti/4124778",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T21:19:36+00:00",
+   "url": "/haber/abd-nin-louisiana-eyaletindeki-mississippi-nehri-nde-tanker-yolcu-gemi-486e7d7a/"
+  },
+  {
+   "id": "1c4ceb23",
+   "title": "Gazze'deki ateşkesin arabulucuları İsrail ihlallerinin durdurulmasını ve yardımların artırılmasını istedi",
+   "summary": "Türkiye, Mısır ve Katar istihbarat başkanları, Gazze Şeridi'ndeki son gelişmeleri ele almak üzere Kahire'de üçlü toplantı gerçekleştirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-ateskesin-arabuluculari-israil-ihlallerinin-durdurulmasini-ve-yardimlarin-artirilmasini-istedi/4124773",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T20:59:27+00:00",
+   "url": "/haber/gazze-deki-ateskesin-arabuluculari-israil-ihlallerinin-durdurulmasini-1c4ceb23/"
   },
   {
    "id": "e4f4f5ab",
@@ -44,17 +99,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T20:30:00+00:00",
    "url": "/haber/sinemada-bu-hafta-godzilla-minus-zero-ebenezer-av-mahsun-13-kasim-2026-5a600dbe/"
-  },
-  {
-   "id": "54c19794",
-   "title": "Rüzgar tersine dönecek, sıcaklık sert düşecek. İstanbul'da dolu ve hortum alarmı",
-   "summary": "İstanbul'daki lodos etkili oluyor. Yarın poyrazla birlikte sıcaklık 8 derece düşecek, kent genelinde dolu ve hortum oluşma riski var. İstanbul dahil 11 il için sarı alarm verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-ruzgar-tersine-donecek-sicaklik-sert-dusecek-istanbulda-dolu-ve-hortum-alarmi-1750734",
-   "image": "https://images.ntv.com.tr/images/AA-20261113-43071397-43071392-STRONG_SOUTHWESTERLY_WINDS_AFFECT_ISTANBUL-226552.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T20:23:23+00:00",
-   "url": "/haber/ruzgar-tersine-donecek-sicaklik-sert-dusecek-istanbul-da-dolu-ve-hortu-54c19794/"
   },
   {
    "id": "46b84bf1",
@@ -376,17 +420,6 @@
    "url": "/haber/ulastirma-ve-altyapi-bakani-uraloglu-kibris-meselesinde-adil-ve-kalici-fd04f6a8/"
   },
   {
-   "id": "2cc9d4fe",
-   "title": "Microsoft, sorun yaşanan hizmetlerinde geniş çaplı iyileşme sağlandığını açıkladı",
-   "summary": "ABD merkezli teknoloji şirketi Microsoft, bazı hizmetlerinde yaşanan erişim sorununun ardından hizmetlerinin genelinde geniş çaplı iyileşme ve istikrar sağlandığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoft-sorun-yasanan-hizmetlerinde-genis-capli-iyilesme-saglandigini-acikladi/4124635",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T17:34:09+00:00",
-   "url": "/haber/microsoft-sorun-yasanan-hizmetlerinde-genis-capli-iyilesme-saglandigin-2cc9d4fe/"
-  },
-  {
    "id": "b504d782",
    "title": "Reyting ölçümünde Rekabet Kurumu devrede",
    "summary": "Rekabet Kurumu, televizyon izleyici ölçümü hizmeti sunan FIFTY5BLUE hakkında resen soruşturma açtı. Reyting ölçümü soruşturması, panel haneleri ve veri işleme yöntemlerini de kapsıyor.",
@@ -396,17 +429,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T17:30:00+00:00",
    "url": "/haber/reyting-olcumunde-rekabet-kurumu-devrede-b504d782/"
-  },
-  {
-   "id": "2722b1ed",
-   "title": "OpenAI, yapay zeka destekli ödemeler için ChatGPT Wallet'ı duyurdu",
-   "summary": "OpenAI, yapay zeka ajanlarının kullanıcıların gerçek kart bilgilerine erişmeden ödeme yapmasına imkan tanıyan ve her satın alma işlemi için güvenlik kontrolü gerektiren ChatGPT Wallet adlı dijital cüzdanı tanıttı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openai-yapay-zeka-destekli-odemeler-icin-chatgpt-walleti-duyurdu/4124633",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T17:29:16+00:00",
-   "url": "/haber/openai-yapay-zeka-destekli-odemeler-icin-chatgpt-wallet-i-duyurdu-2722b1ed/"
   },
   {
    "id": "9c36c8a6",
@@ -429,17 +451,6 @@
    "category": "gundem",
    "date": "2026-11-13T17:18:52+00:00",
    "url": "/haber/habas-fabrikasi-patlamasindan-sonra-aranan-iscinin-de-cenazesine-ulasi-a57442c0/"
-  },
-  {
-   "id": "ab613d5c",
-   "title": "Bakan Kurum, BM Genel Sekreteri Guterres ile görüştü",
-   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres ile görüştü.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-bm-genel-sekreteri-guterres-ile-gorustu/4124624",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T17:17:36+00:00",
-   "url": "/haber/bakan-kurum-bm-genel-sekreteri-guterres-ile-gorustu-ab613d5c/"
   },
   {
    "id": "81d57e11",
@@ -1100,17 +1111,6 @@
    "category": "gundem",
    "date": "2026-11-13T10:14:00+00:00",
    "url": "/haber/gorev-esnasinda-rahatsizlanan-bir-askerimiz-sehit-oldu-28a7ab07/"
-  },
-  {
-   "id": "b7ab31ec",
-   "title": "Nvidia'nın eski CEO'su Huang, ABD Kongresi'nde ifade verecek",
-   "summary": "Teknoloji milyarderi Jensen Huang, dünyanın en değerli şirketlerinden birinde patlak veren büyük bir skandalın ardından, ABD ulusal güvenliğine ilişkin Kongre önünde ifade vermeye hazır olduğunu belirtti.",
-   "link": "https://www.bbc.com/turkce/articles/cvj6l247pr4ro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4145/live/58c4d3e0-df2e-11f1-8b8a-85e537905c26.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-13T07:04:48+00:00",
-   "url": "/haber/nvidia-nin-eski-ceo-su-huang-abd-kongresi-nde-ifade-verecek-b7ab31ec/"
   },
   {
    "id": "ba7f2c35",
