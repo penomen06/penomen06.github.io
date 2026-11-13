@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T01:30:56.638872+00:00",
+ "updated": "2026-11-13T02:01:02.928535+00:00",
  "items": [
   {
    "id": "3ea0c992",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-13T01:30:00+00:00",
+   "date": "2026-11-13T02:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-3ea0c992/"
   },
   {
@@ -22,6 +22,17 @@
    "category": "gundem",
    "date": "2026-11-13T00:50:00+00:00",
    "url": "/haber/son-dakika-mugla-da-deprem-mi-oldu-az-once-deprem-mugla-da-nerede-oldu-dbf3f8de/"
+  },
+  {
+   "id": "dcb818c0",
+   "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan, \"Lübnan-Türkiye Stratejik Liderlik Diyaloğu\" toplantısına katıldı",
+   "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, Lübnan, Suriye ve komşu ülkelerin istikrarının Türkiye'nin doğrudan çıkarına olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-lubnan-turkiye-stratejik-liderlik-diyalogu-toplantisina-katildi/4123556",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T00:40:11+00:00",
+   "url": "/haber/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-lubnan-turkiye-strat-dcb818c0/"
   },
   {
    "id": "b7ab31ec",
@@ -55,28 +66,6 @@
    "category": "gundem",
    "date": "2026-11-13T00:02:26+00:00",
    "url": "/haber/akp-de-fon-krizi-nasil-tartisiliyor-hangi-secenekler-konusuluyor-aa8c8d78/"
-  },
-  {
-   "id": "2e1142c1",
-   "title": "Zelenskiy, Rusya'yla \"şimdiye kadarki en büyük esir takasının\" yapılacağını söyledi",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya'yla \"şimdiye kadarki en büyük esir takasının\" yapılacağını kaydetti.",
-   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-rusyayla-simdiye-kadarki-en-buyuk-esir-takasinin-yapilacagini-soyledi/4123552",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T23:14:31+00:00",
-   "url": "/haber/zelenskiy-rusya-yla-simdiye-kadarki-en-buyuk-esir-takasinin-yapilacagi-2e1142c1/"
-  },
-  {
-   "id": "6467bda2",
-   "title": "\"Diyaliz Merkezleri Hakkında Yönetmelik\" Resmi Gazete'de yayımlandı",
-   "summary": "\"Diyaliz Merkezleri Hakkında Yönetmelik\" Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/diyaliz-merkezleri-hakkinda-yonetmelik-resmi-gazetede-yayimlandi/4123551",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T23:10:45+00:00",
-   "url": "/haber/diyaliz-merkezleri-hakkinda-yonetmelik-resmi-gazete-de-yayimlandi-6467bda2/"
   },
   {
    "id": "b0d7338f",
@@ -189,28 +178,6 @@
    "url": "/haber/ibb-davasinda-ara-karar-imamoglu-nun-avukati-mehmet-pehlivan-dahil-sek-2b7805b8/"
   },
   {
-   "id": "5bb3bb95",
-   "title": "Uzmanından \"mevzuata uygun tasarlansa da yapıya müdahalelerde yıkım kaçınılmaz\" uyarısı",
-   "summary": "Düzce Üniversitesi Deprem Uygulama ve Araştırma Merkezi Müdürü Prof. Dr. Mehmet Emin Arslan, mevzuata uygun inşa edilse de yapıların depremlerde yıkılmasının nedenlerinden birinin kolon kesilmesi gibi müdahaleler…",
-   "link": "https://www.aa.com.tr/tr/gundem/uzmanindan-mevzuata-uygun-tasarlansa-da-yapiya-mudahalelerde-yikim-kacinilmaz-uyarisi/4123482",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T20:59:43+00:00",
-   "url": "/haber/uzmanindan-mevzuata-uygun-tasarlansa-da-yapiya-mudahalelerde-yikim-kac-5bb3bb95/"
-  },
-  {
-   "id": "4de08e4c",
-   "title": "Kilis'te yangında zarar gören ormanlık alan fidanlarla yeniden yeşeriyor",
-   "summary": "Kilis'te 2021 yılında çıkan orman yangınında zarar gören 98 hektarlık alan, dikilen fidanlarla yeniden yeşil örtüsüne kavuşuyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/kiliste-yanginda-zarar-goren-ormanlik-alan-fidanlarla-yeniden-yeseriyor/4123481",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T20:59:21+00:00",
-   "url": "/haber/kilis-te-yanginda-zarar-goren-ormanlik-alan-fidanlarla-yeniden-yeseriy-4de08e4c/"
-  },
-  {
    "id": "ec387369",
    "title": "Samsung'un ilk akıllı gözlüğü ön siparişe açıldı: İşte özellikleri ve fiyatı",
    "summary": "Samsung, ilk akıllı gözlüğü Intelligent Eyewear modelini ABD ve Güney Kore'de ön siparişe açtı. 30 farklı tasarımla gelen cihaz neler sunuyor?",
@@ -220,28 +187,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T20:59:00+00:00",
    "url": "/haber/samsung-un-ilk-akilli-gozlugu-on-siparise-acildi-iste-ozellikleri-ve-f-ec387369/"
-  },
-  {
-   "id": "7e9266fc",
-   "title": "Beyaza bürünen Palandöken'de turizmcilerin yeni sezon hedefi yüksek",
-   "summary": "Beyaza bürünen Türkiye'nin önemli kış turizm merkezlerinden Palandöken Kayak Merkezi'nde otellerin hazırlıkları ve erken rezervasyonlar sürerken turizmciler yeni sezonda daha fazla kayaksever ağırlamayı bekliyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/beyaza-burunen-palandokende-turizmcilerin-yeni-sezon-hedefi-yuksek/4123480",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T20:58:25+00:00",
-   "url": "/haber/beyaza-burunen-palandoken-de-turizmcilerin-yeni-sezon-hedefi-yuksek-7e9266fc/"
-  },
-  {
-   "id": "e9bc371f",
-   "title": "California Valisi Newsom, ABD'deki ara seçimlerin sonuçlarını değerlendirdi",
-   "summary": "ABD'nin California Valisi Gavin Christopher Newsom, ülkesindeki ara seçimlerin sonuçlarına ilişkin, \"Donald Trump'ın başkanlığı geçen hafta bitti, tarihi bir bitişti.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/california-valisi-newsom-abddeki-ara-secimlerin-sonuclarini-degerlendirdi/4123479",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T20:57:47+00:00",
-   "url": "/haber/california-valisi-newsom-abd-deki-ara-secimlerin-sonuclarini-degerlend-e9bc371f/"
   },
   {
    "id": "5055b085",
@@ -684,6 +629,17 @@
    "url": "/haber/cumhurbaskani-erdogan-yesil-kalkinma-yolculugumuzu-kararlilikla-surdur-e246b4a5/"
   },
   {
+   "id": "36fc3d2e",
+   "title": "COP31 CEO'su Fatma Varank, Türkiye Kadın Pavilyonunun açılışını gerçekleştirdi",
+   "summary": "COP31 CEO'su ve Çevre, Şehircilik ve İklim Değişikliği Bakan Yardımcısı Fatma Varank, iklim diplomasisinde kadın liderliğini ve yerel üretim gücünü küresel gündeme taşıyacak Mavi Bölge'deki Türkiye Kadın Pavilyonunun…",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-ceosu-fatma-varank-turkiye-kadin-pavilyonunun-acilisini-gerceklestirdi-/4123065",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T15:44:20+00:00",
+   "url": "/haber/cop31-ceo-su-fatma-varank-turkiye-kadin-pavilyonunun-acilisini-gercekl-36fc3d2e/"
+  },
+  {
    "id": "a25ed461",
    "title": "Oyuncular Kenan İmirzalıoğlu ve Sinem Kobal'dan COP31'de iklim eylemi çağrısı",
    "summary": "Antalya'da düzenlenen COP31'e katılan oyuncular Kenan İmirzalıoğlu ve Sinem Kobal, iklim değişikliğiyle mücadelede alınan kararların hayata geçirilmesinin önemine dikkati çekti.",
@@ -1091,6 +1047,17 @@
    "url": "/haber/nothing-in-gizemli-yapay-zeka-cihazindan-yeni-goruntuler-geldi-iste-ta-a298a126/"
   },
   {
+   "id": "85188c76",
+   "title": "Filistin Başbakanı: Gazze insani, çevre ve iklim dahil zorlukların somutlaştığı yerdir",
+   "summary": "Filistin Başbakanı Muhammed Mustafa, \"Gazze insani, çevre ve iklim dahil tüm zorlukların acı verici biçimde somutlaştığı yerdir.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/filistin-basbakani-gazze-insani-cevre-ve-iklim-dahil-zorluklarin-somutlastigi-yerdir/4122258",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T10:39:23+00:00",
+   "url": "/haber/filistin-basbakani-gazze-insani-cevre-ve-iklim-dahil-zorluklarin-somut-85188c76/"
+  },
+  {
    "id": "d32c2af2",
    "title": "Apple, 28 Yıllık Çevrim İçi Destek Forumunu Kapatıyor: Peki Neden?",
    "summary": "Apple, 1998'den bu yana kullanıcıların teknik destek aldığı 28 yıllık çevrim içi topluluk forumunu kalıcı olarak kapatıyor.",
@@ -1124,6 +1091,17 @@
    "url": "/haber/hurmuz-bogazi-nda-gemilere-saldirilar-artarak-suruyor-8d989484/"
   },
   {
+   "id": "a3cebdac",
+   "title": "Bakan Yumaklı: Krizlere müdahale etmek yerine riskleri önceden yönetmek zorundayız",
+   "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, iklim değişikliğinin su kaynakları üzerindeki etkilerine karşı risklerin önceden yönetilmesi gerektiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-krizlere-mudahale-etmek-yerine-riskleri-onceden-yonetmek-zorundayiz/4122084",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T09:15:23+00:00",
+   "url": "/haber/bakan-yumakli-krizlere-mudahale-etmek-yerine-riskleri-onceden-yonetmek-a3cebdac/"
+  },
+  {
    "id": "251a2795",
    "title": "Araştırma: 'Escitalopram' depresyonun nüksetmesini engellemede daha etkili bir ilaç",
    "summary": "Üç ilaç en üst sırada yer aldı ve çok sayıda hastada depresyonun yeniden ortaya çıkmasını önlemede Prozac'tan daha iyi performans gösterdi.",
@@ -1133,6 +1111,28 @@
    "category": "gundem",
    "date": "2026-11-12T08:49:05+00:00",
    "url": "/haber/arastirma-escitalopram-depresyonun-nuksetmesini-engellemede-daha-etkil-251a2795/"
+  },
+  {
+   "id": "4d45f6ee",
+   "title": "Sağlık Bakanlığının \"Antalya Dayanıklı Sağlık Sistemleri Girişimi\"ne ülkelerden ilgi",
+   "summary": "Sağlık Bakanlığı Avrupa Birliği ve Dış İlişkiler Genel Müdürü Dr. Aziz Alper Biten, COP31 kapsamında başlatılan \"Antalya Dayanıklı Sağlık Sistemleri (AIR) Girişimi\"ne ülkelerin sağlık bakanları düzeyinde ilgi…",
+   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakanliginin-antalya-dayanikli-saglik-sistemleri-girisimine-ulkelerden-ilgi/4121993",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T08:47:48+00:00",
+   "url": "/haber/saglik-bakanliginin-antalya-dayanikli-saglik-sistemleri-girisimi-ne-ul-4d45f6ee/"
+  },
+  {
+   "id": "ac772145",
+   "title": "Türk Telekom, sürdürülebilir teknoloji çözümlerini COP31'de tanıtıyor",
+   "summary": "Türk Telekom CEO'su Ebubekir Şahin, \"Türk Telekom'un yaptığı bütün çalışmaların temelinde sürdürülebilirlik, geri dönüşüm ve sıfır emisyon var.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekom-surdurulebilir-teknoloji-cozumlerini-cop31de-tanitiyor/4121958",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-12T08:26:13+00:00",
+   "url": "/haber/turk-telekom-surdurulebilir-teknoloji-cozumlerini-cop31-de-tanitiyor-ac772145/"
   },
   {
    "id": "bf602afd",
