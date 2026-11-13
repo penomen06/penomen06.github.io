@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:31:01.188864+00:00",
+ "updated": "2026-11-13T22:01:08.947705+00:00",
  "items": [
   {
    "id": "03298c9f",
@@ -9,8 +9,74 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-13T21:30:00+00:00",
+   "date": "2026-11-13T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-03298c9f/"
+  },
+  {
+   "id": "6d8d2203",
+   "title": "ABD'de hava trafik kontrolündeki 'iletişim sorunu' nedeniyle tüm uçuşlar durduruldu",
+   "summary": "Ulaştırma Bakanı Sean Duffy, ABD Federal Havacılık İdaresi'nin \"tüm hava trafik kontrol merkezlerini etkileyen bir iletişim sorununun ardından ABD'deki tüm havalimanları için ülke genelinde uçakların yerde tutulması…",
+   "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/467b/live/44176640-dfa8-11f1-b441-2b33b063138f.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-13T21:57:37+00:00",
+   "url": "/haber/abd-de-hava-trafik-kontrolundeki-iletisim-sorunu-nedeniyle-tum-ucuslar-6d8d2203/"
+  },
+  {
+   "id": "5c53beeb",
+   "title": "Bir arıza ABD'deki tüm uçakları yerde tuttu",
+   "summary": "FAA, birden fazla hava trafik kontrol merkezini etkileyen iletişim sorunları ve ekipman arızası nedeniyle ABD genelinde kalkışları bir sonraki duyuruya kadar durdurdu.",
+   "link": "https://shiftdelete.net/faa-ucus-durdurma-abd-tum-ucuslar",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/faa-abd-ucus-durdurma-ekipman-arizasi-kapak-1411.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-13T21:53:07+00:00",
+   "url": "/haber/bir-ariza-abd-deki-tum-ucaklari-yerde-tuttu-5c53beeb/"
+  },
+  {
+   "id": "5f5a3dbe",
+   "title": "\"Ulusal Adil Geçiş Stratejisi ve Eylem Planı\" konulu genelge Resmi Gazete’de",
+   "summary": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) konulu Cumhurbaşkanlığı Genelgesi, Resmi Gazete'de yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-konulu-genelge-resmi-gazete-de/4124787",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T21:43:49+00:00",
+   "url": "/haber/ulusal-adil-gecis-stratejisi-ve-eylem-plani-konulu-genelge-resmi-gazet-5f5a3dbe/"
+  },
+  {
+   "id": "29948f80",
+   "title": "ABD'de yük gemisi ile çarpışan kruz gemisi yan yattı",
+   "summary": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde, New Orleans Limanı yakınlarında bir tanker ile bir kruz gemisi çarpıştı.",
+   "link": "https://www.bbc.com/turkce/articles/cv0l3wyrnzw2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e97d/live/a9f7f4f0-dfaa-11f1-93e1-3b657b665bcf.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-13T21:43:28+00:00",
+   "url": "/haber/abd-de-yuk-gemisi-ile-carpisan-kruz-gemisi-yan-yatti-29948f80/"
+  },
+  {
+   "id": "c95e13b6",
+   "title": "BUDO'nun 8 seferi olumsuz hava koşulları nedeniyle iptal edildi",
+   "summary": "Bursa Deniz Otobüslerinin (BUDO) 8 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/budonun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4124786",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T21:42:50+00:00",
+   "url": "/haber/budo-nun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi-c95e13b6/"
+  },
+  {
+   "id": "c4238409",
+   "title": "ABD Federal Havacılık İdaresi, ABD genelindeki tüm havalimanlarında uçuşların durdurulması kararı aldı",
+   "summary": "ABD Federal Havacılık İdaresi, Hava Yolu Trafik Kontrol Merkezlerini etkileyen iletişim sorununun ardından ABD genelindeki tüm havalimanlarında uçuşların durdurulması kararı aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-federal-havacilik-idaresi-abd-genelindeki-tum-havalimanlarinda-ucuslarin-durdurulmasi-karari-aldi/4124785",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T21:39:40+00:00",
+   "url": "/haber/abd-federal-havacilik-idaresi-abd-genelindeki-tum-havalimanlarinda-ucu-c4238409/"
   },
   {
    "id": "c485b943",
@@ -24,15 +90,15 @@
    "url": "/haber/mekke-savunma-anlasmasi-yururluge-girdi-c485b943/"
   },
   {
-   "id": "6d8d2203",
-   "title": "ABD'de 'olağanüstü koşullar ve güvenlik' nedeniyle tüm uçuşlar durduruldu",
-   "summary": "ABD Federal Havacılık İdaresi (FAA), \"olağanüstü koşullar ve güvenlik gerekçeleri nedeniyle\" ülke genelinde uçuşları durdurdu. Uluslararası uçuşların her biri durum özelinde değerlendirilecek.",
-   "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/467b/live/44176640-dfa8-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
+   "id": "a8082d17",
+   "title": "ABDde tüm uçuşlar durduruldu",
+   "summary": "ABD Ulaştırma Bakanı Duffy, hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu yaşandığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-tum-ucuslar-durduruldu-963232.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/ucuslar-2503575.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
-   "date": "2026-11-13T21:26:06+00:00",
-   "url": "/haber/abd-de-olaganustu-kosullar-ve-guvenlik-nedeniyle-tum-ucuslar-durduruld-6d8d2203/"
+   "date": "2026-11-13T21:26:00+00:00",
+   "url": "/haber/abdde-tum-ucuslar-durduruldu-a8082d17/"
   },
   {
    "id": "1bc834ab",
@@ -55,6 +121,17 @@
    "category": "gundem",
    "date": "2026-11-13T21:19:36+00:00",
    "url": "/haber/abd-nin-louisiana-eyaletindeki-mississippi-nehri-nde-tanker-yolcu-gemi-486e7d7a/"
+  },
+  {
+   "id": "347a8652",
+   "title": "Mekke Anlaşması yürürlüğe girdi",
+   "summary": "Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı arasında ortak savunmaya ilişkin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun, Resmi Gazete'de yayımlandı.",
+   "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-yururluge-girdi-963230.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2486000/mekke-anlasmasi-2486731.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-13T21:18:00+00:00",
+   "url": "/haber/mekke-anlasmasi-yururluge-girdi-347a8652/"
   },
   {
    "id": "1c4ceb23",
@@ -321,17 +398,6 @@
    "url": "/haber/abd-de-yaklasik-721-bin-bmw-otomobil-icin-acik-alana-park-uyarisi-6d372d9b/"
   },
   {
-   "id": "d6b5c252",
-   "title": "AB yapay zekada teknolojik bağımsızlığın yolunu arıyor",
-   "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Avrupa'nın yapay zeka alanında teknolojik bağımsızlığını güçlendirmek için en az 500 milyar avroluk yatırıma ihtiyaç duyduğunu söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-yapay-zekada-teknolojik-bagimsizligin-yolunu-ariyor/4124677",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T18:41:47+00:00",
-   "url": "/haber/ab-yapay-zekada-teknolojik-bagimsizligin-yolunu-ariyor-d6b5c252/"
-  },
-  {
    "id": "dda27843",
    "title": "Uzayda gezinen gizemli cisim kayıp Sovyet aracı mı? NASA açıklama yaptı",
    "summary": "Sıradan bir göktaşı gibi hareket etmeyen gizemli 1998 KY26, eski bir Sovyet uzay aracı mı? Harvardlı astrofizikçinin iddiası üzerine NASA başkanından açıklama geldi.",
@@ -365,17 +431,6 @@
    "url": "/haber/turkiye-sigorta-fon-kazancini-tmsf-ye-iade-etti-4dd4b271/"
   },
   {
-   "id": "b570f911",
-   "title": "Gazze'deki insani yardım kuruluşları: İsrail politikaları nedeniyle yağmurların yol açtığı yıkım önlenemedi",
-   "summary": "Filistin Toprakları İnsani Yardım Ekibi, Gazze'de etkili olan son yağışların yol açtığı can kayıpları ve barınma alanlarındaki yıkımın önlenebilir olduğunu ancak İsrail'in hayati insani yardımların bölgeye…",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-insani-yardim-kuruluslari-israil-politikalari-nedeniyle-yagmurlarin-yol-actigi-yikim-onlenemedi/4124675",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T18:28:46+00:00",
-   "url": "/haber/gazze-deki-insani-yardim-kuruluslari-israil-politikalari-nedeniyle-yag-b570f911/"
-  },
-  {
    "id": "2cac070c",
    "title": "Londra Belediye Başkanı Sadık Han İstanbul'da. \"Birbirimizden öğrenebileceğimiz çok şey var\"",
    "summary": "Londra Belediye Başkanı Sadık Han, COP31 için bulunduğu Antalya'dan sonra İstanbul'a geldi. Han, Londra ve İstanbul arasındaki benzerliklere dikkat çekti. Haber: Derya Acemoğlu",
@@ -385,17 +440,6 @@
    "category": "gundem",
    "date": "2026-11-13T18:17:33+00:00",
    "url": "/haber/londra-belediye-baskani-sadik-han-istanbul-da-birbirimizden-ogrenebile-2cac070c/"
-  },
-  {
-   "id": "37214704",
-   "title": "Türkiye 2027 yılında işitme engellilerin 4 dünya şampiyonasına ev sahipliği yapacak",
-   "summary": "İşitme Engelliler Spor Federasyonu Başkanı Dursun Gözel, 2027 yılında işitme engelliler güreş, voleybol, futbol ve masa tenisi dünya şampiyonalarının Türkiye'nin ev sahipliğinde yapılacağını söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/turkiye-2027-yilinda-isitme-engellilerin-4-dunya-sampiyonasina-ev-sahipligi-yapacak/4124659",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T18:14:24+00:00",
-   "url": "/haber/turkiye-2027-yilinda-isitme-engellilerin-4-dunya-sampiyonasina-ev-sahi-37214704/"
   },
   {
    "id": "57b8355d",
@@ -761,17 +805,6 @@
    "url": "/haber/trump-hukumetinin-cop31-e-katilmamasi-iklim-diplomasisi-icin-ne-anlama-04ae47e2/"
   },
   {
-   "id": "6d50334c",
-   "title": "OpenAI ve Google'a yeni model yasağı davası",
-   "summary": "San Francisco'da açılan yapay zeka davası, OpenAI, Anthropic, Google, Meta ve SpaceXSI'nin yeni model geliştirmesini durdurmayı hedefliyor. Mevcut sohbet botlarına dokunulmuyor.",
-   "link": "https://shiftdelete.net/yapay-zeka-davasi-openai-anthropic-google-yeni-model",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/1aa6b4ee7650126958b610a50801a28f371abef7.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-13T14:00:00+00:00",
-   "url": "/haber/openai-ve-google-a-yeni-model-yasagi-davasi-6d50334c/"
-  },
-  {
    "id": "760d460e",
    "title": "Cumhurbaşkanı Erdoğan, Katar Emiri Al Sani ile görüştü",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Katar Emiri Şeyh Temim bin Hamed Al Sani ile görüştü. Görüşme sonrası iki ülke arasında ticaret, eğitim, diplomasi ve savunma alanlarını kapsayan 5 anlaşma imzalandı.",
@@ -1014,17 +1047,6 @@
    "url": "/haber/google-da-bulunmak-yetmiyor-poseidon360-isletmelerin-yapay-zeka-tarafi-6f5057ef/"
   },
   {
-   "id": "5314bf42",
-   "title": "ABD Savunma Bakanı Hegseth'ten sözlü uyarı yapan askere madalya",
-   "summary": "ABD Savunma Bakanı Pete Hegseth, beraberindeki grupla birlikte kendisini uyaran askere hizmet madalyası taktı.",
-   "link": "https://www.bbc.com/turkce/articles/cmwy43jnqg9zo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ac99/live/be8b7220-df55-11f1-b8ca-0348146d1a32.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-13T11:32:26+00:00",
-   "url": "/haber/abd-savunma-bakani-hegseth-ten-sozlu-uyari-yapan-askere-madalya-5314bf42/"
-  },
-  {
    "id": "fce8ab78",
    "title": "MG Kasım 2026 Sıfır Araç Fiyat Listesi: Güncel Kampanyalar ve Kredi Fırsatları",
    "summary": "MG Kasım 2026 sıfır araç fiyatları, kampanyaları ve kredi fırsatlarını inceliyoruz.",
@@ -1190,17 +1212,6 @@
    "url": "/haber/johnny-depp-iptal-yillari-sonrasi-ilk-kez-beyaz-perdede-0c4a40f2/"
   },
   {
-   "id": "15e32a99",
-   "title": "Malatya'da helikopter düştü: 4 askerimiz şehit oldu",
-   "summary": "Milli Savunma Bakanlığı (MSB), Malatya'da S-70 tipi helikopterin henüz bilinmeyen bir nedenle kaza kırıma uğradığını açıkladı. Düşen askeri helikopterde 4 askerimiz şehit oldu.",
-   "link": "https://www.trthaber.com/haber/gundem/malatyada-helikopter-dustu-4-askerimiz-sehit-oldu-963100.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/kaza-aa-2503293.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-12T16:20:00+00:00",
-   "url": "/haber/malatya-da-helikopter-dustu-4-askerimiz-sehit-oldu-15e32a99/"
-  },
-  {
    "id": "e246b4a5",
    "title": "Cumhurbaşkanı Erdoğan: Yeşil kalkınma yolculuğumuzu kararlılıkla sürdürüyoruz",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Yeşil kalkınma yolculuğumuzu kararlılıkla sürdürüyoruz. Enerjiden sanayiye, ulaştırmadan tarıma ve binalara tüm sektörlerimizi yeniden yapılandırıyoruz\" dedi.",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-11-12T14:07:00+00:00",
    "url": "/haber/beyaz-saray-cevresinde-silah-sesleri-ce01fd8d/"
-  },
-  {
-   "id": "52edb62c",
-   "title": "Türkiye ile Kanada arasında nükleer santral için işbirliği anlaşması",
-   "summary": "Türkiye Nükleer Enerji AŞ ile Kanada merkezli AtkinsRealis, CANDU reaktör teknolojisiyle kurulabilecek nükleer santral için fizibilite ve ön tasarım mühendisliği anlaşması imzaladı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-kanada-arasinda-nukleer-santral-icin-isbirligi-anlasmasi-963021.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1952000/nukleer-santral-aa-1953247.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-12T07:07:00+00:00",
-   "url": "/haber/turkiye-ile-kanada-arasinda-nukleer-santral-icin-isbirligi-anlasmasi-52edb62c/"
   },
   {
    "id": "d5bec866",
