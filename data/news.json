@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T17:30:59.508336+00:00",
+ "updated": "2026-11-13T18:01:01.697297+00:00",
  "items": [
+  {
+   "id": "57b8355d",
+   "title": "GitHub'da ele geçirilen hesaplar sır topladı",
+   "summary": "4837 ele geçirilmiş hesap üzerinden binlerce depoya sır çalan betik yerleştirildi. Aikido betiğin en az 1806 depoda çalıştığını, SafeDep ise 8093 depoda değişiklik yapıldığını bildirdi.",
+   "link": "https://shiftdelete.net/github-hesaplari-ele-gecirildi-sir-hirsizi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/87dd1efdd0eba73fdc343a52643f47264416f7cb.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-13T18:00:00+00:00",
+   "url": "/haber/github-da-ele-gecirilen-hesaplar-sir-topladi-57b8355d/"
+  },
+  {
+   "id": "2cc9d4fe",
+   "title": "Microsoft, sorun yaşanan hizmetlerinde geniş çaplı iyileşme sağlandığını açıkladı",
+   "summary": "ABD merkezli teknoloji şirketi Microsoft, bazı hizmetlerinde yaşanan erişim sorununun ardından hizmetlerinin genelinde geniş çaplı iyileşme ve istikrar sağlandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoft-sorun-yasanan-hizmetlerinde-genis-capli-iyilesme-saglandigini-acikladi/4124635",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T17:34:09+00:00",
+   "url": "/haber/microsoft-sorun-yasanan-hizmetlerinde-genis-capli-iyilesme-saglandigin-2cc9d4fe/"
+  },
   {
    "id": "b504d782",
    "title": "Reyting ölçümünde Rekabet Kurumu devrede",
@@ -11,6 +33,17 @@
    "category": "teknoloji",
    "date": "2026-11-13T17:30:00+00:00",
    "url": "/haber/reyting-olcumunde-rekabet-kurumu-devrede-b504d782/"
+  },
+  {
+   "id": "2722b1ed",
+   "title": "OpenAI, yapay zeka destekli ödemeler için ChatGPT Wallet'ı duyurdu",
+   "summary": "OpenAI, yapay zeka ajanlarının kullanıcıların gerçek kart bilgilerine erişmeden ödeme yapmasına imkan tanıyan ve her satın alma işlemi için güvenlik kontrolü gerektiren ChatGPT Wallet adlı dijital cüzdanı tanıttı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openai-yapay-zeka-destekli-odemeler-icin-chatgpt-walleti-duyurdu/4124633",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T17:29:16+00:00",
+   "url": "/haber/openai-yapay-zeka-destekli-odemeler-icin-chatgpt-wallet-i-duyurdu-2722b1ed/"
   },
   {
    "id": "457495a0",
@@ -44,6 +77,17 @@
    "category": "gundem",
    "date": "2026-11-13T17:18:52+00:00",
    "url": "/haber/habas-fabrikasi-patlamasindan-sonra-aranan-iscinin-de-cenazesine-ulasi-a57442c0/"
+  },
+  {
+   "id": "ab613d5c",
+   "title": "Bakan Kurum, BM Genel Sekreteri Guterres ile görüştü",
+   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres ile görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-bm-genel-sekreteri-guterres-ile-gorustu/4124624",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T17:17:36+00:00",
+   "url": "/haber/bakan-kurum-bm-genel-sekreteri-guterres-ile-gorustu-ab613d5c/"
   },
   {
    "id": "6dd652e2",
@@ -321,17 +365,6 @@
    "url": "/haber/bm-genel-sekreteri-guterres-turkiye-suphesiz-bu-yilin-en-buyuk-bm-konf-e25c881a/"
   },
   {
-   "id": "f6a010ec",
-   "title": "Bu hafta yatırım araçlarının performansı",
-   "summary": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda yüzde 3,14, dolar/TL yüzde 0,42 değer kazanırken, altının gram fiyatı yüzde 3,53, avro/TL yüzde 0,38 değer kaybetti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4124510",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T15:38:54+00:00",
-   "url": "/haber/bu-hafta-yatirim-araclarinin-performansi-f6a010ec/"
-  },
-  {
    "id": "f949726e",
    "title": "Cumhurbaşkanı Erdoğan, Katar Emiri Al Sani ile görüştü",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Katar Emiri Şeyh Temim bin Hamed Al Sani ile görüştü. Görüşmede çeşitli alanlarda 5 anlaşmaya imza atıldı.",
@@ -376,17 +409,6 @@
    "url": "/haber/hem-temizliyor-hem-nemlendiriyor-philips-pure-protect-water-ac3420-inc-187c8241/"
   },
   {
-   "id": "3ad3eabb",
-   "title": "İzmir'de fabrikadaki patlamada hayatını kaybedenlerin sayısı 19'a yükseldi",
-   "summary": "İzmir'in Aliağa ilçesindeki demir çelik fabrikasında meydana gelen patlamanın ardından aranan işçi Barış Güney'in cenazesine ulaşılmasıyla hayatını kaybedenlerin sayısı 19'a yükseldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/izmirde-fabrikadaki-patlamada-hayatini-kaybedenlerin-sayisi-19a-yukseldi/4124450",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T15:27:26+00:00",
-   "url": "/haber/izmir-de-fabrikadaki-patlamada-hayatini-kaybedenlerin-sayisi-19-a-yuks-3ad3eabb/"
-  },
-  {
    "id": "5181efed",
    "title": "AKINCI ve Bayraktar TB2 kara yoluna iniş-kalkış yaptı",
    "summary": "Pistlerin kullanılamayacağı acil durum senaryolarına yönelik yürütülen çalışmalar kapsamında AKINCI ile Bayraktar TB2 SİHA'lar, Manisa-Balıkesir Karayolu'na başarıyla iniş ve kalkış yaptı.",
@@ -396,17 +418,6 @@
    "category": "gundem",
    "date": "2026-11-13T15:19:47+00:00",
    "url": "/haber/akinci-ve-bayraktar-tb2-kara-yoluna-inis-kalkis-yapti-5181efed/"
-  },
-  {
-   "id": "ff5c27e9",
-   "title": "TFF'den bu hafta yapılacak profesyonel maçlar öncesi saygı duruşu kararı",
-   "summary": "Türkiye Futbol Federasyonu (TFF), 14-15 Kasım tarihlerinde oynanacak tüm profesyonel müsabakaların öncesinde saygı duruşunda bulunulacağını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/spor/tffden-bu-hafta-yapilacak-profesyonel-maclar-oncesi-saygi-durusu-karari/4124377",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T15:15:42+00:00",
-   "url": "/haber/tff-den-bu-hafta-yapilacak-profesyonel-maclar-oncesi-saygi-durusu-kara-ff5c27e9/"
   },
   {
    "id": "b7f3f53d",
@@ -891,17 +902,6 @@
    "category": "gundem",
    "date": "2026-11-13T12:10:00+00:00",
    "url": "/haber/surec-basladi-eimzalar-ab-ile-karsilikli-taninacak-5a48dc4c/"
-  },
-  {
-   "id": "53f2fb09",
-   "title": "Galaxy S26 serisi Türkiye'de kaç para?",
-   "summary": "Samsung Türkiye'nin resmî fiyatlarına göre Galaxy S26 86.999 TL'den, S26 Ultra 132.999 TL'den başlıyor.",
-   "link": "https://shiftdelete.net/galaxy-s26-serisi-turkiye-fiyati-kasim-2026",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/galaxy-s26-turkiye-fiyati-kapak2-1311.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-13T12:00:00+00:00",
-   "url": "/haber/galaxy-s26-serisi-turkiye-de-kac-para-53f2fb09/"
   },
   {
    "id": "e1fbc6cb",
