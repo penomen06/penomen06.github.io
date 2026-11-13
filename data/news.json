@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T06:01:00.494629+00:00",
+ "updated": "2026-11-13T06:30:54.450816+00:00",
  "items": [
+  {
+   "id": "fa5b5818",
+   "title": "Starship bu kez iki kademeyi de geri istiyor",
+   "summary": "Starship 15. test uçuşu için Ship 42 ve Super Heavy Booster 22 kule üzerinde birleştirildi. Fırlatma 14 Kasım 2026'da Texas'tan yapılacak.",
+   "link": "https://shiftdelete.net/starship-15-test-ucusu-ship-42-booster-22",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/starship-super-heavy-kule-kapak-1311.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-13T06:30:00+00:00",
+   "url": "/haber/starship-bu-kez-iki-kademeyi-de-geri-istiyor-fa5b5818/"
+  },
   {
    "id": "3ea0c992",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 13 Kasım 2026",
@@ -9,8 +20,151 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-13T06:00:01+00:00",
+   "date": "2026-11-13T06:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-3ea0c992/"
+  },
+  {
+   "id": "73b5fede",
+   "title": "AMD, SSD’lere sürekli yazma işlemi yapılmasına yol açan hatayı “Adrenalin 26.11.1” güncellemesiyle çözdü",
+   "summary": "Geçtiğimiz günlerde AMD ekran kartı sürücülerinde boştayken bile SSD’ye sürekli yazma işlemi yapılmasına yol açan bir hata bulunmuştu. Bu sorunun arkasında AMD External Events Client Module’ün (atieclxx.exe) yer aldığı…",
+   "link": "https://www.log.com.tr/amd-ssdlere-surekli-yazma-islemi-yapilmasina-yol-acan-hatayi-adrenalin-26-11-1-guncellemesiyle-cozdu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-13_09-25-04_sqL7c-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-13T06:28:00+00:00",
+   "url": "/haber/amd-ssd-lere-surekli-yazma-islemi-yapilmasina-yol-acan-hatayi-adrenali-73b5fede/"
+  },
+  {
+   "id": "1ece28c7",
+   "title": "Ampute Futbol Milli Takımı, 2026 Dünya Kupası'nda sahaya çıkacak",
+   "summary": "Ampute Futbol Milli Takımı'nın Meksika'da düzenlenen 2026 Dünya Kupası'ndaki mücadelesi yarın başlayacak.",
+   "link": "https://www.aa.com.tr/tr/spor/ampute-futbol-milli-takimi-2026-dunya-kupasinda-sahaya-cikacak/4123618",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T06:27:41+00:00",
+   "url": "/haber/ampute-futbol-milli-takimi-2026-dunya-kupasi-nda-sahaya-cikacak-1ece28c7/"
+  },
+  {
+   "id": "32161952",
+   "title": "Yedi yıldır gözlemlenen ötegezegen aniden kayboldu: Bilim insanları nedenini araştırıyor",
+   "summary": "Astronomlar, düzenli olarak yıldızının önünden geçen bir ötegezegenin zamanla kaybolduğunu keşfetti. Gözlemler, sistemde gizemli başka bir gezegenin bulunabileceğine işaret ediyor.",
+   "link": "https://www.donanimhaber.com/yedi-yildir-gozlemlenen-otegezegen-aniden-kayboldu--212847",
+   "image": "https://www.donanimhaber.com/images/images/haber/212847/1200x675yedi-yildir-gozlemlenen-otegezegen-aniden-kayboldu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-13T06:25:00+00:00",
+   "url": "/haber/yedi-yildir-gozlemlenen-otegezegen-aniden-kayboldu-bilim-insanlari-ned-32161952/"
+  },
+  {
+   "id": "c6538d95",
+   "title": "Alkollü sürücünün zor anları: Yasal sınırı 23'e katladı",
+   "summary": "Bursa'da alkollü traktör sürücüsü, park halindeki otomobile çarptı. Yasal sınırı yaklaşık 23'e katlayan sürücüye para cezası kesildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-alkollu-surucunun-zor-anlari-yasal-siniri-23e-katladi-1750662",
+   "image": "https://images.ntv.com.tr/images/alkollü-traktör-sürücüsü-325663.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-13T06:23:47+00:00",
+   "url": "/haber/alkollu-surucunun-zor-anlari-yasal-siniri-23-e-katladi-c6538d95/"
+  },
+  {
+   "id": "2d4c66f0",
+   "title": "Microsoft, daha fazla orijinal Xbox oyununu PC’ye getirdi",
+   "summary": "Microsoft, geçtiğimiz aylarda “Xbox Backward Compatibility on PC” isimli bir programı hayata geçirmiş ve bu program kapsamında orijinal Xbox oyunları doğrudan PC’lere ve uyumlu el konsollarına (Ally / Ally X)…",
+   "link": "https://www.log.com.tr/microsoft-daha-fazla-orijinal-xbox-oyununu-pcye-getirdi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-13_09-16-52_tSQtL-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-13T06:21:23+00:00",
+   "url": "/haber/microsoft-daha-fazla-orijinal-xbox-oyununu-pc-ye-getirdi-2d4c66f0/"
+  },
+  {
+   "id": "5342c7b1",
+   "title": "NYT: Trump, adı casusluk skandalına karışan Nvidia'nın eski CEO'sundan \"işi için savaşmasını\" istedi",
+   "summary": "ABD Başkanı Donald Trump'ın, adının karıştığı casusluk skandalına rağmen ABD'li çip üreticisi Nvidia'nın eski Üst Yöneticisi (CEO) Jensen Huang'ı arayarak \"işi için savaşmaya devam etmesini\" söylediği öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/nyt-trump-adi-casusluk-skandalina-karisan-nvidianin-eski-ceosundan-isi-icin-savasmasini-istedi/4123608",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T06:15:35+00:00",
+   "url": "/haber/nyt-trump-adi-casusluk-skandalina-karisan-nvidia-nin-eski-ceo-sundan-i-5342c7b1/"
+  },
+  {
+   "id": "e9584de3",
+   "title": "İletişim Başkanı Duran: Cumhurbaşkanımızın COP31 Liderler Zirvesi'nde yaptığı konuşma çok önemliydi",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Cumhurbaşkanımızın COP31 Liderler Zirvesi'nde yaptığı konuşma çok önemliydi ve aslında ikili görüşmelerde de buna çok atıf oldu.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-cumhurbaskanimizin-cop31-liderler-zirvesinde-yaptigi-konusma-cok-onemliydi/4123607",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T06:15:14+00:00",
+   "url": "/haber/iletisim-baskani-duran-cumhurbaskanimizin-cop31-liderler-zirvesi-nde-y-e9584de3/"
+  },
+  {
+   "id": "e7f5ae69",
+   "title": "ABD'li Demokrat Senatör Van Hollen, Senato Çoğunluk Liderliği için aday oldu",
+   "summary": "ABD'li Demokrat Senatör Chris Van Hollen, İsrail'e desteğiyle bilinen Senato Azınlık Lideri Chuck Schumer'a karşı Senato Çoğunluk Liderliği için adaylığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdli-demokrat-senator-van-hollen-senato-cogunluk-liderligi-icin-aday-oldu/4123606",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T06:15:12+00:00",
+   "url": "/haber/abd-li-demokrat-senator-van-hollen-senato-cogunluk-liderligi-icin-aday-e7f5ae69/"
+  },
+  {
+   "id": "0213e62c",
+   "title": "Kushner, Rusya ve Ukrayna'nın Avrupalıların masaya alınması konusunda mutabık kaldığını duyurdu",
+   "summary": "ABD Başkanı Trump'ın Özel Temsilcisi Jared Kushner, Rusya Devlet Başkanı Putin ve Ukrayna Devlet Başkanı Zelenskiy ile görüşmelerin ardından tarafların, ilerleyen aşamalarda Avrupalı müttefiklerin masaya alınmasında…",
+   "link": "https://www.aa.com.tr/tr/dunya/kushner-rusya-ve-ukraynanin-avrupalilarin-masaya-alinmasi-konusunda-mutabik-kaldigini-duyurdu/4123605",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T06:14:59+00:00",
+   "url": "/haber/kushner-rusya-ve-ukrayna-nin-avrupalilarin-masaya-alinmasi-konusunda-m-0213e62c/"
+  },
+  {
+   "id": "9904cc6d",
+   "title": "OpenAI: “Dot’lar artık özel talimatlarınıza uyabiliyor”",
+   "summary": "ChatGPT’yi geliştiren OpenAI, “Dot’lar, her türlü işi üstlenmek için tasarlanmış, son derece yetenekli, sürekli aktif ajanlardır. Yapay zekayla çalışmanın yepyeni bir yolunu sunarlar: Sizin için neyin önemli olduğunu…",
+   "link": "https://www.log.com.tr/openai-dotlar-artik-ozel-talimatlariniza-uyabiliyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-13_09-11-00_UGFGW-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-13T06:14:49+00:00",
+   "url": "/haber/openai-dot-lar-artik-ozel-talimatlariniza-uyabiliyor-9904cc6d/"
+  },
+  {
+   "id": "b07c9706",
+   "title": "İstanbul'daki kara para aklama soruşturmasında 15 şüpheli gözaltına alındı",
+   "summary": "Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin Ömer Sarıgül'ün de aralarında bulunduğu 27 zanlının tutuklandığı soruşturma kapsamında 15…",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-kara-para-aklama-sorusturmasinda-15-supheli-gozaltina-alindi/4123599",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T06:05:54+00:00",
+   "url": "/haber/istanbul-daki-kara-para-aklama-sorusturmasinda-15-supheli-gozaltina-al-b07c9706/"
+  },
+  {
+   "id": "bc1158f0",
+   "title": "Görüntülü toplantıların yeni katılımcısı Claude Meetings kullanıma sunuldu",
+   "summary": "Anthropic, Claude Fable 5.2 ve Claude Mythos 5.2 modellerinin ardından Claude Meetings, Claude Sheets ve Claude Whiteboards’u duyurmuştu. Bu hizmetlerden Claude Meetings, bugün itibarıyla beta olarak Team ve Enterprise…",
+   "link": "https://www.log.com.tr/goruntulu-toplantilarin-yeni-katilimcisi-claude-meetings-kullanima-sunuldu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-13_09-03-42_5CDP9-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-13T06:05:26+00:00",
+   "url": "/haber/goruntulu-toplantilarin-yeni-katilimcisi-claude-meetings-kullanima-sun-bc1158f0/"
+  },
+  {
+   "id": "f6f23706",
+   "title": "Küresel piyasalar karışık seyrediyor",
+   "summary": "Küresel piyasalar, Nvidia Üst Yöneticisi (CEO) Jensen Huang'ın istifası, ABD Merkez Bankasının (Fed) faiz artıracağına yönelik beklentiler ve devam eden jeopolitik risklerin etkisiyle karışık seyrediyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-karisik-seyrediyor/4123598",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T06:04:02+00:00",
+   "url": "/haber/kuresel-piyasalar-karisik-seyrediyor-f6f23706/"
   },
   {
    "id": "71eeb238",
@@ -46,6 +200,17 @@
    "url": "/haber/x-artik-gonderilere-20-ye-kadar-fotograf-ve-video-eklenmesine-olanak-t-19c2cc2d/"
   },
   {
+   "id": "0c878a70",
+   "title": "İzmir merkezli 14 ildeki FETÖ operasyonunda 29 şüpheli gözaltına alındı",
+   "summary": "İzmir merkezli 14 ilde Fetullahçı Terör Örgütü'nün (FETÖ) \"güncel kadın eğitim yapılanması\"na yönelik operasyonda 29 zanlı gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/izmir-merkezli-14-ildeki-feto-operasyonunda-29-supheli-gozaltina-alindi/4123591",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T05:55:33+00:00",
+   "url": "/haber/izmir-merkezli-14-ildeki-feto-operasyonunda-29-supheli-gozaltina-alind-0c878a70/"
+  },
+  {
    "id": "91712eca",
    "title": "2027’de çıkacak Fable için yeni oynanış videosu paylaşıldı",
    "summary": "Herhangi bir erteleme olmazsa 23 Şubat 2027’de çıkacak yeni Fable oyunu için Xbox’ın 25. yaşına özel olarak yeni bir oynanış videosu paylaşıldı. Çok sayıda kişinin merakla beklediği oyun, PC, Xbox Series X ve Xbox…",
@@ -77,6 +242,17 @@
    "category": "gundem",
    "date": "2026-11-13T05:42:55+00:00",
    "url": "/haber/istanbul-da-lodos-firtinasi-sehir-hatlari-ido-ve-budo-seferleri-iptal-df4ac4c7/"
+  },
+  {
+   "id": "dbcdf595",
+   "title": "İstanbul'da silahlı suç örgütüne yönelik operasyonda 22 şüpheli yakalandı",
+   "summary": "İstanbul'da silahlı suç örgütüne yönelik operasyonda çeşitli suçlardan 15 eyleme karıştıkları belirlenen 22 zanlı gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-silahli-suc-orgutune-yonelik-operasyonda-22-supheli-yakalandi/4123589",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T05:40:04+00:00",
+   "url": "/haber/istanbul-da-silahli-suc-orgutune-yonelik-operasyonda-22-supheli-yakala-dbcdf595/"
   },
   {
    "id": "644dff48",
@@ -156,15 +332,15 @@
    "url": "/haber/google-in-yeni-ucuz-modeli-cok-daha-hizli-akilli-ve-verimli-ecb061e0/"
   },
   {
-   "id": "f12961d9",
-   "title": "İstanbul merkezli 42 ilde \"kişisel verileri\" ele geçirenlere operasyon",
-   "summary": "İstanbul merkezli 42 ilde yetkisiz erişim yoluyla kişisel bilgileri ele geçirenlere yönelik operasyon düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-42-ilde-kisisel-verileri-ele-gecirenlere-operasyon/4123576",
+   "id": "f9befee4",
+   "title": "İstanbul merkezli 42 ilde kişisel verileri ele geçirenlere yönelik operasyonda 79 zanlı gözaltında",
+   "summary": "İstanbul merkezli 42 ilde yetkisiz erişim yoluyla kişisel bilgileri ele geçirenlere yönelik operasyonda 79 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-42-ilde-kisisel-verileri-ele-gecirenlere-yonelik-operasyonda-79-zanli-gozaltinda/4123576",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-13T04:46:16+00:00",
-   "url": "/haber/istanbul-merkezli-42-ilde-kisisel-verileri-ele-gecirenlere-operasyon-f12961d9/"
+   "url": "/haber/istanbul-merkezli-42-ilde-kisisel-verileri-ele-gecirenlere-yonelik-ope-f9befee4/"
   },
   {
    "id": "c55a1905",
@@ -607,17 +783,6 @@
    "url": "/haber/cumhurbaskani-erdogan-dan-dunya-liderlerine-cagri-1-5-derece-hedefini-798c17bd/"
   },
   {
-   "id": "4223ca42",
-   "title": "Xiaomi 18 için kapora toplanmaya başlandı",
-   "summary": "Çin'de bir satıcı Xiaomi 18 ön sipariş kaydı almaya başladı. Telefonun resmî lansmanı ise Aralık'a kalabilir, fiyat bilgisi de henüz paylaşılmadı.",
-   "link": "https://shiftdelete.net/xiaomi-18-on-siparis-cin-satici-kapora",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/xiaomi-18-pro-kapak-1011.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-12T19:00:00+00:00",
-   "url": "/haber/xiaomi-18-icin-kapora-toplanmaya-baslandi-4223ca42/"
-  },
-  {
    "id": "8e0d2e5e",
    "title": "Çin'in güneş enerjisiyle 30 saat havada kalabilen İHA'sı ilk uçuşunu yaptı",
    "summary": "Tamamen güneş enerjili Light Cavalry, ilk uçuşunu başarıyla gerçekleştirdi. Araç, 30 saate kadar havada kalabilecek ve sabit piste ihtiyaç duymadan havalanabilecek şekilde tasarlandı.",
@@ -649,17 +814,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T18:11:00+00:00",
    "url": "/haber/sok-marketlerde-lenovo-loq-oyuncu-dizustu-modeli-var-025165c2/"
-  },
-  {
-   "id": "136c57fd",
-   "title": "Çinli yapay zekâlar kullanımda zirvedeler ama gelir üretmekte zorlanıyorlar",
-   "summary": "Çinli yapay zekâ şirketleri, dikkat çekici modellerle ABD'li rakiplerine meydan okusa da gelir tarafında farkı kapatamıyor. Gelir konusunda Çinli şirketlerle Batılı rakipleri arasında uçurum var.",
-   "link": "https://www.donanimhaber.com/cinli-yapay-zek-lar-kullanimda-zirvede-ama-gelirde-cok-gerilerde--212825",
-   "image": "https://www.donanimhaber.com/images/images/haber/212825/1200x675cinli-yapay-zek-lar-kullanimda-zirvede-ama-gelirde-cok-gerilerde.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-12T17:50:00+00:00",
-   "url": "/haber/cinli-yapay-zekalar-kullanimda-zirvedeler-ama-gelir-uretmekte-zorlaniy-136c57fd/"
   },
   {
    "id": "21e3412e",
@@ -717,17 +871,6 @@
    "url": "/haber/baskan-trump-istifa-eden-jensen-huang-in-yerine-eski-apple-ceo-su-tim-c224228f/"
   },
   {
-   "id": "62b3e514",
-   "title": "Epic Games Store, yeni oyun hediyesini duyurdu [12 Kasım]",
-   "summary": "Epic Games Store, oyun hediyelerine hız kesmeden devam ediyor. Şirketin bugün ücretsiz olarak verdiği yeni oyun “Knightica” oldu. Yapım için resmi olarak şu açıklama yapıldı: “Güçlü birimler al, onları stratejik olarak…",
-   "link": "https://www.log.com.tr/epic-games-store-yeni-oyun-hediyesini-duyurdu-12-kasim/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/09/epic-games-store-yeni-oyun-hediyelerini-duyurdu-17-eylul-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-12T16:02:58+00:00",
-   "url": "/haber/epic-games-store-yeni-oyun-hediyesini-duyurdu-12-kasim-62b3e514/"
-  },
-  {
    "id": "e246b4a5",
    "title": "Cumhurbaşkanı Erdoğan: Yeşil kalkınma yolculuğumuzu kararlılıkla sürdürüyoruz",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Yeşil kalkınma yolculuğumuzu kararlılıkla sürdürüyoruz. Enerjiden sanayiye, ulaştırmadan tarıma ve binalara tüm sektörlerimizi yeniden yapılandırıyoruz\" dedi.",
@@ -783,17 +926,6 @@
    "url": "/haber/tiktok-un-sahibi-bytedance-ten-yeni-yapay-zeka-hamlesi-meta-muse-a-rak-a7d94719/"
   },
   {
-   "id": "ef866508",
-   "title": "Kırgızistan Bakanlar Kurulu Başkanı Kasımaliyev: Kırgızistan ile Türkiye arasındaki ilişkiler özel bir niteliğe sahiptir",
-   "summary": "Kırgızistan Bakanlar Kurulu Başkanı Adılbek Kasımaliyev, Türkiye ile Kırgızistan'ın ortak tarih, kültürel yakınlık ve manevi değerlerle birbirine bağlandığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/kirgizistan-bakanlar-kurulu-baskani-kasimaliyev-kirgizistan-ile-turkiye-arasindaki-iliskiler-ozel-bir-nitelige-sahiptir/4122929",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T14:51:57+00:00",
-   "url": "/haber/kirgizistan-bakanlar-kurulu-baskani-kasimaliyev-kirgizistan-ile-turkiy-ef866508/"
-  },
-  {
    "id": "930d5668",
    "title": "NVIDIA CEO'su Jensen Huang İstifa Etti: İşte Yerine Geçen İsim!",
    "summary": "NVIDIA CEO'su Jensen Huang, ortaya çıkan evlilik dışı ilişki ve casusluk skandallarının ardından görevinden istifa etti.",
@@ -827,17 +959,6 @@
    "url": "/haber/galaxy-s27-nin-duvar-kagitlari-simdiden-ortaya-cikti-iste-samsung-un-y-9050c5af/"
   },
   {
-   "id": "0d63140f",
-   "title": "Samsung ve Google, “Intelligent Eyewear” serisi akıllı gözlüklerini tanıttı",
-   "summary": "Google, “Samsung, Gentle Monster ve Warby Parker” iş birliğiyle hazırlanan ve Android XR işletim sistemiyle çalışan “Intelligent Eyewear” serisini tanıttı. İlk olarak ABD ve Güney Kore’de ön siparişe açılan akıllı…",
-   "link": "https://www.log.com.tr/samsung-ve-google-intelligent-eyewear-serisi-akilli-gozluklerini-tanitti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-12_17-05-22_jAm1h-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-12T14:15:05+00:00",
-   "url": "/haber/samsung-ve-google-intelligent-eyewear-serisi-akilli-gozluklerini-tanit-0d63140f/"
-  },
-  {
    "id": "ce01fd8d",
    "title": "Beyaz Saray çevresinde silah sesleri",
    "summary": "ABD'nin başkenti Washington'da Beyaz Saray'a yakın bölgede düzenlenen silahlı saldırıda ilk belirlemelere göre 1 kişinin hayatını kaybettiği ve 5 kişinin vurulduğu bildirildi.",
@@ -847,39 +968,6 @@
    "category": "gundem",
    "date": "2026-11-12T14:07:00+00:00",
    "url": "/haber/beyaz-saray-cevresinde-silah-sesleri-ce01fd8d/"
-  },
-  {
-   "id": "b16fcd82",
-   "title": "Nvidia CEO’su Jensen Huang istifa etti",
-   "summary": "Nvidia CEO’su Jensen Huang, gündeme gelen büyük gelişmelerin ardından istifa etti. Huang’ın yerine şirketin başına geçici CEO olarak “Colette Kress” geçirildi. Peki bu istifa tam olarak neden geldi? The New York…",
-   "link": "https://www.log.com.tr/nvidia-ceosu-jensen-huang-istifa-etti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-12_16-56-02_NhmrH-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-12T13:56:46+00:00",
-   "url": "/haber/nvidia-ceo-su-jensen-huang-istifa-etti-b16fcd82/"
-  },
-  {
-   "id": "bdc1d1b0",
-   "title": "Samsung Galaxy S27 ailesi bu renk seçenekleriyle gelebilir",
-   "summary": "2027’nin başında tanıtılacak Samsung Galaxy S27 serisinde Galaxy S27, Galaxy S27 Plus, Galaxy S27 Pro ile Galaxy S27 Ultra modelleri yer alacak ve SammyGuru’nun son paylaşımına göre telefonlar pazara yukarıdaki renk…",
-   "link": "https://www.log.com.tr/samsung-galaxy-s27-ailesi-bu-renk-secenekleriyle-gelebilir/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-12_16-45-17_A0Omv-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-12T13:50:15+00:00",
-   "url": "/haber/samsung-galaxy-s27-ailesi-bu-renk-secenekleriyle-gelebilir-bdc1d1b0/"
-  },
-  {
-   "id": "4f5786ba",
-   "title": "İstanbul için uyarılar art arda: Seferler iptal oldu, rüzgar yarın daha da şiddetlenecek",
-   "summary": "İstanbul'da lodos nedeniyle bazı vapur seferleri iptal edildi, metro seferlerinde aksama yaşandı. İGDAŞ vatandaşları baca tıkanmasına karşı uyardı. Rüzgar yarın sabah daha da şiddetlenecek.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-uyarilar-art-arda-seferler-iptal-oldu-ruzgar-yarin-daha-da-siddetlenecek-1750605",
-   "image": "https://images.ntv.com.tr/images/istanbul-lodos-fırtınası-901086.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-12T13:44:46+00:00",
-   "url": "/haber/istanbul-icin-uyarilar-art-arda-seferler-iptal-oldu-ruzgar-yarin-daha-4f5786ba/"
   },
   {
    "id": "8fd99c55",
@@ -948,28 +1036,6 @@
    "url": "/haber/2026-golden-joystick-odulleri-nde-yilin-pc-oyunu-crimson-desert-oldu-207b4bab/"
   },
   {
-   "id": "11f51421",
-   "title": "COP31 katılımcıları Uluslararası Ormancılık Eğitim Merkezi'ni gezdi",
-   "summary": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) dolayısıyla Antalya'ya gelen farklı ülkelerden 62 katılımcı, Orman Genel Müdürlüğünün (OGM) Uluslararası Ormancılık Eğitim…",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31-katilimcilari-uluslararasi-ormancilik-egitim-merkezini-gezdi/4122388",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T11:34:56+00:00",
-   "url": "/haber/cop31-katilimcilari-uluslararasi-ormancilik-egitim-merkezi-ni-gezdi-11f51421/"
-  },
-  {
-   "id": "b79c8662",
-   "title": "OSB'lerdeki Şirketlere Özel Yeşil Dönüşüm Destek Paketi imzalandı",
-   "summary": "Sanayi ve Teknoloji Bakanı Kacır, OSB'lerdeki Şirketlere Özel Yeşil Dönüşüm Destek Paketiyle, organize sanayi bölgelerindeki işletmelerin yeşil dönüşüm yatırımları için finansmana erişiminin kolaylaştırılmasının…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/osblerdeki-sirketlere-ozel-yesil-donusum-destek-paketi-imzalandi/4122376",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T11:31:14+00:00",
-   "url": "/haber/osb-lerdeki-sirketlere-ozel-yesil-donusum-destek-paketi-imzalandi-b79c8662/"
-  },
-  {
    "id": "dc15695b",
    "title": "OpenAI, ChatGPT’deki Gelişmiş ve Standart Ses Modlarını Kaldırıyor",
    "summary": "OpenAI, ChatGPT’deki Gelişmiş ve Standart ses modlarını kaldırarak tüm sesli deneyimi GPT-Live modelinde birleştiriyor.",
@@ -1003,17 +1069,6 @@
    "url": "/haber/whatsapp-ios-icin-yepyeni-bir-sekmeyi-test-ediyor-cevrimici-olanlari-a-4f584d26/"
   },
   {
-   "id": "08e31bfa",
-   "title": "Cezayir, 2035'e kadar sera gazı emisyonunu yüzde 14 azaltmayı hedefliyor",
-   "summary": "Cezayir, 2035 yılına kadar sera gazı emisyonlarını yüzde 14 azaltmayı, uluslararası destek sağlanması halinde ise bu oranı yüzde 31'e çıkarmayı hedefliyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/cezayir-2035e-kadar-sera-gazi-emisyonunu-yuzde-14-azaltmayi-hedefliyor/4122369",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T11:27:51+00:00",
-   "url": "/haber/cezayir-2035-e-kadar-sera-gazi-emisyonunu-yuzde-14-azaltmayi-hedefliyo-08e31bfa/"
-  },
-  {
    "id": "c5524f80",
    "title": "MINI Kasım 2026 Güncel İndirimler, Kampanyalar ve Kredi Fırsatları",
    "summary": "Kasım 2026 MINI modellerinde uygulanan indirim, kredi fırsatları ve güncel kampanyalarını inceliyoruz.",
@@ -1025,17 +1080,6 @@
    "url": "/haber/mini-kasim-2026-guncel-indirimler-kampanyalar-ve-kredi-firsatlari-c5524f80/"
   },
   {
-   "id": "ab64f3b1",
-   "title": "Lübnan Başbakanı: İsrail saldırılarında 2023-2024 yılında çevresel kayıplar 512 milyon doları aştı",
-   "summary": "Lübnan Başbakanı Nevvaf Selam, “(Lübnan’da) Uluslararası insancıl hukukun ihlali niteliğindeki İsrail saldırılarından kaynaklanan çevresel kayıplar, 2023-2024 döneminde 512 milyon ABD dolarını aşmış, 2026 yılında da…",
-   "link": "https://www.aa.com.tr/tr/gundem/lubnan-basbakani-israil-saldirilarinda-2023-2024-yilinda-cevresel-kayiplar-512-milyon-dolari-asti/4122283",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T10:52:15+00:00",
-   "url": "/haber/lubnan-basbakani-israil-saldirilarinda-2023-2024-yilinda-cevresel-kayi-ab64f3b1/"
-  },
-  {
    "id": "a298a126",
    "title": "Nothing'in Gizemli Yapay Zekâ Cihazından Yeni Görüntüler Geldi: İşte Tasarımı!",
    "summary": "Nothing, ekranı olmadan sesle çalışan ve neler yapabileceği merak edilen yeni yapay zeka cihazını gösterdi.",
@@ -1045,17 +1089,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T10:46:28+00:00",
    "url": "/haber/nothing-in-gizemli-yapay-zeka-cihazindan-yeni-goruntuler-geldi-iste-ta-a298a126/"
-  },
-  {
-   "id": "85188c76",
-   "title": "Filistin Başbakanı: Gazze insani, çevre ve iklim dahil zorlukların somutlaştığı yerdir",
-   "summary": "Filistin Başbakanı Muhammed Mustafa, \"Gazze insani, çevre ve iklim dahil tüm zorlukların acı verici biçimde somutlaştığı yerdir.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/filistin-basbakani-gazze-insani-cevre-ve-iklim-dahil-zorluklarin-somutlastigi-yerdir/4122258",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T10:39:23+00:00",
-   "url": "/haber/filistin-basbakani-gazze-insani-cevre-ve-iklim-dahil-zorluklarin-somut-85188c76/"
   },
   {
    "id": "d32c2af2",
@@ -1091,17 +1124,6 @@
    "url": "/haber/hurmuz-bogazi-nda-gemilere-saldirilar-artarak-suruyor-8d989484/"
   },
   {
-   "id": "a3cebdac",
-   "title": "Bakan Yumaklı: Krizlere müdahale etmek yerine riskleri önceden yönetmek zorundayız",
-   "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, iklim değişikliğinin su kaynakları üzerindeki etkilerine karşı risklerin önceden yönetilmesi gerektiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-krizlere-mudahale-etmek-yerine-riskleri-onceden-yonetmek-zorundayiz/4122084",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T09:15:23+00:00",
-   "url": "/haber/bakan-yumakli-krizlere-mudahale-etmek-yerine-riskleri-onceden-yonetmek-a3cebdac/"
-  },
-  {
    "id": "251a2795",
    "title": "Araştırma: 'Escitalopram' depresyonun nüksetmesini engellemede daha etkili bir ilaç",
    "summary": "Üç ilaç en üst sırada yer aldı ve çok sayıda hastada depresyonun yeniden ortaya çıkmasını önlemede Prozac'tan daha iyi performans gösterdi.",
@@ -1111,28 +1133,6 @@
    "category": "gundem",
    "date": "2026-11-12T08:49:05+00:00",
    "url": "/haber/arastirma-escitalopram-depresyonun-nuksetmesini-engellemede-daha-etkil-251a2795/"
-  },
-  {
-   "id": "4d45f6ee",
-   "title": "Sağlık Bakanlığının \"Antalya Dayanıklı Sağlık Sistemleri Girişimi\"ne ülkelerden ilgi",
-   "summary": "Sağlık Bakanlığı Avrupa Birliği ve Dış İlişkiler Genel Müdürü Dr. Aziz Alper Biten, COP31 kapsamında başlatılan \"Antalya Dayanıklı Sağlık Sistemleri (AIR) Girişimi\"ne ülkelerin sağlık bakanları düzeyinde ilgi…",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakanliginin-antalya-dayanikli-saglik-sistemleri-girisimine-ulkelerden-ilgi/4121993",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T08:47:48+00:00",
-   "url": "/haber/saglik-bakanliginin-antalya-dayanikli-saglik-sistemleri-girisimi-ne-ul-4d45f6ee/"
-  },
-  {
-   "id": "ac772145",
-   "title": "Türk Telekom, sürdürülebilir teknoloji çözümlerini COP31'de tanıtıyor",
-   "summary": "Türk Telekom CEO'su Ebubekir Şahin, \"Türk Telekom'un yaptığı bütün çalışmaların temelinde sürdürülebilirlik, geri dönüşüm ve sıfır emisyon var.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekom-surdurulebilir-teknoloji-cozumlerini-cop31de-tanitiyor/4121958",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T08:26:13+00:00",
-   "url": "/haber/turk-telekom-surdurulebilir-teknoloji-cozumlerini-cop31-de-tanitiyor-ac772145/"
   },
   {
    "id": "bf602afd",
