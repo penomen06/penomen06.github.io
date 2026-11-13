@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T02:30:52.868521+00:00",
+ "updated": "2026-11-13T03:01:03.381888+00:00",
  "items": [
+  {
+   "id": "fa747c7f",
+   "title": "ASELSAN ziyaretinde o sistem de görüntülendi",
+   "summary": "Jandarma Genel Komutanı Orgeneral Ali Çardakçı'nın ASELSAN ziyaretinde KORAL-2 görüntülendi. Sistem envantere girmek için gün sayıyor.",
+   "link": "https://shiftdelete.net/koral-2-elektronik-harp-sistemi-aselsan-ziyaret",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/aselsan-koral-2-kapak-1311.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-13T03:00:00+00:00",
+   "url": "/haber/aselsan-ziyaretinde-o-sistem-de-goruntulendi-fa747c7f/"
+  },
   {
    "id": "3ea0c992",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 13 Kasım 2026",
@@ -9,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-13T02:30:00+00:00",
+   "date": "2026-11-13T03:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-3ea0c992/"
+  },
+  {
+   "id": "5d958f49",
+   "title": "Papa, Peru'da istismar mağduru 6 kişiyle bir araya geldi",
+   "summary": "Vatikan Devlet Başkanı Papa 14. Leo'nun, Uruguay ve Arjantin ziyaretlerinin ardından gittiği Peru'da istismar mağduru 6 kişiyle bir araya geldiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/papa-peruda-istismar-magduru-6-kisiyle-bir-araya-geldi/4123559",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T02:53:56+00:00",
+   "url": "/haber/papa-peru-da-istismar-magduru-6-kisiyle-bir-araya-geldi-5d958f49/"
   },
   {
    "id": "dbf3f8de",
@@ -143,17 +165,6 @@
    "category": "gundem",
    "date": "2026-11-12T21:01:41+00:00",
    "url": "/haber/israil-de-netanyahu-hukumetinin-iran-a-savas-acma-yetkisi-olup-olmadig-cd2e9820/"
-  },
-  {
-   "id": "4a7901f3",
-   "title": "Cerrahi alet üretiminde dışa bağımlılığı azaltacak proje: HASDÖV",
-   "summary": "Türkiye'nin önemli cerrahi alet üretim merkezlerinden Samsun'da, sektörün ithal yarı mamul ihtiyacını azaltmak amacıyla Hassas Sıcak Dövme Uygulama Merkezi (HASDÖV) projesi hayata geçiriliyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/cerrahi-alet-uretiminde-disa-bagimliligi-azaltacak-proje-hasdov/4123483",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-12T21:00:32+00:00",
-   "url": "/haber/cerrahi-alet-uretiminde-disa-bagimliligi-azaltacak-proje-hasdov-4a7901f3/"
   },
   {
    "id": "2c10c973",
@@ -572,17 +583,6 @@
    "category": "teknoloji",
    "date": "2026-11-12T16:30:00+00:00",
    "url": "/haber/2027-de-genis-katlanabilir-yarisi-kizisabilir-b215c06d/"
-  },
-  {
-   "id": "a1f523a3",
-   "title": "Trump'ın Nvidia için tek bir adayı var",
-   "summary": "Trump, Truth Social'da Jensen Huang'ın yerine Nvidia'ya Tim Cook'u önerdi.",
-   "link": "https://shiftdelete.net/trump-tim-cook-nvidia-ceo-onerisi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/trump-tim-cook-nvidia-kapak-1211.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-12T16:29:56+00:00",
-   "url": "/haber/trump-in-nvidia-icin-tek-bir-adayi-var-a1f523a3/"
   },
   {
    "id": "15e32a99",
