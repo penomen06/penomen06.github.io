@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-14T15:01:01.992403+00:00",
+ "updated": "2026-11-14T15:31:02.532675+00:00",
  "items": [
+  {
+   "id": "6504b719",
+   "title": "Fenerbahçe Teknik Direktörü Emre Belözoğlu'nun hedefi güçlü oyun",
+   "summary": "Fenerbahçe Teknik Direktörü Emre Belözoğlu, sarı-lacivertli takımda kazanma odaklı, net planları olan ve savunma planlarının artacağı bir oyun hedeflediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-teknik-direktoru-emre-belozoglunun-hedefi-guclu-oyun/4125283",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T15:18:12+00:00",
+   "url": "/haber/fenerbahce-teknik-direktoru-emre-belozoglu-nun-hedefi-guclu-oyun-6504b719/"
+  },
+  {
+   "id": "7eeb028c",
+   "title": "Yeni Parti'nin ilk kurultayında Özel yeniden genel başkan: 'Seçimi kazanacak cesarete sahibiz'",
+   "summary": "Yeni Parti, ilk olağan \"Kuruluş Kurultayı\"nı 14-15 Kasım tarihlerinde Ankara'da gerçekleştiriyor. Kurultayın ilk gününde Özgür Özel konuşmasına, \"Bu salonda yenilgiyi kabul kaybetmeyenleri, teslim olmayanları görüyorum\"…",
+   "link": "https://www.bbc.com/turkce/articles/cq1k9n3d3vrvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0089/live/b2ed94e0-e00c-11f1-9fd4-8b3c9f9dfc89.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-14T15:12:47+00:00",
+   "url": "/haber/yeni-parti-nin-ilk-kurultayinda-ozel-yeniden-genel-baskan-secimi-kazan-7eeb028c/"
+  },
+  {
+   "id": "ec0a9e5c",
+   "title": "MHP Genel Başkanı Bahçeli'den KKTC'nin 43. kuruluş yıl dönümü mesajı",
+   "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Kıbrıs Türk Devleti'nin yaşatılması, egemenliğinin güçlendirilmesi ve uluslararası alanda hak ettiği konuma ulaşması, milli davamızın vazgeçilmez hedefidir.\" ifadelerini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceliden-kktcnin-43-kurulus-yil-donumu-mesaji/4125279",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T15:10:22+00:00",
+   "url": "/haber/mhp-genel-baskani-bahceli-den-kktc-nin-43-kurulus-yil-donumu-mesaji-ec0a9e5c/"
+  },
+  {
+   "id": "314d21b4",
+   "title": "HMD'nin yeni tuşlu katlanırında telsiz var",
+   "summary": "HMD 2320 Flip 4G'nin özellikleri ortaya çıktı. Tuşlu katlanır telefon, 2,4 inç ekran, Unisoc T127, GPS ve telsiz özelliğiyle geliyor. Belleği ise çok sınırlı.",
+   "link": "https://shiftdelete.net/hmd-2320-flip-4g-ozellikleri-ortaya-cikti",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/hmd-2320-flip-4g-kapak-1411.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-14T15:10:00+00:00",
+   "url": "/haber/hmd-nin-yeni-tuslu-katlanirinda-telsiz-var-314d21b4/"
+  },
+  {
+   "id": "c64e5073",
+   "title": "Malatya şehitlerine acı veda",
+   "summary": "Helikopter kazasında hayatını kaybeden pilotlar Binbaşı Orhun Pınar, Binbaşı Erdem Çimen, Astsubay Kıdemli Üstçavuş Hüseyin Zehir ve Astsubay Kıdemli Çavuş Serkan Önder son yolculuklarına uğurlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-malatya-sehitlerine-aci-veda-1750816",
+   "image": "https://images.ntv.com.tr/images/şehit-son-368264.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-14T15:09:03+00:00",
+   "url": "/haber/malatya-sehitlerine-aci-veda-c64e5073/"
+  },
   {
    "id": "71d235f0",
    "title": "GTA 6'da şaşırtan açık: Kodlar kutu açılmadan çalınabilir",
@@ -11,6 +66,17 @@
    "category": "teknoloji",
    "date": "2026-11-14T15:00:00+00:00",
    "url": "/haber/gta-6-da-sasirtan-acik-kodlar-kutu-acilmadan-calinabilir-71d235f0/"
+  },
+  {
+   "id": "2661c4d2",
+   "title": "Portekiz halkı konut krizini protesto için 30'dan fazla şehirde meydanlara çıktı",
+   "summary": "Portekiz'de konut krizini protesto etmek için binlerce kişi 30'dan fazla şehirde meydanlara çıktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/portekiz-halki-konut-krizini-protesto-icin-30dan-fazla-sehirde-meydanlara-cikti/4125273",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T14:59:46+00:00",
+   "url": "/haber/portekiz-halki-konut-krizini-protesto-icin-30-dan-fazla-sehirde-meydan-2661c4d2/"
   },
   {
    "id": "e2e7cd63",
@@ -35,17 +101,6 @@
    "url": "/haber/cop31-de-iklim-politikalarinda-genclerin-rolu-ele-alindi-fa7f1b49/"
   },
   {
-   "id": "c64e5073",
-   "title": "Malatya şehitlerine acı veda",
-   "summary": "Helikopter kazasında hayatını kaybeden pilotlar Binbaşı Orhun Pınar, Binbaşı Erdem Çimen, Astsubay Kıdemli Üstçavuş Hüseyin Zehir ve Astsubay Kıdemli Çavuş Serkan Önder son yolculuklarına uğurlanıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-malatya-sehitlerine-aci-veda-1750816",
-   "image": "https://images.ntv.com.tr/images/şehit-son-368264.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-14T14:40:35+00:00",
-   "url": "/haber/malatya-sehitlerine-aci-veda-c64e5073/"
-  },
-  {
    "id": "91bf778d",
    "title": "Starlink'in yeni nesil uydularında iki hedef var",
    "summary": "SpaceX, yeni nesil Starlink V4 uyduları üzerinde çalışıyor. Şirket güç sistemini büyütmeyi ve ısıyı daha verimli atmayı hedefliyor, ancak tarih verilmedi.",
@@ -68,17 +123,6 @@
    "url": "/haber/twitch-canli-yayinlarda-on-binlerce-gta-6-ultimate-edition-kodu-dagita-08e66db4/"
   },
   {
-   "id": "7eeb028c",
-   "title": "Yeni Parti'nin ilk kurultayında Özgür Özel genel başkan seçildi",
-   "summary": "Yeni Parti, ilk olağan \"Kuruluş Kurultayı\"nı 14-15 Kasım tarihlerinde Ankara'da gerçekleştiriyor. Kurultayın ilk gününde Özgür Özel konuşmasına, \"Bu salonda yenilgiyi kabul kaybetmeyenleri, teslim olmayanları görüyorum\"…",
-   "link": "https://www.bbc.com/turkce/articles/cq1k9n3d3vrvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0089/live/b2ed94e0-e00c-11f1-9fd4-8b3c9f9dfc89.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-14T14:28:13+00:00",
-   "url": "/haber/yeni-parti-nin-ilk-kurultayinda-ozgur-ozel-genel-baskan-secildi-7eeb028c/"
-  },
-  {
    "id": "8b68677b",
    "title": "Yeni Parti'de ilk kurultay. Özgür Özel yeniden genel başkan seçildi",
    "summary": "Yeni Parti'nin ilk olağan kurultayı yapıldı. Tek aday olarak seçime giren Özgür Özel, yeniden genel başkan seçildi.",
@@ -88,6 +132,17 @@
    "category": "gundem",
    "date": "2026-11-14T14:28:12+00:00",
    "url": "/haber/yeni-parti-de-ilk-kurultay-ozgur-ozel-yeniden-genel-baskan-secildi-8b68677b/"
+  },
+  {
+   "id": "dbe74c30",
+   "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan, Lübnan'da Türkmen köylerini ziyaret etti",
+   "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan ve beraberindeki Türk heyeti, Lübnan'ın kuzeyindeki Akkar bölgesinde yer alan Kavaşra ve Aydamun köylerini ziyaret etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-lubnanda-turkmen-koylerini-ziyaret-etti/4125243",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T14:25:20+00:00",
+   "url": "/haber/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-lubnan-da-turkmen-ko-dbe74c30/"
   },
   {
    "id": "fb1ecf0a",
@@ -244,28 +299,6 @@
    "url": "/haber/ruzgardan-elektrik-uretiminde-tum-zamanlarin-rekoru-kirildi-912485bd/"
   },
   {
-   "id": "1ed4e752",
-   "title": "Türkiye'nin en büyük kuantum bilgisayarı TÜBİTAK bünyesinde 2027'de devreye alınacak",
-   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'nin Milli Teknoloji Hamlesi vizyonu doğrultusunda, ülkenin en büyük kuantum bilgisayarını TÜBİTAK bünyesinde kurmak üzere önemli bir projeye imza attıklarını…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyenin-en-buyuk-kuantum-bilgisayari-tubitak-bunyesinde-2027de-devreye-alinacak/4125194",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T13:12:34+00:00",
-   "url": "/haber/turkiye-nin-en-buyuk-kuantum-bilgisayari-tubitak-bunyesinde-2027-de-de-1ed4e752/"
-  },
-  {
-   "id": "c41c84b5",
-   "title": "Irak'ta Kerkük Valiliğine Türkmen siyasetçi Kahtan Vindavi seçildi",
-   "summary": "Irak'ın Kerkük vilayetinde valilik görevine, Irak Türkmen Cephesi (ITC) Kerkük İl Başkanı Kahtan Vindavi seçildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/irakta-kerkuk-valiligine-turkmen-siyasetci-kahtan-vindavi-secildi/4125192",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T13:12:25+00:00",
-   "url": "/haber/irak-ta-kerkuk-valiligine-turkmen-siyasetci-kahtan-vindavi-secildi-c41c84b5/"
-  },
-  {
    "id": "48557a12",
    "title": "AMD'nin masaüstü yükselişi bu çeyrekte durdu",
    "summary": "Mercury Research'e göre AMD'nin masaüstü işlemci payı üçüncü çeyrekte yüzde 34,9'dan yüzde 29,9'a düştü; Intel yüzde 70,1'e yükseldi.",
@@ -297,17 +330,6 @@
    "category": "gundem",
    "date": "2026-11-14T13:06:03+00:00",
    "url": "/haber/filistin-devlet-baskani-abbas-filistin-halki-bagimsiz-devlet-kurma-hak-e95dcbd6/"
-  },
-  {
-   "id": "9f855060",
-   "title": "Türkiye ve 17 ülke İsrail'in Nasır Hastanesi'ne saldırısını en güçlü şekilde kınadı",
-   "summary": "Türkiye ve 17 ülke, İsrail'in Han Yunus'taki Nasır Hastanesi'ne düzenlediği hava saldırısını en güçlü şekilde kınadı.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-ve-17-ulke-israilin-nasir-hastanesine-saldirisini-en-guclu-sekilde-kinadi/4125179",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T13:04:28+00:00",
-   "url": "/haber/turkiye-ve-17-ulke-israil-in-nasir-hastanesi-ne-saldirisini-en-guclu-s-9f855060/"
   },
   {
    "id": "80cce85f",
@@ -396,17 +418,6 @@
    "category": "gundem",
    "date": "2026-11-14T12:38:55+00:00",
    "url": "/haber/cumhurbaskani-erdogan-bolivya-cumhurbaskani-pereira-ile-gorustu-a25b8c8f/"
-  },
-  {
-   "id": "603754be",
-   "title": "\"Ölü Arının İğnesi\" ve \"Bir Anne Hakkında\" filmleri, Boğaziçi Film Festivali'nde izleyicilerle buluştu",
-   "summary": "Boğaziçi Kültür Sanat Vakfı tarafından düzenlenen \"14. Boğaziçi Film Festivali\", ulusal ve uluslararası yarışmalardan filmleri izleyicilerle buluşturuyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/olu-arinin-ignesi-ve-bir-anne-hakkinda-filmleri-bogazici-film-festivalinde-izleyicilerle-bulustu/4125140",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T12:35:54+00:00",
-   "url": "/haber/olu-arinin-ignesi-ve-bir-anne-hakkinda-filmleri-bogazici-film-festival-603754be/"
   },
   {
    "id": "20570b92",
@@ -759,17 +770,6 @@
    "category": "teknoloji",
    "date": "2026-11-14T08:37:04+00:00",
    "url": "/haber/keychron-dan-topu-ayarlanabilen-yeni-trackball-fare-t1-he-3707b67e/"
-  },
-  {
-   "id": "662c6205",
-   "title": "God of War'un 2D macerası PS4'e geliyor",
-   "summary": "God of War Sons of Sparta, PS5'e çıkışından dokuz ay sonra PS4'e geliyor. Oyun 16 Kasım'da yayımlanacak ve iki yeni modla güncellenecek.",
-   "link": "https://shiftdelete.net/god-of-war-sons-of-sparta-ps4-16-kasim",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/god-of-war-sons-of-sparta-ps4-kapak-1411.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-14T08:32:02+00:00",
-   "url": "/haber/god-of-war-un-2d-macerasi-ps4-e-geliyor-662c6205/"
   },
   {
    "id": "f8c6fc9b",
