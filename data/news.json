@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:30:53.682419+00:00",
+ "updated": "2026-11-14T23:01:04.106078+00:00",
  "items": [
   {
    "id": "e7cbb919",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-14T22:30:00+00:00",
+   "date": "2026-11-14T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-e7cbb919/"
+  },
+  {
+   "id": "6fc7b703",
+   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Fon tasfiyesinde devlet bütçesinden bir lira kullanılmadı",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fonların tasfiyesi için devlet bütçesinden bir lira bile kullanılmasını belirtirken, \"Bugüne kadar 444 bin 987 tekil yatırımcıya ödeme yapıldı\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiyesinde-devlet-butcesinden-bir-lira-kullanilmadi-1750897",
+   "image": "https://images.ntv.com.tr/images/cevdetyılmaz-180908(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-14T22:55:33+00:00",
+   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiyesinde-devlet-butcesinden-bi-6fc7b703/"
+  },
+  {
+   "id": "b2d74814",
+   "title": "Berlin’de sosyal harcama kesintileri ve zorunlu askerlik planı protestosuna polisten sert müdahale",
+   "summary": "Almanya’nın başkenti Berlin’de sosyal harcamalardaki kesintilere ve hükümetin zorunlu askerlik planına karşı düzenlenen eylemde polis göstericilere sert müdahale etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/berlin-de-sosyal-harcama-kesintileri-ve-zorunlu-askerlik-plani-protestosuna-polisten-sert-mudahale/4125455",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T22:24:52+00:00",
+   "url": "/haber/berlin-de-sosyal-harcama-kesintileri-ve-zorunlu-askerlik-plani-protest-b2d74814/"
   },
   {
    "id": "45b6338f",
@@ -145,17 +167,6 @@
    "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-adli-ve-yargi-kurumlarimiz-fon-sorustu-99f7f3f9/"
   },
   {
-   "id": "6fc7b703",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Fon tasfiyesinde devlet bütçesinden bir lira kullanılmadı",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fonların tasfiyesi için devlet bütçesinden bir lira bile kullanılmasını belirtirken, \"Bugüne kadar 444 bin 987 tekil yatırımcıya ödeme yapıldı\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiyesinde-devlet-butcesinden-bir-lira-kullanilmadi-1750897",
-   "image": "https://images.ntv.com.tr/images/cevdetyılmaz-180908(3).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-14T20:24:28+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiyesinde-devlet-butcesinden-bi-6fc7b703/"
-  },
-  {
    "id": "1d49ce7c",
    "title": "Huang gitti, yapay zeka girişimleri ne yapacak?",
    "summary": "Yatırımcılara göre Jensen Huang'ın Nvidia'dan ayrılması, şirketin bu yıl 105 tura katıldığı yapay zeka girişim finansmanında büyük bir boşluk açıyor.",
@@ -242,17 +253,6 @@
    "category": "teknoloji",
    "date": "2026-11-14T19:00:00+00:00",
    "url": "/haber/yeni-apple-tv-4k-cikti-eski-modellere-siri-ai-guncellemesi-49467888/"
-  },
-  {
-   "id": "e167d521",
-   "title": "Anadolu Ateşi COP31'de sahne aldı",
-   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Anadolu Ateşi dans topluluğu gösteri sundu.",
-   "link": "https://www.aa.com.tr/tr/kultur/anadolu-atesi-cop31de-sahne-aldi-/4125397",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T18:54:12+00:00",
-   "url": "/haber/anadolu-atesi-cop31-de-sahne-aldi-e167d521/"
   },
   {
    "id": "7e72425d",
@@ -409,17 +409,6 @@
    "url": "/haber/malatya-da-sehit-olan-askerlerimiz-son-yolculuklarina-ugurlandi-637387b6/"
   },
   {
-   "id": "1826d8fd",
-   "title": "Rafadan Tayfa'nın yeni filmi \"Gordion\" 25 Aralık'ta vizyona girecek",
-   "summary": "TRT ve ISF Studios ortak yapımı \"Rafadan Tayfa Gordion\" filmi, 25 Aralık'ta izleyiciyle buluşacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/rafadan-tayfanin-yeni-filmi-gordion-25-aralikta-vizyona-girecek/4125325",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T16:43:26+00:00",
-   "url": "/haber/rafadan-tayfa-nin-yeni-filmi-gordion-25-aralik-ta-vizyona-girecek-1826d8fd/"
-  },
-  {
    "id": "17f1d5df",
    "title": "6,3 inçlik kompakt telefonun ekranı dar çerçeveli",
    "summary": "6,3 inç ekranlı telefon geliştiriliyor. Digital Chat Station'a göre cihaz 1,5K çözünürlüklü LTPO ekran ve LIPO ile çok ince çerçeve sunacak.",
@@ -451,6 +440,17 @@
    "category": "gundem",
    "date": "2026-11-14T16:25:54+00:00",
    "url": "/haber/cobanlar-grubu-na-operasyon-1-milyar-550-milyon-lira-degerinde-malvarl-56fd9f9f/"
+  },
+  {
+   "id": "17acff91",
+   "title": "COP31'de elektrifikasyonun 2035'e kadar yüzde 35'e çıkarılması hedefi ele alındı",
+   "summary": "COP31 kapsamında düzenlenen panelde, küresel elektrik kullanımının payının 2035'e kadar yüzde 35'e, 2050'ye kadar yüzde 50'ye çıkarılması hedefi ve bu doğrultuda atılması gereken adımlar ele alındı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-elektrifikasyonun-2035e-kadar-yuzde-35e-cikarilmasi-hedefi-ele-alindi/4125315",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T16:21:03+00:00",
+   "url": "/haber/cop31-de-elektrifikasyonun-2035-e-kadar-yuzde-35-e-cikarilmasi-hedefi-17acff91/"
   },
   {
    "id": "d186c327",
