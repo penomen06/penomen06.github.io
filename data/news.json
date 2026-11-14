@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T04:01:05.812881+00:00",
+ "updated": "2026-11-14T04:30:54.410466+00:00",
  "items": [
   {
    "id": "03298c9f",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-14T04:00:00+00:00",
+   "date": "2026-11-14T04:30:01+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-03298c9f/"
+  },
+  {
+   "id": "ed61bdfd",
+   "title": "Twitch yayınlarında GTA 6 kodları dağıtılacak",
+   "summary": "GTA 6 Twitch drops etkinliği TwitchCon 2026'da duyuruldu. Yayın izleyenler 19-30 Kasım arasında ücretsiz Ultimate Edition kodu kazanabilecek.",
+   "link": "https://shiftdelete.net/gta-6-twitch-drops-ucretsiz-ultimate-edition-kodu",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/gta-6-twitch-drops-kapak-1411.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-14T04:30:00+00:00",
+   "url": "/haber/twitch-yayinlarinda-gta-6-kodlari-dagitilacak-ed61bdfd/"
   },
   {
    "id": "b9c3ce45",
@@ -704,17 +715,6 @@
    "category": "gundem",
    "date": "2026-11-13T14:32:08+00:00",
    "url": "/haber/teb-genel-muduru-umit-leblebici-ntv-ye-konustu-elektrifikasyon-kacinil-87ffd499/"
-  },
-  {
-   "id": "3bd778cf",
-   "title": "GTA 6'nın çevrim içi modu için yeni sızıntı",
-   "summary": "GTA 6 Online'ın çıkış zamanına dair ipucu, Bloomberg Originals'ın yayımladığı bir videodan geldi. Anlatıcıya göre çok oyunculu mod ana oyundan yaklaşık bir yıl sonra gelecek.",
-   "link": "https://shiftdelete.net/gta-6-online-cikis-zamani-sizdi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/gta-6-online-cikis-donemi-kapak-1311.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-13T14:30:00+00:00",
-   "url": "/haber/gta-6-nin-cevrim-ici-modu-icin-yeni-sizinti-3bd778cf/"
   },
   {
    "id": "c42291cc",
