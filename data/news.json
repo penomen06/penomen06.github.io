@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-14T10:13:07.029616+00:00",
+ "updated": "2026-11-14T10:30:50.963872+00:00",
  "items": [
+  {
+   "id": "1202a7fa",
+   "title": "ŞOK marketlerde Tchibo ürün geçidi var",
+   "summary": "14 Kasım ŞOK aktüel teknoloji ürünleri arasında Tchibo markasına ait Esperto 2 Süt tam otomatik kahve makinesi ve Esperto Mini espresso makinesi yer alıyor.",
+   "link": "https://www.donanimhaber.com/14-kasim-sok-aktuel-katalogunda-neler-var--212906",
+   "image": "https://www.donanimhaber.com/images/images/haber/212906/1200x67514-kasim-sok-aktuel-katalogunda-neler-var.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-14T10:30:00+00:00",
+   "url": "/haber/sok-marketlerde-tchibo-urun-gecidi-var-1202a7fa/"
+  },
+  {
+   "id": "7eeb028c",
+   "title": "Yeni Parti kuruluş kurultayını Ankara'da yapıyor: 'Teslim olmayanlar burada'",
+   "summary": "Yeni Parti, ilk olağan \"Kuruluş Kurultayı\"nı 14-15 Kasım tarihlerinde Ankara'da gerçekleştiriyor. Kurultayın ilk gününde Özgür Özel konuşmasına, \"Bu salonda yenilgiyi kabul kaybetmeyenleri, teslim olmayanları görüyorum\"…",
+   "link": "https://www.bbc.com/turkce/articles/cq1k9n3d3vrvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0089/live/b2ed94e0-e00c-11f1-9fd4-8b3c9f9dfc89.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-14T10:20:57+00:00",
+   "url": "/haber/yeni-parti-kurulus-kurultayini-ankara-da-yapiyor-teslim-olmayanlar-bur-7eeb028c/"
+  },
+  {
+   "id": "c64e5073",
+   "title": "Malatya şehitlerine acı veda",
+   "summary": "Malatya'daki helikopter kazasında hayatını kaybeden 4 şehit bugün son yolculuklarına uğurlanıyor. Şehit Pilot Binbaşı Orhun Pınar'ın cenaze törenine MHP lideri Devlet Bahçeli de katıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-malatya-sehitlerine-aci-veda-1750816",
+   "image": "https://images.ntv.com.tr/images/şehit-son-368264.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-14T10:15:31+00:00",
+   "url": "/haber/malatya-sehitlerine-aci-veda-c64e5073/"
+  },
+  {
+   "id": "9c1e8f8d",
+   "title": "Bakan Kurum, Kübalı mevkidaşları Gregorich ve Batista ile görüştü",
+   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Küba Cumhuriyeti Ulusal Fiziki Planlama ve Şehircilik Bakanı Raul Omar Acosta Gregorich ve Bilim, Teknoloji ve Çevre Bakanı Armando Rodriguez…",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-kubali-mevkidaslari-gregorich-ve-batista-ile-gorustu/4125028",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T10:10:58+00:00",
+   "url": "/haber/bakan-kurum-kubali-mevkidaslari-gregorich-ve-batista-ile-gorustu-9c1e8f8d/"
+  },
   {
    "id": "9b958c95",
    "title": "Geralt'ın Lehçe sesi yapay zekayla korunuyor",
@@ -35,17 +79,6 @@
    "url": "/haber/istanbul-da-etkili-olan-firtinada-112-acil-cagri-merkezi-ne-198-ihbar-06d47e12/"
   },
   {
-   "id": "c64e5073",
-   "title": "Malatya şehitlerine acı veda",
-   "summary": "Malatya'daki helikopter kazasında hayatını kaybeden 4 şehit bugün son yolculuklarına uğurlanıyor. Şehit Pilot Binbaşı Orhun Pınar'ın cenaze törenine MHP lideri Devlet Bahçeli de katıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-malatya-sehitlerine-aci-veda-1750816",
-   "image": "https://images.ntv.com.tr/images/şehit-son-368264.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-14T10:03:08+00:00",
-   "url": "/haber/malatya-sehitlerine-aci-veda-c64e5073/"
-  },
-  {
    "id": "53cb9323",
    "title": "Siber suçlara yönelik 7 ilde düzenlenen operasyonlarda 12 şüpheli yakalandı",
    "summary": "Gaziantep merkezli 7 ilde \"Bilişim sistemlerini kullanarak nitelikli dolandırıcılık\" suçuna yönelik düzenlenen operasyonlarda 12 şüpheli yakalandı.",
@@ -70,7 +103,7 @@
   {
    "id": "bc4d7554",
    "title": "Bora Durmuşoğlu, çocuk medyasında temiz içerik üretiminin önemini değerlendirdi",
-   "summary": "TRT ve TRT Çocuk'ta görev yapan Bora Durmuşoğlu, Türkiye'nin Güney Kore'nin sanatçı, yatırımcı ve yayıncıları buluşturan üretim modelini örnek alarak küresel ekonomik değerini ve temiz içerik üzerinden kültürel…",
+   "summary": "Uzun yıllar TRT ve TRT Çocuk'ta görev yapan Bora Durmuşoğlu, Türkiye'nin Güney Kore'nin sanatçı, yatırımcı ve yayıncıları buluşturan modelini örnek alarak ekonomik değerini ve temiz içerikle kültürel ihracatını…",
    "link": "https://www.aa.com.tr/tr/kultur/bora-durmusoglu-cocuk-medyasinda-temiz-icerik-uretiminin-onemini-degerlendirdi/4125020",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -121,17 +154,6 @@
    "category": "gundem",
    "date": "2026-11-14T09:51:24+00:00",
    "url": "/haber/turkiye-ile-singapur-arasinda-jetco-protokolu-imzalandi-8592f913/"
-  },
-  {
-   "id": "7eeb028c",
-   "title": "Yeni Parti kuruluş kurultayını Ankara'da yapıyor: 'Teslim olmayanlar burada'",
-   "summary": "Yeni Parti, ilk olağan \"Kuruluş Kurultayı\"nı 14-15 Kasım tarihlerinde Ankara'da gerçekleştiriyor. Kurultayın ilk gününde Özgür Özel konuşmasına, \"Bu salonda yenilgiyi kabul kaybetmeyenleri, teslim olmayanları görüyorum\"…",
-   "link": "https://www.bbc.com/turkce/articles/cq1k9n3d3vrvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0089/live/b2ed94e0-e00c-11f1-9fd4-8b3c9f9dfc89.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-14T09:48:18+00:00",
-   "url": "/haber/yeni-parti-kurulus-kurultayini-ankara-da-yapiyor-teslim-olmayanlar-bur-7eeb028c/"
   },
   {
    "id": "6c69ae63",
@@ -187,17 +209,6 @@
    "category": "gundem",
    "date": "2026-11-14T09:13:22+00:00",
    "url": "/haber/diyabet-nedir-ne-yapmak-gerekir-d0205062/"
-  },
-  {
-   "id": "dd1eacbf",
-   "title": "Malatya'da şehit olan 3 asker için Ankara'da tören düzenlendi",
-   "summary": "Malatya'da S-70 tipi helikopterin kaza kırıma uğraması sonucu şehit olan Kara Pilot Binbaşı Çimen, Uçuş Helikopter Teknisyeni Astsubay Kıdemli Üstçavuş Zehir ve Uçuş Helikopter Teknisyeni Astsubay Kıdemli Çavuş Önder…",
-   "link": "https://www.aa.com.tr/tr/gundem/malatyada-sehit-olan-3-asker-icin-ankarada-toren-duzenlendi/4124991",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T09:12:19+00:00",
-   "url": "/haber/malatya-da-sehit-olan-3-asker-icin-ankara-da-toren-duzenlendi-dd1eacbf/"
   },
   {
    "id": "8b117dd4",
@@ -308,17 +319,6 @@
    "category": "gundem",
    "date": "2026-11-14T08:41:28+00:00",
    "url": "/haber/sylvester-stallone-rocky-yi-nasil-yaratti-85ff8299/"
-  },
-  {
-   "id": "d495ebea",
-   "title": "Kayseri'nin Akdeniz'e açılan kapısı Yahyalı'daki tarihi kaleler ziyaretçilerini bekliyor",
-   "summary": "Kayseri'nin Yahyalı ilçesinde ticaret yollarının güvenliği için gözetleme, savunma ve haberleşme amacıyla Doğu Roma döneminde inşa edilen 8 kale, ayakta kalan kalıntılarıyla meraklılarını bekliyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/kayserinin-akdenize-acilan-kapisi-yahyalidaki-tarihi-kaleler-ziyaretcilerini-bekliyor/4124971",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T08:40:44+00:00",
-   "url": "/haber/kayseri-nin-akdeniz-e-acilan-kapisi-yahyali-daki-tarihi-kaleler-ziyare-d495ebea/"
   },
   {
    "id": "beec2475",
@@ -970,15 +970,15 @@
    "url": "/haber/turkiye-sigorta-fon-kazancini-tmsf-ye-iade-etti-286830c6/"
   },
   {
-   "id": "fd54aaff",
-   "title": "Gatto'nun yeni fragmanı yayınlandı: Pixar'ın el çizimi ilk animasyon filmi",
-   "summary": "Efsanevi animasyon stüdyosu Pixar'ın el çizimi ilk animasyon filmi olmasıyla dikkat çeken Gatto'nun ilk fragmanı yayınlandı. Önümüzdeki yılın başında sinemaseverlerle buluşacak.",
-   "link": "https://www.donanimhaber.com/gatto-dan-yeni-fragman-pixar-in-el-cizimi-ilk-fil--212888",
-   "image": "https://www.donanimhaber.com/images/images/haber/212888/1200x675gatto-dan-yeni-fragman-pixar-in-el-cizimi-ilk-fil.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-13T19:03:00+00:00",
-   "url": "/haber/gatto-nun-yeni-fragmani-yayinlandi-pixar-in-el-cizimi-ilk-animasyon-fi-fd54aaff/"
+   "id": "cd1471e9",
+   "title": "\"Afrika'nın Kültürel Mirasından İklim Eylemine: Görünmeyen Emek ve Toplumsal Dayanıklılık\" paneli",
+   "summary": "Afrika El Sanatları ve Kültür Evi Derneği tarafından COP31 kapsamında \"Afrika'nın Kültürel Mirasından İklim Eylemine: Görünmeyen Emek ve Toplumsal Dayanıklılık\" paneli düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/afrikanin-kulturel-mirasindan-iklim-eylemine-gorunmeyen-emek-ve-toplumsal-dayaniklilik-paneli/4124663",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T18:16:15+00:00",
+   "url": "/haber/afrika-nin-kulturel-mirasindan-iklim-eylemine-gorunmeyen-emek-ve-toplu-cd1471e9/"
   },
   {
    "id": "a7eb2e38",
