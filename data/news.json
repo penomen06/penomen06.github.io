@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T21:30:54.856336+00:00",
+ "updated": "2026-11-14T22:01:02.306071+00:00",
  "items": [
   {
    "id": "e7cbb919",
@@ -9,19 +9,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-14T21:30:00+00:00",
+   "date": "2026-11-14T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-e7cbb919/"
+  },
+  {
+   "id": "3844cadd",
+   "title": "Starship'te yıllardır beklenen an geldi",
+   "summary": "SpaceX, Starship'in üst kademesini ilk kez Mechazilla kulesinin kollarıyla yakaladı; Super Heavy ilk kademesi ise kuleye dönemedi.",
+   "link": "https://shiftdelete.net/starship-ust-kademe-mechazilla-ilk-yakalama",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/starship-mechazilla-kule-kapak-1511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-14T21:51:48+00:00",
+   "url": "/haber/starship-te-yillardir-beklenen-an-geldi-3844cadd/"
   },
   {
    "id": "b2417cca",
    "title": "Kış lastiği uygulaması başladı. Değiştirmeyen 6 bin lira ceza ödeyecek",
-   "summary": "Zorunlu kış lastiği uygulaması bugün itibarıyla başladı. Kış lastiğine geçmeyen ticari araçlara 6 bin TL ceza yazılacak.",
+   "summary": "Zorunlu kış lastiği uygulaması bugün itibarıyla başladı. Kış lastiğine geçmeyen ticari araçlara 6 bin TL ceza yazılacak. Peki kış lastiği seçiminde nelere dikkat edilmeli, işaretler ne anlama geliyor?",
    "link": "https://www.ntv.com.tr/turkiye/galeri-kis-lastigi-uygulamasi-basladi-degistirmeyen-6-bin-lira-ceza-odeyecek-1750901",
    "image": "https://images.ntv.com.tr/images/lastik-697937.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-14T21:22:11+00:00",
+   "date": "2026-11-14T21:45:25+00:00",
    "url": "/haber/kis-lastigi-uygulamasi-basladi-degistirmeyen-6-bin-lira-ceza-odeyecek-b2417cca/"
+  },
+  {
+   "id": "e8b5e085",
+   "title": "Eisenkot, Netanyahu'nun ulusal birlik hükümeti teklifini \"yeni bir algı operasyonu\" olarak niteledi",
+   "summary": "İsrail'de hükümet kurmakla görevlendirilen Yashar Partisi lideri Gadi Eisenkot, geçici Başbakan Binyamin Netanyahu'nun ulusal birlik hükümeti için masaya ön koşulsuz oturma çağrısının \"yeni bir algı operasyonu\" olduğu…",
+   "link": "https://www.aa.com.tr/tr/dunya/eisenkot-netanyahunun-ulusal-birlik-hukumeti-teklifini-yeni-bir-algi-operasyonu-olarak-niteledi/4125442",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T21:18:22+00:00",
+   "url": "/haber/eisenkot-netanyahu-nun-ulusal-birlik-hukumeti-teklifini-yeni-bir-algi-e8b5e085/"
+  },
+  {
+   "id": "416905e4",
+   "title": "Sinsi ilerleyen diyabete karşı erken tanı ve düzenli kan şekeri kontrolü uyarısı",
+   "summary": "Doç. Dr. Emine Kartal Baykan, belirti vermeden ilerleyebilen diyabetin kalp, böbrek, göz ve sinir sisteminde ciddi hasarlara yol açabileceğini belirterek, erken tanı ve düzenli kan şekeri kontrolünün önemine dikkati…",
+   "link": "https://www.aa.com.tr/tr/gundem/sinsi-ilerleyen-diyabete-karsi-erken-tani-ve-duzenli-kan-sekeri-kontrolu-uyarisi/4125441",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T21:17:16+00:00",
+   "url": "/haber/sinsi-ilerleyen-diyabete-karsi-erken-tani-ve-duzenli-kan-sekeri-kontro-416905e4/"
+  },
+  {
+   "id": "8a8030e4",
+   "title": "30. Uluslararası Ankara Caz Festivali farklı ülkelerden sanatçıları başkentte buluşturacak",
+   "summary": "Bu yıl 30'uncusu düzenlenecek Uluslararası Ankara Caz Festivali, \"Caz Evrenseldir\" temasıyla 16-30 Kasım'da 5 ülkeden konuk sanatçıların katılımıyla müzikseverleri başkentin farklı sahnelerinde buluşturacak.",
+   "link": "https://www.aa.com.tr/tr/kultur/30-uluslararasi-ankara-caz-festivali-farkli-ulkelerden-sanatcilari-baskentte-bulusturacak/4125438",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T21:14:15+00:00",
+   "url": "/haber/30-uluslararasi-ankara-caz-festivali-farkli-ulkelerden-sanatcilari-bas-8a8030e4/"
   },
   {
    "id": "f0e41124",
@@ -286,39 +330,6 @@
    "category": "gundem",
    "date": "2026-11-14T18:00:00+00:00",
    "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-444-bin-987-fon-yatirimcisina-odeme-ya-7bcce3f8/"
-  },
-  {
-   "id": "953af5da",
-   "title": "İsrail'in Gazze Şeridi'ne saldırılarında 2 Filistinli hayatını kaybetti, 7'si yaralandı",
-   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nde düzenlediği saldırılarda 2 Filistinli hayatını kaybetti, aralarında bir kız çocuğunun da bulunduğu 7 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazze-seridine-saldirilarinda-2-filistinli-hayatini-kaybetti-7si-yaralandi/4125367",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T17:59:15+00:00",
-   "url": "/haber/israil-in-gazze-seridi-ne-saldirilarinda-2-filistinli-hayatini-kaybett-953af5da/"
-  },
-  {
-   "id": "a8e1d41c",
-   "title": "ABD'de uçuşların durdurulması kararının ardından hava ulaşımındaki aksamalar sürüyor",
-   "summary": "ABD'de hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu nedeniyle ülke genelinde uçuşların 4 saatten fazla durdurulması sonrasında operasyonlar normale dönerken, hava ulaşımını etkileyen gecikme ve…",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-ucuslarin-durdurulmasi-kararinin-ardindan-hava-ulasimindaki-aksamalar-suruyor/4125365",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T17:57:24+00:00",
-   "url": "/haber/abd-de-ucuslarin-durdurulmasi-kararinin-ardindan-hava-ulasimindaki-aks-a8e1d41c/"
-  },
-  {
-   "id": "bac28296",
-   "title": "Yemen'de İran destekli Husiler ile hükümet güçleri arasındaki çatışmalar sürüyor",
-   "summary": "Yemen'de İran destekli Husiler, ülkenin güneyindeki Aden kentini 2 balistik füzeyle hedef aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemende-iran-destekli-husiler-ile-hukumet-gucleri-arasindaki-catismalar-suruyor/4125360",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T17:44:58+00:00",
-   "url": "/haber/yemen-de-iran-destekli-husiler-ile-hukumet-gucleri-arasindaki-catismal-bac28296/"
   },
   {
    "id": "834627bb",
@@ -638,17 +649,6 @@
    "category": "gundem",
    "date": "2026-11-14T13:50:07+00:00",
    "url": "/haber/bahceli-kibris-turk-devleti-nin-yasatilmasi-milli-davamizin-vazgecilme-6c3fa2e0/"
-  },
-  {
-   "id": "1ab63f29",
-   "title": "Honor'un 2027 amiral gemisinde ekran sürprizi",
-   "summary": "Honor Magic 10 ekranı için yeni bir sızıntı var. Çift katmanlı OLED teknolojisi şimdiye kadar yalnızca RSR modellerinde kullanıldı, ama artık diğer üst seviye modellere de gelebilir.",
-   "link": "https://shiftdelete.net/honor-magic-10-ekrani-cift-katmanli-oled",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/honor-magic-10-cift-katmanli-oled-kapak-1411.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-14T13:40:00+00:00",
-   "url": "/haber/honor-un-2027-amiral-gemisinde-ekran-surprizi-1ab63f29/"
   },
   {
    "id": "65baffb9",
