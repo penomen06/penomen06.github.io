@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-14T16:01:01.568673+00:00",
+ "updated": "2026-11-14T16:31:00.139455+00:00",
  "items": [
+  {
+   "id": "3a8dc6c0",
+   "title": "Uzayda her 8 dakikada bir tekrarlayan gizemli sinyal: Nereden geldiği bulundu",
+   "summary": "Avustralya'daki teleskopların 8 dakikada bir tespit ettiği gizemli radyo sinyalinin kaynağı bulundu. Sinyallerin, Güneş benzeri bir yıldızın yörüngesindeki beyaz cüceden geldiği belirlendi.",
+   "link": "https://www.donanimhaber.com/uzayda-8-dakikada-bir-tekrarlayan-sinyalin-kaynagi-bulundu--212911",
+   "image": "https://www.donanimhaber.com/images/images/haber/212911/1200x675uzayda-8-dakikada-bir-tekrarlayan-sinyalin-kaynagi-bulundu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-14T16:30:00+00:00",
+   "url": "/haber/uzayda-her-8-dakikada-bir-tekrarlayan-gizemli-sinyal-nereden-geldigi-b-3a8dc6c0/"
+  },
+  {
+   "id": "cf578925",
+   "title": "KKTC'nin kuruluş yıl dönümüne özel yayınlar TRT ekranlarında izleyiciyle buluşacak",
+   "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin 43. kuruluş yıl dönümü dolayısıyla TRT, özel yayınlarla izleyici karşısına çıkacak.",
+   "link": "https://www.aa.com.tr/tr/kultur/kktcnin-kurulus-yil-donumune-ozel-yayinlar-trt-ekranlarinda-izleyiciyle-bulusacak/4125318",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T16:27:00+00:00",
+   "url": "/haber/kktc-nin-kurulus-yil-donumune-ozel-yayinlar-trt-ekranlarinda-izleyiciy-cf578925/"
+  },
+  {
+   "id": "56fd9f9f",
+   "title": "\"Çobanlar Grubu\"na operasyon: 1 milyar 550 milyon lira değerinde malvarlığına el konuldu",
+   "summary": "Ankara'da uyuşturucu ticaretinden elde edilen suç gelirlerinin aklanmasına yönelik operasyonda 10 şüpheli gözaltına alınırken, 1 milyar 550 milyon TL değerindeki malvarlığına el konuldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-cobanlar-grubuna-operasyon-1-milyar-550-milyon-lira-degerinde-malvarligina-el-konuldu-1750887",
+   "image": "https://images.ntv.com.tr/images/AW832546_03-327289.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-14T16:25:54+00:00",
+   "url": "/haber/cobanlar-grubu-na-operasyon-1-milyar-550-milyon-lira-degerinde-malvarl-56fd9f9f/"
+  },
+  {
+   "id": "9d6c237d",
+   "title": "Şehit Jandarma Binbaşı Arslan Kulaksız'ın faillerinden biri yakalandı",
+   "summary": "Muş'un Malazgirt ilçesinde 11 yıl önce PKK'lı teröristlerin silahlı saldırısında şehit olan İlçe Jandarma Komutanı Binbaşı Arslan Kulaksız'ın faillerinden biri ile ona yardım ve yataklık eden 2 kişi yakalandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/sehit-jandarma-binbasi-arslan-kulaksizin-faillerinden-biri-yakalandi/4125313",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T16:13:03+00:00",
+   "url": "/haber/sehit-jandarma-binbasi-arslan-kulaksiz-in-faillerinden-biri-yakalandi-9d6c237d/"
+  },
+  {
+   "id": "d186c327",
+   "title": "Huawei'nin giriş seviyesine geniş ekran geliyor",
+   "summary": "Huawei Enjoy geniş ekran form faktörüne geçebilir. Weibo'daki iddiaya göre 2027'de şirketin bütün telefon serileri geniş ekranlı birer model alacak.",
+   "link": "https://shiftdelete.net/huawei-enjoy-genis-ekran-telefon-2027",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/huawei-enjoy-genis-ekran-kapak-1411.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-14T16:10:00+00:00",
+   "url": "/haber/huawei-nin-giris-seviyesine-genis-ekran-geliyor-d186c327/"
+  },
   {
    "id": "fa35ac1f",
    "title": "Samsung Kişiler uygulaması One UI 9.5 ile oyunlara açılıyor",
@@ -11,6 +66,17 @@
    "category": "teknoloji",
    "date": "2026-11-14T16:00:00+00:00",
    "url": "/haber/samsung-kisiler-uygulamasi-one-ui-9-5-ile-oyunlara-aciliyor-fa35ac1f/"
+  },
+  {
+   "id": "b34bd1d1",
+   "title": "Şarkıcı Mustafa Ceceli'den dolandırıcılara karşı videolu uyarı",
+   "summary": "Iğdır'ın kurtuluş yıl dönümü etkinlikleri kapsamında kente gelen şarkıcı Mustafa Ceceli, polis memurlarıyla çektiği videoda vatandaşları dolandırıcılara karşı uyardı.",
+   "link": "https://www.aa.com.tr/tr/kultur/sarkici-mustafa-ceceliden-dolandiricilara-karsi-videolu-uyari/4125306",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T15:52:52+00:00",
+   "url": "/haber/sarkici-mustafa-ceceli-den-dolandiricilara-karsi-videolu-uyari-b34bd1d1/"
   },
   {
    "id": "af10bfa0",
@@ -57,6 +123,17 @@
    "url": "/haber/ak-parti-genel-baskan-yardimcisi-ileri-panelde-konustu-be0dfd2f/"
   },
   {
+   "id": "19be3e0f",
+   "title": "Sultangazi’de 2 İETT otobüsünün çarpıştığı kazada 1 kişi yaralandı",
+   "summary": "Sultangazi’de 2 İETT otobüsünün çarpışması sonucu 1 kişi hafif yaralandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/sultangazi-de-2-iett-otobusunun-carpistigi-kazada-1-kisi-yaralandi/4125298",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T15:40:07+00:00",
+   "url": "/haber/sultangazi-de-2-iett-otobusunun-carpistigi-kazada-1-kisi-yaralandi-19be3e0f/"
+  },
+  {
    "id": "bab92350",
    "title": "Siri, rakiplerine yetişmekte neden zorlanıyor?",
    "summary": "Tom's Guide'ın genel yayın yönetmenine göre Apple'ın yapay zeka destekli Siri'si, HomeView ve Apple TV 4K testlerinde Gemini ve Alexa+'nın gerisinde kaldı.",
@@ -90,17 +167,6 @@
    "url": "/haber/kerkuk-te-yeni-secilen-vali-vendavi-den-siyasi-uzlasiyi-guclendirme-hu-eb68f640/"
   },
   {
-   "id": "6504b719",
-   "title": "Fenerbahçe Teknik Direktörü Emre Belözoğlu'nun hedefi güçlü oyun",
-   "summary": "Fenerbahçe Teknik Direktörü Emre Belözoğlu, sarı-lacivertli takımda kazanma odaklı, net planları olan ve savunma planlarının artacağı bir oyun hedeflediklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-teknik-direktoru-emre-belozoglunun-hedefi-guclu-oyun/4125283",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T15:18:12+00:00",
-   "url": "/haber/fenerbahce-teknik-direktoru-emre-belozoglu-nun-hedefi-guclu-oyun-6504b719/"
-  },
-  {
    "id": "7eeb028c",
    "title": "Yeni Parti'nin ilk kurultayında Özel yeniden genel başkan: 'Seçimi kazanacak cesarete sahibiz'",
    "summary": "Yeni Parti, ilk olağan \"Kuruluş Kurultayı\"nı 14-15 Kasım tarihlerinde Ankara'da gerçekleştiriyor. Kurultayın ilk gününde Özgür Özel konuşmasına, \"Bu salonda yenilgiyi kabul kaybetmeyenleri, teslim olmayanları görüyorum\"…",
@@ -121,17 +187,6 @@
    "category": "gundem",
    "date": "2026-11-14T15:12:28+00:00",
    "url": "/haber/msb-den-estonya-da-konuslu-f-16-ucaklarina-iliskin-paylasim-e4a1e5dc/"
-  },
-  {
-   "id": "ec0a9e5c",
-   "title": "MHP Genel Başkanı Bahçeli'den KKTC'nin 43. kuruluş yıl dönümü mesajı",
-   "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Kıbrıs Türk Devleti'nin yaşatılması, egemenliğinin güçlendirilmesi ve uluslararası alanda hak ettiği konuma ulaşması, milli davamızın vazgeçilmez hedefidir.\" ifadelerini kullandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceliden-kktcnin-43-kurulus-yil-donumu-mesaji/4125279",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T15:10:22+00:00",
-   "url": "/haber/mhp-genel-baskani-bahceli-den-kktc-nin-43-kurulus-yil-donumu-mesaji-ec0a9e5c/"
   },
   {
    "id": "314d21b4",
@@ -156,15 +211,26 @@
    "url": "/haber/gta-6-da-sasirtan-acik-kodlar-kutu-acilmadan-calinabilir-71d235f0/"
   },
   {
-   "id": "2661c4d2",
-   "title": "Portekiz halkı konut krizini protesto için 30'dan fazla şehirde meydanlara çıktı",
-   "summary": "Portekiz'de konut krizini protesto etmek için binlerce kişi 30'dan fazla şehirde meydanlara çıktı.",
-   "link": "https://www.aa.com.tr/tr/dunya/portekiz-halki-konut-krizini-protesto-icin-30dan-fazla-sehirde-meydanlara-cikti/4125273",
+   "id": "5749e71d",
+   "title": "COP31'de sporun gençler ve çevre bilincinin gelişimindeki rolü ele alındı",
+   "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, spor devrimi yaşandığını, spor turizminde de önemli işler yaptıklarını belirterek, sporun rehabilite ettiğini, iyileştirdiğini, özgüveni, paylaşmayı, sorumluluk almayı, takım…",
+   "link": "https://www.aa.com.tr/tr/spor/cop31de-sporun-gencler-ve-cevre-bilincinin-gelisimindeki-rolu-ele-alindi/4125271",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-14T14:59:46+00:00",
-   "url": "/haber/portekiz-halki-konut-krizini-protesto-icin-30-dan-fazla-sehirde-meydan-2661c4d2/"
+   "date": "2026-11-14T14:57:08+00:00",
+   "url": "/haber/cop31-de-sporun-gencler-ve-cevre-bilincinin-gelisimindeki-rolu-ele-ali-5749e71d/"
+  },
+  {
+   "id": "b55130f5",
+   "title": "Türkiye İklim Okulu açılış töreni yapıldı",
+   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Milli Eğitim Bakanlığınca hazırlanan Türkiye İklim Okulu açıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulu-acilis-toreni-yapildi/4125268",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T14:52:38+00:00",
+   "url": "/haber/turkiye-iklim-okulu-acilis-toreni-yapildi-b55130f5/"
   },
   {
    "id": "e2e7cd63",
@@ -187,17 +253,6 @@
    "category": "gundem",
    "date": "2026-11-14T14:48:15+00:00",
    "url": "/haber/oyuncular-cop31-de-turkiye-pavilyonu-ve-copart-i-gezdi-7e7492d6/"
-  },
-  {
-   "id": "fa7f1b49",
-   "title": "COP31'de iklim politikalarında gençlerin rolü ele alındı",
-   "summary": "COP31 kapsamında AK Parti Genel Merkez Kadın Kolları Başkanlığınca düzenlenen \"Geleceğin Değil, Bugünün Karar Ortağı: İklim Politikalarında Gençlerin Sesi\" panelinde, iklim değişikliğiyle mücadelede gençlerin aktif…",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31de-iklim-politikalarinda-genclerin-rolu-ele-alindi/4125263",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T14:45:29+00:00",
-   "url": "/haber/cop31-de-iklim-politikalarinda-genclerin-rolu-ele-alindi-fa7f1b49/"
   },
   {
    "id": "fb3f52e9",
@@ -255,17 +310,6 @@
    "url": "/haber/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-lubnan-da-turkmen-ko-dbe74c30/"
   },
   {
-   "id": "fb1ecf0a",
-   "title": "Bakan Kurum, Gazzeli Saly'nin hikayesini paylaştı",
-   "summary": "COP31 Başkanı Kurum, İsrail'in Gazze'ye yönelik saldırılarında hayatını kaybeden Gazzeli Saly'nin hikayesini paylaşarak \"COP31'de çocuk temasını işlediğimiz bu günde 196 ülkeye Saly ve Gazze'nin dramını hatırlatıyoruz\"…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-gazzeli-salynin-hikayesini-paylasti/4125242",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T14:25:17+00:00",
-   "url": "/haber/bakan-kurum-gazzeli-saly-nin-hikayesini-paylasti-fb1ecf0a/"
-  },
-  {
    "id": "f0e41124",
    "title": "Ankara'da bazı yollar yarın araç trafiğine kapatılacak",
    "summary": "Ankara'da yarın düzenlenecek OYAK 65. Yıl Ankara Koşusu dolayısıyla bazı yollar araç trafiğine kapatılacak.",
@@ -308,17 +352,6 @@
    "category": "teknoloji",
    "date": "2026-11-14T14:00:00+00:00",
    "url": "/haber/direksiyonsuz-tesla-cybercab-satisa-cikiyor-iste-fiyati-c4449a79/"
-  },
-  {
-   "id": "5f97bebb",
-   "title": "COP31 Müzakereler Başkanı Bowen: COP31'in ilk haftasında bir dizi konuda iyi ilerleme kaydettik",
-   "summary": "COP31 Müzakereler Başkanı ve Avustralya İklim Değişikliği ve Enerji Bakanı Chris Bowen, \"COP31'in ilk haftasında bir dizi konuda iyi ilerleme kaydettik.\" diyerek görüşmelerin çok yapıcı bir şekilde sürdüğünü kaydetti.",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31-muzakereler-baskani-bowen-cop31in-ilk-haftasinda-bir-dizi-konuda-iyi-ilerleme-kaydettik/4125227",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T13:53:19+00:00",
-   "url": "/haber/cop31-muzakereler-baskani-bowen-cop31-in-ilk-haftasinda-bir-dizi-konud-5f97bebb/"
   },
   {
    "id": "6c3fa2e0",
@@ -695,17 +728,6 @@
    "url": "/haber/diyabet-nedir-ne-yapmak-gerekir-d0205062/"
   },
   {
-   "id": "8b117dd4",
-   "title": "Cybercab'in 29.990 dolarlık fiyatında ince ayar var",
-   "summary": "Tesla, seçili müşterilere Cybercab siparişi için davet göndermeye başladı. Araç 29.990 dolardan satılıyor ama aylık 299 dolarlık abonelik şart, üstelik yalnızca Texas ve Florida'da çalışıyor.",
-   "link": "https://shiftdelete.net/cybercab-siparisi-29990-dolar-abonelik",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/tesla-cybercab-siparis-kapak-1411.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-14T09:10:00+00:00",
-   "url": "/haber/cybercab-in-29-990-dolarlik-fiyatinda-ince-ayar-var-8b117dd4/"
-  },
-  {
    "id": "2a952ea0",
    "title": "Honda, yeni “CBR1000RR-R Fireblade” serisini tanıttı",
    "summary": "Seride kullanılan parçaların yaklaşık yüzde 75’inin 2027 model yılı için yeniden tasarlandığını belirten Honda, titanyum yakıt tankının kullanıldığı CBR1000RR-R Fireblade’i “Fireblade, Fireblade SP ve Fireblade HRC…",
@@ -750,17 +772,6 @@
    "url": "/haber/elektrikli-dacia-sandero-geliyor-fiat-grizzly-kac-tl-olur-oto-gundem-05d03b25/"
   },
   {
-   "id": "98b0cdb2",
-   "title": "Yargıtay'dan boşanma davasında dikkat çeken karar. Eski sevgiliyle mesajları silmemek kusur sayıldı",
-   "summary": "Yargıtay, bir boşanma davasında eski sevgiliyle yapılan mesajlaşmaların silinmemesini kusur olarak değerlendirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/yargitaydan-bosanma-davasinda-dikkat-ceken-karar-eski-sevgiliyle-mesajlari-silmemek-kusur-sayildi-1750818",
-   "image": "https://images.ntv.com.tr/images/images-835623.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-14T09:00:12+00:00",
-   "url": "/haber/yargitay-dan-bosanma-davasinda-dikkat-ceken-karar-eski-sevgiliyle-mesa-98b0cdb2/"
-  },
-  {
    "id": "85ff8299",
    "title": "Sylvester Stallone, Rocky'yi nasıl yarattı?",
    "summary": "1976 yapımı, büyük ses getiren boks draması Rocky, filmin hem başrol oyuncusu hem de senaristi olan ve o dönem \"tamamen beş parasız\" ve tanınmayan Sylvester Stallone'yi bir anda zirvedeki bir yıldıza dönüştürdü.",
@@ -792,17 +803,6 @@
    "category": "teknoloji",
    "date": "2026-11-14T08:37:04+00:00",
    "url": "/haber/keychron-dan-topu-ayarlanabilen-yeni-trackball-fare-t1-he-3707b67e/"
-  },
-  {
-   "id": "f8c6fc9b",
-   "title": "The Witcher 4 çıkış tarihi ortaya çıktı: İşte beklenen tarih",
-   "summary": "The Witcher 4'ün çıkış tarihi için yeni bir ipucu ortaya çıktı. CD Projekt RED'in iş ilanı, merakla beklenen RPG oyunu için yeni bir tarih bilgisi ile yayınlandı.",
-   "link": "https://www.donanimhaber.com/the-witcher-4-cikis-tarihi-ortaya-cikti-iste-beklenen-tarih--212905",
-   "image": "https://www.donanimhaber.com/images/images/haber/212905/1200x675the-witcher-4-cikis-tarihi-ortaya-cikti-iste-beklenen-tarih.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-14T08:30:00+00:00",
-   "url": "/haber/the-witcher-4-cikis-tarihi-ortaya-cikti-iste-beklenen-tarih-f8c6fc9b/"
   },
   {
    "id": "9069d6c3",
