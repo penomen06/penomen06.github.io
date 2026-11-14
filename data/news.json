@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T01:01:20.581740+00:00",
+ "updated": "2026-11-14T01:31:04.879575+00:00",
  "items": [
   {
    "id": "03298c9f",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-14T01:00:00+00:00",
+   "date": "2026-11-14T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-03298c9f/"
+  },
+  {
+   "id": "b9c3ce45",
+   "title": "Son dakika Bursa'da deprem mi oldu? Az önce deprem Bursa'da nerede oldu? Bursa deprem Kandilli ve AFAD son depremler listesi 14 Kasım 2026",
+   "summary": "Son dakika Bursa deprem haberleri.. Bursa'da deprem mi oldu? Az önce deprem Bursa'da nerede oldu? Bursa Kandilli ve AFAD son depremler.. 14 Kasım 2026 Bursa deprem son dakika haberleri haberin detayında... Artçı deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-bursada-deprem-mi-oldu-az-once-deprem-bursada-nerede-oldu-bursa-deprem-kandilli-ve-afad-son-depremler-listesi-14-kasim-2026-1750779",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-14T01:10:00+00:00",
+   "url": "/haber/son-dakika-bursa-da-deprem-mi-oldu-az-once-deprem-bursa-da-nerede-oldu-b9c3ce45/"
+  },
+  {
+   "id": "a6b85c14",
+   "title": "Trump, Çin'e yapacağı ziyarette Şi ve Putin'le üçlü görüşme gerçekleştirecek",
+   "summary": "ABD Başkanı Donald Trump'ın gelecek hafta Filipinler ve Çin'e bir gezi düzenleyeceği, ziyaretin ikinci ayağında Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin ile üçlü bir görüşme gerçekleştireceği…",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-cine-yapacagi-ziyarette-si-ve-putinle-uclu-gorusme-gerceklestirecek/4124828",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T01:02:32+00:00",
+   "url": "/haber/trump-cin-e-yapacagi-ziyarette-si-ve-putin-le-uclu-gorusme-gerceklesti-a6b85c14/"
   },
   {
    "id": "befc3e96",
@@ -57,50 +79,6 @@
    "url": "/haber/venezuela-da-gecis-sureci-diyalogunda-dorduncu-tur-basliyor-82a48776/"
   },
   {
-   "id": "29f032bd",
-   "title": "İsrail, UCM'deki toplantıya katılacak Filistinli insan hakları savunucusunun ülkeden çıkışına izin vermedi",
-   "summary": "İsrail makamlarının, Filistin'deki insan hakları kuruluşu El-Hak'ın Müdürü Şavan Cebbarin'in Uluslararası Ceza Mahkemesi'nde (UCM) bir toplantıya katılmaya hazırlandığı sırada işgal altındaki Batı Şeria'dan Ürdün'e…",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ucmdeki-toplantiya-katilacak-filistinli-insan-haklari-savunucusunun-ulkeden-cikisina-izin-vermedi/4124816",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T23:37:25+00:00",
-   "url": "/haber/israil-ucm-deki-toplantiya-katilacak-filistinli-insan-haklari-savunucu-29f032bd/"
-  },
-  {
-   "id": "d2789da5",
-   "title": "ABD'de Demokrat aday Laubacher, Cumhuriyetçi Temsilciler Meclisi Üyesi Boebert'i mağlup etti",
-   "summary": "ABD ara seçimlerinde Colorado eyaletinin 4. Kongre Bölgesi’nde yarışan Demokrat aday Eileen Laubacher, Cumhuriyetçi Temsilciler Meclisi Üyesi Lauren Boebert'i mağlup ederek seçimi kazandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-demokrat-aday-laubacher-cumhuriyetci-temsilciler-meclisi-uyesi-boeberti-maglup-etti/4124815",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T23:18:11+00:00",
-   "url": "/haber/abd-de-demokrat-aday-laubacher-cumhuriyetci-temsilciler-meclisi-uyesi-d2789da5/"
-  },
-  {
-   "id": "430e1231",
-   "title": "Prof. Dr. Gürkan Kumbaroğlu'ndan ihracatta \"karbon ayak izi\" uyarısı",
-   "summary": "Boğaziçi Üniversitesi Öğretim Üyesi ve Enerji Ekonomisi Derneği Başkanı Prof. Dr. Gürkan Kumbaroğlu, \"Türkiye'de üretilen ürünlerin karbon ayak izlerine bakmak durumundayız çünkü bu oran yüksekse ihracatta ek bir…",
-   "link": "https://www.aa.com.tr/tr/gundem/prof-dr-gurkan-kumbaroglundan-ihracatta-karbon-ayak-izi-uyarisi/4124814",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T23:18:01+00:00",
-   "url": "/haber/prof-dr-gurkan-kumbaroglu-ndan-ihracatta-karbon-ayak-izi-uyarisi-430e1231/"
-  },
-  {
-   "id": "d6f753cb",
-   "title": "BM Güvenlik Konseyi'ndeki toplantıda ABD ile İran birbirini suçladı",
-   "summary": "Orta Doğu'daki durumu ele almak için toplanan Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) ABD, İran'ı \"uluslararası deniz güvenliğini baltalamakla\" suçlarken İran da ABD'yi \"yasa dışı bir saldırganlık savaşı…",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyindeki-toplantida-abd-ile-iran-birbirini-sucladi/4124813",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T23:17:45+00:00",
-   "url": "/haber/bm-guvenlik-konseyi-ndeki-toplantida-abd-ile-iran-birbirini-sucladi-d6f753cb/"
-  },
-  {
    "id": "b08cf079",
    "title": "Mekke Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi",
    "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Anlaşması, TBMM Genel Kurulu'nda kabul edilmesinin ardından 14 Kasım'da Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
@@ -121,17 +99,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T22:47:49+00:00",
    "url": "/haber/abd-semalarinda-panik-yasaniyor-ulke-genelinde-tum-ucuslar-durduruldu-050af5b3/"
-  },
-  {
-   "id": "e33ee800",
-   "title": "UEFA Uluslar Ligi'nin 5. haftasında 10 maç oynandı",
-   "summary": "UEFA Uluslar Ligi'nin 5. haftasına 10 maçla devam edildi.",
-   "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-5-haftasinda-10-mac-oynandi/4124797",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T21:59:15+00:00",
-   "url": "/haber/uefa-uluslar-ligi-nin-5-haftasinda-10-mac-oynandi-e33ee800/"
   },
   {
    "id": "5c53beeb",
@@ -200,39 +167,6 @@
    "url": "/haber/erzurum-da-17-yillik-ortalamaya-gore-ekimde-sicaklik-azaldi-yagis-yakl-82c5146b/"
   },
   {
-   "id": "83bb6280",
-   "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Lübnan'da Trablusşamlı iş insanlarıyla görüştü",
-   "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, Lübnan'ın kuzeyindeki Trablusşam kentinde iş insanlarıyla bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-lubnanda-trablussamli-is-insanlariyla-gorustu/4124790",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T21:48:57+00:00",
-   "url": "/haber/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-lubnan-da-trab-83bb6280/"
-  },
-  {
-   "id": "5f5a3dbe",
-   "title": "\"Ulusal Adil Geçiş Stratejisi ve Eylem Planı\" konulu genelge Resmi Gazete’de",
-   "summary": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) konulu Cumhurbaşkanlığı Genelgesi, Resmi Gazete'de yayımlandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-konulu-genelge-resmi-gazete-de/4124787",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T21:43:49+00:00",
-   "url": "/haber/ulusal-adil-gecis-stratejisi-ve-eylem-plani-konulu-genelge-resmi-gazet-5f5a3dbe/"
-  },
-  {
-   "id": "c95e13b6",
-   "title": "BUDO'nun 8 seferi olumsuz hava koşulları nedeniyle iptal edildi",
-   "summary": "Bursa Deniz Otobüslerinin (BUDO) 8 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/budonun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4124786",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T21:42:50+00:00",
-   "url": "/haber/budo-nun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi-c95e13b6/"
-  },
-  {
    "id": "c485b943",
    "title": "Mekke Savunma Anlaşması yürürlüğe girdi",
    "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Savunma Anlaşması, Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
@@ -248,7 +182,7 @@
    "title": "ABDde tüm uçuşlar durduruldu",
    "summary": "ABD Federal Havacılık İdaresi, hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu nedeniyle ABD genelindeki tüm havalimanlarında uçuşları durdurma kararı aldı.",
    "link": "https://www.trthaber.com/haber/dunya/abdde-tum-ucuslar-durduruldu-963232.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/ucuslar-2503575.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/abd-ucak-aa-2503576.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-13T21:26:00+00:00",
@@ -640,6 +574,17 @@
    "url": "/haber/nvidia-nin-eski-ceo-su-kongre-de-ifade-verecek-15a0a840/"
   },
   {
+   "id": "c9132e81",
+   "title": "UNESCO Yeşil Eğitim Ortaklığı Çalışma Grubu Toplantısı yapıldı",
+   "summary": "Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, UNESCO Yeşil Eğitim Ortaklığının (GEP) 4. Dönem Çalışma Grubu Toplantısı gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/unesco-yesil-egitim-ortakligi-calisma-grubu-toplantisi-yapildi/4124577",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T15:57:57+00:00",
+   "url": "/haber/unesco-yesil-egitim-ortakligi-calisma-grubu-toplantisi-yapildi-c9132e81/"
+  },
+  {
    "id": "6a94df36",
    "title": "Elektrikli Tiguan'ın seri üretimi başladı",
    "summary": "Volkswagen, ID.4’ün yerini alacak elektrikli SUV modeli ID. Tiguan’ı üretim bandına çıkardı. 600 km’ye kadar menzil sunan model, 2027’nin şubat ayında Türkiye'ye gelecek.",
@@ -915,17 +860,6 @@
    "url": "/haber/dyson-da-gorev-yapan-turk-muhendis-gelecegin-teknolojilerini-anlatti-r-7168367e/"
   },
   {
-   "id": "82a85cd9",
-   "title": "Kahraman pilotlar Malatya'da faciayı önlemiş",
-   "summary": "Malatya'da dört askerin şehit olduğu kazada, şehit pilotların helikopteri yerleşim alanına düşürmemek için büyük bir fedakarlık gösterdiği ortaya çıktı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kahraman-pilotlar-malatyada-faciayi-onlemis-1750735",
-   "image": "https://images.ntv.com.tr/images/malatya-şehitler-518386.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T12:59:51+00:00",
-   "url": "/haber/kahraman-pilotlar-malatya-da-faciayi-onlemis-82a85cd9/"
-  },
-  {
    "id": "d2455876",
    "title": "Almanya, güvenlik endişeleri nedeniyle bağlantılı araçların askeri tesislere girişini yasakladı",
    "summary": "Almanya, güvenlik/gizlilik endişeleri nedeniyle yeni nesil bağlantılı araçların askeri tesislere girişini yasakladı. İlk başta yalnızca Çinli üreticilerin araçlarını hedeflediği ancak daha sonra tüm araçları kapsadığı…",
@@ -1012,6 +946,17 @@
    "category": "teknoloji",
    "date": "2026-11-13T12:23:31+00:00",
    "url": "/haber/rekabet-kurumu-reyting-olcumleri-hakkinda-sorusturma-baslatti-f973f2a8/"
+  },
+  {
+   "id": "ca74b1b9",
+   "title": "Elektrifikasyonun verimlilik kazanımlarının davranışsal dönüşümle desteklenmesi gerekiyor",
+   "summary": "Enerji Verimliliği Derneği Başkanı Ahmet Erdem, enerji tasarrufunun kalıcı hale gelmesi için davranışsal düzeyde de verimliliğin önceliklendirilmesi gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/elektrifikasyonun-verimlilik-kazanimlarinin-davranissal-donusumle-desteklenmesi-gerekiyor/4124075",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T12:14:38+00:00",
+   "url": "/haber/elektrifikasyonun-verimlilik-kazanimlarinin-davranissal-donusumle-dest-ca74b1b9/"
   },
   {
    "id": "fd96cad5",
@@ -1135,6 +1080,17 @@
    "url": "/haber/dunya-nin-yeni-bir-mini-ay-i-var-7927f8d1/"
   },
   {
+   "id": "22c0358c",
+   "title": "Sigorta Evi kapsamında \"COP31 Küresel Sürdürülebilir Sigortacılık Zirvesi\" başladı",
+   "summary": "Türkiye Sigorta Birliğinin Birleşmiş Milletler (BM) COP31 kapsamındaki Sigorta Evi etkinliğinde BM Çevre Programı Finans Girişimi (UNEP FI) işbirliğinde düzenlenen \"COP31 Küresel Sürdürülebilir Sigortacılık Zirvesi\"…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sigorta-evi-kapsaminda-cop31-kuresel-surdurulebilir-sigortacilik-zirvesi-basladi/4123922",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T10:21:25+00:00",
+   "url": "/haber/sigorta-evi-kapsaminda-cop31-kuresel-surdurulebilir-sigortacilik-zirve-22c0358c/"
+  },
+  {
    "id": "28a7ab07",
    "title": "Görev esnasında rahatsızlanan bir askerimiz şehit oldu",
    "summary": "Kıbrıs Türk Barış Kuvvetleri Komutanlığı'nda görevli Mühimmat Er Kaan Öcal, görev esnasında rahatsızlanarak kaldırıldığı hastanede şehit oldu.",
@@ -1144,6 +1100,50 @@
    "category": "gundem",
    "date": "2026-11-13T10:14:00+00:00",
    "url": "/haber/gorev-esnasinda-rahatsizlanan-bir-askerimiz-sehit-oldu-28a7ab07/"
+  },
+  {
+   "id": "17dc9e51",
+   "title": "Güneş enerjisiyle deniz suyundan tatlı su ve hidrojen üretimi projesi COP31'de tanıtılacak",
+   "summary": "Van Yüzüncü Yıl Üniversitesi (YYÜ) öncülüğünde, Türkiye ve Libya'daki üniversitelerin işbirliğiyle hazırlanan projeyle güneş enerjisinden yararlanılarak deniz suyundan tatlı su elde edilmesi ve hidrojen üretilmesi…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/gunes-enerjisiyle-deniz-suyundan-tatli-su-ve-hidrojen-uretimi-projesi-cop31de-tanitilacak/4123760",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T08:17:22+00:00",
+   "url": "/haber/gunes-enerjisiyle-deniz-suyundan-tatli-su-ve-hidrojen-uretimi-projesi-17dc9e51/"
+  },
+  {
+   "id": "a7a3a7d2",
+   "title": "COP31'de enerji dönüşümü gündemi Türkiye-Almanya işbirliğine yeni fırsatlar sunuyor",
+   "summary": "Almanya Enerji Ajansı (dena) Genel Müdürü Kristina Haverkamp, Türkiye ile Almanya arasında batarya depolama, kritik ham maddeler ve yeşil hidrojen alanlarında geliştirilebilecek işbirliklerinin önemli fırsatlar…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-enerji-donusumu-gundemi-turkiye-almanya-isbirligine-yeni-firsatlar-sunuyor/4123723",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T08:02:13+00:00",
+   "url": "/haber/cop31-de-enerji-donusumu-gundemi-turkiye-almanya-isbirligine-yeni-firs-a7a3a7d2/"
+  },
+  {
+   "id": "fdf440f4",
+   "title": "COP31'de gelişmekte olan ülkelerin elektrifikasyon fırsatları ele alındı",
+   "summary": "İklim Değişikliği Başkanlığı Başkan Yardımcısı ve COP31 Eylem Gündemi Direktörü Tuğba Dinçbaş, uluslararası işbirliğinin ülkelerin enerji dönüşümü planlarını yatırım yapılabilir projelere dönüştürmeye katkı sağlaması…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-gelismekte-olan-ulkelerin-elektrifikasyon-firsatlari-ele-alindi/4123694",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T07:39:47+00:00",
+   "url": "/haber/cop31-de-gelismekte-olan-ulkelerin-elektrifikasyon-firsatlari-ele-alin-fdf440f4/"
+  },
+  {
+   "id": "7a8449c1",
+   "title": "TÜBİTAK'ın iklim araştırmaları COP31'de ele alınıyor",
+   "summary": "TÜBİTAK, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) çevre, iklim değişikliği ve yeşil dönüşüm alanlarındaki bilimsel araştırmalarını uluslararası paydaşlarla paylaşıyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tubitakin-iklim-arastirmalari-cop31de-ele-aliniyor/4123658",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T07:06:18+00:00",
+   "url": "/haber/tubitak-in-iklim-arastirmalari-cop31-de-ele-aliniyor-7a8449c1/"
   },
   {
    "id": "ba7f2c35",
