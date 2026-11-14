@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-14T06:01:03.239993+00:00",
+ "updated": "2026-11-14T06:30:53.900757+00:00",
  "items": [
+  {
+   "id": "a3c940ff",
+   "title": "Akkuyu'da reaktör gerçek yükle sınanacak",
+   "summary": "Akkuyu Nükleer Santrali'nin ilk ünitesinde son testler birkaç saat içinde başlayacak. Rosatom Başkanı Aleksey Likhaçov, reaktörün tam yük koşullarında sınanacağını söyledi.",
+   "link": "https://shiftdelete.net/akkuyu-nukleer-santrali-sicak-test-basliyor",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/akkuyu-sicak-test-kapak-1411.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-14T06:30:00+00:00",
+   "url": "/haber/akkuyu-da-reaktor-gercek-yukle-sinanacak-a3c940ff/"
+  },
+  {
+   "id": "03298c9f",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 14 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 14 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-14-kasim-2026-1750771",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-14T06:30:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-03298c9f/"
+  },
+  {
+   "id": "beb5ef66",
+   "title": "BEDAŞ elektrik kesintilerini duyurdu. Akşam 17.00'ye kadar sürecek",
+   "summary": "İstanbul'un 13 ilçesinde bugün elektrik kesintisi yaşanıyor. Saat 09.00'da başlayan elektrik kesintisi akşam 17.00'ye kadar sürecek. İşte ilçe ilçe elektrik kesintisi programı…",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-bedas-elektrik-kesintilerini-duyurdu-aksam-1700ye-kadar-surecek-1750784",
+   "image": "https://images.ntv.com.tr/images/BEDAŞelektrikkesintisi-593620.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-14T06:10:41+00:00",
+   "url": "/haber/bedas-elektrik-kesintilerini-duyurdu-aksam-17-00-ye-kadar-surecek-beb5ef66/"
+  },
+  {
+   "id": "269ab1d2",
+   "title": "İstanbul'da trafiği kilitleyen çalışma ne zaman bitecek?",
+   "summary": "İstanbul'da trafiğin en yoğun olduğu noktalardan İncirli'deki üst geçit güçlendirme çalışması sürüyor. Çalışma nedeniyle Ankara yönünde trafik yoğunluğu yaşanıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-trafigi-kilitleyen-calisma-ne-zaman-bitecek-1750790",
+   "image": "https://images.ntv.com.tr/images/AW831982_02-358197.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-14T06:02:07+00:00",
+   "url": "/haber/istanbul-da-trafigi-kilitleyen-calisma-ne-zaman-bitecek-269ab1d2/"
+  },
   {
    "id": "8a9d9c90",
    "title": "Samsung yeni renk paletini yanlışlıkla ele verdi",
@@ -11,17 +55,6 @@
    "category": "teknoloji",
    "date": "2026-11-14T06:00:00+00:00",
    "url": "/haber/samsung-yeni-renk-paletini-yanlislikla-ele-verdi-8a9d9c90/"
-  },
-  {
-   "id": "03298c9f",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 14 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 14 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-14-kasim-2026-1750771",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-14T06:00:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-03298c9f/"
   },
   {
    "id": "9cade8bc",
@@ -55,17 +88,6 @@
    "category": "gundem",
    "date": "2026-11-14T05:28:24+00:00",
    "url": "/haber/mekke-savunma-anlasmasi-yururluge-girdi-c485b943/"
-  },
-  {
-   "id": "02e3acf0",
-   "title": "BEDAŞ elektrik kesintilerini duyurdu. Bir saat sonra başlıyor. Akşam 17.00'ye kadar sürecek",
-   "summary": "İstanbul'un 13 ilçesinde bugün elektrik kesintisi yaşanacak. Saat 09.00'da başlayacak olan elektrik kesintisi akşam 17.00'ye kadar sürecek. İşte ilçe ilçe elektrik kesintisi programı…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bedas-elektrik-kesintilerini-duyurdu-bir-saat-sonra-basliyor-aksam-1700ye-kadar-surecek-1750784",
-   "image": "https://images.ntv.com.tr/images/BEDAŞelektrikkesintisi-593620.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-14T05:19:18+00:00",
-   "url": "/haber/bedas-elektrik-kesintilerini-duyurdu-bir-saat-sonra-basliyor-aksam-17-02e3acf0/"
   },
   {
    "id": "f147d1c9",
@@ -673,17 +695,6 @@
    "url": "/haber/elektrikli-tiguan-in-seri-uretimi-basladi-6a94df36/"
   },
   {
-   "id": "d6476650",
-   "title": "AKINCI ve TB2 piste değil kara yoluna indi",
-   "summary": "AKINCI ve iki Bayraktar TB2, pistlerin kullanılamadığı acil durum senaryosu için yapılan tatbikatta Manisa-Balıkesir Karayolu'na iniş ve kalkış yaptı.",
-   "link": "https://shiftdelete.net/akinci-bayraktar-tb2-manisa-balikesir-kara-yolu-inis-kalkis",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/akinci-bayraktar-tb2-kara-yolu-inis-kalkis-kapak-1311.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-13T15:49:25+00:00",
-   "url": "/haber/akinci-ve-tb2-piste-degil-kara-yoluna-indi-d6476650/"
-  },
-  {
    "id": "a017d239",
    "title": "İzmir'deki HABAŞ fabrikasında yaşamını yitiren işçilerin sayısı 19'a yükseldi",
    "summary": "İzmir Aliağa'daki HABAŞ fabrikasındaki patlamada yaşamını yitiren işçilerin sayısı 19'a yükseldi.",
@@ -715,17 +726,6 @@
    "category": "gundem",
    "date": "2026-11-13T15:19:47+00:00",
    "url": "/haber/akinci-ve-bayraktar-tb2-kara-yoluna-inis-kalkis-yapti-5181efed/"
-  },
-  {
-   "id": "87ffd499",
-   "title": "TEB Genel Müdürü Ümit Leblebici, NTV'ye konuştu: Elektrifikasyon kaçınılmaz",
-   "summary": "TEB Genel Müdürü Ümit Leblebici, COP31 Zirvesi’nde NTV'nin sorularını yanıtladı. Leblebici, elektrifikasyon hedefinin önemine dikkat çekti, Türkiye'nin avantajlı bir konumda olduğunu söyledi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-teb-genel-muduru-umit-leblebici-ntvye-konustu-elektrifikasyon-kacinilmaz-1750745",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-13162901-529345.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T14:32:08+00:00",
-   "url": "/haber/teb-genel-muduru-umit-leblebici-ntv-ye-konustu-elektrifikasyon-kacinil-87ffd499/"
   },
   {
    "id": "c42291cc",
