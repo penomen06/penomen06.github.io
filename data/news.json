@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-14T19:01:01.108775+00:00",
+ "updated": "2026-11-14T19:30:49.018343+00:00",
  "items": [
+  {
+   "id": "8ceef40d",
+   "title": "WoW Forever artık Android telefonda açılıyor",
+   "summary": "WoW Forever, WoW Foreverywhere adlı GitHub projesi sayesinde Galaxy Z Fold 8'de oynanabiliyor. Android 17, ARM işlemci ve Adreno GPU şart.",
+   "link": "https://shiftdelete.net/wow-forever-galaxy-z-fold-8-android",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/wow-forever-galaxy-z-fold-8-kapak-1411.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-14T19:10:00+00:00",
+   "url": "/haber/wow-forever-artik-android-telefonda-aciliyor-8ceef40d/"
+  },
   {
    "id": "49467888",
    "title": "Yeni Apple TV 4K çıktı: Eski modellere Siri AI güncellemesi",
@@ -11,6 +22,17 @@
    "category": "teknoloji",
    "date": "2026-11-14T19:00:00+00:00",
    "url": "/haber/yeni-apple-tv-4k-cikti-eski-modellere-siri-ai-guncellemesi-49467888/"
+  },
+  {
+   "id": "e167d521",
+   "title": "Anadolu Ateşi COP31'de sahne aldı",
+   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Anadolu Ateşi dans topluluğu gösteri sundu.",
+   "link": "https://www.aa.com.tr/tr/kultur/anadolu-atesi-cop31de-sahne-aldi-/4125397",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T18:54:12+00:00",
+   "url": "/haber/anadolu-atesi-cop31-de-sahne-aldi-e167d521/"
   },
   {
    "id": "7e72425d",
@@ -79,6 +101,17 @@
    "url": "/haber/hidayet-turkoglu-cop31-de-ntv-ye-konustu-d033a3ab/"
   },
   {
+   "id": "3b45ca6f",
+   "title": "İzmir merkezli uyuşturucu operasyonunda 16 şüpheli tutuklandı",
+   "summary": "İzmir merkezli 2 ilde düzenlenen uyuşturucu operasyonunda örgüt elebaşı olduğu belirtilen şüphelinin de aralarında bulunduğu 16 şüpheli tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/izmir-merkezli-uyusturucu-operasyonunda-16-supheli-tutuklandi/4125377",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T18:22:06+00:00",
+   "url": "/haber/izmir-merkezli-uyusturucu-operasyonunda-16-supheli-tutuklandi-3b45ca6f/"
+  },
+  {
    "id": "af240cb1",
    "title": "Google Arama'ya yeni zeka motoru geldi",
    "summary": "Google, Gemini 4 Hydrogen Arama entegrasyonunu başlattı. Yeni model Gemini 3.8 Flash'ın yerini alıyor, yüksek modda iki kat hızlı çalışıyor ve uydurma iddiaları 5 kattan fazla azaltıyor.",
@@ -101,15 +134,15 @@
    "url": "/haber/starship-yorungeye-ulasti-ancak-kritik-yakalama-denemesi-basarisiz-old-04c36631/"
   },
   {
-   "id": "61c038a9",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz TRT Haber'de",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, TRT Haber'de gündeme dair açıklamalarda bulunuyor.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-trt-haberde-963302.html",
+   "id": "7bcce3f8",
+   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: 444 bin 987 fon yatırımcısına ödeme yapıldı",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, TRT Haber'de gündeme dair açıklamalarda bulundu. Yılmaz, \"Fonların tasfiyesi için devlet bütçesinden tek bir lira kullanılmadı. Bugüne kadar 161 milyar TL ödeme yapıldı, gönüllü…",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-444-bin-987-fon-yatirimcisina-odeme-yapildi-963302.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/cevdet-yilmaz-2496295.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-14T18:00:00+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-trt-haber-de-61c038a9/"
+   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-444-bin-987-fon-yatirimcisina-odeme-ya-7bcce3f8/"
   },
   {
    "id": "953af5da",
@@ -244,17 +277,6 @@
    "url": "/haber/huawei-nova-flip-yeni-tasarimiyla-dengeleri-degistirebilir-3ff0d501/"
   },
   {
-   "id": "219df0e6",
-   "title": "KKTC Başbakanı Ünal Üstel, Rumların bayrak yakma eylemlerine tepki gösterdi",
-   "summary": "KKTC Başbakanı Ünal Üstel, Güney Kıbrıs Rum Yönetimi'nde (GKRY) yapılan protestolarda Türkiye ve KKTC bayraklarının Rum gençler tarafından yakılmasına tepki göstererek, \"Bu kabul edilemez ve affedilemez bir konudur.\"…",
-   "link": "https://www.aa.com.tr/tr/dunya/kktc-basbakani-unal-ustel-rumlarin-bayrak-yakma-eylemlerine-tepki-gosterdi/4125339",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T16:57:57+00:00",
-   "url": "/haber/kktc-basbakani-unal-ustel-rumlarin-bayrak-yakma-eylemlerine-tepki-gost-219df0e6/"
-  },
-  {
    "id": "b35721ab",
    "title": "Bir Başkadır'ın ikinci sezonu bize ne anlatıyor?",
    "summary": "Bir Başkadır dizisi, altı yıl sonra dört bölümlük ikinci sezonla geri döndü. Dizi bu sezonda da yine Türkiye'nin farklı sosyo-ekonomik sınıflarından karakterleri, günlük hayatın akışı içinde biraraya getiriyor.",
@@ -275,6 +297,17 @@
    "category": "gundem",
    "date": "2026-11-14T16:45:00+00:00",
    "url": "/haber/malatya-da-sehit-olan-askerlerimiz-son-yolculuklarina-ugurlandi-637387b6/"
+  },
+  {
+   "id": "1826d8fd",
+   "title": "Rafadan Tayfa'nın yeni filmi \"Gordion\" 25 Aralık'ta vizyona girecek",
+   "summary": "TRT ve ISF Studios ortak yapımı \"Rafadan Tayfa Gordion\" filmi, 25 Aralık'ta izleyiciyle buluşacak.",
+   "link": "https://www.aa.com.tr/tr/kultur/rafadan-tayfanin-yeni-filmi-gordion-25-aralikta-vizyona-girecek/4125325",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T16:43:26+00:00",
+   "url": "/haber/rafadan-tayfa-nin-yeni-filmi-gordion-25-aralik-ta-vizyona-girecek-1826d8fd/"
   },
   {
    "id": "17f1d5df",
@@ -321,17 +354,6 @@
    "url": "/haber/uzayda-her-8-dakikada-bir-tekrarlayan-gizemli-sinyal-nereden-geldigi-b-3a8dc6c0/"
   },
   {
-   "id": "cf578925",
-   "title": "KKTC'nin kuruluş yıl dönümüne özel yayınlar TRT ekranlarında izleyiciyle buluşacak",
-   "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin 43. kuruluş yıl dönümü dolayısıyla TRT, özel yayınlarla izleyici karşısına çıkacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/kktcnin-kurulus-yil-donumune-ozel-yayinlar-trt-ekranlarinda-izleyiciyle-bulusacak/4125318",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T16:27:00+00:00",
-   "url": "/haber/kktc-nin-kurulus-yil-donumune-ozel-yayinlar-trt-ekranlarinda-izleyiciy-cf578925/"
-  },
-  {
    "id": "56fd9f9f",
    "title": "\"Çobanlar Grubu\"na operasyon: 1 milyar 550 milyon lira değerinde malvarlığına el konuldu",
    "summary": "Ankara'da uyuşturucu ticaretinden elde edilen suç gelirlerinin aklanmasına yönelik operasyonda 10 şüpheli gözaltına alınırken, 1 milyar 550 milyon TL değerindeki malvarlığına el konuldu.",
@@ -341,17 +363,6 @@
    "category": "gundem",
    "date": "2026-11-14T16:25:54+00:00",
    "url": "/haber/cobanlar-grubu-na-operasyon-1-milyar-550-milyon-lira-degerinde-malvarl-56fd9f9f/"
-  },
-  {
-   "id": "1e57ad62",
-   "title": "Başkentte \"Ahıska Türkleri - Kayıp Sürgünün İzinde\" sergisi açıldı",
-   "summary": "Ahıska Türklerinin 1944'te yaşadığı sürgünü ve sonrasında verdikleri mücadeleyi konu alan \"Ahıska Türkleri - Kayıp Sürgünün İzinde\" sergisi, Ankara Tren Garı'nda ziyaretçilerle buluştu.",
-   "link": "https://www.aa.com.tr/tr/kultur/baskentte-ahiska-turkleri-kayip-surgunun-izinde-sergisi-acildi/4125314",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T16:17:04+00:00",
-   "url": "/haber/baskentte-ahiska-turkleri-kayip-surgunun-izinde-sergisi-acildi-1e57ad62/"
   },
   {
    "id": "d186c327",
@@ -451,17 +462,6 @@
    "category": "teknoloji",
    "date": "2026-11-14T15:00:00+00:00",
    "url": "/haber/gta-6-da-sasirtan-acik-kodlar-kutu-acilmadan-calinabilir-71d235f0/"
-  },
-  {
-   "id": "b55130f5",
-   "title": "Türkiye İklim Okulu açılış töreni yapıldı",
-   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Milli Eğitim Bakanlığınca hazırlanan Türkiye İklim Okulu açıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulu-acilis-toreni-yapildi/4125268",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T14:52:38+00:00",
-   "url": "/haber/turkiye-iklim-okulu-acilis-toreni-yapildi-b55130f5/"
   },
   {
    "id": "e2e7cd63",
@@ -684,17 +684,6 @@
    "url": "/haber/huawei-nin-ilk-seker-olceri-onay-aldi-20570b92/"
   },
   {
-   "id": "4545108f",
-   "title": "nova Flip serisinde form değişimi gündemde",
-   "summary": "nova Flip 2 hakkında yeni bir iddia var. Huawei'nin 6,3 inç ekranlı, Kirin 9 serisi çipli küçük bir geniş katlanabilir telefon hazırladığı öne sürülüyor.",
-   "link": "https://shiftdelete.net/nova-flip-2-genis-katlanabilir-iddia",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/huawei-nova-flip-genis-katlanabilir-kapak-1411.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-14T12:10:00+00:00",
-   "url": "/haber/nova-flip-serisinde-form-degisimi-gundemde-4545108f/"
-  },
-  {
    "id": "cfa2d03b",
    "title": "Bakan Tekin'den COP31'de çağrı. \"Okullar savaşın hedefi olmaktan korunmalı\"",
    "summary": "Milli Eğitim Bakanı Yusuf Tekin, COP31'de yaptığı konuşmada savaş nedeniyle eğitimden uzak kalan milyonlarca çocuğa dikkat çekerek okulların ve öğretmenlerin korunması çağrısında bulundu.",
@@ -759,6 +748,17 @@
    "category": "gundem",
    "date": "2026-11-14T11:10:19+00:00",
    "url": "/haber/beyaz-saray-trump-putin-ve-si-cin-de-gorusmeyi-planliyor-67213c1c/"
+  },
+  {
+   "id": "9a77c396",
+   "title": "32. Proje Yönetim Zirvesi'nde yapay zeka ve insan odaklı yönetim öne çıktı",
+   "summary": "Project Management Institute (Proje Yönetim Enstitüsü-PMI) Türkiye tarafından düzenlenen 32. Proje Yönetim Zirvesi'nin öğleden önceki bölümünde yapay zekanın proje yönetimine etkisi ele alındı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/32-proje-yonetim-zirvesinde-yapay-zeka-ve-insan-odakli-yonetim-one-cikti/4125067",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T11:05:04+00:00",
+   "url": "/haber/32-proje-yonetim-zirvesi-nde-yapay-zeka-ve-insan-odakli-yonetim-one-ci-9a77c396/"
   },
   {
    "id": "1690ec44",
