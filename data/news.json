@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-14T05:01:02.657226+00:00",
+ "updated": "2026-11-14T05:31:00.225868+00:00",
  "items": [
+  {
+   "id": "4e548573",
+   "title": "Starship yörüngede, zor kısım şimdi başlıyor",
+   "summary": "Starship S42, 26 Starlink V3 uydusunun tamamını yörüngeye bıraktı. Araç şimdi saatte yaklaşık 26 bin km hızla Dünya çevresinde dönüyor ve geri dönüş denemesine hazırlanıyor.",
+   "link": "https://shiftdelete.net/starship-s42-starlink-v3-uydulari-yorunge",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/starship-s42-yorunge-kapak-v3-1411.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-14T05:30:00+00:00",
+   "url": "/haber/starship-yorungede-zor-kisim-simdi-basliyor-4e548573/"
+  },
+  {
+   "id": "c485b943",
+   "title": "Mekke Savunma Anlaşması yürürlüğe girdi",
+   "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Savunma Anlaşması, Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+   "link": "https://www.ntv.com.tr/turkiye/mekke-savunma-anlasmasi-yururluge-girdi-1750772",
+   "image": "https://images.ntv.com.tr/images/mekke-838564-891557.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-14T05:28:24+00:00",
+   "url": "/haber/mekke-savunma-anlasmasi-yururluge-girdi-c485b943/"
+  },
+  {
+   "id": "02e3acf0",
+   "title": "BEDAŞ elektrik kesintilerini duyurdu. Bir saat sonra başlıyor. Akşam 17.00'ye kadar sürecek",
+   "summary": "İstanbul'un 13 ilçesinde bugün elektrik kesintisi yaşanacak. Saat 09.00'da başlayacak olan elektrik kesintisi akşam 17.00'ye kadar sürecek. İşte ilçe ilçe elektrik kesintisi programı…",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-bedas-elektrik-kesintilerini-duyurdu-bir-saat-sonra-basliyor-aksam-1700ye-kadar-surecek-1750784",
+   "image": "https://images.ntv.com.tr/images/BEDAŞelektrikkesintisi-593620.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-14T05:19:18+00:00",
+   "url": "/haber/bedas-elektrik-kesintilerini-duyurdu-bir-saat-sonra-basliyor-aksam-17-02e3acf0/"
+  },
   {
    "id": "f147d1c9",
    "title": "iPhone Duo'nun menteşesi 440 bin katta yoruldu",
@@ -198,17 +231,6 @@
    "category": "gundem",
    "date": "2026-11-13T21:50:04+00:00",
    "url": "/haber/erzurum-da-17-yillik-ortalamaya-gore-ekimde-sicaklik-azaldi-yagis-yakl-82c5146b/"
-  },
-  {
-   "id": "c485b943",
-   "title": "Mekke Savunma Anlaşması yürürlüğe girdi",
-   "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Savunma Anlaşması, Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
-   "link": "https://www.ntv.com.tr/turkiye/mekke-savunma-anlasmasi-yururluge-girdi-1750772",
-   "image": "https://images.ntv.com.tr/images/mekke-838564-891557.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T21:27:11+00:00",
-   "url": "/haber/mekke-savunma-anlasmasi-yururluge-girdi-c485b943/"
   },
   {
    "id": "a8082d17",
@@ -693,28 +715,6 @@
    "category": "gundem",
    "date": "2026-11-13T15:19:47+00:00",
    "url": "/haber/akinci-ve-bayraktar-tb2-kara-yoluna-inis-kalkis-yapti-5181efed/"
-  },
-  {
-   "id": "2209ff99",
-   "title": "Kediyi insandan ayıran yapay zekalı güvenlik sistemi",
-   "summary": "Antalya'daki EIF 2026 Enerji Dönüşümü Fuarı'nda Desecure Technology'nin standını gezdik: Radarlı kameralar, termal analiz, 124 desibellik anons ve güneş panelli mobil güvenlik kuleleri.",
-   "link": "https://shiftdelete.net/eif-2026-desecure-enerji-santrali-guvenlik-sdntv",
-   "image": "https://shiftdelete.net/static/img/content/26-11/13/whatsapp-image-2026-11-13-at-161337.jpeg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-13T15:00:00+00:00",
-   "url": "/haber/kediyi-insandan-ayiran-yapay-zekali-guvenlik-sistemi-2209ff99/"
-  },
-  {
-   "id": "28bbf48e",
-   "title": "Malatya'nın deprem sonrası dönüşümü COP31'de gündeme geldi",
-   "summary": "125 bin bağımsız bölüm inşa edildi, su güvenliği için Fırat Havzası Projesi hazırlanıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/malatyanin-deprem-sonrasi-donusumu-cop31de-gundeme-geldi-1750747",
-   "image": "https://images.ntv.com.tr/images/WhatsAppImage2026-11-13at17.22.21-204145.jpeg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-13T14:37:12+00:00",
-   "url": "/haber/malatya-nin-deprem-sonrasi-donusumu-cop31-de-gundeme-geldi-28bbf48e/"
   },
   {
    "id": "87ffd499",
