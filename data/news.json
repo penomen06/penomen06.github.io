@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-14T14:01:02.702198+00:00",
+ "updated": "2026-11-14T14:30:52.793991+00:00",
  "items": [
+  {
+   "id": "7eeb028c",
+   "title": "Yeni Parti'nin ilk kurultayında Özgür Özel genel başkan seçildi",
+   "summary": "Yeni Parti, ilk olağan \"Kuruluş Kurultayı\"nı 14-15 Kasım tarihlerinde Ankara'da gerçekleştiriyor. Kurultayın ilk gününde Özgür Özel konuşmasına, \"Bu salonda yenilgiyi kabul kaybetmeyenleri, teslim olmayanları görüyorum\"…",
+   "link": "https://www.bbc.com/turkce/articles/cq1k9n3d3vrvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0089/live/b2ed94e0-e00c-11f1-9fd4-8b3c9f9dfc89.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-14T14:28:13+00:00",
+   "url": "/haber/yeni-parti-nin-ilk-kurultayinda-ozgur-ozel-genel-baskan-secildi-7eeb028c/"
+  },
+  {
+   "id": "8b68677b",
+   "title": "Yeni Parti'de ilk kurultay. Özgür Özel yeniden genel başkan seçildi",
+   "summary": "Yeni Parti'nin ilk olağan kurultayı yapıldı. Tek aday olarak seçime giren Özgür Özel, yeniden genel başkan seçildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-yeni-partide-ilk-kurultay-ozgur-ozel-yeniden-genel-baskan-secildi-1750828",
+   "image": "https://images.ntv.com.tr/images/AA-20261114-43074855-43074851-YENI_PARTI_1_OLAGAN_KURULTAYI-694423.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-14T14:28:12+00:00",
+   "url": "/haber/yeni-parti-de-ilk-kurultay-ozgur-ozel-yeniden-genel-baskan-secildi-8b68677b/"
+  },
+  {
+   "id": "f0e41124",
+   "title": "Ankara'da bazı yollar yarın araç trafiğine kapatılacak",
+   "summary": "Ankara'da yarın düzenlenecek OYAK 65. Yıl Ankara Koşusu dolayısıyla bazı yollar araç trafiğine kapatılacak.",
+   "link": "https://www.ntv.com.tr/turkiye/ankarada-bazi-yollar-yarin-arac-trafigine-kapatilacak-1750882",
+   "image": "https://images.ntv.com.tr/images/istanbulkapalıyollar-682349.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-14T14:20:39+00:00",
+   "url": "/haber/ankara-da-bazi-yollar-yarin-arac-trafigine-kapatilacak-f0e41124/"
+  },
+  {
+   "id": "66cd5bac",
+   "title": "Kayıpsız ses Bluetooth'ta 2027'yi bekliyor",
+   "summary": "Kayıpsız ses, bugünkü Bluetooth codec'leriyle kulaklığa ulaşamıyor. Realme Buds Air 8 ile yapılan kör testte FLAC ile MP3 arasındaki farkı duymak da mümkün olmadı.",
+   "link": "https://shiftdelete.net/kayipsiz-ses-bluetooth-kulaklik-2027-hdt",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/bluetooth-kayipsiz-ses-kulaklik-kapak-1411.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-14T14:10:00+00:00",
+   "url": "/haber/kayipsiz-ses-bluetooth-ta-2027-yi-bekliyor-66cd5bac/"
+  },
+  {
+   "id": "066ba92f",
+   "title": "Ankara'da bazı yollar yarın araç trafiğine kapatılacak",
+   "summary": "Ankara'da yarın düzenlenecek OYAK 65. Yıl Ankara Koşusu dolayısıyla bazı yollar araç trafiğine kapatılacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/ankarada-bazi-yollar-yarin-arac-trafigine-kapatilacak/4125232",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T14:05:53+00:00",
+   "url": "/haber/ankara-da-bazi-yollar-yarin-arac-trafigine-kapatilacak-066ba92f/"
+  },
+  {
+   "id": "0472f964",
+   "title": "İtalya Verileri Koruma Kurumu, Meta'ya 805 milyon avro ceza kesti",
+   "summary": "İtalya Verileri Koruma Kurumu (Garante della Privacy), Meta şirketine \"Facebook\"un, Android kullanıcılarının galerilerindeki fotoğraf ve videolara özel izin almadan eriştiği gerekçesiyle 805 milyon avro para cezası…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/italya-verileri-koruma-kurumu-metaya-805-milyon-avro-ceza-kesti/4125231",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T14:01:02+00:00",
+   "url": "/haber/italya-verileri-koruma-kurumu-meta-ya-805-milyon-avro-ceza-kesti-0472f964/"
+  },
   {
    "id": "c4449a79",
    "title": "Direksiyonsuz Tesla Cybercab satışa çıkıyor: İşte fiyatı",
@@ -189,6 +255,17 @@
    "url": "/haber/jensen-huang-in-ayrilisinda-cin-e-kacirilan-milyarlarca-dolarlik-ciple-d0348bc2/"
   },
   {
+   "id": "8d4074e3",
+   "title": "60 saniyede bugün (14 Kasım 2026)",
+   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-14-kasim-2026/4125174",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T12:59:53+00:00",
+   "url": "/haber/60-saniyede-bugun-14-kasim-2026-8d4074e3/"
+  },
+  {
    "id": "c21940ee",
    "title": "AB, İsrail'e Gazze'ye insani yardımların ulaştırılması ve sınır kapılarının açılması çağrısında bulundu",
    "summary": "Avrupa Birliği (AB), İsrail'e, Gazze'ye insani yardımların derhal ve engelsiz ulaştırılmasına izin vermesi ve bölgedeki tüm sınır kapılarını yeniden açması çağrısı yaptı.",
@@ -297,28 +374,6 @@
    "category": "teknoloji",
    "date": "2026-11-14T12:10:00+00:00",
    "url": "/haber/nova-flip-serisinde-form-degisimi-gundemde-4545108f/"
-  },
-  {
-   "id": "703e40ce",
-   "title": "Erdemir'den çelik sektöründe yeşil dönüşüm için \"ekosistem\" vurgusu",
-   "summary": "Erdemir Yönetim Kurulu Üyesi ve Murahhas Azası İsmail Doğan, demir çelik sektöründe yeşil dönüşümün tek bir başlık altında ve tek bir paydaşla gerçekleştirilemeyeceğini, sürecin farklı boyutlarıyla ekosistem olarak ele…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/erdemirden-celik-sektorunde-yesil-donusum-icin-ekosistem-vurgusu/4125108",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T12:05:05+00:00",
-   "url": "/haber/erdemir-den-celik-sektorunde-yesil-donusum-icin-ekosistem-vurgusu-703e40ce/"
-  },
-  {
-   "id": "55aa3ee6",
-   "title": "Cumhurbaşkanı Erdoğan, Bolivya Cumhurbaşkanı Rodrigo Paz Pereira ile görüştü",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Bolivya Cumhurbaşkanı Rodrigo Paz Pereira ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bolivya-cumhurbaskani-rodrigo-paz-pereira-ile-gorustu/4125107",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T12:05:01+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-bolivya-cumhurbaskani-rodrigo-paz-pereira-ile-go-55aa3ee6/"
   },
   {
    "id": "cfa2d03b",
@@ -442,17 +497,6 @@
    "url": "/haber/nurseli-nin-adalet-arayisi-bu-karar-tum-kadinlar-icin-cok-onemli-f98d4b83/"
   },
   {
-   "id": "6c69ae63",
-   "title": "Yeni Parti ilk kurultayını yapıyor",
-   "summary": "Yeni Parti'nin ilk olağan kurultayı yapılıyor. Özgür Özel, genel başkanlık için tek aday olarak seçime giriyor. Parti Meclisi'nde (PM) üye sayısının yükseltilmesi dikkati çekiyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-yeni-parti-ilk-kurultayini-yapiyor-1750828",
-   "image": "https://images.ntv.com.tr/images/AA-20261114-43074855-43074851-YENI_PARTI_1_OLAGAN_KURULTAYI-694423.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-14T10:55:48+00:00",
-   "url": "/haber/yeni-parti-ilk-kurultayini-yapiyor-6c69ae63/"
-  },
-  {
    "id": "97cfc227",
    "title": "Türkiye Sigorta Birliği, UNEP'in iki sürdürülebilir sigortacılık girişiminin destekçisi oldu",
    "summary": "Türkiye Sigorta Birliği (TSB), Birleşmiş Milletler Çevre Programı (UNEP) Sürdürülebilir Sigortacılık İlkeleri (PSI) ile Sigorta Dönüşüm Forumu'nun (FIT) destekçisi oldu.",
@@ -486,17 +530,6 @@
    "url": "/haber/sok-marketlerde-tchibo-urun-gecidi-var-1202a7fa/"
   },
   {
-   "id": "7eeb028c",
-   "title": "Yeni Parti kuruluş kurultayını Ankara'da yapıyor: 'Teslim olmayanlar burada'",
-   "summary": "Yeni Parti, ilk olağan \"Kuruluş Kurultayı\"nı 14-15 Kasım tarihlerinde Ankara'da gerçekleştiriyor. Kurultayın ilk gününde Özgür Özel konuşmasına, \"Bu salonda yenilgiyi kabul kaybetmeyenleri, teslim olmayanları görüyorum\"…",
-   "link": "https://www.bbc.com/turkce/articles/cq1k9n3d3vrvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0089/live/b2ed94e0-e00c-11f1-9fd4-8b3c9f9dfc89.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-14T10:20:57+00:00",
-   "url": "/haber/yeni-parti-kurulus-kurultayini-ankara-da-yapiyor-teslim-olmayanlar-bur-7eeb028c/"
-  },
-  {
    "id": "9b958c95",
    "title": "Geralt'ın Lehçe sesi yapay zekayla korunuyor",
    "summary": "CD Projekt Red, Songs of the Past için Jacek Rozenek'in Lehçe Geralt repliklerini Respeecher ile işleyecek. Rozenek her yeni satırı kendisi kaydetmeye devam ediyor.",
@@ -517,17 +550,6 @@
    "category": "teknoloji",
    "date": "2026-11-14T10:00:00+00:00",
    "url": "/haber/cin-in-3-2-milyar-dolarlik-yapay-zeka-projeleri-nvidia-krizinin-golges-7eba2e9c/"
-  },
-  {
-   "id": "414614ab",
-   "title": "Genç mühendis adayları COP31'de nükleer enerjinin denizcilikteki potansiyelini tanıtıyor",
-   "summary": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) genç mühendis adayları, denizcilik sektörüne yönelik nükleer enerji çözümlerini uluslararası…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/genc-muhendis-adaylari-cop31de-nukleer-enerjinin-denizcilikteki-potansiyelini-tanitiyor/4125015",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-14T09:54:40+00:00",
-   "url": "/haber/genc-muhendis-adaylari-cop31-de-nukleer-enerjinin-denizcilikteki-potan-414614ab/"
   },
   {
    "id": "53854195",
@@ -772,17 +794,6 @@
    "url": "/haber/kia-dan-hindistan-a-1-8-milyar-euroluk-yatirim-ikinci-fabrikayi-kuruyo-f2c15cdc/"
   },
   {
-   "id": "a997d5cc",
-   "title": "COP31'de gıda israfına karşı uluslararası imza",
-   "summary": "Birleşmiş Milletler İklim Değişikliği Konferansı'nda (COP31) gıda kaybı ve israfıyla mücadeleye yönelik mutabakat zaptı imzalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/cop31de-gida-israfina-karsi-uluslararasi-imza-1750809",
-   "image": "https://images.ntv.com.tr/images/COP31DE-GIDA-ISRAFINA-KARSI-ULUSLARARAS_1607920_478007-884443.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-14T07:49:41+00:00",
-   "url": "/haber/cop31-de-gida-israfina-karsi-uluslararasi-imza-a997d5cc/"
-  },
-  {
    "id": "fa7effd1",
    "title": "Mercedes-Benz, Almanya’daki tesislerine yönelik tüm yeni yatırımları askıya alma kararı aldı",
    "summary": "Mercedes-Benz yönetim kurulu, Almanya’daki tesislere yönelik tüm yeni yatırımları “şimdilik” askıya alma kararı aldı. Şirketin bu kararı, Almanya’daki yüksek işçilik maliyetleri ve işçi konseyi ile IG Metall…",
@@ -803,17 +814,6 @@
    "category": "teknoloji",
    "date": "2026-11-14T07:32:46+00:00",
    "url": "/haber/openai-yapay-zeka-ajanlarinin-odeme-yapabilmesine-imkan-taniyan-chatgp-9fd20d90/"
-  },
-  {
-   "id": "1f40e7b2",
-   "title": "Google Wallet Gemini, ABD'de harcamayı okuyor",
-   "summary": "Gemini, Wallet verileriyle bütçe ve abonelik yanıtları verecek; özellik ABD'de ve 18 yaş üzeri kişisel hesaplarla sınırlı. Türkiye için ne değişiyor?",
-   "link": "https://shiftdelete.net/gemini-google-wallet",
-   "image": "https://shiftdelete.net/static/img/content/26-11/14/google-wallet-gemini.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-14T07:31:53+00:00",
-   "url": "/haber/google-wallet-gemini-abd-de-harcamayi-okuyor-1f40e7b2/"
   },
   {
    "id": "190c3c9e",
