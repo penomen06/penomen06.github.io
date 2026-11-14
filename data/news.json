@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:01:07.318248+00:00",
+ "updated": "2026-11-14T00:30:54.046943+00:00",
  "items": [
   {
    "id": "03298c9f",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-14T00:00:00+00:00",
+   "date": "2026-11-14T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-03298c9f/"
   },
   {
@@ -22,6 +22,28 @@
    "category": "gundem",
    "date": "2026-11-13T23:36:46+00:00",
    "url": "/haber/abd-de-tum-ucuslar-durduruldu-bu-yeni-bir-11-eylul-degil-6d8d2203/"
+  },
+  {
+   "id": "d2789da5",
+   "title": "ABD'de Demokrat aday Laubacher, Cumhuriyetçi Temsilciler Meclisi Üyesi Boebert'i mağlup etti",
+   "summary": "ABD ara seçimlerinde Colorado eyaletinin 4. Kongre Bölgesi’nde yarışan Demokrat aday Eileen Laubacher, Cumhuriyetçi Temsilciler Meclisi Üyesi Lauren Boebert'i mağlup ederek seçimi kazandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-demokrat-aday-laubacher-cumhuriyetci-temsilciler-meclisi-uyesi-boeberti-maglup-etti/4124815",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T23:18:11+00:00",
+   "url": "/haber/abd-de-demokrat-aday-laubacher-cumhuriyetci-temsilciler-meclisi-uyesi-d2789da5/"
+  },
+  {
+   "id": "d6f753cb",
+   "title": "BM Güvenlik Konseyi'ndeki toplantıda ABD ile İran birbirini suçladı",
+   "summary": "Orta Doğu'daki durumu ele almak için toplanan Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) ABD, İran'ı \"uluslararası deniz güvenliğini baltalamakla\" suçlarken İran da ABD'yi \"yasa dışı bir saldırganlık savaşı…",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyindeki-toplantida-abd-ile-iran-birbirini-sucladi/4124813",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T23:17:45+00:00",
+   "url": "/haber/bm-guvenlik-konseyi-ndeki-toplantida-abd-ile-iran-birbirini-sucladi-d6f753cb/"
   },
   {
    "id": "b08cf079",
@@ -77,6 +99,17 @@
    "category": "teknoloji",
    "date": "2026-11-13T21:53:07+00:00",
    "url": "/haber/amerika-da-ucuslar-durduruldu-neler-oluyor-5c53beeb/"
+  },
+  {
+   "id": "83bb6280",
+   "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Lübnan'da Trablusşamlı iş insanlarıyla görüştü",
+   "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, Lübnan'ın kuzeyindeki Trablusşam kentinde iş insanlarıyla bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-lubnanda-trablussamli-is-insanlariyla-gorustu/4124790",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T21:48:57+00:00",
+   "url": "/haber/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-lubnan-da-trab-83bb6280/"
   },
   {
    "id": "5f5a3dbe",
@@ -332,17 +365,6 @@
    "url": "/haber/turkiye-ve-cin-den-dev-enerji-anlasmasi-7-gw-lik-gunes-ve-ruzgar-enerj-9701c3cc/"
   },
   {
-   "id": "2a66abef",
-   "title": "ABD Senatosu'ndaki Demokratlar arasında liderlik yarışı hızlandı",
-   "summary": "ABD'de Kongre ara seçimlerinden sonra Senato'daki Demokrat adaylar, çoğunluk liderliği için yarışırken, Maryland Senatörü Chris Van Hollen, New York Senatörü Chuck Schumer'e karşı adaylığını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-senatosundaki-demokratlar-arasinda-liderlik-yarisi-hizlandi/4124701",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T19:23:35+00:00",
-   "url": "/haber/abd-senatosu-ndaki-demokratlar-arasinda-liderlik-yarisi-hizlandi-2a66abef/"
-  },
-  {
    "id": "351ece39",
    "title": "Nvidia'daki seks skandalı Beyaz Saray üzerinde nasıl baskı oluşturuyor?",
    "summary": "Jensen Huang'ın özel hayatı krizi tetiklemiş olabilir, ancak sorular artık Beyaz Saray'ın kendisine kadar uzanıyor.",
@@ -376,17 +398,6 @@
    "url": "/haber/turkiye-sigorta-fon-kazancini-tmsf-ye-iade-etti-286830c6/"
   },
   {
-   "id": "c0c96a5e",
-   "title": "ABD-Çin Ticaret Kurulu'nun ilk resmi toplantısı yapıldı",
-   "summary": "ABD Ticaret Temsilciliği (USTR), ABD-Çin Ticaret Kurulu'nun ilk resmi toplantısının yapıldığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abd-cin-ticaret-kurulunun-ilk-resmi-toplantisi-yapildi-/4124690",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T19:03:26+00:00",
-   "url": "/haber/abd-cin-ticaret-kurulu-nun-ilk-resmi-toplantisi-yapildi-c0c96a5e/"
-  },
-  {
    "id": "fd54aaff",
    "title": "Gatto'nun yeni fragmanı yayınlandı: Pixar'ın el çizimi ilk animasyon filmi",
    "summary": "Efsanevi animasyon stüdyosu Pixar'ın el çizimi ilk animasyon filmi olmasıyla dikkat çeken Gatto'nun ilk fragmanı yayınlandı. Önümüzdeki yılın başında sinemaseverlerle buluşacak.",
@@ -407,17 +418,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T19:00:00+00:00",
    "url": "/haber/huawei-nin-yeni-nova-katlanabiliri-2027-ye-kaldi-e60fc4b1/"
-  },
-  {
-   "id": "97def169",
-   "title": "Bakan Çiftçi'den yolda kalan iki kadına yardım eden polislere teşekkür paylaşımı",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, Bartın'da gece saatlerinde aracı arızalanarak yolda kalan iki kadına yardım eden polislere teşekkür etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftciden-yolda-kalan-iki-kadina-yardim-eden-polislere-tesekkur-paylasimi/4124684",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T18:47:11+00:00",
-   "url": "/haber/bakan-ciftci-den-yolda-kalan-iki-kadina-yardim-eden-polislere-tesekkur-97def169/"
   },
   {
    "id": "dda27843",
