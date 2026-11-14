@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:30:54.046943+00:00",
+ "updated": "2026-11-14T01:01:20.581740+00:00",
  "items": [
   {
    "id": "03298c9f",
@@ -9,19 +9,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-14T00:30:00+00:00",
+   "date": "2026-11-14T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-03298c9f/"
+  },
+  {
+   "id": "befc3e96",
+   "title": "Fed'in raporu yapay zekanın finansal istikrara yönelik riskler arasında öne çıktığını gösterdi",
+   "summary": "ABD Merkez Bankası (Fed), yapay zekanın finansal istikrara yönelik riskler arasında öne çıktığını, yüksek hisse senedi değerlemeleri, siber saldırılar ve yapay zeka ile bağlantılı karmaşık finansman türlerine ilişkin…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fedin-raporu-yapay-zekanin-finansal-istikrara-yonelik-riskler-arasinda-one-ciktigini-gosterdi/4124826",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T00:51:39+00:00",
+   "url": "/haber/fed-in-raporu-yapay-zekanin-finansal-istikrara-yonelik-riskler-arasind-befc3e96/"
+  },
+  {
+   "id": "29948f80",
+   "title": "ABD'de yük gemisinin çarptığı kruz gemisi yan yattı",
+   "summary": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde, New Orleans Limanı yakınlarında bir tanker ile bir kruz gemisi çarpıştı.",
+   "link": "https://www.bbc.com/turkce/articles/cv0l3wyrnzw2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e97d/live/a9f7f4f0-dfaa-11f1-93e1-3b657b665bcf.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-14T00:50:02+00:00",
+   "url": "/haber/abd-de-yuk-gemisinin-carptigi-kruz-gemisi-yan-yatti-29948f80/"
   },
   {
    "id": "6d8d2203",
    "title": "ABD'de tüm uçuşlar durduruldu: 'Bu yeni bir 11 Eylül değil'",
-   "summary": "ABD İç Güvenlik Bakanı Markwayne Mullin, \"uçakların yerde tutulması kararına bir telekomünikasyon kesintisinin yol açtığını\" söyledi. Kaç uçuşun durdurulduğu ve sorunun ne zaman çözülebileceği netlik kazanmadı.",
+   "summary": "ABD İç Güvenlik Bakanı Markwayne Mullin, \"uçakların yerde tutulması kararına bir telekomünikasyon kesintisinin yol açtığını\" söyledi. Türkiye'nin de aralarında bulunduğu 42 ülkenin talep üzerine ABD'ye uçuşları…",
    "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e32/live/525bb5e0-dfb6-11f1-93e1-3b657b665bcf.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-11-13T23:36:46+00:00",
+   "date": "2026-11-14T00:30:31+00:00",
    "url": "/haber/abd-de-tum-ucuslar-durduruldu-bu-yeni-bir-11-eylul-degil-6d8d2203/"
+  },
+  {
+   "id": "82a48776",
+   "title": "Venezuela'da geçiş süreci diyaloğunda dördüncü tur başlıyor",
+   "summary": "Venezuela'da hükümet kanadı ile muhalefetin bir kesimi, ABD öncülüğünde yürütülen geçiş süreci görüşmelerinin dördüncü turuna bugün başlayacak.",
+   "link": "https://www.aa.com.tr/tr/dunya/venezuelada-gecis-sureci-diyalogunda-dorduncu-tur-basliyor/4124823",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-14T00:23:32+00:00",
+   "url": "/haber/venezuela-da-gecis-sureci-diyalogunda-dorduncu-tur-basliyor-82a48776/"
+  },
+  {
+   "id": "29f032bd",
+   "title": "İsrail, UCM'deki toplantıya katılacak Filistinli insan hakları savunucusunun ülkeden çıkışına izin vermedi",
+   "summary": "İsrail makamlarının, Filistin'deki insan hakları kuruluşu El-Hak'ın Müdürü Şavan Cebbarin'in Uluslararası Ceza Mahkemesi'nde (UCM) bir toplantıya katılmaya hazırlandığı sırada işgal altındaki Batı Şeria'dan Ürdün'e…",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ucmdeki-toplantiya-katilacak-filistinli-insan-haklari-savunucusunun-ulkeden-cikisina-izin-vermedi/4124816",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T23:37:25+00:00",
+   "url": "/haber/israil-ucm-deki-toplantiya-katilacak-filistinli-insan-haklari-savunucu-29f032bd/"
   },
   {
    "id": "d2789da5",
@@ -33,6 +77,17 @@
    "category": "gundem",
    "date": "2026-11-13T23:18:11+00:00",
    "url": "/haber/abd-de-demokrat-aday-laubacher-cumhuriyetci-temsilciler-meclisi-uyesi-d2789da5/"
+  },
+  {
+   "id": "430e1231",
+   "title": "Prof. Dr. Gürkan Kumbaroğlu'ndan ihracatta \"karbon ayak izi\" uyarısı",
+   "summary": "Boğaziçi Üniversitesi Öğretim Üyesi ve Enerji Ekonomisi Derneği Başkanı Prof. Dr. Gürkan Kumbaroğlu, \"Türkiye'de üretilen ürünlerin karbon ayak izlerine bakmak durumundayız çünkü bu oran yüksekse ihracatta ek bir…",
+   "link": "https://www.aa.com.tr/tr/gundem/prof-dr-gurkan-kumbaroglundan-ihracatta-karbon-ayak-izi-uyarisi/4124814",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T23:18:01+00:00",
+   "url": "/haber/prof-dr-gurkan-kumbaroglu-ndan-ihracatta-karbon-ayak-izi-uyarisi-430e1231/"
   },
   {
    "id": "d6f753cb",
@@ -68,17 +123,6 @@
    "url": "/haber/abd-semalarinda-panik-yasaniyor-ulke-genelinde-tum-ucuslar-durduruldu-050af5b3/"
   },
   {
-   "id": "29948f80",
-   "title": "ABD'de yük gemisinin çarptığı kruz gemisi yan yattı",
-   "summary": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde, New Orleans Limanı yakınlarında bir tanker ile bir kruz gemisi çarpıştı.",
-   "link": "https://www.bbc.com/turkce/articles/cv0l3wyrnzw2o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e97d/live/a9f7f4f0-dfaa-11f1-93e1-3b657b665bcf.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-13T22:46:58+00:00",
-   "url": "/haber/abd-de-yuk-gemisinin-carptigi-kruz-gemisi-yan-yatti-29948f80/"
-  },
-  {
    "id": "e33ee800",
    "title": "UEFA Uluslar Ligi'nin 5. haftasında 10 maç oynandı",
    "summary": "UEFA Uluslar Ligi'nin 5. haftasına 10 maçla devam edildi.",
@@ -99,6 +143,61 @@
    "category": "teknoloji",
    "date": "2026-11-13T21:53:07+00:00",
    "url": "/haber/amerika-da-ucuslar-durduruldu-neler-oluyor-5c53beeb/"
+  },
+  {
+   "id": "62a59e08",
+   "title": "Gaziantepli öğrenciler kendi yazılımlarıyla İHA geliştirdi",
+   "summary": "Gaziantep'te öğrenciler, mekanik, elektronik ve yazılım sistemlerini kendileri tasarlayarak 120 metre irtifaya ulaşabilen sabit kanatlı insansız hava aracı (İHA) geliştirdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/gaziantepli-ogrenciler-kendi-yazilimlariyla-iha-gelistirdi/4124795",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T21:51:24+00:00",
+   "url": "/haber/gaziantepli-ogrenciler-kendi-yazilimlariyla-iha-gelistirdi-62a59e08/"
+  },
+  {
+   "id": "4f0672fe",
+   "title": "Başkentte zorunlu kış lastiği uygulaması öncesi lastikçilerde yoğunluk yaşanıyor",
+   "summary": "Yurt genelinde etkili olan soğuk hava nedeniyle ve 15 Kasım'da ticari araçlar için başlayacak zorunlu kış lastiği uygulaması öncesi lastik servislerinde yoğunluk yaşanıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/baskentte-zorunlu-kis-lastigi-uygulamasi-oncesi-lastikcilerde-yogunluk-yasaniyor/4124794",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T21:51:06+00:00",
+   "url": "/haber/baskentte-zorunlu-kis-lastigi-uygulamasi-oncesi-lastikcilerde-yogunluk-4f0672fe/"
+  },
+  {
+   "id": "29fcc595",
+   "title": "Milli cimnastikçilerde \"olimpiyat kota yılı\" hazırlıkları",
+   "summary": "Artistik Cimnastik Milli Takımı sporcuları Mert Efe Kılıçer ile Altan Doğan, 2028 Los Angeles Olimpiyat Oyunları kotası için 2027'de önemli organizasyonlarda mücadele edecekler.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-cimnastikcilerde-olimpiyat-kota-yili-hazirliklari/4124793",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T21:50:50+00:00",
+   "url": "/haber/milli-cimnastikcilerde-olimpiyat-kota-yili-hazirliklari-29fcc595/"
+  },
+  {
+   "id": "be813687",
+   "title": "Milli boksör Gizem Özer, kıtalar arası turnuvada Avrupa'yı temsil edecek",
+   "summary": "World Boxing tarafından bu yıl ilk kez düzenlenecek kıtalar arası turnuvada Avrupa'yı kadınlar 60 kiloda milli boksör Gizem Özer temsil edecek.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-boksor-gizem-ozer-kitalar-arasi-turnuvada-avrupayi-temsil-edecek/4124792",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T21:50:16+00:00",
+   "url": "/haber/milli-boksor-gizem-ozer-kitalar-arasi-turnuvada-avrupa-yi-temsil-edece-be813687/"
+  },
+  {
+   "id": "82c5146b",
+   "title": "Erzurum'da 17 yıllık ortalamaya göre ekimde sıcaklık azaldı, yağış yaklaşık yüzde 78 arttı",
+   "summary": "Erzurum'da bu yıl ekim ayında hava sıcaklıkları, uzun yıllar ortalamasına göre 0,4 derece düştü, yağış miktarı ise yaklaşık yüzde 78 arttı.",
+   "link": "https://www.aa.com.tr/tr/gundem/erzurumda-17-yillik-ortalamaya-gore-ekimde-sicaklik-azaldi-yagis-yaklasik-yuzde-78-artti/4124791",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-13T21:50:04+00:00",
+   "url": "/haber/erzurum-da-17-yillik-ortalamaya-gore-ekimde-sicaklik-azaldi-yagis-yakl-82c5146b/"
   },
   {
    "id": "83bb6280",
@@ -134,17 +233,6 @@
    "url": "/haber/budo-nun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi-c95e13b6/"
   },
   {
-   "id": "9763b4f4",
-   "title": "ABD Federal Havacılık İdaresi ülke genelinde uçuşları durdurma kararı aldı",
-   "summary": "ABD Federal Havacılık İdaresi (FAA), hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu nedeniyle ABD genelindeki tüm havalimanlarında uçuşları durdurma kararı aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-federal-havacilik-idaresi-ulke-genelinde-ucuslari-durdurma-karari-aldi/4124785",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T21:39:40+00:00",
-   "url": "/haber/abd-federal-havacilik-idaresi-ulke-genelinde-ucuslari-durdurma-karari-9763b4f4/"
-  },
-  {
    "id": "c485b943",
    "title": "Mekke Savunma Anlaşması yürürlüğe girdi",
    "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Savunma Anlaşması, Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
@@ -167,28 +255,6 @@
    "url": "/haber/abdde-tum-ucuslar-durduruldu-a8082d17/"
   },
   {
-   "id": "1bc834ab",
-   "title": "Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun Resmi Gazete'de",
-   "summary": "Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı arasında ortak savunmaya ilişkin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun, Resmi Gazete'de yayımlandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-resmi-gazetede/4124780",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T21:24:31+00:00",
-   "url": "/haber/mekke-anlasmasi-nin-onaylanmasinin-uygun-bulunduguna-dair-kanun-resmi-1bc834ab/"
-  },
-  {
-   "id": "486e7d7a",
-   "title": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde tanker yolcu gemisine çarptı",
-   "summary": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde tanker, 129 kişinin bulunduğu ve kıyıda bekleyen büyük yolcu gemisine çarptı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdnin-louisiana-eyaletindeki-mississippi-nehrinde-tanker-yolcu-gemisine-carpti/4124778",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T21:19:36+00:00",
-   "url": "/haber/abd-nin-louisiana-eyaletindeki-mississippi-nehri-nde-tanker-yolcu-gemi-486e7d7a/"
-  },
-  {
    "id": "347a8652",
    "title": "Mekke Anlaşması yürürlüğe girdi",
    "summary": "Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı arasında ortak savunmaya ilişkin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun, Resmi Gazete'de yayımlandı.",
@@ -200,17 +266,6 @@
    "url": "/haber/mekke-anlasmasi-yururluge-girdi-347a8652/"
   },
   {
-   "id": "1c4ceb23",
-   "title": "Gazze'deki ateşkesin arabulucuları İsrail ihlallerinin durdurulmasını ve yardımların artırılmasını istedi",
-   "summary": "Türkiye, Mısır ve Katar istihbarat başkanları, Gazze Şeridi'ndeki son gelişmeleri ele almak üzere Kahire'de üçlü toplantı gerçekleştirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-ateskesin-arabuluculari-israil-ihlallerinin-durdurulmasini-ve-yardimlarin-artirilmasini-istedi/4124773",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T20:59:27+00:00",
-   "url": "/haber/gazze-deki-ateskesin-arabuluculari-israil-ihlallerinin-durdurulmasini-1c4ceb23/"
-  },
-  {
    "id": "e4f4f5ab",
    "title": "ChatGPT artık alışveriş de yapabilecek: ChatGPT Wallet tanıtıldı",
    "summary": "OpenAI, ChatGPT Wallet özelliğini kullanıma sundu. Yeni sistem, yapay zeka ajanlarının kullanıcılar adına ürün araştırıp satın alma işlemlerini hazırlamasına imkan tanıyor.",
@@ -220,17 +275,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T20:59:00+00:00",
    "url": "/haber/chatgpt-artik-alisveris-de-yapabilecek-chatgpt-wallet-tanitildi-e4f4f5ab/"
-  },
-  {
-   "id": "ddfaf988",
-   "title": "BM: Hürmüz ve Babulmendeb boğazlarındaki gerilim küresel güvenliği tehdit ediyor",
-   "summary": "Birleşmiş Milletler (BM), Hürmüz ve Babulmendeb boğazlarında devam eden gerilimin uluslararası barış ve güvenlik ile bölgesel istikrar ve küresel ekonomi açısından ciddi riskler oluşturduğu uyarısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-hurmuz-ve-babulmendeb-bogazlarindaki-gerilim-kuresel-guvenligi-tehdit-ediyor/4124767",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T20:49:15+00:00",
-   "url": "/haber/bm-hurmuz-ve-babulmendeb-bogazlarindaki-gerilim-kuresel-guvenligi-tehd-ddfaf988/"
   },
   {
    "id": "5a600dbe",
@@ -255,17 +299,6 @@
    "url": "/haber/akinci-ve-bayraktar-tb2-kara-yoluna-basariyla-inip-kalkti-46b84bf1/"
   },
   {
-   "id": "774982a1",
-   "title": "İş insanı Cafer Mahiroğlu'na yönelik soruşturmada gözaltına alınan 5 şüpheli tutuklandı",
-   "summary": "İş insanı Mahiroğlu hakkında \"rüşvet\", \"ihaleye fesat karıştırma\" ve \"suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından yürütülen soruşturma kapsamında düzenlenen ikinci dalga operasyonda gözaltına alınan 8…",
-   "link": "https://www.aa.com.tr/tr/gundem/is-insani-cafer-mahirogluna-yonelik-sorusturmada-gozaltina-alinan-5-supheli-tutuklandi/4124735",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T20:19:57+00:00",
-   "url": "/haber/is-insani-cafer-mahiroglu-na-yonelik-sorusturmada-gozaltina-alinan-5-s-774982a1/"
-  },
-  {
    "id": "b495c55b",
    "title": "Elektrikli araç satışları yeniden büyüdü: Avrupa ve ihracat etkisi",
    "summary": "Dünya genelinde elektrikli ve şarj edilebilir hibrit araç satışları ekimde yüzde 8 artarak 2,09 milyona ulaştı. Avrupa’daki büyüme ve Çin’den yapılan ihracat, küresel satışları destekledi.",
@@ -286,28 +319,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T20:00:00+00:00",
    "url": "/haber/gta-6-nin-icinde-bir-cizgi-dizi-izlenebilecek-f9ea8d80/"
-  },
-  {
-   "id": "4c19ac1d",
-   "title": "Anadolu Efes, Virtus Bologna'yı 103-91 yendi",
-   "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 11. haftasında Anadolu Efes, sahasında İtalya ekibi Virtus Bologna'yı 103-91 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-virtus-bolognayi-103-91-yendi/4124720",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T19:52:02+00:00",
-   "url": "/haber/anadolu-efes-virtus-bologna-yi-103-91-yendi-4c19ac1d/"
-  },
-  {
-   "id": "b06a1a44",
-   "title": "AB, Ukrayna müzakerelerinde Avrupa'yı temsil edecek 5 ülke ve AB kurumlarından oluşan ekip üzerinde anlaştı",
-   "summary": "AB Konseyi Başkanı Antonio Costa, liderlerin Ukrayna'da barış müzakerelerinde Avrupa'yı temsil edecek ekibin AB kurumları ile Almanya, Polonya, Fransa, İtalya ve İngiltere'nin yer aldığı E5 grubundan oluşması konusunda…",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-ukrayna-muzakerelerinde-avrupayi-temsil-edecek-5-ulke-ve-ab-kurumlarindan-olusan-ekip-uzerinde-anlasti/4124715",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T19:48:17+00:00",
-   "url": "/haber/ab-ukrayna-muzakerelerinde-avrupa-yi-temsil-edecek-5-ulke-ve-ab-kuruml-b06a1a44/"
   },
   {
    "id": "05fbbb84",
@@ -473,17 +484,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T18:00:00+00:00",
    "url": "/haber/github-da-ele-gecirilen-hesaplar-sir-topladi-57b8355d/"
-  },
-  {
-   "id": "fd04f6a8",
-   "title": "Ulaştırma ve Altyapı Bakanı Uraloğlu: Kıbrıs meselesinde adil ve kalıcı çözüm için çabalarımız sürecek",
-   "summary": "Bakan Uraloğlu \"Kıbrıs meselesinin, Ada'daki gerçekler temelinde, Kıbrıs Türk halkının özden gelen hakları olan egemen eşitliğinin tescilini içeren adil, kalıcı, sürdürülebilir çözümüne yönelik güçlü çabalarımıza ara…",
-   "link": "https://www.aa.com.tr/tr/gundem/ulastirma-ve-altyapi-bakani-uraloglu-kibris-meselesinde-adil-ve-kalici-cozum-icin-cabalarimiz-surecek/4124640",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-13T17:39:46+00:00",
-   "url": "/haber/ulastirma-ve-altyapi-bakani-uraloglu-kibris-meselesinde-adil-ve-kalici-fd04f6a8/"
   },
   {
    "id": "b504d782",
