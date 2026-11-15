@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-15T19:01:04.158635+00:00",
+ "updated": "2026-11-15T19:31:03.901191+00:00",
  "items": [
+  {
+   "id": "b95cc669",
+   "title": "HBO, merakla beklenen Harry Potter dizisinden 1.5 dakikalık bir sahne paylaştı",
+   "summary": "Harry Potter bu kez de TV ekranlarına geliyor. HBO, bu yıl bitmeden izleyicilere sunacağı Harry Potter dizisinden 1.5 dakikalık bir sahne paylaştı. İşte Hogwarts'ın kapılarını yeniden açan o sahne.",
+   "link": "https://www.donanimhaber.com/hbo-harry-potter-dizisinden-1-5-dakikalik-bir-sahne-paylasti--212947",
+   "image": "https://www.donanimhaber.com/images/images/haber/212947/1200x675hbo-harry-potter-dizisinden-1-5-dakikalik-bir-sahne-paylasti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-15T19:30:00+00:00",
+   "url": "/haber/hbo-merakla-beklenen-harry-potter-dizisinden-1-5-dakikalik-bir-sahne-p-b95cc669/"
+  },
+  {
+   "id": "73b34c71",
+   "title": "Android Auto'da benzin fiyatları artık ekranda",
+   "summary": "Fuelio, Android Auto üzerinden yakındaki benzin istasyonlarının fiyatlarını karşılaştırmayı sağlıyor. Ancak fiyatlar istasyonlardan değil, sürücülerden geliyor.",
+   "link": "https://shiftdelete.net/fuelio-android-auto-yakit-fiyati-karsilastirma",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/b34ca121a52317ae36b3e67b91556d36fd237e7f.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-15T19:11:07+00:00",
+   "url": "/haber/android-auto-da-benzin-fiyatlari-artik-ekranda-73b34c71/"
+  },
+  {
+   "id": "e3c27826",
+   "title": "Bursa’da 5 ev alevlere teslim oldu. 10 kişi dumandan etkilendi",
+   "summary": "Bursa’nın İnegöl ilçesinde bir evde çıkan ve 4 eve daha sıçrayan yangında 10 kişi dumandan etkilendi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-1751033",
+   "image": "https://images.ntv.com.tr/images/yangın.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-15T19:08:49+00:00",
+   "url": "/haber/bursa-da-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-e3c27826/"
+  },
   {
    "id": "a6b5cffb",
    "title": "Çin'in elektrikli yolcu uçağı pilotla uçtu",
@@ -22,17 +55,6 @@
    "category": "teknoloji",
    "date": "2026-11-15T18:34:08+00:00",
    "url": "/haber/korku-efsanesi-friday-the-13th-13-cuma-yeni-bir-filmle-geri-donuyor-e73c961a/"
-  },
-  {
-   "id": "e3c27826",
-   "title": "Bursa’da 5 ev alevlere teslim oldu. 10 kişi dumandan etkilendi",
-   "summary": "Bursa’nın İnegöl ilçesinde bir evde çıkan ve 4 eve daha sıçrayan yangında 10 kişi dumandan etkilendi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-1751033",
-   "image": "https://images.ntv.com.tr/images/yangın.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-15T18:29:32+00:00",
-   "url": "/haber/bursa-da-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-e3c27826/"
   },
   {
    "id": "eea0fc1b",
@@ -640,17 +662,6 @@
    "url": "/haber/outlook-coktu-otel-havuzunda-zehirlenme-yasandi-a4ecd208/"
   },
   {
-   "id": "9d3693c2",
-   "title": "Nvidia'nın bellek krizindeki payı tartışılıyor",
-   "summary": "Nvidia manipülasyon iddiası, Wall Street Journal'ın aktardığı bir toplantıya dayanıyor. Geçici CEO Colette Kress, döngüsel finansman anlaşmalarının büyük risk taşıdığını söylemiş.",
-   "link": "https://shiftdelete.net/nvidia-manipulasyon-iddiasi-bellek-krizi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nvidia-genel-merkez-kapak-1511.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-15T12:41:00+00:00",
-   "url": "/haber/nvidia-nin-bellek-krizindeki-payi-tartisiliyor-9d3693c2/"
-  },
-  {
    "id": "7ef077bf",
    "title": "Cumhurbaşkanı Erdoğan'dan Filistin Devleti'nin ilanının 38. yıl dönümü mesajı",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Filistin Devleti'nin ilanının 38. yıl dönümünü kutladı.",
@@ -704,17 +715,6 @@
    "category": "gundem",
    "date": "2026-11-15T11:31:39+00:00",
    "url": "/haber/meclis-te-yeni-haftada-yogun-gundem-genel-saglik-sigortasi-borcuna-af-5d5acd01/"
-  },
-  {
-   "id": "087723e4",
-   "title": "Nvidia’da skandal bitmiyor: Bellek piyasasını manipüle mi ediyor?",
-   "summary": "Yapay zekâ piyasasında özelleştirilmiş yongalara olan talep Nvidia içerisinde alarm zillerini çaldırıyor. Jensen Huang buna çok parlak bir çözüm geliştirmiş.",
-   "link": "https://www.donanimhaber.com/nvidia-asil-yuzunu-gostermeye-basladi--212929",
-   "image": "https://www.donanimhaber.com/images/images/haber/212929/1200x675nvidia-asil-yuzunu-gostermeye-basladi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-15T11:30:00+00:00",
-   "url": "/haber/nvidia-da-skandal-bitmiyor-bellek-piyasasini-manipule-mi-ediyor-087723e4/"
   },
   {
    "id": "c0171f52",
