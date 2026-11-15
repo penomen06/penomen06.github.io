@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-15T13:30:50.337782+00:00",
+ "updated": "2026-11-15T14:01:02.436836+00:00",
  "items": [
+  {
+   "id": "706b8ede",
+   "title": "Jensen Huang'a destek büyüyor: İmza kampanyası 100 bin kişiyi aştı",
+   "summary": "NVIDIA'da Jensen Huang'ın görevden ayrılmasının ardından başlayan tartışmalar büyüyor. Elon Musk ve Tim Sweeney gibi isimlerin destek verdiği geri dönüş kampanyası 116 binden fazla imzaya ulaştı.",
+   "link": "https://www.donanimhaber.com/jensen-huang-a-destek-buyuyor-imza-kampanyasi-100-bini-asti--212942",
+   "image": "https://www.donanimhaber.com/images/images/haber/212942/1200x675jensen-huang-a-destek-buyuyor-imza-kampanyasi-100-bini-asti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-15T14:00:00+00:00",
+   "url": "/haber/jensen-huang-a-destek-buyuyor-imza-kampanyasi-100-bin-kisiyi-asti-706b8ede/"
+  },
+  {
+   "id": "5af48045",
+   "title": "Meta'ya 805 milyon euro ceza: 'Facebook fotoğraflara izinsiz erişti'",
+   "summary": "İtalya Kişisel Verileri Koruma Kurumu, Facebook'un kullanıcı fotoğraf ve videolarına izinsiz eriştiği gerekçesiyle Meta şirketine 805 milyon euro ceza verdi.",
+   "link": "https://www.bbc.com/turkce/articles/cky86nwdn44eo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/948b/live/9af11520-e0fb-11f1-b71a-437523a4d747.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-15T13:52:49+00:00",
+   "url": "/haber/meta-ya-805-milyon-euro-ceza-facebook-fotograflara-izinsiz-eristi-5af48045/"
+  },
+  {
+   "id": "b5dd2e29",
+   "title": "Yeni Parti kurultayında ikinci gün. 160 kişilik Parti Meclisi listesi belli oldu",
+   "summary": "Yeni Parti 1. Olağan Kurultayı'nda, Parti Meclisi (PM) ve Yüksek Disiplin Kurulu (YDK) üyelerinin belirlenmesi için oylamaya geçildi.",
+   "link": "https://www.ntv.com.tr/turkiye/yeni-parti-kurultayinda-ikinci-gun-160-kisilik-parti-meclisi-listesi-belli-oldu-1751004",
+   "image": "https://images.ntv.com.tr/images/YENI-PARTININ-1INCI-OLAGAN-KURULTAYIN_1609909_478619-708345.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-15T13:42:45+00:00",
+   "url": "/haber/yeni-parti-kurultayinda-ikinci-gun-160-kisilik-parti-meclisi-listesi-b-b5dd2e29/"
+  },
+  {
+   "id": "696071d7",
+   "title": "Kirin 9050'nin modemi dört SIM'i birden taşıyor",
+   "summary": "Huawei, Kirin 9050 yongasındaki Balong AI modemin ayrıntılarını açıkladı. Modem dört SIM destekliyor, ancak aynı anda üç hat bekleme modunda kalabiliyor.",
+   "link": "https://shiftdelete.net/balong-ai-modem-kirin-9050-dort-sim",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/huawei-kirin-9050-pro-kapak-1511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-15T13:41:00+00:00",
+   "url": "/haber/kirin-9050-nin-modemi-dort-sim-i-birden-tasiyor-696071d7/"
+  },
+  {
+   "id": "ab70c940",
+   "title": "Milli trampolin cimnastikçi Sinan Cankurt'tan tarihi madalya",
+   "summary": "Sinan Cankurt, Gençler Dünya Trampolin Cimnastik Şampiyonası'nda elde ettiği 2'ncilikle Türkiye'ye organizasyon tarihinde erkeklerdeki ilk madalyasını kazandırdı.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-trampolin-cimnastikci-sinan-cankurttan-tarihi-madalya/4125827",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-15T13:35:07+00:00",
+   "url": "/haber/milli-trampolin-cimnastikci-sinan-cankurt-tan-tarihi-madalya-ab70c940/"
+  },
   {
    "id": "672c6dcd",
    "title": "En iyi Samsung televizyon modelleri: Micro RGB, OLED, Neo QLED TV fiyatları",
@@ -11,6 +66,17 @@
    "category": "teknoloji",
    "date": "2026-11-15T13:30:00+00:00",
    "url": "/haber/en-iyi-samsung-televizyon-modelleri-micro-rgb-oled-neo-qled-tv-fiyatla-672c6dcd/"
+  },
+  {
+   "id": "c1a32870",
+   "title": "İran: Hürmüz Boğazı'nda deniz mayınlarına çarpan 2 petrol tankerinden biri battı",
+   "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın güneyinde \"izinsiz\" geçiş güzergahından ilerlemeye çalışan 2 petrol tankerinin deniz mayınlarına çarparak alev aldığını, tankerlerden birinin battığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-deniz-mayinlarina-carpan-2-petrol-tankerinden-biri-batti/4125823",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-15T13:29:02+00:00",
+   "url": "/haber/iran-hurmuz-bogazi-nda-deniz-mayinlarina-carpan-2-petrol-tankerinden-b-c1a32870/"
   },
   {
    "id": "6a2c7e8d",
@@ -55,17 +121,6 @@
    "category": "teknoloji",
    "date": "2026-11-15T13:11:00+00:00",
    "url": "/haber/outlook-coktu-otel-havuzunda-zehirlenme-yasandi-a4ecd208/"
-  },
-  {
-   "id": "fa169c0b",
-   "title": "Yeni Parti kurultayında ikinci gün. 160 kişilik Parti Meclis listesi belli oldu",
-   "summary": "Yeni Parti 1. Olağan Kurultayı'nda, Parti Meclisi (PM) ve Yüksek Disiplin Kurulu (YDK) üyelerinin belirlenmesi için oylamaya geçildi.",
-   "link": "https://www.ntv.com.tr/turkiye/yeni-parti-kurultayinda-ikinci-gun-160-kisilik-parti-meclis-listesi-belli-oldu-1751004",
-   "image": "https://images.ntv.com.tr/images/YENI-PARTININ-1INCI-OLAGAN-KURULTAYIN_1609909_478619-708345.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-15T13:05:08+00:00",
-   "url": "/haber/yeni-parti-kurultayinda-ikinci-gun-160-kisilik-parti-meclis-listesi-be-fa169c0b/"
   },
   {
    "id": "8db8927e",
@@ -464,17 +519,6 @@
    "url": "/haber/bakan-goktas-tan-sifir-atik-kadin-elcileri-icin-basvuru-cagrisi-8c2663e0/"
   },
   {
-   "id": "c6f1f809",
-   "title": "Fırat Nehri'nin Karababa Köprüsü çevresindeki yatağı kurudu",
-   "summary": "Atatürk ve Birecik barajlarında yürütülen sızıntı kontrolü çalışmaları nedeniyle su seviyesi düşürülen Fırat Nehri'nin Karababa Köprüsü çevresindeki yatağı kurudu.",
-   "link": "https://www.aa.com.tr/tr/gundem/firat-nehrinin-karababa-koprusu-cevresindeki-yatagi-kurudu/4125674",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-15T09:52:09+00:00",
-   "url": "/haber/firat-nehri-nin-karababa-koprusu-cevresindeki-yatagi-kurudu-c6f1f809/"
-  },
-  {
    "id": "41a153e6",
    "title": "GTA 6'nın şarkı listesi bir plakla sızdı",
    "summary": "GTA 6'nın resmi albümündeki 34 şarkının tam listesi, bir mağazadaki plak kopyasıyla sızdı. Listede Dua Lipa, Lana Del Rey ve Playboi Carti de var.",
@@ -506,17 +550,6 @@
    "category": "teknoloji",
    "date": "2026-11-15T09:30:00+00:00",
    "url": "/haber/a101-marketler-on-road-atv-satiyor-b35834a1/"
-  },
-  {
-   "id": "ee570388",
-   "title": "İklim risklerine karşı sigorta sektörü \"karar masası\"nda yer almayı bekliyor",
-   "summary": "Türkiye Sigorta Birliği (TSB) Başkanı Yaşar, politika yapıcıların sigortacılığın önleyici rolünden faydalanması gerektiğini belirterek, \"İklim riskleri konuşulacaksa sigortacıların masada bulunması hatta masanın baş…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/iklim-risklerine-karsi-sigorta-sektoru-karar-masasinda-yer-almayi-bekliyor/4125649",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-15T09:29:57+00:00",
-   "url": "/haber/iklim-risklerine-karsi-sigorta-sektoru-karar-masasi-nda-yer-almayi-bek-ee570388/"
   },
   {
    "id": "40d0338e",
@@ -783,17 +816,6 @@
    "url": "/haber/16-10-ekranli-laptop-onerileri-belgeler-ve-yan-yana-pencereler-icin-se-d109e4c7/"
   },
   {
-   "id": "6fe44caa",
-   "title": "Avuç içine sığan oyun kolunda iki analog çubuk",
-   "summary": "CRKD'nin Atom Plus oyun kolu, 8BitDo Zero 2'den küçük gövdesine çift analog çubuk, tetikler, titreşim ve hareket kontrolleri sığdırıyor.",
-   "link": "https://shiftdelete.net/crkd-atom-plus-minik-oyun-kolu",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/crkd-atom-plus-oyun-kolu-kapak-1411.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-15T06:00:00+00:00",
-   "url": "/haber/avuc-icine-sigan-oyun-kolunda-iki-analog-cubuk-6fe44caa/"
-  },
-  {
    "id": "0761d938",
    "title": "Bitcoin düşüşü derinleşiyor, milyarlarca dolar tasfiye edildi",
    "summary": "En kötü yıl performansından birine imza atan Bitcoin yeni bir düşüş dalgası daha başlattı. Yüzde 10 daha düşen Bitcoin fiyatı 63 bin doları zorluyor.",
@@ -803,17 +825,6 @@
    "category": "teknoloji",
    "date": "2026-11-14T23:30:00+00:00",
    "url": "/haber/bitcoin-dususu-derinlesiyor-milyarlarca-dolar-tasfiye-edildi-0761d938/"
-  },
-  {
-   "id": "2345a726",
-   "title": "GTA 6'nın beş ayda 55 milyon kopya satması bekleniyor",
-   "summary": "Investor’s Business Daily tarafından paylaşılan son analizler, GTA 6'nın dört buçuk ay gibi kısa bir sürede 55 milyondan fazla kopya satabileceğini söylüyor. İşte detaylar.",
-   "link": "https://www.donanimhaber.com/gta-6-bes-ayda-55-milyon-kopya-satabilir--212926",
-   "image": "https://www.donanimhaber.com/images/images/haber/212926/1200x675gta-6-bes-ayda-55-milyon-kopya-satabilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-14T19:35:53+00:00",
-   "url": "/haber/gta-6-nin-bes-ayda-55-milyon-kopya-satmasi-bekleniyor-2345a726/"
   },
   {
    "id": "7bcce3f8",
@@ -913,17 +924,6 @@
    "category": "gundem",
    "date": "2026-11-14T11:10:19+00:00",
    "url": "/haber/beyaz-saray-trump-putin-ve-si-cin-de-gorusmeyi-planliyor-67213c1c/"
-  },
-  {
-   "id": "6d8d2203",
-   "title": "ABD'de hava trafiğinin durdurulmasına ne yol açtı?",
-   "summary": "ABD'de hava trafik kontrolündeki \"iletişim sorunu\" nedeniyle yaklaşık dört saat boyunca ülkede tüm hava trafiği durduruldu. FlightAware verilerine göre, süreçte 8.500'den fazla uçuş ertelendi ve yaklaşık 8.000 uçuş…",
-   "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ba6/live/580c5210-e01a-11f1-ad34-45f8f10f7c55.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-14T10:59:28+00:00",
-   "url": "/haber/abd-de-hava-trafiginin-durdurulmasina-ne-yol-acti-6d8d2203/"
   },
   {
    "id": "53854195",
