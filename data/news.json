@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-15T18:00:59.938522+00:00",
+ "updated": "2026-11-15T18:30:52.570148+00:00",
  "items": [
+  {
+   "id": "eea0fc1b",
+   "title": "Trump, Putin ve Şi'den tarihi zirve: Dünya için nasıl sonuçlar çıkabilir?",
+   "summary": "Çin, Rusya ve ABD liderlerinin tarihte ilk kez düzenlenecek üçlü toplantısına yönelik hazırlıklar Avrupa'nın dikkatini çekiyor. Bazıları bu durumla, İkinci Dünya Savaşı sonrasında dünyanın nüfuz alanlarına bölünmesi…",
+   "link": "https://www.bbc.com/turkce/articles/cjdx1y7p47ydo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9de/live/369f6d80-df7d-11f1-93e1-3b657b665bcf.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-15T18:23:01+00:00",
+   "url": "/haber/trump-putin-ve-si-den-tarihi-zirve-dunya-icin-nasil-sonuclar-cikabilir-eea0fc1b/"
+  },
+  {
+   "id": "9570d017",
+   "title": "Cloudflare'in tarayıcısı insanlar için değil",
+   "summary": "Cloudflare, yapay zeka ajanları için geliştirdiği Kitesurf tarayıcısını açık kaynak yaptı. Sekme ve tema gibi insanlara yönelik özellikler yok, hedef düşük kaynak tüketimi.",
+   "link": "https://shiftdelete.net/kitesurf-cloudflare-yapay-zeka-ajanlari-tarayici",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/cloudflare-lav-lambasi-duvari-kapak-1511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-15T18:11:06+00:00",
+   "url": "/haber/cloudflare-in-tarayicisi-insanlar-icin-degil-9570d017/"
+  },
   {
    "id": "15bf532d",
    "title": "Çin'in elektrikli yolcu uçağı CE-25A ilk insanlı uçuşunu gerçekleştirdi",
@@ -618,17 +640,6 @@
    "url": "/haber/mate-x8-in-yuzu-gorundu-ici-hala-sir-8705bcc9/"
   },
   {
-   "id": "0c2231f8",
-   "title": "Xbox'ın 25. yıl konsolu karaborsaya düştü",
-   "summary": "Xbox'ın 25. yıl için hazırladığı şeffaf yeşil Series X25 konsolu, çıkış günündeki sınırlı yeniden satışta da çok kısa sürede tükendi.",
-   "link": "https://shiftdelete.net/xbox-series-x25-yeniden-satis-tukendi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/xbox-series-x25-kapak-1511.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-15T12:11:00+00:00",
-   "url": "/haber/xbox-in-25-yil-konsolu-karaborsaya-dustu-0c2231f8/"
-  },
-  {
    "id": "64ebbde0",
    "title": "Güllü'nün ölümünde daraltılmış baz incelemesi talebi",
    "summary": "Şarkıcı Güllü'nün ölümüne ilişkin davada ablası Kader Tut'un avukatları, olay gecesi evde bulunan telefonların baz kayıtlarının daraltılarak incelenmesini talep etti.",
@@ -1078,17 +1089,6 @@
    "category": "teknoloji",
    "date": "2026-11-13T19:45:58+00:00",
    "url": "/haber/25-yilda-yalnizca-3-6-kapasite-kaybi-yeni-batarya-teknolojisi-devreye-298d08eb/"
-  },
-  {
-   "id": "a7eb2e38",
-   "title": "Erkek kısırlaştırılması vazektomi ne demek, veriler Türkiye için ne gösteriyor?",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, 1990'lı yıllarda \"SGK eliyle erkeklerin kısırlaştırıldığını\" iddia etmesi TBMM komisyonunda tartışmaya sebep oldu. Peki 1990'larda ne yaşandı?",
-   "link": "https://www.bbc.com/turkce/articles/ckm2m4r69ynjo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7184/live/9a8b5b50-df83-11f1-b844-3146c4983677.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-13T16:59:52+00:00",
-   "url": "/haber/erkek-kisirlastirilmasi-vazektomi-ne-demek-veriler-turkiye-icin-ne-gos-a7eb2e38/"
   },
   {
    "id": "c42291cc",
