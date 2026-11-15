@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-15T12:01:03.605720+00:00",
+ "updated": "2026-11-15T12:30:53.832651+00:00",
  "items": [
+  {
+   "id": "e82df52e",
+   "title": "Yeni Parti'nin ilk kurultayı: 160 kişiye çıkarılan PM'de kimler var?",
+   "summary": "Yeni Parti'nin \"Türkiye yenileniyor\" sloganıyla yaptığı ilk kurultayında ikinci gün 160 kişilik Parti Meclisi (PM) ve 15 kişilik Yüksek Disiplin Kurulu (YDK) aday listeleri açıklandı.",
+   "link": "https://www.bbc.com/turkce/articles/cwlylvd3374po?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f357/live/ada178a0-e0e1-11f1-8175-3108136b4191.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-15T12:21:20+00:00",
+   "url": "/haber/yeni-parti-nin-ilk-kurultayi-160-kisiye-cikarilan-pm-de-kimler-var-e82df52e/"
+  },
+  {
+   "id": "8705bcc9",
+   "title": "Mate X8'in yüzü göründü, içi hala sır",
+   "summary": "Huawei, Mate X serisinin sekizinci yılına özel videoyla Mate X8 tasarımını gösterdi. Özellikler, fiyat ve çıkış tarihi ise hala açıklanmadı.",
+   "link": "https://shiftdelete.net/mate-x8-tasarimi-huawei-katlanabilir-telefon",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/huawei-mate-x8-resmi-kapak-1511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-15T12:14:08+00:00",
+   "url": "/haber/mate-x8-in-yuzu-gorundu-ici-hala-sir-8705bcc9/"
+  },
+  {
+   "id": "c950091d",
+   "title": "Kütahya'da genç çift TKDK desteğiyle hayal ettikleri çiftliği kurdu",
+   "summary": "Kütahya'nın Hisarcık ilçesinde yaşayan Halil (28) ve Ayşe Nur Özçelik (26) çifti, hayalini kurdukları büyükbaş hayvan çiftliğini, Tarım ve Kırsal Kalkınmayı Destekleme Kurumunun (TKDK) sağladığı destekle kurdu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kutahyada-genc-cift-tkdk-destegiyle-hayal-ettikleri-ciftligi-kurdu/4125774",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-15T12:12:57+00:00",
+   "url": "/haber/kutahya-da-genc-cift-tkdk-destegiyle-hayal-ettikleri-ciftligi-kurdu-c950091d/"
+  },
+  {
+   "id": "0c2231f8",
+   "title": "Xbox'ın 25. yıl konsolu karaborsaya düştü",
+   "summary": "Xbox'ın 25. yıl için hazırladığı şeffaf yeşil Series X25 konsolu, çıkış günündeki sınırlı yeniden satışta da çok kısa sürede tükendi.",
+   "link": "https://shiftdelete.net/xbox-series-x25-yeniden-satis-tukendi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/xbox-series-x25-kapak-1511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-15T12:11:00+00:00",
+   "url": "/haber/xbox-in-25-yil-konsolu-karaborsaya-dustu-0c2231f8/"
+  },
+  {
+   "id": "64ebbde0",
+   "title": "Güllü'nün ölümünde daraltılmış baz incelemesi talebi",
+   "summary": "Şarkıcı Güllü'nün ölümüne ilişkin davada ablası Kader Tut'un avukatları, olay gecesi evde bulunan telefonların baz kayıtlarının daraltılarak incelenmesini talep etti.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-gullunun-olumunde-daraltilmis-baz-incelemesi-talebi-1750997",
+   "image": "https://images.ntv.com.tr/images/güllü-davası-374847.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-15T12:04:57+00:00",
+   "url": "/haber/gullu-nun-olumunde-daraltilmis-baz-incelemesi-talebi-64ebbde0/"
+  },
+  {
+   "id": "501de850",
+   "title": "Lula'nın ses kısıklığı, Sanchez'e destek etkinliğinin iptaline yol açtı",
+   "summary": "Brezilya Devlet Başkanı Luiz İnacio Lula da Silva’nın İspanya'da erken genel seçimler öncesinde Başbakan Pedro Sanchez'e açık desteğini bildireceği etkinlik iptal edilirken, İspanyol basını, iptalin nedeninin Lula’nın…",
+   "link": "https://www.aa.com.tr/tr/dunya/lulanin-ses-kisikligi-sancheze-destek-etkinliginin-iptaline-yol-acti/4125770",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-15T12:04:24+00:00",
+   "url": "/haber/lula-nin-ses-kisikligi-sanchez-e-destek-etkinliginin-iptaline-yol-acti-501de850/"
+  },
   {
    "id": "543ba86c",
    "title": "Baseus'tan iPhone 18 Pro'ya özel AVS destekli 60W şarj adaptörü",
@@ -178,17 +244,6 @@
    "url": "/haber/honor-magic-10-un-kamerasi-golgede-kalmayacak-5a28fb84/"
   },
   {
-   "id": "b6b572bb",
-   "title": "Irak Yüksek Federal Mahkemesi, IKBY Parlamentosunun çalışmalarının durdurulması talebini reddetti",
-   "summary": "Irak Yüksek Federal Mahkemesi, Irak Kürt Bölgesel Yönetimi (IKBY) Parlamentosunun çalışmalarının durdurulmasına yönelik ihtiyati tedbir kararı alınması talebini reddetti.",
-   "link": "https://www.aa.com.tr/tr/dunya/irak-yuksek-federal-mahkemesi-ikby-parlamentosunun-calismalarinin-durdurulmasi-talebini-reddetti/4125726",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-15T11:03:14+00:00",
-   "url": "/haber/irak-yuksek-federal-mahkemesi-ikby-parlamentosunun-calismalarinin-durd-b6b572bb/"
-  },
-  {
    "id": "42722145",
    "title": "Microsoft hizmetleri çöktü, Almanya'da 15 kişi klordan zehirlendi",
    "summary": "Microsoft servislerindeki teknik aksaklık, Almanya'daki bir otelin havuzunda klor zehirlenmesi vakasına yol açtı. Havuzu kullanan 15 misafir fenalaşırken, dört kişi hastaneye kaldırıldı.",
@@ -198,17 +253,6 @@
    "category": "teknoloji",
    "date": "2026-11-15T11:00:00+00:00",
    "url": "/haber/microsoft-hizmetleri-coktu-almanya-da-15-kisi-klordan-zehirlendi-42722145/"
-  },
-  {
-   "id": "e82df52e",
-   "title": "Yeni Parti'de ilk kurultay: Parti Meclisi listesinde kimler yer alıyor?",
-   "summary": "Yeni Parti'nin \"Türkiye yenileniyor\" sloganıyla yaptığı ilk kurultayında ikinci gün 160 kişilik Parti Meclisi (PM) ve 15 kişilik Yüksek Disiplin Kurulu (YDK) aday listeleri açıklandı.",
-   "link": "https://www.bbc.com/turkce/articles/cwlylvd3374po?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f357/live/ada178a0-e0e1-11f1-8175-3108136b4191.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-15T10:55:46+00:00",
-   "url": "/haber/yeni-parti-de-ilk-kurultay-parti-meclisi-listesinde-kimler-yer-aliyor-e82df52e/"
   },
   {
    "id": "f2f8ecea",
@@ -297,17 +341,6 @@
    "category": "gundem",
    "date": "2026-11-15T10:24:00+00:00",
    "url": "/haber/sigara-birakma-polikliniklerinden-bu-yil-356-bin-kisi-yararlandi-abdd66f0/"
-  },
-  {
-   "id": "d932c362",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye Cumhuriyeti, Kıbrıs Türk halkının sonsuza dek yanında duracaktır",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Anavatan ve Garantör Türkiye Cumhuriyeti kalbi, ümitleri ve kaderi bir olduğu Kıbrıs Türk halkının sonsuza dek yanında, hasımlarının ise her zaman karşısında duracaktır.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-turkiye-cumhuriyeti-kibris-turk-halkinin-sonsuza-dek-yaninda-duracaktir/4125692",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-15T10:16:09+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-turkiye-cumhuriyeti-kibris-turk-halkin-d932c362/"
   },
   {
    "id": "558c558f",
@@ -706,17 +739,6 @@
    "url": "/haber/16-10-ekranli-laptop-onerileri-belgeler-ve-yan-yana-pencereler-icin-se-d109e4c7/"
   },
   {
-   "id": "798d7e54",
-   "title": "Drift yapan 4 kişi gözaltına alındı: 492 bin TL ceza",
-   "summary": "Ankara’nın Keçiören ilçesinde farklı tarihlerde araçlarıyla drift yaptığı tespit edilen 4 kişi gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-drift-yapan-4-kisi-gozaltina-alindi-492-bin-tl-ceza-1750925",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-15091337-173359.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-15T06:20:15+00:00",
-   "url": "/haber/drift-yapan-4-kisi-gozaltina-alindi-492-bin-tl-ceza-798d7e54/"
-  },
-  {
    "id": "6fe44caa",
    "title": "Avuç içine sığan oyun kolunda iki analog çubuk",
    "summary": "CRKD'nin Atom Plus oyun kolu, 8BitDo Zero 2'den küçük gövdesine çift analog çubuk, tetikler, titreşim ve hareket kontrolleri sığdırıyor.",
@@ -748,28 +770,6 @@
    "category": "teknoloji",
    "date": "2026-11-15T05:00:00+00:00",
    "url": "/haber/whatsapp-ta-tek-yazi-10-farkli-cikartma-ed0e9927/"
-  },
-  {
-   "id": "761e1ca5",
-   "title": "Xiaomi'nin süper otomobil planında AMG izi var",
-   "summary": "Quattroruote'ye göre Xiaomi, AMG'nin kurucusunun kurduğu HWA ile otomobil tarihine geçecek bir model için gizli görüşmeler yürütüyor.",
-   "link": "https://shiftdelete.net/xiaomi-super-otomobil-hwa-amg-isbirligi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/xiaomi-su7-ultra-sari-kapak-1411b.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-15T04:30:00+00:00",
-   "url": "/haber/xiaomi-nin-super-otomobil-planinda-amg-izi-var-761e1ca5/"
-  },
-  {
-   "id": "564a41f6",
-   "title": "iPhone 20 Pro'da Android'in bıraktığı ekran",
-   "summary": "Sızıntılara göre Apple, iPhone'un 20. yılına özel iPhone 20 Pro'da dört kenarı kıvrımlı bir ön cam kullanmaya hazırlanıyor.",
-   "link": "https://shiftdelete.net/iphone-20-pro-dort-kenari-kivrimli-ekran",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/iphone-20-pro-kivrimli-ekran-kapak-1411.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-15T04:00:00+00:00",
-   "url": "/haber/iphone-20-pro-da-android-in-biraktigi-ekran-564a41f6/"
   },
   {
    "id": "0761d938",
