@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-15T21:30:57.557399+00:00",
+ "updated": "2026-11-15T22:01:05.131022+00:00",
  "items": [
+  {
+   "id": "6d8d2203",
+   "title": "ABD'de binlerce iç hat uçuşunun iptali ve rötarı devam ediyor",
+   "summary": "ABD'de hava trafik kontrolündeki \"iletişim sorunu\" nedeniyle yaklaşık dört saat boyunca ülkede tüm hava trafiği durduruldu. FlightAware verilerine göre, süreçte 8.500'den fazla uçuş ertelendi ve yaklaşık 8.000 uçuş…",
+   "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ba6/live/580c5210-e01a-11f1-ad34-45f8f10f7c55.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-15T21:47:52+00:00",
+   "url": "/haber/abd-de-binlerce-ic-hat-ucusunun-iptali-ve-rotari-devam-ediyor-6d8d2203/"
+  },
+  {
+   "id": "2472cef0",
+   "title": "Gemini sohbetten çıkmadan belge düzenliyor",
+   "summary": "Gemini Docs ve Sheets dosyalarını artık sohbetin içinde oluşturup düzenleyebiliyor. Güncelleme ücretli plan istemiyor, ama bazı gizlilik ayarlarını açmanızı şart koşuyor.",
+   "link": "https://shiftdelete.net/gemini-docs-ve-sheets-sohbet-icinde-duzenleme",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/gemini-docs-sheets-kapak-1511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-15T21:41:07+00:00",
+   "url": "/haber/gemini-sohbetten-cikmadan-belge-duzenliyor-2472cef0/"
+  },
+  {
+   "id": "e52fdee4",
+   "title": "A Milli Futbol Takımımız Fransa'ya kaybetti",
+   "summary": "UEFA Uluslar A Ligi 1. Grup 6. maçında Fransa'ya 2-1 mağlup olan A Milli Futbol Takımımız, grup aşamasını puansız tamamladı.",
+   "link": "https://www.trthaber.com/haber/gundem/a-milli-futbol-takimimiz-fransaya-kaybetti-963366.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/turkiye-fransa-a-milli-futbol-aa-2503765.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-15T21:40:00+00:00",
+   "url": "/haber/a-milli-futbol-takimimiz-fransa-ya-kaybetti-e52fdee4/"
+  },
+  {
+   "id": "a1e504f3",
+   "title": "A Milli Futbol Takımı, Fransa'ya mağlup oldu",
+   "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup son maçında deplasmanda Fransa'ya 2-1 mağlup oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-fransaya-maglup-oldu/4126057",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-15T21:39:22+00:00",
+   "url": "/haber/a-milli-futbol-takimi-fransa-ya-maglup-oldu-a1e504f3/"
+  },
+  {
+   "id": "f6607cd7",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 16 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 16 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-16-kasim-2026-1751040",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-15T21:30:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f6607cd7/"
+  },
   {
    "id": "720470f2",
    "title": "CD Projekt Red'in ilanında 2028 baharı sürprizi",
@@ -11,17 +66,6 @@
    "category": "teknoloji",
    "date": "2026-11-15T21:11:27+00:00",
    "url": "/haber/cd-projekt-red-in-ilaninda-2028-bahari-surprizi-720470f2/"
-  },
-  {
-   "id": "f6607cd7",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 16 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 16 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-16-kasim-2026-1751040",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-15T21:00:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f6607cd7/"
   },
   {
    "id": "9dfe03fd",
@@ -442,17 +486,6 @@
    "url": "/haber/megaspeed-nvidia-ciplerinin-cin-e-aktarildigi-iddialari-uzerine-ic-sor-17d71230/"
   },
   {
-   "id": "64c7d38a",
-   "title": "Elon Musk ve teknoloji liderleri, Jensen Huang’ın görevine iade edilmesi için imza topladı",
-   "summary": "Tesla ve SpaceX'in Üst Yöneticisi (CEO) Elon Musk ve birçok teknoloji yöneticisi, Nvidia’nın kurucu ortağı Jensen Huang’ın görevine iadesini talep eden dilekçeye imza attı.",
-   "link": "https://www.aa.com.tr/tr/dunya/elon-musk-ve-teknoloji-liderleri-jensen-huang-in-gorevine-iade-edilmesi-icin-imza-topladi/4125929",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-15T16:13:57+00:00",
-   "url": "/haber/elon-musk-ve-teknoloji-liderleri-jensen-huang-in-gorevine-iade-edilmes-64c7d38a/"
-  },
-  {
    "id": "1f07626d",
    "title": "Linux'ta Fortnite kapısı yeniden aralanıyor",
    "summary": "Epic Games, EAC Linux v2 ile anti-cheat sistemini çekirdekten çıkarıyor. Bazzite 45 ise imza anahtarını aldı, tek komutla uyumluluk kontrolü sunuyor.",
@@ -498,14 +531,14 @@
   },
   {
    "id": "e82df52e",
-   "title": "Yeni Parti'nin ilk kurultayı: 160 kişiye çıkarılan PM'de kimler var?",
+   "title": "Yeni Parti'nin ilk kurultayı: 160 kişiye çıkarılan Parti Meclisi'nde kimler var?",
    "summary": "Yeni Parti'nin \"Türkiye Yenileniyor\" sloganıyla Ankara Spor Salonu'nda gerçekleştirdiği 1. Olağan Kurultayı'nın ikinci gününde Parti Meclisi (PM) ve 15 üyeli Yüksek Disiplin Kurulu (YDK) üyelikleri için seçim yapıldı.",
    "link": "https://www.bbc.com/turkce/articles/cwlylvd3374po?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f357/live/ada178a0-e0e1-11f1-8175-3108136b4191.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-15T15:54:42+00:00",
-   "url": "/haber/yeni-parti-nin-ilk-kurultayi-160-kisiye-cikarilan-pm-de-kimler-var-e82df52e/"
+   "url": "/haber/yeni-parti-nin-ilk-kurultayi-160-kisiye-cikarilan-parti-meclisi-nde-ki-e82df52e/"
   },
   {
    "id": "c72b1d5a",
@@ -528,17 +561,6 @@
    "category": "teknoloji",
    "date": "2026-11-15T15:30:00+00:00",
    "url": "/haber/tarihi-basari-spacex-starship-in-ust-asamasini-ilk-kez-yakaladi-792d9d3f/"
-  },
-  {
-   "id": "4e9baa07",
-   "title": "Honda CR-V'de benzinli motor dönemi kapanıyor",
-   "summary": "Yeni Honda CR-V 2027'de yalnızca hibrit motorlarla satışa çıkacak. Honda, yeni platformla birlikte daha hafif gövde ve yenilenen dört çeker sistem vadediyor.",
-   "link": "https://shiftdelete.net/yeni-honda-cr-v-2027-hibrit-motor",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/honda-cr-v-kapak-1511.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-15T15:11:00+00:00",
-   "url": "/haber/honda-cr-v-de-benzinli-motor-donemi-kapaniyor-4e9baa07/"
   },
   {
    "id": "72e83e78",
@@ -605,6 +627,17 @@
    "category": "teknoloji",
    "date": "2026-11-15T14:30:00+00:00",
    "url": "/haber/gta-6-muzik-listesi-sizdirildi-yildizlar-karmasi-albumu-5a54a6b3/"
+  },
+  {
+   "id": "00df711d",
+   "title": "Sağanak salı günü yurdu etkisi altına alacak",
+   "summary": "Yeni haftada yurdun büyük bölümünde sağanak bekleniyor. Başkent Ankara haftaya yağmurla başlayacak. İstanbul ve İzmir'de sağanak salı günü etkisini gösterecek. Sıcaklık hafta ortasından itibaren kuzey, iç ve batı…",
+   "link": "https://www.trthaber.com/haber/turkiye/saganak-sali-gunu-yurdu-etkisi-altina-alacak-963351.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1480000/yagmur-1481304.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-15T14:28:00+00:00",
+   "url": "/haber/saganak-sali-gunu-yurdu-etkisi-altina-alacak-00df711d/"
   },
   {
    "id": "8edb9f16",
@@ -970,17 +1003,6 @@
    "url": "/haber/yeni-hyper-naked-bmw-m-1000-rs-tanitildi-7b9cacab/"
   },
   {
-   "id": "d0205062",
-   "title": "Diyabet nasıl önlenebilir?",
-   "summary": "Her yıl iki milyondan fazla kişi diyabet ve bağlantılı sağlık sorunları nedeniyle hayatını kaybediyor. Hastalığın risklerine rağmen insanların yarısı diyabetli olduğundan haberdar değil. 14 Kasım da bu farkındalığı…",
-   "link": "https://www.bbc.com/turkce/articles/cm2zj9jn019o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/352d/live/36b69b80-a803-11ef-b21e-5359bd56d02f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-14T09:13:22+00:00",
-   "url": "/haber/diyabet-nasil-onlenebilir-d0205062/"
-  },
-  {
    "id": "2a952ea0",
    "title": "Honda, yeni “CBR1000RR-R Fireblade” serisini tanıttı",
    "summary": "Seride kullanılan parçaların yaklaşık yüzde 75’inin 2027 model yılı için yeniden tasarlandığını belirten Honda, titanyum yakıt tankının kullanıldığı CBR1000RR-R Fireblade’i “Fireblade, Fireblade SP ve Fireblade HRC…",
@@ -1058,17 +1080,6 @@
    "url": "/haber/abd-de-kalkis-yasagi-kaldirildi-abd-ucuslari-neden-durduruldu-ve-sirad-22edc894/"
   },
   {
-   "id": "4d07eb90",
-   "title": "Zorunlu kış lastiği uygulaması yarın başlıyor",
-   "summary": "Ticari araçlarda zorunlu kış lastiği uygulaması yarın başlıyor. Özel otomobiller için ise yasal zorunluluk olmasa da kış lastiği kullanımı öneriliyor.",
-   "link": "https://www.trthaber.com/haber/ekonomi/zorunlu-kis-lastigi-uygulamasi-yarin-basliyor-963238.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2412000/kis-lastigi-2413409.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-14T06:05:00+00:00",
-   "url": "/haber/zorunlu-kis-lastigi-uygulamasi-yarin-basliyor-4d07eb90/"
-  },
-  {
    "id": "fb7bb6a9",
    "title": "11 il için sarı uyarı: Sağanak ve fırtınaya dikkat",
    "summary": "Marmara'da beklenen kuvvetli rüzgar ve sağanak nedeniyle 11 il için \"sarı\" kodlu uyarıda bulunuldu.",
@@ -1133,17 +1144,6 @@
    "category": "gundem",
    "date": "2026-11-13T14:11:22+00:00",
    "url": "/haber/trump-hukumetinin-cop31-e-katilmamasi-iklim-diplomasisi-icin-ne-anlama-04ae47e2/"
-  },
-  {
-   "id": "760d460e",
-   "title": "Cumhurbaşkanı Erdoğan, Katar Emiri Al Sani ile görüştü",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Katar Emiri Şeyh Temim bin Hamed Al Sani ile görüştü. Görüşme sonrası iki ülke arasında ticaret, eğitim, diplomasi ve savunma alanlarını kapsayan 5 anlaşma imzalandı.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-katar-emiri-al-sani-ile-gorustu-963198.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/erdogan-al-sani-2503504.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-13T13:40:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-katar-emiri-al-sani-ile-gorustu-760d460e/"
   },
   {
    "id": "d09f336c",
