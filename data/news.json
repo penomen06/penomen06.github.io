@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:01:03.275413+00:00",
+ "updated": "2026-11-16T01:30:51.046782+00:00",
  "items": [
   {
    "id": "f6607cd7",
@@ -25,14 +25,14 @@
   },
   {
    "id": "971d2cd8",
-   "title": "Sağlık teknolojileri, HLTH Las Vegas'ta masada",
-   "summary": "HLTH USA 2026, 15 Kasım'da Las Vegas'ta başladı. Yapay zeka, e-Nabız ve yerli cihazlar, sağlık teknolojileri tartışmasını neden büyütüyor?",
+   "title": "Sağlıkta yapay zekanın kalbi Las Vegas'ta atıyor: HLTH 2026'da Apple, OpenAI ve bir Türk girişimi",
+   "summary": "Apple'dan önleyici sağlık, OpenAI'den ChatGPT'ye haftada 300 milyon sağlık sorusu, sahada da İstanbul ofisli HaloScape var. Türkiye'nin sorusu ise net: veri ve hekim zamanı.",
    "link": "https://shiftdelete.net/saglik-teknolojileri-hlth-las-vegas",
    "image": "https://shiftdelete.net/static/img/content/26-11/16/hlth-fuar-salonu.jpg",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-16T00:41:05+00:00",
-   "url": "/haber/saglik-teknolojileri-hlth-las-vegas-ta-masada-971d2cd8/"
+   "url": "/haber/saglikta-yapay-zekanin-kalbi-las-vegas-ta-atiyor-hlth-2026-da-apple-op-971d2cd8/"
   },
   {
    "id": "063044d3",
@@ -55,6 +55,17 @@
    "category": "gundem",
    "date": "2026-11-16T00:06:08+00:00",
    "url": "/haber/ingiltere-de-russell-brand-davasinin-ardindan-cinsel-riza-yasi-tartism-95b15b26/"
+  },
+  {
+   "id": "dffe0dcf",
+   "title": "İsrail basını: Netanyahu \"seçimler çalındı\" kampanyası için istihbarat ve polisi kullandı",
+   "summary": "İsrail basını, geçici Başbakan Binyamin Netanyahu'nun, \"seçimler çalındı\" iddiasını ispatlamak için iç istihbarat servisi Şin-Bet (Şabak) ve polisi kullanarak kumpas kurduğu iddiasının incelendiğini aktardı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-secimler-calindi-kampanyasi-icin-istihbarat-ve-polisi-kullandi-/4126076",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T00:04:08+00:00",
+   "url": "/haber/israil-basini-netanyahu-secimler-calindi-kampanyasi-icin-istihbarat-ve-dffe0dcf/"
   },
   {
    "id": "3d745f60",
@@ -550,17 +561,6 @@
    "category": "gundem",
    "date": "2026-11-15T16:27:16+00:00",
    "url": "/haber/cop31-de-iklim-degisikligi-sanatla-anlatildi-2ab6c8e8/"
-  },
-  {
-   "id": "c03a4941",
-   "title": "Yeşil Bölge'deki Kültür ve Medeniyet Pavilyonu ziyaretçileri ağırlıyor",
-   "summary": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında oluşturulan Ziraat Bankası Kültür ve Medeniyet Pavilyonu yerli ve yabancı ziyaretçilerin adresi…",
-   "link": "https://www.aa.com.tr/tr/cop31/yesil-bolgedeki-kultur-ve-medeniyet-pavilyonu-ziyaretcileri-agirliyor/4125934",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-15T16:24:39+00:00",
-   "url": "/haber/yesil-bolge-deki-kultur-ve-medeniyet-pavilyonu-ziyaretcileri-agirliyor-c03a4941/"
   },
   {
    "id": "755261d3",
