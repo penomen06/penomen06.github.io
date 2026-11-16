@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-16T13:01:06.567957+00:00",
+ "updated": "2026-11-16T13:30:58.454323+00:00",
  "items": [
+  {
+   "id": "adc5fa4b",
+   "title": "İki cinayet, tek çete. Beyoğlu'ndaki halıya sarılı ceset vahşetinde yeni ayrıntılar",
+   "summary": "İstanbul Beyoğlu'ndaki bir evde cansız bedeni halıya sarılı halde bulunan Oğuzhan Kalkan cinayeti bir suç örgütüne uzandı.",
+   "link": "https://www.ntv.com.tr/turkiye/besiktastaki-gece-kulubu-saldirisinin-ardindan-cetenin-baska-bir-cinayeti-daha-ortaya-cikti-1751140",
+   "image": "https://images.ntv.com.tr/images/BEYOGLUNDA-HALIYA-SARILI-BULUNAN-CESET-_1611473_479052-876308.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-16T13:28:32+00:00",
+   "url": "/haber/iki-cinayet-tek-cete-beyoglu-ndaki-haliya-sarili-ceset-vahsetinde-yeni-adc5fa4b/"
+  },
+  {
+   "id": "2232c18e",
+   "title": "Yeni akıllı saat modeli OPPO Watch 5 tanıtıldı",
+   "summary": "OPPO bugün Çin’de Reno 17 ve 17 Pro’ya ek olarak yeni bir akıllı saat modeli de tanıttı. OPPO Watch 5 adlı yeni ürün, 1,85 inç boyutunda, 390×450 piksel çözünürlüğe sahip 60 Hz’lik ekranla geliyor. Genel parlaklığı 600…",
+   "link": "https://www.log.com.tr/yeni-akilli-saat-modeli-oppo-watch-5-tanitildi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-16_16-25-06_uvodA-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-16T13:25:23+00:00",
+   "url": "/haber/yeni-akilli-saat-modeli-oppo-watch-5-tanitildi-2232c18e/"
+  },
+  {
+   "id": "edd4cee8",
+   "title": "Oyun yapıyor, molekül keşfediyor: Çinlilerden yeni yapay zeka",
+   "summary": "Alibaba, yapay zeka modeli Qwen4-Max'i tanıttı. Model, Unreal Engine ile oyun geliştirebiliyor, bilimsel araştırmalar yapabiliyor ve görev maliyetlerini yüzde 60'tan fazla düşürüyor.",
+   "link": "https://www.donanimhaber.com/oyun-yapiyor-molekul-kesfediyor-cinlilerden-yeni-yapay-zeka--212977",
+   "image": "https://www.donanimhaber.com/images/images/haber/212977/1200x675oyun-yapiyor-molekul-kesfediyor-cinlilerden-yeni-yapay-zeka.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-16T13:20:00+00:00",
+   "url": "/haber/oyun-yapiyor-molekul-kesfediyor-cinlilerden-yeni-yapay-zeka-edd4cee8/"
+  },
+  {
+   "id": "e455d0a0",
+   "title": "ECB ve Fed'den yapay zekanın finansal istikrarı bozabileceği uyarısı",
+   "summary": "Avrupa Merkez Bankası (ECB) ve ABD Merkez Bankası (Fed) yetkilileri, yapay zekanın hızlı gelişiminin piyasalarda sürü davranışına, manipülasyona ve siber saldırılara yol açarak finansal istikrarı bozabileceği uyarısında…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ecb-ve-fedden-yapay-zekanin-finansal-istikrari-bozabilecegi-uyarisi/4126742",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T13:19:23+00:00",
+   "url": "/haber/ecb-ve-fed-den-yapay-zekanin-finansal-istikrari-bozabilecegi-uyarisi-e455d0a0/"
+  },
+  {
+   "id": "b3f956cf",
+   "title": "OPPO Reno 17 ve Reno 17 Pro resmi olarak tanıtıldı",
+   "summary": "Bugün Çin’de resmi olarak tanıtılan yeni akıllı telefon modellerinden OPPO Reno 17, 6.000 nit bölgesel maksimum parlaklığa ulaşan 6,56 inç boyutunda 2624×1208 piksel çözünürlüklü 120 Hz OLED ekran, Snapdragon 7 Gen 4…",
+   "link": "https://www.log.com.tr/oppo-reno-17-ve-reno-17-pro-resmi-olarak-tanitildi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-16_16-15-19_n01NA-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-16T13:17:28+00:00",
+   "url": "/haber/oppo-reno-17-ve-reno-17-pro-resmi-olarak-tanitildi-b3f956cf/"
+  },
+  {
+   "id": "3e4014f6",
+   "title": "AK Parti MYK toplandı",
+   "summary": "AK Parti Merkez Yürütme Kurulu (MYK), Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan'ın başkanlığında toplandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-myk-toplandi/4126738",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T13:15:20+00:00",
+   "url": "/haber/ak-parti-myk-toplandi-3e4014f6/"
+  },
+  {
+   "id": "0665f157",
+   "title": "Gaziantep FK Volkan Demirel ile 1,5 yıllık sözleşme imzaladı",
+   "summary": "Trendyol Süper Lig ekiplerinden Gaziantep FK, teknik direktör Volkan Demirel ile 1 yılı opsiyonlu 1,5 yıllık sözleşme imzaladı.",
+   "link": "https://www.aa.com.tr/tr/spor/gaziantep-fk-volkan-demirel-ile-1-5-yillik-sozlesme-imzaladi/4126718",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T13:04:52+00:00",
+   "url": "/haber/gaziantep-fk-volkan-demirel-ile-1-5-yillik-sozlesme-imzaladi-0665f157/"
+  },
+  {
+   "id": "aff714cc",
+   "title": "Japonya'nın en güçlü makinesine izinsiz giriş",
+   "summary": "RIKEN, Fugaku süper bilgisayarı ile bağlantılı sistemlerde izinsiz erişim tespit ettiğini açıkladı. Hesap anahtarlarının ve dosyaların ele geçirilmiş olabileceği belirtildi.",
+   "link": "https://shiftdelete.net/fugaku-super-bilgisayari-izinsiz-erisim-riken",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/89cf3404b3db92ff9a94804f0bec55a10ca09a7f.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-16T13:04:06+00:00",
+   "url": "/haber/japonya-nin-en-guclu-makinesine-izinsiz-giris-aff714cc/"
+  },
+  {
+   "id": "be63ddfd",
+   "title": "Amazon, ULA’nın Vulcan roketindeki arıza nedeniyle 40 Leo uydusunu kaybetti",
+   "summary": "Boeing ve Lockheed Martin’in ortak girişimi United Launch Alliance (ULA) tarafından geliştirilen Vulcan roketin kullanıldığı son kalkış istendiği gibi gitmedi. Space Launch Complex 41’den gerçekleştirilen kalkıştan bir…",
+   "link": "https://www.log.com.tr/amazon-ulanin-vulcan-roketindeki-ariza-nedeniyle-40-leo-uydusunu-kaybetti/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-10-09_15-53-22_40ajM_FHD-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-16T13:03:44+00:00",
+   "url": "/haber/amazon-ula-nin-vulcan-roketindeki-ariza-nedeniyle-40-leo-uydusunu-kayb-be63ddfd/"
+  },
+  {
+   "id": "36ea56c8",
+   "title": "Türkiye, Uluslararası Telekomünikasyon Birliği konsey üyeliğine yeniden seçildi",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"2002'den bu yana sürdürdüğümüz ITU konsey üyeliğimize 2027-2030 döneminde de devam edeceğiz.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-uluslararasi-telekomunikasyon-birligi-konsey-uyeligine-yeniden-secildi/4126716",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T13:02:51+00:00",
+   "url": "/haber/turkiye-uluslararasi-telekomunikasyon-birligi-konsey-uyeligine-yeniden-36ea56c8/"
+  },
   {
    "id": "eac36795",
    "title": "PS4 üzerinde yapay zeka modeli çalıştırıldı: Saniyede 39 token üretiyor",
@@ -79,6 +189,17 @@
    "url": "/haber/rekabet-kurumu-ndan-siemens-ile-bayilerine-nx-solid-edge-ve-teamcenter-b9956a0e/"
   },
   {
+   "id": "6a189792",
+   "title": "Bakan Kacır, COP31'de \"Bilim, Sanayi ve Teknoloji Günü\"nü değerlendirdi",
+   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Antalya'daki Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nın (COP31) Bilim, Sanayi ve Teknoloji Günü kapsamında değerlendirmede bulundu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-cop31de-bilim-sanayi-ve-teknoloji-gununu-degerlendirdi/4126670",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T12:36:37+00:00",
+   "url": "/haber/bakan-kacir-cop31-de-bilim-sanayi-ve-teknoloji-gunu-nu-degerlendirdi-6a189792/"
+  },
+  {
    "id": "1ccb0dd7",
    "title": "iPhone Duo'da Windows 11 için kilit kırılmadı",
    "summary": "iPhone Duo Windows 11 çalıştırdı: geliştirici Ammaar Reshi'nin WindowsiOS projesi, telefonun güvenliği kırılmadan Windows 11'i ARM masaüstü olarak açıyor.",
@@ -123,26 +244,15 @@
    "url": "/haber/cumhurbaskani-erdogan-tarih-sahnesine-yeniden-cikiyoruz-4e3f68ac/"
   },
   {
-   "id": "53f47694",
-   "title": "Beşiktaş'taki silahlı saldırıya ilişkin adliyeye sevk edilen 30 zanlıdan 14'ü tutuklandı",
-   "summary": "Beşiktaş'ta 1 kişinin hayatını kaybettiği silahlı saldırıya ilişkin soruşturma kapsamında gözaltına alınan 30 şüpheliden 14'ü tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/besiktastaki-silahli-saldiriya-iliskin-adliyeye-sevk-edilen-30-zanlidan-14u-tutuklandi/4126645",
+   "id": "9735e69e",
+   "title": "Beytüllahim Rum Ortodoks Kilisesi Papazı Thaljieh: ABD, Filistinli olduğum için vize vermeyi reddetti",
+   "summary": "Beytüllahim kentindeki Rum Ortodoks Kilisesi Papazı İsa Thaljieh, ABD'ye vize başvurusunun neden reddedildiğine ilişkin olarak, \"Bence başvurumun reddedilmesinin nedeni Filistinli olmam ve bu kutsal topraklarda yaşıyor…",
+   "link": "https://www.aa.com.tr/tr/dunya/beytullahim-rum-ortodoks-kilisesi-papazi-thaljieh-abd-filistinli-oldugum-icin-vize-vermeyi-reddetti/4126640",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-16T12:22:27+00:00",
-   "url": "/haber/besiktas-taki-silahli-saldiriya-iliskin-adliyeye-sevk-edilen-30-zanlid-53f47694/"
-  },
-  {
-   "id": "2ccf6881",
-   "title": "AB: Rusya-Ukrayna barış müzakerelerine ev sahipliği yapmaya hazırız",
-   "summary": "Avrupa Birliği (AB), Rusya-Ukrayna barış müzakerelerine ev sahipliği yapmaya ve görüşmelerin çok taraflı formatta sürdürülmesine hazır olduklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-rusya-ukrayna-baris-muzakerelerine-ev-sahipligi-yapmaya-haziriz/4126642",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T12:21:59+00:00",
-   "url": "/haber/ab-rusya-ukrayna-baris-muzakerelerine-ev-sahipligi-yapmaya-haziriz-2ccf6881/"
+   "date": "2026-11-16T12:20:31+00:00",
+   "url": "/haber/beytullahim-rum-ortodoks-kilisesi-papazi-thaljieh-abd-filistinli-oldug-9735e69e/"
   },
   {
    "id": "82d15b52",
@@ -167,6 +277,17 @@
    "url": "/haber/bakan-goktas-singapurlu-mevkidasi-zulkifli-ile-2027-2029-faaliyet-plan-b9615158/"
   },
   {
+   "id": "f6eab50f",
+   "title": "İsrail askerlerince alıkonulan Lübnanlı gençlerin babası Hamdan: Beni kimsesiz bıraktılar",
+   "summary": "Lübnan'ın güneyindeki Şeba beldesinde İsrail askerleri tarafından 3 oğlu alıkonulan Faris Hamdan, çocuklarının serbest bırakılmasını isteyerek, \"İlk oğlum için hala ağlıyordum, şimdi ikisi daha götürüldü. Beni kimsesiz…",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerince-alikonulan-lubnanli-genclerin-babasi-hamdan-beni-kimsesiz-biraktilar/4126631",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T12:16:50+00:00",
+   "url": "/haber/israil-askerlerince-alikonulan-lubnanli-genclerin-babasi-hamdan-beni-k-f6eab50f/"
+  },
+  {
    "id": "4fd1fc88",
    "title": "KADEM Gazze'deki çevresel yıkımın etkisini COP31'e taşıdı: \"Filistin'de ekosistem de yok oluyor\"",
    "summary": "COP31'de kadınlar ve çocukların iklim krizinden nasıl etkilendiği ele alınıyor.KADEM Başkanı Canan Sarı, vakfın zirvedeki çalışmalarını ve gelecek dönem projelerini NTV muhabiri Sinan Kunter'e anlattı",
@@ -178,28 +299,6 @@
    "url": "/haber/kadem-gazze-deki-cevresel-yikimin-etkisini-cop31-e-tasidi-filistin-de-4fd1fc88/"
   },
   {
-   "id": "991b4a22",
-   "title": "İklim değişikliği don riskini artırıyor",
-   "summary": "Prof. Dr. Elman Bahar, iklim değişikliğine bağlı don olaylarının alışılmış mevsimlerin dışında ve daha önce risk taşımayan bölgelerde görülmeye başlandığını belirterek, bu durumun meyve üretiminde kayıplara yol…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/iklim-degisikligi-don-riskini-artiriyor/4126628",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T12:16:01+00:00",
-   "url": "/haber/iklim-degisikligi-don-riskini-artiriyor-991b4a22/"
-  },
-  {
-   "id": "bc26f36d",
-   "title": "Balıkesir'de şoförü kalp krizi geçiren yolcu minibüsü denize düştü",
-   "summary": "Balıkesir'in Ayvalık ilçesinde denize düşen yolcu minibüsünün kalp krizi geçiren şoförü hayatını kaybetti, araçtaki 11 yolcu kurtarıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/balikesirde-soforu-kalp-krizi-geciren-yolcu-minibusu-denize-dustu/4126629",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T12:16:01+00:00",
-   "url": "/haber/balikesir-de-soforu-kalp-krizi-geciren-yolcu-minibusu-denize-dustu-bc26f36d/"
-  },
-  {
    "id": "b1e4ec29",
    "title": "Volkswagen, üretimi ucuzlatacak projeyi pahalı bulup rafa kaldırdı",
    "summary": "Volkswagen, elektrikli otomobilleri daha ucuza üretmek için hazırladığı projeyi yatırım maliyeti nedeniyle rafa kaldırdı. Elektrikli Golf ve T-Roc, daha geleneksel üretim yöntemleriyle banttan inecek.",
@@ -209,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T12:16:00+00:00",
    "url": "/haber/volkswagen-uretimi-ucuzlatacak-projeyi-pahali-bulup-rafa-kaldirdi-b1e4ec29/"
-  },
-  {
-   "id": "81f8031f",
-   "title": "Dışişleri Bakanı Fidan, Brüksel'de Yunan mevkidaşı Gerapetritis ile görüştü",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Avrupa Birliği Dış İlişkiler Konseyi kapsamında Brüksel'de düzenlenen Bölgelerarası Güvenlik ve Bağlantısallık Konulu İkinci Bakanlar Toplantısı marjında Yunanistan Dışişleri Bakanı…",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-brukselde-yunan-mevkidasi-gerapetritis-ile-gorustu/4126610",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T12:09:38+00:00",
-   "url": "/haber/disisleri-bakani-fidan-bruksel-de-yunan-mevkidasi-gerapetritis-ile-gor-81f8031f/"
   },
   {
    "id": "c0abd1df",
@@ -286,17 +374,6 @@
    "category": "gundem",
    "date": "2026-11-16T11:50:16+00:00",
    "url": "/haber/bakan-kacir-2030-sanayi-ve-teknoloji-stratejisi-yesil-donusumu-ulusal-5db0d7ac/"
-  },
-  {
-   "id": "ee83f9c7",
-   "title": "Erdemir, yeşil dönüşümle stratejik bir fırsat yakalamaya hazırlanıyor",
-   "summary": "ERDEMİR Genel Müdürü Şaban Yazıcı, \"Hedefimiz, yalnızca değişen koşullara uyum sağlayan değil, geliştirdiği teknolojiler ve ortaya koyduğu üretim gücüyle sanayinin dönüşümünde etkin rol üstlenen bir Erdemir.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/erdemir-yesil-donusumle-stratejik-bir-firsat-yakalamaya-hazirlaniyor/4126563",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T11:48:41+00:00",
-   "url": "/haber/erdemir-yesil-donusumle-stratejik-bir-firsat-yakalamaya-hazirlaniyor-ee83f9c7/"
   },
   {
    "id": "c6c3800c",
@@ -497,17 +574,6 @@
    "url": "/haber/cop31-de-tum-cop-larin-baglanti-rekoru-kirildi-91c6e329/"
   },
   {
-   "id": "062e3cd1",
-   "title": "PAB Başkanı Dick, \"COP31 Parlamenter Toplantısı\"nın açılışında konuştu:",
-   "summary": "Parlamentolar Arası Birlik (PAB) ve Avustralya Temsilciler Meclisi Başkanı Milton Dick, \"Türkiye'nin konferansa ev sahipliği ve Avustralya'nın müzakere başkanlığı görevi, bölgeler arası işbirliğinin önemli bir örneği.\"…",
-   "link": "https://www.aa.com.tr/tr/gundem/pab-baskani-dick-cop31-parlamenter-toplantisinin-acilisinda-konustu/4126423",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T10:13:44+00:00",
-   "url": "/haber/pab-baskani-dick-cop31-parlamenter-toplantisi-nin-acilisinda-konustu-062e3cd1/"
-  },
-  {
    "id": "b0bf282d",
    "title": "League of Legends: New Dawn Duyuruldu! İşte Oyuna Gelecek Yenilikler",
    "summary": "Riot Games, 2027’de Sihirdar Vadisi, istemci ve oynanış mekaniklerini baştan aşağı yenileyecek League of Legends: New Dawn'ı duyurdu.",
@@ -673,6 +739,17 @@
    "url": "/haber/amazon-un-starlink-rakibi-leo-ya-buyuk-darbe-40-uydu-birden-kaybedildi-879699c7/"
   },
   {
+   "id": "d7afa0d1",
+   "title": "Bakan Kurum: Türk devletleri arasında yeni bir platform kuruyoruz",
+   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Türk devletleri arasında çevre ve iklim alanında geliştirdiğimiz işbirliğini kentsel gelişim ve yatırım alanlarına taşıyacak TULIP adını…",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-turk-devletleri-arasinda-yeni-bir-platform-kuruyoruz-963414.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/murat-kurum-2503898.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-16T09:10:00+00:00",
+   "url": "/haber/bakan-kurum-turk-devletleri-arasinda-yeni-bir-platform-kuruyoruz-d7afa0d1/"
+  },
+  {
    "id": "252b5bca",
    "title": "Kurtulmuş: Hiçbir ülkenin, uluslararası yükümlülükten kaçınması kabul edilemez",
    "summary": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş \"Hiçbir ülkenin, başta Paris İklim Şartı olmak üzere hiçbir uluslararası yükümlülükten kaçınması kabul edilemez.\" dedi.",
@@ -737,17 +814,6 @@
    "category": "gundem",
    "date": "2026-11-16T08:44:00+00:00",
    "url": "/haber/aselsan-ve-roketsan-dan-1-28-milyar-euroluk-dev-anlasma-1eb14504/"
-  },
-  {
-   "id": "92114033",
-   "title": "Microsoft, yeni Xbox'ı duyurmaya başladı: PC oyunlarına destek",
-   "summary": "Microsoft'un yeni nesil Xbox konsolu hakkında yeni bilgiler paylaşıldı. Sistem, Xbox oyunlarının yanı sıra PC oyunlarını da çalıştırabilecek ve ölçeklendirme teknolojilerinden yararlanacak.",
-   "link": "https://www.donanimhaber.com/microsoft-yeni-xbox-i-duyurmaya-basladi-pc-oyunlarina-destek--212955",
-   "image": "https://www.donanimhaber.com/images/images/haber/212955/1200x675microsoft-yeni-xbox-i-duyurmaya-basladi-pc-oyunlarina-destek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-16T08:38:00+00:00",
-   "url": "/haber/microsoft-yeni-xbox-i-duyurmaya-basladi-pc-oyunlarina-destek-92114033/"
   },
   {
    "id": "4ef9cc3d",
@@ -882,17 +948,6 @@
    "url": "/haber/sehir-efsanesine-inanmayin-kuzey-marmara-tunellerinde-ceza-yaziliyor-r-eca6d6d0/"
   },
   {
-   "id": "729910d5",
-   "title": "HarmonyOS'ta 100 milyon eşiği aşıldı mı?",
-   "summary": "HarmonyOS kurulum sayısı Wonder Toolbox verilerine göre 100 milyonu aştı. Huawei henüz resmî bir açıklama yapmadı, rakam AppGallery verilerine dayanıyor.",
-   "link": "https://shiftdelete.net/harmonyos-kurulum-sayisi-100-milyon",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/3f9a2243131f3abd8d9f420cad4eb08ba4a0e9a5.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-16T08:04:08+00:00",
-   "url": "/haber/harmonyos-ta-100-milyon-esigi-asildi-mi-729910d5/"
-  },
-  {
    "id": "5ef507dd",
    "title": "İklim değişikliği insan sağlığını tehdit ediyor",
    "summary": "İklim krizi insan sağlığını da tehdit ediyor. Özellikle yaşlılar ve kırılgan gruplar risk altında. Uzmanlar, erken uyarı sistemleri ve dirençli sağlık hizmetlerinin önemini vurguluyor.",
@@ -915,28 +970,6 @@
    "url": "/haber/fon-sorusturmasinda-adi-geciyordu-ali-emre-balli-nin-olumu-sorusturmas-adad991e/"
   },
   {
-   "id": "289d2531",
-   "title": "Microsoft, yeni nesil Xbox (Project Helix) hakkında konuştu",
-   "summary": "Microsoft, Project Helix kod adlı yeni nesil Xbox oyun konsolu hakkında bazı açıklamalarda bulundu. Resmi olarak 2027’de tanıtılması ancak 2028’de satışa sunulması beklenen konsolla ilgili son paylaşımında şirket,…",
-   "link": "https://www.log.com.tr/microsoft-yeni-nesil-xbox-project-helix-hakkinda-konustu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-16_10-16-19_7wBUs-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-16T07:30:16+00:00",
-   "url": "/haber/microsoft-yeni-nesil-xbox-project-helix-hakkinda-konustu-289d2531/"
-  },
-  {
-   "id": "17a9e32e",
-   "title": "Avrupa Birliği, Türkiye’den hibrit otomobil ithalatına kota getirmek istiyor",
-   "summary": "Otomobil gazetecisi Taylan Özgür Dil tarafından aktarıldığı kadarıyla Çin’den ithal edilen hibrit otomobillere yıllık kota getirmek için soruşturma başlatan Avrupa Birliği, aralarında Türkiye’nin de bulunduğu Birlik…",
-   "link": "https://www.log.com.tr/avrupa-birligi-turkiyeden-hibrit-otomobil-ithalatina-kota-getirmek-istiyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-16_10-06-01_5yv7u-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-16T07:13:13+00:00",
-   "url": "/haber/avrupa-birligi-turkiye-den-hibrit-otomobil-ithalatina-kota-getirmek-is-17a9e32e/"
-  },
-  {
    "id": "cc16e8d7",
    "title": "Samsung Galaxy S27 Pro ve Ultra’nın Kamera Tasarımı Ortaya Çıktı: Özellikleri Nasıl Olacak?",
    "summary": "Yeni sızıntılar, Samsung Galaxy S27 Pro ve Ultra modellerinin üç lensli yeni kamera tasarımını ve beklenen sensör özelliklerini ortaya çıkardı.",
@@ -946,17 +979,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T07:06:23+00:00",
    "url": "/haber/samsung-galaxy-s27-pro-ve-ultra-nin-kamera-tasarimi-ortaya-cikti-ozell-cc16e8d7/"
-  },
-  {
-   "id": "970a9722",
-   "title": "Çinli COMAC, elektrikli uçağı CE-25A’yı ilk kez insanlı uçuşa çıkardı",
-   "summary": "Çinli şirket COMAC’ın tamamen elektrikli uçak modeli CE-25A, ilk kez insanlı olarak havalandı. Şimdiye kadar 19 farklı insansız otonom uçuşla test edildiği aktarılan uçak, iki pilot ve uçuş mühendislerinin yer aldığı…",
-   "link": "https://www.log.com.tr/cinli-comac-elektrikli-ucagi-ce-25ayi-ilk-kez-insanli-ucusa-cikardi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-16_10-00-10_Jm8GH-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-16T07:03:47+00:00",
-   "url": "/haber/cinli-comac-elektrikli-ucagi-ce-25a-yi-ilk-kez-insanli-ucusa-cikardi-970a9722/"
   },
   {
    "id": "93552f1d",
@@ -1034,28 +1056,6 @@
    "category": "gundem",
    "date": "2026-11-16T06:06:22+00:00",
    "url": "/haber/gulistan-doku-sorusturmasi-tutuklanan-polisin-ifadesinden-aileye-bilgi-28ef15a2/"
-  },
-  {
-   "id": "2f35db39",
-   "title": "COP31’de AFAD parkuru yoğun ilgi görüyor",
-   "summary": "Antalya'da düzenlenen COP31'e çok sayıda kamu kurumu destek sağlıyor. AFAD da parkurunda afet risklerinin azaltılması ve iklim değişikliğine uyum konularında çeşitli etkinlikler düzenliyor.",
-   "link": "https://www.ntv.com.tr/turkiye/video-cop31de-afad-parkuru-yogun-ilgi-goruyor-1751063",
-   "image": "https://images.ntv.com.tr/images/ASSS-701778.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-16T05:28:00+00:00",
-   "url": "/haber/cop31-de-afad-parkuru-yogun-ilgi-goruyor-2f35db39/"
-  },
-  {
-   "id": "ef2d51d8",
-   "title": "Yurt genelinde yağış sürecek, hava sıcaklıkları artacak",
-   "summary": "Yeni haftada yurdun büyük bölümünde yağmur ve sağanak, Doğu Karadeniz ile Doğu Anadolu'nun yüksek kesimlerinde ise kar yağışı etkili olacak. Hafta ortasından itibaren artışa geçecek hava sıcaklıklarının kuzey, iç ve…",
-   "link": "https://www.trthaber.com/haber/gundem/yurt-genelinde-yagis-surecek-hava-sicakliklari-artacak-963367.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2410000/saganak-2411202.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-16T03:06:00+00:00",
-   "url": "/haber/yurt-genelinde-yagis-surecek-hava-sicakliklari-artacak-ef2d51d8/"
   },
   {
    "id": "95b15b26",
