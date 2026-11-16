@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:01:05.392176+00:00",
+ "updated": "2026-11-16T22:30:55.434744+00:00",
  "items": [
   {
    "id": "49ae7bd5",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-16T22:00:00+00:00",
+   "date": "2026-11-16T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-49ae7bd5/"
+  },
+  {
+   "id": "563d59a4",
+   "title": "Ali Emre Ballı ve İlkay Ballı'nın malvarlığına el kondu",
+   "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında 21 şirkete TMSF'nin kayyum olarak atanmasına karar verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/ali-emre-balli-ve-ilkay-ballinin-malvarligina-el-kondu-1751187",
+   "image": "https://images.ntv.com.tr/images/ali-emre-balli-874052jfif-wztOWnjMJkK_YHBpnu6Fvw-914822-638213_20261116210626-562868.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-16T22:20:50+00:00",
+   "url": "/haber/ali-emre-balli-ve-ilkay-balli-nin-malvarligina-el-kondu-563d59a4/"
+  },
+  {
+   "id": "52800be7",
+   "title": "Minguzzi cinayetine ilişkin tehdit paylaşımına tutuklama",
+   "summary": "Ahmet Mattia Minguzzi'nin ölümüne ilişkin sosyal medyadan tehdit paylaşımları yapan kişi tutuklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/minguzzi-cinayetine-iliskin-tehdit-paylasima-tutuklama-1751185",
+   "image": "https://images.ntv.com.tr/images/sosyetejpg-A2u6ZKE1_kS-TxbuDKKRhw-103589.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-16T22:17:30+00:00",
+   "url": "/haber/minguzzi-cinayetine-iliskin-tehdit-paylasimina-tutuklama-52800be7/"
   },
   {
    "id": "fe6324f8",
@@ -22,17 +44,6 @@
    "category": "gundem",
    "date": "2026-11-16T21:49:00+00:00",
    "url": "/haber/fon-sorusturmasinda-21-sirketin-yonetimi-tmsf-ye-devredildi-fe6324f8/"
-  },
-  {
-   "id": "563d59a4",
-   "title": "Ali Emre Ballı ve İlkay Ballı'nın malvarlığına el kondu",
-   "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında 21 şirkete TMSF'nin kayyum olarak atanmasına karar verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/ali-emre-balli-ve-ilkay-ballinin-malvarligina-el-kondu-1751187",
-   "image": "https://images.ntv.com.tr/images/ali-emre-balli-874052jfif-wztOWnjMJkK_YHBpnu6Fvw-914822-638213_20261116210626-562868.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-16T21:46:00+00:00",
-   "url": "/haber/ali-emre-balli-ve-ilkay-balli-nin-malvarligina-el-kondu-563d59a4/"
   },
   {
    "id": "d9a9f598",
@@ -99,17 +110,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T20:50:41+00:00",
    "url": "/haber/otomotiv-pazarindaki-daralma-otv-gelirlerini-vurdu-ciddi-dusus-var-44eddcf0/"
-  },
-  {
-   "id": "52800be7",
-   "title": "Minguzzi cinayetine ilişkin tehdit paylaşıma tutuklama",
-   "summary": "Ahmet Mattia Minguzzi'nin ölümüne ilişkin sosyal medyadan tehdit paylaşımları yapan kişi tutuklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/minguzzi-cinayetine-iliskin-tehdit-paylasima-tutuklama-1751185",
-   "image": "https://images.ntv.com.tr/images/sosyetejpg-A2u6ZKE1_kS-TxbuDKKRhw-103589.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-16T20:39:53+00:00",
-   "url": "/haber/minguzzi-cinayetine-iliskin-tehdit-paylasima-tutuklama-52800be7/"
   },
   {
    "id": "b76d415e",
@@ -363,6 +363,17 @@
    "category": "teknoloji",
    "date": "2026-11-16T19:04:07+00:00",
    "url": "/haber/stellantis-in-ucuz-arac-planina-maliyet-freni-c88c4bbd/"
+  },
+  {
+   "id": "7429121f",
+   "title": "Bakan Fidan: Türkiye'nin merkezi rolü, herkes tarafından takdir ediliyor",
+   "summary": "Dışişleri Bakanı Fidan, bağlantısallık konusunda Türkiye'nin Avrupa, Karadeniz, Kafkaslar ve Orta Asya için ortak bir konum olarak ön plana çıktığına işaret ederek, \"Türkiye'nin buradaki merkezi rolü, herkes tarafından…",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-turkiyenin-merkezi-rolu-herkes-tarafindan-takdir-ediliyor-963454.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/hakan-fidanaa-2504003.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-16T19:00:00+00:00",
+   "url": "/haber/bakan-fidan-turkiye-nin-merkezi-rolu-herkes-tarafindan-takdir-ediliyor-7429121f/"
   },
   {
    "id": "13798a76",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-11-14T08:39:25+00:00",
    "url": "/haber/19-yuzyilda-osmanli-da-kolelik-var-miydi-beec2475/"
-  },
-  {
-   "id": "2b790a1e",
-   "title": "Sürgünden ölüme: Ahıska Türkleri",
-   "summary": "Takvimler 14 Kasım 1944'ü gösteriyordu... Bir kış gecesinde, Ahıska Türkleri hayvan vagonlarına konularak yokluğa sürüldü. Bilinmezliğe giden o yolculukta binlerce Ahıska Türkü hayatını kaybetti. İnsanlık tarihinin kara…",
-   "link": "https://www.trthaber.com/haber/turk-dunyasi/surgunden-olume-ahiska-turkleri-963235.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/ahiska-surgunu-2503577.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-14T07:00:00+00:00",
-   "url": "/haber/surgunden-olume-ahiska-turkleri-2b790a1e/"
   },
   {
    "id": "22edc894",
