@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:01:08.757953+00:00",
+ "updated": "2026-11-16T15:31:09.268728+00:00",
  "items": [
   {
    "id": "9ed1bbf6",
@@ -9,8 +9,74 @@
    "image": "https://images.ntv.com.tr/images/AA-20261116-43096988-43096986-AK_PARTI_SOZCUSU_CELIK_MKYK_TOPLANTISINA_ILISKIN_ACIKLAMALARDA_BULUNDU-189504.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-16T15:00:15+00:00",
+   "date": "2026-11-16T15:28:49+00:00",
    "url": "/haber/omer-celik-fon-dolandiricilari-hesap-verecek-9ed1bbf6/"
+  },
+  {
+   "id": "0344fc2f",
+   "title": "Borsa günü yatay seyirle tamamladı",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yatay seyirle 11.841,81 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4126916",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T15:23:49+00:00",
+   "url": "/haber/borsa-gunu-yatay-seyirle-tamamladi-0344fc2f/"
+  },
+  {
+   "id": "08df085a",
+   "title": "Bu hafta birçok ülkede kültür sanat etkinliği gerçekleştirilecek",
+   "summary": "Dünyada bu hafta festivallerden fuarlara, tiyatro gösterilerinden söyleşilere ve sergilerden konserlere birçok etkinlik düzenlenecek.",
+   "link": "https://www.aa.com.tr/tr/kultur/bu-hafta-bircok-ulkede-kultur-sanat-etkinligi-gerceklestirilecek/4126913",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T15:17:51+00:00",
+   "url": "/haber/bu-hafta-bircok-ulkede-kultur-sanat-etkinligi-gerceklestirilecek-08df085a/"
+  },
+  {
+   "id": "34003c88",
+   "title": "Özlale'den fon iddiaları, AKP'li Karaaslan'dan 'itibar suikastı' yanıtı",
+   "summary": "YENİ Parti İzmir Milletvekili Ümit Özlale, fon krizine dair TBMM'de düzenlediği basın toplantısında, AKP Samsun milletvekili Çiğdem Karaaslan'ın eşi ve kardeşi ile ilgili iddialarda bulundu. Karaaslan iddiaları…",
+   "link": "https://www.bbc.com/turkce/articles/cwgklxd3274po?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ce1/live/6c466740-e1cb-11f1-99b6-a35a62fa4264.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-16T15:15:40+00:00",
+   "url": "/haber/ozlale-den-fon-iddialari-akp-li-karaaslan-dan-itibar-suikasti-yaniti-34003c88/"
+  },
+  {
+   "id": "0070d582",
+   "title": "COP31'de Türkiye'nin deniz üstü rüzgar enerjisinde bölgesel merkez olma potansiyeli değerlendirildi",
+   "summary": "BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında düzenlenen deniz üstü rüzgar enerjisine ilişkin panelde, sektörün teknolojik gelişimi, Türkiye'nin yatırım potansiyeli ve bölgesel…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-turkiyenin-deniz-ustu-ruzgar-enerjisinde-bolgesel-merkez-olma-potansiyeli-degerlendirildi/4126909",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T15:15:04+00:00",
+   "url": "/haber/cop31-de-turkiye-nin-deniz-ustu-ruzgar-enerjisinde-bolgesel-merkez-olm-0070d582/"
+  },
+  {
+   "id": "c7c9d9ee",
+   "title": "Microsoft'un küresel kesintisinin faturası ağır oldu: 7 milyar dolarlık kayıp",
+   "summary": "Microsoft'un 74 ülkeye yayılan büyük kesintisi, milyonlarca çalışanın işlerini aksattı. Uzmanlara göre yaşanan krizin küresel ekonomiye maliyeti 7 milyar doları bulabilir.",
+   "link": "https://www.donanimhaber.com/microsoft-un-kuresel-kesintisinin-faturasi-agir-oldu--212968",
+   "image": "https://www.donanimhaber.com/images/images/haber/212968/1200x675microsoft-un-kuresel-kesintisinin-faturasi-agir-oldu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-16T15:15:00+00:00",
+   "url": "/haber/microsoft-un-kuresel-kesintisinin-faturasi-agir-oldu-7-milyar-dolarlik-c7c9d9ee/"
+  },
+  {
+   "id": "6b178852",
+   "title": "Ionna'da Tesla'yı prize takmak artık yetiyor",
+   "summary": "Ionna Autocharge ile Tesla sahipleri artık şarj istasyonunda yalnızca fişi takıyor. Ödeme otomatik alınıyor, ilk seans da ücretsiz. Ancak önce bir uygulamada tek seferlik kurulum gerekiyor.",
+   "link": "https://shiftdelete.net/ionna-autocharge-tesla-otomatik-sarj",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/f9d26018d23d103c4c52627c8251eaad88fe864c.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-16T15:04:07+00:00",
+   "url": "/haber/ionna-da-tesla-yi-prize-takmak-artik-yetiyor-6b178852/"
   },
   {
    "id": "9d361c21",
@@ -123,15 +189,15 @@
    "url": "/haber/iphone-duo-2-de-face-id-icin-zaman-daraliyor-cf2852df/"
   },
   {
-   "id": "85bf0b9f",
-   "title": "AK Parti Sözcüsü Çelik: Fon soruşturmasında ihmali, kusuru ve kastı olanlar muhakkak surette hesap vereceklerdir",
+   "id": "834f1814",
+   "title": "AK Parti Sözcüsü Çelik: (Fon soruşturması) ihmali, kusuru ve kastı olanlar muhakkak surette hesap vereceklerdir",
    "summary": "AK Parti Sözcüsü Çelik, \"(Fon soruşturması) İhmali, kusuru ve kastı olanlar muhakkak surette hesap vereceklerdir. Bu mesele hiçbir şekilde faili meçhul kalmayacaktır.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-fon-sorusturmasinda-ihmali-kusuru-ve-kasti-olanlar-muhakkak-surette-hesap-vereceklerdir/4126861",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-fon-sorusturmasi-ihmali-kusuru-ve-kasti-olanlar-muhakkak-surette-hesap-vereceklerdir/4126861",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-16T14:29:44+00:00",
-   "url": "/haber/ak-parti-sozcusu-celik-fon-sorusturmasinda-ihmali-kusuru-ve-kasti-olan-85bf0b9f/"
+   "url": "/haber/ak-parti-sozcusu-celik-fon-sorusturmasi-ihmali-kusuru-ve-kasti-olanlar-834f1814/"
   },
   {
    "id": "a2658cfa",
@@ -233,17 +299,6 @@
    "url": "/haber/ingiltere-disisleri-bakani-miliband-brexit-anlasmasinin-ekonomiye-zara-6f981204/"
   },
   {
-   "id": "34003c88",
-   "title": "AKP milletvekili Karaaslan'dan fon iddialarına yanıt",
-   "summary": "YENİ Parti İzmir Milletvekili Ümit Özlale, fon krizine dair TBMM'de düzenlediği basın toplantısında, AKP Samsun milletvekili Çiğdem Karaaslan'ın eşi ve kardeşi ile ilgili iddialarda bulundu. Karaaslan iddiaları…",
-   "link": "https://www.bbc.com/turkce/articles/cwgklxd3274po?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b33e/live/fc857090-e1c0-11f1-8a52-0b287ff76f43.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-16T13:49:18+00:00",
-   "url": "/haber/akp-milletvekili-karaaslan-dan-fon-iddialarina-yanit-34003c88/"
-  },
-  {
    "id": "5b648a8e",
    "title": "BMW'nin MINI fabrikasında üretim durdu: Nedeni Rusya'nın saldırıları",
    "summary": "Rusya'nın Ukrayna'daki saldırıları Avrupa otomotiv sektörünü bir kez daha vurdu. BMW ve Skoda'nın üretim hatları, kritik parçaların tedarik edilememesi nedeniyle aksıyor.",
@@ -275,17 +330,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T13:39:51+00:00",
    "url": "/haber/2027-nin-eylul-ayinda-tanitilacak-iphone-20-pro-serisine-yonelik-yeni-56c93a81/"
-  },
-  {
-   "id": "c78878da",
-   "title": "Arap Koalisyonu: Husilerin Mekke ve Riyad bölgelerine İHA saldırısı engellendi",
-   "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, İran destekli Husilerin 2 insansız hava aracıyla (İHA) Mekke ve başkent Riyad bölgelerine yönelik düzenlediği saldırının…",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-mekke-ve-riyad-bolgelerine-iha-saldirisi-engellendi/4126782",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T13:38:52+00:00",
-   "url": "/haber/arap-koalisyonu-husilerin-mekke-ve-riyad-bolgelerine-iha-saldirisi-eng-c78878da/"
   },
   {
    "id": "5c6cb184",
@@ -363,28 +407,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T13:17:28+00:00",
    "url": "/haber/oppo-reno-17-ve-reno-17-pro-resmi-olarak-tanitildi-b3f956cf/"
-  },
-  {
-   "id": "131f7169",
-   "title": "Tarım ve Orman Bakanı Yumaklı: Türkiye yangınla mücadele anlayışını yeniden şekillendirdi",
-   "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Türkiye'nin 2021'de yaşanan yangınların ardından yangınla mücadele anlayışını yeniden şekillendirdiğini, hava filosunu, İHA’ları ve saha kapasitesini güçlendirdiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/tarim-ve-orman-bakani-yumakli-turkiye-yanginla-mucadele-anlayisini-yeniden-sekillendirdi/4126735",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T13:12:55+00:00",
-   "url": "/haber/tarim-ve-orman-bakani-yumakli-turkiye-yanginla-mucadele-anlayisini-yen-131f7169/"
-  },
-  {
-   "id": "dd837fc2",
-   "title": "COP31 Müzakereler Başkanı Bowen, müzakerelerin \"yapıcı bir yaklaşımla\" ilerlediğini bildirdi",
-   "summary": "BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) Müzakereler Başkanı ve Avustralya İklim Değişikliği ve Enerji Bakanı Chris Bowen, zirve kapsamındaki iklim müzakerelerinin oldukça \"yapıcı bir…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cop31-muzakereler-baskani-bowen-muzakerelerin-yapici-bir-yaklasimla-ilerledigini-bildirdi/4126727",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T13:08:30+00:00",
-   "url": "/haber/cop31-muzakereler-baskani-bowen-muzakerelerin-yapici-bir-yaklasimla-il-dd837fc2/"
   },
   {
    "id": "aff714cc",
@@ -739,17 +761,6 @@
    "url": "/haber/wi-fi-8-hiz-yerine-baska-bir-sorunu-hedefliyor-76c422a1/"
   },
   {
-   "id": "a9b1dc68",
-   "title": "Ucuz otomobil hedefi zorlaşıyor: Stellantis’ten maliyet uyarısı",
-   "summary": "Stellantis CEO’su Antonio Filosa, ham madde ve elektronik parça maliyetlerindeki artışın 2027’de ve muhtemelen 2028’de de devam edeceğini söyledi.",
-   "link": "https://www.donanimhaber.com/ucuz-otomobil-hedefi-zorlasiyor-stellantis-ten-maliyet-uyarisi--212961",
-   "image": "https://www.donanimhaber.com/images/images/haber/212961/1200x675ucuz-otomobil-hedefi-zorlasiyor-stellantis-ten-maliyet-uyarisi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-16T10:26:00+00:00",
-   "url": "/haber/ucuz-otomobil-hedefi-zorlasiyor-stellantis-ten-maliyet-uyarisi-a9b1dc68/"
-  },
-  {
    "id": "91c6e329",
    "title": "COP31'de tüm COP'ların bağlantı rekoru kırıldı",
    "summary": "Türk Telekom, Antalya'daki COP31'in ilk haftasında 380 TB'ı aşan veri trafiğini taşıdı; Mavi Bölge'de eş zamanlı bağlı cihaz sayısı COP tarihinin en yüksek seviyesine ulaştı.",
@@ -869,17 +880,6 @@
    "category": "gundem",
    "date": "2026-11-16T09:36:13+00:00",
    "url": "/haber/trafikte-ortalik-karisti-surucuye-kamp-sandalyesi-ve-sopayla-saldirdil-d0ede41a/"
-  },
-  {
-   "id": "f57396c6",
-   "title": "Vivo X500 Pro'nun pil süresi herkesi şaşırttı",
-   "summary": "Vivo X500 Pro, 6510 mAh bataryasıyla GSM Arena'nın standart pil testinde 22 saat 30 dakika dayandı. OnePlus 15 ve iPhone 18 Pro Max ile farkı da netleşti.",
-   "link": "https://shiftdelete.net/vivo-x500-pro-pil-testi-sonuclari",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/6e445a66cdfbaa81e62b49194305f043a9fa8f94.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-16T09:34:07+00:00",
-   "url": "/haber/vivo-x500-pro-nun-pil-suresi-herkesi-sasirtti-f57396c6/"
   },
   {
    "id": "fd8f9b09",
