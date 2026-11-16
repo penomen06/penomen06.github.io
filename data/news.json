@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T23:30:52.396539+00:00",
+ "updated": "2026-11-16T00:01:03.183757+00:00",
  "items": [
   {
    "id": "f6607cd7",
@@ -9,19 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-15T23:30:00+00:00",
+   "date": "2026-11-16T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f6607cd7/"
   },
   {
-   "id": "a503efaf",
-   "title": "Türkiye, Uluslar Ligi'nde Fransa’ya 2-1 yenildi",
-   "summary": "A Milli Futbol Takımı'nın UEFA Uluslar A Ligi 1. Grup'taki altıncı maçından da puansız ayrıldı. Deplasmanda Fransa’ya 2-1 yenildi.",
-   "link": "https://www.bbc.com/turkce/articles/c6x299pm5zrxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d960/live/1f62bd00-df48-11f1-b441-2b33b063138f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-15T23:13:45+00:00",
-   "url": "/haber/turkiye-uluslar-ligi-nde-fransa-ya-2-1-yenildi-a503efaf/"
+   "id": "3d745f60",
+   "title": "Amazon dolandırıcılığında yapay zekaların sınavı",
+   "summary": "Amazon dolandırıcılığı mesajlarını tanıma testinde Gemini, ChatGPT ve Claude 20 mesajın hepsini doğru bildi. Gerçek bir Amazon e-postasında ise sonuçlar birbirinden ayrıldı.",
+   "link": "https://shiftdelete.net/amazon-dolandiriciligi-gemini-chatgpt-claude-testi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/amazon-hub-locker-kapak-1511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-15T23:41:06+00:00",
+   "url": "/haber/amazon-dolandiriciliginda-yapay-zekalarin-sinavi-3d745f60/"
   },
   {
    "id": "d2dd6bb5",
@@ -176,6 +176,17 @@
    "category": "gundem",
    "date": "2026-11-15T21:35:03+00:00",
    "url": "/haber/hatay-mustafa-kemal-universitesi-iklim-krizine-karsi-gelistirdigi-8-pr-f9a291e6/"
+  },
+  {
+   "id": "a1d5eba6",
+   "title": "İşgal altındaki Batı Şeria'da İsrail askeri aracının çarptığı 2 Filistinli yaralandı",
+   "summary": "İşgal altındaki Batı Şeria'nın Cenin kentinde İsrail güçlerine ait askeri aracın çarpması sonucu iki Filistinli yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/isgal-altindaki-bati-seriada-israil-askeri-aracinin-carptigi-2-filistinli-yaralandi/4126052",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-15T21:23:02+00:00",
+   "url": "/haber/isgal-altindaki-bati-seria-da-israil-askeri-aracinin-carptigi-2-filist-a1d5eba6/"
   },
   {
    "id": "720470f2",
@@ -431,17 +442,6 @@
    "url": "/haber/sans-topu-sonuclari-sorgulama-ekrani-26-agustos-mpi-sans-topu-sonuclar-19c30b56/"
   },
   {
-   "id": "c45c6744",
-   "title": "Bakan Kacır: Hedefimiz, 2030 yılına kadar 5 milyar avronun üzerinde sanayide karbonsuzlaşma yatırımını desteklemek",
-   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye Sanayide Karbonsuzlaşma Yatırım Platformu'na ilişkin, \"Hedefimiz, 2030 yılına kadar 5 milyar avronun üzerinde sanayide karbonsuzlaşma yatırımını desteklemek.\"…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-hedefimiz-2030-yilina-kadar-5-milyar-avronun-uzerinde-sanayide-karbonsuzlasma-yatirimini-desteklemek/4125972",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-15T17:34:42+00:00",
-   "url": "/haber/bakan-kacir-hedefimiz-2030-yilina-kadar-5-milyar-avronun-uzerinde-sana-c45c6744/"
-  },
-  {
    "id": "b7228300",
    "title": "Euro Truck Simulator 2 için laptop önerileri: Harita ve grafik modları ile kullanım",
    "summary": "ETS2 oynamak için hangi laptop alınmalı? Euro Truck Simulator 2'yi harita, trafik ve grafik modlarıyla oynamak isteyenlere laptop önerileri. İşte en iyi ETS 2 dizüstü bilgisayarları:",
@@ -484,17 +484,6 @@
    "category": "teknoloji",
    "date": "2026-11-15T17:15:33+00:00",
    "url": "/haber/siper-urun-2-ve-celik-kubbe-turkiye-nin-hava-savunma-kalkani-nasil-cal-0800792b/"
-  },
-  {
-   "id": "52b0bdb5",
-   "title": "TSMC'de çalışan verileri açık artırmada",
-   "summary": "TSMC veri sızıntısı resmen doğrulandı. Bir hacker, şirketin mevcut ve eski çalışanlarına ait 6,9 GB'lık veriyi 3 BTC'den başlayan fiyatla açık artırmaya çıkardı.",
-   "link": "https://shiftdelete.net/tsmc-veri-sizintisi-calisan-bilgileri-acik-artirma",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/0177c038669e6ff30251f2eb29b788a11d1b3815.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-15T17:11:00+00:00",
-   "url": "/haber/tsmc-de-calisan-verileri-acik-artirmada-52b0bdb5/"
   },
   {
    "id": "182cd2cc",
@@ -781,6 +770,17 @@
    "category": "gundem",
    "date": "2026-11-15T11:34:58+00:00",
    "url": "/haber/disisleri-bakani-hakan-fidan-belcika-ya-gidiyor-4a276f20/"
+  },
+  {
+   "id": "7eeb028c",
+   "title": "Yeni Parti kurultayında ilk gün neler yaşandı, Özgür Özel ne mesajlar verdi?",
+   "summary": "Yeni Parti, ilk olağan \"Kuruluş Kurultayı\"nı 14-15 Kasım tarihlerinde Ankara'da gerçekleştiriyor. Kurultayın ilk gününde Özgür Özel konuşmasına, \"Bu salonda yenilgiyi kabul kaybetmeyenleri, teslim olmayanları görüyorum\"…",
+   "link": "https://www.bbc.com/turkce/articles/cq1k9n3d3vrvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ffd6/live/e867d970-e0d2-11f1-9b52-3173d97d589a.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-15T10:49:05+00:00",
+   "url": "/haber/yeni-parti-kurultayinda-ilk-gun-neler-yasandi-ozgur-ozel-ne-mesajlar-v-7eeb028c/"
   },
   {
    "id": "0b1b0c6a",
