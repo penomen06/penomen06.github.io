@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:01:00.759927+00:00",
+ "updated": "2026-11-16T04:30:51.835463+00:00",
  "items": [
   {
    "id": "f6607cd7",
@@ -9,13 +9,13 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-16T04:00:00+00:00",
+   "date": "2026-11-16T04:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f6607cd7/"
   },
   {
    "id": "10a791c7",
    "title": "Qwen4-Max, görev maliyetini %62 azalttı",
-   "summary": "Önizleme 11 Kasım'da yalnızca Token Plan'daydı. API 16 Kasım 05:01'de genel kullanıma geçti ve liste fiyatı Qwen3.8-Max'in yüzde 25 altına indi.",
+   "summary": "Önizleme 11 Kasım'da yalnızca Token Plan'daydı. API 16 Kasım 05:01'de genel kullanıma geçti ve liste fiyatı Qwen3.8-Max'in %25 altına indi.",
    "link": "https://shiftdelete.net/qwen4-max",
    "image": "https://shiftdelete.net/static/img/content/26-11/16/cover-1920x1080.jpg",
    "source": "ShiftDelete.Net",
@@ -277,6 +277,17 @@
    "url": "/haber/hatay-mustafa-kemal-universitesi-iklim-krizine-karsi-gelistirdigi-8-pr-f9a291e6/"
   },
   {
+   "id": "5dbf04a8",
+   "title": "14. Boğaziçi Film Festivali'nde ödüller sahiplerini buldu",
+   "summary": "Anadolu Ajansının Global İletişim Ortağı olduğu, Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğünün desteğiyle Boğaziçi Kültür Sanat Vakfınca düzenlenen 14. Boğaziçi Film Festivali'nin ödülleri, sahiplerini buldu.",
+   "link": "https://www.aa.com.tr/tr/kultur/14-bogazici-film-festivalinde-oduller-sahiplerini-buldu/4126053",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-15T21:23:35+00:00",
+   "url": "/haber/14-bogazici-film-festivali-nde-oduller-sahiplerini-buldu-5dbf04a8/"
+  },
+  {
    "id": "a1d5eba6",
    "title": "İşgal altındaki Batı Şeria'da İsrail askeri aracının çarptığı 2 Filistinli yaralandı",
    "summary": "İşgal altındaki Batı Şeria'nın Cenin kentinde İsrail güçlerine ait askeri aracın çarpması sonucu iki Filistinli yaralandı.",
@@ -429,17 +440,6 @@
    "category": "teknoloji",
    "date": "2026-11-15T19:11:07+00:00",
    "url": "/haber/android-auto-da-benzin-fiyatlari-artik-ekranda-73b34c71/"
-  },
-  {
-   "id": "99618a49",
-   "title": "Türkiye İklim Okulu \"gastronomi\" ve \"sıfır atık\" etkinlikleriyle ziyaretçilerin ilgisini çekti",
-   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 kapsamında Milli Eğitim Bakanlığınca hazırlanan Türkiye İklim Okulu, \"gastronomi\" ve \"sıfır atık\" etkinlikleriyle ziyaretçilerinin ilgi odağı oldu.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulu-gastronomi-ve-sifir-atik-etkinlikleriyle-ziyaretcilerin-ilgisini-cekti/4125989",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-15T18:48:18+00:00",
-   "url": "/haber/turkiye-iklim-okulu-gastronomi-ve-sifir-atik-etkinlikleriyle-ziyaretci-99618a49/"
   },
   {
    "id": "a6b5cffb",
