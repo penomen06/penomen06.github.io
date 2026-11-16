@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-16T16:01:05.058669+00:00",
+ "updated": "2026-11-16T16:30:55.497707+00:00",
  "items": [
+  {
+   "id": "6bd02d91",
+   "title": "Lityumun tahtı sallanıyor: Daha ucuz sodyum batarya geliyor",
+   "summary": "CATL, lityum bataryalara alternatif olacak yeni sodyum iyon teknolojisiyle enerji depolama maliyetlerini düşürmeyi hedefliyor. Uluslararası teslimatlar için tarih de belli oldu.",
+   "link": "https://www.donanimhaber.com/lityumun-tahti-sallaniyor-daha-ucuz-sodyum-batarya-geliyor--212967",
+   "image": "https://www.donanimhaber.com/images/images/haber/212967/1200x675lityumun-tahti-sallaniyor-daha-ucuz-sodyum-batarya-geliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-16T16:21:00+00:00",
+   "url": "/haber/lityumun-tahti-sallaniyor-daha-ucuz-sodyum-batarya-geliyor-6bd02d91/"
+  },
+  {
+   "id": "9cfa0942",
+   "title": "AB, Suriye ile Ortaklık Anlaşması'nın imzalanması için ilerleme kararı aldı",
+   "summary": "Avrupa Birliği (AB) Yüksek Temsilcisi Kaja Kallas, AB dışişleri bakanlarının Suriye ile Ortaklık Anlaşması'nın imzalanması yönünde ilerlemeyi desteklediğini belirterek, teknik ve hukuki hazırlıkların üye ülkelerle…",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-suriye-ile-ortaklik-anlasmasinin-imzalanmasi-icin-ilerleme-karari-aldi/4126951",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T16:15:37+00:00",
+   "url": "/haber/ab-suriye-ile-ortaklik-anlasmasi-nin-imzalanmasi-icin-ilerleme-karari-9cfa0942/"
+  },
+  {
+   "id": "2cd43b78",
+   "title": "Linux çekirdeğinde 11 yıllık açık bulundu",
+   "summary": "NoisyTCP adı verilen 11 yıllık Linux çekirdek açığı, varsayılan ayarlarla Nginx, Apache ve SSH çalıştıran sunucuları uzaktan çökertebiliyor. Yama yayınlandı.",
+   "link": "https://shiftdelete.net/noisytcp-linux-cekirdek-acigi-cve-2026-99288",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/2f5dd08d814b26f5700502ed16383da233aea7f7.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-16T16:04:07+00:00",
+   "url": "/haber/linux-cekirdeginde-11-yillik-acik-bulundu-2cd43b78/"
+  },
   {
    "id": "4b6054e6",
    "title": "Yeni MacBook Pro'da ciddi ekran sorunu: Kullanıcılar iade ediyor!",
@@ -22,6 +55,17 @@
    "category": "gundem",
    "date": "2026-11-16T15:58:53+00:00",
    "url": "/haber/bakirkoy-belediyesi-nde-ihale-usulsuzlugu-sorusturmasi-9-supheli-icin-36f17af6/"
+  },
+  {
+   "id": "8becd4f0",
+   "title": "Çin, APEC Zirvesi'nde bölgesel serbest ticaret anlaşmasını ilerletme arayışında",
+   "summary": "Çin, ev sahipliğini yaptığı Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi'nde, daha önce gündeme gelen bölgesel serbest ticaret anlaşması fikrini ilerletmek üzere eylem planları önerecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cin-apec-zirvesinde-bolgesel-serbest-ticaret-anlasmasini-ilerletme-arayisinda/4126938",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T15:51:40+00:00",
+   "url": "/haber/cin-apec-zirvesi-nde-bolgesel-serbest-ticaret-anlasmasini-ilerletme-ar-8becd4f0/"
   },
   {
    "id": "9ed1bbf6",
@@ -57,15 +101,15 @@
    "url": "/haber/galaxy-s26-ultra-kor-testte-rakibini-gecti-9d04f717/"
   },
   {
-   "id": "4fc66261",
+   "id": "09ea79d5",
    "title": "Almanya'da vatandaşların dijital kamu hesaplarına yönelik büyük ölçekli siber saldırı girişimi",
    "summary": "Almanya'da bilgisayar korsanları, federal hükümetin vatandaşlara dijital kamu hizmetleri sunduğu merkezi kimlik doğrulama sistemi \"BundID\" hesaplarına yönelik büyük ölçekli siber saldırı girişiminde bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/almanyada-vatandaslarin-dijital-kamu-hesaplarina-yonelik-buyuk-olcekli-siber-saldiri-girisimi/4126933",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/almanyada-vatandaslarin-dijital-kamu-hesaplarina-yonelik-buyuk-olcekli-siber-saldiri-girisimi/4126933",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-16T15:48:03+00:00",
-   "url": "/haber/almanya-da-vatandaslarin-dijital-kamu-hesaplarina-yonelik-buyuk-olcekl-4fc66261/"
+   "url": "/haber/almanya-da-vatandaslarin-dijital-kamu-hesaplarina-yonelik-buyuk-olcekl-09ea79d5/"
   },
   {
    "id": "8a6e73fa",
@@ -311,7 +355,7 @@
   },
   {
    "id": "834f1814",
-   "title": "AK Parti Sözcüsü Çelik: (Fon soruşturması) ihmali, kusuru ve kastı olanlar muhakkak surette hesap vereceklerdir",
+   "title": "AK Parti Sözcüsü Çelik: (Fon soruşturması) İhmali, kusuru ve kastı olanlar muhakkak surette hesap vereceklerdir",
    "summary": "AK Parti Sözcüsü Çelik, \"(Fon soruşturması) İhmali, kusuru ve kastı olanlar muhakkak surette hesap vereceklerdir. Bu mesele hiçbir şekilde faili meçhul kalmayacaktır.\" dedi.",
    "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-fon-sorusturmasi-ihmali-kusuru-ve-kasti-olanlar-muhakkak-surette-hesap-vereceklerdir/4126861",
    "image": "",
@@ -343,17 +387,6 @@
    "url": "/haber/abd-nin-bm-daimi-temsilcisi-waltz-lubnan-da-hizbullah-in-silah-birakma-f789475f/"
   },
   {
-   "id": "87ccc6ab",
-   "title": "Cumhurbaşkanı Erdoğan, vefatının 5. yılında Sezai Karakoç'u andı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, şair, yazar ve düşünür Sezai Karakoç'u vefatının 5. yılında andı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-vefatinin-5-yilinda-sezai-karakocu-andi/4126829",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T14:11:37+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-vefatinin-5-yilinda-sezai-karakoc-u-andi-87ccc6ab/"
-  },
-  {
    "id": "d8c1c1d3",
    "title": "Huang'ın ayrılığı Samsung'un işine yarayabilir",
    "summary": "KB Securities, Jensen Huang'ın NVIDIA'dan ayrılmasının Samsung HBM payı için fırsat olabileceğini söylüyor. Samsung'un sevkiyatında NVIDIA dışı müşteri oranının %65'e çıkması bekleniyor.",
@@ -374,17 +407,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T14:03:00+00:00",
    "url": "/haber/playstation-plus-abonelikleri-indirime-girdi-iste-yeni-fiyatlar-8eaf5364/"
-  },
-  {
-   "id": "cbfff854",
-   "title": "Sanayide düşük karbonlu projeleri destekleyecek ITA Türkiye Proje Hızlandırma Programı başlatıldı",
-   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, ITA Türkiye Proje Hızlandırma Programı'nın, emisyon azaltımı sağlama potansiyeline sahip, erken aşamadaki ve ticari ölçekli projeleri destekleyeceğini belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/sanayide-dusuk-karbonlu-projeleri-destekleyecek-ita-turkiye-proje-hizlandirma-programi-baslatildi/4126821",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T14:03:00+00:00",
-   "url": "/haber/sanayide-dusuk-karbonlu-projeleri-destekleyecek-ita-turkiye-proje-hizl-cbfff854/"
   },
   {
    "id": "efa6133b",
@@ -739,17 +761,6 @@
    "url": "/haber/casper-nirvana-s100-s200-sgs-testinde-video-oynatirken-kac-saat-calist-cba968fa/"
   },
   {
-   "id": "68bdc123",
-   "title": "DH Quiz 6. Hafta sona erdi: İşte kazananlar ve yeni haftanın test takvimi",
-   "summary": "DonanımHaber'in ödüllü bilgi yarışması DH Quiz'de altıncı hafta geride kaldı. Yarışmanın kazananları açıklanırken yeni haftada katılımcıları bekleyen testler ve ödüller de belli oldu.",
-   "link": "https://www.donanimhaber.com/dh-quiz-6-hafta-sona-erdi-iste-kazananlar--212972",
-   "image": "https://www.donanimhaber.com/images/images/haber/212972/1200x675dh-quiz-6-hafta-sona-erdi-iste-kazananlar.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-16T11:15:00+00:00",
-   "url": "/haber/dh-quiz-6-hafta-sona-erdi-iste-kazananlar-ve-yeni-haftanin-test-takvim-68bdc123/"
-  },
-  {
    "id": "f07394a4",
    "title": "ÖTV Muafiyetli SUV Modelleri ve Fiyatları - Kasım 2026",
    "summary": "2026 yılında ÖTV muafiyetiyle satın alınabilecek SUV modellerini ve güncel fiyatlarını bir araya getirdik. Fiat Egea Cross, Hyundai Bayon, Renault Boreal, Toyota C-HR ve Togg T10X'in ÖTV'siz fiyatları ne kadar?",
@@ -803,17 +814,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T10:34:07+00:00",
    "url": "/haber/wi-fi-8-hiz-yerine-baska-bir-sorunu-hedefliyor-76c422a1/"
-  },
-  {
-   "id": "91c6e329",
-   "title": "COP31'de tüm COP'ların bağlantı rekoru kırıldı",
-   "summary": "Türk Telekom, Antalya'daki COP31'in ilk haftasında 380 TB'ı aşan veri trafiğini taşıdı; Mavi Bölge'de eş zamanlı bağlı cihaz sayısı COP tarihinin en yüksek seviyesine ulaştı.",
-   "link": "https://shiftdelete.net/turk-telekom-cop31-veri-trafigi-bagli-cihaz-rekoru",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/turk-telekom-cop31-kapak-1611.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-16T10:23:12+00:00",
-   "url": "/haber/cop31-de-tum-cop-larin-baglanti-rekoru-kirildi-91c6e329/"
   },
   {
    "id": "b0bf282d",
