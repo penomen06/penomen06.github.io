@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T00:01:03.183757+00:00",
+ "updated": "2026-11-16T00:30:51.960137+00:00",
  "items": [
   {
    "id": "f6607cd7",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-16T00:00:00+00:00",
+   "date": "2026-11-16T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f6607cd7/"
+  },
+  {
+   "id": "063044d3",
+   "title": "God of War Ascension PS3'ün dışına çıktı",
+   "summary": "God of War Ascension, geliştirici M Bilal'in resmi olmayan uyarlamasıyla PC'ye geldi. İlk herkese açık sürüm 0.1.31 yayınlandı, ancak oyun dosyaları ppakete dahil değil.",
+   "link": "https://shiftdelete.net/god-of-war-ascension-pc-uyarlamasi-yayinlandi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/affa5dc0c81cf380f4c1be6bb3391e9947ccdc52.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-16T00:11:06+00:00",
+   "url": "/haber/god-of-war-ascension-ps3-un-disina-cikti-063044d3/"
+  },
+  {
+   "id": "95b15b26",
+   "title": "İngiltere'de Russell Brand davasının ardından cinsel rıza yaşı tartışması",
+   "summary": "İngiltere'de komedyen ve aktör Russell Brand'ın tecavüz ve cinsel saldırı suçlarından 10 yıldan fazla hapis cezasına çarptırılmasının ardından, cinsel rıza yaşı tartışmaları başladı. Bir kampanya grubu 16 ve 17…",
+   "link": "https://www.bbc.com/turkce/articles/cvp8678kx3gzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/786b/live/57899d60-e0f2-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-16T00:06:08+00:00",
+   "url": "/haber/ingiltere-de-russell-brand-davasinin-ardindan-cinsel-riza-yasi-tartism-95b15b26/"
   },
   {
    "id": "3d745f60",
@@ -366,14 +388,14 @@
   },
   {
    "id": "eea0fc1b",
-   "title": "Trump, Putin ve Şi'den tarihi zirve: Dünya için nasıl sonuçlar çıkabilir?",
-   "summary": "ABD, Rusya ve Çin liderlerinin tarihte ilk kez düzenlenecek üçlü toplantısına yönelik hazırlıklar Avrupa'nın dikkatini çekiyor. Bazıları bu durumla İkinci Dünya Savaşı sonrasında dünyanın nüfuz alanlarına bölünmesi…",
+   "title": "Trump, Şi ve Putin'den tarihi zirve: Dünya için nasıl sonuçlar çıkabilir?",
+   "summary": "ABD, Çin ve Rusya liderlerinin tarihte ilk kez düzenlenecek üçlü toplantısına yönelik hazırlıklar Avrupa'nın dikkatini çekiyor. Bazıları bu durumla İkinci Dünya Savaşı sonrasında dünyanın nüfuz alanlarına bölünmesi…",
    "link": "https://www.bbc.com/turkce/articles/cjdx1y7p47ydo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9de/live/369f6d80-df7d-11f1-93e1-3b657b665bcf.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-15T18:23:01+00:00",
-   "url": "/haber/trump-putin-ve-si-den-tarihi-zirve-dunya-icin-nasil-sonuclar-cikabilir-eea0fc1b/"
+   "url": "/haber/trump-si-ve-putin-den-tarihi-zirve-dunya-icin-nasil-sonuclar-cikabilir-eea0fc1b/"
   },
   {
    "id": "9570d017",
@@ -473,17 +495,6 @@
    "category": "gundem",
    "date": "2026-11-15T17:18:56+00:00",
    "url": "/haber/aselsan-dan-dronlara-karsi-ejderha-51-dronu-tek-tusla-dusurdu-64d9f1e1/"
-  },
-  {
-   "id": "0800792b",
-   "title": "SİPER Ürün-2 ve Çelik Kubbe: Türkiye'nin Hava Savunma Kalkanı Nasıl Çalışıyor? | 2T #20",
-   "summary": "2T Teknoloji & Savunma'nın 20. bölümünde SİPER Ürün-1 ile Ürün-2 arasındaki farkları, havada hedef değiştirme testini, S-400 karşılaştırmasını ve Çelik Kubbe'nin bütün katmanlarını ele aldık.",
-   "link": "https://shiftdelete.net/siper-urun-2-celik-kubbe-hava-savunma-2t-teknoloji-savunma-20",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/sdntv-2C9NsObf_1U.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-15T17:15:33+00:00",
-   "url": "/haber/siper-urun-2-ve-celik-kubbe-turkiye-nin-hava-savunma-kalkani-nasil-cal-0800792b/"
   },
   {
    "id": "182cd2cc",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-11-13T10:36:22+00:00",
    "url": "/haber/dunya-nin-yeni-bir-mini-ay-i-var-7927f8d1/"
-  },
-  {
-   "id": "0c4a40f2",
-   "title": "Johnny Depp 'iptal' yılları sonrası ilk kez beyaz perdede",
-   "summary": "Uzun süredir Hollywood'un en gözde isimleri arasında yer alan oyuncu Ebenezer filmindeki Scrooge karakteriyle izleyici karşısına çıkıyor. Bu, eski eşi Amber Heard ile yaşadığı hukuki mücadelelerin ardından yer aldığı…",
-   "link": "https://www.bbc.com/turkce/articles/cwvg2l4x0dn9o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3587/live/0bd2def0-deb2-11f1-93e1-3b657b665bcf.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-12T16:56:00+00:00",
-   "url": "/haber/johnny-depp-iptal-yillari-sonrasi-ilk-kez-beyaz-perdede-0c4a40f2/"
   }
  ]
 }
