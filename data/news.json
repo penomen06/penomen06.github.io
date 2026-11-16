@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-16T17:01:21.264655+00:00",
+ "updated": "2026-11-16T17:30:57.359255+00:00",
  "items": [
+  {
+   "id": "e71a2c3c",
+   "title": "DOOM bu kez 128 GB'lık USB bellekte çalıştırıldı: Kontroller bile sıra dışı",
+   "summary": "DOOM bir kez daha alışılmadık bir cihaza taşındı. Bir geliştirici, 128 GB kapasiteli ve ekranlı bir USB bellekte oyunu saniyede 13 kare hızında çalıştırmayı başardı.",
+   "link": "https://www.donanimhaber.com/doom-bu-kez-128-gb-lik-usb-bellekte-calistirildi-iste-video--212984",
+   "image": "https://www.donanimhaber.com/images/images/haber/212984/1200x675doom-bu-kez-128-gb-lik-usb-bellekte-calistirildi-iste-video.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-16T17:22:00+00:00",
+   "url": "/haber/doom-bu-kez-128-gb-lik-usb-bellekte-calistirildi-kontroller-bile-sira-e71a2c3c/"
+  },
+  {
+   "id": "4f2c7a89",
+   "title": "ASELSAN'a savunmada bir ilk daha yazıldı",
+   "summary": "ASELSAN Yeşil Dönüşüm Merkezi Belgesi'ni COP31 kapsamındaki törenle aldı. Şirket, savunma sanayiinde belgeye ulaşan ilk ve tek firma oldu.",
+   "link": "https://shiftdelete.net/aselsan-yesil-donusum-merkezi-belgesi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/a3e0eefde92ce3b53ca46e6dae78ab42a0e44558.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-16T17:04:07+00:00",
+   "url": "/haber/aselsan-a-savunmada-bir-ilk-daha-yazildi-4f2c7a89/"
+  },
+  {
+   "id": "158ec044",
+   "title": "Bakan Kurum'dan Türkiye Pavilyonu'na ziyaret",
+   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Tüm dünya bugün Türkiye'den, Antalya'dan Türkiye'nin sesini dinliyor, sözünü merak ediyor. Biz de bu merakı boşa çıkarmayacağız.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-turkiye-pavilyonuna-ziyaret/4126983",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T17:00:09+00:00",
+   "url": "/haber/bakan-kurum-dan-turkiye-pavilyonu-na-ziyaret-158ec044/"
+  },
   {
    "id": "1239ccb7",
    "title": "Volkswagen’den 580 km menzilli yeni elektrikli sedan: ID. Aura L5",
@@ -15,7 +48,7 @@
   {
    "id": "5c6cb184",
    "title": "Beş AB ülkesi, göçmenler için Ruanda'da sınırdışı merkezi açıyor",
-   "summary": "Almanya, Hollanda, Avusturya, Yunanistan ve Danimarka, Afrika ülkesi Ruanda'da bir göçmen sınırdışı merkezi açma planlarını duyurdu. Merkezin amacı sınırdışı sayılarını artırmak ve düzensiz göçü azaltmak olarak…",
+   "summary": "Almanya, Hollanda, Avusturya, Yunanistan ve Danimarka, Afrika ülkesi Ruanda'da bir göçmen sınır dışı merkezi açma planlarını duyurdu. Merkezin amacı sınırdışı sayılarını artırmak ve düzensiz göçü azaltmak olarak…",
    "link": "https://www.bbc.com/turkce/articles/cve87n0233k4o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f47b/live/694a8d60-e1c0-11f1-a339-49d4d3ed4c86.jpg",
    "source": "BBC Turkish",
@@ -77,6 +110,17 @@
    "category": "teknoloji",
    "date": "2026-11-16T16:34:06+00:00",
    "url": "/haber/galaxy-tab-s9-serisine-beklenen-yazilim-geldi-e3c8ef70/"
+  },
+  {
+   "id": "8d54d6c1",
+   "title": "Türkiye İklim Okulu'ndaki panellerde iklim değişikliğine karşı eğitimde iyi uygulama örnekleri ele alındı",
+   "summary": "Milli Eğitim Bakanlığınca BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında oluşturulan Türkiye İklim Okulu'ndaki panellerde iklim değişikliğine ve afet risklerine karşı eğitimde iyi…",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulundaki-panellerde-iklim-degisikligine-karsi-egitimde-iyi-uygulama-ornekleri-ele-alindi/4126964",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T16:33:30+00:00",
+   "url": "/haber/turkiye-iklim-okulu-ndaki-panellerde-iklim-degisikligine-karsi-egitimd-8d54d6c1/"
   },
   {
    "id": "9ed1bbf6",
@@ -332,17 +376,6 @@
    "url": "/haber/ionna-da-tesla-yi-prize-takmak-artik-yetiyor-6b178852/"
   },
   {
-   "id": "9d361c21",
-   "title": "DSÖ'den COP31'de başlatılan \"Antalya Dayanıklı Sağlık Sistemleri Girişimi\" için destek çağrısı",
-   "summary": "Dünya Sağlık Örgütü (DSÖ) Genel Direktörü Ghebreyesus, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) başlatılan \"Antalya Dayanıklı Sağlık Sistemleri Girişimi\" için destek…",
-   "link": "https://www.aa.com.tr/tr/dunya/dsoden-cop31de-baslatilan-antalya-dayanikli-saglik-sistemleri-girisimi-icin-destek-cagrisi/4126889",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T14:54:48+00:00",
-   "url": "/haber/dso-den-cop31-de-baslatilan-antalya-dayanikli-saglik-sistemleri-girisi-9d361c21/"
-  },
-  {
    "id": "971360f9",
    "title": "Beyoğlu Belediye Başkanvekili Sefer Karaahmetoğlu CHP'den istifa etti",
    "summary": "Beyoğlu Belediye Başkanı İnan Güney'in tutuklanarak görevden uzaklaştırılması sonrasında başkanvekilliği görevini yürüten Sefer Karaahmetoğlu CHP'den istifa ettiğini duyurdu.",
@@ -352,17 +385,6 @@
    "category": "gundem",
    "date": "2026-11-16T14:51:34+00:00",
    "url": "/haber/beyoglu-belediye-baskanvekili-sefer-karaahmetoglu-chp-den-istifa-etti-971360f9/"
-  },
-  {
-   "id": "07faa999",
-   "title": "Rusya: Putin-Trump-Şi zirvesi büyük önem taşıyor",
-   "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya, ABD ve Çin liderlerinin 19 Kasım'da Çin'de ilk kez üçlü formatta gerçekleştireceği görüşmenin büyük önem taşıdığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-putin-trump-si-zirvesi-buyuk-onem-tasiyor/4126885",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T14:50:54+00:00",
-   "url": "/haber/rusya-putin-trump-si-zirvesi-buyuk-onem-tasiyor-07faa999/"
   },
   {
    "id": "60029f7c",
@@ -750,17 +772,6 @@
    "url": "/haber/playstation-plus-fiyatlarinda-buyuk-indirim-basladi-iste-yeni-indiriml-81c2c4d3/"
   },
   {
-   "id": "66f5a982",
-   "title": "Huawei OSTA O1 Pro'nun tasarımı sızdırıldı: İşte özellikleri",
-   "summary": "Huawei'nin yeni markası OSTA, ilk telefonlarını tanıtmaya hazırlanırken O1 Pro modelinin gerçek fotoğrafları ortaya çıktı. Geniş ekranlı telefonun tasarımı ve özellikleri belli oldu.",
-   "link": "https://www.donanimhaber.com/huawei-osta-o1-pro-nun-tasarimi-sizdirildi-iste-ozellikleri--212959",
-   "image": "https://www.donanimhaber.com/images/images/haber/212959/1200x675huawei-osta-o1-pro-nun-tasarimi-sizdirildi-iste-ozellikleri.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-16T11:54:00+00:00",
-   "url": "/haber/huawei-osta-o1-pro-nun-tasarimi-sizdirildi-iste-ozellikleri-66f5a982/"
-  },
-  {
    "id": "c6c3800c",
    "title": "Cumhurbaşkanı Erdoğan: Bugün dünyada artık Türkiye konuşuluyor",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Gençlik Kolları Üniversiteli Gençlik Buluşması'nda konuştu. Cumhurbaşkanı Erdoğan, \"Bugün dünyada artık Türkiye konuşuluyor. Türkiye'nin içerde ve dışarda yaptığı hamleler…",
@@ -781,17 +792,6 @@
    "category": "gundem",
    "date": "2026-11-16T11:36:21+00:00",
    "url": "/haber/israil-de-netanyahu-ya-sahte-secim-hirsizligi-ihbari-suclamasi-bu-bir-9a6517a6/"
-  },
-  {
-   "id": "65ff150a",
-   "title": "Windows'ta lisans hatası için acil yama geldi",
-   "summary": "Microsoft, kasım güvenlik güncellemelerinin yol açtığı Windows lisans hatası için acil yamalar yayınladı. Sorun, SLMGR ile etkinleştirme yapan kurumları etkiliyor.",
-   "link": "https://shiftdelete.net/windows-lisans-hatasi-acil-guncelleme-slmgr",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/84413a1756db9ff27a3d86fe7dd32f4b14b2a1c8.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-16T11:34:07+00:00",
-   "url": "/haber/windows-ta-lisans-hatasi-icin-acil-yama-geldi-65ff150a/"
   },
   {
    "id": "f07394a4",
