@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T03:30:50.532513+00:00",
+ "updated": "2026-11-16T04:01:00.759927+00:00",
  "items": [
   {
    "id": "f6607cd7",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-16T03:30:00+00:00",
+   "date": "2026-11-16T04:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-f6607cd7/"
+  },
+  {
+   "id": "10a791c7",
+   "title": "Qwen4-Max, görev maliyetini %62 azalttı",
+   "summary": "Önizleme 11 Kasım'da yalnızca Token Plan'daydı. API 16 Kasım 05:01'de genel kullanıma geçti ve liste fiyatı Qwen3.8-Max'in yüzde 25 altına indi.",
+   "link": "https://shiftdelete.net/qwen4-max",
+   "image": "https://shiftdelete.net/static/img/content/26-11/16/cover-1920x1080.jpg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-16T03:48:07+00:00",
+   "url": "/haber/qwen4-max-gorev-maliyetini-62-azaltti-10a791c7/"
   },
   {
    "id": "bd96ed47",
@@ -484,17 +495,6 @@
    "category": "teknoloji",
    "date": "2026-11-15T18:00:00+00:00",
    "url": "/haber/cin-in-elektrikli-yolcu-ucagi-ce-25a-ilk-insanli-ucusunu-gerceklestird-15bf532d/"
-  },
-  {
-   "id": "2d6ef1e3",
-   "title": "GTA 6'da platin kupa sabır isteyecek",
-   "summary": "GTA 6 platin kupası için yaklaşık 200 saat ayırmak gerekebilir. Sızıntıya göre ana hikaye ise 50 saatte bitiyor.",
-   "link": "https://shiftdelete.net/gta-6-platin-kupasi-200-saat-hikaye-50-saat",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/f8926c361ef7652ce73adcbc2b6e3fde331db933.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-15T17:43:51+00:00",
-   "url": "/haber/gta-6-da-platin-kupa-sabir-isteyecek-2d6ef1e3/"
   },
   {
    "id": "19c30b56",
