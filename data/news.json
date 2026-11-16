@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-16T05:00:58.790159+00:00",
+ "updated": "2026-11-16T05:30:54.086628+00:00",
  "items": [
+  {
+   "id": "2f35db39",
+   "title": "COP31’de AFAD parkuru yoğun ilgi görüyor",
+   "summary": "Antalya'da düzenlenen COP31'e çok sayıda kamu kurumu destek sağlıyor. AFAD da parkurunda afet risklerinin azaltılması ve iklim değişikliğine uyum konularında çeşitli etkinlikler düzenliyor.",
+   "link": "https://www.ntv.com.tr/turkiye/video-cop31de-afad-parkuru-yogun-ilgi-goruyor-1751063",
+   "image": "https://images.ntv.com.tr/images/ASSS-701778.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-16T05:28:00+00:00",
+   "url": "/haber/cop31-de-afad-parkuru-yogun-ilgi-goruyor-2f35db39/"
+  },
+  {
+   "id": "0915c43f",
+   "title": "İran: Hürmüz Boğazı'nda 2 petrol tankeri mayına çarparak infilak etti",
+   "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda ABD ordusunun yönlendirmesi ve savaş uçaklarının desteğiyle boğazın güneyindeki güzergahı kullanmaya çalışan 2 petrol tankerinin deniz mayınına çarparak infilak ettiğini…",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-2-petrol-tankeri-mayina-carparak-infilak-etti/4126097",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T05:12:04+00:00",
+   "url": "/haber/iran-hurmuz-bogazi-nda-2-petrol-tankeri-mayina-carparak-infilak-etti-0915c43f/"
+  },
+  {
+   "id": "841339dc",
+   "title": "ABD, Bahreyn'deki vatandaşlarını İran ve Husilerin muhtemel saldırılarına karşı uyardı",
+   "summary": "ABD'nin Bahreyn Büyükelçiliği, İran ve İran destekli Husilerin bölgedeki muhtemel saldırı tehditlerine karşı ülkedeki vatandaşlarına \"yüksek düzeyde teyakkuzda olma\" çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-bahreyndeki-vatandaslarini-iran-ve-husilerin-muhtemel-saldirilarina-karsi-uyardi/4126095",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T05:03:08+00:00",
+   "url": "/haber/abd-bahreyn-deki-vatandaslarini-iran-ve-husilerin-muhtemel-saldirilari-841339dc/"
+  },
   {
    "id": "f6607cd7",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 16 Kasım 2026",
@@ -387,28 +420,6 @@
    "url": "/haber/bursa-da-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-e3c27826/"
   },
   {
-   "id": "f23356c5",
-   "title": "Sağlık Bakanı Memişoğlu, KKTC'nin kuruluşunun 43. yıl dönümünü kutladı",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) 43. kuruluş yıl dönümünü kutladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-kktcnin-kurulusunun-43-yil-donumunu-kutladi/4126016",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-15T19:57:42+00:00",
-   "url": "/haber/saglik-bakani-memisoglu-kktc-nin-kurulusunun-43-yil-donumunu-kutladi-f23356c5/"
-  },
-  {
-   "id": "89ef1735",
-   "title": "COP31'de \"Kökler ve Ateş\" gösterisi izleyiciyle buluştu",
-   "summary": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, Anadolu'nun kültürel mirasını müzik ve dansla buluşturan \"Kökler ve Ateş\" sahne gösterisi gerçekleştirildi.",
-   "link": "https://www.aa.com.tr/tr/kultur/cop31de-kokler-ve-ates-gosterisi-izleyiciyle-bulustu/4126008",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-15T19:42:10+00:00",
-   "url": "/haber/cop31-de-kokler-ve-ates-gosterisi-izleyiciyle-bulustu-89ef1735/"
-  },
-  {
    "id": "7657f420",
    "title": "Apple'ın gözlüğü iPhone'a bağlı çalışacak",
    "summary": "Apple akıllı gözlük, Bloomberg'den Mark Gurman'a göre gelecek WWDC'de tanıtılacak. Ürün yıl sonunda raflarda olabilir, ama uygulamaları kendi başına çalıştırmayacak.",
@@ -781,17 +792,6 @@
    "category": "gundem",
    "date": "2026-11-15T12:38:12+00:00",
    "url": "/haber/cumhurbaskani-erdogan-dan-filistin-devleti-nin-ilaninin-38-yil-donumu-7ef077bf/"
-  },
-  {
-   "id": "64ebbde0",
-   "title": "Güllü'nün ölümünde daraltılmış baz incelemesi talebi",
-   "summary": "Şarkıcı Güllü'nün ölümüne ilişkin davada ablası Kader Tut'un avukatları, olay gecesi evde bulunan telefonların baz kayıtlarının daraltılarak incelenmesini talep etti.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-gullunun-olumunde-daraltilmis-baz-incelemesi-talebi-1750997",
-   "image": "https://images.ntv.com.tr/images/güllü-davası-374847.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-15T12:04:57+00:00",
-   "url": "/haber/gullu-nun-olumunde-daraltilmis-baz-incelemesi-talebi-64ebbde0/"
   },
   {
    "id": "0b1b0c6a",
