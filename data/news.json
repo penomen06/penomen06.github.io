@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:01:06.979800+00:00",
+ "updated": "2026-11-17T21:30:55.480595+00:00",
  "items": [
   {
    "id": "9ae6e5ad",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-17T21:00:00+00:00",
+   "date": "2026-11-17T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9ae6e5ad/"
+  },
+  {
+   "id": "5c1e858f",
+   "title": "İsrail'de muhalefet blokunun adayı Matan Kahana yeni Meclis Başkanı seçildi",
+   "summary": "İsrail'de muhalefet blokunun adayı Matan Kahana, geçici Başbakan Binyamin Netanyahu'nun desteklediği Ofir Katz'ı geride bırakarak yeni Meclis Başkanı seçildi",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-blokunun-adayi-matan-kahana-yeni-meclis-baskani-secildi/4128418",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T21:18:17+00:00",
+   "url": "/haber/israil-de-muhalefet-blokunun-adayi-matan-kahana-yeni-meclis-baskani-se-5c1e858f/"
+  },
+  {
+   "id": "cb38cea1",
+   "title": "Sözcü TV'ye kayyum sonrası Yeni Parti'den yürüyüş çağrısı: 'Özgür basının yanında yer alalım'",
+   "summary": "Basın meslek örgütleri, Sözcü TV ve internet sitesine kayyum atanması sonrası ortak açıklama yaptı. Yeni Parti Genel Başikanı Özgür Özel \"Artık en küçük eleştiriye, tek bir gerçeğin duyulmasına bile tahammülleri…",
+   "link": "https://www.bbc.com/turkce/articles/cwm2mlg3y0rvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e90a/live/b076b790-e274-11f1-a094-5fdc692f3e33.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-17T21:08:49+00:00",
+   "url": "/haber/sozcu-tv-ye-kayyum-sonrasi-yeni-parti-den-yuruyus-cagrisi-ozgur-basini-cb38cea1/"
   },
   {
    "id": "096950f8",
@@ -297,17 +319,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T18:23:00+00:00",
    "url": "/haber/3-body-problem-geri-donuyor-netflix-2-sezonun-yayin-tarihini-duyurdu-c418920a/"
-  },
-  {
-   "id": "df6704fc",
-   "title": "OpenAI, siber güvenlik modellerini NATO'nun erişimine sunacak",
-   "summary": "Yapay zeka şirketi OpenAI, gelişmiş siber güvenlik modellerini NATO'nun temel kurumlarının erişimine sunmak amacıyla NATO İletişim ve Bilgi Ajansıyla (NCIA) işbirliği yaptığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openai-siber-guvenlik-modellerini-natonun-erisimine-sunacak/4128272",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T18:17:55+00:00",
-   "url": "/haber/openai-siber-guvenlik-modellerini-nato-nun-erisimine-sunacak-df6704fc/"
   },
   {
    "id": "c9cff0c8",
@@ -957,17 +968,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T12:39:27+00:00",
    "url": "/haber/en-iyi-elektrikli-bisiklet-markalari-3c9fabd0/"
-  },
-  {
-   "id": "cb38cea1",
-   "title": "Sözcü TV ve internet sitesine kayyum atanmasına tepkiler: 'Halkın haber alma hakkına ağır müdahale'",
-   "summary": "Basın meslek örgütleri, Sözcü TV ve internet sitesine kayyum atanması sonrası ortak açıklama yaptı. Yeni Parti Genel Başikanı Özgür Özel \"Artık en küçük eleştiriye, tek bir gerçeğin duyulmasına bile tahammülleri…",
-   "link": "https://www.bbc.com/turkce/articles/cwm2mlg3y0rvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e90a/live/b076b790-e274-11f1-a094-5fdc692f3e33.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-17T12:38:59+00:00",
-   "url": "/haber/sozcu-tv-ve-internet-sitesine-kayyum-atanmasina-tepkiler-halkin-haber-cb38cea1/"
   },
   {
    "id": "5ec4ec7b",
