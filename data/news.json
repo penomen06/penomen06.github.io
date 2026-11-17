@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T19:46:26.000980+00:00",
+ "updated": "2026-11-17T20:01:08.736723+00:00",
  "items": [
+  {
+   "id": "5342f849",
+   "title": "OpenAI, GPT-6.2 Astra ve GPT-6.2 Sol modellerini kullanıma sundu",
+   "summary": "OpenAI, bu akşam iki yeni güçlü yapay zeka modelini kullanıma sundu. Şirketin açıklamasına göre yeni amiral gemisi GPT-6.2 Astra, verilen kaynak ve şablonları ayrıntılı biçimde analiz ederek yapay zeka tarafından…",
+   "link": "https://www.log.com.tr/openai-gpt-6-2-astra-ve-gpt-6-2-sol-modellerini-kullanima-sundu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/03/openai-promptfooyu-satin-aliyor-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-17T19:57:34+00:00",
+   "url": "/haber/openai-gpt-6-2-astra-ve-gpt-6-2-sol-modellerini-kullanima-sundu-5342f849/"
+  },
+  {
+   "id": "ce42082b",
+   "title": "Xbox'tan Project Helix açıklaması: \"Ne PC ne tam bir konsol\"",
+   "summary": "Microsoft, yeni nesil oyun konsolu Project Helix'in bir PC olmadığını doğruladı. Xbox yöneticisi Jason Ronald, cihazın PC oyunlarını çalıştıracağını ancak konsol deneyimini koruyacağını açıkladı.",
+   "link": "https://www.donanimhaber.com/xbox-tan-project-helix-aciklamasi-ne-pc-ne-tam-bir-konsol--213020",
+   "image": "https://www.donanimhaber.com/images/images/haber/213020/1200x675xbox-tan-project-helix-aciklamasi-ne-pc-ne-tam-bir-konsol.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-17T19:48:00+00:00",
+   "url": "/haber/xbox-tan-project-helix-aciklamasi-ne-pc-ne-tam-bir-konsol-ce42082b/"
+  },
   {
    "id": "162bcf02",
    "title": "M. Night Shyamalan imzalı Remain'in yeni fragmanı yayınlandı",
@@ -420,6 +442,17 @@
    "url": "/haber/sozcu-tv-nasil-kuruldu-yayin-surecinde-neler-yasandi-b96ddad0/"
   },
   {
+   "id": "8cb6fe7f",
+   "title": "Bakan Gürlek: Fon soruşturmasında 129 şüpheli tutuklu bulunmaktadır",
+   "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmalarıyla ilgili, \"Bugün itibarıyla 498 şüpheli bulunmaktadır. 129 şüpheli tutuklu, 289 şüpheli hakkında adli kontrol tedbir kararı bulunmaktadır. Hakkında yakalama kararı bulunan…",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmasinda-129-supheli-tutuklu-bulunmaktadir-963595.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2448000/akin-gurlekaa-2449085.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-17T16:42:00+00:00",
+   "url": "/haber/bakan-gurlek-fon-sorusturmasinda-129-supheli-tutuklu-bulunmaktadir-8cb6fe7f/"
+  },
+  {
    "id": "b8e78030",
    "title": "Bankayı fon manipülasyonunda kullanmışlar",
    "summary": "Fon soruşturmasında Adil Katılım Bankası, Adil Varlık Yönetim, Adil Tasarruf Finansman ve Dünya Varlık Yönetim AŞ.'ye Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyum olarak atandı.",
@@ -583,17 +616,6 @@
    "category": "gundem",
    "date": "2026-11-17T15:34:50+00:00",
    "url": "/haber/diyarbakir-da-hevbendi-sorusturmasi-12-kurt-siyasetci-gozaltina-alindi-36a32dbd/"
-  },
-  {
-   "id": "7bd9b3e8",
-   "title": "Çin'deki dev güneş enerjisi santrali bitki örtüsünü canlandırdı",
-   "summary": "Çin'deki 21 GW'lık güneş enerjisi santralinde bitki örtüsü zamanla arttı. Araştırma, güneş panellerinin kurak bölgelerde bitki gelişimini destekleyebileceğini ortaya koydu.",
-   "link": "https://www.donanimhaber.com/cin-deki-dev-gunes-enerjisi-santrali-bitki-ortusunu-canlandirdi--213025",
-   "image": "https://www.donanimhaber.com/images/images/haber/213025/1200x675cin-deki-dev-gunes-enerjisi-santrali-bitki-ortusunu-canlandirdi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-17T15:29:00+00:00",
-   "url": "/haber/cin-deki-dev-gunes-enerjisi-santrali-bitki-ortusunu-canlandirdi-7bd9b3e8/"
   },
   {
    "id": "422c0f25",
@@ -1058,17 +1080,6 @@
    "url": "/haber/uber-de-veri-ihlali-yaklasik-150-bin-kisinin-bilgileri-calindi-4dd6a234/"
   },
   {
-   "id": "a6be4b8b",
-   "title": "Aston Martin, 2027 Dakar Rallisi’nde mücadele edecek",
-   "summary": "Aston Martin, bugün yaptığı sürpriz açıklamasıyla 2027 Dakar Rallisi’nde mücadele edeceğini duyurdu. Şirket, zorlu yarış için Call of Duty: Modern Warfare 4’e özel tasarlanan “Dreadnought” konseptine dayanan üç farklı…",
-   "link": "https://www.log.com.tr/aston-martin-2027-dakar-rallisinde-mucadele-edecek/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-17_12-14-14_xEvWg-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-17T09:26:39+00:00",
-   "url": "/haber/aston-martin-2027-dakar-rallisi-nde-mucadele-edecek-a6be4b8b/"
-  },
-  {
    "id": "73e71cbe",
    "title": "Devlet Bahçeli: Dengeli bir dış politika yürütmek durumundayız",
    "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Biz Türkiye olarak Ortadoğu, Kafkasya ve Doğu Avrupa üçgenindeki konumumuzla dünyadaki jeopolitiğimizle küresel krizlerin merkezinde dengeli bir dış politika yürütmek durumundayız\"…",
@@ -1221,17 +1232,6 @@
    "category": "gundem",
    "date": "2026-11-15T08:26:00+00:00",
    "url": "/haber/ticari-araclarda-zorunlu-kis-lastigi-donemi-basladi-9fd53407/"
-  },
-  {
-   "id": "0ba60c57",
-   "title": "Kıbrıs Türkünün mücadelesi: KKTC 43 yaşında",
-   "summary": "\"Ne mutlu KKTC’nin Türk çocuklarına...\" Kuzey Kıbrıs Türk Cumhuriyeti'nin 15 Kasım 1983'te kurulmasıyla Kıbrıs Türk halkının kendi kaderini tayin etme hakkı dünyaya duyuruldu. KKTC dünyaya inat ilk günün heyecanıyla…",
-   "link": "https://www.trthaber.com/haber/turk-dunyasi/kibris-turkunun-mucadelesi-kktc-43-yasinda-963314.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1948000/kktc-aa-1949908.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-15T07:00:00+00:00",
-   "url": "/haber/kibris-turkunun-mucadelesi-kktc-43-yasinda-0ba60c57/"
   },
   {
    "id": "8810e206",
