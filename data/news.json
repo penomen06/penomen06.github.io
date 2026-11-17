@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-17T17:30:55.762458+00:00",
+ "updated": "2026-11-17T18:01:05.732293+00:00",
  "items": [
+  {
+   "id": "27bfec6b",
+   "title": "Mbappe'ye ırkçı tacizde bulunan taraftara 11 ay ertelenmiş hapis cezası",
+   "summary": "İspanya'da Real Madrid'in Fransız yıldızı Kylian Mbappe'ye ırkçı tacizde bulunan bir taraftara 11 ay hapis cezası verildi.",
+   "link": "https://www.aa.com.tr/tr/spor/mbappeye-irkci-tacizde-bulunan-taraftara-11-ay-ertelenmis-hapis-cezasi/4128257",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T17:51:39+00:00",
+   "url": "/haber/mbappe-ye-irkci-tacizde-bulunan-taraftara-11-ay-ertelenmis-hapis-cezas-27bfec6b/"
+  },
+  {
+   "id": "e68d94b8",
+   "title": "Fransa'da mahkeme, Paris'teki bazı okulların çevresinde eylem yasağı kararını iptal etti",
+   "summary": "Fransa'da idari mahkeme, başkent Paris'te bazı lise ve üniversitelerin etrafında toplanma ve eylem yasağı getiren Emniyet Müdürlüğü kararını iptal etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-mahkeme-paristeki-bazi-okullarin-cevresinde-eylem-yasagi-kararini-iptal-etti/4128256",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T17:49:23+00:00",
+   "url": "/haber/fransa-da-mahkeme-paris-teki-bazi-okullarin-cevresinde-eylem-yasagi-ka-e68d94b8/"
+  },
+  {
+   "id": "45437d2a",
+   "title": "macOS 27.3, Mac'lere yeni gizlilik kontrolleri getiriyor",
+   "summary": "Apple, macOS 27.3 ile kullanıcılara yapay zeka ajanları da dahil olmak üzere uygulamalara verdikleri erişim üzerinde daha fazla kontrol sağlamak için yeni gizlilik kontrolleri getiriyor.",
+   "link": "https://www.donanimhaber.com/macos-27-3-mac-lere-yeni-gizlilik-kontrolleri-getiriyor--213008",
+   "image": "https://www.donanimhaber.com/images/images/haber/213008/1200x675macos-27-3-mac-lere-yeni-gizlilik-kontrolleri-getiriyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-17T17:41:00+00:00",
+   "url": "/haber/macos-27-3-mac-lere-yeni-gizlilik-kontrolleri-getiriyor-45437d2a/"
+  },
+  {
+   "id": "fa819c44",
+   "title": "iPhone Duo'nun yedek parçaları satışa çıktı",
+   "summary": "Apple, iPhone Duo'yu kendin onar programına ekledi. Telefonun iç ekranı 499 dolar, dış ekranı 379 dolar fiyatla satılıyor.",
+   "link": "https://shiftdelete.net/iphone-duo-kendin-onar-yedek-parca-ekran-fiyati",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/iphone-duo-yedek-parca-kapak-1711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-17T17:33:08+00:00",
+   "url": "/haber/iphone-duo-nun-yedek-parcalari-satisa-cikti-fa819c44/"
+  },
   {
    "id": "c269b922",
    "title": "Xiaomi 18 Pro serisinin Türkiye ön satış tarihi açıklandı",
@@ -156,6 +200,17 @@
    "url": "/haber/bakan-gurlek-fon-sorusturmasinda-129-tutuklu-var-8c821ab4/"
   },
   {
+   "id": "52e75642",
+   "title": "Bakan Kacır, yeşil dönüşüm için verilecek 3 milyar liralık destek çağrısının detaylarını açıkladı",
+   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Yeşil Sanayi Programı kapsamında KOBİ'lere sağlanacak 3 milyar liralık yeni desteğe yönelik son başvuru tarihinin 31 Ocak 2027 olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-yesil-donusum-icin-verilecek-3-milyar-liralik-destek-cagrisinin-detaylarini-acikladi/4128186",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T16:49:38+00:00",
+   "url": "/haber/bakan-kacir-yesil-donusum-icin-verilecek-3-milyar-liralik-destek-cagri-52e75642/"
+  },
+  {
    "id": "b96ddad0",
    "title": "Sözcü TV nasıl kuruldu, yayın sürecinde neler yaşandı?",
    "summary": "Sözcü TV ve sozcu.com.tr'nin yayınları günün ilk saatlerinde düzenlenen operasyonun ardından durduruldu. İki yayın organının bağlı bulunduğu Mega Ajans ve Reklamcılık Ticaret AŞ'ye, TMSF bugün kayyum olarak atandı.…",
@@ -299,17 +354,6 @@
    "url": "/haber/grok-imagine-kapandi-grok-sohbetine-tasindi-872a3d6c/"
   },
   {
-   "id": "83395038",
-   "title": "AK Parti \"Türkiye Yüzyılı Buluşmaları\" kapsamında ülke genelinde gerçekleştirdiği saha çalışmalarını raporlaştıracak",
-   "summary": "AK Parti, \"Türkiye Yüzyılı Buluşmaları\" kapsamında 81 ilde gerçekleştirdiği çalışmalar doğrultusunda hazırlayacağı raporu, Cumhurbaşkanı Recep Tayyip Erdoğan'a sunacak.",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-turkiye-yuzyili-bulusmalari-kapsaminda-ulke-genelinde-gerceklestirdigi-saha-calismalarini-raporlastiracak/4128148",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T16:05:17+00:00",
-   "url": "/haber/ak-parti-turkiye-yuzyili-bulusmalari-kapsaminda-ulke-genelinde-gercekl-83395038/"
-  },
-  {
    "id": "e345ae7d",
    "title": "Redmi Turbo 6 tanıtım öncesi sertifika aldı",
    "summary": "M407CF model numaralı yeni Xiaomi telefonu Çin'de SRRC sertifikası aldı. Cihazın Redmi Turbo 6 serisine ait olduğu düşünülüyor.",
@@ -330,17 +374,6 @@
    "category": "gundem",
    "date": "2026-11-17T16:03:45+00:00",
    "url": "/haber/iran-meclis-baskani-kalibaf-tan-abd-basinindaki-kirli-bomba-haberine-t-070d3e21/"
-  },
-  {
-   "id": "a659964c",
-   "title": "Dünya Bankası, COP31'de iklim yatırımlarının merkezine istihdamı koydu",
-   "summary": "Dünya Bankası, COP31 kapsamında, kalkınma önceliklerini desteklemenin ve dayanıklılığı artırmanın yanı sıra, istihdamı güçlendirmeyi amaçlayan 6,9 milyar dolarlık yatırımı tanıttı.",
-   "link": "https://www.aa.com.tr/tr/cop31/dunya-bankasi-cop31de-iklim-yatirimlarinin-merkezine-istihdami-koydu/4128143",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T15:59:33+00:00",
-   "url": "/haber/dunya-bankasi-cop31-de-iklim-yatirimlarinin-merkezine-istihdami-koydu-a659964c/"
   },
   {
    "id": "2d862bc4",
@@ -365,26 +398,15 @@
    "url": "/haber/google-dan-android-e-onemli-yenilik-iki-telefonda-tek-numara-donemi-11b3a43b/"
   },
   {
-   "id": "25a310ff",
-   "title": "İranlı milletvekili: ABD nükleer silah kullanırsa aynı düzeyde karşılık veririz",
-   "summary": "İran Meclisi Ulusal Güvenlik Komisyonu üyesi Muhammed Rıza Muhsini Sani, ABD'nin İran'a karşı nükleer silah kullanması durumunda Tahran yönetiminin aynı düzeyde karşılık vereceğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iranli-milletvekili-abd-nukleer-silah-kullanirsa-ayni-duzeyde-karsilik-veririz/4128127",
+   "id": "91cb3e9c",
+   "title": "COP31'de deniz kaplumbağalarının korunması ve izlenmesi ele alındı",
+   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında deniz kaplumbağalarının korunması ve izlenmesi…",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-deniz-kaplumbagalarinin-korunmasi-ve-izlenmesi-ele-alindi/4128133",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-17T15:45:40+00:00",
-   "url": "/haber/iranli-milletvekili-abd-nukleer-silah-kullanirsa-ayni-duzeyde-karsilik-25a310ff/"
-  },
-  {
-   "id": "6884bc1d",
-   "title": "Avustralya'daki Christmas Adası'nda milyonlarca kırmızı yengeç yıllık göçüne başladı",
-   "summary": "Avustralya'nın Christmas Adası'nda yaşayan milyonlarca kırmızı yengeç, yıllık göçleri için harekete geçti.",
-   "link": "https://www.aa.com.tr/tr/dunya/avustralyadaki-christmas-adasinda-milyonlarca-kirmizi-yengec-yillik-gocune-basladi/4128119",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T15:42:46+00:00",
-   "url": "/haber/avustralya-daki-christmas-adasi-nda-milyonlarca-kirmizi-yengec-yillik-6884bc1d/"
+   "date": "2026-11-17T15:48:30+00:00",
+   "url": "/haber/cop31-de-deniz-kaplumbagalarinin-korunmasi-ve-izlenmesi-ele-alindi-91cb3e9c/"
   },
   {
    "id": "19da1c71",
@@ -429,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T15:29:00+00:00",
    "url": "/haber/cin-deki-dev-gunes-enerjisi-santrali-bitki-ortusunu-canlandirdi-7bd9b3e8/"
-  },
-  {
-   "id": "6f727c7a",
-   "title": "Kulüpler Birliği Vakfı toplantısı yapıldı",
-   "summary": "Vakıf başkanı Ertuğrul Doğan, \"Kulüplerimizin beklentisi, daha önce Sayın Göksel Gümüşdağ zamanında gelen 500 milyon dolar seviyesine yeniden gelmek.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/kulupler-birligi-vakfi-toplantisi-yapildi/4128094",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T15:28:03+00:00",
-   "url": "/haber/kulupler-birligi-vakfi-toplantisi-yapildi-6f727c7a/"
   },
   {
    "id": "422c0f25",
@@ -618,17 +629,6 @@
    "url": "/haber/kasim-indirimlerinde-iffalcon-ruzgari-satislar-yuzde-454-artti-5119429a/"
   },
   {
-   "id": "dac05c21",
-   "title": "Nvidia, ulusal güvenlik ve ihracat denetimi için yeni komite kurdu",
-   "summary": "Nvidia, ulusal güvenlik politikaları ve Çin'e çip ihracatını denetlemek için yeni bir komite kurdu. Şirket, küresel ticaret riskleri ve ihracat kontrollerine uyumu da daha yakından izleyecek.",
-   "link": "https://www.donanimhaber.com/nvidia-ulusal-guvenlik-ve-ihracat-denetimi-icin-yeni-komite-kurd--213030",
-   "image": "https://www.donanimhaber.com/images/images/haber/213030/1200x675nvidia-ulusal-guvenlik-ve-ihracat-denetimi-icin-yeni-komite-kurd.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-17T14:05:00+00:00",
-   "url": "/haber/nvidia-ulusal-guvenlik-ve-ihracat-denetimi-icin-yeni-komite-kurdu-dac05c21/"
-  },
-  {
    "id": "415e3da0",
    "title": "Apple, 2027’de bu yeni donanım ürünlerini tanıtabilir",
    "summary": "Sızıntılara dayanan bilgilere göre Apple, 2027’ye standart iPhone 18, alt model iPhone 18e ve iPhone Air 2’nin duyurularıyla başlayabilir. Eylülde ise doğrudan iPhone 20 Pro, 20 Pro Max ve Duo 2’nin tanıtılması…",
@@ -638,6 +638,17 @@
    "category": "teknoloji",
    "date": "2026-11-17T14:00:28+00:00",
    "url": "/haber/apple-2027-de-bu-yeni-donanim-urunlerini-tanitabilir-415e3da0/"
+  },
+  {
+   "id": "f38abbf2",
+   "title": "Marmara Denizi'ndeki çalışmalar COP31'de değerlendirildi",
+   "summary": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, Marmara Denizi'ndeki çalışmalar ile denizlerin geleceği, korunması için işbirliği çalışmaları ve finansman destekleri…",
+   "link": "https://www.aa.com.tr/tr/gundem/marmara-denizindeki-calismalar-cop31de-degerlendirildi/4127918",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T13:54:18+00:00",
+   "url": "/haber/marmara-denizi-ndeki-calismalar-cop31-de-degerlendirildi-f38abbf2/"
   },
   {
    "id": "07d5f600",
@@ -979,17 +990,6 @@
    "category": "gundem",
    "date": "2026-11-17T11:52:49+00:00",
    "url": "/haber/sozcu-ye-operasyon-tv-ve-internet-sitesine-kayyum-atandi-4-kisi-gozalt-06981524/"
-  },
-  {
-   "id": "0c71258d",
-   "title": "Jensen Huang X'te mavi tikini kaybetti",
-   "summary": "Nvidia'dan ayrılan Jensen Huang'ın X hesabından mavi tik ve NVIDIA rozeti kalktı. Elon Musk, mavi tikin ücretsiz geri geleceğini duyurdu.",
-   "link": "https://shiftdelete.net/jensen-huang-x-mavi-tik-nvidia-rozeti-elon-musk",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/jensen-huang-x-mavi-tik-kapak-1711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-17T11:47:39+00:00",
-   "url": "/haber/jensen-huang-x-te-mavi-tikini-kaybetti-0c71258d/"
   },
   {
    "id": "fd8570ed",
