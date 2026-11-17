@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:01:06.941942+00:00",
+ "updated": "2026-11-17T23:30:53.851790+00:00",
  "items": [
   {
    "id": "9ae6e5ad",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-17T23:00:00+00:00",
+   "date": "2026-11-17T23:30:01+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9ae6e5ad/"
+  },
+  {
+   "id": "cd497bad",
+   "title": "Yabancı yatırımcılara ikamet iznine düzenleme. 150 bin dolarla 3 yıl, 200 bin dolarla 5 yıl",
+   "summary": "Türkiye’de yatırım yapacak yabancılara verilecek ikamet izinleri için yeni tutarlar belirlendi. Resmi Gazete'de yayımlanan karara göre, yatırım tutarına göre 3 veya 5 yıllık ikamet izni verilecek.",
+   "link": "https://www.ntv.com.tr/turkiye/yabanci-yatirimcilara-ikamet-iznine-duzenleme-150-bin-dolarla-3-yil-200-bin-dolarla-5-yil-1751361",
+   "image": "https://images.ntv.com.tr/images/resmigazete'debugün-214086.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-17T23:29:31+00:00",
+   "url": "/haber/yabanci-yatirimcilara-ikamet-iznine-duzenleme-150-bin-dolarla-3-yil-20-cd497bad/"
+  },
+  {
+   "id": "ae7fa008",
+   "title": "Nvidia Yönetim Kurulu, Jensen Huang'ı yeniden CEO'luk görevine getirmeyi düşünmediklerini açıkladı",
+   "summary": "Nvidia Yönetim Kurulu Başkanı Harvey Jones, şirketin eski Üst Yöneticisi (CEO) Jensen Huang'ı yeniden CEO'luk görevine getirmeyi düşünmediklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/nvidia-yonetim-kurulu-jensen-huangi-yeniden-ceoluk-gorevine-getirmeyi-dusunmediklerini-acikladi/4128473",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T23:18:10+00:00",
+   "url": "/haber/nvidia-yonetim-kurulu-jensen-huang-i-yeniden-ceo-luk-gorevine-getirmey-ae7fa008/"
+  },
+  {
+   "id": "9df8b59a",
+   "title": "İsrail ordusu, Batı Şeria'da iki kampta Filistinlilerin mülklerine açtığı yolları askeri bölge ilan etti",
+   "summary": "İsrail ordusunun, Batı Şeria'nın kuzeyinde yer alan Tulkerim ve Nur Şems mülteci kamplarına Ocak 2025'te başlattığı saldırılar sırasında yıktığı evlerin yerine açtığı yolları kalıcı askeri alana dönüştürerek el koyma…",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seriada-iki-kampta-filistinlilerin-mulklerine-actigi-yollari-askeri-bolge-ilan-etti/4128470",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T23:12:31+00:00",
+   "url": "/haber/israil-ordusu-bati-seria-da-iki-kampta-filistinlilerin-mulklerine-acti-9df8b59a/"
   },
   {
    "id": "2da36d60",
@@ -22,28 +55,6 @@
    "category": "gundem",
    "date": "2026-11-17T22:01:06+00:00",
    "url": "/haber/abd-li-cip-ureticisi-nvidia-nin-geliri-yuzde-103-artti-2da36d60/"
-  },
-  {
-   "id": "82df9d27",
-   "title": "Kuveyt ordusu, ülkeye yönelik İHA saldırılarını önlemeye çalıştığını duyurdu",
-   "summary": "Kuveyt ordusu, hava savunma sistemlerinin insansız hava aracı (İHA) saldırılarını önlemeye çalıştığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/kuveyt-ordusu-ulkeye-yonelik-iha-saldirilarini-onlemeye-calistigini-duyurdu/4128444",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T21:59:01+00:00",
-   "url": "/haber/kuveyt-ordusu-ulkeye-yonelik-iha-saldirilarini-onlemeye-calistigini-du-82df9d27/"
-  },
-  {
-   "id": "9e9b9478",
-   "title": "İsrail'de muhalefet blokunun ortak adayı Matan Kahana, Meclis Başkanı seçildi",
-   "summary": "İsrail'de muhalefet blokunun ortak adayı Matan Kahana, geçici Başbakan Binyamin Netanyahu liderliğindeki koalisyon blokunun desteklediği Ofir Katz'ı geride bırakarak Meclis Başkanı seçildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-blokunun-ortak-adayi-matan-kahana-meclis-baskani-secildi/4128418",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T21:18:17+00:00",
-   "url": "/haber/israil-de-muhalefet-blokunun-ortak-adayi-matan-kahana-meclis-baskani-s-9e9b9478/"
   },
   {
    "id": "059c6ee5",
@@ -814,17 +825,6 @@
    "category": "gundem",
    "date": "2026-11-17T13:22:20+00:00",
    "url": "/haber/nurseli-yi-8-bicak-darbesiyle-agir-yaralamisti-akil-sagligi-incelenece-cb3c46a5/"
-  },
-  {
-   "id": "5254f827",
-   "title": "KKTC'deki faciayla gündeme gelen şirketin gemisi Mersin yolunda arızalandı",
-   "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nde yaşanan feribot faciasının ardından seferleri durdurulan ancak yapılan kontroller sonrası yeniden seferlere başlayan şirketin bir gemisi Mersin yolunda arıza yaptı.",
-   "link": "https://www.ntv.com.tr/turkiye/kktcdeki-faciayla-gundeme-gelen-sirketin-gemisi-mersin-yolunda-arizalandi-1751322",
-   "image": "https://images.ntv.com.tr/images/filojet-gemisi-kktc-468449.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T13:21:24+00:00",
-   "url": "/haber/kktc-deki-faciayla-gundeme-gelen-sirketin-gemisi-mersin-yolunda-arizal-5254f827/"
   },
   {
    "id": "9ec7423f",
