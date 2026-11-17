@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:30:55.308249+00:00",
+ "updated": "2026-11-17T00:01:07.387509+00:00",
  "items": [
   {
    "id": "49ae7bd5",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-16T23:30:00+00:00",
+   "date": "2026-11-17T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-49ae7bd5/"
+  },
+  {
+   "id": "ce0faf79",
+   "title": "16 yaşındaki ehliyetsiz sürücü, ortalığı savaş alanına çevirdi",
+   "summary": "Çorum'da polisten kaçan 16 yaşındaki ehliyetsiz sürücü, kovalamaca sırasında biri ekip otosu olmak üzere 4 araca çarparak 4 kişinin yaralanmasına sebep oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/16-yasindaki-ehliyetsiz-surucu-ortaligi-savas-alanina-cevirdi-1751193",
+   "image": "https://images.ntv.com.tr/images/AA-20261116-43099220-43099219-CORUMDA_POLISIN_DUR_IHTARINA_UYMAYAN_EHLIYETSIZ_SURUCU_KAZA_YAPTI_4_KISI_YARALANDI-506834.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-16T23:36:10+00:00",
+   "url": "/haber/16-yasindaki-ehliyetsiz-surucu-ortaligi-savas-alanina-cevirdi-ce0faf79/"
+  },
+  {
+   "id": "b430e906",
+   "title": "UKMTO: Hürmüz Boğazı'nda tankere saldırı düzenlendi, makine dairesinde yangın çıktı",
+   "summary": "İngiltere Deniz Ticareti Operasyonları (UKMTO), Umman'ın Hasab kentinin 7 deniz mili kuzeyinde, Hürmüz Boğazı'ndan geçiş yapan bir tankere saldırı düzenlendiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukmto-hurmuz-bogazinda-tankere-saldiri-duzenlendi-makine-dairesinde-yangin-cikti/4127182",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T23:24:53+00:00",
+   "url": "/haber/ukmto-hurmuz-bogazi-nda-tankere-saldiri-duzenlendi-makine-dairesinde-y-b430e906/"
+  },
+  {
+   "id": "56d13334",
+   "title": "Intel'e yatırımcıları yanılttığı iddiasıyla dava açıldı",
+   "summary": "ABD'li çip üreticisi Intel'e, kişisel bilgisayar (PC) pazarındaki yavaşlamanın ve tedarik sorunlarının şirketin gelirleri üzerindeki etkisini yatırımcılardan gizleyerek yanıltıcı açıklamalarda bulunduğu iddiasıyla toplu…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/intele-yatirimcilari-yanilttigi-iddiasiyla-dava-acildi/4127180",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T23:22:28+00:00",
+   "url": "/haber/intel-e-yatirimcilari-yanilttigi-iddiasiyla-dava-acildi-56d13334/"
   },
   {
    "id": "563d59a4",
@@ -541,17 +574,6 @@
    "url": "/haber/aselsan-a-savunmada-bir-ilk-daha-yazildi-4f2c7a89/"
   },
   {
-   "id": "158ec044",
-   "title": "Bakan Kurum'dan Türkiye Pavilyonu'na ziyaret",
-   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Tüm dünya bugün Türkiye'den, Antalya'dan Türkiye'nin sesini dinliyor, sözünü merak ediyor. Biz de bu merakı boşa çıkarmayacağız.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-turkiye-pavilyonuna-ziyaret/4126983",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T17:00:09+00:00",
-   "url": "/haber/bakan-kurum-dan-turkiye-pavilyonu-na-ziyaret-158ec044/"
-  },
-  {
    "id": "5c6cb184",
    "title": "Beş AB ülkesi, göçmenler için Ruanda'da sınır dışı merkezi açıyor",
    "summary": "Almanya, Hollanda, Avusturya, Yunanistan ve Danimarka, Afrika ülkesi Ruanda'da bir göçmen sınır dışı merkezi açma planlarını duyurdu. Merkezin amacı sınırdışı sayılarını artırmak ve düzensiz göçü azaltmak olarak…",
@@ -594,17 +616,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T16:34:06+00:00",
    "url": "/haber/galaxy-tab-s9-serisine-beklenen-yazilim-geldi-e3c8ef70/"
-  },
-  {
-   "id": "8d54d6c1",
-   "title": "Türkiye İklim Okulu'ndaki panellerde iklim değişikliğine karşı eğitimde iyi uygulama örnekleri ele alındı",
-   "summary": "Milli Eğitim Bakanlığınca BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında oluşturulan Türkiye İklim Okulu'ndaki panellerde iklim değişikliğine ve afet risklerine karşı eğitimde iyi…",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulundaki-panellerde-iklim-degisikligine-karsi-egitimde-iyi-uygulama-ornekleri-ele-alindi/4126964",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T16:33:30+00:00",
-   "url": "/haber/turkiye-iklim-okulu-ndaki-panellerde-iklim-degisikligine-karsi-egitimd-8d54d6c1/"
   },
   {
    "id": "9ed1bbf6",
@@ -1045,17 +1056,6 @@
    "category": "gundem",
    "date": "2026-11-16T09:10:00+00:00",
    "url": "/haber/bakan-kurum-turk-devletleri-arasinda-yeni-bir-platform-kuruyoruz-d7afa0d1/"
-  },
-  {
-   "id": "252b5bca",
-   "title": "Kurtulmuş: Hiçbir ülkenin, uluslararası yükümlülükten kaçınması kabul edilemez",
-   "summary": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş \"Hiçbir ülkenin, başta Paris İklim Şartı olmak üzere hiçbir uluslararası yükümlülükten kaçınması kabul edilemez.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/kurtulmus-hicbir-ulkenin-uluslararasi-yukumlulukten-kacinmasi-kabul-edilemez-1751116",
-   "image": "https://images.ntv.com.tr/anadolu-ajansi/20261116_2_76951952_131218962_Web.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-16T09:05:02+00:00",
-   "url": "/haber/kurtulmus-hicbir-ulkenin-uluslararasi-yukumlulukten-kacinmasi-kabul-ed-252b5bca/"
   },
   {
    "id": "1eb14504",
