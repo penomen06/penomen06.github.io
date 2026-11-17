@@ -1,16 +1,115 @@
 {
- "updated": "2026-11-17T16:01:22.357306+00:00",
+ "updated": "2026-11-17T16:30:58.497754+00:00",
  "items": [
   {
-   "id": "3b96f006",
-   "title": "Felç kalan kanserli anneye akılalmaz tuzak. Üvey oğlu tüm birikimini alıp kaçtı",
-   "summary": "İstanbul'da akciğer kanseri olan ve beyin ameliyatı sonrası felç kalan yaşlı kadın, üvey oğlunun kendisini dolandırdırdığını öne sürerek şikayetçi oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/felc-kalan-kanserli-anneye-akilalmaz-tuzak-uvey-oglu-tum-birikimini-alip-kacti-1751332",
-   "image": "https://images.ntv.com.tr/images/AVCILAR’DA-FELC-GECIREN-ANNESININ-TUM-BI_1613410_479638-462560.jpg",
-   "source": "ntv.com.tr",
+   "id": "b96ddad0",
+   "title": "Sözcü TV nasıl kuruldu, yayın sürecinde neler yaşandı?",
+   "summary": "Sözcü TV ve sozcu.com.tr'nin yayınları günün ilk saatlerinde düzenlenen operasyonun ardından durduruldu. İki yayın organının bağlı bulunduğu Mega Ajans ve Reklamcılık Ticaret AŞ'ye, TMSF bugün kayyum olarak atandı.…",
+   "link": "https://www.bbc.com/turkce/articles/cmp3vz0z4zrno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1dd6/live/55c2b690-e293-11f1-a89b-cdae1aadccd0.jpg",
+   "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-11-17T15:59:28+00:00",
-   "url": "/haber/felc-kalan-kanserli-anneye-akilalmaz-tuzak-uvey-oglu-tum-birikimini-al-3b96f006/"
+   "date": "2026-11-17T16:20:46+00:00",
+   "url": "/haber/sozcu-tv-nasil-kuruldu-yayin-surecinde-neler-yasandi-b96ddad0/"
+  },
+  {
+   "id": "945b5bde",
+   "title": "İran Dışişleri Bakanı Erakçi, Umman’da Katar heyeti ile bölgesel konular hakkında görüştü",
+   "summary": "İran Dışişleri Bakanı Abbas Erakçi, İran ile ABD arasında arabuluculuk görevi yürüten Katar heyeti ile Umman’ın başkenti Maskat’ta bölgesel konular hakkında görüş alışverişinde bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-umman-da-katar-heyeti-ile-bolgesel-konular-hakkinda-gorustu/4128161",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T16:17:23+00:00",
+   "url": "/haber/iran-disisleri-bakani-erakci-umman-da-katar-heyeti-ile-bolgesel-konula-945b5bde/"
+  },
+  {
+   "id": "72175be2",
+   "title": "Nvidia, ulusal güvenlik ve ihracat kontrolü için yeni denetim komitesi kurdu",
+   "summary": "ABD'li çip üreticisi Nvidia, şirketin ulusal güvenlik politikalarının, ihracat kontrollerine uyumunun ve küresel ticaret risklerinin yönetiminin denetiminden sorumlu yeni bir komite kurduğunu duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/nvidia-ulusal-guvenlik-ve-ihracat-kontrolu-icin-yeni-denetim-komitesi-kurdu/4128159",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T16:15:34+00:00",
+   "url": "/haber/nvidia-ulusal-guvenlik-ve-ihracat-kontrolu-icin-yeni-denetim-komitesi-72175be2/"
+  },
+  {
+   "id": "a95f6a51",
+   "title": "Van'da 4,3 büyüklüğünde deprem",
+   "summary": "Van'ın Gevaş ilçesinde saat 18.57'de 4,3 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/vanda-4-3-buyuklugunde-deprem/4128156",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T16:13:24+00:00",
+   "url": "/haber/van-da-4-3-buyuklugunde-deprem-a95f6a51/"
+  },
+  {
+   "id": "be386e20",
+   "title": "iCloud+ almayanlara Siri AI ve Apple Intelligence kullanım sınırı!",
+   "summary": "Apple, iOS 27.3 sürümüyle Siri AI ve Apple Intelligence için günlük kullanım sınırı getiriyor. iCloud+ planına göre iPhone kullanıcısının yapay zeka kullanımı sınırlandırılacak. İşte fiyatlar:",
+   "link": "https://www.donanimhaber.com/icloud-almayanlara-siri-ai-ve-apple-intelligence-siniri--213016",
+   "image": "https://www.donanimhaber.com/images/images/haber/213016/1200x675icloud-almayanlara-siri-ai-ve-apple-intelligence-siniri.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-17T16:13:00+00:00",
+   "url": "/haber/icloud-almayanlara-siri-ai-ve-apple-intelligence-kullanim-siniri-be386e20/"
+  },
+  {
+   "id": "872a3d6c",
+   "title": "Grok Imagine kapandı, Grok sohbetine taşındı",
+   "summary": "xAI, Grok Imagine'in ayrı bölümünü kaldırdı; görsel ve video üretimi artık Grok sohbetinden yapılıyor. Imagine ekibinde yaklaşık 60 kişinin işten çıkarıldığı bildirildi.",
+   "link": "https://shiftdelete.net/grok-imagine-kapatildi-grok-sohbete-tasindi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/grok-imagine-kapandi-kapak-1711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-17T16:06:15+00:00",
+   "url": "/haber/grok-imagine-kapandi-grok-sohbetine-tasindi-872a3d6c/"
+  },
+  {
+   "id": "83395038",
+   "title": "AK Parti \"Türkiye Yüzyılı Buluşmaları\" kapsamında ülke genelinde gerçekleştirdiği saha çalışmalarını raporlaştıracak",
+   "summary": "AK Parti, \"Türkiye Yüzyılı Buluşmaları\" kapsamında 81 ilde gerçekleştirdiği çalışmalar doğrultusunda hazırlayacağı raporu, Cumhurbaşkanı Recep Tayyip Erdoğan'a sunacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-turkiye-yuzyili-bulusmalari-kapsaminda-ulke-genelinde-gerceklestirdigi-saha-calismalarini-raporlastiracak/4128148",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T16:05:17+00:00",
+   "url": "/haber/ak-parti-turkiye-yuzyili-bulusmalari-kapsaminda-ulke-genelinde-gercekl-83395038/"
+  },
+  {
+   "id": "e345ae7d",
+   "title": "Redmi Turbo 6 tanıtım öncesi sertifika aldı",
+   "summary": "M407CF model numaralı yeni Xiaomi telefonu Çin'de SRRC sertifikası aldı. Cihazın Redmi Turbo 6 serisine ait olduğu düşünülüyor.",
+   "link": "https://shiftdelete.net/redmi-turbo-6-srrc-sertifika-m407cf",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/redmi-turbo-6-sertifika-kapak-1711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-17T16:05:07+00:00",
+   "url": "/haber/redmi-turbo-6-tanitim-oncesi-sertifika-aldi-e345ae7d/"
+  },
+  {
+   "id": "070d3e21",
+   "title": "İran Meclis Başkanı Kalibaf'tan ABD basınındaki \"kirli bomba\" haberine tepki",
+   "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, CNN'in, İran'ın Washington'da \"kirli bomba\" veya kimyasal silah kullanarak ABD Başkanı Trump yönetiminin üst düzey yetkililerini hedef almaya yönelik planlar geliştirdiği…",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaftan-abd-basinindaki-kirli-bomba-haberine-tepki/4128146",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T16:03:45+00:00",
+   "url": "/haber/iran-meclis-baskani-kalibaf-tan-abd-basinindaki-kirli-bomba-haberine-t-070d3e21/"
+  },
+  {
+   "id": "a659964c",
+   "title": "Dünya Bankası, COP31'de iklim yatırımlarının merkezine istihdamı koydu",
+   "summary": "Dünya Bankası, COP31 kapsamında, kalkınma önceliklerini desteklemenin ve dayanıklılığı artırmanın yanı sıra, istihdamı güçlendirmeyi amaçlayan 6,9 milyar dolarlık yatırımı tanıttı.",
+   "link": "https://www.aa.com.tr/tr/cop31/dunya-bankasi-cop31de-iklim-yatirimlarinin-merkezine-istihdami-koydu/4128143",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T15:59:33+00:00",
+   "url": "/haber/dunya-bankasi-cop31-de-iklim-yatirimlarinin-merkezine-istihdami-koydu-a659964c/"
   },
   {
    "id": "2d862bc4",
@@ -167,17 +266,6 @@
    "url": "/haber/xiaomi-18-pro-ve-18-pro-max-in-resmi-avrupa-fiyatlari-aciklandi-44ab0a31/"
   },
   {
-   "id": "7ea64cc1",
-   "title": "Bakan Fidan: Mekke İttifakı'na yeni ülkelerin katılımını isteriz",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Mekke ittifakının genişlemesine ilişkin mesaj vererek, \"Bölgede barış isteyen diğer ülkeleri aramızda görmekten memnuniyet duyacağız\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-fidan-mekke-ittifakina-yeni-ulkelerin-katilimini-isteriz-1751331",
-   "image": "https://images.ntv.com.tr/images/AA-20261117-43105104-43105102-DISISLERI_BAKANI_FIDAN_VE_MILLI_SAVUNMA_BAKANI_GULER_SURIYE_DISISLERI_BAKANI_SEYBANI_VE_SURIYE_SAVUNMA_BAKANI_KASRA_ILE_GORUSTU-182817.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T15:11:30+00:00",
-   "url": "/haber/bakan-fidan-mekke-ittifaki-na-yeni-ulkelerin-katilimini-isteriz-7ea64cc1/"
-  },
-  {
    "id": "fdce818a",
    "title": "BMW sanal vitesi önce gereksiz buldu, sonra Hyundai’yi örnek aldı",
    "summary": "BMW mühendisleri, Hyundai Ioniq 5 N’in sanal vites geçişlerine önce mesafeli yaklaştı. Ancak otomobili kullandıktan sonra fikirleri değişti. Yeni i3 M60, benzer bir işlev sunacak.",
@@ -222,17 +310,6 @@
    "url": "/haber/bissell-hydrosteam-buharli-hali-temizleme-performansini-test-ettik-5b377855/"
   },
   {
-   "id": "02c9d66c",
-   "title": "Melis Sandal'a ait 4,3 milyar TL geri kazanım hesaplarına aktarıldı",
-   "summary": "A1 Capital Yatırım Menkul Değerler nezdindeki hesaplarda bulunan, Melis Sandal'a ait 4 milyar 316 milyon 465 bin TL'nin geri kazanım hesaplarına aktarıldığı bildirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/melis-sandala-ait-43-milyar-tl-geri-kazanim-hesaplarina-aktarildi-1751329",
-   "image": "https://images.ntv.com.tr/images/sandal2copy3-925901(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T14:54:31+00:00",
-   "url": "/haber/melis-sandal-a-ait-4-3-milyar-tl-geri-kazanim-hesaplarina-aktarildi-02c9d66c/"
-  },
-  {
    "id": "02e5010e",
    "title": "DSÖ'den Gazze'de hipotermi riskine karşı insani yardım girişinin hızlandırılması çağrısı",
    "summary": "DSÖ Genel Direktörü Ghebreyesus, \" Hipotermiyi önlemek adına barınma malzemeleri, temiz su ve hijyen ürünleri, ilaçlar, aşılar ve gerekli ekipmanların bölgeye geniş çaplı, engelsiz ve hızlı şekilde ulaştırılması…",
@@ -242,28 +319,6 @@
    "category": "gundem",
    "date": "2026-11-17T14:51:22+00:00",
    "url": "/haber/dso-den-gazze-de-hipotermi-riskine-karsi-insani-yardim-girisinin-hizla-02e5010e/"
-  },
-  {
-   "id": "b8e78030",
-   "title": "Bankayı fon manipülasyonunda kullanmışlar",
-   "summary": "Fon soruşturmasında Adil Katılım Bankası, Adil Varlık Yönetim, Adil Tasarruf Finansman ve Dünya Varlık Yönetim AŞ.'ye Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyum olarak atandı.",
-   "link": "https://www.ntv.com.tr/turkiye/bankayi-fon-manipulasyonunda-kullanmislar-1751325",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_53deb6125e8d976433840c0c4e55ce73-707808.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T14:48:46+00:00",
-   "url": "/haber/bankayi-fon-manipulasyonunda-kullanmislar-b8e78030/"
-  },
-  {
-   "id": "b928c7c9",
-   "title": "Fon soruşturmasında yeni gelişme. Altınbaş Holding ve bağlı bazı şirketlere kayyum atandı",
-   "summary": "Fon soruşturmasında Altınbaş Holding, Alnus Yatırım Menkul Değerler, Altınbaş Kuyumculuk, Altınhas Holding, Altınhas Yatırım Holding şirketlerine kayyum atandı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-altinbas-holding-ve-bagli-bazi-sirketlere-kayyum-atandi-1751328",
-   "image": "https://images.ntv.com.tr/images/tasarruf-mevduati-sigorta-fonu-tmsf-1546900-545302.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T14:47:04+00:00",
-   "url": "/haber/fon-sorusturmasinda-yeni-gelisme-altinbas-holding-ve-bagli-bazi-sirket-b928c7c9/"
   },
   {
    "id": "4337c093",
@@ -321,28 +376,6 @@
    "url": "/haber/abd-nin-israil-buyukelcisi-huckabee-iran-a-karsi-askeri-secenek-masada-911cc5ec/"
   },
   {
-   "id": "8c13db93",
-   "title": "Bakan Fidan: Mekke savunma ittifakına yakın ilgi, çalışmalarımızın yaratabileceği olumlu etkinin açık göstergesidir",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Mekke Savunma İttifakı'na gösterilen yakın ilginin barış odaklı çalışmalarının bölgede yaratabileceği olumlu etkinin açık bir göstergesi olduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-mekke-savunma-ittifakina-yakin-ilgi-calismalarimizin-yaratabilecegi-olumlu-etkinin-acik-gostergesidir/4127975",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T14:31:08+00:00",
-   "url": "/haber/bakan-fidan-mekke-savunma-ittifakina-yakin-ilgi-calismalarimizin-yarat-8c13db93/"
-  },
-  {
-   "id": "0cab6522",
-   "title": "Ampute Futbol Milli Takımı'nın son 16 turundaki rakibi Kolombiya oldu",
-   "summary": "Ampute Futbol Milli Takımı, 2026 Dünya Kupası son 16 turunda Kolombiya ile eşleşti.",
-   "link": "https://www.aa.com.tr/tr/spor/ampute-futbol-milli-takiminin-son-16-turundaki-rakibi-kolombiya-oldu/4127966",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T14:26:58+00:00",
-   "url": "/haber/ampute-futbol-milli-takimi-nin-son-16-turundaki-rakibi-kolombiya-oldu-0cab6522/"
-  },
-  {
    "id": "e46692b1",
    "title": "Huawei'nin ultra-ince akıllı saati Watch Air sızdırıldı: İşte tasarımı",
    "summary": "Huawei'nin yeni akıllı saati Watch Air, ince titanyum gövdesi ve 5 güne kadar pil ömrüyle geliyor. Sızıntılara göre model, gelişmiş sağlık sensörlerini daha hafif bir tasarımla bir araya getirecek.",
@@ -352,39 +385,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T14:26:00+00:00",
    "url": "/haber/huawei-nin-ultra-ince-akilli-saati-watch-air-sizdirildi-iste-tasarimi-e46692b1/"
-  },
-  {
-   "id": "e3ec1376",
-   "title": "Yemen'deki Husiler: Suudi Arabistan'ın Hudeyde ve Saada kentlerine düzenlediği saldırıda 11 kişi öldü",
-   "summary": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın Hudeyde kentinin kuzeyindeki El-Havlani Sünger Fabrikası tesislerine düzenlediği saldırıda 7 kişinin, Saada kentine düzenlediği saldırıda 4 kişinin hayatını…",
-   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-hudeyde-ve-saada-kentlerine-duzenledigi-saldirida-11-kisi-oldu/4127952",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T14:18:59+00:00",
-   "url": "/haber/yemen-deki-husiler-suudi-arabistan-in-hudeyde-ve-saada-kentlerine-duze-e3ec1376/"
-  },
-  {
-   "id": "0561551f",
-   "title": "ABD Başkanı Trump'tan ASEAN'ın önemine vurgu",
-   "summary": "ABD Başkanı Donald Trump, katıldığı ABD-ASEAN akşam yemeğinde Güneydoğu Asya Uluslar Birliğinin (ASEAN) önemine vurgu yaptı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-aseanin-onemine-vurgu/4127949",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T14:17:44+00:00",
-   "url": "/haber/abd-baskani-trump-tan-asean-in-onemine-vurgu-0561551f/"
-  },
-  {
-   "id": "6520b478",
-   "title": "İstanbul Havalimanı yolcu sayısında, Sabiha Gökçen Havalimanı büyümede Avrupa'nın zirvesinde",
-   "summary": "İstanbul Havalimanı eylül ayında yolcu sayısında, Sabiha Gökçen Havalimanı ise yıllık 40 milyonun üzerinde yolcuya hizmet veren havalimanları kategorisinde büyüme oranında Avrupa'da ilk sırada yer aldı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimani-yolcu-sayisinda-sabiha-gokcen-havalimani-buyumede-avrupanin-zirvesinde/4127946",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T14:13:19+00:00",
-   "url": "/haber/istanbul-havalimani-yolcu-sayisinda-sabiha-gokcen-havalimani-buyumede-6520b478/"
   },
   {
    "id": "88cb7e99",
@@ -440,17 +440,6 @@
    "category": "gundem",
    "date": "2026-11-17T14:00:16+00:00",
    "url": "/haber/bakan-uraloglu-ndan-hizli-gecis-sistemi-ne-iliskin-aciklama-d08e6102/"
-  },
-  {
-   "id": "a34d73fa",
-   "title": "SSB Başkanı Haluk Görgün: 2026 yılında şu ana kadar imzalanan sözleşmelerin değeri 16 milyar doları aştı",
-   "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Görgün, savunma ve havacılık sanayisinde 2026'da şu ana kadar imzalanan sözleşmelerin değerinin 16 milyar doları aştığını belirterek, yıl sonunda bu rakamın 20 milyar dolara…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ssb-baskani-haluk-gorgun-2026-yilinda-su-ana-kadar-imzalanan-sozlesmelerin-degeri-16-milyar-dolari-asti/4127925",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T13:58:14+00:00",
-   "url": "/haber/ssb-baskani-haluk-gorgun-2026-yilinda-su-ana-kadar-imzalanan-sozlesmel-a34d73fa/"
   },
   {
    "id": "07d5f600",
@@ -585,28 +574,6 @@
    "url": "/haber/iphone-20-pro-nun-tasarimi-ortaya-cikti-simdiye-kadarki-en-farkli-ipho-613e2d8b/"
   },
   {
-   "id": "dbe7ffd6",
-   "title": "Bakan Uraloğlu'ndan HGS açıklaması: Yarın toplantı yapılacak",
-   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, HGS şikayetlerinin sorgulama sistemindeki değişiklik sonrası arttığını söyledi. Uraloğlu, otoyol işletmecileriyle bir toplantı yapacaklarını anlattı.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-uraloglundan-hgs-aciklamasi-yarin-toplanti-yapilacak-1751314",
-   "image": "https://images.ntv.com.tr/images/otoyol-hgs-geçiş-321500.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T13:22:32+00:00",
-   "url": "/haber/bakan-uraloglu-ndan-hgs-aciklamasi-yarin-toplanti-yapilacak-dbe7ffd6/"
-  },
-  {
-   "id": "cb3c46a5",
-   "title": "Nurseli’yi 8 bıçak darbesiyle ağır yaralamıştı. Akıl sağlığı incelenecek",
-   "summary": "Adana'da Nurseli Sezer'i evinin önünde bekleyip 8 bıçak darbesiyle ağır yaralayan sanığın akıl sağlığının yerinde olup olmadığının tespiti yapılacak.",
-   "link": "https://www.ntv.com.tr/turkiye/nurseliyi-8-bicak-darbesiyle-agir-yaralamisti-akil-sagligi-incelenecek-1751303",
-   "image": "https://images.ntv.com.tr/images/nurseli-sezer-adana-462585-100139.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T13:22:20+00:00",
-   "url": "/haber/nurseli-yi-8-bicak-darbesiyle-agir-yaralamisti-akil-sagligi-incelenece-cb3c46a5/"
-  },
-  {
    "id": "d6999302",
    "title": "Meta'dan WhatsApp'a rakip geliyor: Türkiye'de başladı",
    "summary": "Meta, Instagram'ın mesaj kutusunu bağımsız bir uygulamaya taşıyan Direct'i test etmeye başladı. Türkiye ve Tayland'da kullanıma sunulan uygulama, Instagram hesabı olmadan da mesajlaşma imkânı sunuyor.",
@@ -616,17 +583,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T13:22:00+00:00",
    "url": "/haber/meta-dan-whatsapp-a-rakip-geliyor-turkiye-de-basladi-d6999302/"
-  },
-  {
-   "id": "5254f827",
-   "title": "KKTC'deki faciayla gündeme gelen şirketin gemisi Mersin yolunda arızalandı",
-   "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nde yaşanan feribot faciasının ardından seferleri durdurulan ancak yapılan kontroller sonrası yeniden seferlere başlayan şirketin bir gemisi Mersin yolunda arıza yaptı.",
-   "link": "https://www.ntv.com.tr/turkiye/kktcdeki-faciayla-gundeme-gelen-sirketin-gemisi-mersin-yolunda-arizalandi-1751322",
-   "image": "https://images.ntv.com.tr/images/filojet-gemisi-kktc-468449.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T13:21:24+00:00",
-   "url": "/haber/kktc-deki-faciayla-gundeme-gelen-sirketin-gemisi-mersin-yolunda-arizal-5254f827/"
   },
   {
    "id": "9ec7423f",
@@ -660,17 +616,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T13:02:00+00:00",
    "url": "/haber/2027-de-dunyayi-neler-bekliyor-iste-the-economist-in-2027-kapaginda-is-18341f90/"
-  },
-  {
-   "id": "67b60782",
-   "title": "Rockstar affetmedi: GTA 6'yı sızdıran hacker mahkemede!",
-   "summary": "2022 yılında Grand Theft Auto 6 ile ilgili ilk büyük sızıntının arkasındaki hacker olarak bilinen Arion Kurtaj, Londra'da yargıç huzurunda görülen duruşmada tüm suçlamaları kabul etti.",
-   "link": "https://www.donanimhaber.com/rockstar-affetmedi-gta-6-yi-sizdiran-hacker-mahkemede--213026",
-   "image": "https://www.donanimhaber.com/images/images/haber/213026/1200x675rockstar-affetmedi-gta-6-yi-sizdiran-hacker-mahkemede.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-17T12:59:39+00:00",
-   "url": "/haber/rockstar-affetmedi-gta-6-yi-sizdiran-hacker-mahkemede-67b60782/"
   },
   {
    "id": "d380c953",
@@ -794,17 +739,6 @@
    "url": "/haber/huawei-watch-air-in-ince-tasarimi-afisle-sizdi-7bccd53b/"
   },
   {
-   "id": "c01b405a",
-   "title": "İstanbullular dikkat, sarı kod verildi fırtına geri dönüyor",
-   "summary": "Yurdun batı bölgesinde hafta sonuna kadar şiddetli lodos etkili olacak. Yarın İstanbul için sarı kod verilirken lodosun hızının saatte 60 kilometre hıza çıkması bekleniyor.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbullular-dikkat-sari-kod-verildi-firtina-geri-donuyor-1751302",
-   "image": "https://images.ntv.com.tr/images/lodos-456903.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T12:24:42+00:00",
-   "url": "/haber/istanbullular-dikkat-sari-kod-verildi-firtina-geri-donuyor-c01b405a/"
-  },
-  {
    "id": "865d01a4",
    "title": "Xiaomi 18 Pro serisinin Türkiye ön satış tarihi açıklandı",
    "summary": "Bugün Xiaomi Türkiye tarafından yapılan açıklamaya göre Xiaomi 18 Pro serisi Türkiye’de 10 Aralık tarihinde ön satışa açılacak. Küresel lansmanları bugün 16:00 itibarıyla gerçekleştirilecek amiral gemisi telefonların…",
@@ -814,17 +748,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T12:17:54+00:00",
    "url": "/haber/xiaomi-18-pro-serisinin-turkiye-on-satis-tarihi-aciklandi-865d01a4/"
-  },
-  {
-   "id": "20d45745",
-   "title": "“COP31 alanını dijitalleştirdik”",
-   "summary": "COP31’de dijital altyapı da gündemde. Türk Telekom Network Genel Müdür Yardımcısı Zafer Orhan, zirve için hazırlanan dijital altyapının detaylarını anlattı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-cop31-alanini-dijitallestirdik-1751305",
-   "image": "https://images.ntv.com.tr/images/Image-308406.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T12:16:00+00:00",
-   "url": "/haber/cop31-alanini-dijitallestirdik-20d45745/"
   },
   {
    "id": "16d01a07",
@@ -904,17 +827,6 @@
    "url": "/haber/siri-ai-ve-apple-intelligence-ozelliklerine-gunluk-kullanim-siniri-gel-6c31e9a3/"
   },
   {
-   "id": "870c67d4",
-   "title": "Bakan Gürlek ve Bakan Çiftçi, Devlet Bahçeli ile görüştü",
-   "summary": "Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi, MHP Genel Başkanı Devlet Bahçeli ile Meclis'te bir görüşme gerçekleştirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-gurlek-devlet-bahceli-ile-gorusuyor-1751283",
-   "image": "https://images.ntv.com.tr/images/BakanGürlekBahçeligörüşme-120731.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T11:23:15+00:00",
-   "url": "/haber/bakan-gurlek-ve-bakan-ciftci-devlet-bahceli-ile-gorustu-870c67d4/"
-  },
-  {
    "id": "ac5b8258",
    "title": "Honor Türkiye'de telefon üretimine başladı",
    "summary": "HONOR, İstanbul Avcılar'daki tesiste yerel üretime X7d modeliyle başladı. İlk aşamada 10 milyon dolar yatırım yapıldı, 100'ü aşkın kişi istihdam edildi.",
@@ -924,28 +836,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T11:19:26+00:00",
    "url": "/haber/honor-turkiye-de-telefon-uretimine-basladi-ac5b8258/"
-  },
-  {
-   "id": "5de0abb7",
-   "title": "Antalya'da film gibi intihar: Ölmeyince yeniden atlamak istedi",
-   "summary": "Antalya'da bir binanın çatısından atlayarak intihar girişiminde bulunan adam, hayatta olduğunu anlayınca yeniden çatıya çıkmak istedi. Adam güçlükle kontrol altına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/antalyada-film-gibi-intihar-olmeyince-yeniden-atlamak-istedi-1751287",
-   "image": "https://images.ntv.com.tr/images/antalya-intihar-127693.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T11:10:30+00:00",
-   "url": "/haber/antalya-da-film-gibi-intihar-olmeyince-yeniden-atlamak-istedi-5de0abb7/"
-  },
-  {
-   "id": "0a348896",
-   "title": "Redmi Note 18 5G, 8888 mAh bataryayla gelecek",
-   "summary": "Redmi Note 18 5G'nin Çin sürümünde 8888 mAh, küresel sürümünde 8100 mAh batarya olacağı iddia ediliyor. Telefonun geri kalanı ise Redmi Note 17 5G ile neredeyse aynı.",
-   "link": "https://shiftdelete.net/redmi-note-18-5g-8888-mah-batarya",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/redmi-note-5g-temsili-kapak-1711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-17T11:05:09+00:00",
-   "url": "/haber/redmi-note-18-5g-8888-mah-bataryayla-gelecek-0a348896/"
   },
   {
    "id": "b3121504",
@@ -959,28 +849,6 @@
    "url": "/haber/iffalcon-un-yeni-nesil-televizyonuna-yogun-talep-b3121504/"
   },
   {
-   "id": "167abda1",
-   "title": "Bakan Kurum'dan Gazze için \"Antalya-Gazze İklim Hattı\" önerisi",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, D-8 ülkelerine Gazze için ortak çalışma çağrısında bulundu. Bakan Kurum \"COP31 Antalya-Gazze İklim Hattı\" kurulmasını da önerdi.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-kurumdan-gazze-icin-antalya-gazze-iklim-hatti-onerisi-1751286",
-   "image": "https://images.ntv.com.tr/images/AA-20261117-43101574-43101569-IKLIM_ZIRVESI_COP31_ANTALYA_D8_IKLIM_EYLEMI_UST_DUZEY_BAKANLAR_OTURUMU_ISTANBULDAN_ANTALYAYA_IKLIM_UYGULAMASINDA_D8_ORTAKLIGI_PROGRAMI_DUZENLENDI-137799(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T10:58:21+00:00",
-   "url": "/haber/bakan-kurum-dan-gazze-icin-antalya-gazze-iklim-hatti-onerisi-167abda1/"
-  },
-  {
-   "id": "90118580",
-   "title": "OLED MacBook Pro sahipleri baş ağrısı bildiriyor",
-   "summary": "OLED MacBook Pro sahiplerinin bir kısmı göz yorgunluğu, baş ağrısı ve baş dönmesi bildiriyor. Şüpheli neden, ekranın düşük parlaklıkta 240 Hz'de titremesi.",
-   "link": "https://shiftdelete.net/pwm-titremesi-macbook-pro-bas-agrisi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/macbook-pro-oled-karanlik-kapak-1711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-17T10:35:07+00:00",
-   "url": "/haber/oled-macbook-pro-sahipleri-bas-agrisi-bildiriyor-90118580/"
-  },
-  {
    "id": "4dd6a234",
    "title": "Uber'de Veri İhlali: Yaklaşık 150 Bin Kişinin Bilgileri Çalındı!",
    "summary": "Uber'in yapay zekâ tedarikçisi Fireworks AI'a düzenlenen siber saldırıda yaklaşık 150 bin kişinin adı, adresi ve ehliyet bilgileri çalındı.",
@@ -990,17 +858,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T09:58:05+00:00",
    "url": "/haber/uber-de-veri-ihlali-yaklasik-150-bin-kisinin-bilgileri-calindi-4dd6a234/"
-  },
-  {
-   "id": "fbab46ee",
-   "title": "Gemi kaderine terk edildi: 10 Hint denizci 8 aydır Tuzla açıklarında mahsur",
-   "summary": "İstanbul Tuzla açıklarında demirli bulunan ve mali-hukuki sorunlar nedeniyle terk edilen Alan gemisinde, 10 Hintli denizci yaklaşık 8 aydır zor şartlarda yaşam mücadelesi veriyor.",
-   "link": "https://www.ntv.com.tr/turkiye/video-gemi-kaderine-terk-edildi-10-hint-denizci-8-aydir-tuzla-aciklarinda-mahsur-1751266",
-   "image": "https://images.ntv.com.tr/images/asdsads-772407.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T09:29:28+00:00",
-   "url": "/haber/gemi-kaderine-terk-edildi-10-hint-denizci-8-aydir-tuzla-aciklarinda-ma-fbab46ee/"
   },
   {
    "id": "a6be4b8b",
@@ -1023,17 +880,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T09:19:29+00:00",
    "url": "/haber/google-guvenlik-aciklarini-insan-mudahalesi-olmadan-istismar-eden-bir-62e627d3/"
-  },
-  {
-   "id": "cbfdcf8e",
-   "title": "Ekipler sahada, kırılmayan faylar mercek altında. \"Ne kadar vaktimiz var?\"",
-   "summary": "Deprem uzmanları, 6 Şubat 2023'teki meydana gelen 7,7 ve 7,6 büyüklüğündeki depremlerde kırılmayan 2 bin yıldır kırılmadığı değerlendirilen Suriye'deki fayları mercek altına aldı.",
-   "link": "https://www.ntv.com.tr/turkiye/ekipler-sahada-kirilmayan-faylar-mercek-altinda-ne-kadar-vaktimiz-var-1751258",
-   "image": "https://images.ntv.com.tr/images/fay-kapak-884416.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T09:07:14+00:00",
-   "url": "/haber/ekipler-sahada-kirilmayan-faylar-mercek-altinda-ne-kadar-vaktimiz-var-cbfdcf8e/"
   },
   {
    "id": "73e71cbe",
@@ -1221,17 +1067,6 @@
    "category": "gundem",
    "date": "2026-11-15T07:00:00+00:00",
    "url": "/haber/kibris-turkunun-mucadelesi-kktc-43-yasinda-0ba60c57/"
-  },
-  {
-   "id": "b35721ab",
-   "title": "Bir Başkadır'ın ikinci sezonu bize ne anlatıyor?",
-   "summary": "Bir Başkadır dizisi, altı yıl sonra dört bölümlük ikinci sezonla geri döndü. Dizi bu sezonda da yine Türkiye'nin farklı sosyo-ekonomik sınıflarından karakterleri, günlük hayatın akışı içinde biraraya getiriyor.",
-   "link": "https://www.bbc.com/turkce/articles/c6jeq0vy4vz0o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/84db/live/996c7660-e04a-11f1-88e1-eb4e155225b3.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-14T16:53:52+00:00",
-   "url": "/haber/bir-baskadir-in-ikinci-sezonu-bize-ne-anlatiyor-b35721ab/"
   },
   {
    "id": "8810e206",
