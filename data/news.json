@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T05:01:05.432826+00:00",
+ "updated": "2026-11-17T05:30:54.442263+00:00",
  "items": [
   {
    "id": "49ae7bd5",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-17T05:00:00+00:00",
+   "date": "2026-11-17T05:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-49ae7bd5/"
+  },
+  {
+   "id": "b69f381f",
+   "title": "Fon soruşturmasında 7 kişi daha tutuklandı",
+   "summary": "Fon soruşturmasında adliyeye getirilen 26 kişiden 7'si tutuklandı. 19 şüpheli adli kontrol şartı ile serbest bırakıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-7-kisiye-daha-tutuklama-talebi-1751184",
+   "image": "https://images.ntv.com.tr/images/fon-soru_C5_9Fturmas_C4_B1-972817-950864.webp",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-17T05:14:26+00:00",
+   "url": "/haber/fon-sorusturmasinda-7-kisi-daha-tutuklandi-b69f381f/"
   },
   {
    "id": "c86e1663",
@@ -20,8 +31,19 @@
    "image": "https://images.ntv.com.tr/images/Medya-844020.jfif",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-17T04:41:18+00:00",
+   "date": "2026-11-17T05:10:41+00:00",
    "url": "/haber/sozcu-tv-ye-kayyim-atandi-c86e1663/"
+  },
+  {
+   "id": "03d18a6c",
+   "title": "Meteoroloji, İstanbul ve 12 ili kuvvetli yağışa karşı uyardı",
+   "summary": "Meteoroloji, aralarında İstanbul'un da olduğu 13 il için kuvvetli yağış nedeniyle \"sarı\" kodlu uyarı yayımladı. Yağışlı havanın hafta ortasına kadar etkisini sürdürmesi, çarşamba günü bazı bölgelerde rüzgarın saatte 70…",
+   "link": "https://www.trthaber.com/haber/turkiye/meteoroloji-istanbul-ve-12-ili-kuvvetli-yagisa-karsi-uyardi-963491.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/saganak-aa-2495539.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-17T05:03:00+00:00",
+   "url": "/haber/meteoroloji-istanbul-ve-12-ili-kuvvetli-yagisa-karsi-uyardi-03d18a6c/"
   },
   {
    "id": "cbf91850",
@@ -374,17 +396,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T20:20:00+00:00",
    "url": "/haber/evler-icin-hem-minik-hem-de-verimli-isi-pompasi-uretildi-the-little-on-bfcc1eb6/"
-  },
-  {
-   "id": "b69f381f",
-   "title": "Fon soruşturmasında 7 kişiye daha tutuklama talebi",
-   "summary": "Fon soruşturmasında adliyeye getirilen 26 kişiden 7'si için tutuklama talep edildi. 19 kişi için ise adli kontrol istendi.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-7-kisiye-daha-tutuklama-talebi-1751184",
-   "image": "https://images.ntv.com.tr/images/fon-soru_C5_9Fturmas_C4_B1-972817-950864.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-16T20:19:38+00:00",
-   "url": "/haber/fon-sorusturmasinda-7-kisiye-daha-tutuklama-talebi-b69f381f/"
   },
   {
    "id": "66c67896",
@@ -1056,17 +1067,6 @@
    "category": "gundem",
    "date": "2026-11-16T09:10:00+00:00",
    "url": "/haber/bakan-kurum-turk-devletleri-arasinda-yeni-bir-platform-kuruyoruz-d7afa0d1/"
-  },
-  {
-   "id": "1eb14504",
-   "title": "ASELSAN ve ROKETSAN'dan 1,28 milyar euroluk dev anlaşma",
-   "summary": "ASELSAN ile ROKETSAN arasında Füze Veri Bağı ve Arayıcı Başlık Sistemlerinin tedariki kapsamında toplam tutarı 1,28 milyar euro olan sözleşmeler imzalandı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/aselsan-ve-roketsandan-128-milyar-euroluk-dev-anlasma-963408.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2486000/savunma-sanayii-2486116.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-16T08:44:00+00:00",
-   "url": "/haber/aselsan-ve-roketsan-dan-1-28-milyar-euroluk-dev-anlasma-1eb14504/"
   },
   {
    "id": "17b9cb58",
