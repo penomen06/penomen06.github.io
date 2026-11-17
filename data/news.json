@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:30:55.480595+00:00",
+ "updated": "2026-11-17T22:01:03.872330+00:00",
  "items": [
   {
    "id": "9ae6e5ad",
@@ -9,19 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-17T21:30:00+00:00",
+   "date": "2026-11-17T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9ae6e5ad/"
   },
   {
-   "id": "5c1e858f",
-   "title": "İsrail'de muhalefet blokunun adayı Matan Kahana yeni Meclis Başkanı seçildi",
-   "summary": "İsrail'de muhalefet blokunun adayı Matan Kahana, geçici Başbakan Binyamin Netanyahu'nun desteklediği Ofir Katz'ı geride bırakarak yeni Meclis Başkanı seçildi",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-blokunun-adayi-matan-kahana-yeni-meclis-baskani-secildi/4128418",
+   "id": "51cd3c4d",
+   "title": "Kuveyt ordusu: Hava savunma sistemlerimiz \"düşman İHA saldırılarını\" engellemek üzere devreye girdi",
+   "summary": "Kuveyt ordusu, Hava savunma sistemlerinin \"düşman İHA saldırılarını\" engellemek üzere devreye girdiğini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/kuveyt-ordusu-hava-savunma-sistemlerimiz-dusman-iha-saldirilarini-engellemek-uzere-devreye-girdi/4128444",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T21:59:01+00:00",
+   "url": "/haber/kuveyt-ordusu-hava-savunma-sistemlerimiz-dusman-iha-saldirilarini-enge-51cd3c4d/"
+  },
+  {
+   "id": "9e9b9478",
+   "title": "İsrail'de muhalefet blokunun ortak adayı Matan Kahana, Meclis Başkanı seçildi",
+   "summary": "İsrail'de muhalefet blokunun ortak adayı Matan Kahana, geçici Başbakan Binyamin Netanyahu liderliğindeki koalisyon blokunun desteklediği Ofir Katz'ı geride bırakarak Meclis Başkanı seçildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-blokunun-ortak-adayi-matan-kahana-meclis-baskani-secildi/4128418",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-17T21:18:17+00:00",
-   "url": "/haber/israil-de-muhalefet-blokunun-adayi-matan-kahana-yeni-meclis-baskani-se-5c1e858f/"
+   "url": "/haber/israil-de-muhalefet-blokunun-ortak-adayi-matan-kahana-meclis-baskani-s-9e9b9478/"
   },
   {
    "id": "cb38cea1",
@@ -255,15 +266,15 @@
    "url": "/haber/lg-oled-monitorlerinde-tcl-csot-teknolojisini-kullanabilir-65afde8d/"
   },
   {
-   "id": "3408db6e",
-   "title": "BUDO'nun yarınki 12 seferi iptal edildi",
-   "summary": "Bursa Deniz Otobüslerinin (BUDO) yarınki 12 seferi olumsuz hava şartları nedeniyle iptal edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/budonun-yarinki-12-seferi-iptal-edildi/4128283",
+   "id": "12eda6db",
+   "title": "BUDO'nun bugünkü 12 seferi iptal edildi",
+   "summary": "Bursa Deniz Otobüslerinin (BUDO) bugünkü 12 seferi olumsuz hava şartları nedeniyle iptal edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/budonun-bugunku-12-seferi-iptal-edildi/4128283",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-17T18:34:48+00:00",
-   "url": "/haber/budo-nun-yarinki-12-seferi-iptal-edildi-3408db6e/"
+   "url": "/haber/budo-nun-bugunku-12-seferi-iptal-edildi-12eda6db/"
   },
   {
    "id": "7469cd9c",
@@ -301,7 +312,7 @@
   {
    "id": "30426f4e",
    "title": "Kayyum atanan medya kuruluşları hakkında neler biliniyor?",
-   "summary": "Sözcü yayınlarına yönelik soruşturmayla birlikte son iki yıl içinde TMSF'ye devredilen medya kuruluşu sayısı da artmış oldu. Mart 2025 tarihinden bu yana farklı soruşturmalar kapsamında televizyon kanalı, dijital medya…",
+   "summary": "Sözcü yayınlarına yönelik soruşturmayla birlikte son iki yıl içinde TMSF'ye devredilen medya kuruluşu sayısı da artmış oldu. Farklı soruşturmalar kapsamında televizyon kanalı, dijital medya kuruluşu, yayın ve radyo…",
    "link": "https://www.bbc.com/turkce/articles/c6pv9ng40dm9o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/704b/live/0b4f19c0-e2b4-11f1-8226-87dfa5049e9a.jpg",
    "source": "BBC Turkish",
@@ -319,17 +330,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T18:23:00+00:00",
    "url": "/haber/3-body-problem-geri-donuyor-netflix-2-sezonun-yayin-tarihini-duyurdu-c418920a/"
-  },
-  {
-   "id": "c9cff0c8",
-   "title": "TMOK 2025 Türkiye Fair Play Ödülleri sahiplerini buldu",
-   "summary": "Anadolu Ajansı Spor Servisi, tanıtım dalında büyük ödülün sahibi oldu.",
-   "link": "https://www.aa.com.tr/tr/spor/tmok-2025-turkiye-fair-play-odulleri-sahiplerini-buldu/4128270",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T18:16:49+00:00",
-   "url": "/haber/tmok-2025-turkiye-fair-play-odulleri-sahiplerini-buldu-c9cff0c8/"
   },
   {
    "id": "69323787",
