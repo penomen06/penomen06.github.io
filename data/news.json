@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T07:01:05.284529+00:00",
+ "updated": "2026-11-17T07:30:59.806482+00:00",
  "items": [
   {
    "id": "49ae7bd5",
@@ -9,8 +9,239 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-17T07:00:00+00:00",
+   "date": "2026-11-17T07:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-49ae7bd5/"
+  },
+  {
+   "id": "2a75def3",
+   "title": "İddia: “Nvidia yönetim kurulu şu anda Jensen Huang’ı geri getirmeyi değerlendirmiyor”",
+   "summary": "Jensen Huang, geçtiğimiz hafta gündeme gelen büyük gelişmelerin ardından Nvidia CEO’luğundan istifa etmiş, yerine geçici CEO olarak Colette Kress atanmıştı. Daha sonra ise Huang’ın istifasına rağmen sıfırdan kurduğu…",
+   "link": "https://www.log.com.tr/iddia-nvidia-yonetim-kurulu-su-anda-jensen-huangi-geri-getirmeyi-degerlendirmiyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-16_09-40-02_ktgId-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-17T07:29:02+00:00",
+   "url": "/haber/iddia-nvidia-yonetim-kurulu-su-anda-jensen-huang-i-geri-getirmeyi-dege-2a75def3/"
+  },
+  {
+   "id": "c8ff0eb5",
+   "title": "Uber sürücülerinin ehliyet bilgileri çalındı",
+   "summary": "Uber, tedarikçisi Fireworks AI'a yönelik siber saldırıda 149 bin 346 kişinin ad, adres, doğum tarihi ve ehliyet numarasının çalındığını açıkladı.",
+   "link": "https://shiftdelete.net/uber-veri-ihlali-149-bin-kisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/3e7e2be6894473514aed098678a7b5b46b5e513d.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-17T07:28:40+00:00",
+   "url": "/haber/uber-suruculerinin-ehliyet-bilgileri-calindi-c8ff0eb5/"
+  },
+  {
+   "id": "bdcadc8b",
+   "title": "NBA'de Alperen Şengün'ün 23 sayısı galibiyete yetmedi",
+   "summary": "Amerikan Basketbol Ligi'nde (NBA) milli oyuncu Alperen Şengün'ün 23 sayısına rağmen Houston Rockets deplasmanda Miami Heat'e 128-110 mağlup oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/nbade-alperen-sengunun-23-sayisi-galibiyete-yetmedi/4127318",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T07:28:05+00:00",
+   "url": "/haber/nba-de-alperen-sengun-un-23-sayisi-galibiyete-yetmedi-bdcadc8b/"
+  },
+  {
+   "id": "8dc0fe2a",
+   "title": "Gemini Notebook artık interaktif siteler de hazırlayabiliyor",
+   "summary": "Google’ın en çok beğenilen yapay zeka servislerinden biri olan Gemini Notebook (eski adıyla NotebookLM), artık interaktif siteler de hazırlayabiliyor. Projeye eklenen kaynaklardan, notlardan ve diğer bilgilerden…",
+   "link": "https://www.log.com.tr/gemini-notebook-artik-interaktif-siteler-de-hazirlayabiliyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-17_10-17-58_bLUT1-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-17T07:22:38+00:00",
+   "url": "/haber/gemini-notebook-artik-interaktif-siteler-de-hazirlayabiliyor-8dc0fe2a/"
+  },
+  {
+   "id": "1649400b",
+   "title": "Türkiye genelinde satılan konut sayısı, ekimde geçen yılın aynı ayına göre yüzde 23,3 azaldı",
+   "summary": "Türkiye genelinde ekimde satılan toplam konut sayısı, geçen yılın aynı ayına göre yüzde 23,3 azalışla 131 bin 72 olarak hesaplandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-genelinde-satilan-konut-sayisi-ekimde-gecen-yilin-ayni-ayina-gore-yuzde-23-3-azaldi/4127309",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T07:21:53+00:00",
+   "url": "/haber/turkiye-genelinde-satilan-konut-sayisi-ekimde-gecen-yilin-ayni-ayina-g-1649400b/"
+  },
+  {
+   "id": "06981524",
+   "title": "Sözcü TV ve internet sitesine kayyum atandı",
+   "summary": "Sözcü TV ve internet sitesine düzenlenen operasyonda bazı yöneticiler gözaltına alındı ve Sözcü TV ile internet sitesine kayyum atandı.",
+   "link": "https://www.bbc.com/turkce/articles/cmqlq51yvq26o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3465/live/c09eaa30-e254-11f1-8199-439bbe0918ee.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-17T07:19:53+00:00",
+   "url": "/haber/sozcu-tv-ve-internet-sitesine-kayyum-atandi-06981524/"
+  },
+  {
+   "id": "56998702",
+   "title": "Tarım ÜFE ekimde aylık bazda yüzde 1,02 arttı",
+   "summary": "Tarım Ürünleri Üretici Fiyat Endeksi (Tarım ÜFE), ekimde bir önceki aya göre yüzde 1,02, geçen yılın aynı ayına kıyasla yüzde 9,69 arttı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tarim-ufe-ekimde-aylik-bazda-yuzde-1-02-artti/4127304",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T07:17:30+00:00",
+   "url": "/haber/tarim-ufe-ekimde-aylik-bazda-yuzde-1-02-artti-56998702/"
+  },
+  {
+   "id": "d55d3d42",
+   "title": "Kiev Belediye Başkanı Kliçko, Rusya'nın kentteki iki köprüye saldırı düzenlediğini belirtti",
+   "summary": "Ukrayna'nın başkenti Kiev'in Belediye Başkanı Vitaliy Kliçko, Rus ordusunun kentte Dinyeper Nehri üzerindeki Güney ve Kuzey köprülerini hedef aldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kiev-belediye-baskani-klicko-rusyanin-kentteki-iki-kopruye-saldiri-duzenledigini-belirtti/4127302",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T07:17:28+00:00",
+   "url": "/haber/kiev-belediye-baskani-klicko-rusya-nin-kentteki-iki-kopruye-saldiri-du-d55d3d42/"
+  },
+  {
+   "id": "8a8747f7",
+   "title": "Samsung, Galaxy S28 Pro ve Galaxy S28 Ultra’da değişken diyafram kullanılabilir",
+   "summary": "Bugün ortaya atılan bir iddiaya göre 2028’in başında tanıtılacak Samsung Galaxy S28 Pro ve Galaxy S28 Ultra modellerinin ana kamerasında değişken diyafram sistemi kullanılabilir. Galaxy S9 ve Galaxy S10’da çiftli…",
+   "link": "https://www.log.com.tr/samsung-galaxy-s28-pro-ve-galaxy-s28-ultrada-degisken-diyafram-kullanilabilir/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-17_10-13-21_deAFW-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-17T07:16:03+00:00",
+   "url": "/haber/samsung-galaxy-s28-pro-ve-galaxy-s28-ultra-da-degisken-diyafram-kullan-8a8747f7/"
+  },
+  {
+   "id": "a8a5cc4f",
+   "title": "ABD'de Cumhuriyetçilerden 2027 için yaklaşık 1,1 trilyon dolarlık savunma ödeneği tasarısı",
+   "summary": "ABD Senatosundaki Cumhuriyetçiler, 2027 mali yılı için yaklaşık 1,1 trilyon dolarlık savunma harcamasını öngören ödenek tasarısını sundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-cumhuriyetcilerden-2027-icin-yaklasik-1-1-trilyon-dolarlik-savunma-odenegi-tasarisi/4127300",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T07:14:47+00:00",
+   "url": "/haber/abd-de-cumhuriyetcilerden-2027-icin-yaklasik-1-1-trilyon-dolarlik-savu-a8a5cc4f/"
+  },
+  {
+   "id": "9e1c6aab",
+   "title": "COP31'de 9'uncu gün. Denizler, doğa ve iklim hedefleri konuşulacak",
+   "summary": "Birleşmiş Milletler (BM) İklim Değişikliği Konferansı'nın (COP31) 9'uncu gününde; denizler, doğanın korunması ve iklim hedefleri ele alınacak.",
+   "link": "https://www.ntv.com.tr/turkiye/cop31de-9uncu-gun-denizler-doga-ve-iklim-hedefleri-konusulacak-1751226",
+   "image": "https://images.ntv.com.tr/images/cop31-718776.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-17T07:12:30+00:00",
+   "url": "/haber/cop31-de-9-uncu-gun-denizler-doga-ve-iklim-hedefleri-konusulacak-9e1c6aab/"
+  },
+  {
+   "id": "93215822",
+   "title": "iPhone 20 Pro kamera ve tasarım detayları ortaya çıktı",
+   "summary": "iPhone 20 Pro Max özellikleri hakkında yeni detaylar ortaya çıktı. Apple, 20. yıl dönümüne özel iPhone modeli için kamera tarafında büyük geliştirmeler, ekran tasarımında köklü değişim planlıyor.",
+   "link": "https://www.donanimhaber.com/iphone-20-pro-max-kamera-ve-tasarim-detaylari-ortaya-cikti--212989",
+   "image": "https://www.donanimhaber.com/images/images/haber/212989/1200x675iphone-20-pro-max-kamera-ve-tasarim-detaylari-ortaya-cikti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-17T07:10:24+00:00",
+   "url": "/haber/iphone-20-pro-kamera-ve-tasarim-detaylari-ortaya-cikti-93215822/"
+  },
+  {
+   "id": "6c0abebd",
+   "title": "iPhone Duo’ya yüz tanıma ile kilit açma özelliği geliyor",
+   "summary": "Apple, iOS 27.3 beta sürümüyle iPhone Duo'ya ön kamerayı kullanan yeni yüz tanıma özelliği ekliyor. Güncelleme ayrıca cihaz katlandığında otomatik olarak kilitlenmesini sağlayan bir seçenek sunuyor.",
+   "link": "https://www.donanimhaber.com/iphone-duo-ya-yuz-tanima-ile-kilit-acma-ozelligi-geliyor--212997",
+   "image": "https://www.donanimhaber.com/images/images/haber/212997/1200x675iphone-duo-ya-yuz-tanima-ile-kilit-acma-ozelligi-geliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-17T07:10:00+00:00",
+   "url": "/haber/iphone-duo-ya-yuz-tanima-ile-kilit-acma-ozelligi-geliyor-6c0abebd/"
+  },
+  {
+   "id": "11ab6ad8",
+   "title": "Üretici ve yatırımcılara IPARD-III Programı kapsamında ekimde 485 milyon lira ödendi",
+   "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, IPARD-III Programı kapsamında ekimde üretici ve yatırımcılara 485 milyon lira destek ödemesi yaptıklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/uretici-ve-yatirimcilara-ipard-iii-programi-kapsaminda-ekimde-485-milyon-lira-odendi/4127295",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T07:05:38+00:00",
+   "url": "/haber/uretici-ve-yatirimcilara-ipard-iii-programi-kapsaminda-ekimde-485-mily-11ab6ad8/"
+  },
+  {
+   "id": "f647cab2",
+   "title": "Tesla, “Cybercab” modelini Almanya’da da üretecek",
+   "summary": "Tesla, otonom taksi hizmeti için tasarladığı Cybercab’i Almanya’daki “Giga Berlin” fabrikasında da üretmeyi planlıyor. Bunun için yaklaşık 3 milyar euroluk tesis yatırımı gerçekleştireceğini duyuran şirket, üretime…",
+   "link": "https://www.log.com.tr/tesla-cybercab-modelini-almanyada-da-uretecek/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-17_09-58-03_dJI6A-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-17T07:05:33+00:00",
+   "url": "/haber/tesla-cybercab-modelini-almanya-da-da-uretecek-f647cab2/"
+  },
+  {
+   "id": "3ed4e42f",
+   "title": "Apple'dan 2027'de iPhone 20 Pro dahil 18 ürün",
+   "summary": "Apple'ın 2027'de en az 18 yeni ürün çıkarması bekleniyor. Listede iPhone 20 Pro, Apple Glasses, kameralı AirPods Pro ve robot kollu HomeView Max var.",
+   "link": "https://shiftdelete.net/apple-2027-urunleri-18-yeni-cihaz",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/apple-iphone-duo-kapak-1711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-17T07:05:08+00:00",
+   "url": "/haber/apple-dan-2027-de-iphone-20-pro-dahil-18-urun-3ed4e42f/"
+  },
+  {
+   "id": "eb7de8c9",
+   "title": "GTA 6'daki Dinamik Hava Koşullarının Oynanışa Etkisini Gözler Önüne Serildi: İşte Yeni Ekran Görüntüleri!",
+   "summary": "GTA 6’nın yeni ekran görüntüleri, Leonida haritasındaki dinamik fırtına ve yağışların sürüş, avcılık ve balıkçılık gibi mekanikleri nasıl zorlaştırdığını gösteriyor.",
+   "link": "https://www.webtekno.com/gta-6-dinamik-hava-kosullarinin-oynanisa-etkisini-gozler-onune-serildi-h229048.html",
+   "image": "https://imgrosetta.webtekno.com/file/697357/697357-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-17T07:04:08+00:00",
+   "url": "/haber/gta-6-daki-dinamik-hava-kosullarinin-oynanisa-etkisini-gozler-onune-se-eb7de8c9/"
+  },
+  {
+   "id": "1e91d336",
+   "title": "Bakan Kurum, Filistin Pavilyonu'nu ziyaret etti",
+   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, \"İnşallah Türkiye, Sayın Cumhurbaşkanı'mızın liderliğinde Gazze'yi de yeniden ayağa kaldıracak, Filistin'i de yeniden ayağa kaldıracaktır.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-filistin-pavilyonunu-ziyaret-etti/4127292",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T07:02:38+00:00",
+   "url": "/haber/bakan-kurum-filistin-pavilyonu-nu-ziyaret-etti-1e91d336/"
+  },
+  {
+   "id": "ba44d346",
+   "title": "Adana'da yasa dışı bahis soruşturmasında yakalanan 24 şüpheli tutuklandı",
+   "summary": "Adana'da düzenlenen yasa dışı bahis operasyonunda yakalanan 24 zanlı tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/adanada-yasa-disi-bahis-sorusturmasinda-yakalanan-24-supheli-tutuklandi/4127290",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T07:02:05+00:00",
+   "url": "/haber/adana-da-yasa-disi-bahis-sorusturmasinda-yakalanan-24-supheli-tutuklan-ba44d346/"
+  },
+  {
+   "id": "c8db6834",
+   "title": "Borsa güne düşüşle başladı",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,12 düşüşle 11.827,83 puandan başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4127289",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T07:00:03+00:00",
+   "url": "/haber/borsa-gune-dususle-basladi-c8db6834/"
+  },
+  {
+   "id": "d2637e72",
+   "title": "Sözcü televizyonunun sahibi Burak Akbay hakkındaki soruşturmada 4 gözaltı kararı",
+   "summary": "Burak Akbay'a yönelik soruşturmada 4 şüphelinin gözaltına alınmasına ve Akbay'ın sahibi olduğu Sözcü televizyonunun bağlı olduğu Mega Ajans ve Reklamcılık Ticaret AŞ'ye TMSF'nin kayyum olarak atanmasına karar verildiği…",
+   "link": "https://www.aa.com.tr/tr/gundem/sozcu-televizyonunun-sahibi-burak-akbay-hakkindaki-sorusturmada-4-gozalti-karari/4127285",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T06:58:37+00:00",
+   "url": "/haber/sozcu-televizyonunun-sahibi-burak-akbay-hakkindaki-sorusturmada-4-goza-d2637e72/"
   },
   {
    "id": "3e488544",
@@ -55,17 +286,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T06:48:37+00:00",
    "url": "/haber/elektrikli-otomobil-bataryalarinin-omrunu-3-dakikada-olcebilen-teknolo-851de720/"
-  },
-  {
-   "id": "06981524",
-   "title": "Sözcü TV ve internet sitesine kayyum atandı",
-   "summary": "Sözcü, televizyon binasında arama yapıldığını, bazı yöneticilerin gözaltına alındığını ve Sözcü TV ile internet sitesine kayyum atandığını bildiriyor.",
-   "link": "https://www.bbc.com/turkce/articles/cmqlq51yvq26o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae3c/live/907f8d30-e252-11f1-99a1-253766e7ad8b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-17T06:48:32+00:00",
-   "url": "/haber/sozcu-tv-ve-internet-sitesine-kayyum-atandi-06981524/"
   },
   {
    "id": "df44f135",
@@ -233,17 +453,6 @@
    "url": "/haber/huawei-osta-o1-pro-icin-resmi-basin-gorselleri-paylasildi-268baa44/"
   },
   {
-   "id": "336c544e",
-   "title": "Kalibaf, ABD basınında İran'daki barajların \"çift kullanımlı\" olduğu iddiasıyla hedef gösterilmesine yanıt verdi",
-   "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD basınındaki barajların füze tesisleriyle bağlantılı olabileceği haberine ilişkin, ABD ve İsrail'in İran'daki sivil altyapıya saldırması halinde aynı şekilde karşılık…",
-   "link": "https://www.aa.com.tr/tr/dunya/kalibaf-abd-basininda-irandaki-barajlarin-cift-kullanimli-oldugu-iddiasiyla-hedef-gosterilmesine-yanit-verdi/4127251",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T06:22:21+00:00",
-   "url": "/haber/kalibaf-abd-basininda-iran-daki-barajlarin-cift-kullanimli-oldugu-iddi-336c544e/"
-  },
-  {
    "id": "285f4003",
    "title": "Yeni James Bond, “Robert Pattinson” olacak",
    "summary": "Amazon MGM Studios’un 007 serisindeki ilk filminde James Bond karakterine, Daniel Craig’in yerini alacak olan ünlü oyuncu Robert Pattinson hayat verecek. 2021’de MGM’yi yaklaşık 9 milyar dolara satın alarak serinin…",
@@ -255,39 +464,6 @@
    "url": "/haber/yeni-james-bond-robert-pattinson-olacak-285f4003/"
   },
   {
-   "id": "85b7e355",
-   "title": "ABD Başkan Yardımcısı Vance, Trump'ın İran'la savaşın sonsuza kadar sürmesine izin vereceğini düşünmüyor",
-   "summary": "ABD'de Başkan Yardımcısı JD Vance, Başkan Donald Trump'ın İran'la savaşı sona erdirmek istediğini söyleyerek \"(Trump) Bunun sonsuz bir savaş haline gelmesine izin vermeyecek.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-trumpin-iranla-savasin-sonsuza-kadar-surmesine-izin-verecegini-dusunmuyor/4127247",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T06:12:17+00:00",
-   "url": "/haber/abd-baskan-yardimcisi-vance-trump-in-iran-la-savasin-sonsuza-kadar-sur-85b7e355/"
-  },
-  {
-   "id": "70d071cc",
-   "title": "Küresel piyasalarda teknoloji baskısı sürerken gözler Nvidia'nın bilançosunda",
-   "summary": "Küresel piyasalarda teknoloji hisselerinde süregelen satış baskısı nedeniyle negatif bir seyir izlenirken, gözler Nvidia'nın açıklayacağı finansal sonuçlara çevrildi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-teknoloji-baskisi-surerken-gozler-nvidianin-bilancosunda/4127244",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T06:08:27+00:00",
-   "url": "/haber/kuresel-piyasalarda-teknoloji-baskisi-surerken-gozler-nvidia-nin-bilan-70d071cc/"
-  },
-  {
-   "id": "3ac7301d",
-   "title": "iOS 27.3, iPhone Duo’ya “basit” yüz tanıma özelliği ekliyor",
-   "summary": "Apple’ın 230 bin TL’lik ilk katlanabilir telefonu iPhone Duo, diğer iPhone’ların aksine Face ID yerine Touch ID parmak izi sensörüyle geliyor ve bu tercih birçok kullanıcıyı memnun etmiyordu. Face ID’nin çok daha rahat…",
-   "link": "https://www.log.com.tr/ios-27-3-iphone-duoya-basit-yuz-tanima-ozelligi-ekliyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-16_09-07-08_3eSlK_FHD-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-17T06:06:41+00:00",
-   "url": "/haber/ios-27-3-iphone-duo-ya-basit-yuz-tanima-ozelligi-ekliyor-3ac7301d/"
-  },
-  {
    "id": "cb2e5dad",
    "title": "Galaxy S28 Ultra'da değişken diyafram iddiası",
    "summary": "Galaxy S28 Ultra ve Galaxy S28 Pro'nun değişken diyaframlı kamerayla gelebileceği iddia edildi. Samsung bu çözümü 2018'de Galaxy S9'da kullanmıştı.",
@@ -297,17 +473,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T06:05:06+00:00",
    "url": "/haber/galaxy-s28-ultra-da-degisken-diyafram-iddiasi-cb2e5dad/"
-  },
-  {
-   "id": "372fd6ee",
-   "title": "HBO Max artık Hepsiburada Premium’a dahil olmayacak",
-   "summary": "Yapılan resmi açıklamaya göre HBO Max’e erişim bugünden itibaren “Hepsiburada Premium” üyeliğinin bir parçası olmayacak. HBO Max’in Türkiye’deki aylık abonelik ücreti 17 Kasım 2026 itibarıyla standart pakette 230 TL, 4K…",
-   "link": "https://www.log.com.tr/hbo-max-artik-hepsiburada-premiuma-dahil-olmayacak/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-17_08-52-21_SFAEX-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-17T05:57:56+00:00",
-   "url": "/haber/hbo-max-artik-hepsiburada-premium-a-dahil-olmayacak-372fd6ee/"
   },
   {
    "id": "ad3ceba3",
@@ -330,17 +495,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T05:53:06+00:00",
    "url": "/haber/whatsapp-kendi-bulut-yedeklemesini-betada-acti-9fae3bb9/"
-  },
-  {
-   "id": "5dadb4b8",
-   "title": "Xiaomi Smart Band 11, Xiaomi Watch S5 41 mm ve Xiaomi Clip, Türkiye’de satışa sunuldu",
-   "summary": "Xiaomi 18 Pro ve 18 Pro Max öncesinde Xiaomi Smart Band 11, Xiaomi Watch S5 41 mm ve Xiaomi Clip’in resmi Türkiye satışına başlandı. Detaylarına burada yer verdiğimiz akıllı bileklik modeli Smart Band 11 için 2.699 TL,…",
-   "link": "https://www.log.com.tr/xiaomi-smart-band-11-xiaomi-watch-s5-41-mm-ve-xiaomi-clip-turkiyede-satisa-sunuldu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-17_08-48-19_iseBw-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-17T05:49:47+00:00",
-   "url": "/haber/xiaomi-smart-band-11-xiaomi-watch-s5-41-mm-ve-xiaomi-clip-turkiye-de-s-5dadb4b8/"
   },
   {
    "id": "b69f381f",
@@ -387,28 +541,6 @@
    "url": "/haber/huawei-nin-yeni-markasi-osta-starlight-o1-pro-tanitildi-cbf91850/"
   },
   {
-   "id": "e2e3e596",
-   "title": "İsrail ordusu Gazze Şeridi'nde patlayıcı yüklü kutularla yeni bir yıkım yöntemi kullanıyor",
-   "summary": "Ateşkese rağmen Gazze Şeridi'ne yönelik saldırılarını sürdüren İsrail ordusunun, son günlerde bölgenin farklı noktalarında Filistinlilere ait ev ve binaları yıkmak amacıyla patlayıcı yüklü kutular kullandığı…",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazze-seridinde-patlayici-yuklu-kutularla-yeni-bir-yikim-yontemi-kullaniyor/4127214",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T02:58:39+00:00",
-   "url": "/haber/israil-ordusu-gazze-seridi-nde-patlayici-yuklu-kutularla-yeni-bir-yiki-e2e3e596/"
-  },
-  {
-   "id": "3f4df823",
-   "title": "Filistin topraklarını gasbeden İsraillilerin saldırısında 1 kişi hayatını kaybetti, 10 kişi yaralandı",
-   "summary": "Filistin topraklarını gasbeden İsraillilerin işgal altındaki Batı Şeria'nın Eriha kentinde düzenlediği silahlı saldırıda 1 kadının yaşamını yitirdiği, 10 Filistinlinin de yaralandığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israillilerin-saldirisinda-1-kisi-hayatini-kaybetti-10-kisi-yaralandi/4127213",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T02:36:21+00:00",
-   "url": "/haber/filistin-topraklarini-gasbeden-israillilerin-saldirisinda-1-kisi-hayat-3f4df823/"
-  },
-  {
    "id": "7cbf78f5",
    "title": "İstanbullular dikkat. Bugün kuvvetli yağış yarın fırtına var. Sabah saatlerine dikkat",
    "summary": "Türkiye'nin batısında gök gürültülü sağanak, güneyinde sel ve hortum tehlikesi, doğusunda ise kar bekleniyor. Marmara ve Ege'de kuvvetli yağışlar nedeniyle 13 il için sarı kodlu uyarı yapıldı.",
@@ -429,61 +561,6 @@
    "category": "gundem",
    "date": "2026-11-17T01:16:35+00:00",
    "url": "/haber/karadeniz-de-tahil-diplomasisi-bakan-fidan-hem-ukrayna-hem-de-rusya-ta-39e3bb22/"
-  },
-  {
-   "id": "c1e4666e",
-   "title": "Fitch: Kuzey Amerika için kredi görünümü kötüleşiyor",
-   "summary": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, ABD'de bölünmüş yönetimden kaynaklanan önemli mali riskler nedeniyle Kuzey Amerika ülkelerinin kredi görünümünün kötüleştiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-kuzey-amerika-icin-kredi-gorunumu-kotulesiyor/4127202",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T01:10:45+00:00",
-   "url": "/haber/fitch-kuzey-amerika-icin-kredi-gorunumu-kotulesiyor-c1e4666e/"
-  },
-  {
-   "id": "f4116f1e",
-   "title": "Araştırma: ABD'deki 403 veri merkezinin yıllık karbondioksit salımı küçük bir Avrupa ülkesinden fazla",
-   "summary": "ABD merkezli araştırmada, ülkedeki en büyük 403 veri merkezinin bir yıllık karbondioksit salımının, küçük bir Avrupa ülkesinin toplam yıllık salımını aştığı ortaya kondu.",
-   "link": "https://www.aa.com.tr/tr/dunya/arastirma-abddeki-403-veri-merkezinin-yillik-karbondioksit-salimi-kucuk-bir-avrupa-ulkesinden-fazla/4127201",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T01:08:04+00:00",
-   "url": "/haber/arastirma-abd-deki-403-veri-merkezinin-yillik-karbondioksit-salimi-kuc-f4116f1e/"
-  },
-  {
-   "id": "d70307e1",
-   "title": "Suriye Dışişleri Bakanı Şeybani, bugün Türkiye'yi ziyaret edecek",
-   "summary": "Suriye Dışişleri Bakanı Esad Hasan Şeybani ve beraberindeki heyet, çalışma ziyareti gerçekleştirmek üzere bugün Türkiye'ye gelecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/suriye-disisleri-bakani-seybani-bugun-turkiyeyi-ziyaret-edecek/4127200",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T01:05:54+00:00",
-   "url": "/haber/suriye-disisleri-bakani-seybani-bugun-turkiye-yi-ziyaret-edecek-d70307e1/"
-  },
-  {
-   "id": "56f3335e",
-   "title": "AB Yüksek Temsilcisi Kallas, Karadeniz’deki saldırıların ticaret ve bağlantı hatlarını tehdit ettiğini söyledi",
-   "summary": "Avrupa Birliği Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, Orta Asya, Karadeniz ve Güney Kafkasya'dan ortaklarıyla ulaştırma, enerji ve dijital bağlantıların güçlendirilmesini görüştüklerini…",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-yuksek-temsilcisi-kallas-karadeniz-deki-saldirilarin-ticaret-ve-baglanti-hatlarini-tehdit-ettigini-soyledi/4127199",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T01:05:20+00:00",
-   "url": "/haber/ab-yuksek-temsilcisi-kallas-karadeniz-deki-saldirilarin-ticaret-ve-bag-56f3335e/"
-  },
-  {
-   "id": "09fd3263",
-   "title": "Türkiye'deki kuruluşlardan COP31'de elektrifikasyon hedefine \"Electrify Türkiye\" girişimiyle destek",
-   "summary": "Yayımladıkları açık mektupla yenilenebilir enerjiye dayalı elektrifikasyonu hızlandırmak için somut katkı vermeyi amaçladıklarını bildiren Electrify Türkiye kapsamındaki kuruluşlar, tüm tarafları yapıcı bir diyalog…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyedeki-kuruluslardan-cop31de-elektrifikasyon-hedefine-electrify-turkiye-girisimiyle-destek/4127198",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T01:03:54+00:00",
-   "url": "/haber/turkiye-deki-kuruluslardan-cop31-de-elektrifikasyon-hedefine-electrify-09fd3263/"
   },
   {
    "id": "f0004377",
@@ -728,17 +805,6 @@
    "url": "/haber/ince-ve-hafif-tasarimiyla-oppo-watch-5-tanitildi-iste-ozellikleri-d285d24d/"
   },
   {
-   "id": "9434b959",
-   "title": "Take-Two patronundan yapay zeka devlerine sitem",
-   "summary": "Take-Two CEO'su Strauss Zelnick, OpenAI ve Anthropic'i fikri mülkiyet konusunda eleştirdi. Zelnick'e göre mesele finansal bir tehdit değil, yaratıcı emeğin korunması.",
-   "link": "https://shiftdelete.net/strauss-zelnick-openai-anthropic-elestiri",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/760c5d0002ec42eeae166e9375c28ed79b6428d6.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-16T19:34:10+00:00",
-   "url": "/haber/take-two-patronundan-yapay-zeka-devlerine-sitem-9434b959/"
-  },
-  {
    "id": "64144d0b",
    "title": "Bu ay izleyici ile buluşacak en dikkat çekici filmler: 16-30 Kasım 2026",
    "summary": "Bu ay bitmeden sinemaseverlerle buluşacak filmler arasında yeni Açlık Oyunları filmi, Disney yapımı animasyon filmi Hexed ve oyuncu kadrosuyla dikkat çeken Paper Tiger gibi yapımlar var!",
@@ -759,17 +825,6 @@
    "category": "gundem",
    "date": "2026-11-16T19:07:45+00:00",
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-16-kas-5d7412c2/"
-  },
-  {
-   "id": "c88c4bbd",
-   "title": "Stellantis'in ucuz araç planına maliyet freni",
-   "summary": "Stellantis CEO'su Antonio Filosa, çip ve ham madde maliyetlerinin 2027 ve muhtemelen 2028'de de sürebileceğini söyledi. Uygun fiyatlı elektrikliler için Leapmotor ile çalışılacak.",
-   "link": "https://shiftdelete.net/stellantis-ucuz-otomobil-maliyet-uyarisi-leapmotor",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/stellantis-stla-platform-kapak-1611.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-16T19:04:07+00:00",
-   "url": "/haber/stellantis-in-ucuz-arac-planina-maliyet-freni-c88c4bbd/"
   },
   {
    "id": "7429121f",
@@ -838,28 +893,6 @@
    "url": "/haber/on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-16-kasim-20-e3221d15/"
   },
   {
-   "id": "570497bb",
-   "title": "RTX5060Ti 16GB ekran kartlı! ''İtopya DH-SMILE OEM Paketi incelemesi''",
-   "summary": "DLSS ve MFG ile 2K'da yüksek performans veren, 16GB VRAM ile 4K'da dahi başarım gösterebilen DH-SMILE Oem paketinin bileşenlerini inceliyor, oyun performansını kanıtlıyoruz.",
-   "link": "https://www.donanimhaber.com/rtx5060ti-16gb-ekran-kartli-itopya-dh-smile-oem-paketi--212991",
-   "image": "https://www.donanimhaber.com/images/images/haber/212991/1200x675rtx5060ti-16gb-ekran-kartli-itopya-dh-smile-oem-paketi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-16T17:49:56+00:00",
-   "url": "/haber/rtx5060ti-16gb-ekran-kartli-itopya-dh-smile-oem-paketi-incelemesi-570497bb/"
-  },
-  {
-   "id": "52a4276e",
-   "title": "Dünyanın en büyük insansız kargo uçağı ilk uçuşunu gerçekleştirdi",
-   "summary": "Dünyanın en büyük insansız kargo uçağı W5000, ilk test uçuşunu tamamladı. 5 ton yük taşıyabilen uçak, 2.600 kilometre menzili ve otonom uçuş kabiliyetiyle dikkat çekiyor.",
-   "link": "https://www.donanimhaber.com/dunyanin-en-buyuk-insansiz-kargo-ucagi-ilk-ucusunu-gerceklestirdi--212983",
-   "image": "https://www.donanimhaber.com/images/images/haber/212983/1200x675dunyanin-en-buyuk-insansiz-kargo-ucagi-ilk-ucusunu-gerceklestirdi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-16T17:44:00+00:00",
-   "url": "/haber/dunyanin-en-buyuk-insansiz-kargo-ucagi-ilk-ucusunu-gerceklestirdi-52a4276e/"
-  },
-  {
    "id": "5c6cb184",
    "title": "Beş AB ülkesi, göçmenler için Ruanda'da sınır dışı merkezi açıyor",
    "summary": "Almanya, Hollanda, Avusturya, Yunanistan ve Danimarka, Afrika ülkesi Ruanda'da bir göçmen sınır dışı merkezi açma planlarını duyurdu. Merkezin amacı sınırdışı sayılarını artırmak ve düzensiz göçü azaltmak olarak…",
@@ -880,17 +913,6 @@
    "category": "gundem",
    "date": "2026-11-16T16:40:58+00:00",
    "url": "/haber/bakirkoy-belediyesi-nde-ihale-usulsuzlugu-sorusturmasi-9-supheli-icin-36f17af6/"
-  },
-  {
-   "id": "9ed1bbf6",
-   "title": "Ömer Çelik: Fon dolandırıcıları hesap verecek",
-   "summary": "AK Parti Sözcüsü Ömer Çelik, fon dolandırıcılarının eninde sonunda hesap vereceğini ve soruşturmanın hiçbir safhasının faili meçhul kalmayacağını söyledi.",
-   "link": "https://www.ntv.com.tr/turkiye/omer-celik-fon-dolandiricilari-hesap-verecek-1751164",
-   "image": "https://images.ntv.com.tr/images/AA-20261116-43096988-43096986-AK_PARTI_SOZCUSU_CELIK_MKYK_TOPLANTISINA_ILISKIN_ACIKLAMALARDA_BULUNDU-189504.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-16T16:33:06+00:00",
-   "url": "/haber/omer-celik-fon-dolandiricilari-hesap-verecek-9ed1bbf6/"
   },
   {
    "id": "4142331d",
@@ -957,17 +979,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T14:35:58+00:00",
    "url": "/haber/dikkat-spoiler-gta-6-nin-toplam-oynanis-suresi-sizdirildi-fdd893fe/"
-  },
-  {
-   "id": "efa6133b",
-   "title": "Samsung telefonların yapay zeka altyapısında “Galaxy Claw” ile yeni bir sayfa açılabilir",
-   "summary": "Ortaya çıkan bilgilere göre Samsung, akıllı telefon ve tablet modelleri için Galaxy Claw adlı yeni bir yapay zeka altyapısı geliştiriyor. Geçtiğimiz hafta gündeme gelen ücretli “Galaxy AI Premium” aboneliği kapsamında…",
-   "link": "https://www.log.com.tr/samsung-telefonlarin-yapay-zeka-altyapisinda-galaxy-claw-ile-yeni-bir-sayfa-acilabilir/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/samsung-galaxy-s27-serisi-ocak-ayinin-basinda-tanitilabilir-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-16T13:52:04+00:00",
-   "url": "/haber/samsung-telefonlarin-yapay-zeka-altyapisinda-galaxy-claw-ile-yeni-bir-efa6133b/"
   },
   {
    "id": "19ab2629",
@@ -1111,17 +1122,6 @@
    "category": "gundem",
    "date": "2026-11-16T09:10:00+00:00",
    "url": "/haber/bakan-kurum-turk-devletleri-arasinda-yeni-bir-platform-kuruyoruz-d7afa0d1/"
-  },
-  {
-   "id": "17b9cb58",
-   "title": "Vodafone Business, LIFT ile İş Ortaklarının Uzmanlığını Müşterileriyle Buluşturacak",
-   "summary": "Vodafone, LIFT Partner Programı katılımcılarıyla MEXT Teknoloji Merkezi’nde Partner Day etkinliğini gerçekleştirdi.",
-   "link": "https://www.webtekno.com/vodafone-business-lift-musteri-is-ortaklik-h229009.html",
-   "image": "https://imgrosetta.webtekno.com/file/697258/697258-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-16T08:34:02+00:00",
-   "url": "/haber/vodafone-business-lift-ile-is-ortaklarinin-uzmanligini-musterileriyle-17b9cb58/"
   },
   {
    "id": "74499194",
