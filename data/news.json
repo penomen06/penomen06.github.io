@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-17T18:01:05.732293+00:00",
+ "updated": "2026-11-17T18:30:59.746053+00:00",
  "items": [
+  {
+   "id": "30426f4e",
+   "title": "Kayyum atanan medya kuruluşları hakkında neler biliniyor?",
+   "summary": "Sözcü yayınlarına yönelik soruşturmayla birlikte son iki yıl içinde TMSF'ye devredilen medya kuruluşu sayısı da artmış oldu. Mart 2025 tarihinden bu yana farklı soruşturmalar kapsamında televizyon kanalı, dijital medya…",
+   "link": "https://www.bbc.com/turkce/articles/c6pv9ng40dm9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/704b/live/0b4f19c0-e2b4-11f1-8226-87dfa5049e9a.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-17T18:24:23+00:00",
+   "url": "/haber/kayyum-atanan-medya-kuruluslari-hakkinda-neler-biliniyor-30426f4e/"
+  },
+  {
+   "id": "c418920a",
+   "title": "3 Body Problem geri dönüyor: Netflix, 2. sezonun yayın tarihini duyurdu",
+   "summary": "Netflix'in sevilen bilim-kurgu dizisi 3 Body Problem (Üç Cisim Problemi) 2. sezonuyla geri dönüyor. Netflix, yeni sezonun ilk afişini ve resmi yayın tarihini paylaştı.",
+   "link": "https://www.donanimhaber.com/3-body-problem-2-sezonuyla-geri-donuyor-iste-yayin-tarihi--213011",
+   "image": "https://www.donanimhaber.com/images/images/haber/213011/1200x6753-body-problem-2-sezonuyla-geri-donuyor-iste-yayin-tarihi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-17T18:23:00+00:00",
+   "url": "/haber/3-body-problem-geri-donuyor-netflix-2-sezonun-yayin-tarihini-duyurdu-c418920a/"
+  },
+  {
+   "id": "df6704fc",
+   "title": "OpenAI, siber güvenlik modellerini NATO'nun erişimine sunacak",
+   "summary": "Yapay zeka şirketi OpenAI, gelişmiş siber güvenlik modellerini NATO'nun temel kurumlarının erişimine sunmak amacıyla NATO İletişim ve Bilgi Ajansıyla (NCIA) işbirliği yaptığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openai-siber-guvenlik-modellerini-natonun-erisimine-sunacak/4128272",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T18:17:55+00:00",
+   "url": "/haber/openai-siber-guvenlik-modellerini-nato-nun-erisimine-sunacak-df6704fc/"
+  },
+  {
+   "id": "c9cff0c8",
+   "title": "TMOK 2025 Türkiye Fair Play Ödülleri sahiplerini buldu",
+   "summary": "Anadolu Ajansı Spor Servisi, tanıtım dalında büyük ödülün sahibi oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/tmok-2025-turkiye-fair-play-odulleri-sahiplerini-buldu/4128270",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T18:16:49+00:00",
+   "url": "/haber/tmok-2025-turkiye-fair-play-odulleri-sahiplerini-buldu-c9cff0c8/"
+  },
+  {
+   "id": "c01b405a",
+   "title": "İstanbullular dikkat, sarı kod verildi fırtına geri dönüyor",
+   "summary": "Yurdun batı bölgesinde hafta sonuna kadar şiddetli lodos etkili olacak. Yarın İstanbul için sarı kod verilirken lodosun hızının saatte 60 kilometre hıza çıkması bekleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbullular-dikkat-sari-kod-verildi-firtina-geri-donuyor-1751302",
+   "image": "https://images.ntv.com.tr/images/lodos-456903.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-17T18:08:32+00:00",
+   "url": "/haber/istanbullular-dikkat-sari-kod-verildi-firtina-geri-donuyor-c01b405a/"
+  },
+  {
+   "id": "9e34498a",
+   "title": "ABD Ulusal Güvenlik Ajansının gizli iç iletişim ağının çalışmadığı öne sürüldü",
+   "summary": "ABD Ulusal Güvenlik Ajansının (NSA) iç iletişim için kullandığı çok gizli ağın devre dışı kaldığı öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-ulusal-guvenlik-ajansinin-gizli-ic-iletisim-aginin-calismadigi-one-suruldu/4128262",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T18:05:43+00:00",
+   "url": "/haber/abd-ulusal-guvenlik-ajansinin-gizli-ic-iletisim-aginin-calismadigi-one-9e34498a/"
+  },
+  {
+   "id": "69323787",
+   "title": "Sony'den GTA 6 öncesi PS5 güncellemesi",
+   "summary": "Sony, GTA 6'nın çıkışından bir gün önce PS5 için 1,267 GB boyutunda yeni bir güvenlik güncellemesi yayınladı.",
+   "link": "https://shiftdelete.net/ps5-guvenlik-guncellemesi-14-23-gta-6-oncesi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/ps5-guncelleme-gta-6-kapak-1711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-17T18:03:09+00:00",
+   "url": "/haber/sony-den-gta-6-oncesi-ps5-guncellemesi-69323787/"
+  },
+  {
+   "id": "13119aa2",
+   "title": "Nvidia Rubin HPC GPU duyuruldu: 50 binden fazla CUDA çekirdeği sunuyor",
+   "summary": "Nvidia , bilim dünyasına odaklanan yeni GPU'su Rubin HPC'yi tanıttı. 50 binden fazla CUDA çekirdeğine sahip model, şirketin şimdiye kadarki en güçlü GPU'larından biri olacak.",
+   "link": "https://www.donanimhaber.com/50-bin-cuda-cekirdegi-tek-gpu-da-nvidia-rubin-hpc--213010",
+   "image": "https://www.donanimhaber.com/images/images/haber/213010/1200x67550-bin-cuda-cekirdegi-tek-gpu-da-nvidia-rubin-hpc.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-17T18:02:00+00:00",
+   "url": "/haber/nvidia-rubin-hpc-gpu-duyuruldu-50-binden-fazla-cuda-cekirdegi-sunuyor-13119aa2/"
+  },
+  {
+   "id": "7f1047d7",
+   "title": "İsrail askerleri, 6 yaşındaki İyas'ı çadırda ders çalıştığı sırada öldürdü",
+   "summary": "Gazze Şeridi'nin orta kesimindeki Deyr el-Belah kentinde sığındığı çadırda ders çalışırken İsrail güçlerinin açtığı ateş sonucu ağır yaralanan 6 yaşındaki Filistinli çocuk yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-6-yasindaki-iyasi-cadirda-ders-calistigi-sirada-oldurdu/4128259",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T17:57:04+00:00",
+   "url": "/haber/israil-askerleri-6-yasindaki-iyas-i-cadirda-ders-calistigi-sirada-oldu-7f1047d7/"
+  },
   {
    "id": "27bfec6b",
    "title": "Mbappe'ye ırkçı tacizde bulunan taraftara 11 ay ertelenmiş hapis cezası",
@@ -299,39 +398,6 @@
    "url": "/haber/felcli-anneye-uvey-oglundan-akilalmaz-tuzak-3b96f006/"
   },
   {
-   "id": "945b5bde",
-   "title": "İran Dışişleri Bakanı Erakçi, Umman’da Katar heyeti ile bölgesel konular hakkında görüştü",
-   "summary": "İran Dışişleri Bakanı Abbas Erakçi, İran ile ABD arasında arabuluculuk görevi yürüten Katar heyeti ile Umman’ın başkenti Maskat’ta bölgesel konular hakkında görüş alışverişinde bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-umman-da-katar-heyeti-ile-bolgesel-konular-hakkinda-gorustu/4128161",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T16:17:23+00:00",
-   "url": "/haber/iran-disisleri-bakani-erakci-umman-da-katar-heyeti-ile-bolgesel-konula-945b5bde/"
-  },
-  {
-   "id": "72175be2",
-   "title": "Nvidia, ulusal güvenlik ve ihracat kontrolü için yeni denetim komitesi kurdu",
-   "summary": "ABD'li çip üreticisi Nvidia, şirketin ulusal güvenlik politikalarının, ihracat kontrollerine uyumunun ve küresel ticaret risklerinin yönetiminin denetiminden sorumlu yeni bir komite kurduğunu duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/nvidia-ulusal-guvenlik-ve-ihracat-kontrolu-icin-yeni-denetim-komitesi-kurdu/4128159",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T16:15:34+00:00",
-   "url": "/haber/nvidia-ulusal-guvenlik-ve-ihracat-kontrolu-icin-yeni-denetim-komitesi-72175be2/"
-  },
-  {
-   "id": "a95f6a51",
-   "title": "Van'da 4,3 büyüklüğünde deprem",
-   "summary": "Van'ın Gevaş ilçesinde saat 18.57'de 4,3 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/vanda-4-3-buyuklugunde-deprem/4128156",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T16:13:24+00:00",
-   "url": "/haber/van-da-4-3-buyuklugunde-deprem-a95f6a51/"
-  },
-  {
    "id": "be386e20",
    "title": "iCloud+ almayanlara Siri AI ve Apple Intelligence kullanım sınırı!",
    "summary": "Apple, iOS 27.3 sürümüyle Siri AI ve Apple Intelligence için günlük kullanım sınırı getiriyor. iCloud+ planına göre iPhone kullanıcısının yapay zeka kullanımı sınırlandırılacak. İşte fiyatlar:",
@@ -363,17 +429,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T16:05:07+00:00",
    "url": "/haber/redmi-turbo-6-tanitim-oncesi-sertifika-aldi-e345ae7d/"
-  },
-  {
-   "id": "070d3e21",
-   "title": "İran Meclis Başkanı Kalibaf'tan ABD basınındaki \"kirli bomba\" haberine tepki",
-   "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, CNN'in, İran'ın Washington'da \"kirli bomba\" veya kimyasal silah kullanarak ABD Başkanı Trump yönetiminin üst düzey yetkililerini hedef almaya yönelik planlar geliştirdiği…",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaftan-abd-basinindaki-kirli-bomba-haberine-tepki/4128146",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T16:03:45+00:00",
-   "url": "/haber/iran-meclis-baskani-kalibaf-tan-abd-basinindaki-kirli-bomba-haberine-t-070d3e21/"
   },
   {
    "id": "2d862bc4",
@@ -596,17 +651,6 @@
    "url": "/haber/ps-plus-tan-aralik-ta-6-oyun-kaldiriliyor-4a08ddf3/"
   },
   {
-   "id": "e46692b1",
-   "title": "Huawei'nin ultra-ince akıllı saati Watch Air sızdırıldı: İşte tasarımı",
-   "summary": "Huawei'nin yeni akıllı saati Watch Air, ince titanyum gövdesi ve 5 güne kadar pil ömrüyle geliyor. Sızıntılara göre model, gelişmiş sağlık sensörlerini daha hafif bir tasarımla bir araya getirecek.",
-   "link": "https://www.donanimhaber.com/huawei-nin-ultra-ince-akilli-saati-sizdirildi-iste-tasarimi--213028",
-   "image": "https://www.donanimhaber.com/images/images/haber/213028/1200x675huawei-nin-ultra-ince-akilli-saati-sizdirildi-iste-tasarimi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-17T14:26:00+00:00",
-   "url": "/haber/huawei-nin-ultra-ince-akilli-saati-watch-air-sizdirildi-iste-tasarimi-e46692b1/"
-  },
-  {
    "id": "88cb7e99",
    "title": "Xiaomi 18 Pro ve Pro Max Küresel Pazarda Tanıtıldı: İşte Özellikleri!",
    "summary": "Xiaomi, arka ekranlı ve 200 MP Leica kameralı amiral gemisi modelleri Xiaomi 18 Pro ve 18 Pro Max'i Paris'te düzenlenen etkinlikle tanıttı.",
@@ -616,17 +660,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T14:10:46+00:00",
    "url": "/haber/xiaomi-18-pro-ve-pro-max-kuresel-pazarda-tanitildi-iste-ozellikleri-88cb7e99/"
-  },
-  {
-   "id": "5119429a",
-   "title": "Kasım indirimlerinde iFFALCON rüzgarı: Satışlar yüzde 454 arttı",
-   "summary": "iFFALCON'un QD-Mini LED televizyonu U95A, Kasım indirimleriyle yoğun ilgi gördü. Serinin satışları bir ayda yüzde 454 artarak yaklaşık 5,5 katına çıktı.",
-   "link": "https://www.donanimhaber.com/kasim-indirimlerinde-iffalcon-ruzgari-satislar-yuzde-454-artti--213044",
-   "image": "https://www.donanimhaber.com/images/images/haber/213044/1200x675kasim-indirimlerinde-iffalcon-ruzgari-satislar-yuzde-454-artti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-17T14:07:00+00:00",
-   "url": "/haber/kasim-indirimlerinde-iffalcon-ruzgari-satislar-yuzde-454-artti-5119429a/"
   },
   {
    "id": "415e3da0",
@@ -926,17 +959,6 @@
    "url": "/haber/huawei-watch-air-in-ince-tasarimi-afisle-sizdi-7bccd53b/"
   },
   {
-   "id": "c01b405a",
-   "title": "İstanbullular dikkat, sarı kod verildi fırtına geri dönüyor",
-   "summary": "Yurdun batı bölgesinde hafta sonuna kadar şiddetli lodos etkili olacak. Yarın İstanbul için sarı kod verilirken lodosun hızının saatte 60 kilometre hıza çıkması bekleniyor.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbullular-dikkat-sari-kod-verildi-firtina-geri-donuyor-1751302",
-   "image": "https://images.ntv.com.tr/images/lodos-456903.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T12:24:42+00:00",
-   "url": "/haber/istanbullular-dikkat-sari-kod-verildi-firtina-geri-donuyor-c01b405a/"
-  },
-  {
    "id": "865d01a4",
    "title": "Xiaomi 18 Pro serisinin Türkiye ön satış tarihi açıklandı",
    "summary": "Bugün Xiaomi Türkiye tarafından yapılan açıklamaya göre Xiaomi 18 Pro serisi Türkiye’de 10 Aralık tarihinde ön satışa açılacak. Küresel lansmanları bugün 16:00 itibarıyla gerçekleştirilecek amiral gemisi telefonların…",
@@ -968,17 +990,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T12:14:11+00:00",
    "url": "/haber/cinli-honor-turkiye-de-akilli-telefon-uretmeye-basladi-16d01a07/"
-  },
-  {
-   "id": "31efc401",
-   "title": "Microsoft'un süper bilgisayarları artık Linux'ta",
-   "summary": "Windows süper bilgisayar listesinde 2008'de 10. sıraya çıktı. Bugün TOP500'deki 500 sistemin tamamı Linux kullanıyor, Microsoft'un Azure sistemleri de dahil.",
-   "link": "https://shiftdelete.net/windows-super-bilgisayar-top500-linux",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/super-bilgisayar-kapak-1711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-17T12:05:13+00:00",
-   "url": "/haber/microsoft-un-super-bilgisayarlari-artik-linux-ta-31efc401/"
   },
   {
    "id": "06981524",
@@ -1199,17 +1210,6 @@
    "category": "gundem",
    "date": "2026-11-16T06:22:05+00:00",
    "url": "/haber/bugun-vucut-sicakligimiz-neden-atalarimizdan-daha-dusuk-f8da079f/"
-  },
-  {
-   "id": "eea0fc1b",
-   "title": "Trump, Şi ve Putin'den tarihi zirve: Dünya için nasıl sonuçlar çıkabilir?",
-   "summary": "ABD, Çin ve Rusya liderlerinin tarihte ilk kez düzenlenecek üçlü toplantısına yönelik hazırlıklar Avrupa'nın dikkatini çekiyor. Bazıları bu durumla İkinci Dünya Savaşı sonrasında dünyanın nüfuz alanlarına bölünmesi…",
-   "link": "https://www.bbc.com/turkce/articles/cjdx1y7p47ydo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9de/live/369f6d80-df7d-11f1-93e1-3b657b665bcf.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-15T18:23:01+00:00",
-   "url": "/haber/trump-si-ve-putin-den-tarihi-zirve-dunya-icin-nasil-sonuclar-cikabilir-eea0fc1b/"
   },
   {
    "id": "9fd53407",
