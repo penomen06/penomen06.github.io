@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:30:53.871616+00:00",
+ "updated": "2026-11-17T02:01:01.732560+00:00",
  "items": [
   {
    "id": "49ae7bd5",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-17T01:30:00+00:00",
+   "date": "2026-11-17T02:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-49ae7bd5/"
   },
   {
@@ -24,6 +24,61 @@
    "url": "/haber/karadeniz-de-tahil-diplomasisi-bakan-fidan-hem-ukrayna-hem-de-rusya-ta-39e3bb22/"
   },
   {
+   "id": "c1e4666e",
+   "title": "Fitch: Kuzey Amerika için kredi görünümü kötüleşiyor",
+   "summary": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, ABD'de bölünmüş yönetimden kaynaklanan önemli mali riskler nedeniyle Kuzey Amerika ülkelerinin kredi görünümünün kötüleştiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-kuzey-amerika-icin-kredi-gorunumu-kotulesiyor/4127202",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T01:10:45+00:00",
+   "url": "/haber/fitch-kuzey-amerika-icin-kredi-gorunumu-kotulesiyor-c1e4666e/"
+  },
+  {
+   "id": "f4116f1e",
+   "title": "Araştırma: ABD'deki 403 veri merkezinin yıllık karbondioksit salımı küçük bir Avrupa ülkesinden fazla",
+   "summary": "ABD merkezli araştırmada, ülkedeki en büyük 403 veri merkezinin bir yıllık karbondioksit salımının, küçük bir Avrupa ülkesinin toplam yıllık salımını aştığı ortaya kondu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arastirma-abddeki-403-veri-merkezinin-yillik-karbondioksit-salimi-kucuk-bir-avrupa-ulkesinden-fazla/4127201",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T01:08:04+00:00",
+   "url": "/haber/arastirma-abd-deki-403-veri-merkezinin-yillik-karbondioksit-salimi-kuc-f4116f1e/"
+  },
+  {
+   "id": "d70307e1",
+   "title": "Suriye Dışişleri Bakanı Şeybani, bugün Türkiye'yi ziyaret edecek",
+   "summary": "Suriye Dışişleri Bakanı Esad Hasan Şeybani ve beraberindeki heyet, çalışma ziyareti gerçekleştirmek üzere bugün Türkiye'ye gelecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/suriye-disisleri-bakani-seybani-bugun-turkiyeyi-ziyaret-edecek/4127200",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T01:05:54+00:00",
+   "url": "/haber/suriye-disisleri-bakani-seybani-bugun-turkiye-yi-ziyaret-edecek-d70307e1/"
+  },
+  {
+   "id": "56f3335e",
+   "title": "AB Yüksek Temsilcisi Kallas, Karadeniz’deki saldırıların ticaret ve bağlantı hatlarını tehdit ettiğini söyledi",
+   "summary": "Avrupa Birliği Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, Orta Asya, Karadeniz ve Güney Kafkasya'dan ortaklarıyla ulaştırma, enerji ve dijital bağlantıların güçlendirilmesini görüştüklerini…",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-yuksek-temsilcisi-kallas-karadeniz-deki-saldirilarin-ticaret-ve-baglanti-hatlarini-tehdit-ettigini-soyledi/4127199",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T01:05:20+00:00",
+   "url": "/haber/ab-yuksek-temsilcisi-kallas-karadeniz-deki-saldirilarin-ticaret-ve-bag-56f3335e/"
+  },
+  {
+   "id": "09fd3263",
+   "title": "Türkiye'deki kuruluşlardan COP31'de elektrifikasyon hedefine \"Electrify Türkiye\" girişimiyle destek",
+   "summary": "Yayımladıkları açık mektupla yenilenebilir enerjiye dayalı elektrifikasyonu hızlandırmak için somut katkı vermeyi amaçladıklarını bildiren Electrify Türkiye kapsamındaki kuruluşlar, tüm tarafları yapıcı bir diyalog…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyedeki-kuruluslardan-cop31de-elektrifikasyon-hedefine-electrify-turkiye-girisimiyle-destek/4127198",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T01:03:54+00:00",
+   "url": "/haber/turkiye-deki-kuruluslardan-cop31-de-elektrifikasyon-hedefine-electrify-09fd3263/"
+  },
+  {
    "id": "f0004377",
    "title": "Instagram yeni uygulamasını önce Türkiye'de açtı",
    "summary": "Instagram, yalnızca mesajlaşma için tasarlanan bağımsız uygulaması Direct'i dünyada ilk olarak Türkiye ve Tayland'da test etmeye başladı.",
@@ -33,6 +88,17 @@
    "category": "teknoloji",
    "date": "2026-11-17T01:01:05+00:00",
    "url": "/haber/instagram-yeni-uygulamasini-once-turkiye-de-acti-f0004377/"
+  },
+  {
+   "id": "c383870d",
+   "title": "Rusya'da nadir toprak elementlerinin üretimi talep yetersizliğine takılıyor",
+   "summary": "Rusya Federal Yer Altı Kaynakları Ajansı Başkanı Oleg Kazanov, ülkede 28,5 milyon ton nadir toprak elementi rezervi bulunmasına rağmen yıllık tüketimin yaklaşık 3 bin ton düzeyinde kaldığını, talep yetersizliğinin…",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyada-nadir-toprak-elementlerinin-uretimi-talep-yetersizligine-takiliyor/4127195",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T00:52:09+00:00",
+   "url": "/haber/rusya-da-nadir-toprak-elementlerinin-uretimi-talep-yetersizligine-taki-c383870d/"
   },
   {
    "id": "a0be2d33",
@@ -222,17 +288,6 @@
    "url": "/haber/abd-de-bankacilik-krizi-buyuk-bankalarin-sistemleri-coktu-afd4eade/"
   },
   {
-   "id": "6fa816a0",
-   "title": "Başkentte \"Posta Kutusu 213 Diyarbakır\" belgeselinin özel gösterimi yapıldı",
-   "summary": "Eski AK Parti Mardin Milletvekili ve yazar Orhan Miroğlu'nun yazıp yönettiği \"Posta Kutusu 213 Diyarbakır\" belgeselinin Ankara özel gösterimi gerçekleştirildi.",
-   "link": "https://www.aa.com.tr/tr/kultur/baskentte-posta-kutusu-213-diyarbakir-belgeselinin-ozel-gosterimi-yapildi/4127155",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T21:13:17+00:00",
-   "url": "/haber/baskentte-posta-kutusu-213-diyarbakir-belgeselinin-ozel-gosterimi-yapi-6fa816a0/"
-  },
-  {
    "id": "fbe84de9",
    "title": "Yeni James Bond belli oldu, sinema dünyası ikiye bölündü",
    "summary": "Tenet ve Batman gibi yapımlarla yıldızını iyice pekiştiren Robert Pattinson, sinema dünyasının en seçkin rolü olarak gösterilen James Bond rolünü de aldı.",
@@ -299,28 +354,6 @@
    "url": "/haber/fon-sorusturmasinda-7-kisiye-daha-tutuklama-talebi-b69f381f/"
   },
   {
-   "id": "a9120580",
-   "title": "Türkiye'nin BM Temsilcisi Yıldız: Suriye'nin uluslararası toplumla artan etkileşimi cesaret verici",
-   "summary": "Türkiye'nin BM Daimi Temsilcisi Büyükelçi Ahmet Yıldız, Suriyelilerin ülkelerini yeniden inşa etme çabalarının uluslararası desteği hak ettiğini belirterek Suriye'nin uluslararası toplumla artan etkileşiminin de cesaret…",
-   "link": "https://www.aa.com.tr/tr/dunya/turkiyenin-bm-temsilcisi-yildiz-suriyenin-uluslararasi-toplumla-artan-etkilesimi-cesaret-verici/4127109",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T20:16:50+00:00",
-   "url": "/haber/turkiye-nin-bm-temsilcisi-yildiz-suriye-nin-uluslararasi-toplumla-arta-a9120580/"
-  },
-  {
-   "id": "2e70929b",
-   "title": "Rusya: Trump'ın Ukrayna'da daha sert davranabileceğimiz yönündeki görüşüne katılıyoruz",
-   "summary": "Kremlin Sözcüsü Dmitriy Peskov, ABD Başkanı Donald Trump'ın Rusya'nın Ukrayna'da daha sert davranabileceğine ilişkin açıklamasına katıldıklarını söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-trumpin-ukraynada-daha-sert-davranabilecegimiz-yonundeki-gorusune-katiliyoruz/4127106",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T20:14:03+00:00",
-   "url": "/haber/rusya-trump-in-ukrayna-da-daha-sert-davranabilecegimiz-yonundeki-gorus-2e70929b/"
-  },
-  {
    "id": "66c67896",
    "title": "Hepsiburada Premium'un HBO Max avantajı sona eriyor",
    "summary": "Hepsiburada Premium üyelerine sunulan HBO Max hediyesi sona eriyor. 16 Aralık'ta yürürlüğe girecek değişiklikle birlikte platform, Premium abonelik paketinden çıkarılacak.",
@@ -352,28 +385,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T20:04:06+00:00",
    "url": "/haber/ekimde-yeni-arac-kayitlari-sert-dustu-9ffdac99/"
-  },
-  {
-   "id": "f355d40b",
-   "title": "İsrail polisinden Netanyahu'nun Arap partilerini hedef almak için polisi kullandığı iddiasına iç soruşturma",
-   "summary": "İsrail polisi, geçici Başbakan Binyamin Netanyahu'nun İsrail vatandaşı Filistinlileri temsil eden partileri \"seçimleri çaldıkları” söylemleriyle hedef almak için polis güçlerini kullandığı yönündeki iddialara ilişkin iç…",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-polisinden-netanyahunun-arap-partilerini-hedef-almak-icin-polisi-kullandigi-iddiasina-ic-sorusturma/4127102",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T20:03:27+00:00",
-   "url": "/haber/israil-polisinden-netanyahu-nun-arap-partilerini-hedef-almak-icin-poli-f355d40b/"
-  },
-  {
-   "id": "147228ff",
-   "title": "Sağlık Bakanı Memişoğlu: Aşı reddini engellemek için 8 aşımızı yerli üreteceğiz",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Aşı reddini engellemek ve aşı reddini azaltmak için 8 aşımızı yerli üreteceğiz, kısa sürede sözleşmelerini yapıp kendi aşısını üreten ve dünyaya ulaştıran ülke olacağız.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-asi-reddini-engellemek-icin-8-asimizi-yerli-uretecegiz/4127100",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T20:01:12+00:00",
-   "url": "/haber/saglik-bakani-memisoglu-asi-reddini-engellemek-icin-8-asimizi-yerli-ur-147228ff/"
   },
   {
    "id": "95c1e75c",
@@ -440,17 +451,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T19:34:10+00:00",
    "url": "/haber/take-two-patronundan-yapay-zeka-devlerine-sitem-9434b959/"
-  },
-  {
-   "id": "15af2551",
-   "title": "ABD'li bazı bankaların çevrim içi hizmetlerinde kesintiler yaşandığı bildirildi",
-   "summary": "Chase, Bank of America ve Wells Fargo'nun da aralarında bulunduğu bazı ABD'li bankaların müşterilerinin çevrim içi olarak hesaplarına erişmekte sorunlar yaşadığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abdli-bazi-bankalarin-cevrim-ici-hizmetlerinde-kesintiler-yasandigi-bildirildi/4127070",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T19:26:43+00:00",
-   "url": "/haber/abd-li-bazi-bankalarin-cevrim-ici-hizmetlerinde-kesintiler-yasandigi-b-15af2551/"
   },
   {
    "id": "64144d0b",
