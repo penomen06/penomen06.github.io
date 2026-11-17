@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-17T10:37:56.772551+00:00",
+ "updated": "2026-11-17T11:01:04.418435+00:00",
  "items": [
+  {
+   "id": "cb38cea1",
+   "title": "Sözcü TV ve internet sitesine kayyum atanmasına tepkiler: 'Halkın haber alma hakkına ağır müdahale'",
+   "summary": "Basın Konseyi, Çağdaş Gazeteciler Derneği, Ekonomi Muhabirleri Derneği, Gazeteciler Cemiyeti, İzmir Gazeteciler Cemiyeti, KESK Haber-Sen, Medya ve Hukuk Çalışmaları Derneği, Parlamento Muhabirleri Derneği ve Türkiye…",
+   "link": "https://www.bbc.com/turkce/articles/cwm2mlg3y0rvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e90a/live/b076b790-e274-11f1-a094-5fdc692f3e33.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-17T11:00:25+00:00",
+   "url": "/haber/sozcu-tv-ve-internet-sitesine-kayyum-atanmasina-tepkiler-halkin-haber-cb38cea1/"
+  },
+  {
+   "id": "870c67d4",
+   "title": "Bakan Gürlek, Devlet Bahçeli ile görüştü",
+   "summary": "Adalet Bakanı Akın Gürlek, Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli ile Meclis'te bir görüşme gerçekleştirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-gurlek-devlet-bahceli-ile-gorusuyor-1751283",
+   "image": "https://images.ntv.com.tr/images/BakanGürlekBahçeligörüşme-120731.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-17T10:59:21+00:00",
+   "url": "/haber/bakan-gurlek-devlet-bahceli-ile-gorustu-870c67d4/"
+  },
+  {
+   "id": "167abda1",
+   "title": "Bakan Kurum'dan Gazze için \"Antalya-Gazze İklim Hattı\" önerisi",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, D-8 ülkelerine Gazze için ortak çalışma çağrısında bulundu. Bakan Kurum \"COP31 Antalya-Gazze İklim Hattı\" kurulmasını da önerdi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-kurumdan-gazze-icin-antalya-gazze-iklim-hatti-onerisi-1751286",
+   "image": "https://images.ntv.com.tr/images/AA-20261117-43101574-43101569-IKLIM_ZIRVESI_COP31_ANTALYA_D8_IKLIM_EYLEMI_UST_DUZEY_BAKANLAR_OTURUMU_ISTANBULDAN_ANTALYAYA_IKLIM_UYGULAMASINDA_D8_ORTAKLIGI_PROGRAMI_DUZENLENDI-137799(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-17T10:58:21+00:00",
+   "url": "/haber/bakan-kurum-dan-gazze-icin-antalya-gazze-iklim-hatti-onerisi-167abda1/"
+  },
+  {
+   "id": "c3bf3170",
+   "title": "Papa 14. Leo, ABD'deki ara seçimlerden sonra daha fazla diyalog, daha az savaş görmek istiyor",
+   "summary": "Vatikan Devlet Başkanı Papa 14. Leo, ABD'deki ara seçimlerden sonra daha fazla diyalog, daha az savaş, daha az bölünme görmek istediğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/papa-14-leo-abddeki-ara-secimlerden-sonra-daha-fazla-diyalog-daha-az-savas-gormek-istiyor/4127670",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T10:54:14+00:00",
+   "url": "/haber/papa-14-leo-abd-deki-ara-secimlerden-sonra-daha-fazla-diyalog-daha-az-c3bf3170/"
+  },
+  {
+   "id": "510860ea",
+   "title": "ABD, Nvidia'ın Asya ortağı Megaspeed'i 2024'ten beri soruşturuyor",
+   "summary": "ABD, Nvidia'ın Asya-Pasifik ortağı Megaspeed hakkında 2024'te başlattığı soruşturmanın ayrıntılarını açıkladı. Şirket, hassas çiplerin Çin’e izinsiz aktarılması şüphesiyle inceleniyor.",
+   "link": "https://www.donanimhaber.com/abd-nvidia-in-asya-ortagi-megaspeed-i-2024-ten-beri-sorusturuyor--213006",
+   "image": "https://www.donanimhaber.com/images/images/haber/213006/1200x675abd-nvidia-in-asya-ortagi-megaspeed-i-2024-ten-beri-sorusturuyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-17T10:54:00+00:00",
+   "url": "/haber/abd-nvidia-in-asya-ortagi-megaspeed-i-2024-ten-beri-sorusturuyor-510860ea/"
+  },
+  {
+   "id": "1660438b",
+   "title": "Yılın 10 ayında 703 bin 506 bebeğe yenidoğan taraması yapıldı",
+   "summary": "Sağlık Bakanlığı, bu yılın 10 ayında 703 bin 506 bebeğe Yenidoğan Tarama Programı uygulandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/yilin-10-ayinda-703-bin-506-bebege-yenidogan-taramasi-yapildi/4127666",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T10:50:52+00:00",
+   "url": "/haber/yilin-10-ayinda-703-bin-506-bebege-yenidogan-taramasi-yapildi-1660438b/"
+  },
+  {
+   "id": "9ec61c98",
+   "title": "AA, 29. Zoom Uluslararası Haber Görüntüleri Yarışması'nda 5 kategoride birinci oldu",
+   "summary": "AA, Türk Telekom Yılın En İyi Haber Görüntüsü, VakıfBank Yılın En İyi Dron Haber Ödülü, Yılın En İyi Serbest Haber, Gölbaşı Belediyesi Yılın En İyi Çevre Görüntüsü ve Martı TAG Yılın En İyi Spor Görüntüsü…",
+   "link": "https://www.aa.com.tr/tr/gundem/aa-29-zoom-uluslararasi-haber-goruntuleri-yarismasinda-5-kategoride-birinci-oldu/4127664",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T10:49:08+00:00",
+   "url": "/haber/aa-29-zoom-uluslararasi-haber-goruntuleri-yarismasi-nda-5-kategoride-b-9ec61c98/"
+  },
+  {
+   "id": "ade3e22b",
+   "title": "Lula da Silva, \"Avrupa'da tek ilerici lider\" olarak gösterdiği Sanchez'e destek verdi",
+   "summary": "Brezilya Devlet Başkanı Luiz İnacio Lula da Silva, İspanya'da 29 Kasım'da yapılacak erken genel seçimler öncesinde Sosyalist İşçi Partisi (PSOE) lideri ve Başbakan Pedro Sanchez'e tam destek verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/lula-da-silva-avrupada-tek-ilerici-lider-olarak-gosterdigi-sancheze-destek-verdi/4127661",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T10:47:46+00:00",
+   "url": "/haber/lula-da-silva-avrupa-da-tek-ilerici-lider-olarak-gosterdigi-sanchez-e-ade3e22b/"
+  },
+  {
+   "id": "6ecf195c",
+   "title": "İspanya'da makinistlerin grevi tren ulaşımında kaos yarattı",
+   "summary": "İspanya'da demir yollarının güvenliği talebiyle 10 Kasım'dan bu yana üçüncü kez greve giden makinistler, ülke genelinde tren ulaşımını felç etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/ispanyada-makinistlerin-grevi-tren-ulasiminda-kaos-yaratti/4127648",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T10:41:25+00:00",
+   "url": "/haber/ispanya-da-makinistlerin-grevi-tren-ulasiminda-kaos-yaratti-6ecf195c/"
+  },
+  {
+   "id": "6d481cd2",
+   "title": "Kremlin Sözcüsü Peskov: Avrupa'nın Ukrayna krizine yaklaşımı son derece barış karşıtı",
+   "summary": "Kremlin Sözcüsü Dmitriy Peskov, Avrupalı ülkelerin Ukrayna krizine yaklaşımının son derece barış karşıtı olduğunu belirterek, \"Böyle bir tutumla kayda değer bir konum elde etmeleri pek mümkün değil.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kremlin-sozcusu-peskov-avrupanin-ukrayna-krizine-yaklasimi-son-derece-baris-karsiti/4127647",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T10:41:10+00:00",
+   "url": "/haber/kremlin-sozcusu-peskov-avrupa-nin-ukrayna-krizine-yaklasimi-son-derece-6d481cd2/"
+  },
+  {
+   "id": "95256777",
+   "title": "Fransa Cumhurbaşkanı Macron, Çin'in ya da ABD'nin vasal devleti olmak istemediklerini söyledi",
+   "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, ABD ve Çin'e bağımlı devlet olmak istemediklerini, aksine çok taraflı uluslararası düzeni ve stratejik özerkliği savunduklarını belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransa-cumhurbaskani-macron-cinin-ya-da-abdnin-vasal-devleti-olmak-istemediklerini-soyledi/4127644",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T10:40:39+00:00",
+   "url": "/haber/fransa-cumhurbaskani-macron-cin-in-ya-da-abd-nin-vasal-devleti-olmak-i-95256777/"
+  },
   {
    "id": "90118580",
    "title": "OLED MacBook Pro sahipleri baş ağrısı bildiriyor",
@@ -22,17 +143,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T10:32:00+00:00",
    "url": "/haber/samsung-galaxy-z-fold-8-en-iyi-inovasyon-odulu-kazandi-11328ce7/"
-  },
-  {
-   "id": "870c67d4",
-   "title": "Bakan Gürlek Devlet Bahçeli ile görüşüyor",
-   "summary": "Adalet Bakanı Akın Gürlek, Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli ile Meclis'te bir görüşme gerçekleştiriyor.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-gurlek-devlet-bahceli-ile-gorusuyor-1751283",
-   "image": "https://images.ntv.com.tr/son-dakika-gorselleri/son-kirmizi(6).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T10:26:12+00:00",
-   "url": "/haber/bakan-gurlek-devlet-bahceli-ile-gorusuyor-870c67d4/"
   },
   {
    "id": "42e9cc2e",
@@ -101,17 +211,6 @@
    "url": "/haber/bakan-ciftci-669-organize-suc-orgutune-operasyon-duzenledik-fd007750/"
   },
   {
-   "id": "cb38cea1",
-   "title": "Sözcü'ye kayyum atanmasına tepkiler: 'Tek bir gerçeğin duyulmasına bile tahammülleri kalmadı'",
-   "summary": "Yeni Parti Genel Başkanı Özgür Özel, \"Artık en küçük eleştiriye, tek bir gerçeğin duyulmasına bile tahammülleri kalmadı. Köşeye sıkıştılar, bataklığa battılar\" sözleriyle gelişmelere tepki gösterdi.",
-   "link": "https://www.bbc.com/turkce/articles/cwm2mlg3y0rvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3366/live/dd267100-e26e-11f1-b19c-7b42f37bea48.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-17T10:07:13+00:00",
-   "url": "/haber/sozcu-ye-kayyum-atanmasina-tepkiler-tek-bir-gercegin-duyulmasina-bile-cb38cea1/"
-  },
-  {
    "id": "3d26d3ca",
    "title": "Galaxy telefonlara sahte arama uyarısı gelebilir",
    "summary": "Samsung Telefon uygulamasının kodunda, rehberdeki kişileri taklit eden aramaları RCS ile yakalayan \"Caller device check\" özelliği görüldü. Özellik One UI 9.5 ile gelebilir.",
@@ -167,17 +266,6 @@
    "url": "/haber/savunma-sanayii-baskani-gorgun-turkiye-guclu-ordusu-ve-gelismis-savunm-85cf5a25/"
   },
   {
-   "id": "5c8c224b",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz, yarın Özbekistan'a gidecek",
-   "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, Özbekistan-Türkiye İş Dünyası Yüksek Düzeyli Konsey Toplantısı'na katılmak ve çeşitli temaslarda bulunmak üzere yarın Özbekistan'a gidecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-yarin-ozbekistana-gidecek/4127575",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T09:55:03+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-yarin-ozbekistan-a-gidecek-5c8c224b/"
-  },
-  {
    "id": "af8ca034",
    "title": "GreenWise temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefliyor",
    "summary": "Boğaziçi Ventures Üst Yöneticisi (CEO) Barış Özistek, yapay zeka destekli temiz teknoloji girişimlerine yatırım yapmak amacıyla oluşturdukları GreenWise fonunda 50 milyon dolarlık büyüklüğe ulaşmayı hedeflediklerini…",
@@ -187,17 +275,6 @@
    "category": "gundem",
    "date": "2026-11-17T09:54:10+00:00",
    "url": "/haber/greenwise-temiz-teknoloji-girisimleri-icin-50-milyon-dolarlik-yatirim-af8ca034/"
-  },
-  {
-   "id": "b8ae476b",
-   "title": "Bakan Kurum, Katarlı mevkidaşı ile görüştü",
-   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Katar Çevre ve İklim Değişikliği Bakanı Abdullah Bin Abdulaziz Bin Turki Al Subaie ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-katarli-mevkidasi-ile-gorustu/4127563",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T09:50:36+00:00",
-   "url": "/haber/bakan-kurum-katarli-mevkidasi-ile-gorustu-b8ae476b/"
   },
   {
    "id": "7fce4c4c",
@@ -233,17 +310,6 @@
    "url": "/haber/super-lig-yayin-ihalesine-6-kurum-talip-oldu-1208d8cf/"
   },
   {
-   "id": "ae04049b",
-   "title": "Belçika'dan sığınmacıların barınma hakkını kısıtlayan yeni adım",
-   "summary": "Belçika federal hükümeti, daha önce başka bir Avrupa Birliği (AB) üyesi ülkede uluslararası koruma başvurusunda bulunan sığınmacıların ülkede barınma hizmetlerinden yararlanmasını engellemeyi öngören yasa tasarısını…",
-   "link": "https://www.aa.com.tr/tr/dunya/belcikadan-siginmacilarin-barinma-hakkini-kisitlayan-yeni-adim/4127549",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T09:37:09+00:00",
-   "url": "/haber/belcika-dan-siginmacilarin-barinma-hakkini-kisitlayan-yeni-adim-ae04049b/"
-  },
-  {
    "id": "67171009",
    "title": "Otokar, ordu için 4x4 zırhlı araç geliştirecek",
    "summary": "Savunma Sanayii Başkanlığı, Türk Silahlı Kuvvetleri için 4x4 taktik tekerlekli zırhlı araç geliştirme sözleşmesini Otokar ile imzaladı. Teslimat 2028 sonuna kadar.",
@@ -277,17 +343,6 @@
    "url": "/haber/lumicle-dan-tak-baslat-kullanicilarina-yuzde-10-sarj-indirimi-6f280d76/"
   },
   {
-   "id": "374cfb3f",
-   "title": "Bakan Kurum: COP31 Antalya-Gazze İklim Hattı adı altında somut ve acil bir çalışma başlatmayı öneriyorum",
-   "summary": "Bakan Kurum, \"D-8 ülkeleriyle birlikte COP31 Antalya-Gazze İklim Hattı adı altında somut ve acil bir çalışma başlatmayı öneriyorum. Güneş enerjisi ve bataryayla çalışan mobil su arıtma sistemleri sağlayabiliriz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-cop31-antalya-gazze-iklim-hatti-adi-altinda-somut-ve-acil-bir-calisma-baslatmayi-oneriyorum/4127536",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T09:26:42+00:00",
-   "url": "/haber/bakan-kurum-cop31-antalya-gazze-iklim-hatti-adi-altinda-somut-ve-acil-374cfb3f/"
-  },
-  {
    "id": "a6be4b8b",
    "title": "Aston Martin, 2027 Dakar Rallisi’nde mücadele edecek",
    "summary": "Aston Martin, bugün yaptığı sürpriz açıklamasıyla 2027 Dakar Rallisi’nde mücadele edeceğini duyurdu. Şirket, zorlu yarış için Call of Duty: Modern Warfare 4’e özel tasarlanan “Dreadnought” konseptine dayanan üç farklı…",
@@ -297,17 +352,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T09:26:39+00:00",
    "url": "/haber/aston-martin-2027-dakar-rallisi-nde-mucadele-edecek-a6be4b8b/"
-  },
-  {
-   "id": "d281d1cf",
-   "title": "Meteorolojiden Marmara Denizi'nde fırtına uyarısı",
-   "summary": "Marmara Denizi'nde yarın öğle saatlerinden itibaren fırtına bekleniyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-marmara-denizinde-firtina-uyarisi/4127532",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T09:25:37+00:00",
-   "url": "/haber/meteorolojiden-marmara-denizi-nde-firtina-uyarisi-d281d1cf/"
   },
   {
    "id": "15d4f4d8",
@@ -398,17 +442,6 @@
    "url": "/haber/ekipler-sahada-kirilmayan-faylar-mercek-altinda-ne-kadar-vaktimiz-var-cbfdcf8e/"
   },
   {
-   "id": "9ff6e8a3",
-   "title": "COP31'de iklim dayanıklı tarım için \"Antalya Mutabakatı\" imzalandı",
-   "summary": "Antalya tarımının iklim değişikliğine uyumunu ve çevresel, ekonomik ve sosyal sürdürülebilirliğini güçlendirmek, ortak politika ve işbirliği önceliklerini belirlemek amacıyla \"İklim Dayanıklı Tarım için Antalya…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-iklim-dayanikli-tarim-icin-antalya-mutabakati-imzalandi/4127495",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T09:06:04+00:00",
-   "url": "/haber/cop31-de-iklim-dayanikli-tarim-icin-antalya-mutabakati-imzalandi-9ff6e8a3/"
-  },
-  {
    "id": "4745e24b",
    "title": "Şarj beklemek yerine batarya değişimi: CATL ağını ikiye katlayacak",
    "summary": "CATL, Çin’deki binek otomobillere yönelik batarya değişim ağını 2027’de 6.000 istasyona çıkarmayı hedefliyor. Plan gerçekleşirse şirket, istasyon sayısında Nio’yu geride bırakabilir.",
@@ -495,17 +528,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T08:47:58+00:00",
    "url": "/haber/iffalcon-u95a-satislari-kasimda-yuzde-454-artti-5a54a006/"
-  },
-  {
-   "id": "71ae5481",
-   "title": "Bakan Çiftçi: 2026'nın ilk 10 ayında 669 organize suç örgütüne yönelik 1951 operasyon gerçekleştirdik",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"2026 yılının ilk 10 ayında 669 organize suç örgütüne yönelik, 1951 operasyon gerçekleştirdik. Bu operasyonlarda 9 bin 447 şahıs tutuklandı.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-2026nin-ilk-10-ayinda-669-organize-suc-orgutune-yonelik-1951-operasyon-gerceklestirdik/4127462",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T08:44:46+00:00",
-   "url": "/haber/bakan-ciftci-2026-nin-ilk-10-ayinda-669-organize-suc-orgutune-yonelik-71ae5481/"
   },
   {
    "id": "73e71cbe",
@@ -849,17 +871,6 @@
    "url": "/haber/elektrikli-otomobil-bataryalarinin-omrunu-3-dakikada-olcebilen-teknolo-851de720/"
   },
   {
-   "id": "c86e1663",
-   "title": "Sözcü TV'ye kayyım atandı",
-   "summary": "Sözcü Tv'ye kayyım atandı. Yöneticileri gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/sozcu-tvye-operasyon-kayyum-atandi-polis-binada-arama-yapiyor-1751200",
-   "image": "https://images.ntv.com.tr/images/Medya-844020.jfif",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T06:43:45+00:00",
-   "url": "/haber/sozcu-tv-ye-kayyim-atandi-c86e1663/"
-  },
-  {
    "id": "bd1d0762",
    "title": "TBMM Başkanı Kurtulmuş İYİ Parti'yi ziyaret edecek",
    "summary": "TBMM Başkanı Numan Kurtulmuş, siyasi parti turlarını sürdürüyor. Kurtulmuş bugün İYİ Parti'yi ziyaret edecek.",
@@ -968,17 +979,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T21:23:36+00:00",
    "url": "/haber/abd-de-bankacilik-krizi-buyuk-bankalarin-sistemleri-coktu-afd4eade/"
-  },
-  {
-   "id": "fbe84de9",
-   "title": "Yeni James Bond belli oldu, sinema dünyası ikiye bölündü",
-   "summary": "Tenet ve Batman gibi yapımlarla yıldızını iyice pekiştiren Robert Pattinson, sinema dünyasının en seçkin rolü olarak gösterilen James Bond rolünü de aldı.",
-   "link": "https://www.donanimhaber.com/batman-den-james-bond-a--212992",
-   "image": "https://www.donanimhaber.com/images/images/haber/212992/1200x675batman-den-james-bond-a.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-16T20:58:00+00:00",
-   "url": "/haber/yeni-james-bond-belli-oldu-sinema-dunyasi-ikiye-bolundu-fbe84de9/"
   },
   {
    "id": "44eddcf0",
