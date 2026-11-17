@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:30:57.416143+00:00",
+ "updated": "2026-11-17T23:01:06.941942+00:00",
  "items": [
   {
    "id": "9ae6e5ad",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-17T22:30:00+00:00",
+   "date": "2026-11-17T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9ae6e5ad/"
   },
   {
@@ -46,6 +46,50 @@
    "url": "/haber/israil-de-muhalefet-blokunun-ortak-adayi-matan-kahana-meclis-baskani-s-9e9b9478/"
   },
   {
+   "id": "059c6ee5",
+   "title": "Erzurum'da yaban ve çengel boynuzlu dağ keçisi sayısı 3 bini aştı",
+   "summary": "Erzurum'da yürütülen koruma, denetim ve izleme çalışmaları sonucunda yaban ve çengel boynuzlu dağ keçisi sayısının 3 bini aştığı belirlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/erzurumda-yaban-ve-cengel-boynuzlu-dag-kecisi-sayisi-3-bini-asti/4128414",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T21:14:36+00:00",
+   "url": "/haber/erzurum-da-yaban-ve-cengel-boynuzlu-dag-kecisi-sayisi-3-bini-asti-059c6ee5/"
+  },
+  {
+   "id": "021be3de",
+   "title": "Özbekistan, Karakalpakistan'ın kalkınması için 5 milyar dolarlık yatırım hedefliyor",
+   "summary": "Özbekistan, Aral Gölü'nün kuruması nedeniyle ciddi bir çevre felaketiyle karşı karşıya bulunan Karakalpakistan Cumhuriyeti'nin ekonomik ve sosyal kalkınmasını hızlandırmak amacıyla kapsamlı yatırım projelerini hayata…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ozbekistan-karakalpakistanin-kalkinmasi-icin-5-milyar-dolarlik-yatirim-hedefliyor/4128413",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T21:14:21+00:00",
+   "url": "/haber/ozbekistan-karakalpakistan-in-kalkinmasi-icin-5-milyar-dolarlik-yatiri-021be3de/"
+  },
+  {
+   "id": "35899fcc",
+   "title": "Çift tırnak tek başına Kangal köpeğinde saflığı kanıtlamıyor",
+   "summary": "Sivas Cumhuriyet Üniversitesi (SCÜ) Kangal Köpeği Uygulama ve Araştırma Merkezi Müdürü Prof. Dr. Nazlı Ercan, çift tırnağın tek başına Kangal köpeğinde saflığı kanıtlamadığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cift-tirnak-tek-basina-kangal-kopeginde-safligi-kanitlamiyor/4128411",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T21:11:49+00:00",
+   "url": "/haber/cift-tirnak-tek-basina-kangal-kopeginde-safligi-kanitlamiyor-35899fcc/"
+  },
+  {
+   "id": "1862a0d5",
+   "title": "Evlerdeki teknolojik cihazların elektromanyetik etkilerine karşı bilinçli kullanım uyarısı",
+   "summary": "Prof. Dr. Süleyman Daşdağ, cep telefonu, tablet, televizyon ve saç kurutma makinesi gibi günlük yaşamda sık kullanılan birçok cihazın elektromanyetik alan etkisi oluşturduğunu belirterek, bu cihazların bilinçli…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/evlerdeki-teknolojik-cihazlarin-elektromanyetik-etkilerine-karsi-bilincli-kullanim-uyarisi/4128410",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T21:10:54+00:00",
+   "url": "/haber/evlerdeki-teknolojik-cihazlarin-elektromanyetik-etkilerine-karsi-bilin-1862a0d5/"
+  },
+  {
    "id": "cb38cea1",
    "title": "Sözcü TV'ye kayyum sonrası Yeni Parti'den yürüyüş çağrısı: 'Özgür basının yanında yer alalım'",
    "summary": "Basın meslek örgütleri, Sözcü TV ve internet sitesine kayyum atanması sonrası ortak açıklama yaptı. Yeni Parti Genel Başikanı Özgür Özel \"Artık en küçük eleştiriye, tek bir gerçeğin duyulmasına bile tahammülleri…",
@@ -55,6 +99,17 @@
    "category": "gundem",
    "date": "2026-11-17T21:08:49+00:00",
    "url": "/haber/sozcu-tv-ye-kayyum-sonrasi-yeni-parti-den-yuruyus-cagrisi-ozgur-basini-cb38cea1/"
+  },
+  {
+   "id": "8606cdc4",
+   "title": "İçişleri Bakanı Çiftçi: (POLSAN'a yönelik iddialar) Bu işlemlerden kaynaklanan herhangi bir zarar bulunmamaktadır",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"POLSAN'daki birikimin, fon soruşturması kapsamında tasfiyesine karar verilen bazı fonlarda kullanıldığı\" iddialarına ilişkin, \"Bu işlemlerden kaynaklanan herhangi bir zarar…",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-polsana-yonelik-iddialar-bu-islemlerden-kaynaklanan-herhangi-bir-zarar-bulunmamaktadir/4128399",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T21:04:34+00:00",
+   "url": "/haber/icisleri-bakani-ciftci-polsan-a-yonelik-iddialar-bu-islemlerden-kaynak-8606cdc4/"
   },
   {
    "id": "096950f8",
@@ -68,39 +123,6 @@
    "url": "/haber/nvidia-ceo-sunu-kendi-silahiyla-vurdular-ai-ile-yapilan-jensen-huang-v-096950f8/"
   },
   {
-   "id": "bfe97568",
-   "title": "İtalya'da tartışmalı antisemitizm düzenlemesi parlamentoda onaylanarak yasalaştı",
-   "summary": "Düzenleme, muhalefet ve Filistin destekçileri tarafından \"İsrail'i eleştirenleri susturma\" yasası olarak tanımlanıyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/italyada-tartismali-antisemitizm-duzenlemesi-parlamentoda-onaylanarak-yasalasti/4128386",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T20:53:23+00:00",
-   "url": "/haber/italya-da-tartismali-antisemitizm-duzenlemesi-parlamentoda-onaylanarak-bfe97568/"
-  },
-  {
-   "id": "e88e4714",
-   "title": "Avrupa'nın en büyük doğal gaz tedarikçisi Norveçli Equinor'a siber saldırı",
-   "summary": "Norveç merkezli enerji şirketi Equinor, bazı bilişim teknolojileri sistemlerine yönelik bir siber saldırı tespit edildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/avrupanin-en-buyuk-dogal-gaz-tedarikcisi-norvecli-equinora-siber-saldiri/4128368",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T20:37:50+00:00",
-   "url": "/haber/avrupa-nin-en-buyuk-dogal-gaz-tedarikcisi-norvecli-equinor-a-siber-sal-e88e4714/"
-  },
-  {
-   "id": "88fd8620",
-   "title": "FBI, bilgisayar korsanlarının yapay zeka destekli araçla siber saldırıları hızlandırdığını bildirdi",
-   "summary": "ABD Federal Soruşturma Bürosu (FBI), bilgisayar korsanlarının dünya genelinde siber saldırıları otonomlaştırmak amacıyla yapay zeka destekli bir araç kullandığını tespit ederek uyarıda bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/fbi-bilgisayar-korsanlarinin-yapay-zeka-destekli-aracla-siber-saldirilari-hizlandirdigini-bildirdi/4128366",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T20:36:05+00:00",
-   "url": "/haber/fbi-bilgisayar-korsanlarinin-yapay-zeka-destekli-aracla-siber-saldiril-88fd8620/"
-  },
-  {
    "id": "bf09f0c5",
    "title": "İngiltere'de elektrikli araç şarj ücretleri kontrolden çıkıyor",
    "summary": "İngiltere'de elektrikli araç şarj istasyonlarının sabit maliyetleri beş yılda yüzde 616 arttı. Yeni rapora göre hızlı şarj ücretleri 2027'de kWh başına 1 sterlini aşabilir.",
@@ -112,17 +134,6 @@
    "url": "/haber/ingiltere-de-elektrikli-arac-sarj-ucretleri-kontrolden-cikiyor-bf09f0c5/"
   },
   {
-   "id": "cf64feea",
-   "title": "Apple hizmetlerinde kesintiler yaşanıyor",
-   "summary": "ABD'li teknoloji devi Apple'ın uygulama mağazası App Store ve müzik uygulaması Apple Music gibi hizmetlerinde kesintiler yaşandığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/apple-hizmetlerinde-kesintiler-yasaniyor/4128349",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T20:17:50+00:00",
-   "url": "/haber/apple-hizmetlerinde-kesintiler-yasaniyor-cf64feea/"
-  },
-  {
    "id": "5eeebc5a",
    "title": "Enerji Bakanlığı'nın duyurduğu “Verimli Ev” mobil uygulaması nedir?",
    "summary": "Enerji Bakanlığı, evlerdeki elektrik ve doğal gaz tüketimini cihaz bazında analiz eden Verimli Ev uygulamasını duyurdu. Peki, Verimli Ev nedir ve nasıl çalışıyor?",
@@ -132,17 +143,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T20:10:00+00:00",
    "url": "/haber/enerji-bakanligi-nin-duyurdugu-verimli-ev-mobil-uygulamasi-nedir-5eeebc5a/"
-  },
-  {
-   "id": "bd567150",
-   "title": "İsrail, İngiltere'nin yasa dışı yerleşim inşa eden 8 şirkete yaptırım kararını \"düşmanca eylem\" olarak niteledi",
-   "summary": "İsrail Dışişleri Bakanı Gideon Saar, İngiltere'nin işgal altındaki Filistin topraklarında yasa dışı yerleşimlerin kurulmasından sorumlu tuttuğu ve yaptırım kararı aldığı şirketlerin \"yasalara uyduğunu\" iddia etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ingilterenin-yasa-disi-yerlesim-insa-eden-8-sirkete-yaptirim-kararini-dusmanca-eylem-olarak-niteledi/4128327",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T19:59:34+00:00",
-   "url": "/haber/israil-ingiltere-nin-yasa-disi-yerlesim-insa-eden-8-sirkete-yaptirim-k-bd567150/"
   },
   {
    "id": "5342f849",
