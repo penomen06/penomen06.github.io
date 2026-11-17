@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T00:31:11.758035+00:00",
+ "updated": "2026-11-17T01:01:07.091699+00:00",
  "items": [
   {
    "id": "49ae7bd5",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-17T00:30:00+00:00",
+   "date": "2026-11-17T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-49ae7bd5/"
+  },
+  {
+   "id": "a0be2d33",
+   "title": "Menzil Cemaati'nde neler oluyor, Uşak ve Manisa'daki protestoların arkasında ne var?",
+   "summary": "Türkiye'nin en büyük dini oluşumlarından Menzil Cemaati'nde, 2023'te grubun eski lideri Abdulbaki Erol’un ölümünden sonra ortaya çıkan sorunlar devam ediyor. Son olarak Menzil içindeki bazı gruplar, Manisa ve Uşak'ta…",
+   "link": "https://www.bbc.com/turkce/articles/cq1430xx0p02o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca91/live/cf8f8000-e1be-11f1-a339-49d4d3ed4c86.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-17T00:33:45+00:00",
+   "url": "/haber/menzil-cemaati-nde-neler-oluyor-usak-ve-manisa-daki-protestolarin-arka-a0be2d33/"
   },
   {
    "id": "ce0faf79",
@@ -22,6 +33,28 @@
    "category": "gundem",
    "date": "2026-11-16T23:36:10+00:00",
    "url": "/haber/16-yasindaki-ehliyetsiz-surucu-ortaligi-savas-alanina-cevirdi-ce0faf79/"
+  },
+  {
+   "id": "63c576c7",
+   "title": "OpenAI'ye yapay zeka modellerinin geliştirme sürecindeki güvenlik eksiklikleri nedeniyle dava açıldı",
+   "summary": "ABD'nin California eyaletinde, yapay zeka modellerini yeterli güvenlik önlemleri ve denetim mekanizmaları olmadan geliştirdiği ve test ettiği, bu süreçte kamu güvenliğini tehlikeye attığı iddiasıyla OpenAI'ye dava…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openaiye-yapay-zeka-modellerinin-gelistirme-surecindeki-guvenlik-eksiklikleri-nedeniyle-dava-acildi/4127189",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T23:28:45+00:00",
+   "url": "/haber/openai-ye-yapay-zeka-modellerinin-gelistirme-surecindeki-guvenlik-eksi-63c576c7/"
+  },
+  {
+   "id": "d1c994ae",
+   "title": "UEFA Uluslar Ligi'nin 6. haftasına 10 maçla devam edildi",
+   "summary": "UEFA Uluslar Ligi'nin 6. haftasına 10 maçla devam edildi. Almanya, sahasında ağırladığı Hollanda'yı 5-0 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-6-haftasina-10-macla-devam-edildi/4127188",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T23:28:25+00:00",
+   "url": "/haber/uefa-uluslar-ligi-nin-6-haftasina-10-macla-devam-edildi-d1c994ae/"
   },
   {
    "id": "91fa6af5",
@@ -420,28 +453,6 @@
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-16-kas-5d7412c2/"
   },
   {
-   "id": "2ad894bf",
-   "title": "Fed Başkanı Warsh, yapay zekanın ekonomi üzerindeki etkisinin önemini vurguladı",
-   "summary": "ABD Merkez Bankası (Fed) Başkanı Kevin Warsh, yapay zekanın yaygın biçimde benimsenmesinin ekonomi üzerinde çok önemli etkisi olacağını ve para politikası açısından önemli sonuçlar doğuracağını kabul etmenin bankanın…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-yapay-zekanin-ekonomi-uzerindeki-etkisinin-onemini-vurguladi/4127063",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T19:06:41+00:00",
-   "url": "/haber/fed-baskani-warsh-yapay-zekanin-ekonomi-uzerindeki-etkisinin-onemini-v-2ad894bf/"
-  },
-  {
-   "id": "35c1cac7",
-   "title": "Bakan Fidan, Türkiye'nin Kafkaslar, Avrupa ve Orta Asya bağlantısallığındaki merkezi rolünü vurguladı",
-   "summary": "Bakan Fidan, bağlantısallık konusunda Türkiye'nin Avrupa, Karadeniz, Kafkaslar ve Orta Asya için ortak bir konum olarak ön plana çıktığına işaret ederek, \"Türkiye'nin buradaki merkezi rolü, herkes tarafından tabii ki…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkiyenin-kafkaslar-avrupa-ve-orta-asya-baglantisalligindaki-merkezi-rolunu-vurguladi/4127062",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T19:04:48+00:00",
-   "url": "/haber/bakan-fidan-turkiye-nin-kafkaslar-avrupa-ve-orta-asya-baglantisalligin-35c1cac7/"
-  },
-  {
    "id": "c88c4bbd",
    "title": "Stellantis'in ucuz araç planına maliyet freni",
    "summary": "Stellantis CEO'su Antonio Filosa, çip ve ham madde maliyetlerinin 2027 ve muhtemelen 2028'de de sürebileceğini söyledi. Uygun fiyatlı elektrikliler için Leapmotor ile çalışılacak.",
@@ -561,17 +572,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T17:44:00+00:00",
    "url": "/haber/dunyanin-en-buyuk-insansiz-kargo-ucagi-ilk-ucusunu-gerceklestirdi-52a4276e/"
-  },
-  {
-   "id": "a0be2d33",
-   "title": "Menzil Cemaati'nde neler oluyor, Uşak ve Manisa'daki protestoların arkasında ne var?",
-   "summary": "Türkiye'nin en büyük dini oluşumlarından Menzil Cemaati'nde, 2023'te grubun eski lideri Abdulbaki Erol’un ölümünden sonra ortaya çıkan sorunlar devam ediyor. Son olarak Menzil içindeki bazı gruplar, Manisa ve Uşak'ta…",
-   "link": "https://www.bbc.com/turkce/articles/cq1430xx0p02o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca91/live/cf8f8000-e1be-11f1-a339-49d4d3ed4c86.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-16T17:41:44+00:00",
-   "url": "/haber/menzil-cemaati-nde-neler-oluyor-usak-ve-manisa-daki-protestolarin-arka-a0be2d33/"
   },
   {
    "id": "dd504c4d",
