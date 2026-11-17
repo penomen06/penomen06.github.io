@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-17T20:01:08.736723+00:00",
+ "updated": "2026-11-17T20:31:02.942697+00:00",
  "items": [
+  {
+   "id": "cf64feea",
+   "title": "Apple hizmetlerinde kesintiler yaşanıyor",
+   "summary": "ABD'li teknoloji devi Apple'ın uygulama mağazası App Store ve müzik uygulaması Apple Music gibi hizmetlerinde kesintiler yaşandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/apple-hizmetlerinde-kesintiler-yasaniyor/4128349",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T20:17:50+00:00",
+   "url": "/haber/apple-hizmetlerinde-kesintiler-yasaniyor-cf64feea/"
+  },
+  {
+   "id": "5eeebc5a",
+   "title": "Enerji Bakanlığı'nın duyurduğu “Verimli Ev” mobil uygulaması nedir?",
+   "summary": "Enerji Bakanlığı, evlerdeki elektrik ve doğal gaz tüketimini cihaz bazında analiz eden Verimli Ev uygulamasını duyurdu. Peki, Verimli Ev nedir ve nasıl çalışıyor?",
+   "link": "https://www.donanimhaber.com/enerji-bakanligi-nin-duyurdugu-verimli-ev-mobil-uygulamasi-nedi--213043",
+   "image": "https://www.donanimhaber.com/images/images/haber/213043/1200x675enerji-bakanligi-nin-duyurdugu-verimli-ev-mobil-uygulamasi-nedi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-17T20:10:00+00:00",
+   "url": "/haber/enerji-bakanligi-nin-duyurdugu-verimli-ev-mobil-uygulamasi-nedir-5eeebc5a/"
+  },
+  {
+   "id": "bd567150",
+   "title": "İsrail, İngiltere'nin yasa dışı yerleşim inşa eden 8 şirkete yaptırım kararını \"düşmanca eylem\" olarak niteledi",
+   "summary": "İsrail Dışişleri Bakanı Gideon Saar, İngiltere'nin işgal altındaki Filistin topraklarında yasa dışı yerleşimlerin kurulmasından sorumlu tuttuğu ve yaptırım kararı aldığı şirketlerin \"yasalara uyduğunu\" iddia etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ingilterenin-yasa-disi-yerlesim-insa-eden-8-sirkete-yaptirim-kararini-dusmanca-eylem-olarak-niteledi/4128327",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-17T19:59:34+00:00",
+   "url": "/haber/israil-ingiltere-nin-yasa-disi-yerlesim-insa-eden-8-sirkete-yaptirim-k-bd567150/"
+  },
   {
    "id": "5342f849",
    "title": "OpenAI, GPT-6.2 Astra ve GPT-6.2 Sol modellerini kullanıma sundu",
@@ -288,17 +321,6 @@
    "url": "/haber/mbappe-ye-irkci-tacizde-bulunan-taraftara-11-ay-ertelenmis-hapis-cezas-27bfec6b/"
   },
   {
-   "id": "e68d94b8",
-   "title": "Fransa'da mahkeme, Paris'teki bazı okulların çevresinde eylem yasağı kararını iptal etti",
-   "summary": "Fransa'da idari mahkeme, başkent Paris'te bazı lise ve üniversitelerin etrafında toplanma ve eylem yasağı getiren Emniyet Müdürlüğü kararını iptal etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-mahkeme-paristeki-bazi-okullarin-cevresinde-eylem-yasagi-kararini-iptal-etti/4128256",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T17:49:23+00:00",
-   "url": "/haber/fransa-da-mahkeme-paris-teki-bazi-okullarin-cevresinde-eylem-yasagi-ka-e68d94b8/"
-  },
-  {
    "id": "45437d2a",
    "title": "macOS 27.3, Mac'lere yeni gizlilik kontrolleri getiriyor",
    "summary": "Apple, macOS 27.3 ile kullanıcılara yapay zeka ajanları da dahil olmak üzere uygulamalara verdikleri erişim üzerinde daha fazla kontrol sağlamak için yeni gizlilik kontrolleri getiriyor.",
@@ -572,28 +594,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T15:57:11+00:00",
    "url": "/haber/245-000-tl-ye-iphone-duo-aldi-pisman-mi-3-haftada-ekrana-bir-sey-oldu-2d862bc4/"
-  },
-  {
-   "id": "11b3a43b",
-   "title": "Google’dan Android’e önemli yenilik: İki telefonda tek numara dönemi",
-   "summary": "Google, Android kullanıcılarının aynı telefon numarasını iki farklı akıllı telefonda kullanmasını sağlayacak Fast Switch özelliğini geliştiriyor.",
-   "link": "https://www.donanimhaber.com/android-kullanicilari-iki-telefonda-ayni-numarayi-kullanabilecek--213032",
-   "image": "https://www.donanimhaber.com/images/images/haber/213032/1200x675android-kullanicilari-iki-telefonda-ayni-numarayi-kullanabilecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-17T15:51:00+00:00",
-   "url": "/haber/google-dan-android-e-onemli-yenilik-iki-telefonda-tek-numara-donemi-11b3a43b/"
-  },
-  {
-   "id": "91cb3e9c",
-   "title": "COP31'de deniz kaplumbağalarının korunması ve izlenmesi ele alındı",
-   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında deniz kaplumbağalarının korunması ve izlenmesi…",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31de-deniz-kaplumbagalarinin-korunmasi-ve-izlenmesi-ele-alindi/4128133",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-17T15:48:30+00:00",
-   "url": "/haber/cop31-de-deniz-kaplumbagalarinin-korunmasi-ve-izlenmesi-ele-alindi-91cb3e9c/"
   },
   {
    "id": "19da1c71",
@@ -1092,14 +1092,14 @@
   },
   {
    "id": "be13bc21",
-   "title": "'Bebeğimin öldüğü söylendi, oğlum 42 yıl sonra bana e-posta gönderdi'",
+   "title": "'Bebeğimin öldüğünü söylediler, oğlum 42 yıl sonra e-posta gönderdi'",
    "summary": "Diane Sheehan 1976'da ilk bebeğini dünyaya getirdi. Bebeğinin doğum sırasında öldüğü söylendi. Kırk yıl sonra, çocuğunun hâlâ hayatta olduğunu keşfetti. Onun durumu, Avustralya'daki on binlerce zorla evlat edinme…",
    "link": "https://www.bbc.com/turkce/articles/cx8dvq01ez6jo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a8aa/live/0157d700-dd1d-11f1-b441-2b33b063138f.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-17T08:22:51+00:00",
-   "url": "/haber/bebegimin-oldugu-soylendi-oglum-42-yil-sonra-bana-e-posta-gonderdi-be13bc21/"
+   "url": "/haber/bebegimin-oldugunu-soylediler-oglum-42-yil-sonra-e-posta-gonderdi-be13bc21/"
   },
   {
    "id": "b35dbf8e",
