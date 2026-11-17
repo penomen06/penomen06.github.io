@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:01:07.091699+00:00",
+ "updated": "2026-11-17T01:30:53.871616+00:00",
  "items": [
   {
    "id": "49ae7bd5",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-17T01:00:00+00:00",
+   "date": "2026-11-17T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-49ae7bd5/"
+  },
+  {
+   "id": "39e3bb22",
+   "title": "Karadeniz'de tahıl diplomasisi. Bakan Fidan: Hem Ukrayna hem de Rusya tarafıyla görüşüyoruz",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Karadeniz'de tahıl sevkiyatının yeniden başlaması için Rusya ve Ukrayna ile görüşmelerin sürdüğünü açıkladı. Müzakerelerde Donbas çıkmazının aşılamadığını da vurguladı.",
+   "link": "https://www.ntv.com.tr/turkiye/karadenizde-tahil-diplomasisi-bakan-fidan-hem-ukrayna-hem-de-rusya-tarafiyla-gorusuyoruz-1751198",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-17040421-193585(2).png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-17T01:16:35+00:00",
+   "url": "/haber/karadeniz-de-tahil-diplomasisi-bakan-fidan-hem-ukrayna-hem-de-rusya-ta-39e3bb22/"
+  },
+  {
+   "id": "f0004377",
+   "title": "Instagram yeni uygulamasını önce Türkiye'de açtı",
+   "summary": "Instagram, yalnızca mesajlaşma için tasarlanan bağımsız uygulaması Direct'i dünyada ilk olarak Türkiye ve Tayland'da test etmeye başladı.",
+   "link": "https://shiftdelete.net/instagram-direct-mesajlasma-uygulamasi-turkiye",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/instagram-direct-uygulamasi-kapak-1711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-17T01:01:05+00:00",
+   "url": "/haber/instagram-yeni-uygulamasini-once-turkiye-de-acti-f0004377/"
   },
   {
    "id": "a0be2d33",
@@ -673,17 +695,6 @@
    "url": "/haber/omer-celik-fon-dolandiricilari-hesap-verecek-9ed1bbf6/"
   },
   {
-   "id": "2cd43b78",
-   "title": "Linux çekirdeğinde 11 yıllık açık bulundu",
-   "summary": "NoisyTCP adı verilen 11 yıllık Linux çekirdek açığı, varsayılan ayarlarla Nginx, Apache ve SSH çalıştıran sunucuları uzaktan çökertebiliyor. Yama yayınlandı.",
-   "link": "https://shiftdelete.net/noisytcp-linux-cekirdek-acigi-cve-2026-99288",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/2f5dd08d814b26f5700502ed16383da233aea7f7.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-16T16:04:07+00:00",
-   "url": "/haber/linux-cekirdeginde-11-yillik-acik-bulundu-2cd43b78/"
-  },
-  {
    "id": "4142331d",
    "title": "Yeni James Bond, Robert Pattinson oldu",
    "summary": "Twilight serisi, Batman ve Odysseia'da rol alan Robert Pattinson'ın yeni James Bond olarak seçildiği açıklandı.",
@@ -1023,17 +1034,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T09:37:07+00:00",
    "url": "/haber/honor-dan-7-inc-ekran-ve-13-500-mah-batarya-tasiyan-bir-telefon-geliyo-b1fc57ed/"
-  },
-  {
-   "id": "d0ede41a",
-   "title": "Trafikte ortalık karıştı: Sürücüye kamp sandalyesi ve sopayla saldırdılar",
-   "summary": "Adana'da trafikte çıkan tartışmada araçtan inen kişiler, otomobil sürücüsüne kamp sandalyesi ve sopayla saldırdı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-trafikte-ortalik-karisti-surucuye-kamp-sandalyesi-ve-sopayla-saldirdilar-1751121",
-   "image": "https://images.ntv.com.tr/images/TRFA-752683.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-16T09:36:13+00:00",
-   "url": "/haber/trafikte-ortalik-karisti-surucuye-kamp-sandalyesi-ve-sopayla-saldirdil-d0ede41a/"
   },
   {
    "id": "fd8f9b09",
