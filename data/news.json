@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-17T05:30:54.442263+00:00",
+ "updated": "2026-11-17T06:00:59.419568+00:00",
  "items": [
+  {
+   "id": "372fd6ee",
+   "title": "HBO Max artık Hepsiburada Premium’a dahil olmayacak",
+   "summary": "Yapılan resmi açıklamaya göre HBO Max’e erişim bugünden itibaren “Hepsiburada Premium” üyeliğinin bir parçası olmayacak. HBO Max’in Türkiye’deki aylık abonelik ücreti 17 Kasım 2026 itibarıyla standart pakette 230 TL, 4K…",
+   "link": "https://www.log.com.tr/hbo-max-artik-hepsiburada-premiuma-dahil-olmayacak/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-17_08-52-21_SFAEX-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-17T05:57:56+00:00",
+   "url": "/haber/hbo-max-artik-hepsiburada-premium-a-dahil-olmayacak-372fd6ee/"
+  },
+  {
+   "id": "ad3ceba3",
+   "title": "NBA 2K27'ye GTA 6'nın Vice City'si geliyor",
+   "summary": "NBA 2K27'nin 3. sezonu 27 Kasım'dan itibaren yedi hafta boyunca Vice City temalı olacak. GTA+ aboneleri oyunun standart sürümünü bu dönemde ek ücret ödemeden oynayabilecek.",
+   "link": "https://shiftdelete.net/nba-2k27-vice-city-edition-gta-plus",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nba-2k27-vice-city-kapak-1711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-17T05:53:29+00:00",
+   "url": "/haber/nba-2k27-ye-gta-6-nin-vice-city-si-geliyor-ad3ceba3/"
+  },
+  {
+   "id": "9fae3bb9",
+   "title": "WhatsApp kendi bulut yedeklemesini betada açtı",
+   "summary": "WhatsApp bulut yedekleme, Android beta sürümünde bazı kullanıcılara açıldı. Sohbet yedekleri Google Drive yerine WhatsApp sunucularında tutulabiliyor ve 2 GB alan ücretsiz geliyor.",
+   "link": "https://shiftdelete.net/whatsapp-bulut-yedekleme-android-beta",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/whatsapp-bulut-yedekleme-kapak-1711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-17T05:53:06+00:00",
+   "url": "/haber/whatsapp-kendi-bulut-yedeklemesini-betada-acti-9fae3bb9/"
+  },
+  {
+   "id": "5dadb4b8",
+   "title": "Xiaomi Smart Band 11, Xiaomi Watch S5 41 mm ve Xiaomi Clip, Türkiye’de satışa sunuldu",
+   "summary": "Xiaomi 18 Pro ve 18 Pro Max öncesinde Xiaomi Smart Band 11, Xiaomi Watch S5 41 mm ve Xiaomi Clip’in resmi Türkiye satışına başlandı. Detaylarına burada yer verdiğimiz akıllı bileklik modeli Smart Band 11 için 2.699 TL,…",
+   "link": "https://www.log.com.tr/xiaomi-smart-band-11-xiaomi-watch-s5-41-mm-ve-xiaomi-clip-turkiyede-satisa-sunuldu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-17_08-48-19_iseBw-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-17T05:49:47+00:00",
+   "url": "/haber/xiaomi-smart-band-11-xiaomi-watch-s5-41-mm-ve-xiaomi-clip-turkiye-de-s-5dadb4b8/"
+  },
+  {
+   "id": "c86e1663",
+   "title": "Sözcü TV'ye kayyım atandı",
+   "summary": "Sözcü Tv'ye kayyım atandı. Yöneticileri gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/sozcu-tvye-operasyon-kayyum-atandi-polis-binada-arama-yapiyor-1751200",
+   "image": "https://images.ntv.com.tr/images/Medya-844020.jfif",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-17T05:47:22+00:00",
+   "url": "/haber/sozcu-tv-ye-kayyim-atandi-c86e1663/"
+  },
+  {
+   "id": "b69f381f",
+   "title": "Fon soruşturmasında 7 kişi daha tutuklandı",
+   "summary": "Fon soruşturmasında adliyeye getirilen 26 kişiden 7'si tutuklandı. 19 şüpheli adli kontrol şartı ile serbest bırakıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-7-kisiye-daha-tutuklama-talebi-1751184",
+   "image": "https://images.ntv.com.tr/images/fon-soru_C5_9Fturmas_C4_B1-972817-950864.webp",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-17T05:33:37+00:00",
+   "url": "/haber/fon-sorusturmasinda-7-kisi-daha-tutuklandi-b69f381f/"
+  },
   {
    "id": "49ae7bd5",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Kasım 2026",
@@ -11,28 +77,6 @@
    "category": "gundem",
    "date": "2026-11-17T05:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-49ae7bd5/"
-  },
-  {
-   "id": "b69f381f",
-   "title": "Fon soruşturmasında 7 kişi daha tutuklandı",
-   "summary": "Fon soruşturmasında adliyeye getirilen 26 kişiden 7'si tutuklandı. 19 şüpheli adli kontrol şartı ile serbest bırakıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-7-kisiye-daha-tutuklama-talebi-1751184",
-   "image": "https://images.ntv.com.tr/images/fon-soru_C5_9Fturmas_C4_B1-972817-950864.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T05:14:26+00:00",
-   "url": "/haber/fon-sorusturmasinda-7-kisi-daha-tutuklandi-b69f381f/"
-  },
-  {
-   "id": "c86e1663",
-   "title": "Sözcü TV'ye kayyım atandı",
-   "summary": "Sözcü Tv'ye kayyım atandı. Yöneticileri gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/sozcu-tvye-operasyon-kayyum-atandi-polis-binada-arama-yapiyor-1751200",
-   "image": "https://images.ntv.com.tr/images/Medya-844020.jfif",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T05:10:41+00:00",
-   "url": "/haber/sozcu-tv-ye-kayyim-atandi-c86e1663/"
   },
   {
    "id": "03d18a6c",
@@ -673,17 +717,6 @@
    "url": "/haber/doom-bu-kez-128-gb-lik-usb-bellekte-calistirildi-kontroller-bile-sira-e71a2c3c/"
   },
   {
-   "id": "4f2c7a89",
-   "title": "ASELSAN'a savunmada bir ilk daha yazıldı",
-   "summary": "ASELSAN Yeşil Dönüşüm Merkezi Belgesi'ni COP31 kapsamındaki törenle aldı. Şirket, savunma sanayiinde belgeye ulaşan ilk ve tek firma oldu.",
-   "link": "https://shiftdelete.net/aselsan-yesil-donusum-merkezi-belgesi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/a3e0eefde92ce3b53ca46e6dae78ab42a0e44558.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-16T17:04:07+00:00",
-   "url": "/haber/aselsan-a-savunmada-bir-ilk-daha-yazildi-4f2c7a89/"
-  },
-  {
    "id": "5c6cb184",
    "title": "Beş AB ülkesi, göçmenler için Ruanda'da sınır dışı merkezi açıyor",
    "summary": "Almanya, Hollanda, Avusturya, Yunanistan ve Danimarka, Afrika ülkesi Ruanda'da bir göçmen sınır dışı merkezi açma planlarını duyurdu. Merkezin amacı sınırdışı sayılarını artırmak ve düzensiz göçü azaltmak olarak…",
@@ -693,17 +726,6 @@
    "category": "gundem",
    "date": "2026-11-16T16:52:25+00:00",
    "url": "/haber/bes-ab-ulkesi-gocmenler-icin-ruanda-da-sinir-disi-merkezi-aciyor-5c6cb184/"
-  },
-  {
-   "id": "72b134a3",
-   "title": "GeForce'un geleceğine tek kelimelik yanıt geldi",
-   "summary": "Nvidia temsilcisi Jacob Freeman, GeForce ekran kartları markasının biteceği iddialarına kısa bir yanıt verdi. İptal edilen ürün planları ise soru işaretlerini sürdürüyor.",
-   "link": "https://shiftdelete.net/geforce-ekran-kartlari-nvidia-freeman-yanit",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nvidia-geforce-rtx-5090-kapak-1611.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-16T16:49:07+00:00",
-   "url": "/haber/geforce-un-gelecegine-tek-kelimelik-yanit-geldi-72b134a3/"
   },
   {
    "id": "36f17af6",
@@ -1034,28 +1056,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T10:11:49+00:00",
    "url": "/haber/gta-6-cikisina-gunler-kala-oyunda-yer-alacak-34-sarki-sizdirildi-f0f88374/"
-  },
-  {
-   "id": "b1fc57ed",
-   "title": "Honor’dan 7 inç ekran ve 13.500 mAh batarya taşıyan bir telefon geliyor",
-   "summary": "Geçtiğimiz hafta 12.070 mAh kapasiteli bataryalarıyla dikkat çeken yeni modelleri WIN RT2 ve WIN Turbo2’yi tanıtan Honor, Çinli kaynak Digital Chat Station’ın aktardığına göre şu anda 7 inç ekran ve tam 13.500 mAh…",
-   "link": "https://www.log.com.tr/honordan-7-inc-ekran-ve-13-500-mah-batarya-tasiyan-bir-telefon-geliyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-16_12-36-00_mNigh-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-16T09:37:07+00:00",
-   "url": "/haber/honor-dan-7-inc-ekran-ve-13-500-mah-batarya-tasiyan-bir-telefon-geliyo-b1fc57ed/"
-  },
-  {
-   "id": "fd8f9b09",
-   "title": "9 milyon TL’lik Toyota GR Yaris için ilk teslimat Toprak Razgatlıoğlu’na yapıldı",
-   "summary": "Toyota Türkiye, GR Yaris modelinin resmi Türkiye fiyatlarını geçtiğimiz hafta Performance 4×4 280HP M/T özelinde 8.950.000 TL, Aero Performance 4×4 280HP M/T özelindeyse tam 10.190.000 TL olarak duyurmuştu. Daha sonra…",
-   "link": "https://www.log.com.tr/9-milyon-tllik-toyota-gr-yaris-icin-ilk-teslimat-toprak-razgatliogluna-yapildi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-16_12-09-39_pJDP6-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-16T09:28:42+00:00",
-   "url": "/haber/9-milyon-tl-lik-toyota-gr-yaris-icin-ilk-teslimat-toprak-razgatlioglu-fd8f9b09/"
   },
   {
    "id": "d7afa0d1",
