@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T04:01:03.576737+00:00",
+ "updated": "2026-11-17T04:30:59.664832+00:00",
  "items": [
+  {
+   "id": "c86e1663",
+   "title": "Sözcü TV'ye kayyım atandı",
+   "summary": "Sözcü Tv'ye kayyım atandı. Yöneticileri gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/sozcu-tvye-operasyon-kayyum-atandi-polis-binada-arama-yapiyor-1751200",
+   "image": "https://images.ntv.com.tr/images/Medya-844020.jfif",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-17T04:30:33+00:00",
+   "url": "/haber/sozcu-tv-ye-kayyim-atandi-c86e1663/"
+  },
   {
    "id": "49ae7bd5",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Kasım 2026",
@@ -9,19 +20,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-17T04:00:00+00:00",
+   "date": "2026-11-17T04:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-49ae7bd5/"
   },
   {
-   "id": "c86e1663",
-   "title": "Sözcü TV'ye operasyon. Kayyum atandı, polis binada arama yapıyor",
-   "summary": "Sözcü TV binasına sabah saatlerinde polis tarafından operasyon yapıldı. Kanala ve internet sitesine kayyum atandığı ve gözaltılar olduğunu belirtildi.",
-   "link": "https://www.ntv.com.tr/turkiye/sozcu-tvye-operasyon-kayyum-atandi-polis-binada-arama-yapiyor-1751200",
-   "image": "https://images.ntv.com.tr/images/Medya-844020.jfif",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T03:46:54+00:00",
-   "url": "/haber/sozcu-tv-ye-operasyon-kayyum-atandi-polis-binada-arama-yapiyor-c86e1663/"
+   "id": "cbf91850",
+   "title": "Huawei'nin yeni markası ilk telefonunu gösterdi",
+   "summary": "Huawei, yeni alt markası OSTA'nın ilk telefonu OSTA O1 Pro'yu resmen duyurdu. 6,68 milimetrelik gövdesinde 7.000 mAh batarya taşıyan telefon 20 Kasım'da tanıtılacak.",
+   "link": "https://shiftdelete.net/osta-starlight-o1-pro-huawei-yapay-zeka-telefonu",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/huawei-osta-o1-pro-kapak-1711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-17T04:27:11+00:00",
+   "url": "/haber/huawei-nin-yeni-markasi-ilk-telefonunu-gosterdi-cbf91850/"
   },
   {
    "id": "e2e3e596",
@@ -693,17 +704,6 @@
    "category": "gundem",
    "date": "2026-11-16T16:40:58+00:00",
    "url": "/haber/bakirkoy-belediyesi-nde-ihale-usulsuzlugu-sorusturmasi-9-supheli-icin-36f17af6/"
-  },
-  {
-   "id": "e3c8ef70",
-   "title": "Galaxy Tab S9 serisine beklenen yazılım geldi",
-   "summary": "Galaxy Tab S9 One UI 9.0 güncellemesi, Tab S9, S9+ ve S9 Ultra için Güney Kore'de dağıtılmaya başladı. Android 17 tabanlı sürüm yaklaşık 3,5 GB boyutunda.",
-   "link": "https://shiftdelete.net/galaxy-tab-s9-one-ui-9-0-guncellemesi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/galaxy-tab-s9-serisi-kapak-1611.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-16T16:34:06+00:00",
-   "url": "/haber/galaxy-tab-s9-serisine-beklenen-yazilim-geldi-e3c8ef70/"
   },
   {
    "id": "9ed1bbf6",
