@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T00:01:07.387509+00:00",
+ "updated": "2026-11-17T00:31:11.758035+00:00",
  "items": [
   {
    "id": "49ae7bd5",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-17T00:00:00+00:00",
+   "date": "2026-11-17T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-49ae7bd5/"
   },
   {
@@ -24,6 +24,50 @@
    "url": "/haber/16-yasindaki-ehliyetsiz-surucu-ortaligi-savas-alanina-cevirdi-ce0faf79/"
   },
   {
+   "id": "91fa6af5",
+   "title": "İngiltere Başbakanı Burnham, Brexit için \"Kazandığımızdan çoğunu kaybettik\" yorumunu yaptı:",
+   "summary": "İngiltere Başbakanı Andy Burnham, İngiltere'nin Avrupa Birliği'nden (AB) ayrılması üzerinden geçen 10 yılın değerlendirmesini yaparak, \"Son 10 yılda kazandığımızdan daha fazlasını kaybettik. Bize sunulan sert Brexit,…",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-basbakani-burnham-brexit-icin-kazandigimizdan-cogunu-kaybettik-yorumunu-yapti-/4127187",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T23:27:41+00:00",
+   "url": "/haber/ingiltere-basbakani-burnham-brexit-icin-kazandigimizdan-cogunu-kaybett-91fa6af5/"
+  },
+  {
+   "id": "2d51f64c",
+   "title": "Endonezya'da 6,6 büyüklüğünde deprem",
+   "summary": "Endonezya'da 6,6 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/endonezyada-6-6-buyuklugunde-deprem/4127186",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T23:27:13+00:00",
+   "url": "/haber/endonezya-da-6-6-buyuklugunde-deprem-2d51f64c/"
+  },
+  {
+   "id": "22904667",
+   "title": "ABD'li United Airlines, uçuşlarını etkileyen sistem sorununu giderdi",
+   "summary": "ABD'li hava yolu şirketi United Airlines, bazı uçuşların kalkışını etkileyen sistem sorununun giderildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdli-united-airlines-ucuslarini-etkileyen-sistem-sorununu-giderdi/4127185",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T23:27:10+00:00",
+   "url": "/haber/abd-li-united-airlines-ucuslarini-etkileyen-sistem-sorununu-giderdi-22904667/"
+  },
+  {
+   "id": "080deece",
+   "title": "A Milli Futbol Takımı, UEFA Uluslar B Ligi'ne düştü",
+   "summary": "A Milli Futbol Takımı, Yunanistan'ın Sırbistan'ı 1-0 mağlup etmesiyle UEFA Uluslar B Ligi'ne düştü.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-uefa-uluslar-b-ligine-dustu/4127184",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T23:26:53+00:00",
+   "url": "/haber/a-milli-futbol-takimi-uefa-uluslar-b-ligi-ne-dustu-080deece/"
+  },
+  {
    "id": "b430e906",
    "title": "UKMTO: Hürmüz Boğazı'nda tankere saldırı düzenlendi, makine dairesinde yangın çıktı",
    "summary": "İngiltere Deniz Ticareti Operasyonları (UKMTO), Umman'ın Hasab kentinin 7 deniz mili kuzeyinde, Hürmüz Boğazı'ndan geçiş yapan bir tankere saldırı düzenlendiğini bildirdi.",
@@ -33,6 +77,17 @@
    "category": "gundem",
    "date": "2026-11-16T23:24:53+00:00",
    "url": "/haber/ukmto-hurmuz-bogazi-nda-tankere-saldiri-duzenlendi-makine-dairesinde-y-b430e906/"
+  },
+  {
+   "id": "3f7dae9e",
+   "title": "İsrail ordusu, Gazze Şeridi'ne kahve ve sigara paketleriyle birlikte provokatif broşürler attı",
+   "summary": "İsrail ordusu, abluka altında tuttuğu Gazze Şeridi'ndeki Filistinlilerin üzerine kahve ve sigara paketleriyle birlikte provokatif mesajlar içeren broşürler bıraktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazze-seridine-kahve-ve-sigara-paketleriyle-birlikte-provokatif-brosurler-atti/4127181",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-16T23:22:56+00:00",
+   "url": "/haber/israil-ordusu-gazze-seridi-ne-kahve-ve-sigara-paketleriyle-birlikte-pr-3f7dae9e/"
   },
   {
    "id": "56d13334",
@@ -486,17 +541,6 @@
    "url": "/haber/on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-16-kasim-20-e3221d15/"
   },
   {
-   "id": "5507b064",
-   "title": "Başkentte bazı mahallelerde su kesintisi uygulanacak",
-   "summary": "Ankara Su ve Kanalizasyon İdaresi (ASKİ) Genel Müdürlüğü, Keçiören ve Yenimahalle ilçelerinin bazı mahallelerinde perşembe günü su kesintisi uygulanacağını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/baskentte-bazi-mahallelerde-su-kesintisi-uygulanacak/4127017",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T17:53:57+00:00",
-   "url": "/haber/baskentte-bazi-mahallelerde-su-kesintisi-uygulanacak-5507b064/"
-  },
-  {
    "id": "570497bb",
    "title": "RTX5060Ti 16GB ekran kartlı! ''İtopya DH-SMILE OEM Paketi incelemesi''",
    "summary": "DLSS ve MFG ile 2K'da yüksek performans veren, 16GB VRAM ile 4K'da dahi başarım gösterebilen DH-SMILE Oem paketinin bileşenlerini inceliyor, oyun performansını kanıtlıyoruz.",
@@ -629,17 +673,6 @@
    "url": "/haber/omer-celik-fon-dolandiricilari-hesap-verecek-9ed1bbf6/"
   },
   {
-   "id": "9f5a4397",
-   "title": "COP31'de Yapay Zeka Destekli Temiz Teknolojiler Girişimi Lansmanı yapıldı",
-   "summary": "Antalya'daki Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Yapay Zeka Destekli Temiz Teknolojiler Girişimi Lansmanı düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-yapay-zeka-destekli-temiz-teknolojiler-girisimi-lansmani-yapildi/4126954",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T16:25:32+00:00",
-   "url": "/haber/cop31-de-yapay-zeka-destekli-temiz-teknolojiler-girisimi-lansmani-yapi-9f5a4397/"
-  },
-  {
    "id": "2cd43b78",
    "title": "Linux çekirdeğinde 11 yıllık açık bulundu",
    "summary": "NoisyTCP adı verilen 11 yıllık Linux çekirdek açığı, varsayılan ayarlarla Nginx, Apache ve SSH çalıştıran sunucuları uzaktan çökertebiliyor. Yama yayınlandı.",
@@ -671,17 +704,6 @@
    "category": "gundem",
    "date": "2026-11-16T15:15:40+00:00",
    "url": "/haber/ozlale-den-fon-iddialari-akp-li-karaaslan-dan-itibar-suikasti-yaniti-34003c88/"
-  },
-  {
-   "id": "1c187724",
-   "title": "COP31'de \"5 Problem, 5 Teknoloji, 5 Kadın\" söyleşisi düzenlendi",
-   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, AK Parti Kadın Kolları Başkanlığınca \"5 Problem, 5 Teknoloji, 5 Kadın\" başlıklı…",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31de-5-problem-5-teknoloji-5-kadin-soylesisi-duzenlendi/4126901",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T15:06:05+00:00",
-   "url": "/haber/cop31-de-5-problem-5-teknoloji-5-kadin-soylesisi-duzenlendi-1c187724/"
   },
   {
    "id": "971360f9",
@@ -770,17 +792,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T13:30:22+00:00",
    "url": "/haber/huawei-xmage-awards-2026-kazananlari-paris-photo-da-aciklandi-turkiye-d6997669/"
-  },
-  {
-   "id": "f9946480",
-   "title": "Gabon Çevre Bakanı, Afrika'da iklim taahhütlerinin hayata geçirilmesini istedi",
-   "summary": "Gabon Çevre ve İklim Bakanı Stanislas Stephen Mouba Olouna, Paris İklim Anlaşması'nın üstünden 10 yılı aşkın süre geçmesine rağmen Afrika ülkelerinin uluslararası iklim taahhütlerinin sahada somut sonuçlar vermesini…",
-   "link": "https://www.aa.com.tr/tr/dunya/gabon-cevre-bakani-afrikada-iklim-taahhutlerinin-hayata-gecirilmesini-istedi/4126758",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T13:26:44+00:00",
-   "url": "/haber/gabon-cevre-bakani-afrika-da-iklim-taahhutlerinin-hayata-gecirilmesini-f9946480/"
   },
   {
    "id": "2232c18e",
@@ -957,17 +968,6 @@
    "category": "teknoloji",
    "date": "2026-11-16T10:58:04+00:00",
    "url": "/haber/casper-excalibur-g920-batarya-omru-kac-saat-oyun-oynanir-b1e04ee6/"
-  },
-  {
-   "id": "a79aebd9",
-   "title": "Ziraat Bankası, COP31’de 2 milyar dolarlık sürdürülebilirlik odaklı finansmana imza attı",
-   "summary": "Ziraat Bankası, COP31 kapsamında uluslararası finans kuruluşlarıyla gerçekleştirdiği yeni işbirlikleri ile 2 milyar dolar karşılığı sürdürülebilir kalkınma odaklı finansman anlaşmalarına imza attı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ziraat-bankasi-cop31-de-2-milyar-dolarlik-surdurulebilirlik-odakli-finansmana-imza-atti/4126456",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-16T10:29:56+00:00",
-   "url": "/haber/ziraat-bankasi-cop31-de-2-milyar-dolarlik-surdurulebilirlik-odakli-fin-a79aebd9/"
   },
   {
    "id": "b0bf282d",
