@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:01:02.336013+00:00",
+ "updated": "2026-11-18T22:30:57.139742+00:00",
  "items": [
   {
    "id": "8cedfa4e",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-18T22:00:00+00:00",
+   "date": "2026-11-18T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-8cedfa4e/"
+  },
+  {
+   "id": "2446d9f6",
+   "title": "Enerjiye ve sosyal güvenliğe ilişkin düzenlemeleri de içeren kanun teklifi, Komisyonda kabul edildi",
+   "summary": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve…",
+   "link": "https://www.aa.com.tr/tr/gundem/enerjiye-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-teklifi-komisyonda-kabul-edildi/4129887",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T22:20:58+00:00",
+   "url": "/haber/enerjiye-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-tek-2446d9f6/"
+  },
+  {
+   "id": "7622e711",
+   "title": "iCloud, Apple Pay ve App Store'daki büyük kesintinin nedeni güncelleme",
+   "summary": "Apple, iCloud, Apple Pay ve App Store başta olmak üzere birçok hizmette yaşanan erişim sorunlarının nedeni açıklandı. Kısa süreli kesintinin arkasında siber saldırı yok.",
+   "link": "https://www.donanimhaber.com/apple-servislerinde-buyuk-kesinti-yasandi-iste-nedeni--213072",
+   "image": "https://www.donanimhaber.com/images/images/haber/213072/1200x675apple-servislerinde-buyuk-kesinti-yasandi-iste-nedeni.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-18T22:07:00+00:00",
+   "url": "/haber/icloud-apple-pay-ve-app-store-daki-buyuk-kesintinin-nedeni-guncelleme-7622e711/"
   },
   {
    "id": "62a06583",
@@ -90,6 +112,17 @@
    "url": "/haber/antep-fistigi-kabugundan-gidalarin-raf-omrunu-uzatan-ambalaj-gelistiri-92913fec/"
   },
   {
+   "id": "0cac683f",
+   "title": "Türkiye Acil Tıp Derneği, işlek noktalara otomatik şok cihazlarının konulmasından memnun",
+   "summary": "Türkiye Acil Tıp Derneği Başkanı Prof. Dr. Bülent Erbil, halkın yoğun olarak bulunduğu alanlara yerleştirilen otomatik eksternal defibrilatörün (otomatik şok cihazı) kalbi durmuş hastaların hayatta kalma şansını…",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-acil-tip-dernegi-islek-noktalara-otomatik-sok-cihazlarinin-konulmasindan-memnun/4129858",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T21:20:01+00:00",
+   "url": "/haber/turkiye-acil-tip-dernegi-islek-noktalara-otomatik-sok-cihazlarinin-kon-0cac683f/"
+  },
+  {
    "id": "835f8984",
    "title": "One UI 9.5 güncellemesi alacak Samsung telefonlar",
    "summary": "Samsung, Android 17 tabanlı One UI 9.5 güncellemesi üzerinde çalışmalarını sürdürüyor. Yeni arayüzü alması beklenen Galaxy telefon ve tabletlerin listesi belli oldu.",
@@ -99,6 +132,17 @@
    "category": "teknoloji",
    "date": "2026-11-18T21:20:00+00:00",
    "url": "/haber/one-ui-9-5-guncellemesi-alacak-samsung-telefonlar-835f8984/"
+  },
+  {
+   "id": "6bfebeb6",
+   "title": "Çocukluk çağı lösemilerinde gelişen tedavi yöntemleri umut veriyor",
+   "summary": "Türk Hematoloji Derneği İkinci Başkanı Prof. Dr. Ayşegül Ünüvar, yeni ilaçlar ve farklı tedavi yaklaşımlarının lösemiyle mücadeleye önemli katkı sağladığını belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cocukluk-cagi-losemilerinde-gelisen-tedavi-yontemleri-umut-veriyor/4129856",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T21:19:09+00:00",
+   "url": "/haber/cocukluk-cagi-losemilerinde-gelisen-tedavi-yontemleri-umut-veriyor-6bfebeb6/"
   },
   {
    "id": "e178c751",
@@ -310,17 +354,6 @@
    "url": "/haber/enpara-dan-gta-6-kampanyasi-oyunu-alanlara-1-000-tl-iade-c3af2146/"
   },
   {
-   "id": "74569c85",
-   "title": "İsrail askerleri, Gazze’de ateşkes kapsamında çekildikleri bölgelere yeniden girdi",
-   "summary": "İsrail askerleri, Gazze Şeridi’nin orta kesiminde Sarı Hattın batısında, ateşkes anlaşması kapsamında daha önce çekildikleri bölgelere girerek saldırı başlattı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-gazze-de-ateskes-kapsaminda-cekildikleri-bolgelere-yeniden-girdi/4129792",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T19:48:10+00:00",
-   "url": "/haber/israil-askerleri-gazze-de-ateskes-kapsaminda-cekildikleri-bolgelere-ye-74569c85/"
-  },
-  {
    "id": "ecb5b884",
    "title": "Yeni Matrix filmi tehlikeye girdi: Skydance serinin haklarını Wachowskilere kaptırabilir",
    "summary": "İlk olarak 2024 yılında duyurulan yeni Matrix filmi için artık daha somut haberler almayı beklerken, Wachowski kardeşlerden beklenmedik bir açıklama geldi. Film iptal de olabilir.",
@@ -330,17 +363,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T19:39:00+00:00",
    "url": "/haber/yeni-matrix-filmi-tehlikeye-girdi-skydance-serinin-haklarini-wachowski-ecb5b884/"
-  },
-  {
-   "id": "527ee43c",
-   "title": "Kumluca açıklarında balina görüntülendi",
-   "summary": "Antalya'nın Kumluca ilçesi açıklarında balina görüntülendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/kumluca-aciklarinda-balina-goruntulendi/4129774",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T19:38:33+00:00",
-   "url": "/haber/kumluca-aciklarinda-balina-goruntulendi-527ee43c/"
   },
   {
    "id": "74d88d00",
@@ -508,17 +530,6 @@
    "url": "/haber/lego-gibi-gorunen-bu-yapi-bloklari-gunes-enerjisi-uretebiliyorlar-08413e30/"
   },
   {
-   "id": "96a4571e",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Ortak hareket kabiliyeti yüksek bir Türk iş ekosistemi inşa etmeliyiz",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Bireysel başarı hikayelerinin ötesine geçerek, Özbekistan'da birbirini besleyen, ölçek ekonomisi oluşturan ve ortak hareket kabiliyeti yüksek bir Türk iş ekosistemi inşa etmemiz…",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-ortak-hareket-kabiliyeti-yuksek-bir-turk-is-ekosistemi-insa-etmeliyiz/4129696",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T17:46:53+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-ortak-hareket-kabiliyeti-yuksek-bir-tu-96a4571e/"
-  },
-  {
    "id": "d923afae",
    "title": "Jensen Huang: Kurul isterse Nvidia'ya dönerim",
    "summary": "Huang 12 Kasım'da görevden ayrılmıştı. CNBC'ye göre yönetim kurulu onun dönüşünü şu an değerlendirmiyor ve kalıcı CEO araması başlattı.",
@@ -528,17 +539,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T17:35:06+00:00",
    "url": "/haber/jensen-huang-kurul-isterse-nvidia-ya-donerim-d923afae/"
-  },
-  {
-   "id": "c67098fa",
-   "title": "Netflix, 3 Body Problem'in 2. sezonundan ilk fragmanı paylaştı",
-   "summary": "Netflix'in sevilen bilim-kurgu dizisi 3 Body Problem (Üç Cisim Problemi), uzun bir aranın ardından geri dönüyor. Netflix, yakında başlayacak 2. sezonun ilk fragmanını paylaştı.",
-   "link": "https://www.donanimhaber.com/3-body-problem-2-sezon-fragmani-yayinlandi--213091",
-   "image": "https://www.donanimhaber.com/images/images/haber/213091/1200x6753-body-problem-2-sezon-fragmani-yayinlandi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-18T17:32:00+00:00",
-   "url": "/haber/netflix-3-body-problem-in-2-sezonundan-ilk-fragmani-paylasti-c67098fa/"
   },
   {
    "id": "dd3de399",
