@@ -1,16 +1,38 @@
 {
- "updated": "2026-11-18T01:01:02.599723+00:00",
+ "updated": "2026-11-18T01:30:57.510117+00:00",
  "items": [
+  {
+   "id": "355cff01",
+   "title": "Java4Shell: Java'da acil yama gerektiren açık",
+   "summary": "CISA, Java'daki Java4Shell açığı için acil yama uyarısı yaptı. Açık, bazı sunucularda giriş gerektirmeden uzaktan kod çalıştırmaya imkan tanıyabiliyor.",
+   "link": "https://shiftdelete.net/java4shell-java-kritik-guvenlik-acigi-cisa",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/java4shell-sunucu-kapak-1811.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-18T01:22:58+00:00",
+   "url": "/haber/java4shell-java-da-acil-yama-gerektiren-acik-355cff01/"
+  },
   {
    "id": "bccf76a8",
    "title": "Marmara'da fırtına. BUDO'nun 12 seferi iptal edildi",
-   "summary": "Bursa Deniz Otobüsleri (BUDO) işletmesinden yapılan bilgilendirmede olumsuz hava koşulları sebebiyle 12 seferin iptal edildiği belirtildi.",
+   "summary": "Bursa Deniz Otobüsleri (BUDO) işletmesinden yapılan bilgilendirmede olumsuz hava koşulları sebebiyle 12 seferin iptal edildiği belirtildi. Çanakkale’de de adalar hattında iptaller var.",
    "link": "https://www.ntv.com.tr/turkiye/marmarada-firtina-budonun-12-seferi-iptal-edildi-1751364",
    "image": "https://images.ntv.com.tr/images/budodenizotobüsümarmarafırtına-143027.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-18T01:00:21+00:00",
+   "date": "2026-11-18T01:07:55+00:00",
    "url": "/haber/marmara-da-firtina-budo-nun-12-seferi-iptal-edildi-bccf76a8/"
+  },
+  {
+   "id": "ee3b6daf",
+   "title": "İstanbul'da fırtına alarmı. Saat verildi, hızı 60 kilometreye kadar çıkacak",
+   "summary": "Yurdun batı bölgesinde şiddetli lodos etkili. Bugün İstanbul dahil 12 il için sarı kod verilirken lodosun hızının saatte 60 kilometre hıza çıkması bekleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-firtina-alarmi-hizi-60-kilometreye-kadar-cikacak-1751363",
+   "image": "https://images.ntv.com.tr/images/AA-20261113-43070432-43070422-ISTANBULDA_LODOS-737603.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-18T01:06:00+00:00",
+   "url": "/haber/istanbul-da-firtina-alarmi-saat-verildi-hizi-60-kilometreye-kadar-cika-ee3b6daf/"
   },
   {
    "id": "9ae6e5ad",
@@ -22,17 +44,6 @@
    "category": "gundem",
    "date": "2026-11-18T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9ae6e5ad/"
-  },
-  {
-   "id": "ee3b6daf",
-   "title": "İstanbul'da fırtına alarmı. Saat verildi, hızı 60 kilometreye kadar çıkacak",
-   "summary": "Yurdun batı bölgesinde şiddetli lodos etkili. Bugün İstanbul dahil 12 il için sarı kod verilirken lodosun hızının saatte 60 kilometre hıza çıkması bekleniyor.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbulda-firtina-alarmi-hizi-60-kilometreye-kadar-cikacak-1751363",
-   "image": "https://images.ntv.com.tr/images/AA-20261113-43070432-43070422-ISTANBULDA_LODOS-737603.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-18T00:39:30+00:00",
-   "url": "/haber/istanbul-da-firtina-alarmi-saat-verildi-hizi-60-kilometreye-kadar-cika-ee3b6daf/"
   },
   {
    "id": "30426f4e",
@@ -47,14 +58,14 @@
   },
   {
    "id": "8b8f1548",
-   "title": "Rooney: Manchester United'dayken intihar etmeyi düşündüm",
+   "title": "Rooney: 'Manchester United'dayken intiharı düşündüm'",
    "summary": "Wayne Rooney, Manchester United'da oynadığı dönemde \"intiharı düşündüğünü\" ve \"neler olup bittiğini anlamaya çalışmak için bir terapistle görüştüğünü\" söyledi.",
    "link": "https://www.bbc.com/turkce/articles/cw23jv30jejlo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e89d/live/4c076e50-e281-11f1-b166-176de21e2352.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-18T00:22:31+00:00",
-   "url": "/haber/rooney-manchester-united-dayken-intihar-etmeyi-dusundum-8b8f1548/"
+   "url": "/haber/rooney-manchester-united-dayken-intihari-dusundum-8b8f1548/"
   },
   {
    "id": "b36ab280",
@@ -836,17 +847,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T13:12:24+00:00",
    "url": "/haber/xiaomi-18-ilk-kez-lei-jun-un-elinde-goruldu-9ec7423f/"
-  },
-  {
-   "id": "1f1ea0f3",
-   "title": "Çerçevesiz Galaxy, iPhone'dan önce gelebilir",
-   "summary": "Samsung'un yeni bir çerçevesiz Galaxy üzerinde çalıştığı iddia ediliyor. Naver Blog kaynaklı söylentiye göre telefon 2027'de gelebilir, ancak güven oranı yüzde 50.",
-   "link": "https://shiftdelete.net/cercevesiz-galaxy-samsung-2027-iddia",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/samsung-galaxy-cercevesiz-kapak-1711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-17T13:05:08+00:00",
-   "url": "/haber/cercevesiz-galaxy-iphone-dan-once-gelebilir-1f1ea0f3/"
   },
   {
    "id": "f8fc6b34",
