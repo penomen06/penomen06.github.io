@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-18T05:01:02.296182+00:00",
+ "updated": "2026-11-18T05:30:58.115774+00:00",
  "items": [
+  {
+   "id": "cd497bad",
+   "title": "Yabancı yatırımcılara ikamet iznine düzenleme. 150 bin dolarla 3 yıl, 200 bin dolarla 5 yıl",
+   "summary": "Türkiye’de yatırım yapacak yabancılara verilecek ikamet izinleri için yeni tutarlar belirlendi. Resmi Gazete'de yayımlanan karara göre, yatırım tutarına göre 3 veya 5 yıllık ikamet izni verilecek.",
+   "link": "https://www.ntv.com.tr/turkiye/yabanci-yatirimcilara-ikamet-iznine-duzenleme-150-bin-dolarla-3-yil-200-bin-dolarla-5-yil-1751361",
+   "image": "https://images.ntv.com.tr/images/resmigazete'debugün-214086.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-18T05:11:17+00:00",
+   "url": "/haber/yabanci-yatirimcilara-ikamet-iznine-duzenleme-150-bin-dolarla-3-yil-20-cd497bad/"
+  },
+  {
+   "id": "95891eab",
+   "title": "Marmara'da fırtına. BUDO, İDO ve Şehir Hatları seferleri iptal",
+   "summary": "Marmara Denizi'nde kuvvetli lodos nedeniyle Bursa Deniz Otobüsleri (BUDO), İstanbul Deniz Otobüsleri (İDO) ve Şehir Hatları'nın bazı seferleri iptal edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/marmarada-firtina-budo-ido-ve-sehir-hatlari-seferleri-iptal-1751364",
+   "image": "https://images.ntv.com.tr/images/budodenizotobüsümarmarafırtına-143027.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-18T05:08:27+00:00",
+   "url": "/haber/marmara-da-firtina-budo-ido-ve-sehir-hatlari-seferleri-iptal-95891eab/"
+  },
   {
    "id": "588b21f9",
    "title": "Oregon, OpenAI'dan 2 milyar dolar istiyor",
@@ -134,17 +156,6 @@
    "url": "/haber/java4shell-java-da-acil-yama-gerektiren-acik-355cff01/"
   },
   {
-   "id": "bccf76a8",
-   "title": "Marmara'da fırtına. BUDO'nun 12 seferi iptal edildi",
-   "summary": "Bursa Deniz Otobüsleri (BUDO) işletmesinden yapılan bilgilendirmede olumsuz hava koşulları sebebiyle 12 seferin iptal edildiği belirtildi. Çanakkale’de de adalar hattında iptaller var.",
-   "link": "https://www.ntv.com.tr/turkiye/marmarada-firtina-budonun-12-seferi-iptal-edildi-1751364",
-   "image": "https://images.ntv.com.tr/images/budodenizotobüsümarmarafırtına-143027.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-18T01:07:55+00:00",
-   "url": "/haber/marmara-da-firtina-budo-nun-12-seferi-iptal-edildi-bccf76a8/"
-  },
-  {
    "id": "ee3b6daf",
    "title": "İstanbul'da fırtına alarmı. Saat verildi, hızı 60 kilometreye kadar çıkacak",
    "summary": "Yurdun batı bölgesinde şiddetli lodos etkili. Bugün İstanbul dahil 12 il için sarı kod verilirken lodosun hızının saatte 60 kilometre hıza çıkması bekleniyor.",
@@ -198,17 +209,6 @@
    "category": "gundem",
    "date": "2026-11-18T00:00:00+00:00",
    "url": "/haber/son-dakika-mugla-da-deprem-mi-oldu-az-once-deprem-mugla-da-nerede-oldu-61c2d00c/"
-  },
-  {
-   "id": "cd497bad",
-   "title": "Yabancı yatırımcılara ikamet iznine düzenleme. 150 bin dolarla 3 yıl, 200 bin dolarla 5 yıl",
-   "summary": "Türkiye’de yatırım yapacak yabancılara verilecek ikamet izinleri için yeni tutarlar belirlendi. Resmi Gazete'de yayımlanan karara göre, yatırım tutarına göre 3 veya 5 yıllık ikamet izni verilecek.",
-   "link": "https://www.ntv.com.tr/turkiye/yabanci-yatirimcilara-ikamet-iznine-duzenleme-150-bin-dolarla-3-yil-200-bin-dolarla-5-yil-1751361",
-   "image": "https://images.ntv.com.tr/images/resmigazete'debugün-214086.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T23:39:36+00:00",
-   "url": "/haber/yabanci-yatirimcilara-ikamet-iznine-duzenleme-150-bin-dolarla-3-yil-20-cd497bad/"
   },
   {
    "id": "ae7fa008",
