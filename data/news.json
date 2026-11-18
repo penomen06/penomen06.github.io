@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T02:30:56.109202+00:00",
+ "updated": "2026-11-18T03:01:04.442340+00:00",
  "items": [
+  {
+   "id": "72a771b5",
+   "title": "Nvidia, Huang'sız ilk bilançoda rekor kırdı",
+   "summary": "Nvidia, Jensen Huang'ın ayrılmasından sonraki ilk bilançosunda 115,8 milyar dolar gelir açıkladı ve yeni çeyrek için 130 milyar dolar bekliyor.",
+   "link": "https://shiftdelete.net/nvidia-ucuncu-ceyrek-115-8-milyar-dolar-gelir",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nvidia-genel-merkez-kapak-1811.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-18T03:00:08+00:00",
+   "url": "/haber/nvidia-huang-siz-ilk-bilancoda-rekor-kirdi-72a771b5/"
+  },
   {
    "id": "9ae6e5ad",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Kasım 2026",
@@ -9,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-18T02:30:00+00:00",
+   "date": "2026-11-18T03:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9ae6e5ad/"
+  },
+  {
+   "id": "86d0ec99",
+   "title": "Bu açığı kapatmayan kurumlar hack'leniyor",
+   "summary": "",
+   "link": "https://shiftdelete.net/java4shell-acigi-cisa-java-yamasi",
+   "image": "https://shiftdelete.net/static/img/content/26-11/18/java4shell_-sunucu-rafinda-siber-alarm-1794970342.png",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-18T02:41:06+00:00",
+   "url": "/haber/bu-acigi-kapatmayan-kurumlar-hack-leniyor-86d0ec99/"
   },
   {
    "id": "72b93985",
@@ -28,7 +50,7 @@
    "title": "Java4Shell: Java'da acil yama gerektiren açık",
    "summary": "CISA, Java'daki Java4Shell açığı için acil yama uyarısı yaptı. Açık, bazı sunucularda giriş gerektirmeden uzaktan kod çalıştırmaya imkan tanıyabiliyor.",
    "link": "https://shiftdelete.net/java4shell-java-kritik-guvenlik-acigi-cisa",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/java4shell-sunucu-kapak-1811.webp",
+   "image": "https://shiftdelete.net/static/img/content/26-11/18/java4shell_-sunucu-rafinda-siber-alarm-1794970500.png",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-18T01:22:58+00:00",
@@ -783,17 +805,6 @@
    "url": "/haber/meteoroloji-den-uyari-yurdun-buyuk-bolumunde-yagis-bekleniyor-0c0a0d3a/"
   },
   {
-   "id": "721361ed",
-   "title": "Windows'a kayıp cihazı uzaktan kilitleme geliyor",
-   "summary": "Microsoft, kaybolan ya da çalınan Windows cihazları verileri silmeden uzaktan kilitleyen Remote Lock özelliğini test ediyor.",
-   "link": "https://shiftdelete.net/windows-remote-lock-kayip-calinan-cihaz-kilitleme",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/windows-remote-lock-kapak-1711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-17T13:35:07+00:00",
-   "url": "/haber/windows-a-kayip-cihazi-uzaktan-kilitleme-geliyor-721361ed/"
-  },
-  {
    "id": "2728900d",
    "title": "BYD, Antalya’daki COP31’e yönelik paylaşımını gelen tepkilerin ardından sildi",
    "summary": "Otomobil gazetecisi Taylan Özgür Dil tarafından aktarıldığı kadarıyla, X’teki resmi BYD Global hesabından Antalya’daki COP31’e yönelik olarak yapılan bir paylaşım, gelen tepkilerin ardından kısa sürede kaldırıldı. Bu…",
@@ -836,17 +847,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T13:26:59+00:00",
    "url": "/haber/iphone-20-pro-nun-tasarimi-ortaya-cikti-simdiye-kadarki-en-farkli-ipho-613e2d8b/"
-  },
-  {
-   "id": "9ec7423f",
-   "title": "Xiaomi 18 ilk kez Lei Jun'un elinde görüldü",
-   "summary": "Xiaomi CEO'su Lei Jun, APEC CEO Zirvesi'nde henüz tanıtılmayan Xiaomi 18 olduğu düşünülen beyaz bir telefonla görüntülendi.",
-   "link": "https://shiftdelete.net/xiaomi-18-lei-jun-apec-ilk-gercek-goruntu",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/xiaomi-18-lei-jun-kapak-1711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-17T13:12:24+00:00",
-   "url": "/haber/xiaomi-18-ilk-kez-lei-jun-un-elinde-goruldu-9ec7423f/"
   },
   {
    "id": "f8fc6b34",
