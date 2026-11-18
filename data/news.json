@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:30:57.139742+00:00",
+ "updated": "2026-11-18T23:01:06.520453+00:00",
  "items": [
   {
    "id": "8cedfa4e",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-18T22:30:00+00:00",
+   "date": "2026-11-18T23:00:01+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-8cedfa4e/"
+  },
+  {
+   "id": "d86880a4",
+   "title": "UKMTO: Umman açıklarında bir tanker saldırıya uğradı",
+   "summary": "İngiltere Deniz Ticareti Operasyonları (UKMTO), Umman'ın Hasab kentinin 6 deniz mili kuzeyinde bir tanker gemisinin saldırıya uğradığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukmto-umman-aciklarinda-bir-tanker-saldiriya-ugradi/4129894",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T22:51:45+00:00",
+   "url": "/haber/ukmto-umman-aciklarinda-bir-tanker-saldiriya-ugradi-d86880a4/"
   },
   {
    "id": "2446d9f6",
@@ -33,6 +44,17 @@
    "category": "teknoloji",
    "date": "2026-11-18T22:07:00+00:00",
    "url": "/haber/icloud-apple-pay-ve-app-store-daki-buyuk-kesintinin-nedeni-guncelleme-7622e711/"
+  },
+  {
+   "id": "96a87b36",
+   "title": "Prens Harry, Ukrayna ziyaretinin ardından tekrar orduya katılabileceğini söyledi",
+   "summary": "İngiltere Kralı 3. Charles'ın oğlu Sussex Dükü Prens Harry, Ukrayna ziyaretinin ardından ihtiyaç halinde tekrar orduya katılabileceğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/prens-harry-ukrayna-ziyaretinin-ardindan-tekrar-orduya-katilabilecegini-soyledi/4129885",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T22:04:54+00:00",
+   "url": "/haber/prens-harry-ukrayna-ziyaretinin-ardindan-tekrar-orduya-katilabilecegin-96a87b36/"
   },
   {
    "id": "62a06583",
@@ -134,6 +156,17 @@
    "url": "/haber/one-ui-9-5-guncellemesi-alacak-samsung-telefonlar-835f8984/"
   },
   {
+   "id": "910b3c2e",
+   "title": "Çocukların tatilde ekran yerine oyun ve sosyal etkinliklere yönlendirilmesi öneriliyor",
+   "summary": "Uzmanlar, tatilde çocukların ekran başında geçirdiği süreyi azaltmak için ailelere spor faaliyetleri, müze ve kütüphane gezileri gibi sosyal aktivitelerin yanı sıra evde yapboz, satranç, resim ve el işi gibi etkinlikler…",
+   "link": "https://www.aa.com.tr/tr/gundem/cocuklarin-tatilde-ekran-yerine-oyun-ve-sosyal-etkinliklere-yonlendirilmesi-oneriliyor/4129857",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T21:19:16+00:00",
+   "url": "/haber/cocuklarin-tatilde-ekran-yerine-oyun-ve-sosyal-etkinliklere-yonlendiri-910b3c2e/"
+  },
+  {
    "id": "6bfebeb6",
    "title": "Çocukluk çağı lösemilerinde gelişen tedavi yöntemleri umut veriyor",
    "summary": "Türk Hematoloji Derneği İkinci Başkanı Prof. Dr. Ayşegül Ünüvar, yeni ilaçlar ve farklı tedavi yaklaşımlarının lösemiyle mücadeleye önemli katkı sağladığını belirtti.",
@@ -154,6 +187,17 @@
    "category": "gundem",
    "date": "2026-11-18T21:17:30+00:00",
    "url": "/haber/budo-nun-bugunku-12-seferi-iptal-edildi-e178c751/"
+  },
+  {
+   "id": "d9687ad2",
+   "title": "İsrail ordusu, Gazze'nin orta kesiminde işgalini \"Sarı Hat\"ın ötesine taşıdığını açıkladı",
+   "summary": "İsrail ordusu, Gazze Şeridi'nin orta kesiminde işgalini ateşkesle belirlenen \"Sarı Hat\"ın ötesine taşıdığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazzenin-orta-kesiminde-isgalini-sari-hatin-otesine-tasidigini-acikladi/4129847",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T21:08:54+00:00",
+   "url": "/haber/israil-ordusu-gazze-nin-orta-kesiminde-isgalini-sari-hat-in-otesine-ta-d9687ad2/"
   },
   {
    "id": "b4e700d7",
@@ -211,17 +255,6 @@
    "url": "/haber/fed-tutanaklari-yetkililerin-neredeyse-tamaminin-ilave-faiz-artisi-bek-ab1fc37c/"
   },
   {
-   "id": "d32eb058",
-   "title": "İran ordusu: Hürmüz Boğazı'nın doğusunda 3 petrol tankeri mayına çarparak alev aldı",
-   "summary": "İran ordusu, Hürmüz Boğazı'nın doğusunda, seyrüsefer sistemlerini kapatarak izin verilmeyen bölgede ilerleyen 3 petrol tankerinin deniz mayınlarına çarparak alev aldığını ve seyrinin durduğunu duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinin-dogusunda-3-petrol-tankeri-mayina-carparak-alev-aldi/4129823",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T20:39:46+00:00",
-   "url": "/haber/iran-ordusu-hurmuz-bogazi-nin-dogusunda-3-petrol-tankeri-mayina-carpar-d32eb058/"
-  },
-  {
    "id": "81671064",
    "title": "GTA 6 kaç TL? Güncel Türkiye fiyatları",
    "summary": "GTA 6'nın Türkiye fiyatı belli: Standart sürüm 3.999 TL, Ultimate sürüm 4.999 TL. PlayStation Store ve Xbox Store fiyatları, kutulu sürüm ve ön sipariş bonusları bu sayfada.",
@@ -266,17 +299,6 @@
    "url": "/haber/bakan-fidan-azerbaycanli-mevkidasi-bayramov-ile-telefonda-gorustu-f5385357/"
   },
   {
-   "id": "bc542deb",
-   "title": "NYT: Trump, Vance'in \"seçimleri İran savaşı yüzünden kaybettikleri\" açıklamasından rahatsız",
-   "summary": "ABD medyası, Başkan Donald Trump'ın, Başkan Yardımcısı JD Vance'in \"3 Kasım'daki seçimleri, İran'la savaş yüzünden kaybettikleri\" yönündeki açıklamasından rahatsız olduğunu iddia etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/nyt-trump-vancein-secimleri-iran-savasi-yuzunden-kaybettikleri-aciklamasindan-rahatsiz/4129810",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T20:22:43+00:00",
-   "url": "/haber/nyt-trump-vance-in-secimleri-iran-savasi-yuzunden-kaybettikleri-acikla-bc542deb/"
-  },
-  {
    "id": "6067e31b",
    "title": "Mercedes, Tesla FSD’ye rakip sistemini Avrupa’ya getiriyor",
    "summary": "Mercedes, Tesla FSD’ye rakip yeni sistemini 2027’de Almanya ve ABD’ye getiriyor. Sistem, şehir içinde dönüşleri, şerit değişikliklerini ve trafik ışıklarında durup kalkmayı sürücü gözetiminde yapacak.",
@@ -297,28 +319,6 @@
    "category": "gundem",
    "date": "2026-11-18T20:14:00+00:00",
    "url": "/haber/isgalci-israil-den-bati-seria-da-filistinlilere-ait-26-bin-727-donumlu-05b24841/"
-  },
-  {
-   "id": "f2bdb641",
-   "title": "Fed tutanakları yetkililerin neredeyse tamamının ilave faiz artışı beklediğini gösterdi",
-   "summary": "Fed'in son toplantısına ilişkin tutanakları, Fed yetkililerinin neredeyse tamamının, enflasyonun zamanında hedefe dönmesini sağlamak için politika faizini artırmaya yönelik ilave adımların muhtemelen uygun olacağını…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fed-tutanaklari-yetkililerin-neredeyse-tamaminin-ilave-faiz-artisi-bekledigini-gosterdi/4129801",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T20:11:50+00:00",
-   "url": "/haber/fed-tutanaklari-yetkililerin-neredeyse-tamaminin-ilave-faiz-artisi-bek-f2bdb641/"
-  },
-  {
-   "id": "d8f49a4e",
-   "title": "İstanbul'da selden etkilenenlerin su faturalarına erteleme ve taksit imkanı getirildi",
-   "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) Genel Kurulu'nda, kentte 13-18 Ekim tarihlerindeki yoğun yağıştan etkilenen vatandaşların ekim ayı su faturalarının 4 ay ertelenmesi veya 6 eşit taksitle ödenmesi…",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-selden-etkilenenlerin-su-faturalarina-erteleme-ve-taksit-imkani-getirildi/4129797",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T20:05:20+00:00",
-   "url": "/haber/istanbul-da-selden-etkilenenlerin-su-faturalarina-erteleme-ve-taksit-i-d8f49a4e/"
   },
   {
    "id": "e81ec85b",
