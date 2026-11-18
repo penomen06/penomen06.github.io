@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-18T04:01:01.221967+00:00",
+ "updated": "2026-11-18T04:30:58.312043+00:00",
  "items": [
   {
-   "id": "0a5eb190",
-   "title": "NATO'nun dev teknoloji fuarı ilk kez Türkiye'de",
-   "summary": "NATO EDGE 26, 25 ülkeden 284 firmayla Fuar İzmir'de başladı. SSB Başkanı Haluk Görgün, savunma ihracatının yüzde 56'sının NATO ülkelerine yapıldığını açıkladı.",
-   "link": "https://shiftdelete.net/nato-edge-26-izmir-turk-savunma-sanayii",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nato-edge-26-izmir-kapak-1811.webp",
+   "id": "1f059fdb",
+   "title": "Tesla'dan Almanya'ya 1 milyon robotaksilik plan",
+   "summary": "Tesla, Grünheide'deki fabrikasına 3 milyar euroluk Cybercab tesisi eklemeyi planlıyor. Hedef yılda 1 milyon robotaksi, üretim 2029'da başlayacak.",
+   "link": "https://shiftdelete.net/tesla-giga-berlin-3-milyar-euro-cybercab-fabrikasi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/tesla-giga-berlin-resmi-kapak-1811.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
-   "date": "2026-11-18T04:00:07+00:00",
-   "url": "/haber/nato-nun-dev-teknoloji-fuari-ilk-kez-turkiye-de-0a5eb190/"
+   "date": "2026-11-18T04:30:07+00:00",
+   "url": "/haber/tesla-dan-almanya-ya-1-milyon-robotaksilik-plan-1f059fdb/"
   },
   {
    "id": "9ae6e5ad",
@@ -20,15 +20,26 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-18T04:00:00+00:00",
+   "date": "2026-11-18T04:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9ae6e5ad/"
+  },
+  {
+   "id": "0a5eb190",
+   "title": "NATO'nun dev teknoloji fuarı ilk kez Türkiye'de",
+   "summary": "NATO EDGE 26, 25 ülkeden 284 firmayla Fuar İzmir'de başladı. SSB Başkanı Haluk Görgün, savunma ihracatının yüzde 56'sının NATO ülkelerine yapıldığını açıkladı.",
+   "link": "https://shiftdelete.net/nato-edge-26-izmir-turk-savunma-sanayii",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nato-toplanti-salonu-kapak-1811.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-18T04:00:07+00:00",
+   "url": "/haber/nato-nun-dev-teknoloji-fuari-ilk-kez-turkiye-de-0a5eb190/"
   },
   {
    "id": "14f94df6",
    "title": "Waymo, robotaksilerini otoyoldan çekti",
    "summary": "Kaliforniya DMV, Waymo robotaksilerini otoyollarda 'yakın tehlike' sayarak yasakladı; Waymo da ABD genelinde otoyol yolculuklarını durdurdu.",
    "link": "https://shiftdelete.net/waymo-otoyol-yasagi-kaliforniya-dmv-robotaksi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/waymo-robotaksi-kapak-1811.webp",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/waymo-resmi-kapak-1811.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-18T03:30:08+00:00",
@@ -39,7 +50,7 @@
    "title": "Nvidia, Huang'sız ilk bilançoda rekor kırdı",
    "summary": "Nvidia, Jensen Huang'ın ayrılmasından sonraki ilk bilançosunda 115,8 milyar dolar gelir açıkladı ve yeni çeyrek için 130 milyar dolar bekliyor.",
    "link": "https://shiftdelete.net/nvidia-ucuncu-ceyrek-115-8-milyar-dolar-gelir",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nvidia-genel-merkez-kapak-1811.webp",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nvidia-voyager-resmi-kapak-1811.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-18T03:00:08+00:00",
@@ -715,17 +726,6 @@
    "category": "gundem",
    "date": "2026-11-17T15:11:30+00:00",
    "url": "/haber/bakan-fidan-mekke-ittifaki-na-yeni-ulkelerin-katilimini-isteriz-7ea64cc1/"
-  },
-  {
-   "id": "3b6c368d",
-   "title": "Apple, Liquid Glass'ı yumuşatmayı deniyor",
-   "summary": "Apple, iPhone'larda gezinme çubuklarına iOS 26'daki yumuşak geçiş görünümünü geri getiren bir değişikliği test ediyor.",
-   "link": "https://shiftdelete.net/apple-liquid-glass-yumusak-gecis-ios-27-3",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/apple-liquid-glass-kapak-1711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-17T15:05:07+00:00",
-   "url": "/haber/apple-liquid-glass-i-yumusatmayi-deniyor-3b6c368d/"
   },
   {
    "id": "02c9d66c",
