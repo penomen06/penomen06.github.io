@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T00:30:56.438310+00:00",
+ "updated": "2026-11-18T01:01:02.599723+00:00",
  "items": [
+  {
+   "id": "bccf76a8",
+   "title": "Marmara'da fırtına. BUDO'nun 12 seferi iptal edildi",
+   "summary": "Bursa Deniz Otobüsleri (BUDO) işletmesinden yapılan bilgilendirmede olumsuz hava koşulları sebebiyle 12 seferin iptal edildiği belirtildi.",
+   "link": "https://www.ntv.com.tr/turkiye/marmarada-firtina-budonun-12-seferi-iptal-edildi-1751364",
+   "image": "https://images.ntv.com.tr/images/budodenizotobüsümarmarafırtına-143027.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-18T01:00:21+00:00",
+   "url": "/haber/marmara-da-firtina-budo-nun-12-seferi-iptal-edildi-bccf76a8/"
+  },
   {
    "id": "9ae6e5ad",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Kasım 2026",
@@ -9,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-18T00:30:01+00:00",
+   "date": "2026-11-18T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9ae6e5ad/"
+  },
+  {
+   "id": "ee3b6daf",
+   "title": "İstanbul'da fırtına alarmı. Saat verildi, hızı 60 kilometreye kadar çıkacak",
+   "summary": "Yurdun batı bölgesinde şiddetli lodos etkili. Bugün İstanbul dahil 12 il için sarı kod verilirken lodosun hızının saatte 60 kilometre hıza çıkması bekleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-firtina-alarmi-hizi-60-kilometreye-kadar-cikacak-1751363",
+   "image": "https://images.ntv.com.tr/images/AA-20261113-43070432-43070422-ISTANBULDA_LODOS-737603.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-18T00:39:30+00:00",
+   "url": "/haber/istanbul-da-firtina-alarmi-saat-verildi-hizi-60-kilometreye-kadar-cika-ee3b6daf/"
   },
   {
    "id": "30426f4e",
@@ -33,6 +55,17 @@
    "category": "gundem",
    "date": "2026-11-18T00:22:31+00:00",
    "url": "/haber/rooney-manchester-united-dayken-intihar-etmeyi-dusundum-8b8f1548/"
+  },
+  {
+   "id": "b36ab280",
+   "title": "Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Londra'da anlatılıyor",
+   "summary": "Londra'daki V&A Müzesi'nde açılan \"Konstantinopolis'ten İstanbul'a: Bir Şehir İki İmparatorluk\" sergisi, İstanbul'un Bizans ve Osmanlı imparatorluklarına başkentlik yaptığı yaklaşık 1.600 yıllık dönemin hikayesini…",
+   "link": "https://www.bbc.com/turkce/articles/c39w9l1vk99vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b97/live/d9724940-e1d7-11f1-a094-5fdc692f3e33.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-18T00:18:04+00:00",
+   "url": "/haber/bizans-tan-osmanli-ya-istanbul-un-1-600-yillik-hikayesi-londra-da-anla-b36ab280/"
   },
   {
    "id": "61c2d00c",
@@ -376,17 +409,6 @@
    "url": "/haber/apple-in-2027-de-tanitacagi-modeller-belli-oldu-iste-beklenen-yenilikl-72fd1598/"
   },
   {
-   "id": "f4d7bf9a",
-   "title": "Fon soruşturması kapsamında dört şirkete kayyum atandı",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında dört finans şirketine Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyum olarak atandı. Bugün yönetimine el konulan kuruluşlar; Adil Katılım…",
-   "link": "https://www.bbc.com/turkce/articles/cjg46z4dv6qdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6fe2/live/defbf280-e2a9-11f1-8226-87dfa5049e9a.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-17T17:12:16+00:00",
-   "url": "/haber/fon-sorusturmasi-kapsaminda-dort-sirkete-kayyum-atandi-f4d7bf9a/"
-  },
-  {
    "id": "9cd15aa3",
    "title": "GTA 6 Türkiye'de saat kaçta açılıyor?",
    "summary": "Rockstar, GTA 6'nın her bölgede yerel saatle 19 Kasım gece yarısı açılacağını doğruladı. Yeni Zelanda hilesiyle oyunu daha erken oynamak da mümkün.",
@@ -473,17 +495,6 @@
    "category": "gundem",
    "date": "2026-11-17T16:42:00+00:00",
    "url": "/haber/bakan-gurlek-fon-sorusturmasinda-129-supheli-tutuklu-bulunmaktadir-8cb6fe7f/"
-  },
-  {
-   "id": "b8e78030",
-   "title": "Bankayı fon manipülasyonunda kullanmışlar",
-   "summary": "Fon soruşturmasında Adil Katılım Bankası, Adil Varlık Yönetim, Adil Tasarruf Finansman ve Dünya Varlık Yönetim AŞ.'ye Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyum olarak atandı.",
-   "link": "https://www.ntv.com.tr/turkiye/bankayi-fon-manipulasyonunda-kullanmislar-1751325",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_53deb6125e8d976433840c0c4e55ce73-707808.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T16:39:02+00:00",
-   "url": "/haber/bankayi-fon-manipulasyonunda-kullanmislar-b8e78030/"
   },
   {
    "id": "cc2c1d05",
@@ -739,17 +750,6 @@
    "url": "/haber/xiaomi-18-pro-serisi-kuresel-pazarda-tanitildi-07d5f600/"
   },
   {
-   "id": "5f3c4d46",
-   "title": "Fon krizi bürokrasi ve siyasette kimleri, nasıl etkiledi?",
-   "summary": "Eylül ayında ortaya çıkan fon krizi, finans çevreleri dışında bürokrasi ve siyaset kadrolarını da etkiledi. Bu sürecin bürokrat, eski bürokrat ve siyasetçileri nasıl etkilediğini inceledik.",
-   "link": "https://www.bbc.com/turkce/articles/cq9vwk9rrrn9o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0958/live/3bfca070-b8fb-11f1-b1d1-571ed4d7ff2c.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-17T13:41:45+00:00",
-   "url": "/haber/fon-krizi-burokrasi-ve-siyasette-kimleri-nasil-etkiledi-5f3c4d46/"
-  },
-  {
    "id": "a056bfc6",
    "title": "Fon soruşturması kapsamında 4 şirkete kayyum atandı",
    "summary": "Tasarruf Mevduatı Sigorta Fonu (TMSF), İstanbul Cumhuriyet Başsavcılığınca sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında, Adil Katılım Bankası AŞ'nin de aralarında…",
@@ -825,17 +825,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T13:26:59+00:00",
    "url": "/haber/iphone-20-pro-nun-tasarimi-ortaya-cikti-simdiye-kadarki-en-farkli-ipho-613e2d8b/"
-  },
-  {
-   "id": "dbe7ffd6",
-   "title": "Bakan Uraloğlu'ndan HGS açıklaması: Yarın toplantı yapılacak",
-   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, HGS şikayetlerinin sorgulama sistemindeki değişiklik sonrası arttığını söyledi. Uraloğlu, otoyol işletmecileriyle bir toplantı yapacaklarını anlattı.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-uraloglundan-hgs-aciklamasi-yarin-toplanti-yapilacak-1751314",
-   "image": "https://images.ntv.com.tr/images/otoyol-hgs-geçiş-321500.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-17T13:22:32+00:00",
-   "url": "/haber/bakan-uraloglu-ndan-hgs-aciklamasi-yarin-toplanti-yapilacak-dbe7ffd6/"
   },
   {
    "id": "9ec7423f",
@@ -1210,6 +1199,17 @@
    "category": "gundem",
    "date": "2026-11-16T08:13:00+00:00",
    "url": "/haber/kimlik-ve-ehliyetlerde-10-yil-uyarisi-74499194/"
+  },
+  {
+   "id": "f8da079f",
+   "title": "Bugün vücut sıcaklığımız neden atalarımızdan daha düşük?",
+   "summary": "150 yıl önce, ortalama insan vücut ısısının günümüzdekinden daha yüksek olduğu görülüyor. Bilim insanları bunun tam olarak nedenini hâlâ araştırıyor.",
+   "link": "https://www.bbc.com/turkce/articles/c6wyvv1vvjv5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/719d/live/44a0fef0-d9d1-11f1-a701-fddedf244c16.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-16T06:22:05+00:00",
+   "url": "/haber/bugun-vucut-sicakligimiz-neden-atalarimizdan-daha-dusuk-f8da079f/"
   },
   {
    "id": "9fd53407",
