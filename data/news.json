@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-18T20:01:03.308034+00:00",
+ "updated": "2026-11-18T20:30:54.281255+00:00",
  "items": [
+  {
+   "id": "f5385357",
+   "title": "Bakan Fidan, Azerbaycanlı mevkidaşı Bayramov ile telefonda görüştü",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Azerbaycan Dışişleri Bakanı Ceyhun Bayramov ile telefon görüşmesi gerçekleştirdi. Görüşmede ikili ilişkiler ve bölgesel konular ele alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-fidan-azerbaycanli-mevkidasi-bayramov-ile-telefonda-gorustu-1751508",
+   "image": "https://images.ntv.com.tr/images/fidan-933387(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-18T20:25:20+00:00",
+   "url": "/haber/bakan-fidan-azerbaycanli-mevkidasi-bayramov-ile-telefonda-gorustu-f5385357/"
+  },
+  {
+   "id": "bc542deb",
+   "title": "NYT: Trump, Vance'in \"seçimleri İran savaşı yüzünden kaybettikleri\" açıklamasından rahatsız",
+   "summary": "ABD medyası, Başkan Donald Trump'ın, Başkan Yardımcısı JD Vance'in \"3 Kasım'daki seçimleri, İran'la savaş yüzünden kaybettikleri\" yönündeki açıklamasından rahatsız olduğunu iddia etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/nyt-trump-vancein-secimleri-iran-savasi-yuzunden-kaybettikleri-aciklamasindan-rahatsiz/4129810",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T20:22:43+00:00",
+   "url": "/haber/nyt-trump-vance-in-secimleri-iran-savasi-yuzunden-kaybettikleri-acikla-bc542deb/"
+  },
+  {
+   "id": "6067e31b",
+   "title": "Mercedes, Tesla FSD’ye rakip sistemini Avrupa’ya getiriyor",
+   "summary": "Mercedes, Tesla FSD’ye rakip yeni sistemini 2027’de Almanya ve ABD’ye getiriyor. Sistem, şehir içinde dönüşleri, şerit değişikliklerini ve trafik ışıklarında durup kalkmayı sürücü gözetiminde yapacak.",
+   "link": "https://www.donanimhaber.com/mercedes-tesla-fsd-ye-rakip-sistemini-avrupa-ya-getiriyor--213073",
+   "image": "https://www.donanimhaber.com/images/images/haber/213073/1200x675mercedes-tesla-fsd-ye-rakip-sistemini-avrupa-ya-getiriyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-18T20:15:00+00:00",
+   "url": "/haber/mercedes-tesla-fsd-ye-rakip-sistemini-avrupa-ya-getiriyor-6067e31b/"
+  },
+  {
+   "id": "f2bdb641",
+   "title": "Fed tutanakları yetkililerin neredeyse tamamının ilave faiz artışı beklediğini gösterdi",
+   "summary": "Fed'in son toplantısına ilişkin tutanakları, Fed yetkililerinin neredeyse tamamının, enflasyonun zamanında hedefe dönmesini sağlamak için politika faizini artırmaya yönelik ilave adımların muhtemelen uygun olacağını…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fed-tutanaklari-yetkililerin-neredeyse-tamaminin-ilave-faiz-artisi-bekledigini-gosterdi/4129801",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T20:11:50+00:00",
+   "url": "/haber/fed-tutanaklari-yetkililerin-neredeyse-tamaminin-ilave-faiz-artisi-bek-f2bdb641/"
+  },
+  {
+   "id": "d8f49a4e",
+   "title": "İstanbul'da selden etkilenenlerin su faturalarına erteleme ve taksit imkanı getirildi",
+   "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) Genel Kurulu'nda, kentte 13-18 Ekim tarihlerindeki yoğun yağıştan etkilenen vatandaşların ekim ayı su faturalarının 4 ay ertelenmesi veya 6 eşit taksitle ödenmesi…",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-selden-etkilenenlerin-su-faturalarina-erteleme-ve-taksit-imkani-getirildi/4129797",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T20:05:20+00:00",
+   "url": "/haber/istanbul-da-selden-etkilenenlerin-su-faturalarina-erteleme-ve-taksit-i-d8f49a4e/"
+  },
   {
    "id": "e81ec85b",
    "title": "Gassal final sezonuyla ekranlara veda ediyor",
@@ -266,17 +321,6 @@
    "url": "/haber/tesla-elektrik-altyapisini-degistirebilecek-yeni-teknolojisi-powercore-cd853e94/"
   },
   {
-   "id": "f5385357",
-   "title": "Bakan Fidan, Azerbaycanlı mevkidaşı Bayramov ile telefonda görüştü",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Azerbaycan Dışişleri Bakanı Ceyhun Bayramov ile telefon görüşmesi gerçekleştirdi. Görüşmede ikili ilişkiler ve bölgesel konular ele alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-fidan-azerbaycanli-mevkidasi-bayramov-ile-telefonda-gorustu-1751508",
-   "image": "https://images.ntv.com.tr/images/fidan-933387(3).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-18T18:14:51+00:00",
-   "url": "/haber/bakan-fidan-azerbaycanli-mevkidasi-bayramov-ile-telefonda-gorustu-f5385357/"
-  },
-  {
    "id": "0b4c7971",
    "title": "Dışişleri Bakanı Fidan, Azerbaycan Dışişleri Bakanı Bayramov ile telefonda görüştü",
    "summary": "Dışişleri Bakanı Hakan Fidan, Azerbaycan Dışişleri Bakanı Ceyhun Bayramov ile telefonda ikili ilişkileri ve bölgesel konuları ele aldı.",
@@ -409,17 +453,6 @@
    "url": "/haber/antalya-buyuksehir-belediye-baskanvekili-busra-ozdemir-chp-den-istifa-dd3de399/"
   },
   {
-   "id": "5dba9582",
-   "title": "Mısır: Türkiye ile ticaret hacmi 2025'te 6,8 milyar dolara yükseldi",
-   "summary": "Mısır'da kurulan 1869 Türk şirketinin toplam yatırım tutarı 921,5 milyon dolara, sağladığı istihdam yaklaşık 43 bin 900 kişiye ulaştı.",
-   "link": "https://www.aa.com.tr/tr/dunya/misir-turkiye-ile-ticaret-hacmi-2025te-6-8-milyar-dolara-yukseldi/4129655",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T17:10:02+00:00",
-   "url": "/haber/misir-turkiye-ile-ticaret-hacmi-2025-te-6-8-milyar-dolara-yukseldi-5dba9582/"
-  },
-  {
    "id": "438bcb11",
    "title": "Türk Kızılay Kanunu Teklifi TBMM Genel Kurulunda kabul edildi",
    "summary": "Türk Kızılay Kanunu Teklifi, TBMM Genel Kurulunda kabul edildi. Kanunla, Türk Kızılay Derneğinin görev alanına giren faaliyetleri daha etkin bir yapıda yürütebilmesi için görev ve yetkileriyle hak ve muafiyetleri…",
@@ -473,28 +506,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T16:35:07+00:00",
    "url": "/haber/vivo-x-fold7-de-snapdragon-donusu-fiyata-bagli-cbe71df5/"
-  },
-  {
-   "id": "fd817fc4",
-   "title": "Çekya, Slovakya ve Letonya'daki okullara yönelik bomba tehditleriyle ilgili şüpheli gözaltına alındı",
-   "summary": "Eurojust, Çekya, Slovakya ve Letonya'daki okullara yönelik bomba tehditleriyle ilgili soruşturmada, geçen yıl gözaltına alınıp serbest bırakılan şüphelinin eylül başında Ukrayna'da yeniden gözaltına alındığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/cekya-slovakya-ve-letonyadaki-okullara-yonelik-bomba-tehditleriyle-ilgili-supheli-gozaltina-alindi/4129629",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T16:34:50+00:00",
-   "url": "/haber/cekya-slovakya-ve-letonya-daki-okullara-yonelik-bomba-tehditleriyle-il-fd817fc4/"
-  },
-  {
-   "id": "490beaed",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz Özbekistan'da",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Özbekistan-Türkiye İş Dünyası Yüksek Düzeyli Konsey Toplantısı'na katılmak üzere Özbekistan'ın başkenti Taşkent'e geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-ozbekistanda-/4129624",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T16:31:55+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-ozbekistan-da-490beaed/"
   },
   {
    "id": "63234873",
@@ -583,17 +594,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T15:53:11+00:00",
    "url": "/haber/amerika-daki-kesintilerin-nedeni-ne-hakki-alkan-amerika-dan-anlatti-4618d1f5/"
-  },
-  {
-   "id": "c1dab26c",
-   "title": "Mercedes C 111’i ilk kez satıyor: 25 yıl başka örneğini satmayacak",
-   "summary": "Mercedes, bugüne kadar hiç satmadığı C 111-II’nin bir örneğini açık artırmaya çıkarıyor. Marka, en az 25 yıl başka bir C 111 satmayacak. Otomobil için 25 milyon euronun üzerinde bir değer öngörülüyor.",
-   "link": "https://www.donanimhaber.com/mercedes-c111-i-ilk-kez-satiyor-25-yil-baska-ornegini-satmayacak--213086",
-   "image": "https://www.donanimhaber.com/images/images/haber/213086/1200x675mercedes-c111-i-ilk-kez-satiyor-25-yil-baska-ornegini-satmayacak.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-18T15:45:00+00:00",
-   "url": "/haber/mercedes-c-111-i-ilk-kez-satiyor-25-yil-baska-ornegini-satmayacak-c1dab26c/"
   },
   {
    "id": "e527fe61",
