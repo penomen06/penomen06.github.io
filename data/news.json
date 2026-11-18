@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T08:01:03.409982+00:00",
+ "updated": "2026-11-18T08:30:54.720070+00:00",
  "items": [
   {
    "id": "9ae6e5ad",
@@ -9,8 +9,239 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-18T08:00:01+00:00",
+   "date": "2026-11-18T08:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9ae6e5ad/"
+  },
+  {
+   "id": "f15eaf13",
+   "title": "Dünyayı kaldıran isim: Naim Süleymanoğlu",
+   "summary": "Vefatının üzerinden 9 yıl geçen milli halterci Naim Süleymanoğlu, aktif sporculuk kariyerinde sadece Türk sporuna değil, dünya sporuna da damga vurdu.",
+   "link": "https://www.aa.com.tr/tr/spor/dunyayi-kaldiran-isim-naim-suleymanoglu/4128734",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:26:34+00:00",
+   "url": "/haber/dunyayi-kaldiran-isim-naim-suleymanoglu-f15eaf13/"
+  },
+  {
+   "id": "93028e2e",
+   "title": "Bitlis'te tır ile otobüsün çarpıştığı kazada 10 yolcu yaralandı",
+   "summary": "Bitlis'in Tatvan ilçesinde tır ile şehirlerarası yolcu otobüsünün çarpışması sonucu 10 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bitliste-tir-ile-otobusun-carpistigi-kazada-10-yolcu-yaralandi/4128733",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:26:14+00:00",
+   "url": "/haber/bitlis-te-tir-ile-otobusun-carpistigi-kazada-10-yolcu-yaralandi-93028e2e/"
+  },
+  {
+   "id": "000d8a4b",
+   "title": "Huawei Mate X8, ekran kat izini gerçek anlamda gizleyen ilk model olabilir",
+   "summary": "Yatay formlu yeni katlanabilir telefon Huawei Mate X8, beş farklı renk seçeneğiyle yolda ve yeni yayınlanan videoya göre ekrandaki kat izini mat bir kaplamaya başvurmadan neredeyse tamamen ortadan kaldırıyor. İlk…",
+   "link": "https://www.log.com.tr/huawei-mate-x8-ekran-kat-izini-gercek-anlamda-gizleyen-ilk-model-olabilir/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-18_11-24-26_iMjJD-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-18T08:25:50+00:00",
+   "url": "/haber/huawei-mate-x8-ekran-kat-izini-gercek-anlamda-gizleyen-ilk-model-olabi-000d8a4b/"
+  },
+  {
+   "id": "ae203e37",
+   "title": "Kocaelispor'un Selçuk İnan ile \"istikrarlı birlikteliği\"",
+   "summary": "Trendyol Süper Lig ekiplerinden Kocaelispor'da teknik direktör Selçuk İnan ile yaklaşık 17 aydır devam eden \"istikrarlı birliktelik\" Körfez ekibinin performansında ön plana çıkıyor.",
+   "link": "https://www.aa.com.tr/tr/spor/kocaelisporun-selcuk-inan-ile-istikrarli-birlikteligi/4128726",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:21:15+00:00",
+   "url": "/haber/kocaelispor-un-selcuk-inan-ile-istikrarli-birlikteligi-ae203e37/"
+  },
+  {
+   "id": "ec873e25",
+   "title": "Avrupa İnsan Hakları Mahkemesi'nden Can Atalay kararı",
+   "summary": "Avrupa İnsan Hakları Mahkemesi (AİHM), Can Atalay için hak ihlali kararı verdi. Kararda, Atalay'ın serbest bırakılması ve milletvekilliği görevine döndürülmesi gerektiği belirtildi.",
+   "link": "https://www.ntv.com.tr/turkiye/aihmden-can-atalay-karari-1751399",
+   "image": "https://images.ntv.com.tr/images/aihmcanatalay-189963",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-18T08:19:34+00:00",
+   "url": "/haber/avrupa-insan-haklari-mahkemesi-nden-can-atalay-karari-ec873e25/"
+  },
+  {
+   "id": "d3e761e4",
+   "title": "ASELSAN milli sağlık teknolojilerinde yeni ihracat anlaşmalarına imza attı",
+   "summary": "ASELSAN, Almanya'da gerçekleştirilen 58. MEDICA Fuarı kapsamında, milli imkanlarla geliştirdiği sağlık teknolojilerinin farklı coğrafyalara ihracatını sağlamak amacıyla 3 ayrı uluslararası ihracat anlaşması yaptı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsan-milli-saglik-teknolojilerinde-yeni-ihracat-anlasmalarina-imza-atti/4128717",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:18:41+00:00",
+   "url": "/haber/aselsan-milli-saglik-teknolojilerinde-yeni-ihracat-anlasmalarina-imza-d3e761e4/"
+  },
+  {
+   "id": "aa5f340d",
+   "title": "Nesli tehlike altındaki küçük sakarca kazları kışı Erçek Gölü'nde geçiriyor",
+   "summary": "Van'da \"Kuş Cenneti\" olarak nitelendirilen ve göçmen kuşların önemli konaklama alanları arasında bulunan Erçek Gölü, bugünlerde nesli tehlike altında bulunan küçük sakarca kazlarına ev sahipliği yapıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/nesli-tehlike-altindaki-kucuk-sakarca-kazlari-kisi-ercek-golunde-geciriyor/4128713",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:17:25+00:00",
+   "url": "/haber/nesli-tehlike-altindaki-kucuk-sakarca-kazlari-kisi-ercek-golu-nde-geci-aa5f340d/"
+  },
+  {
+   "id": "c0319ce3",
+   "title": "Tüketicinin kırmızı ete daha uygun fiyatlarla ulaşması için yeni adımlara odaklanıldı",
+   "summary": "Ulusal Kırmızı Et Konseyi Başkanı Ahmet Hacıince, \"Hedefimiz, dışa bağımlı olmaksızın ithalatı en aza indiren, verimliliği yüksek, tüketicinin kaliteli ve sağlıklı ürüne uygun fiyatla eriştiği ve ihracata yönelen bir…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tuketicinin-kirmizi-ete-daha-uygun-fiyatlarla-ulasmasi-icin-yeni-adimlara-odaklanildi/4128703",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:14:32+00:00",
+   "url": "/haber/tuketicinin-kirmizi-ete-daha-uygun-fiyatlarla-ulasmasi-icin-yeni-adiml-c0319ce3/"
+  },
+  {
+   "id": "1071bdce",
+   "title": "COP31'in operasyon yönetimi 31 ayrı başlıkta yürütüldü",
+   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31'in operasyonel hazırlıkları, konaklamadan ulaşıma, konferans hizmetlerinden sıfır atık yönetimine kadar 31 ayrı iş başlığında yürütüldü.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31in-operasyon-yonetimi-31-ayri-baslikta-yurutuldu/4128702",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:13:21+00:00",
+   "url": "/haber/cop31-in-operasyon-yonetimi-31-ayri-baslikta-yurutuldu-1071bdce/"
+  },
+  {
+   "id": "47a5de8d",
+   "title": "OpenAI GPT-6.2 Astra ve Sol tanıtıldı",
+   "summary": "OpenAI, GPT-6.2 Astra ve GPT-6.2 Sol modellerini tanıttı. Astra profesyonel ve bilimsel işler için geliyor, Sol ise günlük kullanım ve yapay zeka ajanlarına odaklanıyor.",
+   "link": "https://shiftdelete.net/gpt-6-2-astra-sol-openai-api-fiyati",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/f8517d60d116c586d37194b371c1e5bdb8312085.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-18T08:13:20+00:00",
+   "url": "/haber/openai-gpt-6-2-astra-ve-sol-tanitildi-47a5de8d/"
+  },
+  {
+   "id": "3334beac",
+   "title": "Yenilenebilir enerji ve elektrifikasyon fosil yakıt bağımlılığına çözüm sunuyor",
+   "summary": "Global Renewables Alliance Üst Yöneticisi Bruce Douglas, yenilenebilir enerji ve elektrifikasyonun ülkelerin enerji güvenliğini güçlendirmede önemli rol oynayabileceğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yenilenebilir-enerji-ve-elektrifikasyon-fosil-yakit-bagimliligina-cozum-sunuyor/4128698",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:12:24+00:00",
+   "url": "/haber/yenilenebilir-enerji-ve-elektrifikasyon-fosil-yakit-bagimliligina-cozu-3334beac/"
+  },
+  {
+   "id": "cc929fa4",
+   "title": "Nvidia, Jensen Huang'ı CEO olarak geri getirmeyi düşünmüyor",
+   "summary": "Nvidia yönetim kurulu, Jensen Huang'ın CEO olarak koltuğuna geri dönmeyeceğini açıkladı. Şirket, 115,8 milyar dolarlık rekor gelir açıklarken yeni CEO arayışını sürdürüyor.",
+   "link": "https://www.donanimhaber.com/nvidia-jensen-huang-i-ceo-olarak-geri-getirmeyi-dusunmuyor--213058",
+   "image": "https://www.donanimhaber.com/images/images/haber/213058/1200x675nvidia-jensen-huang-i-ceo-olarak-geri-getirmeyi-dusunmuyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-18T08:11:00+00:00",
+   "url": "/haber/nvidia-jensen-huang-i-ceo-olarak-geri-getirmeyi-dusunmuyor-cc929fa4/"
+  },
+  {
+   "id": "e0b60664",
+   "title": "Kayseri Kadın Futbol Takımı, Süper Lig'de kalıcı olmak için mücadele ediyor",
+   "summary": "Suwen Kadın Futbol Süper Ligi ekiplerinden Karademir Grup Kayseri Kadın Futbol Takımı'nın teknik direktörü Enes Karakaya, iki yıl sonra döndükleri Süper Lig'de kalıcı olmak istediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/kayseri-kadin-futbol-takimi-super-ligde-kalici-olmak-icin-mucadele-ediyor-/4128695",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:09:42+00:00",
+   "url": "/haber/kayseri-kadin-futbol-takimi-super-lig-de-kalici-olmak-icin-mucadele-ed-e0b60664/"
+  },
+  {
+   "id": "880dda90",
+   "title": "GTA 6 çıkış günü okullarda devamsızlık alarmı",
+   "summary": "GTA 6 okul devamsızlığı İngiltere'de okulları harekete geçirdi. Bazı okullar velilere uyarı notu gönderdi, Belfast'taki bir okul ise gelen öğrencilere hediye kartı vaat etti.",
+   "link": "https://shiftdelete.net/gta-6-okul-devamsizligi-cikis-gunu",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/gta-6-cikis-saati-kapak-1711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-18T08:09:04+00:00",
+   "url": "/haber/gta-6-cikis-gunu-okullarda-devamsizlik-alarmi-880dda90/"
+  },
+  {
+   "id": "6ecad61d",
+   "title": "Batı Şeria'daki saldırının tanığı Filistinli: İsrailliler, çocukların çığlıklarına rağmen ateş açmayı sürdürdü",
+   "summary": "İşgal altındaki Batı Şeria'da Filistin topraklarını gasbeden İsraillilerin düzenlediği saldırıda, bacağından vurulan Filistinli Ahmed Arif Fuheydat, \"Evin içindeki çocukların çığlıkları dahi İsraillilerin ateş açmayı…",
+   "link": "https://www.aa.com.tr/tr/dunya/bati-seriadaki-saldirinin-tanigi-filistinli-israilliler-cocuklarin-cigliklarina-ragmen-ates-acmayi-surdurdu/4128689",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:08:24+00:00",
+   "url": "/haber/bati-seria-daki-saldirinin-tanigi-filistinli-israilliler-cocuklarin-ci-6ecad61d/"
+  },
+  {
+   "id": "d53ad9be",
+   "title": "Arakanlı Müslümanlara yönelik soykırım davasında karar yarın açıklanacak",
+   "summary": "Uluslararası Adalet Divanı (UAD), Gambiya'nın Myanmar aleyhine açtığı soykırım davasındaki kararını yarın açıklayacak.",
+   "link": "https://www.aa.com.tr/tr/dunya/arakanli-muslumanlara-yonelik-soykirim-davasinda-karar-yarin-aciklanacak/4128688",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:08:16+00:00",
+   "url": "/haber/arakanli-muslumanlara-yonelik-soykirim-davasinda-karar-yarin-aciklanac-d53ad9be/"
+  },
+  {
+   "id": "156386d0",
+   "title": "Almanya'da terör örgütü NSU'nun ifşa olmasının üzerinden 15 yıl geçse de karanlık noktalar aydınlatılmadı",
+   "summary": "Almanya'da 8'i Türk 10 kişiyi öldüren aşırı sağcı Nasyonal Sosyalist Yeraltı (NSU) terör örgütünün ifşa olmasının üzerinden 15 yıl geçmesine rağmen cinayetlerin arka planı ve örgütün bağlantıları tam olarak…",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyada-teror-orgutu-nsunun-ifsa-olmasinin-uzerinden-15-yil-gecse-de-karanlik-noktalar-aydinlatilmadi/4128687",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:08:06+00:00",
+   "url": "/haber/almanya-da-teror-orgutu-nsu-nun-ifsa-olmasinin-uzerinden-15-yil-gecse-156386d0/"
+  },
+  {
+   "id": "5d66cffa",
+   "title": "Kışlık hububat ekilişlerinde gözler yağışlarda",
+   "summary": "Türkiye'de kışlık hububat ekilişleri, sonbahar yağışlarının olumlu katkısı sayesinde güçlü ve istikrarlı seyir izlerken yağışların zamanlaması ekilişlerin tamamlanmasında belirleyici olacak.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kislik-hububat-ekilislerinde-gozler-yagislarda/4128681",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:06:06+00:00",
+   "url": "/haber/kislik-hububat-ekilislerinde-gozler-yagislarda-5d66cffa/"
+  },
+  {
+   "id": "64aa2d9e",
+   "title": "MEB, hazırladığı özel etkinliklerle 24 Kasım'ı kutlayacak",
+   "summary": "Milli Eğitim Bakanlığı (MEB), 24 Kasım Öğretmenler Günü dolayısıyla 81 ilden temsilci öğretmenlerin Ankara'da ağırlanacağı, ülke genelinde kültürel, sanatsal, bilimsel ve sportif faaliyetlerin gerçekleştirileceği…",
+   "link": "https://www.aa.com.tr/tr/gundem/meb-hazirladigi-ozel-etkinliklerle-24-kasimi-kutlayacak/4128680",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:05:55+00:00",
+   "url": "/haber/meb-hazirladigi-ozel-etkinliklerle-24-kasim-i-kutlayacak-64aa2d9e/"
+  },
+  {
+   "id": "2a3358aa",
+   "title": "Disney+ ve Hulu aralıkta tek uygulama oluyor",
+   "summary": "Disney+ ve Hulu aralık ayında tek uygulamada birleşiyor. Disney, dördüncü çeyrek raporunda aboneler için tamamen birleşik bir deneyim hazırladığını duyurdu.",
+   "link": "https://shiftdelete.net/disney-plus-hulu-aralikta-tek-uygulama",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/c1bcc70bf7249146a13e3250f1f1ac69257cf05b.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-18T08:05:07+00:00",
+   "url": "/haber/disney-ve-hulu-aralikta-tek-uygulama-oluyor-2a3358aa/"
+  },
+  {
+   "id": "d81f68d1",
+   "title": "Türk sinemasında yeni bir anlatım dilinin öncüsü: Ömer Lütfi Akad",
+   "summary": "Türk sinemasının \"Koca Çınar\"ı ve \"Ustasız Usta\" olarak anılan unutulmaz yönetmen, senarist ve akademisyen Ömer Lütfi Akad, vefatının 15. yılında anılıyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/turk-sinemasinda-yeni-bir-anlatim-dilinin-oncusu-omer-lutfi-akad/4128676",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T08:03:31+00:00",
+   "url": "/haber/turk-sinemasinda-yeni-bir-anlatim-dilinin-oncusu-omer-lutfi-akad-d81f68d1/"
   },
   {
    "id": "7eac5cd5",
@@ -22,17 +253,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T07:55:19+00:00",
    "url": "/haber/whatsapp-kendi-bulut-yedekleme-sistemini-sunmaya-basladi-7eac5cd5/"
-  },
-  {
-   "id": "019953a9",
-   "title": "Diyarbakır'daki Karacalar Barajı'nın yapımına başlandı",
-   "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Güneydoğu Anadolu Bölgesi'nin lokomotif projelerinden biri olacak Silvan Projesi kapsamındaki Karacalar Barajı'nın yapımına başladıklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/diyarbakirdaki-karacalar-barajinin-yapimina-baslandi/4128658",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T07:54:40+00:00",
-   "url": "/haber/diyarbakir-daki-karacalar-baraji-nin-yapimina-baslandi-019953a9/"
   },
   {
    "id": "d20b1585",
@@ -68,28 +288,6 @@
    "url": "/haber/petrodolarin-yerini-cip-dolar-alabilir-dolarin-gelecegi-yapay-zekaya-b-aba38bb7/"
   },
   {
-   "id": "461c1c6e",
-   "title": "AB temiz enerji projelerinde izin süreçlerini hızlandıracak",
-   "summary": "Avrupa Birliği (AB) kurumları, yenilenebilir enerji projeleri, elektrik şebekeleri ve enerji depolama tesislerine yönelik izin süreçlerini hızlandıracak düzenleme üzerinde anlaşmaya vardı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ab-temiz-enerji-projelerinde-izin-sureclerini-hizlandiracak/4128647",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T07:46:24+00:00",
-   "url": "/haber/ab-temiz-enerji-projelerinde-izin-sureclerini-hizlandiracak-461c1c6e/"
-  },
-  {
-   "id": "574dcd8c",
-   "title": "Etnospor Kültür Festivali yarın Suudi Arabistan'ın başkenti Riyad'da başlayacak",
-   "summary": "Dünya Etnospor Birliği tarafından düzenlenen Etnospor Kültür Festivali, \"Riyadh Season\" kapsamında yarın Suudi Arabistan'ın başkenti Riyad'da başlayacak.",
-   "link": "https://www.aa.com.tr/tr/spor/etnospor-kultur-festivali-yarin-suudi-arabistanin-baskenti-riyadda-baslayacak/4128638",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T07:41:04+00:00",
-   "url": "/haber/etnospor-kultur-festivali-yarin-suudi-arabistan-in-baskenti-riyad-da-b-574dcd8c/"
-  },
-  {
    "id": "602630f0",
    "title": "Samsung, ekran çerçevelerini tamamen ortadan kaldırmaya hazırlanıyor olabilir",
    "summary": "İddiaya göre Samsung, hiç ekran çerçevesi bulunmayan ya da çerçeveleri neredeyse görünmeyecek kadar ince olan bir Galaxy modeli geliştiriyor. 2027’de resmi olarak görücüye çıkabileceği öne sürülen telefon, Samsung’un en…",
@@ -101,17 +299,6 @@
    "url": "/haber/samsung-ekran-cercevelerini-tamamen-ortadan-kaldirmaya-hazirlaniyor-ol-602630f0/"
   },
   {
-   "id": "d7546aa3",
-   "title": "Lakers'tan üst üste 9. galibiyet",
-   "summary": "Amerikan Basketbol Ligi'nde (NBA) Los Angeles Lakers konuk ettiği Charlotte Hornets'i uzatmalarda 118-114 yenerek üst üste 9. galibiyetini aldı.",
-   "link": "https://www.aa.com.tr/tr/spor/lakerstan-ust-uste-9-galibiyet/4128626",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T07:36:06+00:00",
-   "url": "/haber/lakers-tan-ust-uste-9-galibiyet-d7546aa3/"
-  },
-  {
    "id": "35af1e4d",
    "title": "Nvidia H200 çiplerini Çin'e satmayacak",
    "summary": "Nvidia H200 Çin satışları sona eriyor. Geçici CEO Colette Kress, şirketin bu çipleri artık Çin'e satmayacağını bilanço görüşmesinde açıkladı.",
@@ -121,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T07:35:06+00:00",
    "url": "/haber/nvidia-h200-ciplerini-cin-e-satmayacak-35af1e4d/"
-  },
-  {
-   "id": "0b9ebde3",
-   "title": "ABD'li siyasetçiler, ülkedeki sistem aksamalarına yönelik açıklamalarda \"şeffaflığı\" sorguluyor",
-   "summary": "ABD'de Apple, Microsoft, United Airlines, Chase Bank, NSA ve hava trafik kontrol sisteminde yaşanan aksaklıkların siber saldırılarla bağlantılı olabileceği tartışılırken siyasetçiler, yönetimden ve ilgili kurumlardan…",
-   "link": "https://www.aa.com.tr/tr/dunya/abdli-siyasetciler-ulkedeki-sistem-aksamalarina-yonelik-aciklamalarda-seffafligi-sorguluyor/4128624",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T07:33:53+00:00",
-   "url": "/haber/abd-li-siyasetciler-ulkedeki-sistem-aksamalarina-yonelik-aciklamalarda-0b9ebde3/"
   },
   {
    "id": "0266977d",
@@ -154,17 +330,6 @@
    "category": "gundem",
    "date": "2026-11-18T07:32:51+00:00",
    "url": "/haber/arzu-nun-katledildigi-makasli-vahset-icin-istenen-ceza-belli-oldu-62539200/"
-  },
-  {
-   "id": "706d09f1",
-   "title": "Romanya'da 5,7 büyüklüğündeki depremde 2 kişi yaralandı",
-   "summary": "Romanya'nın doğusundaki Vrancea bölgesinde meydana gelen 5,7 büyüklüğündeki depremde 2 kişinin yaralandığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/romanyada-5-7-buyuklugundeki-depremde-2-kisi-yaralandi/4128622",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T07:32:47+00:00",
-   "url": "/haber/romanya-da-5-7-buyuklugundeki-depremde-2-kisi-yaralandi-706d09f1/"
   },
   {
    "id": "3864e7d9",
@@ -222,17 +387,6 @@
    "url": "/haber/razer-karbon-fiberden-urettigi-iki-yeni-oyuncu-faresini-tanitti-a6d8f3eb/"
   },
   {
-   "id": "d2bcf867",
-   "title": "Ankara merkezli uyuşturucu gelirini aklama soruşturmasında \"Çobanlar Grubu\" elebaşı B.Ç. yakalandı",
-   "summary": "Ankara Cumhuriyet Başsavcılığınca, uyuşturucu ticaretinden elde edilen gelirin aklanması suçuna yönelik yürütülen soruşturmada \"Çobanlar Grubu\" olarak bilinen yapılanmanın elebaşı olduğu belirlenen B.Ç. ve beraberindeki…",
-   "link": "https://www.aa.com.tr/tr/gundem/-ankara-merkezli-uyusturucu-gelirini-aklama-sorusturmasinda-cobanlar-grubu-elebasi-bc-yakalandi/4128617",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T07:27:24+00:00",
-   "url": "/haber/ankara-merkezli-uyusturucu-gelirini-aklama-sorusturmasinda-cobanlar-gr-d2bcf867/"
-  },
-  {
    "id": "7d29f2e8",
    "title": "CHP kurultayı davasında bugün karar açıklanması bekleniyor",
    "summary": "CHP'nin 38'inci Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla aralarında Ekrem İmamoğlu'nun da bulunduğu 12 sanığın yargılandığı davada bugün karar çıkması bekleniyor.",
@@ -242,28 +396,6 @@
    "category": "gundem",
    "date": "2026-11-18T07:26:01+00:00",
    "url": "/haber/chp-kurultayi-davasinda-bugun-karar-aciklanmasi-bekleniyor-7d29f2e8/"
-  },
-  {
-   "id": "319cc093",
-   "title": "Rusya, Ukrayna'da İzmail Limanı'ndaki altyapı tesislerini ve bir gemiyi vurdu",
-   "summary": "Rusya Savunma Bakanlığı, Ukrayna’da askeri amaçlarla kullanılan İzmail Limanı'ndaki altyapı tesislerini ve bir gemiyi vurduklarını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-izmail-limanindaki-altyapi-tesislerini-ve-bir-gemiyi-vurdu/4128613",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T07:23:51+00:00",
-   "url": "/haber/rusya-ukrayna-da-izmail-limani-ndaki-altyapi-tesislerini-ve-bir-gemiyi-319cc093/"
-  },
-  {
-   "id": "9a788abf",
-   "title": "Cambridge Sözlüğü, 2026 yılının kelimesini \"insan\" olarak seçti",
-   "summary": "Cambridge Sözlüğü, yapay zekanın gelişmesiyle insan ve makine arasındaki sınırların daha fazla tartışılması ve teknoloji bağımlılığına ilişkin endişelerin artması nedeniyle 2026 yılının kelimesini \"insan\" (human) olarak…",
-   "link": "https://www.aa.com.tr/tr/kultur/cambridge-sozlugu-2026-yilinin-kelimesini-insan-olarak-secti/4128612",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T07:23:35+00:00",
-   "url": "/haber/cambridge-sozlugu-2026-yilinin-kelimesini-insan-olarak-secti-9a788abf/"
   },
   {
    "id": "cc13097d",
@@ -277,17 +409,6 @@
    "url": "/haber/gemini-da-sohbet-gecmisi-korunurken-yapay-zeka-egitiminden-cikilabilec-cc13097d/"
   },
   {
-   "id": "31054075",
-   "title": "BAE'nin ulusal petrol şirketi ADNOC, bir gemisinin Hürmüz Boğazı'nda saldırıya uğradığını duyurdu",
-   "summary": "Birleşik Arap Emirlikleri'nin (BAE) ulusal petrol şirketi ADNOC'a ait bir geminin, Hürmüz Boğazı'ndan geçişi sırasında saldırıya uğradığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/baenin-ulusal-petrol-sirketi-adnoc-bir-gemisinin-hurmuz-bogazinda-saldiriya-ugradigini-duyurdu/4128602",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T07:19:11+00:00",
-   "url": "/haber/bae-nin-ulusal-petrol-sirketi-adnoc-bir-gemisinin-hurmuz-bogazi-nda-sa-31054075/"
-  },
-  {
    "id": "90ab6c3f",
    "title": "Türkiye'nin geri dönüşüm modeli DOA, COP31'de örnek gösteriliyor",
    "summary": "Türkiye'nin 81 ilde uyguladığı Depozito Yönetim Sistemi kapsamında bugüne kadar 775 milyon ambalaj toplandı. COP31'in Antalya'daki etkinlik alanlarında ise bir haftada 10 bin 100 ambalaj geri dönüşüme kazandırıldı.",
@@ -299,17 +420,6 @@
    "url": "/haber/turkiye-nin-geri-donusum-modeli-doa-cop31-de-ornek-gosteriliyor-90ab6c3f/"
   },
   {
-   "id": "b66d5354",
-   "title": "İşsizlik rakamları açıklandı",
-   "summary": "Türkiye'de işsizlik oranı, bu yılın üçüncü çeyreğinde bir önceki çeyreğe göre 0,1 puan artışla yüzde 8,1 oldu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/issizlik-rakamlari-aciklandi/4128600",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T07:18:57+00:00",
-   "url": "/haber/issizlik-rakamlari-aciklandi-b66d5354/"
-  },
-  {
    "id": "efb6cc1a",
    "title": "The Game Awards 2026 Adayları Açıklandı: GTA 6, Daha Çıkmadan Sekiz Dalda Aday!",
    "summary": "10 Aralık'ta düzenlenecek The Game Awards 2026 adayları açıklandı ve tam sekiz adaylıkla GTA 6 zirveye yerleşti.",
@@ -319,17 +429,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T07:15:52+00:00",
    "url": "/haber/the-game-awards-2026-adaylari-aciklandi-gta-6-daha-cikmadan-sekiz-dald-efb6cc1a/"
-  },
-  {
-   "id": "dab1e5bc",
-   "title": "İstanbul için lodos uyarısı",
-   "summary": "İBB Afet Koordinasyon Merkezi (AKOM), kentte bugünden itibaren etkisini artırması beklenen rüzgarın cuma günü saatte 85 kilometre hıza ulaşabileceğini bildirerek, vatandaşları dikkatli ve tedbirli olmaları konusunda…",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbul-icin-lodos-uyarisi/4128590",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T07:11:27+00:00",
-   "url": "/haber/istanbul-icin-lodos-uyarisi-dab1e5bc/"
   },
   {
    "id": "7e215ccc",
@@ -358,22 +457,11 @@
    "title": "Gemini görevleri ücretsiz oldu, Türkiye yok",
    "summary": "Gemini görevleri artık ücretsiz. Google, daha önce yalnızca Pro ve Ultra abonelerine açık olan kişisel yapay zeka ajanını altı ülkedeki kullanıcılara sunuyor.",
    "link": "https://shiftdelete.net/gemini-gorevleri-ucretsiz-alti-ulke",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/gemini-gorevler-josh-woodward-kapak-1811.webp",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/gemini-gorevler-gorev-ekrani-1811.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-18T07:05:07+00:00",
    "url": "/haber/gemini-gorevleri-ucretsiz-oldu-turkiye-yok-9de477db/"
-  },
-  {
-   "id": "ec873e25",
-   "title": "AİHM'den Can Atalay kararı",
-   "summary": "Avrupa İnsan Hakları Mahkemesi (AİHM), Can Atalay için hak ihlali kararı verdi. Kararda, Atalay'ın serbest bırakılması ve milletvekilliği görevine döndürülmesi gerektiği belirtildi.",
-   "link": "https://www.ntv.com.tr/turkiye/aihmden-can-atalay-karari-1751399",
-   "image": "https://images.ntv.com.tr/images/aihmcanatalay-189963",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-18T07:02:26+00:00",
-   "url": "/haber/aihm-den-can-atalay-karari-ec873e25/"
   },
   {
    "id": "d21cb570",
@@ -396,28 +484,6 @@
    "category": "gundem",
    "date": "2026-11-18T06:58:21+00:00",
    "url": "/haber/bizans-tan-osmanli-ya-istanbul-un-1600-yillik-hikayesi-londra-da-anlat-b36ab280/"
-  },
-  {
-   "id": "c749e042",
-   "title": "Bakan Kurum'dan \"insani ve sosyal kalkınma\" teması paylaşımı",
-   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, zirvenin \"insani ve sosyal kalkınma\" teması gününde Down sendromlu Robert Cem Osborn'u paylaştı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-insani-ve-sosyal-kalkinma-temasi-paylasimi/4128570",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T06:57:35+00:00",
-   "url": "/haber/bakan-kurum-dan-insani-ve-sosyal-kalkinma-temasi-paylasimi-c749e042/"
-  },
-  {
-   "id": "2525ea12",
-   "title": "Arap Koalisyonu: Husiler tarafından atılan bir seyir füzesi Riyad bölgesinde imha edildi",
-   "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, İran destekli Husilere ait bir seyir füzesinin Suudi Arabistan'ın başkenti Riyad bölgesinde tespit edilerek düşürüldüğünü duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husiler-tarafindan-atilan-bir-seyir-fuzesi-riyad-bolgesinde-imha-edildi/4128567",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T06:55:57+00:00",
-   "url": "/haber/arap-koalisyonu-husiler-tarafindan-atilan-bir-seyir-fuzesi-riyad-bolge-2525ea12/"
   },
   {
    "id": "25ec23b9",
@@ -486,17 +552,6 @@
    "url": "/haber/chp-kurultay-davasinda-karar-bekleniyor-cf9db4f3/"
   },
   {
-   "id": "b1514310",
-   "title": "Ardahan ve Ağrı'da kar etkili oluyor",
-   "summary": "Ardahan ve Ağrı'da etkili olan kar yağışı kent merkezi ile dağları yeniden beyaza bürüdü.",
-   "link": "https://www.aa.com.tr/tr/gundem/ardahan-ve-agrida-kar-etkili-oluyor/4128547",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T06:42:49+00:00",
-   "url": "/haber/ardahan-ve-agri-da-kar-etkili-oluyor-b1514310/"
-  },
-  {
    "id": "9e7ef7a5",
    "title": "WhatsApp Mesajları Etiketlere Boğacak: Tek Bir Mesaja 20 Farklı Sticker Eklenebilecek",
    "summary": "WhatsApp, Android’de mesajlara etiketle tepki verme özelliğini test ediyor.",
@@ -550,17 +605,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T06:32:15+00:00",
    "url": "/haber/microsoft-ignite-2026-da-yedi-yeni-yapay-zeka-modeli-tanitti-9eab7c85/"
-  },
-  {
-   "id": "5fc2cc26",
-   "title": "Ulaştırma ve Altyapı Bakanı, HGS’ye ilişkin açıklamalarda bulundu",
-   "summary": "Son günlerde otoyol geçiş ücretleri ve HGS ile alakalı olarak sosyal medyada bazı konuların gündeme geldiğini ifade eden Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, yaptığı açıklamada süreci hem Bakanlık hem de…",
-   "link": "https://www.log.com.tr/ulastirma-ve-altyapi-bakani-hgsye-iliskin-aciklamalarda-bulundu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2024/08/bakan-uraloglu-baska-platformlarin-kapatilmasiyla-ilgili-bir-surec-yok-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-18T06:24:25+00:00",
-   "url": "/haber/ulastirma-ve-altyapi-bakani-hgs-ye-iliskin-aciklamalarda-bulundu-5fc2cc26/"
   },
   {
    "id": "0c797b9b",
@@ -706,28 +750,6 @@
    "url": "/haber/waymo-robotaksilerini-otoyoldan-cekti-14f94df6/"
   },
   {
-   "id": "72a771b5",
-   "title": "Nvidia, Huang'sız ilk bilançoda rekor kırdı",
-   "summary": "Nvidia, Jensen Huang'ın ayrılmasından sonraki ilk bilançosunda 115,8 milyar dolar gelir açıkladı ve yeni çeyrek için 130 milyar dolar bekliyor.",
-   "link": "https://shiftdelete.net/nvidia-ucuncu-ceyrek-115-8-milyar-dolar-gelir",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nvidia-voyager-resmi-kapak-1811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-18T03:00:08+00:00",
-   "url": "/haber/nvidia-huang-siz-ilk-bilancoda-rekor-kirdi-72a771b5/"
-  },
-  {
-   "id": "86d0ec99",
-   "title": "Bu açığı kapatmayan kurumlar hack'leniyor",
-   "summary": "",
-   "link": "https://shiftdelete.net/java4shell-acigi-cisa-java-yamasi",
-   "image": "https://shiftdelete.net/static/img/content/26-11/18/java4shell_-sunucu-rafinda-siber-alarm-1794970342.png",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-18T02:41:06+00:00",
-   "url": "/haber/bu-acigi-kapatmayan-kurumlar-hack-leniyor-86d0ec99/"
-  },
-  {
    "id": "72b93985",
    "title": "Son dakika Edirne'de deprem mi oldu? Az önce deprem Edirne'de nerede oldu? Edirne deprem Kandilli ve AFAD son depremler listesi 18 Kasım 2026",
    "summary": "Son dakika Edirne deprem haberleri.. Edirne'de deprem mi oldu? Az önce deprem Edirne'de nerede oldu? Edirne Kandilli ve AFAD son depremler.. 18 Kasım 2026 Edirne deprem son dakika haberleri haberin detayında... Artçı…",
@@ -737,17 +759,6 @@
    "category": "gundem",
    "date": "2026-11-18T01:40:00+00:00",
    "url": "/haber/son-dakika-edirne-de-deprem-mi-oldu-az-once-deprem-edirne-de-nerede-ol-72b93985/"
-  },
-  {
-   "id": "355cff01",
-   "title": "Java4Shell: Java'da acil yama gerektiren açık",
-   "summary": "CISA, Java'daki Java4Shell açığı için acil yama uyarısı yaptı. Açık, bazı sunucularda giriş gerektirmeden uzaktan kod çalıştırmaya imkan tanıyabiliyor.",
-   "link": "https://shiftdelete.net/java4shell-java-kritik-guvenlik-acigi-cisa",
-   "image": "https://shiftdelete.net/static/img/content/26-11/18/java4shell_-sunucu-rafinda-siber-alarm-1794970500.png",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-18T01:22:58+00:00",
-   "url": "/haber/java4shell-java-da-acil-yama-gerektiren-acik-355cff01/"
   },
   {
    "id": "ee3b6daf",
@@ -913,17 +924,6 @@
    "category": "teknoloji",
    "date": "2026-11-17T18:02:00+00:00",
    "url": "/haber/nvidia-rubin-hpc-gpu-duyuruldu-50-binden-fazla-cuda-cekirdegi-sunuyor-13119aa2/"
-  },
-  {
-   "id": "45437d2a",
-   "title": "macOS 27.3, Mac'lere yeni gizlilik kontrolleri getiriyor",
-   "summary": "Apple, macOS 27.3 ile kullanıcılara yapay zeka ajanları da dahil olmak üzere uygulamalara verdikleri erişim üzerinde daha fazla kontrol sağlamak için yeni gizlilik kontrolleri getiriyor.",
-   "link": "https://www.donanimhaber.com/macos-27-3-mac-lere-yeni-gizlilik-kontrolleri-getiriyor--213008",
-   "image": "https://www.donanimhaber.com/images/images/haber/213008/1200x675macos-27-3-mac-lere-yeni-gizlilik-kontrolleri-getiriyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-17T17:41:00+00:00",
-   "url": "/haber/macos-27-3-mac-lere-yeni-gizlilik-kontrolleri-getiriyor-45437d2a/"
   },
   {
    "id": "b96ddad0",
