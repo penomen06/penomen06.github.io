@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-18T18:01:05.825381+00:00",
+ "updated": "2026-11-18T18:30:56.509076+00:00",
  "items": [
+  {
+   "id": "a116cb42",
+   "title": "Doktor Pelin Pınar'ın şüpheli ölümü. Son görüntüleri ortaya çıktı",
+   "summary": "İstanbul'da sekizinci kattaki evinin balkonundan düşerek hayatını kaybeden Pelin Pınar'ın son görüntüleri ortaya çıktı.",
+   "link": "https://www.ntv.com.tr/turkiye/doktor-pelin-pinarin-supheli-olumu-son-goruntuleri-ortaya-cikti-1751509",
+   "image": "https://images.ntv.com.tr/images/pınardeniz-167466.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-18T18:22:38+00:00",
+   "url": "/haber/doktor-pelin-pinar-in-supheli-olumu-son-goruntuleri-ortaya-cikti-a116cb42/"
+  },
+  {
+   "id": "cd853e94",
+   "title": "Tesla, elektrik altyapısını değiştirebilecek yeni teknolojisi Powercore'u tanıttı",
+   "summary": "Tesla, enerji altyapısında birden fazla ekipmanın yaptığı işi tek bir sistemde toplamaya hazırlanıyor. Yeni Powercore platformu, 2027 yılında kullanıma sunulacak. İşte detaylar...",
+   "link": "https://www.donanimhaber.com/tesla-dan-enerji-altyapisinda-yeni-donem-powercore-tanitildi--213077",
+   "image": "https://www.donanimhaber.com/images/images/haber/213077/1200x675tesla-dan-enerji-altyapisinda-yeni-donem-powercore-tanitildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-18T18:15:00+00:00",
+   "url": "/haber/tesla-elektrik-altyapisini-degistirebilecek-yeni-teknolojisi-powercore-cd853e94/"
+  },
+  {
+   "id": "f5385357",
+   "title": "Bakan Fidan, Azerbaycanlı mevkidaşı Bayramov ile telefonda görüştü",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Azerbaycan Dışişleri Bakanı Ceyhun Bayramov ile telefon görüşmesi gerçekleştirdi. Görüşmede ikili ilişkiler ve bölgesel konular ele alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-fidan-azerbaycanli-mevkidasi-bayramov-ile-telefonda-gorustu-1751508",
+   "image": "https://images.ntv.com.tr/images/fidan-933387(3).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-18T18:14:51+00:00",
+   "url": "/haber/bakan-fidan-azerbaycanli-mevkidasi-bayramov-ile-telefonda-gorustu-f5385357/"
+  },
+  {
+   "id": "0b4c7971",
+   "title": "Dışişleri Bakanı Fidan, Azerbaycan Dışişleri Bakanı Bayramov ile telefonda görüştü",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Azerbaycan Dışişleri Bakanı Ceyhun Bayramov ile telefonda ikili ilişkileri ve bölgesel konuları ele aldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-azerbaycan-disisleri-bakani-bayramov-ile-telefonda-gorustu/4129702",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T18:12:53+00:00",
+   "url": "/haber/disisleri-bakani-fidan-azerbaycan-disisleri-bakani-bayramov-ile-telefo-0b4c7971/"
+  },
+  {
+   "id": "6fd52d18",
+   "title": "Gemini 4 Carbon matematikte zirveye çıktı",
+   "summary": "Model yüzde 85,4 puanla ilk sırada. Ancak tam bir test çalıştırması GPT-6.1 Sol'dan yaklaşık 15 kat pahalıya mal oluyor.",
+   "link": "https://shiftdelete.net/matematikte-zirve-googlein-gemini-4-carbon-birinci-ama-15-kat-pahali",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/google-gemini-kapak-1711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-18T18:05:07+00:00",
+   "url": "/haber/gemini-4-carbon-matematikte-zirveye-cikti-6fd52d18/"
+  },
   {
    "id": "06ecd9a9",
    "title": "Altay bebeğin zehirlenerek ölümünde iki sanığa hapis cezası",
@@ -156,6 +211,17 @@
    "url": "/haber/chp-kurultay-davasinda-karar-ekrem-imamoglu-dahil-9-kisiye-hapis-cezas-7d29f2e8/"
   },
   {
+   "id": "bcec8fa3",
+   "title": "Türk Kızılay Kanunu Teklifi Genel Kurul'da kabul edildi",
+   "summary": "Türk Kızılay Kanunu Teklifi, Türkiye Büyük Millet Meclisi (TBMM) Genel Kurulunda kabul edildi.",
+   "link": "https://www.trthaber.com/haber/gundem/turk-kizilay-kanunu-teklifi-genel-kurulda-kabul-edildi-963722.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/tbmm-genel-kurulu-aa-2501643.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-18T16:53:00+00:00",
+   "url": "/haber/turk-kizilay-kanunu-teklifi-genel-kurul-da-kabul-edildi-bcec8fa3/"
+  },
+  {
    "id": "a3989770",
    "title": "ASELSAN'dan sağlık teknolojileri için 3 yeni ihracat anlaşması",
    "summary": "ASELSAN, MEDICA 2026 kapsamında üç yeni ihracat anlaşması imzaladı. HEARTLINE AED ve LIFELINE HLM sağlık teknolojileri artık farklı ülkelerin pazarlarına açılacak.",
@@ -220,6 +286,17 @@
    "category": "gundem",
    "date": "2026-11-18T16:23:25+00:00",
    "url": "/haber/yeni-parti-izleme-komisyonu-na-uye-vermeyecek-30a9a61e/"
+  },
+  {
+   "id": "1bc4f8c9",
+   "title": "Fon soruşturmasında Mustafa Yazıcı ifadeye çağırıldı",
+   "summary": "İstanbul'da devam eden fon soruşturması kapsamında Adil Varlık Yönetim Kurulu Başkan Vekili Mustafa Yazıcı ifadeye çağrıldı.",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-mustafa-yazici-ifadeye-cagirildi-963719.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/fon-sorusturmasi-2504631.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-18T16:19:00+00:00",
+   "url": "/haber/fon-sorusturmasinda-mustafa-yazici-ifadeye-cagirildi-1bc4f8c9/"
   },
   {
    "id": "b34900c9",
@@ -398,17 +475,6 @@
    "url": "/haber/microsoft-7-yeni-yapay-zeka-tanitti-ustelik-rakiplerinden-cok-daha-ucu-26ad1f22/"
   },
   {
-   "id": "7bd4ff95",
-   "title": "Borsa günü düşüşle tamamladı",
-   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,57 değer kaybederek 11.477,41 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4129551",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T15:22:33+00:00",
-   "url": "/haber/borsa-gunu-dususle-tamamladi-7bd4ff95/"
-  },
-  {
    "id": "7c03593f",
    "title": "COP31'de iklim değişikliğine karşı azaltım ve uyum çabalarının hızlandırılması çağrısı",
    "summary": "BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31), sera gazı emisyonlarının azaltılmasına yönelik çabaların hızlandırılması ve iklim değişikliğinin etkilerine karşı toplumsal dirençliliğin…",
@@ -451,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T15:05:07+00:00",
    "url": "/haber/samsung-tv-i-koltuktan-kalkinca-filmi-durduracak-afc5409f/"
-  },
-  {
-   "id": "dc7386fe",
-   "title": "Emekli maaşı düzenlemesi... Cumhurbaşkanı Erdoğan açıkladı: Sene başından önce hayata geçirilecek",
-   "summary": "Cumhurbaşkanı Erdoğan, bütün emeklileri kapsayacak maaş düzenlemesinin yaş ve prim sayısı dikkate alınarak yılbaşından önce hayata geçirileceğini açıkladı.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-gazzede-katliam-devam-ediyor-1751435",
-   "image": "https://images.ntv.com.tr/images/ErdoğanAKPartiGrupToplantısı-739930(2).png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-18T15:04:40+00:00",
-   "url": "/haber/emekli-maasi-duzenlemesi-cumhurbaskani-erdogan-acikladi-sene-basindan-dc7386fe/"
   },
   {
    "id": "bfe8fbb9",
@@ -739,17 +794,6 @@
    "url": "/haber/iphone-20-pro-serisinin-tasarimina-dair-yeni-iddialar-geldi-5d7ee3df/"
   },
   {
-   "id": "81fff6db",
-   "title": "Toyota’da yazılım hatası: 19 bin elektrikli SUV geri çağrılıyor",
-   "summary": "Toyota, elektrikli C-HR+ modelinde sürüş sırasında güç kaybına yol açabilen yazılım hatası nedeniyle yaklaşık 19 bin aracı geri çağırıyor. Hata, serviste yapılacak yazılım güncellemesiyle giderilecek.",
-   "link": "https://www.donanimhaber.com/toyota-da-yazilim-hatasi-19-bin-elektrikli-suv-geri-cagriliyor--213080",
-   "image": "https://www.donanimhaber.com/images/images/haber/213080/1200x675toyota-da-yazilim-hatasi-19-bin-elektrikli-suv-geri-cagriliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-18T13:27:00+00:00",
-   "url": "/haber/toyota-da-yazilim-hatasi-19-bin-elektrikli-suv-geri-cagriliyor-81fff6db/"
-  },
-  {
    "id": "a207abdf",
    "title": "Öldüren mide balonu operasyonu. Doktor hakkında istenen ceza belli oldu",
    "summary": "Mersin'de üniversite öğrencisi Ali Can Gül'ün mide balonu operasyonunda hayatını kaybetmesine ilişkin soruşturma tamamlandı. Ameliyatı yapan doktor D.E.'nin 9 yıla kadar hapsi istendi.",
@@ -902,17 +946,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T13:01:11+00:00",
    "url": "/haber/gta-6-nin-ps5-ve-ps5-pro-surumleri-karsilastirildi-iste-grafikler-perf-cfa9efd7/"
-  },
-  {
-   "id": "87c833e9",
-   "title": "Beyaz Saray: Art arda kesintiler saldırı değil",
-   "summary": "ABD'de peş peşe yaşanan teknoloji kesintileri için Beyaz Saray açıklama yaptı. Dışişleri Bakanı Rubio, olayların birbiriyle bağlantısı olmadığını söyledi.",
-   "link": "https://shiftdelete.net/teknoloji-kesintileri-beyaz-saray-aciklama",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/beyaz-saray-kuzey-cephe-kapak-1811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-18T12:58:31+00:00",
-   "url": "/haber/beyaz-saray-art-arda-kesintiler-saldiri-degil-87c833e9/"
   },
   {
    "id": "b19c6e57",
@@ -1091,17 +1124,6 @@
    "url": "/haber/alman-istihbaratinda-siber-casusluk-ve-ortulu-operasyonlar-donemi-e494c4ab/"
   },
   {
-   "id": "62a8836a",
-   "title": "TDK 2026'nın kelimesini arıyor: Öneriler başladı",
-   "summary": "Türk Dil Kurumu, 2026 yılının kelimesini belirlemek için öneri sürecini başlattı.",
-   "link": "https://www.ntv.com.tr/turkiye/tdk-2026nin-kelimesini-ariyor-oneriler-basladi-1751445",
-   "image": "https://images.ntv.com.tr/images/tdk-yilin-kelimesi-972532.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-18T10:09:44+00:00",
-   "url": "/haber/tdk-2026-nin-kelimesini-ariyor-oneriler-basladi-62a8836a/"
-  },
-  {
    "id": "f9147353",
    "title": "Cumhurbaşkanı Erdoğan: Emeklilerimize iyileştirme yapacağız",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, emeklilere yönelik çalışmalara ilişkin, \"17 milyonu aşkın emeklimizin tamamını kapsayan bir iyileştirmeyi yüce meclisimizin de desteğiyle sene başından önce hayata geçireceğiz\" dedi.",
@@ -1212,17 +1234,6 @@
    "url": "/haber/bakan-gurlek-fon-sorusturmasinda-129-supheli-tutuklu-bulunmaktadir-8cb6fe7f/"
   },
   {
-   "id": "a056bfc6",
-   "title": "Fon soruşturması kapsamında 4 şirkete kayyum atandı",
-   "summary": "Tasarruf Mevduatı Sigorta Fonu (TMSF), İstanbul Cumhuriyet Başsavcılığınca sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında, Adil Katılım Bankası AŞ'nin de aralarında…",
-   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasi-kapsaminda-4-sirkete-kayyum-atandi-963579.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2488000/fon-sorusturmasi-2489780.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-17T13:41:00+00:00",
-   "url": "/haber/fon-sorusturmasi-kapsaminda-4-sirkete-kayyum-atandi-a056bfc6/"
-  },
-  {
    "id": "6e68cd23",
    "title": "Darphanei Amirede Osmanlının izinde 5 müze",
    "summary": "Topkapı Sarayı’nın birinci avlusundaki Darphane-i Amire, kapsamlı restorasyon çalışmalarının ardından kültür adası olarak yeniden hayat buldu. 5 ayrı ihtisas müzesinde yaklaşık 10 bin 500 eser ziyaretçilerle buluşuyor.…",
@@ -1243,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-11-17T05:45:00+00:00",
    "url": "/haber/bilge-kaganin-saray-sehrinin-yeri-tespit-edildi-ayrintilar-ilk-kez-trt-25b60e12/"
-  },
-  {
-   "id": "6a642738",
-   "title": "Microsoft'taki küresel kesintinin nedeni ortaya çıktı",
-   "summary": "Microsoft, geçen hafta Outlook, Exchange ve diğer birçok kritik ofis yazılımını kullanılamaz hale getiren küresel kesintinin temel nedenlerini belirledi.",
-   "link": "https://www.trthaber.com/haber/dunya/microsofttaki-kuresel-kesintinin-nedeni-ortaya-cikti-963499.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1558000/microsoft-reu-1559120.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-17T05:35:00+00:00",
-   "url": "/haber/microsoft-taki-kuresel-kesintinin-nedeni-ortaya-cikti-6a642738/"
   },
   {
    "id": "a0be2d33",
