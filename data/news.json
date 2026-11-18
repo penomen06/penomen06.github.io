@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:01:04.061442+00:00",
+ "updated": "2026-11-18T21:30:53.336657+00:00",
  "items": [
   {
    "id": "8cedfa4e",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-18T21:00:00+00:00",
+   "date": "2026-11-18T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-8cedfa4e/"
+  },
+  {
+   "id": "835f8984",
+   "title": "One UI 9.5 güncellemesi alacak Samsung telefonlar",
+   "summary": "Samsung, Android 17 tabanlı One UI 9.5 güncellemesi üzerinde çalışmalarını sürdürüyor. Yeni arayüzü alması beklenen Galaxy telefon ve tabletlerin listesi belli oldu.",
+   "link": "https://www.donanimhaber.com/one-ui-9-5-guncellemesi-alacak-samsung-telefonlar--213050",
+   "image": "https://www.donanimhaber.com/images/images/haber/213050/1200x675one-ui-9-5-guncellemesi-alacak-samsung-telefonlar.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-18T21:20:00+00:00",
+   "url": "/haber/one-ui-9-5-guncellemesi-alacak-samsung-telefonlar-835f8984/"
+  },
+  {
+   "id": "e178c751",
+   "title": "BUDO'nun bugünkü 12 seferi iptal edildi",
+   "summary": "Bursa Deniz Otobüslerinin (BUDO) bugünkü 12 seferi olumsuz hava şartları nedeniyle iptal edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/budonun-bugunku-12-seferi-iptal-edildi/4129855",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-18T21:17:30+00:00",
+   "url": "/haber/budo-nun-bugunku-12-seferi-iptal-edildi-e178c751/"
   },
   {
    "id": "b4e700d7",
@@ -268,7 +290,7 @@
   {
    "id": "fe7d6582",
    "title": "Karadeniz için fırtına uyarısı",
-   "summary": "Karadeniz'de yarın fırtına bekleniyor.",
+   "summary": "Karadeniz'de bugün fırtına bekleniyor.",
    "link": "https://www.aa.com.tr/tr/gundem/karadeniz-icin-firtina-uyarisi/4129765",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -409,17 +431,6 @@
    "url": "/haber/tesla-elektrik-altyapisini-degistirebilecek-yeni-teknolojisi-powercore-cd853e94/"
   },
   {
-   "id": "0b4c7971",
-   "title": "Dışişleri Bakanı Fidan, Azerbaycan Dışişleri Bakanı Bayramov ile telefonda görüştü",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Azerbaycan Dışişleri Bakanı Ceyhun Bayramov ile telefonda ikili ilişkileri ve bölgesel konuları ele aldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-azerbaycan-disisleri-bakani-bayramov-ile-telefonda-gorustu/4129702",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T18:12:53+00:00",
-   "url": "/haber/disisleri-bakani-fidan-azerbaycan-disisleri-bakani-bayramov-ile-telefo-0b4c7971/"
-  },
-  {
    "id": "6fd52d18",
    "title": "Gemini 4 Carbon matematikte zirveye çıktı",
    "summary": "Model yüzde 85,4 puanla ilk sırada. Ancak tam bir test çalıştırması GPT-6.1 Sol'dan yaklaşık 15 kat pahalıya mal oluyor.",
@@ -539,17 +550,6 @@
    "category": "gundem",
    "date": "2026-11-18T16:53:00+00:00",
    "url": "/haber/turk-kizilay-kanunu-teklifi-genel-kurul-da-kabul-edildi-bcec8fa3/"
-  },
-  {
-   "id": "a3989770",
-   "title": "ASELSAN'dan sağlık teknolojileri için 3 yeni ihracat anlaşması",
-   "summary": "ASELSAN, MEDICA 2026 kapsamında üç yeni ihracat anlaşması imzaladı. HEARTLINE AED ve LIFELINE HLM sağlık teknolojileri artık farklı ülkelerin pazarlarına açılacak.",
-   "link": "https://www.donanimhaber.com/aselsan-dan-saglik-teknolojileri-icin-3-yeni-ihracat-anlasmasi--213097",
-   "image": "https://www.donanimhaber.com/images/images/haber/213097/1200x675aselsan-dan-saglik-teknolojileri-icin-3-yeni-ihracat-anlasmasi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-18T16:49:00+00:00",
-   "url": "/haber/aselsan-dan-saglik-teknolojileri-icin-3-yeni-ihracat-anlasmasi-a3989770/"
   },
   {
    "id": "cbe71df5",
