@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:01:04.774657+00:00",
+ "updated": "2026-11-19T01:27:30.948809+00:00",
  "items": [
   {
    "id": "8cedfa4e",
@@ -11,6 +11,17 @@
    "category": "gundem",
    "date": "2026-11-19T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-8cedfa4e/"
+  },
+  {
+   "id": "53d3814c",
+   "title": "Anthropic halka arzında hisse fiyatını 83 dolar olarak belirledi",
+   "summary": "Claude yapay zeka modellerinin geliştiricisi Anthropic, halka arzını hisse başına 83 dolardan fiyatlandırdı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/anthropic-halka-arzinda-hisse-fiyatini-83-dolar-olarak-belirledi/4129918",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T00:39:42+00:00",
+   "url": "/haber/anthropic-halka-arzinda-hisse-fiyatini-83-dolar-olarak-belirledi-53d3814c/"
   },
   {
    "id": "7a93cfed",
@@ -176,17 +187,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T21:34:53+00:00",
    "url": "/haber/toyota-corolla-cross-un-pickup-versiyonu-tanitildi-corolla-deck-96018f89/"
-  },
-  {
-   "id": "b1a60e96",
-   "title": "Çocuklarda omega-3 eksikliğine karşı haftada 2 öğün balık önerisi",
-   "summary": "Prof. Dr. Vefik Arıca, dünyada ve Türkiye'de her 3 çocuktan 2'sinde omega-3 düzeyinin yetersiz olduğunu belirterek, çocukların sağlıklı gelişimi için 1 yaşından itibaren haftada en az 2 öğün yağlı balık tüketilmesini…",
-   "link": "https://www.aa.com.tr/tr/gundem/cocuklarda-omega-3-eksikligine-karsi-haftada-2-ogun-balik-onerisi/4129863",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T21:21:59+00:00",
-   "url": "/haber/cocuklarda-omega-3-eksikligine-karsi-haftada-2-ogun-balik-onerisi-b1a60e96/"
   },
   {
    "id": "5cdfda25",
