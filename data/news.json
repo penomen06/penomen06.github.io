@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-19T19:30:51.512348+00:00",
+ "updated": "2026-11-19T20:01:00.403892+00:00",
  "items": [
+  {
+   "id": "8eb88067",
+   "title": "Meta Muse başkasının banka bakiyesini gösterdi",
+   "summary": "Reuters'a göre Meta çalışanları, Muse yapay zeka uygulamasının izinsiz Signal mesajlarına eriştiğini ve başka birine ait olabilecek banka bakiyelerini gösterdiğini bildirdi. Meta, bunların münferit olaylar olduğunu…",
+   "link": "https://shiftdelete.net/meta-muse-gizlilik-acigi-banka-bakiyesi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/muse-gizlilik-acigi-kapak-1911.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-19T20:00:09+00:00",
+   "url": "/haber/meta-muse-baskasinin-banka-bakiyesini-gosterdi-8eb88067/"
+  },
+  {
+   "id": "a99598e8",
+   "title": "Türkiye dahil 15 ülkeden İngiltere ve Avustralya'nın İsrail yaptırımlarına destek",
+   "summary": "Türkiye'nin de aralarında bulunduğu 15 ülke, İngiltere ve Avustralya'nın İsrail'in yasa dışı yerleşim faaliyetlerine yönelik yaptırım kararlarını memnuniyetle karşıladı.",
+   "link": "https://www.ntv.com.tr/turkiye/turkiye-dahil-15-ulkeden-israile-karsi-yaptirim-mesaji-1751677",
+   "image": "https://images.ntv.com.tr/images/DışişleriBakanlığı-120292-481244.webp",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-19T19:52:06+00:00",
+   "url": "/haber/turkiye-dahil-15-ulkeden-ingiltere-ve-avustralya-nin-israil-yaptirimla-a99598e8/"
+  },
+  {
+   "id": "11f99427",
+   "title": "Türkiye ile Suudi Arabistan ve Singapur arasındaki hava ulaşımını güçlendirecek mutabakatlar imzalandı",
+   "summary": "Ulaştırma ve Altyapı Bakanlığı, Türkiye ile Suudi Arabistan ve Singapur arasındaki hava ulaşımı bağlantılarını güçlendirecek önemli mutabakatlara imza atıldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-suudi-arabistan-ve-singapur-arasindaki-hava-ulasimini-guclendirecek-mutabakatlar-imzalandi/4131500",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T19:39:49+00:00",
+   "url": "/haber/turkiye-ile-suudi-arabistan-ve-singapur-arasindaki-hava-ulasimini-gucl-11f99427/"
+  },
+  {
+   "id": "45199a16",
+   "title": "Huawei Mate 90 Air tanıtmaya başladı: İşte özellikleri",
+   "summary": "Huawei Mate 90 Air'in renk seçenekleri ve bellek konfigürasyonları açıklandı. 24 Kasım'da tanıtılacak ince tasarımlı telefonun batarya ve işlemci özellikleri de sızdırıldı.",
+   "link": "https://www.donanimhaber.com/huawei-mate-90-air-tanitmaya-basladi-iste-ozellikleri--213122",
+   "image": "https://www.donanimhaber.com/images/images/haber/213122/1200x675huawei-mate-90-air-tanitmaya-basladi-iste-ozellikleri.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-19T19:35:00+00:00",
+   "url": "/haber/huawei-mate-90-air-tanitmaya-basladi-iste-ozellikleri-45199a16/"
+  },
   {
    "id": "c0de3c90",
    "title": "Apple, OLED iMac planını rafa kaldırabilir",
@@ -22,6 +66,17 @@
    "category": "gundem",
    "date": "2026-11-19T19:26:28+00:00",
    "url": "/haber/trump-iran-la-ilgili-karar-verme-konusunda-acelesinin-olmadigini-belir-4d458103/"
+  },
+  {
+   "id": "75891b36",
+   "title": "\"Kapadokya Değer Ödülleri\"nde AA'ya iki ödül",
+   "summary": "Nevşehir'de bu yıl ikincisi düzenlenen \"Kapadokya Değer Ödülleri\" programında ödüller sahiplerine verildi. Anadolu Ajansı (AA), farklı kategorilerde iki ödüle layık görüldü.",
+   "link": "https://www.aa.com.tr/tr/gundem/kapadokya-deger-odullerinde-aaya-iki-odul/4131490",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T19:23:42+00:00",
+   "url": "/haber/kapadokya-deger-odulleri-nde-aa-ya-iki-odul-75891b36/"
   },
   {
    "id": "ccd7e13f",
@@ -288,28 +343,6 @@
    "url": "/haber/huawei-mate-x8-e-tek-el-icin-sanal-tus-geliyor-ade1676c/"
   },
   {
-   "id": "84637f66",
-   "title": "Yaklaşık 300 bin Kanadalı, ABD Büyükelçisi Hoekstra'nın görevden alınması için imza attı",
-   "summary": "ABD'nin Kanada Büyükelçisi Pete Hoekstra'nın, Başkan Donald Trump'ın Kanada'nın \"51. eyalet olması gerektiği\" yönündeki görüşünü destekleyen açıklamaları sonrasında görevinden alınması için yaklaşık 300 bin Kanadalı…",
-   "link": "https://www.aa.com.tr/tr/dunya/yaklasik-300-bin-kanadali-abd-buyukelcisi-hoekstranin-gorevden-alinmasi-icin-imza-atti/4131352",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T17:28:27+00:00",
-   "url": "/haber/yaklasik-300-bin-kanadali-abd-buyukelcisi-hoekstra-nin-gorevden-alinma-84637f66/"
-  },
-  {
-   "id": "9f17f4fb",
-   "title": "Cumhurbaşkanı Erdoğan: Bayraktar Kızılelma ile şanlı ordumuzun zaferden zafere koşacağına inanıyorum",
-   "summary": "Cumhurbaşkanı Erdoğan, “Bayraktar Kızılelma insansız savaş uçağımız, Türk Silahlı Kuvvetlerimizin envanterine alındı. Bayraktar Kızılelma ile şanlı ordumuzun zaferden zafere koşacağına inanıyorum.” İfadesini kullandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bayraktar-kizilelma-ile-sanli-ordumuzun-zaferden-zafere-kosacagina-inaniyorum/4131347",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T17:27:06+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-bayraktar-kizilelma-ile-sanli-ordumuzun-zaferden-9f17f4fb/"
-  },
-  {
    "id": "bad1efd7",
    "title": "Cumhurbaşkanı Erdoğan: Bugün bir büyük hayalin gerçeğe dönüştüğü tarihi bir gün",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Bayraktar Kızılelma insansız savaş uçağımız; yıllar süren çalışmaların, büyük emeklerin sonunda Türk Silahlı Kuvvetlerimizin envanterine alındı.\" dedi",
@@ -319,17 +352,6 @@
    "category": "gundem",
    "date": "2026-11-19T17:25:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-bugun-bir-buyuk-hayalin-gercege-donustugu-tarihi-bad1efd7/"
-  },
-  {
-   "id": "e281e70d",
-   "title": "Çin Devlet Başkanı Şi'den ABD ve Rusya'ya \"barış içinde bir arada yaşama\" mesajı",
-   "summary": "Çin Devlet Başkanı Şi, ABD Başkanı Trump ve Rusya Devlet Başkanı Putin ile yaptığı üçlü görüşmede, üç ülkenin kendi aralarında çatışma ve cepheleşmeden kaçınarak, \"barış içinde bir arada yaşama\" ilkesine bağlı kalması…",
-   "link": "https://www.aa.com.tr/tr/dunya/cin-devlet-baskani-siden-abd-ve-rusyaya-baris-icinde-bir-arada-yasama-mesaji/4131344",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T17:23:35+00:00",
-   "url": "/haber/cin-devlet-baskani-si-den-abd-ve-rusya-ya-baris-icinde-bir-arada-yasam-e281e70d/"
   },
   {
    "id": "87f151aa",
@@ -484,6 +506,17 @@
    "category": "teknoloji",
    "date": "2026-11-19T15:48:00+00:00",
    "url": "/haber/jeotermal-enerjideki-en-buyuk-sondaj-sorununa-yaratici-cozum-5e333f99/"
+  },
+  {
+   "id": "47dc17ec",
+   "title": "COP31'de ülke rozetleri düzenlenen etkinlikle takas edildi",
+   "summary": "COP31'de bazı katılımcılar ülke pavilyonlarından biriktirdikleri rozetleri, düzenlenen etkinlikte diğer katılımcılarla takas etme imkanı buldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-ulke-rozetleri-duzenlenen-etkinlikle-takas-edildi-/4131233",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T15:44:30+00:00",
+   "url": "/haber/cop31-de-ulke-rozetleri-duzenlenen-etkinlikle-takas-edildi-47dc17ec/"
   },
   {
    "id": "0f376d7c",
@@ -783,17 +816,6 @@
    "url": "/haber/kiraci-evden-cikti-ev-sahibi-gorduklerine-inanamadi-butun-duvarlari-as-f2a15922/"
   },
   {
-   "id": "0251342e",
-   "title": "Avrupa Komisyonu siber saldırıya uğradı: FBI’ın uyardığı ARTEX kullanıldı",
-   "summary": "Avrupa Komisyonu, yapay zeka destekli ARTEX aracının kullanıldığı siber saldırının hedefi oldu. 10 günden uzun süren kesintide çalışanların kişisel verileri ele geçirilmiş olabilir.",
-   "link": "https://www.donanimhaber.com/avrupa-komisyonu-siber-saldiriya-ugradi-artex-kullanildi--213138",
-   "image": "https://www.donanimhaber.com/images/images/haber/213138/1200x675avrupa-komisyonu-siber-saldiriya-ugradi-artex-kullanildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-19T13:40:00+00:00",
-   "url": "/haber/avrupa-komisyonu-siber-saldiriya-ugradi-fbi-in-uyardigi-artex-kullanil-0251342e/"
-  },
-  {
    "id": "111662dc",
    "title": "Mahalleli deprem oluyor zannetti: \"Geldiğimde ortalık savaş alanı gibiydi\"",
    "summary": "Osmaniye'de dün gece etkili olan sağanak yağış sırasında bir camiye yıldırım isabet etti. Büyük bir gürültüyle meydana gelen olayı mahalle sakinleri deprem sandı.",
@@ -803,17 +825,6 @@
    "category": "gundem",
    "date": "2026-11-19T13:33:01+00:00",
    "url": "/haber/mahalleli-deprem-oluyor-zannetti-geldigimde-ortalik-savas-alani-gibiyd-111662dc/"
-  },
-  {
-   "id": "0ebc22ee",
-   "title": "Maxxen'in Aydın fabrikasında 5 MWh'lik batarya",
-   "summary": "Maxxen Enerji'nin Aydın'daki fabrikasını Kontek Grup CEO'su Tolga Murat Özdemir ile gezdik. 500 kWh'lik fabrika bataryasından 5 MWh'lik DC Box'a ve şirketin dünyada bir ilk dediği MV Box'a kadar yerli enerji depolama…",
-   "link": "https://shiftdelete.net/maxxen-aydin-fabrikasi-enerji-depolama-dc-box-mv-box",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/maxxen-aydin-fabrikasi-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-19T13:30:32+00:00",
-   "url": "/haber/maxxen-in-aydin-fabrikasinda-5-mwh-lik-batarya-0ebc22ee/"
   },
   {
    "id": "2bb1fe7d",
@@ -979,17 +990,6 @@
    "category": "teknoloji",
    "date": "2026-11-19T12:08:07+00:00",
    "url": "/haber/sam-altman-dan-nvidia-dan-ayrilan-jensen-huang-hakkinda-dikkat-ceken-a-c2597376/"
-  },
-  {
-   "id": "aa862a95",
-   "title": "Cemil Tugay: AK Parti'de çok iyi karşılandım",
-   "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, AK Parti'de çok iyi karşılandığını ifade etti. Tugay, İzmirlilerin hizmete oy verdiğini dile getirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/cemil-tugay-ak-partide-cok-iyi-karsilandim-1751632",
-   "image": "https://images.ntv.com.tr/images/AA-20261007-42682805-42682803-AK_PARTI_MILLETVEKILLERI_ILE_YASAMA_YILI_ACILIS_TOPLANTISI-278035-839079.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-19T12:07:54+00:00",
-   "url": "/haber/cemil-tugay-ak-parti-de-cok-iyi-karsilandim-aa862a95/"
   },
   {
    "id": "7f63c901",
