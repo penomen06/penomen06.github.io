@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-19T20:01:00.403892+00:00",
+ "updated": "2026-11-19T20:30:54.011465+00:00",
  "items": [
+  {
+   "id": "4f3b6438",
+   "title": "AMD Adrenalin 26.11.2 yayınlandı: 10 hata gitti",
+   "summary": "AMD, Adrenalin Edition 26.11.2 sürücüsünü yayınladı. Güncelleme Phantom Blade Zero ve Crimson Desert ek paketine destek, ROCm 10.2 desteği ve on hata düzeltmesi getiriyor.",
+   "link": "https://shiftdelete.net/amd-adrenalin-26-11-2-surucu-guncellemesi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/amd-adrenalin-26-11-2-kapak-1911.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-19T20:30:11+00:00",
+   "url": "/haber/amd-adrenalin-26-11-2-yayinlandi-10-hata-gitti-4f3b6438/"
+  },
+  {
+   "id": "b48fbe87",
+   "title": "Almanya, Fransa, İngiltere ve Ukrayna liderlerinden \"Rusya'ya kış boyunca enerji ateşkesi\" çağrısı",
+   "summary": "Almanya, Fransa, İngiltere ve Ukrayna liderleri, çatışmaların sona erdirilmesine yönelik ilk adım olarak Rusya'ya kış boyunca geçerli olacak bir \"enerji ateşkesi\" kabul etmesi çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/almanya-fransa-ingiltere-ve-ukrayna-liderlerinden-rusyaya-kis-boyunca-enerji-ateskesi-cagrisi/4131523",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T20:13:31+00:00",
+   "url": "/haber/almanya-fransa-ingiltere-ve-ukrayna-liderlerinden-rusya-ya-kis-boyunca-b48fbe87/"
+  },
+  {
+   "id": "fc24edef",
+   "title": "Pentagon yetkilisi Miller, İran'la savaşın maliyetinin 48,3 milyar dolara ulaştığını açıkladı",
+   "summary": "ABD Savunma Bakanlığı (Pentagon) yetkilisi Arthur Miller, ABD'nin İran'la savaşının maliyetinin 13 Kasım itibarıyla 48,3 milyar dolara ulaştığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/pentagon-yetkilisi-miller-iranla-savasin-maliyetinin-48-3-milyar-dolara-ulastigini-acikladi/4131521",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T20:10:27+00:00",
+   "url": "/haber/pentagon-yetkilisi-miller-iran-la-savasin-maliyetinin-48-3-milyar-dola-fc24edef/"
+  },
+  {
+   "id": "23e54135",
+   "title": "Huawei Mate 90 Air 24 Kasım'da tanıtılıyor",
+   "summary": "Huawei, Mate ailesinin en ince modeli Mate 90 Air'i resmen duyurdu. Telefon 24 Kasım'da Mate X8 ile tanıtılacak; renkleri ve hafıza seçenekleri belli oldu.",
+   "link": "https://shiftdelete.net/huawei-mate-90-air-resmen-duyuruldu",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/huawei-mate-90-air-kapak-1911.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-19T20:05:38+00:00",
+   "url": "/haber/huawei-mate-90-air-24-kasim-da-tanitiliyor-23e54135/"
+  },
+  {
+   "id": "7d0aaa9b",
+   "title": "Nvidia sürücülerinde SSD sorunu: Saatte 30 GB veri yazılabiliyor",
+   "summary": "Nvidia ekran kartı sürücülerinde tespit edilen yeni bir hata, bilgisayar boşta olsa bile SSD'ye saatte 30 GB'a kadar veri yazılmasına neden olabiliyor. İşte detaylar...",
+   "link": "https://www.donanimhaber.com/nvidia-suruculerinde-ssd-sorunu-saatte-30-gb-veri-yazilabiliyor--213121",
+   "image": "https://www.donanimhaber.com/images/images/haber/213121/1200x675nvidia-suruculerinde-ssd-sorunu-saatte-30-gb-veri-yazilabiliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-19T20:05:00+00:00",
+   "url": "/haber/nvidia-suruculerinde-ssd-sorunu-saatte-30-gb-veri-yazilabiliyor-7d0aaa9b/"
+  },
   {
    "id": "8eb88067",
    "title": "Meta Muse başkasının banka bakiyesini gösterdi",
@@ -22,6 +77,17 @@
    "category": "gundem",
    "date": "2026-11-19T19:52:06+00:00",
    "url": "/haber/turkiye-dahil-15-ulkeden-ingiltere-ve-avustralya-nin-israil-yaptirimla-a99598e8/"
+  },
+  {
+   "id": "099ef564",
+   "title": "Suudi Kraliyet Divanı Danışmanı Al-Sheikh'ten Etnospor Kültür Festivali'ne övgü",
+   "summary": "Suudi Kraliyet Divanı Danışmanı ve Suudi Arabistan Genel Eğlence Kurumu Başkanı Turki Al-Sheikh, Etnospor Kültür Festivali'nin geleneksel sporların tanıtılmasına ve mirasının korunmasına önemli katkılarda bulunduğunu…",
+   "link": "https://www.aa.com.tr/tr/spor/suudi-kraliyet-divani-danismani-al-sheikhten-etnospor-kultur-festivaline-ovgu/4131506",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T19:46:10+00:00",
+   "url": "/haber/suudi-kraliyet-divani-danismani-al-sheikh-ten-etnospor-kultur-festival-099ef564/"
   },
   {
    "id": "11f99427",
@@ -200,17 +266,6 @@
    "url": "/haber/israil-savas-ucaklari-lubnan-in-dogusuna-hava-saldirilari-duzenledi-6829da3b/"
   },
   {
-   "id": "12486e6f",
-   "title": "ABD'den Güneydoğu Asya'daki siber dolandırıcılık ağlarına yaptırım",
-   "summary": "ABD Hazine Bakanlığı, Güneydoğu Asya'da siber dolandırıcılık merkezlerini işlettikleri ve bu faaliyetlere destek sağladıkları gerekçesiyle 3 kişiyle bağlantılı 2 şirkete yaptırım uyguladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdden-guneydogu-asyadaki-siber-dolandiricilik-aglarina-yaptirim/4131448",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T18:33:11+00:00",
-   "url": "/haber/abd-den-guneydogu-asya-daki-siber-dolandiricilik-aglarina-yaptirim-12486e6f/"
-  },
-  {
    "id": "03b11297",
    "title": "Çin'de elektrikli otomobillerin pazar payı yüzde 73'e çıkarak rekor kırdı",
    "summary": "Çin otomotiv pazarında elektrikli dönüşüm yeni bir rekora ulaştı. Kasım ayının ilk yarısında yeni enerjili araçların pazar payı yüzde 73,2'ye yükselirken, toplam otomobil satışları yüzde 25 düştü.",
@@ -231,28 +286,6 @@
    "category": "teknoloji",
    "date": "2026-11-19T18:30:09+00:00",
    "url": "/haber/korridor-steam-de-yuzde-90-olumlu-not-aldi-5de44475/"
-  },
-  {
-   "id": "5ad13463",
-   "title": "Filistin Esirler Cemiyeti: Dr. Ebu Safiyye'nin tutukluluk süresinin uzatılması hayatına kastetmektir",
-   "summary": "Filistin Esirler Cemiyeti, Gazze Şeridi'nden alıkonulan ve kendisine herhangi bir suçlama yöneltilmeyen Dr. Hüsam Ebu Safiyye'nin tutukluluk süresinin 6 ay daha uzatılmasının \"hayatına kastetmek\" anlamına geldiğini…",
-   "link": "https://www.aa.com.tr/tr/dunya/filistin-esirler-cemiyeti-dr-ebu-safiyyenin-tutukluluk-suresinin-uzatilmasi-hayatina-kastetmektir/4131423",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T18:09:44+00:00",
-   "url": "/haber/filistin-esirler-cemiyeti-dr-ebu-safiyye-nin-tutukluluk-suresinin-uzat-5ad13463/"
-  },
-  {
-   "id": "b5b5deb9",
-   "title": "Anthropic'in hisseleri Nasdaq'ta işlem görmeye başladı",
-   "summary": "Claude yapay zeka modellerinin geliştiricisi Anthropic’in hisseleri Nasdaq borsasında işlem görmeye başladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/anthropicin-hisseleri-nasdaqta-islem-gormeye-basladi/4131421",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T18:09:23+00:00",
-   "url": "/haber/anthropic-in-hisseleri-nasdaq-ta-islem-gormeye-basladi-b5b5deb9/"
   },
   {
    "id": "ff2946c4",
@@ -308,17 +341,6 @@
    "category": "gundem",
    "date": "2026-11-19T17:59:54+00:00",
    "url": "/haber/cumhurbaskani-erdogan-dan-kizilelma-aciklamasi-tarihi-bir-gun-05298bb0/"
-  },
-  {
-   "id": "d8c730a0",
-   "title": "Küresel halka arz piyasasında işlem büyüklükleri tarihi seviyelere ulaştı",
-   "summary": "Claude yapay zeka modellerinin geliştiricisi Anthropic'in 81,34 milyar dolarlık halka arzı, yapay zeka sektörüne yönelik yatırımcı ilgisini ortaya koyarken, küresel halka arz piyasasında işlem büyüklüklerini tarihi…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-halka-arz-piyasasinda-islem-buyuklukleri-tarihi-seviyelere-ulasti/4131378",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T17:43:51+00:00",
-   "url": "/haber/kuresel-halka-arz-piyasasinda-islem-buyuklukleri-tarihi-seviyelere-ula-d8c730a0/"
   },
   {
    "id": "3cdfd7b8",
@@ -563,17 +585,6 @@
    "url": "/haber/2-688-nvidia-cipiyle-guclendirilen-super-bilgisayar-bilimsel-kesifleri-851ab0d0/"
   },
   {
-   "id": "4fb8e54e",
-   "title": "TSMC, AI çip müşterilerinden peşin ödeme istiyor",
-   "summary": "Commercial Times'a göre TSMC, müşterilerine bilançolarına göre kredi limiti belirliyor ve limiti aşan siparişler için nakit istiyor. Bazı müşteriler kapasite ayırtmak için önceden ödeme yapıyor.",
-   "link": "https://shiftdelete.net/tsmc-kredi-limiti-pesin-odeme-ai-cip",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/tsmc-pesin-odeme-kapak-1911.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-19T15:00:08+00:00",
-   "url": "/haber/tsmc-ai-cip-musterilerinden-pesin-odeme-istiyor-4fb8e54e/"
-  },
-  {
    "id": "069fce11",
    "title": "333 Beygirlik Yeni Volkswagen T-Roc R Tanıtıldı: Drift Modu Bile Var!",
    "summary": "Volkswagen’in Avrupa’daki en güçlü SUV’si olan yeni T-Roc R, 333 beygirlik hafif hibrit motoruyla 100 km/s hıza 5 saniyede çıkıyor ve kapalı pist için geliştirilen Drift profilini standart sunuyor.",
@@ -673,17 +684,6 @@
    "url": "/haber/erdogan-emekli-maasi-duzenlemesiyle-ilgili-neler-soyledi-01c744d2/"
   },
   {
-   "id": "efb7195c",
-   "title": "Razer oyuncu farelerinde karbon fibere geçti",
-   "summary": "Razer, Viper V4 Pro ve DeathAdder V4 Pro'nun gerçek karbon fiber gövdeli sürümlerini duyurdu. Fareler 47 ve 49 gram ağırlıkta, gövde ise ABS plastiğe göre yüzde 53'e kadar daha dayanıklı.",
-   "link": "https://shiftdelete.net/razer-viper-v4-pro-karbon-fiber-edition",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/razer-karbon-fiber-fare-kapak-1911.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-19T14:30:08+00:00",
-   "url": "/haber/razer-oyuncu-farelerinde-karbon-fibere-gecti-efb7195c/"
-  },
-  {
    "id": "7d5cdf32",
    "title": "Sürücüsüz bir araç 868 kez park etmeye çalıştı: Neden böyle yaptığı ortaya çıktı",
    "summary": "Çin'de Avatr 06 olduğu değerlendirilen bir elektrikli otomobilin gece boyunca 868 kez otomatik park denemesi yaptığı ortaya çıktı. Olayın nedeni ise Huawei ile bağlantılı.",
@@ -715,17 +715,6 @@
    "category": "teknoloji",
    "date": "2026-11-19T14:02:07+00:00",
    "url": "/haber/openai-2027-de-yapay-zeka-temelli-ozel-bir-akilli-telefon-piyasaya-sur-3ba946d5/"
-  },
-  {
-   "id": "6ae6dbf0",
-   "title": "Lamborghini Temerario Spyder tanıtıldı: 920 beygir, açılır tavan",
-   "summary": "Lamborghini, 920 beygirlik Temerario Spyder’ı tanıttı. Markanın otomatik açılır sert tavanlı ilk modeli, 0-100 km/sa hızlanmasını 2,8 saniyede tamamlıyor. Maksimum hızı ise 343 km/sa olarak açıklandı.",
-   "link": "https://www.donanimhaber.com/lamborghini-temerario-spyder-tanitildi-920-beygir-acilir-tavan--213115",
-   "image": "https://www.donanimhaber.com/images/images/haber/213115/1200x675lamborghini-temerario-spyder-tanitildi-920-beygir-acilir-tavan.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-19T14:02:00+00:00",
-   "url": "/haber/lamborghini-temerario-spyder-tanitildi-920-beygir-acilir-tavan-6ae6dbf0/"
   },
   {
    "id": "c14835af",
@@ -792,6 +781,17 @@
    "category": "teknoloji",
    "date": "2026-11-19T13:47:01+00:00",
    "url": "/haber/gta-6-cilginligi-is-hayatina-sicradi-izin-almak-icin-patronlarina-meyd-cdf930a4/"
+  },
+  {
+   "id": "56b34b7b",
+   "title": "Cumhurbaşkanlığı İletişim Başkanlığı heyeti Pakistan'da temaslarda bulundu",
+   "summary": "İletişim Başkan Yardımcısı Pirinççi başkanlığında heyetin görüşmelerinde, Türkiye-Pakistan stratejik ortaklığı ile iletişim alanında işbirliği ve dezenformasyonla mücadele konuları ele alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-iletisim-baskanligi-heyeti-pakistanda-temaslarda-bulundu/4131051",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T13:46:31+00:00",
+   "url": "/haber/cumhurbaskanligi-iletisim-baskanligi-heyeti-pakistan-da-temaslarda-bul-56b34b7b/"
   },
   {
    "id": "70ae8650",
