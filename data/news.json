@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:01:03.242123+00:00",
+ "updated": "2026-11-19T00:30:54.134274+00:00",
  "items": [
   {
    "id": "8cedfa4e",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-19T00:00:00+00:00",
+   "date": "2026-11-19T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-8cedfa4e/"
+  },
+  {
+   "id": "7a93cfed",
+   "title": "'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer niteliğinde'",
+   "summary": "Perşembe günü Vladimir Putin, Donald Trump ve Şi Cinping arasında gerçekleşecek olan mini zirve, Kremlin için şimdiden bir zafer gibi görünüyor. Sonuç ne olursa olsun.",
+   "link": "https://www.bbc.com/turkce/articles/cqd01jmdez00o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-19T00:22:46+00:00",
+   "url": "/haber/si-ve-trump-ile-yaptigi-tarihi-gorusmeler-putin-icin-zafer-niteliginde-7a93cfed/"
+  },
+  {
+   "id": "b33c81f1",
+   "title": "GTA 6 eleştirmenlerden tam not aldı: 'Başyapıt'",
+   "summary": "13 yıllık bekleyişin, rekor kıran fragmanların ve uzun gecikmelerin ardından eleştirmenler yılın en büyük sorularından birine yanıtını verdi: Tüm zamanların belki de en çok beklenen oyunu olan Grand Theft Auto 6…",
+   "link": "https://www.bbc.com/turkce/articles/cvy0ep5l6zp2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-19T00:07:25+00:00",
+   "url": "/haber/gta-6-elestirmenlerden-tam-not-aldi-basyapit-b33c81f1/"
   },
   {
    "id": "4cef2614",
@@ -728,17 +750,6 @@
    "url": "/haber/cem-kucuk-ve-tahir-sarikaya-icin-5-yil-3-aya-kadar-hapis-talebi-431d7bfe/"
   },
   {
-   "id": "f4d7bf9a",
-   "title": "Fon soruşturması: AKP Genel Başkan Yardımcısı Hayati Yazıcı'nın oğlu Mustafa Yazıcı ikinci kez ifade veriyor",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında AKP Genel Başkan Yardımcısı Hayati Yazıcı'nın oğlu Mustafa Yazıcı ikinci kez ifade veriyor.",
-   "link": "https://www.bbc.com/turkce/articles/cjg46z4dv6qdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/155c/live/9cac2d40-e359-11f1-99a1-253766e7ad8b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-18T14:56:57+00:00",
-   "url": "/haber/fon-sorusturmasi-akp-genel-baskan-yardimcisi-hayati-yazici-nin-oglu-mu-f4d7bf9a/"
-  },
-  {
    "id": "38229e59",
    "title": "CHP'nin kurultay davasında karar çıktı",
    "summary": "CHP'nin 38. Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla açılan davada aralarında Ekrem İmamoğlu'nun da bulunduğu 9 sanığa \"oylamaya hile karıştırma\" suçundan 2 yıl 1'er ay hapis cezası verildi.",
@@ -1133,17 +1144,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T11:00:38+00:00",
    "url": "/haber/rekabet-kurumu-sony-hakkinda-playstation-sorusturmasi-acti-8aaa09d8/"
-  },
-  {
-   "id": "e494c4ab",
-   "title": "Alman istihbaratında siber casusluk ve örtülü operasyonlar dönemi",
-   "summary": "Rusya tehdidi ve hibrit saldırılar nedeniyle güvenlik politikalarını gözden geçiren Almanya, istihbarat teşkilatları BND ve BfV'de yakın tarihin en kapsamlı dönüşümünü başlattı.",
-   "link": "https://www.bbc.com/turkce/articles/c6evre0rj7vpo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e454/live/472f4530-e338-11f1-99b6-a35a62fa4264.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-18T10:13:28+00:00",
-   "url": "/haber/alman-istihbaratinda-siber-casusluk-ve-ortulu-operasyonlar-donemi-e494c4ab/"
   },
   {
    "id": "f9147353",
