@@ -7,18 +7,25 @@
   <language>tr</language>
   <atom:link href="https://penomen06.github.io/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>SSD&#x27;ye saatte 30 GB&#x27;a dek yazan NVIDIA hatası</title>
-    <link>https://penomen06.github.io/haber/ssd-ye-saatte-30-gb-a-dek-yazan-nvidia-hatasi-fbcd41db/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/ssd-ye-saatte-30-gb-a-dek-yazan-nvidia-hatasi-fbcd41db/</guid>
-    <pubDate>Thu, 19 Nov 2026 03:30:07 +0000</pubDate>
-    <description>NVIDIA&#x27;nın son GeForce sürücülerinin, bilgisayar boştayken bile SSD&#x27;ye saatte 30 GB&#x27;a kadar veri yazdığı iddia ediliyor. Sorunun nasıl anlaşılacağı ve geçici çözümler haberimizde.</description>
+    <title>Direksiyonsuz Tesla Model Y geliyor</title>
+    <link>https://penomen06.github.io/haber/direksiyonsuz-tesla-model-y-geliyor-fc04cc2a/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/direksiyonsuz-tesla-model-y-geliyor-fc04cc2a/</guid>
+    <pubDate>Thu, 19 Nov 2026 04:00:07 +0000</pubDate>
+    <description>Elon Musk, Tesla&#x27;nın direksiyonu ve pedalları olmayan tamamen otonom bir Model Y üreteceğini açıkladı. Musk&#x27;a göre bu araç altı ya da yedi kişilik gruplar için tasarlanacak.</description>
   </item>
   <item>
     <title>Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Kasım 2026</title>
     <link>https://penomen06.github.io/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-8cedfa4e/</link>
     <guid isPermaLink="true">https://penomen06.github.io/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-8cedfa4e/</guid>
-    <pubDate>Thu, 19 Nov 2026 03:30:00 +0000</pubDate>
+    <pubDate>Thu, 19 Nov 2026 04:00:00 +0000</pubDate>
     <description>Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…</description>
+  </item>
+  <item>
+    <title>SSD&#x27;ye saatte 30 GB&#x27;a dek yazan NVIDIA hatası</title>
+    <link>https://penomen06.github.io/haber/ssd-ye-saatte-30-gb-a-dek-yazan-nvidia-hatasi-fbcd41db/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/ssd-ye-saatte-30-gb-a-dek-yazan-nvidia-hatasi-fbcd41db/</guid>
+    <pubDate>Thu, 19 Nov 2026 03:30:07 +0000</pubDate>
+    <description>NVIDIA&#x27;nın son GeForce sürücülerinin, bilgisayar boştayken bile SSD&#x27;ye saatte 30 GB&#x27;a kadar veri yazdığı iddia ediliyor. Sorunun nasıl anlaşılacağı ve geçici çözümler haberimizde.</description>
   </item>
   <item>
     <title>KPSS ortaöğretim sonuçları açıklandı</title>
@@ -348,13 +355,6 @@
     <guid isPermaLink="true">https://penomen06.github.io/haber/dualsense-haptigi-bilgisayarda-kablosuz-calisti-da52f990/</guid>
     <pubDate>Wed, 18 Nov 2026 19:05:07 +0000</pubDate>
     <description>Ücretsiz ve açık kaynaklı DS5 Untethered, PS5 kumandası DualSense&#x27;in haptik geri bildirimini ve adaptif tetiklerini Windows bilgisayarda Bluetooth üzerinden çalıştırıyor.</description>
-  </item>
-  <item>
-    <title>En İyi Araç Kamerası Markaları</title>
-    <link>https://penomen06.github.io/haber/en-iyi-arac-kamerasi-markalari-643deae7/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/en-iyi-arac-kamerasi-markalari-643deae7/</guid>
-    <pubDate>Wed, 18 Nov 2026 18:59:07 +0000</pubDate>
-    <description>Trafikte her şey yolundayken genelde hiçbir şey düşünmüyoruz. Ta ki biri aniden önümüze kırana, park halindeki aracımıza sürtüp kaçana ya da kavşakta yaşanan bir tartışmada kimin haklı olduğu belirsizleşene kadar...…</description>
   </item>
 </channel>
 </rss>
