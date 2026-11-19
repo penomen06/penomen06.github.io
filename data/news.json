@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T05:01:04.118080+00:00",
+ "updated": "2026-11-19T05:30:50.759681+00:00",
  "items": [
+  {
+   "id": "b411dcd3",
+   "title": "Ev tipi enerji depolamada yeni yaklaşım: İnverter yok, akıllı devre koruması var",
+   "summary": "İki Alman şirket, merkezi invertere ihtiyaç duymadan çalışan ve elektrik tesisatını gerçek zamanlı izleyerek aşırı ısınma ve yangın riskini önleyen yeni bir batarya sistemi geliştiriyor.",
+   "link": "https://www.donanimhaber.com/yeni-sistem-ev-tipi-bataryalarda-yangin-riskini-azaltiyor--213087",
+   "image": "https://www.donanimhaber.com/images/images/haber/213087/1200x675yeni-sistem-ev-tipi-bataryalarda-yangin-riskini-azaltiyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-19T05:30:00+00:00",
+   "url": "/haber/ev-tipi-enerji-depolamada-yeni-yaklasim-inverter-yok-akilli-devre-koru-b411dcd3/"
+  },
   {
    "id": "8cedfa4e",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Kasım 2026",
@@ -9,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-19T05:00:00+00:00",
+   "date": "2026-11-19T05:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-8cedfa4e/"
+  },
+  {
+   "id": "1b6d916b",
+   "title": "Bahçeli \"Yağmur Stratejisi\"ni açıkladı. Yedi çözüm önerisi sıraladı",
+   "summary": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, Türkiye'de yaşanan sorunlara karşı oluşturduğu \"Yağmur Stratejisi\"nin ayrıntılarını açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/bahceli-yagmur-stratejisini-acikladi-yedi-cozum-onerisi-siraladi-1751536",
+   "image": "https://images.ntv.com.tr/images/AA-20261117-43101445-43101443-TURKIYES_NATIONALIST_MOVEMENT_PARTY_MHP_GROUP_MEETING-979725.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-19T05:23:34+00:00",
+   "url": "/haber/bahceli-yagmur-stratejisi-ni-acikladi-yedi-cozum-onerisi-siraladi-1b6d916b/"
   },
   {
    "id": "72e5f640",
@@ -618,17 +640,6 @@
    "url": "/haber/doktor-pelin-pinar-in-supheli-olumu-son-goruntuleri-ortaya-cikti-a116cb42/"
   },
   {
-   "id": "cd853e94",
-   "title": "Tesla, elektrik altyapısını değiştirebilecek yeni teknolojisi Powercore'u tanıttı",
-   "summary": "Tesla, enerji altyapısında birden fazla ekipmanın yaptığı işi tek bir sistemde toplamaya hazırlanıyor. Yeni Powercore platformu, 2027 yılında kullanıma sunulacak. İşte detaylar...",
-   "link": "https://www.donanimhaber.com/tesla-dan-enerji-altyapisinda-yeni-donem-powercore-tanitildi--213077",
-   "image": "https://www.donanimhaber.com/images/images/haber/213077/1200x675tesla-dan-enerji-altyapisinda-yeni-donem-powercore-tanitildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-18T18:15:00+00:00",
-   "url": "/haber/tesla-elektrik-altyapisini-degistirebilecek-yeni-teknolojisi-powercore-cd853e94/"
-  },
-  {
    "id": "6fd52d18",
    "title": "Gemini 4 Carbon matematikte zirveye çıktı",
    "summary": "Model yüzde 85,4 puanla ilk sırada. Ancak tam bir test çalıştırması GPT-6.1 Sol'dan yaklaşık 15 kat pahalıya mal oluyor.",
@@ -979,17 +990,6 @@
    "category": "gundem",
    "date": "2026-11-18T13:17:40+00:00",
    "url": "/haber/istanbul-da-kirmizi-isikta-19-kursunla-infaz-saldirgan-kulup-baskani-c-cb15a874/"
-  },
-  {
-   "id": "f395343d",
-   "title": "Yeni Parti İzleme Komisyonu'na üye vermeyecek",
-   "summary": "TBMM Başkanı Numan Kurtulmuş ile görüşen Yeni Parti Genel Başkanı Özgür Özel, Terörsüz Türkiye kapsamında kurulacak İzleme Komisyonu'na üye vermeyeceklerini açıkladı.",
-   "link": "https://www.ntv.com.tr/turkiye/yeni-parti-izleme-komisyonuna-uye-vermeyecek-1751489",
-   "image": "https://images.ntv.com.tr/images/özel-657668.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-18T13:17:32+00:00",
-   "url": "/haber/yeni-parti-izleme-komisyonu-na-uye-vermeyecek-f395343d/"
   },
   {
    "id": "ac8ee5e2",
