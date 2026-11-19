@@ -1,17 +1,6 @@
 {
- "updated": "2026-11-19T07:01:08.157282+00:00",
+ "updated": "2026-11-19T07:30:54.030396+00:00",
  "items": [
-  {
-   "id": "53cb5cc9",
-   "title": "Doktor Pelin Pınar'ın şüpheli ölümünde yeni görüntü",
-   "summary": "İstanbul'da sekizinci kattaki evin balkonundan düşerek yaşamını yitiren doktor Pelin Pınar'ın ölümüyle ilgili soruşturmada yeni bir görüntüye ulaşıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/doktor-pelin-pinarin-supheli-olumunde-yeni-goruntu-1751555",
-   "image": "https://images.ntv.com.tr/images/doktor-pelin-pınar-160544.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-19T07:00:46+00:00",
-   "url": "/haber/doktor-pelin-pinar-in-supheli-olumunde-yeni-goruntu-53cb5cc9/"
-  },
   {
    "id": "8cedfa4e",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Kasım 2026",
@@ -20,8 +9,162 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-19T07:00:00+00:00",
+   "date": "2026-11-19T07:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-8cedfa4e/"
+  },
+  {
+   "id": "b5b5278f",
+   "title": "Huawei’den ince gövdeli yeni ürünler geliyor: “Watch Air ve Mate 90 Air”",
+   "summary": "Huawei bugün ince gövdeli akıllı saati Watch Air’i ve yine ince tasarıma sahip yeni akıllı telefonu Mate 90 Air’i gösterdi. Yakında resmi olarak tanıtılacak ürünlerden Watch Air, kare tasarımı benimsiyor ve 6,9 mm’lik…",
+   "link": "https://www.log.com.tr/huaweiden-ince-govdeli-yeni-urunler-geliyor-watch-air-ve-mate-90-air/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-19_10-22-53_nuZNy-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-19T07:29:55+00:00",
+   "url": "/haber/huawei-den-ince-govdeli-yeni-urunler-geliyor-watch-air-ve-mate-90-air-b5b5278f/"
+  },
+  {
+   "id": "0fe302b2",
+   "title": "Putin: Asya-Pasifik ekonomileriyle yapıcı ortaklık, Rusya'nın stratejik rotası",
+   "summary": "Rusya Devlet Başkanı Vladimir Putin, ülkesinin dünyaya açık kalarak ekonomik potansiyelini güçlendirmeyi hedeflediğini belirterek, \"Asya-Pasifik ekonomileriyle yapıcı ortaklık, Rusya'nın stratejik rotasıdır.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/putin-asya-pasifik-ekonomileriyle-yapici-ortaklik-rusyanin-stratejik-rotasi/4130056",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T07:26:08+00:00",
+   "url": "/haber/putin-asya-pasifik-ekonomileriyle-yapici-ortaklik-rusya-nin-stratejik-0fe302b2/"
+  },
+  {
+   "id": "f9a3ba4d",
+   "title": "Kısa vadeli dış borç stoku üçüncü çeyrekte arttı",
+   "summary": "Kısa vadeli dış borç (KVDB) stoku, yılın üçüncü çeyreğinde bir önceki çeyreğe göre yüzde 1,5 artarak 173,1 milyar dolar oldu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kisa-vadeli-dis-borc-stoku-ucuncu-ceyrekte-artti/4130051",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T07:24:08+00:00",
+   "url": "/haber/kisa-vadeli-dis-borc-stoku-ucuncu-ceyrekte-artti-f9a3ba4d/"
+  },
+  {
+   "id": "2637283c",
+   "title": "Baraj doluluk oranları güncellendi. 19 Kasım'da İstanbul barajları ne kadar, yüzde kaç dolu?",
+   "summary": "İstanbul’un su rezervlerindeki son durum İstanbullular tarafından yakından takip edilmeye devam ediyor. İstanbul Su ve Kanalizasyon İdaresi (İSKİ) tarafından her sabah düzenli olarak paylaşılan hidrolik ölçümlerle…",
+   "link": "https://www.ntv.com.tr/turkiye/baraj-doluluk-oranlari-guncellendi-19-kasimda-istanbul-barajlari-ne-kadar-yuzde-kac-dolu-1751562",
+   "image": "https://images.ntv.com.tr/images/a08ee85a9237a7c0dd09b0511e86df3b-368438.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-19T07:20:41+00:00",
+   "url": "/haber/baraj-doluluk-oranlari-guncellendi-19-kasim-da-istanbul-barajlari-ne-k-2637283c/"
+  },
+  {
+   "id": "1349446f",
+   "title": "DDR6 RAM detayları duyuruldu: RAM boyları küçülüyor, anakart tasarımları değişebilir",
+   "summary": "DDR6 bellek standardının ilk detayları ortaya çıktı. Yeni nesil RAM teknolojisi, performans artışının yanı sıra bilgisayarların donanım tasarımında da önemli değişiklikler getirebilir.",
+   "link": "https://www.donanimhaber.com/ddr6-ram-detaylari-duyuruldu-ram-boylari-kuculuyor--213106",
+   "image": "https://www.donanimhaber.com/images/images/haber/213106/1200x675ddr6-ram-detaylari-duyuruldu-ram-boylari-kuculuyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-19T07:19:01+00:00",
+   "url": "/haber/ddr6-ram-detaylari-duyuruldu-ram-boylari-kuculuyor-anakart-tasarimlari-1349446f/"
+  },
+  {
+   "id": "94f3d78d",
+   "title": "İlk “RTX Spark” tabanlı mini PC’ler satışa çıkmaya başladı",
+   "summary": "Asus, Dell ve MSI gibi üreticiler bugün dizüstü modellerinin ardından ilk RTX Spark tabanlı mini PC’leri de satışa çıkarmaya başladı. Önümüzdeki dönemde Acer, Gigabyte, HP ve Microsoft’tan da gelecek N1 serisi işlemcili…",
+   "link": "https://www.log.com.tr/ilk-rtx-spark-tabanli-mini-pcler-satisa-cikmaya-basladi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-19_10-08-42_sfEuG-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-19T07:19:00+00:00",
+   "url": "/haber/ilk-rtx-spark-tabanli-mini-pc-ler-satisa-cikmaya-basladi-94f3d78d/"
+  },
+  {
+   "id": "704af76a",
+   "title": "Hatay'da sağanak hayatı olumsuz etkiledi",
+   "summary": "Hatay'ın merkez Antakya ilçesinde sağanak nedeniyle cadde ve sokaklarda su birikintileri oluştu, bazı araçlar yollarda mahsur kaldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/hatayda-saganak-hayati-olumsuz-etkiledi/4130035",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T07:10:03+00:00",
+   "url": "/haber/hatay-da-saganak-hayati-olumsuz-etkiledi-704af76a/"
+  },
+  {
+   "id": "53cb5cc9",
+   "title": "Doktor Pelin Pınar'ın şüpheli ölümünde yeni görüntü",
+   "summary": "İstanbul'da sekizinci kattaki evin balkonundan düşerek yaşamını yitiren doktor Pelin Pınar'ın ölümüyle ilgili soruşturmada yeni bir görüntüye ulaşıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/doktor-pelin-pinarin-supheli-olumunde-yeni-goruntu-1751555",
+   "image": "https://images.ntv.com.tr/images/doktor-pelin-pınar-160544.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-19T07:09:21+00:00",
+   "url": "/haber/doktor-pelin-pinar-in-supheli-olumunde-yeni-goruntu-53cb5cc9/"
+  },
+  {
+   "id": "d0456452",
+   "title": "İslam Ülkeleri Akademisyen ve Yazarlar Birliği, Lübnan'ın Trablusşam kentinde üniversitelerle protokoller imzaladı",
+   "summary": "İslam Ülkeleri Akademisyen ve Yazarlar Birliği (AYBİR) Başkanı Prof. Dr. Ebubekir Ceylan başkanlığındaki heyet, akademik işbirliği imkanlarını görüşmek üzere geldiği Lübnan'ın Trablusşam kentindeki üniversitelerle…",
+   "link": "https://www.aa.com.tr/tr/gundem/islam-ulkeleri-akademisyen-ve-yazarlar-birligi-lubnanin-trablussam-kentinde-universitelerle-protokoller-imzaladi/4130033",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T07:07:19+00:00",
+   "url": "/haber/islam-ulkeleri-akademisyen-ve-yazarlar-birligi-lubnan-in-trablussam-ke-d0456452/"
+  },
+  {
+   "id": "060e6903",
+   "title": "BYD, “Denza B5” ile iki tekerlek üzerinde Boeing 747 çekti [Video]",
+   "summary": "BYD, plug-in hibrit SUV modeli Denza B5’i (Bao 5) öne çıkarmak için ses getiren bir reklam kampanyasına imza attı. Araç, iki tekeri üzerindeyken 180 tonluk bir boş Boeing 747’yi çekmeyi başardı. Denemeye başta üç…",
+   "link": "https://www.log.com.tr/byd-denza-b5-ile-iki-tekerlek-uzerinde-boeing-747-cekti-video/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-19_10-01-35_tYn9r-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-19T07:05:17+00:00",
+   "url": "/haber/byd-denza-b5-ile-iki-tekerlek-uzerinde-boeing-747-cekti-video-060e6903/"
+  },
+  {
+   "id": "fbc09e76",
+   "title": "Sudan'da HDK komutanı, emrindeki askerlerle ordu saflarına katıldı",
+   "summary": "Sudan'da Hızlı Destek Kuvvetleri (HDK) komutanlarından Mişal Abdurrahman'ın, emrindeki subay ve askerlerle Sudan ordusuna katıldığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/sudanda-hdk-komutani-emrindeki-askerlerle-ordu-saflarina-katildi/4130032",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T07:05:16+00:00",
+   "url": "/haber/sudan-da-hdk-komutani-emrindeki-askerlerle-ordu-saflarina-katildi-fbc09e76/"
+  },
+  {
+   "id": "c92b896a",
+   "title": "Taşınabilir ince oyun laptopu hangisi?",
+   "summary": "Ev ile ikinci bir oyun alanı arasında düzenli gidip gelenler için Casper Excalibur G915 (G915.1362-BE60A-C), 20,5 mm’lik ince gövdesiyle öne çıkar.",
+   "link": "https://shiftdelete.net/tasinabilir-ince-oyun-laptopu-hangisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/casper-tasinabilir-ince-oyun-laptopu-hangisi-kapak-1811.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-19T07:02:05+00:00",
+   "url": "/haber/tasinabilir-ince-oyun-laptopu-hangisi-c92b896a/"
+  },
+  {
+   "id": "9d79aec9",
+   "title": "Borsa güne yükselişle başladı",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,32 yükselişle 11.513,90 puandan başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4130030",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T07:01:23+00:00",
+   "url": "/haber/borsa-gune-yukselisle-basladi-9d79aec9/"
+  },
+  {
+   "id": "091c60e5",
+   "title": "Elon Musk, ABD'deki ara seçimlere yaptığı yüksek miktardaki harcamadan pişman olduğunu söyledi",
+   "summary": "Tesla ve SpaceX'in Üst Yöneticisi (CEO) Elon Musk, ara seçimlerde Cumhuriyetçilere destek amacıyla yaptığı harcamadan beklediği sonucu alamadığını belirterek, bu kadar para harcadığı için kendisini \"oldukça aptal\"…",
+   "link": "https://www.aa.com.tr/tr/dunya/elon-musk-abddeki-ara-secimlere-yaptigi-yuksek-miktardaki-harcamadan-pisman-oldugunu-soyledi/4130027",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T06:59:15+00:00",
+   "url": "/haber/elon-musk-abd-deki-ara-secimlere-yaptigi-yuksek-miktardaki-harcamadan-091c60e5/"
   },
   {
    "id": "0ee400aa",
@@ -33,6 +176,17 @@
    "category": "teknoloji",
    "date": "2026-11-19T06:57:19+00:00",
    "url": "/haber/rockstar-dan-aciklama-geldi-ps5-pro-bile-gta-6-yi-60-fps-te-calistirac-0ee400aa/"
+  },
+  {
+   "id": "6e71827e",
+   "title": "Anadolu Efes, Basketbol Avrupa Ligi'nde yarın LDLC Asvel'i ağırlayacak",
+   "summary": "Anadolu Efes, Basketbol Avrupa Ligi'nin (EuroLeague) 13. haftasında yarın Fransa'nın LDLC Asvel ekibini ağırlayacak.",
+   "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-basketbol-avrupa-liginde-yarin-ldlc-asveli-agirlayacak/4130021",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T06:53:34+00:00",
+   "url": "/haber/anadolu-efes-basketbol-avrupa-ligi-nde-yarin-ldlc-asvel-i-agirlayacak-6e71827e/"
   },
   {
    "id": "efdc01fa",
@@ -55,6 +209,17 @@
    "category": "gundem",
    "date": "2026-11-19T06:52:14+00:00",
    "url": "/haber/istanbul-photo-awards-2026-sergisi-abd-nin-baskenti-washington-da-acil-a498cd4f/"
+  },
+  {
+   "id": "ffd5b198",
+   "title": "COP31'de uzmanlar, ülkelere fosil yakıtlardan uzaklaşmayı hızlandırma çağrısında bulundu",
+   "summary": "Türkiye'den ve uluslararası uzmanlar, COP31'de ülkelere fosil yakıtlardan uzaklaşmayı hızlandırma çağrısında bulunarak, bu yöndeki kararların zirvenin sonuç metninde yer alması gerektiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-uzmanlar-ulkelere-fosil-yakitlardan-uzaklasmayi-hizlandirma-cagrisinda-bulundu/4130010",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T06:46:34+00:00",
+   "url": "/haber/cop31-de-uzmanlar-ulkelere-fosil-yakitlardan-uzaklasmayi-hizlandirma-c-ffd5b198/"
   },
   {
    "id": "f42b35d6",
@@ -167,17 +332,6 @@
    "url": "/haber/openai-ve-sam-altman-a-odaklanan-artificial-filminden-yeni-fragman-gel-ac990e73/"
   },
   {
-   "id": "d9445a73",
-   "title": "Instagram artık hikayelerin paylaşıldıktan sonra düzenlenmesine izin veriyor",
-   "summary": "Uzun süredir talep edilen özellik sonunda geldi. Instagram artık kullanıcıların paylaştıkları hikayeleri sonradan düzenleyebilmesine olanak tanıyor. Platformun başındaki isimli Adam Mosseri’nin yaptığı açıklamaya göre…",
-   "link": "https://www.log.com.tr/instagram-artik-hikayelerin-paylasildiktan-sonra-duzenlenmesine-izin-veriyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-19_08-56-37_kYlhG-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-19T06:00:59+00:00",
-   "url": "/haber/instagram-artik-hikayelerin-paylasildiktan-sonra-duzenlenmesine-izin-v-d9445a73/"
-  },
-  {
    "id": "59474dfd",
    "title": "En çok satan OLED monitör markaları açıklandı: Satışlar katladı",
    "summary": "Küresel OLED monitör sevkiyatları 2026'nın üçüncü çeyreğinde geçen yılın aynı dönemine kıyasla resmen iki katına çıktı. İşte en çok satan markalar...",
@@ -187,17 +341,6 @@
    "category": "teknoloji",
    "date": "2026-11-19T06:00:00+00:00",
    "url": "/haber/en-cok-satan-oled-monitor-markalari-aciklandi-satislar-katladi-59474dfd/"
-  },
-  {
-   "id": "6de6970b",
-   "title": "Google, yeni dünya modeli Genie 4’ü kullanıma sundu",
-   "summary": "Google, kısa süre önce tanıttığı Genie 4’ü bugün “Project Genie” özelinde AI Ultra abonelerine açmaya başladı. Genie, yazılı komutlarla etkileşime girilebilen ortamlar, başka bir deyişle “dijital dünyalar” üretebiliyor.…",
-   "link": "https://www.log.com.tr/google-yeni-dunya-modeli-genie-4u-kullanima-sundu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-10-28_09-17-21_1TopR_FHD-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-19T05:55:18+00:00",
-   "url": "/haber/google-yeni-dunya-modeli-genie-4-u-kullanima-sundu-6de6970b/"
   },
   {
    "id": "1b6d916b",
@@ -220,17 +363,6 @@
    "category": "gundem",
    "date": "2026-11-19T05:52:34+00:00",
    "url": "/haber/istanbullular-bu-saatlere-dikkat-lodos-firtinasinin-daha-da-kuvvetlisi-4fad5263/"
-  },
-  {
-   "id": "de28f7a0",
-   "title": "Google, “Gemini 4 Neo” yapay zeka modelini kullanıma sundu",
-   "summary": "Google, Gemini 4 Carbon, Gemini 4 Argon ve Gemini 4 Hydrogen modellerinin ardından “Gemini 4 Neon” yapay zeka modelini kullanıma sundu. Kısa sürede çok sayıda model yayınlayan şirket, Neo’nun karmaşık yapıdaki yoğun iş…",
-   "link": "https://www.log.com.tr/google-gemini-4-neo-yapay-zeka-modelini-kullanima-sundu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-19_08-39-55_UaUs0-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-19T05:50:28+00:00",
-   "url": "/haber/google-gemini-4-neo-yapay-zeka-modelini-kullanima-sundu-de28f7a0/"
   },
   {
    "id": "5781cb01",
@@ -299,17 +431,6 @@
    "url": "/haber/ukrayna-kopruyu-starlink-siz-vurdu-ucan-modem-57a56a77/"
   },
   {
-   "id": "e753a7b7",
-   "title": "Trump, Çin'deki APEC Zirvesi'nde yapay zekaya yönelik \"küreselci düzenlemeye\" karşı çıktı",
-   "summary": "ABD Başkanı Donald Trump, yapay zekanın \"bazı kötü unsurları\" olduğunu ancak \"neredeyse tamamen iyi\" olduğunu belirterek, yapay zekanın kontrol edilmesine veya kısıtlanmasına yönelik her türlü \"küreselci düzenlemeye\"…",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-cindeki-apec-zirvesinde-yapay-zekaya-yonelik-kureselci-duzenlemeye-karsi-cikti/4129940",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T04:06:25+00:00",
-   "url": "/haber/trump-cin-deki-apec-zirvesi-nde-yapay-zekaya-yonelik-kureselci-duzenle-e753a7b7/"
-  },
-  {
    "id": "fc04cc2a",
    "title": "Direksiyonsuz Tesla Model Y geliyor",
    "summary": "Elon Musk, Tesla'nın direksiyonu ve pedalları olmayan tamamen otonom bir Model Y üreteceğini açıkladı. Musk'a göre bu araç altı ya da yedi kişilik gruplar için tasarlanacak.",
@@ -352,17 +473,6 @@
    "category": "gundem",
    "date": "2026-11-19T03:24:00+00:00",
    "url": "/haber/arakanli-muslumanlara-yonelik-soykirim-davasinda-karar-bugun-aciklanac-525413c8/"
-  },
-  {
-   "id": "eb11fa23",
-   "title": "KPSS ortaöğretim sonuçları açıklandı",
-   "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM), Kamu Personeli Seçme Sınavı (2026-KPSS) ortaöğretim sonuçlarını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/kpss-ortaogretim-sonuclari-aciklandi/4129935",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T03:13:18+00:00",
-   "url": "/haber/kpss-ortaogretim-sonuclari-aciklandi-eb11fa23/"
   },
   {
    "id": "e6b01fe5",
@@ -409,17 +519,6 @@
    "url": "/haber/ssd-fiyatlari-dusuyor-nand-yuzde-20-ucuzladi-9f7996de/"
   },
   {
-   "id": "53d3814c",
-   "title": "Anthropic halka arzında hisse fiyatını 83 dolar olarak belirledi",
-   "summary": "Claude yapay zeka modellerinin geliştiricisi Anthropic, halka arzını hisse başına 83 dolardan fiyatlandırdı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/anthropic-halka-arzinda-hisse-fiyatini-83-dolar-olarak-belirledi/4129918",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T00:39:42+00:00",
-   "url": "/haber/anthropic-halka-arzinda-hisse-fiyatini-83-dolar-olarak-belirledi-53d3814c/"
-  },
-  {
    "id": "7a93cfed",
    "title": "'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer niteliğinde'",
    "summary": "Perşembe günü Vladimir Putin, Donald Trump ve Şi Cinping arasında gerçekleşecek olan mini zirve, Kremlin için şimdiden bir zafer gibi görünüyor. Sonuç ne olursa olsun.",
@@ -453,17 +552,6 @@
    "url": "/haber/naza-belgeselinin-yonetmenleri-israil-askerlerini-gazze-deki-sivil-kay-4cef2614/"
   },
   {
-   "id": "12545bcf",
-   "title": "Rusya: Ukrayna, Kırım Köprüsü'ne yeniden saldırdı",
-   "summary": "Rusya'nın yasa dışı ilhak ettiği Kırım'ın sözde yönetim başkanı Sergey Aksyonov, Ukrayna ordusunun Kırım Köprüsü'ne yeniden saldırı düzenlediğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukrayna-kirim-koprusune-yeniden-saldirdi/4129912",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T23:56:37+00:00",
-   "url": "/haber/rusya-ukrayna-kirim-koprusu-ne-yeniden-saldirdi-12545bcf/"
-  },
-  {
    "id": "bfa5ac01",
    "title": "Fon krizinde yaklaşık yarım milyon yatırımcıyı etkileyen geri ödemeler ne aşamada?",
    "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, yatırım fonu krizinde toplamda 444 bin yatırımcıya ödeme yapıldığını, 371 bin yatırımcının net yatırım tutarının tamamını aldığını açıkladı. Geri ödemelerle ilgili ne biliniyor?",
@@ -475,17 +563,6 @@
    "url": "/haber/fon-krizinde-yaklasik-yarim-milyon-yatirimciyi-etkileyen-geri-odemeler-bfa5ac01/"
   },
   {
-   "id": "559d93fa",
-   "title": "ABD'nin ilk Müslüman senatörü seçilen Sayed'den Trump'a \"herkes için sağlık sistemi\" önerisi",
-   "summary": "ABD'de 3 Kasım'da yapılan ara seçimlerde ülkenin ilk Müslüman senatörü seçilen Mısır kökenli Abdul el-Sayed, ABD Başkanı Donald Trump'a \"habibi (canım)\" diye seslenerek herkes için sağlık hizmeti sunulması için birlikte…",
-   "link": "https://www.aa.com.tr/tr/dunya/abdnin-ilk-musluman-senatoru-secilen-sayedden-trumpa-herkes-icin-saglik-sistemi-onerisi/4129909",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T23:45:30+00:00",
-   "url": "/haber/abd-nin-ilk-musluman-senatoru-secilen-sayed-den-trump-a-herkes-icin-sa-559d93fa/"
-  },
-  {
    "id": "43265dde",
    "title": "AKP'de fon krizini seçim süreci başlamadan çözme arayışı",
    "summary": "AKP, 17 Eylül'de patlak veren fon krizine ilişkin ödemeleri, soruşturmaları ve sermaye piyasalarında denetimin güçlendirilmesine yönelik yasal düzenlemeleri yılbaşına kadar sonuçlandırmayı hedefliyor.",
@@ -495,28 +572,6 @@
    "category": "gundem",
    "date": "2026-11-18T23:35:45+00:00",
    "url": "/haber/akp-de-fon-krizini-secim-sureci-baslamadan-cozme-arayisi-43265dde/"
-  },
-  {
-   "id": "d612c1fc",
-   "title": "Moody's ABD'ye yönelik periyodik incelemesini tamamladı",
-   "summary": "Uluslararası kredi derecelendirme kuruluşu Moody's, ABD'nin kredi notlarına yönelik periyodik incelemesini tamamladığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/moodys-abdye-yonelik-periyodik-incelemesini-tamamladi/4129902",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T23:11:10+00:00",
-   "url": "/haber/moody-s-abd-ye-yonelik-periyodik-incelemesini-tamamladi-d612c1fc/"
-  },
-  {
-   "id": "d86880a4",
-   "title": "UKMTO: Umman açıklarında bir tanker saldırıya uğradı",
-   "summary": "İngiltere Deniz Ticareti Operasyonları (UKMTO), Umman'ın Hasab kentinin 6 deniz mili kuzeyinde bir tanker gemisinin saldırıya uğradığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/ukmto-umman-aciklarinda-bir-tanker-saldiriya-ugradi/4129894",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T22:51:45+00:00",
-   "url": "/haber/ukmto-umman-aciklarinda-bir-tanker-saldiriya-ugradi-d86880a4/"
   },
   {
    "id": "7622e711",
@@ -561,28 +616,6 @@
    "category": "teknoloji",
    "date": "2026-11-18T21:20:00+00:00",
    "url": "/haber/one-ui-9-5-guncellemesi-alacak-samsung-telefonlar-835f8984/"
-  },
-  {
-   "id": "046e9cd6",
-   "title": "Zelenskiy, Gönüllüler Koalisyonu toplantısının 19 Kasım'da Almanya'da düzenleneceğini belirtti",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Ukrayna konusundaki Gönüllüler Koalisyonu toplantısının 19 Kasım'da Almanya'da düzenleneceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-gonulluler-koalisyonu-toplantisinin-19-kasimda-almanyada-duzenlenecegini-belirtti-/4129850",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T21:10:45+00:00",
-   "url": "/haber/zelenskiy-gonulluler-koalisyonu-toplantisinin-19-kasim-da-almanya-da-d-046e9cd6/"
-  },
-  {
-   "id": "d9687ad2",
-   "title": "İsrail ordusu, Gazze'nin orta kesiminde işgalini \"Sarı Hat\"ın ötesine taşıdığını açıkladı",
-   "summary": "İsrail ordusu, Gazze Şeridi'nin orta kesiminde işgalini ateşkesle belirlenen \"Sarı Hat\"ın ötesine taşıdığını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazzenin-orta-kesiminde-isgalini-sari-hatin-otesine-tasidigini-acikladi/4129847",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-18T21:08:54+00:00",
-   "url": "/haber/israil-ordusu-gazze-nin-orta-kesiminde-isgalini-sari-hat-in-otesine-ta-d9687ad2/"
   },
   {
    "id": "b4e700d7",
@@ -794,17 +827,6 @@
    "url": "/haber/en-iyi-arac-kamerasi-markalari-643deae7/"
   },
   {
-   "id": "e42123c9",
-   "title": "FBI uyardı: Hackerlar yapay zeka ile 3 saatte sistemlere sızabiliyor",
-   "summary": "FBI, hackerların ARTEX adlı yapay zeka aracıyla dünya genelindeki kuruluşlara saldırdığını açıkladı. Bazı saldırılarda sistemlere sızmak yalnızca üç saat sürdü.",
-   "link": "https://www.donanimhaber.com/fbi-uyardi-hackerlar-ai-ile-3-saatte-sistemlere-sizabiliyor--213074",
-   "image": "https://www.donanimhaber.com/images/images/haber/213074/1200x675fbi-uyardi-hackerlar-ai-ile-3-saatte-sistemlere-sizabiliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-18T18:57:00+00:00",
-   "url": "/haber/fbi-uyardi-hackerlar-yapay-zeka-ile-3-saatte-sistemlere-sizabiliyor-e42123c9/"
-  },
-  {
    "id": "a5b33582",
    "title": "Yüksek yenileme hızlı oyun laptopu hangisi?",
    "summary": "Casper Excalibur G920, rekabetçi maçlarda rakibin hareketini dahili ekrandan izleyenlere 300 Hz yenileme sunar.",
@@ -882,17 +904,6 @@
    "url": "/haber/gta-6-sahte-pc-indirmeleri-oyunculara-tuzak-ee8d5ad3/"
   },
   {
-   "id": "cbe71df5",
-   "title": "Vivo X Fold7'de Snapdragon dönüşü fiyata bağlı",
-   "summary": "Vivo X Fold7 için üç farklı 2 nm çipset test ediliyor. Weibo'daki Digital Chat Station'a göre nihai karar, tedarikçilerin sunacağı fiyata bağlı.",
-   "link": "https://shiftdelete.net/vivo-x-fold7-snapdragon-dimensity-9600-pro",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/vivo-x-fold6-resmi-kapak-1811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-18T16:35:07+00:00",
-   "url": "/haber/vivo-x-fold7-de-snapdragon-donusu-fiyata-bagli-cbe71df5/"
-  },
-  {
    "id": "30a9a61e",
    "title": "Yeni Parti, İzleme Komisyonu'na üye vermeyecek",
    "summary": "TBMM Başkanı Numan Kurtulmuş ile görüşen Yeni Parti Genel Başkanı Özgür Özel, çözüm süreci kapsamında Meclis'te kurulacak olan Süreç İzleme Komisyonu'na üye vermeyeceklerini açıkladı.",
@@ -935,17 +946,6 @@
    "category": "gundem",
    "date": "2026-11-18T15:15:55+00:00",
    "url": "/haber/erdogan-emekli-maasi-duzenlemesiyle-ilgili-neler-soyledi-01c744d2/"
-  },
-  {
-   "id": "431d7bfe",
-   "title": "Cem Küçük ve Tahir Sarıkaya için 5 yıl 3 aya kadar hapis talebi",
-   "summary": "Cem Küçük ve Tahir Sarıkaya'nın \"Halkı yanıltıcı bilgiyi alenen yayma\" suçundan yargılandıkları soruşturma tamamlandı. İki isim için 5 yıl 3 aya kadar hapis cezası talep edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/cem-kucuk-ve-tahir-sarikaya-icin-5-yil-3-aya-kadar-hapis-talebi-1751499",
-   "image": "https://images.ntv.com.tr/images/tahircem-645607.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-18T15:06:30+00:00",
-   "url": "/haber/cem-kucuk-ve-tahir-sarikaya-icin-5-yil-3-aya-kadar-hapis-talebi-431d7bfe/"
   },
   {
    "id": "6a6d306e",
