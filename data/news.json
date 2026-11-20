@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:30:52.815277+00:00",
+ "updated": "2026-11-20T00:01:04.829313+00:00",
  "items": [
   {
    "id": "efb422a6",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-19T23:30:00+00:00",
+   "date": "2026-11-20T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-efb422a6/"
+  },
+  {
+   "id": "18cab49e",
+   "title": "'Kötü adamı oynamak çok daha eğlenceli': GTA'nın ortaya çıkış hikayesi",
+   "summary": "Orijinal Grand Theft Auto, 1997 yılında İskoçya'nın Dundee şehrinde, sonraki oyunların standartlarına göre nispeten küçük bir ekip olan DMA Design tarafından piyasaya sürüldü.",
+   "link": "https://www.bbc.com/turkce/articles/ck3wg1d87zy6o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/511e/live/2adf2510-e2ae-11f1-99a1-253766e7ad8b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-19T23:52:00+00:00",
+   "url": "/haber/kotu-adami-oynamak-cok-daha-eglenceli-gta-nin-ortaya-cikis-hikayesi-18cab49e/"
+  },
+  {
+   "id": "92b35c2d",
+   "title": "İranlı sözcü, ABD'nin \"biyolojik silah\" haberlerini Irak işgalindeki iddialara benzetti",
+   "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ABD'li yetkililerin İran'ın biyolojik veya kimyasal silah geliştirdiğine ilişkin iddialarını, 2003'te Irak'ın işgaline gerekçe gösterilen kitle imha silahları iddialarına…",
+   "link": "https://www.aa.com.tr/tr/dunya/iranli-sozcu-abdnin-biyolojik-silah-haberlerini-irak-isgalindeki-iddialara-benzetti/4131627",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T23:42:07+00:00",
+   "url": "/haber/iranli-sozcu-abd-nin-biyolojik-silah-haberlerini-irak-isgalindeki-iddi-92b35c2d/"
   },
   {
    "id": "e859a093",
@@ -46,28 +68,6 @@
    "url": "/haber/gemini-artik-mac-i-sizin-yerinize-kullaniyor-f29f52fe/"
   },
   {
-   "id": "ac1a0652",
-   "title": "Türkiye, UAD'nin Myanmar kararını memnuniyetle karşıladı",
-   "summary": "Türkiye, UAD'ın, Myanmar'ın 2017'de Arakan Eyaleti'nin kuzeyinde Arakanlı Müslümanlara (Rohingya) karşı soykırım işlediğine ve soykırımı önleme ile cezalandırma yükümlülüklerini ihlal ettiğine hükmeden kararını…",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-uadnin-myanmar-kararini-memnuniyetle-karsiladi/4131618",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T22:15:48+00:00",
-   "url": "/haber/turkiye-uad-nin-myanmar-kararini-memnuniyetle-karsiladi-ac1a0652/"
-  },
-  {
-   "id": "2195bb57",
-   "title": "Anthropic'in hisseleri ilk işlem gününü yükselişle tamamladı",
-   "summary": "Claude yapay zeka modellerinin geliştiricisi Anthropic'in hisseleri, Nasdaq'taki ilk işlem gününde yükseliş kaydetti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/anthropicin-hisseleri-ilk-islem-gununu-yukselisle-tamamladi/4131617",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T22:13:39+00:00",
-   "url": "/haber/anthropic-in-hisseleri-ilk-islem-gununu-yukselisle-tamamladi-2195bb57/"
-  },
-  {
    "id": "207d1807",
    "title": "Viral GTA 6 PC videosu sahte çıktı",
    "summary": "GTA 6'nın PC'de çalıştığını gösterdiği iddia edilen viral video sahte çıktı. Görüntülerin, GTA 5'in PC'de çalıştırıldığı eski bir videodan alındığı ortaya çıktı.",
@@ -77,17 +77,6 @@
    "category": "teknoloji",
    "date": "2026-11-19T22:00:08+00:00",
    "url": "/haber/viral-gta-6-pc-videosu-sahte-cikti-207d1807/"
-  },
-  {
-   "id": "fc5fb700",
-   "title": "BUDO'nun bugünkü 10 seferi iptal edildi",
-   "summary": "Bursa Deniz Otobüslerinin (BUDO) bugünkü 10 seferi olumsuz hava şartları nedeniyle iptal edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/budonun-bugunku-10-seferi-iptal-edildi/4131613",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T21:48:26+00:00",
-   "url": "/haber/budo-nun-bugunku-10-seferi-iptal-edildi-fc5fb700/"
   },
   {
    "id": "0f8a1ac2",
@@ -134,6 +123,17 @@
    "url": "/haber/diyarbakir-da-saganak-sonrasi-beton-kopru-coktu-ad6acd44/"
   },
   {
+   "id": "6b2b04b7",
+   "title": "Yenilikçi ahşap kompozit levhayla yapılarda yüzde 30 enerji tasarrufu sağlanabilecek",
+   "summary": "Karadeniz Teknik Üniversitesi (KTÜ) Orman Fakültesince TÜBİTAK desteğiyle, yapılarda enerji tasarrufunu artırmak amacıyla \"Binalarda Enerji Depolama için Lignoselüloz Matrisli Biyobazlı Faz Değişim Malzemeleri Projesi\"…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yenilikci-ahsap-kompozit-levhayla-yapilarda-yuzde-30-enerji-tasarrufu-saglanabilecek/4131594",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T21:21:21+00:00",
+   "url": "/haber/yenilikci-ahsap-kompozit-levhayla-yapilarda-yuzde-30-enerji-tasarrufu-6b2b04b7/"
+  },
+  {
    "id": "7a77d030",
    "title": "Katar'dan Hürmüz Boğazı krizine karşı uluslararası ortak hareket çağrısı",
    "summary": "Katar Dışişleri Bakanlığı Sözcüsü Macid el-Ensari, Hürmüz Boğazı'nın kapanmasının enerji güvenliğini, tedarik zincirlerini ve küresel ekonomiyi olumsuz etkilediğini belirterek, uluslararası düzeyde ortak hareket…",
@@ -167,6 +167,39 @@
    "url": "/haber/fransa-da-kolluk-kuvvetlerine-mesru-mudafaa-zirhi-saglayan-tasari-prot-b84dffb8/"
   },
   {
+   "id": "571d31ec",
+   "title": "Küresel sigorta primlerinde gelecek 2 yılda reel artış bekleniyor",
+   "summary": "Dünyanın önde gelen reasürans şirketlerinden Swiss Re, reel bazda küresel hayat dışı sigorta primlerinin 2027'de yüzde 1, 2028'de yüzde 2, hayat sigortası primlerinin ise 2027-2028 döneminde yıllık ortalama yüzde 2,1…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-sigorta-primlerinde-gelecek-2-yilda-reel-artis-bekleniyor/4131587",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T21:15:00+00:00",
+   "url": "/haber/kuresel-sigorta-primlerinde-gelecek-2-yilda-reel-artis-bekleniyor-571d31ec/"
+  },
+  {
+   "id": "24482857",
+   "title": "Anneyi hayattan koparan kazada sürücüye 15 yıla kadar hapis istemi",
+   "summary": "Diyarbakır'ın merkez Bağlar ilçesinde kaldırımda yürüdükleri sırada otomobiliyle çarptığı annenin ölümüne ve çocuğunun yaralanmasına neden olduğu gerekçesiyle tutuklanan sürücü, 2 yıldan 15 yıla kadar hapis istemiyle…",
+   "link": "https://www.aa.com.tr/tr/gundem/anneyi-hayattan-koparan-kazada-surucuye-15-yila-kadar-hapis-istemi/4131586",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T21:14:31+00:00",
+   "url": "/haber/anneyi-hayattan-koparan-kazada-surucuye-15-yila-kadar-hapis-istemi-24482857/"
+  },
+  {
+   "id": "72c3a163",
+   "title": "\"COP31\" adlı caretta caretta 175 kilometre mesafe katetti",
+   "summary": "Deniz Kaplumbağaları Araştırma, Kurtarma ve Rehabilitasyon Merkezi (DEKAMER) ekibince 29 Ekim'de uydu takip cihazı takılarak denize bırakılan \"COP31\" adlı caretta caretta, bugüne kadar 175 kilometre mesafe katetti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-adli-caretta-caretta-175-kilometre-mesafe-katetti/4131584",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T21:13:43+00:00",
+   "url": "/haber/cop31-adli-caretta-caretta-175-kilometre-mesafe-katetti-72c3a163/"
+  },
+  {
    "id": "dad9813d",
    "title": "İTÜ ve Koç Üniversitesi, URAP sıralamasında zirvede yer aldı",
    "summary": "ODTÜ URAP'ın, üniversitelerin yer aldığı 2026-2027 Türkiye sıralamasında, tıp fakültesi olan üniversiteler arasında Koç Üniversitesi, olmayan üniversiteler arasında ise İstanbul Teknik Üniversitesi (İTÜ) en iyi…",
@@ -187,6 +220,17 @@
    "category": "gundem",
    "date": "2026-11-19T21:11:39+00:00",
    "url": "/haber/sanatci-mehmet-unal-doga-ve-insan-arasindaki-bagi-cop31-de-sanatla-anl-83daaa57/"
+  },
+  {
+   "id": "7841dd3d",
+   "title": "Beton atıkları iklime dirençli kent altyapılarında kullanılacak",
+   "summary": "Sakarya Üniversitesi (SAÜ) öncülüğünde yürütülen projeyle, kentsel dönüşüm sonrası ortaya çıkan beton atıklarının geri dönüştürülerek iklime dirençli kent altyapılarında kullanılması ve böylece sürdürülebilir geleceğe…",
+   "link": "https://www.aa.com.tr/tr/gundem/beton-atiklari-iklime-direncli-kent-altyapilarinda-kullanilacak/4131580",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-19T21:10:01+00:00",
+   "url": "/haber/beton-atiklari-iklime-direncli-kent-altyapilarinda-kullanilacak-7841dd3d/"
   },
   {
    "id": "a3e85d6e",
@@ -244,17 +288,6 @@
    "url": "/haber/nvidia-rekor-kirmaya-devam-ediyor-115-8-milyar-dolar-gelir-8238ccf0/"
   },
   {
-   "id": "da076b61",
-   "title": "Somali, BAE Büyükelçisinin 72 saat içinde ülkeyi terk etmesini istedi",
-   "summary": "Somali hükümeti, Birleşik Arap Emirlikleri'nin (BAE) ülkenin iç işlerine müdahale ettiği gerekçesiyle BAE'nin Mogadişu Büyükelçisinin 72 saat içinde ülkeyi terk etmesini istedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/somali-bae-buyukelcisinin-72-saat-icinde-ulkeyi-terk-etmesini-istedi/4131552",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T20:39:11+00:00",
-   "url": "/haber/somali-bae-buyukelcisinin-72-saat-icinde-ulkeyi-terk-etmesini-istedi-da076b61/"
-  },
-  {
    "id": "0d403a1d",
    "title": "A101 marketler Samsung Galaxy Z Fold 8 ve Roborock S8 Pro satıyor",
    "summary": "19 Kasım A101 Ekstra teknoloji ürünleri arasında Samsung Galaxy Z Fold 8 katlanabilir telefon modeli ve Roborock S8 Pro robot süpürge modeli yer alıyor.",
@@ -277,17 +310,6 @@
    "url": "/haber/anthropic-in-halka-arzinda-piyasa-degeri-2-trilyon-dolara-yaklasti-5c7b886a/"
   },
   {
-   "id": "885725c6",
-   "title": "Uluslararası Adalet Divanının Myanmar hakkındaki soykırım kararına birçok ülkeden destek",
-   "summary": "Uluslararası Adalet Divanının (UAD) Myanmar'ın Arakanlı Müslümanlara (Rohingya) karşı soykırım suçu işlediğine hükmetmesi, çok sayıda ülke, uluslararası kuruluş ve insan hakları örgütü tarafından memnuniyetle karşılandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/uluslararasi-adalet-divaninin-myanmar-hakkindaki-soykirim-kararina-bircok-ulkeden-destek/4131544",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T20:32:21+00:00",
-   "url": "/haber/uluslararasi-adalet-divaninin-myanmar-hakkindaki-soykirim-kararina-bir-885725c6/"
-  },
-  {
    "id": "9f5b4eb9",
    "title": "Rektörün aracı kaza yaptı, eşi hayatını kaybetti",
    "summary": "Sağlık Bilimleri Üniversitesi Rektörü Profesör Doktor Kemalettin Aydın, Konya'da trafik kazası geçirdi. Kazada Aydın'ın eşi Profesör Doktor Sevim Aydın hayatını kaybetti.",
@@ -308,17 +330,6 @@
    "category": "teknoloji",
    "date": "2026-11-19T20:30:11+00:00",
    "url": "/haber/amd-adrenalin-26-11-2-yayinlandi-10-hata-gitti-4f3b6438/"
-  },
-  {
-   "id": "c582f8e1",
-   "title": "ABD'den Orta Doğu'daki vatandaşlarına \"yüksek teyakkuz\" uyarısı",
-   "summary": "ABD, İran ile Yemen'deki Husilerin bölge ülkelerindeki ABD unsurları ile sivil altyapılara yönelik artan saldırıları nedeniyle Orta Doğu'daki ABD vatandaşlarına \"yüksek teyakkuzda\" olma çağrısı yaptı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdden-orta-dogudaki-vatandaslarina-yuksek-teyakkuz-uyarisi/4131540",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T20:28:13+00:00",
-   "url": "/haber/abd-den-orta-dogu-daki-vatandaslarina-yuksek-teyakkuz-uyarisi-c582f8e1/"
   },
   {
    "id": "23e54135",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-11-17T00:33:45+00:00",
    "url": "/haber/menzil-cemaati-nde-neler-oluyor-usak-ve-manisa-daki-protestolarin-arka-a0be2d33/"
-  },
-  {
-   "id": "c12ce274",
-   "title": "Abone olmak için tıklayın",
-   "summary": "BBC Türkçe'nin Türkiye ve dünyadaki gelişmelerle ilgili haberleri artık telefonunuzda",
-   "link": "https://www.whatsapp.com/channel/0029Vb5eTSkHFxP3rcjNq41i?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45da/live/56e64420-2264-11ef-80aa-699d54c46324.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2024-04-15T11:20:59+00:00",
-   "url": "/haber/abone-olmak-icin-tiklayin-c12ce274/"
   }
  ]
 }
