@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:30:52.674669+00:00",
+ "updated": "2026-11-20T06:01:01.955413+00:00",
  "items": [
   {
    "id": "efb422a6",
@@ -9,8 +9,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-20T05:30:00+00:00",
+   "date": "2026-11-20T06:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-efb422a6/"
+  },
+  {
+   "id": "ccd7e13f",
+   "title": "Fon soruşturmasında 7 şüpheli hakkında adli kontrol kararı",
+   "summary": "Sermaye piyasalarında yapılan işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan 7 şüpheli için adli kontrol kararı verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-gozaltina-alinan-7-supheli-adliyede-1751661",
+   "image": "https://images.ntv.com.tr/images/fon-soruşturması-972817.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-20T05:59:15+00:00",
+   "url": "/haber/fon-sorusturmasinda-7-supheli-hakkinda-adli-kontrol-karari-ccd7e13f/"
+  },
+  {
+   "id": "8922b7a8",
+   "title": "ABD'de üst üste yaşanan kesintilerin ardından Beyaz Saray'ın siber ekibinde değişiklik",
+   "summary": "ABD'de son günlerde teknoloji firmaları ve federal kurumlarda yaşanan kesintilerin ardından görevinden ayrılan Beyaz Saray Ulusal Siber Güvenlik Direktörü Sean Cairncross'un yerine Pentagon'da görev yapan Kirsten Davies…",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-ust-uste-yasanan-kesintilerin-ardindan-beyaz-sarayin-siber-ekibinde-degisiklik/4131653",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-20T05:53:45+00:00",
+   "url": "/haber/abd-de-ust-uste-yasanan-kesintilerin-ardindan-beyaz-saray-in-siber-eki-8922b7a8/"
+  },
+  {
+   "id": "38955ee3",
+   "title": "Anthropic artık halka açık bir şirket",
+   "summary": "Claude’un geliştiricisi Anthropic resmi olarak halka açık bir şirket oldu. Şu anda hisse başına 97,17 dolardan 1,27 trilyon dolarlık piyasa değerine sahip olan yapay zeka şirketi, bu süreçte 81,3 milyar dolarlık kaynak…",
+   "link": "https://www.log.com.tr/anthropic-artik-halka-acik-bir-sirket/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/09/anthropic-cinli-yapay-zeka-sirketleri-icin-sasirtici-bilgiler-paylasti-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-20T05:51:40+00:00",
+   "url": "/haber/anthropic-artik-halka-acik-bir-sirket-38955ee3/"
+  },
+  {
+   "id": "efb6397e",
+   "title": "Android'in APK kısıtlamaları Ocak'ta küresel olarak yürürlüğe giriyor",
+   "summary": "Google, 2027 itibarıyla Android'de geliştirici doğrulamasını dünya genelinde zorunlu hale getirecek. Google tarafından doğrulanmayan geliştiricilerin APK dosyaları varsayılan olarak yüklenemeyecek.",
+   "link": "https://www.donanimhaber.com/android-in-apk-kisitlamalari-kuresel-olarak-yururluge-giriyor--213155",
+   "image": "https://www.donanimhaber.com/images/images/haber/213155/1200x675android-in-apk-kisitlamalari-kuresel-olarak-yururluge-giriyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-20T05:50:00+00:00",
+   "url": "/haber/android-in-apk-kisitlamalari-ocak-ta-kuresel-olarak-yururluge-giriyor-efb6397e/"
+  },
+  {
+   "id": "612932b9",
+   "title": "İstanbul'da önce fırtına sonra kuvvetli sağanak bekleniyor",
+   "summary": "Marmara Bölgesi'nde lodos sert esiyor. Lodos hızını saatte 85 kilometreye kadar çıkarabilir. Rüzgar akşam saatlerinden itibaren etkisini yitirecek ve kuvvetli yağış başlayacak.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-once-firtina-sonra-kuvvetli-saganak-bekleniyor-1751699",
+   "image": "https://images.ntv.com.tr/images/lodos1-135545.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-20T05:35:43+00:00",
+   "url": "/haber/istanbul-da-once-firtina-sonra-kuvvetli-saganak-bekleniyor-612932b9/"
   },
   {
    "id": "6162fd5b",
@@ -33,6 +88,28 @@
    "category": "teknoloji",
    "date": "2026-11-20T04:30:07+00:00",
    "url": "/haber/vmware-vcenter-da-saldirilan-acik-kapatildi-b4f80495/"
+  },
+  {
+   "id": "6fc61a82",
+   "title": "Gazze'de 9 aylık bebek hipotermi nedeniyle hayatını kaybetti",
+   "summary": "Han Yunus'ta derme çatma bir çadırda ailesiyle yaşayan 9 aylık bebek hipotermi nedeniyle hayatını kaybetti. Birleşmiş Milletler yetkilileri, yeterli barınak ve kışlık malzeme sağlanamaması halinde yeni ölümlerin…",
+   "link": "https://www.trthaber.com/haber/dunya/gazzede-9-aylik-bebek-hipotermi-nedeniyle-hayatini-kaybetti-963910.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2316000/gazze-bebek-aa-2316298.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-20T04:27:00+00:00",
+   "url": "/haber/gazze-de-9-aylik-bebek-hipotermi-nedeniyle-hayatini-kaybetti-6fc61a82/"
+  },
+  {
+   "id": "a82ee9f1",
+   "title": "Meteorolojiden sarı kod uyarısı: 17 ilde kuvvetli yağış ve rüzgar bekleniyor",
+   "summary": "Yurt genelinde bugün kuvvetli rüzgar ve sağanak bekleniyor. Meteoroloji 17 il için sarı kodlu uyarı yaptı. Yetkililer, ani sel, su baskını ve fırtınanın oluşturabileceği risklere karşı vatandaşların tedbirli olmasını…",
+   "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-sari-kod-uyarisi-17-ilde-kuvvetli-yagis-ve-ruzgar-bekleniyor-963911.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2480000/firtina-aa-2481838.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-20T04:24:00+00:00",
+   "url": "/haber/meteorolojiden-sari-kod-uyarisi-17-ilde-kuvvetli-yagis-ve-ruzgar-bekle-a82ee9f1/"
   },
   {
    "id": "370614e5",
@@ -253,17 +330,6 @@
    "category": "gundem",
    "date": "2026-11-19T21:19:25+00:00",
    "url": "/haber/katar-dan-hurmuz-bogazi-krizine-karsi-uluslararasi-ortak-hareket-cagri-7a77d030/"
-  },
-  {
-   "id": "2e39dde7",
-   "title": "ABD Senatosu, Trump'ın İran'a saldırmasını engelleyen savaş yetkileri tasarısını reddetti",
-   "summary": "ABD Senatosundaki Cumhuriyetçiler, Başkan Donald Trump'ın İran'a saldırı düzenlemesinin engellenmesini öngören savaş yetkileri tasarısını reddetti.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-senatosu-trumpin-irana-saldirmasini-engelleyen-savas-yetkileri-tasarisini-reddetti/4131591",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T21:19:13+00:00",
-   "url": "/haber/abd-senatosu-trump-in-iran-a-saldirmasini-engelleyen-savas-yetkileri-t-2e39dde7/"
   },
   {
    "id": "b84dffb8",
@@ -497,17 +563,6 @@
    "url": "/haber/apple-oled-imac-planini-rafa-kaldirabilir-c0de3c90/"
   },
   {
-   "id": "ccd7e13f",
-   "title": "\"Fon soruşturması\"nda gözaltına alınan 7 şüpheli için adli kontrol talebi",
-   "summary": "Sermaye piyasalarında yapılan işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında gözaltına alınan 7 şüpheli için adli kontrol istendi.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-gozaltina-alinan-7-supheli-adliyede-1751661",
-   "image": "https://images.ntv.com.tr/images/fon-soruşturması-972817.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-19T19:17:28+00:00",
-   "url": "/haber/fon-sorusturmasi-nda-gozaltina-alinan-7-supheli-icin-adli-kontrol-tale-ccd7e13f/"
-  },
-  {
    "id": "ffca0d78",
    "title": "Avrupa'nın en büyük elektrikli feribotları geliyor: Her biri 55 MWh bataryalı olacak",
    "summary": "Danimarka, dizel feribotların yerini alacak üç dev elektrikli gemi hazırlıyor. Her biri 55 MWh batarya kapasitesine sahip olacak feribotlar, 1500 yolcu ve 500 araç taşıyacak.",
@@ -583,17 +638,6 @@
    "category": "teknoloji",
    "date": "2026-11-19T17:39:00+00:00",
    "url": "/haber/nvidia-cin-e-yapay-zeka-cipi-satisini-durdurdu-3cdfd7b8/"
-  },
-  {
-   "id": "bad1efd7",
-   "title": "Cumhurbaşkanı Erdoğan: Bugün bir büyük hayalin gerçeğe dönüştüğü tarihi bir gün",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Bayraktar Kızılelma insansız savaş uçağımız; yıllar süren çalışmaların, büyük emeklerin sonunda Türk Silahlı Kuvvetlerimizin envanterine alındı.\" dedi",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bugun-bir-buyuk-hayalin-gercege-donustugu-tarihi-bir-gun-963863.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/erdogan-kizilelma-2504929.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-19T17:25:00+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-bugun-bir-buyuk-hayalin-gercege-donustugu-tarihi-bad1efd7/"
   },
   {
    "id": "284573ed",
@@ -675,7 +719,7 @@
   {
    "id": "83a3b1f2",
    "title": "Türkiyenin ilk insansız savaş uçağı KIZILELMA envantere girdi",
-   "summary": "Türkiye’nin ilk insansız savaş uçağı KIZILELMA, başarıyla tamamlanan kabul testlerinin ardından güvenlik güçlerinin envanterine girdi. Kabul testlerini başarıyla tamamlayan ilk 3 KIZILELMA güvenlik güçlerine teslim…",
+   "summary": "Türkiye’nin ilk insansız savaş uçağı KIZILELMA güvenlik güçlerinin envanterine girdi. Kabul testlerini başarıyla tamamlayan ilk 3 KIZILELMA güvenlik güçlerine teslim edildi. Türkiye, dünya havacılık tarihinde insansız…",
    "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ilk-insansiz-savas-ucagi-kizilelma-envantere-girdi-963857.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/kizilelma-envantere-girdi-2504927.jpg",
    "source": "TRT Haber Manşet Haberleri",
@@ -693,17 +737,6 @@
    "category": "teknoloji",
    "date": "2026-11-19T15:48:00+00:00",
    "url": "/haber/jeotermal-enerjideki-en-buyuk-sondaj-sorununa-yaratici-cozum-5e333f99/"
-  },
-  {
-   "id": "5c27b852",
-   "title": "Elon Musk, Ukrayna’nın Starlink açıklamalarını yalanladı",
-   "summary": "Elon Musk, Zelenskiy’nin Starshield sistemine ilişkin açıklamalarını yalanladı. Ukrayna’nın Starlink’i saldırı amaçlı askeri operasyonlarda kullanmak istediğini öne sürdü.",
-   "link": "https://www.donanimhaber.com/elon-musk-ukrayna-nin-starlink-aciklamalarini-yalanladi--213140",
-   "image": "https://www.donanimhaber.com/images/images/haber/213140/1200x675elon-musk-ukrayna-nin-starlink-aciklamalarini-yalanladi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-19T15:27:00+00:00",
-   "url": "/haber/elon-musk-ukrayna-nin-starlink-aciklamalarini-yalanladi-5c27b852/"
   },
   {
    "id": "3750ed43",
@@ -937,17 +970,6 @@
    "url": "/haber/trump-si-ve-putin-den-uclu-zirve-sonrasi-ortak-baris-bildirisi-b19c6e57/"
   },
   {
-   "id": "6736d689",
-   "title": "112 sağlık personellerini tehdit eden şüpheli otogarda yakalandı",
-   "summary": "Bağcılar’da ambulansa saldıran şahıs otogarda düzenlenen çalışmayla yakalandı. Şahsın ambulansa saldırma anı kamerada.",
-   "link": "https://www.ntv.com.tr/turkiye/video-112-saglik-personellerini-tehdit-eden-supheli-otogarda-yakalandi-1751650",
-   "image": "https://images.ntv.com.tr/images/AW835747_01-894210.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-19T12:51:51+00:00",
-   "url": "/haber/112-saglik-personellerini-tehdit-eden-supheli-otogarda-yakalandi-6736d689/"
-  },
-  {
    "id": "0878f4af",
    "title": "Canva’ya üretken yapay zeka özelliklerini kapatma butonu geldi",
    "summary": "Kullanıcılarına çok sayıda yapay zeka temelli düzenleme sistemi sunan Canva, bugün sürpriz bir adım atarak platforma üretken yapay zeka özelliklerini kapatma butonu ekledi. Ayarlar içerisindeki “İzinler” bölümüne dahil…",
@@ -1069,17 +1091,6 @@
    "url": "/haber/elon-musk-ara-secimlere-446-milyon-dolar-harcamam-oldukca-aptalcaydi-be5ee16d/"
   },
   {
-   "id": "b627655c",
-   "title": "ÇinABDRusya'dan ortak Barış Deklarasyonu",
-   "summary": "Kremlin, Rusya Devlet Başkanı Vladimir Putin, Çin Devlet Başkanı Şi Cinping ve ABD Başkanı Donald Trump'ın görüşmesinde kabul edilen Barış Deklarasyonu'nun tam metnini yayımladı. Bildiride enerji güvenliği, BM reformu…",
-   "link": "https://www.trthaber.com/haber/dunya/cin-abd-rusyadan-ortak-baris-deklarasyonu-963818.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/putin-trump-cinping-reu-2504768.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-19T10:59:00+00:00",
-   "url": "/haber/cinabdrusya-dan-ortak-baris-deklarasyonu-b627655c/"
-  },
-  {
    "id": "4d99cdbc",
    "title": "Oruç Reis gemisi Pakistan'da göreve başlıyor",
    "summary": "Türkiye'nin sismik araştırma gemisi Oruç Reis, Somali'de gerçekleştirdiği ilk kıtalar arası görevin ardından yeni görevi için Pakistan'a ulaştı. İki ayrı noktada çalışacak Oruç Reis, 670 kilometrekarelik alanda üç…",
@@ -1100,17 +1111,6 @@
    "category": "gundem",
    "date": "2026-11-19T10:38:00+00:00",
    "url": "/haber/uad-myanmar-in-arakanli-muslumanlara-karsi-soykirim-isledigine-hukmett-8ce513d6/"
-  },
-  {
-   "id": "9269aa59",
-   "title": "Microsoft CEO’su Satya Nadella: “Çok sayıda kritik altyapıda kapatılamayacak düzeyde ciddi açıklar var.”",
-   "summary": "The New York Times DealBook Zirvesi’nde konuşan Microsoft CEO’su Satya Nadella, ABD’deki pek çok kritik yazılım/altyapı sisteminde ciddi güvenlik açıkları bulunduğunu ve bunların bir kısmının kapatılamayacak düzeyde…",
-   "link": "https://www.log.com.tr/microsoft-ceosu-satya-nadella-cok-sayida-kritik-altyapida-kapatilamayacak-duzeyde-ciddi-aciklar-var/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-19_12-14-43_HqqlE-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-19T09:24:09+00:00",
-   "url": "/haber/microsoft-ceo-su-satya-nadella-cok-sayida-kritik-altyapida-kapatilamay-9269aa59/"
   },
   {
    "id": "e5382757",
