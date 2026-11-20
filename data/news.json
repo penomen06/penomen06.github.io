@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:01:10.532030+00:00",
+ "updated": "2026-11-20T22:30:55.925001+00:00",
  "items": [
   {
    "id": "9a1090d7",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-20T22:00:00+00:00",
+   "date": "2026-11-20T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9a1090d7/"
+  },
+  {
+   "id": "58bf0d52",
+   "title": "Fon soruşturmasında yeni gelişme. Serdar Altınbaş Çekya'da yakalandı",
+   "summary": "Fon soruşturmasında hakkında yakalama kararı bulunan Serdar Altınbaş, Çekya'da yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekyada-yakalandi-1751824",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_ae99db88091e3ec52b008fbd474c505c-235054.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-20T22:01:44+00:00",
+   "url": "/haber/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekya-da-yakalandi-58bf0d52/"
   },
   {
    "id": "f633a81b",
@@ -143,17 +154,6 @@
    "category": "gundem",
    "date": "2026-11-20T20:13:54+00:00",
    "url": "/haber/turk-reasurans-tan-sirketle-ilgili-medyada-yer-alan-iddialara-iliskin-dcc50cc1/"
-  },
-  {
-   "id": "58bf0d52",
-   "title": "Fon soruşturmasında yeni gelişme. Serdar Altınbaş Çekya'da yakalandı",
-   "summary": "Fon soruşturmasında hakkında yakalama kararı bulunan Serdar Altınbaş, Çekya'da yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekyada-yakalandi-1751824",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_ae99db88091e3ec52b008fbd474c505c-235054.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T20:13:23+00:00",
-   "url": "/haber/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekya-da-yakalandi-58bf0d52/"
   },
   {
    "id": "ac8a1fd7",
