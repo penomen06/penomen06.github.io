@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:01:00.154684+00:00",
+ "updated": "2026-11-20T21:30:54.391384+00:00",
  "items": [
   {
    "id": "9a1090d7",
@@ -9,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-20T21:00:00+00:00",
+   "date": "2026-11-20T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9a1090d7/"
+  },
+  {
+   "id": "950100f9",
+   "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+   "summary": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları, Resmi Gazete'de yayımlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/atama-ve-gorevden-alma-kararlari-resmi-gazetede-1751831",
+   "image": "https://images.ntv.com.tr/images/resmigazete'debugün-214086.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-20T21:29:00+00:00",
+   "url": "/haber/atama-ve-gorevden-alma-kararlari-resmi-gazete-de-950100f9/"
+  },
+  {
+   "id": "c4875e55",
+   "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+   "summary": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları, Resmi Gazete'de yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede/4132601",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-20T21:21:46+00:00",
+   "url": "/haber/atama-ve-gorevden-alma-kararlari-resmi-gazete-de-c4875e55/"
+  },
+  {
+   "id": "7bac38e1",
+   "title": "COP31'de kritik saatler: Bakan Kurum'dan \"Antalya Mutabakatı\" çağrısı",
+   "summary": "Birleşmiş Milletler İklim Değişikliği Konferansı'nın (COP31) kapanış genel kurulunda konuşan Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Hala dünyanın umudu bu salonda.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cop31de-kritik-saatler-bakan-kurumdan-antalya-mutabakati-cagrisi-1751829",
+   "image": "https://images.ntv.com.tr/images/AA-20261120-43139888-43139887-COP31_CLOSING_PLENARY_SESSION-155078.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-20T21:14:01+00:00",
+   "url": "/haber/cop31-de-kritik-saatler-bakan-kurum-dan-antalya-mutabakati-cagrisi-7bac38e1/"
   },
   {
    "id": "c6b0a192",
@@ -88,6 +121,17 @@
    "category": "gundem",
    "date": "2026-11-20T20:12:29+00:00",
    "url": "/haber/bm-genel-kurulu-filistin-halkinin-bagimsizlik-hakkina-iliskin-tasariyi-ac8a1fd7/"
+  },
+  {
+   "id": "635b08f2",
+   "title": "BM Genel Kurulu, Filistin halkının bağımsızlık hakkına ilişkin tasarıyı 162 oyla kabul etti",
+   "summary": "Birleşmiş Milletler (BM) Genel Kurulu, Filistin halkının kendi kaderini tayin etme ve bağımsızlık hakkını teyit eden karar taslağını 8'e karşı 162 oyla kabul etti.",
+   "link": "https://www.trthaber.com/haber/dunya/bm-genel-kurulu-filistin-halkinin-bagimsizlik-hakkina-iliskin-tasariyi-162-oyla-kabul-etti-964009.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2446000/filistin-bayragi-aa-2447095.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-20T20:04:00+00:00",
+   "url": "/haber/bm-genel-kurulu-filistin-halkinin-bagimsizlik-hakkina-iliskin-tasariyi-635b08f2/"
   },
   {
    "id": "3a44dc34",
@@ -418,17 +462,6 @@
    "category": "gundem",
    "date": "2026-11-20T17:06:32+00:00",
    "url": "/haber/cop31-deki-tubitak-bilim-merkezi-ne-yogun-ilgi-7873345a/"
-  },
-  {
-   "id": "308d485f",
-   "title": "Cumhurbaşkanı Erdoğan, Kadim Dostlar Buluşması'na katıldı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul'da Kadim Dostlar Buluşması'na katıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kadim-dostlar-bulusmasina-katildi/4132464",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-20T17:02:06+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-kadim-dostlar-bulusmasi-na-katildi-308d485f/"
   },
   {
    "id": "96de61d2",
@@ -970,17 +1003,6 @@
    "url": "/haber/gta-6-ilk-gununde-eglence-tarihinin-gelir-rekorunu-kirdi-98994364/"
   },
   {
-   "id": "fee407ab",
-   "title": "Tunceli'de Terörsüz Türkiye toplantısı. 8 ilin valisi katılacak",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, yarın Tunceli'de 8 ilin valileri ve güvenlik birimlerinin üst düzey yöneticileriyle Terörsüz Türkiye süreciyle ilgili ikinci kez toplantı yapacak.",
-   "link": "https://www.ntv.com.tr/turkiye/tuncelide-terorsuz-turkiye-toplantisi-8-ilin-valisi-katilacak-1751775",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_561627582bf03da9cd63cc3671195788-464886.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T11:02:03+00:00",
-   "url": "/haber/tunceli-de-terorsuz-turkiye-toplantisi-8-ilin-valisi-katilacak-fee407ab/"
-  },
-  {
    "id": "efb135e2",
    "title": "En İyi Koşu Bandı Markaları - 2026",
    "summary": "Evde spor yapmak için tercih edilmesi gereken en iyi koşu bandı markalarını Webtekno'da inceliyoruz.",
@@ -990,17 +1012,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T10:38:48+00:00",
    "url": "/haber/en-iyi-kosu-bandi-markalari-2026-efb135e2/"
-  },
-  {
-   "id": "0e0ae2bb",
-   "title": "İstanbul'da cuma alarmı: Harita kırmızıya döndü, boğaz çevresine dikkat",
-   "summary": "İstanbul'da üç gündür etkili olan lodos, bugün öğleden sonra yerini kuvvetli sağanak yağmura bırakacak. Sağanak daha çok boğaz hattında etkili olacak.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbulda-cuma-alarmi-harita-kirmiziya-dondu-bogaz-cevresine-dikkat-1751765",
-   "image": "https://images.ntv.com.tr/images/istanbul-yagmur-710282.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T10:10:35+00:00",
-   "url": "/haber/istanbul-da-cuma-alarmi-harita-kirmiziya-dondu-bogaz-cevresine-dikkat-0e0ae2bb/"
   },
   {
    "id": "243f757c",
@@ -1221,17 +1232,6 @@
    "category": "gundem",
    "date": "2026-11-19T10:38:00+00:00",
    "url": "/haber/uad-myanmar-in-arakanli-muslumanlara-karsi-soykirim-isledigine-hukmett-8ce513d6/"
-  },
-  {
-   "id": "e5382757",
-   "title": "Çin, ABD ve Rusya liderleri üçlü zirvede bir araya geldi",
-   "summary": "Çin Devlet Başkanı Şi Cinping, ABD Başkanı Donald Trump ve Rusya Devlet Başkanı Vladimir Putin, Şıncın kentinde düzenlenen Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi marjında üçlü toplantıda bir araya geldi.",
-   "link": "https://www.trthaber.com/haber/dunya/cin-abd-ve-rusya-liderleri-uclu-zirvede-bir-araya-geldi-963802.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/putin-trump-cinping-reu-2504768.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-19T09:00:00+00:00",
-   "url": "/haber/cin-abd-ve-rusya-liderleri-uclu-zirvede-bir-araya-geldi-e5382757/"
   },
   {
    "id": "e068684f",
