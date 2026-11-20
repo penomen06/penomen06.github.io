@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:30:51.553809+00:00",
+ "updated": "2026-11-20T01:01:20.060111+00:00",
  "items": [
   {
    "id": "efb422a6",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-20T00:30:00+00:00",
+   "date": "2026-11-20T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-efb422a6/"
+  },
+  {
+   "id": "5c7b886a",
+   "title": "Anthropic'in tarihi halka arzı yapay zeka 'balonu' tartışmalarını yeniden gündeme taşıdı",
+   "summary": "Yapay zeka şirketi Anthropic, hisselerinin borsada işlem görmeye başlamasının ardından dünyanın en değerli halka açık şirketlerinden biri haline geldi. Şirketin değeri yaklaşık 1,76 trilyon dolara ulaştı.",
+   "link": "https://www.bbc.com/turkce/articles/cqx28d4p72l4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dfb2/live/e38d5730-e47a-11f1-99b6-a35a62fa4264.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-20T00:45:08+00:00",
+   "url": "/haber/anthropic-in-tarihi-halka-arzi-yapay-zeka-balonu-tartismalarini-yenide-5c7b886a/"
+  },
+  {
+   "id": "368cac64",
+   "title": "Hatay'ın Dörtyol ilçesinde sağanak hayatı olumsuz etkiledi",
+   "summary": "Hatay'ın Dörtyol ilçesinde etkili olan sağanak nedeniyle çaylar taştı, cadde ve sokaklarda su birikintileri oluştu.",
+   "link": "https://www.aa.com.tr/tr/gundem/hatayin-dortyol-ilcesinde-saganak-hayati-olumsuz-etkiledi/4131635",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-20T00:37:54+00:00",
+   "url": "/haber/hatay-in-dortyol-ilcesinde-saganak-hayati-olumsuz-etkiledi-368cac64/"
   },
   {
    "id": "a757aab7",
@@ -99,17 +121,6 @@
    "category": "teknoloji",
    "date": "2026-11-19T22:00:08+00:00",
    "url": "/haber/viral-gta-6-pc-videosu-sahte-cikti-207d1807/"
-  },
-  {
-   "id": "0f8a1ac2",
-   "title": "ABD Temsilciler Meclisi, Çin'e yapay zeka çipi ihracatına yönelik lisans bilgilerini yayımladı",
-   "summary": "ABD Temsilciler Meclisi Dış İlişkiler Komitesi Başkanı Brian Mast, Çin'deki şirketlere 879 binden fazla Nvidia ve Advanced Micro Devices (AMD) yapay zeka çipinin ihracatına onay verildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abd-temsilciler-meclisi-cine-yapay-zeka-cipi-ihracatina-yonelik-lisans-bilgilerini-yayimladi/4131612",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-19T21:48:23+00:00",
-   "url": "/haber/abd-temsilciler-meclisi-cin-e-yapay-zeka-cipi-ihracatina-yonelik-lisan-0f8a1ac2/"
   },
   {
    "id": "0d071250",
@@ -319,17 +330,6 @@
    "category": "teknoloji",
    "date": "2026-11-19T20:39:00+00:00",
    "url": "/haber/a101-marketler-samsung-galaxy-z-fold-8-ve-roborock-s8-pro-satiyor-0d403a1d/"
-  },
-  {
-   "id": "5c7b886a",
-   "title": "Anthropic'in halka arzında piyasa değeri 2 trilyon dolara yaklaştı",
-   "summary": "Popüler sohbet robotu Claude'un üreticisi Anthropic, halka arzında rekor kırdı ve 81 milyar dolar yatırım topladı. Böylece şirket dünyanın en değerli kuruluşlarından biri haline geldi.",
-   "link": "https://www.bbc.com/turkce/articles/cqx28d4p72l4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7fad/live/99d52620-e422-11f1-9e08-55a8a3b48445.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-19T20:32:48+00:00",
-   "url": "/haber/anthropic-in-halka-arzinda-piyasa-degeri-2-trilyon-dolara-yaklasti-5c7b886a/"
   },
   {
    "id": "9f5b4eb9",
