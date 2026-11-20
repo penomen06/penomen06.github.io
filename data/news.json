@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-20T20:01:00.987283+00:00",
+ "updated": "2026-11-20T20:31:05.809234+00:00",
  "items": [
+  {
+   "id": "ee11f6f8",
+   "title": "1 ms ve 0.5 ms tepki süresi arasındaki fark nedir?",
+   "summary": "Oyuncu monitörlerinde özellikle 1 ms ve 0.5 ms tepki süresi öne çıkıyor. Peki 1 ms monitör ve 0.5 ms monitör tepki süresi arasındaki fark nedir? İşte öne çıkan modeller:",
+   "link": "https://www.donanimhaber.com/1-ms-ve-0-5-ms-tepki-suresi-arasindaki-fark-nedir--213124",
+   "image": "https://www.donanimhaber.com/images/images/haber/213124/1200x6751-ms-ve-0-5-ms-tepki-suresi-arasindaki-fark-nedir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-20T20:30:00+00:00",
+   "url": "/haber/1-ms-ve-0-5-ms-tepki-suresi-arasindaki-fark-nedir-ee11f6f8/"
+  },
+  {
+   "id": "fbc1c5bf",
+   "title": "Güneş Sistemi'nin en az anlaşılan gezegenlerinden Merkür'de tarihi görev",
+   "summary": "BepiColombo görevi Güneş'e en yakın gezegen olan Merkür'ü hiç olmadığı kadar iyi gözlemlememizi sağlayacak.",
+   "link": "https://www.bbc.com/turkce/articles/c6ewvkrjy0kvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eca5/live/034a6cb0-e4c7-11f1-a094-5fdc692f3e33.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-20T20:20:54+00:00",
+   "url": "/haber/gunes-sistemi-nin-en-az-anlasilan-gezegenlerinden-merkur-de-tarihi-gor-fbc1c5bf/"
+  },
+  {
+   "id": "dcc50cc1",
+   "title": "Türk Reasürans'tan şirketle ilgili medyada yer alan iddialara ilişkin açıklama",
+   "summary": "Türk Reasürans AŞ, iştirakleri ile teknik işleticisi olduğu Doğal Afet Sigortaları Kurumu (DASK) ve Özel Riskler Yönetim Merkezinin fonlarının tasfiye edilen yatırım fonlarıyla herhangi bir ilişkisinin bulunmadığını…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-reasuranstan-sirketle-ilgili-medyada-yer-alan-iddialara-iliskin-aciklama/4132567",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-20T20:13:54+00:00",
+   "url": "/haber/turk-reasurans-tan-sirketle-ilgili-medyada-yer-alan-iddialara-iliskin-dcc50cc1/"
+  },
+  {
+   "id": "58bf0d52",
+   "title": "Fon soruşturmasında yeni gelişme. Serdar Altınbaş Çekya'da yakalandı",
+   "summary": "Fon soruşturmasında hakkında yakalama kararı bulunan Serdar Altınbaş, Çekya'da yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekyada-yakalandi-1751824",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_ae99db88091e3ec52b008fbd474c505c-235054.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-20T20:13:23+00:00",
+   "url": "/haber/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekya-da-yakalandi-58bf0d52/"
+  },
+  {
+   "id": "ac8a1fd7",
+   "title": "BM Genel Kurulu, Filistin halkının bağımsızlık hakkına ilişkin tasarıyı 162 oyla kabul etti",
+   "summary": "Birleşmiş Milletler (BM) Genel Kurulu, Filistin halkının kendi kaderini tayin etme ve bağımsızlık hakkını teyit eden karar taslağını 8'e karşı 162 oyla kabul etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-genel-kurulu-filistin-halkinin-bagimsizlik-hakkina-iliskin-tasariyi-162-oyla-kabul-etti/4132565",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-20T20:12:29+00:00",
+   "url": "/haber/bm-genel-kurulu-filistin-halkinin-bagimsizlik-hakkina-iliskin-tasariyi-ac8a1fd7/"
+  },
   {
    "id": "3a44dc34",
    "title": "Tesla FSD İtalya'da onaylandı",
@@ -22,17 +77,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T20:00:00+00:00",
    "url": "/haber/gokyuzunde-yeni-donem-yildizlarin-yerini-uydular-aliyor-67321f37/"
-  },
-  {
-   "id": "58bf0d52",
-   "title": "Fon soruşturmasında yeni gelişme. Serdar Altınbaş Çekya'da yakalandı",
-   "summary": "Fon soruşturmasında hakkında yakalama kararı bulunan Serdar Altınbaş, Çekya'da yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekyada-yakalandi-1751824",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_ae99db88091e3ec52b008fbd474c505c-235054.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T19:57:59+00:00",
-   "url": "/haber/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekya-da-yakalandi-58bf0d52/"
   },
   {
    "id": "146ab9df",
@@ -376,17 +420,6 @@
    "url": "/haber/windows-11-kb5132057-ile-yeni-arama-geliyor-84d61e20/"
   },
   {
-   "id": "6feea0b3",
-   "title": "Ticaret Bakanı Ömer Bolat hakkındaki iddiaları yalanladı",
-   "summary": "Bakan Bolat, Ümit Özlale'nin iddialarına ilişkin, \"Şahsıma ait kira sertifikası işleminin, somut ve hukuken geçerli herhangi bir delil ortaya konulmaksızın söz konusu soruşturmalarla ilişkilendirmeye çalışmanız, sadece…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-omer-bolat-hakkindaki-iddialari-yalanladi/4132459",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-20T16:55:19+00:00",
-   "url": "/haber/ticaret-bakani-omer-bolat-hakkindaki-iddialari-yalanladi-6feea0b3/"
-  },
-  {
    "id": "9ca43e1d",
    "title": "Selçuk Bayraktar: KIZILELMA, milletimizin tarihten beri gelen büyük bir ülküsü",
    "summary": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, yaklaşık 20 sene önceye uzanan hayalin insansız savaş uçağı KIZILELMA'nın güvenlik güçlerine teslim edilmesiyle gerçeğe dönüştüğünü belirtti.",
@@ -464,17 +497,6 @@
    "url": "/haber/whatsapp-hesaplari-gta-6-icin-turkuaza-dondu-72131d3e/"
   },
   {
-   "id": "624c8ba7",
-   "title": "İran basını: ABD-İsrail, Keşm Adası'na füze saldırısı düzenledi",
-   "summary": "İran basınında, ülkenin güneyinde Hürmüz Boğazı'na yakın Keşm Adası'na ABD-İsrail tarafından füze saldırısı düzenlendiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-abd-israil-kesm-adasina-fuze-saldirisi-duzenledi/4132437",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-20T16:28:32+00:00",
-   "url": "/haber/iran-basini-abd-israil-kesm-adasi-na-fuze-saldirisi-duzenledi-624c8ba7/"
-  },
-  {
    "id": "b5c49ba1",
    "title": "Buz Devri 6: Kaynama Noktası'nın yeni fragmanı yayınlandı",
    "summary": "Sevilen animasyon serisi Buz Devri, yıllar sonra yeni bir filmle beyaz perdeye geri dönüyor. Disney, önümüzdeki yılın başında vizyona girecek Buz Devri 6'nın yeni fragmanını paylaştı.",
@@ -550,17 +572,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T15:30:09+00:00",
    "url": "/haber/vivo-s70-e-x500-un-telefoto-sensoru-geliyor-e81e7742/"
-  },
-  {
-   "id": "021fa9ee",
-   "title": "Gerçekten hem telefon, hem tablet mi? ''iPhone Duo'yu 1 ay boyunca test ettim''",
-   "summary": "iPhone Duo'ya geçtim. Katlanır telefon kelimenin tam anlamıyla bambaşka, bir telefon ve bir tabletin bütünü iPhone Duo gerçekten ikisinin birleşimi kadar yetenekli mi? Detaylar videomuzda.",
-   "link": "https://www.donanimhaber.com/gercekten-hem-telefon-hem-tablet-mi-iphone-duo-incelemesi--213158",
-   "image": "https://www.donanimhaber.com/images/images/haber/213158/1200x675gercekten-hem-telefon-hem-tablet-mi-iphone-duo-incelemesi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-20T15:16:28+00:00",
-   "url": "/haber/gercekten-hem-telefon-hem-tablet-mi-iphone-duo-yu-1-ay-boyunca-test-et-021fa9ee/"
   },
   {
    "id": "703d4404",
@@ -1045,17 +1056,6 @@
    "category": "gundem",
    "date": "2026-11-20T08:13:53+00:00",
    "url": "/haber/pankreas-kanserinde-tumoru-kuculten-veya-yok-eden-hap-umudu-9a308f7a/"
-  },
-  {
-   "id": "06981524",
-   "title": "Sözcü'ye operasyon: Gözaltındaki dört kişi adliyeye sevk edildi",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında Sözcü Medya Grubu'na yönelik operasyonda gözaltına alınan dört kişi adliyeye sevk edildi.",
-   "link": "https://www.bbc.com/turkce/articles/cmqlq51yvq26o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3465/live/c09eaa30-e254-11f1-8199-439bbe0918ee.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-20T08:05:39+00:00",
-   "url": "/haber/sozcu-ye-operasyon-gozaltindaki-dort-kisi-adliyeye-sevk-edildi-06981524/"
   },
   {
    "id": "ce852009",
