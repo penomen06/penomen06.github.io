@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-20T16:30:56.070395+00:00",
+ "updated": "2026-11-20T17:01:03.435489+00:00",
  "items": [
+  {
+   "id": "84d61e20",
+   "title": "Windows 11 KB5132057 ile yeni arama geliyor",
+   "summary": "Microsoft, Windows 11 için KB5132057 önizleme güncellemesini yayınladı. Yeni arama, yenilenen Çalıştır penceresi ve çok sayıda düzeltme geliyor.",
+   "link": "https://shiftdelete.net/windows-11-kb5132057-guncellemesi-yeni-arama",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/windows-11-kasim-kapak-0811.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-20T17:00:08+00:00",
+   "url": "/haber/windows-11-kb5132057-ile-yeni-arama-geliyor-84d61e20/"
+  },
+  {
+   "id": "6feea0b3",
+   "title": "Ticaret Bakanı Ömer Bolat hakkındaki iddiaları yalanladı",
+   "summary": "Bakan Bolat, \"Şahsıma ait kira sertifikası işleminin, somut ve hukuken geçerli herhangi bir delil ortaya konulmaksızın söz konusu soruşturmalarla ilişkilendirmeye çalışmanız, sadece haysiyet cellatlığıdır.\" ifadelerini…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-omer-bolat-hakkindaki-iddialari-yalanladi/4132459",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-20T16:55:19+00:00",
+   "url": "/haber/ticaret-bakani-omer-bolat-hakkindaki-iddialari-yalanladi-6feea0b3/"
+  },
+  {
+   "id": "9ca43e1d",
+   "title": "Selçuk Bayraktar: KIZILELMA, milletimizin tarihten beri gelen büyük bir ülküsü",
+   "summary": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, yaklaşık 20 sene önceye uzanan hayalin insansız savaş uçağı KIZILELMA'nın güvenlik güçlerine teslim edilmesiyle gerçeğe dönüştüğünü belirtti.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-selcuk-bayraktar-kizilelma-milletimizin-tarihten-beri-gelen-buyuk-bir-ulkusu-1751819",
+   "image": "https://images.ntv.com.tr/images/AW836712_03-272085.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-20T16:55:17+00:00",
+   "url": "/haber/selcuk-bayraktar-kizilelma-milletimizin-tarihten-beri-gelen-buyuk-bir-9ca43e1d/"
+  },
+  {
+   "id": "75e6f247",
+   "title": "COP31'de 11 ülkeden bir günde 1 milyar ağaç dikme sözü",
+   "summary": "Antalya'da düzenlenen COP31'de, Kenya öncülüğünde bir araya gelen 11 ülke, 22 Nisan 2027 Dünya Günü'nde 24 saat içerisinde 1 milyardan fazla ağaç dikmek için taahhütte bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/cop31de-11-ulkeden-bir-gunde-1-milyar-agac-dikme-sozu-1751818",
+   "image": "https://images.ntv.com.tr/images/COP31-311793.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-20T16:43:56+00:00",
+   "url": "/haber/cop31-de-11-ulkeden-bir-gunde-1-milyar-agac-dikme-sozu-75e6f247/"
+  },
+  {
+   "id": "320f276b",
+   "title": "Tesla FSD için İtalya'dan onay çıktı: Avrupa'da 12 ülkeye ulaştı",
+   "summary": "Tesla'nın FSD/TAD sürüş destek sistemi İtalya'dan onay aldı. Avrupa'da 12 ülkeye ulaşan sistem için AB genelinde kullanımın önünü açabilecek kritik oylama yaklaşıyor.",
+   "link": "https://www.donanimhaber.com/tesla-fsd-icin-italya-dan-onay-cikti-avrupa-da-12-ulkeye-ulasti--213187",
+   "image": "https://www.donanimhaber.com/images/images/haber/213187/1200x675tesla-fsd-icin-italya-dan-onay-cikti-avrupa-da-12-ulkeye-ulasti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-20T16:40:00+00:00",
+   "url": "/haber/tesla-fsd-icin-italya-dan-onay-cikti-avrupa-da-12-ulkeye-ulasti-320f276b/"
+  },
+  {
+   "id": "95ef7cd9",
+   "title": "AKP hangi partiden kaç belediye başkanı transfer etti?",
+   "summary": "2023'teki genel seçimde Meclis'te çoğunluk elde edemeyen ve 2024 yerel seçimlerinde de ilk defa Türkiye genelinde ikinci sıraya düşen AKP, o tarihten bu yana çok sayıda belediye başkanını saflarına kattı.",
+   "link": "https://www.bbc.com/turkce/articles/c20y9v012v2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3ae/live/e516f110-e501-11f1-a8e4-b1e12a49db15.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-20T16:38:34+00:00",
+   "url": "/haber/akp-hangi-partiden-kac-belediye-baskani-transfer-etti-95ef7cd9/"
+  },
   {
    "id": "72131d3e",
    "title": "WhatsApp hesapları GTA 6 için turkuaza döndü",
@@ -13,6 +79,17 @@
    "url": "/haber/whatsapp-hesaplari-gta-6-icin-turkuaza-dondu-72131d3e/"
   },
   {
+   "id": "624c8ba7",
+   "title": "İran basını: ABD-İsrail, Keşm Adası'na füze saldırısı düzenledi",
+   "summary": "İran basınında, ülkenin güneyinde Hürmüz Boğazı'na yakın Keşm Adası'na ABD-İsrail tarafından füze saldırısı düzenlendiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-abd-israil-kesm-adasina-fuze-saldirisi-duzenledi/4132437",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-20T16:28:32+00:00",
+   "url": "/haber/iran-basini-abd-israil-kesm-adasi-na-fuze-saldirisi-duzenledi-624c8ba7/"
+  },
+  {
    "id": "4d61d032",
    "title": "Hatay'ın Dörtyol ilçesinde sağanak hayatı olumsuz etkiledi",
    "summary": "Hatay'ın Dörtyol ilçesinde etkili olan sağanak nedeniyle çaylar taştı, cadde ve sokaklarda su birikintileri oluştu.",
@@ -22,17 +99,6 @@
    "category": "gundem",
    "date": "2026-11-20T16:22:01+00:00",
    "url": "/haber/hatay-in-dortyol-ilcesinde-saganak-hayati-olumsuz-etkiledi-4d61d032/"
-  },
-  {
-   "id": "d51032f5",
-   "title": "İmamın telefonunu çaldı, kendi telefonunu camide unuttu",
-   "summary": "Bursa'da bir camiye girerek imamın cep telefonunu ve 6 bin lirayı çalan kişi, kendi telefonunu da olay yerinde unuttu. Şahıs çaldığı eşyalarla birlikte yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/imamin-telefonunu-caldi-kendi-telefonunu-camide-unuttu-1751816",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_d10d7589531cce1b1ee1299bf64e0517-719699.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T16:19:36+00:00",
-   "url": "/haber/imamin-telefonunu-caldi-kendi-telefonunu-camide-unuttu-d51032f5/"
   },
   {
    "id": "b5c49ba1",
@@ -277,17 +343,6 @@
    "url": "/haber/115-elektrikli-arac-motoru-incelendi-cin-avrupa-ve-abd-arasindaki-fark-9a9169b8/"
   },
   {
-   "id": "0d4b307f",
-   "title": "Bakan Göktaş: Yürüttüğümüz çalışmalarla 1300'ü aşkın kadın kooperatifinin kurulmasına öncülük ettik",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Göktaş, kadınlara kooperatif kurma süreçlerinde rehberlik ettiklerini belirterek \"Yürüttüğümüz çalışmalarla 247 bin kişiye doğrudan ulaştık ve 1300'ü aşkın kadın kooperatifinin…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-yuruttugumuz-calismalarla-1300u-askin-kadin-kooperatifinin-kurulmasina-onculuk-ettik/4132357",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-20T14:49:00+00:00",
-   "url": "/haber/bakan-goktas-yuruttugumuz-calismalarla-1300-u-askin-kadin-kooperatifin-0d4b307f/"
-  },
-  {
    "id": "83ced8fc",
    "title": "Mercedes-AMG GT 4-Kapı Coupé Türkiye'de Satışa Çıktı: İşte Fiyatı ve Özellikleri",
    "summary": "Elektrikli Mercedes-AMG GT 4-Kapı Coupé, Türkiye’de satışa çıktı.",
@@ -341,17 +396,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T14:12:21+00:00",
    "url": "/haber/ulastirma-ve-altyapi-bakani-ndan-yeni-hgs-aciklamasi-geldi-b042fbf3/"
-  },
-  {
-   "id": "1865d72b",
-   "title": "Ticaret Bakanı Bolat: Kadın kooperatiflerine yeni pazar imkanları açıyoruz",
-   "summary": "Ticaret Bakanı Ömer Bolat, kadın kooperatiflerinin pazarlama sorunlarını aşmaları ve yeni satış kanallarına ulaşmaları için e-ticaret firmaları, marketler ve büyük mağazalarla işbirliği yaptıklarını belirtti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-kadin-kooperatiflerine-yeni-pazar-imkanlari-aciyoruz/4132300",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-20T14:12:01+00:00",
-   "url": "/haber/ticaret-bakani-bolat-kadin-kooperatiflerine-yeni-pazar-imkanlari-aciyo-1865d72b/"
   },
   {
    "id": "5dc74e2b",
@@ -739,17 +783,6 @@
    "url": "/haber/girne-deki-feribot-faciasi-davasinda-yargilamanin-seyrini-degistirecek-7011ed8f/"
   },
   {
-   "id": "4c76028f",
-   "title": "Google, AI sohbetlerini doğrudan arama sayfasına taşıyor",
-   "summary": "Google, masaüstü arama sayfasına eklediği yeni kenar çubuğuyla AI Mode sohbet geçmişini erişilebilir hale getiriyor. Kullanıcılar, önceki aramalarına kaldıkları yerden devam edebilecek.",
-   "link": "https://www.donanimhaber.com/google-ai-sohbetlerini-dogrudan-arama-sayfasina-tasiyor--213168",
-   "image": "https://www.donanimhaber.com/images/images/haber/213168/1200x675google-ai-sohbetlerini-dogrudan-arama-sayfasina-tasiyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-20T12:21:00+00:00",
-   "url": "/haber/google-ai-sohbetlerini-dogrudan-arama-sayfasina-tasiyor-4c76028f/"
-  },
-  {
    "id": "5dc62258",
    "title": "MİA'dan füzyon enerjisi için üç aşamalı yol haritası",
    "summary": "Milli İstihbarat Akademisi, füzyon eFüzyon Enerjisinerjisi konulu bir rapor hazırladı. Raporda, Türkiye için hazırlanan stratejik yol haritasına yer verildi.",
@@ -860,17 +893,6 @@
    "url": "/haber/en-iyi-kosu-bandi-markalari-2026-efb135e2/"
   },
   {
-   "id": "b709ddbc",
-   "title": "GTA 6 hacker'ı Arion Kurtaj suçunu kabul etti",
-   "summary": "Lapsus$ üyesi Kurtaj, Rockstar Games'in yanı sıra Uber, Revolut ve BT/EE'ye yönelik saldırılara ilişkin suçlamaları da kabul etti. Ceza 23 Kasım'da Woolwich Kraliyet Ceza Mahkemesi'nde açıklanacak.",
-   "link": "https://shiftdelete.net/gta-6-hacker-arion-kurtaj-sucunu-kabul-etti",
-   "image": "https://ares.shiftdelete.net/2023/12/gta-6-fragmani-sizdiran-hacker-cezasi-1.jpg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-20T10:30:09+00:00",
-   "url": "/haber/gta-6-hacker-i-arion-kurtaj-sucunu-kabul-etti-b709ddbc/"
-  },
-  {
    "id": "0e0ae2bb",
    "title": "İstanbul'da cuma alarmı: Harita kırmızıya döndü, boğaz çevresine dikkat",
    "summary": "İstanbul'da üç gündür etkili olan lodos, bugün öğleden sonra yerini kuvvetli sağanak yağmura bırakacak. Sağanak daha çok boğaz hattında etkili olacak.",
@@ -968,17 +990,6 @@
    "category": "gundem",
    "date": "2026-11-20T08:38:45+00:00",
    "url": "/haber/jandarmadan-3-ilde-uyusturucu-operasyonu-504-kilogram-uyusturucu-ele-g-4f771f03/"
-  },
-  {
-   "id": "2aa75cbd",
-   "title": "TÜİK çocukların internet ve telefon kullanım alışkanlıklarını açıkladı. 10 çocuktan 9'u kullanıyor",
-   "summary": "TÜİK'in araştırmasına göre 6-17 yaş grubundaki çocukların yüzde 92,7'si internet, yüzde 80,1'i cep telefonu kullanıyor. İnternet kullanım amaçları arasında video izlemek ilk sırada yer alıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/tuik-cocuklarin-internet-ve-telefonu-kullanim-aliskanliklarini-acikladi-10-cocuktan-9u-kullaniyor-1751736",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_8f9a44ffa1d96d00cb53bcb788b8831a-346002.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T08:37:35+00:00",
-   "url": "/haber/tuik-cocuklarin-internet-ve-telefon-kullanim-aliskanliklarini-acikladi-2aa75cbd/"
   },
   {
    "id": "7c45217e",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-11-19T00:07:25+00:00",
    "url": "/haber/gta-6-elestirmenlerden-tam-not-aldi-basyapit-b33c81f1/"
-  },
-  {
-   "id": "4cef2614",
-   "title": "İsrail askerleri Gazze'deki sivil kayıpları konuşmaya nasıl ikna edildi?",
-   "summary": "Oscar ödüllü İsrailli yönetmenler Yuval Abraham ve Rachel Szor, eleştirmenlerden büyük beğeni toplayan Naza belgeselinin yapım sürecini ve İsrailli askerleri konuşmaya nasıl ikna ettiklerini anlatıyor.",
-   "link": "https://www.bbc.com/turkce/articles/c5742mx32n3go?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/77d2/live/9954fa20-e2e4-11f1-8e58-ef8e322f3c98.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-18T23:56:47+00:00",
-   "url": "/haber/israil-askerleri-gazze-deki-sivil-kayiplari-konusmaya-nasil-ikna-edild-4cef2614/"
   }
  ]
 }
