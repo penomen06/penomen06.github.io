@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-20T04:00:59.219745+00:00",
+ "updated": "2026-11-20T04:30:52.140907+00:00",
  "items": [
+  {
+   "id": "b4f80495",
+   "title": "VMware vCenter'da saldırılan açık kapatıldı",
+   "summary": "Broadcom, eylülden beri saldırılarda kullanılan kritik vCenter açığı için acil güncelleme yayınladı. Mandiant'a göre açığı Çin bağlantılı bir grup kullanıyor.",
+   "link": "https://shiftdelete.net/vmware-vcenter-sifirinci-gun-acigi-yama",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/vmware-vcenter-sifirinci-gun-kapak-2011.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-20T04:30:07+00:00",
+   "url": "/haber/vmware-vcenter-da-saldirilan-acik-kapatildi-b4f80495/"
+  },
+  {
+   "id": "efb422a6",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-kasim-2026-1751682",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-20T04:30:01+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-efb422a6/"
+  },
   {
    "id": "370614e5",
    "title": "Ubisoft 166 kişiyi çıkardı, Motherbrain'i kurdu",
@@ -33,17 +55,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T03:30:08+00:00",
    "url": "/haber/turkiye-ve-ingiltere-savunma-konseyi-ankara-da-50554198/"
-  },
-  {
-   "id": "efb422a6",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-kasim-2026-1751682",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T03:30:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-efb422a6/"
   },
   {
    "id": "06074c43",
@@ -506,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-11-19T19:02:53+00:00",
    "url": "/haber/apple-tv-uygulamasina-video-podcast-geliyor-19aef4cd/"
-  },
-  {
-   "id": "b14c2098",
-   "title": "Motorola Razr Flex 2027'nin yongası sızdı",
-   "summary": "Sızan bir sertifika belgesi, Motorola'nın geniş katlanabilir telefonu Razr Flex 2027'nin henüz duyurulmamış Snapdragon SM8845 Pro ile geleceğini gösteriyor. Telefon kutudan Android 17 ile çıkacak.",
-   "link": "https://shiftdelete.net/motorola-razr-flex-2027-snapdragon-sm8845-pro-sizinti",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/motorola-razr-flex-genis-katlanabilir-kapak-1911.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-19T19:00:08+00:00",
-   "url": "/haber/motorola-razr-flex-2027-nin-yongasi-sizdi-b14c2098/"
   },
   {
    "id": "56c1fba0",
