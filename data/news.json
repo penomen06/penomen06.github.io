@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-20T19:01:05.046511+00:00",
+ "updated": "2026-11-20T19:31:07.160636+00:00",
  "items": [
+  {
+   "id": "ac547187",
+   "title": "Android 17 QPR3, Pixel'deki pil sorununu çözüyor",
+   "summary": "Google'ın Android 17 QPR3 Beta 4 sürümü, Bluetooth'un arka planda pili hızla tüketmesine yol açan hatayı düzeltti. Beta kullanıcıları da pil süresinde belirgin iyileşme bildiriyor.",
+   "link": "https://shiftdelete.net/android-17-qpr3-pixel-pil-sorunu-duzeltme",
+   "image": "https://ares.shiftdelete.net/2026/08/Google-Pixel-11-2.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-20T19:30:07+00:00",
+   "url": "/haber/android-17-qpr3-pixel-deki-pil-sorununu-cozuyor-ac547187/"
+  },
+  {
+   "id": "58bf0d52",
+   "title": "Fon soruşturmasında yeni gelişme. Serdar Altınbaş Çekya'da yakalandı",
+   "summary": "Fon soruşturmasında hakkında yakalama kararı bulunan Serdar Altınbaş, Çekya'da yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekyada-yakalandi-1751824",
+   "image": "https://images.ntv.com.tr/images/foncu-576122-379070.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-20T19:26:46+00:00",
+   "url": "/haber/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekya-da-yakalandi-58bf0d52/"
+  },
+  {
+   "id": "65238eb7",
+   "title": "Uluslararası seviyede aranan Serdar Altınbaş Çekya'da yakaladı",
+   "summary": "İçişleri Bakanlığı, \"Sermaye Piyasası Kanuna muhalefet ve suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından difüzyonla, uluslararası seviyede aranan Serdar Altınbaş'ın Çekya'da yakaladığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/uluslararasi-seviyede-aranan-serdar-altinbas-cekyada-yakaladi/4132536",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-20T19:22:23+00:00",
+   "url": "/haber/uluslararasi-seviyede-aranan-serdar-altinbas-cekya-da-yakaladi-65238eb7/"
+  },
+  {
+   "id": "dcc49d86",
+   "title": "Bitcoin 60 bin doların altına geriledi",
+   "summary": "ABD'de faiz oranlarının yüksek kalacağı ve artabileceği beklentileri ile ABD teknoloji hisselerindeki sert satışların oluşturduğu baskıyla bitcoinin fiyatı 60 bin dolarlık kritik seviyenin de altına düştü.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bitcoin-60-bin-dolarin-altina-geriledi/4132534",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-20T19:20:43+00:00",
+   "url": "/haber/bitcoin-60-bin-dolarin-altina-geriledi-dcc49d86/"
+  },
+  {
+   "id": "5e8b874a",
+   "title": "Uluslararası seviyede aranan Serdar Altınbaş Çekya'da yakalandı",
+   "summary": "İçişleri Bakanlığı, \"Sermaye Piyasası Kanunu'na muhalefet\" ve \"suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından difüzyon mesajıyla uluslararası seviyede aranan Serdar Altınbaş'ın, Çekya'da yakalandığını…",
+   "link": "https://www.trthaber.com/haber/gundem/uluslararasi-seviyede-aranan-serdar-altinbas-cekyada-yakalandi-964006.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/serdar-altinbas-2505092.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-20T19:19:00+00:00",
+   "url": "/haber/uluslararasi-seviyede-aranan-serdar-altinbas-cekya-da-yakalandi-5e8b874a/"
+  },
+  {
+   "id": "b86506f5",
+   "title": "Denis Villeneuve, Bond'dan sonra bir nükleer savaş filmi çekecek",
+   "summary": "Dune, Arrival, Incendies gibi filmlerin başarılı yönetmeni Denis Villeneuve, Dune 3 sonrası projelerini belirledi. Yönetmen yeni James Bond filminden sonra bir nükleer savaş filmi çekecek.",
+   "link": "https://www.donanimhaber.com/denis-villeneuve-bir-nukleer-savas-filmi-cekecek--213196",
+   "image": "https://www.donanimhaber.com/images/images/haber/213196/1200x675denis-villeneuve-bir-nukleer-savas-filmi-cekecek.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-20T19:10:00+00:00",
+   "url": "/haber/denis-villeneuve-bond-dan-sonra-bir-nukleer-savas-filmi-cekecek-b86506f5/"
+  },
   {
    "id": "555e0680",
    "title": "Google'ın 3D emojileri için 6 GB RAM şart",
@@ -11,6 +77,17 @@
    "category": "teknoloji",
    "date": "2026-11-20T19:00:08+00:00",
    "url": "/haber/google-in-3d-emojileri-icin-6-gb-ram-sart-555e0680/"
+  },
+  {
+   "id": "6682f0d8",
+   "title": "Gazze'de yüzlerce çocuk, düzenlenen yüzme etkinliğiyle savaşın etkilerinden uzaklaşmaya çalıştı",
+   "summary": "Gazze'de yüzlerce çocuk, 20 Kasım Dünya Çocuk Hakları Günü münasebetiyle Han Yunus sahilinde düzenlenen yüzme etkinliğinde savaşın acılarını unutmaya çalıştı.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-yuzlerce-cocuk-duzenlenen-yuzme-etkinligiyle-savasin-etkilerinden-uzaklasmaya-calisti-/4132526",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-20T18:54:36+00:00",
+   "url": "/haber/gazze-de-yuzlerce-cocuk-duzenlenen-yuzme-etkinligiyle-savasin-etkileri-6682f0d8/"
   },
   {
    "id": "499a5c6a",
@@ -376,17 +453,6 @@
    "url": "/haber/apple-bilgisayarlari-kontrol-edebilen-kendi-yapay-zeka-ajanini-gelisti-5a625081/"
   },
   {
-   "id": "7b36d85b",
-   "title": "Bu hafta yatırım araçlarının performansı",
-   "summary": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda yüzde 6,01, altının gram fiyatı yüzde 7,60, avro/TL yüzde 0,10 değer kaybederken, dolar/TL yüzde 0,42 değer kazandı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4132415",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-20T15:51:28+00:00",
-   "url": "/haber/bu-hafta-yatirim-araclarinin-performansi-7b36d85b/"
-  },
-  {
    "id": "c8e686aa",
    "title": "Almanya'da Z kuşağı yeniden sokaklarda: Başbakan Merz baskı altında",
    "summary": "Almanya genelinde öğrenciler ve Z Kuşağı hareketi, hükümetin politikalarını protesto etmek için 20 Kasım'da sokaklara çıkıyor. Hükümete seslerine duyurmak isteyen gençler, kendi geleceklerini ilgilendiren kararlarda söz…",
@@ -464,17 +530,6 @@
    "url": "/haber/gta-6-turkiye-deki-ps5-satislarini-costurdu-yuzde-88-artis-3ef56a78/"
   },
   {
-   "id": "b2b9cef3",
-   "title": "İsrail'in Gazze Şeridi'ndeki saldırılarında 7 Filistinli hayatını kaybetti",
-   "summary": "İsrail ordusunun ateşkes anlaşmasına rağmen Gazze Şeridi'nin çeşitli bölgelerine düzenlediği hava ve kara saldırılarında 7 Filistinli yaşamını yitirdi, en az 13 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazze-seridindeki-saldirilarinda-7-filistinli-hayatini-kaybetti/4132376",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-20T15:12:28+00:00",
-   "url": "/haber/israil-in-gazze-seridi-ndeki-saldirilarinda-7-filistinli-hayatini-kayb-b2b9cef3/"
-  },
-  {
    "id": "703d4404",
    "title": "HGS'de icra takipleri durduruldu",
    "summary": "Ulaştırma ve Altyapı Bakanlığı, otoyol ve köprü geçişlerinde kullanılan Hızlı Geçiş Sistemi (HGS) ile ilgili yeni kararlar aldı. Özel otoyol şirketlerinin yaptığı icra takipleri durduruldu.",
@@ -495,17 +550,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T15:00:08+00:00",
    "url": "/haber/xiaomi-19-da-duz-ve-kavisli-ekran-iddiasi-72532fa7/"
-  },
-  {
-   "id": "9a9169b8",
-   "title": "115 elektrikli araç motoru incelendi: Çin, Avrupa ve ABD arasındaki farklar ortaya çıktı",
-   "summary": "Alman araştırmacılar, 80 elektrikli otomobildeki 115 motoru inceleyerek Çin, Avrupa ve ABD modellerini karşılaştırdı. Bulgular, rekabette farkı yaratan tercihleri ve üretim anlayışını ortaya koydu.",
-   "link": "https://www.donanimhaber.com/115-elektrikli-arac-motoru-incelendi-cin-avrupa-ve-abd-farki-ne--213191",
-   "image": "https://www.donanimhaber.com/images/images/haber/213191/1200x675115-elektrikli-arac-motoru-incelendi-cin-avrupa-ve-abd-farki-ne.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-20T14:51:00+00:00",
-   "url": "/haber/115-elektrikli-arac-motoru-incelendi-cin-avrupa-ve-abd-arasindaki-fark-9a9169b8/"
   },
   {
    "id": "83ced8fc",
@@ -616,17 +660,6 @@
    "category": "gundem",
    "date": "2026-11-20T13:50:11+00:00",
    "url": "/haber/malezyali-yetkili-10-bin-arakanli-musluman-gocmeni-turkiye-ye-yerlesti-ba9f192a/"
-  },
-  {
-   "id": "a6ab6a50",
-   "title": "AB ülkelerinde her 4 çocuktan biri yoksulluk veya sosyal dışlanma riski altında",
-   "summary": "Avrupa'da çocuk yoksulluğu ve sosyal koruma sistemlerindeki finansman eksikliklerinin devam ettiği, özellikle dezavantajlı ailelerde yaşayan çocukların temel hizmetlere erişimde güçlüklerle karşılaştığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-ulkelerinde-her-4-cocuktan-biri-yoksulluk-veya-sosyal-dislanma-riski-altinda/4132251",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-20T13:48:25+00:00",
-   "url": "/haber/ab-ulkelerinde-her-4-cocuktan-biri-yoksulluk-veya-sosyal-dislanma-risk-a6ab6a50/"
   },
   {
    "id": "292cd82a",
@@ -838,17 +871,6 @@
    "url": "/haber/hem-zeki-hem-cevreci-iste-yeni-hyundai-elantra-dd3174f8/"
   },
   {
-   "id": "63d80ec2",
-   "title": "Küresel Xiaomi 18 Pro Max'te UWB desteği yok",
-   "summary": "Xiaomi'nin özellik sayfalarına göre küresel Xiaomi 18 Pro Max, Çin modelindeki 4x4 Wi-Fi ve UWB desteğinden yoksun. Batarya da 8.500 yerine 7.050 mAh.",
-   "link": "https://shiftdelete.net/kuresel-xiaomi-18-pro-max-uwb-wifi-farki",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/xiaomi-18-pro-kapak-1011.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-20T12:30:09+00:00",
-   "url": "/haber/kuresel-xiaomi-18-pro-max-te-uwb-destegi-yok-63d80ec2/"
-  },
-  {
    "id": "7011ed8f",
    "title": "Girne'deki feribot faciası davasında yargılamanın seyrini değiştirecek gelişme",
    "summary": "KKTC'de meydana gelen feribot kazasına ilişkin yargılamada şüphelilere yöneltilen tedbirsizlik ve dikkatsizlik sonucu ölüme sebebiyet verme suçlaması, kasten öldürme olarak değiştirildi.",
@@ -979,17 +1001,6 @@
    "category": "gundem",
    "date": "2026-11-20T09:35:27+00:00",
    "url": "/haber/hatay-da-vahset-varilin-icinde-yok-etmeye-calistilar-1dbc1218/"
-  },
-  {
-   "id": "9c73626b",
-   "title": "51TALK'ın iki öğrencisi Antalya'da iklim ve çevre mesajı verdi",
-   "summary": "COP 31'de 10 yaşındaki Öykü Aslan ve 12 yaşındaki Kemal Uysal, iklim krizi ve atılabilecek adımlar üzerine İngilizce sunum yaptı. İkilinin sunumu katılımcılardan tam not aldı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-51talkin-iki-ogrencisi-antalyada-iklim-ve-cevre-mesaji-verdi-1751740",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-20110139-559575.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T09:03:28+00:00",
-   "url": "/haber/51talk-in-iki-ogrencisi-antalya-da-iklim-ve-cevre-mesaji-verdi-9c73626b/"
   },
   {
    "id": "4ce6c667",
@@ -1221,17 +1232,6 @@
    "category": "gundem",
    "date": "2026-11-19T09:00:00+00:00",
    "url": "/haber/cin-abd-ve-rusya-liderleri-uclu-zirvede-bir-araya-geldi-e5382757/"
-  },
-  {
-   "id": "525413c8",
-   "title": "Arakanlı Müslümanlara yönelik soykırım davasında karar bugün açıklanacak",
-   "summary": "Uluslararası Adalet Divanı (UAD), Gambiya'nın Myanmar aleyhine açtığı soykırım davasındaki kararını bugün açıklayacak.",
-   "link": "https://www.trthaber.com/haber/dunya/arakanli-muslumanlara-yonelik-soykirim-davasinda-karar-bugun-aciklanacak-963746.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2356000/uluslararasi-adalet-divani-aa-2356100.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-19T03:24:00+00:00",
-   "url": "/haber/arakanli-muslumanlara-yonelik-soykirim-davasinda-karar-bugun-aciklanac-525413c8/"
   },
   {
    "id": "e068684f",
