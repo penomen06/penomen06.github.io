@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:30:52.909824+00:00",
+ "updated": "2026-11-21T01:01:06.333471+00:00",
  "items": [
   {
    "id": "9a1090d7",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-21T00:30:02+00:00",
+   "date": "2026-11-21T01:00:01+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9a1090d7/"
+  },
+  {
+   "id": "6e920bd8",
+   "title": "Peru'da 6,7 büyüklüğünde deprem",
+   "summary": "Peru'nun Junin bölgesinde 6,7 büyüklüğünde deprem meydana geldiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/peruda-6-7-buyuklugunde-deprem/4132654",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T00:57:06+00:00",
+   "url": "/haber/peru-da-6-7-buyuklugunde-deprem-6e920bd8/"
+  },
+  {
+   "id": "3184c5ae",
+   "title": "Almanya'da hükümet politikalarını protesto eden göstericilerle polis arasında arbede çıktı",
+   "summary": "Almanya'da hükümetin zorunlu askerlik planlarının ve sosyal harcamalardaki kesintilerin protesto edildiği gösterilerde polisle göstericiler arasında arbede yaşandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyada-hukumet-politikalarini-protesto-eden-gostericilerle-polis-arasinda-arbede-cikti/4132649",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T00:38:44+00:00",
+   "url": "/haber/almanya-da-hukumet-politikalarini-protesto-eden-gostericilerle-polis-a-3184c5ae/"
   },
   {
    "id": "0e32e117",
@@ -88,6 +110,17 @@
    "category": "gundem",
    "date": "2026-11-20T22:46:26+00:00",
    "url": "/haber/cocuklarda-ilk-dis-muayenesinin-bir-yasina-kadar-yapilmasi-oneriliyor-3408e879/"
+  },
+  {
+   "id": "2d20376e",
+   "title": "Milli kick boksçu Ezelnur, Dünya Şampiyonası'nda kazandığı altın madalyayla gururlandı",
+   "summary": "Dünya Gençler Kick Boks Şampiyonası'nda kürsünün zirvesinde yer alan Ezelnur Karalar, altın madalya kazanmanın gururunu yaşıyor.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-kick-bokscu-ezelnur-dunya-sampiyonasinda-kazandigi-altin-madalyayla-gururlandi/4132634",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-20T22:45:43+00:00",
+   "url": "/haber/milli-kick-bokscu-ezelnur-dunya-sampiyonasi-nda-kazandigi-altin-madaly-2d20376e/"
   },
   {
    "id": "58bf0d52",
@@ -277,17 +310,6 @@
    "url": "/haber/gokyuzunde-yeni-donem-yildizlarin-yerini-uydular-aliyor-67321f37/"
   },
   {
-   "id": "146ab9df",
-   "title": "Ons altın faiz beklentileri ve teknoloji hisselerindeki satışlarla 14 ayın en düşük seviyesinde",
-   "summary": "Küresel piyasalarda altının ons fiyatı, ABD Merkez Bankasının (Fed) faiz oranlarını daha agresif artırabileceği beklentisi ve yapay zeka hisselerindeki sert düşüşün tetiklediği satış baskısıyla Eylül 2025'ten bu yana en…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ons-altin-faiz-beklentileri-ve-teknoloji-hisselerindeki-satislarla-14-ayin-en-dusuk-seviyesinde/4132547",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-20T19:50:37+00:00",
-   "url": "/haber/ons-altin-faiz-beklentileri-ve-teknoloji-hisselerindeki-satislarla-14-146ab9df/"
-  },
-  {
    "id": "b7493e05",
    "title": "13 Yıl Sonra GTA 6 oynadık! 248 Ekran ve PS5 Pro ile GTA 6 deneyimi",
    "summary": "GTA 6'yı PlayStation 5 Pro'da, 248 ekran (98 inç) TCL Mini LED televizyonda oynadık. 30 FPS hissini, araç sürüşünü, grafikleri ve ekipteki arkadaşlarımızın yorumlarını spoiler vermeden aktarıyoruz.",
@@ -297,28 +319,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T19:43:32+00:00",
    "url": "/haber/13-yil-sonra-gta-6-oynadik-248-ekran-ve-ps5-pro-ile-gta-6-deneyimi-b7493e05/"
-  },
-  {
-   "id": "9832102a",
-   "title": "Trump, 3 Kasım'daki seçim sonuçlarına rağmen bugün olsa İran'la savaşa yine gireceğini belirtti",
-   "summary": "ABD'de 3 Kasım'da düzenlenen ara seçimleri Cumhuriyetçilerin kaybetmesinde İran'la savaşın etkisinin olduğunu kabul eden Trump, Tahran'ın \"nükleer silaha sahip olmasını engellemek\" için bugün olsa yine savaşa gireceğini…",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-3-kasimdaki-secim-sonuclarina-ragmen-bugun-olsa-iranla-savasa-yine-girecegini-belirtti/4132543",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-20T19:41:16+00:00",
-   "url": "/haber/trump-3-kasim-daki-secim-sonuclarina-ragmen-bugun-olsa-iran-la-savasa-9832102a/"
-  },
-  {
-   "id": "addb188a",
-   "title": "Arap Koalisyonu: Husilerin Suudi Arabistan'ın başkenti Riyad'a fırlattığı 3 balistik füze imha edildi",
-   "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, İran destekli Husiler tarafından Suudi Arabistan'ın başkenti Riyad'a fırlatılan 3 balistik füzenin imha edildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistanin-baskenti-riyada-firlattigi-3-balistik-fuze-imha-edildi/4132542",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-20T19:37:24+00:00",
-   "url": "/haber/arap-koalisyonu-husilerin-suudi-arabistan-in-baskenti-riyad-a-firlatti-addb188a/"
   },
   {
    "id": "11d871fb",
