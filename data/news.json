@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T10:30:52.113501+00:00",
+ "updated": "2026-11-21T11:01:04.709468+00:00",
  "items": [
+  {
+   "id": "50a8c485",
+   "title": "1 kWh enerjiyle en fazla yol giden elektrikli otomobil belli oldu: Zirvede Fransız",
+   "summary": "Bağımsız otomotiv organizasyonu AUTOBEST, 15 elektrikli otomobili gerçek trafik koşullarında test etti. 1 kWh enerjiyle en uzun mesafeyi kat eden model, tüm rakiplerini geride bırakarak rekor kırdı.",
+   "link": "https://www.donanimhaber.com/1-kwh-enerjiyle-en-fazla-yol-giden-elektrikli-otomobil-belli-oldu--213205",
+   "image": "https://www.donanimhaber.com/images/images/haber/213205/1200x6751-kwh-enerjiyle-en-fazla-yol-giden-elektrikli-otomobil-belli-oldu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-21T11:00:00+00:00",
+   "url": "/haber/1-kwh-enerjiyle-en-fazla-yol-giden-elektrikli-otomobil-belli-oldu-zirv-50a8c485/"
+  },
   {
    "id": "9a1090d7",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Kasım 2026",
@@ -9,8 +20,85 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-21T10:30:00+00:00",
+   "date": "2026-11-21T11:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9a1090d7/"
+  },
+  {
+   "id": "91282af9",
+   "title": "Brezilya kırmızı bültenle arıyordu. Uyuşturucu taciri İstanbul'da yakalandı",
+   "summary": "Brezilya tarafından uyuşturucu ticareti ve suç örgütü kurma suçlarından kırmızı bültenle aranan şüpheli İstanbul'da yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/brezilya-kirmizi-bultenle-ariyordu-uyusturucu-taciri-istanbulda-yakalandi-1751906",
+   "image": "https://images.ntv.com.tr/images/HXpItBqXQAElROc-723828(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T10:55:17+00:00",
+   "url": "/haber/brezilya-kirmizi-bultenle-ariyordu-uyusturucu-taciri-istanbul-da-yakal-91282af9/"
+  },
+  {
+   "id": "af8948bb",
+   "title": "Ticaret Bakanı, 2. Türk-Alman Otomotiv Zirvesi’nde önemli açıklamalarda bulundu",
+   "summary": "Türkiye Cumhuriyeti Ticaret Bakanı Ömer Bolat, Berlin’de gerçekleştirilen 2. Türk-Alman Otomotiv Zirvesi’ne katılarak Türkiye ile Almanya arasındaki ekonomik ve ticari ilişkilerin geliştirilmesi, otomotiv sektörümüzdeki…",
+   "link": "https://www.log.com.tr/ticaret-bakani-2-turk-alman-otomotiv-zirvesinde-onemli-aciklamalarda-bulundu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-21_13-46-56_ASkQO-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-21T10:52:42+00:00",
+   "url": "/haber/ticaret-bakani-2-turk-alman-otomotiv-zirvesi-nde-onemli-aciklamalarda-af8948bb/"
+  },
+  {
+   "id": "1473f2e8",
+   "title": "Anthropic çalışanı Türk matematikçi, 167 yıldır çözülemeyen problemi yapay zekayla çözdüğünü iddia etti",
+   "summary": "Yapay zeka şirketi Anthropic'te çalışan Türk matematikçi Levent Alpöge, 167 yıldır çözülemeyen Riemann hipotezini yapay zeka yardımıyla çözdüğünü ileri sürdü.",
+   "link": "https://www.aa.com.tr/tr/yapay-zeka/anthropic-calisani-turk-matematikci-167-yildir-cozulemeyen-problemi-yapay-zekayla-cozdugunu-iddia-etti/4132855",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T10:51:27+00:00",
+   "url": "/haber/anthropic-calisani-turk-matematikci-167-yildir-cozulemeyen-problemi-ya-1473f2e8/"
+  },
+  {
+   "id": "65100ee6",
+   "title": "Fed ve yapay zeka kaynaklı satış dalgası değerli metalleri vurdu",
+   "summary": "Değerli metaller, ABD Merkez Bankasının (Fed) para politikalarında sıkılaşmayı hızlandırabileceği endişeleri ve dolardaki güçlenmenin etkisiyle haftalık bazda son 34 haftanın en sert değer kaybını yaşadı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fed-ve-yapay-zeka-kaynakli-satis-dalgasi-degerli-metalleri-vurdu/4132852",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T10:50:32+00:00",
+   "url": "/haber/fed-ve-yapay-zeka-kaynakli-satis-dalgasi-degerli-metalleri-vurdu-65100ee6/"
+  },
+  {
+   "id": "99e7e3b3",
+   "title": "Samsung Galaxy S27 Pro, bazı pazarlarda Exynos 2700 ile satılabilir",
+   "summary": "Geçtiğimiz ay 2027’nin başında tanıtılacak Samsung Galaxy S27 ailesindeki Galaxy S27 ve Galaxy S27 Plus’a Exynos 2700, Galaxy S27 Pro’ya Snapdragon 8 Elite Gen 6, en üstteki Galaxy S27 Ultra’ya ise Snapdragon 8 Elite…",
+   "link": "https://www.log.com.tr/samsung-galaxy-s27-pro-bazi-pazarlarda-exynos-2700-ile-satilabilir/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-21_13-32-21_3Z1jT-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-21T10:41:21+00:00",
+   "url": "/haber/samsung-galaxy-s27-pro-bazi-pazarlarda-exynos-2700-ile-satilabilir-99e7e3b3/"
+  },
+  {
+   "id": "64a3fe0a",
+   "title": "FBI'ın suç kayıtları veri tabanında güvenlik ihlali şüphesi",
+   "summary": "ABD basınına göre FBI, federal ve yerel kolluk kuvvetlerinin yakalama emirleri ve adli geçmiş bilgilerini paylaştığı veri tabanına izinsiz erişim sağlanıp sağlanmadığını araştırıyor",
+   "link": "https://www.bbc.com/turkce/articles/ck8dvgqzvzg3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-21T10:30:24+00:00",
+   "url": "/haber/fbi-in-suc-kayitlari-veri-tabaninda-guvenlik-ihlali-suphesi-64a3fe0a/"
+  },
+  {
+   "id": "e767a848",
+   "title": "Yapay zekâ rüzgârı diniyor mu? Hisseler çakılıyor",
+   "summary": "Yıllardır adeta çılgınlar gibi yükselen yapay zekâ ile ilgili şirket hisseleri bu hafta tepetaklak oldu. Anthropic halka arzı da sektöre beklenen ilgiyi getirmedi.",
+   "link": "https://www.donanimhaber.com/yapay-zek-husrani--213216",
+   "image": "https://www.donanimhaber.com/images/images/haber/213216/1200x675yapay-zek-husrani.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-21T10:30:00+00:00",
+   "url": "/haber/yapay-zeka-ruzgari-diniyor-mu-hisseler-cakiliyor-e767a848/"
   },
   {
    "id": "311c7ab7",
@@ -66,6 +154,17 @@
    "category": "teknoloji",
    "date": "2026-11-21T10:15:12+00:00",
    "url": "/haber/chatgpt-ve-claude-un-mobil-uygulama-arayuzleri-yenileniyor-552d7ab3/"
+  },
+  {
+   "id": "0132b96a",
+   "title": "Anadolu'nun hazineleri COP31'de dünyaya tanıtıldı",
+   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 'de kurulan Anadolu Hazineleri Bahçesi'nde, Hititlerden Cumhuriyet dönemine uzanan süreçte Anadolu'da kurulan medeniyetlerin doğayla ilişkisi tanıtıldı.",
+   "link": "https://www.aa.com.tr/tr/kultur/anadolunun-hazineleri-cop31de-dunyaya-tanitildi/4132831",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T10:15:00+00:00",
+   "url": "/haber/anadolu-nun-hazineleri-cop31-de-dunyaya-tanitildi-0132b96a/"
   },
   {
    "id": "df37e2cd",
@@ -343,6 +442,17 @@
    "url": "/haber/almanya-tiktok-avrupa-yi-satin-almak-istiyor-737a572b/"
   },
   {
+   "id": "79d26d00",
+   "title": "Fon soruşturmasında yabancı yatırımcı perdeli milyarlık ağ",
+   "summary": "Fon soruşturması kapsamında hazırlanan MASAK raporunda, Londra merkezli Gildencrest Capital'in (eski Tera Europe) İstanbul'dan yönetildiği ve Borsa'da \"yabancı yatırımcı\" görüntüsüyle işlem yaptığı belirlendi.…",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yabanci-yatirimci-perdeli-milyarlik-ag-964049.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2488000/fon-sorusturmasi-2489781.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-21T08:57:00+00:00",
+   "url": "/haber/fon-sorusturmasinda-yabanci-yatirimci-perdeli-milyarlik-ag-79d26d00/"
+  },
+  {
    "id": "7102c7ac",
    "title": "BYD’nin SUV modelinin AB’de satışı yasaklandı",
    "summary": "Hollanda'da mahkeme BYD Ti7'nin Defender'ın tasarım haklarını ihlal ettiğine karar vererek Avrupa Birliği'nde satışına yasak getirdi. BYD, geçici tedbir niteliğindeki karara itiraz edeceğini açıkladı.",
@@ -354,17 +464,6 @@
    "url": "/haber/byd-nin-suv-modelinin-ab-de-satisi-yasaklandi-7102c7ac/"
   },
   {
-   "id": "692f259e",
-   "title": "Levent Alpöge, Claude ile birlikte çalışarak Riemann hipotezini kanıtladığını duyurdu",
-   "summary": "Yapay zeka devi Anthropic’te görev yapan ünlü matematikçi Levent Alpöge, 1859 yılından bu yana çözülemeyen Riemann hipotezini şirketin yapay zeka modeli Claude ile birlikte çalışarak kanıtladığını duyurdu. Henüz…",
-   "link": "https://www.log.com.tr/levent-alpoge-claude-ile-birlikte-calisarak-riemann-hipotezini-kanitladigini-duyurdu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-21_11-47-14_Yswu9-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-21T08:53:48+00:00",
-   "url": "/haber/levent-alpoge-claude-ile-birlikte-calisarak-riemann-hipotezini-kanitla-692f259e/"
-  },
-  {
    "id": "9624374c",
    "title": "BBC araştırması: Londra'da cinsel suçları araştıran dedektif, mağdurlara tecavüz etti",
    "summary": "Londra'da cinsel suçları soruşturan bir polis dedektifinin, soruşturmasını yürüttüğü kadınları cinsel istismara uğrattığı ve polis teşkilatının bu dedektifi durdurmak adına çok sayıda fırsatı kaçırdığı ortaya çıktı.",
@@ -374,50 +473,6 @@
    "category": "gundem",
    "date": "2026-11-21T08:52:09+00:00",
    "url": "/haber/bbc-arastirmasi-londra-da-cinsel-suclari-arastiran-dedektif-magdurlara-9624374c/"
-  },
-  {
-   "id": "ed881057",
-   "title": "BYD, “Land Rover Defender” benzeri modeli Ti7’yi Avrupa Birliği ülkelerinde satamayacak",
-   "summary": "Jaguar Land Rover (JLR), geçtiğimiz hafta Defender’ın klonu olarak nitelendirilen Ti7 isimli aracın Avrupa’da satılmasını engellemek için Çinli otomobil üreticisi BYD’ye dava açmıştı. Defender’ın tasarımının neredeyse…",
-   "link": "https://www.log.com.tr/byd-land-rover-defender-benzeri-modeli-ti7yi-avrupa-birligi-ulkelerinde-satamayacak/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-12_15-37-53_9fpf9_FHD-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-21T08:45:24+00:00",
-   "url": "/haber/byd-land-rover-defender-benzeri-modeli-ti7-yi-avrupa-birligi-ulkelerin-ed881057/"
-  },
-  {
-   "id": "d653f172",
-   "title": "İran Cumhurbaşkanı Pezeşkiyan: Füze savaşından daha zor bir ekonomik savaşın içindeyiz",
-   "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ülkesinin ekonomik cephede \"sessiz bir savaş\" verdiğini ve bunun \"füze atılıp yıkıma yol açan bir savaştan çok daha zor\" olduğunu belirterek, üretim ve yatırımların sürdürülmesi için…",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-cumhurbaskani-pezeskiyan-fuze-savasindan-daha-zor-bir-ekonomik-savasin-icindeyiz/4132780",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T08:43:20+00:00",
-   "url": "/haber/iran-cumhurbaskani-pezeskiyan-fuze-savasindan-daha-zor-bir-ekonomik-sa-d653f172/"
-  },
-  {
-   "id": "5a4b9ac8",
-   "title": "Bakan Işıkhan'dan \"sigorta prim teşviki\"ne ilişkin paylaşım",
-   "summary": "Çalışma ve Sosyal Güvenlik Bakanı Işıkhan, 15 farklı sigorta primi teşviki, destek ve indirimleriyle kayıtlı istihdamı güçlendirdiklerini belirterek, bu yılın ocak-ağustos ayları arasında 301,3 milyar liradan fazla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-isikhandan-sigorta-prim-tesvikine-iliskin-paylasim/4132775",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T08:39:02+00:00",
-   "url": "/haber/bakan-isikhan-dan-sigorta-prim-tesviki-ne-iliskin-paylasim-5a4b9ac8/"
-  },
-  {
-   "id": "dad285a0",
-   "title": "Türkiye yüzme organizasyonlarıyla uluslararası spor turizmi gelirlerinden daha fazla pay almayı hedefliyor",
-   "summary": "Son yıllarda yapılan modern spor tesisleri, iklim avantajı ve uluslararası organizasyon kapasitesinden yararlanan Türkiye, yüzmede spor turizminden aldığı payı artırmayı hedefliyor.",
-   "link": "https://www.aa.com.tr/tr/spor/turkiye-yuzme-organizasyonlariyla-uluslararasi-spor-turizmi-gelirlerinden-daha-fazla-pay-almayi-hedefliyor/4132774",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T08:38:16+00:00",
-   "url": "/haber/turkiye-yuzme-organizasyonlariyla-uluslararasi-spor-turizmi-gelirlerin-dad285a0/"
   },
   {
    "id": "988ea149",
@@ -783,17 +838,6 @@
    "url": "/haber/1-ms-ve-0-5-ms-tepki-suresi-arasindaki-fark-nedir-ee11f6f8/"
   },
   {
-   "id": "fbc1c5bf",
-   "title": "Güneş Sistemi'nin en az anlaşılan gezegenlerinden Merkür'de tarihi görev",
-   "summary": "BepiColombo görevi Güneş'e en yakın gezegen olan Merkür'ü hiç olmadığı kadar iyi gözlemlememizi sağlayacak.",
-   "link": "https://www.bbc.com/turkce/articles/c6ewvkrjy0kvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eca5/live/034a6cb0-e4c7-11f1-a094-5fdc692f3e33.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-20T20:20:54+00:00",
-   "url": "/haber/gunes-sistemi-nin-en-az-anlasilan-gezegenlerinden-merkur-de-tarihi-gor-fbc1c5bf/"
-  },
-  {
    "id": "635b08f2",
    "title": "BM Genel Kurulu, Filistin halkının bağımsızlık hakkına ilişkin tasarıyı 162 oyla kabul etti",
    "summary": "Birleşmiş Milletler (BM) Genel Kurulu, Filistin halkının kendi kaderini tayin etme ve bağımsızlık hakkını teyit eden karar taslağını 8'e karşı 162 oyla kabul etti.",
@@ -860,17 +904,6 @@
    "url": "/haber/huawei-den-genis-ekranli-yeni-telefon-osta-o1-pro-tanitildi-499a5c6a/"
   },
   {
-   "id": "9856cef6",
-   "title": "Intel'in BT departmanında yeni işten çıkarma dalgası",
-   "summary": "Intel, Lip-Bu Tan yönetiminde küçülmeye devam ediyor. Şirketin küresel BT departmanında başlattığı yeni işten çıkarmaların yüzlerce çalışanı etkileyebileceği belirtiliyor.",
-   "link": "https://www.donanimhaber.com/intel-in-bt-departmaninda-yeni-isten-cikarma-dalgasi--213172",
-   "image": "https://www.donanimhaber.com/images/images/haber/213172/1200x675intel-in-bt-departmaninda-yeni-isten-cikarma-dalgasi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-20T18:27:00+00:00",
-   "url": "/haber/intel-in-bt-departmaninda-yeni-isten-cikarma-dalgasi-9856cef6/"
-  },
-  {
    "id": "0a6f7a8a",
    "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 28 Ağustos 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
    "summary": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca…",
@@ -880,28 +913,6 @@
    "category": "gundem",
    "date": "2026-11-20T18:17:14+00:00",
    "url": "/haber/on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-28-agustos-0a6f7a8a/"
-  },
-  {
-   "id": "28026ead",
-   "title": "Sinemada bu hafta: Açlık Oyunları, Aşk Tesadüfleri Sever 3, Ben Rocky (20 Kasım 2026)",
-   "summary": "Bu hafta sinema salonlarında dokuz yeni film gösterime girerken, dijital platformlara da yeni filmler geliyor. İşte bu hafta sinemaseverleri bekleyen yeni filmler:",
-   "link": "https://www.donanimhaber.com/sinemada-bu-hafta-20-kasim-2026--213180",
-   "image": "https://www.donanimhaber.com/images/images/haber/213180/1200x675sinemada-bu-hafta-20-kasim-2026.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-20T18:05:00+00:00",
-   "url": "/haber/sinemada-bu-hafta-aclik-oyunlari-ask-tesadufleri-sever-3-ben-rocky-20-28026ead/"
-  },
-  {
-   "id": "9962e6ac",
-   "title": "Duvarları şiirle doldurmuştu, aşık kiracı ilk kez konuştu. \"Uyuyuncaya kadar yazıyordum\"",
-   "summary": "İstanbul'da tahliye edildiği evin duvarlarına aşk şiirleri yazan Abdullah Gönen, \"İşten geliyordum, bir iki saat zamanım oluyordu. Uyuyuncaya kadar yazıyordum\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-duvarlari-siirle-dolduran-asik-kiraci-ilk-kez-konustu-uyuyana-kadar-yaziyordum-1751821",
-   "image": "https://images.ntv.com.tr/images/BUYUKCEKMECEDE-EVINE-ASK-SIIRLERI-YAZAN_1619019_481340copy2-624764.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T17:56:05+00:00",
-   "url": "/haber/duvarlari-siirle-doldurmustu-asik-kiraci-ilk-kez-konustu-uyuyuncaya-ka-9962e6ac/"
   },
   {
    "id": "95ef7cd9",
@@ -1199,17 +1210,6 @@
    "category": "gundem",
    "date": "2026-11-20T04:27:00+00:00",
    "url": "/haber/gazze-de-9-aylik-bebek-hipotermi-nedeniyle-hayatini-kaybetti-6fc61a82/"
-  },
-  {
-   "id": "a82ee9f1",
-   "title": "Meteorolojiden sarı kod uyarısı: 17 ilde kuvvetli yağış ve rüzgar bekleniyor",
-   "summary": "Yurt genelinde bugün kuvvetli rüzgar ve sağanak bekleniyor. Meteoroloji 17 il için sarı kodlu uyarı yaptı. Yetkililer, ani sel, su baskını ve fırtınanın oluşturabileceği risklere karşı vatandaşların tedbirli olmasını…",
-   "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-sari-kod-uyarisi-17-ilde-kuvvetli-yagis-ve-ruzgar-bekleniyor-963911.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2480000/firtina-aa-2481838.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-20T04:24:00+00:00",
-   "url": "/haber/meteorolojiden-sari-kod-uyarisi-17-ilde-kuvvetli-yagis-ve-ruzgar-bekle-a82ee9f1/"
   },
   {
    "id": "a757aab7",
