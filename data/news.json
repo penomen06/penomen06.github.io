@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:30:54.587100+00:00",
+ "updated": "2026-11-21T23:01:10.642285+00:00",
  "items": [
   {
    "id": "7f175d6d",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-21T22:30:00+00:00",
+   "date": "2026-11-21T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-7f175d6d/"
+  },
+  {
+   "id": "91f961e2",
+   "title": "Bakan Kurum, COP31 Genel Kurul Kapanış Oturumu öncesi soruları yanıtladı",
+   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Son metni sekretaryaya gönderdik. Birazdan tüm ülkelere gönderilecek. Sabah 10.00-10.30 itibarıyla genel kurulumuza Örtü Kararımızı getirmek…",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-cop31-genel-kurul-kapanis-oturumu-oncesi-sorulari-yanitladi/4133280",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T22:47:20+00:00",
+   "url": "/haber/bakan-kurum-cop31-genel-kurul-kapanis-oturumu-oncesi-sorulari-yanitlad-91f961e2/"
   },
   {
    "id": "d35910cc",
@@ -46,15 +57,26 @@
    "url": "/haber/sirnak-ta-silah-kazasi-sonucu-bir-asker-sehit-oldu-a0f8c5bf/"
   },
   {
-   "id": "510f92a0",
-   "title": "Bazı illerde sağanak etkili oldu",
-   "summary": "Bilecik, Erzurum, Ardahan ve Trabzon'un bazı ilçelerinde sağanak yaşamı olumsuz etkiledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bazi-illerde-saganak-etkili-oldu/4133261",
+   "id": "7a57a435",
+   "title": "Bazı illerde sağanak ve şiddetli rüzgar etkili oldu",
+   "summary": "Bilecik, Erzurum, Ardahan ve Trabzon'un bazı ilçelerinde sağanak yaşamı olumsuz etkiledi, Muş'ta ise şiddetli rüzgar yaşamı olumsuz etkiledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bazi-illerde-saganak-ve-siddetli-ruzgar-etkili-oldu/4133261",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-21T21:29:09+00:00",
-   "url": "/haber/bazi-illerde-saganak-etkili-oldu-510f92a0/"
+   "url": "/haber/bazi-illerde-saganak-ve-siddetli-ruzgar-etkili-oldu-7a57a435/"
+  },
+  {
+   "id": "175ac60e",
+   "title": "İsrail saldırılarında ailelerini kaybeden Gazzeli çocuklar \"güvenli bir gelecek\" talebiyle gösteri yaptı",
+   "summary": "İsrail'in saldırılarında ailelerini kaybeden çocuklar, 20 Kasım Dünya Çocuk Hakları Günü dolayısıyla düzenlenen gösteride, eğitim, sağlık ve güvenli bir gelecek çağrısı yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-saldirilarinda-ailelerini-kaybeden-gazzeli-cocuklar-guvenli-bir-gelecek-talebiyle-gosteri-yapti/4133260",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T21:29:06+00:00",
+   "url": "/haber/israil-saldirilarinda-ailelerini-kaybeden-gazzeli-cocuklar-guvenli-bir-175ac60e/"
   },
   {
    "id": "dc3d77d8",
@@ -376,17 +398,6 @@
    "url": "/haber/ram-dostu-lokal-yapay-zeka-inkling-2-mini-c3e7616f/"
   },
   {
-   "id": "bb944e04",
-   "title": "Kocaelispor ile Fenerbahçe berabere kaldı",
-   "summary": "Trendyol Süper Lig'in 12. haftasında oynanan Kocaelispor-Fenerbahçe karşılaşması 2-2'lik beraberlikle tamamlandı.",
-   "link": "https://www.aa.com.tr/tr/spor/kocaelispor-ile-fenerbahce-berabere-kaldi/4133132",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T16:53:34+00:00",
-   "url": "/haber/kocaelispor-ile-fenerbahce-berabere-kaldi-bb944e04/"
-  },
-  {
    "id": "d7d61e92",
    "title": "AK Parti Genel Sekreteri İnan, partisinin Karşıyaka Genişletilmiş İlçe Danışma Meclisi Toplantısı'nda konuştu",
    "summary": "AK Parti Genel Sekreteri İnan, \"Özgür Özel ve yakın ekibi, milletin alın teriyle ve belediye kaynaklarıyla anılan bu ağır rüşvet ve usulsüzlük iddialarına karşısında hesap vermek yerine korkakça dokunulmazlık zırhının…",
@@ -418,17 +429,6 @@
    "category": "gundem",
    "date": "2026-11-21T16:20:21+00:00",
    "url": "/haber/temel-kazisinda-toprak-kaymasi-toprak-altindan-cikarilan-isci-hastaned-4d5df19b/"
-  },
-  {
-   "id": "bf30d998",
-   "title": "MotoGP Portekiz Grand Prix'sinde sprint yarışını Marco Bezzecchi kazandı",
-   "summary": "MotoGP Dünya Şampiyonası'nda sezonun 21. etabı olan Portekiz Grand Prix'sinin sprint yarışını Aprilia takımından İtalyan Marco Bezzecchi kazandı.",
-   "link": "https://www.aa.com.tr/tr/spor/motogp-portekiz-grand-prixsinde-sprint-yarisini-marco-bezzecchi-kazandi/4133093",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T16:14:06+00:00",
-   "url": "/haber/motogp-portekiz-grand-prix-sinde-sprint-yarisini-marco-bezzecchi-kazan-bf30d998/"
   },
   {
    "id": "6b2c4933",
