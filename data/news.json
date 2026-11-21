@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:01:09.877904+00:00",
+ "updated": "2026-11-21T22:30:54.587100+00:00",
  "items": [
   {
    "id": "7f175d6d",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-21T22:00:00+00:00",
+   "date": "2026-11-21T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-7f175d6d/"
   },
   {
@@ -44,6 +44,39 @@
    "category": "gundem",
    "date": "2026-11-21T21:43:03+00:00",
    "url": "/haber/sirnak-ta-silah-kazasi-sonucu-bir-asker-sehit-oldu-a0f8c5bf/"
+  },
+  {
+   "id": "510f92a0",
+   "title": "Bazı illerde sağanak etkili oldu",
+   "summary": "Bilecik, Erzurum, Ardahan ve Trabzon'un bazı ilçelerinde sağanak yaşamı olumsuz etkiledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bazi-illerde-saganak-etkili-oldu/4133261",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T21:29:09+00:00",
+   "url": "/haber/bazi-illerde-saganak-etkili-oldu-510f92a0/"
+  },
+  {
+   "id": "dc3d77d8",
+   "title": "İsrail'de Eisenkot'tan Netanyahu'nun Likud Partisi'ni \"müzakere maratonu\"na davet etme talimatı",
+   "summary": "İsrail'de seçimlerin ardından hükümet kurma yetkisi alan Yashar Partisi lideri Gadi Eisenkot, geçici Başbakan Binyamin Netanyahu'nun Likud Partisi'ni, geniş tabanlı bir hükümet kurma arayışları için \"müzakere…",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-eisenkottan-netanyahunun-likud-partisini-muzakere-maratonuna-davet-etme-talimati/4133259",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T21:28:53+00:00",
+   "url": "/haber/israil-de-eisenkot-tan-netanyahu-nun-likud-partisi-ni-muzakere-maraton-dc3d77d8/"
+  },
+  {
+   "id": "eb55dc23",
+   "title": "Suudi Arabistan'daki Etnospor Kültür Festivali'nin üçüncü günü sona erdi",
+   "summary": "Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nin üçüncü gününde geleneksel güreş, Türk el sanatları ve atlı okçuluk ziyaretçilerin en çok ilgi gösterdiği etkinlikler oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/suudi-arabistandaki-etnospor-kultur-festivalinin-ucuncu-gunu-sona-erdi/4133257",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T21:28:33+00:00",
+   "url": "/haber/suudi-arabistan-daki-etnospor-kultur-festivali-nin-ucuncu-gunu-sona-er-eb55dc23/"
   },
   {
    "id": "94eaaf47",
@@ -297,39 +330,6 @@
    "category": "teknoloji",
    "date": "2026-11-21T18:00:00+00:00",
    "url": "/haber/openai-ilk-akilli-telefonunun-uretimi-icin-apple-in-tedarikcisiyle-anl-2b4f38f8/"
-  },
-  {
-   "id": "4fc5aa42",
-   "title": "Kırmızı bültenle aranan uluslararası suç örgütü üyesi İstanbul'da yakalandı",
-   "summary": "İstanbul'da düzenlenen operasyonda, Danimarka başta olmak üzere birçok Avrupa ülkesinde suç faaliyetlerine karıştığı belirlenen ve Interpol tarafından kırmızı bültenle aranan uluslararası suç örgütü üyesi M.O. ile 2…",
-   "link": "https://www.aa.com.tr/tr/gundem/kirmizi-bultenle-aranan-uluslararasi-suc-orgutu-uyesi-istanbulda-yakalandi/4133154",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T17:59:55+00:00",
-   "url": "/haber/kirmizi-bultenle-aranan-uluslararasi-suc-orgutu-uyesi-istanbul-da-yaka-4fc5aa42/"
-  },
-  {
-   "id": "14cb4b41",
-   "title": "Özgün 4 koreografi \"Momentum\"da buluşuyor",
-   "summary": "Çağdaş dansın farklı anlatım biçimlerini bir araya getiren \"Momentum\", 4 özgün koreografiyle 24 Kasım'dan itibaren Kadıköy Belediyesi Süreyya Opera Sahnesi'nde sanatseverlerin beğenisine sunulacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/ozgun-4-koreografi-momentumda-bulusuyor/4133149",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T17:38:24+00:00",
-   "url": "/haber/ozgun-4-koreografi-momentum-da-bulusuyor-14cb4b41/"
-  },
-  {
-   "id": "e4c2e1c2",
-   "title": "Bakan Fidan: Türkiye’nin sahip olduğu gücü istikrarı tesis etmede kullanması onu sürekli aranan bir aktör hale getiriyor",
-   "summary": "Dışişleri Bakanı Hakan Fidan, \"Türkiye'nin sahip olduğu gücü ve etkiyi sürekli barışı, istikrarı ve refahı tesis etmede kullanan bir aktör olması, aslında gerçekten onu sürekli aranan bir aktör haline getiriyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkiye-nin-sahip-oldugu-gucu-istikrari-tesis-etmede-kullanmasi-onu-surekli-aranan-bir-aktor-hale-getiriyor/4133147",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T17:35:35+00:00",
-   "url": "/haber/bakan-fidan-turkiye-nin-sahip-oldugu-gucu-istikrari-tesis-etmede-kulla-e4c2e1c2/"
   },
   {
    "id": "abb7e3fc",
