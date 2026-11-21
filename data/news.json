@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:01:10.642285+00:00",
+ "updated": "2026-11-21T23:30:51.917922+00:00",
  "items": [
   {
    "id": "7f175d6d",
@@ -9,19 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-21T23:00:00+00:00",
+   "date": "2026-11-21T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-7f175d6d/"
   },
   {
-   "id": "91f961e2",
-   "title": "Bakan Kurum, COP31 Genel Kurul Kapanış Oturumu öncesi soruları yanıtladı",
+   "id": "e25bce2d",
+   "title": "Tesla, otonom sürüş yazılımı FSD v15’i tanıttı: İşte tüm yenilikler",
+   "summary": "Tesla, FSD V15 güncellemesini yayınladı. Yeni sürüm çukurları ve trafik kameralarını daha iyi algılıyor. Tesla ayrıca güvenlik açısından kritik müdahalelerde 25 kat iyileşme sağlandığını öne sürüyor.",
+   "link": "https://www.donanimhaber.com/tesla-fsd-v15-tanitildi-iste-tum-yenilikler--213229",
+   "image": "https://www.donanimhaber.com/images/images/haber/213229/1200x675tesla-fsd-v15-tanitildi-iste-tum-yenilikler.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-21T23:01:46+00:00",
+   "url": "/haber/tesla-otonom-surus-yazilimi-fsd-v15-i-tanitti-iste-tum-yenilikler-e25bce2d/"
+  },
+  {
+   "id": "9be82566",
+   "title": "Bakan Kurum: Sabah 10.00-10.30 itibarıyla genel kurulumuza Örtü Kararımızı getirmek istiyoruz",
    "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Son metni sekretaryaya gönderdik. Birazdan tüm ülkelere gönderilecek. Sabah 10.00-10.30 itibarıyla genel kurulumuza Örtü Kararımızı getirmek…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-cop31-genel-kurul-kapanis-oturumu-oncesi-sorulari-yanitladi/4133280",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-sabah-1000-1030-itibariyla-genel-kurulumuza-ortu-kararimizi-getirmek-istiyoruz/4133280",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-21T22:47:20+00:00",
-   "url": "/haber/bakan-kurum-cop31-genel-kurul-kapanis-oturumu-oncesi-sorulari-yanitlad-91f961e2/"
+   "url": "/haber/bakan-kurum-sabah-10-00-10-30-itibariyla-genel-kurulumuza-ortu-kararim-9be82566/"
   },
   {
    "id": "d35910cc",
@@ -88,6 +99,17 @@
    "category": "gundem",
    "date": "2026-11-21T21:28:53+00:00",
    "url": "/haber/israil-de-eisenkot-tan-netanyahu-nun-likud-partisi-ni-muzakere-maraton-dc3d77d8/"
+  },
+  {
+   "id": "5b46d7c6",
+   "title": "İngiltere'de yüzlerce eylemci yapay zekaya yönelik daha sert düzenlemeler istedi",
+   "summary": "Londra'da bir araya gelen yüzlerce eylemci, yapay zeka teknolojilerinin hızlı gelişmesinin ortaya çıkaracağı potansiyel tehlikelere işaret ederek yapay zekaya karşı daha sert düzenlemeler istedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingilterede-yuzlerce-eylemci-yapay-zekaya-yonelik-daha-sert-duzenlemeler-istedi/4133258",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T21:28:43+00:00",
+   "url": "/haber/ingiltere-de-yuzlerce-eylemci-yapay-zekaya-yonelik-daha-sert-duzenleme-5b46d7c6/"
   },
   {
    "id": "eb55dc23",
@@ -308,17 +330,6 @@
    "category": "gundem",
    "date": "2026-11-21T18:48:58+00:00",
    "url": "/haber/sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-24-agu-56a85b3f/"
-  },
-  {
-   "id": "6ef86f8a",
-   "title": "Fransa'da polis, göstericilere biber gazı ve copla müdahale etti",
-   "summary": "Fransa'da sendika ve Sarı Yelekliler'in çağrısıyla gösteriler düzenlenirken, başkent Paris, Bordo, Marsilya dahil farklı kentlerde polis, göstericilere biber gazı ve copla müdahalede bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-polis-gostericilere-biber-gazi-ve-copla-mudahale-etti/4133172",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T18:29:49+00:00",
-   "url": "/haber/fransa-da-polis-gostericilere-biber-gazi-ve-copla-mudahale-etti-6ef86f8a/"
   },
   {
    "id": "ee8a61fa",
@@ -671,17 +682,6 @@
    "category": "teknoloji",
    "date": "2026-11-21T12:00:08+00:00",
    "url": "/haber/google-da-ara-dugmesi-ana-sayfadan-kalkiyor-d5fa794e/"
-  },
-  {
-   "id": "5f7504e6",
-   "title": "ABD'den sonra Avrupa da TikTok'un peşinde: 25 milyar euroluk satın alma planı",
-   "summary": "ABD'deki TikTok anlaşmasından ilham alan Almanya, platformun Avrupa operasyonlarını devralmak için harekete geçti. Beş ülkeden yatırımcıların 25 milyar euroluk teklife hazır olduğu belirtiliyor.",
-   "link": "https://www.donanimhaber.com/abd-den-sonra-avrupa-da-tiktok-un-pesinde-25-milyar-euroluk-plan--213206",
-   "image": "https://www.donanimhaber.com/images/images/haber/213206/1200x675abd-den-sonra-avrupa-da-tiktok-un-pesinde-25-milyar-euroluk-plan.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-21T12:00:00+00:00",
-   "url": "/haber/abd-den-sonra-avrupa-da-tiktok-un-pesinde-25-milyar-euroluk-satin-alma-5f7504e6/"
   },
   {
    "id": "1c6baae7",
