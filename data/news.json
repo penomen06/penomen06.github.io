@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-21T12:01:07.813282+00:00",
+ "updated": "2026-11-21T12:30:58.244379+00:00",
  "items": [
+  {
+   "id": "5d263a75",
+   "title": "Galaxy S27'de Now Bar, Dynamic Island'a benziyor",
+   "summary": "Samsung, Galaxy S27'nin erken yazılımında Now Bar bildirimlerini ön kameranın çevresine taşıdı. Bildirimler arasında artık sağa sola kaydırarak geçiliyor.",
+   "link": "https://shiftdelete.net/galaxy-s27-now-bar-dynamic-island-tasarim",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/galaxy-s26-ultra-one-ui-9-5-kapak.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-21T12:30:08+00:00",
+   "url": "/haber/galaxy-s27-de-now-bar-dynamic-island-a-benziyor-5d263a75/"
+  },
+  {
+   "id": "0364da63",
+   "title": "İngiltere Dışişleri Bakanı: AB anlaşması öğrenim ücretlerinde uzlaşma olmasa da yürürlüğe girecek",
+   "summary": "İngiltere Dışişleri Bakanı Ed Miliband, ülkesinin Avrupa Birliği'yle (AB) Cuma günü vardığı anlaşmanın, tarafların öğrenim ücretleri konusunda bir uzlaşmaya varamasa bile yürürlüğe gireceğini söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/cm9q845x4983o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/544f/live/9d2fe690-e5a6-11f1-a094-5fdc692f3e33.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-21T12:27:11+00:00",
+   "url": "/haber/ingiltere-disisleri-bakani-ab-anlasmasi-ogrenim-ucretlerinde-uzlasma-o-0364da63/"
+  },
+  {
+   "id": "6566b590",
+   "title": "Van'da devrilen panelvandaki 7 kişi yaralandı",
+   "summary": "Van-Hakkari kara yolunda panelvanın devrilmesi sonucu aynı aileden 7 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/vanda-devrilen-panelvandaki-7-kisi-yaralandi/4132941",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T12:25:04+00:00",
+   "url": "/haber/van-da-devrilen-panelvandaki-7-kisi-yaralandi-6566b590/"
+  },
+  {
+   "id": "d41ccea3",
+   "title": "Çiğdem Batur hakkında soruşturma başlatıldı",
+   "summary": "Oyuncu Çiğdem Batur hakkında \"Halkın bir kesimini ve dini değerleri alenen aşağılama\" suçlamasıyla soruşturma başlatıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/cigdem-batur-hakkinda-sorusturma-baslatildi-1751930",
+   "image": "https://images.ntv.com.tr/images/çiğdem-batur-644284.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T12:23:23+00:00",
+   "url": "/haber/cigdem-batur-hakkinda-sorusturma-baslatildi-d41ccea3/"
+  },
+  {
+   "id": "2b071af2",
+   "title": "Sivas'ta 15 yıldır kuraklığın etkisindeki Kemis Gölü, yağışlarla yeniden canlandı",
+   "summary": "Sivas'ın Hafik ilçesinde yaklaşık 15 yıldır kuraklığın etkisi altındaki Kemis Gölü, yağışlarla yeniden hayat buldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/sivasta-15-yildir-kurakligin-etkisindeki-kemis-golu-yagislarla-yeniden-canlandi/4132937",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T12:09:58+00:00",
+   "url": "/haber/sivas-ta-15-yildir-kurakligin-etkisindeki-kemis-golu-yagislarla-yenide-2b071af2/"
+  },
+  {
+   "id": "acfe57a5",
+   "title": "Malezya'dan 10 bin Rohingyalının Türkiye'ye yerleştirileceği iddiasına yalanlama",
+   "summary": "Dezenformasyonla Mücadele Merkezi, Malezya'dan 10 bin Rohingyalının Türkiye'ye yerleştirileceğine yönelik iddiaların asılsız olduğunu açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/malezyadan-10-bin-rohingyalinin-turkiyeye-yerlestirilecegi-iddiasina-yalanlama-1751931",
+   "image": "https://images.ntv.com.tr/images/images-326499.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T12:08:38+00:00",
+   "url": "/haber/malezya-dan-10-bin-rohingyalinin-turkiye-ye-yerlestirilecegi-iddiasina-acfe57a5/"
+  },
+  {
+   "id": "fd7626fc",
+   "title": "Anadolu Otoyolu Sakarya kesiminde zincirleme kaza meydana geldi",
+   "summary": "Anadolu Otoyolu Sakarya geçişinde çok sayıda aracın karıştığı zincirleme trafik kazası meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/anadolu-otoyolu-sakarya-kesiminde-zincirleme-kaza-meydana-geldi/4132936",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T12:07:57+00:00",
+   "url": "/haber/anadolu-otoyolu-sakarya-kesiminde-zincirleme-kaza-meydana-geldi-fd7626fc/"
+  },
+  {
+   "id": "99eb0f29",
+   "title": "Anadolu Otoyolu'nda 14 araç birbirine girdi, yaralılar var",
+   "summary": "Anadolu Otoyolu'nun Sakarya geçişinde 14 aracın karıştığı zincirleme trafik kazası meydana geldi. Kazada 15 kişi yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-anadolu-otoyolunda-14-arac-birbirine-girdi-yaralilar-var-1751921",
+   "image": "https://images.ntv.com.tr/images/ANADOLU-OTOYOLUNDA-14-ARAC-ZINCIRLEME-K_1619897_481592-185800.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T12:07:32+00:00",
+   "url": "/haber/anadolu-otoyolu-nda-14-arac-birbirine-girdi-yaralilar-var-99eb0f29/"
+  },
+  {
+   "id": "f2b0134f",
+   "title": "Bayern Münih'in İngiliz yıldızı Harry Kane, ayak bileğinden ameliyat edildi",
+   "summary": "Bayern Münih'in İngiliz golcüsü Harry Kane, ligde Köln ile oynadıkları maçta sol ayak bileğinde meydana gelen bağ yırtılması nedeniyle ameliyat edildi.",
+   "link": "https://www.aa.com.tr/tr/spor/bayern-munihin-ingiliz-yildizi-harry-kane-ayak-bileginden-ameliyat-edildi/4132934",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T12:06:34+00:00",
+   "url": "/haber/bayern-munih-in-ingiliz-yildizi-harry-kane-ayak-bileginden-ameliyat-ed-f2b0134f/"
+  },
   {
    "id": "d5fa794e",
    "title": "Google'da Ara düğmesi ana sayfadan kalkıyor",
@@ -24,17 +123,6 @@
    "url": "/haber/abd-den-sonra-avrupa-da-tiktok-un-pesinde-25-milyar-euroluk-satin-alma-5f7504e6/"
   },
   {
-   "id": "9a1090d7",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-kasim-2026-1751828",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-21T12:00:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9a1090d7/"
-  },
-  {
    "id": "e2a1be65",
    "title": "Cumhurbaşkanı Erdoğan: Toplumları güçlü kılan adalettir",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, toplumları güçlü kılan şeyin adalet olduğunu söyledi. Erdoğan, \"Kanunların hakkaniyetle uygulanmadığı bir düzende huzur sağlanamaz.\" dedi.",
@@ -44,17 +132,6 @@
    "category": "gundem",
    "date": "2026-11-21T11:58:42+00:00",
    "url": "/haber/cumhurbaskani-erdogan-toplumlari-guclu-kilan-adalettir-e2a1be65/"
-  },
-  {
-   "id": "d41ccea3",
-   "title": "Çiğdem Batur hakkında soruşturma başlatıldı",
-   "summary": "Oyuncu Çiğdem Batur hakkında \"Halkın bir kesimini ve dini değerleri alenen aşağılama\" suçlamasıyla soruşturma başlatıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/cigdem-batur-hakkinda-sorusturma-baslatildi-1751930",
-   "image": "https://images.ntv.com.tr/images/çiğdem-batur-644284.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-21T11:57:58+00:00",
-   "url": "/haber/cigdem-batur-hakkinda-sorusturma-baslatildi-d41ccea3/"
   },
   {
    "id": "bd6001ef",
@@ -211,28 +288,6 @@
    "url": "/haber/1-kwh-enerjiyle-en-fazla-yol-giden-elektrikli-otomobil-belli-oldu-zirv-50a8c485/"
   },
   {
-   "id": "340e4f18",
-   "title": "Fransa'nın kuzeyinde sel nedeniyle 850 ev sular altında kaldı",
-   "summary": "Fransa'nın kuzeyindeki Pas-de-Calais ilinde şiddetli yağışların yol açtığı sel nedeniyle 850 evin sular altında kaldığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransanin-kuzeyinde-sel-nedeniyle-850-ev-sular-altinda-kaldi/4132865",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T10:58:45+00:00",
-   "url": "/haber/fransa-nin-kuzeyinde-sel-nedeniyle-850-ev-sular-altinda-kaldi-340e4f18/"
-  },
-  {
-   "id": "9751337a",
-   "title": "Ticaret Bakanı Bolat: 10 gün sonra kasım ayı ihracat rekorunu açıklayacağız",
-   "summary": "Ticaret Bakanı Ömer Bolat, kasım ayında ihracat rekoru açıklayacaklarını belirterek, \"Rakamlar iyi geliyor. Bu anlamda son 6 ay tüm aylık rekorları kırdık. Bu kadar yoğun aylık rekorları kırdığımız yıl çok azdır.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ticaret-bakani-bolat-10-gun-sonra-kasim-ayi-ihracat-rekorunu-aciklayacagiz/4132859",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T10:57:33+00:00",
-   "url": "/haber/ticaret-bakani-bolat-10-gun-sonra-kasim-ayi-ihracat-rekorunu-aciklayac-9751337a/"
-  },
-  {
    "id": "06a30405",
    "title": "İşgal altındaki Doğu Kudüs'te düzenlenen silahlı saldırıda Filistinli bir çocuk hayatını kaybetti",
    "summary": "İşgal altındaki Doğu Kudüs'te yer alan Şuafat Mülteci Kampı'nda kimliği henüz belirlenemeyen bir kişinin açtığı ateş sonucu 10 yaşındaki Filistinli çocuk yaşamını yitirdi.",
@@ -253,17 +308,6 @@
    "category": "gundem",
    "date": "2026-11-21T10:55:17+00:00",
    "url": "/haber/brezilya-kirmizi-bultenle-ariyordu-uyusturucu-taciri-istanbul-da-yakal-91282af9/"
-  },
-  {
-   "id": "eed08f50",
-   "title": "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı'nın doğusunda bir petrol tankeri mayına çarparak alev aldı",
-   "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri Komutanlığı, Hürmüz Boğazı'nın doğusunda izin verilmeyen bölgede ilerleyen bir petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazinin-dogusunda-bir-petrol-tankeri-mayina-carparak-alev-aldi/4132857",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T10:54:46+00:00",
-   "url": "/haber/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nin-dogusunda-bir-petrol-eed08f50/"
   },
   {
    "id": "af8948bb",
@@ -363,17 +407,6 @@
    "category": "teknoloji",
    "date": "2026-11-21T10:15:12+00:00",
    "url": "/haber/chatgpt-ve-claude-un-mobil-uygulama-arayuzleri-yenileniyor-552d7ab3/"
-  },
-  {
-   "id": "0132b96a",
-   "title": "Anadolu'nun hazineleri COP31'de dünyaya tanıtıldı",
-   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 'de kurulan Anadolu Hazineleri Bahçesi'nde, Hititlerden Cumhuriyet dönemine uzanan süreçte Anadolu'da kurulan medeniyetlerin doğayla ilişkisi tanıtıldı.",
-   "link": "https://www.aa.com.tr/tr/kultur/anadolunun-hazineleri-cop31de-dunyaya-tanitildi/4132831",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T10:15:00+00:00",
-   "url": "/haber/anadolu-nun-hazineleri-cop31-de-dunyaya-tanitildi-0132b96a/"
   },
   {
    "id": "df37e2cd",
@@ -827,17 +860,6 @@
    "url": "/haber/tedeg-den-nato-ulkesine-radar-icin-ihracat-f0f0c3ad/"
   },
   {
-   "id": "eec966ac",
-   "title": "iOS 27 ile iki iPhone'da tek numara dönemi",
-   "summary": "iOS 27 ile gelen iPhone Handoff, tek bir telefon numarasını iki iPhone arasında paylaştırıyor. Numara, kilidi açılan iPhone'da etkin oluyor.",
-   "link": "https://shiftdelete.net/ios-27-iphone-handoff-iki-iphone-ayni-numara",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/iphone-handoff-ios-27-kapak-2111.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-21T04:30:07+00:00",
-   "url": "/haber/ios-27-ile-iki-iphone-da-tek-numara-donemi-eec966ac/"
-  },
-  {
    "id": "f4c9b909",
    "title": "Son dakika İzmir'de deprem mi oldu? Az önce deprem İzmir'de nerede oldu? İzmir deprem Kandilli ve AFAD son depremler listesi 21 Kasım 2026",
    "summary": "Son dakika İzmir deprem haberleri.. İzmir'de deprem mi oldu? Az önce deprem İzmir'de nerede oldu? İzmir Kandilli ve AFAD son depremler.. 21 Kasım 2026 İzmir deprem son dakika haberleri haberin detayında... Artçı deprem…",
@@ -869,17 +891,6 @@
    "category": "gundem",
    "date": "2026-11-20T21:29:00+00:00",
    "url": "/haber/atama-ve-gorevden-alma-kararlari-resmi-gazete-de-950100f9/"
-  },
-  {
-   "id": "7bac38e1",
-   "title": "COP31'de kritik saatler: Bakan Kurum'dan \"Antalya Mutabakatı\" çağrısı",
-   "summary": "Birleşmiş Milletler İklim Değişikliği Konferansı'nın (COP31) kapanış genel kurulunda konuşan Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Hala dünyanın umudu bu salonda.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cop31de-kritik-saatler-bakan-kurumdan-antalya-mutabakati-cagrisi-1751829",
-   "image": "https://images.ntv.com.tr/images/AA-20261120-43139888-43139887-COP31_CLOSING_PLENARY_SESSION-155078.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T21:14:01+00:00",
-   "url": "/haber/cop31-de-kritik-saatler-bakan-kurum-dan-antalya-mutabakati-cagrisi-7bac38e1/"
   },
   {
    "id": "c6b0a192",
@@ -979,17 +990,6 @@
    "category": "gundem",
    "date": "2026-11-20T14:03:00+00:00",
    "url": "/haber/hgs-icralari-durduruldu-3b800fea/"
-  },
-  {
-   "id": "0364da63",
-   "title": "İngiltere ve AB arasında tarafları yakınlaştıran 'kazan-kazan' anlaşması",
-   "summary": "İngiltere ve AB arasında gıda ve tarım, Erasmus programı, göç ve karbon emisyonu gibi önemli konularda tarafları yakınlaştıran bir anlaşma sağlandı.",
-   "link": "https://www.bbc.com/turkce/articles/cm9q845x4983o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69a0/live/b30ec130-e4dd-11f1-9cc5-e9713e77fd78.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-20T14:02:13+00:00",
-   "url": "/haber/ingiltere-ve-ab-arasinda-taraflari-yakinlastiran-kazan-kazan-anlasmasi-0364da63/"
   },
   {
    "id": "05b930a9",
