@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:01:06.333471+00:00",
+ "updated": "2026-11-21T01:31:43.159778+00:00",
  "items": [
   {
    "id": "9a1090d7",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-21T01:00:01+00:00",
+   "date": "2026-11-21T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9a1090d7/"
+  },
+  {
+   "id": "9b7bf6f8",
+   "title": "Ekrem İmamoğlu'ndan süreç mektubu: 'İktidarı desteklemiyorum ama barışı destekliyorum\"",
+   "summary": "Ekrem İmamoğlu, Silivri'de tutulduğu hapishaneden yazdığı mektupta, çözüm sürecine destek verirken \"Ben iktidarı desteklemiyorum ama evet barışı ve huzuru destekliyorum\" dedi.",
+   "link": "https://www.bbc.com/turkce/articles/cqm2lnlxz7d3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69df/live/7be574f0-e547-11f1-b6b8-43c66e8fea55.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-21T01:05:18+00:00",
+   "url": "/haber/ekrem-imamoglu-ndan-surec-mektubu-iktidari-desteklemiyorum-ama-barisi-9b7bf6f8/"
   },
   {
    "id": "6e920bd8",
@@ -1023,17 +1034,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T10:38:48+00:00",
    "url": "/haber/en-iyi-kosu-bandi-markalari-2026-efb135e2/"
-  },
-  {
-   "id": "243f757c",
-   "title": "Eyüpsultan Belediye Başkan Yardımcısı Çağdaş Can Elmalı tutuklandı",
-   "summary": "Ankara Cumhuriyet Başsavcılığınca Eyüpsultan Belediyesi'ne yönelik yürütülen soruşturmada Başkan Yardımcısı ve Özel Kalem Müdürü Çağdaş Can Elmalı da gözaltına alındı. Belediye Başkanı Mithat Bülent Özmen aynı…",
-   "link": "https://www.bbc.com/turkce/articles/cxyvzvr4y6mgo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/efb0/live/8b104060-e40a-11f1-ab35-e1af93fa5cce.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-20T09:46:21+00:00",
-   "url": "/haber/eyupsultan-belediye-baskan-yardimcisi-cagdas-can-elmali-tutuklandi-243f757c/"
   },
   {
    "id": "4ce6c667",
