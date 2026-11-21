@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T15:01:04.076781+00:00",
+ "updated": "2026-11-21T15:16:46.377031+00:00",
  "items": [
+  {
+   "id": "da96104c",
+   "title": "Temel kazısında toprak kayması. Toprak altında kalana işçi kurtarıldı",
+   "summary": "İstanbul Güngören'de temel kazısı sırasında toprak kayması meydana geldi. Toprak altında kalan bir işçi ağır yaralı olarak kurtarıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/temel-kazisinda-toprak-kaymasi-toprak-altinda-kalana-isci-kurtarildi-1751946",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-21173557-454733.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T15:14:38+00:00",
+   "url": "/haber/temel-kazisinda-toprak-kaymasi-toprak-altinda-kalana-isci-kurtarildi-da96104c/"
+  },
+  {
+   "id": "b9854244",
+   "title": "Elektrikli Mercedes C400 incelemesi: 489 HP",
+   "summary": "Tamamen elektrikli yeni Mercedes C400 4MATIC AMG'yi test ettik. 489 beygir, 94 kWh batarya, 700 kilometreyi aşan WLTP menzili ve 330 kW hızlı şarjın gerçek kullanımdaki karşılığını anlattık.",
+   "link": "https://shiftdelete.net/elektrikli-mercedes-c400-4matic-inceleme",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/sdntv-j3b3H7n7wIE.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-21T15:13:10+00:00",
+   "url": "/haber/elektrikli-mercedes-c400-incelemesi-489-hp-b9854244/"
+  },
   {
    "id": "2ff5826c",
    "title": "Steam Machine'e zam gelebilir, stok sınırlı",
@@ -44,17 +66,6 @@
    "category": "gundem",
    "date": "2026-11-21T14:46:47+00:00",
    "url": "/haber/yeni-bond-kizi-kim-olacak-93eb36cf/"
-  },
-  {
-   "id": "ea061819",
-   "title": "Temel kazısında toprak kayması. Bir işçi toprak altında kaldı",
-   "summary": "İstanbul Güngören'de temel kazısı sırasında toprak kayması meydana geldi. Bir işçi toprak altında kaldı.",
-   "link": "https://www.ntv.com.tr/turkiye/temel-kazisinda-toprak-kaymasi-bir-isci-toprak-altinda-kaldi-1751946",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-21173557-454733.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-21T14:44:20+00:00",
-   "url": "/haber/temel-kazisinda-toprak-kaymasi-bir-isci-toprak-altinda-kaldi-ea061819/"
   },
   {
    "id": "a65b7fdc",
@@ -123,6 +134,17 @@
    "url": "/haber/bakan-ciftci-bolgemiz-terorden-arindikca-turizm-canlaniyor-yatirimlar-580f3343/"
   },
   {
+   "id": "222dd509",
+   "title": "İsrail askerleri ve Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da 3 belediye görevlisini darbetti",
+   "summary": "İsrail askerleri ve Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria'nın El Halil kentinde 3 Filistinli belediye görevlisini darbetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-ve-filistin-topraklarini-gasbeden-israilliler-bati-seriada-3-belediye-gorevlisini-darbetti/4133015",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T14:04:57+00:00",
+   "url": "/haber/israil-askerleri-ve-filistin-topraklarini-gasbeden-israilliler-bati-se-222dd509/"
+  },
+  {
    "id": "e19262aa",
    "title": "Kadın kaynak ustası hemcinslerini kurduğu atölyede istihdam etmeyi hedefliyor",
    "summary": "Ankara'da hayalini kurduğu kaynak atölyesini açan çelik kaynak ustası Feyzanur Türkoğlu, kadın kaynakçıları istihdam ederek meslekte hemcinslerinin daha fazla yer almasını hedefliyor.",
@@ -132,6 +154,17 @@
    "category": "gundem",
    "date": "2026-11-21T14:02:45+00:00",
    "url": "/haber/kadin-kaynak-ustasi-hemcinslerini-kurdugu-atolyede-istihdam-etmeyi-hed-e19262aa/"
+  },
+  {
+   "id": "c2fcbaef",
+   "title": "Galatasaray, sahasında Samsunspor'u mağlup etti",
+   "summary": "Trendyol Süper Lig'in 12. haftasında Galatasaray, sahasında Samsunspor'u 2-1 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-sahasinda-samsunsporu-maglup-etti/4133011",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T14:02:19+00:00",
+   "url": "/haber/galatasaray-sahasinda-samsunspor-u-maglup-etti-c2fcbaef/"
   },
   {
    "id": "b756408e",
@@ -321,17 +354,6 @@
    "url": "/haber/cumhurbaskani-erdogan-toplumlari-guclu-kilan-adalettir-e2a1be65/"
   },
   {
-   "id": "98993cd7",
-   "title": "İngiltere Kralı 3. Charles'tan Cumhurbaşkanı Erdoğan ve COP31 Başkanlığına teşekkür mektubu",
-   "summary": "İngiltere Kralı 3. Charles, Türkiye'nin Antalya'da düzenlenen COP31'in ev sahipliğini ve başkanlığını üstlenmesi dolayısıyla Cumhurbaşkanı Recep Tayyip Erdoğan ile COP31 Başkanı Murat Kurum'a teşekkür mektubu gönderdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ingiltere-krali-3-charlestan-cumhurbaskani-erdogan-ve-cop31-baskanligina-tesekkur-mektubu/4132945",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T12:30:09+00:00",
-   "url": "/haber/ingiltere-krali-3-charles-tan-cumhurbaskani-erdogan-ve-cop31-baskanlig-98993cd7/"
-  },
-  {
    "id": "5d263a75",
    "title": "Galaxy S27'de Now Bar, Dynamic Island'a benziyor",
    "summary": "Samsung, Galaxy S27'nin erken yazılımında Now Bar bildirimlerini ön kameranın çevresine taşıdı. Bildirimler arasında artık sağa sola kaydırarak geçiliyor.",
@@ -363,17 +385,6 @@
    "category": "gundem",
    "date": "2026-11-21T12:26:45+00:00",
    "url": "/haber/istanbul-da-7-uluslararasi-kadin-ve-adalet-zirvesi-basladi-1904d306/"
-  },
-  {
-   "id": "6566b590",
-   "title": "Van'da devrilen panelvandaki 7 kişi yaralandı",
-   "summary": "Van-Hakkari kara yolunda panelvanın devrilmesi sonucu aynı aileden 7 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/vanda-devrilen-panelvandaki-7-kisi-yaralandi/4132941",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T12:25:04+00:00",
-   "url": "/haber/van-da-devrilen-panelvandaki-7-kisi-yaralandi-6566b590/"
   },
   {
    "id": "acfe57a5",
@@ -891,17 +902,6 @@
    "category": "gundem",
    "date": "2026-11-21T07:05:00+00:00",
    "url": "/haber/aile-ve-genclik-fonu-ndan-genclere-24-milyar-liralik-destek-d9dd4bfe/"
-  },
-  {
-   "id": "2adf896a",
-   "title": "Premium metal kasalı oyun laptopu hangisi?",
-   "summary": "Metal gövdeyi önceliklendiren oyuncular, alüminyum kasalı Casper Excalibur G915’i (G915.240H-CQ60A-C) seçebilir.",
-   "link": "https://shiftdelete.net/premium-metal-kasali-oyun-laptopu-hangisi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/casper-premium-metal-kasali-oyun-laptopu-hangisi-kapak-1811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-21T07:00:29+00:00",
-   "url": "/haber/premium-metal-kasali-oyun-laptopu-hangisi-2adf896a/"
   },
   {
    "id": "674ec435",
