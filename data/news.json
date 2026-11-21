@@ -1,6 +1,138 @@
 {
- "updated": "2026-11-21T11:30:53.213260+00:00",
+ "updated": "2026-11-21T12:01:07.813282+00:00",
  "items": [
+  {
+   "id": "d5fa794e",
+   "title": "Google'da Ara düğmesi ana sayfadan kalkıyor",
+   "summary": "Google, masaüstü ana sayfasındaki \"Google'da Ara\" düğmesini kaldırıyor. Yerine Gemini düğmeleri ve yapay zeka arama geçmişini gösteren bir kenar çubuğu geliyor. Türkiye'de henüz yok.",
+   "link": "https://shiftdelete.net/google-ana-sayfa-google-da-ara-dugmesi-kalkiyor",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/google-search-ai-mode-sidebar-en-2111.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-21T12:00:08+00:00",
+   "url": "/haber/google-da-ara-dugmesi-ana-sayfadan-kalkiyor-d5fa794e/"
+  },
+  {
+   "id": "5f7504e6",
+   "title": "ABD'den sonra Avrupa da TikTok'un peşinde: 25 milyar euroluk satın alma planı",
+   "summary": "ABD'deki TikTok anlaşmasından ilham alan Almanya, platformun Avrupa operasyonlarını devralmak için harekete geçti. Beş ülkeden yatırımcıların 25 milyar euroluk teklife hazır olduğu belirtiliyor.",
+   "link": "https://www.donanimhaber.com/abd-den-sonra-avrupa-da-tiktok-un-pesinde-25-milyar-euroluk-plan--213206",
+   "image": "https://www.donanimhaber.com/images/images/haber/213206/1200x675abd-den-sonra-avrupa-da-tiktok-un-pesinde-25-milyar-euroluk-plan.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-21T12:00:00+00:00",
+   "url": "/haber/abd-den-sonra-avrupa-da-tiktok-un-pesinde-25-milyar-euroluk-satin-alma-5f7504e6/"
+  },
+  {
+   "id": "9a1090d7",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-kasim-2026-1751828",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T12:00:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9a1090d7/"
+  },
+  {
+   "id": "e2a1be65",
+   "title": "Cumhurbaşkanı Erdoğan: Toplumları güçlü kılan adalettir",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, toplumları güçlü kılan şeyin adalet olduğunu söyledi. Erdoğan, \"Kanunların hakkaniyetle uygulanmadığı bir düzende huzur sağlanamaz.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-toplumlari-guclu-kilan-adalettir-1751923",
+   "image": "https://images.ntv.com.tr/images/AA-20261121-43143581-43143580-GAZIOSMANPASA_ADALET_SARAYI_ACILIS_TORENI-308711.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T11:58:42+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-toplumlari-guclu-kilan-adalettir-e2a1be65/"
+  },
+  {
+   "id": "d41ccea3",
+   "title": "Çiğdem Batur hakkında soruşturma başlatıldı",
+   "summary": "Oyuncu Çiğdem Batur hakkında \"Halkın bir kesimini ve dini değerleri alenen aşağılama\" suçlamasıyla soruşturma başlatıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/cigdem-batur-hakkinda-sorusturma-baslatildi-1751930",
+   "image": "https://images.ntv.com.tr/images/çiğdem-batur-644284.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T11:57:58+00:00",
+   "url": "/haber/cigdem-batur-hakkinda-sorusturma-baslatildi-d41ccea3/"
+  },
+  {
+   "id": "bd6001ef",
+   "title": "MSB, Milli Ağaçlandırma Günü kapsamında 2 bin 500 fidan dikti",
+   "summary": "Milli Savunma Bakanlığı (MSB), Milli Ağaçlandırma Günü kapsamında Özel Kuvvetler Komutanlığı ve Kara Harp Okulu öğrencilerinin katılımıyla 2 bin 500 fidanın toprakla buluşturulduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/msb-milli-agaclandirma-gunu-kapsaminda-2-bin-500-fidan-dikti/4132921",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T11:54:04+00:00",
+   "url": "/haber/msb-milli-agaclandirma-gunu-kapsaminda-2-bin-500-fidan-dikti-bd6001ef/"
+  },
+  {
+   "id": "30bd0d9e",
+   "title": "Alperen Şengün'ün \"triple-double\"ı Rockets'a yetmedi",
+   "summary": "Amerikan Basketbol Ligi'nde (NBA) Denver Nuggets, milli basketbolcu Alperen Şengün'ün \"triple-double\" yaptığı maçta Houston Rockets'ı 133-124 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/alperen-sengunun-triple-doublei-rocketsa-yetmedi/4132912",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T11:49:44+00:00",
+   "url": "/haber/alperen-sengun-un-triple-double-i-rockets-a-yetmedi-30bd0d9e/"
+  },
+  {
+   "id": "fb618e5e",
+   "title": "Oruç Reis, Pakistan açıklarında sismik araştırma çalışmalarına başladı",
+   "summary": "Türkiye'nin sismik araştırma gemisi Oruç Reis, Pakistan'ın Karaçi Limanı'nın yaklaşık 120 kilometre açığında bulunan İndus-C Bloku'nda üç boyutlu sismik araştırma çalışmalarına başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/oruc-reis-pakistan-aciklarinda-sismik-arastirma-calismalarina-basladi/4132892",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T11:42:13+00:00",
+   "url": "/haber/oruc-reis-pakistan-aciklarinda-sismik-arastirma-calismalarina-basladi-fb618e5e/"
+  },
+  {
+   "id": "762c4941",
+   "title": "İstanbul'un 3 ilçesi birbirine bağlanacak. 13 kilometrelik mesafe 21 dakikaya düşecek",
+   "summary": "İstanbul'da M12 Ümraniye-Ataşehir-Göztepe Metro Hattı 19 Aralık'ta açılacak. Yeni hatla Ümraniye-Göztepe arasındaki ulaşım 21 dakikaya inecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulun-3-ilcesi-birbirine-baglanacak-13-kilometrelik-mesafe-21-dakikaya-dusecek-1751919",
+   "image": "https://images.ntv.com.tr/images/OZGUR-OZEL-BUNU-KENTTEKI-ESITSIZLIKLERI_1582924_470685-680820-494194.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T11:38:32+00:00",
+   "url": "/haber/istanbul-un-3-ilcesi-birbirine-baglanacak-13-kilometrelik-mesafe-21-da-762c4941/"
+  },
+  {
+   "id": "0ba47c5e",
+   "title": "Gazze'de 350 bin aile kış koşullarında barınma mücadelesi veriyor",
+   "summary": "Gazze'deki Bayındırlık ve İskan Bakanlığı, İsrail'in ateşkese rağmen saldırılarını sürdürdüğü Gazze Şeridi'nde kış koşullarının barınma krizini daha da ağırlaştırdığını, 350 bin ailenin acil barınma ihtiyacı bulunduğunu…",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-350-bin-aile-kis-kosullarinda-barinma-mucadelesi-veriyor/4132890",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T11:38:02+00:00",
+   "url": "/haber/gazze-de-350-bin-aile-kis-kosullarinda-barinma-mucadelesi-veriyor-0ba47c5e/"
+  },
+  {
+   "id": "0749240d",
+   "title": "Brezilya'da ele geçirilen 3 ton uyuşturucunun alıcısı İstanbul'da yakalandı",
+   "summary": "İçişleri Bakanlığı, Brezilya'da ele geçirilen 3 ton uyuşturucunun alıcısı olduğu belirlenen ve çeşitli suçlardan kırmızı bültenle aranan Nusret Skrıjelj'in, İstanbul'da yakalandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/brezilyada-ele-gecirilen-3-ton-uyusturucunun-alicisi-istanbulda-yakalandi/4132889",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T11:32:52+00:00",
+   "url": "/haber/brezilya-da-ele-gecirilen-3-ton-uyusturucunun-alicisi-istanbul-da-yaka-0749240d/"
+  },
+  {
+   "id": "698cf6b7",
+   "title": "AYM ile TİHEK arasında işbirliği protokolü imzalandı",
+   "summary": "Anayasa Mahkemesi (AYM) ile Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK) arasında insan haklarının korunması ve geliştirilmesi amacıyla işbirliği protokolü imzalandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/aym-ile-tihek-arasinda-isbirligi-protokolu-imzalandi/4132887",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T11:30:18+00:00",
+   "url": "/haber/aym-ile-tihek-arasinda-isbirligi-protokolu-imzalandi-698cf6b7/"
+  },
   {
    "id": "18e5a1a9",
    "title": "HMD, PureView adını geri getiriyor",
@@ -11,17 +143,6 @@
    "category": "teknoloji",
    "date": "2026-11-21T11:30:08+00:00",
    "url": "/haber/hmd-pureview-adini-geri-getiriyor-18e5a1a9/"
-  },
-  {
-   "id": "9a1090d7",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-kasim-2026-1751828",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-21T11:30:01+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-9a1090d7/"
   },
   {
    "id": "b6157a99",
@@ -46,6 +167,17 @@
    "url": "/haber/teknoloji-hisselerindeki-dusus-icin-uzmanlar-ne-diyor-0b788834/"
   },
   {
+   "id": "38b3b518",
+   "title": "Bakan Göktaş: Kadın emeğini ve üretimini destekleyen adımlara öncelik veriyoruz",
+   "summary": "Bakan Göktaş, \"Kadın emeğini ve üretimini destekleyen adımlara öncelik veriyoruz. Girişimcilik ve kooperatifçilik bu adımların başında geliyor. Kadınların üretim gücünü dijital dünyanın sunduğu yeni fırsatlarla…",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-kadin-emegini-ve-uretimini-destekleyen-adimlara-oncelik-veriyoruz/4132878",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T11:15:04+00:00",
+   "url": "/haber/bakan-goktas-kadin-emegini-ve-uretimini-destekleyen-adimlara-oncelik-v-38b3b518/"
+  },
+  {
    "id": "1cab005d",
    "title": "Türk Telekom, altyapısıyla COP31 tarihinde eş zamanlı canlı yayın rekoru kırdı",
    "summary": "COP31 süresince günlük ortalama 58 terabaytın (TB) üzerinde veri trafiğini kesintisiz yönetti. Eş zamanlı bağlı cihaz ve canlı yayın sayısında COP organizasyonları tarihinin en yüksek seviyesine ulaşıldı.",
@@ -66,17 +198,6 @@
    "category": "gundem",
    "date": "2026-11-21T11:09:35+00:00",
    "url": "/haber/msb-somali-deki-sondaj-faaliyetlerine-yonelik-koruma-gorevini-surduruy-80e08dda/"
-  },
-  {
-   "id": "6fe59548",
-   "title": "APEC APM5 üç tekerlekli elektrikli moped için yeni A101 fırsatı [26 Kasım 2026]",
-   "summary": "APEC APM5 üç tekerlekli elektrikli moped için yeni A101 fırsatı var. Önümüzdeki hafta A101’de satışa sunulacağı açıklanan moped, iki kişilik oturma kapasitesi sunuyor. Volta tarafından Türkiye’de üretilen model şehir…",
-   "link": "https://www.log.com.tr/apec-apm5-4/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2016/04/default-image.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-21T11:00:19+00:00",
-   "url": "/haber/apec-apm5-uc-tekerlekli-elektrikli-moped-icin-yeni-a101-firsati-26-kas-6fe59548/"
   },
   {
    "id": "50a8c485",
@@ -156,28 +277,6 @@
    "url": "/haber/ticaret-bakani-2-turk-alman-otomotiv-zirvesi-nde-onemli-aciklamalarda-af8948bb/"
   },
   {
-   "id": "1473f2e8",
-   "title": "Anthropic çalışanı Türk matematikçi, 167 yıldır çözülemeyen problemi yapay zekayla çözdüğünü iddia etti",
-   "summary": "Yapay zeka şirketi Anthropic'te çalışan Türk matematikçi Levent Alpöge, 167 yıldır çözülemeyen Riemann hipotezini yapay zeka yardımıyla çözdüğünü ileri sürdü.",
-   "link": "https://www.aa.com.tr/tr/yapay-zeka/anthropic-calisani-turk-matematikci-167-yildir-cozulemeyen-problemi-yapay-zekayla-cozdugunu-iddia-etti/4132855",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T10:51:27+00:00",
-   "url": "/haber/anthropic-calisani-turk-matematikci-167-yildir-cozulemeyen-problemi-ya-1473f2e8/"
-  },
-  {
-   "id": "65100ee6",
-   "title": "Fed ve yapay zeka kaynaklı satış dalgası değerli metalleri vurdu",
-   "summary": "Değerli metaller, ABD Merkez Bankasının (Fed) para politikalarında sıkılaşmayı hızlandırabileceği endişeleri ve dolardaki güçlenmenin etkisiyle haftalık bazda son 34 haftanın en sert değer kaybını yaşadı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fed-ve-yapay-zeka-kaynakli-satis-dalgasi-degerli-metalleri-vurdu/4132852",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T10:50:32+00:00",
-   "url": "/haber/fed-ve-yapay-zeka-kaynakli-satis-dalgasi-degerli-metalleri-vurdu-65100ee6/"
-  },
-  {
    "id": "801f8f0d",
    "title": "Kırmızı bültenle aranan Nusret Skrıjelj İstanbul'da yakalandı",
    "summary": "Brezilya adli makamlarınca “Uyuşturucu Madde Ticareti ve Suç Örgütü Kurma” suçlarından kırmızı bültenle uluslararası seviyede aranan \"Nusret Skrıjelj\" isimli şüpheli İstanbul’da yakalandı.",
@@ -244,26 +343,15 @@
    "url": "/haber/bedriye-nin-olumunde-dugumu-cozecek-ifade-son-sozlerini-anlatti-343392fd/"
   },
   {
-   "id": "5e520126",
-   "title": "Bakan Çiftçi: Terörün kalıcı biçimde sona ermesi çocuklarımıza karşı taşıdığımız bir sorumluluktur",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, Terörsüz Türkiye sürecine ilişkin, \"Terörün kalıcı biçimde sona ermesi, milletimizin yarım asırdır ödediği ağır bedelin ardından çocuklarımıza karşı taşıdığımız bir sorumluluktur.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-terorun-kalici-bicimde-sona-ermesi-cocuklarimiza-karsi-tasidigimiz-bir-sorumluluktur/4132834",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
+   "id": "0a76c29e",
+   "title": "Cumhurbaşkanı Erdoğan: Adalet, toplumsal huzur ve barışın anahtarıdır",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Toplumun bütün kesimlerine güven veren, doğru, adil ve etkili işleyen bir yargı sistemi toplumsal huzur ve barışın anahtarıdır\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-adalet-toplumsal-huzur-ve-barisin-anahtaridir-964054.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/erdogan-2496842.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
-   "date": "2026-11-21T10:18:01+00:00",
-   "url": "/haber/bakan-ciftci-terorun-kalici-bicimde-sona-ermesi-cocuklarimiza-karsi-ta-5e520126/"
-  },
-  {
-   "id": "e6d09226",
-   "title": "Emine Erdoğan'dan Kadın Emeğinin Güçlendirilmesi Kadın Kooperatifleri Fuarı'na ilişkin paylaşım",
-   "summary": "Emine Erdoğan, Türkiye Yüzyılı'nda Kadın Emeğinin Güçlendirilmesi Kadın Kooperatifleri Fuarı'na ilişkin paylaşım yaptı.",
-   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-kadin-emeginin-guclendirilmesi-kadin-kooperatifleri-fuarina-iliskin-paylasim/4132832",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T10:15:16+00:00",
-   "url": "/haber/emine-erdogan-dan-kadin-emeginin-guclendirilmesi-kadin-kooperatifleri-e6d09226/"
+   "date": "2026-11-21T10:25:00+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-adalet-toplumsal-huzur-ve-barisin-anahtaridir-0a76c29e/"
   },
   {
    "id": "552d7ab3",
@@ -343,17 +431,6 @@
    "url": "/haber/can-atalay-dan-aihm-karari-sonrasi-tahliye-cagrisi-86e2d4c9/"
   },
   {
-   "id": "79fc8235",
-   "title": "Sağanak bazı illerde yaşamı olumsuz etkiledi",
-   "summary": "Bazı illerde etkisini sürdüren sağanak, taşkınlara ve trafikte aksamalara neden oldu.",
-   "link": "https://www.aa.com.tr/tr/gundem/saganak-bazi-illerde-yasami-olumsuz-etkiledi/4132819",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T09:58:11+00:00",
-   "url": "/haber/saganak-bazi-illerde-yasami-olumsuz-etkiledi-79fc8235/"
-  },
-  {
    "id": "e6830b7f",
    "title": "Windows 11’e birden fazla PC’nin tek bir büyük yapay zeka modelini birlikte çalıştırmasını sağlayan altyapı geliyor",
    "summary": "Microsoft, Windows 11 işletim sistemine yerel yapay zeka kullanımına yönelik önemli bir destek ekleyecek. “USB4 üzerinden RDMA (Remote Direct Memory Access)” teknolojisini Windows’a getireceğini duyuran şirket, böylece…",
@@ -374,17 +451,6 @@
    "category": "gundem",
    "date": "2026-11-21T09:41:57+00:00",
    "url": "/haber/cop31-de-ziyaretci-rekoru-kirildi-a1d608bc/"
-  },
-  {
-   "id": "a3a3194a",
-   "title": "Brüksel'de \"ekokırım\" suçuna ağır cezalar geliyor",
-   "summary": "Belçika'nın Brüksel Başkent Bölgesi hükümeti, ekosistemlere büyük çaplı zarar verilmesini ifade eden \"ekokırım\" suçunun bölgesel mevzuata dahil edilmesini ve ağır çevre suçlarına yönelik cezaların artırılmasını öngören…",
-   "link": "https://www.aa.com.tr/tr/dunya/brukselde-ekokirim-sucuna-agir-cezalar-geliyor/4132802",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T09:40:51+00:00",
-   "url": "/haber/bruksel-de-ekokirim-sucuna-agir-cezalar-geliyor-a3a3194a/"
   },
   {
    "id": "aab0d63b",
@@ -453,15 +519,15 @@
    "url": "/haber/lynk-co-saglamligini-gostermek-icin-07-gt-modelini-ucurumdan-atti-vide-b8184f7f/"
   },
   {
-   "id": "471e8a94",
-   "title": "Parkinson hastalığının tespitine yönelik yapay zeka modeli geliştirildi",
-   "summary": "Parkinson hastalığının tespitine yönelik 3 üniversiteden akademisyenlerin geliştirdiği yapay zeka modeli, beyin MR görüntülerini analiz ederek hastalığın tespitinde yüzde 94,4 doğruluk oranına ulaştı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/parkinson-hastaliginin-tespitine-yonelik-yapay-zeka-modeli-gelistirildi/4132790",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T09:07:08+00:00",
-   "url": "/haber/parkinson-hastaliginin-tespitine-yonelik-yapay-zeka-modeli-gelistirild-471e8a94/"
+   "id": "a501c64e",
+   "title": "Nvidia, GeForce Hotfix Driver 621.35 ile şikayet edilen SSD yazma sorununu çözdü",
+   "summary": "Nvidia, kullanıcıların bildirdiği SSD sorununu çözmek için GeForce Hotfix Driver 621.35 güncellemesini yayınladı. Arka planda nvlog.nvlgstg dosyasına sürekli veri yazılmasına neden olan hatayı gideren güncelleme, AMD…",
+   "link": "https://www.log.com.tr/nvidia-geforce-hotfix-driver-621-35-ile-sikayet-edilen-ssd-yazma-sorununu-cozdu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2025/09/nvidia-7-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-21T09:04:06+00:00",
+   "url": "/haber/nvidia-geforce-hotfix-driver-621-35-ile-sikayet-edilen-ssd-yazma-sorun-a501c64e/"
   },
   {
    "id": "5ff824d9",
@@ -530,17 +596,6 @@
    "url": "/haber/bbc-arastirmasi-londra-da-cinsel-suclari-arastiran-dedektif-magdurlara-9624374c/"
   },
   {
-   "id": "988ea149",
-   "title": "Bursa'yı yüksek hızlı tren ağına bağlayacak projede test çalışmaları başladı",
-   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Bandırma–Bursa–Yenişehir–Osmaneli Hızlı Tren Projesi'nde Bursa'yı hızlı tren ağına bağlayacak Osmaneli–Bursa kesiminde altyapı ve üstyapı çalışmalarını tamamladıklarını…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bursayi-yuksek-hizli-tren-agina-baglayacak-projede-test-calismalari-basladi/4132773",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T08:38:09+00:00",
-   "url": "/haber/bursa-yi-yuksek-hizli-tren-agina-baglayacak-projede-test-calismalari-b-988ea149/"
-  },
-  {
    "id": "fbf676a5",
    "title": "NVIDIA'ya SEC'ten muhasebe soruşturması",
    "summary": "Reuters'a göre ABD Menkul Kıymetler ve Borsa Komisyonu (SEC), NVIDIA'yı olası muhasebe sorunları nedeniyle inceliyor. Haber, Jensen Huang'ın istifasının hemen ardından geldi.",
@@ -583,6 +638,17 @@
    "category": "teknoloji",
    "date": "2026-11-21T08:00:08+00:00",
    "url": "/haber/ukraynali-skyfall-almanya-da-drone-uretecek-036a1b8e/"
+  },
+  {
+   "id": "36f26844",
+   "title": "Cumhurbaşkanı Erdoğan: Tüm çabamız adaletin gecikmeden tecelli etmesi için",
+   "summary": "Cumhurbaşkanı Erdoğan, \"Bizim tüm çabamız, tüm gayemiz, bugün burada olduğu gibi bütün yatırımlarımız adaletin gecikmeden tecelli etmesi için.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-tum-cabamiz-adaletin-gecikmeden-tecelli-etmesi-icin/4132721",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T07:41:40+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-tum-cabamiz-adaletin-gecikmeden-tecelli-etmesi-i-36f26844/"
   },
   {
    "id": "bf246134",
@@ -772,17 +838,6 @@
    "url": "/haber/ios-27-ile-iki-iphone-da-tek-numara-donemi-eec966ac/"
   },
   {
-   "id": "4655071a",
-   "title": "GTA 6 ilk gününde 3,79 milyar dolar kazandı",
-   "summary": "Rockstar Games, GTA 6'nın ilk gününde 3,79 milyar dolarlık satış yaptığını ve çıkış öncesinde 32,5 milyon kopya sattığını açıkladı. Bu, tüm eğlence sektörünün tek günlük rekoru.",
-   "link": "https://shiftdelete.net/gta-6-ilk-gun-3-79-milyar-dolar-satis-rekoru",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/gta-6-ilk-gun-satis-rekoru-kapak-2111.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-21T04:00:07+00:00",
-   "url": "/haber/gta-6-ilk-gununde-3-79-milyar-dolar-kazandi-4655071a/"
-  },
-  {
    "id": "f4c9b909",
    "title": "Son dakika İzmir'de deprem mi oldu? Az önce deprem İzmir'de nerede oldu? İzmir deprem Kandilli ve AFAD son depremler listesi 21 Kasım 2026",
    "summary": "Son dakika İzmir deprem haberleri.. İzmir'de deprem mi oldu? Az önce deprem İzmir'de nerede oldu? İzmir Kandilli ve AFAD son depremler.. 21 Kasım 2026 İzmir deprem son dakika haberleri haberin detayında... Artçı deprem…",
@@ -803,17 +858,6 @@
    "category": "gundem",
    "date": "2026-11-21T01:05:18+00:00",
    "url": "/haber/ekrem-imamoglu-ndan-surec-mektubu-iktidari-desteklemiyorum-ama-barisi-9b7bf6f8/"
-  },
-  {
-   "id": "58bf0d52",
-   "title": "Fon soruşturmasında yeni gelişme. Serdar Altınbaş Çekya'da yakalandı",
-   "summary": "Fon soruşturmasında hakkında yakalama kararı bulunan Serdar Altınbaş, Çekya'da yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekyada-yakalandi-1751824",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_ae99db88091e3ec52b008fbd474c505c-235054.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T22:01:44+00:00",
-   "url": "/haber/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekya-da-yakalandi-58bf0d52/"
   },
   {
    "id": "950100f9",
@@ -847,17 +891,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T20:59:00+00:00",
    "url": "/haber/bitcoin-fiyati-58-bin-dolara-dustu-olum-kesisimi-gerceklesti-c6b0a192/"
-  },
-  {
-   "id": "39518d48",
-   "title": "Bakan Bolat'dan Yeni Partili Özlale'nin fon iddialarına yanıt",
-   "summary": "Ticaret Bakanı Bolat, Yeni Parti Milletvekili Özlale'nin fon iddialarına ilişkin, \"Helal ve tertemiz tasarrufumun kaynağı bellidir. Mal varlığı bildirimlerim devlet kurumlarında zaten mevcuttur\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-bolatdan-yeni-partili-ozlalenin-fon-iddialarina-yanit-1751827",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_49ecb358f96b52ff39a754388512c29a-342494.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T20:40:07+00:00",
-   "url": "/haber/bakan-bolat-dan-yeni-partili-ozlale-nin-fon-iddialarina-yanit-39518d48/"
   },
   {
    "id": "ee11f6f8",
@@ -913,28 +946,6 @@
    "category": "gundem",
    "date": "2026-11-20T19:19:00+00:00",
    "url": "/haber/uluslararasi-seviyede-aranan-serdar-altinbas-cekya-da-yakalandi-5e8b874a/"
-  },
-  {
-   "id": "b86506f5",
-   "title": "Denis Villeneuve, Bond'dan sonra bir nükleer savaş filmi çekecek",
-   "summary": "Dune, Arrival, Incendies gibi filmlerin başarılı yönetmeni Denis Villeneuve, Dune 3 sonrası projelerini belirledi. Yönetmen yeni James Bond filminden sonra bir nükleer savaş filmi çekecek.",
-   "link": "https://www.donanimhaber.com/denis-villeneuve-bir-nukleer-savas-filmi-cekecek--213196",
-   "image": "https://www.donanimhaber.com/images/images/haber/213196/1200x675denis-villeneuve-bir-nukleer-savas-filmi-cekecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-20T19:10:00+00:00",
-   "url": "/haber/denis-villeneuve-bond-dan-sonra-bir-nukleer-savas-filmi-cekecek-b86506f5/"
-  },
-  {
-   "id": "0a6f7a8a",
-   "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 28 Ağustos 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
-   "summary": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-mpi-on-numara-bilet-sorgulama-ekrani-1751823",
-   "image": "https://images.ntv.com.tr/images/on-numara-cekilis-174764.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-20T18:17:14+00:00",
-   "url": "/haber/on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-28-agustos-0a6f7a8a/"
   },
   {
    "id": "95ef7cd9",
@@ -1188,17 +1199,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T07:34:56+00:00",
    "url": "/haber/vivo-x500-pro-max-profesyonel-fotografcilarla-turkiye-de-tanitildi-685967a6/"
-  },
-  {
-   "id": "298bd355",
-   "title": "Türkiye'nin Uygulama COP'u vizyonu dünya vitrininde",
-   "summary": "Antalya'da 12'nci gününe giren COP31'de Türkiye'nin \"Uygulama COP'u\" vizyonu öne çıkıyor. BRIDGE mekanizmasından 75 ülkenin desteklediği \"35'e 35\" hedefine, Sıfır Atık'tan \"Asrın İnşası\"na kadar Türkiye'nin somut iklim…",
-   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-uygulama-copu-vizyonu-dunya-vitrininde-963930.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/cop31-2504997.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-20T07:21:00+00:00",
-   "url": "/haber/turkiye-nin-uygulama-cop-u-vizyonu-dunya-vitrininde-298bd355/"
   },
   {
    "id": "df379586",
