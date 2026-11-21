@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-21T14:00:58.716925+00:00",
+ "updated": "2026-11-21T14:30:53.155808+00:00",
  "items": [
+  {
+   "id": "32aa311b",
+   "title": "GTA 6'da Ultimate almayanlara mağaza kapalı",
+   "summary": "GTA 6'yı Standart sürümle oynayanlar, Ultimate Edition'a özel dört mağazanın kapısında kalıyor. Oyuncular Rockstar'ın kararını açgözlülük olarak nitelendiriyor.",
+   "link": "https://shiftdelete.net/gta-6-ultimate-edition-ozel-magazalar-kapali",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/gta-6-resmi-ekran-2011.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-21T14:30:08+00:00",
+   "url": "/haber/gta-6-da-ultimate-almayanlara-magaza-kapali-32aa311b/"
+  },
+  {
+   "id": "5603d901",
+   "title": "Nvidia, SSD yazma sorununu düzelten güncellemeyi yayınladı",
+   "summary": "NVIDIA, SSD'ye aşırı yazma sorunu için yeni hotfix sürümü yayınladı. Sürüm notlarına göre, GeForce Hotfix Driver 621.35, nvlog.nvlgstg dosyasına çok fazla yazma işlemine neden olan hatayı düzeltiyor.",
+   "link": "https://www.donanimhaber.com/nvidia-geforce-hotfix-driver-621-35-cikti-ssd-sorunu-cozuldu--213219",
+   "image": "https://www.donanimhaber.com/images/images/haber/213219/1200x675nvidia-geforce-hotfix-driver-621-35-cikti-ssd-sorunu-cozuldu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-21T14:30:00+00:00",
+   "url": "/haber/nvidia-ssd-yazma-sorununu-duzelten-guncellemeyi-yayinladi-5603d901/"
+  },
+  {
+   "id": "33dbf8d2",
+   "title": "Rize'de Değirmendere kırmızı aktı. Bir işletmeye ceza kesildi",
+   "summary": "Rize kent merkezinden geçerek Karadeniz'e dökülen Değirmendere, kırmızı renkte akmaya başladı. Rize Valiliği, kontrolsüz deşarj gerçekleştiren bir tesisin tespit edildiğini açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/rizede-degirmendere-kirmizi-akti-bir-isletmeye-ceza-kesildi-1751945",
+   "image": "https://images.ntv.com.tr/images/dere-610109.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T14:28:40+00:00",
+   "url": "/haber/rize-de-degirmendere-kirmizi-akti-bir-isletmeye-ceza-kesildi-33dbf8d2/"
+  },
+  {
+   "id": "59f05186",
+   "title": "En İyi Ekran Koruyucu Markaları - 2026",
+   "summary": "2026'nın en iyi ekran koruyucu markalarını karşılaştırıyor; Spigen, Baseus, Nillkin, Benks, ESR, Belkin ve PanzerGlass modellerinin özelliklerini ve detaylarını inceliyoruz.",
+   "link": "https://www.webtekno.com/en-iyi-ekran-koruyucu-markalari-h229294.html",
+   "image": "https://imgrosetta.webtekno.com/file/698146/698146-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-21T14:12:14+00:00",
+   "url": "/haber/en-iyi-ekran-koruyucu-markalari-2026-59f05186/"
+  },
+  {
+   "id": "580f3343",
+   "title": "Bakan Çiftçi: Bölgemiz terörden arındıkça turizm canlanıyor, yatırımlar hız kazanıyor",
+   "summary": "Bakan Çiftçi, Tunceli'de yaptığı konuşmada, \"Terörsüz Türkiye hedefi doğrultusunda bölgemiz terörden arındıkça huzur daha da güçleniyor, turizm canlanıyor, yatırımlar hız kazanıyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-bolgemiz-terorden-arindikca-turizm-canlaniyor-yatirimlar-hiz-kazaniyor/4133018",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T14:10:16+00:00",
+   "url": "/haber/bakan-ciftci-bolgemiz-terorden-arindikca-turizm-canlaniyor-yatirimlar-580f3343/"
+  },
+  {
+   "id": "e19262aa",
+   "title": "Kadın kaynak ustası hemcinslerini kurduğu atölyede istihdam etmeyi hedefliyor",
+   "summary": "Ankara'da hayalini kurduğu kaynak atölyesini açan çelik kaynak ustası Feyzanur Türkoğlu, kadın kaynakçıları istihdam ederek meslekte hemcinslerinin daha fazla yer almasını hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/yasam/kadin-kaynak-ustasi-hemcinslerini-kurdugu-atolyede-istihdam-etmeyi-hedefliyor/4133013",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T14:02:45+00:00",
+   "url": "/haber/kadin-kaynak-ustasi-hemcinslerini-kurdugu-atolyede-istihdam-etmeyi-hed-e19262aa/"
+  },
   {
    "id": "b756408e",
    "title": "Android geliştirici doğrulaması tüm ülkelere",
@@ -24,6 +90,17 @@
    "url": "/haber/volkswagen-den-pist-odakli-elektrikli-canavar-id-polo-gti-clubsport-067a91e7/"
   },
   {
+   "id": "4731707c",
+   "title": "İstanbul'da düzenlenecek 5. Uluslararası STK Fuarı'nın detayları paylaşıldı",
+   "summary": "İstanbul'da 25-28 Kasım'da düzenlenecek 5. Uluslararası Sivil Toplum Kuruluşları (STK) Fuarı'nın detayları, Türkiye Gönüllü Teşekküller Vakfı (TGTV) Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan'ın katıldığı basın…",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-duzenlenecek-5-uluslararasi-stk-fuarinin-detaylari-paylasildi/4133004",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T13:50:30+00:00",
+   "url": "/haber/istanbul-da-duzenlenecek-5-uluslararasi-stk-fuari-nin-detaylari-paylas-4731707c/"
+  },
+  {
    "id": "343392fd",
    "title": "Bedriye'nin ölümünde düğümü çözecek ifade: Son sözlerini anlattı",
    "summary": "Mardin'de beşinci kattan düşerek yaşamını yitiren Bedriye Naz'ın kasten öldürme suçlamasıyla yargılanan eşi suçlamayı reddetti. Davadaki tanık beyanları ise şüpheliyi yalanladı.",
@@ -33,17 +110,6 @@
    "category": "gundem",
    "date": "2026-11-21T13:46:31+00:00",
    "url": "/haber/bedriye-nin-olumunde-dugumu-cozecek-ifade-son-sozlerini-anlatti-343392fd/"
-  },
-  {
-   "id": "950100f9",
-   "title": "Atama ve görevden alma kararları Resmi Gazete'de",
-   "summary": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları, Resmi Gazete'de yayımlandı.",
-   "link": "https://www.ntv.com.tr/turkiye/atama-ve-gorevden-alma-kararlari-resmi-gazetede-1751831",
-   "image": "https://images.ntv.com.tr/images/resmigazete'debugün-214086.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-21T13:36:26+00:00",
-   "url": "/haber/atama-ve-gorevden-alma-kararlari-resmi-gazete-de-950100f9/"
   },
   {
    "id": "c06c6a81",
@@ -121,6 +187,17 @@
    "category": "gundem",
    "date": "2026-11-21T12:55:55+00:00",
    "url": "/haber/turkiye-nin-tiflis-buyukelcisi-ari-turkiye-gurcistan-iliskilerini-dege-e26a8eec/"
+  },
+  {
+   "id": "ffcd4a5a",
+   "title": "60 saniyede bugün (21 Kasım 2026)",
+   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-21-kasim-2026-/4132961",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T12:51:38+00:00",
+   "url": "/haber/60-saniyede-bugun-21-kasim-2026-ffcd4a5a/"
   },
   {
    "id": "6b047003",
@@ -299,37 +376,15 @@
    "url": "/haber/abd-den-sonra-avrupa-da-tiktok-un-pesinde-25-milyar-euroluk-satin-alma-5f7504e6/"
   },
   {
-   "id": "bd6001ef",
-   "title": "MSB, Milli Ağaçlandırma Günü kapsamında 2 bin 500 fidan dikti",
-   "summary": "Milli Savunma Bakanlığı (MSB), Milli Ağaçlandırma Günü kapsamında Özel Kuvvetler Komutanlığı ve Kara Harp Okulu öğrencilerinin katılımıyla 2 bin 500 fidanın toprakla buluşturulduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/msb-milli-agaclandirma-gunu-kapsaminda-2-bin-500-fidan-dikti/4132921",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
+   "id": "1c6baae7",
+   "title": "Oruç Reis Pakistan açıklarında göreve başladı",
+   "summary": "Türkiye'nin sismik araştırma gemisi Oruç Reis, 19 günlük yolculuğun ardından ulaştığı Pakistan'ın Karaçi Limanı açıklarındaki İndus-C Bloku'nda üç boyutlu sismik veri toplama çalışmalarına başladı. Yaklaşık iki ay…",
+   "link": "https://www.trthaber.com/haber/gundem/oruc-reis-pakistan-aciklarinda-goreve-basladi-964067.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/oruc-reis-aa-2505236.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
-   "date": "2026-11-21T11:54:04+00:00",
-   "url": "/haber/msb-milli-agaclandirma-gunu-kapsaminda-2-bin-500-fidan-dikti-bd6001ef/"
-  },
-  {
-   "id": "30bd0d9e",
-   "title": "Alperen Şengün'ün \"triple-double\"ı Rockets'a yetmedi",
-   "summary": "Amerikan Basketbol Ligi'nde (NBA) Denver Nuggets, milli basketbolcu Alperen Şengün'ün \"triple-double\" yaptığı maçta Houston Rockets'ı 133-124 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/alperen-sengunun-triple-doublei-rocketsa-yetmedi/4132912",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T11:49:44+00:00",
-   "url": "/haber/alperen-sengun-un-triple-double-i-rockets-a-yetmedi-30bd0d9e/"
-  },
-  {
-   "id": "fb618e5e",
-   "title": "Oruç Reis, Pakistan açıklarında sismik araştırma çalışmalarına başladı",
-   "summary": "Türkiye'nin sismik araştırma gemisi Oruç Reis, Pakistan'ın Karaçi Limanı'nın yaklaşık 120 kilometre açığında bulunan İndus-C Bloku'nda üç boyutlu sismik araştırma çalışmalarına başladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/oruc-reis-pakistan-aciklarinda-sismik-arastirma-calismalarina-basladi/4132892",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T11:42:13+00:00",
-   "url": "/haber/oruc-reis-pakistan-aciklarinda-sismik-arastirma-calismalarina-basladi-fb618e5e/"
+   "date": "2026-11-21T11:41:00+00:00",
+   "url": "/haber/oruc-reis-pakistan-aciklarinda-goreve-basladi-1c6baae7/"
   },
   {
    "id": "762c4941",
@@ -374,17 +429,6 @@
    "category": "gundem",
    "date": "2026-11-21T11:23:53+00:00",
    "url": "/haber/teknoloji-hisselerindeki-dusus-icin-uzmanlar-ne-diyor-0b788834/"
-  },
-  {
-   "id": "38b3b518",
-   "title": "Bakan Göktaş: Kadın emeğini ve üretimini destekleyen adımlara öncelik veriyoruz",
-   "summary": "Bakan Göktaş, \"Kadın emeğini ve üretimini destekleyen adımlara öncelik veriyoruz. Girişimcilik ve kooperatifçilik bu adımların başında geliyor. Kadınların üretim gücünü dijital dünyanın sunduğu yeni fırsatlarla…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-kadin-emegini-ve-uretimini-destekleyen-adimlara-oncelik-veriyoruz/4132878",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T11:15:04+00:00",
-   "url": "/haber/bakan-goktas-kadin-emegini-ve-uretimini-destekleyen-adimlara-oncelik-v-38b3b518/"
   },
   {
    "id": "50a8c485",
@@ -871,17 +915,6 @@
    "url": "/haber/vizesiz-avrupa-icin-yeni-adim-eksik-alti-kriter-meclis-e-geliyor-426fc965/"
   },
   {
-   "id": "fc68e69a",
-   "title": "Trump ve Şi'den askeri yapay zeka uzlaşısı",
-   "summary": "ABD Hazine Bakanı Bessent'e göre Trump ve Şi Cinping, yapay zekanın kullanıldığı askeri kararlarda her zaman insanın yer alması gerektiği konusunda anlaştı.",
-   "link": "https://shiftdelete.net/trump-xi-askeri-yapay-zeka-insan-karari-bessent",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/trump-xi-askeri-yapay-zeka-kapak-2111.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-21T06:30:07+00:00",
-   "url": "/haber/trump-ve-si-den-askeri-yapay-zeka-uzlasisi-fc68e69a/"
-  },
-  {
    "id": "d6372c90",
    "title": "OLED ekranlı tabletler: Dizi ve film için en iyi seçenekler",
    "summary": "AMOLED tablet modelleri, yüksek kontrastlı ekranları ve canlı renkleriyle dizi ve film izlemek isteyenlere farklı seçenekler sunuyor. İşte öne çıkan 8 model...",
@@ -924,17 +957,6 @@
    "category": "gundem",
    "date": "2026-11-21T01:05:18+00:00",
    "url": "/haber/ekrem-imamoglu-ndan-surec-mektubu-iktidari-desteklemiyorum-ama-barisi-9b7bf6f8/"
-  },
-  {
-   "id": "c6b0a192",
-   "title": "Bitcoin fiyatı 58 bin dolara düştü, ölüm kesişimi gerçekleşti",
-   "summary": "82 bin dolardan bu yana soluksuz düşen Bitcoin fiyatı beraberinde tüm piyasayı da tepetaklak etti. Kurumsal tarafta da büyük çıkışların yaşanması düşüş derinleştiriyor.",
-   "link": "https://www.donanimhaber.com/bitcoin-tepetaklak-oldu--213202",
-   "image": "https://www.donanimhaber.com/images/images/haber/213202/1200x675bitcoin-tepetaklak-oldu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-20T20:59:00+00:00",
-   "url": "/haber/bitcoin-fiyati-58-bin-dolara-dustu-olum-kesisimi-gerceklesti-c6b0a192/"
   },
   {
    "id": "635b08f2",
@@ -1201,17 +1223,6 @@
    "url": "/haber/vivo-x500-pro-max-profesyonel-fotografcilarla-turkiye-de-tanitildi-685967a6/"
   },
   {
-   "id": "df379586",
-   "title": "Samsung'da 7 Yıllık Devir Kapandı: Galaxy'lerin Yeni Patronu Bakın Kim Oldu!",
-   "summary": "Samsung’un mobil bölümünde yedi yıldır süren TM Roh dönemi sona erdi. Görevi, Galaxy S26 ve Galaxy Z Fold 8’in geliştirilmesinde belirleyici rol oynayan Won-Joon Choi devraldı. Donanım geçmişiyle öne çıkan Choi’nin…",
-   "link": "https://www.webtekno.com/samsung-galaxy-yeni-patronu-belli-oldu-h229252.html",
-   "image": "https://imgrosetta.webtekno.com/file/697987/697987-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-20T07:05:27+00:00",
-   "url": "/haber/samsung-da-7-yillik-devir-kapandi-galaxy-lerin-yeni-patronu-bakin-kim-df379586/"
-  },
-  {
    "id": "6fc61a82",
    "title": "Gazze'de 9 aylık bebek hipotermi nedeniyle hayatını kaybetti",
    "summary": "Han Yunus'ta derme çatma bir çadırda ailesiyle yaşayan 9 aylık bebek hipotermi nedeniyle hayatını kaybetti. Birleşmiş Milletler yetkilileri, yeterli barınak ve kışlık malzeme sağlanamaması halinde yeni ölümlerin…",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-11-19T23:52:00+00:00",
    "url": "/haber/kotu-adami-oynamak-cok-daha-eglenceli-gta-nin-ortaya-cikis-hikayesi-18cab49e/"
-  },
-  {
-   "id": "83a3b1f2",
-   "title": "Türkiyenin ilk insansız savaş uçağı KIZILELMA envantere girdi",
-   "summary": "Türkiye’nin ilk insansız savaş uçağı KIZILELMA güvenlik güçlerinin envanterine girdi. Kabul testlerini başarıyla tamamlayan ilk 3 KIZILELMA güvenlik güçlerine teslim edildi. Türkiye, dünya havacılık tarihinde insansız…",
-   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ilk-insansiz-savas-ucagi-kizilelma-envantere-girdi-963857.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/kizilelma-envantere-girdi-2504927.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-19T15:49:00+00:00",
-   "url": "/haber/turkiyenin-ilk-insansiz-savas-ucagi-kizilelma-envantere-girdi-83a3b1f2/"
   }
  ]
 }
