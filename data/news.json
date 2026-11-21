@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T16:01:00.659256+00:00",
+ "updated": "2026-11-21T16:30:50.250007+00:00",
  "items": [
+  {
+   "id": "9001378e",
+   "title": "İstanbul'un bazı ilçelerinde dolu ve sağanak etkili. Yollar beyaza büründü",
+   "summary": "İstanbul'un Silivri ve Çatalca ilçelerinde etkili olan dolu yağışı yolları ve kaldırımları beyaza bürüdü, Büyükçekmece'de sağanak nedeniyle caddeler suyla doldu.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulun-bazi-ilcelerinde-dolu-ve-saganak-etkili-yollar-beyaza-burundu-1751952",
+   "image": "https://images.ntv.com.tr/images/AA-20261121-43146136-43146132-ISTANBULUN_BAZI_ILCELERINDE_DOLU_VE_SAGANAK_ETKILI_OLDU-662439.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T16:22:13+00:00",
+   "url": "/haber/istanbul-un-bazi-ilcelerinde-dolu-ve-saganak-etkili-yollar-beyaza-buru-9001378e/"
+  },
+  {
+   "id": "4d5df19b",
+   "title": "Temel kazısında toprak kayması. Toprak altından çıkarılan işçi hastanede hayatını kaybetti",
+   "summary": "İstanbul Güngören'de temel kazısı sırasında toprak kayması meydana geldi. Toprak altından yaralı olarak kurtarılan işçi hastanede hayatını kaybetti.",
+   "link": "https://www.ntv.com.tr/turkiye/temel-kazisinda-toprak-kaymasi-toprak-altindan-cikarilan-isci-hastanede-hayatini-kaybetti-1751946",
+   "image": "https://images.ntv.com.tr/images/GUNGORENDE-TEMEL-KAZISI-SIRASINDA-GOCUK_1620261_481694-830288.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T16:20:21+00:00",
+   "url": "/haber/temel-kazisinda-toprak-kaymasi-toprak-altindan-cikarilan-isci-hastaned-4d5df19b/"
+  },
+  {
+   "id": "2199e2df",
+   "title": "Trump, İran'ın nükleer silah edinmesini engelleyecek kalıcı bir anlaşma yapacağını söyledi",
+   "summary": "ABD Başkanı Donald Trump, İran'ın gelecekte de nükleer silah edinmesini engelleyecek kalıcı bir anlaşma yapmayı hedeflediğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-iranin-nukleer-silah-edinmesini-engelleyecek-kalici-bir-anlasma-yapacagini-soyledi/4133094",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T16:17:19+00:00",
+   "url": "/haber/trump-iran-in-nukleer-silah-edinmesini-engelleyecek-kalici-bir-anlasma-2199e2df/"
+  },
   {
    "id": "6b2c4933",
    "title": "USB4 ile birden fazla PC tek modeli çalıştıracak",
@@ -22,6 +55,17 @@
    "category": "teknoloji",
    "date": "2026-11-21T16:00:00+00:00",
    "url": "/haber/xiaomi-18-max-in-beklenen-ozellikleri-ortaya-cikti-52c052b2/"
+  },
+  {
+   "id": "a162db64",
+   "title": "İstanbul'un bazı ilçelerinde dolu ve sağanak etkili oldu",
+   "summary": "İstanbul'un Silivri ve Çatalca ilçelerinde etkili olan dolu yağışı yolları ve kaldırımları beyaza bürüdü, Büyükçekmece'de sağanak nedeniyle caddeler suyla doldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulun-bazi-ilcelerinde-dolu-ve-saganak-etkili-oldu/4133081",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T15:54:20+00:00",
+   "url": "/haber/istanbul-un-bazi-ilcelerinde-dolu-ve-saganak-etkili-oldu-a162db64/"
   },
   {
    "id": "fe1ad229",
@@ -68,17 +112,6 @@
    "url": "/haber/bir-yildizin-esini-yuttugu-an-ilk-kez-gozlemlendi-4f35c413/"
   },
   {
-   "id": "da96104c",
-   "title": "Temel kazısında toprak kayması. Toprak altında kalana işçi kurtarıldı",
-   "summary": "İstanbul Güngören'de temel kazısı sırasında toprak kayması meydana geldi. Toprak altında kalan bir işçi ağır yaralı olarak kurtarıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/temel-kazisinda-toprak-kaymasi-toprak-altinda-kalana-isci-kurtarildi-1751946",
-   "image": "https://images.ntv.com.tr/images/GUNGORENDE-TEMEL-KAZISI-SIRASINDA-GOCUK_1620261_481694-830288.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-21T15:16:38+00:00",
-   "url": "/haber/temel-kazisinda-toprak-kaymasi-toprak-altinda-kalana-isci-kurtarildi-da96104c/"
-  },
-  {
    "id": "b9854244",
    "title": "Elektrikli Mercedes C400 incelemesi: 489 HP",
    "summary": "Tamamen elektrikli yeni Mercedes C400 4MATIC AMG'yi test ettik. 489 beygir, 94 kWh batarya, 700 kilometreyi aşan WLTP menzili ve 330 kW hızlı şarjın gerçek kullanımdaki karşılığını anlattık.",
@@ -110,6 +143,17 @@
    "category": "teknoloji",
    "date": "2026-11-21T15:00:00+00:00",
    "url": "/haber/iphone-18-ve-air-2-icin-beklenen-uretim-hazirligi-basladi-fb28d61e/"
+  },
+  {
+   "id": "cf2cab6b",
+   "title": "MİT Başkanı Kalın, Hamas Siyasi Büro Başkanı Hayye ile görüştü",
+   "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul’da Hamas Siyasi Büro Başkanı Halil el-Hayye başkanlığındaki üst düzey heyetle bir araya geldi.",
+   "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalin-hamas-siyasi-buro-baskani-hayye-ile-gorustu-964079.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/ibrahim-kalin-aa-2500012.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-21T14:49:00+00:00",
+   "url": "/haber/mit-baskani-kalin-hamas-siyasi-buro-baskani-hayye-ile-gorustu-cf2cab6b/"
   },
   {
    "id": "ddffe10c",
@@ -321,17 +365,6 @@
    "url": "/haber/robot-supurgede-emis-gucu-nasil-degerlendirilir-pa-degerinin-otesinde-606f0117/"
   },
   {
-   "id": "2590bc7e",
-   "title": "İngiltere: AB ile anlaşmaların yürürlüğe girmesi eğitim ücretleri düzenlemesine bağlı değil",
-   "summary": "İngiltere Dışişleri Bakanı Ed Miliband, Avrupa Birliği'nden (AB) gelen üniversite öğrencilerinin İngiliz öğrencilerle aynı ücreti ödemesine yönelik düzenleme 6 ayda yetişmese de AB ile dün yapılan anlaşmaların yürürlüğe…",
-   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-ab-ile-anlasmalarin-yururluge-girmesi-egitim-ucretleri-duzenlemesine-bagli-degil/4132971",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T13:05:18+00:00",
-   "url": "/haber/ingiltere-ab-ile-anlasmalarin-yururluge-girmesi-egitim-ucretleri-duzen-2590bc7e/"
-  },
-  {
    "id": "ecc015a6",
    "title": "Android telefonlar Windows'a ikinci ekran oluyor",
    "summary": "Microsoft, Link to Windows uygulamasına Extend display özelliğini hazırlıyor. Android telefon ve tabletler, ek uygulama kurmadan Windows 11 bilgisayarlara ikinci ekran olabilecek.",
@@ -418,17 +451,6 @@
    "category": "gundem",
    "date": "2026-11-21T12:27:11+00:00",
    "url": "/haber/ingiltere-disisleri-bakani-ab-anlasmasi-ogrenim-ucretlerinde-uzlasma-o-0364da63/"
-  },
-  {
-   "id": "1904d306",
-   "title": "İstanbul'da 7. Uluslararası Kadın ve Adalet Zirvesi başladı",
-   "summary": "Kadın ve Demokrasi Vakfı (KADEM) tarafından Aile ve Sosyal Hizmetler Bakanlığı işbirliğiyle düzenlenen 7. Uluslararası Kadın ve Adalet Zirvesi, \"Kurgulanmış Güzellikler\" temasıyla başladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-7-uluslararasi-kadin-ve-adalet-zirvesi-basladi/4132943",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T12:26:45+00:00",
-   "url": "/haber/istanbul-da-7-uluslararasi-kadin-ve-adalet-zirvesi-basladi-1904d306/"
   },
   {
    "id": "acfe57a5",
@@ -926,17 +948,6 @@
    "url": "/haber/cevre-icin-takipte-derinlerde-cumartesi-22-15-te-ntv-de-basliyor-40c18dd3/"
   },
   {
-   "id": "6658c126",
-   "title": "İstanbul'da kış başlıyor: Bahar havası gidiyor, sıcaklık 10 derece düşecek",
-   "summary": "Hava sıcaklıklarının bahar değerlerinde seyrettiği İstanbul kışa geçiş yapıyor. Hafta sonu aralıklı sağanak geçişlerinin yaşanacağı megakent, yeni haftada 10 derece birden soğuyacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-kis-basliyor-bahar-havasi-gidiyor-sicaklik-10-derece-dusecek-1751839",
-   "image": "https://images.ntv.com.tr/images/istanbul-soguk-geliyor-433486.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-21T06:53:46+00:00",
-   "url": "/haber/istanbul-da-kis-basliyor-bahar-havasi-gidiyor-sicaklik-10-derece-dusec-6658c126/"
-  },
-  {
    "id": "426fc965",
    "title": "Vizesiz Avrupa için yeni adım: Eksik altı kriter Meclis'e geliyor",
    "summary": "Vizesiz Avrupa için yeni bir aşamaya geçiliyor. Dışişleri Bakanı Hakan Fidan, Türk vatandaşlarına vize muafiyeti için tamamlanması gereken altı AB kriteriyle ilgili Meclis'te adım atılacağını söyledi.",
@@ -1221,17 +1232,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T07:34:56+00:00",
    "url": "/haber/vivo-x500-pro-max-profesyonel-fotografcilarla-turkiye-de-tanitildi-685967a6/"
-  },
-  {
-   "id": "6fc61a82",
-   "title": "Gazze'de 9 aylık bebek hipotermi nedeniyle hayatını kaybetti",
-   "summary": "Han Yunus'ta derme çatma bir çadırda ailesiyle yaşayan 9 aylık bebek hipotermi nedeniyle hayatını kaybetti. Birleşmiş Milletler yetkilileri, yeterli barınak ve kışlık malzeme sağlanamaması halinde yeni ölümlerin…",
-   "link": "https://www.trthaber.com/haber/dunya/gazzede-9-aylik-bebek-hipotermi-nedeniyle-hayatini-kaybetti-963910.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2316000/gazze-bebek-aa-2316298.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-20T04:27:00+00:00",
-   "url": "/haber/gazze-de-9-aylik-bebek-hipotermi-nedeniyle-hayatini-kaybetti-6fc61a82/"
   },
   {
    "id": "a757aab7",
