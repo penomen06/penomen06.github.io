@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T18:01:03.427040+00:00",
+ "updated": "2026-11-21T18:30:55.783322+00:00",
  "items": [
+  {
+   "id": "ee8a61fa",
+   "title": "Kırmızı bültenle aranan suç örgütü üyesi İstanbul'da yakalandı",
+   "summary": "İstanbul'da düzenlenen operasyonda, Interpol tarafından kırmızı bültenle aranan uluslararası suç örgütü üyesi M.O. ile 2 şüpheli yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/kirmizi-bultenle-aranan-suc-orgutu-uyesi-istanbulda-yakalandi-1751955",
+   "image": "https://images.ntv.com.tr/images/AA-20261121-43146560-43146557-KIRMIZI_BULTENLE_ARANAN_ULUSLARARASI_SUC_ORGUTU_UYESI_ISTANBULDA_YAKALANDI-415558.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T18:14:54+00:00",
+   "url": "/haber/kirmizi-bultenle-aranan-suc-orgutu-uyesi-istanbul-da-yakalandi-ee8a61fa/"
+  },
+  {
+   "id": "9001378e",
+   "title": "İstanbul'un bazı ilçelerinde dolu ve sağanak etkili. Yollar beyaza büründü",
+   "summary": "İstanbul'un Silivri ve Çatalca ilçelerinde etkili olan dolu yağışı yolları ve kaldırımları beyaza bürüdü, Büyükçekmece'de sağanak nedeniyle caddeler suyla doldu.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulun-bazi-ilcelerinde-dolu-ve-saganak-etkili-yollar-beyaza-burundu-1751952",
+   "image": "https://images.ntv.com.tr/images/AA-20261121-43146136-43146132-ISTANBULUN_BAZI_ILCELERINDE_DOLU_VE_SAGANAK_ETKILI_OLDU-662439.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-21T18:08:03+00:00",
+   "url": "/haber/istanbul-un-bazi-ilcelerinde-dolu-ve-saganak-etkili-yollar-beyaza-buru-9001378e/"
+  },
   {
    "id": "62f40d17",
    "title": "RTX 50 serisi oyun laptopu hangisi?",
@@ -11,6 +33,28 @@
    "category": "teknoloji",
    "date": "2026-11-21T18:00:08+00:00",
    "url": "/haber/rtx-50-serisi-oyun-laptopu-hangisi-62f40d17/"
+  },
+  {
+   "id": "2b4f38f8",
+   "title": "OpenAI, ilk akıllı telefonunun üretimi için Apple'ın tedarikçisiyle anlaştı",
+   "summary": "OpenAI'ın kendi işlemcisine sahip ilk akıllı telefonu için üretim hazırlıkları hızlanıyor. Çin'den gelen raporlara göre Apple'ın iPhone modellerini de üreten Foxconn, cihazın montajını üstlenecek.",
+   "link": "https://www.donanimhaber.com/openai-akilli-telefon-uretimi-icin-apple-tedarikcisiyle-anlasti--213198",
+   "image": "https://www.donanimhaber.com/images/images/haber/213198/1200x675openai-akilli-telefon-uretimi-icin-apple-tedarikcisiyle-anlasti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-21T18:00:00+00:00",
+   "url": "/haber/openai-ilk-akilli-telefonunun-uretimi-icin-apple-in-tedarikcisiyle-anl-2b4f38f8/"
+  },
+  {
+   "id": "4fc5aa42",
+   "title": "Kırmızı bültenle aranan uluslararası suç örgütü üyesi İstanbul'da yakalandı",
+   "summary": "İstanbul'da düzenlenen operasyonda, Danimarka başta olmak üzere birçok Avrupa ülkesinde suç faaliyetlerine karıştığı belirlenen ve Interpol tarafından kırmızı bültenle aranan uluslararası suç örgütü üyesi M.O. ile 2…",
+   "link": "https://www.aa.com.tr/tr/gundem/kirmizi-bultenle-aranan-uluslararasi-suc-orgutu-uyesi-istanbulda-yakalandi/4133154",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T17:59:55+00:00",
+   "url": "/haber/kirmizi-bultenle-aranan-uluslararasi-suc-orgutu-uyesi-istanbul-da-yaka-4fc5aa42/"
   },
   {
    "id": "14cb4b41",
@@ -77,17 +121,6 @@
    "category": "gundem",
    "date": "2026-11-21T17:09:53+00:00",
    "url": "/haber/gta-6-nin-muzik-dunyasinda-unlu-isimler-bir-araya-geldi-82f38a9d/"
-  },
-  {
-   "id": "9001378e",
-   "title": "İstanbul'un bazı ilçelerinde dolu ve sağanak etkili. Yollar beyaza büründü",
-   "summary": "İstanbul'un Silivri ve Çatalca ilçelerinde etkili olan dolu yağışı yolları ve kaldırımları beyaza bürüdü, Büyükçekmece'de sağanak nedeniyle caddeler suyla doldu.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbulun-bazi-ilcelerinde-dolu-ve-saganak-etkili-yollar-beyaza-burundu-1751952",
-   "image": "https://images.ntv.com.tr/images/AA-20261121-43146136-43146132-ISTANBULUN_BAZI_ILCELERINDE_DOLU_VE_SAGANAK_ETKILI_OLDU-662439.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-21T17:05:49+00:00",
-   "url": "/haber/istanbul-un-bazi-ilcelerinde-dolu-ve-saganak-etkili-yollar-beyaza-buru-9001378e/"
   },
   {
    "id": "e5bb7c8e",
@@ -167,6 +200,17 @@
    "url": "/haber/trump-iran-in-nukleer-silah-edinmesini-engelleyecek-kalici-bir-anlasma-2199e2df/"
   },
   {
+   "id": "bf30d998",
+   "title": "MotoGP Portekiz Grand Prix'sinde sprint yarışını Marco Bezzecchi kazandı",
+   "summary": "MotoGP Dünya Şampiyonası'nda sezonun 21. etabı olan Portekiz Grand Prix'sinin sprint yarışını Aprilia takımından İtalyan Marco Bezzecchi kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/motogp-portekiz-grand-prixsinde-sprint-yarisini-marco-bezzecchi-kazandi/4133093",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T16:14:06+00:00",
+   "url": "/haber/motogp-portekiz-grand-prix-sinde-sprint-yarisini-marco-bezzecchi-kazan-bf30d998/"
+  },
+  {
    "id": "6b2c4933",
    "title": "USB4 ile birden fazla PC tek modeli çalıştıracak",
    "summary": "Microsoft, USB4 kablosuyla bağlanan birden fazla Windows bilgisayarın tek bir yapay zeka modelini birlikte çalıştırmasını sağlayan RDMA over USB4 teknolojisini duyurdu.",
@@ -191,7 +235,7 @@
   {
    "id": "a162db64",
    "title": "İstanbul'un bazı ilçelerinde dolu ve sağanak etkili oldu",
-   "summary": "İstanbul'un Silivri ve Çatalca ilçelerinde etkili olan dolu yağışı yolları ve kaldırımları beyaza bürüdü, Büyükçekmece'de sağanak nedeniyle caddeler suyla doldu.",
+   "summary": "İstanbul'un bazı ilçelerinde etkili olan sağanak ve dolu nedeniyle yollar ve kaldırımlar beyaza bürünürken, bazı bölgelerde su birikintileri oluştu.",
    "link": "https://www.aa.com.tr/tr/gundem/istanbulun-bazi-ilcelerinde-dolu-ve-saganak-etkili-oldu/4133081",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -354,17 +398,6 @@
    "url": "/haber/en-iyi-ekran-koruyucu-markalari-2026-59f05186/"
   },
   {
-   "id": "222dd509",
-   "title": "İsrail askerleri ve Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da 3 belediye görevlisini darbetti",
-   "summary": "İsrail askerleri ve Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria'nın El Halil kentinde 3 Filistinli belediye görevlisini darbetti.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-ve-filistin-topraklarini-gasbeden-israilliler-bati-seriada-3-belediye-gorevlisini-darbetti/4133015",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T14:04:57+00:00",
-   "url": "/haber/israil-askerleri-ve-filistin-topraklarini-gasbeden-israilliler-bati-se-222dd509/"
-  },
-  {
    "id": "b2ef1136",
    "title": "Çaykur Rizespor, Amed Sportif Faaliyetler'i 2-0 yendi",
    "summary": "Trendyol Süper Lig'in 12. haftasında Çaykur Rizespor, deplasmanda Amed Sportif Faaliyetler'i 2-0 yendi.",
@@ -462,17 +495,6 @@
    "category": "teknoloji",
    "date": "2026-11-21T13:00:00+00:00",
    "url": "/haber/gta-6-da-birinci-sahis-modu-kesfedildi-peki-fps-modu-nasil-acilir-4664aea3/"
-  },
-  {
-   "id": "a039c046",
-   "title": "FBI'ın \"en çok arananlar\" listesindeki Meksikalı kartel elebaşı yakalandı",
-   "summary": "Meksika ordusu, ABD Federal Soruşturma Bürosunun (FBI) \"En çok aranan 10 kişi\" listesinde bulunan uyuşturucu karteli elebaşını ABD'nin yardımıyla yakaladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/fbiin-en-cok-arananlar-listesindeki-meksikali-kartel-elebasi-yakalandi-/4132947",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T12:33:30+00:00",
-   "url": "/haber/fbi-in-en-cok-arananlar-listesindeki-meksikali-kartel-elebasi-yakaland-a039c046/"
   },
   {
    "id": "d41ccea3",
@@ -761,17 +783,6 @@
    "url": "/haber/tesla-fsd-v15-aralikta-geliyor-musk-tarih-verdi-2c90333a/"
   },
   {
-   "id": "532f8652",
-   "title": "Android telefonlar Windows 11'de ikinci ekran olarak kullanılabilecek",
-   "summary": "Microsoft, Android telefon ve tabletlerin Windows 11 bilgisayarlar için ikinci ekran olarak kullanılmasını sağlayacak yeni bir özellik geliştiriyor.",
-   "link": "https://www.donanimhaber.com/android-telefonlar-windows-11-de-ikinci-ekran-olabilecek--213204",
-   "image": "https://www.donanimhaber.com/images/images/haber/213204/1200x675android-telefonlar-windows-11-de-ikinci-ekran-olabilecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-21T10:00:00+00:00",
-   "url": "/haber/android-telefonlar-windows-11-de-ikinci-ekran-olarak-kullanilabilecek-532f8652/"
-  },
-  {
    "id": "86e2d4c9",
    "title": "Can Atalay'dan AİHM kararı sonrası tahliye çağrısı",
    "summary": "Milletvekilliği düşürülmüş tutuklu avukat Can Atalay, Avrupa İnsan Hakları Mahkemesi'nin (AİHM) hakkındaki kararının ardından derhal tahliye edilmesini ve seçildiği Hatay milletvekili olarak Meclis çalışmalarına…",
@@ -946,17 +957,6 @@
    "category": "gundem",
    "date": "2026-11-21T07:00:00+00:00",
    "url": "/haber/imam-hatiplerin-kurucusu-celal-hoca-674ec435/"
-  },
-  {
-   "id": "40c18dd3",
-   "title": "Çevre İçin Takipte: Derinlerde, cumartesi 22.15'te NTV'de başlıyor",
-   "summary": "Taner Ölmez, geleceğe daha temiz bir doğa bırakmak için yollara çıktı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-cevre-icin-takipte-derinlerde-cumartesi-2215te-ntvde-basliyor-1751799",
-   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-11-20153333-243948.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-21T06:54:05+00:00",
-   "url": "/haber/cevre-icin-takipte-derinlerde-cumartesi-22-15-te-ntv-de-basliyor-40c18dd3/"
   },
   {
    "id": "f29adb07",
