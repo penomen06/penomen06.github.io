@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T00:01:09.048551+00:00",
+ "updated": "2026-11-22T00:30:52.299842+00:00",
  "items": [
   {
    "id": "7f175d6d",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-22T00:00:00+00:00",
+   "date": "2026-11-22T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-7f175d6d/"
   },
   {
@@ -66,6 +66,28 @@
    "category": "gundem",
    "date": "2026-11-21T21:43:03+00:00",
    "url": "/haber/sirnak-ta-silah-kazasi-sonucu-bir-asker-sehit-oldu-a0f8c5bf/"
+  },
+  {
+   "id": "53f47857",
+   "title": "Akademisyenler PKU hastalığının teşhisi için sardunya yaprakları kullanarak biyosensör geliştirdi",
+   "summary": "Doç. Dr. Merve Keskin liderliğindeki ekip, kalıcı zeka geriliği ve beyin hasarına yol açabilen bir çeşit kalıtsal hastalık olan fenilketonürinin (PKU) teşhisi için sardunya bitkisinin yapraklarından yararlanarak…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/akademisyenler-pku-hastaliginin-teshisi-icin-sardunya-yapraklari-kullanarak-biyosensor-gelistirdi/4133265",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T21:32:00+00:00",
+   "url": "/haber/akademisyenler-pku-hastaliginin-teshisi-icin-sardunya-yapraklari-kulla-53f47857/"
+  },
+  {
+   "id": "e9b20e08",
+   "title": "Milli bocceciler yeni şampiyonluklar için birlikte çalışıyor",
+   "summary": "Milli bocceciler Dilçin Oğuz ile Selamet Keşli, yeni şampiyonluklar için birlikte çalışıyor.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-bocceciler-yeni-sampiyonluklar-icin-birlikte-calisiyor/4133264",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T21:31:21+00:00",
+   "url": "/haber/milli-bocceciler-yeni-sampiyonluklar-icin-birlikte-calisiyor-e9b20e08/"
   },
   {
    "id": "7a57a435",
@@ -277,17 +299,6 @@
    "url": "/haber/iett-otobusunde-yolculari-bicakla-tehdit-etti-alkollu-yolcu-gozaltina-3cf31999/"
   },
   {
-   "id": "819cb441",
-   "title": "Bakan Memişoğlu: Türkiye'nin sağlık geleceği sizlerin ellerinde yükselecek",
-   "summary": "Sağlık Bakanı Memişoğlu, \"Hayal edin, araştırın, çalışın ve üretin. Biz sizin önünüzü açmaya, her zaman yanınızda olmaya devam edeceğiz. Türkiye'nin sağlık geleceği sizlerin ellerinde yükselecek.\" ifadelerini kullandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-turkiyenin-saglik-gelecegi-sizlerin-ellerinde-yukselecek/4133183",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T19:04:42+00:00",
-   "url": "/haber/bakan-memisoglu-turkiye-nin-saglik-gelecegi-sizlerin-ellerinde-yuksele-819cb441/"
-  },
-  {
    "id": "5c3439d8",
    "title": "Beykoz’da İETT otobüsünde bıçakla tehdit eden şüpheli gözaltına alındı",
    "summary": "Beykoz’da seyir halindeki İETT otobüsünde bıçakla tehditte bulunduğu belirtilen şüpheli, polis ekipleri tarafından yakalanarak gözaltına alındı. Şüphelinin 2,41 promil alkollü olduğu belirlendi.",
@@ -407,17 +418,6 @@
    "category": "teknoloji",
    "date": "2026-11-21T16:57:09+00:00",
    "url": "/haber/ram-dostu-lokal-yapay-zeka-inkling-2-mini-c3e7616f/"
-  },
-  {
-   "id": "d7d61e92",
-   "title": "AK Parti Genel Sekreteri İnan, partisinin Karşıyaka Genişletilmiş İlçe Danışma Meclisi Toplantısı'nda konuştu",
-   "summary": "AK Parti Genel Sekreteri İnan, \"Özgür Özel ve yakın ekibi, milletin alın teriyle ve belediye kaynaklarıyla anılan bu ağır rüşvet ve usulsüzlük iddialarına karşısında hesap vermek yerine korkakça dokunulmazlık zırhının…",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-sekreteri-inan-partisinin-karsiyaka-genisletilmis-ilce-danisma-meclisi-toplantisinda-konustu/4133105",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-21T16:40:07+00:00",
-   "url": "/haber/ak-parti-genel-sekreteri-inan-partisinin-karsiyaka-genisletilmis-ilce-d7d61e92/"
   },
   {
    "id": "abab77d9",
