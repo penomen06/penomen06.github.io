@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:30:53.383425+00:00",
+ "updated": "2026-11-22T22:01:04.190047+00:00",
  "items": [
   {
    "id": "019f9cba",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-22T21:30:00+00:00",
+   "date": "2026-11-22T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-019f9cba/"
+  },
+  {
+   "id": "f24f24dc",
+   "title": "Bakan Kurum'dan, \"COP31\" paylaşımı",
+   "summary": "Bakan Kurum, \"Her müzakere aynı noktada sonuçlanmayabilir. Her beklenti karşılık bulmayabilir. Ancak ortak evimiz dünya için konuşmaktan, dinlemekten ve çözüm aramaktan vazgeçmeyeceğiz.\" ifadelerini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-cop31-paylasimi/4133878",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T21:46:59+00:00",
+   "url": "/haber/bakan-kurum-dan-cop31-paylasimi-f24f24dc/"
   },
   {
    "id": "2105880c",
@@ -20,8 +31,30 @@
    "image": "https://images.ntv.com.tr/images/SARIYERDE-ASLAN-GORDUM-IHBARI-YAPILDI_1621675_482115-388770(2).jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-22T21:15:20+00:00",
+   "date": "2026-11-22T21:41:43+00:00",
    "url": "/haber/sariyer-de-aslan-gordum-ihbari-ekipler-calisma-baslatti-2105880c/"
+  },
+  {
+   "id": "73b515c2",
+   "title": "Galatasaray Teknik Direktörü Okan Buruk'tan kırmızı kart açıklaması",
+   "summary": "Galatasaray Teknik Direktörü Okan Buruk, sarı-kırmızılı takımın Samsunspor ile Süper Lig'de yaptığı maçı yöneten hakem Ali Şansalan'a \"saygısızlık\" yapmadığını savundu.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-teknik-direktoru-okan-buruktan-kirmizi-kart-aciklamasi/4133876",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T21:40:14+00:00",
+   "url": "/haber/galatasaray-teknik-direktoru-okan-buruk-tan-kirmizi-kart-aciklamasi-73b515c2/"
+  },
+  {
+   "id": "13a4107f",
+   "title": "Gazze Sağlık Bakanlığı: Gazze'de 2025'te ölenlerin sayısı 2022'dekilerin 4 katından bile fazla",
+   "summary": "Gazze'deki Sağlık Bakanlığı Genel Müdürü Münir el-Burş, Gazze'de 2025'te İsrail saldırıları ve hastalık gibi sebeplerden ölümlerin 2022 yılındaki sayının 4 katından fazla olduğunu açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazze-saglik-bakanligi-gazzede-2025te-olenlerin-sayisi-2022dekilerin-4-katindan-bile-fazla-/4133875",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T21:35:56+00:00",
+   "url": "/haber/gazze-saglik-bakanligi-gazze-de-2025-te-olenlerin-sayisi-2022-dekileri-13a4107f/"
   },
   {
    "id": "50b66c20",
@@ -90,15 +123,15 @@
    "url": "/haber/genc-milli-judocular-dunya-sampiyonasi-ni-2-si-altin-3-madalyayla-tama-9cf8810f/"
   },
   {
-   "id": "592c8ce9",
-   "title": "Van'ın 2 ilçesinde kar yağışı nedeniyle eğitime yarın ara verildi",
-   "summary": "Van'ın Çaldıran ve Muradiye ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/vanin-2-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi/4133858",
+   "id": "3bedec46",
+   "title": "Van'ın 4 ilçesinde kar yağışı nedeniyle eğitime yarın ara verildi",
+   "summary": "Van'ın Çaldıran, Muradiye, Özalp ve Saray ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/vanin-4-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi/4133858",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-22T20:39:42+00:00",
-   "url": "/haber/van-in-2-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi-592c8ce9/"
+   "url": "/haber/van-in-4-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi-3bedec46/"
   },
   {
    "id": "67d6b5df",
@@ -135,14 +168,14 @@
   },
   {
    "id": "7bbccf14",
-   "title": "Sarıyerde aslan alarmı: Yakalama çalışması başladı",
+   "title": "Sarıyer'de aslan alarmı: Yakalama çalışması başladı",
    "summary": "İstanbul Sarıyer'de bir kişinin aslan gördüğünü ihbar etmesi üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde aslan tespit edilirken, bölgede yaşayanlar Jandarma ekipleri tarafından uyarıldı.",
    "link": "https://www.trthaber.com/haber/turkiye/sariyerde-aslan-alarmi-yakalama-calismasi-basladi-964155.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/aslan-dha-2505321.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-22T20:11:00+00:00",
-   "url": "/haber/sariyerde-aslan-alarmi-yakalama-calismasi-basladi-7bbccf14/"
+   "url": "/haber/sariyer-de-aslan-alarmi-yakalama-calismasi-basladi-7bbccf14/"
   },
   {
    "id": "f90d1dc8",
@@ -233,17 +266,6 @@
    "url": "/haber/trump-iran-a-yonelik-saldirilarin-yeni-yildan-sonra-yeniden-baslayabil-5186455d/"
   },
   {
-   "id": "c5a63f35",
-   "title": "Bakan Çiftçi: Gazze'ye 111 bin 904 ton insani yardım malzemesi ulaştırdık",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, 7 Ekim 2023'ten bugüne kadar toplam 111 bin 904 ton insani yardım malzemesinin Gazze'ye ulaştırıldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-gazzeye-111-bin-904-ton-insani-yardim-malzemesi-ulastirdik/4133802",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T18:40:39+00:00",
-   "url": "/haber/bakan-ciftci-gazze-ye-111-bin-904-ton-insani-yardim-malzemesi-ulastird-c5a63f35/"
-  },
-  {
    "id": "47ed3d01",
    "title": "Bakan Gürlek: HGS'yle ilgili soruşturma başlatıldı",
    "summary": "Adalet Bakanı Akın Gürlek, Hızlı Geçiş Sistemi (HGS) üzerinden haksız kazanç elde edildiği yönündeki iddialar ve şikayetler üzerine soruşturma başlatıldığını açıkladı.",
@@ -286,28 +308,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T18:30:09+00:00",
    "url": "/haber/windows-11-de-bluetooth-kulaklik-sesi-duzeliyor-4adec1d0/"
-  },
-  {
-   "id": "1dee570d",
-   "title": "Cumhurbaşkanlığı İletişim Başkanı Duran, \"Prof. Dr. Medaim Yanık Sempozyumu\"nda konuştu",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanı Duran, \"Prof. Dr. Yanık, 15 Temmuz gecesi Atatürk Havalimanı'na giderek Cumhurbaşkanımızı karşılayan insanların arasındaydı. Bunu hatırlatmayı, doğrusu özel bir an olarak bir görev…",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-iletisim-baskani-duran-prof-dr-medaim-yanik-sempozyumunda-konustu/4133790",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T18:17:33+00:00",
-   "url": "/haber/cumhurbaskanligi-iletisim-baskani-duran-prof-dr-medaim-yanik-sempozyum-1dee570d/"
-  },
-  {
-   "id": "e06c1b46",
-   "title": "Libya medyası: Bingazi açıklarında bir insansız deniz aracı ticari gemiyi hedef aldı",
-   "summary": "Libya medyası, Bingazi açıklarında insansız bir deniz aracının (İDA) ticari bir gemiyi hedef aldığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/libya-medyasi-bingazi-aciklarinda-bir-insansiz-deniz-araci-ticari-gemiyi-hedef-aldi-/4133787",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T18:15:23+00:00",
-   "url": "/haber/libya-medyasi-bingazi-aciklarinda-bir-insansiz-deniz-araci-ticari-gemi-e06c1b46/"
   },
   {
    "id": "c5a8dee3",
