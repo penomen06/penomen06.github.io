@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-22T12:30:53.339567+00:00",
+ "updated": "2026-11-22T13:01:04.252582+00:00",
  "items": [
+  {
+   "id": "fbf52dd6",
+   "title": "Yapay zeka sıfırdan işlemci tasarladı",
+   "summary": "Architect Labs, komut setinden devre yerleşimine kadar tamamen yapay zekanın tasarladığı Frostbite işlemcisini tanıttı. Şirket watt başına 4,59 kat performans iddia ediyor, ancak rakamlar henüz silikon öncesi.",
+   "link": "https://shiftdelete.net/architect-labs-frostbite-yapay-zeka-islemci",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/architect-labs-frostbite-islemci-kapak-2211.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-22T13:00:10+00:00",
+   "url": "/haber/yapay-zeka-sifirdan-islemci-tasarladi-fbf52dd6/"
+  },
+  {
+   "id": "e410cbf8",
+   "title": "iPhone'lardaki Dynamic Island özelliği Samsung telefonlara geliyor",
+   "summary": "Galaxy S27 serisiyle birlikte Samsung telefonların bildirim deneyimi değişebilir. Yenilenen Now Bar, merkezi konumu ve yatay kaydırma hareketleriyle Dynamic Island'a oldukça çok benzeyecek.",
+   "link": "https://www.donanimhaber.com/iphone-lardaki-dynamic-island-samsung-telefonlara-geliyor--213218",
+   "image": "https://www.donanimhaber.com/images/images/haber/213218/1200x675iphone-lardaki-dynamic-island-samsung-telefonlara-geliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-22T13:00:00+00:00",
+   "url": "/haber/iphone-lardaki-dynamic-island-ozelligi-samsung-telefonlara-geliyor-e410cbf8/"
+  },
+  {
+   "id": "871b1088",
+   "title": "Mustafa Sarıgül'ün fezlekesinden ayrıntılar. 4 mağdurun beyanları ve milyon euroluk kayıtlar",
+   "summary": "Mustafa Sarıgül hakkında hazırlanan fezlekede dört mağdura yönelik cinsel saldırı ve istismar eylemlerinin yanı sıra haksız menfaatleri aklamak amacıyla suç örgütü kurup yönettiği tespitleri yer aldı.",
+   "link": "https://www.ntv.com.tr/turkiye/mustafa-sarigulun-fezlekesinden-ayrintilar-4-magdurun-beyanlari-ve-milyon-euroluk-kayitlar-1752067",
+   "image": "https://images.ntv.com.tr/images/mustafa-sarıgül-174124.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T12:46:17+00:00",
+   "url": "/haber/mustafa-sarigul-un-fezlekesinden-ayrintilar-4-magdurun-beyanlari-ve-mi-871b1088/"
+  },
+  {
+   "id": "6d789e5c",
+   "title": "Bakan Kurum: Geldiğimiz noktada tarihi bir fırsatın eşiğindeyiz",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum; son ana kadar uzlaşının imkanlarını aradıklarını ve gelinen noktada tarihi bir fırsatın eşiğinde olunduğunu söyledi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-kurum-geldigimiz-noktada-tarihi-bir-firsatin-esigindeyiz-1752070",
+   "image": "https://images.ntv.com.tr/images/AA-20261122-43150361-43150356-COP31_CLOSING_PLENARY_SESSION-251656.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T12:44:39+00:00",
+   "url": "/haber/bakan-kurum-geldigimiz-noktada-tarihi-bir-firsatin-esigindeyiz-6d789e5c/"
+  },
   {
    "id": "246f2a6f",
    "title": "Samsung 2027'de yeni Galaxy Watch çıkarmayacak",
@@ -121,6 +165,17 @@
    "category": "gundem",
    "date": "2026-11-22T11:59:36+00:00",
    "url": "/haber/kktc-basbakani-ustel-hedefimiz-kktc-yi-daha-ileriye-tasimak-f08e6c34/"
+  },
+  {
+   "id": "c3b66362",
+   "title": "Göztepe deplasmandan 3 puanla ayrıldı",
+   "summary": "Trendyol Süper Lig'in 12. haftasında Göztepe, deplasmanda Erzurumspor FK'yi 1-0 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/goztepe-deplasmandan-3-puanla-ayrildi/4133530",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T11:35:10+00:00",
+   "url": "/haber/goztepe-deplasmandan-3-puanla-ayrildi-c3b66362/"
   },
   {
    "id": "261c34af",
@@ -297,17 +352,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T10:30:00+00:00",
    "url": "/haber/gpd-win-mini-ultra-yuksek-fiyat-etiketiyle-geliyor-3189ead0/"
-  },
-  {
-   "id": "492b8295",
-   "title": "Yabancı Dil Bilgisi Seviye Tespit Sınavı yapıldı",
-   "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığınca Yabancı Dil Bilgisi Seviye Tespit Sınavı (2026-YDS/2) yapıldı. Sınavın sonuçları 10 Aralık'ta duyurulacak.",
-   "link": "https://www.aa.com.tr/tr/gundem/yabanci-dil-bilgisi-seviye-tespit-sinavi-yapildi/4133478",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T10:24:20+00:00",
-   "url": "/haber/yabanci-dil-bilgisi-seviye-tespit-sinavi-yapildi-492b8295/"
   },
   {
    "id": "4821ca7e",
@@ -761,17 +805,6 @@
    "url": "/haber/dragos-testi-yapay-zeka-istemleri-sizdiriliyor-ab1b5fef/"
   },
   {
-   "id": "c5c82e96",
-   "title": "Beykoz’da İETT otobüsünde bıçakla tehdit eden şüpheli alkollü çıktı",
-   "summary": "Beykoz'da seyir halindeki İETT otobüsünde bıçakla tehditte bulunduğu belirtilen şüpheli, polis ekipleri tarafından yakalanarak gözaltına alındı. Şüphelinin 2,41 promil alkollü olduğu belirlendi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-beykozda-iett-otobusunde-bicakla-tehdit-eden-supheli-alkollu-cikti-1751999",
-   "image": "https://images.ntv.com.tr/images/BEYKOZ’DA-IETT-OTOBUSUNDE-BICAKLA-TEHDIT_1620398_481725-186607(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T05:59:58+00:00",
-   "url": "/haber/beykoz-da-iett-otobusunde-bicakla-tehdit-eden-supheli-alkollu-cikti-c5c82e96/"
-  },
-  {
    "id": "08539085",
    "title": "Microsoft To Do 30 Haziran 2027'de kapanıyor",
    "summary": "Microsoft, To Do'yu tüm platformlarda kapatıyor. İş ve okul hesapları Planner'a geçerken Microsoft 365 Bireysel ve Aile aboneleri dahil kişisel hesaplar için yerine konacak bir uygulama yok.",
@@ -792,28 +825,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T05:00:07+00:00",
    "url": "/haber/nio-firefly-haven-avrupa-da-tanitildi-55860933/"
-  },
-  {
-   "id": "aad03980",
-   "title": "Senatör Coons, Starshield kesintisini soracak",
-   "summary": "Demokrat Senatör Chris Coons, Ukrayna'nın SpaceX Starshield erişimindeki kesinti ve yavaşlamaların Kongre'de ilk ele alınacak konulardan biri olacağını söyledi.",
-   "link": "https://shiftdelete.net/abd-senatosu-ukrayna-starshield-sorusturma",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/starlink-falcon-9-firlatma-starshield-kapak-2211.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-22T04:30:07+00:00",
-   "url": "/haber/senator-coons-starshield-kesintisini-soracak-aad03980/"
-  },
-  {
-   "id": "24b113c5",
-   "title": "Son dakika İzmir'de deprem mi oldu? Az önce deprem İzmir'de nerede oldu? İzmir deprem Kandilli ve AFAD son depremler listesi 22 Kasım 2026",
-   "summary": "Son dakika İzmir deprem haberleri.. İzmir'de deprem mi oldu? Az önce deprem İzmir'de nerede oldu? İzmir Kandilli ve AFAD son depremler.. 22 Kasım 2026 İzmir deprem son dakika haberleri haberin detayında... Artçı deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-izmirde-deprem-mi-oldu-az-once-deprem-izmirde-nerede-oldu-izmir-deprem-kandilli-ve-afad-son-depremler-listesi-22-kasim-2026-1751979",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T00:40:00+00:00",
-   "url": "/haber/son-dakika-izmir-de-deprem-mi-oldu-az-once-deprem-izmir-de-nerede-oldu-24b113c5/"
   },
   {
    "id": "e25bce2d",
@@ -847,17 +858,6 @@
    "category": "teknoloji",
    "date": "2026-11-21T19:39:18+00:00",
    "url": "/haber/abd-de-teknoloji-krizi-buyuyor-trump-siber-guvenlik-direktorunu-kovdu-744b3e66/"
-  },
-  {
-   "id": "a4dd1117",
-   "title": "GTA 6'dan rekor açılış: İlk gün hasılatı 3.79 milyar dolar!",
-   "summary": "Rockstar Games'in Grand Theft Auto 6 oyununun ön sipariş ve ilk gün satışları 3.79 milyar dolara ulaştı. Bu rakam, tahmini değil, oyun geliştiricisi tarafından resmî olarak açıklandı.",
-   "link": "https://www.donanimhaber.com/gta-6-dan-rekor-acilis-ilk-gun-hasilati-3-79-milyar-dolar--213220",
-   "image": "https://www.donanimhaber.com/images/images/haber/213220/1200x675gta-6-dan-rekor-acilis-ilk-gun-hasilati-3-79-milyar-dolar.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-21T19:00:00+00:00",
-   "url": "/haber/gta-6-dan-rekor-acilis-ilk-gun-hasilati-3-79-milyar-dolar-a4dd1117/"
   },
   {
    "id": "bf42ac5a",
