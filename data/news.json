@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:00:56.881204+00:00",
+ "updated": "2026-11-22T02:30:55.616660+00:00",
  "items": [
   {
    "id": "7f175d6d",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-22T02:00:00+00:00",
+   "date": "2026-11-22T02:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-7f175d6d/"
+  },
+  {
+   "id": "92982c28",
+   "title": "Ticaret Bakanlığı'ndan yanıltıcı reklama 1 milyon 83 bin lira ceza. \"Hep Ucuz\" iddiası doğrulanamadı",
+   "summary": "Ticaret Bakanlığı, yanıltıcı ve tüketicinin fiyat algısını bozucu nitelikte değerlendirilen ve \"Hep Ucuz\" ifadesini içeren reklamlar nedeniyle bir zincir markete 1 milyon 83 bin lira ceza verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-1-milyon-83-bin-lira-ceza-hep-ucuz-iddiasi-dogrulanamadi-1751964",
+   "image": "https://images.ntv.com.tr/images/ticaretbakanligi-363266.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T02:22:59+00:00",
+   "url": "/haber/ticaret-bakanligi-ndan-yaniltici-reklama-1-milyon-83-bin-lira-ceza-hep-92982c28/"
   },
   {
    "id": "d35910cc",
@@ -286,17 +297,6 @@
    "category": "gundem",
    "date": "2026-11-21T19:33:12+00:00",
    "url": "/haber/istanbul-un-bazi-ilcelerinde-dolu-ve-saganak-etkili-yollar-beyaza-buru-9001378e/"
-  },
-  {
-   "id": "92982c28",
-   "title": "Ticaret Bakanlığı'ndan yanıltıcı reklama 1 milyon 83 bin lira ceza. \"Hep Ucuz\" iddiası doğrulanamadı",
-   "summary": "Ticaret Bakanlığı, yanıltıcı ve tüketicinin fiyat algısını bozucu nitelikte değerlendirilen ve \"Hep Ucuz\" ifadesini içeren reklamlar nedeniyle bir zincir markete 1 milyon 83 bin lira ceza verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-1-milyon-83-bin-lira-ceza-hep-ucuz-iddiasi-dogrulanamadi-1751964",
-   "image": "https://images.ntv.com.tr/images/ticaretbakanligi-363266.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-21T19:28:33+00:00",
-   "url": "/haber/ticaret-bakanligi-ndan-yaniltici-reklama-1-milyon-83-bin-lira-ceza-hep-92982c28/"
   },
   {
    "id": "3cf31999",
