@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-22T20:01:03.769610+00:00",
+ "updated": "2026-11-22T20:30:57.054813+00:00",
  "items": [
+  {
+   "id": "67d6b5df",
+   "title": "GTA 6, Xbox'ta 60 FPS oynanabiliyor",
+   "summary": "Rockstar Games'in 30 FPS ile sınırlandırdığı GTA 6'nın Xbox Series X ve S'te 60 FPS oynanabileceği ortaya çıktı. Bu sürpriz gelişmenin arkasında Quick Resume özelliği var.",
+   "link": "https://www.donanimhaber.com/gta-6-xbox-ta-60-fps-oynanabiliyor--213246",
+   "image": "https://www.donanimhaber.com/images/images/haber/213246/1200x675gta-6-xbox-ta-60-fps-oynanabiliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-22T20:30:00+00:00",
+   "url": "/haber/gta-6-xbox-ta-60-fps-oynanabiliyor-67d6b5df/"
+  },
   {
    "id": "2105880c",
    "title": "Sarıyer'de \"aslan gördüm\" ihbarı: Ekipler çalışma başlattı",
@@ -9,8 +20,30 @@
    "image": "https://images.ntv.com.tr/images/SARIYERDE-ASLAN-GORDUM-IHBARI-YAPILDI_1621675_482115-388770(2).jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-22T19:57:51+00:00",
+   "date": "2026-11-22T20:27:08+00:00",
    "url": "/haber/sariyer-de-aslan-gordum-ihbari-ekipler-calisma-baslatti-2105880c/"
+  },
+  {
+   "id": "7402e96c",
+   "title": "ABD'de Demokratlar, 1992'den bu yana Temsilciler Meclisindeki en yüksek sandalye sayısına ulaştı",
+   "summary": "ABD'de Demokratlar, 3 Kasım'da düzenlenen Kongre ara seçimlerinde Temsilciler Meclisinde 258 sandalye kazanarak 1992'den bu yana elde edilen en yüksek sandalye sayısına ulaştı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-demokratlar-1992den-bu-yana-temsilciler-meclisindeki-en-yuksek-sandalye-sayisina-ulasti/4133847",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T20:19:32+00:00",
+   "url": "/haber/abd-de-demokratlar-1992-den-bu-yana-temsilciler-meclisindeki-en-yuksek-7402e96c/"
+  },
+  {
+   "id": "4a9bd50c",
+   "title": "THSF 2026 FPV Drone Yeşilay Türkiye Şampiyonası tamamlandı",
+   "summary": "Türkiye Hava Sporları Federasyonu (THSF) tarafından düzenlenen THSF 2026 FPV Drone Yeşilay Türkiye Şampiyonası sona erdi.",
+   "link": "https://www.aa.com.tr/tr/spor/thsf-2026-fpv-drone-yesilay-turkiye-sampiyonasi-tamamlandi/4133846",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T20:19:09+00:00",
+   "url": "/haber/thsf-2026-fpv-drone-yesilay-turkiye-sampiyonasi-tamamlandi-4a9bd50c/"
   },
   {
    "id": "f90d1dc8",
@@ -442,17 +475,6 @@
    "url": "/haber/dem-parti-heyetinden-imrali-ya-yeni-ziyaret-ae899b5a/"
   },
   {
-   "id": "bf0978aa",
-   "title": "İran, ABD ve 4 Avrupa ülkesinde, savaş suçları iddiasıyla hukuki süreç başlattı",
-   "summary": "İran'da Hukuk İşlerinden Sorumlu Cumhurbaşkanı Yardımcısı Mecid Ensari, ülkesine karşı savaş suçları işlendiği gerekçesiyle ABD ve 4 Avrupa ülkesinin mahkemelerinde hukuki süreç başlattıklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-abd-ve-4-avrupa-ulkesinde-savas-suclari-iddiasiyla-hukuki-surec-baslatti/4133680",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T15:34:53+00:00",
-   "url": "/haber/iran-abd-ve-4-avrupa-ulkesinde-savas-suclari-iddiasiyla-hukuki-surec-b-bf0978aa/"
-  },
-  {
    "id": "80aad176",
    "title": "Dünyanın en büyük elektrikli yük gemisi ilk seferine çıkıyor",
    "summary": "Dünyanın en büyük elektrikli yük gemisi BRF Froan, Çin'den Norveç'e doğru yola çıktı. Dev batarya sistemi ve yenilikçi tasarımıyla deniz taşımacılığında yeni bir dönemin başlatacak.",
@@ -473,17 +495,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T15:06:32+00:00",
    "url": "/haber/ipad-mini-8-inceleme-oled-ekran-ve-a20-pro-4af43740/"
-  },
-  {
-   "id": "6551ec9a",
-   "title": "Lübnan'daki Yukarı Nebatiye halkı, İsrail saldırılarına rağmen evlerine dönecekleri günü bekliyor",
-   "summary": "İsrail saldırıları nedeniyle Lübnan'ın güneyindeki Yukarı Nebatiye beldesinden ayrılmak zorunda kalan aileler, ülkenin 83. bağımsızlık yıl dönümünde aylar sonra kısa süreliğine de olsa döndükleri evlerinin enkazında…",
-   "link": "https://www.aa.com.tr/tr/dunya/lubnandaki-yukari-nebatiye-halki-israil-saldirilarina-ragmen-evlerine-donecekleri-gunu-bekliyor/4133662",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T15:01:12+00:00",
-   "url": "/haber/lubnan-daki-yukari-nebatiye-halki-israil-saldirilarina-ragmen-evlerine-6551ec9a/"
   },
   {
    "id": "d54ff351",
@@ -649,17 +660,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T12:00:08+00:00",
    "url": "/haber/chatgpt-space-plus-abonelerine-aciliyor-b93bd141/"
-  },
-  {
-   "id": "4a6ec67e",
-   "title": "Yapay zeka sıfırdan işlemci tasarladı: 4,6 kat daha verimli!",
-   "summary": "Architect Labs, tamamen yapay zeka tarafından tasarlanan CPU mimarisini tanıttı. Şirket, tasarımın geleneksel işlemcilere kıyasla watt başına 4,59 kat yüksek performans sunduğunu iddia ediyor.",
-   "link": "https://www.donanimhaber.com/yapay-zeka-sifirdan-islemci-tasarladi-4-6-kat-daha-verimli--213199",
-   "image": "https://www.donanimhaber.com/images/images/haber/213199/1200x675yapay-zeka-sifirdan-islemci-tasarladi-4-6-kat-daha-verimli.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-22T12:00:00+00:00",
-   "url": "/haber/yapay-zeka-sifirdan-islemci-tasarladi-4-6-kat-daha-verimli-4a6ec67e/"
   },
   {
    "id": "735480d9",
