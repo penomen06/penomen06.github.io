@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-22T15:01:02.739676+00:00",
+ "updated": "2026-11-22T15:30:54.063133+00:00",
  "items": [
+  {
+   "id": "80aad176",
+   "title": "Dünyanın en büyük elektrikli yük gemisi ilk seferine çıkıyor",
+   "summary": "Dünyanın en büyük elektrikli yük gemisi BRF Froan, Çin'den Norveç'e doğru yola çıktı. Dev batarya sistemi ve yenilikçi tasarımıyla deniz taşımacılığında yeni bir dönemin başlatacak.",
+   "link": "https://www.donanimhaber.com/dunyanin-en-buyuk-elektrikli-yuk-gemisi-ilk-seferine-cikiyor--213234",
+   "image": "https://www.donanimhaber.com/images/images/haber/213234/1200x675dunyanin-en-buyuk-elektrikli-yuk-gemisi-ilk-seferine-cikiyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-22T15:30:00+00:00",
+   "url": "/haber/dunyanin-en-buyuk-elektrikli-yuk-gemisi-ilk-seferine-cikiyor-80aad176/"
+  },
+  {
+   "id": "857ed2ca",
+   "title": "Adalet Bakanı Gürlek: Fon soruşturmalarında 85 kişiden toplam 44,58 milyar lira tahsil edildi",
+   "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmalarında şimdiye kadar 632 şüphelinin bulunduğunu, gönüllü iade ve geri kazanım kapsamında 85 kişiden toplam 44,58 milyar lira tahsil edildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-fon-sorusturmalarinda-85-kisiden-toplam-44-58-milyar-lira-tahsil-edildi/4133673",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T15:22:37+00:00",
+   "url": "/haber/adalet-bakani-gurlek-fon-sorusturmalarinda-85-kisiden-toplam-44-58-mil-857ed2ca/"
+  },
+  {
+   "id": "27dbc7b9",
+   "title": "Bakan Gürlek'ten fon soruşturması açıklaması: 9 ülkeye kaçırılan 13 milyar TL donduruldu",
+   "summary": "Adalet Bakanı Akın Gürlek fon soruşturmasında, şüpheliler tarafında 9 ülkeye kaçırılan yaklaşık 13 milyar TL'lik varlığın dondurulduğunu açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-gurlekten-fon-sorusturmasi-aciklamasi-9-ulkeye-kacirilan-13-milyar-tl-donduruldu-1752084",
+   "image": "https://images.ntv.com.tr/images/foncu-576122-379070.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T15:10:08+00:00",
+   "url": "/haber/bakan-gurlek-ten-fon-sorusturmasi-aciklamasi-9-ulkeye-kacirilan-13-mil-27dbc7b9/"
+  },
+  {
+   "id": "4af43740",
+   "title": "iPad mini 8 inceleme: OLED ekran ve A20 Pro",
+   "summary": "iPad mini 8'i inceledik. OLED ekran, 2 nm A20 Pro işlemci, IP67 dayanıklılık ve daha ince tasarımıyla gelen yeni kompakt tabletin Türkiye fiyatını ve tüm özelliklerini anlattık.",
+   "link": "https://shiftdelete.net/ipad-mini-8-inceleme",
+   "image": "https://shiftdelete.net/static/img/content/26-11/22/ipad-mini-8-inceleme.jpeg",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-22T15:06:32+00:00",
+   "url": "/haber/ipad-mini-8-inceleme-oled-ekran-ve-a20-pro-4af43740/"
+  },
   {
    "id": "d54ff351",
    "title": "İddia: iPhone 20 Pro için ezber bozan tasarım ve kamera",
@@ -88,6 +132,28 @@
    "category": "gundem",
    "date": "2026-11-22T14:10:50+00:00",
    "url": "/haber/mus-ta-saganak-ve-ruzgar-hasara-yol-acti-5115cdd9/"
+  },
+  {
+   "id": "f1da2607",
+   "title": "Kasımpaşa, konuk ettiği Alanyaspor'u yendi",
+   "summary": "Trendyol Süper Lig'in 12. haftasında Kasımpaşa, konuk ettiği Corendon Alanyaspor'u 2-1 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-konuk-ettigi-alanyasporu-yendi/4133622",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T14:00:30+00:00",
+   "url": "/haber/kasimpasa-konuk-ettigi-alanyaspor-u-yendi-f1da2607/"
+  },
+  {
+   "id": "186e0476",
+   "title": "Beşiktaş, Konyaspor'u 4-2 mağlup etti",
+   "summary": "Trendyol Süper Lig'in 12. haftasında Beşiktaş, konuk olduğu TÜMOSAN Konyaspor'u 4-2 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-konyasporu-4-2-maglup-etti/4133621",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T14:00:06+00:00",
+   "url": "/haber/besiktas-konyaspor-u-4-2-maglup-etti-186e0476/"
   },
   {
    "id": "04dda95e",
@@ -266,28 +332,6 @@
    "url": "/haber/antalya-kepez-belediyesi-ne-sorusturma-20-kisi-gozaltina-alindi-1d2bb840/"
   },
   {
-   "id": "ec8cd3cf",
-   "title": "Rusya: Almanya ve İngiltere savunma bakanlarının \"aklı yerinde değil\"",
-   "summary": "Lavrov, Almanya Savunma Bakanı Boris Pistorius ve İngiltere Savunma Bakanı Wes Streeting'in, Ukrayna'nın Rus topraklarına yönelik saldırılarını destekleyen açıklamalarını eleştirerek, söz konusu isimlerin \"akıllarının…",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-almanya-ve-ingiltere-savunma-bakanlarinin-akli-yerinde-degil/4133563",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T12:13:40+00:00",
-   "url": "/haber/rusya-almanya-ve-ingiltere-savunma-bakanlarinin-akli-yerinde-degil-ec8cd3cf/"
-  },
-  {
-   "id": "ff423fe0",
-   "title": "Yusufeli Barajı'ndan Türkiye ekonomisine 16,7 milyar lirayı aşan katkı",
-   "summary": "Tarım ve Orman Bakanı Yumaklı, \"Yusufeli, 275 metre gövde yüksekliği, ürettiği 5,6 milyar kilovatsaat elektrik ve ekonomimize sağladığı 16,7 milyar lirayı aşan katkıyla ülkemizin gururu olmaya devam ediyor.\" ifadesini…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/yusufeli-barajindan-turkiye-ekonomisine-16-7-milyar-lirayi-asan-katki/4133562",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T12:11:37+00:00",
-   "url": "/haber/yusufeli-baraji-ndan-turkiye-ekonomisine-16-7-milyar-lirayi-asan-katki-ff423fe0/"
-  },
-  {
    "id": "b93bd141",
    "title": "ChatGPT Space, Plus abonelerine açılıyor",
    "summary": "OpenAI, sayfa ve sunumları yapay zekayla birlikte hazırlamayı sağlayan ChatGPT Space'i Plus kullanıcılarına açıyor. Paylaşılan sayfalara bellekten bilgi geçebileceği için içeriği kontrol etmek önemli.",
@@ -308,17 +352,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T12:00:00+00:00",
    "url": "/haber/yapay-zeka-sifirdan-islemci-tasarladi-4-6-kat-daha-verimli-4a6ec67e/"
-  },
-  {
-   "id": "f08e6c34",
-   "title": "KKTC Başbakanı Üstel: Hedefimiz, KKTC'yi daha ileriye taşımak",
-   "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Başbakanı ve Ulusal Birlik Partisi (UBP) Genel Başkanı Ünal Üstel, Kıbrıs'ta birbirlerine komşu iki ayrı devlet olduğunu vurgulayarak, \"Hedefimiz, KKTC'yi daha ileriye taşımak.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/kktc-basbakani-ustel-hedefimiz-kktcyi-daha-ileriye-tasimak/4133542",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T11:59:36+00:00",
-   "url": "/haber/kktc-basbakani-ustel-hedefimiz-kktc-yi-daha-ileriye-tasimak-f08e6c34/"
   },
   {
    "id": "1872412d",
@@ -750,17 +783,6 @@
    "url": "/haber/israilli-isgalciler-bati-seria-da-filistinlilere-ait-evleri-ve-araclar-21e09454/"
   },
   {
-   "id": "b1876631",
-   "title": "Microsoft, bir popüler uygulamanın daha fişini çekiyor",
-   "summary": "Microsoft, bir uygulamasının daha kullanımdan kaldıracağını açıkladı. Kullanıcılar planlama ve görevlerini taşımak için alternatif aramak zorunda kalacak. İşte detaylar...",
-   "link": "https://www.donanimhaber.com/microsoft-bir-populer-uygulamanin-daha-fisini-cekiyor--213226",
-   "image": "https://www.donanimhaber.com/images/images/haber/213226/1200x675microsoft-bir-populer-uygulamanin-daha-fisini-cekiyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-22T07:30:00+00:00",
-   "url": "/haber/microsoft-bir-populer-uygulamanin-daha-fisini-cekiyor-b1876631/"
-  },
-  {
    "id": "11441358",
    "title": "TBMM'de bütçe maratonunun komisyon aşaması bu hafta tamamlanacak",
    "summary": "Meclis'teki bütçe maratonunun komisyon aşamasında sona gelindi. Bu hafta görüşülecek 4 bakanlık ve Cumhurbaşkanlığı bütçelerinin ardından komisyon aşaması tamamlanacak. Genel Kurul'da ise bu hafta Genel Sağlık Sigortası…",
@@ -794,17 +816,6 @@
    "url": "/haber/sessiz-ve-iyi-sogutan-oyun-laptopu-hangisi-164c1ef5/"
   },
   {
-   "id": "ab1a55a8",
-   "title": "Bu gece başlıyor, sabaha kadar devam edecek. İstanbul'un 22 ilçesinde elektrik kesintisi yaşanacak",
-   "summary": "Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), İstanbul Avrupa Yakası genelinde yürütülecek kapsamlı bakım, yatırım ve iyileştirme çalışmaları nedeniyle 22 ilçeyi kapsayan yeni planlı kesinti programını yayımladı. Yayımlanan…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bu-gece-basliyor-sabaha-kadar-devam-edecek-istanbulun-22-ilcesinde-elektrik-kesintisi-yasanacak-1752011",
-   "image": "https://images.ntv.com.tr/images/iStock-1441659591-948296.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T06:52:09+00:00",
-   "url": "/haber/bu-gece-basliyor-sabaha-kadar-devam-edecek-istanbul-un-22-ilcesinde-el-ab1a55a8/"
-  },
-  {
    "id": "fce5760f",
    "title": "COP31de Antalya Mutabakatı için son viraj",
    "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, zirvedeki son Örtü Karar taslak metnine ilişkin, \"Ufak tefek talepler var. Onları da değerlendiriyoruz. Yapabileceklerimizi yapmaya…",
@@ -836,17 +847,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T06:00:10+00:00",
    "url": "/haber/dragos-testi-yapay-zeka-istemleri-sizdiriliyor-ab1b5fef/"
-  },
-  {
-   "id": "08539085",
-   "title": "Microsoft To Do 30 Haziran 2027'de kapanıyor",
-   "summary": "Microsoft, To Do'yu tüm platformlarda kapatıyor. İş ve okul hesapları Planner'a geçerken Microsoft 365 Bireysel ve Aile aboneleri dahil kişisel hesaplar için yerine konacak bir uygulama yok.",
-   "link": "https://shiftdelete.net/microsoft-to-do-kapaniyor-30-haziran-2027",
-   "image": "https://ares.shiftdelete.net/static/img/content/26-11/22/microsoft-to-do-kapak-2211.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-22T05:30:08+00:00",
-   "url": "/haber/microsoft-to-do-30-haziran-2027-de-kapaniyor-08539085/"
   },
   {
    "id": "1e72c6f6",
