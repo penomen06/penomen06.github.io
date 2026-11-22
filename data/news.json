@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-22T11:01:06.448235+00:00",
+ "updated": "2026-11-22T11:30:52.383429+00:00",
  "items": [
+  {
+   "id": "735480d9",
+   "title": "Claude, 96 KB'lık dosyaya Atlantis'i sığdırdı",
+   "summary": "Bir GitHub kullanıcısının Claude Code ile hazırladığı Atlantis, içinde uçarak gezilebilen bir şehri 96 KB'lık tek bir HTML dosyasına sığdırıyor. Dosyada görsel ya da 3D model yok.",
+   "link": "https://shiftdelete.net/claude-96-kb-atlantis-sehri",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/claude-atlantis-kristal-podyum-kapak-2211.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-22T11:30:09+00:00",
+   "url": "/haber/claude-96-kb-lik-dosyaya-atlantis-i-sigdirdi-735480d9/"
+  },
+  {
+   "id": "85f95398",
+   "title": "Oyuncu monitörlerinde 1250Hz dönemi",
+   "summary": "Oyuncu monitörlerinde rekor olarak gösterilen 1000Hz tazeleme hızı geride kalmak üzere. TCL CSOT panel departmanı 1250Hz tazeleme hızı sunan monitörünü tanıttı.",
+   "link": "https://www.donanimhaber.com/tazeleme-hizlarinda-yeni-rekor--213241",
+   "image": "https://www.donanimhaber.com/images/images/haber/213241/1200x675tazeleme-hizlarinda-yeni-rekor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-22T11:30:00+00:00",
+   "url": "/haber/oyuncu-monitorlerinde-1250hz-donemi-85f95398/"
+  },
+  {
+   "id": "953dd76f",
+   "title": "COP31: 'Antalya Paktı' anlaşma teklifi yayımlandı, AB'den kırmızı ışık",
+   "summary": "20 Kasım Cuma günü sona ermesi gereken Birleşmiş Milletler (BM) iklim konferansı COP31'de müzakerelerin düğümlenmesinin ardından Antalya Paktı adı verilen bir taslak yayımlandı. Ülkeler taslağı genel kurulda tartışıyor.…",
+   "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-22T11:29:39+00:00",
+   "url": "/haber/cop31-antalya-pakti-anlasma-teklifi-yayimlandi-ab-den-kirmizi-isik-953dd76f/"
+  },
+  {
+   "id": "ae899b5a",
+   "title": "DEM Parti heyetinden İmralı'ya yeni ziyaret",
+   "summary": "DEM Parti İmralı Heyeti, terör örgütü PKK elebaşı Abdullah Öcalan ile görüşmek üzere bir kez daha İmralı Adası'na gitti.",
+   "link": "https://www.ntv.com.tr/turkiye/dem-parti-heyetinden-imraliya-yeni-ziyaret-1752059",
+   "image": "https://images.ntv.com.tr/images/imralı-844511.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T11:25:47+00:00",
+   "url": "/haber/dem-parti-heyetinden-imrali-ya-yeni-ziyaret-ae899b5a/"
+  },
+  {
+   "id": "2738de7a",
+   "title": "Kepez Belediyesi'ne rüşvet operasyonu. 20 kişi gözaltına alındı",
+   "summary": "Antalya'da Kepez Belediyesi'ne yönelik rüşvet ve yolsuzluk soruşturması kapsamında düzenlenen operasyonda 20 şüpheli gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-20-kisi-gozaltina-alindi-1752023",
+   "image": "https://images.ntv.com.tr/images/kepez-802195.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T11:22:53+00:00",
+   "url": "/haber/kepez-belediyesi-ne-rusvet-operasyonu-20-kisi-gozaltina-alindi-2738de7a/"
+  },
+  {
+   "id": "e84c3827",
+   "title": "KIZILELMA anma puluyla ölümsüzleşecek",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Türkiye'nin İlk İnsansız Savaş Uçağı KIZILELMA\" konulu anma pulu ve ilk gün zarfını 29 Kasım'da tedavüle sunacaklarını açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/kizilelma-anma-puluyla-olumsuzlesecek-1752056",
+   "image": "https://images.ntv.com.tr/anadolu-ajansi/20261122_2_77043069_131411039_Web.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T11:02:37+00:00",
+   "url": "/haber/kizilelma-anma-puluyla-olumsuzlesecek-e84c3827/"
+  },
   {
    "id": "7ecefd36",
    "title": "BADBOX 3.0 botneti TV kutularıyla geri döndü",
@@ -35,15 +101,15 @@
    "url": "/haber/insansiz-savas-ucagi-ilk-kez-envanterde-d3e9dc1b/"
   },
   {
-   "id": "e84c3827",
-   "title": "KIZILELMA anma puluyla ölümsüzleşecek",
-   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Türkiye'nin İlk İnsansız Savaş Uçağı KIZILELMA\" konulu anma pulu ve ilk gün zarfını 29 Kasım'da tedavüle sunacaklarını açıkladı.",
-   "link": "https://www.ntv.com.tr/turkiye/kizilelma-anma-puluyla-olumsuzlesecek-1752056",
-   "image": "https://images.ntv.com.tr/anadolu-ajansi/20261122_2_77043069_131411039_Web.jpg",
-   "source": "ntv.com.tr",
+   "id": "f80916eb",
+   "title": "Bakan Kurum: Geldiğimiz noktada tarihi bir fırsatın eşiğindeyiz",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, COP31 Genel Kurul Kapanış Oturumu'nda yaptığı konuşmada, \"Son ana kadar uzlaşının imkanlarını aradık, arıyoruz. Geldiğimiz noktada tarihi bir fırsatın eşiğindeyiz.\"…",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-geldigimiz-noktada-tarihi-bir-firsatin-esigindeyiz/4133513",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-22T10:56:22+00:00",
-   "url": "/haber/kizilelma-anma-puluyla-olumsuzlesecek-e84c3827/"
+   "date": "2026-11-22T10:56:17+00:00",
+   "url": "/haber/bakan-kurum-geldigimiz-noktada-tarihi-bir-firsatin-esigindeyiz-f80916eb/"
   },
   {
    "id": "e1a3bf4d",
@@ -55,17 +121,6 @@
    "category": "gundem",
    "date": "2026-11-22T10:53:42+00:00",
    "url": "/haber/gazze-seridi-nde-menenjit-vakalarinda-olagan-disi-artis-yasaniyor-e1a3bf4d/"
-  },
-  {
-   "id": "953dd76f",
-   "title": "COP31'de 'Antalya Paktı' anlaşma teklifi yayımlandı, görüşmeler sürüyor",
-   "summary": "20 Kasım Cuma günü sona ermesi gereken Birleşmiş Milletler (BM) iklim konferansı COP31'de müzakerelerin düğümlenmesinin ardından Antalya Paktı adı verilen bir taslak yayımlandı. Ülkeler taslağı genel kurulda tartışıyor.…",
-   "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-22T10:51:20+00:00",
-   "url": "/haber/cop31-de-antalya-pakti-anlasma-teklifi-yayimlandi-gorusmeler-suruyor-953dd76f/"
   },
   {
    "id": "63c1302b",
@@ -299,17 +354,6 @@
    "url": "/haber/turk-kizilay-dan-gazze-ye-yaklasik-25-bin-kisilik-gida-yardimi-e99b0667/"
   },
   {
-   "id": "dd2c82d5",
-   "title": "DMM, \"Malatya ayaklandı\" paylaşımlarını yalanladı",
-   "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezince (DMM), sosyal medyada \"Malatya ayaklandı\" ifadesiyle dolaşıma sokulan görüntülerin eski tarihli olduğu ve kamuoyunu yanıltmak amacıyla kasıtlı biçimde yeniden…",
-   "link": "https://www.aa.com.tr/tr/gundem/dmm-malatya-ayaklandi-paylasimlarini-yalanladi/4133445",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T09:43:57+00:00",
-   "url": "/haber/dmm-malatya-ayaklandi-paylasimlarini-yalanladi-dd2c82d5/"
-  },
-  {
    "id": "5c17d5e3",
    "title": "Tesla, çıtayı daha da yükselten “FSD v15” sürümünü duyurdu [Video]",
    "summary": "Tesla, FSD (Full Self-Driving) sistemi için hazırladığı, çıtayı daha da yukarıya taşıyan v15 sürümünü duyurdu. Kademeli olarak kullanıma sunulmaya başlanan ve otonom sürüş ağının hemen her bölümünü güncellediği…",
@@ -330,28 +374,6 @@
    "category": "gundem",
    "date": "2026-11-22T09:41:59+00:00",
    "url": "/haber/kadem-25-kasim-kadina-yonelik-siddetle-mucadele-kampanyasi-ni-tanitti-a6de343c/"
-  },
-  {
-   "id": "61d10971",
-   "title": "Erzurum'un yüksek kesimlerine kar yağdı",
-   "summary": "Erzurum'da yüksek kesimler ile Palandöken Kayak Merkezi'nde kar yağışı etkili oldu.",
-   "link": "https://www.aa.com.tr/tr/gundem/erzurumun-yuksek-kesimlerine-kar-yagdi/4133442",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T09:39:55+00:00",
-   "url": "/haber/erzurum-un-yuksek-kesimlerine-kar-yagdi-61d10971/"
-  },
-  {
-   "id": "2738de7a",
-   "title": "Kepez Belediyesi'ne rüşvet operasyonu. 20 kişi gözaltına alındı",
-   "summary": "Antalya'da Kepez Belediyesi'ne yönelik rüşvet ve yolsuzluk soruşturması kapsamında düzenlenen operasyonda 20 şüpheli gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-20-kisi-gozaltina-alindi-1752023",
-   "image": "https://images.ntv.com.tr/images/kepez-802195.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T09:38:52+00:00",
-   "url": "/haber/kepez-belediyesi-ne-rusvet-operasyonu-20-kisi-gozaltina-alindi-2738de7a/"
   },
   {
    "id": "2010889b",
@@ -517,6 +539,17 @@
    "category": "gundem",
    "date": "2026-11-22T08:24:00+00:00",
    "url": "/haber/cimer-e-cop31-basvurulari-tarihi-bir-donum-noktasi-olarak-hatirlansin-94f930e7/"
+  },
+  {
+   "id": "0419ba0f",
+   "title": "Etnospor Kültür Festivali, farklı kıtalardan kültürleri Suudi Arabistan'da bir araya getiriyor",
+   "summary": "Türkiye dışında ilk kez Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali, farklı ülkelerden ziyaretçilerin yoğun ilgisiyle kültürleri bir araya getiriyor.",
+   "link": "https://www.aa.com.tr/tr/spor/etnospor-kultur-festivali-farkli-kitalardan-kulturleri-suudi-arabistanda-bir-araya-getiriyor/4133386",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T08:18:45+00:00",
+   "url": "/haber/etnospor-kultur-festivali-farkli-kitalardan-kulturleri-suudi-arabistan-0419ba0f/"
   },
   {
    "id": "b01c3415",
@@ -761,17 +794,6 @@
    "url": "/haber/tesla-otonom-surus-yazilimi-fsd-v15-i-tanitti-iste-tum-yenilikler-e25bce2d/"
   },
   {
-   "id": "7c178467",
-   "title": "Son dakika Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van deprem Kandilli ve AFAD son depremler listesi 22 Kasım 2026",
-   "summary": "Son dakika Van deprem haberleri.. Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van Kandilli ve AFAD son depremler.. 22 Kasım 2026 Van deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-vanda-deprem-mi-oldu-az-once-deprem-vanda-nerede-oldu-van-deprem-kandilli-ve-afad-son-depremler-listesi-22-kasim-2026-1751975",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-21T21:50:01+00:00",
-   "url": "/haber/son-dakika-van-da-deprem-mi-oldu-az-once-deprem-van-da-nerede-oldu-van-7c178467/"
-  },
-  {
    "id": "8ad859a8",
    "title": "Evde Tek Başına serisi yıllar sonra yeni bir filmle geri dönüyor",
    "summary": "90'ların en sevilen serilerinden olan Evde Tek Başına (Home Alone), yıllar sonra yeni bir devam filmine kavuşuyor. Üstelik Macaulay Culkin bu kez Kevin rolüyle geri dönecek.",
@@ -836,28 +858,6 @@
    "category": "teknoloji",
    "date": "2026-11-21T18:00:00+00:00",
    "url": "/haber/openai-ilk-akilli-telefonunun-uretimi-icin-apple-in-tedarikcisiyle-anl-2b4f38f8/"
-  },
-  {
-   "id": "abb7e3fc",
-   "title": "All in One bilgisayarlar alınır mı? Avantajları ve dezavantajları",
-   "summary": "All in One bilgisayarlar her şeyi bir araya getiriyor. Peki All in One PC almak mantıklı mı? Hangi durumda avantajlı veya dezavantajlı? İşte tüm merak edilenler:",
-   "link": "https://www.donanimhaber.com/all-in-one-bilgisayarlar-alinir-mi-avantajlari-ve-dezavantajlari--213031",
-   "image": "https://www.donanimhaber.com/images/images/haber/213031/1200x675all-in-one-bilgisayarlar-alinir-mi-avantajlari-ve-dezavantajlari.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-21T17:30:00+00:00",
-   "url": "/haber/all-in-one-bilgisayarlar-alinir-mi-avantajlari-ve-dezavantajlari-abb7e3fc/"
-  },
-  {
-   "id": "c3e7616f",
-   "title": "Thinking Machines'ten dizüstüne açık model",
-   "summary": "Thinking Machines Lab, dizüstü bilgisayarda çalışabilen ve kodlama testlerinde benzer boyuttaki açık modelleri geride bırakan Inkling 2 Mini'yi açık ağırlıklarla yayınladı.",
-   "link": "https://shiftdelete.net/thinking-machines-inkling-2-mini-acik-model",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/thinking-machines-inkling-2-mini-kapak-2111.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-21T16:57:09+00:00",
-   "url": "/haber/thinking-machines-ten-dizustune-acik-model-c3e7616f/"
   },
   {
    "id": "cf2cab6b",
