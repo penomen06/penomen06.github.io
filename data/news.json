@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-22T18:01:02.918159+00:00",
+ "updated": "2026-11-22T18:30:57.678981+00:00",
  "items": [
+  {
+   "id": "4adec1d0",
+   "title": "Windows 11'de Bluetooth kulaklık sesi düzeliyor",
+   "summary": "Windows 11'in yeni test sürümü, mikrofon açıkken Bluetooth LE Audio kulaklıkların sesini mono yayına düşürmüyor. Özellik için uygun bilgisayar, kulaklık ve sürücü gerekiyor.",
+   "link": "https://shiftdelete.net/windows-11-bluetooth-kulaklik-mikrofon-stereo",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/windows-11-bluetooth-le-audio-kapak-2211.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-22T18:30:09+00:00",
+   "url": "/haber/windows-11-de-bluetooth-kulaklik-sesi-duzeliyor-4adec1d0/"
+  },
+  {
+   "id": "1dee570d",
+   "title": "Cumhurbaşkanlığı İletişim Başkanı Duran, \"Prof. Dr. Medaim Yanık Sempozyumu\"nda konuştu",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanı Duran, \"Prof. Dr. Yanık, 15 Temmuz gecesi Atatürk Havalimanı'na giderek Cumhurbaşkanımızı karşılayan insanların arasındaydı. Bunu hatırlatmayı, doğrusu özel bir an olarak bir görev…",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-iletisim-baskani-duran-prof-dr-medaim-yanik-sempozyumunda-konustu/4133790",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T18:17:33+00:00",
+   "url": "/haber/cumhurbaskanligi-iletisim-baskani-duran-prof-dr-medaim-yanik-sempozyum-1dee570d/"
+  },
+  {
+   "id": "e06c1b46",
+   "title": "Libya medyası: Bingazi açıklarında bir insansız deniz aracı ticari gemiyi hedef aldı",
+   "summary": "Libya medyası, Bingazi açıklarında insansız bir deniz aracının (İDA) ticari bir gemiyi hedef aldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/libya-medyasi-bingazi-aciklarinda-bir-insansiz-deniz-araci-ticari-gemiyi-hedef-aldi-/4133787",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T18:15:23+00:00",
+   "url": "/haber/libya-medyasi-bingazi-aciklarinda-bir-insansiz-deniz-araci-ticari-gemi-e06c1b46/"
+  },
+  {
+   "id": "4884d60a",
+   "title": "Ukrayna: Rusya'nın farklı bölgelere düzenlediği saldırılarda 5 sivil hayatını kaybetti",
+   "summary": "Rus ordusunun Ukrayna'nın Kiev ve Dnipropetrovsk bölgelerine yönelik gerçekleştirdiği hava saldırılarında en az 5 sivilin hayatını kaybettiği ve 14 kişinin yaralandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusyanin-farkli-bolgelere-duzenledigi-saldirilarda-5-sivil-hayatini-kaybetti/4133785",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T18:13:48+00:00",
+   "url": "/haber/ukrayna-rusya-nin-farkli-bolgelere-duzenledigi-saldirilarda-5-sivil-ha-4884d60a/"
+  },
   {
    "id": "c5a8dee3",
    "title": "Oyun ve iş için tek laptop hangisi?",
@@ -121,6 +165,17 @@
    "category": "teknoloji",
    "date": "2026-11-22T17:00:00+00:00",
    "url": "/haber/alzheimer-tedavisinde-yeni-umut-hafizayi-genclestiren-burun-damlalari-c35d96f8/"
+  },
+  {
+   "id": "a2c67d16",
+   "title": "Trabzonspor, Eyüpspor'u yendi",
+   "summary": "Trendyol Süper Lig'in 12. haftasında Trabzonspor, Eyüpspor'u 1-0 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-eyupsporu-yendi/4133729",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T16:57:26+00:00",
+   "url": "/haber/trabzonspor-eyupspor-u-yendi-a2c67d16/"
   },
   {
    "id": "20413f6d",
@@ -310,17 +365,6 @@
    "url": "/haber/dunyanin-en-buyuk-elektrikli-yuk-gemisi-ilk-seferine-cikiyor-80aad176/"
   },
   {
-   "id": "857ed2ca",
-   "title": "Adalet Bakanı Gürlek: Fon soruşturmalarında 85 kişiden toplam 44,58 milyar lira tahsil edildi",
-   "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmalarında şimdiye kadar 632 şüphelinin bulunduğunu, gönüllü iade ve geri kazanım kapsamında 85 kişiden toplam 44,58 milyar lira tahsil edildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-fon-sorusturmalarinda-85-kisiden-toplam-44-58-milyar-lira-tahsil-edildi/4133673",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T15:22:37+00:00",
-   "url": "/haber/adalet-bakani-gurlek-fon-sorusturmalarinda-85-kisiden-toplam-44-58-mil-857ed2ca/"
-  },
-  {
    "id": "4af43740",
    "title": "iPad mini 8 inceleme: OLED ekran ve A20 Pro",
    "summary": "iPad mini 8'i inceledik. OLED ekran, 2 nm A20 Pro işlemci, IP67 dayanıklılık ve daha ince tasarımıyla gelen yeni kompakt tabletin Türkiye fiyatını ve tüm özelliklerini anlattık.",
@@ -365,17 +409,6 @@
    "url": "/haber/iddia-iphone-20-pro-icin-ezber-bozan-tasarim-ve-kamera-d54ff351/"
   },
   {
-   "id": "fafef563",
-   "title": "Shakhtar Donetsk'te 8 oyuncu, Fenerbahçe maçı öncesi takımla Londra'ya gidemedi",
-   "summary": "Ukrayna ekibi Shakhtar Donetsk'in 8 oyuncusu, UEFA Şampiyonlar Ligi'nde 25 Kasım Çarşamba günü Fenerbahçe ile oynanacak maç öncesi takımla Londra'ya gidemedi.",
-   "link": "https://www.aa.com.tr/tr/spor/shakhtar-donetskte-8-oyuncu-fenerbahce-maci-oncesi-takimla-londraya-gidemedi/4133661",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T14:59:12+00:00",
-   "url": "/haber/shakhtar-donetsk-te-8-oyuncu-fenerbahce-maci-oncesi-takimla-londra-ya-fafef563/"
-  },
-  {
    "id": "acc0bcb6",
    "title": "Gürbulak Gümrük Kapısı'nda 271 kilo 750 gram uyuşturucu ele geçirildi",
    "summary": "Ağrı Gürbulak Gümrük Müdürlüğü ekipleri tarafından, İran’dan Türkiye’ye giriş yapmak üzere olan tankerde, 271 kilo 750 gram uyuşturucu ele geçirildi.",
@@ -396,28 +429,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T14:30:00+00:00",
    "url": "/haber/mustehcen-gta-6-goruntuleri-paylasanlara-ban-cezasi-a73aa5bf/"
-  },
-  {
-   "id": "f1da2607",
-   "title": "Kasımpaşa, konuk ettiği Alanyaspor'u yendi",
-   "summary": "Trendyol Süper Lig'in 12. haftasında Kasımpaşa, konuk ettiği Corendon Alanyaspor'u 2-1 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-konuk-ettigi-alanyasporu-yendi/4133622",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T14:00:30+00:00",
-   "url": "/haber/kasimpasa-konuk-ettigi-alanyaspor-u-yendi-f1da2607/"
-  },
-  {
-   "id": "186e0476",
-   "title": "Beşiktaş, Konyaspor'u 4-2 mağlup etti",
-   "summary": "Trendyol Süper Lig'in 12. haftasında Beşiktaş, konuk olduğu TÜMOSAN Konyaspor'u 4-2 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-konyasporu-4-2-maglup-etti/4133621",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T14:00:06+00:00",
-   "url": "/haber/besiktas-konyaspor-u-4-2-maglup-etti-186e0476/"
   },
   {
    "id": "04dda95e",
@@ -704,17 +715,6 @@
    "category": "gundem",
    "date": "2026-11-22T09:53:26+00:00",
    "url": "/haber/matematik-ogrencisi-zehra-okul-masraflari-icin-taksi-soforu-oldu-3f8ef651/"
-  },
-  {
-   "id": "93a1bcfb",
-   "title": "Lenyes LPR04 Pro projeksiyon cihazını inceledik",
-   "summary": "Avuç içine sığan Lenyes LPR04 Pro'yu inceledik. 100 ANSI lümen parlaklık, 3 metrede 85 inç görüntü ve 27 watt güç tüketimi sunan projektörün güçlü ve zayıf yanlarını anlattık.",
-   "link": "https://shiftdelete.net/lenyes-lpr04-pro-projeksiyon-inceleme",
-   "image": "https://ares.shiftdelete.net/static/img/content/26-11/22/lenyes-lpr04-pro-kapak-sdntv-2211.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-22T09:52:06+00:00",
-   "url": "/haber/lenyes-lpr04-pro-projeksiyon-cihazini-inceledik-93a1bcfb/"
   },
   {
    "id": "2cdf999b",
