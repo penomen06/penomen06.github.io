@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-22T11:30:52.383429+00:00",
+ "updated": "2026-11-22T12:01:03.594676+00:00",
  "items": [
+  {
+   "id": "b93bd141",
+   "title": "ChatGPT Space, Plus abonelerine açılıyor",
+   "summary": "OpenAI, sayfa ve sunumları yapay zekayla birlikte hazırlamayı sağlayan ChatGPT Space'i Plus kullanıcılarına açıyor. Paylaşılan sayfalara bellekten bilgi geçebileceği için içeriği kontrol etmek önemli.",
+   "link": "https://shiftdelete.net/chatgpt-space-plus-abonelerine-aciliyor",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/chatgpt-space-plus-kapak-2211.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-22T12:00:08+00:00",
+   "url": "/haber/chatgpt-space-plus-abonelerine-aciliyor-b93bd141/"
+  },
+  {
+   "id": "4a6ec67e",
+   "title": "Yapay zeka sıfırdan işlemci tasarladı: 4,6 kat daha verimli!",
+   "summary": "Architect Labs, tamamen yapay zeka tarafından tasarlanan CPU mimarisini tanıttı. Şirket, tasarımın geleneksel işlemcilere kıyasla watt başına 4,59 kat yüksek performans sunduğunu iddia ediyor.",
+   "link": "https://www.donanimhaber.com/yapay-zeka-sifirdan-islemci-tasarladi-4-6-kat-daha-verimli--213199",
+   "image": "https://www.donanimhaber.com/images/images/haber/213199/1200x675yapay-zeka-sifirdan-islemci-tasarladi-4-6-kat-daha-verimli.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-22T12:00:00+00:00",
+   "url": "/haber/yapay-zeka-sifirdan-islemci-tasarladi-4-6-kat-daha-verimli-4a6ec67e/"
+  },
+  {
+   "id": "953dd76f",
+   "title": "COP31: 'Antalya Paktı' kabul edilmedi, müzakereler çökebilir",
+   "summary": "20 Kasım Cuma günü sona ermesi gereken Birleşmiş Milletler (BM) iklim konferansı COP31'de uzayan görüşmelerin ardından Antalya Paktı adı verilen bir taslak yayımlandı. Avrupa Birliği ve Panama'nın teklifi resmen…",
+   "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-22T11:51:19+00:00",
+   "url": "/haber/cop31-antalya-pakti-kabul-edilmedi-muzakereler-cokebilir-953dd76f/"
+  },
+  {
+   "id": "ae899b5a",
+   "title": "DEM Parti heyetinden İmralı'ya yeni ziyaret",
+   "summary": "DEM Parti İmralı Heyeti, terör örgütü PKK elebaşı Abdullah Öcalan ile görüşmek üzere bir kez daha İmralı Adası'na gitti.",
+   "link": "https://www.ntv.com.tr/turkiye/dem-parti-heyetinden-imraliya-yeni-ziyaret-1752059",
+   "image": "https://images.ntv.com.tr/images/imralı-844511.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T11:43:33+00:00",
+   "url": "/haber/dem-parti-heyetinden-imrali-ya-yeni-ziyaret-ae899b5a/"
+  },
+  {
+   "id": "261c34af",
+   "title": "İran'da kasım sonundan itibaren planlı elektrik kesintileri uygulanacak",
+   "summary": "İran genelinde elektrik santrallerinde yaşanan yakıt temini sorunları ve artan elektrik tüketimi nedeniyle kasım ayının son günlerinden itibaren planlı elektrik kesintileri uygulanacağı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iranda-kasim-sonundan-itibaren-planli-elektrik-kesintileri-uygulanacak/4133528",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T11:34:04+00:00",
+   "url": "/haber/iran-da-kasim-sonundan-itibaren-planli-elektrik-kesintileri-uygulanaca-261c34af/"
+  },
   {
    "id": "735480d9",
    "title": "Claude, 96 KB'lık dosyaya Atlantis'i sığdırdı",
@@ -22,28 +77,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T11:30:00+00:00",
    "url": "/haber/oyuncu-monitorlerinde-1250hz-donemi-85f95398/"
-  },
-  {
-   "id": "953dd76f",
-   "title": "COP31: 'Antalya Paktı' anlaşma teklifi yayımlandı, AB'den kırmızı ışık",
-   "summary": "20 Kasım Cuma günü sona ermesi gereken Birleşmiş Milletler (BM) iklim konferansı COP31'de müzakerelerin düğümlenmesinin ardından Antalya Paktı adı verilen bir taslak yayımlandı. Ülkeler taslağı genel kurulda tartışıyor.…",
-   "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-22T11:29:39+00:00",
-   "url": "/haber/cop31-antalya-pakti-anlasma-teklifi-yayimlandi-ab-den-kirmizi-isik-953dd76f/"
-  },
-  {
-   "id": "ae899b5a",
-   "title": "DEM Parti heyetinden İmralı'ya yeni ziyaret",
-   "summary": "DEM Parti İmralı Heyeti, terör örgütü PKK elebaşı Abdullah Öcalan ile görüşmek üzere bir kez daha İmralı Adası'na gitti.",
-   "link": "https://www.ntv.com.tr/turkiye/dem-parti-heyetinden-imraliya-yeni-ziyaret-1752059",
-   "image": "https://images.ntv.com.tr/images/imralı-844511.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T11:25:47+00:00",
-   "url": "/haber/dem-parti-heyetinden-imrali-ya-yeni-ziyaret-ae899b5a/"
   },
   {
    "id": "2738de7a",
@@ -200,6 +233,17 @@
    "url": "/haber/yabanci-dil-bilgisi-seviye-tespit-sinavi-yapildi-492b8295/"
   },
   {
+   "id": "4821ca7e",
+   "title": "İletişim Başkanlığından \"Türkiye'nin Diplomasi Rotası: Dört Zirvede Lider Diplomasisi\" belgeseli",
+   "summary": "İletişim Başkanlığı, Cumhurbaşkanı Erdoğan'ın NATO, BM, TDT ve COP31 zirvelerindeki yoğun diplomasi trafiğini, liderlerle kritik görüşmelerini içeren \"Türkiye'nin Diplomasi Rotası: Dört Zirvede Lider Diplomasisi\"…",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-turkiyenin-diplomasi-rotasi-dort-zirvede-lider-diplomasisi-belgeseli/4133475",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T10:19:50+00:00",
+   "url": "/haber/iletisim-baskanligindan-turkiye-nin-diplomasi-rotasi-dort-zirvede-lide-4821ca7e/"
+  },
+  {
    "id": "8e47ac9e",
    "title": "Galler Prensesi Kate yeni belgeselde kanser yolculuğunu anlatıyor",
    "summary": "BBC'nin yeni belgeseli Galler Prensesi Catherine'in kanser sürecini anlatıyor. Prenses, \"Kanser teşhisinin sizde değiştirdiği şeylerin çok daha derin bir boyutu var\" diyor.",
@@ -277,17 +321,6 @@
    "url": "/haber/oruc-reis-in-50-kisilik-ekibi-somali-den-sonra-pakistan-aciklarinda-go-a83e5f7f/"
   },
   {
-   "id": "093f0c9f",
-   "title": "Milli tenisçi Ergi Kırkın, Tayland’daki turnuvada şampiyonluğa ulaştı",
-   "summary": "Ergi Kırkın, 2 numaralı seribaşı olduğu Hua Hin Erkekler Tenis Turnuvası'nın finalinde 5 numaralı seribaşı İtalyan tenisçi Manuel Plunger'ı 2-0 yenerek şampiyon oldu.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-tenisci-ergi-kirkin-tayland-daki-turnuvada-sampiyonluga-ulasti/4133456",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T09:55:25+00:00",
-   "url": "/haber/milli-tenisci-ergi-kirkin-tayland-daki-turnuvada-sampiyonluga-ulasti-093f0c9f/"
-  },
-  {
    "id": "7234e75c",
    "title": "Eski OpenAI CTO’su Mira Murati’nin kurduğu Thinking Machines Lab, lokal kullanıma yönelik yeni açık ağırlıklı yapay zeka modeli Inkling 2 Mini’yi tanıttı",
    "summary": "Eski OpenAI CTO’su Mira Murati’nin şirketi Thinking Machines Lab, “Inkling” ailesine yeni açık ağırlıklı yapay zeka modeli Inkling 2 Mini’yi eklediğini duyurdu. Firmanın verdiği bilgilere göre 26 milyar parametreli…",
@@ -363,17 +396,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T09:42:01+00:00",
    "url": "/haber/tesla-citayi-daha-da-yukselten-fsd-v15-surumunu-duyurdu-video-5c17d5e3/"
-  },
-  {
-   "id": "a6de343c",
-   "title": "KADEM, \"25 Kasım Kadına Yönelik Şiddetle Mücadele Kampanyası\"nı tanıttı",
-   "summary": "Kadın ve Demokrasi Vakfı (KADEM), \"25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü\"ne yönelik \"Güzellik Dayatması Şiddettir\" sloganlı kampanyasını İstanbul Atatürk Kültür Merkezi'nde (AKM) tanıttı.",
-   "link": "https://www.aa.com.tr/tr/gundem/kadem-25-kasim-kadina-yonelik-siddetle-mucadele-kampanyasini-tanitti/4133444",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T09:41:59+00:00",
-   "url": "/haber/kadem-25-kasim-kadina-yonelik-siddetle-mucadele-kampanyasi-ni-tanitti-a6de343c/"
   },
   {
    "id": "2010889b",
@@ -836,28 +858,6 @@
    "category": "gundem",
    "date": "2026-11-21T18:52:00+00:00",
    "url": "/haber/bakan-fidan-yemen-icinde-asker-bulundurulmasina-yonelik-alinmis-bir-ka-bf42ac5a/"
-  },
-  {
-   "id": "62f40d17",
-   "title": "RTX 50 serisi oyun laptopu hangisi?",
-   "summary": "Casper Excalibur G870'in RTX 5060'lı sürümü 15,6 inç 165 Hz ekranla geliyor. Fiyatı 89.581 TL.",
-   "link": "https://shiftdelete.net/rtx-50-serisi-oyun-laptopu-hangisi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/casper-rtx-50-serisi-oyun-laptopu-hangisi-kapak-1811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-21T18:00:08+00:00",
-   "url": "/haber/rtx-50-serisi-oyun-laptopu-hangisi-62f40d17/"
-  },
-  {
-   "id": "2b4f38f8",
-   "title": "OpenAI, ilk akıllı telefonunun üretimi için Apple'ın tedarikçisiyle anlaştı",
-   "summary": "OpenAI'ın kendi işlemcisine sahip ilk akıllı telefonu için üretim hazırlıkları hızlanıyor. Çin'den gelen raporlara göre Apple'ın iPhone modellerini de üreten Foxconn, cihazın montajını üstlenecek.",
-   "link": "https://www.donanimhaber.com/openai-akilli-telefon-uretimi-icin-apple-tedarikcisiyle-anlasti--213198",
-   "image": "https://www.donanimhaber.com/images/images/haber/213198/1200x675openai-akilli-telefon-uretimi-icin-apple-tedarikcisiyle-anlasti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-21T18:00:00+00:00",
-   "url": "/haber/openai-ilk-akilli-telefonunun-uretimi-icin-apple-in-tedarikcisiyle-anl-2b4f38f8/"
   },
   {
    "id": "cf2cab6b",
