@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:01:14.135874+00:00",
+ "updated": "2026-11-22T23:30:53.236272+00:00",
  "items": [
   {
    "id": "019f9cba",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-22T23:00:00+00:00",
+   "date": "2026-11-22T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-019f9cba/"
+  },
+  {
+   "id": "2b2c2d95",
+   "title": "Netanyahu’nun Trump'ı \"en kısa sürede\" İran'a yeni saldırı başlatması için ikna etmeye çalıştığı bildirildi",
+   "summary": "İsrail geçici Başbakanı Binyamin Netanyahu'nun ABD Başkanı Donald Trump'ı \"mümkün olan en kısa süre içinde\" İran'a yeni saldırı talimatı vermesi için ikna etmeye çalıştığı aktarıldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/netanyahu-nun-trumpi-en-kisa-surede-irana-yeni-saldiri-baslatmasi-icin-ikna-etmeye-calistigi-bildirildi/4133887",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T23:13:21+00:00",
+   "url": "/haber/netanyahu-nun-trump-i-en-kisa-surede-iran-a-yeni-saldiri-baslatmasi-ic-2b2c2d95/"
   },
   {
    "id": "2105880c",
@@ -220,17 +231,6 @@
    "category": "gundem",
    "date": "2026-11-22T19:34:23+00:00",
    "url": "/haber/abd-de-bir-bebek-partisinde-silahli-saldiriya-ugrayan-3-kisi-hayatini-af06c126/"
-  },
-  {
-   "id": "d9ef4b8b",
-   "title": "Delta Air Lines uçuşları teknik sorun nedeniyle ABD genelinde gecikme ve iptaller yaşıyor",
-   "summary": "ABD'nin Atlanta şehrinde yaşanan teknik bir aksaklık sebebiyle hava yolu şirketi Delta Air Lines'ın uçuşlarında ülke genelinde gecikme ve iptaller yaşandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/delta-air-lines-ucuslari-teknik-sorun-nedeniyle-abd-genelinde-gecikme-ve-iptaller-yasiyor/4133817",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T19:24:04+00:00",
-   "url": "/haber/delta-air-lines-ucuslari-teknik-sorun-nedeniyle-abd-genelinde-gecikme-d9ef4b8b/"
   },
   {
    "id": "9ea979c2",
