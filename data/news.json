@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-22T16:01:09.108754+00:00",
+ "updated": "2026-11-22T16:30:56.634663+00:00",
  "items": [
+  {
+   "id": "803e55af",
+   "title": "Neuralink implantı GTA 6 oynattı: Oyunu düşünceleriyle kontrol etti",
+   "summary": "Neuralink, beyin implantı kullanan bir katılımcının GTA 6 oynadığı görüntüleri paylaştı. Oyuncu, oyundaki sürat teknesini, uçağı ve araçları beyin sinyalleriyle kontrol etti.",
+   "link": "https://www.donanimhaber.com/neuralink-ile-gta-6-oynandi-oyunu-dusunceleriyle-kontrol-etti--213233",
+   "image": "https://www.donanimhaber.com/images/images/haber/213233/1200x675neuralink-ile-gta-6-oynandi-oyunu-dusunceleriyle-kontrol-etti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-22T16:30:00+00:00",
+   "url": "/haber/neuralink-implanti-gta-6-oynatti-oyunu-dusunceleriyle-kontrol-etti-803e55af/"
+  },
+  {
+   "id": "dfe5f22c",
+   "title": "Windows 11'e yeni güvenlik kontrolü geliyor",
+   "summary": "Microsoft, Windows 11'e sekiz temel korumayı tek seferde kontrol eden Windows baseline protection özelliğini ekliyor. Uygulamalar da bu sonucu okuyup kontrolden geçmeyen bilgisayarlarda önlem alabilecek.",
+   "link": "https://shiftdelete.net/windows-11-baseline-protection-guvenlik-kontrolu",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/windows-11-baseline-protection-kapak-2211.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-22T16:20:08+00:00",
+   "url": "/haber/windows-11-e-yeni-guvenlik-kontrolu-geliyor-dfe5f22c/"
+  },
+  {
+   "id": "0bda1447",
+   "title": "COP31'de Örtü Karar'a itiraz. Bakan Murat Kurum: Yeni bir metin olmayacak",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 zirvesi \"Örtü Karar\" taslak metnine ilişkin, \"Artık söz de karar da tarafların. Biz yapacağımız her şeyi yaptık.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cop31de-ortu-karara-itiraz-bakan-murat-kurum-yeni-bir-metin-olmayacak-1752080",
+   "image": "https://images.ntv.com.tr/images/muratkurumcop31-134880.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T16:18:22+00:00",
+   "url": "/haber/cop31-de-ortu-karar-a-itiraz-bakan-murat-kurum-yeni-bir-metin-olmayaca-0bda1447/"
+  },
+  {
+   "id": "bea68c1f",
+   "title": "Çin'den ABD'nin Çinli telekomünikasyon operatörlerinin erişimini engellemesine tepki",
+   "summary": "Pekin yönetimi, ABD Federal İletişim Komisyonunun (FCC) Çinli telekomünikasyon operatörlerinin ülkedeki telefon numaralarına doğrudan erişimini yasaklayan düzenlemesine tepki gösterdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/cinden-abdnin-cinli-telekomunikasyon-operatorlerinin-erisimini-engellemesine-tepki/4133700",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T16:06:42+00:00",
+   "url": "/haber/cin-den-abd-nin-cinli-telekomunikasyon-operatorlerinin-erisimini-engel-bea68c1f/"
+  },
+  {
+   "id": "953dd76f",
+   "title": "COP31 sona erdi, 'Antalya Paktı' kabul edilmedi",
+   "summary": "Birleşmiş Milletler (BM) iklim konferansı COP31'de uzayan görüşmelerin ardından Antalya Paktı adı verilen bir karar taslağı yayımlandı. Avrupa Birliği, Panama ve Norveç dahil ülkelerin teklife itiraz etmesiyle anlaşma…",
+   "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50f3/live/c6f5b6b0-e675-11f1-a5bc-ddaec99ca2c4.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-22T16:05:55+00:00",
+   "url": "/haber/cop31-sona-erdi-antalya-pakti-kabul-edilmedi-953dd76f/"
+  },
   {
    "id": "c5bc369f",
    "title": "Motorola Moto Tag 3 Amazon'da ortaya çıktı: Yenilikler sınırlı",
@@ -90,6 +145,17 @@
    "url": "/haber/dem-parti-heyetinden-imrali-ya-yeni-ziyaret-ae899b5a/"
   },
   {
+   "id": "bf0978aa",
+   "title": "İran, ABD ve 4 Avrupa ülkesinde, savaş suçları iddiasıyla hukuki süreç başlattı",
+   "summary": "İran'da Hukuk İşlerinden Sorumlu Cumhurbaşkanı Yardımcısı Mecid Ensari, ülkesine karşı savaş suçları işlendiği gerekçesiyle ABD ve 4 Avrupa ülkesinin mahkemelerinde hukuki süreç başlattıklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-abd-ve-4-avrupa-ulkesinde-savas-suclari-iddiasiyla-hukuki-surec-baslatti/4133680",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T15:34:53+00:00",
+   "url": "/haber/iran-abd-ve-4-avrupa-ulkesinde-savas-suclari-iddiasiyla-hukuki-surec-b-bf0978aa/"
+  },
+  {
    "id": "b5ed11d9",
    "title": "Libya'nın doğusundaki yönetim, Bingazi’deki patlamanın Rus gemisinde meydana geldiğini doğruladı",
    "summary": "Libya Temsilciler Meclisinin atadığı ülkenin doğusundaki hükümet, Bingazi Limanı'nda meydana gelen patlamanın limana demirli bir Rus gemisinde meydana geldiğini duyurdu.",
@@ -145,6 +211,17 @@
    "url": "/haber/iran-cumhurbaskani-pezeskiyan-savas-halindeki-hicbir-ulkede-kalkinma-g-1d475a83/"
   },
   {
+   "id": "6551ec9a",
+   "title": "Lübnan'daki Yukarı Nebatiye halkı, İsrail saldırılarına rağmen evlerine dönecekleri günü bekliyor",
+   "summary": "İsrail saldırıları nedeniyle Lübnan'ın güneyindeki Yukarı Nebatiye beldesinden ayrılmak zorunda kalan aileler, ülkenin 83. bağımsızlık yıl dönümünde aylar sonra kısa süreliğine de olsa döndükleri evlerinin enkazında…",
+   "link": "https://www.aa.com.tr/tr/dunya/lubnandaki-yukari-nebatiye-halki-israil-saldirilarina-ragmen-evlerine-donecekleri-gunu-bekliyor/4133662",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T15:01:12+00:00",
+   "url": "/haber/lubnan-daki-yukari-nebatiye-halki-israil-saldirilarina-ragmen-evlerine-6551ec9a/"
+  },
+  {
    "id": "d54ff351",
    "title": "İddia: iPhone 20 Pro için ezber bozan tasarım ve kamera",
    "summary": "Apple'ın 20. yıl dönümü için hazırladığı iPhone 20 Pro, 200 MP ana kamera, LOFIC teknolojisi ve dört kenarı kavisli ekran tasarımıyla akıllı telefonlarda yeni bir dönemin kapısını aralayabilir.",
@@ -176,17 +253,6 @@
    "category": "gundem",
    "date": "2026-11-22T14:51:32+00:00",
    "url": "/haber/gurbulak-gumruk-kapisi-nda-271-kilo-750-gram-uyusturucu-ele-gecirildi-acc0bcb6/"
-  },
-  {
-   "id": "953dd76f",
-   "title": "COP31'de 'Antalya Paktı' AB dahil ülkelerin itirazları üzerine kabul edilmedi",
-   "summary": "20 Kasım Cuma günü sona ermesi gereken Birleşmiş Milletler (BM) iklim konferansı COP31'de uzayan görüşmelerin ardından Antalya Paktı adı verilen bir karar taslağı yayımlandı. Avrupa Birliği, Panama ve Norveç dahil…",
-   "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50f3/live/c6f5b6b0-e675-11f1-a5bc-ddaec99ca2c4.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-22T14:51:02+00:00",
-   "url": "/haber/cop31-de-antalya-pakti-ab-dahil-ulkelerin-itirazlari-uzerine-kabul-edi-953dd76f/"
   },
   {
    "id": "7d07cff3",
@@ -277,17 +343,6 @@
    "url": "/haber/hgs-icra-takiplerine-sorusturma-32f6dcf7/"
   },
   {
-   "id": "1a18072c",
-   "title": "Avrasya Pencere ve Kapı Fuarı ile Avrasya Cam Fuarı İstanbul'da kapılarını açtı",
-   "summary": "Yapı sektörünün uluslararası buluşmaları arasında yer alan Avrasya Pencere ve Kapı Fuarı ile Avrasya Cam Fuarı, 34 ülkeden 750'nin üzerinde katılımcıyla eş zamanlı olarak Tüyap Fuar ve Kongre Merkezi'nde kapılarını açtı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/avrasya-pencere-ve-kapi-fuari-ile-avrasya-cam-fuari-istanbulda-kapilarini-acti/4133610",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T13:31:50+00:00",
-   "url": "/haber/avrasya-pencere-ve-kapi-fuari-ile-avrasya-cam-fuari-istanbul-da-kapila-1a18072c/"
-  },
-  {
    "id": "99f33bb4",
    "title": "Zayıflama ilaçları tarım arazisini azaltabilir",
    "summary": "Nature Communications'ta yayımlanan bir çalışmaya göre GLP-1 ilaçlarının yaygınlaşması 2050'ye kadar 32 milyon hektar araziyi tarımdan çıkarabilir. Daha ucuz gıda ise tedavi görmeyenlerin tüketimini artırabilir.",
@@ -308,17 +363,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T13:30:00+00:00",
    "url": "/haber/sessiz-laptop-onerileri-kutuphane-ve-ortak-calisma-alanlari-icin-secen-c07ba2fe/"
-  },
-  {
-   "id": "0e7f6f0e",
-   "title": "İstanbul Cumhuriyet Başsavcılığı, HGS hakkındaki iddialar ve şikayetler üzerine soruşturma başlattı",
-   "summary": "Bakan Gürlek, HGS icra takiplerinde icra mekanizmalarının hileli veya hukuka aykırı yöntemlerle haksız kazanç aracına dönüştürüldüğüne ilişkin iddialar ve şikayetler üzerine İstanbul Cumhuriyet Başsavcılığınca…",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbul-cumhuriyet-bassavciligi-hgs-hakkindaki-iddialar-ve-sikayetler-uzerine-sorusturma-baslatti/4133599",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T13:20:56+00:00",
-   "url": "/haber/istanbul-cumhuriyet-bassavciligi-hgs-hakkindaki-iddialar-ve-sikayetler-0e7f6f0e/"
   },
   {
    "id": "9bc165bf",
@@ -431,17 +475,6 @@
    "url": "/haber/yapay-zeka-sifirdan-islemci-tasarladi-4-6-kat-daha-verimli-4a6ec67e/"
   },
   {
-   "id": "1872412d",
-   "title": "Gençlerbirliği’nin yeni başkanı Ali Osman Avşar oldu",
-   "summary": "Kırmızı-siyahlı kulübün tüzük değişikliği yaptığı olağanüstü seçimli genel kurulunda başkan seçilen Ali Osman Avşar, \"Gençlerbirliği'ne iki evladıma nasıl bakmışsam öyle bakacağım.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-nin-yeni-baskani-ali-osman-avsar-oldu/4133539",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T11:53:34+00:00",
-   "url": "/haber/genclerbirligi-nin-yeni-baskani-ali-osman-avsar-oldu-1872412d/"
-  },
-  {
    "id": "735480d9",
    "title": "Claude, 96 KB'lık dosyaya Atlantis'i sığdırdı",
    "summary": "Bir GitHub kullanıcısının Claude Code ile hazırladığı Atlantis, içinde uçarak gezilebilen bir şehri 96 KB'lık tek bir HTML dosyasına sığdırıyor. Dosyada görsel ya da 3D model yok.",
@@ -462,17 +495,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T11:30:00+00:00",
    "url": "/haber/oyuncu-monitorlerinde-1250hz-donemi-85f95398/"
-  },
-  {
-   "id": "2738de7a",
-   "title": "Kepez Belediyesi'ne rüşvet operasyonu. 20 kişi gözaltına alındı",
-   "summary": "Antalya'da Kepez Belediyesi'ne yönelik rüşvet ve yolsuzluk soruşturması kapsamında düzenlenen operasyonda 20 şüpheli gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-20-kisi-gozaltina-alindi-1752023",
-   "image": "https://images.ntv.com.tr/images/kepez-802195.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T11:22:53+00:00",
-   "url": "/haber/kepez-belediyesi-ne-rusvet-operasyonu-20-kisi-gozaltina-alindi-2738de7a/"
   },
   {
    "id": "e84c3827",
@@ -750,17 +772,6 @@
    "url": "/haber/levent-alpoge-nin-riemann-hipotezine-yonelik-kaniti-dogrulandi-57b284eb/"
   },
   {
-   "id": "ac6b2e64",
-   "title": "Monitör Tavsiyeleri - Kasım 2026",
-   "summary": "Monitör tavsiyeleri serisinin yeni bölümünde sizlere çeşitli ekran boyutlarında ve niteliklerde her işinize koşabilecek monitör önerileri yapıyoruz.",
-   "link": "https://www.donanimhaber.com/monitor-tavsiyeleri--213237",
-   "image": "https://www.donanimhaber.com/images/images/haber/213237/1200x675monitor-tavsiyeleri.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-22T09:00:36+00:00",
-   "url": "/haber/monitor-tavsiyeleri-kasim-2026-ac6b2e64/"
-  },
-  {
    "id": "fabdeb03",
    "title": "Meclis'te bu hafta. Bütçe maratonunda son viraj",
    "summary": "Meclis'in bütçe maratonu devam ediyor. Cuma günü komisyonda bütçe görüşmeleri tamamlanacak. Genel Kurul'da ise iki önemli düzenleme ele alınacak.",
@@ -847,17 +858,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T07:07:52+00:00",
    "url": "/haber/golf-gti-rabbit-edition-yalniz-abd-de-satilacak-3cb668cf/"
-  },
-  {
-   "id": "164c1ef5",
-   "title": "Sessiz ve iyi soğutan oyun laptopu hangisi?",
-   "summary": "Casper Excalibur G915, iki fan ve beş bakır ısı borulu FrostFlux soğutmasıyla geliyor. SGS'nin dört saatlik testinde WASD bölgesi en fazla 34,1 °C ölçüldü.",
-   "link": "https://shiftdelete.net/sogutmasi-guclu-ve-sessiz-oyun-laptopu-arayanlar-hangi-modele-bakmali",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/casper-sogutmasi-guclu-ve-sessiz-oyun-laptopu-arayanlar-hangi-model-kapak-1811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-22T07:00:07+00:00",
-   "url": "/haber/sessiz-ve-iyi-sogutan-oyun-laptopu-hangisi-164c1ef5/"
   },
   {
    "id": "fce5760f",
