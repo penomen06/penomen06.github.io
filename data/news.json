@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-22T13:01:04.252582+00:00",
+ "updated": "2026-11-22T13:31:01.331066+00:00",
  "items": [
+  {
+   "id": "99f33bb4",
+   "title": "Zayıflama ilaçları tarım arazisini azaltabilir",
+   "summary": "Nature Communications'ta yayımlanan bir çalışmaya göre GLP-1 ilaçlarının yaygınlaşması 2050'ye kadar 32 milyon hektar araziyi tarımdan çıkarabilir. Daha ucuz gıda ise tedavi görmeyenlerin tüketimini artırabilir.",
+   "link": "https://shiftdelete.net/glp1-zayiflama-ilaclari-tarim-arazisi-arastirma",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/glp1-ilac-tarim-arazisi-kapak-2211.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-22T13:30:08+00:00",
+   "url": "/haber/zayiflama-ilaclari-tarim-arazisini-azaltabilir-99f33bb4/"
+  },
+  {
+   "id": "32f6dcf7",
+   "title": "HGS icra takiplerine soruşturma",
+   "summary": "Hızlı Geçiş Sistemi (HGS) icra takiplerine yönelik soruşturma başlatıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/hizli-gecis-sistemi-hgs-icra-takiplerine-sorusturma-1752076",
+   "image": "https://images.ntv.com.tr/images/hgs1-688991.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T13:27:24+00:00",
+   "url": "/haber/hgs-icra-takiplerine-sorusturma-32f6dcf7/"
+  },
+  {
+   "id": "0e7f6f0e",
+   "title": "İstanbul Cumhuriyet Başsavcılığı, HGS hakkındaki iddialar ve şikayetler üzerine soruşturma başlattı",
+   "summary": "Adalet Bakanı Akın Gürlek, \"Bu kapsamda, haksız borçlandırma iddiaları, başlatılan icra takiplerinin hukuka uygunluğu ve suç teşkil edebilecek eylemler tüm yönleriyle araştırılmaktadır.\" ifadesini kullandı",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-cumhuriyet-bassavciligi-hgs-hakkindaki-iddialar-ve-sikayetler-uzerine-sorusturma-baslatti/4133599",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T13:20:56+00:00",
+   "url": "/haber/istanbul-cumhuriyet-bassavciligi-hgs-hakkindaki-iddialar-ve-sikayetler-0e7f6f0e/"
+  },
+  {
+   "id": "953dd76f",
+   "title": "COP31: 'Antalya Paktı' kabul edilmedi, müzakereler çökebilir",
+   "summary": "20 Kasım Cuma günü sona ermesi gereken Birleşmiş Milletler (BM) iklim konferansı COP31'de uzayan görüşmelerin ardından Antalya Paktı adı verilen bir taslak yayımlandı. Avrupa Birliği ve Panama'nın teklifi resmen…",
+   "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50f3/live/c6f5b6b0-e675-11f1-a5bc-ddaec99ca2c4.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-22T13:10:18+00:00",
+   "url": "/haber/cop31-antalya-pakti-kabul-edilmedi-muzakereler-cokebilir-953dd76f/"
+  },
+  {
+   "id": "bbc7940b",
+   "title": "HGS icra takiplerine soruşturma",
+   "summary": "Adalet Bakanı Akın Gürlek, HGS icra takipleriyle ilgili iddialar üzerine İstanbul Cumhuriyet Başsavcılığı tarafından soruşturma başlatıldığını duyurdu. Bakan Gürlek, \"Hiç kimse, hukuki süreçleri ve icra mekanizmalarını…",
+   "link": "https://www.trthaber.com/haber/gundem/hgs-icra-takiplerine-sorusturma-964141.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1816000/hgs-giseleri-a-1817658.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-22T13:06:00+00:00",
+   "url": "/haber/hgs-icra-takiplerine-sorusturma-bbc7940b/"
+  },
   {
    "id": "fbf52dd6",
    "title": "Yapay zeka sıfırdan işlemci tasarladı",
@@ -55,17 +110,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T12:30:09+00:00",
    "url": "/haber/samsung-2027-de-yeni-galaxy-watch-cikarmayacak-246f2a6f/"
-  },
-  {
-   "id": "953dd76f",
-   "title": "COP31: 'Antalya Paktı' kabul edilmedi, müzakereler çökebilir",
-   "summary": "20 Kasım Cuma günü sona ermesi gereken Birleşmiş Milletler (BM) iklim konferansı COP31'de uzayan görüşmelerin ardından Antalya Paktı adı verilen bir taslak yayımlandı. Avrupa Birliği ve Panama'nın teklifi resmen…",
-   "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-22T12:27:58+00:00",
-   "url": "/haber/cop31-antalya-pakti-kabul-edilmedi-muzakereler-cokebilir-953dd76f/"
   },
   {
    "id": "72784738",
@@ -165,6 +209,17 @@
    "category": "gundem",
    "date": "2026-11-22T11:59:36+00:00",
    "url": "/haber/kktc-basbakani-ustel-hedefimiz-kktc-yi-daha-ileriye-tasimak-f08e6c34/"
+  },
+  {
+   "id": "1872412d",
+   "title": "Gençlerbirliği’nin yeni başkanı Ali Osman Avşar oldu",
+   "summary": "Kırmızı-siyahlı kulübün tüzük değişikliği yaptığı olağanüstü seçimli genel kurulunda başkan seçilen Ali Osman Avşar, \"Gençlerbirliği'ne iki evladıma nasıl bakmışsam öyle bakacağım.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-nin-yeni-baskani-ali-osman-avsar-oldu/4133539",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T11:53:34+00:00",
+   "url": "/haber/genclerbirligi-nin-yeni-baskani-ali-osman-avsar-oldu-1872412d/"
   },
   {
    "id": "c3b66362",
@@ -297,39 +352,6 @@
    "category": "gundem",
    "date": "2026-11-22T10:51:15+00:00",
    "url": "/haber/genelkurmay-baskani-orgeneral-bayraktaroglu-somali-de-bazi-temaslarda-63c1302b/"
-  },
-  {
-   "id": "703e0b23",
-   "title": "Türk sporcular, Dünya Para Tekvando Şampiyonası'nda 4 altın madalya kazandı",
-   "summary": "Dünya Para Tekvando Şampiyonası'nda Türkiye'yi temsil eden sporcular, 4 altın, 1 gümüş ve 5 bronz madalya kazanarak takım sıralamasında 2'nciliği elde etti.",
-   "link": "https://www.aa.com.tr/tr/spor/turk-sporcular-dunya-para-tekvando-sampiyonasinda-4-altin-madalya-kazandi/4133498",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T10:44:23+00:00",
-   "url": "/haber/turk-sporcular-dunya-para-tekvando-sampiyonasi-nda-4-altin-madalya-kaz-703e0b23/"
-  },
-  {
-   "id": "5da193d8",
-   "title": "Vietnam’ın Trang An vadilerinde kadınlar geçimlerini küreklerle sağlıyor",
-   "summary": "Vietnam'ın başkenti Hanoi'nin 90 kilometre güneyindeki turistik Ninh Binh kentinde, çoğunluğu kadınlardan oluşan yerel halk, \"sampan\" adı verilen geleneksel kayıklarla turistleri Trang An vadilerinde gezdirerek geçimini…",
-   "link": "https://www.aa.com.tr/tr/dunya/vietnam-in-trang-an-vadilerinde-kadinlar-gecimlerini-kureklerle-sagliyor/4133483",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T10:31:35+00:00",
-   "url": "/haber/vietnam-in-trang-an-vadilerinde-kadinlar-gecimlerini-kureklerle-sagliy-5da193d8/"
-  },
-  {
-   "id": "262e2f98",
-   "title": "NATO, Polonya hava sahasının ihlalini görüşmek için toplanacak",
-   "summary": "NATO, Polonya hava sahasının ihlal edilmesini görüşmek üzere yarın Kuzey Atlantik Konseyi'nin toplanacağını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/nato-polonya-hava-sahasinin-ihlalini-gorusmek-icin-toplanacak/4133482",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T10:30:17+00:00",
-   "url": "/haber/nato-polonya-hava-sahasinin-ihlalini-gorusmek-icin-toplanacak-262e2f98/"
   },
   {
    "id": "1fe64593",
@@ -761,17 +783,6 @@
    "url": "/haber/cop31de-antalya-mutabakati-icin-son-viraj-fce5760f/"
   },
   {
-   "id": "16bf67cd",
-   "title": "Yarıyıl tatili ne zaman, hangi ayda başlıyor? 2026-2027 MEB yarıyıl tatili takvimi",
-   "summary": "Millî Eğitim Bakanlığına (MEB) bağlı ilk ve ortaöğretim kurumlarında eğitim gören milyonlarca öğrenci kasım ara tatilini tamamlarken, eğitim-öğretim yılının en uzun kış tatili olan yarıyıl tatili araştırmaları başladı.…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-yariyil-tatili-ne-zaman-hangi-ayda-basliyor-2026-2027-meb-yariyil-tatili-takvimi-1752008",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_44e3cdc013da1f534fce3b6f178f68d9-857790.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T06:34:05+00:00",
-   "url": "/haber/yariyil-tatili-ne-zaman-hangi-ayda-basliyor-2026-2027-meb-yariyil-tati-16bf67cd/"
-  },
-  {
    "id": "7b095a8e",
    "title": "Epic Games'in yeni ücretsiz oyunları belli oldu: İşte bu haftanın oyunları",
    "summary": "Epic Games Store'un yeni ücretsiz oyunları belli oldu. 26 Kasım 3 Aralık tarihleri arasında bir oyun ve hediye paketi ücretsiz olarak kütüphaneye eklenebilecek. İşte detaylar.",
@@ -816,17 +827,6 @@
    "url": "/haber/microsoft-to-do-30-haziran-2027-de-kapaniyor-08539085/"
   },
   {
-   "id": "55860933",
-   "title": "NIO Firefly Haven Avrupa'da tanıtıldı",
-   "summary": "NIO'nun küçük elektrikli otomobil markası Firefly, tasarım odaklı Halo serisinin ilk modeli Haven'ı Oslo'da tanıttı. Siparişler açıldı, teslimatlar 2027 baharında başlayacak.",
-   "link": "https://shiftdelete.net/nio-firefly-haven-avrupa-halo-serisi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nio-firefly-haven-avrupa-kapak-2211.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-22T05:00:07+00:00",
-   "url": "/haber/nio-firefly-haven-avrupa-da-tanitildi-55860933/"
-  },
-  {
    "id": "e25bce2d",
    "title": "Tesla, otonom sürüş yazılımı FSD v15’i tanıttı: İşte tüm yenilikler",
    "summary": "Tesla, FSD V15 güncellemesini yayınladı. Yeni sürüm çukurları ve trafik kameralarını daha iyi algılıyor. Tesla ayrıca güvenlik açısından kritik müdahalelerde 25 kat iyileşme sağlandığını öne sürüyor.",
@@ -858,6 +858,17 @@
    "category": "teknoloji",
    "date": "2026-11-21T19:39:18+00:00",
    "url": "/haber/abd-de-teknoloji-krizi-buyuyor-trump-siber-guvenlik-direktorunu-kovdu-744b3e66/"
+  },
+  {
+   "id": "1e72c6f6",
+   "title": "Binnur Ersay'ın üç temalı kişisel sergisi Galataport'ta sanatseverlerle buluştu",
+   "summary": "Sanatçı Binnur Ersay'ın \"Zamansız Nallar\", \"Renklerin Hafızası\" ve \"Yedi Tepe Bir Bakış\" başlıklı üç bölümden oluşan kişisel resim sergisi, Galataport İstanbul Paket Postanesi'nde sanatseverlerle buluştu.",
+   "link": "https://www.aa.com.tr/tr/kultur/binnur-ersayin-uc-temali-kisisel-sergisi-galataportta-sanatseverlerle-bulustu/4133182",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-21T19:02:17+00:00",
+   "url": "/haber/binnur-ersay-in-uc-temali-kisisel-sergisi-galataport-ta-sanatseverlerl-1e72c6f6/"
   },
   {
    "id": "bf42ac5a",
@@ -1078,17 +1089,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T14:44:03+00:00",
    "url": "/haber/mercedes-amg-gt-4-kapi-coupe-turkiye-de-satisa-cikti-iste-fiyati-ve-oz-83ced8fc/"
-  },
-  {
-   "id": "3b800fea",
-   "title": "HGS icraları durduruldu",
-   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, özel otoyol şirketlerinin süreyi aşan tahsilatları kapsamında yürüttüğü avukatlık ve icra uygulamalarının derhal durdurulacağını ve uygulamanın yeniden düzenleneceğini…",
-   "link": "https://www.trthaber.com/haber/ekonomi/hgs-icralari-durduruldu-963982.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2426000/hgs-2426763.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-20T14:03:00+00:00",
-   "url": "/haber/hgs-icralari-durduruldu-3b800fea/"
   },
   {
    "id": "05b930a9",
