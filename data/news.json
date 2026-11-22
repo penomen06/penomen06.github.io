@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-22T16:30:56.634663+00:00",
+ "updated": "2026-11-22T17:01:03.652261+00:00",
  "items": [
+  {
+   "id": "c35d96f8",
+   "title": "Alzheimer tedavisinde yeni umut: Hafızayı gençleştiren burun damlaları",
+   "summary": "Bilim insanları, mRNA teknolojisini kullanarak geliştirilen burun damlalarıyla yaşlı farelerde hafıza ve öğrenme becerilerini yeniden gençlik seviyesine taşıdı.",
+   "link": "https://www.donanimhaber.com/alzheimer-tedavisinde-yeni-umut-hafizayi-genclestiren-damla--213239",
+   "image": "https://www.donanimhaber.com/images/images/haber/213239/1200x675alzheimer-tedavisinde-yeni-umut-hafizayi-genclestiren-damla.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-22T17:00:00+00:00",
+   "url": "/haber/alzheimer-tedavisinde-yeni-umut-hafizayi-genclestiren-burun-damlalari-c35d96f8/"
+  },
+  {
+   "id": "0bda1447",
+   "title": "COP31'de Örtü Karar'a itiraz. Bakan Murat Kurum: Yeni bir metin olmayacak",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 zirvesi \"Örtü Karar\" taslak metnine ilişkin, \"Artık söz de karar da tarafların. Biz yapacağımız her şeyi yaptık.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cop31de-ortu-karara-itiraz-bakan-murat-kurum-yeni-bir-metin-olmayacak-1752080",
+   "image": "https://images.ntv.com.tr/images/muratkurumcop31-134880.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T16:56:07+00:00",
+   "url": "/haber/cop31-de-ortu-karar-a-itiraz-bakan-murat-kurum-yeni-bir-metin-olmayaca-0bda1447/"
+  },
+  {
+   "id": "20413f6d",
+   "title": "Şarj tüketimi %78,3 arttı: Trugo zirvede",
+   "summary": "EVCify'ın EPDK verilerine dayanan Ekim 2026 raporuna göre Tesla 6. sıradan 5. sıraya yükseldi. İlk üç operatörün toplam pazar payı ise bir yılda yüzde 48,95'ten yüzde 43,46'ya geriledi.",
+   "link": "https://shiftdelete.net/elektrikli-arac-sarj-tuketimi-ekim-2026",
+   "image": "https://ares.shiftdelete.net/2023/12/odmd-aciklama-elektrikli-araclar-tebligi-sasirtti.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-22T16:50:08+00:00",
+   "url": "/haber/sarj-tuketimi-78-3-artti-trugo-zirvede-20413f6d/"
+  },
+  {
+   "id": "953dd76f",
+   "title": "COP31 sona erdi, 'Antalya Paktı' kabul edilmedi",
+   "summary": "Birleşmiş Milletler (BM) iklim konferansı COP31'de uzayan görüşmelerin ardından Antalya Paktı adı verilen bir karar taslağı yayımlandı. Avrupa Birliği, Panama ve Norveç dahil ülkelerin teklife itiraz etmesiyle anlaşma…",
+   "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50f3/live/c6f5b6b0-e675-11f1-a5bc-ddaec99ca2c4.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-22T16:48:43+00:00",
+   "url": "/haber/cop31-sona-erdi-antalya-pakti-kabul-edilmedi-953dd76f/"
+  },
+  {
+   "id": "ea02e199",
+   "title": "BM Genel Sekreteri Guterres'ten COP31 kararları için gelişmiş ülkelere çağrı",
+   "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, gelişmiş ülkelere, iklim hedefleri için ihtiyaç duyulan uyum finansmanını 3 katına çıkarma ve sağlanan desteği en çok ihtiyaç duyan ülkelere ulaştırma taahhütlerini…",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreteri-guterresten-cop31-kararlari-icin-gelismis-ulkelere-cagri/4133722",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T16:46:32+00:00",
+   "url": "/haber/bm-genel-sekreteri-guterres-ten-cop31-kararlari-icin-gelismis-ulkelere-ea02e199/"
+  },
+  {
+   "id": "5fe96af5",
+   "title": "İran ordusu: Hürmüz Boğazı'nda 2 petrol tankeri mayına çarparak alev aldı",
+   "summary": "İran ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın doğusunda izin verilmeyen bölgeye girdiği belirtilen 2 petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinda-2-petrol-tankeri-mayina-carparak-alev-aldi/4133721",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T16:46:00+00:00",
+   "url": "/haber/iran-ordusu-hurmuz-bogazi-nda-2-petrol-tankeri-mayina-carparak-alev-al-5fe96af5/"
+  },
   {
    "id": "803e55af",
    "title": "Neuralink implantı GTA 6 oynattı: Oyunu düşünceleriyle kontrol etti",
@@ -24,17 +90,6 @@
    "url": "/haber/windows-11-e-yeni-guvenlik-kontrolu-geliyor-dfe5f22c/"
   },
   {
-   "id": "0bda1447",
-   "title": "COP31'de Örtü Karar'a itiraz. Bakan Murat Kurum: Yeni bir metin olmayacak",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 zirvesi \"Örtü Karar\" taslak metnine ilişkin, \"Artık söz de karar da tarafların. Biz yapacağımız her şeyi yaptık.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cop31de-ortu-karara-itiraz-bakan-murat-kurum-yeni-bir-metin-olmayacak-1752080",
-   "image": "https://images.ntv.com.tr/images/muratkurumcop31-134880.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T16:18:22+00:00",
-   "url": "/haber/cop31-de-ortu-karar-a-itiraz-bakan-murat-kurum-yeni-bir-metin-olmayaca-0bda1447/"
-  },
-  {
    "id": "bea68c1f",
    "title": "Çin'den ABD'nin Çinli telekomünikasyon operatörlerinin erişimini engellemesine tepki",
    "summary": "Pekin yönetimi, ABD Federal İletişim Komisyonunun (FCC) Çinli telekomünikasyon operatörlerinin ülkedeki telefon numaralarına doğrudan erişimini yasaklayan düzenlemesine tepki gösterdi.",
@@ -44,17 +99,6 @@
    "category": "gundem",
    "date": "2026-11-22T16:06:42+00:00",
    "url": "/haber/cin-den-abd-nin-cinli-telekomunikasyon-operatorlerinin-erisimini-engel-bea68c1f/"
-  },
-  {
-   "id": "953dd76f",
-   "title": "COP31 sona erdi, 'Antalya Paktı' kabul edilmedi",
-   "summary": "Birleşmiş Milletler (BM) iklim konferansı COP31'de uzayan görüşmelerin ardından Antalya Paktı adı verilen bir karar taslağı yayımlandı. Avrupa Birliği, Panama ve Norveç dahil ülkelerin teklife itiraz etmesiyle anlaşma…",
-   "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50f3/live/c6f5b6b0-e675-11f1-a5bc-ddaec99ca2c4.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-22T16:05:55+00:00",
-   "url": "/haber/cop31-sona-erdi-antalya-pakti-kabul-edilmedi-953dd76f/"
   },
   {
    "id": "c5bc369f",
@@ -363,17 +407,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T13:30:00+00:00",
    "url": "/haber/sessiz-laptop-onerileri-kutuphane-ve-ortak-calisma-alanlari-icin-secen-c07ba2fe/"
-  },
-  {
-   "id": "9bc165bf",
-   "title": "60 saniyede bugün (22 Kasım 2026)",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-22-kasim-2026/4133596",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T13:17:59+00:00",
-   "url": "/haber/60-saniyede-bugun-22-kasim-2026-9bc165bf/"
   },
   {
    "id": "bbc7940b",
@@ -706,17 +739,6 @@
    "url": "/haber/neuralink-hastasi-gta-6-yi-beyin-cipiyle-oynadi-eeadd8da/"
   },
   {
-   "id": "2f03fa88",
-   "title": "BİM marketlerde HP kablosuz yazıcı var",
-   "summary": "22 Kasım BİM Aktüel teknoloji ürünleri arasında HP markasına ait Smart Tank 581 hepsi bir arada kablosuz yazıcı ve TCL QLED Android TV modeli yer alıyor.",
-   "link": "https://www.donanimhaber.com/22-kasim-bim-aktuel-katalogunda-neler-var--213236",
-   "image": "https://www.donanimhaber.com/images/images/haber/213236/1200x67522-kasim-bim-aktuel-katalogunda-neler-var.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-22T09:30:00+00:00",
-   "url": "/haber/bim-marketlerde-hp-kablosuz-yazici-var-2f03fa88/"
-  },
-  {
    "id": "d9be4647",
    "title": "TBMM Başkanı Kurtulmuş Avustralya'ya gidecek",
    "summary": "TBMM Başkanı Numan Kurtulmuş, MIKTA 12’nci Parlamento Başkanları Toplantısı’na katılmak üzere 24-29 Kasım'da beraberindeki parlamento heyeti ile Avustralya’ya resmi ziyarette bulunacak.",
@@ -847,17 +869,6 @@
    "category": "gundem",
    "date": "2026-11-22T07:30:00+00:00",
    "url": "/haber/tbmm-de-butce-maratonunun-komisyon-asamasi-bu-hafta-tamamlanacak-11441358/"
-  },
-  {
-   "id": "3cb668cf",
-   "title": "Golf GTI Rabbit Edition yalnız ABD'de satılacak",
-   "summary": "Volkswagen, ilk nesil GTI'a selam veren sınırlı sayıdaki Golf GTI Rabbit Edition'ı Los Angeles'ta tanıttı. Model yeşil rengi, Golf R jantları ve adaptif süspansiyonuyla ABD'ye özel olacak.",
-   "link": "https://shiftdelete.net/volkswagen-golf-gti-rabbit-edition-tanitildi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/vw-golf-gti-rabbit-edition-kapak-2211.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-22T07:07:52+00:00",
-   "url": "/haber/golf-gti-rabbit-edition-yalniz-abd-de-satilacak-3cb668cf/"
   },
   {
    "id": "fce5760f",
@@ -1166,17 +1177,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T12:31:12+00:00",
    "url": "/haber/hem-zeki-hem-cevreci-iste-yeni-hyundai-elantra-dd3174f8/"
-  },
-  {
-   "id": "5587461a",
-   "title": "\"Türkiye Yüzyılı'nda Maziden Atiye\" kamp programı Şırnak'ta düzenlendi",
-   "summary": "\"Türkiye Yüzyılı'nda Maziden Atiye\" kamp programı Şırnak'ta gerçekleştirildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-yuzyilinda-maziden-atiye-kamp-programi-sirnakta-duzenlendi/4132084",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-20T11:38:12+00:00",
-   "url": "/haber/turkiye-yuzyili-nda-maziden-atiye-kamp-programi-sirnak-ta-duzenlendi-5587461a/"
   },
   {
    "id": "75e64bee",
