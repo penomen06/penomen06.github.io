@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-22T19:31:04.348744+00:00",
+ "updated": "2026-11-22T20:01:03.769610+00:00",
  "items": [
+  {
+   "id": "2105880c",
+   "title": "Sarıyer'de \"aslan gördüm\" ihbarı: Ekipler çalışma başlattı",
+   "summary": "Sarıyer'de aslan görüldüğü ihbarı üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen hayvan tespit edilirken, bölgede yaşayanlar uyarıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/sariyerde-aslan-gordum-ihbari-ekipler-calisma-baslatti-1752109",
+   "image": "https://images.ntv.com.tr/images/SARIYERDE-ASLAN-GORDUM-IHBARI-YAPILDI_1621675_482115-388770(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T19:57:51+00:00",
+   "url": "/haber/sariyer-de-aslan-gordum-ihbari-ekipler-calisma-baslatti-2105880c/"
+  },
+  {
+   "id": "f90d1dc8",
+   "title": "Sarıyer'de \"aslan gördüm\" ihbarı",
+   "summary": "Sarıyer'de aslan görüldüğü ihbarı üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen hayvan tespit edilirken, bölgede yaşayanlar uyarıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-sariyerde-aslan-gordum-ihbari-1752110",
+   "image": "https://images.ntv.com.tr/images/SARIYERDE-ASLAN-GORDUM-IHBARI-YAPILDI_1621675_482115-388770(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T19:57:30+00:00",
+   "url": "/haber/sariyer-de-aslan-gordum-ihbari-f90d1dc8/"
+  },
+  {
+   "id": "eb660b8b",
+   "title": "Yapay zekâ alışveriş alışkanlıklarını da değiştirdi: Müşteriler artık önce ona soruyor",
+   "summary": "ChatGPT ve Gemini gibi yapay zekâ araçları, tüketicilerin satın alma kararlarında giderek daha etkili oluyor. Adobe'nin son raporu, bu değişimin e-ticaret sektörüne etkisini ortaya koyuyor.",
+   "link": "https://www.donanimhaber.com/yapay-zeka-kaynakli-alisveris-trafigi-bir-yilda-yuzde-71-artti--213245",
+   "image": "https://www.donanimhaber.com/images/images/haber/213245/1200x675yapay-zeka-kaynakli-alisveris-trafigi-bir-yilda-yuzde-71-artti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-22T19:41:03+00:00",
+   "url": "/haber/yapay-zeka-alisveris-aliskanliklarini-da-degistirdi-musteriler-artik-o-eb660b8b/"
+  },
+  {
+   "id": "ff8db530",
+   "title": "Marmara ve Ege'de feribot seferlerine fırtına engeli",
+   "summary": "Bursa Deniz Otobüsleri (BUDO), İstanbul Deniz Otobüsleri (İDO) ile Çanakkale’nin Gökçeada ve Bozcaada ilçelerine yarın yapılması planlanan bazı feribot seferleri iptal edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/marmara-ve-egede-feribot-seferlerine-firtina-engeli-1752096",
+   "image": "https://images.ntv.com.tr/images/GOKCEADA-VE-BOZCAADA-FERIBOT-SEFERLERINE_1621465_482053-432070.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T19:41:02+00:00",
+   "url": "/haber/marmara-ve-ege-de-feribot-seferlerine-firtina-engeli-ff8db530/"
+  },
+  {
+   "id": "af06c126",
+   "title": "ABD'de bir bebek partisinde silahlı saldırıya uğrayan 3 kişi hayatını kaybetti",
+   "summary": "ABD'nin Ohio eyaletinde bir bebek partisinde (baby shower) silahlı saldırıya uğrayan 3 kişi hayatını kaybetti, 1 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-bir-bebek-partisinde-silahli-saldiriya-ugrayan-3-kisi-hayatini-kaybetti/4133825",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T19:34:23+00:00",
+   "url": "/haber/abd-de-bir-bebek-partisinde-silahli-saldiriya-ugrayan-3-kisi-hayatini-af06c126/"
+  },
   {
    "id": "d9ef4b8b",
    "title": "Delta Air Lines uçuşları teknik sorun nedeniyle ABD genelinde gecikme ve iptaller yaşıyor",
@@ -33,6 +88,17 @@
    "category": "gundem",
    "date": "2026-11-22T19:04:55+00:00",
    "url": "/haber/sans-topu-sonuclari-sorgulama-ekrani-26-agustos-mpi-sans-topu-sonuclar-35ca853a/"
+  },
+  {
+   "id": "5186455d",
+   "title": "Trump, İran'a yönelik saldırıların yeni yıldan sonra yeniden başlayabileceği uyarısında bulundu",
+   "summary": "ABD Başkanı Donald Trump, İran ile anlaşmaya varılamaması halinde 1 Ocak'tan sonra bu ülkeye yönelik askeri saldırı emri verebileceğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-irana-yonelik-saldirilarin-yeni-yildan-sonra-yeniden-baslayabilecegi-uyarisinda-bulundu/4133806",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T18:50:35+00:00",
+   "url": "/haber/trump-iran-a-yonelik-saldirilarin-yeni-yildan-sonra-yeniden-baslayabil-5186455d/"
   },
   {
    "id": "c5a63f35",
@@ -189,17 +255,6 @@
    "url": "/haber/nyt-cin-in-casuslari-nvidia-skandalindan-yillar-once-yapay-zeka-cipler-155309eb/"
   },
   {
-   "id": "4bdca5b5",
-   "title": "Gökçeada ve Bozcaada feribot seferlerine fırtına engeli",
-   "summary": "Çanakkale’nin Gökçeada ve Bozcaada ilçelerine yarın yapılması planlanan bazı feribot seferleri iptal edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli-1752096",
-   "image": "https://images.ntv.com.tr/images/GOKCEADA-VE-BOZCAADA-FERIBOT-SEFERLERINE_1621465_482053-432070.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T17:27:29+00:00",
-   "url": "/haber/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli-4bdca5b5/"
-  },
-  {
    "id": "283fe931",
    "title": "Yemen'de İran destekli Husiler ile hükümet güçleri arasındaki çatışmalar sürüyor",
    "summary": "Yemen'de İran destekli Husiler ile hükümet güçleri arasında Taiz ve Marib'deki cephelerde çatışmalar yaşandı.",
@@ -310,17 +365,6 @@
    "url": "/haber/windows-11-e-yeni-guvenlik-kontrolu-geliyor-dfe5f22c/"
   },
   {
-   "id": "bea68c1f",
-   "title": "Çin'den ABD'nin Çinli telekomünikasyon operatörlerinin erişimini engellemesine tepki",
-   "summary": "Pekin yönetimi, ABD Federal İletişim Komisyonunun (FCC) Çinli telekomünikasyon operatörlerinin ülkedeki telefon numaralarına doğrudan erişimini yasaklayan düzenlemesine tepki gösterdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/cinden-abdnin-cinli-telekomunikasyon-operatorlerinin-erisimini-engellemesine-tepki/4133700",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T16:06:42+00:00",
-   "url": "/haber/cin-den-abd-nin-cinli-telekomunikasyon-operatorlerinin-erisimini-engel-bea68c1f/"
-  },
-  {
    "id": "c5bc369f",
    "title": "Motorola Moto Tag 3 Amazon'da ortaya çıktı: Yenilikler sınırlı",
    "summary": "Motorola Moto Tag 3, Amazon İngiltere ve İtalya'daki ürün listelerinde ortaya çıktı. İşte yeni takip cihazının beklenen teknik özellikleri ve renk seçenekleri:",
@@ -352,17 +396,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T15:50:09+00:00",
    "url": "/haber/signal-sohbetleri-siri-ve-gemini-ye-kapatiyor-687f0602/"
-  },
-  {
-   "id": "e8936612",
-   "title": "Trump, Senato Çoğunluk Lideri olması halinde Demokrat Senatör Schumer ile çalışmasının zor olacağını belirtti",
-   "summary": "ABD Başkanı Donald Trump, Demokrat Senatör Chuck Schumer'ın Senato Çoğunluk Lideri olması halinde kendisiyle çalışmasının \"çok zor\" olacağını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-senato-cogunluk-lideri-olmasi-halinde-demokrat-senator-schumer-ile-calismasinin-zor-olacagini-belirtti/4133692",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T15:47:38+00:00",
-   "url": "/haber/trump-senato-cogunluk-lideri-olmasi-halinde-demokrat-senator-schumer-i-e8936612/"
   },
   {
    "id": "27dbc7b9",
@@ -640,17 +673,6 @@
    "url": "/haber/claude-96-kb-lik-dosyaya-atlantis-i-sigdirdi-735480d9/"
   },
   {
-   "id": "85f95398",
-   "title": "Oyuncu monitörlerinde 1250Hz dönemi",
-   "summary": "Oyuncu monitörlerinde rekor olarak gösterilen 1000Hz tazeleme hızı geride kalmak üzere. TCL CSOT panel departmanı 1250Hz tazeleme hızı sunan monitörünü tanıttı.",
-   "link": "https://www.donanimhaber.com/tazeleme-hizlarinda-yeni-rekor--213241",
-   "image": "https://www.donanimhaber.com/images/images/haber/213241/1200x675tazeleme-hizlarinda-yeni-rekor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-22T11:30:00+00:00",
-   "url": "/haber/oyuncu-monitorlerinde-1250hz-donemi-85f95398/"
-  },
-  {
    "id": "e84c3827",
    "title": "KIZILELMA anma puluyla ölümsüzleşecek",
    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Türkiye'nin İlk İnsansız Savaş Uçağı KIZILELMA\" konulu anma pulu ve ilk gün zarfını 29 Kasım'da tedavüle sunacaklarını açıkladı.",
@@ -706,17 +728,6 @@
    "url": "/haber/galler-prensesi-kate-yeni-belgeselde-kanser-yolculugunu-anlatiyor-8e47ac9e/"
   },
   {
-   "id": "701fcbd6",
-   "title": "Kabine yarın toplanıyor. Emekliye refah payı düzenlemesi ve fon soruşturması ele alınacak",
-   "summary": "Cumhurbaşkanlığı Kabinesi yarın Beştepe'de toplanacak. Gözler, 17 milyon emekliyi kapsayacak refah payı düzenlemesinde olacak. Toplantıda çalışmanın geldiği son durumun ele alınması bekleniyor.",
-   "link": "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-emekliye-refah-payi-duzenlemesi-ve-fon-sorusturmasi-ele-alinacak-1752049",
-   "image": "https://images.ntv.com.tr/images/kabine-925856.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T10:03:41+00:00",
-   "url": "/haber/kabine-yarin-toplaniyor-emekliye-refah-payi-duzenlemesi-ve-fon-sorustu-701fcbd6/"
-  },
-  {
    "id": "08bced82",
    "title": "Apple Destek Topluluğu 28 yıl sonra kapandı",
    "summary": "Apple'ın kullanıcıların birbirine yardım ettiği Destek Topluluğu forumu 20 Kasım'da kapandı. discussions.apple.com artık Apple Destek'e yönleniyor.",
@@ -748,17 +759,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T09:53:44+00:00",
    "url": "/haber/eski-openai-cto-su-mira-murati-nin-kurdugu-thinking-machines-lab-lokal-7234e75c/"
-  },
-  {
-   "id": "3f8ef651",
-   "title": "Matematik öğrencisi Zehra, okul masrafları için taksi şoförü oldu",
-   "summary": "Bursa Uludağ Üniversitesi öğrencisi 22 yaşındaki Zehra Karadaş, eğitim masraflarını karşılamak ve harçlığını çıkarmak için taksi şoförlüğü yapıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/video-matematik-ogrencisi-zehra-okul-masraflari-icin-taksi-soforu-oldu-1752048",
-   "image": "https://images.ntv.com.tr/images/UNIVERSITELI-ZEHRA-MUSTERI-OLARAK-BINDI_1620447_481752-428079.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T09:53:26+00:00",
-   "url": "/haber/matematik-ogrencisi-zehra-okul-masraflari-icin-taksi-soforu-oldu-3f8ef651/"
   },
   {
    "id": "2cdf999b",
