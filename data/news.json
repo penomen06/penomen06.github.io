@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:30:57.451122+00:00",
+ "updated": "2026-11-22T02:00:56.881204+00:00",
  "items": [
   {
    "id": "7f175d6d",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-22T01:00:00+00:00",
+   "date": "2026-11-22T02:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-7f175d6d/"
+  },
+  {
+   "id": "d35910cc",
+   "title": "Bakan Fidan'dan vize açıklaması: Birkaç konunun Meclis'ten geçmesi gerekiyor",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Schengen vizesi sorununun çözümüne ilişkin, “Tamamlamamız gereken birkaç konu var, Meclis’ten geçmesi gerekiyor, Cumhurbaşkanımız da talimat verdi.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-fidandan-vize-aciklamasi-birkac-konu-meclisten-gecmesi-gerekiyor-1751968",
+   "image": "https://images.ntv.com.tr/images/Bakanfidan-429967.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T01:53:53+00:00",
+   "url": "/haber/bakan-fidan-dan-vize-aciklamasi-birkac-konunun-meclis-ten-gecmesi-gere-d35910cc/"
   },
   {
    "id": "24b113c5",
@@ -44,17 +55,6 @@
    "category": "gundem",
    "date": "2026-11-21T22:47:20+00:00",
    "url": "/haber/bakan-kurum-sabah-10-00-10-30-itibariyla-genel-kurulumuza-ortu-kararim-9be82566/"
-  },
-  {
-   "id": "d35910cc",
-   "title": "Bakan Fidan'dan vize açıklaması: Birkaç konu Meclis'ten geçmesi gerekiyor",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Schengen vizesi sorununun çözümüne ilişkin, “Tamamlamamız gereken birkaç konu var, Meclis’ten geçmesi gerekiyor, Cumhurbaşkanımız da talimat verdi.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-fidandan-vize-aciklamasi-birkac-konu-meclisten-gecmesi-gerekiyor-1751968",
-   "image": "https://images.ntv.com.tr/images/Bakanfidan-429967.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-21T21:55:42+00:00",
-   "url": "/haber/bakan-fidan-dan-vize-aciklamasi-birkac-konu-meclis-ten-gecmesi-gerekiy-d35910cc/"
   },
   {
    "id": "7c178467",
