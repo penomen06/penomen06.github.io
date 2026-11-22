@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-22T20:30:57.054813+00:00",
+ "updated": "2026-11-22T21:01:06.942740+00:00",
  "items": [
+  {
+   "id": "019f9cba",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-kasim-2026-1752114",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T21:00:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-019f9cba/"
+  },
+  {
+   "id": "2105880c",
+   "title": "Sarıyer'de \"aslan gördüm\" ihbarı: Ekipler çalışma başlattı",
+   "summary": "Sarıyer'de aslan görüldüğü ihbarı üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen hayvan tespit edilirken, bölgede yaşayanlar uyarıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/sariyerde-aslan-gordum-ihbari-ekipler-calisma-baslatti-1752109",
+   "image": "https://images.ntv.com.tr/images/SARIYERDE-ASLAN-GORDUM-IHBARI-YAPILDI_1621675_482115-388770(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T20:47:28+00:00",
+   "url": "/haber/sariyer-de-aslan-gordum-ihbari-ekipler-calisma-baslatti-2105880c/"
+  },
+  {
+   "id": "592c8ce9",
+   "title": "Van'ın 2 ilçesinde kar yağışı nedeniyle eğitime yarın ara verildi",
+   "summary": "Van'ın Çaldıran ve Muradiye ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/vanin-2-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi/4133858",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T20:39:42+00:00",
+   "url": "/haber/van-in-2-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi-592c8ce9/"
+  },
   {
    "id": "67d6b5df",
    "title": "GTA 6, Xbox'ta 60 FPS oynanabiliyor",
@@ -11,17 +44,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T20:30:00+00:00",
    "url": "/haber/gta-6-xbox-ta-60-fps-oynanabiliyor-67d6b5df/"
-  },
-  {
-   "id": "2105880c",
-   "title": "Sarıyer'de \"aslan gördüm\" ihbarı: Ekipler çalışma başlattı",
-   "summary": "Sarıyer'de aslan görüldüğü ihbarı üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen hayvan tespit edilirken, bölgede yaşayanlar uyarıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/sariyerde-aslan-gordum-ihbari-ekipler-calisma-baslatti-1752109",
-   "image": "https://images.ntv.com.tr/images/SARIYERDE-ASLAN-GORDUM-IHBARI-YAPILDI_1621675_482115-388770(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T20:27:08+00:00",
-   "url": "/haber/sariyer-de-aslan-gordum-ihbari-ekipler-calisma-baslatti-2105880c/"
   },
   {
    "id": "7402e96c",
@@ -44,6 +66,17 @@
    "category": "gundem",
    "date": "2026-11-22T20:19:09+00:00",
    "url": "/haber/thsf-2026-fpv-drone-yesilay-turkiye-sampiyonasi-tamamlandi-4a9bd50c/"
+  },
+  {
+   "id": "7bbccf14",
+   "title": "Sarıyerde aslan alarmı: Yakalama çalışması başladı",
+   "summary": "İstanbul Sarıyer'de bir kişinin aslan gördüğünü ihbar etmesi üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde aslan tespit edilirken, bölgede yaşayanlar Jandarma ekipleri tarafından uyarıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/sariyerde-aslan-alarmi-yakalama-calismasi-basladi-964155.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/aslan-dha-2505321.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-22T20:11:00+00:00",
+   "url": "/haber/sariyerde-aslan-alarmi-yakalama-calismasi-basladi-7bbccf14/"
   },
   {
    "id": "f90d1dc8",
@@ -354,28 +387,6 @@
    "url": "/haber/sarj-tuketimi-78-3-artti-trugo-zirvede-20413f6d/"
   },
   {
-   "id": "ea02e199",
-   "title": "BM Genel Sekreteri Guterres'ten COP31 kararları için gelişmiş ülkelere çağrı",
-   "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, gelişmiş ülkelere, iklim hedefleri için ihtiyaç duyulan uyum finansmanını 3 katına çıkarma ve sağlanan desteği en çok ihtiyaç duyan ülkelere ulaştırma taahhütlerini…",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreteri-guterresten-cop31-kararlari-icin-gelismis-ulkelere-cagri/4133722",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T16:46:32+00:00",
-   "url": "/haber/bm-genel-sekreteri-guterres-ten-cop31-kararlari-icin-gelismis-ulkelere-ea02e199/"
-  },
-  {
-   "id": "8cb61746",
-   "title": "Hürmüz Boğazı'nda 4 petrol tankeri mayına çarptı",
-   "summary": "Hürmüz Boğazı'nın doğusunda izin verilmeyen bölgeye girdiği belirtilen 4 petrol tankerinin deniz mayınına çarparak alev aldığı duyuruldu.",
-   "link": "https://www.aa.com.tr/tr/dunya/hurmuz-bogazinda-4-petrol-tankeri-mayina-carpti/4133721",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-22T16:46:00+00:00",
-   "url": "/haber/hurmuz-bogazi-nda-4-petrol-tankeri-mayina-carpti-8cb61746/"
-  },
-  {
    "id": "803e55af",
    "title": "Neuralink implantı GTA 6 oynattı: Oyunu düşünceleriyle kontrol etti",
    "summary": "Neuralink, beyin implantı kullanan bir katılımcının GTA 6 oynadığı görüntüleri paylaştı. Oyuncu, oyundaki sürat teknesini, uçağı ve araçları beyin sinyalleriyle kontrol etti.",
@@ -673,17 +684,6 @@
    "url": "/haber/claude-96-kb-lik-dosyaya-atlantis-i-sigdirdi-735480d9/"
   },
   {
-   "id": "e84c3827",
-   "title": "KIZILELMA anma puluyla ölümsüzleşecek",
-   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Türkiye'nin İlk İnsansız Savaş Uçağı KIZILELMA\" konulu anma pulu ve ilk gün zarfını 29 Kasım'da tedavüle sunacaklarını açıkladı.",
-   "link": "https://www.ntv.com.tr/turkiye/kizilelma-anma-puluyla-olumsuzlesecek-1752056",
-   "image": "https://images.ntv.com.tr/anadolu-ajansi/20261122_2_77043069_131411039_Web.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T11:02:37+00:00",
-   "url": "/haber/kizilelma-anma-puluyla-olumsuzlesecek-e84c3827/"
-  },
-  {
    "id": "7ecefd36",
    "title": "BADBOX 3.0 botneti TV kutularıyla geri döndü",
    "summary": "HUMAN araştırmacılarına göre BADBOX 3.0, virüslü Android TV kutuları üzerinden günde 40 milyar sahte reklam isteği üretti. Bu, açıklanan en büyük reklam dolandırıcılığı.",
@@ -858,6 +858,17 @@
    "category": "gundem",
    "date": "2026-11-22T08:24:00+00:00",
    "url": "/haber/cimer-e-cop31-basvurulari-tarihi-bir-donum-noktasi-olarak-hatirlansin-94f930e7/"
+  },
+  {
+   "id": "71779dfb",
+   "title": "Japonya, yıllık 2 milyon tona kadar karbondioksit depolamayı hedefliyor",
+   "summary": "Japan CCS Uluslararası İlişkiler Genel Müdürü ve Kurumsal Danışmanı Sawada Yoshihiro, \"Hedef, 2050'ye kadar yıllık 120 ila 240 milyon metrik ton karbondioksit depolayarak emisyonların azaltılmasına katkıda bulunmak.\"…",
+   "link": "https://www.aa.com.tr/tr/gundem/japonya-yillik-2-milyon-tona-kadar-karbondioksit-depolamayi-hedefliyor/4133390",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-22T08:20:07+00:00",
+   "url": "/haber/japonya-yillik-2-milyon-tona-kadar-karbondioksit-depolamayi-hedefliyor-71779dfb/"
   },
   {
    "id": "21e09454",
@@ -1078,17 +1089,6 @@
    "category": "gundem",
    "date": "2026-11-21T06:09:00+00:00",
    "url": "/haber/21-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-f29adb07/"
-  },
-  {
-   "id": "635b08f2",
-   "title": "BM Genel Kurulu, Filistin halkının bağımsızlık hakkına ilişkin tasarıyı 162 oyla kabul etti",
-   "summary": "Birleşmiş Milletler (BM) Genel Kurulu, Filistin halkının kendi kaderini tayin etme ve bağımsızlık hakkını teyit eden karar taslağını 8'e karşı 162 oyla kabul etti.",
-   "link": "https://www.trthaber.com/haber/dunya/bm-genel-kurulu-filistin-halkinin-bagimsizlik-hakkina-iliskin-tasariyi-162-oyla-kabul-etti-964009.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2446000/filistin-bayragi-aa-2447095.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-20T20:04:00+00:00",
-   "url": "/haber/bm-genel-kurulu-filistin-halkinin-bagimsizlik-hakkina-iliskin-tasariyi-635b08f2/"
   },
   {
    "id": "83ced8fc",
