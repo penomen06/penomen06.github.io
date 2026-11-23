@@ -7,18 +7,25 @@
   <language>tr</language>
   <atom:link href="https://penomen06.github.io/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>Activision NPC&#x27;leri sesli sohbetle eğitecek</title>
-    <link>https://penomen06.github.io/haber/activision-npc-leri-sesli-sohbetle-egitecek-f69f179c/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/activision-npc-leri-sesli-sohbetle-egitecek-f69f179c/</guid>
-    <pubDate>Mon, 23 Nov 2026 03:30:07 +0000</pubDate>
-    <description>Activision&#x27;ın yeni patent başvurusu, oyuncuların Discord gibi uygulamalardaki sesli sohbet tepkilerini yapay zekaya öğretip oyun karakterlerine konuşturmayı anlatıyor.</description>
+    <title>OpenAI&#x27;dan yapay zekaya ortak hız sınırı önerisi</title>
+    <link>https://penomen06.github.io/haber/openai-dan-yapay-zekaya-ortak-hiz-siniri-onerisi-765d5860/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/openai-dan-yapay-zekaya-ortak-hiz-siniri-onerisi-765d5860/</guid>
+    <pubDate>Mon, 23 Nov 2026 04:00:09 +0000</pubDate>
+    <description>OpenAI&#x27;ın baş bilim insanı Jakub Pachocki, modellerinin iç ölçüm verilerini ilk kez paylaştı ve yapay zeka şirketlerine perplexity temelli ortak gelişim sınırları önerdi.</description>
   </item>
   <item>
     <title>Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Kasım 2026</title>
     <link>https://penomen06.github.io/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-019f9cba/</link>
     <guid isPermaLink="true">https://penomen06.github.io/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-019f9cba/</guid>
-    <pubDate>Mon, 23 Nov 2026 03:30:01 +0000</pubDate>
+    <pubDate>Mon, 23 Nov 2026 04:00:00 +0000</pubDate>
     <description>Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…</description>
+  </item>
+  <item>
+    <title>Activision NPC&#x27;leri sesli sohbetle eğitecek</title>
+    <link>https://penomen06.github.io/haber/activision-npc-leri-sesli-sohbetle-egitecek-f69f179c/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/activision-npc-leri-sesli-sohbetle-egitecek-f69f179c/</guid>
+    <pubDate>Mon, 23 Nov 2026 03:30:07 +0000</pubDate>
+    <description>Activision&#x27;ın yeni patent başvurusu, oyuncuların Discord gibi uygulamalardaki sesli sohbet tepkilerini yapay zekaya öğretip oyun karakterlerine konuşturmayı anlatıyor.</description>
   </item>
   <item>
     <title>Sarıyer&#x27;de aslan alarmı. Ekiplerin yakalama çalışmaları devam ediyor</title>
@@ -348,13 +355,6 @@
     <guid isPermaLink="true">https://penomen06.github.io/haber/signal-sohbetleri-siri-ve-gemini-ye-kapatiyor-687f0602/</guid>
     <pubDate>Sun, 22 Nov 2026 15:50:09 +0000</pubDate>
     <description>Signal, iOS 27&#x27;de ekran görüntüsünü engelleyerek ve Android&#x27;de ekran güvenliğini kendiliğinden açarak Siri ve Gemini gibi yapay zeka asistanlarının sohbetleri yakalamasının önüne geçiyor.</description>
-  </item>
-  <item>
-    <title>Bakan Gürlek&#x27;ten fon soruşturması açıklaması: 9 ülkeye kaçırılan 13 milyar TL donduruldu</title>
-    <link>https://penomen06.github.io/haber/bakan-gurlek-ten-fon-sorusturmasi-aciklamasi-9-ulkeye-kacirilan-13-mil-27dbc7b9/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/bakan-gurlek-ten-fon-sorusturmasi-aciklamasi-9-ulkeye-kacirilan-13-mil-27dbc7b9/</guid>
-    <pubDate>Sun, 22 Nov 2026 15:45:57 +0000</pubDate>
-    <description>Adalet Bakanı Akın Gürlek fon soruşturmasında, 9 ülkeye kaçırılan yaklaşık 13 milyar TL&#x27;lik varlığın dondurulduğunu açıkladı. Gürlek ayrıca 44 milyar 580 milyon TL&#x27;nin iade edildiğini duyurdu.</description>
   </item>
 </channel>
 </rss>
