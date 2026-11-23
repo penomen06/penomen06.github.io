@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-23T16:30:55.032188+00:00",
+ "updated": "2026-11-23T17:01:04.763108+00:00",
  "items": [
+  {
+   "id": "d2a4737e",
+   "title": "BM, “katil robot” silahları düzenleme konusunda anlaşmaya varamadı",
+   "summary": "BM'nin Cenevre'de düzenlediği otonom silahlar konferansı anlaşma olmadan sonlandı. 128 ülke müzakereleri sürdürme kararı alırken bağlayıcı kuralların geleceği belirsizliğini koruyor.",
+   "link": "https://www.donanimhaber.com/bm-katil-robot-silahlari-duzenleme-konusunda-anlasmadi--213264",
+   "image": "https://www.donanimhaber.com/images/images/haber/213264/1200x675bm-katil-robot-silahlari-duzenleme-konusunda-anlasmadi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-23T16:49:00+00:00",
+   "url": "/haber/bm-katil-robot-silahlari-duzenleme-konusunda-anlasmaya-varamadi-d2a4737e/"
+  },
+  {
+   "id": "42c68377",
+   "title": "Nvidia CEO'su Huang göreve döndü, şirketin hisseleri yüzde 30 arttı",
+   "summary": "Nvidia yönetim kurulu, evlilik dışı ilişkisiyle ilgili tartışmaların ardından 12 Kasım'da istifa eden CEO Jensen Huang'ı derhal geçerli olmak üzere yeniden göreve getirdi. Şirketin hisseleri yüzde 30'un üzerinde artış…",
+   "link": "https://www.bbc.com/turkce/articles/cm5y1evywyrqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b662/live/4362fe30-e75a-11f1-b407-33329b1ec67a.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-23T16:47:48+00:00",
+   "url": "/haber/nvidia-ceo-su-huang-goreve-dondu-sirketin-hisseleri-yuzde-30-artti-42c68377/"
+  },
+  {
+   "id": "8ee95afd",
+   "title": "TGS, 10 ayda 116,6 milyon yolcuyla hizmet vererek rekor kırdı",
+   "summary": "Türk Hava Yolları'nın (THY) yer hizmetleri iştiraki Turkish Ground Services (TGS), yılın 10 ayında 116,6 milyon yolcuya hizmet vererek yeni bir rekora imza attı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tgs-10-ayda-116-6-milyon-yolcuyla-hizmet-vererek-rekor-kirdi/4134990",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T16:45:55+00:00",
+   "url": "/haber/tgs-10-ayda-116-6-milyon-yolcuyla-hizmet-vererek-rekor-kirdi-8ee95afd/"
+  },
+  {
+   "id": "59dc7260",
+   "title": "iPhone Duo ekranı 5 yıl Samsung'dan gelebilir",
+   "summary": "Yeni bir iddiaya göre Samsung Display, iPhone Duo'nun katlanır ekranlarının tek tedarikçisi olarak en az beş yıl daha kalabilir.",
+   "link": "https://shiftdelete.net/iphone-duo-katlanir-ekran-samsung-tek-tedarikci",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/iphone-duo-dis-ekran-ic-ekran-1311.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-23T16:35:08+00:00",
+   "url": "/haber/iphone-duo-ekrani-5-yil-samsung-dan-gelebilir-59dc7260/"
+  },
   {
    "id": "a92c24a3",
    "title": "Antalya'da kritik anlaşma: CATL ve BYD öncülüğünde küresel enerji depolama ittifakı kuruldu",
@@ -11,6 +55,17 @@
    "category": "teknoloji",
    "date": "2026-11-23T16:28:00+00:00",
    "url": "/haber/antalya-da-kritik-anlasma-catl-ve-byd-onculugunde-kuresel-enerji-depol-a92c24a3/"
+  },
+  {
+   "id": "e044b9d1",
+   "title": "BM'den, Ukrayna-Rusya Savaşı'nda Karadeniz'deki saldırıların gıda güvenliğini tehdit ettiği uyarısı",
+   "summary": "Birleşmiş Milletler Siyasi ve Barış İnşası İşlerinden Sorumlu Genel Sekreter Yardımcısı Rosemary DiCarlo, Ukrayna-Rusya Savaşı'nda saldırıların Karadeniz'e yayıldığını ve gıda ihracatını aksatmaya devam ettiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bmden-ukrayna-rusya-savasinda-karadenizdeki-saldirilarin-gida-guvenligini-tehdit-ettigi-uyarisi/4134977",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T16:27:26+00:00",
+   "url": "/haber/bm-den-ukrayna-rusya-savasi-nda-karadeniz-deki-saldirilarin-gida-guven-e044b9d1/"
   },
   {
    "id": "367dbb61",
@@ -640,17 +695,6 @@
    "url": "/haber/neuralink-cipiyle-gta-6-oynandi-video-422dc98d/"
   },
   {
-   "id": "2ef1254b",
-   "title": "Bakanlık açıkladı: İnsansı robotlar için yüzde 50 hibe desteği verilecek",
-   "summary": "Sanayi ve Teknoloji Bakanlığı, insansı robot geliştirecek firmalara proje bütçelerinin yüzde 50'si kadar hibe desteği sağlayacak. Başvurular yıl sonuna kadar yapılabilecek.",
-   "link": "https://www.donanimhaber.com/insansi-robotlar-icin-yuzde-50-hibe-destegi-verilecek--213266",
-   "image": "https://www.donanimhaber.com/images/images/haber/213266/1200x675insansi-robotlar-icin-yuzde-50-hibe-destegi-verilecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-23T13:07:00+00:00",
-   "url": "/haber/bakanlik-acikladi-insansi-robotlar-icin-yuzde-50-hibe-destegi-verilece-2ef1254b/"
-  },
-  {
    "id": "8e392935",
    "title": "Meta’nın yapay zeka şefi Alexandr Wang: “Süper zeka geliyor”",
    "summary": "Meta’nın yapay zeka şefi Alexandr Wang, X’te paylaştığı yazıda süper zekanın geldiğini ve insanlığın önümüzdeki dönemde atacağı adımların nasıl bir dünyada yaşayacağımızı belirleyeceğini söyledi. Wang’a göre,…",
@@ -715,28 +759,6 @@
    "category": "gundem",
    "date": "2026-11-23T12:52:56+00:00",
    "url": "/haber/bolgesel-kariyer-fuarlari-gencleri-is-dunyasiyla-bulusturuyor-02ddefa7/"
-  },
-  {
-   "id": "8d140924",
-   "title": "60 saniyede ekonomide bugün (23 Kasım 2026)",
-   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-23-kasim-2026/4134623",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T12:48:50+00:00",
-   "url": "/haber/60-saniyede-ekonomide-bugun-23-kasim-2026-8d140924/"
-  },
-  {
-   "id": "37c00a1e",
-   "title": "60 saniyede bugün (23 Kasım 2026)",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-23-kasim-2026/4134622",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T12:48:20+00:00",
-   "url": "/haber/60-saniyede-bugun-23-kasim-2026-37c00a1e/"
   },
   {
    "id": "77942589",
@@ -924,17 +946,6 @@
    "category": "gundem",
    "date": "2026-11-23T10:31:19+00:00",
    "url": "/haber/kayip-aslan-icin-uyari-gozlerinin-icine-bakmayin-kosmayin-580d424a/"
-  },
-  {
-   "id": "7efdde12",
-   "title": "iPhone Duo kilit ekranına yeni widget alanı",
-   "summary": "Apple'ın iPhone Duo'nun kilit ekranında sağ kenara iki yuvarlak widget yerleştiren bir alan test ettiği ortaya çıktı. Özellik iOS 27.1'den beri kodda duruyor ama kapalı.",
-   "link": "https://shiftdelete.net/iphone-duo-kilit-ekrani-widget-sutunu",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/iphone-duo-gunluk-kullanim-kapak-1311.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-23T10:30:09+00:00",
-   "url": "/haber/iphone-duo-kilit-ekranina-yeni-widget-alani-7efdde12/"
   },
   {
    "id": "6b4129e1",
@@ -1144,17 +1155,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T06:34:37+00:00",
    "url": "/haber/nvidia-ceo-lugundan-istifa-eden-jensen-huang-in-calisanlarina-cok-kotu-ca16059c/"
-  },
-  {
-   "id": "953dd76f",
-   "title": "COP31: En uzun iklim konferansında neden anlaşma sağlanamadı?",
-   "summary": "BM iklim konferansı COP31'de uzayan görüşmelerin ardından Antalya Paktı adı verilen bir karar taslağı yayımlandı. Bazı ülkelerin teklife itiraz etmesiyle konferans anlaşma sağlanamadan sona erdi.",
-   "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5bc/live/bf213b50-e71d-11f1-914b-6d226d813a52.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-23T06:33:20+00:00",
-   "url": "/haber/cop31-en-uzun-iklim-konferansinda-neden-anlasma-saglanamadi-953dd76f/"
   },
   {
    "id": "1357c997",
