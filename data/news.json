@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-23T17:01:04.763108+00:00",
+ "updated": "2026-11-23T17:30:51.752643+00:00",
  "items": [
+  {
+   "id": "e7a73edd",
+   "title": "Danimarka'da 2027-2028 eğitim öğretim yılında okullarda cep telefonu kullanımına izin verilmeyecek",
+   "summary": "Danimarka, 2027-2028 eğitim öğretim yılından itibaren ilkokul ve ortaokullarda cep telefonu kullanımına izin verilmeyeceğini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/danimarkada-2027-2028-egitim-ogretim-yilinda-okullarda-cep-telefonu-kullanimina-izin-verilmeyecek/4135017",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T17:16:12+00:00",
+   "url": "/haber/danimarka-da-2027-2028-egitim-ogretim-yilinda-okullarda-cep-telefonu-k-e7a73edd/"
+  },
+  {
+   "id": "1822ec4e",
+   "title": "Irak ve Mısır arasında vize muafiyeti kararı",
+   "summary": "Irak Başbakanı Ali ez-Zeydi, Mısır Cumhurbaşkanı Abdulfettah es-Sisi ile yaptığı görüşmede bölgenin güvenliğini ele aldıklarını belirterek, iki ülke arasında vize muafiyeti kararı alındığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/irak-ve-misir-arasinda-vize-muafiyeti-karari/4135014",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T17:14:50+00:00",
+   "url": "/haber/irak-ve-misir-arasinda-vize-muafiyeti-karari-1822ec4e/"
+  },
+  {
+   "id": "bd5d159c",
+   "title": "Çin, elektriği yerin 110 metre altında depolamaya başladı",
+   "summary": "Çin, elektriği yerin 110 metre altında basınçlı hava olarak depolayan dünyanın ilk yapay mağaralı tesisini şebekeye bağladı. Tesis, 300 MW güç ve 1.800 MWh kapasite sunuyor.",
+   "link": "https://www.donanimhaber.com/cin-elektrigi-yerin-110-metre-altinda-depolamaya-basladi--213273",
+   "image": "https://www.donanimhaber.com/images/images/haber/213273/1200x675cin-elektrigi-yerin-110-metre-altinda-depolamaya-basladi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-23T17:11:00+00:00",
+   "url": "/haber/cin-elektrigi-yerin-110-metre-altinda-depolamaya-basladi-bd5d159c/"
+  },
+  {
+   "id": "234677a5",
+   "title": "Trump, Huang'ı CEO'luk görevine döndürmek için Nvidia'yı ikna ettiğini söyledi",
+   "summary": "ABD Başkanı Donald Trump, Nvidia Yönetim Kurulu ile görüştüğünü ve Jensen Huang'ı yeniden üst yöneticilik (CEO) görevine getirmelerine ikna ettiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-huangi-ceoluk-gorevine-dondurmek-icin-nvidiayi-ikna-ettigini-soyledi/4135007",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T17:10:15+00:00",
+   "url": "/haber/trump-huang-i-ceo-luk-gorevine-dondurmek-icin-nvidia-yi-ikna-ettigini-234677a5/"
+  },
+  {
+   "id": "3474c784",
+   "title": "Xbox Helix, PC değil konsol olacak",
+   "summary": "Xbox'ın Yeni Nesil Başkan Yardımcısı Jason Ronald, Project Helix'in PC oyunlarını da oynatabilen bir konsol olacağını, ancak tam Windows 11 çalıştırmayacağını açıkladı.",
+   "link": "https://shiftdelete.net/xbox-project-helix-konsol-pc-oyunlari-windows-11",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/xbox-series-x25-kapak-1511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-23T17:05:08+00:00",
+   "url": "/haber/xbox-helix-pc-degil-konsol-olacak-3474c784/"
+  },
+  {
+   "id": "6a96a00b",
+   "title": "Jensen Huang döndü, Nvidia hisseleri fırladı",
+   "summary": "Piyasalarda yaşanan büyük düşüşler sonrasında ABD hükümeti apar topar Jensen Huang dosyasını kapattı ve Nvidia ile birlikte piyasaların yükselişi başladı.",
+   "link": "https://www.donanimhaber.com/nvidia-abd-icin-her-sey--213289",
+   "image": "https://www.donanimhaber.com/images/images/haber/213289/1200x675nvidia-abd-icin-her-sey.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-23T17:01:50+00:00",
+   "url": "/haber/jensen-huang-dondu-nvidia-hisseleri-firladi-6a96a00b/"
+  },
   {
    "id": "d2a4737e",
    "title": "BM, “katil robot” silahları düzenleme konusunda anlaşmaya varamadı",
@@ -22,6 +88,17 @@
    "category": "gundem",
    "date": "2026-11-23T16:47:48+00:00",
    "url": "/haber/nvidia-ceo-su-huang-goreve-dondu-sirketin-hisseleri-yuzde-30-artti-42c68377/"
+  },
+  {
+   "id": "1b70cd43",
+   "title": "İran ordusu: Hürmüz Boğazı’nın doğusunda ABD'ye ait LUCAS tipi İHA düşürüldü",
+   "summary": "İran ordusu, Basra Körfezi üzerinde, Hürmüz Boğazı'nın doğusunda ABD'ye ait \"LUCAS\" tipi bir insansız hava aracının (İHA) hava savunma sistemleri tarafından düşürüldüğünü duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazi-nin-dogusunda-abdye-ait-lucas-tipi-iha-dusuruldu/4134992",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T16:46:11+00:00",
+   "url": "/haber/iran-ordusu-hurmuz-bogazi-nin-dogusunda-abd-ye-ait-lucas-tipi-iha-dusu-1b70cd43/"
   },
   {
    "id": "8ee95afd",
@@ -431,17 +508,6 @@
    "url": "/haber/eisenkot-yeni-hukumet-oncesi-iran-a-saldiri-baslatilmasini-gerektirece-5bc481d6/"
   },
   {
-   "id": "79050d63",
-   "title": "Helal Expo 2026 uluslararası iş görüşmeleriyle yeni ticaret fırsatlarına kapı açacak",
-   "summary": "Küresel helal ekonomisinin önemli aktörlerini buluşturacak 12. Dünya Helal Zirvesi ve Helal Expo 2026 Uluslararası Ticaret Fuarı, 25-28 Kasım'da İstanbul Fuar Merkezi'nde gerçekleştirilecek.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/helal-expo-2026-uluslararasi-is-gorusmeleriyle-yeni-ticaret-firsatlarina-kapi-acacak/4134752",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T14:24:02+00:00",
-   "url": "/haber/helal-expo-2026-uluslararasi-is-gorusmeleriyle-yeni-ticaret-firsatlari-79050d63/"
-  },
-  {
    "id": "12f6f69c",
    "title": "Jensen Huang, Nvidia CEO'luğuna geri döndü",
    "summary": "Nvidia yönetim kurulu, 12 Kasım'da istifa eden Jensen Huang'ı oybirliğiyle yeniden CEO ve başkan olarak göreve getirdi. Karar sonrası Nvidia hisseleri yüzde 30'un üzerinde yükseldi.",
@@ -451,17 +517,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T14:23:17+00:00",
    "url": "/haber/jensen-huang-nvidia-ceo-luguna-geri-dondu-12f6f69c/"
-  },
-  {
-   "id": "f97059d3",
-   "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Irak Devlet Bakanı Ağa ile görüştü",
-   "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Irak Devlet Bakanı ve Irak Türkmen Cephesi Başkanı Muhammed Seman Ağa ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-irak-devlet-bakani-aga-ile-gorustu/4134747",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T14:16:47+00:00",
-   "url": "/haber/ak-parti-genel-baskan-yardimcisi-zorlu-irak-devlet-bakani-aga-ile-goru-f97059d3/"
   },
   {
    "id": "74f845e5",
@@ -484,17 +539,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T14:01:56+00:00",
    "url": "/haber/jensen-huang-yeniden-nvidia-nin-basina-gecirildi-cc8be2e8/"
-  },
-  {
-   "id": "67a87d40",
-   "title": "UEFA'dan Halil Umut Meler'e görev",
-   "summary": "FIFA kokartlı hakem Halil Umut Meler, Norveç temsilcisi Bodo/Glimt ile Avusturya ekibi LASK Linz arasında yarın oynanacak UEFA Şampiyonlar Ligi müsabakasını yönetecek.",
-   "link": "https://www.aa.com.tr/tr/spor/uefadan-halil-umut-melere-gorev-/4134723",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T13:59:35+00:00",
-   "url": "/haber/uefa-dan-halil-umut-meler-e-gorev-67a87d40/"
   },
   {
    "id": "003e0fc7",
@@ -552,28 +596,6 @@
    "url": "/haber/yeni-hyundai-bayon-ve-i20-nin-turkiye-satis-tarihleri-paylasildi-caff1c71/"
   },
   {
-   "id": "d634460d",
-   "title": "Türkiye’de otomobillerin yılda kaç kilometre yaptığı açıklandı",
-   "summary": "Türkiye’de otomobiller 2025 yılında ortalama 13 bin 581 kilometre yol yaptı. Toplam mesafede dizel araçlar ilk sırada yer alırken elektrikli otomobillerin payı yüzde 2,1 oldu.",
-   "link": "https://www.donanimhaber.com/turkiye-de-otomobillerin-yilda-kac-kilometre-yaptigi-aciklandi--213270",
-   "image": "https://www.donanimhaber.com/images/images/haber/213270/1200x675turkiye-de-otomobillerin-yilda-kac-kilometre-yaptigi-aciklandi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-23T13:51:00+00:00",
-   "url": "/haber/turkiye-de-otomobillerin-yilda-kac-kilometre-yaptigi-aciklandi-d634460d/"
-  },
-  {
-   "id": "fb429853",
-   "title": "ECOWAS, bölgesel terörle mücadele gücünü Aralık 2027'ye kadar faaliyete geçirmeyi hedefliyor",
-   "summary": "Batı Afrika Devletleri Ekonomik Topluluğu (ECOWAS) üyesi ülkelerin genelkurmay başkanları, bölgesel terörle mücadele gücünün Aralık 2027'ye kadar faaliyete geçirilmesine yönelik eylem planı üzerinde uzlaştı.",
-   "link": "https://www.aa.com.tr/tr/dunya/ecowas-bolgesel-terorle-mucadele-gucunu-aralik-2027ye-kadar-faaliyete-gecirmeyi-hedefliyor/4134709",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T13:49:41+00:00",
-   "url": "/haber/ecowas-bolgesel-terorle-mucadele-gucunu-aralik-2027-ye-kadar-faaliyete-fb429853/"
-  },
-  {
    "id": "31c61100",
    "title": "Honor, açık yapılı kablosuz kulaklık modeli Clip’i tanıttı",
    "summary": "Çinli üretici Honor, bugün detaylarına burada yer verdiğimiz 700 serisi akıllı telefonlarının yanı sıra açık yapılı kablosuz kulaklık modeli Clip’i de tanıttı. Bu yapısı sayesinde kullanım sırasında çevredeki seslerin…",
@@ -616,17 +638,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T13:34:14+00:00",
    "url": "/haber/apple-dan-sunucu-cipleri-icin-fotonik-hamlesi-e013491a/"
-  },
-  {
-   "id": "85332fbb",
-   "title": "Xiaomi, stor perdeleri akıllı hale getiren motorunu tanıttı",
-   "summary": "Xiaomi, mevcut stor perdeleri akıllı hale getiren yeni motorunu tanıttı. 4.600 mAh bataryalı cihaz, farklı perde türlerini uzaktan kontrol etmeyi sağlıyor. İşte fiyatı...",
-   "link": "https://www.donanimhaber.com/xiaomi-stor-perdeleri-akilli-hale-getiren-motorunu-tanitti--213262",
-   "image": "https://www.donanimhaber.com/images/images/haber/213262/1200x675xiaomi-stor-perdeleri-akilli-hale-getiren-motorunu-tanitti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-23T13:29:00+00:00",
-   "url": "/haber/xiaomi-stor-perdeleri-akilli-hale-getiren-motorunu-tanitti-85332fbb/"
   },
   {
    "id": "e66a86cc",
@@ -893,17 +904,6 @@
    "url": "/haber/huawei-nin-yeni-markasi-osta-tablet-hazirliyor-bdc32cf1/"
   },
   {
-   "id": "2c87b731",
-   "title": "Hepsiburada'da Efsane Cuma İndirimleri başladı",
-   "summary": "Hepsiburada, Efsane Kasım'ın 11. yılına özel Efsane Cuma İndirimleri'ni tüm haftaya yaydı. Binlerce üründe net indirimler ve peşin fiyatına 12 taksit fırsatı sunuluyor.",
-   "link": "https://shiftdelete.net/hepsiburada-efsane-cuma-indirimleri-2026",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/hepsiburada-efsane-cuma-indirimleri-kapak-2311.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-23T10:55:56+00:00",
-   "url": "/haber/hepsiburada-da-efsane-cuma-indirimleri-basladi-2c87b731/"
-  },
-  {
    "id": "5fe5cede",
    "title": "Black Friday (Kara Cuma): Büyük indirim ve alışveriş günü geleneği nasıl başladı?",
    "summary": "Dünya çapında pek çok marka ve firmanın indirim yaptığı, müşterilerin indirimlerden faydalanabilmek için mağazalarda izdiham yarattığı güne Black Friday (Kara Cuma) adı veriliyor.",
@@ -1124,15 +1124,15 @@
    "url": "/haber/istanbul-da-aslan-alarmi-arama-calismalari-suruyor-4f54e0d5/"
   },
   {
-   "id": "50e7ddab",
-   "title": "Milli kamikaze dronu ALKAN FPV envantere girdi",
+   "id": "574272f0",
+   "title": "Milli kamikaze dron ALKAN FPV envantere girdi",
    "summary": "STM Savunma Teknolojileri Mühendislik ve Ticaret AŞ (STM) tarafından modern muharebe sahasının ihtiyaçları doğrultusunda geliştirilen milli kamikaze dron STM ALKAN FPV, kabul testlerini başarıyla tamamlayarak Türk…",
-   "link": "https://www.trthaber.com/haber/savunma/milli-kamikaze-dronu-alkan-fpv-envantere-girdi-964182.html",
+   "link": "https://www.trthaber.com/haber/savunma/milli-kamikaze-dron-alkan-fpv-envantere-girdi-964182.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/alkan-fpv-2505397.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-23T07:24:00+00:00",
-   "url": "/haber/milli-kamikaze-dronu-alkan-fpv-envantere-girdi-50e7ddab/"
+   "url": "/haber/milli-kamikaze-dron-alkan-fpv-envantere-girdi-574272f0/"
   },
   {
    "id": "745b1482",
