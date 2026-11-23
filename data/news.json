@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-23T12:21:50.913001+00:00",
+ "updated": "2026-11-23T12:31:00.407253+00:00",
  "items": [
+  {
+   "id": "4f5b7085",
+   "title": "Windows 8 Başlangıç ekranı Chrome'a geldi",
+   "summary": "Metro Start adlı eklenti, Chrome'un yeni sekme sayfasını Windows 8'in karolu Başlangıç ekranına dönüştürüyor. Eklentide klasörler, hava durumu ve on çevrimdışı oyun var.",
+   "link": "https://shiftdelete.net/metro-start-windows-8-baslangic-ekrani-chrome-eklentisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/metro-start-windows-8-baslangic-eklenti-kapak-2311.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-23T12:30:38+00:00",
+   "url": "/haber/windows-8-baslangic-ekrani-chrome-a-geldi-4f5b7085/"
+  },
+  {
+   "id": "d0d96c3f",
+   "title": "Siber güvenlik şirketi CrowdStrike, rakibi Zscaler’ı yaklaşık 43,9 milyar dolara satın alıyor",
+   "summary": "ABD merkezli siber güvenlik şirketi CrowdStrike Holdings, sektör tarihinin en büyük anlaşmalarından birine imza atarak rakibi Zscaler’ı yaklaşık 43,9 milyar dolar değerlemeyle bünyesine katmak üzere anlaşmaya vardı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/siber-guvenlik-sirketi-crowdstrike-rakibi-zscaler-i-yaklasik-43-9-milyar-dolara-satin-aliyor/4134580",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T12:27:23+00:00",
+   "url": "/haber/siber-guvenlik-sirketi-crowdstrike-rakibi-zscaler-i-yaklasik-43-9-mily-d0d96c3f/"
+  },
+  {
+   "id": "e66a86cc",
+   "title": "İstanbul'da tramvay ile özel halk otobüsü çarpıştı. Yaralılar var",
+   "summary": "İstanbul Fatih'te tramvay ile halk otobüsü henüz bilinmeyen bir nedenle çarpıştı. İlk bilgilere göre kazada yaralanan vatandaşlar hastaneye kaldırıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-tramvay-ile-ozel-halk-otobusu-carpisti-yaralilar-var-1752233",
+   "image": "https://images.ntv.com.tr/son-dakika-gorselleri/son-kirmizi(6).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T12:27:22+00:00",
+   "url": "/haber/istanbul-da-tramvay-ile-ozel-halk-otobusu-carpisti-yaralilar-var-e66a86cc/"
+  },
+  {
+   "id": "472d0850",
+   "title": "Trump'ın kripto parası çakıldı: Yüzde 99'luk düşüş milyarlarca doları silip attı",
+   "summary": "Bir dönem milyarlarca dolarlık piyasa değerine ulaşan Trump coin, zirvesinden yüzde 99 geriledi. Üstelik başkanın büyük yatırımcılar için düzenlediği özel yemek de eskisi gibi ilgi görmüyor.",
+   "link": "https://www.donanimhaber.com/donald-trump-in-kripto-parasi-cakildi--213267",
+   "image": "https://www.donanimhaber.com/images/images/haber/213267/1200x675donald-trump-in-kripto-parasi-cakildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-23T12:24:27+00:00",
+   "url": "/haber/trump-in-kripto-parasi-cakildi-yuzde-99-luk-dusus-milyarlarca-dolari-s-472d0850/"
+  },
+  {
+   "id": "7219955a",
+   "title": "İstanbul'da tramvay ile otobüs çarpıştı",
+   "summary": "İstanbul Fatih'te Haseki tramvay durağı yakınında tramvay ile İETT otobüsü çarpıştı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-tramvay-ile-otobus-carpisti-964211.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2026000/son-dakika-dakika-son-dakika-2026652.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-23T12:19:00+00:00",
+   "url": "/haber/istanbul-da-tramvay-ile-otobus-carpisti-7219955a/"
+  },
+  {
+   "id": "f3bb0bdb",
+   "title": "Fatih'te tramvay ile İETT otobüsü çarpıştı, yaralılar var",
+   "summary": "Fatih'te Haseki tramvay durağı yakınında tramvay ile İETT otobüsünün çarpışması sonucu yaralananların olduğu bildirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/fatihte-tramvay-ile-iett-otobusu-carpisti-yaralilar-var/4134565",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T12:18:27+00:00",
+   "url": "/haber/fatih-te-tramvay-ile-iett-otobusu-carpisti-yaralilar-var-f3bb0bdb/"
+  },
   {
    "id": "567fb271",
    "title": "Sırbistan'da taksiciler araçlarıyla kent meclisi önünde gösteri düzenledi",
@@ -220,28 +286,6 @@
    "category": "gundem",
    "date": "2026-11-23T11:09:54+00:00",
    "url": "/haber/sehit-astsubay-cavus-yalin-gergun-memleketi-samsun-da-topraga-verildi-d80d0990/"
-  },
-  {
-   "id": "d458f41c",
-   "title": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 4 kişi hayatını kaybetti",
-   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 4 Filistinli yaşamını yitirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-4-kisi-hayatini-kaybetti/4134411",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T11:08:10+00:00",
-   "url": "/haber/israil-in-ateskese-ragmen-gazze-ye-duzenledigi-saldirilarda-son-24-saa-d458f41c/"
-  },
-  {
-   "id": "c7b0b1e4",
-   "title": "Meteorolojiden bazı iller için sağanak uyarısı",
-   "summary": "Meteoroloji Genel Müdürlüğü, yurdun bazı illeri için sağanak uyarısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-bazi-iller-icin-saganak-uyarisi/4134398",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T11:06:10+00:00",
-   "url": "/haber/meteorolojiden-bazi-iller-icin-saganak-uyarisi-c7b0b1e4/"
   },
   {
    "id": "bdc32cf1",
@@ -473,17 +517,6 @@
    "category": "gundem",
    "date": "2026-11-23T09:55:00+00:00",
    "url": "/haber/teror-orgutu-pkk-irak-in-kuzeyindeki-14-barinma-alanini-daha-bosaltti-60939faf/"
-  },
-  {
-   "id": "ead291d8",
-   "title": "Fon soruşturmasında 6 şüpheli adliyede",
-   "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında gözaltına alınan 7 şüpheliden 6'sı adliyeye sevk edildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-6-supheli-adliyede-964201.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2490000/fon-sorusturmasi-stok-2491313.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-23T09:48:00+00:00",
-   "url": "/haber/fon-sorusturmasinda-6-supheli-adliyede-ead291d8/"
   },
   {
    "id": "c3a5ae53",
@@ -805,17 +838,6 @@
    "url": "/haber/milli-egitim-bakani-tekin-den-24-kasim-ogretmenler-gunu-mesaji-f58fdc2b/"
   },
   {
-   "id": "d977af14",
-   "title": "Trabzon Düzköy Belediye Başkanı Selim Çelenk hayatını kaybetti",
-   "summary": "Trabzon'un Düzköy ilçesi Belediye Başkanı Selim Çelenk 62 yaşında tedavi gördüğü hastanede hayatını kaybetti.",
-   "link": "https://www.ntv.com.tr/turkiye/trabzon-duzkoy-belediye-baskani-selim-celenk-hayatini-kaybetti-1752161",
-   "image": "https://images.ntv.com.tr/images/SelimÇelenk-884382.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T08:04:22+00:00",
-   "url": "/haber/trabzon-duzkoy-belediye-baskani-selim-celenk-hayatini-kaybetti-d977af14/"
-  },
-  {
    "id": "0314b565",
    "title": "Galaxy S27 Ultra'da hızlı bellek 512 GB'a kaldı",
    "summary": "Sızan bir listeye göre Galaxy S27 serisinde LPDDR6 RAM ve UFS 5.0 depolama yalnızca üç yapılandırmada olacak. 256 GB'lık Galaxy S27 Ultra bu avantajdan yararlanamayacak.",
@@ -913,17 +935,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T07:09:35+00:00",
    "url": "/haber/turk-matematikci-riemann-hipotezini-yapay-zeka-ile-cozdu-tarihi-bir-an-3e5aa33d/"
-  },
-  {
-   "id": "32c55693",
-   "title": "Huawei Mate 90 Air'in tüm özellikleri sızdı",
-   "summary": "Huawei'nin yarın tanıtacağı Mate 90 Air'in ekran, işlemci, batarya ve kamera özellikleri sızdı. Telefonla aynı gün 6,9 mm kalınlığında Watch Air saati de geliyor.",
-   "link": "https://shiftdelete.net/huawei-mate-90-air-ozellikleri-sizdi-watch-air",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/huawei-mate-90-air-watch-air-kapak-2311.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-23T07:00:09+00:00",
-   "url": "/haber/huawei-mate-90-air-in-tum-ozellikleri-sizdi-32c55693/"
   },
   {
    "id": "ca16059c",
@@ -1045,17 +1056,6 @@
    "category": "gundem",
    "date": "2026-11-22T20:11:00+00:00",
    "url": "/haber/sariyer-de-aslan-alarmi-yakalama-calismasi-basladi-7bbccf14/"
-  },
-  {
-   "id": "eb660b8b",
-   "title": "Yapay zekâ alışveriş alışkanlıklarını da değiştirdi: Müşteriler artık önce ona soruyor",
-   "summary": "ChatGPT ve Gemini gibi yapay zekâ araçları, tüketicilerin satın alma kararlarında giderek daha etkili oluyor. Adobe'nin son raporu, bu değişimin e-ticaret sektörüne etkisini ortaya koyuyor.",
-   "link": "https://www.donanimhaber.com/yapay-zeka-kaynakli-alisveris-trafigi-bir-yilda-yuzde-71-artti--213245",
-   "image": "https://www.donanimhaber.com/images/images/haber/213245/1200x675yapay-zeka-kaynakli-alisveris-trafigi-bir-yilda-yuzde-71-artti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-22T19:41:03+00:00",
-   "url": "/haber/yapay-zeka-alisveris-aliskanliklarini-da-degistirdi-musteriler-artik-o-eb660b8b/"
   },
   {
    "id": "8e47ac9e",
