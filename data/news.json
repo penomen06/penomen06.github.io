@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-23T03:04:02.191887+00:00",
+ "updated": "2026-11-23T03:30:54.251737+00:00",
  "items": [
+  {
+   "id": "f69f179c",
+   "title": "Activision NPC'leri sesli sohbetle eğitecek",
+   "summary": "Activision'ın yeni patent başvurusu, oyuncuların Discord gibi uygulamalardaki sesli sohbet tepkilerini yapay zekaya öğretip oyun karakterlerine konuşturmayı anlatıyor.",
+   "link": "https://shiftdelete.net/activision-npc-sesli-sohbet-yapay-zeka-patenti",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/activision-sesli-sohbet-npc-patenti-kapak-2311.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-23T03:30:07+00:00",
+   "url": "/haber/activision-npc-leri-sesli-sohbetle-egitecek-f69f179c/"
+  },
+  {
+   "id": "019f9cba",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-kasim-2026-1752114",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T03:30:01+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-019f9cba/"
+  },
+  {
+   "id": "2105880c",
+   "title": "Sarıyer'de aslan alarmı. Ekiplerin yakalama çalışmaları devam ediyor",
+   "summary": "Sarıyer'de aslan görüldüğü ihbarı üzerine harekete geçildi. Aslanın sağ olarak yakalanması için ekiplerin çalışmaları sürüyor.",
+   "link": "https://www.ntv.com.tr/turkiye/sariyerde-aslan-gordum-ihbari-ekipler-calisma-baslatti-1752109",
+   "image": "https://images.ntv.com.tr/images/SARIYERDE-ASLAN-GORDUM-IHBARI-YAPILDI_1621675_482115-388770(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T03:10:12+00:00",
+   "url": "/haber/sariyer-de-aslan-alarmi-ekiplerin-yakalama-calismalari-devam-ediyor-2105880c/"
+  },
   {
    "id": "87db3b22",
    "title": "Meta'nın yapay zeka şefinden süper zeka uyarısı",
@@ -11,28 +44,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T03:00:08+00:00",
    "url": "/haber/meta-nin-yapay-zeka-sefinden-super-zeka-uyarisi-87db3b22/"
-  },
-  {
-   "id": "019f9cba",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-kasim-2026-1752114",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T03:00:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-019f9cba/"
-  },
-  {
-   "id": "2105880c",
-   "title": "Sarıyer'de aslan alarmı. Ekipler çalışma başlattı",
-   "summary": "Sarıyer'de aslan görüldüğü ihbarı üzerine harekete geçildi. Aslanın sağ olarak yakalanması için ekiplerin çalışmaları sürüyor.",
-   "link": "https://www.ntv.com.tr/turkiye/sariyerde-aslan-gordum-ihbari-ekipler-calisma-baslatti-1752109",
-   "image": "https://images.ntv.com.tr/images/SARIYERDE-ASLAN-GORDUM-IHBARI-YAPILDI_1621675_482115-388770(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T00:33:10+00:00",
-   "url": "/haber/sariyer-de-aslan-alarmi-ekipler-calisma-baslatti-2105880c/"
   },
   {
    "id": "7c25cc44",
@@ -748,17 +759,6 @@
    "category": "teknoloji",
    "date": "2026-11-22T11:00:09+00:00",
    "url": "/haber/badbox-3-0-botneti-tv-kutulariyla-geri-dondu-7ecefd36/"
-  },
-  {
-   "id": "1fe64593",
-   "title": "Sony'den oyunda boyna hava üfleyen VR patenti",
-   "summary": "Sony Interactive Entertainment, oyundaki olaylara göre oyuncunun boynuna ve yüzüne hava üfleyen bir boyunluğun patentini aldı. Başvuru bir ürünün adını vermiyor.",
-   "link": "https://shiftdelete.net/sony-hava-ufleyen-boyunluk-patenti-vr",
-   "image": "https://ares.shiftdelete.net/static/img/content/26-11/22/sony-ps-vr2-baslik-kapak-2211.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-22T10:30:08+00:00",
-   "url": "/haber/sony-den-oyunda-boyna-hava-ufleyen-vr-patenti-1fe64593/"
   },
   {
    "id": "8e47ac9e",
