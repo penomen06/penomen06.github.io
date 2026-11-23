@@ -1,6 +1,171 @@
 {
- "updated": "2026-11-23T12:31:00.407253+00:00",
+ "updated": "2026-11-23T13:01:05.410579+00:00",
  "items": [
+  {
+   "id": "136e714e",
+   "title": "COP31: Antalya'da anlaşmasız sona eren iklim konferansının beş kritik sonucu",
+   "summary": "Antalya'da düzenlenen Birleşmiş Milletler (BM) iklim konferansı COP31,iklim değişikliğine dair kanıtların hiç olmadığı kadar açık görüldüğü ancak jeopolitik bölünmelerin de hiç olmadığı kadar derinleştiği bir dönemde…",
+   "link": "https://www.bbc.com/turkce/articles/cqwy4nnvx323o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-23T12:55:51+00:00",
+   "url": "/haber/cop31-antalya-da-anlasmasiz-sona-eren-iklim-konferansinin-bes-kritik-s-136e714e/"
+  },
+  {
+   "id": "07ceccee",
+   "title": "Samsung Galaxy S27 serisi bu RAM ve depolama seçenekleriyle gelebilir",
+   "summary": "2027’nin başında tanıtılacak Samsung Galaxy S27 ailesinde Galaxy S27, Galaxy S27 Plus, Galaxy S27 Pro ve Galaxy S27 Ultra modelleri yer alacak. Son sızıntıya göre Galaxy S27 ve Galaxy S27 Plus, 12 GB LPDDR5X RAM ile…",
+   "link": "https://www.log.com.tr/samsung-galaxy-s27-serisi-bu-ram-ve-depolama-secenekleriyle-gelebilir/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/10/samsung-galaxy-s27-serisi-ocak-ayinin-basinda-tanitilabilir-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-23T12:55:41+00:00",
+   "url": "/haber/samsung-galaxy-s27-serisi-bu-ram-ve-depolama-secenekleriyle-gelebilir-07ceccee/"
+  },
+  {
+   "id": "0e8f3a4c",
+   "title": "Bakan Kurum'dan Özgür Özel'e COP31 tepkisi. \"Anlamanızı beklemiyoruz\"",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Yeni Parti Genel Başkanı Özgür Özel'in, COP31 eleştirilerine tepki gösterdi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-kurumdan-ozgur-ozele-cop31-tepkisi-anlamanizi-beklemiyoruz-1752232",
+   "image": "https://images.ntv.com.tr/images/Murat-Kurum-Özgür-Özel-315269.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T12:53:30+00:00",
+   "url": "/haber/bakan-kurum-dan-ozgur-ozel-e-cop31-tepkisi-anlamanizi-beklemiyoruz-0e8f3a4c/"
+  },
+  {
+   "id": "3dac2199",
+   "title": "PKK, Hakurk'ta 14 alanı boşalttı",
+   "summary": "Güvenlik kaynaklarından edinilen bilgiye göre; terör örgütü PKK/KCK Irak'ın kuzeyindeki Hakurk bölgesinde bulunan 14 alanı boşalttı.",
+   "link": "https://www.ntv.com.tr/turkiye/pkk-hakurkta-14-kampi-bosaltti-1752203",
+   "image": "https://images.ntv.com.tr/images/pkk-14-kampı-boşalttı-314726.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T12:53:12+00:00",
+   "url": "/haber/pkk-hakurk-ta-14-alani-bosaltti-3dac2199/"
+  },
+  {
+   "id": "02ddefa7",
+   "title": "Bölgesel Kariyer Fuarları gençleri iş dünyasıyla buluşturuyor",
+   "summary": "İŞKUR koordinasyonunda düzenlenen GÜÇ Bölgesel Kariyer Fuarları, 27-28 Kasım'da Mersin'de devam edecek. Gençler, kamu ve özel sektör temsilcileriyle iş ve staj olanaklarını görüşebilecek.",
+   "link": "https://www.ntv.com.tr/turkiye/bolgesel-kariyer-fuarlari-gencleri-is-dunyasiyla-bulusturuyor-1752227",
+   "image": "https://images.ntv.com.tr/images/AA-20261111-43046892-43046890-KAHRAMANMARASTA_GENCLIGIN_URETIM_CAGI_BOLGESEL_KARIYER_FUARI_BASLADI(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T12:52:56+00:00",
+   "url": "/haber/bolgesel-kariyer-fuarlari-gencleri-is-dunyasiyla-bulusturuyor-02ddefa7/"
+  },
+  {
+   "id": "37606fe6",
+   "title": "Alman basınından Rusya'nın uzaya nükleer silah yerleştireceği iddiası",
+   "summary": "NATO üyesi ülkelerin istihbarat servislerinin, Rusya'nın bu yıl uzaya nükleer silahla donatılmış bir uydu fırlatmayı planladığı sonucuna vardığı iddia edildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/alman-basinindan-rusyanin-uzaya-nukleer-silah-yerlestirecegi-iddiasi/4134626",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T12:50:35+00:00",
+   "url": "/haber/alman-basinindan-rusya-nin-uzaya-nukleer-silah-yerlestirecegi-iddiasi-37606fe6/"
+  },
+  {
+   "id": "3d4b94a6",
+   "title": "GTA 6 sızıntısı büyüyor: Mod geliştiricileri PC için tarih verdi",
+   "summary": "GTA 6'nın Xbox sürümüne ait dosyaları internete sızdıran Cyberleek, eksik çalıştırılabilir dosyanın paylaşılmasıyla oyunun bir hafta içinde PC'de açılabileceğini iddia ediyor.",
+   "link": "https://www.donanimhaber.com/gta-6-sizintisi-buyuyor-mod-gelistiricileri-pc-icin-tarih-verdi--213263",
+   "image": "https://www.donanimhaber.com/images/images/haber/213263/1200x675gta-6-sizintisi-buyuyor-mod-gelistiricileri-pc-icin-tarih-verdi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-23T12:46:00+00:00",
+   "url": "/haber/gta-6-sizintisi-buyuyor-mod-gelistiricileri-pc-icin-tarih-verdi-3d4b94a6/"
+  },
+  {
+   "id": "e02868ff",
+   "title": "Rutte: Türkiye, NATO'nun hem güney kanadında hem de Asya ile ilişkilerinde önemli bir rol üstleniyor",
+   "summary": "NATO Genel Sekreteri Mark Rutte, Türkiye'nin İttifak'ın hem güney kanadında hem de Asya ile ilişkilerinde önemli bir rol üstlendiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/rutte-turkiye-natonun-hem-guney-kanadinda-hem-de-asya-ile-iliskilerinde-onemli-bir-rol-ustleniyor/4134605",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T12:42:12+00:00",
+   "url": "/haber/rutte-turkiye-nato-nun-hem-guney-kanadinda-hem-de-asya-ile-iliskilerin-e02868ff/"
+  },
+  {
+   "id": "93ed2899",
+   "title": "Oxfam'ın raporu İsrail'in Gazze'de suyu içilemez, toprağı ekilemez hale getirdiğini ortaya koydu",
+   "summary": "Uluslararası yardım kuruluşu Oxfam, İsrail saldırılarında kullanılan mühimmatlar ve roket yakıtları ile yıkılan binalardan kaynaklanan kirliliğin Gazze'de suyu içilemez, toprağı da sağlığı etkileyecek şekilde…",
+   "link": "https://www.aa.com.tr/tr/dunya/oxfamin-raporu-israilin-gazzede-suyu-icilemez-topragi-ekilemez-hale-getirdigini-ortaya-koydu/4134602",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T12:41:32+00:00",
+   "url": "/haber/oxfam-in-raporu-israil-in-gazze-de-suyu-icilemez-topragi-ekilemez-hale-93ed2899/"
+  },
+  {
+   "id": "df6acd38",
+   "title": "Cumhurbaşkanlığı Kabinesi toplandı",
+   "summary": "Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-kabinesi-toplandi/4134598",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T12:41:09+00:00",
+   "url": "/haber/cumhurbaskanligi-kabinesi-toplandi-df6acd38/"
+  },
+  {
+   "id": "77942589",
+   "title": "Cumhurbaşkanlığı Kabinesi toplandı",
+   "summary": "Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskanligi-kabinesi-toplandi-964213.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/kabine-toplantisiaa-2502129.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-23T12:41:00+00:00",
+   "url": "/haber/cumhurbaskanligi-kabinesi-toplandi-77942589/"
+  },
+  {
+   "id": "c2aa4e65",
+   "title": "Yapay zeka endişeleri küresel piyasalardaki korkuyu canlı tutuyor",
+   "summary": "Piyasalarda \"korku endeksi\" olarak bilinen ve S&P 500 Endeksi'ndeki dalgalanmayı gösteren VIX Endeksi, yapay zeka büyümesine ilişkin soru işaretlerinin dünya geneline yayılmasıyla yeniden 30 puanın üzerinde seyretmeye…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yapay-zeka-endiseleri-kuresel-piyasalardaki-korkuyu-canli-tutuyor/4134593",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T12:37:32+00:00",
+   "url": "/haber/yapay-zeka-endiseleri-kuresel-piyasalardaki-korkuyu-canli-tutuyor-c2aa4e65/"
+  },
+  {
+   "id": "9e304b06",
+   "title": "TRT, Öğretmenler Günü’ne özel yayınlarla izleyici karşısına çıkacak",
+   "summary": "TRT, 24 Kasım Öğretmenler Günü dolayısıyla televizyon ve radyo kanallarında özel program, belgesel ve konserleri izleyici ve dinleyicilerle buluşturacak.",
+   "link": "https://www.aa.com.tr/tr/kultur/trt-ogretmenler-gunu-ne-ozel-yayinlarla-izleyici-karsisina-cikacak/4134589",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T12:34:15+00:00",
+   "url": "/haber/trt-ogretmenler-gunu-ne-ozel-yayinlarla-izleyici-karsisina-cikacak-9e304b06/"
+  },
+  {
+   "id": "e66a86cc",
+   "title": "İstanbul'da tramvay ile özel halk otobüsü çarpıştı. Yaralılar var",
+   "summary": "İstanbul Fatih'te tramvay ile halk otobüsü henüz bilinmeyen bir nedenle çarpıştı. İlk bilgilere göre kazada yaralanan vatandaşlar hastaneye kaldırıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-tramvay-ile-ozel-halk-otobusu-carpisti-yaralilar-var-1752233",
+   "image": "https://images.ntv.com.tr/images/tramvay-kaza-237066.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T12:33:10+00:00",
+   "url": "/haber/istanbul-da-tramvay-ile-ozel-halk-otobusu-carpisti-yaralilar-var-e66a86cc/"
+  },
+  {
+   "id": "57356c2a",
+   "title": "Stellantis, bazı motor sporları serilerinden çekiliyor",
+   "summary": "Çatısı altında Abarth, Alfa Romeo, Chrysler, Citroën, Dodge, DS Automobiles, Fiat, Jeep, Lancia, Maserati, Opel, Peugeot, Ram ve Vauxhall gibi markaları barındıran Stellantis, geçtiğimiz hafta gündeme gelen iddiaları…",
+   "link": "https://www.log.com.tr/stellantis-bazi-motor-sporlari-serilerinden-cekiliyor/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-23_15-30-36_ddz4b-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-23T12:31:11+00:00",
+   "url": "/haber/stellantis-bazi-motor-sporlari-serilerinden-cekiliyor-57356c2a/"
+  },
   {
    "id": "4f5b7085",
    "title": "Windows 8 Başlangıç ekranı Chrome'a geldi",
@@ -24,17 +189,6 @@
    "url": "/haber/siber-guvenlik-sirketi-crowdstrike-rakibi-zscaler-i-yaklasik-43-9-mily-d0d96c3f/"
   },
   {
-   "id": "e66a86cc",
-   "title": "İstanbul'da tramvay ile özel halk otobüsü çarpıştı. Yaralılar var",
-   "summary": "İstanbul Fatih'te tramvay ile halk otobüsü henüz bilinmeyen bir nedenle çarpıştı. İlk bilgilere göre kazada yaralanan vatandaşlar hastaneye kaldırıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbulda-tramvay-ile-ozel-halk-otobusu-carpisti-yaralilar-var-1752233",
-   "image": "https://images.ntv.com.tr/son-dakika-gorselleri/son-kirmizi(6).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T12:27:22+00:00",
-   "url": "/haber/istanbul-da-tramvay-ile-ozel-halk-otobusu-carpisti-yaralilar-var-e66a86cc/"
-  },
-  {
    "id": "472d0850",
    "title": "Trump'ın kripto parası çakıldı: Yüzde 99'luk düşüş milyarlarca doları silip attı",
    "summary": "Bir dönem milyarlarca dolarlık piyasa değerine ulaşan Trump coin, zirvesinden yüzde 99 geriledi. Üstelik başkanın büyük yatırımcılar için düzenlediği özel yemek de eskisi gibi ilgi görmüyor.",
@@ -48,24 +202,24 @@
   {
    "id": "7219955a",
    "title": "İstanbul'da tramvay ile otobüs çarpıştı",
-   "summary": "İstanbul Fatih'te Haseki tramvay durağı yakınında tramvay ile İETT otobüsü çarpıştı.",
+   "summary": "İstanbul Fatih'te tramvay ile İETT otobüsünün çarpıştığı kazada 11 kişi yaralandı.",
    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-tramvay-ile-otobus-carpisti-964211.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2026000/son-dakika-dakika-son-dakika-2026652.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/kaza-aa-2505559.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-23T12:19:00+00:00",
    "url": "/haber/istanbul-da-tramvay-ile-otobus-carpisti-7219955a/"
   },
   {
-   "id": "f3bb0bdb",
-   "title": "Fatih'te tramvay ile İETT otobüsü çarpıştı, yaralılar var",
-   "summary": "Fatih'te Haseki tramvay durağı yakınında tramvay ile İETT otobüsünün çarpışması sonucu yaralananların olduğu bildirildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/fatihte-tramvay-ile-iett-otobusu-carpisti-yaralilar-var/4134565",
+   "id": "6006ac95",
+   "title": "Fatih'te tramvay ile İETT otobüsünün çarpıştığı kazada 11 kişi yaralandı",
+   "summary": "Fatih'te tramvay ile İETT otobüsünün çarpıştığı kazada 11 kişi yaralandı. Kazanın ardından tramvay yolu çift yönlü ulaşıma kapatıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/fatihte-tramvay-ile-iett-otobusunun-carpistigi-kazada-11-kisi-yaralandi/4134565",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-23T12:18:27+00:00",
-   "url": "/haber/fatih-te-tramvay-ile-iett-otobusu-carpisti-yaralilar-var-f3bb0bdb/"
+   "url": "/haber/fatih-te-tramvay-ile-iett-otobusunun-carpistigi-kazada-11-kisi-yaralan-6006ac95/"
   },
   {
    "id": "567fb271",
@@ -167,39 +321,6 @@
    "url": "/haber/sariyer-de-yeri-tespit-edilen-aslani-yakalama-calismalari-suruyor-dafe4e4f/"
   },
   {
-   "id": "a17d6bf8",
-   "title": "Galatasaray Teknik Direktörü Okan Buruk: Kazanmak için sahaya çıkıyoruz",
-   "summary": "Okan Buruk, \"Bu tür maçlar biraz stratejik karşılaşmalar oluyor. Her zaman kazanmak istiyoruz ama Şampiyonlar Ligi'nde kaybetmemek de önemli.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/-galatasaray-teknik-direktoru-okan-buruk-kazanmak-icin-sahaya-cikiyoruz/4134498",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T11:34:28+00:00",
-   "url": "/haber/galatasaray-teknik-direktoru-okan-buruk-kazanmak-icin-sahaya-cikiyoruz-a17d6bf8/"
-  },
-  {
-   "id": "c9392de5",
-   "title": "İsrail'in saldırılarını sürdürdüğü Lübnan'da şüpheli cismin patlaması sonucu 2 kişi yaralandı",
-   "summary": "İsrail ordusunun ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere yönelik topçu atışları devam ederken, İsrail saldırılarından kaldığı belirtilen şüpheli bir cismin patlaması sonucu 2 kişi…",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-saldirilarini-surdurdugu-lubnanda-supheli-cismin-patlamasi-sonucu-2-kisi-yaralandi/4134497",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T11:34:22+00:00",
-   "url": "/haber/israil-in-saldirilarini-surdurdugu-lubnan-da-supheli-cismin-patlamasi-c9392de5/"
-  },
-  {
-   "id": "234d8089",
-   "title": "9 ildeki tefecilik ve dolandırıcılık operasyonlarında 131 şüpheli yakalandı",
-   "summary": "İçişleri Bakanlığı, tefecilik, nitelikli dolandırıcılık ve yasa dışı bahis suçlarına yönelik 9 ilde düzenlenen operasyonlarda 131 şüphelinin yakalandığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/9-ildeki-tefecilik-ve-dolandiricilik-operasyonlarinda-131-supheli-yakalandi/4134493",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T11:32:51+00:00",
-   "url": "/haber/9-ildeki-tefecilik-ve-dolandiricilik-operasyonlarinda-131-supheli-yaka-234d8089/"
-  },
-  {
    "id": "160b2089",
    "title": "5,1 milyar liralık para hareketi tespit edildi, tefecilik ve dolandırıcılığa 9 ilde operasyon",
    "summary": "İçişleri Bakanlığı, 9 il merkezli düzenlenen tefecilik, dolandırıcılık ve yasa dışı bahis operasyonlarında 131 şüphelinin yakalandığını açıkladı. Şüphelilerden 51'i tutuklandı.",
@@ -233,17 +354,6 @@
    "url": "/haber/kayseri-de-mantar-seklindeki-kayanin-uzerinde-2-bin-yillik-roma-mezari-19e05def/"
   },
   {
-   "id": "38890b45",
-   "title": "Çin'den Şıncın'daki üçlü zirvenin ardından \"etki alanı arayışında değiliz\" açıklaması",
-   "summary": "Çin Dışişleri Bakanlığı Sözcüsü Guo Ciakun, APEC Zirvesi'nde Çin, ABD ve Rusya liderlerini bir araya getiren üçlü toplantıya ilişkin, Pekin yönetiminin çok taraflılığa bağlı olduğunu ve etki alanı arayışında olmadığını…",
-   "link": "https://www.aa.com.tr/tr/dunya/cinden-sincindaki-uclu-zirvenin-ardindan-etki-alani-arayisinda-degiliz-aciklamasi/4134477",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T11:21:32+00:00",
-   "url": "/haber/cin-den-sincin-daki-uclu-zirvenin-ardindan-etki-alani-arayisinda-degil-38890b45/"
-  },
-  {
    "id": "dbe3ac51",
    "title": "Honor 700 serisi tanıtıldı: Çift ekran, 200MP kamera, 9000 mAh batarya",
    "summary": "Honor, Honor 700, Honor 700 Pro ve Honor 700S modellerini tanıttı. Her üç modelde de ikinci bir arka ekran, 200 MP ana kamera ve 9.000 mAh batarya bulunuyor.",
@@ -255,39 +365,6 @@
    "url": "/haber/honor-700-serisi-tanitildi-cift-ekran-200mp-kamera-9000-mah-batarya-dbe3ac51/"
   },
   {
-   "id": "d988a04a",
-   "title": "Almanya ve Danimarka'da okullara bomba tehdidi gönderildi",
-   "summary": "Almanya ve Danimarka'da okullara e-posta yoluyla bomba tehdidinde bulunulduğu bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/almanya-ve-danimarkada-okullara-bomba-tehdidi-gonderildi/4134447",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T11:13:40+00:00",
-   "url": "/haber/almanya-ve-danimarka-da-okullara-bomba-tehdidi-gonderildi-d988a04a/"
-  },
-  {
-   "id": "8b29a780",
-   "title": "AB'den Coca-Cola'nın şişeleme şirketine rekabet soruşturması",
-   "summary": "Avrupa Birliği (AB) Komisyonu, Coca-Cola markalı içeceklerin Avrupa'daki en büyük iki şişeleme şirketinden biri olan Coca-Cola Europacific Partners'a (CCEP) yönelik rekabet soruşturması başlattı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abden-coca-colanin-siseleme-sirketine-rekabet-sorusturmasi/4134441",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T11:12:51+00:00",
-   "url": "/haber/ab-den-coca-cola-nin-siseleme-sirketine-rekabet-sorusturmasi-8b29a780/"
-  },
-  {
-   "id": "d80d0990",
-   "title": "Şehit Astsubay Çavuş Yalın Gergün, memleketi Samsun'da toprağa verildi",
-   "summary": "Şırnak'ın Uludere ilçesinde, silah kazasında şehit olan İstihbarat Astsubay Çavuş Yalın Gergün (22), memleketi Samsun'da son yolculuğuna uğurlandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/sehit-astsubay-cavus-yalin-gergun-memleketi-samsunda-topraga-verildi/4134421",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T11:09:54+00:00",
-   "url": "/haber/sehit-astsubay-cavus-yalin-gergun-memleketi-samsun-da-topraga-verildi-d80d0990/"
-  },
-  {
    "id": "bdc32cf1",
    "title": "Huawei'nin yeni markası OSTA tablet hazırlıyor",
    "summary": "Huawei'nin alt markası OSTA'nın, ilk telefonu O1 Pro'nun ardından küçük bir tablet üzerinde çalıştığı ileri sürüldü. Tabletin MatePad Mini'ye benzeyeceği söyleniyor.",
@@ -297,17 +374,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T11:00:09+00:00",
    "url": "/haber/huawei-nin-yeni-markasi-osta-tablet-hazirliyor-bdc32cf1/"
-  },
-  {
-   "id": "00842271",
-   "title": "Terör örgütü PKK/KCK, Irak'ın kuzeyindeki Hakurk'ta 14 barınma alanını daha boşalttı",
-   "summary": "Güvenlik kaynakları, terör örgütü PKK/KCK'nın Irak'ın kuzeyindeki Hakurk'ta bulunan 14 barınma alanını daha boşalttığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/teror-orgutu-pkk-kck-irakin-kuzeyindeki-hakurkta-14-barinma-alanini-daha-bosaltti/4134356",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T10:58:08+00:00",
-   "url": "/haber/teror-orgutu-pkk-kck-irak-in-kuzeyindeki-hakurk-ta-14-barinma-alanini-00842271/"
   },
   {
    "id": "cff9e445",
@@ -387,17 +453,6 @@
    "url": "/haber/kayip-aslan-icin-uyari-gozlerinin-icine-bakmayin-kosmayin-580d424a/"
   },
   {
-   "id": "f5fa4831",
-   "title": "Batı Şeria'nın Eriha kentinde gün yüzüne çıkarılan Roma dönemi mezarlığı Filistin tarihini aydınlatıyor",
-   "summary": "İşgal altındaki Batı Şeria'nın doğusunda yer alan ve dünyanın en eski şehirlerinden biri olan Eriha'daki arkeolojik bir alanda, Roma İmparatorluğu dönemine ait mezar ve iskeletler gün yüzüne çıkarıldı.",
-   "link": "https://www.aa.com.tr/tr/kultur/bati-serianin-eriha-kentinde-gun-yuzune-cikarilan-roma-donemi-mezarligi-filistin-tarihini-aydinlatiyor/4134298",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T10:30:42+00:00",
-   "url": "/haber/bati-seria-nin-eriha-kentinde-gun-yuzune-cikarilan-roma-donemi-mezarli-f5fa4831/"
-  },
-  {
    "id": "7efdde12",
    "title": "iPhone Duo kilit ekranına yeni widget alanı",
    "summary": "Apple'ın iPhone Duo'nun kilit ekranında sağ kenara iki yuvarlak widget yerleştiren bir alan test ettiği ortaya çıktı. Özellik iOS 27.1'den beri kodda duruyor ama kapalı.",
@@ -418,17 +473,6 @@
    "category": "gundem",
    "date": "2026-11-23T10:27:51+00:00",
    "url": "/haber/fransa-yi-degil-kapitalizmi-yok-etmek-istiyorum-fransiz-asiri-solcular-6b4129e1/"
-  },
-  {
-   "id": "3dac2199",
-   "title": "PKK, Hakurk'ta 14 alanı boşalttı",
-   "summary": "Güvenlik kaynaklarından edinilen bilgiye göre; terör örgütü PKK/KCK Irak'ın kuzeyindeki Hakurk bölgesinde bulunan 14 alanı boşalttı.",
-   "link": "https://www.ntv.com.tr/turkiye/pkk-hakurkta-14-kampi-bosaltti-1752203",
-   "image": "https://images.ntv.com.tr/images/pkk-14-kampı-boşalttı-314726.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T10:24:14+00:00",
-   "url": "/haber/pkk-hakurk-ta-14-alani-bosaltti-3dac2199/"
   },
   {
    "id": "02c8af1a",
@@ -519,17 +563,6 @@
    "url": "/haber/teror-orgutu-pkk-irak-in-kuzeyindeki-14-barinma-alanini-daha-bosaltti-60939faf/"
   },
   {
-   "id": "c3a5ae53",
-   "title": "Mega El Nino Türkiyeyi nasıl etkileyecek?",
-   "summary": "Kış kapıya dayandı. Gözler aylardır gündemden düşmeyen El Nino’ya çevrildi. Bu yıl son zamanların en kuvvetli El Nino’su beklense de Türkiye’nin bundan direkt olarak etkilenmesi beklenmiyor.",
-   "link": "https://www.trthaber.com/haber/cevre/mega-el-nino-turkiyeyi-nasil-etkileyecek-964203.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2404000/antalya-yagmuraa-2405190.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-23T09:46:00+00:00",
-   "url": "/haber/mega-el-nino-turkiyeyi-nasil-etkileyecek-c3a5ae53/"
-  },
-  {
    "id": "c5d170bc",
    "title": "Fon soruşturmasında yeni gelişme: Adliyeye sevk edildiler",
    "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında gözaltına alınan altı şüpheli, adliyeye sevk edildi.",
@@ -539,6 +572,17 @@
    "category": "gundem",
    "date": "2026-11-23T09:43:30+00:00",
    "url": "/haber/fon-sorusturmasinda-yeni-gelisme-adliyeye-sevk-edildiler-c5d170bc/"
+  },
+  {
+   "id": "f8cb010e",
+   "title": "Kasımpaşa CEO'su Ceyhun Kazancı, teknik direktör değişimini ve kulübün yeni vizyonunu anlattı",
+   "summary": "Kasımpaşa Kulübü Üst Yöneticisi (CEO) Ceyhun Kazancı, lacivert-beyazlı takımın yeni teknik direktörü Alfred Schreuder'ın oyuncuların gelişimine büyük önem verdiğini belirterek \"Türkiye Ligi'nde çok iyi işler…",
+   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-ceosu-ceyhun-kazanci-teknik-direktor-degisimini-ve-kulubun-yeni-vizyonunu-anlatti/4134226",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T09:40:24+00:00",
+   "url": "/haber/kasimpasa-ceo-su-ceyhun-kazanci-teknik-direktor-degisimini-ve-kulubun-f8cb010e/"
   },
   {
    "id": "99731309",
@@ -805,6 +849,17 @@
    "url": "/haber/fiat-grizzly-ve-fastback-in-turkiye-fiyatlari-belli-oldu-iste-ozellikl-fd833355/"
   },
   {
+   "id": "ba3fac3e",
+   "title": "Soğukçeşme Sokağı Sarnıcı, İstanbul'un su uygarlığı tarihine ışık tutuyor",
+   "summary": "İstanbul'da 5. ve 6. yüzyıllara tarihlenen Soğukçeşme Sokağı Sarnıcı, kentin \"su uygarlığı\" geçmişine ışık tutan tarihi yapılar arasında yer alıyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/sogukcesme-sokagi-sarnici-istanbulun-su-uygarligi-tarihine-isik-tutuyor/4134114",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T08:14:34+00:00",
+   "url": "/haber/sogukcesme-sokagi-sarnici-istanbul-un-su-uygarligi-tarihine-isik-tutuy-ba3fac3e/"
+  },
+  {
    "id": "de379358",
    "title": "COP31'de 36 başlıkta somut kararlar alındı",
    "summary": "Türkiye’nin ev sahipliğinde ve COP31 Başkanlığı’nda Antalya’da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı’nda uyum ve adil geçiş gibi alanlarda 36 başlıkta ortak karar alındı.",
@@ -816,26 +871,15 @@
    "url": "/haber/cop31-de-36-baslikta-somut-kararlar-alindi-de379358/"
   },
   {
-   "id": "47e57786",
-   "title": "Taş Tepeler kazılarında 34 eser Ankara'da sergilendi",
-   "summary": "Şanlıurfa'daki Taş Tepeler kazılarında gün yüzüne çıkarılan 34 eser Ankara'da sergilendi. Neolitik Dönem'e ait bazı buluntular ilk kez ziyaretçilerle buluştu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-tas-tepeler-kazilarinda-34-eser-ankarada-sergilendi-1752165",
-   "image": "https://images.ntv.com.tr/images/TAŞTEPELERESER-400430.jpeg",
-   "source": "ntv.com.tr",
+   "id": "3bdc529d",
+   "title": "Dijital ortamda zorunlu tutulan gizlilik politikaları ve çerezlerin görünmeyen bedeli mahremiyet yorgunluğu",
+   "summary": "İngiliz araştırmacı Dr. Karen Renaud, \"Her seferinde 'Hayır. Çerezleri istemiyorum.' demek ya da tüm tercihlerinizi belirtmek enerjinizi alıyor.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/dijital-ortamda-zorunlu-tutulan-gizlilik-politikalari-ve-cerezlerin-gorunmeyen-bedeli-mahremiyet-yorgunlugu/4134092",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-23T08:04:48+00:00",
-   "url": "/haber/tas-tepeler-kazilarinda-34-eser-ankara-da-sergilendi-47e57786/"
-  },
-  {
-   "id": "f58fdc2b",
-   "title": "Milli Eğitim Bakanı Tekin'den 24 Kasım Öğretmenler Günü mesajı",
-   "summary": "Milli Eğitim Bakanı Yusuf Tekin, 24 Kasım Öğretmenler Günü dolayısıyla bir mesaj yayımladı.",
-   "link": "https://www.ntv.com.tr/turkiye/milli-egitim-bakani-tekinden-24-kasim-ogretmenler-gunu-mesaji-1752170",
-   "image": "https://images.ntv.com.tr/images/AA-20260918-42507363-42507362-MILLI_EGITIM_BAKANI_TEKIN_KIRKLARELINDE_BELDE_TESKILATI_BINASININ_ACILISINA_KATILDI-515321(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T08:04:30+00:00",
-   "url": "/haber/milli-egitim-bakani-tekin-den-24-kasim-ogretmenler-gunu-mesaji-f58fdc2b/"
+   "date": "2026-11-23T08:05:26+00:00",
+   "url": "/haber/dijital-ortamda-zorunlu-tutulan-gizlilik-politikalari-ve-cerezlerin-go-3bdc529d/"
   },
   {
    "id": "0314b565",
@@ -1025,28 +1069,6 @@
    "url": "/haber/cocugunuzun-size-yalan-soylemesi-neden-zihinsel-gelisimin-onemli-bir-a-7c25cc44/"
   },
   {
-   "id": "f033a765",
-   "title": "Demokratlar ABD Temsilciler Meclisi'nde son 34 yılın rekor sayısına ulaştı",
-   "summary": "Demokratlar ara seçimlerde en az 258 sandalye kazanırken Cumhuriyetçiler en az 173 sandalye elde etti. Henüz açıklanmayan dört yer var.",
-   "link": "https://www.bbc.com/turkce/articles/c50mdr0mp04ro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c808/live/9d405240-e70f-11f1-99a1-253766e7ad8b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-23T00:18:59+00:00",
-   "url": "/haber/demokratlar-abd-temsilciler-meclisi-nde-son-34-yilin-rekor-sayisina-ul-f033a765/"
-  },
-  {
-   "id": "67d6b5df",
-   "title": "GTA 6, Xbox'ta 60 FPS oynanabiliyor",
-   "summary": "Rockstar Games'in 30 FPS ile sınırlandırdığı GTA 6'nın Xbox Series X ve S'te 60 FPS oynanabileceği ortaya çıktı. Bu sürpriz gelişmenin arkasında Quick Resume özelliği var.",
-   "link": "https://www.donanimhaber.com/gta-6-xbox-ta-60-fps-oynanabiliyor--213246",
-   "image": "https://www.donanimhaber.com/images/images/haber/213246/1200x675gta-6-xbox-ta-60-fps-oynanabiliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-22T20:30:00+00:00",
-   "url": "/haber/gta-6-xbox-ta-60-fps-oynanabiliyor-67d6b5df/"
-  },
-  {
    "id": "7bbccf14",
    "title": "Sarıyer'de aslan alarmı: Yakalama çalışması başladı",
    "summary": "Sarıyer’de dün akşam saatlerinde görülen ve yakalama çalışmaları başlatılan aslanın yakalanmasına yönelik çalışmalar gündüz de devam ediyor.",
@@ -1100,28 +1122,6 @@
    "category": "gundem",
    "date": "2026-11-22T09:49:25+00:00",
    "url": "/haber/kapadokya-daki-antik-yeralti-sehrinden-iklim-dersleri-2cdf999b/"
-  },
-  {
-   "id": "5c17d5e3",
-   "title": "Tesla, çıtayı daha da yükselten “FSD v15” sürümünü duyurdu [Video]",
-   "summary": "Tesla, FSD (Full Self-Driving) sistemi için hazırladığı, çıtayı daha da yukarıya taşıyan v15 sürümünü duyurdu. Kademeli olarak kullanıma sunulmaya başlanan ve otonom sürüş ağının hemen her bölümünü güncellediği…",
-   "link": "https://www.log.com.tr/tesla-citayi-daha-da-yukselten-fsd-v15-surumunu-duyurdu-video/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-22_12-34-04_kKS46-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-22T09:42:01+00:00",
-   "url": "/haber/tesla-citayi-daha-da-yukselten-fsd-v15-surumunu-duyurdu-video-5c17d5e3/"
-  },
-  {
-   "id": "2010889b",
-   "title": "Elektrik desteği taşımayan Ferrari 296 Challenge Stradale görücüye çıkarıldı",
-   "summary": "Pist odaklı tasarlanan ancak trafiğe de çıkabilen Ferrari 296 Challenge Stradale, herhangi bir hibrit sistem taşımıyor olmasıyla öne çıkıyor. 296 GTB ve 296 Speciale’nin aksine elektrik desteğinden yoksun olan aracın…",
-   "link": "https://www.log.com.tr/elektrik-destegi-tasimayan-ferrari-296-challenge-stradale-gorucuye-cikarildi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-22_12-29-18_uY9Bx-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-22T09:32:06+00:00",
-   "url": "/haber/elektrik-destegi-tasimayan-ferrari-296-challenge-stradale-gorucuye-cik-2010889b/"
   },
   {
    "id": "2dca7fee",
@@ -1254,17 +1254,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T13:04:19+00:00",
    "url": "/haber/gta-vi-bile-hic-guvende-degil-ucretli-yazilim-ve-oyun-cagi-bitti-mi-17f7043e/"
-  },
-  {
-   "id": "32096b87",
-   "title": "Windows 11’e 28 Değişiklik Getiren Güncelleme Yayımlandı: İşte Yenilikler",
-   "summary": "Windows 11 KB5132057 güncellemesi, arama kutusundan yüz tanımaya kadar 28 değişiklik ve hata düzeltmesi getiriyor.",
-   "link": "https://www.webtekno.com/windows-11-kb5132057-guncellemesi-h229279.html",
-   "image": "https://imgrosetta.webtekno.com/file/698062/698062-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-20T12:33:43+00:00",
-   "url": "/haber/windows-11-e-28-degisiklik-getiren-guncelleme-yayimlandi-iste-yenilikl-32096b87/"
   }
  ]
 }
