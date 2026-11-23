@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-23T22:01:04.175414+00:00",
+ "updated": "2026-11-23T22:30:54.339226+00:00",
  "items": [
+  {
+   "id": "0ad76683",
+   "title": "Öğretmenler Günü neden 24 Kasım'da kutlanıyor?",
+   "summary": "24 Kasım Öğretmenler Günü'nün ortaya çıkışını, dünyadaki diğer öğretmen günlerini ve bu yıl Türkiye'deki meslek örgütlerinin taleplerini inceledik.",
+   "link": "https://www.bbc.com/turkce/articles/cqe979y7eq7o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/42fe/live/cc27d3d0-6c02-11ed-ae8b-ef136a32354b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-23T22:16:40+00:00",
+   "url": "/haber/ogretmenler-gunu-neden-24-kasim-da-kutlaniyor-0ad76683/"
+  },
   {
    "id": "60623f8c",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Kasım 2026",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-11-22T09:49:25+00:00",
    "url": "/haber/kapadokya-daki-antik-yeralti-sehrinden-iklim-dersleri-2cdf999b/"
-  },
-  {
-   "id": "2dca7fee",
-   "title": "'İnsanlar konuşmaktan çekiniyor': Altı erkekten birinde görülen varikosel hastalığı nedir?",
-   "summary": "Dünyanın tedavi edilebilir en yaygın erkek kısırlığı hastalığı olan varikosel, her altı erkekten birini etkiliyor. Ancak çoğu erkeğin teşhis alana kadar hastalıktan haberi bile olmuyor. Peki bu hastalık teşhis ve tedavi…",
-   "link": "https://www.bbc.com/turkce/articles/cm2l5jn0r8q8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6307/live/60c49c60-e415-11f1-b37c-b3a71d7200af.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-22T08:36:09+00:00",
-   "url": "/haber/insanlar-konusmaktan-cekiniyor-alti-erkekten-birinde-gorulen-varikosel-2dca7fee/"
   }
  ]
 }
