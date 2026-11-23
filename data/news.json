@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-23T04:01:05.945781+00:00",
+ "updated": "2026-11-23T04:30:53.230356+00:00",
  "items": [
+  {
+   "id": "2cf79728",
+   "title": "Anthropic'e erken yatırım yapanlar kazandı",
+   "summary": "Anthropic'in 81,3 milyar dolarlık rekor halka arzı, Notable Capital, GIC ve Baillie Gifford gibi erken yatırımcıları büyük kağıt üzerinde kazançla buluşturdu.",
+   "link": "https://shiftdelete.net/anthropic-halka-arz-oncesi-yatirimcilar-notable-gic-baillie-gifford",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/anthropic-halka-arz-kapak-1811.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-23T04:30:07+00:00",
+   "url": "/haber/anthropic-e-erken-yatirim-yapanlar-kazandi-2cf79728/"
+  },
+  {
+   "id": "019f9cba",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-kasim-2026-1752114",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T04:30:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-019f9cba/"
+  },
+  {
+   "id": "2105880c",
+   "title": "Sarıyer'de aslan alarmı. Yeri bulundu, çember daraldı",
+   "summary": "Sarıyer'de Uskumruköy'de bir evden kaçtığı değerlendirilen aslanı yakalama çalışmaları gece boyunca sürdü. Ormandaki yeri tespit edilen aslan için çember giderek daraltıldı. Çalışmalar sürüyor.",
+   "link": "https://www.ntv.com.tr/turkiye/sariyerde-aslan-gordum-ihbari-ekipler-calisma-baslatti-1752109",
+   "image": "https://images.ntv.com.tr/images/SARIYERDE-ASLAN-GORDUM-IHBARI-YAPILDI_1621675_482115-388770(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T04:28:22+00:00",
+   "url": "/haber/sariyer-de-aslan-alarmi-yeri-bulundu-cember-daraldi-2105880c/"
+  },
   {
    "id": "765d5860",
    "title": "OpenAI'dan yapay zekaya ortak hız sınırı önerisi",
@@ -13,15 +46,15 @@
    "url": "/haber/openai-dan-yapay-zekaya-ortak-hiz-siniri-onerisi-765d5860/"
   },
   {
-   "id": "019f9cba",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-kasim-2026-1752114",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
+   "id": "31eec7dd",
+   "title": "Sıcaklıklar yarından itibaren 6 ila 10 derece azalacak",
+   "summary": "Yeni haftada sıcaklıklar, yarından itibaren kuzeybatıdan başlayarak yurt genelinde 6 ila 10 derece azalacak. Sağanak, yer yer kuvvetli yağış ve saatte 80 kilometreye ulaşan rüzgarın etkili olacağı haftada, iç ve doğu…",
+   "link": "https://www.trthaber.com/haber/gundem/sicakliklar-yarindan-itibaren-6-ila-10-derece-azalacak-964165.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2306000/kar-yagisi-2307788.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
-   "date": "2026-11-23T04:00:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-019f9cba/"
+   "date": "2026-11-23T03:34:00+00:00",
+   "url": "/haber/sicakliklar-yarindan-itibaren-6-ila-10-derece-azalacak-31eec7dd/"
   },
   {
    "id": "f69f179c",
@@ -33,17 +66,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T03:30:07+00:00",
    "url": "/haber/activision-npc-leri-sesli-sohbetle-egitecek-f69f179c/"
-  },
-  {
-   "id": "2105880c",
-   "title": "Sarıyer'de aslan alarmı. Ekiplerin yakalama çalışmaları devam ediyor",
-   "summary": "Sarıyer'de aslan görüldüğü ihbarı üzerine harekete geçildi. Aslanın sağ olarak yakalanması için ekiplerin çalışmaları sürüyor.",
-   "link": "https://www.ntv.com.tr/turkiye/sariyerde-aslan-gordum-ihbari-ekipler-calisma-baslatti-1752109",
-   "image": "https://images.ntv.com.tr/images/SARIYERDE-ASLAN-GORDUM-IHBARI-YAPILDI_1621675_482115-388770(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T03:10:12+00:00",
-   "url": "/haber/sariyer-de-aslan-alarmi-ekiplerin-yakalama-calismalari-devam-ediyor-2105880c/"
   },
   {
    "id": "87db3b22",
@@ -255,15 +277,15 @@
    "url": "/haber/genc-milli-judocular-dunya-sampiyonasi-ni-2-si-altin-3-madalyayla-tama-9cf8810f/"
   },
   {
-   "id": "3bedec46",
-   "title": "Van'ın 4 ilçesinde kar yağışı nedeniyle eğitime yarın ara verildi",
+   "id": "10df2f6f",
+   "title": "Van'ın 4 ilçesinde kar yağışı nedeniyle eğitime ara verildi",
    "summary": "Van'ın Çaldıran, Muradiye, Özalp ve Saray ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/vanin-4-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi/4133858",
+   "link": "https://www.aa.com.tr/tr/gundem/vanin-4-ilcesinde-kar-yagisi-nedeniyle-egitime-ara-verildi/4133858",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-22T20:39:42+00:00",
-   "url": "/haber/van-in-4-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi-3bedec46/"
+   "url": "/haber/van-in-4-ilcesinde-kar-yagisi-nedeniyle-egitime-ara-verildi-10df2f6f/"
   },
   {
    "id": "67d6b5df",
@@ -750,17 +772,6 @@
    "url": "/haber/chatgpt-space-plus-abonelerine-aciliyor-b93bd141/"
   },
   {
-   "id": "735480d9",
-   "title": "Claude, 96 KB'lık dosyaya Atlantis'i sığdırdı",
-   "summary": "Bir GitHub kullanıcısının Claude Code ile hazırladığı Atlantis, içinde uçarak gezilebilen bir şehri 96 KB'lık tek bir HTML dosyasına sığdırıyor. Dosyada görsel ya da 3D model yok.",
-   "link": "https://shiftdelete.net/claude-96-kb-atlantis-sehri",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/claude-atlantis-kristal-podyum-kapak-2211.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-22T11:30:09+00:00",
-   "url": "/haber/claude-96-kb-lik-dosyaya-atlantis-i-sigdirdi-735480d9/"
-  },
-  {
    "id": "8e47ac9e",
    "title": "Galler Prensesi Kate yeni belgeselde kanser yolculuğunu anlatıyor",
    "summary": "BBC'nin yeni belgeseli Galler Prensesi Catherine'in kanser sürecini anlatıyor. Prenses, \"Kanser teşhisinin sizde değiştirdiği şeylerin çok daha derin bir boyutu var\" diyor.",
@@ -1089,17 +1100,6 @@
    "category": "gundem",
    "date": "2026-11-21T08:18:16+00:00",
    "url": "/haber/anthropic-in-yukselisiyle-dolar-milyarderi-olan-yedi-kisi-kim-ec8fc516/"
-  },
-  {
-   "id": "f29adb07",
-   "title": "21 il için sarı uyarı: Kuvvetli yağışa dikkat",
-   "summary": "Doğu Akdeniz ile doğu bölgelerde beklenen kuvvetli yağış nedeniyle 21 il için \"sarı\" kodlu uyarıda bulunuldu.",
-   "link": "https://www.trthaber.com/haber/gundem/21-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-964030.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2012000/diyarbakir-saganak-2012448.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-21T06:09:00+00:00",
-   "url": "/haber/21-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-f29adb07/"
   },
   {
    "id": "83ced8fc",
