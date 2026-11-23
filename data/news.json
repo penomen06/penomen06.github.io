@@ -1,6 +1,182 @@
 {
- "updated": "2026-11-23T09:01:04.300687+00:00",
+ "updated": "2026-11-23T09:30:55.187347+00:00",
  "items": [
+  {
+   "id": "99731309",
+   "title": "iOS 27, zayıf Wi-Fi'da mobil veriye geçiyor",
+   "summary": "Apple, iOS 27 ile Wi-Fi Yardımı'nın yerini alan Bağlantı Yardımı özelliğini sunuyor. Özellik, Wi-Fi yavaşladığında iPhone'un kendiliğinden hücresel veriye başvurmasını sağlıyor.",
+   "link": "https://shiftdelete.net/ios-27-baglanti-yardimi-connectivity-assist",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/iphone-18-kapak-0811.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-23T09:30:12+00:00",
+   "url": "/haber/ios-27-zayif-wi-fi-da-mobil-veriye-geciyor-99731309/"
+  },
+  {
+   "id": "99f108db",
+   "title": "ABD, NATO'nun 5. maddesi benzeri güvenlik garantisinin Ukrayna'ya verilmesi için şartını duyurdu",
+   "summary": "ABD Başkanı Donald Trump'ın damadı ve Özel Temsilcisi Jared Kushner, NATO anlaşmasının 5. maddesine benzer güvenlik garantilerinin Ukrayna'ya sağlanması olasılığını \"ABD'nin ulusal çıkarlarına açıkça hizmet etmesi\"…",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-natonun-5-maddesi-benzeri-guvenlik-garantisinin-ukraynaya-verilmesi-icin-sartini-duyurdu/4134217",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T09:26:41+00:00",
+   "url": "/haber/abd-nato-nun-5-maddesi-benzeri-guvenlik-garantisinin-ukrayna-ya-verilm-99f108db/"
+  },
+  {
+   "id": "c97116d4",
+   "title": "Otoparkta ilk üç saat kuralına uymayanlara ceza yağdı",
+   "summary": "İstanbul'da otoparklarında ilk üç saat ücretsiz kuralına uymayan 50 alışveriş, iş ve ticaret merkezine toplamda 2 milyon 426 bin 775 lira para cezası kesildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-otoparkta-ilk-uc-saat-kuralina-uymayanlara-ceza-yagdi-1752188",
+   "image": "https://images.ntv.com.tr/images/AA-20261123-43156026-43156017-ISTANBULDA_OTOPARKLARDA_ILK_3_SAAT_UCRETSIZ_KURALINA_UYMAYAN_ALISVERIS_IS_VE_TICARET_MERKEZLERINE_CEZA-812607.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T09:23:18+00:00",
+   "url": "/haber/otoparkta-ilk-uc-saat-kuralina-uymayanlara-ceza-yagdi-c97116d4/"
+  },
+  {
+   "id": "ee5a9dd5",
+   "title": "Galaxy S27 serisinin RAM ve depolama bilgileri ortaya çıktı",
+   "summary": "Samsung'un Galaxy S27 serisi için RAM ve depolama planı ortaya çıktı. Serinin en üst modeli olan Galaxy S27 Ultra 256 GB modelde LPDDR6 RAM ve UFS 5.0 desteği olmayacak.",
+   "link": "https://www.donanimhaber.com/samsung-s27-serisinin-ram-ve-depolama-bilgileri-ortaya-cikti--213254",
+   "image": "https://www.donanimhaber.com/images/images/haber/213254/1200x675samsung-s27-serisinin-ram-ve-depolama-bilgileri-ortaya-cikti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-23T09:20:00+00:00",
+   "url": "/haber/galaxy-s27-serisinin-ram-ve-depolama-bilgileri-ortaya-cikti-ee5a9dd5/"
+  },
+  {
+   "id": "8165e9f9",
+   "title": "Sarıyer'de aslan alarmı: Yollar kapatıldı, aslan her yerde aranıyor",
+   "summary": "Sarıyer'de görülen aslanı yakalama çalışmaları sürüyor. Uskumruköy'de bazı yollar kapatıldı. Ekipler ormanlık alana yoğunlaştı. Aslanın sahibinin tespit edilmesi için soruşturma başlatıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sariyerde-aslan-alarmi-uskumrukoy-yaya-ve-arac-girisine-kapatildi-aslan-her-yerde-araniyor-1752168",
+   "image": "https://images.ntv.com.tr/images/sarıyer-aslan-775459.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T09:18:05+00:00",
+   "url": "/haber/sariyer-de-aslan-alarmi-yollar-kapatildi-aslan-her-yerde-araniyor-8165e9f9/"
+  },
+  {
+   "id": "6739fa9a",
+   "title": "Milli Savunma Bakanı Güler, Umman Savunma Bakanlığı Genel Sekreteri Al Zaabi ile görüştü",
+   "summary": "Milli Savunma Bakanı Yaşar Güler, Umman Savunma Bakanlığı Genel Sekreteri Mohammed Nasser Al Zaabi ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakani-guler-umman-savunma-bakanligi-genel-sekreteri-al-zaabi-ile-gorustu/4134191",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T09:15:58+00:00",
+   "url": "/haber/milli-savunma-bakani-guler-umman-savunma-bakanligi-genel-sekreteri-al-6739fa9a/"
+  },
+  {
+   "id": "ac216d53",
+   "title": "Şıncın Zirvesi küresel siyasete ne sunuyor?",
+   "summary": "ABD-Rusya-Çin üçlüsü, uluslararası sistemin dönüşüm geçirdiği günümüzde riskleri artırmamak adına Şıncın'da imzaladıkları Barış Bildirgesi ile rekabet ortamında kriz iletişim mekanizmalarına duyulan ihtiyacı kabul etti.",
+   "link": "https://www.aa.com.tr/tr/analiz/sincin-zirvesi-kuresel-siyasete-ne-sunuyor/4134190",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T09:15:44+00:00",
+   "url": "/haber/sincin-zirvesi-kuresel-siyasete-ne-sunuyor-ac216d53/"
+  },
+  {
+   "id": "1b9863c4",
+   "title": "Siber suçlarla mücadele operasyonlarında 60 şüpheli tutuklandı",
+   "summary": "İçişleri Bakanlığınca, siber suçlarla mücadele kapsamında 12 ilde düzenlenen operasyonlarda yakalanan 101 şüpheliden 60'ının tutuklandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/siber-suclarla-mucadele-operasyonlarinda-60-supheli-tutuklandi/4134187",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T09:13:37+00:00",
+   "url": "/haber/siber-suclarla-mucadele-operasyonlarinda-60-supheli-tutuklandi-1b9863c4/"
+  },
+  {
+   "id": "932cae16",
+   "title": "Bakan Kacır, sanayi uygulamaları için insansı robot geliştirme çağrısı açtıklarını bildirdi",
+   "summary": "Bakan Kacır, \"Ülkemizin ileri teknoloji üretim kapasitesini güçlendirecek ve rekabet gücümüzü artıracak bu kritik çağrı ile firmalarımıza proje bütçelerinin yüzde 50'si oranında hibe desteği sunacağız.\" ifadelerini…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-sanayi-uygulamalari-icin-insansi-robot-gelistirme-cagrisi-actiklarini-bildirdi/4134184",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T09:11:16+00:00",
+   "url": "/haber/bakan-kacir-sanayi-uygulamalari-icin-insansi-robot-gelistirme-cagrisi-932cae16/"
+  },
+  {
+   "id": "6fc796b3",
+   "title": "COP31'de neden uzlaşı çıkmadı? Körfez ülkeleri ile AB arasında fosil yakıt anlaşmazlığı",
+   "summary": "Antalya'nın ev sahipliğinde düzenlenen COP31 zirvesi dün akşam sona erdi. Zirvede Körfez ülkeleri ile AB arasında yaşanan anlaşmazlık nedeniyle uzlaşı çıkmadı. Peki müzakere sürecinde neler yaşandı?",
+   "link": "https://www.ntv.com.tr/turkiye/cop31de-neden-uzlasi-cikmadi-korfez-ulkeleri-ile-ab-arasinda-fosil-yakit-anlasmazligi-1752179",
+   "image": "https://images.ntv.com.tr/images/AA-20261122-43152868-43152867-COP31_CLOSING_PLENARY_SESSION-472984.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T09:10:29+00:00",
+   "url": "/haber/cop31-de-neden-uzlasi-cikmadi-korfez-ulkeleri-ile-ab-arasinda-fosil-ya-6fc796b3/"
+  },
+  {
+   "id": "5bbaa8e8",
+   "title": "VGM burs sonuçları sorgulama ekranı 2026. VGM yükseköğrenim burs sonuçları açıklandı",
+   "summary": "Kültür ve Turizm Bakanlığı Vakıflar Genel Müdürlüğü (VGM) tarafından üniversite öğrencilerine sağlanan karşılıksız yükseköğrenim bursu için haftalardır süren heyecanlı bekleyiş sona erdi ve sonuçlar açıklandı. Peki, VGM…",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-vgm-burs-sonuclari-sorgulama-ekrani-2026-vgm-yuksekogrenim-burs-sonuclari-aciklandi-1752183",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_710971a1c260882f3dd4a2f7179721d3-884562.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T09:10:22+00:00",
+   "url": "/haber/vgm-burs-sonuclari-sorgulama-ekrani-2026-vgm-yuksekogrenim-burs-sonucl-5bbaa8e8/"
+  },
+  {
+   "id": "7d21a02b",
+   "title": "İran: ABD'nin yaptırım ve ablukasını kırmak için elimizdeki tüm imkanları kullanacağız",
+   "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ABD'nin deniz ablukası ve yaptırımlarına karşı çeşitli önlemleri değerlendirdiklerini ve ellerindeki tüm imkanları kullanacaklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-abdnin-yaptirim-ve-ablukasini-kirmak-icin-elimizdeki-tum-imkanlari-kullanacagiz/4134181",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T09:06:50+00:00",
+   "url": "/haber/iran-abd-nin-yaptirim-ve-ablukasini-kirmak-icin-elimizdeki-tum-imkanla-7d21a02b/"
+  },
+  {
+   "id": "1153a195",
+   "title": "Arka kamera modüllerine ekran konumlandırılan Honor 700S, 700 ve 700 Pro tanıtıldı",
+   "summary": "Honor 700S, 700 ve 700 Pro modelleri bugün Çin’de resmi olarak görücüye çıkarıldı. Arkalarına yerleştirilen 1,59 inç boyutundaki AMOLED ekranla öne çıkan telefonlar, bu ekranda tarih ve saat bilgisinin yanı sıra gelen…",
+   "link": "https://www.log.com.tr/arka-kamera-modullerine-ekran-konumlandirilan-honor-700s-700-ve-700-pro-tanitildi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-23_11-45-01_F09Sp-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-23T09:06:22+00:00",
+   "url": "/haber/arka-kamera-modullerine-ekran-konumlandirilan-honor-700s-700-ve-700-pr-1153a195/"
+  },
+  {
+   "id": "c04d7f4b",
+   "title": "Öcalan: Süreç, bozucu planlara karşı demokratik hukuk yoluyla güçlendirilmeli",
+   "summary": "PKK lideri Abdullah Öcalan yeni açıklamasında, \"Kürtlerin de asli bir kurucu unsur olarak yasal güvenceye kavuşturulmasıyla Türkiye'nin Ortadoğu'da rol model olabileceği\" mesajını verdi.",
+   "link": "https://www.bbc.com/turkce/articles/cm4gn34x26w8o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/73e5/live/13c66b60-e71b-11f1-99b6-a35a62fa4264.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-23T09:03:02+00:00",
+   "url": "/haber/ocalan-surec-bozucu-planlara-karsi-demokratik-hukuk-yoluyla-guclendiri-c04d7f4b/"
+  },
+  {
+   "id": "9e9754c5",
+   "title": "Anthropic CEO'sunun yapay zekanın yol açtığı işsizliğe çözüm olarak video oyunu oynamayı önerdiği iddiası",
+   "summary": "Anthropic'in Üst Yöneticisi (CEO) Dario Amodei'nin, yapay zeka nedeniyle ortaya çıkan işsizlik sorununun yol açtığı siyasi çekişmelere çözüm olarak insanların sürükleyici video oyunları oynamasını önerdiği iddia edildi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/anthropic-ceosunun-yapay-zekanin-yol-actigi-issizlige-cozum-olarak-video-oyunu-oynamayi-onerdigi-iddiasi/4134179",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T09:02:43+00:00",
+   "url": "/haber/anthropic-ceo-sunun-yapay-zekanin-yol-actigi-issizlige-cozum-olarak-vi-9e9754c5/"
+  },
+  {
+   "id": "2c46d5f6",
+   "title": "Yeni Fiat Grizzly ve Fastback'in Türkiye Fiyatları Açıklandı",
+   "summary": "Yeni Grizzly ve Fastback modellerinin 1.2 turbo benzinli, hibrit ve elektrikli motor seçenekleri ile lansmana özel satış fiyatları açıklandı.",
+   "link": "https://www.webtekno.com/yeni-fiat-grizzly-ve-fastback-turkiye-fiyatlari-h229315.html",
+   "image": "https://imgrosetta.webtekno.com/file/698221/698221-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-23T09:00:32+00:00",
+   "url": "/haber/yeni-fiat-grizzly-ve-fastback-in-turkiye-fiyatlari-aciklandi-2c46d5f6/"
+  },
   {
    "id": "29b59123",
    "title": "One UI 9.5, WhatsApp'ı zayıf Wi-Fi'da kurtarıyor",
@@ -24,15 +200,15 @@
    "url": "/haber/yeni-nesil-ilaclarin-onunu-acacak-yapay-zeka-novaatom-lite-alphafold-3-c4eda790/"
   },
   {
-   "id": "ce7d3936",
+   "id": "02fed877",
    "title": "COP31’in ardından: Antalya'da alınan kararlar ve Addis Ababa'ya kalan gündem",
    "summary": "Türkiye, Antalya’da uzlaşının bütün imkanlarını zorladı ve ortaya koyduğu Aksiyon Ajandası, geliştirdiği işbirlikleri ile kurduğu uluslararası ortaklıklar bu emeğin kalıcı kazanımları oldu.",
-   "link": "https://www.aa.com.tr/tr/analiz/cop31-in-ardindan-antalyada-alinan-kararlar-ve-addis-ababaya-kalan-gundem/4134172",
+   "link": "https://www.aa.com.tr/tr/cop31/cop31-in-ardindan-antalyada-alinan-kararlar-ve-addis-ababaya-kalan-gundem/4134172",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-23T08:54:52+00:00",
-   "url": "/haber/cop31-in-ardindan-antalya-da-alinan-kararlar-ve-addis-ababa-ya-kalan-g-ce7d3936/"
+   "url": "/haber/cop31-in-ardindan-antalya-da-alinan-kararlar-ve-addis-ababa-ya-kalan-g-02fed877/"
   },
   {
    "id": "dafe4e4f",
@@ -79,39 +255,6 @@
    "url": "/haber/yasa-disi-bahis-cocuk-istismari-ve-dolandiriciliga-12-ilde-operasyon-6-ca7d99a0/"
   },
   {
-   "id": "275897d6",
-   "title": "Avrupa şirketlerinden AB liderlerine rekabetçilik fonunu büyütme çağrısı",
-   "summary": "75'ten fazla şirket ve sektör kuruluşu, AB'nin 234,3 milyar avroluk Avrupa Rekabetçilik Fonu'nun bütçesinin artırılmasını istedi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-sirketlerinden-ab-liderlerine-rekabetcilik-fonunu-buyutme-cagrisi/4134159",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T08:41:31+00:00",
-   "url": "/haber/avrupa-sirketlerinden-ab-liderlerine-rekabetcilik-fonunu-buyutme-cagri-275897d6/"
-  },
-  {
-   "id": "e026da28",
-   "title": "Ukrayna: Libya açıklarında Rus donanmasına ait korvet ve Rus kuru yük gemisi hedef alındı",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Libya açıklarında Rus kuru yük gemisi \"MV ANGARA\" ile Rus donanmasına ait \"Merkuriy\" korvetine saldırılar düzenlediklerini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-libya-aciklarinda-rus-donanmasina-ait-korvet-ve-rus-kuru-yuk-gemisi-hedef-alindi/4134158",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T08:41:18+00:00",
-   "url": "/haber/ukrayna-libya-aciklarinda-rus-donanmasina-ait-korvet-ve-rus-kuru-yuk-g-e026da28/"
-  },
-  {
-   "id": "ce0433ae",
-   "title": "MEB'in \"ÖğretmenİZ\" dergisi 24 Kasım Öğretmenler Günü özel sayısı yayımlandı",
-   "summary": "Milli Eğitim Bakanlığınca (MEB) hazırlanan \"ÖğretmenİZ\" dergisinin 24 Kasım Öğretmenler Günü özel sayısı okurlarıyla buluştu.",
-   "link": "https://www.aa.com.tr/tr/gundem/mebin-ogretmeniz-dergisi-24-kasim-ogretmenler-gunu-ozel-sayisi-yayimlandi/4134155",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T08:40:13+00:00",
-   "url": "/haber/meb-in-ogretmeniz-dergisi-24-kasim-ogretmenler-gunu-ozel-sayisi-yayiml-ce0433ae/"
-  },
-  {
    "id": "91c850b6",
    "title": "ASELSAN GÖKDENİZ gerçek atışlı testi geçti",
    "summary": "ASELSAN'ın yakın hava savunma sistemi GÖKDENİZ, Karadeniz'deki gerçek atışlı testte İHA tehdidini temsil eden hedefleri otonom modda imha etti. Sistemi altı ülkenin donanması kullanıyor.",
@@ -134,6 +277,17 @@
    "url": "/haber/meta-nin-ai-liderinden-super-zeka-uyarisi-atom-bombasi-ev-odevi-gibi-k-2b1543fa/"
   },
   {
+   "id": "ed549b5a",
+   "title": "Taş Tepeler kazılarından çıkarılan 34 eser Ankara'da sergilendi",
+   "summary": "Bazı buluntuların ilk kez ziyaretçiyle buluştuğu sergide, Karahantepe'de aynı taş kabın içinde bulunan üç hayvan heykelciği ile 2026 kazılarında keşfedilen akbaba başı da yer aldı.",
+   "link": "https://www.aa.com.tr/tr/kultur/tas-tepeler-kazilarindan-cikarilan-34-eser-ankarada-sergilendi/4134153",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T08:37:24+00:00",
+   "url": "/haber/tas-tepeler-kazilarindan-cikarilan-34-eser-ankara-da-sergilendi-ed549b5a/"
+  },
+  {
    "id": "3a45a16e",
    "title": "The Last of Us Part II İçin Ücretsiz Çok Oyunculu Mod \"Twelve Weeks\" Yayınlandı",
    "summary": "Sony’nin engellediği projenin ardından The Last of Us Part II Remastered PC sürümü için ücretsiz Factions modu Twelve Weeks yayınlandı.",
@@ -154,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T08:34:10+00:00",
    "url": "/haber/google-ilk-tamamen-otonom-siber-saldiriyi-tespit-ettigini-acikladi-one-58ca87fa/"
-  },
-  {
-   "id": "f3ccdbfd",
-   "title": "Türkiye ile Rusya savaşın gölgesinde yeni ticari işbirliklerine odaklandı",
-   "summary": "İki ülke, enerjiden turizme, müteahhitlikten tarıma kadar çeşitli alanlardaki ilişkileri 27 Kasım'da İstanbul'da düzenlenecek Türkiye-Rusya KEK 20. Dönem Toplantısı'nda ele alacak.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-rusya-savasin-golgesinde-yeni-ticari-isbirliklerine-odaklandi/4134147",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T08:34:03+00:00",
-   "url": "/haber/turkiye-ile-rusya-savasin-golgesinde-yeni-ticari-isbirliklerine-odakla-f3ccdbfd/"
   },
   {
    "id": "1ab20afa",
@@ -200,50 +343,6 @@
    "url": "/haber/honor-cin-in-en-cok-satan-android-markasi-oldu-755f3560/"
   },
   {
-   "id": "7b90f22a",
-   "title": "Fenerbahçe Tarfin, Basketbol Avrupa Ligi'nde yarın Barcelona'ya konuk olacak",
-   "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 14. haftasında yarın İspanyol ekibi Barcelona ile deplasmanda karşı karşıya gelecek.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-basketbol-avrupa-liginde-yarin-barcelonaya-konuk-olacak/4134144",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T08:32:31+00:00",
-   "url": "/haber/fenerbahce-tarfin-basketbol-avrupa-ligi-nde-yarin-barcelona-ya-konuk-o-7b90f22a/"
-  },
-  {
-   "id": "3b3ccb6b",
-   "title": "Yabancıya konut satışında ekimde yılın en yüksek rakamı görüldü",
-   "summary": "Türkiye genelinde yabancılara yapılan konut satışı ekimde geçen yılın aynı ayına göre yüzde 0,9 artarak 2 bin 259'a yükseldi ve yılın en yüksek aylık seviyesine ulaştı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/yabanciya-konut-satisinda-ekimde-yilin-en-yuksek-rakami-goruldu/4134143",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T08:31:38+00:00",
-   "url": "/haber/yabanciya-konut-satisinda-ekimde-yilin-en-yuksek-rakami-goruldu-3b3ccb6b/"
-  },
-  {
-   "id": "8165e9f9",
-   "title": "Sarıyer'de aslan alarmı: Yollar kapatıldı, aslan her yerde aranıyor",
-   "summary": "Sarıyer'de görülen aslanı yakalama çalışmaları sürüyor. Uskumruköy'de bazı yollar kapatıldı. Ekipler ormanlık alana yoğunlaştı. Aslanın nereden kaçtığının belirlenmesine yönelik çalışmalar da sürüyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sariyerde-aslan-alarmi-uskumrukoy-yaya-ve-arac-girisine-kapatildi-aslan-her-yerde-araniyor-1752168",
-   "image": "https://images.ntv.com.tr/images/sarıyer-aslan-775459.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T08:31:09+00:00",
-   "url": "/haber/sariyer-de-aslan-alarmi-yollar-kapatildi-aslan-her-yerde-araniyor-8165e9f9/"
-  },
-  {
-   "id": "8cfd94d6",
-   "title": "Güçlü dolar gelişmekte olan ülkelere sermaye akımlarını ve emtia piyasasını baskılıyor",
-   "summary": "Dolar endeksinin son 19 ayın en yüksek seviyesine çıkması, gelişmekte olan ülkelere sermaye akımlarını zayıflatırken emtia piyasasını da baskılıyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/guclu-dolar-gelismekte-olan-ulkelere-sermaye-akimlarini-ve-emtia-piyasasini-baskiliyor/4134141",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T08:30:47+00:00",
-   "url": "/haber/guclu-dolar-gelismekte-olan-ulkelere-sermaye-akimlarini-ve-emtia-piyas-8cfd94d6/"
-  },
-  {
    "id": "2b2aadf8",
    "title": "iPhone 18e ve MacBook Neo Şubat-Mart'ta geliyor",
    "summary": "Mark Gurman'a göre Apple, Şubat ve Mart 2027'de iPhone 18e, yeni MacBook Neo ve giriş seviyesi iPad'i tanıtacak. iPhone Air 2 ile yeni iPad Air ve iPad Pro biraz daha geç gelecek.",
@@ -266,6 +365,17 @@
    "url": "/haber/tunus-iran-yakinlasmasi-tahran-in-magrib-deki-nufuz-arayisini-yeniden-f7b4115c/"
   },
   {
+   "id": "d9f2c720",
+   "title": "Enerji ve Tabii Kaynaklar Bakanlığının 2027 yılı bütçesi TBMM Plan ve Bütçe Komisyonu'nda",
+   "summary": "TBMM Plan ve Bütçe Komisyonu'nda, Enerji ve Tabii Kaynaklar Bakanlığının 2027 yılı bütçesinin görüşmelerine başlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/enerji-ve-tabii-kaynaklar-bakanliginin-2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda/4134133",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T08:27:36+00:00",
+   "url": "/haber/enerji-ve-tabii-kaynaklar-bakanliginin-2027-yili-butcesi-tbmm-plan-ve-d9f2c720/"
+  },
+  {
    "id": "cfa4f40e",
    "title": "Fiat Fastback ve Fiat Grizzly’nin resmi Türkiye fiyatları açıklandı",
    "summary": "Fiat Türkiye, bugün düzenlediği etkinlikte Fiat Fastback ve Fiat Grizzly modellerinin merak edilen resmi Türkiye fiyatlarını açıkladı. Grizzly için 100 beygirlik manuel 1.2 Turbo MT ICON özelinde lansmana özel olarak 1…",
@@ -275,17 +385,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T08:22:34+00:00",
    "url": "/haber/fiat-fastback-ve-fiat-grizzly-nin-resmi-turkiye-fiyatlari-aciklandi-cfa4f40e/"
-  },
-  {
-   "id": "66fc2a6c",
-   "title": "ASELSAN'ın GÖKDENİZ'i Karadeniz'deki gerçek atışlı testte hedefleri imha etti",
-   "summary": "ASELSAN, kara konuşlu hava savunma sistemlerindeki uzmanlığını deniz platformlarına taşıyarak sürekli artan insansız hava aracı (İHA) ve diğer hava tehditlerine karşı çözümler geliştirmeyi sürdürüyor.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsanin-gokdenizi-karadenizdeki-gercek-atisli-testte-hedefleri-imha-etti/4134124",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T08:22:08+00:00",
-   "url": "/haber/aselsan-in-gokdeniz-i-karadeniz-deki-gercek-atisli-testte-hedefleri-im-66fc2a6c/"
   },
   {
    "id": "bc964d22",
@@ -310,17 +409,6 @@
    "url": "/haber/oyun-ve-is-icin-tek-laptop-onerisi-hangi-model-iki-kullanima-uygun-37ced08c/"
   },
   {
-   "id": "fac14a1d",
-   "title": "Kartlı ödemeler ekimde 2,9 trilyon liraya ulaştı",
-   "summary": "Kredi kartları, banka kartları ve ön ödemeli kartlarla ekim ayında yapılan ödemelerin toplam tutarı, geçen yılın aynı ayına göre yüzde 32 artarak 2 trilyon 920,9 milyar liraya ulaştı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kartli-odemeler-ekimde-2-9-trilyon-liraya-ulasti/4134118",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T08:17:45+00:00",
-   "url": "/haber/kartli-odemeler-ekimde-2-9-trilyon-liraya-ulasti-fac14a1d/"
-  },
-  {
    "id": "fd833355",
    "title": "Fiat Grizzly ve Fastback'in Türkiye fiyatları belli oldu! İşte özellikleri",
    "summary": "Fiat'ın yeni SUV modelleri Grizzly ve Fastback'in Türkiye fiyatları açıklandı. Benzinli ve hibrit motor seçenekleriyle gelen modellerin fiyatları, teknik özellikleri ve donanımları haberimizde.",
@@ -332,15 +420,26 @@
    "url": "/haber/fiat-grizzly-ve-fastback-in-turkiye-fiyatlari-belli-oldu-iste-ozellikl-fd833355/"
   },
   {
-   "id": "5962041e",
-   "title": "Türkiye'nin Riyad Büyükelçisi İşler'den Etnospor Kültür Festivali'nin rolüne övgü",
-   "summary": "Türkiye'nin Riyad Büyükelçisi Emrullah İşler, Etnospor Kültür Festivali'nin iki ülke arasında yapılan en büyük kültür etkinliği olduğunu söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/turkiyenin-riyad-buyukelcisi-islerden-etnospor-kultur-festivalinin-rolune-ovgu/4134101",
+   "id": "de379358",
+   "title": "COP31'de 36 başlıkta somut kararlar alındı",
+   "summary": "Türkiye’nin ev sahipliğinde ve COP31 Başkanlığı’nda Antalya’da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı’nda uyum ve adil geçiş gibi alanlarda 36 başlıkta ortak karar alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/cop31de-36-baslikta-somut-kararlar-alindi-964189.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/cop31-2504997.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-23T08:10:00+00:00",
+   "url": "/haber/cop31-de-36-baslikta-somut-kararlar-alindi-de379358/"
+  },
+  {
+   "id": "b9be9265",
+   "title": "32. Proje Yönetim Zirvesi, 1000'i aşkın katılımcıyla İstanbul'da gerçekleştirildi",
+   "summary": "Proje Yönetim Enstitüsü (PMI) Türkiye tarafından \"Fark Yarat, İz Bırak\" temasıyla düzenlenen 32. Proje Yönetim Zirvesi, 1000'i aşkın katılımcıyı bir araya getirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/32-proje-yonetim-zirvesi-1000i-askin-katilimciyla-istanbulda-gerceklestirildi/4134104",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-23T08:08:50+00:00",
-   "url": "/haber/turkiye-nin-riyad-buyukelcisi-isler-den-etnospor-kultur-festivali-nin-5962041e/"
+   "date": "2026-11-23T08:09:54+00:00",
+   "url": "/haber/32-proje-yonetim-zirvesi-1000-i-askin-katilimciyla-istanbul-da-gercekl-b9be9265/"
   },
   {
    "id": "08cd81d4",
@@ -629,28 +728,6 @@
    "url": "/haber/adalet-bakani-gundemdeki-hgs-gelismelerine-yonelik-bir-aciklama-yapti-8d55df26/"
   },
   {
-   "id": "e11209e7",
-   "title": "İçişleri Bakanlığı 1170 personel alımı yapacak. Başvurular ne zaman, şartlar neler?",
-   "summary": "Kamu kurumlarında görev almak isteyen binlerce aday için İçişleri Bakanlığı’ndan beklenen istihdam duyurusu geldi. Bakanlık merkez ve taşra teşkilatı birimlerinde görevlendirilmek üzere toplam 1170 sözleşmeli personel…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-icisleri-bakanligi-1170-personel-alimi-yapacak-basvurular-ne-zaman-sartlar-neler-1752134",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_b1248a85b185a6ebc9e161bc97d815f0-226790.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T05:47:11+00:00",
-   "url": "/haber/icisleri-bakanligi-1170-personel-alimi-yapacak-basvurular-ne-zaman-sar-e11209e7/"
-  },
-  {
-   "id": "ac85c0d0",
-   "title": "Ara tatil bitti, milyonlarca öğretmen ve öğrenci yeniden dersbaşı yaptı",
-   "summary": "Milli Eğitim Bakanlığı'na bağlı ilk ve ortaöğretim kurumlarında ilk ara tatilinin ardından bu sabah dersbaşı yapıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/ara-tatil-bitti-milyonlarca-ogretmen-ve-ogrenci-yeniden-dersbasi-yapti-1752137",
-   "image": "https://images.ntv.com.tr/images/AA-20261123-43154269-43154267-OKULLARDA_ARA_TATIL_SONRASI_ILK_DERS_ZILI_CALDI-875661.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T05:42:50+00:00",
-   "url": "/haber/ara-tatil-bitti-milyonlarca-ogretmen-ve-ogrenci-yeniden-dersbasi-yapti-ac85c0d0/"
-  },
-  {
    "id": "7412f006",
    "title": "Switch 2'ye pilsiz mobil internet adaptörü",
    "summary": "Japon şirketi Kaus Media, Switch 2'nin USB-C girişine takılan ve gücünü konsoldan alan 4G LTE adaptörü Switch Direct Link için ön sipariş topluyor. Ürün Nintendo onaylı değil.",
@@ -728,17 +805,6 @@
    "url": "/haber/cumhurbaskanligi-kabinesi-yogun-gundemle-toplanacak-960f8bef/"
   },
   {
-   "id": "87db3b22",
-   "title": "Meta'nın yapay zeka şefinden süper zeka uyarısı",
-   "summary": "Meta'nın yapay zeka şefi Alexandr Wang, Riemann Hipotezi'nin yapay zeka yardımıyla ispatlanmasını süper zekanın habercisi saydı ve sektöre 'varsayılan yoldan' çıkma çağrısı yaptı.",
-   "link": "https://shiftdelete.net/alexandr-wang-super-zeka-geliyor-riemann",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/alexandr-wang-super-zeka-kapak-2311.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-23T03:00:08+00:00",
-   "url": "/haber/meta-nin-yapay-zeka-sefinden-super-zeka-uyarisi-87db3b22/"
-  },
-  {
    "id": "7c25cc44",
    "title": "Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin önemli bir aşamasıdır?",
    "summary": "Çocuğunuzun ilk yalanları sizi kaygılandırabilir. Ancak bu, zihinsel gelişimlerinde önemli bir aşamayı temsil ediyor. Doğruyu söyleme ve açık olma alışkanlığının nasıl geliştirilebileceği üzerine düşünmek gerekiyor.",
@@ -759,17 +825,6 @@
    "category": "gundem",
    "date": "2026-11-23T00:18:59+00:00",
    "url": "/haber/demokratlar-abd-temsilciler-meclisi-nde-son-34-yilin-rekor-sayisina-ul-f033a765/"
-  },
-  {
-   "id": "f2018803",
-   "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 23 Kasım 2026",
-   "summary": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 23 Kasım 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-23-kasim-2026-1752119",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T00:10:00+00:00",
-   "url": "/haber/son-dakika-mugla-da-deprem-mi-oldu-az-once-deprem-mugla-da-nerede-oldu-f2018803/"
   },
   {
    "id": "50ce7fd8",
@@ -893,28 +948,6 @@
    "url": "/haber/motorola-moto-tag-3-amazon-da-ortaya-cikti-yenilikler-sinirli-c5bc369f/"
   },
   {
-   "id": "4e1b3cf8",
-   "title": "Ankara'da Soğuksu Milli Parkı'nda iki bozayının vurulmasıyla ilgili neler biliniyor?",
-   "summary": "Ankara'nın Kızılcahamam ilçesindeki Soğuksu Milli Parkı'nda yaşayan iki bozayı silahla vurularak öldürüldü. Tarım ve Orman Bakanlığı olayla ilgili soruşturma başlatıldığını açıkladı.",
-   "link": "https://www.bbc.com/turkce/articles/cm3wgxjn1e20o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6cf8/live/1f1792f0-e68a-11f1-a094-5fdc692f3e33.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-22T15:50:24+00:00",
-   "url": "/haber/ankara-da-soguksu-milli-parki-nda-iki-bozayinin-vurulmasiyla-ilgili-ne-4e1b3cf8/"
-  },
-  {
-   "id": "31579107",
-   "title": "XPG ve ADATA bellek krizine direniyor! ''XPG Lancer Blade RAM ve ADATA Legend 710'u denedik''",
-   "summary": "AI devlerinin talepleri bitmek tükenmek bilmiyor, OpenAI CEO'su Sam Altman bilgisayarlarımızdaki RAM'lere bile göz dikti. Uyguna RAM ve SSD bulmak zorken, XPG ve ADATA fiyat avantajını sürdürüyor.",
-   "link": "https://www.donanimhaber.com/xpg-ve-adata-bellek-krizi-dinlemiyor-xpg-ram-ve-adata-ssd-ler--213200",
-   "image": "https://www.donanimhaber.com/images/images/haber/213200/1200x675xpg-ve-adata-bellek-krizi-dinlemiyor-xpg-ram-ve-adata-ssd-ler.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-22T15:44:28+00:00",
-   "url": "/haber/xpg-ve-adata-bellek-krizine-direniyor-xpg-lancer-blade-ram-ve-adata-le-31579107/"
-  },
-  {
    "id": "1d2bb840",
    "title": "Antalya Kepez Belediyesi'ne soruşturma: 20 kişi gözaltına alındı",
    "summary": "Antalya Cumhuriyet Başsavcılığı tarafından Antalya Kepez Belediyesi'ne karşı yürütülen soruşturma kapsamında 20 kişinin gözaltına alındığı bildirildi.",
@@ -1001,17 +1034,6 @@
    "category": "gundem",
    "date": "2026-11-22T09:30:32+00:00",
    "url": "/haber/son-donemde-yasanan-teknolojik-kesinti-saldiri-ve-guvenlik-aciklarinin-bdad9b8f/"
-  },
-  {
-   "id": "827cafe2",
-   "title": "İddia: “Samsung, 2027’de yeni bir akıllı saat tanıtmayabilir”",
-   "summary": "ETNews’in ortaya attığı iddiaya göre Samsung, 2027’de yeni bir Galaxy Watch akıllı saat modeli tanıtmayabilir. Maliyet baskıları nedeniyle akıllı saat tarafındaki ürün yenileme döngüsünü iki yıla çıkarmak istediği…",
-   "link": "https://www.log.com.tr/iddia-samsung-2027de-yeni-bir-akilli-saat-tanitmayabilir/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-22_12-10-44_1Eodg-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-22T09:17:09+00:00",
-   "url": "/haber/iddia-samsung-2027-de-yeni-bir-akilli-saat-tanitmayabilir-827cafe2/"
   },
   {
    "id": "2dca7fee",
@@ -1135,17 +1157,6 @@
    "url": "/haber/kirmizi-et-yemeden-demir-alimini-artirmaniz-icin-bes-yontem-5ff824d9/"
   },
   {
-   "id": "79d26d00",
-   "title": "Fon soruşturmasında yabancı yatırımcı perdeli milyarlık ağ",
-   "summary": "Fon soruşturması kapsamında hazırlanan MASAK raporunda, Londra merkezli Gildencrest Capital'in (eski Tera Europe) İstanbul'dan yönetildiği ve Borsa'da \"yabancı yatırımcı\" görüntüsüyle işlem yaptığı belirlendi.…",
-   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yabanci-yatirimci-perdeli-milyarlik-ag-964049.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2488000/fon-sorusturmasi-2489781.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-21T08:57:00+00:00",
-   "url": "/haber/fon-sorusturmasinda-yabanci-yatirimci-perdeli-milyarlik-ag-79d26d00/"
-  },
-  {
    "id": "ec8fc516",
    "title": "Anthropic'in yükselişiyle dolar milyarderi olan yedi kişi kim?",
    "summary": "Bir zamanların bilinmeyen girişimi Anthropic, yalnızca beş yıl içinde bir teknoloji devine dönüşerek değeri 1 trilyon doların üzerine çıkan bir şirket haline geldi. Şirketin yedi kurucusu, bugün kağıt üzerinde…",
@@ -1243,17 +1254,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T11:07:02+00:00",
    "url": "/haber/bilim-insanlari-konusmadan-once-kelimeleri-hazirlayan-beyin-bolgesini-75e64bee/"
-  },
-  {
-   "id": "a71ba733",
-   "title": "Samsung’un Galaxy S27 Pro Modelinde Kullanılacak İşlemci Ortaya Çıktı!",
-   "summary": "Samsung Galaxy S27 Pro’nun Avrupa ve Asya’da Exynos 2700 işlemciyle geleceği ortaya çıktı.",
-   "link": "https://www.webtekno.com/samsung-galaxy-s27-pro-islemci-h229270.html",
-   "image": "https://imgrosetta.webtekno.com/file/698050/698050-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-20T11:06:59+00:00",
-   "url": "/haber/samsung-un-galaxy-s27-pro-modelinde-kullanilacak-islemci-ortaya-cikti-a71ba733/"
   },
   {
    "id": "a757aab7",
