@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:30:53.236272+00:00",
+ "updated": "2026-11-23T00:01:06.436119+00:00",
  "items": [
   {
    "id": "019f9cba",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-22T23:30:00+00:00",
+   "date": "2026-11-23T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-019f9cba/"
+  },
+  {
+   "id": "d151f262",
+   "title": "İstanbul'da bugün fırtına yarın kış. Sıcaklık 12 derece birden düşecek",
+   "summary": "İstanbul bugün fırtınalı ve kuvvetli yağışlı bir havanın etkisine giriyor. Yarın ise sıcaklıklar 12 derece birden düşecek. Yağışların, yüksek yerlerde sulu kar şeklinde görülmesi bekleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-bugun-firtina-yarin-kis-sicaklik-12-derece-birden-dusecek-1752117",
+   "image": "https://images.ntv.com.tr/images/AA-20261014-42753864-42753861-ISTANBULDA_SAGANAK_ETKILI_OLDU-526063.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-22T23:59:36+00:00",
+   "url": "/haber/istanbul-da-bugun-firtina-yarin-kis-sicaklik-12-derece-birden-dusecek-d151f262/"
+  },
+  {
+   "id": "3d4cc8a6",
+   "title": "Ara tatil bitti, ders zili bugün yeniden çalacak",
+   "summary": "Milli Eğitim Bakanlığına (MEB) bağlı ilk ve ortaöğretim kurumlarındaki yaklaşık 17 milyon öğrenci, 1,2 milyon öğretmenle eğitim öğretim yılının ilk ara tatilinin ardından bugün dersbaşı yapacak.",
+   "link": "https://www.trthaber.com/haber/egitim/ara-tatil-bitti-ders-zili-bugun-yeniden-calacak-964161.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2486000/okul-ogrenci-ders-zili-2487990.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-22T23:28:00+00:00",
+   "url": "/haber/ara-tatil-bitti-ders-zili-bugun-yeniden-calacak-3d4cc8a6/"
   },
   {
    "id": "2b2c2d95",
@@ -484,17 +506,6 @@
    "category": "gundem",
    "date": "2026-11-22T15:41:43+00:00",
    "url": "/haber/cagimizin-en-buyuk-mucevheratcisi-paolo-bulgari-89-yasinda-hayatini-ka-2ff98799/"
-  },
-  {
-   "id": "ae899b5a",
-   "title": "DEM Parti heyetinden İmralı'ya yeni ziyaret",
-   "summary": "DEM Parti İmralı Heyeti, terör örgütü PKK elebaşı Abdullah Öcalan ile görüştü.",
-   "link": "https://www.ntv.com.tr/turkiye/dem-parti-heyetinden-imraliya-yeni-ziyaret-1752059",
-   "image": "https://images.ntv.com.tr/images/imralı-844511.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-22T15:39:19+00:00",
-   "url": "/haber/dem-parti-heyetinden-imrali-ya-yeni-ziyaret-ae899b5a/"
   },
   {
    "id": "80aad176",
@@ -1133,17 +1144,6 @@
    "category": "teknoloji",
    "date": "2026-11-20T13:04:19+00:00",
    "url": "/haber/gta-vi-bile-hic-guvende-degil-ucretli-yazilim-ve-oyun-cagi-bitti-mi-17f7043e/"
-  },
-  {
-   "id": "32912a0a",
-   "title": "Kredi kartı asgari ödeme oranlarına ve konut kredilerine düzenleme",
-   "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) kararıyla limiti 100 ila 200 bin lira olan kredi kartlarının asgari ödeme oranı yüzde 30'a indirildi. Limiti 200 bin liranın üzerinde olan kartlarda ise oran yüzde 40…",
-   "link": "https://www.trthaber.com/haber/ekonomi/kredi-karti-asgari-odeme-oranlarina-ve-konut-kredilerine-duzenleme-963976.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1754000/kredi-karti-stok-trt-haber-1754031.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-20T12:48:00+00:00",
-   "url": "/haber/kredi-karti-asgari-odeme-oranlarina-ve-konut-kredilerine-duzenleme-32912a0a/"
   },
   {
    "id": "32096b87",
