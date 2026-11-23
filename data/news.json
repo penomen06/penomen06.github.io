@@ -1,17 +1,6 @@
 {
- "updated": "2026-11-23T04:30:53.230356+00:00",
+ "updated": "2026-11-23T05:01:02.789026+00:00",
  "items": [
-  {
-   "id": "2cf79728",
-   "title": "Anthropic'e erken yatırım yapanlar kazandı",
-   "summary": "Anthropic'in 81,3 milyar dolarlık rekor halka arzı, Notable Capital, GIC ve Baillie Gifford gibi erken yatırımcıları büyük kağıt üzerinde kazançla buluşturdu.",
-   "link": "https://shiftdelete.net/anthropic-halka-arz-oncesi-yatirimcilar-notable-gic-baillie-gifford",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/anthropic-halka-arz-kapak-1811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-23T04:30:07+00:00",
-   "url": "/haber/anthropic-e-erken-yatirim-yapanlar-kazandi-2cf79728/"
-  },
   {
    "id": "019f9cba",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Kasım 2026",
@@ -20,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-23T04:30:00+00:00",
+   "date": "2026-11-23T05:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-019f9cba/"
   },
   {
@@ -31,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/SARIYERDE-ASLAN-GORDUM-IHBARI-YAPILDI_1621675_482115-388770(2).jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-23T04:28:22+00:00",
+   "date": "2026-11-23T04:44:42+00:00",
    "url": "/haber/sariyer-de-aslan-alarmi-yeri-bulundu-cember-daraldi-2105880c/"
+  },
+  {
+   "id": "2cf79728",
+   "title": "Anthropic'e erken yatırım yapanlar kazandı",
+   "summary": "Anthropic'in 81,3 milyar dolarlık rekor halka arzı, Notable Capital, GIC ve Baillie Gifford gibi erken yatırımcıları büyük kağıt üzerinde kazançla buluşturdu.",
+   "link": "https://shiftdelete.net/anthropic-halka-arz-oncesi-yatirimcilar-notable-gic-baillie-gifford",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/anthropic-halka-arz-kapak-1811.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-23T04:30:07+00:00",
+   "url": "/haber/anthropic-e-erken-yatirim-yapanlar-kazandi-2cf79728/"
   },
   {
    "id": "765d5860",
