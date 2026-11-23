@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-23T16:01:15.332662+00:00",
+ "updated": "2026-11-23T16:30:55.032188+00:00",
  "items": [
+  {
+   "id": "a92c24a3",
+   "title": "Antalya'da kritik anlaşma: CATL ve BYD öncülüğünde küresel enerji depolama ittifakı kuruldu",
+   "summary": "CATL, BYD ve ACWA'nın aralarında bulunduğu 27 kuruluş, enerji depolama teknolojilerini geliştirmek ve küresel standartları şekillendirmek için yeni bir ittifak kurdu. İttifak, COP31'de duyuruldu.",
+   "link": "https://www.donanimhaber.com/catl-ve-byd-onculugunde-kuresel-enerji-depolama-ittifaki-kuruldu--213271",
+   "image": "https://www.donanimhaber.com/images/images/haber/213271/1200x675catl-ve-byd-onculugunde-kuresel-enerji-depolama-ittifaki-kuruldu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-23T16:28:00+00:00",
+   "url": "/haber/antalya-da-kritik-anlasma-catl-ve-byd-onculugunde-kuresel-enerji-depol-a92c24a3/"
+  },
+  {
+   "id": "367dbb61",
+   "title": "Katı hâl bataryalara ilgi hızla büyüyor: Patent başvuruları ilk kez lityum iyonu geçti",
+   "summary": "Batarya teknolojilerinde dengeler değişiyor. Katı hâl bataryalara yönelik patent başvuruları ilk kez lityum iyonu geride bırakırken Güney Kore de Japonya'yı tahtından etti.",
+   "link": "https://www.donanimhaber.com/kati-hal-batarya-patentleri-lityum-iyonu-geride-birakti--213269",
+   "image": "https://www.donanimhaber.com/images/images/haber/213269/1200x675kati-hal-batarya-patentleri-lityum-iyonu-geride-birakti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-23T16:07:00+00:00",
+   "url": "/haber/kati-hal-bataryalara-ilgi-hizla-buyuyor-patent-basvurulari-ilk-kez-lit-367dbb61/"
+  },
+  {
+   "id": "6b0b189c",
+   "title": "NVIDIA SSD düzeltmesi sorunu çözmemiş olabilir",
+   "summary": "NVIDIA'nın SSD yazma hatası için yayınladığı 621.35 düzeltmesine rağmen bir kullanıcı, gece boyunca SSD'ye 40 GB'ı aşan veri yazıldığını ölçtü.",
+   "link": "https://shiftdelete.net/nvidia-621-35-ssd-yazma-hatasi-duzeltme",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nvidia-geforce-rtx-5090-kapak-1611.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-23T16:05:09+00:00",
+   "url": "/haber/nvidia-ssd-duzeltmesi-sorunu-cozmemis-olabilir-6b0b189c/"
+  },
   {
    "id": "79553d35",
    "title": "BYD dünyanın ilk katlanabilir direksiyonlu otomobilini satışa sundu: İşte fiyatı",
@@ -11,6 +44,17 @@
    "category": "teknoloji",
    "date": "2026-11-23T16:00:00+00:00",
    "url": "/haber/byd-dunyanin-ilk-katlanabilir-direksiyonlu-otomobilini-satisa-sundu-is-79553d35/"
+  },
+  {
+   "id": "74eb34a7",
+   "title": "Suudi Arabistan'daki Etnospor Kültür Festivali'nde Türk Dünyası çadırlarına yoğun ilgi",
+   "summary": "Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nin beşinci gününde Türk Dünyası çadırları ziyaretçilerin ilgi odağı oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/suudi-arabistandaki-etnospor-kultur-festivalinde-turk-dunyasi-cadirlarina-yogun-ilgi/4134898",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T15:59:07+00:00",
+   "url": "/haber/suudi-arabistan-daki-etnospor-kultur-festivali-nde-turk-dunyasi-cadirl-74eb34a7/"
   },
   {
    "id": "b57c2936",
@@ -209,6 +253,17 @@
    "category": "gundem",
    "date": "2026-11-23T14:50:41+00:00",
    "url": "/haber/ukrayna-guvenlik-garantisi-acisindan-ulkenin-nato-ya-kabul-edilmesi-da-deb55570/"
+  },
+  {
+   "id": "f93c9bce",
+   "title": "A Milli Erkek Basketbol Takımı'nda medya günü etkinliği düzenlendi",
+   "summary": "FIBA 2027 Dünya Kupası Elemeleri 2. tur J Grubu'nda İtalya ve İzlanda ile karşı karşıya gelecek A Milli Erkek Basketbol Takımı, basın mensuplarıyla buluştu.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-basketbol-takiminda-medya-gunu-etkinligi-duzenlendi/4134777",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T14:49:25+00:00",
+   "url": "/haber/a-milli-erkek-basketbol-takimi-nda-medya-gunu-etkinligi-duzenlendi-f93c9bce/"
   },
   {
    "id": "dbb92f34",
@@ -508,17 +563,6 @@
    "url": "/haber/apple-dan-sunucu-cipleri-icin-fotonik-hamlesi-e013491a/"
   },
   {
-   "id": "d8eb8bf1",
-   "title": "İran: Düşman koşulsuz teslimiyetten koşulsuz müzakereye geçti",
-   "summary": "İran Dışişleri Bakanı Abbas Erakçi, İsrail ve ABD'nin \"koşulsuz teslimiyet\" sloganıyla 2025'te İran'a karşı başlattığı 12 günlük çatışma sürecinden bugün \"koşulsuz müzakere\" sürecine geçtiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-dusman-kosulsuz-teslimiyetten-kosulsuz-muzakereye-gecti/4134683",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T13:32:15+00:00",
-   "url": "/haber/iran-dusman-kosulsuz-teslimiyetten-kosulsuz-muzakereye-gecti-d8eb8bf1/"
-  },
-  {
    "id": "85332fbb",
    "title": "Xiaomi, stor perdeleri akıllı hale getiren motorunu tanıttı",
    "summary": "Xiaomi, mevcut stor perdeleri akıllı hale getiren yeni motorunu tanıttı. 4.600 mAh bataryalı cihaz, farklı perde türlerini uzaktan kontrol etmeyi sağlıyor. İşte fiyatı...",
@@ -618,17 +662,6 @@
    "url": "/haber/meta-nin-yapay-zeka-sefi-alexandr-wang-super-zeka-geliyor-8e392935/"
   },
   {
-   "id": "1333876c",
-   "title": "AK Parti Genel Başkan Yardımcısı Zorlu: Türk devletleriyle ticaret kapasitesini 60 milyar dolara çıkarmayı hedefliyoruz",
-   "summary": "AK Parti Genel Başkan Yardımcısı Zorlu, \"Türkiye'nin Türk devletleriyle olan ticaret kapasitesini orta vadede 60 milyar dolara çıkarma hedefi bulunmaktadır. Şu an bu hedefin yaklaşık yüzde 45'ini gerçekleştirmiş…",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-turk-devletleriyle-ticaret-kapasitesini-60-milyar-dolara-cikarmayi-hedefliyoruz/4134648",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T13:03:41+00:00",
-   "url": "/haber/ak-parti-genel-baskan-yardimcisi-zorlu-turk-devletleriyle-ticaret-kapa-1333876c/"
-  },
-  {
    "id": "136e714e",
    "title": "COP31: Antalya'da anlaşmasız sona eren iklim konferansının beş kritik sonucu",
    "summary": "Antalya'da düzenlenen Birleşmiş Milletler (BM) iklim konferansı COP31,iklim değişikliğine dair kanıtların hiç olmadığı kadar açık görüldüğü ancak jeopolitik bölünmelerin de hiç olmadığı kadar derinleştiği bir dönemde…",
@@ -706,17 +739,6 @@
    "url": "/haber/60-saniyede-bugun-23-kasim-2026-37c00a1e/"
   },
   {
-   "id": "3d4b94a6",
-   "title": "GTA 6 sızıntısı büyüyor: Mod geliştiricileri PC için tarih verdi",
-   "summary": "GTA 6'nın Xbox sürümüne ait dosyaları internete sızdıran Cyberleek, eksik çalıştırılabilir dosyanın paylaşılmasıyla oyunun bir hafta içinde PC'de açılabileceğini iddia ediyor.",
-   "link": "https://www.donanimhaber.com/gta-6-sizintisi-buyuyor-mod-gelistiricileri-pc-icin-tarih-verdi--213263",
-   "image": "https://www.donanimhaber.com/images/images/haber/213263/1200x675gta-6-sizintisi-buyuyor-mod-gelistiricileri-pc-icin-tarih-verdi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-23T12:46:00+00:00",
-   "url": "/haber/gta-6-sizintisi-buyuyor-mod-gelistiricileri-pc-icin-tarih-verdi-3d4b94a6/"
-  },
-  {
    "id": "77942589",
    "title": "Cumhurbaşkanlığı Kabinesi toplandı",
    "summary": "Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı.",
@@ -748,17 +770,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T12:30:38+00:00",
    "url": "/haber/windows-8-baslangic-ekrani-chrome-a-geldi-4f5b7085/"
-  },
-  {
-   "id": "472d0850",
-   "title": "Trump'ın kripto parası çakıldı: Yüzde 99'luk düşüş milyarlarca doları silip attı",
-   "summary": "Bir dönem milyarlarca dolarlık piyasa değerine ulaşan Trump coin, zirvesinden yüzde 99 geriledi. Üstelik başkanın büyük yatırımcılar için düzenlediği özel yemek de eskisi gibi ilgi görmüyor.",
-   "link": "https://www.donanimhaber.com/donald-trump-in-kripto-parasi-cakildi--213267",
-   "image": "https://www.donanimhaber.com/images/images/haber/213267/1200x675donald-trump-in-kripto-parasi-cakildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-23T12:24:27+00:00",
-   "url": "/haber/trump-in-kripto-parasi-cakildi-yuzde-99-luk-dusus-milyarlarca-dolari-s-472d0850/"
   },
   {
    "id": "7219955a",
@@ -957,17 +968,6 @@
    "category": "gundem",
    "date": "2026-11-23T10:04:00+00:00",
    "url": "/haber/merkez-bankasi-baskani-karahan-amacimiz-finansal-istikrari-guclendirme-47593193/"
-  },
-  {
-   "id": "28584267",
-   "title": "GTA 6 PC'de 60 FPS için X3D işlemci şart değil",
-   "summary": "Geekerwan'ın tahminine göre GTA 6'yı bilgisayarda 1440p ve 60 FPS'te oynamak için Ryzen 7 9700X ile RTX 5070 yetebilir. Ancak böyle bir sistem yine de ucuz değil.",
-   "link": "https://shiftdelete.net/gta-6-pc-60-fps-sistem-geekerwan-tahmini",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/gta-6-pc-60-fps-geekerwan-kapak-2311.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-23T10:00:09+00:00",
-   "url": "/haber/gta-6-pc-de-60-fps-icin-x3d-islemci-sart-degil-28584267/"
   },
   {
    "id": "60939faf",
