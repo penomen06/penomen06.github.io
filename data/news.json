@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:01:15.844182+00:00",
+ "updated": "2026-11-23T21:30:55.081722+00:00",
  "items": [
   {
    "id": "60623f8c",
@@ -9,8 +9,74 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-23T21:00:00+00:00",
+   "date": "2026-11-23T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-60623f8c/"
+  },
+  {
+   "id": "3b0bf71e",
+   "title": "2026 yılı yeniden değerleme oranı belli oldu",
+   "summary": "Hazine ve Maliye Bakanlığı, 2026 yılı için yeniden değerleme oranını yüzde 27,83 olarak belirledi. Karar, Vergi Usul Kanunu Genel Tebliği ile duyuruldu.",
+   "link": "https://www.ntv.com.tr/turkiye/2026-yili-yeniden-degerleme-orani-belli-oldu-1752267",
+   "image": "https://images.ntv.com.tr/images/Vergi-244615.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-23T21:24:11+00:00",
+   "url": "/haber/2026-yili-yeniden-degerleme-orani-belli-oldu-3b0bf71e/"
+  },
+  {
+   "id": "25bd4f0f",
+   "title": "Suudi Arabistan'ın Cazan ve Abha kentlerinde erken uyarı sistemi devreye alındı",
+   "summary": "Suudi Arabistan’ın güneyindeki Cazan ve Abha kentlerinde saldırı tehdidine karşı erken uyarı sisteminin devreye alındığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-cazan-ve-abha-kentlerinde-erken-uyari-sistemi-devreye-alindi/4135170",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T21:18:39+00:00",
+   "url": "/haber/suudi-arabistan-in-cazan-ve-abha-kentlerinde-erken-uyari-sistemi-devre-25bd4f0f/"
+  },
+  {
+   "id": "1cf23db0",
+   "title": "Yeniden değerleme oranı bu yıl için yüzde 27,83 olarak belirlendi",
+   "summary": "Yeniden değerleme oranı 2026 yılı için yüzde 27,83 olarak tespit edildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yeniden-degerleme-orani-bu-yil-icin-yuzde-27-83-olarak-belirlendi/4135168",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T21:13:35+00:00",
+   "url": "/haber/yeniden-degerleme-orani-bu-yil-icin-yuzde-27-83-olarak-belirlendi-1cf23db0/"
+  },
+  {
+   "id": "a67dd000",
+   "title": "Seedream 5.5, yapay zekâ ile görsel üretmedeki en önemli sorunlardan birini çözüyor",
+   "summary": "Yapay zekâ görsellerinde düzenleme sırasında yaşanan bozulmaları ortadan kaldırmayı hedefleyen Seedream 5.5, görselleri 100 düzenleme turu boyunca bozulmadan koruyabiliyor.",
+   "link": "https://www.donanimhaber.com/seedream-5-5-ile-yapay-zeka-gorsellerinde-yeni-donem-basliyor--213296",
+   "image": "https://www.donanimhaber.com/images/images/haber/213296/1200x675seedream-5-5-ile-yapay-zeka-gorsellerinde-yeni-donem-basliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-23T21:10:00+00:00",
+   "url": "/haber/seedream-5-5-yapay-zeka-ile-gorsel-uretmedeki-en-onemli-sorunlardan-bi-a67dd000/"
+  },
+  {
+   "id": "42c68377",
+   "title": "Nvidia CEO'su Huang göreve döndü, Trump 'Şirketi ben ikna ettim' dedi",
+   "summary": "Nvidia yönetim kurulu, evlilik dışı ilişkisiyle ilgili tartışmaların ardından 12 Kasım'da istifa eden CEO Jensen Huang'ı derhal geçerli olmak üzere yeniden göreve getirdi. Şirketin hisseleri yüzde 30'un üzerinde artış…",
+   "link": "https://www.bbc.com/turkce/articles/cm5y1evywyrqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b662/live/4362fe30-e75a-11f1-b407-33329b1ec67a.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-23T21:08:41+00:00",
+   "url": "/haber/nvidia-ceo-su-huang-goreve-dondu-trump-sirketi-ben-ikna-ettim-dedi-42c68377/"
+  },
+  {
+   "id": "615fc94c",
+   "title": "vivo S70 serisi aralıkta tanıtılacak",
+   "summary": "vivo, S70 serisinin aralık ayında tanıtılacağını resmi sitesinde duyurdu. Seride vivo S70 ve S70 Flagship Edition yer alacak, Çin'de ön kayıt başladı.",
+   "link": "https://shiftdelete.net/vivo-s70-serisi-aralik-tanitim-tarihi",
+   "image": "https://ares.shiftdelete.net/2026/10/vivo-X500.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-23T21:05:08+00:00",
+   "url": "/haber/vivo-s70-serisi-aralikta-tanitilacak-615fc94c/"
   },
   {
    "id": "e8062611",
@@ -354,17 +420,6 @@
    "url": "/haber/amazon-decart-in-yapay-zeka-optimizasyon-teknolojisini-satin-aliyor-c2d42fd1/"
   },
   {
-   "id": "42c68377",
-   "title": "Nvidia CEO'su Huang göreve döndü, Trump 'Şirketi ben ikna ettim' dedi",
-   "summary": "Nvidia yönetim kurulu, evlilik dışı ilişkisiyle ilgili tartışmaların ardından 12 Kasım'da istifa eden CEO Jensen Huang'ı derhal geçerli olmak üzere yeniden göreve getirdi. Şirketin hisseleri yüzde 30'un üzerinde artış…",
-   "link": "https://www.bbc.com/turkce/articles/cm5y1evywyrqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b662/live/4362fe30-e75a-11f1-b407-33329b1ec67a.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-23T17:40:21+00:00",
-   "url": "/haber/nvidia-ceo-su-huang-goreve-dondu-trump-sirketi-ben-ikna-ettim-dedi-42c68377/"
-  },
-  {
    "id": "052fa74c",
    "title": "Son dakika Erzurum'da deprem mi oldu? Az önce deprem Erzurum'da nerede oldu? Erzurum deprem Kandilli ve AFAD son depremler listesi 23 Kasım 2026",
    "summary": "Son dakika Erzurum deprem haberleri.. Erzurum'da deprem mi oldu? Az önce deprem Erzurum'da nerede oldu? Erzurum Kandilli ve AFAD son depremler.. 23 Kasım 2026 Erzurum deprem son dakika haberleri haberin detayında...…",
@@ -475,17 +530,6 @@
    "url": "/haber/bm-katil-robot-silahlari-duzenleme-konusunda-anlasmaya-varamadi-d2a4737e/"
   },
   {
-   "id": "1b70cd43",
-   "title": "İran ordusu: Hürmüz Boğazı’nın doğusunda ABD'ye ait LUCAS tipi İHA düşürüldü",
-   "summary": "İran ordusu, Basra Körfezi üzerinde, Hürmüz Boğazı'nın doğusunda ABD'ye ait \"LUCAS\" tipi bir insansız hava aracının (İHA) hava savunma sistemleri tarafından düşürüldüğünü duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazi-nin-dogusunda-abdye-ait-lucas-tipi-iha-dusuruldu/4134992",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T16:46:11+00:00",
-   "url": "/haber/iran-ordusu-hurmuz-bogazi-nin-dogusunda-abd-ye-ait-lucas-tipi-iha-dusu-1b70cd43/"
-  },
-  {
    "id": "59dc7260",
    "title": "iPhone Duo ekranı 5 yıl Samsung'dan gelebilir",
    "summary": "Yeni bir iddiaya göre Samsung Display, iPhone Duo'nun katlanır ekranlarının tek tedarikçisi olarak en az beş yıl daha kalabilir.",
@@ -495,28 +539,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T16:35:08+00:00",
    "url": "/haber/iphone-duo-ekrani-5-yil-samsung-dan-gelebilir-59dc7260/"
-  },
-  {
-   "id": "a92c24a3",
-   "title": "Antalya'da kritik anlaşma: CATL ve BYD öncülüğünde küresel enerji depolama ittifakı kuruldu",
-   "summary": "CATL, BYD ve ACWA'nın aralarında bulunduğu 27 kuruluş, enerji depolama teknolojilerini geliştirmek ve küresel standartları şekillendirmek için yeni bir ittifak kurdu. İttifak, COP31'de duyuruldu.",
-   "link": "https://www.donanimhaber.com/catl-ve-byd-onculugunde-kuresel-enerji-depolama-ittifaki-kuruldu--213271",
-   "image": "https://www.donanimhaber.com/images/images/haber/213271/1200x675catl-ve-byd-onculugunde-kuresel-enerji-depolama-ittifaki-kuruldu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-23T16:28:00+00:00",
-   "url": "/haber/antalya-da-kritik-anlasma-catl-ve-byd-onculugunde-kuresel-enerji-depol-a92c24a3/"
-  },
-  {
-   "id": "e044b9d1",
-   "title": "BM'den, Ukrayna-Rusya Savaşı'nda Karadeniz'deki saldırıların gıda güvenliğini tehdit ettiği uyarısı",
-   "summary": "Birleşmiş Milletler Siyasi ve Barış İnşası İşlerinden Sorumlu Genel Sekreter Yardımcısı Rosemary DiCarlo, Ukrayna-Rusya Savaşı'nda saldırıların Karadeniz'e yayıldığını ve gıda ihracatını aksatmaya devam ettiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/bmden-ukrayna-rusya-savasinda-karadenizdeki-saldirilarin-gida-guvenligini-tehdit-ettigi-uyarisi/4134977",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T16:27:26+00:00",
-   "url": "/haber/bm-den-ukrayna-rusya-savasi-nda-karadeniz-deki-saldirilarin-gida-guven-e044b9d1/"
   },
   {
    "id": "6b0b189c",
@@ -638,17 +660,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T14:45:08+00:00",
    "url": "/haber/turk-girisimlere-global-destek-mastercard-lighthouse-3-donem-basladi-f5637361/"
-  },
-  {
-   "id": "e8ee3b02",
-   "title": "iPhone Air 2'de Dynamic Island küçülmeyebilir",
-   "summary": "Sızan maketlere göre iPhone Air 2, ilk modeldeki Dynamic Island'ı aynı boyutta koruyabilir. Nedeni olarak telefona eklenecek ikinci arka kamera gösteriliyor.",
-   "link": "https://shiftdelete.net/iphone-air-2-dynamic-island-kuculmeyebilir",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/iphone-air-resmi-renkler-kapak-2311.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-23T14:35:07+00:00",
-   "url": "/haber/iphone-air-2-de-dynamic-island-kuculmeyebilir-e8ee3b02/"
   },
   {
    "id": "7061f843",
@@ -1078,17 +1089,6 @@
    "category": "gundem",
    "date": "2026-11-23T09:46:00+00:00",
    "url": "/haber/mega-el-nino-turkiyeyi-nasil-etkileyecek-c3a5ae53/"
-  },
-  {
-   "id": "c5d170bc",
-   "title": "Fon soruşturmasında yeni gelişme: Adliyeye sevk edildiler",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında gözaltına alınan altı şüpheli, adliyeye sevk edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-adliyeye-sevk-edildiler-1752193",
-   "image": "https://images.ntv.com.tr/images/caglayan-adliyesi-2-246964.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T09:43:30+00:00",
-   "url": "/haber/fon-sorusturmasinda-yeni-gelisme-adliyeye-sevk-edildiler-c5d170bc/"
   },
   {
    "id": "1153a195",
