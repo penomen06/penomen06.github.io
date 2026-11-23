@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:30:55.081722+00:00",
+ "updated": "2026-11-23T22:01:04.175414+00:00",
  "items": [
   {
    "id": "60623f8c",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-23T21:30:00+00:00",
+   "date": "2026-11-23T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-60623f8c/"
   },
   {
@@ -20,8 +20,30 @@
    "image": "https://images.ntv.com.tr/images/Vergi-244615.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-23T21:24:11+00:00",
+   "date": "2026-11-23T21:53:42+00:00",
    "url": "/haber/2026-yili-yeniden-degerleme-orani-belli-oldu-3b0bf71e/"
+  },
+  {
+   "id": "38999696",
+   "title": "Jensen Huang'ın Nvidia'ya dönüşü sonrası küresel piyasalarda satış baskısı hafifledi",
+   "summary": "Çip üreticisi Nvidia'nın kurucusu Jensen Huang'ın Üst Yönetici (CEO) olarak görevine geri dönmesi, geçen hafta sert satışların yaşandığı küresel piyasalarda baskıyı hafifletti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/jensen-huangin-nvidiaya-donusu-sonrasi-kuresel-piyasalarda-satis-baskisi-hafifledi/4135185",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T21:50:04+00:00",
+   "url": "/haber/jensen-huang-in-nvidia-ya-donusu-sonrasi-kuresel-piyasalarda-satis-bas-38999696/"
+  },
+  {
+   "id": "177bad90",
+   "title": "Katar Başbakanı ve Dışişleri Bakanı Al Sani: Orta Doğu yeni bir ABD-İran gerilimini kaldıramaz",
+   "summary": "Katar Başbakanı ve Dışişleri Bakanı Şeyh Muhammed bin Abdurrahman Al Sani, Orta Doğu’nun ABD ile İran arasında yeni bir gerilimi kaldıramayacağını belirterek, iki ülkeyle de müzakere sürecini yeniden canlandırmak için…",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-basbakani-ve-disisleri-bakani-al-sani-orta-dogu-yeni-bir-abd-iran-gerilimini-kaldiramaz/4135177",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-23T21:31:47+00:00",
+   "url": "/haber/katar-basbakani-ve-disisleri-bakani-al-sani-orta-dogu-yeni-bir-abd-ira-177bad90/"
   },
   {
    "id": "25bd4f0f",
@@ -57,6 +79,17 @@
    "url": "/haber/seedream-5-5-yapay-zeka-ile-gorsel-uretmedeki-en-onemli-sorunlardan-bi-a67dd000/"
   },
   {
+   "id": "68032545",
+   "title": "Hürmüz Boğazı'nda 3 petrol tankerinde patlama",
+   "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda izin verilmeyen güzergahları kullanan 3 petrol tankerinin deniz mayınlarına çarpması sonucu patlayarak alev aldığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/hurmuz-bogazinda-3-petrol-tankerinde-patlama-964239.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2460000/abd-hurmuz-bogazi-devriye-centcom-2461467.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-23T21:09:00+00:00",
+   "url": "/haber/hurmuz-bogazi-nda-3-petrol-tankerinde-patlama-68032545/"
+  },
+  {
    "id": "42c68377",
    "title": "Nvidia CEO'su Huang göreve döndü, Trump 'Şirketi ben ikna ettim' dedi",
    "summary": "Nvidia yönetim kurulu, evlilik dışı ilişkisiyle ilgili tartışmaların ardından 12 Kasım'da istifa eden CEO Jensen Huang'ı derhal geçerli olmak üzere yeniden göreve getirdi. Şirketin hisseleri yüzde 30'un üzerinde artış…",
@@ -72,7 +105,7 @@
    "title": "vivo S70 serisi aralıkta tanıtılacak",
    "summary": "vivo, S70 serisinin aralık ayında tanıtılacağını resmi sitesinde duyurdu. Seride vivo S70 ve S70 Flagship Edition yer alacak, Çin'de ön kayıt başladı.",
    "link": "https://shiftdelete.net/vivo-s70-serisi-aralik-tanitim-tarihi",
-   "image": "https://ares.shiftdelete.net/2026/10/vivo-X500.webp",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/759e042d75d4086a44c9a305997468162f0d3848.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-23T21:05:08+00:00",
@@ -270,7 +303,7 @@
    "title": "iOS 27.3 ile altı iPhone uygulaması yenileniyor",
    "summary": "iOS 27.3; Apple Music, Safari, Sağlık, Apple TV, Fitness+ ve Freeform uygulamalarına yeni özellikler getiriyor. En büyük değişiklik Sağlık uygulamasında.",
    "link": "https://shiftdelete.net/ios-27-3-alti-uygulama-yenilikleri",
-   "image": "https://ares.shiftdelete.net/static/img/content/26-11/23/ios-27-iphone-ekranlari-apple-kapak-2311.webp",
+   "image": "https://ares.shiftdelete.net/static/img/content/26-11/23/ios-27-3-iphone-17-pro-resmi-kapak-2411.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-23T19:05:08+00:00",
@@ -435,7 +468,7 @@
    "title": "Xiaomi 19'da daha geniş açılı kamera iddiası",
    "summary": "Sızıntı kaynağı Digital Chat Station'a göre Xiaomi, Xiaomi 19 serisi için 114 derece görüş açılı yeni bir 50 MP ultra geniş açı kamera test ediyor.",
    "link": "https://shiftdelete.net/xiaomi-19-ultra-genis-aci-kamera-114-derece",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/xiaomi-18-pro-kapak-1011.webp",
+   "image": "https://ares.shiftdelete.net/2026/09/xiaomi-18-pro-maxin-teknik-ozellikleri-belli-oldu.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-23T17:35:08+00:00",
@@ -464,17 +497,6 @@
    "url": "/haber/danimarka-da-2027-2028-egitim-ogretim-yilinda-okullarda-cep-telefonu-k-e7a73edd/"
   },
   {
-   "id": "1c98183a",
-   "title": "Mısır ile Irak arasında siyasi istişare mekanizmasının güçlendirilmesi imkanları ele alındı",
-   "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi ile Irak Başbakanı Ali ez-Zeydi, iki ülke arasındaki enerji, yatırım, ticaret ve askeri işbirliğini derinleştirme imkanlarını ele aldı; siyasi istişare mekanizmalarını güçlendirme…",
-   "link": "https://www.aa.com.tr/tr/dunya/misir-ile-irak-arasinda-siyasi-istisare-mekanizmasinin-guclendirilmesi-imkanlari-ele-alindi/4135014",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T17:14:50+00:00",
-   "url": "/haber/misir-ile-irak-arasinda-siyasi-istisare-mekanizmasinin-guclendirilmesi-1c98183a/"
-  },
-  {
    "id": "bd5d159c",
    "title": "Çin, elektriği yerin 110 metre altında depolamaya başladı",
    "summary": "Çin, elektriği yerin 110 metre altında basınçlı hava olarak depolayan dünyanın ilk yapay mağaralı tesisini şebekeye bağladı. Tesis, 300 MW güç ve 1.800 MWh kapasite sunuyor.",
@@ -484,17 +506,6 @@
    "category": "teknoloji",
    "date": "2026-11-23T17:11:00+00:00",
    "url": "/haber/cin-elektrigi-yerin-110-metre-altinda-depolamaya-basladi-bd5d159c/"
-  },
-  {
-   "id": "234677a5",
-   "title": "Trump, Huang'ı CEO'luk görevine döndürmek için Nvidia'yı ikna ettiğini söyledi",
-   "summary": "ABD Başkanı Donald Trump, Nvidia Yönetim Kurulu ile görüştüğünü ve Jensen Huang'ı yeniden üst yöneticilik (CEO) görevine getirmelerine ikna ettiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-huangi-ceoluk-gorevine-dondurmek-icin-nvidiayi-ikna-ettigini-soyledi/4135007",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-23T17:10:15+00:00",
-   "url": "/haber/trump-huang-i-ceo-luk-gorevine-dondurmek-icin-nvidia-yi-ikna-ettigini-234677a5/"
   },
   {
    "id": "3474c784",
@@ -534,7 +545,7 @@
    "title": "iPhone Duo ekranı 5 yıl Samsung'dan gelebilir",
    "summary": "Yeni bir iddiaya göre Samsung Display, iPhone Duo'nun katlanır ekranlarının tek tedarikçisi olarak en az beş yıl daha kalabilir.",
    "link": "https://shiftdelete.net/iphone-duo-katlanir-ekran-samsung-tek-tedarikci",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/iphone-duo-dis-ekran-ic-ekran-1311.webp",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/galaxy-z-fold-8-kapak-1211.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-23T16:35:08+00:00",
@@ -567,7 +578,7 @@
    "title": "Samsung Odyssey G6 tanıtıldı: 1.100 Hz ekran",
    "summary": "Samsung, HD çözünürlükte 1.100 Hz yenileme hızına ulaşan dünyanın ilk oyun monitörü Odyssey G6'yı tanıttı. Monitör QHD çözünürlükte de 600 Hz sunuyor.",
    "link": "https://shiftdelete.net/samsung-odyssey-g6-1100-hz-oyun-monitoru",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/samsung-odyssey-g6-1100-hz-kapak-2311.webp",
+   "image": "https://ares.shiftdelete.net/static/img/content/26-11/23/samsung-odyssey-g6-resmi-kv-kapak-2411.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-23T15:35:08+00:00",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-11-22T08:36:09+00:00",
    "url": "/haber/insanlar-konusmaktan-cekiniyor-alti-erkekten-birinde-gorulen-varikosel-2dca7fee/"
-  },
-  {
-   "id": "21e09454",
-   "title": "İsrailli işgalciler Batı Şeria'da Filistinlilere ait evleri ve araçları ateşe verdi",
-   "summary": "İsrailli işgalciler, Batı Şeria'nın Ramallah kentinde iki köye düzenledikleri saldırılarda Filistinlilere ait araçları ve evleri ateşe verdi.",
-   "link": "https://www.trthaber.com/haber/dunya/israilli-isgalciler-bati-seriada-filistinlilere-ait-evleri-ve-araclari-atese-verdi-964115.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/wo-2505273.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-22T07:43:00+00:00",
-   "url": "/haber/israilli-isgalciler-bati-seria-da-filistinlilere-ait-evleri-ve-araclar-21e09454/"
   }
  ]
 }
