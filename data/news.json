@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T00:18:56.609795+00:00",
+ "updated": "2026-11-24T00:30:53.503681+00:00",
  "items": [
+  {
+   "id": "ab6665d7",
+   "title": "Eber Gölü'nde dört farklı noktada yangın çıktı",
+   "summary": "Türkiye'nin en büyük göllerinden birisi olan Eber gönlün Afyonkarahisar sınırları içerisinde kalan 4 farklı noktasında yangın çıktı.",
+   "link": "https://www.ntv.com.tr/turkiye/eber-golunde-dort-farkli-noktada-yangin-cikti-1752272",
+   "image": "https://images.ntv.com.tr/images/AW838609_02-927122.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-24T00:29:28+00:00",
+   "url": "/haber/eber-golu-nde-dort-farkli-noktada-yangin-cikti-ab6665d7/"
+  },
   {
    "id": "3afa7d7f",
    "title": "407 internet sitesine erişim engellendi",
@@ -937,17 +948,6 @@
    "url": "/haber/bakan-kurum-dan-ozgur-ozel-e-cop31-tepkisi-anlamanizi-beklemiyoruz-0e8f3a4c/"
   },
   {
-   "id": "3dac2199",
-   "title": "PKK, Hakurk'ta 14 alanı boşalttı",
-   "summary": "Güvenlik kaynaklarından edinilen bilgiye göre; terör örgütü PKK/KCK Irak'ın kuzeyindeki Hakurk bölgesinde bulunan 14 alanı boşalttı.",
-   "link": "https://www.ntv.com.tr/turkiye/pkk-hakurkta-14-kampi-bosaltti-1752203",
-   "image": "https://images.ntv.com.tr/images/pkk-14-kampı-boşalttı-314726.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-23T12:53:12+00:00",
-   "url": "/haber/pkk-hakurk-ta-14-alani-bosaltti-3dac2199/"
-  },
-  {
    "id": "02ddefa7",
    "title": "Bölgesel Kariyer Fuarları gençleri iş dünyasıyla buluşturuyor",
    "summary": "İŞKUR koordinasyonunda düzenlenen GÜÇ Bölgesel Kariyer Fuarları, 27-28 Kasım'da Mersin'de devam edecek. Gençler, kamu ve özel sektör temsilcileriyle iş ve staj olanaklarını görüşebilecek.",
@@ -1254,17 +1254,6 @@
    "category": "gundem",
    "date": "2026-11-22T20:11:00+00:00",
    "url": "/haber/sariyer-de-aslan-alarmi-yakalama-calismasi-basladi-7bbccf14/"
-  },
-  {
-   "id": "8e47ac9e",
-   "title": "Galler Prensesi Kate yeni belgeselde kanser yolculuğunu anlatıyor",
-   "summary": "BBC'nin yeni belgeseli Galler Prensesi Catherine'in kanser sürecini anlatıyor. Prenses, \"Kanser teşhisinin sizde değiştirdiği şeylerin çok daha derin bir boyutu var\" diyor.",
-   "link": "https://www.bbc.com/turkce/articles/c6z7490p3l8no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-22T10:04:59+00:00",
-   "url": "/haber/galler-prensesi-kate-yeni-belgeselde-kanser-yolculugunu-anlatiyor-8e47ac9e/"
   }
  ]
 }
