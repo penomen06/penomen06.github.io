@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-24T20:01:03.390728+00:00",
+ "updated": "2026-11-24T20:30:55.240329+00:00",
  "items": [
+  {
+   "id": "d1230db0",
+   "title": "Eskişehir'de askeri helikopter düştü, beş asker hayatını kaybetti",
+   "summary": "Eskişehir'de Hava Kuvvetleri Komutanlığı'na ait AS-532 tipi bir helikopter eğitim uçuşu sırasında kaza kırıma uğradı, beş asker hayatını kaybetti.",
+   "link": "https://www.bbc.com/turkce/articles/cm792qzv12wjo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca39/live/c95568f0-e833-11f1-917e-35f1674fb52c.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-24T20:27:10+00:00",
+   "url": "/haber/eskisehir-de-askeri-helikopter-dustu-bes-asker-hayatini-kaybetti-d1230db0/"
+  },
+  {
+   "id": "ea374106",
+   "title": "Bakan Uraloğlu: Kara yollarında cezasız esasında ödeme yüzde 88 iken özel otoyollarda yüzde 97",
+   "summary": "Bakan Uraloğlu, \"Kara yollarında cezasız esasında ödeme yüzde 88 iken özel otoyollarda yüzde 97. Burada cezai yaptırımlar biraz ağır olduğu için ödeme istekliliği daha fazla. Yaklaşık 2,2 milyon geçiş de takibe alınmış…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-kara-yollarinda-cezasiz-esasinda-odeme-yuzde-88-iken-ozel-otoyollarda-yuzde-97/4136424",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-24T20:16:27+00:00",
+   "url": "/haber/bakan-uraloglu-kara-yollarinda-cezasiz-esasinda-odeme-yuzde-88-iken-oz-ea374106/"
+  },
+  {
+   "id": "55776fac",
+   "title": "Eskişehir'deki helikopter kazasında şehit olan askerler için dünyadan taziye mesajları",
+   "summary": "Azerbaycan ve KKTC, Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan helikopterde şehit olan 5 asker için taziye mesajı gönderdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/eskisehirdeki-helikopter-kazasinda-sehit-olan-askerler-icin-dunyadan-taziye-mesajlari/4136421",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-24T20:12:46+00:00",
+   "url": "/haber/eskisehir-deki-helikopter-kazasinda-sehit-olan-askerler-icin-dunyadan-55776fac/"
+  },
+  {
+   "id": "e39d02d0",
+   "title": "Huawei Watch Air incecik gövdesiyle geliyor",
+   "summary": "Huawei Watch Air akıllı saat modelinde 1.92 inçlik AMOLED ekran, 6.9mm kalınlık, 5 güne kadar kullanım süresi, gelişmiş yapay zekâ sağlık taraması gibi özellikler yer alıyor.",
+   "link": "https://www.donanimhaber.com/huawei-watch-air-tanitildi-iste-ozellikleri-ve-fiyati--213321",
+   "image": "https://www.donanimhaber.com/images/images/haber/213321/1200x675huawei-watch-air-tanitildi-iste-ozellikleri-ve-fiyati.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-24T20:12:00+00:00",
+   "url": "/haber/huawei-watch-air-incecik-govdesiyle-geliyor-e39d02d0/"
+  },
+  {
+   "id": "55f0f70e",
+   "title": "NYT: ABD istihbarat teşkilatında bazı gizli olmayan bilgiler sızdırıldı",
+   "summary": "ABD Merkezi Haberalma Teşkilatı (CIA) ve Ulusal İstihbarat Direktörlüğünün (DNI), son dönemde bazı gizli olmayan bilgilerin sızdırıldığı bir siber güvenlik ihlali tespit ettiği öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/nyt-abd-istihbarat-teskilatinda-bazi-gizli-olmayan-bilgiler-sizdirildi-/4136419",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-24T20:08:09+00:00",
+   "url": "/haber/nyt-abd-istihbarat-teskilatinda-bazi-gizli-olmayan-bilgiler-sizdirildi-55f0f70e/"
+  },
+  {
+   "id": "c21ff2ef",
+   "title": "THY'den öğretmenlere iç hat uçuşlarında yüzde 20 indirim",
+   "summary": "Türk Hava Yolları (THY), öğretmen ve ailelerine yönelik iç hat uçuşlarında yüzde 20 indirimli biletleri satışa sundu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/thyden-ogretmenlere-ic-hat-ucuslarinda-yuzde-20-indirim/4136413",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-24T20:02:31+00:00",
+   "url": "/haber/thy-den-ogretmenlere-ic-hat-ucuslarinda-yuzde-20-indirim-c21ff2ef/"
+  },
   {
    "id": "13032618",
    "title": "Galatasaray, Aston Villa'yı 1-0 yendi",
@@ -178,17 +244,6 @@
    "url": "/haber/genclerbirligi-nden-fifa-nin-transfer-yasagina-iliskin-aciklama-ff4c27b4/"
   },
   {
-   "id": "4be66316",
-   "title": "Başantrenör Selen Erdem, Panathinaikos Kadın Basketbol Takımı'ndaki görevinden ayrıldı",
-   "summary": "Panathinaikos Kadın Basketbol Takımı Başantrenörü Selen Erdem, görevinden ayrıldığını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/spor/basantrenor-selen-erdem-panathinaikos-kadin-basketbol-takimindaki-gorevinden-ayrildi/4136364",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-24T19:03:18+00:00",
-   "url": "/haber/basantrenor-selen-erdem-panathinaikos-kadin-basketbol-takimi-ndaki-gor-4be66316/"
-  },
-  {
    "id": "8bc24d89",
    "title": "Bakan Uraloğlu duyurdu: HGS'de usulsüz tahsilatlar iade edilecek",
    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Hızlı Geçiş Sistemi (HGS) borçlarında usulüne uygun şekilde yapılmayan tüm tahsilatların iade edileceğini bildirdi.",
@@ -209,39 +264,6 @@
    "category": "gundem",
    "date": "2026-11-24T19:00:56+00:00",
    "url": "/haber/bakan-simsek-turkiye-ile-umman-in-tarih-boyunca-ustlendikleri-cok-onem-ef3e36b4/"
-  },
-  {
-   "id": "14f1c243",
-   "title": "Galler Prensi William, İngiltere Başbakanı Burnham'ı Başbakanlık Ofisi'nde ilk kez ziyaret etti",
-   "summary": "İngiltere tahtının varisi Galler Prensi William'ın, Başbakan Andy Burnham'ı Başbakanlık Ofisi 10 Numara'da ilk kez ziyaret ettiği belirtildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/galler-prensi-william-ingiltere-basbakani-burnhami-basbakanlik-ofisinde-ilk-kez-ziyaret-etti/4136357",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-24T18:56:51+00:00",
-   "url": "/haber/galler-prensi-william-ingiltere-basbakani-burnham-i-basbakanlik-ofisi-14f1c243/"
-  },
-  {
-   "id": "7826f6c8",
-   "title": "Galata Kulesi'nde Öğretmenler Günü'ne özel mapping gösterisi",
-   "summary": "Galata Kulesi'nde \"24 Kasım Öğretmenler Günü\" dolayısıyla yapılan mapping gösterisi yoğun ilgi gördü.",
-   "link": "https://www.aa.com.tr/tr/gundem/galata-kulesinde-ogretmenler-gunune-ozel-mapping-gosterisi/4136346",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-24T18:49:21+00:00",
-   "url": "/haber/galata-kulesi-nde-ogretmenler-gunu-ne-ozel-mapping-gosterisi-7826f6c8/"
-  },
-  {
-   "id": "08a738b2",
-   "title": "Nvidia'nın CEO'su Huang'ın kamuoyuna yansımayan ilişkilerini de yönetim kuruluna açıkladığı iddiası",
-   "summary": "ABD merkezli çip üreticisi Nvidia'nın Üst Yöneticisi (CEO) Jensen Huang'ın, daha önce kamuoyuna yansıyan ilişkilerinin yanı sıra başka ilişkileri olduğunu da şirketin yönetim kuruluna açıkladığı ileri sürüldü.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/nvidianin-ceosu-huangin-kamuoyuna-yansimayan-iliskilerini-de-yonetim-kuruluna-acikladigi-iddiasi/4136342",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-24T18:46:03+00:00",
-   "url": "/haber/nvidia-nin-ceo-su-huang-in-kamuoyuna-yansimayan-iliskilerini-de-yoneti-08a738b2/"
   },
   {
    "id": "c97fe452",
@@ -277,26 +299,15 @@
    "url": "/haber/hurkus-un-gorev-planlama-yazilimi-kabulu-gecti-be3fddcb/"
   },
   {
-   "id": "273bbd62",
-   "title": "Galatasaray, Aston Villa'yı mağlup etti",
+   "id": "e30340e0",
+   "title": "Galatasaray, Şampiyonlar Ligi'nde Aston Villa'yı tek golle devirdi",
    "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray, sahasında Aston Villa'yı 1-0 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-aston-villayi-maglup-etti/4136323",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-aston-villayi-tek-golle-devirdi/4136323",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-24T18:35:35+00:00",
-   "url": "/haber/galatasaray-aston-villa-yi-maglup-etti-273bbd62/"
-  },
-  {
-   "id": "d1230db0",
-   "title": "Eskişehir'de askeri helikopter düştü, beş asker hayatını kaybetti",
-   "summary": "Eskişehir'de Hava Kuvvetleri Komutanlığı'na ait AS-532 tipi bir helikopter kaza kırıma uğradı, beş askerin hayatını kaybettiği bildirildi.",
-   "link": "https://www.bbc.com/turkce/articles/cm792qzv12wjo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca39/live/c95568f0-e833-11f1-917e-35f1674fb52c.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-24T18:29:07+00:00",
-   "url": "/haber/eskisehir-de-askeri-helikopter-dustu-bes-asker-hayatini-kaybetti-d1230db0/"
+   "url": "/haber/galatasaray-sampiyonlar-ligi-nde-aston-villa-yi-tek-golle-devirdi-e30340e0/"
   },
   {
    "id": "c144a899",
@@ -649,17 +660,6 @@
    "category": "teknoloji",
    "date": "2026-11-24T15:33:00+00:00",
    "url": "/haber/microsoft-un-xbox-helix-planlari-ortaya-cikti-steam-ve-dahasi-fd98278d/"
-  },
-  {
-   "id": "3b1d03d3",
-   "title": "Grand Theft Auto VI İnceleme | Spoilersız",
-   "summary": "Bu videomuzda Grand Theft Auto VI'ya dair öne çıkan noktalara, önceki Rockstar oyunlarına göre neler değiştiğine ve oyuna girecekleri neler beklediğine bakıyoruz. GTA 6 incelemesi karşınızda!",
-   "link": "https://www.donanimhaber.com/yillardir-beklenen-gta-6-nasil-bir-oyun-olmus-cevabi-videomuzda--213341",
-   "image": "https://www.donanimhaber.com/images/images/haber/213341/1200x675yillardir-beklenen-gta-6-nasil-bir-oyun-olmus-cevabi-videomuzda.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-24T15:23:12+00:00",
-   "url": "/haber/grand-theft-auto-vi-inceleme-spoilersiz-3b1d03d3/"
   },
   {
    "id": "09e7a4b4",
