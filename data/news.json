@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:30:56.216568+00:00",
+ "updated": "2026-11-24T23:01:15.860397+00:00",
  "items": [
   {
    "id": "a3fbc6aa",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-24T22:30:00+00:00",
+   "date": "2026-11-24T23:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a3fbc6aa/"
   },
   {
@@ -20,8 +20,30 @@
    "image": "https://images.ntv.com.tr/images/AW839419_02-870255.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-24T22:08:48+00:00",
+   "date": "2026-11-24T22:52:28+00:00",
    "url": "/haber/eskisehir-de-askeri-helikopter-dustu-5-asker-sehit-oldu-8864aa4a/"
+  },
+  {
+   "id": "6b8f8bf4",
+   "title": "Fon Koordinasyon Kurulu toplandı: Yeni düzenleme hazır",
+   "summary": "Fon Koordinasyon Kurulu Toplantısı sonrası açıklamada, piyasa dolandırıcılığı cezalarının artırılmasını öngören düzenleme taslağının hazırlandığı bildirildi.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-koordinasyon-kurulu-toplandi-yeni-duzenleme-hazir-1752431",
+   "image": "https://images.ntv.com.tr/images/HX6btVkXAAEY5hc-724757.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-24T22:48:50+00:00",
+   "url": "/haber/fon-koordinasyon-kurulu-toplandi-yeni-duzenleme-hazir-6b8f8bf4/"
+  },
+  {
+   "id": "3713f170",
+   "title": "Ünlülere yeni uyuşturucu operasyonu: Özcan Deniz, Deniz Çakır ve Burcu Özberk gözaltında",
+   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu soruşturması kapsamında 35 şüpheli hakkında gözaltı kararı verildi. Gözaltına alınanlar arasında Özcan Deniz ve Deniz Çakır da var.",
+   "link": "https://www.ntv.com.tr/turkiye/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-1752434",
+   "image": "https://images.ntv.com.tr/images/gözaltı-298939.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-24T22:32:42+00:00",
+   "url": "/haber/unlulere-yeni-uyusturucu-operasyonu-ozcan-deniz-deniz-cakir-ve-burcu-o-3713f170/"
   },
   {
    "id": "cc13abb7",
@@ -88,17 +110,6 @@
    "category": "gundem",
    "date": "2026-11-24T21:21:16+00:00",
    "url": "/haber/eski-fransa-cumhurbaskani-sarkozy-ve-esi-carla-bruni-yargilanacak-c2f429a2/"
-  },
-  {
-   "id": "3713f170",
-   "title": "Ünlülere yönelik yeni uyuşturucu operasyonu: Özcan Deniz, Deniz Çakır ve Burcu Özberk gözaltında",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu soruşturması kapsamında 35 şüpheli hakkında gözaltı kararı verildi. Gözaltına alınanlar arasında şarkıcı Özcan Deniz de var.",
-   "link": "https://www.ntv.com.tr/turkiye/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-1752434",
-   "image": "https://images.ntv.com.tr/images/gözaltı-298939.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-24T21:18:23+00:00",
-   "url": "/haber/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-deniz-cakir-ve-3713f170/"
   },
   {
    "id": "c29e3347",
@@ -286,17 +297,6 @@
    "category": "gundem",
    "date": "2026-11-24T19:59:42+00:00",
    "url": "/haber/galatasaray-aston-villa-yi-1-0-yendi-13032618/"
-  },
-  {
-   "id": "6b8f8bf4",
-   "title": "Fon Koordinasyon Kurulu toplandı: Yeni düzenleme hazır",
-   "summary": "Fon Koordinasyon Kurulu Toplantısı sonrası açıklamada, piyasa dolandırıcılığı cezalarının artırılmasını öngören düzenleme taslağının hazırlandığı bildirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-koordinasyon-kurulu-toplandi-yeni-duzenleme-hazir-1752431",
-   "image": "https://images.ntv.com.tr/images/HX6btVkXAAEY5hc-724757.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-24T19:54:08+00:00",
-   "url": "/haber/fon-koordinasyon-kurulu-toplandi-yeni-duzenleme-hazir-6b8f8bf4/"
   },
   {
    "id": "bda3976a",
