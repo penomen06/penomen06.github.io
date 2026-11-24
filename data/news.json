@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T21:01:01.207095+00:00",
+ "updated": "2026-11-24T21:30:55.790911+00:00",
  "items": [
+  {
+   "id": "8864aa4a",
+   "title": "Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu",
+   "summary": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 asker şehit oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
+   "image": "https://images.ntv.com.tr/images/AW839419_02-870255.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-24T21:30:32+00:00",
+   "url": "/haber/eskisehir-de-askeri-helikopter-dustu-5-asker-sehit-oldu-8864aa4a/"
+  },
   {
    "id": "a3fbc6aa",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Kasım 2026",
@@ -9,19 +20,85 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-24T21:00:00+00:00",
+   "date": "2026-11-24T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a3fbc6aa/"
   },
   {
-   "id": "3713f170",
-   "title": "Ünlülere yönelik yeni uyuşturucu operasyonu: Özcan Deniz gözaltına alındı",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu soruşturması kapsamında 35 şüpheli hakkında gözaltı kararı verildi. Gözaltına alınanlar arasında şarkıcı Özcan Deniz de var.",
-   "link": "https://www.ntv.com.tr/turkiye/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-1752434",
-   "image": "https://images.ntv.com.tr/images/özcan-deniz3-239890(2).jpg",
+   "id": "2f4c9e70",
+   "title": "Atama kararları yayınlandı, 14 vali merkeze çekildi",
+   "summary": "Aralarında Muğla Valisi'nin de bulunduğu 14 vali merkeze çekildi.",
+   "link": "https://www.ntv.com.tr/turkiye/cok-sayida-valinin-gorev-yeri-degisti-1752438",
+   "image": "https://images.ntv.com.tr/images/mainart-son-dakika-haber-520714.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-24T20:54:03+00:00",
-   "url": "/haber/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alin-3713f170/"
+   "date": "2026-11-24T21:25:56+00:00",
+   "url": "/haber/atama-kararlari-yayinlandi-14-vali-merkeze-cekildi-2f4c9e70/"
+  },
+  {
+   "id": "c2f429a2",
+   "title": "Eski Fransa Cumhurbaşkanı Sarkozy ve eşi Carla Bruni gelecek yıl yargılanacak",
+   "summary": "Eski Fransa cumhurbaşkanı Nicolas Sarkozy ve eşi Carla Bruni-Sarkozy, dönemin Libya lideri Muammer Kaddafi'nin 2007'de Fransa'daki seçim kampanyasına usulsüz şekilde mali destek sağladığı iddialarıyla ilgili gelecek yıl…",
+   "link": "https://www.bbc.com/turkce/articles/cmqj5qzzq02qo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-24T21:21:16+00:00",
+   "url": "/haber/eski-fransa-cumhurbaskani-sarkozy-ve-esi-carla-bruni-gelecek-yil-yargi-c2f429a2/"
+  },
+  {
+   "id": "3713f170",
+   "title": "Ünlülere yönelik yeni uyuşturucu operasyonu: Özcan Deniz, Deniz Çakır ve Burcu Özberk gözaltında",
+   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu soruşturması kapsamında 35 şüpheli hakkında gözaltı kararı verildi. Gözaltına alınanlar arasında şarkıcı Özcan Deniz de var.",
+   "link": "https://www.ntv.com.tr/turkiye/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-1752434",
+   "image": "https://images.ntv.com.tr/images/gözaltı-298939.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-24T21:18:23+00:00",
+   "url": "/haber/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-deniz-cakir-ve-3713f170/"
+  },
+  {
+   "id": "7672db70",
+   "title": "Resmi Gazete'de yayımlanan Valiler Kararnamesi ile 14 ilin valisi merkeze alındı 41 ilin valisi değişti",
+   "summary": "Resmi Gazete'de yayımlanan Valiler Kararnamesi ile 14 ilin valisi merkeze alındı, 41 ilin valisi değişti. Ağrı Valisi Önder Bozkurt, AFAD Başkanlığı görevine getirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/resmi-gazetede-yayimlanan-valiler-kararnamesi-ile-14-ilin-valisi-merkeze-alindi-41-ilin-valisi-degisti/4136485",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-24T21:12:37+00:00",
+   "url": "/haber/resmi-gazete-de-yayimlanan-valiler-kararnamesi-ile-14-ilin-valisi-merk-7672db70/"
+  },
+  {
+   "id": "dabb78b7",
+   "title": "Xiaomi, elektrikli araçlarını dört Avrupa ülkesinde test edecek",
+   "summary": "Xiaomi, 2027’de başlayacak Avrupa satışları öncesinde otomobillerini dört ülkede test edecek. İlk pazar Almanya olacak. Avrupa’ya gelecek modeller ve fiyatları ise henüz resmi olarak açıklanmış değil.",
+   "link": "https://www.donanimhaber.com/xiaomi-elektrikli-araclarini-dort-avrupa-ulkesinde-test-edecek--213335",
+   "image": "https://www.donanimhaber.com/images/images/haber/213335/1200x675xiaomi-elektrikli-araclarini-dort-avrupa-ulkesinde-test-edecek.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-24T21:11:00+00:00",
+   "url": "/haber/xiaomi-elektrikli-araclarini-dort-avrupa-ulkesinde-test-edecek-dabb78b7/"
+  },
+  {
+   "id": "5a83c74f",
+   "title": "Süper Lig'den 9 kulüp PFDK'ye sevk edildi",
+   "summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Süper Lig'den 9 kulübü Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
+   "link": "https://www.aa.com.tr/tr/spor/super-ligden-9-kulup-pfdkye-sevk-edildi/4136475",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-24T21:01:11+00:00",
+   "url": "/haber/super-lig-den-9-kulup-pfdk-ye-sevk-edildi-5a83c74f/"
+  },
+  {
+   "id": "ff54f51a",
+   "title": "41 ilin valisi değişti, 14 vali merkeze çekildi",
+   "summary": "Resmi Gazete'de yayımlanan atama kararlarına göre 41 ile yeni vali atanırken, 14 vali İçişleri Bakanlığı emrine alındı. AFAD Başkanlığına Ağrı Valisi Önder Bozkurt, Polis Akademisi Başkanlığına ise Doç. Dr. Mehmet İlker…",
+   "link": "https://www.trthaber.com/haber/gundem/41-ilin-valisi-degisti-14-vali-merkeze-cekildi-964375.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2022000/resmi-gazete-aa-2022760.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-24T20:57:00+00:00",
+   "url": "/haber/41-ilin-valisi-degisti-14-vali-merkeze-cekildi-ff54f51a/"
   },
   {
    "id": "44394b44",
@@ -266,17 +343,6 @@
    "url": "/haber/cinli-sirket-saglamligini-kanitlamak-icin-otomobilini-ucurumdan-atti-cc55bceb/"
   },
   {
-   "id": "8864aa4a",
-   "title": "Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu",
-   "summary": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 asker şehit oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
-   "image": "https://images.ntv.com.tr/images/AW839419_02-870255.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-24T19:26:52+00:00",
-   "url": "/haber/eskisehir-de-askeri-helikopter-dustu-5-asker-sehit-oldu-8864aa4a/"
-  },
-  {
    "id": "a4faf172",
    "title": "Canva MCP herkese açıldı: Bekleme listesi kalktı",
    "summary": "Canva, yapay zeka ajanlarının tasarım araçlarını kullanmasını sağlayan Canva MCP altyapısını genel kullanıma açtı. Bekleme listesi kaldırıldı; yeni REST API'ler, genişletilmiş CLI ve servis hesapları da geldi.",
@@ -308,17 +374,6 @@
    "category": "gundem",
    "date": "2026-11-24T19:03:13+00:00",
    "url": "/haber/bakan-uraloglu-duyurdu-hgs-de-usulsuz-tahsilatlar-iade-edilecek-8bc24d89/"
-  },
-  {
-   "id": "ef3e36b4",
-   "title": "Bakan Şimşek: Türkiye ile Umman'ın tarih boyunca üstlendikleri çok önemli bir rol var",
-   "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Türkiye ile Umman'ın tarih boyunca üstlendikleri çok önemli bir rol var. Her iki ülke de bulundukları coğrafyalar arasında ticaretin ve kültürel etkileşimin gelişmesine büyük…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-turkiye-ile-ummanin-tarih-boyunca-ustlendikleri-cok-onemli-bir-rol-var/4136361",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-24T19:00:56+00:00",
-   "url": "/haber/bakan-simsek-turkiye-ile-umman-in-tarih-boyunca-ustlendikleri-cok-onem-ef3e36b4/"
   },
   {
    "id": "c97fe452",
@@ -552,17 +607,6 @@
    "url": "/haber/robotikte-cifte-sicrama-iki-yeni-yapay-zeka-dokunma-duyusu-ve-hizli-og-d4fb6f23/"
   },
   {
-   "id": "259c23a9",
-   "title": "Avrupa'nın en çok satan elektrikli otomobili değişti: Zirve Skoda'nın",
-   "summary": "Ekim ayı tescil rakamlarının açıklanmasıyla birlikte Avrupa'nın en çok tercih edilen elektrikli otomobil sıralaması yeniden şekillendi. Zirveye Skoda yerleşirken Tesla dördüncü sıraya geriledi.",
-   "link": "https://www.donanimhaber.com/avrupa-nin-en-cok-satan-elektriklisi-degisti-zirve-skoda-nin--213342",
-   "image": "https://www.donanimhaber.com/images/images/haber/213342/1200x675avrupa-nin-en-cok-satan-elektriklisi-degisti-zirve-skoda-nin.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-24T16:14:00+00:00",
-   "url": "/haber/avrupa-nin-en-cok-satan-elektrikli-otomobili-degisti-zirve-skoda-nin-259c23a9/"
-  },
-  {
    "id": "77dfa483",
    "title": "IPTV ağır darbe aldı!",
    "summary": "11 ülkenin polisi, Europol koordinasyonunda 57 yasa dışı IPTV hizmetini devre dışı bıraktı. Müfettişler 26 milyon euroyu aşan kripto para işleminin izini sürdü.",
@@ -616,17 +660,6 @@
    "category": "gundem",
    "date": "2026-11-24T15:57:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-15-bin-ogretmen-alim-duyurusu-hafta-icerisinde-a-2edabad4/"
-  },
-  {
-   "id": "d0926768",
-   "title": "Trabzon'da sağanak yaşamı olumsuz etkiledi",
-   "summary": "Trabzon'da akşam saatlerinde etkisini artıran yağış, hayatı olumsuz etkiledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/trabzonda-saganak-yasami-olumsuz-etkiledi/4136114",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-24T15:51:40+00:00",
-   "url": "/haber/trabzon-da-saganak-yasami-olumsuz-etkiledi-d0926768/"
   },
   {
    "id": "3aa48884",
@@ -970,17 +1003,6 @@
    "url": "/haber/fiat-grizzly-alinir-mi-2026-fiyati-ve-ozellikleri-c63d7198/"
   },
   {
-   "id": "c7f8a63b",
-   "title": "Spotify çöktü mü, neden açılmıyor? 24 Kasım Spotify erişim sorunu",
-   "summary": "Dünyanın en popüler dijital müzik ve podcast platformu Spotify’da 24 Kasım 2026 Salı öğle saatlerinden itibaren kullanıcıları etkileyen bir erişim sorunu yaşanmaya başladı.",
-   "link": "https://www.ntv.com.tr/turkiye/spotify-coktu-mu-neden-acilmiyor-24-kasim-spotify-erisim-sorunu-1752405",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_4a161840ec04e3e749ac0856aa196a17-826153.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-24T12:26:17+00:00",
-   "url": "/haber/spotify-coktu-mu-neden-acilmiyor-24-kasim-spotify-erisim-sorunu-c7f8a63b/"
-  },
-  {
    "id": "69d9a6af",
    "title": "Avrupa Birliği, Türkiye’den hibrit otomobil ithalatına kota getirdi",
    "summary": "Avrupa Birliği, beklenen adımı atarak hibrit otomobil ithalatındaki hızlı artışa karşı ülke bazında kota uygulamasına geçiyor. 1 Aralık’ta başlayacak uygulamayla Türkiye’den Avrupa Birliği’ne 200 gün boyunca toplam “126…",
@@ -1168,17 +1190,6 @@
    "url": "/haber/elektrikli-araclar-toplu-ulasimda-basrole-gecebilir-97903125/"
   },
   {
-   "id": "bb7051a6",
-   "title": "Avrupa kışa girerken doğal gaz depoları alarm veriyor",
-   "summary": "Avrupa'da yaklaşan soğuk hava dalgası ve doğal gaz arzındaki daralma, kış öncesi enerji krizi endişelerini artırdı. Avrupa'nın doğal gaz depolarındaki doluluk oranı yüzde 69'a gerilerken, piyasalarda fiyatlar bir günde…",
-   "link": "https://www.trthaber.com/haber/dunya/avrupa-kisa-girerken-dogal-gaz-depolari-alarm-veriyor-964276.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2320000/soguk-hava-dogu-aa-2321007.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-24T07:09:00+00:00",
-   "url": "/haber/avrupa-kisa-girerken-dogal-gaz-depolari-alarm-veriyor-bb7051a6/"
-  },
-  {
    "id": "da2510bb",
    "title": "Cevdet Yılmaz: Emeklilerimize iyileştirme ve enflasyonun üzerinde artış yapılacak",
    "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tüm emeklileri kapsayan ve enflasyonun üzerinde bir artış öngören iyileştirme çalışmasının yılbaşından önce Meclis'in takdirine sunulacağını bildirdi.",
@@ -1221,17 +1232,6 @@
    "category": "gundem",
    "date": "2026-11-24T00:28:45+00:00",
    "url": "/haber/futbolun-yeni-genc-yildizi-16-yasindaki-jj-gabriel-i-neler-bekliyor-e9ee236e/"
-  },
-  {
-   "id": "0ad76683",
-   "title": "Öğretmenler Günü neden 24 Kasım'da kutlanıyor?",
-   "summary": "24 Kasım Öğretmenler Günü'nün ortaya çıkışını, dünyadaki diğer öğretmen günlerini ve bu yıl Türkiye'deki meslek örgütlerinin taleplerini inceledik.",
-   "link": "https://www.bbc.com/turkce/articles/cqe979y7eq7o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/42fe/live/cc27d3d0-6c02-11ed-ae8b-ef136a32354b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-23T22:16:40+00:00",
-   "url": "/haber/ogretmenler-gunu-neden-24-kasim-da-kutlaniyor-0ad76683/"
   },
   {
    "id": "926e070e",
