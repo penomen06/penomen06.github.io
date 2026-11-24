@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:01:15.860397+00:00",
+ "updated": "2026-11-24T23:30:55.737479+00:00",
  "items": [
   {
    "id": "a3fbc6aa",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-24T23:00:00+00:00",
+   "date": "2026-11-24T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a3fbc6aa/"
+  },
+  {
+   "id": "7a502a3f",
+   "title": "İngiltere'de bu yaz aşırı sıcaklığa bağlı 5 binden fazla kişi öldü",
+   "summary": "İngiltere'de bu yaz aşırı sıcaklığa bağlı 5 bin 258 kişinin yaşamını yitirdiğinin tahmin edildiği ve bu sayının 2016'dan bu yana kaydedilen \"en yüksek seviye\" olduğu bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingilterede-bu-yaz-asiri-sicakliga-bagli-5-binden-fazla-kisi-oldu/4136528",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-24T23:15:52+00:00",
+   "url": "/haber/ingiltere-de-bu-yaz-asiri-sicakliga-bagli-5-binden-fazla-kisi-oldu-7a502a3f/"
+  },
+  {
+   "id": "0d3e79fb",
+   "title": "41 ilin valisi değişti, 14 vali merkeze çekildi",
+   "summary": "Cumhurbaşkanlığı kararıyla 41 ilin valisi değişti, 14 ilin valisi merkeze alındı.",
+   "link": "https://www.bbc.com/turkce/articles/cmge3q17n44xo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aabe/live/41cfbcb0-e85a-11f1-9b85-e50d1e9de678.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-24T23:09:00+00:00",
+   "url": "/haber/41-ilin-valisi-degisti-14-vali-merkeze-cekildi-0d3e79fb/"
   },
   {
    "id": "8864aa4a",
@@ -352,17 +374,6 @@
    "category": "gundem",
    "date": "2026-11-24T19:41:00+00:00",
    "url": "/haber/iletisim-baskanligindan-11-fon-koordinasyon-kurulu-toplantisi-na-ilisk-e9321778/"
-  },
-  {
-   "id": "210009d2",
-   "title": "Cumhurbaşkanı Erdoğan'dan Eskişehir'de şehit olan askerler için başsağlığı mesajı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan helikopterde şehit olan 5 asker için başsağlığı mesajı yayımladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-eskisehirde-sehit-olan-askerler-icin-bassagligi-mesaji/4136401",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-24T19:38:29+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-dan-eskisehir-de-sehit-olan-askerler-icin-bassag-210009d2/"
   },
   {
    "id": "cc55bceb",
@@ -1254,17 +1265,6 @@
    "category": "gundem",
    "date": "2026-11-23T12:55:51+00:00",
    "url": "/haber/cop31-antalya-da-anlasmasiz-sona-eren-iklim-konferansinin-bes-kritik-s-136e714e/"
-  },
-  {
-   "id": "5fe5cede",
-   "title": "Black Friday (Kara Cuma): Büyük indirim ve alışveriş günü geleneği nasıl başladı?",
-   "summary": "Dünya çapında pek çok marka ve firmanın indirim yaptığı, müşterilerin indirimlerden faydalanabilmek için mağazalarda izdiham yarattığı güne Black Friday (Kara Cuma) adı veriliyor.",
-   "link": "https://www.bbc.com/turkce/articles/cn4vk1ng1jdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8379/live/8159fa90-ae27-11ef-be95-a1f725d18284.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-23T10:49:48+00:00",
-   "url": "/haber/black-friday-kara-cuma-buyuk-indirim-ve-alisveris-gunu-gelenegi-nasil-5fe5cede/"
   }
  ]
 }
