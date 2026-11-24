@@ -1,10 +1,76 @@
 {
- "updated": "2026-11-24T20:30:55.240329+00:00",
+ "updated": "2026-11-24T20:51:19.376464+00:00",
  "items": [
+  {
+   "id": "3713f170",
+   "title": "Ünlülere yönelik yeni uyuşturucu operasyonu: Özcan Deniz gözaltına alındı",
+   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu soruşturması kapsamında 35 şüpheli hakkında gözaltı kararı verildi. Gözaltına alınanlar arasında şarkıcı Özcan Deniz de var.",
+   "link": "https://www.ntv.com.tr/turkiye/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-1752434",
+   "image": "https://images.ntv.com.tr/images/özcan-deniz3-239890(2).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-24T20:45:38+00:00",
+   "url": "/haber/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alin-3713f170/"
+  },
+  {
+   "id": "706bf81e",
+   "title": "Bazı illerde kar yağışı etkili oluyor",
+   "summary": "Bazı illerde kar yağışı etkili olurken, ekipleri buzla mücadele çalışması yaparak yolları açık tutmaya çalışıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/bazi-illerde-kar-yagisi-etkili-oluyor/4136461",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-24T20:45:33+00:00",
+   "url": "/haber/bazi-illerde-kar-yagisi-etkili-oluyor-706bf81e/"
+  },
+  {
+   "id": "45d8f20c",
+   "title": "AB, hibrit tehditlere karşı doğu sınırlarındaki güvenlik tedbirlerini artıracak",
+   "summary": "Avrupa Birliği (AB), Rusya ve Belarus kaynaklı hibrit tehditlere karşı doğu sınırlarındaki güvenlik tedbirlerini güçlendirmeye, dronlarla mücadele kapasitesini artırmaya ve yeni vize kısıtlamaları getirmeye hazırlanıyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-hibrit-tehditlere-karsi-dogu-sinirlarindaki-guvenlik-tedbirlerini-artiracak/4136459",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-24T20:45:20+00:00",
+   "url": "/haber/ab-hibrit-tehditlere-karsi-dogu-sinirlarindaki-guvenlik-tedbirlerini-a-45d8f20c/"
+  },
+  {
+   "id": "2b37fb99",
+   "title": "Unigrid, lityum iyonun yetersiz kaldığı alanlarda sodyum iyon bataryaları sahaya sürecek",
+   "summary": "Daha güvenli, uzun ömürlü ve geniş sıcaklık aralığında çalışabilen sodyum iyon bataryalar, lityum iyon teknolojisinin yetersiz kaldığı alanlarda yeni bir alternatif olabilir.",
+   "link": "https://www.donanimhaber.com/sodyum-iyon-bataryalar-lityumun-yetersiz-kaldigi-alanlara-talip--213318",
+   "image": "https://www.donanimhaber.com/images/images/haber/213318/1200x675sodyum-iyon-bataryalar-lityumun-yetersiz-kaldigi-alanlara-talip.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-24T20:45:00+00:00",
+   "url": "/haber/unigrid-lityum-iyonun-yetersiz-kaldigi-alanlarda-sodyum-iyon-bataryala-2b37fb99/"
+  },
+  {
+   "id": "fbab2ebd",
+   "title": "Huawei Mate X8 iddialı özelliklerle geliyor",
+   "summary": "Huawei Mate X8 katlanabilir telefon modelinde 8.2 inçlik OLED iç ekran, katlama izini azaltacak özel tasarım, Kirin 9050 Pro yonga seti, 6200mAh batarya gibi özelliklerle geliyor.",
+   "link": "https://www.donanimhaber.com/huawei-mate-x8-tanitildi-iste-ozellikleri-ve-fiyati--213322",
+   "image": "https://www.donanimhaber.com/images/images/haber/213322/1200x675huawei-mate-x8-tanitildi-iste-ozellikleri-ve-fiyati.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-24T20:32:00+00:00",
+   "url": "/haber/huawei-mate-x8-iddiali-ozelliklerle-geliyor-fbab2ebd/"
+  },
+  {
+   "id": "72fe66f6",
+   "title": "Microsoft'un 24 saatlik krizinin perde arkası ortaya çıktı",
+   "summary": "Microsoft, 12-13 Kasım'da dünya genelinde 24 saat süren hizmet kesintisinin ardından \"kırmızı alarm\" ilan etti.",
+   "link": "https://www.ntv.com.tr/turkiye/microsoftun-24-saatlik-krizinin-perde-arkasi-ortaya-cikti-1752429",
+   "image": "https://images.ntv.com.tr/images/microsoft-463225.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-24T20:31:50+00:00",
+   "url": "/haber/microsoft-un-24-saatlik-krizinin-perde-arkasi-ortaya-cikti-72fe66f6/"
+  },
   {
    "id": "d1230db0",
    "title": "Eskişehir'de askeri helikopter düştü, beş asker hayatını kaybetti",
-   "summary": "Eskişehir'de Hava Kuvvetleri Komutanlığı'na ait AS-532 tipi bir helikopter eğitim uçuşu sırasında kaza kırıma uğradı, beş asker hayatını kaybetti.",
+   "summary": "Eskişehir'de Hava Kuvvetleri Komutanlığı'na ait AS-532 tipi bir helikopter eğitim uçuşu sırasında kaza kırıma uğradı, beş asker hayatını kaybetti. Kazanın sebebi henüz açıklanmadı.",
    "link": "https://www.bbc.com/turkce/articles/cm792qzv12wjo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca39/live/c95568f0-e833-11f1-917e-35f1674fb52c.jpg",
    "source": "BBC Turkish",
@@ -200,17 +266,6 @@
    "url": "/haber/abd-de-demokratlar-1990-dan-bu-yana-temsilciler-meclisindeki-en-yuksek-a81cbf56/"
   },
   {
-   "id": "98557e23",
-   "title": "Shakhtar Donetsk Teknik Direktörü Arda Turan: Çok tecrübeli bir takıma karşı oynayacağız",
-   "summary": "Şampiyonlar Ligi'nde yarın Fenerbahçe ile karşılaşacak Ukrayna ekibi Shakhtar Donetsk'in teknik direktörü Arda Turan, çok iyi ve tecrübeli bir takıma karşı zorlu bir mücadele vereceklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/shakhtar-donetsk-teknik-direktoru-arda-turan-cok-tecrubeli-bir-takima-karsi-oynayacagiz/4136375",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-24T19:08:21+00:00",
-   "url": "/haber/shakhtar-donetsk-teknik-direktoru-arda-turan-cok-tecrubeli-bir-takima-98557e23/"
-  },
-  {
    "id": "a4faf172",
    "title": "Canva MCP herkese açıldı: Bekleme listesi kalktı",
    "summary": "Canva, yapay zeka ajanlarının tasarım araçlarını kullanmasını sağlayan Canva MCP altyapısını genel kullanıma açtı. Bekleme listesi kaldırıldı; yeni REST API'ler, genişletilmiş CLI ve servis hesapları da geldi.",
@@ -231,17 +286,6 @@
    "category": "teknoloji",
    "date": "2026-11-24T19:07:00+00:00",
    "url": "/haber/avancier-ile-basladi-honda-dan-15-yeni-hibrit-model-eaea0ce8/"
-  },
-  {
-   "id": "ff4c27b4",
-   "title": "Gençlerbirliği'nden FIFA'nın transfer yasağına ilişkin açıklama",
-   "summary": "Trendyol Süper Lig ekiplerinden Gençlerbirliği, futbolcu Peter Etebo'nun dosyası nedeniyle FIFA'nın kulübe uyguladığı geçici transfer yasağına ilişkin açıklama yaptı.",
-   "link": "https://www.aa.com.tr/tr/spor/genclerbirliginden-fifanin-transfer-yasagina-iliskin-aciklama/4136368",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-24T19:04:10+00:00",
-   "url": "/haber/genclerbirligi-nden-fifa-nin-transfer-yasagina-iliskin-aciklama-ff4c27b4/"
   },
   {
    "id": "8bc24d89",
@@ -563,20 +607,9 @@
    "url": "/haber/cumhurbaskani-erdogan-15-bin-ogretmen-alim-duyurusu-hafta-icerisinde-a-2edabad4/"
   },
   {
-   "id": "92a594d1",
-   "title": "140 yıllık teknoloji değişiyor: Elektrik şebekelerinde yeni dönem",
-   "summary": "Katı hal transformatörleri, geleneksel elektrik şebekelerini değiştirmeye hazırlanıyor. Enphase, Tesla ve Heron Power gibi şirketler yeni nesil teknoloji için çalışmalarını hızlandırıyor.",
-   "link": "https://www.donanimhaber.com/140-yillik-teknoloji-degisiyor-elektrik-sebekelerinde-yeni-donem--213343",
-   "image": "https://www.donanimhaber.com/images/images/haber/213343/1200x675140-yillik-teknoloji-degisiyor-elektrik-sebekelerinde-yeni-donem.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-24T15:53:00+00:00",
-   "url": "/haber/140-yillik-teknoloji-degisiyor-elektrik-sebekelerinde-yeni-donem-92a594d1/"
-  },
-  {
    "id": "d0926768",
    "title": "Trabzon'da sağanak yaşamı olumsuz etkiledi",
-   "summary": "Trabzon'da sağanak hayatı olumsuz etkiledi. Ortahisar ilçesine bağlı 1 Nolu Beşirli Mahallesi'ndeki bir apartmanın bahçesindeki istinat duvarı çöktü, bazı mahallelerdeki rögarlar taştı.",
+   "summary": "Trabzon'da akşam saatlerinde etkisini artıran yağış, hayatı olumsuz etkiledi.",
    "link": "https://www.aa.com.tr/tr/gundem/trabzonda-saganak-yasami-olumsuz-etkiledi/4136114",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
@@ -649,17 +682,6 @@
    "category": "teknoloji",
    "date": "2026-11-24T15:34:01+00:00",
    "url": "/haber/instagram-in-sevilen-kamera-ozelligi-yakinda-whatsapp-a-da-geliyor-f0866693/"
-  },
-  {
-   "id": "fd98278d",
-   "title": "Microsoft'un Xbox Helix planları ortaya çıktı: Steam ve dahası",
-   "summary": "Microsoft’un yeni nesil Xbox Helix için Steam erişimi ve ücretsiz çevrim içi çok oyunculu desteği planladığı öne sürüldü. Ancak artan bellek maliyetleri bu özellikleri değiştirebilir.",
-   "link": "https://www.donanimhaber.com/microsoft-un-xbox-helix-planlari-ortaya-cikti-steam-ve-dahasi--213333",
-   "image": "https://www.donanimhaber.com/images/images/haber/213333/1200x675microsoft-un-xbox-helix-planlari-ortaya-cikti-steam-ve-dahasi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-24T15:33:00+00:00",
-   "url": "/haber/microsoft-un-xbox-helix-planlari-ortaya-cikti-steam-ve-dahasi-fd98278d/"
   },
   {
    "id": "09e7a4b4",
@@ -970,17 +992,6 @@
    "url": "/haber/71-ilde-mali-suc-orgutlerine-operasyon-455-supheliye-islem-62fe4620/"
   },
   {
-   "id": "2b368fc2",
-   "title": "Ömer Çelik ve Efkan Ala'dan Yeni Parti'nin grup toplantısındaki sloganlara tepki",
-   "summary": "AK Parti'nin üst düzey isimleri, Yeni Parti'nin Meclis'teki grup toplantısında Cumhurbaşkanı Erdoğan'la ilgili atılan sloganlara tepki gösterdi.",
-   "link": "https://www.ntv.com.tr/turkiye/omer-celik-ve-efkan-aladan-yeni-partinin-grup-toplantisindaki-sloganlara-tepki-1752403",
-   "image": "https://images.ntv.com.tr/images/images-665824.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-24T12:18:09+00:00",
-   "url": "/haber/omer-celik-ve-efkan-ala-dan-yeni-parti-nin-grup-toplantisindaki-slogan-2b368fc2/"
-  },
-  {
    "id": "f6ae29fa",
    "title": "Hepsi 500 TL Altı! Amazon'da Bu Haftanın En Avantajlı Ürünleri",
    "summary": "Amazon'da fiyatı 500 TL ve altında olan ürünler arasından işinize yarayabilecek olanları sizler için seçtik.",
@@ -1001,17 +1012,6 @@
    "category": "teknoloji",
    "date": "2026-11-24T11:50:35+00:00",
    "url": "/haber/en-iyi-xbox-markalari-2026-068869de/"
-  },
-  {
-   "id": "4f8e9850",
-   "title": "Son dakika... Fatma Betül Sayan Kaya ev hapsi şartıyla tahliye edildi",
-   "summary": "Fon soruşturmasında tutuklanan ve 18 gündür cezaevinde bulunan Fatma Betül Sayan Kaya ev hapsi şartıyla tahliye edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-son-dakika-fatma-betul-sayan-kaya-ev-hapsi-sartiyla-tahliye-edildi-1752387",
-   "image": "https://images.ntv.com.tr/images/FatmaBetülSayanKaya-807607.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-24T11:04:44+00:00",
-   "url": "/haber/son-dakika-fatma-betul-sayan-kaya-ev-hapsi-sartiyla-tahliye-edildi-4f8e9850/"
   },
   {
    "id": "5153a417",
