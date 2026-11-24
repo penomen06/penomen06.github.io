@@ -7,10 +7,17 @@
   <language>tr</language>
   <atom:link href="https://penomen06.github.io/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>Google: Yapay zeka ajanları insansız saldırıyor</title>
+    <link>https://penomen06.github.io/haber/google-yapay-zeka-ajanlari-insansiz-saldiriyor-58b31ef3/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/google-yapay-zeka-ajanlari-insansiz-saldiriyor-58b31ef3/</guid>
+    <pubDate>Tue, 24 Nov 2026 03:30:10 +0000</pubDate>
+    <description>Google&#x27;a göre saldırganlar güvenlik açığı bulma ve istismar etme sürecini ilk kez tamamen yapay zekaya devretti. Raporda Claude Code ayarlarıyla kurulan arka kapı da var.</description>
+  </item>
+  <item>
     <title>Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Kasım 2026</title>
     <link>https://penomen06.github.io/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-60623f8c/</link>
     <guid isPermaLink="true">https://penomen06.github.io/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-60623f8c/</guid>
-    <pubDate>Tue, 24 Nov 2026 02:30:00 +0000</pubDate>
+    <pubDate>Tue, 24 Nov 2026 03:30:00 +0000</pubDate>
     <description>Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 24 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…</description>
   </item>
   <item>
@@ -348,13 +355,6 @@
     <guid isPermaLink="true">https://penomen06.github.io/haber/istanbul-basaksehir-den-geri-donusle-4-gollu-galibiyet-191169c6/</guid>
     <pubDate>Mon, 23 Nov 2026 17:54:26 +0000</pubDate>
     <description>İstanbul Başakşehir, Trendyol Süper Lig&#x27;in 12. haftasında 2-0 geriye düştüğü maçta Arca Çorum FK&#x27;yi 4-2 mağlup etti.</description>
-  </item>
-  <item>
-    <title>Çin, yapay zekâ tokenlarının ölçüm ve ücretlendirmesini standarda bağlayacak</title>
-    <link>https://penomen06.github.io/haber/cin-yapay-zeka-tokenlarinin-olcum-ve-ucretlendirmesini-standarda-bagla-ae3a92bd/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/cin-yapay-zeka-tokenlarinin-olcum-ve-ucretlendirmesini-standarda-bagla-ae3a92bd/</guid>
-    <pubDate>Mon, 23 Nov 2026 17:53:00 +0000</pubDate>
-    <description>Çin, yapay zeka tokenlarının ölçülmesi, ücretlendirilmesi ve kalite değerlendirmesi için yeni standartlar geliştirmeye hazırlanıyor. Ayrıca ülkede token fabrikaları da kurulacak.</description>
   </item>
 </channel>
 </rss>

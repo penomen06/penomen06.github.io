@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T03:01:03.737658+00:00",
+ "updated": "2026-11-24T03:30:54.924093+00:00",
  "items": [
+  {
+   "id": "58b31ef3",
+   "title": "Google: Yapay zeka ajanları insansız saldırıyor",
+   "summary": "Google'a göre saldırganlar güvenlik açığı bulma ve istismar etme sürecini ilk kez tamamen yapay zekaya devretti. Raporda Claude Code ayarlarıyla kurulan arka kapı da var.",
+   "link": "https://shiftdelete.net/google-gtig-yapay-zeka-ajan-otonom-siber-saldiri",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/siber-operasyon-merkezi-kapak-2411.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-24T03:30:10+00:00",
+   "url": "/haber/google-yapay-zeka-ajanlari-insansiz-saldiriyor-58b31ef3/"
+  },
   {
    "id": "60623f8c",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Kasım 2026",
@@ -9,7 +20,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-24T02:30:00+00:00",
+   "date": "2026-11-24T03:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-60623f8c/"
   },
   {
@@ -748,17 +759,6 @@
    "category": "gundem",
    "date": "2026-11-23T14:45:24+00:00",
    "url": "/haber/schengen-vize-serbestisi-icin-turkiye-yi-hangi-zorluklar-bekliyor-90f99734/"
-  },
-  {
-   "id": "f5637361",
-   "title": "Türk Girişimlere Global Destek: Mastercard Lighthouse 3. Dönem Başladı!",
-   "summary": "Mastercard Lighthouse Türkiye Girişim Hızlandırma Programı'nın üçüncü dönem başvuruları başladı. Seçilen girişimler 14 hafta boyunca koçluk, eğitim ve kurumsal iş birliği desteği alacak; başvurular 29 Kasım'da sona…",
-   "link": "https://shiftdelete.net/turk-girisimlere-global-destek-mastercard-lighthouse-3-donem-basladi",
-   "image": "https://shiftdelete.net/static/img/content/26-11/23/mastercard-lighthouse.jpeg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-23T14:45:08+00:00",
-   "url": "/haber/turk-girisimlere-global-destek-mastercard-lighthouse-3-donem-basladi-f5637361/"
   },
   {
    "id": "7061f843",
