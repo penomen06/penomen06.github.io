@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-25T05:30:53.680229+00:00",
+ "updated": "2026-11-25T06:01:09.108962+00:00",
  "items": [
+  {
+   "id": "a3fbc6aa",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-kasim-2026-1752436",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T06:00:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a3fbc6aa/"
+  },
+  {
+   "id": "bfeea076",
+   "title": "15 bin öğretmen ataması ne zaman, branş dağılımı belli oldu mu? 2026 MEB 15 bin öğretmen ataması",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın 24 Kasım Öğretmenler Günü programında verdiği 15 bin öğretmen atama müjdesi, atama bekleyen yüz binlerce öğretmen adayında büyük heyecan yarattı. 2026 yılı Akademi Giriş Sınavı…",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-15-bin-ogretmen-atamasi-ne-zaman-brans-dagilimi-belli-oldu-mu-2026-meb-15-bin-ogretmen-atamasi-1752474",
+   "image": "https://images.ntv.com.tr/images/AA-36274235-699329.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T05:59:34+00:00",
+   "url": "/haber/15-bin-ogretmen-atamasi-ne-zaman-brans-dagilimi-belli-oldu-mu-2026-meb-bfeea076/"
+  },
+  {
+   "id": "15c3163c",
+   "title": "Nvidia, SSD sorununu “GeForce Game Ready Driver 621.40” ile çözdü",
+   "summary": "Nvidia, kullanıcıların bildirdiği SSD sorununu çözmek için geçtiğimiz günlerde GeForce Hotfix Driver 621.35 güncellemesini yayınlamıştı. Daha sonra yapılan testler ise bu güncellemenin arka planda “nvlog.nvlgstg”…",
+   "link": "https://www.log.com.tr/nvidia-ssd-sorununu-geforce-game-ready-driver-621-40-ile-cozdu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2025/09/nvidia-7-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-25T05:53:41+00:00",
+   "url": "/haber/nvidia-ssd-sorununu-geforce-game-ready-driver-621-40-ile-cozdu-15c3163c/"
+  },
+  {
+   "id": "44cdb95f",
+   "title": "Ulaştırma ve Altyapı Bakanı Uraloğlu’ndan yeni HGS açıklaması geldi",
+   "summary": "TBMM Plan ve Bütçe Komisyonunda milletvekillerinin sorularını yanıtlayan Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, HGS geçişlerinde usulsüz tahsil edilen tutarlara ilişkin olarak, “Usulüne uygun yapılmamış bütün…",
+   "link": "https://www.log.com.tr/ulastirma-ve-altyapi-bakani-uraloglundan-yeni-hgs-aciklamasi-geldi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2024/08/bakan-uraloglu-baska-platformlarin-kapatilmasiyla-ilgili-bir-surec-yok-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-25T05:48:37+00:00",
+   "url": "/haber/ulastirma-ve-altyapi-bakani-uraloglu-ndan-yeni-hgs-aciklamasi-geldi-44cdb95f/"
+  },
+  {
+   "id": "879fbdad",
+   "title": "Sıcaklık 12 derece birden düştü. 20 il için kar ve fırtına uyarısı",
+   "summary": "Yurt genelinde hava sıcaklıkları 12 derece birden düştü. Bugün, karayelle birlikte dondurucu soğuklar etkili olacak. 20 il için de sarı kodlu kar ve fırtına uyarı yapıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sicaklik-12-derece-birden-dustu-20-il-icin-kar-ve-firtina-uyarisi-1752471",
+   "image": "https://images.ntv.com.tr/images/AA-20260119-40304435-40304432-ISTANBULDA_GUN_BATIMI-616681.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T05:46:07+00:00",
+   "url": "/haber/sicaklik-12-derece-birden-dustu-20-il-icin-kar-ve-firtina-uyarisi-879fbdad/"
+  },
+  {
+   "id": "9011c78a",
+   "title": "Otomotiv Sanayii Derneği, Avrupa Birliği’nin Türkiye’ye yönelik getirdiği hibrit otomobil ithalatı kotasına yönelik açıklama yaptı",
+   "summary": "Otomotiv Sanayii Derneği tarafından paylaşılan detaylı açıklama şöyle oldu: “Avrupa Komisyonu, 30 Ekim 2026 tarihinde hibrit otomobil ithalatına yönelik bir korunma tedbiri soruşturması başlatmıştı. Bu kapsamda AB Resmi…",
+   "link": "https://www.log.com.tr/otomotiv-sanayii-dernegi-avrupa-birliginin-turkiyeye-yonelik-getirdigi-hibrit-otomobil-ithalati-kotasina-yonelik-aciklama-yapti/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-25_08-40-11_DoQLh-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-25T05:44:37+00:00",
+   "url": "/haber/otomotiv-sanayii-dernegi-avrupa-birligi-nin-turkiye-ye-yonelik-getirdi-9011c78a/"
+  },
   {
    "id": "b08da422",
    "title": "Dell'in geliri yapay zeka ile ikiye katlandı",
@@ -13,28 +79,6 @@
    "url": "/haber/dell-in-geliri-yapay-zeka-ile-ikiye-katlandi-b08da422/"
   },
   {
-   "id": "a3fbc6aa",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-kasim-2026-1752436",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T05:30:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a3fbc6aa/"
-  },
-  {
-   "id": "8864aa4a",
-   "title": "Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu",
-   "summary": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 asker şehit oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
-   "image": "https://images.ntv.com.tr/images/AW839419_02-870255.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T05:26:51+00:00",
-   "url": "/haber/eskisehir-de-askeri-helikopter-dustu-5-asker-sehit-oldu-8864aa4a/"
-  },
-  {
    "id": "3713f170",
    "title": "Ünlülere yeni uyuşturucu operasyonu: Özcan Deniz, Deniz Çakır ve Burcu Özberk gözaltında",
    "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu soruşturmasımda 35 kişi hakkında gözaltı kararı verildi. Gözaltına alınanlar arasında Özcan Deniz ve Deniz Çakır da var.",
@@ -44,6 +88,17 @@
    "category": "gundem",
    "date": "2026-11-25T05:24:50+00:00",
    "url": "/haber/unlulere-yeni-uyusturucu-operasyonu-ozcan-deniz-deniz-cakir-ve-burcu-o-3713f170/"
+  },
+  {
+   "id": "72e576f6",
+   "title": "İran: Hürmüz Boğazı'nda iki petrol tankeri deniz mayınına çarparak alev aldı",
+   "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın doğusunda \"izinsiz güzergahı\" kullanan iki petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-iki-petrol-tankeri-deniz-mayinina-carparak-alev-aldi/4136584",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T05:23:42+00:00",
+   "url": "/haber/iran-hurmuz-bogazi-nda-iki-petrol-tankeri-deniz-mayinina-carparak-alev-72e576f6/"
   },
   {
    "id": "188b9750",
@@ -431,17 +486,6 @@
    "url": "/haber/microsoft-un-24-saatlik-krizinin-perde-arkasi-ortaya-cikti-72fe66f6/"
   },
   {
-   "id": "ea374106",
-   "title": "Bakan Uraloğlu: Kara yollarında cezasız esasında ödeme yüzde 88 iken özel otoyollarda yüzde 97",
-   "summary": "Bakan Uraloğlu, \"Kara yollarında cezasız esasında ödeme yüzde 88 iken özel otoyollarda yüzde 97. Burada cezai yaptırımlar biraz ağır olduğu için ödeme istekliliği daha fazla. Yaklaşık 2,2 milyon geçiş de takibe alınmış…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-kara-yollarinda-cezasiz-esasinda-odeme-yuzde-88-iken-ozel-otoyollarda-yuzde-97/4136424",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-24T20:16:27+00:00",
-   "url": "/haber/bakan-uraloglu-kara-yollarinda-cezasiz-esasinda-odeme-yuzde-88-iken-oz-ea374106/"
-  },
-  {
    "id": "e39d02d0",
    "title": "Huawei Watch Air incecik gövdesiyle geliyor",
    "summary": "Huawei Watch Air akıllı saat modelinde 1.92 inçlik AMOLED ekran, 6.9mm kalınlık, 5 güne kadar kullanım süresi, gelişmiş yapay zekâ sağlık taraması gibi özellikler yer alıyor.",
@@ -605,17 +649,6 @@
    "category": "teknoloji",
    "date": "2026-11-24T18:07:09+00:00",
    "url": "/haber/cyberpunk-2-iptal-edilmedi-direktor-saka-yapti-5b312d65/"
-  },
-  {
-   "id": "df85cd0d",
-   "title": "Cumhurbaşkanı Erdoğan: 15 bin öğretmen alım duyurusu bu hafta içerisinde açıklanacak",
-   "summary": "Cumhurbaşkanı Erdoğan, \"2026 Akademi Giriş Sınavı sonuçlarına göre 15 bin öğretmen alım duyurusu ve branş dağılımı Milli Eğitim Bakanlığımız tarafından bu hafta içerisinde açıklanacak.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-15-bin-ogretmen-alim-duyurusu-bu-hafta-icerisinde-aciklanacak-1752425",
-   "image": "https://images.ntv.com.tr/images/AA-20261124-43170573-43170564-CUMHURBASKANI_ERDOGAN_OGRETMENE_SAYGI_GECESI_PROGRAMINDA_KONUSTU-742144.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-24T18:05:49+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-15-bin-ogretmen-alim-duyurusu-bu-hafta-icerisind-df85cd0d/"
   },
   {
    "id": "a6f3617b",
@@ -1135,28 +1168,6 @@
    "url": "/haber/iran-hurmuz-de-2-petrol-tankerinde-yangin-cikti-bc2d45af/"
   },
   {
-   "id": "cd8e9abb",
-   "title": "Digital Foundry, DLSS’ten daha iyi kalite ve performans sunduğu iddia edilen Apex Neural Rendering’i test etti",
-   "summary": "Apex Compute, geçtiğimiz hafta DLSS’ten daha iyi kalite ve performans sunduğunu öne sürdüğü Apex Neural Rendering (ANR) teknolojisini duyurmuştu. GeForce GTX 16, RTX 20, 30, 40 ve 50 serisi, Radeon RX 5000, 6000, 7000…",
-   "link": "https://www.log.com.tr/digital-foundry-dlssten-daha-iyi-kalite-ve-performans-sundugu-iddia-edilen-apex-neural-renderingi-test-etti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-24_11-32-49_e4Ilo-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-24T08:41:28+00:00",
-   "url": "/haber/digital-foundry-dlss-ten-daha-iyi-kalite-ve-performans-sundugu-iddia-e-cd8e9abb/"
-  },
-  {
-   "id": "c5a54522",
-   "title": "X, “Sana Özel” bölümüne görünen içerikleri geri al butonu ekleyecek",
-   "summary": "Elon Musk’ın sahibi olduğu X (eski adıyla Twitter), algoritmaya dayalı “Sana Özel” bölümüne kullanıcıları memnun edecek bir geri al butonu eklemek için çalışıyor. Uzun süredir talep edilen bu buton, sayfa yenilendiğinde…",
-   "link": "https://www.log.com.tr/x-sana-ozel-bolumune-gorunen-icerikleri-geri-al-butonu-ekleyecek/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2023/12/x-twitter-baglantilara-basliklari-geri-getirecek-copy-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-24T08:30:15+00:00",
-   "url": "/haber/x-sana-ozel-bolumune-gorunen-icerikleri-geri-al-butonu-ekleyecek-c5a54522/"
-  },
-  {
    "id": "965661d0",
    "title": "Kırmızı bültenle ve ulusal seviyede aranan 44 suçlu Türkiyeye getirildi",
    "summary": "İçişleri Bakanlığı, çeşitli suçlardan aranan ve 9 ülkede yakalanan 44 kişinin Türkiye'ye iadesinin sağlandığını duyurdu.",
@@ -1166,17 +1177,6 @@
    "category": "gundem",
    "date": "2026-11-24T08:26:00+00:00",
    "url": "/haber/kirmizi-bultenle-ve-ulusal-seviyede-aranan-44-suclu-turkiyeye-getirild-965661d0/"
-  },
-  {
-   "id": "c1fdb748",
-   "title": "OpenAI, Dot’u ChatGPT Plus abonelerine ve Avrupa’ya açmaya başladı",
-   "summary": "ChatGPT’yi geliştiren OpenAI, Dot’u bugün itibarıyla ChatGPT Plus abonelerine ve Avrupa’ya açmaya başladı. Türkiye’de de kullanılabilen sistem için kademeli bir genişleme gerçekleştiren OpenAI, bu “ajan” altyapısını…",
-   "link": "https://www.log.com.tr/openai-dotu-chatgpt-plus-abonelerine-ve-avrupaya-acmaya-basladi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-24_11-21-02_IXkIp-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-24T08:22:30+00:00",
-   "url": "/haber/openai-dot-u-chatgpt-plus-abonelerine-ve-avrupa-ya-acmaya-basladi-c1fdb748/"
   },
   {
    "id": "312acc25",
