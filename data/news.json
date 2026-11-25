@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:30:54.457582+00:00",
+ "updated": "2026-11-25T03:01:06.450675+00:00",
  "items": [
   {
    "id": "a3fbc6aa",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-25T02:00:00+00:00",
+   "date": "2026-11-25T03:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a3fbc6aa/"
+  },
+  {
+   "id": "8864aa4a",
+   "title": "Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu",
+   "summary": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 asker şehit oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
+   "image": "https://images.ntv.com.tr/images/AW839419_02-870255.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T02:33:55+00:00",
+   "url": "/haber/eskisehir-de-askeri-helikopter-dustu-5-asker-sehit-oldu-8864aa4a/"
   },
   {
    "id": "05686ff7",
@@ -44,17 +55,6 @@
    "category": "gundem",
    "date": "2026-11-24T23:58:04+00:00",
    "url": "/haber/unlulere-yeni-uyusturucu-operasyonu-ozcan-deniz-deniz-cakir-ve-burcu-o-3713f170/"
-  },
-  {
-   "id": "8864aa4a",
-   "title": "Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu",
-   "summary": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 asker şehit oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
-   "image": "https://images.ntv.com.tr/images/AW839419_02-870255.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-24T23:52:48+00:00",
-   "url": "/haber/eskisehir-de-askeri-helikopter-dustu-5-asker-sehit-oldu-8864aa4a/"
   },
   {
    "id": "7a502a3f",
