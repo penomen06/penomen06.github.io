@@ -1,6 +1,204 @@
 {
- "updated": "2026-11-25T15:30:54.614480+00:00",
+ "updated": "2026-11-25T16:30:58.542741+00:00",
  "items": [
+  {
+   "id": "1fb7bef4",
+   "title": "Robot köpekler daha da akıllanıyor",
+   "summary": "UNI-DOGGIE robot köpek standart asistan fonksiyonlarının yanı sıra dans, zıplama, kalp hareketleri gibi yetenekleriyle evinizi daha eğlenceli hale getiriyor.",
+   "link": "https://www.donanimhaber.com/uni-doggie-tanitildi-iste-ozellikleri-ve-fiyati--213388",
+   "image": "https://www.donanimhaber.com/images/images/haber/213388/1200x675uni-doggie-tanitildi-iste-ozellikleri-ve-fiyati.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T16:30:00+00:00",
+   "url": "/haber/robot-kopekler-daha-da-akillaniyor-1fb7bef4/"
+  },
+  {
+   "id": "2ec2eba5",
+   "title": "Todoist veri ihlali: hesapların %6'sı etkilendi",
+   "summary": "Görev yönetimi uygulaması Todoist, çalınan bir geliştirici kimlik bilgisiyle sistemlerine giren saldırganın kullanıcıların yaklaşık %6'sına ait e-posta adreslerini ve eski yöntemle saklanan parola özetlerini indirdiğini…",
+   "link": "https://shiftdelete.net/todoist-veri-ihlali-kullanicilarin-yuzde-6si",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/todoist-uygulama-arayuzu-kapak-2511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-25T16:27:22+00:00",
+   "url": "/haber/todoist-veri-ihlali-hesaplarin-6-si-etkilendi-2ec2eba5/"
+  },
+  {
+   "id": "88aee089",
+   "title": "HSK'nin mazeret kararnamesiyle 957 hakim ve savcının görev yeri değişti",
+   "summary": "Hakimler ve Savcılar Kurulu'nun (HSK) yeni kararnamesiyle 915 hakim ve savcının görev yeri değiştirildi.",
+   "link": "https://www.ntv.com.tr/turkiye/hskdan-yeni-kararname-915-hakim-ve-savcinin-gorev-yeri-degisti-1752573",
+   "image": "https://images.ntv.com.tr/images/mainart-son-dakika-haber-520714.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T16:26:42+00:00",
+   "url": "/haber/hsk-nin-mazeret-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degist-88aee089/"
+  },
+  {
+   "id": "9326ae47",
+   "title": "ABD yönetimi, kapasite fazlası gerekçesiyle 14 ekonomiye ek tarife önerdi",
+   "summary": "ABD yönetimi, imalat sektörlerinde yapısal kapasite fazlası ve üretime ilişkin politikaları nedeniyle Çin ve Avrupa Birliği'nin (AB) de aralarında bulunduğu 14 ekonomiye yönelik ek gümrük vergileri getirilmesini önerdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abd-yonetimi-kapasite-fazlasi-gerekcesiyle-14-ekonomiye-ek-tarife-onerdi/4137787",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T16:23:35+00:00",
+   "url": "/haber/abd-yonetimi-kapasite-fazlasi-gerekcesiyle-14-ekonomiye-ek-tarife-oner-9326ae47/"
+  },
+  {
+   "id": "562fb1a5",
+   "title": "İlkokullarda Yetiştirme Programı Yönergesi yayımlandı",
+   "summary": "Milli Eğitim Bakanlığınca (MEB) İlkokullarda Yetiştirme Programı (İYEP) kapsamında hazırlanan yönerge yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ilkokullarda-yetistirme-programi-yonergesi-yayimlandi/4137784",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T16:19:24+00:00",
+   "url": "/haber/ilkokullarda-yetistirme-programi-yonergesi-yayimlandi-562fb1a5/"
+  },
+  {
+   "id": "d3f5bae0",
+   "title": "HSK'nin mazeret kararnamesiyle 957 hakim ve savcının görev yeri değişti",
+   "summary": "Hakimler ve Savcılar Kurulunun (HSK), mazeret kararnamesiyle 957 hakim ve Cumhuriyet savcısının görev yeri değiştirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/hsknin-mazeret-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti/4137782",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T16:17:51+00:00",
+   "url": "/haber/hsk-nin-mazeret-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degist-d3f5bae0/"
+  },
+  {
+   "id": "ea80b06d",
+   "title": "Özgür Özel yeni MYK'sını belirledi: Hangi tercihler öne çıktı?",
+   "summary": "Yeni Parti Genel Başkanı Özgür Özel, CHP Genel Başkanlığı dönemindeki geniş Merkez Yönetim Kurulu (MYK) yapılanmasını Yeni Parti'ye de taşıdı.",
+   "link": "https://www.bbc.com/turkce/articles/cmrlg02zkp6xo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/618b/live/bf143580-e8ea-11f1-8808-1d4222955d7e.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-25T16:14:41+00:00",
+   "url": "/haber/ozgur-ozel-yeni-myk-sini-belirledi-hangi-tercihler-one-cikti-ea80b06d/"
+  },
+  {
+   "id": "50c3fa71",
+   "title": "Dışişleri'nden Husilerin Riyad'a yönelik saldırısına kınama",
+   "summary": "Dışişleri Bakanlığı, Husilerin Suudi Arabistan'ın başkenti Riyad'daki Kral Abdullah Finans Merkezi'ne yönelik saldırısını kınadı.",
+   "link": "https://www.ntv.com.tr/turkiye/disislerinden-husilerin-riyada-yonelik-saldirisina-kinama-1752570",
+   "image": "https://images.ntv.com.tr/images/DışişleriBakanlığı-120292(9).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T16:05:21+00:00",
+   "url": "/haber/disisleri-nden-husilerin-riyad-a-yonelik-saldirisina-kinama-50c3fa71/"
+  },
+  {
+   "id": "c286172a",
+   "title": "Huang etkisi kısa sürdü, hisseler yeniden çakıldı",
+   "summary": "Yıllardır soluksuz yükselen yapay zekâ ile ilişkili şirket hisseleri tepetaklak oldu. Önce Nvidia krizi şimdi de Anthropic çöküşü soru işaretlerini yeniden gündeme taşıdı.",
+   "link": "https://www.donanimhaber.com/yapay-zek-sektorunde-endiseler--213374",
+   "image": "https://www.donanimhaber.com/images/images/haber/213374/1200x675yapay-zek-sektorunde-endiseler.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T16:00:00+00:00",
+   "url": "/haber/huang-etkisi-kisa-surdu-hisseler-yeniden-cakildi-c286172a/"
+  },
+  {
+   "id": "68f01b1d",
+   "title": "Dışişleri Bakanlığı, Husilerin Riyad'daki Finans Merkezi'ne düzenlediği saldırıyı kınadı",
+   "summary": "Dışişleri Bakanlığı, Yemen'deki İran destekli Husilerin Suudi Arabistan'ın başkenti Riyad'daki Finans Merkezi'ne düzenlediği saldırıyı en güçlü şekilde kınadı.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-husilerin-riyaddaki-finans-merkezine-duzenledigi-saldiriyi-kinadi/4137757",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T15:58:00+00:00",
+   "url": "/haber/disisleri-bakanligi-husilerin-riyad-daki-finans-merkezi-ne-duzenledigi-68f01b1d/"
+  },
+  {
+   "id": "af4c3592",
+   "title": "Polonya: Rus füzelerinin Ukrayna'da vurulması için NATO'da yeterli kararlılık bulunmuyor",
+   "summary": "Polonya Başbakan Yardımcısı ve Milli Savunma Bakanı Wladyslaw Kosiniak-Kamysz, Batılı ülkelerin Ukrayna'ya sağladığı askeri desteğin önemine dikkati çekerek, bu destek olmadan Ukrayna'nın ayakta kalamayacağını kaydetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/polonya-rus-fuzelerinin-ukraynada-vurulmasi-icin-natoda-yeterli-kararlilik-bulunmuyor/4137753",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T15:53:26+00:00",
+   "url": "/haber/polonya-rus-fuzelerinin-ukrayna-da-vurulmasi-icin-nato-da-yeterli-kara-af4c3592/"
+  },
+  {
+   "id": "9c4ce9d7",
+   "title": "Honor, OPPO ve iPhone'a dokunarak dosya atıyor",
+   "summary": "Honor'un dokunarak dosya gönderme özelliği artık OPPO, vivo, Xiaomi ve Apple cihazlarına fotoğrafları orijinal kalitesinde aktarabiliyor. Android tarafında ek uygulama gerekmezken iPhone'da Honor Connect uygulaması şart.",
+   "link": "https://shiftdelete.net/honor-dokunarak-paylasim-oppo-vivo-xiaomi-iphone",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/honor-magic9-pro-max-kapak-2511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-25T15:52:01+00:00",
+   "url": "/haber/honor-oppo-ve-iphone-a-dokunarak-dosya-atiyor-9c4ce9d7/"
+  },
+  {
+   "id": "cdd09f3e",
+   "title": "25 Kasım'da birçok ilde kadınlar sokağa çıkıyor",
+   "summary": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Türkiye'nin çeşitli kentlerinde yürüyüş ve basın açıklamaları düzenlenecek. İstanbul'da Tünel'deki buluşma nedeniyle Beyoğlu'nda bazı yollar…",
+   "link": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4525/live/dbe7d300-e8af-11f1-869a-f96fd5660210.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-25T15:48:37+00:00",
+   "url": "/haber/25-kasim-da-bircok-ilde-kadinlar-sokaga-cikiyor-cdd09f3e/"
+  },
+  {
+   "id": "139ccd05",
+   "title": "İran'da, enerji sıkıntısının aşılması için hanelere tüketimi yüzde 20 azaltma çağrısı yapıldı",
+   "summary": "İran İçişleri Bakanı İskender Mumini, ülkede yaşanan enerji sıkıntısının aşılması için evlerde enerji tüketiminin yüzde 20 azaltılması gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iranda-enerji-sikintisinin-asilmasi-icin-hanelere-tuketimi-yuzde-20-azaltma-cagrisi-yapildi/4137742",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T15:40:54+00:00",
+   "url": "/haber/iran-da-enerji-sikintisinin-asilmasi-icin-hanelere-tuketimi-yuzde-20-a-139ccd05/"
+  },
+  {
+   "id": "5f66fd35",
+   "title": "İngiltere Merkez Bankası, enerji fiyatlarına bağlı daha düşük enflasyon zirvesi bekliyor",
+   "summary": "İngiltere Merkez Bankası Başkanı Andrew Bailey, \"Fiyatlar mevcut seviyelerinde kalırsa enflasyonun zirvesi daha düşük olur.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-merkez-bankasi-enerji-fiyatlarina-bagli-daha-dusuk-enflasyon-zirvesi-bekliyor/4137741",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T15:40:27+00:00",
+   "url": "/haber/ingiltere-merkez-bankasi-enerji-fiyatlarina-bagli-daha-dusuk-enflasyon-5f66fd35/"
+  },
+  {
+   "id": "a4b289fa",
+   "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda LNG taşıyan gemi deniz mayınına çarparak alev aldı",
+   "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda konum belirleme sistemlerini kapatarak geçiş yaptığı öne sürülen sıvılaştırılmış doğal gaz (LNG) taşıyan bir geminin deniz mayınına çarparak alev aldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-lng-tasiyan-gemi-deniz-mayinina-carparak-alev-aldi/4137739",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T15:38:14+00:00",
+   "url": "/haber/iran-devrim-muhafizlari-hurmuz-bogazi-nda-lng-tasiyan-gemi-deniz-mayin-a4b289fa/"
+  },
+  {
+   "id": "6e6455d7",
+   "title": "İstanbul Ticaret Üniversitesi Yayınları yeni döneminde \"3T\" mottosuyla eserler yayınlıyor",
+   "summary": "İstanbul Ticaret Üniversitesi Yayınları üniversitenin kuruluşunun 25. yılında tefekkür, teknoloji ve ticaret (3T) mottosuyla yeni yayın programı hazırladı.",
+   "link": "https://www.aa.com.tr/tr/kultur/istanbul-ticaret-universitesi-yayinlari-yeni-doneminde-3t-mottosuyla-eserler-yayinliyor/4137736",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T15:35:03+00:00",
+   "url": "/haber/istanbul-ticaret-universitesi-yayinlari-yeni-doneminde-3t-mottosuyla-e-6e6455d7/"
+  },
+  {
+   "id": "0b8ad1a2",
+   "title": "Efsane Audi TT'nin elektrikli halefi geliyor: Böyle görünebilir",
+   "summary": "Audi, 2027'de tanıtılması beklenen tamamen elektrikli spor otomobiliyle efsanevi TT modelini yeniden canlandırmayı hedefliyor. Araç, Radical Next tasarım dilini seri üretime taşıyan ilk model olacak.",
+   "link": "https://www.donanimhaber.com/efsane-audi-tt-nin-elektrikli-halefi-geliyor-boyle-gorunebilir--213387",
+   "image": "https://www.donanimhaber.com/images/images/haber/213387/1200x675efsane-audi-tt-nin-elektrikli-halefi-geliyor-boyle-gorunebilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T15:32:00+00:00",
+   "url": "/haber/efsane-audi-tt-nin-elektrikli-halefi-geliyor-boyle-gorunebilir-0b8ad1a2/"
+  },
   {
    "id": "72dda4c4",
    "title": "Borsa günü düşüşle tamamladı",
@@ -134,17 +332,6 @@
    "url": "/haber/bmw-ler-abd-de-kirmizi-isikta-kendi-duracak-97271331/"
   },
   {
-   "id": "36cb87b0",
-   "title": "Almanya'da KRV polisi, ABD'li Palantir yerine yerli yazılım kullanacak",
-   "summary": "Almanya'nın en kalabalık eyaleti Kuzey Ren-Vestfalya (KRV), polis teşkilatının veri analiz sistemlerinde ABD merkezli veri analizi ve yazılım şirketi Palantir'in yerine Alman yazılım firması Celonis'i kullanma kararı…",
-   "link": "https://www.aa.com.tr/tr/dunya/almanyada-krv-polisi-abdli-palantir-yerine-yerli-yazilim-kullanacak/4137681",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T14:37:40+00:00",
-   "url": "/haber/almanya-da-krv-polisi-abd-li-palantir-yerine-yerli-yazilim-kullanacak-36cb87b0/"
-  },
-  {
    "id": "12473ced",
    "title": "En İyi eSIM Uygulamaları",
    "summary": "En iyi eSIM uygulamaları hangileri? Yurt dışında internet kullanmak için en uygun seçeneği keşfedin!",
@@ -154,17 +341,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T14:36:59+00:00",
    "url": "/haber/en-iyi-esim-uygulamalari-12473ced/"
-  },
-  {
-   "id": "2afd3341",
-   "title": "Rusya: Avrupa'nın Ukrayna konulu müzakerelerde üstleneceği rolü anlamak istiyoruz",
-   "summary": "Rusya Dışişleri Bakanı Sergey Lavrov, \"Avrupalı temsilcilerden ya yanımıza gelerek ya da başka bir yolla kendi tutumlarını açıklamalarını istedik.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-avrupanin-ukrayna-konulu-muzakerelerde-ustlenecegi-rolu-anlamak-istiyoruz/4137676",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T14:34:34+00:00",
-   "url": "/haber/rusya-avrupa-nin-ukrayna-konulu-muzakerelerde-ustlenecegi-rolu-anlamak-2afd3341/"
   },
   {
    "id": "3d322a87",
@@ -182,22 +358,11 @@
    "title": "Libya ordusu komutanı Halife Hafter'in Türkiye ziyareti neden önemli?",
    "summary": "Libya Ulusal Ordusu Genel Komutanı Halife Hafter ve üç oğlunun 24-25 Kasım'da Ankara'ya yaptıkları ziyaret, Türkiye'nin Trablus yönetiminin ardından Bingazi'deki lider kadrosuyla da ilişkilerini güçlendirdiğini…",
    "link": "https://www.bbc.com/turkce/articles/c6dj1xey8e81o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/593f/live/c2f807c0-e8dc-11f1-a094-5fdc692f3e33.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f12/live/bf6705e0-e8e9-11f1-8808-1d4222955d7e.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-25T14:31:37+00:00",
    "url": "/haber/libya-ordusu-komutani-halife-hafter-in-turkiye-ziyareti-neden-onemli-1591f6db/"
-  },
-  {
-   "id": "8c92493d",
-   "title": "İsrail, hapishanelerdeki ihlalleri anlatan Filistinli gazeteciyi Mayıs 2027'ye kadar suçlamasız cezaevinde tutacak",
-   "summary": "Gazetecileri Koruma Komitesi (CPJ), Samer Huveyra'nın gözaltına alınmasını kınayarak İsrail'e tutuklu Filistinli gazetecileri serbest bırakması yönündeki çağrısını yineledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-hapishanelerdeki-ihlalleri-anlatan-filistinli-gazeteciyi-mayis-2027ye-kadar-suclamasiz-cezaevinde-tutacak/4137668",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T14:29:49+00:00",
-   "url": "/haber/israil-hapishanelerdeki-ihlalleri-anlatan-filistinli-gazeteciyi-mayis-8c92493d/"
   },
   {
    "id": "49aaf355",
@@ -211,28 +376,6 @@
    "url": "/haber/yapay-zeka-veri-merkezleri-icin-1-000-derecelik-enerji-depolama-49aaf355/"
   },
   {
-   "id": "f6a7a7c3",
-   "title": "İstanbul Photo Awards 2026'nın üçüncü sergisi Washington'da açıldı",
-   "summary": "Anadolu Ajansının (AA) düzenlediği İstanbul Photo Awards 2026'nın üçüncü sergisi, ABD'nin başkenti Washington'da düzenlenen galayla açıldı.",
-   "link": "https://www.aa.com.tr/tr/kultur/istanbul-photo-awards-2026nin-ucuncu-sergisi-washingtonda-acildi/4137656",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T14:23:21+00:00",
-   "url": "/haber/istanbul-photo-awards-2026-nin-ucuncu-sergisi-washington-da-acildi-f6a7a7c3/"
-  },
-  {
-   "id": "01040346",
-   "title": "MHP'de izleme komisyonu üyeleri belli oldu",
-   "summary": "MHP, Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun kapsamında TBMM'de kurulacak \"izleme komisyonu\"na, Genel Başkan Yardımcısı Feti Yıldız ile Sakarya Milletvekili Muhammed Levent Bülbül'ü…",
-   "link": "https://www.aa.com.tr/tr/gundem/mhpde-izleme-komisyonu-uyeleri-belli-oldu/4137653",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T14:21:50+00:00",
-   "url": "/haber/mhp-de-izleme-komisyonu-uyeleri-belli-oldu-01040346/"
-  },
-  {
    "id": "cb223f7a",
    "title": "Cumhurbaşkanı Erdoğan, Libya Ulusal Ordusu Genel Komutanı Hafter'i kabul etti",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Libya'nın doğusundaki güçlerin lideri Halife Hafter ile Ankara'da bir araya geldi.",
@@ -242,28 +385,6 @@
    "category": "gundem",
    "date": "2026-11-25T14:18:35+00:00",
    "url": "/haber/cumhurbaskani-erdogan-libya-ulusal-ordusu-genel-komutani-hafter-i-kabu-cb223f7a/"
-  },
-  {
-   "id": "20f99286",
-   "title": "Zeytinyağı fabrikalarındaki yoğunluk nedeniyle üreticilere \"hasada ara verin\" çağrısı",
-   "summary": "Zeytin üretiminde önde gelen Manisa'da zeytin sıkım tesislerinde yoğunluk nedeniyle üreticilere hasada birkaç gün ara vermeleri çağrısında bulunuldu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/zeytinyagi-fabrikalarindaki-yogunluk-nedeniyle-ureticilere-hasada-ara-verin-cagrisi-/4137643",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T14:16:04+00:00",
-   "url": "/haber/zeytinyagi-fabrikalarindaki-yogunluk-nedeniyle-ureticilere-hasada-ara-20f99286/"
-  },
-  {
-   "id": "425dc9a0",
-   "title": "Gazze'deki Eğitim Bakanlığı: İsrail, kasım ayı başından bu yana 16 çocuk ve öğrenciyi öldürdü",
-   "summary": "İsrail ordusunun Gazze kentinin batısındaki bir eve düzenlediği saldırıda 2 kız kardeşin hayatını kaybetmesiyle, kasım ayı başından bu yana öldürülen çocuk ve öğrenci sayısının 16'ya yükseldiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-egitim-bakanligi-israil-kasim-ayi-basindan-bu-yana-16-cocuk-ve-ogrenciyi-oldurdu/4137638",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T14:13:25+00:00",
-   "url": "/haber/gazze-deki-egitim-bakanligi-israil-kasim-ayi-basindan-bu-yana-16-cocuk-425dc9a0/"
   },
   {
    "id": "c54336eb",
@@ -321,17 +442,6 @@
    "url": "/haber/apple-test-icin-hazirlanan-macos-isletim-sistemli-ipad-lere-sahip-7694bef8/"
   },
   {
-   "id": "321be5a8",
-   "title": "Mossad'ın eski başkanı Barnea, Almanya Federal Meclisinde protesto edildi",
-   "summary": "Musevi kökenli Filistin destekçisi Vidal Serfaty, Barnea'ya hitaben \"Savaş suçlususun, binlerce kadın ve çocuğun ölümünden sorumlusun, Almanya'dan defol\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/mossadin-eski-baskani-barnea-almanya-federal-meclisinde-protesto-edildi/4137592",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T13:43:31+00:00",
-   "url": "/haber/mossad-in-eski-baskani-barnea-almanya-federal-meclisinde-protesto-edil-321be5a8/"
-  },
-  {
    "id": "2294f697",
    "title": "5 dolarlık Raspberry Pi ile Nvidia ekran kartının 80 GB belleği açıldı",
    "summary": "Bir donanım araştırmacısı, 5 dolarlık Raspberry Pi Pico 2 kullanarak Nvidia CMP 170HX ekran kartının bellek kapasitesini 8 GB'tan 80 GB'a çıkardı. İşte detaylar...",
@@ -363,17 +473,6 @@
    "category": "gundem",
    "date": "2026-11-25T13:34:46+00:00",
    "url": "/haber/ingiltere-de-gencler-ve-yetiskinlere-cinsellik-arastirmasi-ne-sonuclar-a345988f/"
-  },
-  {
-   "id": "cdd09f3e",
-   "title": "25 Kasım'da kadınlar sokağa çıkıyor: '10 ayda 245 kadın öldürüldü, 274 kadının ölümü şüpheli'",
-   "summary": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Türkiye'nin çeşitli kentlerinde yürüyüş ve basın açıklamaları düzenlenecek. İstanbul'da Tünel'deki buluşma nedeniyle Beyoğlu'nda bazı yollar…",
-   "link": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4525/live/dbe7d300-e8af-11f1-869a-f96fd5660210.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-25T13:32:58+00:00",
-   "url": "/haber/25-kasim-da-kadinlar-sokaga-cikiyor-10-ayda-245-kadin-olduruldu-274-ka-cdd09f3e/"
   },
   {
    "id": "70a9fce2",
@@ -464,17 +563,6 @@
    "url": "/haber/uc-ekranli-laptop-huawei-matebook-fold-s-tanitildi-2be56e3f/"
   },
   {
-   "id": "b0e1bb7e",
-   "title": "60 saniyede ekonomide bugün (25 Kasım 2026)",
-   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-25-kasim-2026/4137526",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T13:01:19+00:00",
-   "url": "/haber/60-saniyede-ekonomide-bugun-25-kasim-2026-b0e1bb7e/"
-  },
-  {
    "id": "3450e65f",
    "title": "60 saniyede bugün (25 Kasım 2026)",
    "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
@@ -495,6 +583,17 @@
    "category": "teknoloji",
    "date": "2026-11-25T12:58:46+00:00",
    "url": "/haber/rockstar-games-iddiaya-gore-red-dead-redemption-merkezli-bir-dizi-ya-d-e7d16b9d/"
+  },
+  {
+   "id": "c0815d76",
+   "title": "Fenerbahçe, Londra'da Shakhtar Donetsk deplasmanına çıkıyor",
+   "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki beşinci hafta maçında bu akşam Ukrayna'nın Shaktar Donetsk takımıyla karşılaşacak",
+   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f04/live/cc6ad220-e8ea-11f1-8808-1d4222955d7e.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-25T12:51:48+00:00",
+   "url": "/haber/fenerbahce-londra-da-shakhtar-donetsk-deplasmanina-cikiyor-c0815d76/"
   },
   {
    "id": "83974630",
@@ -622,7 +721,7 @@
    "title": "Irak başbakanının petrol sahaları kararı sonrası Erbil-Bağdat gerilimi",
    "summary": "Irak'ta Bağdat yönetiminin petrol kaçakçılığını önleme amacıyla Irak Kürdistan Bölgesel Yönetimi (IKBY) denetimindeki sınır kapıları ve bazı petrol sahalarını kontrolüne alacağını açıklaması, Erbil yönetimi ile…",
    "link": "https://www.bbc.com/turkce/articles/cmzx9wg64dxlo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d5fb/live/22a91890-e8c3-11f1-99a1-253766e7ad8b.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eff4/live/d08e3280-e8e9-11f1-8808-1d4222955d7e.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-25T12:09:19+00:00",
@@ -706,17 +805,6 @@
    "url": "/haber/en-iyi-uydu-alicisi-markalari-2026-e71042c0/"
   },
   {
-   "id": "4ed8faf0",
-   "title": "AB, İngiltere’yi Made in Europe kapsamına alıyor: Türkiye yine dışarıda",
-   "summary": "AB, İngiltere'de üretilen otomobilleri Made in Europe kapsamına almaya hazırlanıyor. Japonya ve Güney Kore'ye de kapı aralanırken Türkiye yine Avrupa'nın yeni sanayi planının dışında kalıyor.",
-   "link": "https://www.donanimhaber.com/ab-ingiltere-yi-made-in-europe-kapsamina-aliyor--213357",
-   "image": "https://www.donanimhaber.com/images/images/haber/213357/1200x675ab-ingiltere-yi-made-in-europe-kapsamina-aliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T11:19:00+00:00",
-   "url": "/haber/ab-ingiltere-yi-made-in-europe-kapsamina-aliyor-turkiye-yine-disarida-4ed8faf0/"
-  },
-  {
    "id": "1e5d5386",
    "title": "YouTube, İstediğiniz Zaman Değiştirebileceğiniz Yeni Uygulama İkonları Üzerinde Çalışıyor: İşte Tasarımlar!",
    "summary": "YouTube, uygulama ikonunu değiştirmek isteyenler için yedi seçenek hazırlıyor.",
@@ -761,28 +849,6 @@
    "url": "/haber/isa-aras-mersinli-icin-yeniden-otopsi-istendi-mekanik-bir-robot-gibiyd-124f96eb/"
   },
   {
-   "id": "ea80b06d",
-   "title": "Yeni Parti'de yeni yönetim kadrosu belirlendi",
-   "summary": "Yeni Parti Genel Başkanı Özgür Özel'in başkanlığında 25 Kasım'da yapılan ilk Parti Meclisi toplantısında partinin yeni Merkez Yönetim Kurulu (MYK) üyeleri seçildi.",
-   "link": "https://www.bbc.com/turkce/articles/cmrlg02zkp6xo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/166c/live/b49782c0-e8bc-11f1-a094-5fdc692f3e33.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-25T11:00:21+00:00",
-   "url": "/haber/yeni-parti-de-yeni-yonetim-kadrosu-belirlendi-ea80b06d/"
-  },
-  {
-   "id": "dc3e2a11",
-   "title": "Asya borsalarında yapay zeka paniği: SoftBank yüzde 15 düştü",
-   "summary": "ABD'deki yapay zeka kaynaklı satış dalgası Asya pazarına da sıçradı. SoftBank yüzde 15 düşerken Japon ve Güney Koreli çip üreticilerinde de sert kayıplar yaşandı.",
-   "link": "https://www.donanimhaber.com/asya-borsalarinda-yapay-zeka-panigi-softbank-yuzde-15-dustu--213360",
-   "image": "https://www.donanimhaber.com/images/images/haber/213360/1200x675asya-borsalarinda-yapay-zeka-panigi-softbank-yuzde-15-dustu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T10:58:00+00:00",
-   "url": "/haber/asya-borsalarinda-yapay-zeka-panigi-softbank-yuzde-15-dustu-dc3e2a11/"
-  },
-  {
    "id": "13eeaf40",
    "title": "Turkcell Zekâ Gücü 100. sınıfını Bursa'da açtı",
    "summary": "Turkcell'in Zekâ Gücü Projesi, 10. yılında 100. teknoloji sınıfını Bursa Osmangazi BİLSEM'de açtı ve 13 ilde 13 yeni sınıfı 5G bağlantılı törenle aynı anda hizmete aldı. 10 yılda 1 milyon öğrenciye ulaşan projenin…",
@@ -803,17 +869,6 @@
    "category": "gundem",
    "date": "2026-11-25T10:41:00+00:00",
    "url": "/haber/cumhurbaskani-erdogan-kadina-karsi-siddetle-mucadelenin-sancaktarligin-dbced5e7/"
-  },
-  {
-   "id": "011924bb",
-   "title": "Red Dead Redemption'ın bir film ya da diziye uyarlanması gündemde",
-   "summary": "Rokcstar Games, Red Dead Redemption'ın ekrana uyarlanmasına GTA'dan çok daha sıcak bakıyor. Öyle ki serinin haklarını bir Hollywood stüdyosuna vermek için fiyat belirlenmiş durumda.",
-   "link": "https://www.donanimhaber.com/red-dead-redemption-filmi-cekilebilir--213358",
-   "image": "https://www.donanimhaber.com/images/images/haber/213358/1200x675red-dead-redemption-filmi-cekilebilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T10:37:00+00:00",
-   "url": "/haber/red-dead-redemption-in-bir-film-ya-da-diziye-uyarlanmasi-gundemde-011924bb/"
   },
   {
    "id": "42dc484a",
@@ -849,17 +904,6 @@
    "url": "/haber/zdf-ye-silahli-roportaj-veren-daltonlar-uyelerine-istanbul-da-baskin-b24dec63/"
   },
   {
-   "id": "1a94dc42",
-   "title": "Samsung Display, ams OSRAM'a ortak oluyor",
-   "summary": "Samsung Display, ams OSRAM'ın yaklaşık yüzde 9,1'ini 210 milyon euroya alıyor. İki şirket yeni nesil ultra küçük microLED ekran teknolojisini birlikte geliştirecek.",
-   "link": "https://shiftdelete.net/samsung-display-ams-osram-hisse-microled",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/samsung-microled-ams-osram-kapak-2511.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-25T10:16:10+00:00",
-   "url": "/haber/samsung-display-ams-osram-a-ortak-oluyor-1a94dc42/"
-  },
-  {
    "id": "ae861fda",
    "title": "Threads'in iPad Uygulaması Yayınlandı",
    "summary": "Threads’in iPad uygulaması kullanıma sunuldu.",
@@ -891,17 +935,6 @@
    "category": "gundem",
    "date": "2026-11-25T09:57:57+00:00",
    "url": "/haber/numan-kurtulmus-izleme-komisyonu-19-uyeden-olusacak-23eab508/"
-  },
-  {
-   "id": "88dcf0c6",
-   "title": "OpenAI ve Cisco'dan açık kaynak kalkan: Shirudo",
-   "summary": "OpenAI ve Cisco, yama gelene kadar sunucuları koruyan açık kaynak Shirudo projesini başlattı. Yapay zeka ajanları açığı buluyor, kalkanı yazıp test ediyor ve sistemi yeniden başlatmadan devreye alıyor.",
-   "link": "https://shiftdelete.net/openai-cisco-shirudo-acik-kaynak-guvenlik-kalkani",
-   "image": "https://shiftdelete.net/static/img/content/26-11/25/cisco-openai-shirudo.png",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-25T09:56:22+00:00",
-   "url": "/haber/openai-ve-cisco-dan-acik-kaynak-kalkan-shirudo-88dcf0c6/"
   },
   {
    "id": "d9f49fc6",
@@ -1047,28 +1080,6 @@
    "url": "/haber/cd-projekt-red-the-witcher-4-un-pazarlama-kampanyasi-icin-sony-ile-is-7d6f6e4e/"
   },
   {
-   "id": "ae452a82",
-   "title": "Çelik: Kadına yönelik şiddet toplumun ortak vicdanına saldırıdır",
-   "summary": "AK Parti Sözcüsü Ömer Çelik, kadına karşı şiddetin yalnızca bireye değil, toplumun vicdanına ve ortak değerlere de bir saldırı olduğunu söyledi.",
-   "link": "https://www.ntv.com.tr/turkiye/celik-kadina-yonelik-siddet-toplumun-ortak-vicdanina-saldiridir-1752524",
-   "image": "https://images.ntv.com.tr/images/omer-celik-aa-2127012-618428.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T08:28:21+00:00",
-   "url": "/haber/celik-kadina-yonelik-siddet-toplumun-ortak-vicdanina-saldiridir-ae452a82/"
-  },
-  {
-   "id": "88e761ac",
-   "title": "15 yaşındaki iki çocuk öldürdü, azmettiriciler peşlerini bırakmadı: \"Korkudan şehir değiştirdim\"",
-   "summary": "Adana'da 15 yaşındaki iki katil zanlısı tarafından öldürülen PVC ustası Yusuf Çelik'in eşi azmettiricilerin tehditleri nedeniyle şehir değiştirmek zorunda kaldığını söyledi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-15-yasindaki-iki-cocuk-oldurdu-azmettiriciler-peslerini-birakmadi-korkudan-sehir-degistirdim-1752521",
-   "image": "https://images.ntv.com.tr/images/adana-cinayet-683036.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T08:22:07+00:00",
-   "url": "/haber/15-yasindaki-iki-cocuk-oldurdu-azmettiriciler-peslerini-birakmadi-kork-88e761ac/"
-  },
-  {
    "id": "18ec3888",
    "title": "Hızlı tren ağı genişliyor: 2030'da 18 şehir daha YHT ile buluşacak",
    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye'nin demir yolu altyapısındaki son verileri paylaştı. Hızlı tren hat uzunluğunun 2 bin 604 kilometreye ulaştığını açıklayan Uraloğlu; İzmir, Bursa, Kayseri ve…",
@@ -1144,17 +1155,6 @@
    "category": "gundem",
    "date": "2026-11-25T04:00:00+00:00",
    "url": "/haber/kurtulmus-terorsuz-turkiye-surecinde-izleme-komisyonu-19-uyeden-olusac-bbfc1e45/"
-  },
-  {
-   "id": "c2f429a2",
-   "title": "Eski Fransa Cumhurbaşkanı Sarkozy ve eşi Carla Bruni yargılanacak",
-   "summary": "Eski Fransa cumhurbaşkanı Nicolas Sarkozy ve eşi Carla Bruni-Sarkozy, dönemin Libya lideri Muammer Kaddafi'nin 2007'de Fransa'daki seçim kampanyasına usulsüz şekilde mali destek sağladığı iddialarıyla ilgili gelecek yıl…",
-   "link": "https://www.bbc.com/turkce/articles/cmqj5qzzq02qo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-24T21:21:16+00:00",
-   "url": "/haber/eski-fransa-cumhurbaskani-sarkozy-ve-esi-carla-bruni-yargilanacak-c2f429a2/"
   },
   {
    "id": "ff54f51a",
