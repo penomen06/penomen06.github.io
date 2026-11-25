@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-25T17:01:11.226374+00:00",
+ "updated": "2026-11-25T17:30:56.822644+00:00",
  "items": [
+  {
+   "id": "8be9af69",
+   "title": "ABD'nin en gizli ve kritik kurumlarından CIA hacklendi",
+   "summary": "CIA'nın kullandığı istihbarat sistemi hackerların hedefi oldu. Siber saldırıda bazı veriler açığa çıkarken ABD'li yetkililer gizli bilgilerin etkilenmediğini açıkladı.",
+   "link": "https://www.donanimhaber.com/abd-nin-en-gizli-kurumlarindan-cia-hacklendi--213368",
+   "image": "https://www.donanimhaber.com/images/images/haber/213368/1200x675abd-nin-en-gizli-kurumlarindan-cia-hacklendi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T17:30:00+00:00",
+   "url": "/haber/abd-nin-en-gizli-ve-kritik-kurumlarindan-cia-hacklendi-8be9af69/"
+  },
+  {
+   "id": "6d4f92bd",
+   "title": "Amazon'da robot süpürgelerde indirimlere ek indirim fırsatı başladı!",
+   "summary": "Kasım indirimlerinde robot süpürge fırsatları öne çıkıyor. Amazon'da yılın en düşük fiyatlı robot süpürgelerini ve fiyatına göre en iyi modelleri listeledik.",
+   "link": "https://www.donanimhaber.com/kasim-indirimine-giren-robot-supurgeler-hangisi-en-iyi-2026--213392",
+   "image": "https://www.donanimhaber.com/images/images/haber/213392/1200x675kasim-indirimine-giren-robot-supurgeler-hangisi-en-iyi-2026.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T17:26:58+00:00",
+   "url": "/haber/amazon-da-robot-supurgelerde-indirimlere-ek-indirim-firsati-basladi-6d4f92bd/"
+  },
+  {
+   "id": "cdd09f3e",
+   "title": "25 Kasım'da birçok ilde kadınlar sokakta: 'Yoksulluğa, şiddete ve baskılara karşı birbirimizin güvencesiyiz'",
+   "summary": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Türkiye'nin çeşitli kentlerinde yürüyüş ve basın açıklamaları düzenleniyor.",
+   "link": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8aa9/live/1234b2a0-e8ee-11f1-99a1-253766e7ad8b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-25T17:14:02+00:00",
+   "url": "/haber/25-kasim-da-bircok-ilde-kadinlar-sokakta-yoksulluga-siddete-ve-baskila-cdd09f3e/"
+  },
+  {
+   "id": "c57ab89d",
+   "title": "2027 akıllı telefon pazarı için daha kötü geçecek: Markalar hedeflerini düşürdü",
+   "summary": "Küresel bellek kıtlığı nedeniyle akıllı telefon pazarındaki daralma devam edecek. Büyük üreticilerin çoğu 2027 satış hedeflerini aşağı çekti.",
+   "link": "https://www.donanimhaber.com/bellek-krizi-nedeniyle-telefon-ureticileri-hedeflerini-dusurdu--213384",
+   "image": "https://www.donanimhaber.com/images/images/haber/213384/1200x675bellek-krizi-nedeniyle-telefon-ureticileri-hedeflerini-dusurdu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T17:10:00+00:00",
+   "url": "/haber/2027-akilli-telefon-pazari-icin-daha-kotu-gececek-markalar-hedeflerini-c57ab89d/"
+  },
+  {
+   "id": "400ddd2e",
+   "title": "Bursa'dan Kars'a 18 şehir daha YHT ile buluşacak",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, 2030 yılına kadar 18 ilin daha yüksek hızlı trenle (YHT) buluşacağını söyledi.",
+   "link": "https://www.ntv.com.tr/turkiye/bursadan-karsa-18-sehir-daha-yht-ile-bulusacak-1752572",
+   "image": "https://images.ntv.com.tr/images/yht-592799.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T17:08:57+00:00",
+   "url": "/haber/bursa-dan-kars-a-18-sehir-daha-yht-ile-bulusacak-400ddd2e/"
+  },
+  {
+   "id": "f0805e8d",
+   "title": "İran Dışişleri Bakanı Erakçi: İsrail, yönelttiği her suçlamayla aslında kendi suçunu itiraf ediyor",
+   "summary": "İran Dışişleri Bakanı Abbas Erakçi, İsrail Savunma Bakanı Yisrael Katz'ın ülkesini kimyasal silah üretmeye çalışmakla suçlamasına tepki göstererek, \"İsrail, yönelttiği her suçlamayla aslında kendi suçunu itiraf ediyor.\"…",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-israil-yonelttigi-her-suclamayla-aslinda-kendi-sucunu-itiraf-ediyor/4137817",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T17:02:18+00:00",
+   "url": "/haber/iran-disisleri-bakani-erakci-israil-yonelttigi-her-suclamayla-aslinda-f0805e8d/"
+  },
   {
    "id": "e6cf19cf",
    "title": "PUBG ve Ive, “The Squad” projesini başlatıyor; işte detaylar",
@@ -33,17 +99,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T16:49:19+00:00",
    "url": "/haber/yayincilarin-ps5-i-gta-6-oynarken-bozuldu-e378e5b7/"
-  },
-  {
-   "id": "cdd09f3e",
-   "title": "25 Kasım'da birçok ilde kadınlar sokakta: 'Yoksulluğa, şiddete ve baskılara karşı birbirimizin güvencesiyiz'",
-   "summary": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Türkiye'nin çeşitli kentlerinde yürüyüş ve basın açıklamaları düzenlenecek. İstanbul'da Tünel'deki buluşma nedeniyle Beyoğlu'nda bazı yollar…",
-   "link": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8aa9/live/1234b2a0-e8ee-11f1-99a1-253766e7ad8b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-25T16:47:35+00:00",
-   "url": "/haber/25-kasim-da-bircok-ilde-kadinlar-sokakta-yoksulluga-siddete-ve-baskila-cdd09f3e/"
   },
   {
    "id": "a9ed44fe",
@@ -286,17 +341,6 @@
    "category": "gundem",
    "date": "2026-11-25T15:12:05+00:00",
    "url": "/haber/besiktas-kafilesi-batum-daki-hava-muhalefeti-nedeniyle-rize-artvin-hav-2b9afb8f/"
-  },
-  {
-   "id": "c0436be8",
-   "title": "Malatya'da depremde 31 kişinin öldüğü iki blokun yıkılmasına ilişkin davada karar çıktı",
-   "summary": "Malatya'da 6 Şubat depremlerinde yıkılan ve 31 kişinin hayatını kaybettiği, 11 kişinin yaralandığı Bulutlar Sitesi'nin A ve B bloklarına ilişkin 8 tutuksuz sanığın yargılandığı davada karar açıklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/malatyada-depremde-31-kisinin-oldugu-iki-blokun-yikilmasina-iliskin-davada-karar-cikti/4137719",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T15:09:55+00:00",
-   "url": "/haber/malatya-da-depremde-31-kisinin-oldugu-iki-blokun-yikilmasina-iliskin-d-c0436be8/"
   },
   {
    "id": "51ba0590",
@@ -695,17 +739,6 @@
    "url": "/haber/volkswagen-id-cross-un-r-line-versiyonu-almanya-da-satisa-sunuldu-2d57eefc/"
   },
   {
-   "id": "4143097e",
-   "title": "Intel'in yeni nesil masaüstü işlemcileri geliyor: Tarih açıklandı",
-   "summary": "Intel'in yeni nesil Nova Lake masaüstü işlemcileri için Şubat 2027'de Berlin'de özel bir etkinlik düzenleyeceği ortaya çıktı. Lansman takvimi de netleşiyor. İşte detaylar...",
-   "link": "https://www.donanimhaber.com/intel-in-yeni-nesil-masaustu-islemcileri-geliyor-tarih-aciklandi--213364",
-   "image": "https://www.donanimhaber.com/images/images/haber/213364/1200x675intel-in-yeni-nesil-masaustu-islemcileri-geliyor-tarih-aciklandi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T12:23:00+00:00",
-   "url": "/haber/intel-in-yeni-nesil-masaustu-islemcileri-geliyor-tarih-aciklandi-4143097e/"
-  },
-  {
    "id": "de414cbb",
    "title": "İstanbul'a ne zaman kar yağacak? AKOM en kuvvetli ihtimali paylaştı",
    "summary": "İstanbul'a ne zaman kar yağacağını merak eden milyonlarca öğrenci ve vatandaş, AKOM'un açıklamaları sonrasında sorgulamalara başladı. İstanbul Büyükşehir Belediyesi (İBB) Afet Koordinasyon Merkezi (AKOM) yaptığı…",
@@ -750,17 +783,6 @@
    "url": "/haber/irak-basbakaninin-petrol-sahalari-karari-sonrasi-erbil-bagdat-gerilimi-ab407d60/"
   },
   {
-   "id": "07bf564d",
-   "title": "Avrupa, ABD ve Çin'e karşı 50 milyar euroluk teknoloji fonu kuruyor",
-   "summary": "AB, ABD ve Çin'e teknoloji alanında rakip olmak isteyen Avrupa Birliği, yapay zeka ve kuantum şirketlerine yatırım yapmak için 50 milyar euroluk yeni bir fon kurmayı planlıyor.",
-   "link": "https://www.donanimhaber.com/avrupa-birligi-50-milyar-euroluk-teknoloji-fonu-kuruyor--213365",
-   "image": "https://www.donanimhaber.com/images/images/haber/213365/1200x675avrupa-birligi-50-milyar-euroluk-teknoloji-fonu-kuruyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T12:02:00+00:00",
-   "url": "/haber/avrupa-abd-ve-cin-e-karsi-50-milyar-euroluk-teknoloji-fonu-kuruyor-07bf564d/"
-  },
-  {
    "id": "e9abf7d7",
    "title": "Sağlık Verilerinizi Yorumlayabilen ChatGPT Health, Android'e Geldi",
    "summary": "OpenAI, ChatGPT Health özelliğini Android Health Connect desteğiyle genişleterek akıllı saat ve fitness verilerinizi sohbet diliyle analiz ediyor.",
@@ -792,17 +814,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T11:52:37+00:00",
    "url": "/haber/vodafone-dan-ucretsiz-siber-guvenlik-egitimi-166fcca1/"
-  },
-  {
-   "id": "07656379",
-   "title": "Tidal'den dijital müzik sektöründe ilk: Yapay zeka yasağı geliyor!",
-   "summary": "Tidal, önümüzdeki aydan itibaren yapay zekayla üretilen parçaların çıkarılacağını duyurdu. Şirketin yöneticisi, bu adımın hem sanatçılar hem de dinleyiciler nezdinde yankı bulacağına inanıyor.",
-   "link": "https://www.donanimhaber.com/tidal-yapay-zekayla-yapilan-muzikleri-engelleyecek--213356",
-   "image": "https://www.donanimhaber.com/images/images/haber/213356/1200x675tidal-yapay-zekayla-yapilan-muzikleri-engelleyecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T11:40:00+00:00",
-   "url": "/haber/tidal-den-dijital-muzik-sektorunde-ilk-yapay-zeka-yasagi-geliyor-07656379/"
   },
   {
    "id": "3498181f",
@@ -1067,17 +1078,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T08:42:47+00:00",
    "url": "/haber/bazi-anthropic-ve-openai-calisanlari-yapay-zeka-modellerinin-hizla-gel-c5caf378/"
-  },
-  {
-   "id": "9d984cf9",
-   "title": "Emine Erdoğan: Şiddetin hiçbir türüyle bir arada yaşamayı kabul edemeyiz",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, şiddetin hiçbir türüyle bir arada yaşamayı kabul edemeyeceklerini söyledi.",
-   "link": "https://www.ntv.com.tr/turkiye/emine-erdogan-siddetin-hicbir-turuyle-bir-arada-yasamayi-kabul-edemeyiz-1752527",
-   "image": "https://images.ntv.com.tr/images/emineerdoğan-854548.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T08:35:38+00:00",
-   "url": "/haber/emine-erdogan-siddetin-hicbir-turuyle-bir-arada-yasamayi-kabul-edemeyi-9d984cf9/"
   },
   {
    "id": "18ec3888",
