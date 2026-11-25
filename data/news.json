@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T21:01:04.028312+00:00",
+ "updated": "2026-11-25T21:31:00.417444+00:00",
  "items": [
+  {
+   "id": "7cac38b9",
+   "title": "Samsung'tan Micro LED ekran yatırımı: OSRAM'ın en büyük hissedarı oluyor",
+   "summary": "Samsung Display, Avusturyalı ams OSRAM'ın yüzde 9,1 hissesini 210 milyon euro karşılığında satın alıyor. İki şirket, yeni nesil ultra küçük Micro LED ekranlar geliştirecek.",
+   "link": "https://www.donanimhaber.com/samsung-kucuk-boyutlu-micro-led-ekranlar-icin-dugmeye-basti--213390",
+   "image": "https://www.donanimhaber.com/images/images/haber/213390/1200x675samsung-kucuk-boyutlu-micro-led-ekranlar-icin-dugmeye-basti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T21:30:00+00:00",
+   "url": "/haber/samsung-tan-micro-led-ekran-yatirimi-osram-in-en-buyuk-hissedari-oluyo-7cac38b9/"
+  },
   {
    "id": "3c397b58",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Kasım 2026",
@@ -9,8 +20,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-25T21:00:00+00:00",
+   "date": "2026-11-25T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-3c397b58/"
+  },
+  {
+   "id": "6d445e73",
+   "title": "Ted Lasso'nun 5. sezonu olacak mı? Apple kararını açıkladı",
+   "summary": "Bu yıl 4. sezonuyla ekranlara geri dönen Ted Lasso'nun 5. sezonu olacak mı? Apple, sevilen komedi dizisinin geleceğine dair kararını resmi olarak paylaştı. İşte detaylar...",
+   "link": "https://www.donanimhaber.com/apple-ted-lasso-5-sezon-icin-kararini-acikladi--213367",
+   "image": "https://www.donanimhaber.com/images/images/haber/213367/1200x675apple-ted-lasso-5-sezon-icin-kararini-acikladi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T21:10:00+00:00",
+   "url": "/haber/ted-lasso-nun-5-sezonu-olacak-mi-apple-kararini-acikladi-6d445e73/"
+  },
+  {
+   "id": "d3fb82a5",
+   "title": "PS Plus Aralık 2026 oyunları belli oldu",
+   "summary": "Sony, PS Plus'ın Aralık oyunlarını açıkladı: Tony Hawk's Pro Skater 3+4, Dragon Ball Xenoverse 2 ve Amnesia: The Bunker 1 Aralık ile 4 Ocak arasında tüm abonelerin kütüphanesine eklenebilecek.",
+   "link": "https://shiftdelete.net/ps-plus-aralik-2026-oyunlari",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/tony-hawk-pro-skater-3-4-ps-plus-cover-2511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-25T21:06:32+00:00",
+   "url": "/haber/ps-plus-aralik-2026-oyunlari-belli-oldu-d3fb82a5/"
   },
   {
    "id": "629d6d1e",
@@ -132,6 +165,17 @@
    "category": "teknoloji",
    "date": "2026-11-25T20:27:43+00:00",
    "url": "/haber/uzaktan-calisan-ekipler-icin-guvenli-erisim-ev-agindan-ortak-wi-fi-ye-00540df2/"
+  },
+  {
+   "id": "5556eb3f",
+   "title": "İzmir'de suya yüzde 63 indirim",
+   "summary": "İzmir Büyükşehir Belediye Meclisi, kentte suyun metreküp fiyatına 1 Ocak 2027'den geçerli olmak üzere konut ve konut dışı aboneler için kademeli indirim yapılmasını kararlaştırdı.",
+   "link": "https://www.trthaber.com/haber/turkiye/izmirde-suya-yuzde-63-indirim-964481.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1542000/musluk-su-depo-1543867.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-25T20:17:00+00:00",
+   "url": "/haber/izmir-de-suya-yuzde-63-indirim-5556eb3f/"
   },
   {
    "id": "54080b64",
@@ -420,17 +464,6 @@
    "url": "/haber/amazon-da-robot-supurgelerde-indirimlere-ek-indirim-firsati-basladi-6d4f92bd/"
   },
   {
-   "id": "c57ab89d",
-   "title": "2027 akıllı telefon pazarı için daha kötü geçecek: Markalar hedeflerini düşürdü",
-   "summary": "Küresel bellek kıtlığı nedeniyle akıllı telefon pazarındaki daralma devam edecek. Büyük üreticilerin çoğu 2027 satış hedeflerini aşağı çekti.",
-   "link": "https://www.donanimhaber.com/bellek-krizi-nedeniyle-telefon-ureticileri-hedeflerini-dusurdu--213384",
-   "image": "https://www.donanimhaber.com/images/images/haber/213384/1200x675bellek-krizi-nedeniyle-telefon-ureticileri-hedeflerini-dusurdu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T17:10:00+00:00",
-   "url": "/haber/2027-akilli-telefon-pazari-icin-daha-kotu-gececek-markalar-hedeflerini-c57ab89d/"
-  },
-  {
    "id": "400ddd2e",
    "title": "Bursa'dan Kars'a 18 şehir daha YHT ile buluşacak",
    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, 2030 yılına kadar 18 ilin daha yüksek hızlı trenle (YHT) buluşacağını söyledi.",
@@ -473,17 +506,6 @@
    "category": "gundem",
    "date": "2026-11-25T16:32:48+00:00",
    "url": "/haber/hsk-nin-mazeret-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degist-e24d262d/"
-  },
-  {
-   "id": "1fb7bef4",
-   "title": "Robot köpekler daha da akıllanıyor",
-   "summary": "UNI-DOGGIE robot köpek standart asistan fonksiyonlarının yanı sıra dans, zıplama, kalp hareketleri gibi yetenekleriyle evinizi daha eğlenceli hale getiriyor.",
-   "link": "https://www.donanimhaber.com/uni-doggie-tanitildi-iste-ozellikleri-ve-fiyati--213388",
-   "image": "https://www.donanimhaber.com/images/images/haber/213388/1200x675uni-doggie-tanitildi-iste-ozellikleri-ve-fiyati.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T16:30:00+00:00",
-   "url": "/haber/robot-kopekler-daha-da-akillaniyor-1fb7bef4/"
   },
   {
    "id": "2ec2eba5",
@@ -893,17 +915,6 @@
    "url": "/haber/apple-in-katlanabilir-telefonunu-almayi-dusunenlere-honor-dan-tavsiye-00b4abe3/"
   },
   {
-   "id": "166fcca1",
-   "title": "Vodafone'dan ücretsiz siber güvenlik eğitimi",
-   "summary": "Vodafone Business ve İTÜ, Haziran 2027'ye kadar 1000 kişiye ücretsiz çevrim içi siber güvenlik eğitimi verecek Siber Güvenlik Akademisi'ni başlattı. Programı başarıyla bitirenler Vodafone'un istihdam planlamasında…",
-   "link": "https://shiftdelete.net/vodafone-business-itu-siber-guvenlik-akademisi-ucretsiz-egitim",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/vodafone-itu-siber-guvenlik-akademisi-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-25T11:52:37+00:00",
-   "url": "/haber/vodafone-dan-ucretsiz-siber-guvenlik-egitimi-166fcca1/"
-  },
-  {
    "id": "e71042c0",
    "title": "En İyi Uydu Alıcısı Markaları - 2026",
    "summary": "En iyi uydu alıcısı markaları hangileri? HD ve 4K farkından Next, Kaon ve Vestel modellerine, fiyatlardan kullanıcı yorumlarına kadar tüm detayları inceliyoruz.",
@@ -1210,17 +1221,6 @@
    "category": "gundem",
    "date": "2026-11-24T14:41:28+00:00",
    "url": "/haber/hikmet-cetin-89-yasinda-hayatini-kaybetti-bd5c051c/"
-  },
-  {
-   "id": "59ba82c1",
-   "title": "Dursun Özbek: Netanyahu hükümeti, kulübümüzü UEFA'ya şikayet etmiş",
-   "summary": "Galatasaray Başkanı Dursun Özbek, sarı kırmızılı taraftarların Filistin halkına destek amacıyla açtığı pankartlar nedeniyle katil İsrail hükümeti tarafından UEFA'ya şikayet edildiğini açıkladı.",
-   "link": "https://www.trthaber.com/haber/gundem/dursun-ozbek-netanyahu-hukumeti-kulubumuzu-uefaya-sikayet-etmis-964337.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2504000/galatasaray-tribun-2505925.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-24T13:42:00+00:00",
-   "url": "/haber/dursun-ozbek-netanyahu-hukumeti-kulubumuzu-uefa-ya-sikayet-etmis-59ba82c1/"
   },
   {
    "id": "b9f38bc9",
