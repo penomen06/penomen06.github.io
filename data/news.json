@@ -1,16 +1,181 @@
 {
- "updated": "2026-11-25T09:30:56.268562+00:00",
+ "updated": "2026-11-25T10:01:07.482008+00:00",
  "items": [
   {
-   "id": "9854b997",
-   "title": "Danıştay 8. İdari Dairesi kararı onadı. İmamoğlu'nun diploması iptal edildi",
-   "summary": "Danıştay, 8. İdari Dairesi Ekrem İmamoğlu'nun üniversite diplomasının iptali kararını onadı.",
-   "link": "https://www.ntv.com.tr/turkiye/danistay-8-idari-dairesi-imamoglunun-diplomasinin-iptali-kararini-onadi-1751606",
+   "id": "4c622fae",
+   "title": "Korku dolu anlar; TIR'dan uçtu, motosikletlinin kaskına yapıştı",
+   "summary": "Bursa'da otoyolda seyreden TIR'ın dorsesinden uçan karton, arkadaki motosikletlinin kaskına yapıştı. Motosiklet sürücüsünün önünü görmeden ilerlediği anlar, kask kamerasına yansıdı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-korku-dolu-anlar-tirdan-uctu-motosikletlinin-kaskina-yapisti-1752545",
+   "image": "https://images.ntv.com.tr/images/image-623781(2).png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T09:59:32+00:00",
+   "url": "/haber/korku-dolu-anlar-tir-dan-uctu-motosikletlinin-kaskina-yapisti-4c622fae/"
+  },
+  {
+   "id": "23eab508",
+   "title": "Numan Kurtulmuş: İzleme Komisyonu 19 üyeden oluşacak",
+   "summary": "TBMM Başkanı Numan Kurtulmuş, Terörsüz Türkiye süreci için mecliste kurulacak İzleme Komisyonu'nun kurulması için siyasi parti liderlerine yazı gönderildiğini açıkladı. Komisyonda yedi siyasi partinin meclisteki…",
+   "link": "https://www.bbc.com/turkce/articles/cqlymzd4l1r5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a4a/live/45240ca0-e8ae-11f1-869a-f96fd5660210.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-25T09:57:57+00:00",
+   "url": "/haber/numan-kurtulmus-izleme-komisyonu-19-uyeden-olusacak-23eab508/"
+  },
+  {
+   "id": "e8d923dc",
+   "title": "Silindir bıçak makinesine sıkışan eli 9,5 saatlik ameliyatla kurtarıldı",
+   "summary": "İş yerinde sağ elini silindir bıçak makinesine kaptıran 39 yaşındaki Erhan Bağırtlak, Başakşehir Çam ve Sakura Şehir Hastanesi'nde gerçekleştirilen 9,5 saatlik ameliyatla elini kaybetmekten kurtuldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/silindir-bicak-makinesine-sikisan-eli-9-5-saatlik-ameliyatla-kurtarildi/4137053",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T09:56:26+00:00",
+   "url": "/haber/silindir-bicak-makinesine-sikisan-eli-9-5-saatlik-ameliyatla-kurtarild-e8d923dc/"
+  },
+  {
+   "id": "88dcf0c6",
+   "title": "OpenAI ve Cisco'dan açık kaynak kalkan: Shirudo",
+   "summary": "OpenAI ve Cisco, yama gelene kadar sunucuları koruyan açık kaynak Shirudo projesini başlattı. Yapay zeka ajanları açığı buluyor, kalkanı yazıp test ediyor ve sistemi yeniden başlatmadan devreye alıyor.",
+   "link": "https://shiftdelete.net/openai-cisco-shirudo-acik-kaynak-guvenlik-kalkani",
+   "image": "https://shiftdelete.net/static/img/content/26-11/25/cisco-openai-shirudo.png",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-25T09:56:22+00:00",
+   "url": "/haber/openai-ve-cisco-dan-acik-kaynak-kalkan-shirudo-88dcf0c6/"
+  },
+  {
+   "id": "d6fee317",
+   "title": "Yeni Parti MYK üyelerini belirledi. İşte Özgür Özel'in A takımı",
+   "summary": "Yeni Parti Genel Başkanı Özgür Özel, Merkez Yönetim Kurulu (MYK) üyelerini belirledi. Genel Sekreter bir kez daha Selin Sayek Böke oldu. Parti Sözcüsü ise değişti.",
+   "link": "https://www.ntv.com.tr/turkiye/yeni-parti-myk-uyelerini-belirledi-iste-ozgur-ozelin-a-takimi-1752544",
+   "image": "https://images.ntv.com.tr/son-dakika-gorselleri/son-kirmizi(6).jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T09:56:19+00:00",
+   "url": "/haber/yeni-parti-myk-uyelerini-belirledi-iste-ozgur-ozel-in-a-takimi-d6fee317/"
+  },
+  {
+   "id": "e9453f2b",
+   "title": "Yeni KGM (SsangYong) Rexton’dan ilk görüntüler: Bu kez şarj edilebilir hibrit",
+   "summary": "KGM yeni Rexton’un ilk görüntülerini paylaştı. Şarj edilebilir hibrit motorla gelecek SUV, Ocak 2027’de Güney Kore’de satışa çıkacak. Modelin Chery altyapısına geçmesi de beklenen değişimler arasında.",
+   "link": "https://www.donanimhaber.com/yeni-kgm-rexton-dan-ilk-goruntuler-sarjli-hibrit-geliyor--213355",
+   "image": "https://www.donanimhaber.com/images/images/haber/213355/1200x675yeni-kgm-rexton-dan-ilk-goruntuler-sarjli-hibrit-geliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T09:55:00+00:00",
+   "url": "/haber/yeni-kgm-ssangyong-rexton-dan-ilk-goruntuler-bu-kez-sarj-edilebilir-hi-e9453f2b/"
+  },
+  {
+   "id": "5ef82320",
+   "title": "Danıştay 8. Dairesi kararı onadı. İmamoğlu'nun diploması iptal edildi",
+   "summary": "Danıştay, 8. Dairesi Ekrem İmamoğlu'nun üniversite diplomasının iptali kararını onadı.",
+   "link": "https://www.ntv.com.tr/turkiye/danistay-8-dairesi-karari-onadi-imamoglunun-diplomasi-iptal-edildi-1751606",
    "image": "https://images.ntv.com.tr/images/000fa6b8-098c-4ccc-b569-6ac81fff3719-575429.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-25T09:30:26+00:00",
-   "url": "/haber/danistay-8-idari-dairesi-karari-onadi-imamoglu-nun-diplomasi-iptal-edi-9854b997/"
+   "date": "2026-11-25T09:53:54+00:00",
+   "url": "/haber/danistay-8-dairesi-karari-onadi-imamoglu-nun-diplomasi-iptal-edildi-5ef82320/"
+  },
+  {
+   "id": "d9f49fc6",
+   "title": "Danıştay, İmamoğlu'nun diploma iptali kararını neye dayandırdı?",
+   "summary": "Tutuklanarak İstanbul Büyükşehir Belediye (İBB) Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu'nun diploma iptaline karşı Danıştay'a yaptığı temyiz başvurusu reddedildi",
+   "link": "https://www.bbc.com/turkce/articles/c338535pvm2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d064/live/7b6e9b70-f86f-11f0-9796-05e6aeca39b2.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-25T09:48:48+00:00",
+   "url": "/haber/danistay-imamoglu-nun-diploma-iptali-kararini-neye-dayandirdi-d9f49fc6/"
+  },
+  {
+   "id": "0dfde44d",
+   "title": "Şile Belediyesi davası | Haluk Levent: Yeliz Kaya yerine benim tutuklanmam gerekiyor",
+   "summary": "Ahbap Derneği soruşturmasında tutuklu bulunan Haluk Levent, Şile Belediyesi davasında tutuklanan asistanı Yeliz Kaya'nın suçsuz olduğunu, bu dosyada kendisinin tutuklanması gerektiğini ileri sürdü.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-haluk-levent-sile-davasinda-tanik-olarak-dinlendi-yeliz-kaya-yerine-benim-tutuklanmam-gerekiyor-1752542",
+   "image": "https://images.ntv.com.tr/images/haluk-levent-443506.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T09:48:02+00:00",
+   "url": "/haber/sile-belediyesi-davasi-haluk-levent-yeliz-kaya-yerine-benim-tutuklanma-0dfde44d/"
+  },
+  {
+   "id": "fcd5f2df",
+   "title": "Ünlülere uyuşturucu soruşturmasında yeni dalga: Özcan Deniz, Deniz Çakır, Burcu Özberk de gözaltında",
+   "summary": "Ünlülere yönelik yeni bir uyuşturucu operasyonunda gözaltına alınan Özcan Deniz, Deniz Çakır ve Burcu Özberk'in de aralarında bulunduğu 24 ünlü isim adliyeye sevk edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-unlulere-uyusturucu-sorusturmasinda-yeni-dalga-ozcan-deniz-deniz-cakir-burcu-ozberk-de-gozaltinda-1752499",
+   "image": "https://images.ntv.com.tr/images/ünlüler-operasyon-688592.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T09:42:08+00:00",
+   "url": "/haber/unlulere-uyusturucu-sorusturmasinda-yeni-dalga-ozcan-deniz-deniz-cakir-fcd5f2df/"
+  },
+  {
+   "id": "7f1a6792",
+   "title": "Meta'nın Yapay Zekâ Asistanı Muse, Instagram DM'lerine Geldi: Peki Neler Yapılabiliyor?",
+   "summary": "Meta, yapay zekâ asistanı Muse'u Instagram DM'lere entegre ederek gönderi analizi, içerik düzenleme ve akıllı planlama özelliklerini kullanıma sundu.",
+   "link": "https://www.webtekno.com/meta-muse-instagram-dm-geldi-h229426.html",
+   "image": "https://imgrosetta.webtekno.com/file/698539/698539-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-25T09:39:16+00:00",
+   "url": "/haber/meta-nin-yapay-zeka-asistani-muse-instagram-dm-lerine-geldi-peki-neler-7f1a6792/"
+  },
+  {
+   "id": "2720da41",
+   "title": "29 Milyon Şarkı Birden Siliniyor: Tidal Yapay Zekâ Müziğine Savaş Açtı!",
+   "summary": "Tidal, tamamı yapay zekâyla üretilen şarkıları artık kataloğunda istemiyor.",
+   "link": "https://www.webtekno.com/tidal-yapay-zeka-muzik-yasak-karari-h229423.html",
+   "image": "https://imgrosetta.webtekno.com/file/698557/698557-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-25T09:39:08+00:00",
+   "url": "/haber/29-milyon-sarki-birden-siliniyor-tidal-yapay-zeka-muzigine-savas-acti-2720da41/"
+  },
+  {
+   "id": "bfa8fe93",
+   "title": "Sakarya 10 ayda 120 bin 237 taşıtı ihraç etti",
+   "summary": "Sakarya'da yılın 10 ayında üretilen 181 bin 258 aracın 120 bin 237'si ihraç edildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sakarya-10-ayda-120-bin-237-tasiti-ihrac-etti/4137032",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T09:37:22+00:00",
+   "url": "/haber/sakarya-10-ayda-120-bin-237-tasiti-ihrac-etti-bfa8fe93/"
+  },
+  {
+   "id": "2344f37c",
+   "title": "Trafikte 'ters yön' tartışması: Aracın camını yumrukladı",
+   "summary": "Esenler'de ters yönden gelen sürücü yol vermediği gerekçesiyle tartıştığı diğer sürücünün aracının camını yumrukladı",
+   "link": "https://www.ntv.com.tr/turkiye/video-trafikte-ters-yon-tartismasi-aracin-camini-yumrukladi-1752541",
+   "image": "https://images.ntv.com.tr/images/-ESENLERDE-TRAFIKTE-TERS-YON-TARTISMA_1625840_483405-637516.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T09:34:29+00:00",
+   "url": "/haber/trafikte-ters-yon-tartismasi-aracin-camini-yumrukladi-2344f37c/"
+  },
+  {
+   "id": "d3bdc6fa",
+   "title": "Samsung, WhatsApp ve Telegram'daki dolandırıcılık aramalarını da tespit edecek",
+   "summary": "Samsung, One UI 9.5 ile dolandırıcılık tespit sistemini genişletmeye hazırlanıyor. Yeni özellik, WhatsApp ve Telegram gibi üçüncü taraf uygulamalardaki şüpheli aramaları da tespit edebilecek.",
+   "link": "https://www.donanimhaber.com/samsung-whatsapp-taki-dolandiricilik-aramalarini-da-tespit-edecek--213345",
+   "image": "https://www.donanimhaber.com/images/images/haber/213345/1200x675samsung-whatsapp-taki-dolandiricilik-aramalarini-da-tespit-edecek.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T09:31:00+00:00",
+   "url": "/haber/samsung-whatsapp-ve-telegram-daki-dolandiricilik-aramalarini-da-tespit-d3bdc6fa/"
+  },
+  {
+   "id": "6e705de8",
+   "title": "Kızılay metrosunda bıçaklı saldırgan paniği",
+   "summary": "Ankara'da metro istasyonunda bir kişi tartıştığı güvenlik görevlilerine bıçak çekti. Saldırgan, etkisiz hale getirilip polise teslim edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/kizilay-metrosunda-bicakli-saldirgan-panigi-1752536",
+   "image": "https://images.ntv.com.tr/images/ankara-metroda-panik-295485.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T09:30:42+00:00",
+   "url": "/haber/kizilay-metrosunda-bicakli-saldirgan-panigi-6e705de8/"
   },
   {
    "id": "49e3da2d",
@@ -101,17 +266,6 @@
    "url": "/haber/israilli-muhalif-lider-eisenkot-un-koalisyon-hukumetini-onumuzdeki-haf-21f4bbe7/"
   },
   {
-   "id": "6e705de8",
-   "title": "Kızılay metrosunda bıçaklı saldırgan paniği",
-   "summary": "Ankara'da metro istasyonunda bir kişi tartıştığı güvenlik görevlilerine bıçak çekti. Saldırgan, etkisiz hale getirilip polise teslim edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/kizilay-metrosunda-bicakli-saldirgan-panigi-1752536",
-   "image": "https://images.ntv.com.tr/images/ankara-metroda-panik-295485.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T09:12:06+00:00",
-   "url": "/haber/kizilay-metrosunda-bicakli-saldirgan-panigi-6e705de8/"
-  },
-  {
    "id": "c23b56e3",
    "title": "Gaziantep Basketbol'da \"sistem şampiyonluğa kuruldu\"",
    "summary": "Türkiye Sigorta Türkiye Basketbol Ligi ekiplerinden Gaziantep Basketbol'un yeni başantrenörü Şemsettin Baş, sistemi yeniden kurduklarını ve şampiyonluğa odaklandıklarını söyledi.",
@@ -145,15 +299,15 @@
    "url": "/haber/yeni-byd-tang-satisa-cikti-850-km-menzil-ve-28-bin-dolar-fiyat-c41e0dcf/"
   },
   {
-   "id": "b7c6cdf9",
-   "title": "HSK, Yargıtay üyeliğine 5 isim seçti",
-   "summary": "Adalet Bakanı Akın Gürlek, Hakimler ve Savcılar Kurulunca (HSK) Yargıtay üyeliğine 5 ismin seçildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/hsk-yargitay-uyeligine-5-isim-secti/4136999",
+   "id": "5a78688c",
+   "title": "TBMM Başkanı Kurtulmuş, Sidney'de Avustralya Uluslararası Maarif Okulu Gelibolu Kampüsü'nü ziyaret etti",
+   "summary": "TBMM Başkanı Kurtulmuş, MIKTA 12. Parlamento Başkanları Toplantısı'na katılmak üzere bulunduğu Avustralya'da, Sidney kentindeki Avustralya Uluslararası Maarif Okulu Gelibolu Kampüsü'nü ziyaret etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-sidneyde-avustralya-uluslararasi-maarif-okulu-gelibolu-kampusunu-ziyaret-etti/4136997",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-25T09:09:46+00:00",
-   "url": "/haber/hsk-yargitay-uyeligine-5-isim-secti-b7c6cdf9/"
+   "date": "2026-11-25T09:08:40+00:00",
+   "url": "/haber/tbmm-baskani-kurtulmus-sidney-de-avustralya-uluslararasi-maarif-okulu-5a78688c/"
   },
   {
    "id": "a2eb7fbf",
@@ -178,28 +332,6 @@
    "url": "/haber/yargitay-a-bes-yeni-uye-secildi-3b56181d/"
   },
   {
-   "id": "c09e64ea",
-   "title": "Türkiye genelinde şiddetli yağışları hesaplayacak dijital araç geliştirildi",
-   "summary": "Erzurum Teknik Üniversitesi (ETÜ) ile İngiltere'deki Bath Üniversitesi işbirliğinde, iklim değişikliğiyle artan kısa süreli şiddetli yağışların büyüklüğünü Türkiye genelinde istatistiksel olarak tahmin edebilen dijital…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-genelinde-siddetli-yagislari-hesaplayacak-dijital-arac-gelistirildi/4136992",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T09:05:09+00:00",
-   "url": "/haber/turkiye-genelinde-siddetli-yagislari-hesaplayacak-dijital-arac-gelisti-c09e64ea/"
-  },
-  {
-   "id": "0e25b956",
-   "title": "\"Yeni nesil suç örgütlerine\" yönelik 60 ilde düzenlenen operasyonlarda 280 şüpheli yakalandı",
-   "summary": "İçişleri Bakanlığı, 60 ilde \"yeni nesil suç örgütlerine\" yönelik operasyonlarda 280 şüphelinin gözaltına alındığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/yeni-nesil-suc-orgutlerine-yonelik-60-ilde-duzenlenen-operasyonlarda-280-supheli-yakalandi/4136991",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T09:03:57+00:00",
-   "url": "/haber/yeni-nesil-suc-orgutlerine-yonelik-60-ilde-duzenlenen-operasyonlarda-2-0e25b956/"
-  },
-  {
    "id": "b5dd758e",
    "title": "GTA 6'yı PC'ye Getirecek Korsan Proje İptal Oldu!",
    "summary": "GTA 6'nın sızdırılan konsol sürümünü PC'ye uyarlamayı hedefleyen Leonida isimli proje süresiz olarak durduruldu.",
@@ -222,6 +354,17 @@
    "url": "/haber/cozum-surecinde-gozler-mgk-ya-cevrildi-teyit-karari-ne-zaman-cikacak-12670f0a/"
   },
   {
+   "id": "27ea4c7f",
+   "title": "Türk atlı okçuluğu gösterisi Suudi Arabistan'da nefesleri kesti",
+   "summary": "Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nde gerçekleştirilen Türk atlı okçuluğu gösterisi, izleyicilerden büyük beğeni topladı.",
+   "link": "https://www.aa.com.tr/tr/spor/turk-atli-okculugu-gosterisi-suudi-arabistanda-nefesleri-kesti/4136984",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T09:01:29+00:00",
+   "url": "/haber/turk-atli-okculugu-gosterisi-suudi-arabistan-da-nefesleri-kesti-27ea4c7f/"
+  },
+  {
    "id": "7fa097e5",
    "title": "DEM Parti heyeti Bakan Gürlek ile görüştü",
    "summary": "DEM Parti İmralı Heyeti, terörsüz Türkiye sürecine ilişkin Adalet Bakanı Akın Gürlek ile görüştü.",
@@ -231,17 +374,6 @@
    "category": "gundem",
    "date": "2026-11-25T08:59:44+00:00",
    "url": "/haber/dem-parti-heyeti-bakan-gurlek-ile-gorustu-7fa097e5/"
-  },
-  {
-   "id": "1aabbffd",
-   "title": "Uzmanlara göre, Türkiye-Katar savunma anlaşması Körfez'in güvenliğini güçlendirecek",
-   "summary": "Uzmanlar Türkiye ile Katar arasında imzalanan ortak savunma işbirliği anlaşmasının yalnızca Katar'ın değil, tüm Körfez bölgesinin güvenliğine katkı sağlayacağını belirtiyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/uzmanlara-gore-turkiye-katar-savunma-anlasmasi-korfezin-guvenligini-guclendirecek/4136980",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T08:59:00+00:00",
-   "url": "/haber/uzmanlara-gore-turkiye-katar-savunma-anlasmasi-korfez-in-guvenligini-g-1aabbffd/"
   },
   {
    "id": "1d5eaf33",
@@ -255,15 +387,15 @@
    "url": "/haber/istanbul-da-duzenlenen-5-uluslararasi-stk-fuari-kapilarini-acti-1d5eaf33/"
   },
   {
-   "id": "7c70e633",
-   "title": "Birleşik Krallık-AB anlaşması: Yeniden katılım siyaseti mi?",
-   "summary": "Brüksel’de varılan anlaşma, nihayetinde Birleşik Krallık’ın AB’ye katılımıyla sonuçlanabilecek bir sürecin hem sembolik hem de somut anlamda bir başlangıcı olabilir.",
-   "link": "https://www.aa.com.tr/tr/analiz/birlesik-krallik-ab-anlasmasi-yeniden-katilim-siyaseti-mi/4136977",
+   "id": "b9a7ddae",
+   "title": "Bakan Göktaş: Sorumlu habercilik, şiddete karşı ortak bilincin güçlenmesinde önemli rol oynuyor",
+   "summary": "Aile ve Sosyal Hizmetler Bakanı Göktaş, \"Medyanın, kadına yönelik şiddeti ele alırken doğruluğu ve mahremiyeti esas almasını önemsiyoruz. Sorumlu haberciliğin, şiddete karşı ortak bilincin güçlenmesinde önemli bir rolü…",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-sorumlu-habercilik-siddete-karsi-ortak-bilincin-guclenmesinde-onemli-rol-oynuyor/4136961",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-25T08:57:40+00:00",
-   "url": "/haber/birlesik-krallik-ab-anlasmasi-yeniden-katilim-siyaseti-mi-7c70e633/"
+   "date": "2026-11-25T08:52:34+00:00",
+   "url": "/haber/bakan-goktas-sorumlu-habercilik-siddete-karsi-ortak-bilincin-guclenmes-b9a7ddae/"
   },
   {
    "id": "7dc161d3",
@@ -277,17 +409,6 @@
    "url": "/haber/imamoglu-nun-diploma-iptali-karari-onandi-7dc161d3/"
   },
   {
-   "id": "1849746c",
-   "title": "İşitme engelli milli güreşçilerin Avrupa Şampiyonası'nda hedefi zirve",
-   "summary": "İşitme Engelli Güreş Milli Takımı Başantrenörü Yücel Ünsal, 2026 Avrupa Şampiyonası'na 48 sporcuyla geldiklerini belirterek, büyüklerde 10 sıkletin 8'inde altın madalya hedeflediklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/isitme-engelli-milli-gurescilerin-avrupa-sampiyonasinda-hedefi-zirve/4136951",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T08:49:46+00:00",
-   "url": "/haber/isitme-engelli-milli-gurescilerin-avrupa-sampiyonasi-nda-hedefi-zirve-1849746c/"
-  },
-  {
    "id": "6b39b714",
    "title": "Porsche Boxster elektrikleniyor: İlk detaylar açıklandı",
    "summary": "Porsche, tamamen elektrikli 718 Boxster modelinin 2027'nin ilk çeyreğinde tanıtılacağını doğruladı ve araca dair ilk teknik detayları paylaştı.",
@@ -297,6 +418,17 @@
    "category": "teknoloji",
    "date": "2026-11-25T08:47:00+00:00",
    "url": "/haber/porsche-boxster-elektrikleniyor-ilk-detaylar-aciklandi-6b39b714/"
+  },
+  {
+   "id": "499eaf51",
+   "title": "Tarım ve Orman Bakanlığının 2027 yılı bütçesi TBMM Plan ve Bütçe Komisyonu'nda",
+   "summary": "TBMM Plan ve Bütçe Komisyonu'nda, Tarım ve Orman Bakanlığının 2027 yılı bütçesinin görüşmelerine başlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/tarim-ve-orman-bakanliginin-2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda/4136931",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T08:44:27+00:00",
+   "url": "/haber/tarim-ve-orman-bakanliginin-2027-yili-butcesi-tbmm-plan-ve-butce-komis-499eaf51/"
   },
   {
    "id": "c5caf378",
@@ -363,6 +495,17 @@
    "category": "teknoloji",
    "date": "2026-11-25T08:31:25+00:00",
    "url": "/haber/gta-6-panini-is-birligi-duyuruldu-oyun-icindeki-kartlar-fiziksel-olara-a5a4f902/"
+  },
+  {
+   "id": "be44368e",
+   "title": "Oyun laptopunda 16:10 ekran günlük kullanımı değiştirir mi? Casper Excalibur G915",
+   "summary": "Casper Excalibur G915 (G915.356H-EX70A-C), oyun dışında uzun metin, kod ve proje dosyalarıyla çalışan kullanıcı için 16:10 ekranı anlamlı bir tercihe dönüştürür. 16 inç panel, klasik geniş ekran alışkanlığının yanına…",
+   "link": "https://www.log.com.tr/oyun-laptopunda-1610-ekran-gunluk-kullanimi-degistirir-mi-casper-excalibur-g915/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-24_16-05-04_D0bFq-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-25T08:30:13+00:00",
+   "url": "/haber/oyun-laptopunda-16-10-ekran-gunluk-kullanimi-degistirir-mi-casper-exca-be44368e/"
   },
   {
    "id": "ae452a82",
@@ -464,15 +607,15 @@
    "url": "/haber/turkiye-nin-canli-alisveris-atlasi-aciliyor-38f09995/"
   },
   {
-   "id": "22691850",
-   "title": "Yaşamına 118 film sığdıran oyuncu ve yönetmen Temel Gürsu evinin kapılarını AA'ya açtı",
-   "summary": "Silivri’deki evinin kapılarını AA'ya açan sanatçı, Ferdi Tayfur’dan Türkan Şoray’a, Fatma Girik’ten Cüneyt Arkın’a uzanan yıldızlarla geçen yıllarını ve unutulmaz filmlerinin hikayelerini paylaştı.",
-   "link": "https://www.aa.com.tr/tr/kultur/yasamina-118-film-sigdiran-oyuncu-ve-yonetmen-temel-gursu-evinin-kapilarini-aaya-acti/4136789",
+   "id": "64301cc4",
+   "title": "Yapay zeka destekli silahlarda hesap verebilirlik insan sorumluluğuna bağlı",
+   "summary": "Queensland Üniversitesi Hukuk Fakültesinden Dr. Renato Wolf, \"Savaşlarda kullanılan yeni silah ve teknolojiler, genellikle ancak gerçek çatışmalarda kullanıldıktan sonra düzenlemeye tabi tutuluyor veya yasaklanıyor.\"…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yapay-zeka-destekli-silahlarda-hesap-verebilirlik-insan-sorumluluguna-bagli/4136786",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-25T08:03:03+00:00",
-   "url": "/haber/yasamina-118-film-sigdiran-oyuncu-ve-yonetmen-temel-gursu-evinin-kapil-22691850/"
+   "date": "2026-11-25T08:02:38+00:00",
+   "url": "/haber/yapay-zeka-destekli-silahlarda-hesap-verebilirlik-insan-sorumluluguna-64301cc4/"
   },
   {
    "id": "72de7677",
@@ -550,28 +693,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T07:34:27+00:00",
    "url": "/haber/2027-de-tanitilacak-tamamen-elektrikli-porsche-718-boxster-ilk-kez-res-a1e7f5a4/"
-  },
-  {
-   "id": "fcd5f2df",
-   "title": "Ünlülere uyuşturucu soruşturmasında yeni dalga: Özcan Deniz, Deniz Çakır, Burcu Özberk de gözaltında",
-   "summary": "Ünlülere yönelik yeni bir uyuşturucu operasyonu düzenlendi. Şarkıcı Özcan Deniz, oyuncular Deniz Çakır ve Burcu Özberk'in de aralarında bulunduğu 24 ünlü isim gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-unlulere-uyusturucu-sorusturmasinda-yeni-dalga-ozcan-deniz-deniz-cakir-burcu-ozberk-de-gozaltinda-1752499",
-   "image": "https://images.ntv.com.tr/images/ünlüler-operasyon-688592.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T07:34:00+00:00",
-   "url": "/haber/unlulere-uyusturucu-sorusturmasinda-yeni-dalga-ozcan-deniz-deniz-cakir-fcd5f2df/"
-  },
-  {
-   "id": "c07e0325",
-   "title": "TBMM İzleme Komisyonu üyelikleri için partilere yazı gönderildi",
-   "summary": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş İzleme Komisyonunda görevlendirilecek milletvekilleri için partilerin grup başkanlıklarına yazı gönderdi.",
-   "link": "https://www.ntv.com.tr/turkiye/tbmm-izleme-komisyonu-uyelikleri-icin-partilere-yazi-gonderildi-1752501",
-   "image": "https://images.ntv.com.tr/images/kurtulmuş-780825(2).jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T07:32:53+00:00",
-   "url": "/haber/tbmm-izleme-komisyonu-uyelikleri-icin-partilere-yazi-gonderildi-c07e0325/"
   },
   {
    "id": "21344d51",
@@ -717,39 +838,6 @@
    "url": "/haber/claude-icerisinde-olusturulan-artifact-ler-yapitlar-artik-mac-ve-windo-89923091/"
   },
   {
-   "id": "1437a13f",
-   "title": "5 şehidin acı haberi ailelerine ulaştı",
-   "summary": "Eskişehir'de eğitim uçuşunda düşen askeri helikopterde şehit olan 5 askerin ailesine acı haber ulaştı. Şehitlerden geriye gözü yaşlı aileler kaldı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-5-sehidin-aci-haberi-ailelerine-ulasti-geride-yarim-kalan-hikayeleri-kaldi-1752467",
-   "image": "https://images.ntv.com.tr/images/şehit5-236158.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T06:51:44+00:00",
-   "url": "/haber/5-sehidin-aci-haberi-ailelerine-ulasti-1437a13f/"
-  },
-  {
-   "id": "3b581075",
-   "title": "Karşı şeride geçen araç ortalığı savaş alanına çevirdi",
-   "summary": "Konya'nın Ereğli ilçesinde kontrolden çıkan pikabın karşı şeride geçerek başka bir otomobile ve park halindeki 5 motosiklete çarpması sonucu meydana gelen trafik kazasında 2 kişi yaralandı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-karsi-seride-gecen-arac-ortaligi-savas-alanina-cevirdi-1752483",
-   "image": "https://images.ntv.com.tr/images/SSSS-717757.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T06:45:29+00:00",
-   "url": "/haber/karsi-seride-gecen-arac-ortaligi-savas-alanina-cevirdi-3b581075/"
-  },
-  {
-   "id": "af397034",
-   "title": "PC çalışmaları hız kazanan GTA 6, artık PlayStation’da da bulut üzerinden oynanabiliyor",
-   "summary": "19 Kasım’da resmi olarak çıkan GTA 6, Türkiye’de resmi olarak sunulmayan bulut oyun hizmeti Xbox Cloud Gaming üzerinden Xbox Series X/S ve önceki nesil Xbox One konsollarda oynanabiliyor. Bu altyapı artık PlayStation…",
-   "link": "https://www.log.com.tr/pc-calismalari-hiz-kazanan-gta-6-artik-playstationda-da-bulut-uzerinden-oynanabiliyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-25_09-30-16_BOTXI-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-25T06:42:27+00:00",
-   "url": "/haber/pc-calismalari-hiz-kazanan-gta-6-artik-playstation-da-da-bulut-uzerind-af397034/"
-  },
-  {
    "id": "e837b3fb",
    "title": "Hava sıcaklıkları yurt genelinde artacak",
    "summary": "Ülke genelinde 6 ila 10 derece azalan hava sıcaklıkları, yarından itibaren batı bölgelerden başlayarak yeniden artacak. Perşembe ve cuma günleri ülke genelinde yağış beklenmezken, cumartesi batı kesimlerden yurda…",
@@ -794,17 +882,6 @@
    "url": "/haber/turkcell-arizayi-temsilciden-once-bildiriyor-a1323279/"
   },
   {
-   "id": "bfeea076",
-   "title": "15 bin öğretmen ataması ne zaman, branş dağılımı belli oldu mu? 2026 MEB 15 bin öğretmen ataması",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın 24 Kasım Öğretmenler Günü programında verdiği 15 bin öğretmen atama müjdesi, atama bekleyen yüz binlerce öğretmen adayında büyük heyecan yarattı. 2026 yılı Akademi Giriş Sınavı…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-15-bin-ogretmen-atamasi-ne-zaman-brans-dagilimi-belli-oldu-mu-2026-meb-15-bin-ogretmen-atamasi-1752474",
-   "image": "https://images.ntv.com.tr/images/AA-36274235-699329.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T05:59:34+00:00",
-   "url": "/haber/15-bin-ogretmen-atamasi-ne-zaman-brans-dagilimi-belli-oldu-mu-2026-meb-bfeea076/"
-  },
-  {
    "id": "bb22fce7",
    "title": "Meteorolojiden kar, sağanak ve fırtına uyarısı",
    "summary": "Orta ve Doğu Karadeniz kıyıları ile Doğu Anadolu'da beklenen kar, karla karışık yağmur, yerel kuvvetli yağış ve fırtına nedeniyle 17 il için \"sarı\" kodlu uyarıda bulunuldu.",
@@ -847,17 +924,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T04:30:08+00:00",
    "url": "/haber/47-yillik-matematik-problemine-iki-ayri-ispat-959e58d3/"
-  },
-  {
-   "id": "176c51bf",
-   "title": "NASA'nın Mars'taki iki aracı arıza verdi",
-   "summary": "NASA'nın Mars'taki dört görevinden ikisi, Perseverance keşif aracı ve Mars Odyssey yörünge aracı, ayrı teknik sorunlar nedeniyle bilimsel çalışmalarını durdurdu. Odyssey'in yakıtı bir ila iki ay yetebilir.",
-   "link": "https://shiftdelete.net/nasa-perseverance-odyssey-mars-ariza",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/nasa-perseverance-mars-ariza-kapak-2511.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-25T04:00:09+00:00",
-   "url": "/haber/nasa-nin-mars-taki-iki-araci-ariza-verdi-176c51bf/"
   },
   {
    "id": "bbfc1e45",
@@ -968,39 +1034,6 @@
    "category": "teknoloji",
    "date": "2026-11-24T19:49:00+00:00",
    "url": "/haber/ab-de-elektrikli-otomobillerin-payi-yuzde-30-a-dayandi-bda3976a/"
-  },
-  {
-   "id": "cc55bceb",
-   "title": "Çinli şirket, sağlamlığını kanıtlamak için otomobilini uçurumdan attı",
-   "summary": "Çinli otomotiv devi Geely, yeni Lynk & Co 07 GT modeli 70 km/s hızla uçurumdan aşağı bıraktı. Taklalar atan otomobilin kazadan sonra kapıları açılabilir durumda kaldı.",
-   "link": "https://www.donanimhaber.com/geely-saglamligini-kanitlamak-icin-otomobilini-ucurumdan-atti--213324",
-   "image": "https://www.donanimhaber.com/images/images/haber/213324/1200x675geely-saglamligini-kanitlamak-icin-otomobilini-ucurumdan-atti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-24T19:28:00+00:00",
-   "url": "/haber/cinli-sirket-saglamligini-kanitlamak-icin-otomobilini-ucurumdan-atti-cc55bceb/"
-  },
-  {
-   "id": "eaea0ce8",
-   "title": "Avancier ile başladı: Honda’dan 15 yeni hibrit model",
-   "summary": "Honda, yeni hibrit sistemiyle tüketimi ve üretim maliyetini düşürmeyi hedefliyor. Avancier'de kullanılacak teknoloji, yeni motor, platform ve elektrikli dört tekerlekten çekiş sistemini birleştiriyor.",
-   "link": "https://www.donanimhaber.com/avancier-ile-basladi-honda-dan-15-yeni-hibrit-model--213319",
-   "image": "https://www.donanimhaber.com/images/images/haber/213319/1200x675avancier-ile-basladi-honda-dan-15-yeni-hibrit-model.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-24T19:07:00+00:00",
-   "url": "/haber/avancier-ile-basladi-honda-dan-15-yeni-hibrit-model-eaea0ce8/"
-  },
-  {
-   "id": "ff76b5f3",
-   "title": "AKP Genel Başkan Yardımcısı Hayati Yazıcı neden istifa etti?",
-   "summary": "AKP Genel Başkan Yardımcısı Hayati Yazıcı, oğlu Mustafa Yazıcı hakkındaki iddiaların ardından partideki görevlerinden istifa ettiğini açıkladı.",
-   "link": "https://www.bbc.com/turkce/articles/c5vg2nxdkmdro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3eb7/live/0f05c470-e82b-11f1-8d9d-c156c75bcdb5.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-24T18:11:09+00:00",
-   "url": "/haber/akp-genel-baskan-yardimcisi-hayati-yazici-neden-istifa-etti-ff76b5f3/"
   },
   {
    "id": "552660e5",
@@ -1135,17 +1168,6 @@
    "url": "/haber/gemini-kullanicilarini-sevindirecek-yeni-bir-ozellik-geliyor-d43af0a8/"
   },
   {
-   "id": "0466fe11",
-   "title": "Google Haritalar'a Yeni Görünüm Modu Geliyor: İşte Böyle Görünecek!",
-   "summary": "Google Haritalar’ın kodlarında keşfedilen yeni yüksek görünürlüklü harita stili, renk paletini değiştirerek navigasyonda netliği artırıyor.",
-   "link": "https://www.webtekno.com/google-haritalar-yuksek-gorunurluklu-harita-modu-h229372.html",
-   "image": "https://imgrosetta.webtekno.com/file/698368/698368-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-24T13:58:48+00:00",
-   "url": "/haber/google-haritalar-a-yeni-gorunum-modu-geliyor-iste-boyle-gorunecek-0466fe11/"
-  },
-  {
    "id": "408c5d72",
    "title": "Demirtaş: Süreci bozacak davranışlardan kaçınmak ahlaki zorunluluktur",
    "summary": "On yıldır cezaevinde bulunan eski HDP Eş Genel Başkanı Selahattin Demirtaş yaptığı yeni açıklamada, \"Sürecin ritmini, motivasyonunu bozacak her türlü davranıştan kaçınmak ahlaki bir zorunluluktur\" dedi.",
@@ -1166,17 +1188,6 @@
    "category": "gundem",
    "date": "2026-11-24T13:42:00+00:00",
    "url": "/haber/dursun-ozbek-netanyahu-hukumeti-kulubumuzu-uefa-ya-sikayet-etmis-59ba82c1/"
-  },
-  {
-   "id": "1dc4bd5b",
-   "title": "HP'NİN SON NESİL INTEL İŞLEMCİLİ LAPTOPU | HP OmniBook 3 İnceleme",
-   "summary": "Ofis işleri için büyük ekranlı ve son nesil işlemcili bir laptop arayanlar için öne çıkan HP OmniBook 3'ü detaylıca inceliyoruz.",
-   "link": "https://www.webtekno.com/hp-hp-omnibook-3-inceleme-h229390.html",
-   "image": "https://imgrosetta.webtekno.com/file/698470/698470-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-24T13:03:57+00:00",
-   "url": "/haber/hp-nin-son-nesil-intel-islemcili-laptopu-hp-omnibook-3-inceleme-1dc4bd5b/"
   },
   {
    "id": "b9f38bc9",
@@ -1210,17 +1221,6 @@
    "category": "gundem",
    "date": "2026-11-24T09:10:00+00:00",
    "url": "/haber/iran-hurmuz-de-2-petrol-tankerinde-yangin-cikti-bc2d45af/"
-  },
-  {
-   "id": "312acc25",
-   "title": "Libya'daki Rus gemisine saldırı, Ukrayna savaşının yayılmasına dair ne gösteriyor?",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Pazar günü biri savaş gemisi olmak üzere Rusya'ya ait iki gemiyi Libya kıyılarında vurduklarını kaydetti.",
-   "link": "https://www.bbc.com/turkce/articles/cwn70zz4zg0lo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/56b5/live/f4e96d50-e729-11f1-a094-5fdc692f3e33.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-24T08:22:28+00:00",
-   "url": "/haber/libya-daki-rus-gemisine-saldiri-ukrayna-savasinin-yayilmasina-dair-ne-312acc25/"
   },
   {
    "id": "da2510bb",
