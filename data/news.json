@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-25T04:06:31.034924+00:00",
+ "updated": "2026-11-25T04:30:51.120449+00:00",
  "items": [
+  {
+   "id": "959e58d3",
+   "title": "47 yıllık matematik problemine iki ayrı ispat",
+   "summary": "Anthropic ve OpenAI, Leslie Valiant'ın 1979'da ortaya attığı VP ile VNP probleminin çözüldüğünü öne süren ve yapay zekanın ürettiği iki ayrı ispat yayımladı. İspatlar henüz bağımsız olarak doğrulanmadı.",
+   "link": "https://shiftdelete.net/anthropic-openai-vp-vnp-ispat-47-yillik-problem",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/vp-vnp-yapay-zeka-ispat-kapak-2511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-25T04:30:08+00:00",
+   "url": "/haber/47-yillik-matematik-problemine-iki-ayri-ispat-959e58d3/"
+  },
+  {
+   "id": "a3fbc6aa",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Kasım 2026",
+   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-kasim-2026-1752436",
+   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T04:30:00+00:00",
+   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a3fbc6aa/"
+  },
+  {
+   "id": "8864aa4a",
+   "title": "Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu",
+   "summary": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 asker şehit oldu. Şehitlerin cenazeleri",
+   "link": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
+   "image": "https://images.ntv.com.tr/images/AW839419_02-870255.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T04:08:22+00:00",
+   "url": "/haber/eskisehir-de-askeri-helikopter-dustu-5-asker-sehit-oldu-8864aa4a/"
+  },
   {
    "id": "6e3a6204",
    "title": "Kolombiya'da silahlı kişiler tarafından süpermarkette alıkonulan 30 kişiden 10'u serbest bırakıldı",
@@ -24,15 +57,15 @@
    "url": "/haber/nasa-nin-mars-taki-iki-araci-ariza-verdi-176c51bf/"
   },
   {
-   "id": "a3fbc6aa",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-kasim-2026-1752436",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
+   "id": "bbfc1e45",
+   "title": "Kurtulmuş: Terörsüz Türkiye sürecinde İzleme Komisyonu 19 üyeden oluşacak",
+   "summary": "Meclis Başkanı Numan Kurtulmuş, Terörsüz Türkiye hedefi kapsamında kurulacak İzleme Komisyonu'nun 19 üyeden oluşacağını açıkladı. Bu hafta üye bildirimi yapmaları için siyasi partilere yazı gönderileceğini belirterek…",
+   "link": "https://www.trthaber.com/haber/gundem/kurtulmus-terorsuz-turkiye-surecinde-izleme-komisyonu-19-uyeden-olusacak-964381.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2486000/numan-kurtulmus-aa-2487472.jpg",
+   "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-25T04:00:00+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-a3fbc6aa/"
+   "url": "/haber/kurtulmus-terorsuz-turkiye-surecinde-izleme-komisyonu-19-uyeden-olusac-bbfc1e45/"
   },
   {
    "id": "15f8c8da",
@@ -77,17 +110,6 @@
    "category": "gundem",
    "date": "2026-11-25T03:01:33+00:00",
    "url": "/haber/trabzon-da-cadde-ve-sokaklar-gole-dondu-8f8bb8b4/"
-  },
-  {
-   "id": "8864aa4a",
-   "title": "Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu",
-   "summary": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 asker şehit oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
-   "image": "https://images.ntv.com.tr/images/AW839419_02-870255.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T02:33:55+00:00",
-   "url": "/haber/eskisehir-de-askeri-helikopter-dustu-5-asker-sehit-oldu-8864aa4a/"
   },
   {
    "id": "05686ff7",
@@ -728,17 +750,6 @@
    "url": "/haber/cumhurbaskani-erdogan-15-bin-ogretmen-alim-duyurusu-hafta-icerisinde-a-2edabad4/"
   },
   {
-   "id": "3aa48884",
-   "title": "Muğla'da 4,6 büyüklüğünde deprem",
-   "summary": "Muğla'nın Milas ilçesinde 4,6 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.trthaber.com/haber/turkiye/muglada-46-buyuklugunde-deprem-964346.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2480000/deprem-2480656.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-24T15:51:00+00:00",
-   "url": "/haber/mugla-da-4-6-buyuklugunde-deprem-3aa48884/"
-  },
-  {
    "id": "6ad796f0",
    "title": "TIME'ın yılın 100 fotoğrafında iPhone karesi",
    "summary": "TIME'ın 2026'nın en iyi 100 fotoğrafı listesine, Jimmy Chin'in iPhone 18 Pro ile çektiği dağcı Conrad Anker karesi girdi. Fotoğraf Apple'ın What Holds Us sergisi için çekilmişti.",
@@ -847,17 +858,6 @@
    "category": "gundem",
    "date": "2026-11-24T14:29:00+00:00",
    "url": "/haber/eski-tbmm-baskani-hikmet-cetin-yasamini-yitirdi-1ce74483/"
-  },
-  {
-   "id": "058af414",
-   "title": "Tesla ekranını 1 milyar parametreli YZ çiziyor",
-   "summary": "Tesla, FSD v15 ile gelen Reality View görselleştirmesini araç içinde çalışan yaklaşık 1 milyar parametreli bir difüzyon modeliyle üretiyor. Elon Musk ayrıntıları paylaştı.",
-   "link": "https://shiftdelete.net/tesla-reality-view-1-milyar-parametre-yapay-zeka",
-   "image": "https://ares.shiftdelete.net/2026/05/tesla-fsd-estonya-scaled.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-24T14:07:08+00:00",
-   "url": "/haber/tesla-ekranini-1-milyar-parametreli-yz-ciziyor-058af414/"
   },
   {
    "id": "712b3a67",
