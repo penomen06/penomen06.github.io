@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-25T18:31:09.118105+00:00",
+ "updated": "2026-11-25T19:01:08.669747+00:00",
  "items": [
+  {
+   "id": "6dcefccc",
+   "title": "Chrome'daki Adobe Acrobat eklentisi SSD'leri yıpratıyor olabilir",
+   "summary": "Google Chrome'un Adobe Acrobat eklentisi, aşırı arka plan etkinliği oluşturduğu iddiasıyla gündeme geldi. Bir kullanıcı, yalnızca üç gün içerisinde 300 GB'ın üzerinde yazma etkinliği tespit etti.",
+   "link": "https://www.donanimhaber.com/chrome-daki-adobe-acrobat-eklentisi-ssd-leri-yipratiyor-olabilir--213391",
+   "image": "https://www.donanimhaber.com/images/images/haber/213391/1200x675chrome-daki-adobe-acrobat-eklentisi-ssd-leri-yipratiyor-olabilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T18:50:00+00:00",
+   "url": "/haber/chrome-daki-adobe-acrobat-eklentisi-ssd-leri-yipratiyor-olabilir-6dcefccc/"
+  },
+  {
+   "id": "4d1da4fc",
+   "title": "Anayasa Mahkemesi Ekrem İmamoğlu'nun tutukluluğunu değerlendirecek",
+   "summary": "Anayasa Mahkemesi, Ekrem İmamoğlu'nun tutukluluğunun sona ermesi hakkında yapılan bireysel başvuruyu değerlendirecek. AYM'nin 15 üyesinden sekizinin lehte oy vermesi durumunda tutuklu siyasetçinin serbest bırakılması…",
+   "link": "https://www.bbc.com/turkce/articles/ckedqgw8xp2jo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1fed/live/63daf890-e901-11f1-b9b5-17bef7133655.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-25T18:45:33+00:00",
+   "url": "/haber/anayasa-mahkemesi-ekrem-imamoglu-nun-tutuklulugunu-degerlendirecek-4d1da4fc/"
+  },
+  {
+   "id": "2db999cf",
+   "title": "Muhabirler Derneği'nin 2026 ödülleri sahiplerini buldu",
+   "summary": "Muhabirler Derneğinin 2026 ödülleri, İçişleri Bakanı Mustafa Çiftçi'nin katılımıyla Ankara'da düzenlenen törenle sahiplerini buldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/muhabirler-derneginin-2026-odulleri-sahiplerini-buldu/4137910",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T18:42:29+00:00",
+   "url": "/haber/muhabirler-dernegi-nin-2026-odulleri-sahiplerini-buldu-2db999cf/"
+  },
+  {
+   "id": "3ed11343",
+   "title": "ABD öncülüğündeki konsorsiyum Lukoil'in Rusya dışındaki enerji varlıklarını satın alacak",
+   "summary": "ABD öncülüğündeki bir konsorsiyum, Rus enerji şirketi Lukoil'in uluslararası iştiraki Lukoil International'ın Rusya dışındaki petrol ve doğal gaz varlıklarını satın almak üzere anlaşmaya vardığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-onculugundeki-konsorsiyum-lukoilin-rusya-disindaki-enerji-varliklarini-satin-alacak/4137903",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T18:35:01+00:00",
+   "url": "/haber/abd-onculugundeki-konsorsiyum-lukoil-in-rusya-disindaki-enerji-varlikl-3ed11343/"
+  },
+  {
+   "id": "625d1b2b",
+   "title": "Belçika'da yapay zeka destekli siber saldırıda yaklaşık 1,2 milyon kişinin verileri çalındı",
+   "summary": "Belçika'nın Flaman Bölgesi'nde 82 belediyedeki yaklaşık 1,2 milyon kişinin kişisel verileri yapay zeka destekli bir siber saldırıda çalındı.",
+   "link": "https://www.aa.com.tr/tr/dunya/belcikada-yapay-zeka-destekli-siber-saldirida-yaklasik-1-2-milyon-kisinin-verileri-calindi/4137902",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T18:33:16+00:00",
+   "url": "/haber/belcika-da-yapay-zeka-destekli-siber-saldirida-yaklasik-1-2-milyon-kis-625d1b2b/"
+  },
   {
    "id": "4e8806f6",
    "title": "WhatsApp'a çift kamera özelliği geliyor: Ön ve arka kamera aynı anda çalışacak",
@@ -244,17 +299,6 @@
    "url": "/haber/pubg-ve-ive-the-squad-projesini-baslatiyor-iste-detaylar-e6cf19cf/"
   },
   {
-   "id": "761a62ed",
-   "title": "Arap Koalisyonu: Husilerin attığı mühimmat Suudi Arabistan'ın Cazan Limanı'na düştü",
-   "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, İran destekli Husilerin attığı bir mühimmatın Suudi Arabistan'ın güneyindeki Cazan Limanı'na düştüğünü duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-attigi-muhimmat-suudi-arabistanin-cazan-limanina-dustu/4137808",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T16:54:26+00:00",
-   "url": "/haber/arap-koalisyonu-husilerin-attigi-muhimmat-suudi-arabistan-in-cazan-lim-761a62ed/"
-  },
-  {
    "id": "e378e5b7",
    "title": "Yayıncıların PS5'i GTA 6 oynarken bozuldu",
    "summary": "İki yayıncı, GTA 6 oynarken PS5 konsollarının kullanılamaz hale geldiğini X'te paylaştı. Birinin konsolundan duman çıktı. Arızanın nedeni belli değil, Sony'den de henüz bir açıklama gelmedi.",
@@ -264,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T16:49:19+00:00",
    "url": "/haber/yayincilarin-ps5-i-gta-6-oynarken-bozuldu-e378e5b7/"
-  },
-  {
-   "id": "a9ed44fe",
-   "title": "Sümer Varlık Yönetim'e TMSF kayyum olarak atandı",
-   "summary": "Sümer Varlık Yönetim AŞ'ye Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyum olarak atandı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/sumer-varlik-yonetime-tmsf-kayyum-olarak-atandi/4137806",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T16:47:25+00:00",
-   "url": "/haber/sumer-varlik-yonetim-e-tmsf-kayyum-olarak-atandi-a9ed44fe/"
   },
   {
    "id": "e24d262d",
@@ -308,17 +341,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T16:27:22+00:00",
    "url": "/haber/todoist-veri-ihlali-hesaplarin-6-si-etkilendi-2ec2eba5/"
-  },
-  {
-   "id": "9326ae47",
-   "title": "ABD yönetimi, kapasite fazlası gerekçesiyle 14 ekonomiye ek tarife önerdi",
-   "summary": "ABD yönetimi, imalat sektörlerinde yapısal kapasite fazlası ve üretime ilişkin politikaları nedeniyle Çin ve Avrupa Birliği'nin (AB) de aralarında bulunduğu 14 ekonomiye yönelik ek gümrük vergileri getirilmesini önerdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abd-yonetimi-kapasite-fazlasi-gerekcesiyle-14-ekonomiye-ek-tarife-onerdi/4137787",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T16:23:35+00:00",
-   "url": "/haber/abd-yonetimi-kapasite-fazlasi-gerekcesiyle-14-ekonomiye-ek-tarife-oner-9326ae47/"
   },
   {
    "id": "ea80b06d",
@@ -572,17 +594,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T13:48:45+00:00",
    "url": "/haber/apple-test-icin-hazirlanan-macos-isletim-sistemli-ipad-lere-sahip-7694bef8/"
-  },
-  {
-   "id": "2294f697",
-   "title": "5 dolarlık Raspberry Pi ile Nvidia ekran kartının 80 GB belleği açıldı",
-   "summary": "Bir donanım araştırmacısı, 5 dolarlık Raspberry Pi Pico 2 kullanarak Nvidia CMP 170HX ekran kartının bellek kapasitesini 8 GB'tan 80 GB'a çıkardı. İşte detaylar...",
-   "link": "https://www.donanimhaber.com/raspberry-pi-ile-nvidia-ekran-kartinin-80-gb-bellegi-acildi--213361",
-   "image": "https://www.donanimhaber.com/images/images/haber/213361/1200x675raspberry-pi-ile-nvidia-ekran-kartinin-80-gb-bellegi-acildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T13:43:14+00:00",
-   "url": "/haber/5-dolarlik-raspberry-pi-ile-nvidia-ekran-kartinin-80-gb-bellegi-acildi-2294f697/"
   },
   {
    "id": "6b5bbd28",
@@ -957,17 +968,6 @@
    "category": "gundem",
    "date": "2026-11-25T09:59:32+00:00",
    "url": "/haber/korku-dolu-anlar-tir-dan-uctu-motosikletlinin-kaskina-yapisti-4c622fae/"
-  },
-  {
-   "id": "23eab508",
-   "title": "Numan Kurtulmuş: İzleme Komisyonu 19 üyeden oluşacak",
-   "summary": "TBMM Başkanı Numan Kurtulmuş, Terörsüz Türkiye süreci için mecliste kurulacak İzleme Komisyonu'nun kurulması için siyasi parti liderlerine yazı gönderildiğini açıkladı. Komisyonda yedi siyasi partinin meclisteki…",
-   "link": "https://www.bbc.com/turkce/articles/cqlymzd4l1r5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a4a/live/45240ca0-e8ae-11f1-869a-f96fd5660210.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-25T09:57:57+00:00",
-   "url": "/haber/numan-kurtulmus-izleme-komisyonu-19-uyeden-olusacak-23eab508/"
   },
   {
    "id": "d9f49fc6",
