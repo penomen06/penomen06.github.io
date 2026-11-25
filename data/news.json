@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-25T13:30:55.977078+00:00",
+ "updated": "2026-11-25T14:01:10.110827+00:00",
  "items": [
+  {
+   "id": "7694bef8",
+   "title": "“Apple, test için hazırlanan macOS işletim sistemli iPad’lere sahip”",
+   "summary": "Bloomberg’den Mark Gurman’ın aktardığına göre Apple, test amacıyla macOS çalıştıran birden fazla iPad modeli hazırladı. Ancak şirketin henüz iPadOS ile çalışan iPad’lere macOS getirme gibi bir planı bulunmuyor. Gurman…",
+   "link": "https://www.log.com.tr/apple-test-icin-hazirlanan-macos-isletim-sistemli-ipadlere-sahip/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-25_16-46-55_UL615-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-25T13:48:45+00:00",
+   "url": "/haber/apple-test-icin-hazirlanan-macos-isletim-sistemli-ipad-lere-sahip-7694bef8/"
+  },
+  {
+   "id": "7f6e1159",
+   "title": "Cumhurbaşkanı Erdoğan: Siyaset çözüm üretme yeridir",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, muhalefet partilerine terörsüz Türkiye sürecine ilişkin tutumları nedeniyle tepki gösterirken \"Kendilerine perde yapıyorlar. Siyaset çözüm üretme yeridir.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-siyaset-cozum-uretme-yeridir-1752561",
+   "image": "https://images.ntv.com.tr/images/AA-20261125-43178998-43178994-CUMHURBASKANI_ERDOGAN_25_KASIM_KADINA_YONELIK_SIDDETE_KARSI_ULUSLARARASI_MUCADELE_GUNU_PROGRAMINA_KATILDI-587904.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-25T13:47:38+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-siyaset-cozum-uretme-yeridir-7f6e1159/"
+  },
+  {
+   "id": "2294f697",
+   "title": "5 dolarlık Raspberry Pi ile Nvidia ekran kartının 80 GB belleği açıldı",
+   "summary": "Bir donanım araştırmacısı, 5 dolarlık Raspberry Pi Pico 2 kullanarak Nvidia CMP 170HX ekran kartının bellek kapasitesini 8 GB'tan 80 GB'a çıkardı. İşte detaylar...",
+   "link": "https://www.donanimhaber.com/raspberry-pi-ile-nvidia-ekran-kartinin-80-gb-bellegi-acildi--213361",
+   "image": "https://www.donanimhaber.com/images/images/haber/213361/1200x675raspberry-pi-ile-nvidia-ekran-kartinin-80-gb-bellegi-acildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T13:43:14+00:00",
+   "url": "/haber/5-dolarlik-raspberry-pi-ile-nvidia-ekran-kartinin-80-gb-bellegi-acildi-2294f697/"
+  },
+  {
+   "id": "a671e107",
+   "title": "Yemen'de ordu ile Husilerin karşılıklı saldırıları BM'nin insani krize ilişkin çağrılarına rağmen sürüyor",
+   "summary": "Yemen'de hükümet güçleri ile İran destekli Husiler arasındaki karşılıklı saldırılar sonucu Hudeyde, Sada ve Amran başta olmak üzere birçok vilayette askeri gerilim tırmanırken ülkedeki insani kriz de derinleşiyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-ordu-ile-husilerin-karsilikli-saldirilari-bmnin-insani-krize-iliskin-cagrilarina-ragmen-suruyor/4137583",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T13:37:52+00:00",
+   "url": "/haber/yemen-de-ordu-ile-husilerin-karsilikli-saldirilari-bm-nin-insani-krize-a671e107/"
+  },
+  {
+   "id": "872ae774",
+   "title": "NBA Avrupa için 10 milyar avroluk girişim planı",
+   "summary": "Amerikan Basketbol Ligi (NBA), NBA Avrupa projesi kapsamında kıta genelinde basketbol salonlarının ve çevresindeki eğlence bölgelerinin geliştirilmesiyle yenilenmesi için en az 10 milyar avroluk finansman hedefleyen…",
+   "link": "https://www.aa.com.tr/tr/spor/nba-avrupa-icin-10-milyar-avroluk-girisim-plani/4137582",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T13:37:32+00:00",
+   "url": "/haber/nba-avrupa-icin-10-milyar-avroluk-girisim-plani-872ae774/"
+  },
+  {
+   "id": "6b5bbd28",
+   "title": "Elektrikli Porsche 718 Boxster'ın ilk detayları",
+   "summary": "Porsche, tamamen elektrikli 718 Boxster'ın dünya prömiyerini 2027'nin ilk çeyreğinde yapacağını açıkladı. Şirket, 800 voltluk bataryayı koltukların arkasına yerleştiren E-Core mimarisini ve 3 saniyenin altındaki 0-100…",
+   "link": "https://shiftdelete.net/elektrikli-porsche-718-boxster-2027",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/porsche-718-boxster-elektrikli-prototip-2511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-25T13:36:30+00:00",
+   "url": "/haber/elektrikli-porsche-718-boxster-in-ilk-detaylari-6b5bbd28/"
+  },
+  {
+   "id": "a345988f",
+   "title": "İngiltere'de gençler ve yetişkinlere cinsellik araştırması ne sonuçlar verdi?",
+   "summary": "Büyük Britanya'yı oluşturan İngiltere, İskoçya ve Galler'de yapılan büyük bir araştırmaya göre özellikle genç ve genç yetişkin Britanyalılar, geçmiş nesillere kıyasla daha az cinsel ilişkiye giriyor veya tamamen uzak…",
+   "link": "https://www.bbc.com/turkce/articles/c6lykxd4knmeo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c04/live/270d0cc0-e8b4-11f1-99a1-253766e7ad8b.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-25T13:34:46+00:00",
+   "url": "/haber/ingiltere-de-gencler-ve-yetiskinlere-cinsellik-arastirmasi-ne-sonuclar-a345988f/"
+  },
+  {
+   "id": "cdd09f3e",
+   "title": "25 Kasım'da kadınlar sokağa çıkıyor: '10 ayda 245 kadın öldürüldü, 274 kadının ölümü şüpheli'",
+   "summary": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Türkiye'nin çeşitli kentlerinde yürüyüş ve basın açıklamaları düzenlenecek. İstanbul'da Tünel'deki buluşma nedeniyle Beyoğlu'nda bazı yollar…",
+   "link": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4525/live/dbe7d300-e8af-11f1-869a-f96fd5660210.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-25T13:32:58+00:00",
+   "url": "/haber/25-kasim-da-kadinlar-sokaga-cikiyor-10-ayda-245-kadin-olduruldu-274-ka-cdd09f3e/"
+  },
+  {
+   "id": "d09c653d",
+   "title": "Rus savaş gemisinin İngiltere'de yaklaşık 140 uçuşun GPS sistemlerini etkilediği öne sürüldü",
+   "summary": "İngiltere'de 9 Kasım'dan sonra yaklaşık 140 uçuşta GPS sistemlerinde yaşanan sorunlara, İngiliz ambargosuna tabi ticari gemilere eşlik eden Rus savaş gemisinin neden olduğu öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/rus-savas-gemisinin-ingilterede-yaklasik-140-ucusun-gps-sistemlerini-etkiledigi-one-suruldu/4137569",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T13:29:45+00:00",
+   "url": "/haber/rus-savas-gemisinin-ingiltere-de-yaklasik-140-ucusun-gps-sistemlerini-d09c653d/"
+  },
+  {
+   "id": "cc6e4a33",
+   "title": "İsrail mahkemesi, Netanyahu hakkındaki en ağır yolsuzluk suçlamalarını içeren dosyanın düşürülmesini istedi",
+   "summary": "Yargıç Rivka Friedman-Feldman, başsavcı Gali Baharav-Miara'dan geçici Başbakan Binyamin Netanyahu hakkındaki \"2000\" numaralı dosyanın yeniden gözden geçirilmesini, \"1000\" numaralı dosya için ise savunma tarafıyla…",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-mahkemesi-netanyahu-hakkindaki-en-agir-yolsuzluk-suclamalarini-iceren-dosyanin-dusurulmesini-istedi/4137564",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T13:29:06+00:00",
+   "url": "/haber/israil-mahkemesi-netanyahu-hakkindaki-en-agir-yolsuzluk-suclamalarini-cc6e4a33/"
+  },
   {
    "id": "70a9fce2",
    "title": "iPhone 18e'nin yeni tasarımı sızdırıldı: Kamera değişiyor",
@@ -35,6 +145,17 @@
    "url": "/haber/istanbul-havalimani-gunluk-ortalama-1379-ucusla-avrupa-nin-en-yogun-ha-7ab7aa44/"
   },
   {
+   "id": "3c8cc1be",
+   "title": "İşitme engelli milli güreşçiler, yarın Ermenistan'da ilk müsabakalarına çıkacak",
+   "summary": "İşitme engelli milli güreşçiler, Ermenistan'da 2026 Avrupa Güreş Şampiyonası'nda yarın ilk madalya müsabakalarına çıkacak.",
+   "link": "https://www.aa.com.tr/tr/spor/isitme-engelli-milli-guresciler-yarin-ermenistanda-ilk-musabakalarina-cikacak/4137548",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T13:18:37+00:00",
+   "url": "/haber/isitme-engelli-milli-guresciler-yarin-ermenistan-da-ilk-musabakalarina-3c8cc1be/"
+  },
+  {
    "id": "a6181840",
    "title": "Hyundai, yeni Tucson’un arazi odaklı “Hybrid XRT Pro” versiyonunu da duyurdu",
    "summary": "Hyundai, tasarımıyla ses getiren yeni nesil Tucson’un arazi odaklı “Hybrid XRT Pro” versiyonunu da duyurdu. XRT versiyonunun üzerinde konumlanan XRT Pro, standart olarak dört tekerden çekiş sistemi ile 18 inç jantları…",
@@ -55,17 +176,6 @@
    "category": "gundem",
    "date": "2026-11-25T13:13:47+00:00",
    "url": "/haber/aselsan-in-havadaki-yeni-guc-carpani-tolun-l-hedefi-tam-isabetle-vurdu-f05f30f6/"
-  },
-  {
-   "id": "a345988f",
-   "title": "İngiltere'de gençler ve yetişkinlere cinsellik araştırması ne sonuçlar verdi?",
-   "summary": "Büyük Britanya'yı oluşturan İngiltere, İskoçya ve Galler'de yapılan büyük bir araştırmaya göre özellikle genç ve genç yetişkin Britanyalılar, geçmiş nesillere kıyasla daha az cinsel ilişkiye giriyor veya tamamen uzak…",
-   "link": "https://www.bbc.com/turkce/articles/c6lykxd4knmeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c04/live/270d0cc0-e8b4-11f1-99a1-253766e7ad8b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-25T13:12:57+00:00",
-   "url": "/haber/ingiltere-de-gencler-ve-yetiskinlere-cinsellik-arastirmasi-ne-sonuclar-a345988f/"
   },
   {
    "id": "e7cab78b",
@@ -189,6 +299,17 @@
    "url": "/haber/xiaomi-nin-kari-3-ceyrekte-yaridan-fazla-eridi-d62b33c0/"
   },
   {
+   "id": "a88493c9",
+   "title": "TOLUNL'den ilk atışta tam isabet",
+   "summary": "ASELSAN tarafından geliştirilen TOLUN L, Saros Hedef Adası'nda yapılan test atışında, SADAK-4T çoklu taşıma salanıyla ilk kez entegre edildiği AKINCI’dan ateşlenerek hedefi tam isabetle vurdu.",
+   "link": "https://www.trthaber.com/haber/savunma/tolun-lden-ilk-atista-tam-isabet-964444.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2506000/tolunl-2506233.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-25T12:42:00+00:00",
+   "url": "/haber/tolunl-den-ilk-atista-tam-isabet-a88493c9/"
+  },
+  {
    "id": "f1c313ea",
    "title": "Erciyes'te yapay karlama çalışmaları başladı",
    "summary": "Türkiye'nin önemli kayak merkezlerinden Erciyes'te 2026-2027 kayak sezonu hazırlıkları kapsamında yapay kar üretilmeye başladı.",
@@ -209,17 +330,6 @@
    "category": "gundem",
    "date": "2026-11-25T12:41:23+00:00",
    "url": "/haber/rusya-da-rafinerilerdeki-onarimlar-nedeniyle-akaryakit-piyasasinda-sik-0ef77abd/"
-  },
-  {
-   "id": "7f6e1159",
-   "title": "Cumhurbaşkanı Erdoğan: Siyaset çözüm üretme yeridir",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, muhalefet partilerine terörsüz Türkiye sürecine ilişkin tutumları nedeniyle tepki gösterirken \"Kendilerine perde yapıyorlar. Siyaset çözüm üretme yeridir.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-siyaset-cozum-uretme-yeridir-1752561",
-   "image": "https://images.ntv.com.tr/images/erdoğan-387654.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T12:41:02+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-siyaset-cozum-uretme-yeridir-7f6e1159/"
   },
   {
    "id": "b1bbf4cb",
@@ -354,17 +464,6 @@
    "url": "/haber/irak-basbakaninin-petrol-sahalari-karari-sonrasi-erbil-bagdat-gerilimi-ab407d60/"
   },
   {
-   "id": "3a2fb12d",
-   "title": "Uluslararası Af Örgütü: İsrail Gazze'de kadınlar ve kız çocuklarını sistematik zararlara maruz bıraktı",
-   "summary": "Uluslararası Af Örgütü, İsrail'in işgali altındaki Gazze Şeridi'nde Filistinlilere yönelik sürdürdüğü soykırımın kadınlar ve kız çocukları üzerindeki etkilerine ilişkin hazırladığı 135 sayfalık yeni raporu kamuoyuyla…",
-   "link": "https://www.aa.com.tr/tr/dunya/uluslararasi-af-orgutu-israil-gazzede-kadinlar-ve-kiz-cocuklarini-sistematik-zararlara-maruz-birakti/4137241",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T12:08:30+00:00",
-   "url": "/haber/uluslararasi-af-orgutu-israil-gazze-de-kadinlar-ve-kiz-cocuklarini-sis-3a2fb12d/"
-  },
-  {
    "id": "07bf564d",
    "title": "Avrupa, ABD ve Çin'e karşı 50 milyar euroluk teknoloji fonu kuruyor",
    "summary": "AB, ABD ve Çin'e teknoloji alanında rakip olmak isteyen Avrupa Birliği, yapay zeka ve kuantum şirketlerine yatırım yapmak için 50 milyar euroluk yeni bir fon kurmayı planlıyor.",
@@ -409,17 +508,6 @@
    "url": "/haber/vodafone-dan-ucretsiz-siber-guvenlik-egitimi-166fcca1/"
   },
   {
-   "id": "786e9bda",
-   "title": "İstanbul'da kar yağışı için en kuvvetli ihtimal ocak-şubat dönemi",
-   "summary": "İstanbul Büyükşehir Belediyesi (İBB) Afet Koordinasyon Merkezi (AKOM), kentte kar yağışı için en kuvvetli ihtimalin ocak ayı başından şubat ortasına kadarki süreçte gerçekleşeceğinin öngörüldüğünü duyurdu.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-kar-yagisi-icin-en-kuvvetli-ihtimal-ocak-subat-donemi/4137173",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T11:42:00+00:00",
-   "url": "/haber/istanbul-da-kar-yagisi-icin-en-kuvvetli-ihtimal-ocak-subat-donemi-786e9bda/"
-  },
-  {
    "id": "07656379",
    "title": "Tidal'den dijital müzik sektöründe ilk: Yapay zeka yasağı geliyor!",
    "summary": "Tidal, önümüzdeki aydan itibaren yapay zekayla üretilen parçaların çıkarılacağını duyurdu. Şirketin yöneticisi, bu adımın hem sanatçılar hem de dinleyiciler nezdinde yankı bulacağına inanıyor.",
@@ -440,17 +528,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T11:36:18+00:00",
    "url": "/haber/musk-tum-tesla-modellerine-starlink-geliyor-3498181f/"
-  },
-  {
-   "id": "73a26d85",
-   "title": "Cumhurbaşkanı Erdoğan, güzel sanatlar lisesi öğrencileriyle buluştu",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 24 Kasım Öğretmenler Günü dolayısıyla Beştepe Millet Kongre ve Kültür Merkezi'nde düzenlenen \"Öğretmene Saygı Gecesi\" programında gösteri sunan güzel sanatlar lisesi öğrencileriyle…",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guzel-sanatlar-lisesi-ogrencileriyle-bulustu/4137158",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T11:29:16+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-guzel-sanatlar-lisesi-ogrencileriyle-bulustu-73a26d85/"
   },
   {
    "id": "e71042c0",
@@ -506,17 +583,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T11:09:41+00:00",
    "url": "/haber/oyun-ve-is-icin-hangi-laptop-secilmeli-casper-excalibur-g915-0afc760d/"
-  },
-  {
-   "id": "2f35b93e",
-   "title": "Turkcell Zeka Gücü Projesi'nin yeni teknoloji sınıfları hizmete açıldı",
-   "summary": "Turkcell'in Milli Eğitim Bakanlığı himayesinde yürüttüğü Zeka Gücü Projesi kapsamında, 13 ilde tamamlanan teknoloji sınıflarının açılışı gerçekleştirildi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkcell-zeka-gucu-projesinin-yeni-teknoloji-siniflari-hizmete-acildi/4137136",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T11:04:49+00:00",
-   "url": "/haber/turkcell-zeka-gucu-projesi-nin-yeni-teknoloji-siniflari-hizmete-acildi-2f35b93e/"
   },
   {
    "id": "124f96eb",
@@ -827,17 +893,6 @@
    "url": "/haber/samsung-gallery-uygulamasina-yapay-zeka-destekli-fotograf-iyilestirme-ffc44cf0/"
   },
   {
-   "id": "cdd09f3e",
-   "title": "25 Kasım'da kadınlar sokağa çıkıyor: İstanbul'da bazı yollar kapatılıyor",
-   "summary": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Türkiye'nin çeşitli kentlerinde yürüyüş ve basın açıklamaları düzenlenecek. İstanbul'da Tünel'deki buluşma nedeniyle Beyoğlu'nda bazı yollar…",
-   "link": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4525/live/dbe7d300-e8af-11f1-869a-f96fd5660210.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-25T09:10:44+00:00",
-   "url": "/haber/25-kasim-da-kadinlar-sokaga-cikiyor-istanbul-da-bazi-yollar-kapatiliyo-cdd09f3e/"
-  },
-  {
    "id": "c41e0dcf",
    "title": "Yeni BYD Tang satışa çıktı: 850 km menzil ve 28 bin dolar fiyat",
    "summary": "BYD, üçüncü nesil Tang elektrikli SUV modelini Çin'de satışa sundu. 850 kilometreye kadar menzil sunan araç, 5 dakikada yüzde 10'dan yüzde 80 doluluğa ulaşabilen batarya teknolojisiyle dikkat çekiyor.",
@@ -915,17 +970,6 @@
    "url": "/haber/imamoglu-nun-diploma-iptali-karari-onandi-7dc161d3/"
   },
   {
-   "id": "6b39b714",
-   "title": "Porsche Boxster elektrikleniyor: İlk detaylar açıklandı",
-   "summary": "Porsche, tamamen elektrikli 718 Boxster modelinin 2027'nin ilk çeyreğinde tanıtılacağını doğruladı ve araca dair ilk teknik detayları paylaştı.",
-   "link": "https://www.donanimhaber.com/porsche-boxster-elektrikleniyor-ilk-detaylar-aciklandi--213348",
-   "image": "https://www.donanimhaber.com/images/images/haber/213348/1200x675porsche-boxster-elektrikleniyor-ilk-detaylar-aciklandi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T08:47:00+00:00",
-   "url": "/haber/porsche-boxster-elektrikleniyor-ilk-detaylar-aciklandi-6b39b714/"
-  },
-  {
    "id": "c5caf378",
    "title": "Bazı Anthropic ve OpenAI çalışanları, yapay zeka modellerinin hızla gelişen yetenekleri konusunda ciddi endişe duymaya başladı",
    "summary": "Axios’un haberine göre bazı Anthropic ve OpenAI çalışanları, yapay zeka modellerinin hızla gelişen yetenekleri konusunda giderek daha çok endişe duymaya başladı. Haberde, en gelişmiş sistemlerin yapabildikleri ile…",
@@ -981,17 +1025,6 @@
    "url": "/haber/gta-6-panini-is-birligi-duyuruldu-oyun-icindeki-kartlar-fiziksel-olara-a5a4f902/"
   },
   {
-   "id": "be44368e",
-   "title": "Oyun laptopunda 16:10 ekran günlük kullanımı değiştirir mi? Casper Excalibur G915",
-   "summary": "Casper Excalibur G915 (G915.356H-EX70A-C), oyun dışında uzun metin, kod ve proje dosyalarıyla çalışan kullanıcı için 16:10 ekranı anlamlı bir tercihe dönüştürür. 16 inç panel, klasik geniş ekran alışkanlığının yanına…",
-   "link": "https://www.log.com.tr/oyun-laptopunda-1610-ekran-gunluk-kullanimi-degistirir-mi-casper-excalibur-g915/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-24_16-05-04_D0bFq-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-25T08:30:13+00:00",
-   "url": "/haber/oyun-laptopunda-16-10-ekran-gunluk-kullanimi-degistirir-mi-casper-exca-be44368e/"
-  },
-  {
    "id": "ae452a82",
    "title": "Çelik: Kadına yönelik şiddet toplumun ortak vicdanına saldırıdır",
    "summary": "AK Parti Sözcüsü Ömer Çelik, kadına karşı şiddetin yalnızca bireye değil, toplumun vicdanına ve ortak değerlere de bir saldırı olduğunu söyledi.",
@@ -1001,17 +1034,6 @@
    "category": "gundem",
    "date": "2026-11-25T08:28:21+00:00",
    "url": "/haber/celik-kadina-yonelik-siddet-toplumun-ortak-vicdanina-saldiridir-ae452a82/"
-  },
-  {
-   "id": "525e24e7",
-   "title": "Motorola Razr 2027 sızdı: ocakta gelebilir",
-   "summary": "Sızan bilgilere göre Motorola Razr 2027, ocak ayında CES 2027'de tanıtılabilir. Telefonun 4 inçlik 120 Hz kapak ekranı, 5.000 mAh pil ve 45 W şarjla gelmesi bekleniyor.",
-   "link": "https://shiftdelete.net/motorola-razr-2027-sizinti-ocak-lansman-kapak-ekrani",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/motorola-razr-2027-sizinti-kapak-2511.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-25T08:26:08+00:00",
-   "url": "/haber/motorola-razr-2027-sizdi-ocakta-gelebilir-525e24e7/"
   },
   {
    "id": "88e761ac",
@@ -1089,17 +1111,6 @@
    "category": "gundem",
    "date": "2026-11-25T06:41:00+00:00",
    "url": "/haber/hava-sicakliklari-yurt-genelinde-artacak-e837b3fb/"
-  },
-  {
-   "id": "344786f3",
-   "title": "Cumhurbaşkanı Erdoğan: Kadına yönelik şiddetin hiçbir bahanesi ve gerekçesi olamaz",
-   "summary": "Cumhurbaşkanı Erdoğan, \"Kadına yönelik şiddet vicdansızlıktır, insafsızlıktır, insanlıktan nasibini almamışlara mahsus bir alçaklıktır. Onun için kadına yönelik şiddetin hiçbir bahanesi, hiçbir gerekçesi olamaz.\"…",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kadina-yonelik-siddetin-hicbir-bahanesi-ve-gerekcesi-olamaz/4136630",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T06:28:52+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-kadina-yonelik-siddetin-hicbir-bahanesi-ve-gerek-344786f3/"
   },
   {
    "id": "bb22fce7",
@@ -1221,17 +1232,6 @@
    "category": "gundem",
    "date": "2026-11-24T12:45:56+00:00",
    "url": "/haber/papa-francesco-seytani-uc-kez-gordum-b9f38bc9/"
-  },
-  {
-   "id": "da2510bb",
-   "title": "Cevdet Yılmaz: Emeklilerimize iyileştirme ve enflasyonun üzerinde artış yapılacak",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tüm emeklileri kapsayan ve enflasyonun üzerinde bir artış öngören iyileştirme çalışmasının yılbaşından önce Meclis'in takdirine sunulacağını bildirdi.",
-   "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-emeklilerimize-iyilestirme-ve-enflasyonun-uzerinde-artis-yapilacak-964260.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/cevdet-yilmaz-2496295.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-24T07:00:00+00:00",
-   "url": "/haber/cevdet-yilmaz-emeklilerimize-iyilestirme-ve-enflasyonun-uzerinde-artis-da2510bb/"
   },
   {
    "id": "e9ee236e",
