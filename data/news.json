@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-25T15:01:12.603243+00:00",
+ "updated": "2026-11-25T15:30:54.614480+00:00",
  "items": [
+  {
+   "id": "72dda4c4",
+   "title": "Borsa günü düşüşle tamamladı",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,83 değer kaybederek 10.655,74 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4137729",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T15:23:22+00:00",
+   "url": "/haber/borsa-gunu-dususle-tamamladi-72dda4c4/"
+  },
+  {
+   "id": "a2efc052",
+   "title": "Fransa'da namazla alay eden ve Nazi selamı yapan memur görevinden geçici olarak uzaklaştırıldı",
+   "summary": "Fransa'da namazla alay eden ve Nazi selamı yapan memur görevinden geçici olarak uzaklaştırıldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-namazla-alay-eden-ve-nazi-selami-yapan-memur-gorevinden-gecici-olarak-uzaklastirildi/4137728",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T15:22:47+00:00",
+   "url": "/haber/fransa-da-namazla-alay-eden-ve-nazi-selami-yapan-memur-gorevinden-geci-a2efc052/"
+  },
+  {
+   "id": "b2359595",
+   "title": "Samsung'un yeni Galaxy Watch'u IMEI'de göründü",
+   "summary": "Samsung'un 2027'de yeni Galaxy Watch çıkarmayacağı iddia edilirken SM-L616U model numaralı yeni bir saat GSMA IMEI veritabanında görüldü. Ticaret kayıtlarında ise bu modelle ilişkilendirilen parçaların ekim sonunda sevk…",
+   "link": "https://shiftdelete.net/galaxy-watch-2027-sm-l616-imei",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/galaxy-watch9-ultra2-seri-kapak-2511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-25T15:18:44+00:00",
+   "url": "/haber/samsung-un-yeni-galaxy-watch-u-imei-de-gorundu-b2359595/"
+  },
+  {
+   "id": "63713f3d",
+   "title": "Beşiktaş kafilesini taşıyan uçak, olumsuz hava koşulları nedeniyle Batum'a inemedi",
+   "summary": "Siyah-beyazlı kafile, uçağın Rize-Artvin Havalimanı'na inmesinin ardından kara yoluyla Batum'a geçecek.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-kafilesini-tasiyan-ucak-olumsuz-hava-kosullari-nedeniyle-batuma-inemedi/4137720",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T15:12:05+00:00",
+   "url": "/haber/besiktas-kafilesini-tasiyan-ucak-olumsuz-hava-kosullari-nedeniyle-batu-63713f3d/"
+  },
+  {
+   "id": "c0436be8",
+   "title": "Malatya'da depremde 31 kişinin öldüğü iki blokun yıkılmasına ilişkin davada karar çıktı",
+   "summary": "Malatya'da 6 Şubat depremlerinde yıkılan ve 31 kişinin hayatını kaybettiği, 11 kişinin yaralandığı Bulutlar Sitesi'nin A ve B bloklarına ilişkin 8 tutuksuz sanığın yargılandığı davada karar açıklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/malatyada-depremde-31-kisinin-oldugu-iki-blokun-yikilmasina-iliskin-davada-karar-cikti/4137719",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T15:09:55+00:00",
+   "url": "/haber/malatya-da-depremde-31-kisinin-oldugu-iki-blokun-yikilmasina-iliskin-d-c0436be8/"
+  },
+  {
+   "id": "51ba0590",
+   "title": "One UI 9.5 ile Galaxy'lere gelen yenilikler",
+   "summary": "Samsung'un Galaxy S26 serisi için başlattığı One UI 9.5 beta programındaki yenilikleri videoda anlattık. Uygulama kilidi, Pro kamera hazır ayarları ve ilaç takibi resmi listede; 3D duvar kağıtları ve Dijital Denge'deki…",
+   "link": "https://shiftdelete.net/one-ui-9-5-yenilikleri-video-inceleme",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/oneui95-manset-ender-2511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-25T15:07:45+00:00",
+   "url": "/haber/one-ui-9-5-ile-galaxy-lere-gelen-yenilikler-51ba0590/"
+  },
+  {
+   "id": "f1a9daa1",
+   "title": "Volkswagen ID. Cross R-Line tanıtıldı: 226 beygire kadar güç",
+   "summary": "Volkswagen ID. Cross R-Line, 135 ve 226 beygirlik iki farklı seçenekle geliyor. Almanya fiyatı 37.225 eurodan başlayan modelin güçlü versiyonu 428 km menzil sunacak ve Mart 2027’de ön satışa açılacak.",
+   "link": "https://www.donanimhaber.com/volkswagen-id-cross-r-line-tanitildi-226-beygire-kadar-guc--213379",
+   "image": "https://www.donanimhaber.com/images/images/haber/213379/1200x675volkswagen-id-cross-r-line-tanitildi-226-beygire-kadar-guc.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T15:07:00+00:00",
+   "url": "/haber/volkswagen-id-cross-r-line-tanitildi-226-beygire-kadar-guc-f1a9daa1/"
+  },
   {
    "id": "dfd6d0fc",
    "title": "30 Bin Lira Bütçeye En İyi Telefon Hangisi? Nothing Phone 3a vs Honor 600 vs Poco X8 Pro",
@@ -88,6 +165,17 @@
    "category": "gundem",
    "date": "2026-11-25T14:34:34+00:00",
    "url": "/haber/rusya-avrupa-nin-ukrayna-konulu-muzakerelerde-ustlenecegi-rolu-anlamak-2afd3341/"
+  },
+  {
+   "id": "3d322a87",
+   "title": "MEB'in yapay zeka çalışmalarına \"Gartner Eye on Innovation\" ödülü",
+   "summary": "Milli Eğitim Bakanlığı (MEB), yapay zekanın eğitim süreçlerinde etkili ve güvenli biçimde kullanılmasına yönelik çalışmalarıyla 2026 Gartner Eye on Innovation Awards for Education'da K12 kategorisinin kazananı oldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/mebin-yapay-zeka-calismalarina-gartner-eye-on-innovation-odulu/4137675",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T14:34:12+00:00",
+   "url": "/haber/meb-in-yapay-zeka-calismalarina-gartner-eye-on-innovation-odulu-3d322a87/"
   },
   {
    "id": "1591f6db",
@@ -200,28 +288,6 @@
    "url": "/haber/cumhurbaskani-erdogan-siyaset-cozum-uretme-yeridir-7f6e1159/"
   },
   {
-   "id": "14ae3d88",
-   "title": "ABD'de kişisel tüketim harcamaları ekimde beklentilerin altında arttı",
-   "summary": "Fed'in enflasyon göstergesi olarak dikkate aldığı çekirdek kişisel tüketim harcamaları fiyat endeksi ekimde yıllık bazda yüzde 3,3 yükseldi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-kisisel-tuketim-harcamalari-ekimde-beklentilerin-altinda-artti/4137629",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T14:09:08+00:00",
-   "url": "/haber/abd-de-kisisel-tuketim-harcamalari-ekimde-beklentilerin-altinda-artti-14ae3d88/"
-  },
-  {
-   "id": "4e9cec7b",
-   "title": "Edirne'de şehitlerin portrelerinden oluşan sergi açıldı",
-   "summary": "Edirne'de şehitlerin portrelerinden oluşan sergi törenle açıldı.",
-   "link": "https://www.aa.com.tr/tr/kultur/edirnede-sehitlerin-portrelerinden-olusan-sergi-acildi/4137624",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T14:07:00+00:00",
-   "url": "/haber/edirne-de-sehitlerin-portrelerinden-olusan-sergi-acildi-4e9cec7b/"
-  },
-  {
    "id": "f5309b28",
    "title": "Amazon’dan otomobil alma dönemi Avrupa’ya taşınıyor",
    "summary": "Amazon Autos 2027’nin başında Birleşik Krallık’ta hizmete girecek. Kullanıcılar yeni ve ikinci el araçları Amazon’dan seçip rezerve edebilecek. Satın alma işlemleri ise bayiler üzerinden tamamlanacak.",
@@ -233,28 +299,6 @@
    "url": "/haber/amazon-dan-otomobil-alma-donemi-avrupa-ya-tasiniyor-f5309b28/"
   },
   {
-   "id": "8dfac830",
-   "title": "ABD ekonomisi yüzde 4,3 büyüdü",
-   "summary": "ABD ekonomisi bu yılın üçüncü çeyreğinde yüzde 4,3 büyüdü.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abd-ekonomisi-yuzde-4-3-buyudu/4137620",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T14:02:53+00:00",
-   "url": "/haber/abd-ekonomisi-yuzde-4-3-buyudu-8dfac830/"
-  },
-  {
-   "id": "73f7062e",
-   "title": "Cumhurbaşkanı Erdoğan, Libya Ulusal Ordusu Genel Komutanı Hafter'i kabul etti",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Libya Ulusal Ordusu Genel Komutanı Mareşal Halife Hafter ve beraberindeki heyeti kabul etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-libya-ulusal-ordusu-genel-komutani-hafteri-kabul-etti/4137618",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T14:02:22+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-libya-ulusal-ordusu-genel-komutani-hafter-i-kabu-73f7062e/"
-  },
-  {
    "id": "c2fd11c1",
    "title": "Bir Yayıncının PS5'i GTA 6 Oynarken Yandı: Birden Fazla Vaka Bildirilmiş Durumda!",
    "summary": "GTA 6, bazı PS5 konsollarında aşırı ısınma ve donanım arızalarına yol açmaya başladı.",
@@ -264,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T14:00:20+00:00",
    "url": "/haber/bir-yayincinin-ps5-i-gta-6-oynarken-yandi-birden-fazla-vaka-bildirilmi-c2fd11c1/"
-  },
-  {
-   "id": "2a5b15c2",
-   "title": "Libya-Türkiye deniz yetki alanları anlaşması Libya Resmi Gazetesi'nde yayımlandı",
-   "summary": "Libya Temsilciler Meclisinin onayladığı Türkiye ile Libya arasındaki deniz yetki alanlarının sınırlandırılmasına ilişkin anlaşma, harita ve coğrafi koordinatlarıyla birlikte Libya Resmi Gazetesi'nde yayımlandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/libya-turkiye-deniz-yetki-alanlari-anlasmasi-libya-resmi-gazetesinde-yayimlandi/4137610",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T13:58:30+00:00",
-   "url": "/haber/libya-turkiye-deniz-yetki-alanlari-anlasmasi-libya-resmi-gazetesi-nde-2a5b15c2/"
   },
   {
    "id": "7694bef8",
@@ -365,17 +398,6 @@
    "url": "/haber/teknoloji-devlerinden-2027-icin-sok-karar-samsung-ve-apple-bile-telefo-fa58c55e/"
   },
   {
-   "id": "3c8cc1be",
-   "title": "İşitme engelli milli güreşçiler, yarın Ermenistan'da ilk müsabakalarına çıkacak",
-   "summary": "İşitme engelli milli güreşçiler, Ermenistan'da 2026 Avrupa Güreş Şampiyonası'nda yarın ilk madalya müsabakalarına çıkacak.",
-   "link": "https://www.aa.com.tr/tr/spor/isitme-engelli-milli-guresciler-yarin-ermenistanda-ilk-musabakalarina-cikacak/4137548",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T13:18:37+00:00",
-   "url": "/haber/isitme-engelli-milli-guresciler-yarin-ermenistan-da-ilk-musabakalarina-3c8cc1be/"
-  },
-  {
    "id": "a6181840",
    "title": "Hyundai, yeni Tucson’un arazi odaklı “Hybrid XRT Pro” versiyonunu da duyurdu",
    "summary": "Hyundai, tasarımıyla ses getiren yeni nesil Tucson’un arazi odaklı “Hybrid XRT Pro” versiyonunu da duyurdu. XRT versiyonunun üzerinde konumlanan XRT Pro, standart olarak dört tekerden çekiş sistemi ile 18 inç jantları…",
@@ -451,6 +473,17 @@
    "category": "gundem",
    "date": "2026-11-25T13:01:19+00:00",
    "url": "/haber/60-saniyede-ekonomide-bugun-25-kasim-2026-b0e1bb7e/"
+  },
+  {
+   "id": "3450e65f",
+   "title": "60 saniyede bugün (25 Kasım 2026)",
+   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-25-kasim-2026/4137524",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T13:00:31+00:00",
+   "url": "/haber/60-saniyede-bugun-25-kasim-2026-3450e65f/"
   },
   {
    "id": "e7d16b9d",
@@ -805,17 +838,6 @@
    "url": "/haber/yeni-parti-de-myk-uyeleri-aciklandi-iste-ozgur-ozel-in-a-takimi-d6fee317/"
   },
   {
-   "id": "2d8645d6",
-   "title": "Vodafone ve İTÜ’den Siber Güvenlik Akademisi: Ücretsiz online eğitim",
-   "summary": "Vodafone Business ve İTÜ, siber güvenlik alanında uzman yetiştirmek için Siber Güvenlik Akademisi’ni başlattı. Programa ilk bir ayda 5 binden fazla başvuru yapıldı.",
-   "link": "https://www.donanimhaber.com/vodafone-ve-itu-den-siber-guvenlik-akademisi--213371",
-   "image": "https://www.donanimhaber.com/images/images/haber/213371/1200x675vodafone-ve-itu-den-siber-guvenlik-akademisi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T10:30:10+00:00",
-   "url": "/haber/vodafone-ve-itu-den-siber-guvenlik-akademisi-ucretsiz-online-egitim-2d8645d6/"
-  },
-  {
    "id": "b24dec63",
    "title": "ZDF'ye silahlı röportaj veren Daltonlar üyelerine İstanbul'da baskın",
    "summary": "Alman ZDF kanalına ellerinde silahlarla röportaj veren Daltonlar Çetesi üyelerine operasyon düzenlendi. Polis dokuz şüpheliyi yakaladı.",
@@ -935,28 +957,6 @@
    "category": "gundem",
    "date": "2026-11-25T09:30:42+00:00",
    "url": "/haber/kizilay-metrosunda-bicakli-saldirgan-panigi-6e705de8/"
-  },
-  {
-   "id": "49e3da2d",
-   "title": "Vodafone kesintiyi müşteriden önce yakalıyor",
-   "summary": "Vodafone Türkiye, ev interneti kesintilerini müşteri arıza kaydı açmadan bulan Netcut Detector sistemini devreye aldı. Şirkete göre sistem her ay yaklaşık 3 bin müşteriye ulaşıyor ve tespit edilen sorunların yaklaşık…",
-   "link": "https://shiftdelete.net/vodafone-netcut-detector-ev-interneti-kesinti-tespiti",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/vodafone-netcut-detector-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-25T09:29:23+00:00",
-   "url": "/haber/vodafone-kesintiyi-musteriden-once-yakaliyor-49e3da2d/"
-  },
-  {
-   "id": "79bd2d87",
-   "title": "Google AI Mode artık Drive ve Wallet'ı okuyor",
-   "summary": "Google AI Mode, Gmail ve Takvim'in ardından artık Google Wallet'a da bağlanabiliyor. Drive ve Gemini desteği de yolda; arama motoru harcamalarınıza ve belgelerinize bakarak size özel yanıt verecek.",
-   "link": "https://shiftdelete.net/google-ai-mode-wallet-drive-gemini-baglantisi",
-   "image": "https://shiftdelete.net/static/img/content/26-11/25/google-ai-mode-personal-intelligence-wallet-drive.png",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-25T09:28:51+00:00",
-   "url": "/haber/google-ai-mode-artik-drive-ve-wallet-i-okuyor-79bd2d87/"
   },
   {
    "id": "ffc44cf0",
