@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-25T20:01:08.480593+00:00",
+ "updated": "2026-11-25T20:30:54.020779+00:00",
  "items": [
+  {
+   "id": "515a0102",
+   "title": "Yapay zekâda ezber bozan mimari: GLM-5.4 aynı katmanları iki kez işleyip gücünü artırıyor",
+   "summary": "Çinli Z.ai'ın Loop Transformer mimarisini temel alan yeni yapay zekâsı GLM-5.4 , sinir ağı katmanlarını tekrar kullanarak kendisinden çok daha büyük modellerin performansına yaklaşıyor.",
+   "link": "https://www.donanimhaber.com/glm-5-4-tanitildi-yapay-zeka-modellerinde-ezber-bozan-mimari--213383",
+   "image": "https://www.donanimhaber.com/images/images/haber/213383/1200x675glm-5-4-tanitildi-yapay-zeka-modellerinde-ezber-bozan-mimari.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T20:30:00+00:00",
+   "url": "/haber/yapay-zekada-ezber-bozan-mimari-glm-5-4-ayni-katmanlari-iki-kez-isleyi-515a0102/"
+  },
+  {
+   "id": "00540df2",
+   "title": "Uzaktan çalışan ekipler için güvenli erişim: Ev ağından ortak Wi-Fi'ye kadar",
+   "summary": "Uzaktan ve hibrit çalışan ekiplerde şirket verilerine güvenli erişim sağlamak için VPN, çok faktörlü doğrulama ve merkezi erişim yönetimi gibi önlemler öne çıkıyor.",
+   "link": "https://www.donanimhaber.com/uzaktan-calismada-guvenli-erisim-ev-agindan-ortak-wi-fi-ye-kadar--213396",
+   "image": "https://www.donanimhaber.com/images/images/haber/213396/1200x675uzaktan-calismada-guvenli-erisim-ev-agindan-ortak-wi-fi-ye-kadar.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T20:27:43+00:00",
+   "url": "/haber/uzaktan-calisan-ekipler-icin-guvenli-erisim-ev-agindan-ortak-wi-fi-ye-00540df2/"
+  },
+  {
+   "id": "54080b64",
+   "title": "ABD'den, Lübnan'a gönderilmek üzereyken ele geçirilen \"İran menşeli silahlar\" konusunda Suriye'ye tebrik",
+   "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Lübnan'a gönderilmek üzereyken ele geçirilen \"İran menşeli silahlar\" dolayısıyla Suriye yönetimini tebrik etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdden-lubnana-gonderilmek-uzereyken-ele-gecirilen-iran-menseli-silahlar-konusunda-suriyeye-tebrik/4138047",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T20:13:51+00:00",
+   "url": "/haber/abd-den-lubnan-a-gonderilmek-uzereyken-ele-gecirilen-iran-menseli-sila-54080b64/"
+  },
+  {
+   "id": "4e0f36fb",
+   "title": "Suriye'nin Haseke kentinde bomba yüklü motosiklet patladı",
+   "summary": "Suriye'nin kuzeydoğusundaki Haseke kentinde bomba yüklü motosikletin patladığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriyenin-haseke-kentinde-bomba-yuklu-motosiklet-patladi/4138046",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T20:13:03+00:00",
+   "url": "/haber/suriye-nin-haseke-kentinde-bomba-yuklu-motosiklet-patladi-4e0f36fb/"
+  },
+  {
+   "id": "38360358",
+   "title": "1Password hacklendi: Kasalar güvende",
+   "summary": "Parola yöneticisi 1Password, saldırganların şirketin sistemlerine sızdığını ve bazı müşterilerin ad ve e-posta adreslerini kopyaladığını doğruladı. Şirkete göre kasalardaki şifreler güvende.",
+   "link": "https://shiftdelete.net/1password-hacklendi-musteri-bilgileri-calindi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/1password-guvenlik-ihlali-kapak-2511.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-25T20:12:08+00:00",
+   "url": "/haber/1password-hacklendi-kasalar-guvende-38360358/"
+  },
+  {
+   "id": "33ef11e9",
+   "title": "Büyük kesinti sonrası Microsoft alarma geçti",
+   "summary": "Microsoft, tarihinin en büyük hizmet kesintisinin ardından Code Red alarmı verdi. Şirket, benzer sorunlarda küresel hizmetleri bir saat içinde kurtarmayı hedefliyor.",
+   "link": "https://www.donanimhaber.com/buyuk-kesinti-sonrasi-microsoft-alarma-gecti--213372",
+   "image": "https://www.donanimhaber.com/images/images/haber/213372/1200x675buyuk-kesinti-sonrasi-microsoft-alarma-gecti.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T20:10:00+00:00",
+   "url": "/haber/buyuk-kesinti-sonrasi-microsoft-alarma-gecti-33ef11e9/"
+  },
+  {
+   "id": "c0815d76",
+   "title": "Fenerbahçe, Londra'da Shakhtar Donetsk deplasmanında",
+   "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki beşinci hafta maçında bu akşam Ukrayna'nın Shaktar Donetsk takımıyla karşılaşıyor.",
+   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f04/live/cc6ad220-e8ea-11f1-8808-1d4222955d7e.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-25T20:08:27+00:00",
+   "url": "/haber/fenerbahce-londra-da-shakhtar-donetsk-deplasmaninda-c0815d76/"
+  },
+  {
+   "id": "de16374c",
+   "title": "ABD Ukrayna’ya 622 milyon dolarlık F-16 bakım ve destek ekipmanı satışını onayladı",
+   "summary": "ABD Dışişleri Bakanlığı, Ukrayna’ya 622 milyon dolar tutarında F-16 uçaklarının bakım ve destek hizmetleri ile ilgili ekipman satışını onayladığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-ukrayna-ya-622-milyon-dolarlik-f-16-bakim-ve-destek-ekipmani-satisini-onayladi/4138031",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T19:56:42+00:00",
+   "url": "/haber/abd-ukrayna-ya-622-milyon-dolarlik-f-16-bakim-ve-destek-ekipmani-satis-de16374c/"
+  },
   {
    "id": "08b5edd3",
    "title": "MacBook Neo 2'nin çıkış tarihi ortaya çıktı: Yeni renkler de yolda",
@@ -33,6 +121,17 @@
    "category": "teknoloji",
    "date": "2026-11-25T19:30:00+00:00",
    "url": "/haber/gta-6-call-of-duty-nin-belini-buktu-oyuncu-sayisi-hizla-dusuyor-6c21f00c/"
+  },
+  {
+   "id": "2d515488",
+   "title": "Berlin'de Filistin'e destek gösterisi düzenlendi",
+   "summary": "Almanya'nın başkenti Berlin’de Filistin’e destek gösterisi düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/dunya/berlinde-filistine-destek-gosterisi-duzenlendi/4137952",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-25T19:29:55+00:00",
+   "url": "/haber/berlin-de-filistin-e-destek-gosterisi-duzenlendi-2d515488/"
   },
   {
    "id": "a22061e9",
@@ -211,17 +310,6 @@
    "url": "/haber/abd-spacex-in-uzaydaki-veri-merkezleri-icin-1-milyon-uydu-firlatmasina-7e87d94a/"
   },
   {
-   "id": "46a27cb6",
-   "title": "ABD'de orduya ait yaklaşık 5 tonluk mühimmat kontrollü şekilde patlatıldı",
-   "summary": "ABD'nin Iowa eyaletinde, orduya ait bir mühimmat fabrikasında bulunan yaklaşık 5 ton kurşun azit stoku kontrollü şekilde imha edildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-orduya-ait-yaklasik-5-tonluk-muhimmat-kontrollu-sekilde-patlatildi/4137876",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T18:01:09+00:00",
-   "url": "/haber/abd-de-orduya-ait-yaklasik-5-tonluk-muhimmat-kontrollu-sekilde-patlati-46a27cb6/"
-  },
-  {
    "id": "d957c063",
    "title": "OpenAI ve Anthropic'in gizli yapay zeka modelleri çalışanları korkutuyor",
    "summary": "OpenAI ve Anthropic çalışanları, henüz yayımlanmayan yapay zeka modellerinin kontrol edilmesinin giderek zorlaştığını belirterek güvenlik riskleri konusunda uyarıyor.",
@@ -231,28 +319,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T17:50:00+00:00",
    "url": "/haber/openai-ve-anthropic-in-gizli-yapay-zeka-modelleri-calisanlari-korkutuy-d957c063/"
-  },
-  {
-   "id": "f1437872",
-   "title": "ANTRAY, COP31'de günde 130 bin yolcu taşıdı",
-   "summary": "Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) süresinde, hafif raylı sistem ANTRAY günlük ortalama 130 bin yolcuya hizmet verdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/antray-cop31de-gunde-130-bin-yolcu-tasidi/4137869",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T17:46:05+00:00",
-   "url": "/haber/antray-cop31-de-gunde-130-bin-yolcu-tasidi-f1437872/"
-  },
-  {
-   "id": "a68e76e3",
-   "title": "Depremde 41 kişinin öldüğü Pınar Apartmanı'na ilişkin davada karar çıktı",
-   "summary": "Kahramanmaraş'ta 6 Şubat 2023'teki depremlerde 41 kişinin hayatını kaybettiği Pınar Apartmanı'nın yıkılmasına ilişkin davada karar çıktı.",
-   "link": "https://www.aa.com.tr/tr/gundem/depremde-41-kisinin-oldugu-pinar-apartmanina-iliskin-davada-karar-cikti/4137865",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T17:41:35+00:00",
-   "url": "/haber/depremde-41-kisinin-oldugu-pinar-apartmani-na-iliskin-davada-karar-cik-a68e76e3/"
   },
   {
    "id": "26091896",
@@ -308,17 +374,6 @@
    "category": "gundem",
    "date": "2026-11-25T17:08:57+00:00",
    "url": "/haber/bursa-dan-kars-a-18-sehir-daha-yht-ile-bulusacak-400ddd2e/"
-  },
-  {
-   "id": "464b969e",
-   "title": "Selçuk Bayraktar: Tüylerimizi diken diken eden şey gök vatandaki serüvenimiz adına çekilen çile, çaba",
-   "summary": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, \"Tüylerimizi diken diken eden şey de sadece bu hangarlar, binalar, büyük tesisler değil, onun içinde taşınan ruh, gök vatandaki serüvenimiz adına çekilen çile, çaba.\" diye…",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/selcuk-bayraktar-tuylerimizi-diken-diken-eden-sey-gok-vatandaki-seruvenimiz-adina-cekilen-cile-caba/4137822",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T17:04:24+00:00",
-   "url": "/haber/selcuk-bayraktar-tuylerimizi-diken-diken-eden-sey-gok-vatandaki-seruve-464b969e/"
   },
   {
    "id": "e6cf19cf",
@@ -420,17 +475,6 @@
    "url": "/haber/honor-oppo-ve-iphone-a-dokunarak-dosya-atiyor-9c4ce9d7/"
   },
   {
-   "id": "0b8ad1a2",
-   "title": "Efsane Audi TT'nin elektrikli halefi geliyor: Böyle görünebilir",
-   "summary": "Audi, 2027'de tanıtılması beklenen tamamen elektrikli spor otomobiliyle efsanevi TT modelini yeniden canlandırmayı hedefliyor. Araç, Radical Next tasarım dilini seri üretime taşıyan ilk model olacak.",
-   "link": "https://www.donanimhaber.com/efsane-audi-tt-nin-elektrikli-halefi-geliyor-boyle-gorunebilir--213387",
-   "image": "https://www.donanimhaber.com/images/images/haber/213387/1200x675efsane-audi-tt-nin-elektrikli-halefi-geliyor-boyle-gorunebilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T15:32:00+00:00",
-   "url": "/haber/efsane-audi-tt-nin-elektrikli-halefi-geliyor-boyle-gorunebilir-0b8ad1a2/"
-  },
-  {
    "id": "b2359595",
    "title": "Samsung'un yeni Galaxy Watch'u IMEI'de göründü",
    "summary": "Samsung'un 2027'de yeni Galaxy Watch çıkarmayacağı iddia edilirken SM-L616U model numaralı yeni bir saat GSMA IMEI veritabanında görüldü. Ticaret kayıtlarında ise bu modelle ilişkilendirilen parçaların ekim sonunda sevk…",
@@ -451,28 +495,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T15:07:45+00:00",
    "url": "/haber/one-ui-9-5-ile-galaxy-lere-gelen-yenilikler-51ba0590/"
-  },
-  {
-   "id": "f1a9daa1",
-   "title": "Volkswagen ID. Cross R-Line tanıtıldı: 226 beygire kadar güç",
-   "summary": "Volkswagen ID. Cross R-Line, 135 ve 226 beygirlik iki farklı seçenekle geliyor. Almanya fiyatı 37.225 eurodan başlayan modelin güçlü versiyonu 428 km menzil sunacak ve Mart 2027’de ön satışa açılacak.",
-   "link": "https://www.donanimhaber.com/volkswagen-id-cross-r-line-tanitildi-226-beygire-kadar-guc--213379",
-   "image": "https://www.donanimhaber.com/images/images/haber/213379/1200x675volkswagen-id-cross-r-line-tanitildi-226-beygire-kadar-guc.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T15:07:00+00:00",
-   "url": "/haber/volkswagen-id-cross-r-line-tanitildi-226-beygire-kadar-guc-f1a9daa1/"
-  },
-  {
-   "id": "dfd6d0fc",
-   "title": "30 Bin Lira Bütçeye En İyi Telefon Hangisi? Nothing Phone 3a vs Honor 600 vs Poco X8 Pro",
-   "summary": "Bu video içeriğimizde ülkemizde en ulaşılabilir gördüğümüz fiyat bandı olan 30 bin lira bütçeye alınabilecek bizim nazarımızca en mantıklı üç telefon modelini karşılaştırdık.",
-   "link": "https://www.donanimhaber.com/30-bin-lira-butceye-en-iyi-telefon-hangisi--212932",
-   "image": "https://www.donanimhaber.com/images/images/haber/212932/1200x67530-bin-lira-butceye-en-iyi-telefon-hangisi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T15:00:44+00:00",
-   "url": "/haber/30-bin-lira-butceye-en-iyi-telefon-hangisi-nothing-phone-3a-vs-honor-6-dfd6d0fc/"
   },
   {
    "id": "e6915dbb",
@@ -695,17 +717,6 @@
    "url": "/haber/rockstar-games-iddiaya-gore-red-dead-redemption-merkezli-bir-dizi-ya-d-e7d16b9d/"
   },
   {
-   "id": "c0815d76",
-   "title": "Fenerbahçe, Londra'da Shakhtar Donetsk deplasmanına çıkıyor",
-   "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki beşinci hafta maçında bu akşam Ukrayna'nın Shaktar Donetsk takımıyla karşılaşacak",
-   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f04/live/cc6ad220-e8ea-11f1-8808-1d4222955d7e.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-25T12:51:48+00:00",
-   "url": "/haber/fenerbahce-londra-da-shakhtar-donetsk-deplasmanina-cikiyor-c0815d76/"
-  },
-  {
    "id": "83974630",
    "title": "Fiat Marka Direktörü Altan Aytaç: “Fiat Fastback ve Grizzly, Türk tüketicisinin beklentilerini güçlü biçimde yansıtıyor”",
    "summary": "İtalya’da Türkiye için tasarlandığı söylenen Fiat Fastback ve Grizzly hakkında konuşan Fiat Marka Direktörü Altan Aytaç, “Fiat markasının, yeni tasarım anlayışındaki ürün yolculuğu Fiat Fastback ve Fiat Grizzly ile…",
@@ -891,17 +902,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T11:14:35+00:00",
    "url": "/haber/steam-turkiye-de-en-cok-satan-oyunlar-aciklandi-17-24-kasim-2026-c9971453/"
-  },
-  {
-   "id": "0afc760d",
-   "title": "Oyun ve İş İçin Hangi Laptop Seçilmeli? Casper Excalibur G915",
-   "summary": "Casper Excalibur G915, bağımsız test kuruluşu SGS'nin PCMark 10 Productivity ölçümünde 20.343 puan aldı. 16:10 ekranlı ve RTX 5070'li model, iş ve oyunu tek bilgisayarda toplamak isteyenlere hitap ediyor.",
-   "link": "https://shiftdelete.net/oyun-ve-is-icin-hangi-laptop-secilmeli-casper-excalibur-g915",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/casper-oyun-ve-is-icin-hangi-laptop-secilmeli-casper-excalibur-g915-kapak-2411.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-25T11:09:41+00:00",
-   "url": "/haber/oyun-ve-is-icin-hangi-laptop-secilmeli-casper-excalibur-g915-0afc760d/"
   },
   {
    "id": "124f96eb",
