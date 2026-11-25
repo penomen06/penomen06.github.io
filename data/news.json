@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T22:01:06.262576+00:00",
+ "updated": "2026-11-25T22:30:56.927292+00:00",
  "items": [
+  {
+   "id": "065c3510",
+   "title": "Şifre yöneticisi 1Password hacklendi, müşteri verileri ele geçirildi",
+   "summary": "1Password, çalışanlarından birinin hesabı üzerinden gerçekleştirilen siber saldırıda müşteri verilerinin ele geçirildiğini doğruladı. Şirket, saldırının kapsamına ilişkin detayları paylaştı.",
+   "link": "https://www.donanimhaber.com/1password-hacklendi-musteri-verileri-ele-gecirildi--213399",
+   "image": "https://www.donanimhaber.com/images/images/haber/213399/1200x6751password-hacklendi-musteri-verileri-ele-gecirildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-25T22:18:12+00:00",
+   "url": "/haber/sifre-yoneticisi-1password-hacklendi-musteri-verileri-ele-gecirildi-065c3510/"
+  },
+  {
+   "id": "c0815d76",
+   "title": "Fenerbahçe Londra'da Shakhtar Donetsk'i tek golle geçti",
+   "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'ndeki beşinci hafta maçında Ukrayna'nın Shakhtar Donetsk takımıyla Londra'da karşılaştı. Sarı-lacivertliler Arda Turan'ın çalıştırdığı Shakhtar Donetsk'i 56. dakikada Vedat Muriqi'nin…",
+   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6945/live/308ae0c0-e91c-11f1-a150-3b4eded49105.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-25T22:05:36+00:00",
+   "url": "/haber/fenerbahce-londra-da-shakhtar-donetsk-i-tek-golle-gecti-c0815d76/"
+  },
   {
    "id": "3c397b58",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Kasım 2026",
@@ -22,6 +44,17 @@
    "category": "teknoloji",
    "date": "2026-11-25T21:50:00+00:00",
    "url": "/haber/usta-yonetmen-steven-spielberg-yeni-filmi-icin-etkileyici-bir-ekip-top-db7a89f9/"
+  },
+  {
+   "id": "64e8db45",
+   "title": "Fenerbahçe Londra'dan 3 puanla dönüyor",
+   "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 5. haftasında deplasmanda karşılaştığı Ukrayna temsilcisi Shakhtar Donetsk'i 1-0 mağlup etti.",
+   "link": "https://www.trthaber.com/haber/gundem/fenerbahce-londradan-3-puanla-donuyor-964485.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2506000/fenerbahce-aa-2506306.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-25T21:50:00+00:00",
+   "url": "/haber/fenerbahce-londra-dan-3-puanla-donuyor-64e8db45/"
   },
   {
    "id": "528005f9",
@@ -101,15 +134,15 @@
    "url": "/haber/abd-nin-new-jersey-eyaletinde-yaklasan-firtina-nedeniyle-olaganustu-ha-629d6d1e/"
   },
   {
-   "id": "afb9ece6",
-   "title": "Fenerbahçe, Şampiyonlar Ligi'nde Shakhtar Donetsk'i 1-0 yendi",
-   "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında Fenerbahçe, Shakhtar Donetsk'i 1-0 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-sampiyonlar-liginde-shakhtar-donetski-1-0-yendi/4138081",
+   "id": "9e460c1b",
+   "title": "Fenerbahçe, Şampiyonlar Ligi'nde Shakhtar Donetsk'i tek golle geçti",
+   "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında Ukrayna'nın Shakhtar Donetsk ekibiyle İngiltere'nin başkenti Londra'da karşılaşan Fenerbahçe, Muric'in golüyle rakibini 1-0 yenerek puanını 8'e yükseltti.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-sampiyonlar-liginde-shakhtar-donetski-tek-golle-gecti/4138081",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-25T20:57:27+00:00",
-   "url": "/haber/fenerbahce-sampiyonlar-ligi-nde-shakhtar-donetsk-i-1-0-yendi-afb9ece6/"
+   "url": "/haber/fenerbahce-sampiyonlar-ligi-nde-shakhtar-donetsk-i-tek-golle-gecti-9e460c1b/"
   },
   {
    "id": "e9d4ce9c",
@@ -275,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T20:10:00+00:00",
    "url": "/haber/buyuk-kesinti-sonrasi-microsoft-alarma-gecti-33ef11e9/"
-  },
-  {
-   "id": "c0815d76",
-   "title": "Fenerbahçe, Londra'da Shakhtar Donetsk deplasmanında",
-   "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki beşinci hafta maçında bu akşam Ukrayna'nın Shaktar Donetsk takımıyla karşılaşıyor.",
-   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f04/live/cc6ad220-e8ea-11f1-8808-1d4222955d7e.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-25T20:08:27+00:00",
-   "url": "/haber/fenerbahce-londra-da-shakhtar-donetsk-deplasmaninda-c0815d76/"
   },
   {
    "id": "de16374c",
@@ -462,17 +484,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T17:33:38+00:00",
    "url": "/haber/iphone-18e-ye-kare-kamera-cikintisi-iddiasi-26091896/"
-  },
-  {
-   "id": "8be9af69",
-   "title": "ABD'nin en gizli ve kritik kurumlarından CIA hacklendi",
-   "summary": "CIA'nın kullandığı istihbarat sistemi hackerların hedefi oldu. Siber saldırıda bazı veriler açığa çıkarken ABD'li yetkililer gizli bilgilerin etkilenmediğini açıkladı.",
-   "link": "https://www.donanimhaber.com/abd-nin-en-gizli-kurumlarindan-cia-hacklendi--213368",
-   "image": "https://www.donanimhaber.com/images/images/haber/213368/1200x675abd-nin-en-gizli-kurumlarindan-cia-hacklendi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T17:30:00+00:00",
-   "url": "/haber/abd-nin-en-gizli-ve-kritik-kurumlarindan-cia-hacklendi-8be9af69/"
   },
   {
    "id": "400ddd2e",
@@ -1177,17 +1188,6 @@
    "category": "gundem",
    "date": "2026-11-24T20:57:00+00:00",
    "url": "/haber/41-ilin-valisi-degisti-14-vali-merkeze-cekildi-ff54f51a/"
-  },
-  {
-   "id": "552660e5",
-   "title": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı istifa etti",
-   "summary": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı, görevinden istifa ettiğini açıkladı.",
-   "link": "https://www.trthaber.com/haber/gundem/ak-parti-genel-baskan-yardimcisi-hayati-yazici-istifa-etti-964352.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1502000/hayati-yazici-aa-1502905.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-24T17:27:00+00:00",
-   "url": "/haber/ak-parti-genel-baskan-yardimcisi-hayati-yazici-istifa-etti-552660e5/"
   },
   {
    "id": "d5d493de",
