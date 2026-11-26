@@ -1,27 +1,82 @@
 {
- "updated": "2026-11-26T16:30:57.867059+00:00",
+ "updated": "2026-11-26T17:01:04.422506+00:00",
  "items": [
   {
    "id": "2614503c",
    "title": "Fon soruşturmasıyla ilgili ortak basın toplantısı. ''119 fonda 444 bin 987 yatırımcı ödeme aldı''",
    "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Hazine ve Maliye Bakanı Mehmet Şimşek ve Adalet Bakanı Akın Gürlek fon soruşturmasındaki gelişmeleri aktarıyor.",
    "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasiyla-ilgili-ortak-basin-toplantisi-yilmaz-simsek-ve-gurlek-aciklama-yapiyor-1752748",
-   "image": "https://images.ntv.com.tr/images/fon-sorusturmasi-2489780copys-923962.jpg",
+   "image": "https://images.ntv.com.tr/images/AA-20261126-43192863-43192861-CUMHURBASKANI_YARDIMCISI_CEVDET_YILMAZ-161116.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-26T16:29:53+00:00",
+   "date": "2026-11-26T16:59:42+00:00",
    "url": "/haber/fon-sorusturmasiyla-ilgili-ortak-basin-toplantisi-119-fonda-444-bin-98-2614503c/"
   },
   {
+   "id": "b344f8c9",
+   "title": "NASA'nın asteroide çarptırdığı uzay aracı devasa bir krater oluşturdu: İşte görüntüler",
+   "summary": "ESA'nın Hera uzay aracı, NASA'nın DART göreviyle Dimorphos asteroidine çarptırdığı uzay aracının etkilerini görüntüledi. Çarpışmanın asteroitte devasa bir krater oluşturduğu ortaya çıktı.",
+   "link": "https://www.donanimhaber.com/nasa-nin-asteroide-carptirdigi-uzay-araci-dev-krater-olusturdu--213432",
+   "image": "https://www.donanimhaber.com/images/images/haber/213432/1200x675nasa-nin-asteroide-carptirdigi-uzay-araci-dev-krater-olusturdu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-26T16:53:00+00:00",
+   "url": "/haber/nasa-nin-asteroide-carptirdigi-uzay-araci-devasa-bir-krater-olusturdu-b344f8c9/"
+  },
+  {
+   "id": "1c9d4156",
+   "title": "İşitme engelli milli güreşçilerden Avrupa Şampiyonası'nda 9'u altın olmak üzere 20 madalya",
+   "summary": "İşitme engelli milli güreşçiler, Ermenistan'da düzenlenen 2026 Avrupa Güreş Şampiyonası'nda 20 ve 17 yaş altı grekoromen stilde 9 altın, 8 gümüş ve 3 bronz madalya olmak üzere toplam 20 madalya kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/isitme-engelli-milli-gurescilerden-avrupa-sampiyonasinda-9u-altin-olmak-uzere-20-madalya/4139469",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-26T16:44:21+00:00",
+   "url": "/haber/isitme-engelli-milli-gurescilerden-avrupa-sampiyonasi-nda-9-u-altin-ol-1c9d4156/"
+  },
+  {
+   "id": "1b34e9c5",
+   "title": "Paris'te binlerce kişi, eğitime daha fazla bütçe ayrılması talebiyle gösteri düzenledi",
+   "summary": "Fransa'nın başkenti Paris'te binlerce kişi, hükümetin eğitime daha fazla bütçe ayırması talebiyle gösteri yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/pariste-binlerce-kisi-egitime-daha-fazla-butce-ayrilmasi-talebiyle-gosteri-duzenledi/4139415",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-26T16:34:12+00:00",
+   "url": "/haber/paris-te-binlerce-kisi-egitime-daha-fazla-butce-ayrilmasi-talebiyle-go-1b34e9c5/"
+  },
+  {
+   "id": "7c7d1fa6",
+   "title": "Microsoft'tan yapay zeka uyarısı: Yeni teknoloji kesintileri yaşanabilir",
+   "summary": "Microsoft Başkanı Brad Smith, yapay zekanın güvenlik açıklarını tespit etme hızını artırdığını belirterek aceleyle yayınlanan yamaların yeni teknoloji kesintilerine yol açabileceği konusunda uyardı.",
+   "link": "https://www.donanimhaber.com/microsoft-tan-yapay-zeka-uyarisi-yeni-kesintiler-yasanabilir--213430",
+   "image": "https://www.donanimhaber.com/images/images/haber/213430/1200x675microsoft-tan-yapay-zeka-uyarisi-yeni-kesintiler-yasanabilir.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-26T16:32:00+00:00",
+   "url": "/haber/microsoft-tan-yapay-zeka-uyarisi-yeni-teknoloji-kesintileri-yasanabili-7c7d1fa6/"
+  },
+  {
+   "id": "3e3561d5",
+   "title": "İsrail'de muhalefetteki Yashar ve Demokratlar partileri koalisyon anlaşması konusunda uzlaştıklarını açıkladı",
+   "summary": "İsrail'de hükümet kurmakla yetkilendirilen Gadi Eisenkot'un Yashar Partisi ile Yair Golan liderliğindeki Demokratlar Partisi, koalisyon anlaşması imzalama konusunda uzlaştıklarını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefetteki-yashar-ve-demokratlar-partileri-koalisyon-anlasmasi-konusunda-uzlastiklarini-acikladi/4139394",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-26T16:30:06+00:00",
+   "url": "/haber/israil-de-muhalefetteki-yashar-ve-demokratlar-partileri-koalisyon-anla-3e3561d5/"
+  },
+  {
    "id": "79ea8e61",
-   "title": "Fon krizinde ortak basın toplantısı başladı: 'Hastalıklı yapılarla mücadele ediyoruz'",
+   "title": "Fon krizinde ortak basın toplantısı: 'İddianame yazım aşamasına geldi'",
    "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in fon soruşturmasına ilişkin ortak basın toplantısı düzenliyor.",
    "link": "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/97b1/live/e5527ed0-e9b4-11f1-8d2a-f5d2aabc11cb.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b07d/live/d8721c40-e9b7-11f1-8d2a-f5d2aabc11cb.png",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-26T16:27:07+00:00",
-   "url": "/haber/fon-krizinde-ortak-basin-toplantisi-basladi-hastalikli-yapilarla-mucad-79ea8e61/"
+   "url": "/haber/fon-krizinde-ortak-basin-toplantisi-iddianame-yazim-asamasina-geldi-79ea8e61/"
   },
   {
    "id": "16b33089",
@@ -81,9 +136,9 @@
   {
    "id": "1c7a5ae8",
    "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Fon tasfiye süreci yarın tamamlanacak",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fon meselesiyle ilgili basın bilgilendirme toplantısında konuşuyor.",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, olağan ve olağanüstü fonlardaki tasfiye süreciyle ilgili olarak, \"Olağan fon sürecindeki tüm ödemeler yarın itibarıyla gerçekleşmiş olacak ve olağan fon tasfiye süreci tamamlanmış…",
    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiye-sureci-yarin-tamamlanacak-964575.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/cevdet-yilmaz-2496295.jpg",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2506000/cevdet-yilmaz-aa-2506649.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-26T16:09:00+00:00",
@@ -244,17 +299,6 @@
    "url": "/haber/karbonu-toprakta-hapsetme-yontemi-insanlari-ac-birakabilir-e63c7052/"
   },
   {
-   "id": "acf34d94",
-   "title": "İran: ABD ile müzakereler konusunda Katar ve Pakistan'ın arabuluculuk faaliyetleri sürüyor",
-   "summary": "İran Dışişleri Bakanı Abbas Erakçi, ABD ile müzakereler konusunda Katarlı ve Pakistanlı arabulucuların faaliyetlerinin devam ettiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-abd-ile-muzakereler-konusunda-katar-ve-pakistanin-arabuluculuk-faaliyetleri-suruyor/4139316",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-26T15:28:39+00:00",
-   "url": "/haber/iran-abd-ile-muzakereler-konusunda-katar-ve-pakistan-in-arabuluculuk-f-acf34d94/"
-  },
-  {
    "id": "ab407d60",
    "title": "Irak'ta petrol sahaları gerilimi: Kürtlerden birçok şehirde protesto",
    "summary": "Irak'ta Bağdat yönetiminin petrol kaçakçılığını önleme amacıyla Irak Kürdistan Bölgesel Yönetimi (IKBY) denetimindeki sınır kapıları ve bazı petrol sahalarını kontrolüne alacağını açıklaması, Erbil yönetimi ile…",
@@ -264,28 +308,6 @@
    "category": "gundem",
    "date": "2026-11-26T15:27:43+00:00",
    "url": "/haber/irak-ta-petrol-sahalari-gerilimi-kurtlerden-bircok-sehirde-protesto-ab407d60/"
-  },
-  {
-   "id": "a8677afc",
-   "title": "Borsa günü yükselişle tamamladı",
-   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,82 değer kazanarak 10.743,11 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4139309",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-26T15:26:35+00:00",
-   "url": "/haber/borsa-gunu-yukselisle-tamamladi-a8677afc/"
-  },
-  {
-   "id": "2d273c37",
-   "title": "ABD Başkanı Trump, revize edilen büyüme verisi için soruşturma talep etti",
-   "summary": "ABD Başkanı Donald Trump, dün yukarı yönlü revize edilen üçüncü çeyrek büyüme verisinin ardından, seçimden önce yayımlanan ekonomik verilerin \"sahte\" olduğunu öne sürerek, bu durumun soruşturulmasını istedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-revize-edilen-buyume-verisi-icin-sorusturma-talep-etti-/4139306",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-26T15:23:09+00:00",
-   "url": "/haber/abd-baskani-trump-revize-edilen-buyume-verisi-icin-sorusturma-talep-et-2d273c37/"
   },
   {
    "id": "0076b738",
@@ -880,28 +902,6 @@
    "category": "gundem",
    "date": "2026-11-26T12:08:25+00:00",
    "url": "/haber/avrupa-parlamentosu-turkiye-libya-mutabakatina-karsi-onlem-istedi-49a5c947/"
-  },
-  {
-   "id": "589fbfd7",
-   "title": "Galaxy Watch 8'e Galaxy Watch 9'un sağlık özellikleri geldi",
-   "summary": "Samsung, One UI 9 Watch güncellemesiyle Galaxy Watch 8 ve Watch 8 Classic modellerine yeni sağlık özelliklerini sunmaya başladı. Uyku ve kalp sağlığı takibi de gelişiyor.",
-   "link": "https://www.donanimhaber.com/galaxy-watch-8-e-galaxy-watch-9-un-saglik-ozellikleri-geldi--213416",
-   "image": "https://www.donanimhaber.com/images/images/haber/213416/1200x675galaxy-watch-8-e-galaxy-watch-9-un-saglik-ozellikleri-geldi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-26T12:07:00+00:00",
-   "url": "/haber/galaxy-watch-8-e-galaxy-watch-9-un-saglik-ozellikleri-geldi-589fbfd7/"
-  },
-  {
-   "id": "25b84a20",
-   "title": "70 Bin TL'ye en iyi laptop tavsiyeleri: Oyun ve iş için 8 model",
-   "summary": "70 bin TL laptop arayanlar için oyun, iş ve günlük kullanıma uygun modelleri bir araya getirdik. İşte farklı ihtiyaçlara hitap eden 8 laptop tavsiyesi.",
-   "link": "https://www.donanimhaber.com/70-bin-tl-ye-en-iyi-laptop-tavsiyeleri--213380",
-   "image": "https://www.donanimhaber.com/images/images/haber/213380/1200x67570-bin-tl-ye-en-iyi-laptop-tavsiyeleri.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-26T11:58:14+00:00",
-   "url": "/haber/70-bin-tl-ye-en-iyi-laptop-tavsiyeleri-oyun-ve-is-icin-8-model-25b84a20/"
   },
   {
    "id": "e83361bc",
