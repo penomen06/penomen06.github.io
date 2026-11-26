@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:01:07.285534+00:00",
+ "updated": "2026-11-26T00:30:56.404161+00:00",
  "items": [
   {
    "id": "3c397b58",
@@ -9,8 +9,63 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-26T00:00:00+00:00",
+   "date": "2026-11-26T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-3c397b58/"
+  },
+  {
+   "id": "79ea8e61",
+   "title": "Fon soruşturmasıyla ilgili bakanlar ortak basın toplantısı düzenleyecek",
+   "summary": "Ajanslar, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in 26 Kasım perşembe günü fon soruşturmasına ilişkin ortak basın toplantısı düzenleyeceğini duyurdu.",
+   "link": "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a368/live/e73e23a0-e92f-11f1-92df-e3d7ab38f72c.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-26T00:26:58+00:00",
+   "url": "/haber/fon-sorusturmasiyla-ilgili-bakanlar-ortak-basin-toplantisi-duzenleyece-79ea8e61/"
+  },
+  {
+   "id": "2f0efca9",
+   "title": "Sahte \"mehdi\" tutuklandı. Şifa vaadi ile dolandırıcılık ve cinsel istismar suçlaması",
+   "summary": "İzmir'de kendisini \"mehdi\" olarak tanıtarak şifa vaaden kişi, bir aileyi 3 milyon TL dolandırmak ve cinsel istismarda bulunduğu suçlamasıyla tutuklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/sahte-mehdi-tutuklandi-sifa-vaadi-ile-dolandiricilik-ve-cinsel-istismar-suclamasi-1752600",
+   "image": "https://images.ntv.com.tr/images/mehdii-430415.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-26T00:13:17+00:00",
+   "url": "/haber/sahte-mehdi-tutuklandi-sifa-vaadi-ile-dolandiricilik-ve-cinsel-istisma-2f0efca9/"
+  },
+  {
+   "id": "31a0ca3b",
+   "title": "Avrupa'nın tartışmalı 'Ruanda'ya sürgün' planı düzensiz göçmenleri nasıl etkileyecek?",
+   "summary": "Göç uzmanları, Almanya'nın da aralarında yer aldığı 5 Avrupa Birliği (AB) üyesi ülkenin istenmeyen göçmenleri Ruanda'ya gönderme planını \"Avrupa demokrasisini zayıflatan\" bir girişim olarak nitelendiriyor. Peki Avrupa…",
+   "link": "https://www.bbc.com/turkce/articles/cw05360g5p0ro?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab19/live/448d6030-e8d5-11f1-99b6-a35a62fa4264.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-26T00:13:12+00:00",
+   "url": "/haber/avrupa-nin-tartismali-ruanda-ya-surgun-plani-duzensiz-gocmenleri-nasil-31a0ca3b/"
+  },
+  {
+   "id": "c0815d76",
+   "title": "Fenerbahçe Londra'da Shakhtar Donetsk'i tek golle geçti",
+   "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'ndeki beşinci hafta maçında Ukrayna'nın Shakhtar Donetsk takımıyla Londra'da karşılaştı. Sarı-lacivertliler Arda Turan'ın çalıştırdığı Shakhtar Donetsk'i 56. dakikada Vedat Muriqi'nin…",
+   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6945/live/308ae0c0-e91c-11f1-a150-3b4eded49105.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-26T00:05:51+00:00",
+   "url": "/haber/fenerbahce-londra-da-shakhtar-donetsk-i-tek-golle-gecti-c0815d76/"
+  },
+  {
+   "id": "7a3454d0",
+   "title": "Villayı uyuşturucu serasını çevirmiş. Bir kişi gözaltında",
+   "summary": "Beykoz'da 3 katlı villaya düzenlenen uyuşturucu operasyonunda 1 kişi gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/villayi-uyusturucu-serasini-cevirmis-bir-kisi-gozaltinda-1752599",
+   "image": "https://images.ntv.com.tr/images/BEYKOZDA-UYUSTURUCU-SERASINA-DONUSTURUL_1626952_483760-245172.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-26T00:01:40+00:00",
+   "url": "/haber/villayi-uyusturucu-serasini-cevirmis-bir-kisi-gozaltinda-7a3454d0/"
   },
   {
    "id": "853734d1",
@@ -55,17 +110,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T22:18:12+00:00",
    "url": "/haber/sifre-yoneticisi-1password-hacklendi-musteri-verileri-ele-gecirildi-065c3510/"
-  },
-  {
-   "id": "c0815d76",
-   "title": "Fenerbahçe Londra'da Shakhtar Donetsk'i tek golle geçti",
-   "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'ndeki beşinci hafta maçında Ukrayna'nın Shakhtar Donetsk takımıyla Londra'da karşılaştı. Sarı-lacivertliler Arda Turan'ın çalıştırdığı Shakhtar Donetsk'i 56. dakikada Vedat Muriqi'nin…",
-   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6945/live/308ae0c0-e91c-11f1-a150-3b4eded49105.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-25T22:05:36+00:00",
-   "url": "/haber/fenerbahce-londra-da-shakhtar-donetsk-i-tek-golle-gecti-c0815d76/"
   },
   {
    "id": "db7a89f9",
@@ -904,17 +948,6 @@
    "url": "/haber/suzuki-elektrikli-sehir-araci-ignis-i-gorucuye-cikardi-84a14509/"
   },
   {
-   "id": "ab407d60",
-   "title": "Irak başbakanının petrol sahaları kararı sonrası Erbil-Bağdat gerilimi",
-   "summary": "Irak'ta Bağdat yönetiminin petrol kaçakçılığını önleme amacıyla Irak Kürdistan Bölgesel Yönetimi (IKBY) denetimindeki sınır kapıları ve bazı petrol sahalarını kontrolüne alacağını açıklaması, Erbil yönetimi ile…",
-   "link": "https://www.bbc.com/turkce/articles/cmzx9wg64dxlo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eff4/live/d08e3280-e8e9-11f1-8808-1d4222955d7e.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-25T12:09:19+00:00",
-   "url": "/haber/irak-basbakaninin-petrol-sahalari-karari-sonrasi-erbil-bagdat-gerilimi-ab407d60/"
-  },
-  {
    "id": "e9abf7d7",
    "title": "Sağlık Verilerinizi Yorumlayabilen ChatGPT Health, Android'e Geldi",
    "summary": "OpenAI, ChatGPT Health özelliğini Android Health Connect desteğiyle genişleterek akıllı saat ve fitness verilerinizi sohbet diliyle analiz ediyor.",
@@ -992,17 +1025,6 @@
    "url": "/haber/cumhurbaskani-erdogan-kadina-karsi-siddetle-mucadelenin-sancaktarligin-dbced5e7/"
   },
   {
-   "id": "d6fee317",
-   "title": "Yeni Parti'de MYK üyeleri açıklandı. İşte Özgür Özel'in A takımı",
-   "summary": "Yeni Parti Genel Başkanı Özgür Özel, \"A Takımı\" olarak nitelenen Merkez Yönetim Kurulu (MYK) üyelerini belirledi. Genel Sekreter Selin Sayek Böke oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/yeni-parti-myk-uyelerini-belirledi-iste-ozgur-ozelin-a-takimi-1752544",
-   "image": "https://images.ntv.com.tr/images/AA-20261114-43077413-43077403-YENI_PARTI_1_OLAGAN_KURULTAYI-159808.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T10:30:32+00:00",
-   "url": "/haber/yeni-parti-de-myk-uyeleri-aciklandi-iste-ozgur-ozel-in-a-takimi-d6fee317/"
-  },
-  {
    "id": "b24dec63",
    "title": "ZDF'ye silahlı röportaj veren Daltonlar üyelerine İstanbul'da baskın",
    "summary": "Alman ZDF kanalına ellerinde silahlarla röportaj veren Daltonlar Çetesi üyelerine operasyon düzenlendi. Polis dokuz şüpheliyi yakaladı.",
@@ -1023,17 +1045,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T10:04:05+00:00",
    "url": "/haber/threads-in-ipad-uygulamasi-yayinlandi-ae861fda/"
-  },
-  {
-   "id": "4c622fae",
-   "title": "Korku dolu anlar; TIR'dan uçtu, motosikletlinin kaskına yapıştı",
-   "summary": "Bursa'da otoyolda seyreden TIR'ın dorsesinden uçan karton, arkadaki motosikletlinin kaskına yapıştı. Motosiklet sürücüsünün önünü görmeden ilerlediği anlar, kask kamerasına yansıdı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-korku-dolu-anlar-tirdan-uctu-motosikletlinin-kaskina-yapisti-1752545",
-   "image": "https://images.ntv.com.tr/images/image-623781(2).png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T09:59:32+00:00",
-   "url": "/haber/korku-dolu-anlar-tir-dan-uctu-motosikletlinin-kaskina-yapisti-4c622fae/"
   },
   {
    "id": "d9f49fc6",
@@ -1133,17 +1144,6 @@
    "category": "gundem",
    "date": "2026-11-25T07:17:00+00:00",
    "url": "/haber/petrol-fiyatlarinda-geri-cekilme-suruyor-22697dbd/"
-  },
-  {
-   "id": "caee5b7a",
-   "title": "Rusya'nın kendi verilerine göre Ukrayna'daki savaşta yaklaşık 500 bin kişi öldü",
-   "summary": "Rusya İstatistik Kurumu'nun (Rosstat) sızdırılan verileri, Ukrayna'nın topyekün işgaliyle Rusya'daki ölüm oranlarının nasıl değiştirdiğini ortaya koyuyor.",
-   "link": "https://www.bbc.com/turkce/articles/cqrlg0z9zywwo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-25T07:05:22+00:00",
-   "url": "/haber/rusya-nin-kendi-verilerine-gore-ukrayna-daki-savasta-yaklasik-500-bin-caee5b7a/"
   },
   {
    "id": "e837b3fb",
