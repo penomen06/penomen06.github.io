@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:01:06.538232+00:00",
+ "updated": "2026-11-26T21:30:57.378276+00:00",
  "items": [
   {
    "id": "dc6caa8c",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-26T21:00:00+00:00",
+   "date": "2026-11-26T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dc6caa8c/"
+  },
+  {
+   "id": "4e69eb70",
+   "title": "A Milli Erkek Basketbol Takımı, 2027 Dünya Kupası Elemeleri'nde İtalya'ya mağlup oldu",
+   "summary": "A Milli Erkek Basketbol Takımı, FIBA 2027 Dünya Kupası Avrupa Elemeleri 2. Tur J Grubu'ndaki üçüncü maçta konuk olduğu İtalya'ya 86-72 yenildi.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-basketbol-takimi-2027-dunya-kupasi-elemelerinde-italyaya-maglup-oldu/4139814",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-26T21:07:34+00:00",
+   "url": "/haber/a-milli-erkek-basketbol-takimi-2027-dunya-kupasi-elemeleri-nde-italya-4e69eb70/"
+  },
+  {
+   "id": "79ea8e61",
+   "title": "Fon krizinde ortak basın toplantısı: 'İddianame çıktığı zaman bütün isimleri kamuoyu duyacak'",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in fon soruşturmasına ilişkin ortak basın toplantısı düzenledi.",
+   "link": "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab46/live/0d263ba0-e9c3-11f1-99a1-253766e7ad8b.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-26T21:00:44+00:00",
+   "url": "/haber/fon-krizinde-ortak-basin-toplantisi-iddianame-ciktigi-zaman-butun-isim-79ea8e61/"
   },
   {
    "id": "6bc60321",
@@ -35,6 +57,17 @@
    "url": "/haber/youtube-premium-aboneleri-artik-uygulama-simgesini-degistirebilecek-d21dbd47/"
   },
   {
+   "id": "748b47f1",
+   "title": "Yıldız milli tekvandocular, Avrupa Şampiyonası'nın ilk gününde 3 bronz madalya kazandı",
+   "summary": "Milli tekvandocular, Romanya'nın başkenti Bükreş'te düzenlenen Avrupa Yıldızlar Tekvando Şampiyonası'nın ilk gününde 3 bronz madalya kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/yildiz-milli-tekvandocular-avrupa-sampiyonasinin-ilk-gununde-3-bronz-madalya-kazandi/4139790",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-26T20:36:51+00:00",
+   "url": "/haber/yildiz-milli-tekvandocular-avrupa-sampiyonasi-nin-ilk-gununde-3-bronz-748b47f1/"
+  },
+  {
    "id": "2e22e408",
    "title": "Kulüpler Birliğinden Beşiktaş-Hapoel Beer-Sheva maçında yaşanan olaylara tepki",
    "summary": "Kulüpler Birliği Vakfı, UEFA Avrupa Ligi'nin beşinci haftasında Beşiktaş ile İsrail ekibi Hapoel Beer-Sheva arasında Gürcistan'ın Batum kentinde oynanan mücadelede yaşanan olayların ardından tepki mesajı yayımladı.",
@@ -44,6 +77,17 @@
    "category": "gundem",
    "date": "2026-11-26T20:26:25+00:00",
    "url": "/haber/kulupler-birliginden-besiktas-hapoel-beer-sheva-macinda-yasanan-olayla-2e22e408/"
+  },
+  {
+   "id": "744dac7e",
+   "title": "Milli takıma seçilen down sendromlu Hamza Dönmez'in hedefi masa tenisinde uluslararası başarı",
+   "summary": "Down sendromlu masa tenisi sporcusu Hamza Dönmez, Türkiye şampiyonluklarının ardından milli takıma seçilerek uluslararası başarılar için çalışmalarını sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-takima-secilen-down-sendromlu-hamza-donmezin-hedefi-masa-tenisinde-uluslararasi-basari/4139779",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-26T20:25:19+00:00",
+   "url": "/haber/milli-takima-secilen-down-sendromlu-hamza-donmez-in-hedefi-masa-tenisi-744dac7e/"
   },
   {
    "id": "adc99bb2",
@@ -299,17 +343,6 @@
    "url": "/haber/putin-yabanci-yapay-zeka-teknolojilerine-bagimlilik-konusunda-uyardi-c13e8606/"
   },
   {
-   "id": "79ea8e61",
-   "title": "Fon krizinde ortak basın toplantısı: 'İddianame çıktığı zaman bütün isimleri kamuoyu duyacak'",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in fon soruşturmasına ilişkin ortak basın toplantısı düzenledi.",
-   "link": "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab46/live/0d263ba0-e9c3-11f1-99a1-253766e7ad8b.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-26T18:24:16+00:00",
-   "url": "/haber/fon-krizinde-ortak-basin-toplantisi-iddianame-ciktigi-zaman-butun-isim-79ea8e61/"
-  },
-  {
    "id": "4ce7a128",
    "title": "İddianame, ödemeler: Fon krizi ortak basın toplantısından neler öğrendik?",
    "summary": "Fon soruşturmalarıyla ilgili üç bakanın basın toplantısında, yatırımcılara ödemeler, sorumluluların cezalandırılması ve gelecekte benzer senaryoların yaşanmaması için alınan önlemler ele alındı.",
@@ -354,28 +387,6 @@
    "url": "/haber/instagram-direkt-mesaj-uygulamasi-iphone-a-geldi-7a5e2dc2/"
   },
   {
-   "id": "a3947f6f",
-   "title": "Irak'ta IKBY kontrolündeki Beşte ve el-Velid sınır kapıları kapatıldı",
-   "summary": "Irak Sınır Muhafızları, Irak'ta Irak Kürt Bölgesel Yönetimi (IKBY) kontrolünde bulunan Beşte ve el-Velid sınır kapılarını kapattı.",
-   "link": "https://www.aa.com.tr/tr/dunya/irakta-ikby-kontrolundeki-beste-ve-el-velid-sinir-kapilari-kapatildi/4139572",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-26T18:14:12+00:00",
-   "url": "/haber/irak-ta-ikby-kontrolundeki-beste-ve-el-velid-sinir-kapilari-kapatildi-a3947f6f/"
-  },
-  {
-   "id": "bacf9bef",
-   "title": "İGA, liman işletmeciliği hizmetlerinde en fazla ihracat gerçekleştiren şirket oldu",
-   "summary": "İstanbul Havalimanı İşletmecisi İGA, Hizmet İhracatçıları Birliği (HİB) tarafından \"Liman İşletmeciliği Hizmetleri\" alanında en fazla ihracat gerçekleştiren işletme ödülüne layık görüldü.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/iga-liman-isletmeciligi-hizmetlerinde-en-fazla-ihracat-gerceklestiren-sirket-oldu/4139561",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-26T17:58:37+00:00",
-   "url": "/haber/iga-liman-isletmeciligi-hizmetlerinde-en-fazla-ihracat-gerceklestiren-bacf9bef/"
-  },
-  {
    "id": "22227890",
    "title": "ASML CEO’sundan ABD’ye Çin uyarısı: Ambargo ters tepebilir",
    "summary": "ASML CEO'su Christophe Fouquet, ABD'nin ihracat yasaklarının Çin'i yerli litografi teknolojilerine daha fazla yatırım yapmaya zorlayacağı konusunda uyardı.",
@@ -418,17 +429,6 @@
    "category": "teknoloji",
    "date": "2026-11-26T17:21:47+00:00",
    "url": "/haber/samsung-galaxy-ai-icin-gizli-bulut-hazirliyor-16b838c9/"
-  },
-  {
-   "id": "cc4b8d80",
-   "title": "Polonya, Türkiye ile savunma sanayisi işbirliğini geliştirmek istiyor",
-   "summary": "Polonya Milli Savunma Bakan Yardımcısı Magdalena Sobkowiak-Czarnecka, Türkiye ile savunma sanayisi alanındaki işbirliğinin geliştirilmesini istediklerini belirtti.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/polonya-turkiye-ile-savunma-sanayisi-isbirligini-gelistirmek-istiyor/4139520",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-26T17:16:44+00:00",
-   "url": "/haber/polonya-turkiye-ile-savunma-sanayisi-isbirligini-gelistirmek-istiyor-cc4b8d80/"
   },
   {
    "id": "cdf6587f",
