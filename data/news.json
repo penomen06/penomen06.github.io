@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:31:07.396905+00:00",
+ "updated": "2026-11-26T05:01:04.693759+00:00",
  "items": [
   {
    "id": "3c397b58",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-26T04:30:00+00:00",
+   "date": "2026-11-26T05:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-3c397b58/"
+  },
+  {
+   "id": "13090817",
+   "title": "WhatsApp, seyahat eSIM'i satmaya hazırlanıyor",
+   "summary": "WhatsApp'ın Android sürümündeki kodlar, uygulamaya seyahat eSIM'i bulma, kurma ve yönetme araçlarının geleceğini gösteriyor. eSIM, varış ülkesinde kendiliğinden devreye girebilecek.",
+   "link": "https://shiftdelete.net/whatsapp-seyahat-esim-paketleri",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/whatsapp-resmi-meta-kapak-2011.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-26T04:38:11+00:00",
+   "url": "/haber/whatsapp-seyahat-esim-i-satmaya-hazirlaniyor-13090817/"
   },
   {
    "id": "8a46e9a7",
@@ -847,17 +858,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T13:18:16+00:00",
    "url": "/haber/hyundai-yeni-tucson-un-arazi-odakli-hybrid-xrt-pro-versiyonunu-da-duyu-a6181840/"
-  },
-  {
-   "id": "e7cab78b",
-   "title": "Galaxy Z TriFold 2'nin kod adı ortaya çıktı",
-   "summary": "Samsung'un ikinci üç katlı telefonu Galaxy Z TriFold 2'nin Q9m kod adıyla geliştirildiği iddia edildi. Sızıntıya göre telefon, ilk model gibi yalnızca sınırlı sayıda ülkede satışa çıkabilir.",
-   "link": "https://shiftdelete.net/galaxy-z-trifold-2-sinirli-cikis-kod-adi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/galaxy-z-trifold-resmi-2511.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-25T13:11:29+00:00",
-   "url": "/haber/galaxy-z-trifold-2-nin-kod-adi-ortaya-cikti-e7cab78b/"
   },
   {
    "id": "94995403",
