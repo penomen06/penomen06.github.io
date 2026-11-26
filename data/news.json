@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T05:31:04.335259+00:00",
+ "updated": "2026-11-26T06:01:01.216896+00:00",
  "items": [
+  {
+   "id": "7e541c37",
+   "title": "OpenAI iş bulmanızı sağlayacak",
+   "summary": "Yapay zekâ ekosisteminin lider oyuncularından OpenAI, küçük işletmeler için ücretsiz yapay zekâ danışmanlığı sunan OpenWorks adlı yeni programını duyurdu",
+   "link": "https://www.donanimhaber.com/openworks-geliyor--213401",
+   "image": "https://www.donanimhaber.com/images/images/haber/213401/1200x675openworks-geliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-26T06:00:00+00:00",
+   "url": "/haber/openai-is-bulmanizi-saglayacak-7e541c37/"
+  },
   {
    "id": "3c397b58",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Kasım 2026",
@@ -9,8 +20,107 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-26T05:30:00+00:00",
+   "date": "2026-11-26T06:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-3c397b58/"
+  },
+  {
+   "id": "b87f779a",
+   "title": "Harici ekran kartı istasyonu Asus ROG XG Station 3’ün satış fiyatı açıklandı",
+   "summary": "Geçtiğimiz hafta tanıtılan Thunderbolt 5 destekli yeni harici ekran kartı istasyonu Asus ROG XG Station 3, açık yapıda tasarlanmış ve GeForce RTX 5070’ten RTX 5090’a, Radeon RX 9070 XT’den Intel Arc B580’e kadar pek çok…",
+   "link": "https://www.log.com.tr/harici-ekran-karti-istasyonu-asus-rog-xg-station-3un-satis-fiyati-aciklandi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-26_08-52-51_TpwOw-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-26T05:53:49+00:00",
+   "url": "/haber/harici-ekran-karti-istasyonu-asus-rog-xg-station-3-un-satis-fiyati-aci-b87f779a/"
+  },
+  {
+   "id": "73f19860",
+   "title": "Aralık ayının PlayStation Plus oyunları duyuruldu",
+   "summary": "PlayStation Blog sayfası üzerinden aralık ayının PlayStation Plus oyunları paylaşıldı. Resmi açıklamaya göre “PS Plus” abonelerine 1 Aralık itibarıyla Tony Hawk’s Pro Skater 3+4 – Cross-Gen Edition (PS5, PS4), Dragon…",
+   "link": "https://www.log.com.tr/aralik-ayinin-playstation-plus-oyunlari-duyuruldu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-26_08-32-21_KZ4Rj-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-26T05:51:31+00:00",
+   "url": "/haber/aralik-ayinin-playstation-plus-oyunlari-duyuruldu-73f19860/"
+  },
+  {
+   "id": "78e98899",
+   "title": "İstanbul gece dondu, bugün hava nasıl olacak? Trakya'ya ilk kar yağışı geliyor",
+   "summary": "İstanbul'da iki gecedir dondurucu soğuklar etkili oluyor. Hava sıcaklığı hafta sonuna doğru bir kademe artacak. Trakya'da ise mevsimin ilk kar yağışı için tarih belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-gece-dondu-bugun-hava-nasil-olacak-trakyaya-ilk-kar-yagisi-geliyor-1752621",
+   "image": "https://images.ntv.com.tr/images/istanbul-vapur-561835.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-26T05:49:29+00:00",
+   "url": "/haber/istanbul-gece-dondu-bugun-hava-nasil-olacak-trakya-ya-ilk-kar-yagisi-g-78e98899/"
+  },
+  {
+   "id": "35b0077d",
+   "title": "WhatsApp, “planlanmış mesajlar” altyapısını duyurdu",
+   "summary": "“Bazı mesajlar biraz daha geç gönderildiğinde daha iyi olur” diyen WhatsApp, yakında herkese açılacak “planlanmış mesajlar” altyapısını duyurdu. Şirket uzun zamandır beklenen bu özellik için yaptığı resmi açıklamada,…",
+   "link": "https://www.log.com.tr/whatsapp-planlanmis-mesajlar-altyapisini-duyurdu/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-26_08-46-40_mssqw-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-26T05:48:36+00:00",
+   "url": "/haber/whatsapp-planlanmis-mesajlar-altyapisini-duyurdu-35b0077d/"
+  },
+  {
+   "id": "dfb7b462",
+   "title": "Yargıtay'dan IBAN mağdurları için önemli karar",
+   "summary": "Yargıtay, banka hesabını kullandırdığı için ceza alan ve kamuoyunda IBAN mağduru olarak bilinen kişilerin dolandırıcılıktan suçlu bulunduğuna dair kararı bozdu.",
+   "link": "https://www.ntv.com.tr/turkiye/yargitaydan-iban-magdurlari-icin-onemli-karar-1752628",
+   "image": "https://images.ntv.com.tr/images/_C4_B1ban-360145-383447.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-26T05:48:29+00:00",
+   "url": "/haber/yargitay-dan-iban-magdurlari-icin-onemli-karar-dfb7b462/"
+  },
+  {
+   "id": "b8050f05",
+   "title": "KVKK, “Yeditepe Üniversitesi” için veri ihlal bildirimi geçti",
+   "summary": "Kişisel Verileri Koruma Kurumu (KVKK) bugün resmi sitesi üzerinden “Yeditepe Üniversitesi” için bir veri ihlal bildirimi geçti. Süreçle alakalı yapılan resmi açıklamada, “Veri sorumlusu sıfatını haiz Yeditepe…",
+   "link": "https://www.log.com.tr/kvkk-yeditepe-universitesi-icin-veri-ihlal-bildirimi-gecti/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2023/11/kvkk-vavacars-icin-veri-ihlal-bildirimi-gecti-1-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-26T05:46:08+00:00",
+   "url": "/haber/kvkk-yeditepe-universitesi-icin-veri-ihlal-bildirimi-gecti-b8050f05/"
+  },
+  {
+   "id": "4af0b1a8",
+   "title": "1Password siber saldırıya uğradığını ancak kullanıcı şifrelerinin güvende olduğunu açıkladı",
+   "summary": "Şifre yönetim hizmeti sağlayıcısı 1Password, arka uç sistemlerini hedef alan siber saldırıda bazı müşterilerine ait sınırlı miktarda hesap bilgisinin ele geçirildiğini ancak kullanıcı parolalarının güvende olduğunu…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/1password-siber-saldiriya-ugradigini-ancak-kullanici-sifrelerinin-guvende-oldugunu-acikladi/4138165",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-26T05:43:24+00:00",
+   "url": "/haber/1password-siber-saldiriya-ugradigini-ancak-kullanici-sifrelerinin-guve-4af0b1a8/"
+  },
+  {
+   "id": "f2a554c8",
+   "title": "Çin ve Tayland menşeli bazı bebek ürünlerinin ithalatında dampinge karşı önlemler sürecek",
+   "summary": "Ticaret Bakanlığı, Çin ve Tayland menşeli plastikten mamul emzik, biberon, emzik saklama kabı ve benzeri bazı bebek ürünlerinin ithalatında dampinge karşı önlemlerin devamına karar verdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cin-ve-tayland-menseli-bazi-bebek-urunlerinin-ithalatinda-dampinge-karsi-onlemler-surecek/4138163",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-26T05:40:19+00:00",
+   "url": "/haber/cin-ve-tayland-menseli-bazi-bebek-urunlerinin-ithalatinda-dampinge-kar-f2a554c8/"
+  },
+  {
+   "id": "48acf051",
+   "title": "Kagi, Gmail'e rakip e-posta servisini açtı",
+   "summary": "Reklamsız arama motoru Kagi, Kagi Mail adlı e-posta ve takvim servisini genel betaya açtı. Servis 60 gün ücretsiz deneniyor, sonrasında yıllık 99 dolar.",
+   "link": "https://shiftdelete.net/kagi-mail-gmail-rakibi-eposta-servisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/kagi-mail-kapak-2611.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-26T05:39:56+00:00",
+   "url": "/haber/kagi-gmail-e-rakip-e-posta-servisini-acti-48acf051/"
   },
   {
    "id": "d458cb89",
@@ -398,17 +508,6 @@
    "url": "/haber/istanbul-valisi-gul-den-sokakta-kalan-vatandaslarin-112-ye-bildirilmes-8bc6c3bf/"
   },
   {
-   "id": "e15ac2c8",
-   "title": "Sağlık Bakanı Memişoğlu Çin'in Ankara Büyükelçisi Xuebin ile görüştü",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, Çin'in Ankara Büyükelçisi Jiang Xuebin ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-cinin-ankara-buyukelcisi-xuebin-ile-gorustu/4138063",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T20:33:20+00:00",
-   "url": "/haber/saglik-bakani-memisoglu-cin-in-ankara-buyukelcisi-xuebin-ile-gorustu-e15ac2c8/"
-  },
-  {
    "id": "dc4d8eb9",
    "title": "İsrail'in Gazze'ye yönelik saldırılarında 38 binden fazla kadın ve kız çocuğu hayatını kaybetti",
    "summary": "BM Kadın Biriminin verilerine göre, Ekim 2023 ile Aralık 2025 arasında Gazze'de 38 binden fazla kadın ve kız çocuğu yaşamını yitirdi, yaklaşık 11 bini engelli kaldı.",
@@ -451,17 +550,6 @@
    "category": "gundem",
    "date": "2026-11-25T20:17:00+00:00",
    "url": "/haber/izmir-de-suya-yuzde-63-indirim-5556eb3f/"
-  },
-  {
-   "id": "54080b64",
-   "title": "ABD'den, Lübnan'a gönderilmek üzereyken ele geçirilen \"İran menşeli silahlar\" konusunda Suriye'ye tebrik",
-   "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Lübnan'a gönderilmek üzereyken ele geçirilen \"İran menşeli silahlar\" dolayısıyla Suriye yönetimini tebrik etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdden-lubnana-gonderilmek-uzereyken-ele-gecirilen-iran-menseli-silahlar-konusunda-suriyeye-tebrik/4138047",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-25T20:13:51+00:00",
-   "url": "/haber/abd-den-lubnan-a-gonderilmek-uzereyken-ele-gecirilen-iran-menseli-sila-54080b64/"
   },
   {
    "id": "4e0f36fb",
@@ -594,17 +682,6 @@
    "category": "teknoloji",
    "date": "2026-11-25T18:10:00+00:00",
    "url": "/haber/akilli-tv-lerde-gizlilik-tartismasi-suruyor-hisense-de-bizi-dinliyor-e0d70758/"
-  },
-  {
-   "id": "d957c063",
-   "title": "OpenAI ve Anthropic'in gizli yapay zeka modelleri çalışanları korkutuyor",
-   "summary": "OpenAI ve Anthropic çalışanları, henüz yayımlanmayan yapay zeka modellerinin kontrol edilmesinin giderek zorlaştığını belirterek güvenlik riskleri konusunda uyarıyor.",
-   "link": "https://www.donanimhaber.com/henuz-yayinlanmamis-yapay-zeka-modelleri-calisanlari-korkutuyor--213381",
-   "image": "https://www.donanimhaber.com/images/images/haber/213381/1200x675henuz-yayinlanmamis-yapay-zeka-modelleri-calisanlari-korkutuyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-25T17:50:00+00:00",
-   "url": "/haber/openai-ve-anthropic-in-gizli-yapay-zeka-modelleri-calisanlari-korkutuy-d957c063/"
   },
   {
    "id": "26091896",
@@ -750,17 +827,6 @@
    "url": "/haber/elektrikli-otomobilleri-4-dakikada-sarj-edebilecek-yeni-batarya-teknol-491d76aa/"
   },
   {
-   "id": "97271331",
-   "title": "BMW'ler ABD'de kırmızı ışıkta kendi duracak",
-   "summary": "BMW, Aralık'ta başlayacak uzaktan güncellemeyle ABD'deki Operating System X'li araçlarda Highway & Commuting Assistant'a kırmızı ışıkta durma özelliği getiriyor. Araç yeşil ışıkta kendiliğinden yeniden yola çıkabiliyor…",
-   "link": "https://shiftdelete.net/bmw-highway-commuting-assistant-kirmizi-isik",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/bmw-ix3-sehir-ici-surus-2511.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-25T14:44:36+00:00",
-   "url": "/haber/bmw-ler-abd-de-kirmizi-isikta-kendi-duracak-97271331/"
-  },
-  {
    "id": "12473ced",
    "title": "En İyi eSIM Uygulamaları",
    "summary": "En iyi eSIM uygulamaları hangileri? Yurt dışında internet kullanmak için en uygun seçeneği keşfedin!",
@@ -803,17 +869,6 @@
    "category": "gundem",
    "date": "2026-11-25T14:13:00+00:00",
    "url": "/haber/turkiyelibya-deniz-yetki-anlasmasi-nda-son-asama-tamamlandi-c54336eb/"
-  },
-  {
-   "id": "7f6e1159",
-   "title": "Cumhurbaşkanı Erdoğan: Siyaset çözüm üretme yeridir",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, muhalefet partilerine terörsüz Türkiye sürecine ilişkin tutumları nedeniyle tepki gösterirken \"Kendilerine perde yapıyorlar. Siyaset çözüm üretme yeridir.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-siyaset-cozum-uretme-yeridir-1752561",
-   "image": "https://images.ntv.com.tr/images/AA-20261125-43178998-43178994-CUMHURBASKANI_ERDOGAN_25_KASIM_KADINA_YONELIK_SIDDETE_KARSI_ULUSLARARASI_MUCADELE_GUNU_PROGRAMINA_KATILDI-587904.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T14:11:48+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-siyaset-cozum-uretme-yeridir-7f6e1159/"
   },
   {
    "id": "c2fd11c1",
@@ -937,39 +992,6 @@
    "url": "/haber/microsoft-yasanan-buyuk-kesintinin-ardindan-kirmizi-kod-ilan-etti-38d64662/"
   },
   {
-   "id": "2d57eefc",
-   "title": "Volkswagen ID. Cross’un R-Line versiyonu Almanya’da satışa sunuldu",
-   "summary": "Tamamen elektrikli Volkswagen ID. Cross’un “R-Line” versiyonu Almanya’da satışa çıktı. Daha sportif bir çizgiye sahip olan model, ilk aşamada 133 beygirlik elektrik motoru ve 314 km menzil sağlayan 37 kWh bataryayla…",
-   "link": "https://www.log.com.tr/volkswagen-id-crossun-r-line-versiyonu-almanyada-satisa-sunuldu/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-25_15-27-11_kSgmd-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-25T12:29:55+00:00",
-   "url": "/haber/volkswagen-id-cross-un-r-line-versiyonu-almanya-da-satisa-sunuldu-2d57eefc/"
-  },
-  {
-   "id": "de414cbb",
-   "title": "İstanbul'a ne zaman kar yağacak? AKOM en kuvvetli ihtimali paylaştı",
-   "summary": "İstanbul'a ne zaman kar yağacağını merak eden milyonlarca öğrenci ve vatandaş, AKOM'un açıklamaları sonrasında sorgulamalara başladı. İstanbul Büyükşehir Belediyesi (İBB) Afet Koordinasyon Merkezi (AKOM) yaptığı…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbula-ne-zaman-kar-yagacak-akom-en-kuvvetli-ihtimali-paylasti-1752560",
-   "image": "https://images.ntv.com.tr/images/İstanbulkaraa-565555.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-25T12:22:07+00:00",
-   "url": "/haber/istanbul-a-ne-zaman-kar-yagacak-akom-en-kuvvetli-ihtimali-paylasti-de414cbb/"
-  },
-  {
-   "id": "84a14509",
-   "title": "Suzuki, elektrikli şehir aracı Ignis’i görücüye çıkardı",
-   "summary": "Suzuki, bugün tamamen elektrikli şehir aracı Ignis’i görücüye çıkardı. Japonya’da e-Sky adını taşıyan kompakt model, kutu tarzı tasarımı benimsiyor. Uzunluğu 3.570 mm, genişliği 1.565 mm, yüksekliği 1.635 mm olan ve…",
-   "link": "https://www.log.com.tr/suzuki-elektrikli-sehir-araci-ignisi-gorucuye-cikardi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-25_15-19-25_MxT6v-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-25T12:21:19+00:00",
-   "url": "/haber/suzuki-elektrikli-sehir-araci-ignis-i-gorucuye-cikardi-84a14509/"
-  },
-  {
    "id": "e9abf7d7",
    "title": "Sağlık Verilerinizi Yorumlayabilen ChatGPT Health, Android'e Geldi",
    "summary": "OpenAI, ChatGPT Health özelliğini Android Health Connect desteğiyle genişleterek akıllı saat ve fitness verilerinizi sohbet diliyle analiz ediyor.",
@@ -1069,17 +1091,6 @@
    "url": "/haber/meta-nin-yapay-zeka-asistani-muse-instagram-dm-lerine-geldi-peki-neler-7f1a6792/"
   },
   {
-   "id": "ffc44cf0",
-   "title": "Samsung Gallery uygulamasına yapay zeka destekli fotoğraf iyileştirme özelliği geliyor",
-   "summary": "SamMobile’ın tespitine göre Samsung Gallery uygulamasına yapay zeka destekli bir fotoğraf iyileştirme özelliği geliyor. Taşığı ilk yeniliklere burada yer verdiğimiz One UI 9.5 betasında görülen özellik, ağırlıklı olarak…",
-   "link": "https://www.log.com.tr/samsung-gallery-uygulamasina-yapay-zeka-destekli-fotograf-iyilestirme-ozelligi-geliyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-25_12-18-32_MwV32-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-25T09:28:26+00:00",
-   "url": "/haber/samsung-gallery-uygulamasina-yapay-zeka-destekli-fotograf-iyilestirme-ffc44cf0/"
-  },
-  {
    "id": "12670f0a",
    "title": "Çözüm sürecinde gözler MGK'ya çevrildi: Teyit kararı ne zaman çıkacak?",
    "summary": "İktidarın \"Terörsüz Türkiye\" olarak adlandırdığı süreçte, PKK'nın silah bıraktığının teyidi konusunda gözler 26 Kasım Perşembe günü yapılması beklenen Milli Güvenlik Kurulu (MGK) toplantısına çevrildi.",
@@ -1100,17 +1111,6 @@
    "category": "gundem",
    "date": "2026-11-25T08:50:00+00:00",
    "url": "/haber/imamoglu-nun-diploma-iptali-karari-onandi-7dc161d3/"
-  },
-  {
-   "id": "c5caf378",
-   "title": "Bazı Anthropic ve OpenAI çalışanları, yapay zeka modellerinin hızla gelişen yetenekleri konusunda ciddi endişe duymaya başladı",
-   "summary": "Axios’un haberine göre bazı Anthropic ve OpenAI çalışanları, yapay zeka modellerinin hızla gelişen yetenekleri konusunda giderek daha çok endişe duymaya başladı. Haberde, en gelişmiş sistemlerin yapabildikleri ile…",
-   "link": "https://www.log.com.tr/bazi-anthropic-ve-openai-calisanlari-yapay-zeka-modellerinin-hizla-gelisen-yetenekleri-konusunda-ciddi-endise-duymaya-basladi/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/09/anthropic-cinli-yapay-zeka-sirketleri-icin-sasirtici-bilgiler-paylasti-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-25T08:42:47+00:00",
-   "url": "/haber/bazi-anthropic-ve-openai-calisanlari-yapay-zeka-modellerinin-hizla-gel-c5caf378/"
   },
   {
    "id": "18ec3888",
