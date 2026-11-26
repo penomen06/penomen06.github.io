@@ -1,17 +1,6 @@
 {
- "updated": "2026-11-26T23:01:09.324779+00:00",
+ "updated": "2026-11-26T23:30:57.886150+00:00",
  "items": [
-  {
-   "id": "e47c6e64",
-   "title": "BDDK Başkanlığına Yusuf Kenan Bağır atandı",
-   "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) başkanlığına Yusuf Kenan Bağır atandı.",
-   "link": "https://www.ntv.com.tr/turkiye/bddk-baskanligina-yusuf-kenan-bagir-atandi-1752770",
-   "image": "https://images.ntv.com.tr/images/mainart-son-dakika-haber-520714.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-26T22:58:49+00:00",
-   "url": "/haber/bddk-baskanligina-yusuf-kenan-bagir-atandi-e47c6e64/"
-  },
   {
    "id": "dc6caa8c",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 27 Kasım 2026",
@@ -20,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-26T22:30:00+00:00",
+   "date": "2026-11-26T23:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dc6caa8c/"
+  },
+  {
+   "id": "e47c6e64",
+   "title": "BDDK Başkanlığına Yusuf Kenan Bağır atandı",
+   "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) başkanlığına Yusuf Kenan Bağır atandı.",
+   "link": "https://www.ntv.com.tr/turkiye/bddk-baskanligina-yusuf-kenan-bagir-atandi-1752770",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_92e85d5113f00b8c54c916357ac102b8-143044.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-26T23:06:50+00:00",
+   "url": "/haber/bddk-baskanligina-yusuf-kenan-bagir-atandi-e47c6e64/"
+  },
+  {
+   "id": "e2ae0a61",
+   "title": "BDDK Başkanlığı'na Yusuf Kenan Bağır atandı",
+   "summary": "Bankacılık Düzenleme ve Denetleme Kurulu Başkanlığına Yusuf Kenan Bağır atandı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/bddk-baskanligina-yusuf-kenan-bagir-atandi-964601.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1556000/bddk-1556183.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-26T22:49:00+00:00",
+   "url": "/haber/bddk-baskanligi-na-yusuf-kenan-bagir-atandi-e2ae0a61/"
   },
   {
    "id": "ae5d4e09",
@@ -1199,17 +1210,6 @@
    "category": "gundem",
    "date": "2026-11-26T00:13:12+00:00",
    "url": "/haber/avrupa-nin-tartismali-ruanda-ya-surgun-plani-duzensiz-gocmenleri-nasil-31a0ca3b/"
-  },
-  {
-   "id": "5556eb3f",
-   "title": "İzmir'de suya yüzde 63 indirim",
-   "summary": "İzmir Büyükşehir Belediye Meclisi, kentte suyun metreküp fiyatına 1 Ocak 2027'den geçerli olmak üzere konut ve konut dışı aboneler için kademeli indirim yapılmasını kararlaştırdı.",
-   "link": "https://www.trthaber.com/haber/turkiye/izmirde-suya-yuzde-63-indirim-964481.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1542000/musluk-su-depo-1543867.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-25T20:17:00+00:00",
-   "url": "/haber/izmir-de-suya-yuzde-63-indirim-5556eb3f/"
   },
   {
    "id": "cdd09f3e",
