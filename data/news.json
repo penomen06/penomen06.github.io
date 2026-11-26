@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-26T19:30:54.465116+00:00",
+ "updated": "2026-11-26T20:01:07.304729+00:00",
  "items": [
+  {
+   "id": "51f45abe",
+   "title": "100 bin TL farka değiyor mu? ''iPhone Duo vs iPhone 18 Pro''",
+   "summary": "iPhone Duo daha iyi bir telefon mu? Çıktığı günden bu yana test ettiğimiz iPhone 18 Pro ve iPhone Duo'yu kıyasladık, farkları ortaya çıkardık. Fiyat farkı bariz, peki performans? Detaylar videomuzda.",
+   "link": "https://www.donanimhaber.com/100-bin-tl-farka-degiyor-mu-iphone-duo-vs-iphone-18-pro--213449",
+   "image": "https://www.donanimhaber.com/images/images/haber/213449/1200x675100-bin-tl-farka-degiyor-mu-iphone-duo-vs-iphone-18-pro.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-26T19:43:11+00:00",
+   "url": "/haber/100-bin-tl-farka-degiyor-mu-iphone-duo-vs-iphone-18-pro-51f45abe/"
+  },
+  {
+   "id": "a1cc46b5",
+   "title": "Volvo, otomobil üretiminde insansı robot kullanma başlıyor",
+   "summary": "Volvo, Belçika'daki fabrikasında insansı robot Aeon'u eğitmeye başladı. Robotların 2027 ortasından itibaren üretim hattında insanlarla birlikte çalışması planlanıyor.",
+   "link": "https://www.donanimhaber.com/volvo-otomobil-uretiminde-insansi-robot-kullanma-basliyor--213443",
+   "image": "https://www.donanimhaber.com/images/images/haber/213443/1200x675volvo-otomobil-uretiminde-insansi-robot-kullanma-basliyor.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-26T19:41:00+00:00",
+   "url": "/haber/volvo-otomobil-uretiminde-insansi-robot-kullanma-basliyor-a1cc46b5/"
+  },
+  {
+   "id": "840987ff",
+   "title": "Kosova'da T3 Vakfı desteğiyle İHA inovasyon merkezi açılması planlanıyor",
+   "summary": "Kosova Başbakanı Kurti, T3 Vakfı ile Podujeva Belediyesi arasında imzalanan anlaşma kapsamında, kentte insansız hava araçlarına (İHA) odaklanan bilim ve teknoloji inovasyon merkezinin gelecek yıl faaliyete…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/kosovada-t3-vakfi-destegiyle-iha-inovasyon-merkezi-acilmasi-planlaniyor/4139633",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-26T19:37:36+00:00",
+   "url": "/haber/kosova-da-t3-vakfi-destegiyle-iha-inovasyon-merkezi-acilmasi-planlaniy-840987ff/"
+  },
+  {
+   "id": "f944b5ff",
+   "title": "Süper Lig kulüpleri, Beşiktaş-Hapoel Beer Sheva maçındaki polis şiddetine tepki gösterdi",
+   "summary": "Trendyol Süper Lig kulüpleri, UEFA Avrupa Ligi'nin beşinci haftasında Beşiktaş ile İsrail ekibi Hapoel Beer-Sheva arasında Gürcistan'ın Batum şehrinde oynanan müsabakada siyah-beyazlı taraftarlara yönelik polis…",
+   "link": "https://www.aa.com.tr/tr/spor/super-lig-kulupleri-besiktas-hapoel-beer-sheva-macindaki-polis-siddetine-tepki-gosterdi/4139624",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-26T19:30:06+00:00",
+   "url": "/haber/super-lig-kulupleri-besiktas-hapoel-beer-sheva-macindaki-polis-siddeti-f944b5ff/"
+  },
   {
    "id": "c94c995a",
    "title": "TCMB'den Türk lirası likidite yönetimi ve zorunlu karşılıklara ilişkin yeni adımlar",
@@ -222,17 +266,6 @@
    "url": "/haber/rusya-kiev-yonetimi-rusya-ile-nato-yu-karsi-karsiya-getirmeye-calisiyo-5c5eaa02/"
   },
   {
-   "id": "6288c9fc",
-   "title": "Cumhurbaşkanı Erdoğan'dan Kurra Hafız Ali Kemal Hut için taziye mesajı",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, vefat eden Kurra Hafız Ali Kemal Hut için taziye mesajı yayımladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-kurra-hafiz-ali-kemal-hut-icin-taziye-mesaji-/4139546",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-26T17:43:47+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-dan-kurra-hafiz-ali-kemal-hut-icin-taziye-mesaji-6288c9fc/"
-  },
-  {
    "id": "79e7f84d",
    "title": "Neuralink’in beyin implantı ALS hastaları için onayı aldı",
    "summary": "Neuralink, ALS nedeniyle felç yaşayan kişiler için geliştirdiği beyin implantında kritik aşamaya geçti. FDA, şirketin implantın güvenliğini ve etkinliğini değerlendirecek LINK çalışmasına onay verdi.",
@@ -275,17 +308,6 @@
    "category": "teknoloji",
    "date": "2026-11-26T17:21:47+00:00",
    "url": "/haber/samsung-galaxy-ai-icin-gizli-bulut-hazirliyor-16b838c9/"
-  },
-  {
-   "id": "17f5e8c1",
-   "title": "Türkiye'nin Olimpiyat Oyunları'na ev sahipliği yapma hedefine dair planları IOC'ye sunuldu",
-   "summary": "Türkiye'nin gelecekte İstanbul'da Olimpiyat ve Paralimpik Oyunları'na ev sahipliği yapma hedefine dair proje planları, Uluslararası Olimpiyat Komitesi (IOC) Gelecekteki Ev Sahipleri Komisyonuna (Future Host Commission)…",
-   "link": "https://www.aa.com.tr/tr/spor/turkiyenin-olimpiyat-oyunlarina-ev-sahipligi-yapma-hedefine-dair-planlari-iocye-sunuldu/4139525",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-26T17:19:52+00:00",
-   "url": "/haber/turkiye-nin-olimpiyat-oyunlari-na-ev-sahipligi-yapma-hedefine-dair-pla-17f5e8c1/"
   },
   {
    "id": "cc4b8d80",
@@ -486,17 +508,6 @@
    "url": "/haber/amazon-da-gulumseten-cuma-ya-ozel-kupon-yagmuru-basliyor-bc9c2570/"
   },
   {
-   "id": "03a1b7c2",
-   "title": "Nvidia sürücülerinde sorunlar bitmiyor: Siyah ekran sorunu başladı",
-   "summary": "Nvidia'nın SSD aşınması sorununu gidermesi beklenen 621.40 sürücüsü, bu kez RTX 50 ekran kartlarında siyah ekran ve DisplayPort bağlantı sorunlarına neden oluyor.",
-   "link": "https://www.donanimhaber.com/nvidia-suruculerinde-sorun-bitmiyor-siyah-ekran-sorunu-basladi--213426",
-   "image": "https://www.donanimhaber.com/images/images/haber/213426/1200x675nvidia-suruculerinde-sorun-bitmiyor-siyah-ekran-sorunu-basladi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-26T15:08:00+00:00",
-   "url": "/haber/nvidia-suruculerinde-sorunlar-bitmiyor-siyah-ekran-sorunu-basladi-03a1b7c2/"
-  },
-  {
    "id": "f17d72e0",
    "title": "Abdullah Öcalan'dan Özgür Özel'e İzleme Komisyonu mesajı",
    "summary": "PKK lideri Abdullah Öcalan Yeni Parti Genel Başkanı Özgür Özel'i partisinin 1. Olağan Kurultayı'nda genel başkan seçilmesi nedeniyle kutladı. Öcalan'ın DEM Parti İmralı Heyeti aracılığıyla Yeni Parti'nin İzleme…",
@@ -583,17 +594,6 @@
    "category": "gundem",
    "date": "2026-11-26T14:50:37+00:00",
    "url": "/haber/mgk-toplantisindan-pkk-nin-silah-biraktigini-teyit-aciklamasi-cikmadi-12670f0a/"
-  },
-  {
-   "id": "adf4769f",
-   "title": "Orta Doğu'daki çatışmalar İngiltere'de enerji faturalarını uçurdu",
-   "summary": "Orta Doğu'daki çatışmalar ve LNG tedarikindeki aksamalar İngiltere'de enerji fiyatlarını yükseltti. Ocak ayında 20 milyon hanenin faturasının yüzde 26 artması bekleniyor.",
-   "link": "https://www.donanimhaber.com/orta-dogu-daki-catismalar-ingiltere-de-enerji-faturalarini-ucurdu--213422",
-   "image": "https://www.donanimhaber.com/images/images/haber/213422/1200x675orta-dogu-daki-catismalar-ingiltere-de-enerji-faturalarini-ucurdu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-26T14:48:00+00:00",
-   "url": "/haber/orta-dogu-daki-catismalar-ingiltere-de-enerji-faturalarini-ucurdu-adf4769f/"
   },
   {
    "id": "b0e4d389",
