@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:01:20.568874+00:00",
+ "updated": "2026-11-27T08:30:55.745267+00:00",
  "items": [
   {
    "id": "dc6caa8c",
@@ -9,19 +9,250 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T08:00:00+00:00",
+   "date": "2026-11-27T08:30:01+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dc6caa8c/"
   },
   {
-   "id": "25c2bf7d",
-   "title": "YÖK-YKDS ve ALES hafta sonu yapılacak",
-   "summary": "Yükseköğretim Kurumlarının Öncelikli Alanlardaki Doktora Programlarına Öğrenci Seçme Sınavı (2026-YÖK-YKDS) yarın, Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı (2026-ALES/3) ise pazar günü yapılacak.",
-   "link": "https://www.aa.com.tr/tr/gundem/yok-ykds-ve-ales-hafta-sonu-yapilacak/4139998",
+   "id": "4e1b3cf8",
+   "title": "İki bozayının öldürülmesiyle ilgili Soğuksu Milli Park müdürü görevden alındı",
+   "summary": "Tarım ve Orman Bakanlığı, Ankara'nın Kızılcahamam ilçesinde yaşayan iki bozayının silahla vurularak öldürülmesiyle ilgili ki Soğuksu Milli Park müdürünün görevden alındığını açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/cm3wgxjn1e20o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6cf8/live/1f1792f0-e68a-11f1-a094-5fdc692f3e33.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-27T08:28:17+00:00",
+   "url": "/haber/iki-bozayinin-oldurulmesiyle-ilgili-soguksu-milli-park-muduru-gorevden-4e1b3cf8/"
+  },
+  {
+   "id": "90f6a38b",
+   "title": "Kasım ayı doğum yardımı ödemeleri hesaplara yatırıldı",
+   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, kasım ayı doğum yardımı ödemelerinin bugün itibarıyla annelerin hesaplarına yatırıldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/kasim-ayi-dogum-yardimi-odemeleri-hesaplara-yatirildi/4140049",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-27T07:57:38+00:00",
-   "url": "/haber/yok-ykds-ve-ales-hafta-sonu-yapilacak-25c2bf7d/"
+   "date": "2026-11-27T08:27:15+00:00",
+   "url": "/haber/kasim-ayi-dogum-yardimi-odemeleri-hesaplara-yatirildi-90f6a38b/"
+  },
+  {
+   "id": "baabc407",
+   "title": "Avrupalı otomotiv üreticileri Türkiye'deki tesislerinin \"Made in EU\" kapsamına alınmasını istiyor",
+   "summary": "Avrupa Otomobil Üreticileri Birliği (ACEA), Avrupa Birliği'nin (AB) hazırladığı Sanayi Hızlandırma Yasası'nda, Avrupalı otomotiv üreticilerinin Türkiye'deki mevcut yatırımlarını koruyacak muafiyetlere yer verilmesini…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/avrupali-otomotiv-ureticileri-turkiyedeki-tesislerinin-made-in-eu-kapsamina-alinmasini-istiyor/4140047",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:26:36+00:00",
+   "url": "/haber/avrupali-otomotiv-ureticileri-turkiye-deki-tesislerinin-made-in-eu-kap-baabc407/"
+  },
+  {
+   "id": "5acd02dd",
+   "title": "Kalp krizine giden yol damarlarda sessizce açılıyor",
+   "summary": "Genç yaşta yaşanan ani ölümlerin önemli nedenlerinden biri olan kalp krizinin, kalbi besleyen damarlarda yıllar içinde gelişen ve çoğu zaman belirti vermeden ilerleyen damar sertliğinden kaynaklanabildiği belirtildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/kalp-krizine-giden-yol-damarlarda-sessizce-aciliyor/4140043",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:24:34+00:00",
+   "url": "/haber/kalp-krizine-giden-yol-damarlarda-sessizce-aciliyor-5acd02dd/"
+  },
+  {
+   "id": "5a3cc6df",
+   "title": "Beşiktaş-Galatasaray derbisinde gözler kalecilerde olacak",
+   "summary": "Uğurcan Çakır, Galatasaray ve Trabzonspor formalarıyla Beşiktaş'a karşı çıktığı 17 maçta 6 galibiyet, 7 beraberlik ve 4 mağlubiyet yaşadı",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-galatasaray-derbisinde-gozler-kalecilerde-olacak/4140042",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:24:00+00:00",
+   "url": "/haber/besiktas-galatasaray-derbisinde-gozler-kalecilerde-olacak-5a3cc6df/"
+  },
+  {
+   "id": "eb9464c7",
+   "title": "DSİ bütçesinin tamamına yakını toprak ve su kaynaklarının yönetimi için kullanılacak",
+   "summary": "Tarım ve Orman Bakanlığına bağlı Devlet Su İşleri (DSİ) Genel Müdürlüğü, gelecek yıl için kuruma ayrılacak 324 milyar lira ödeneğin yaklaşık yüzde 96'sını tarımsal sulama, taşkın kontrolü ve içme suyu temini gibi…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/dsi-butcesinin-tamamina-yakini-toprak-ve-su-kaynaklarinin-yonetimi-icin-kullanilacak/4140033",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:19:11+00:00",
+   "url": "/haber/dsi-butcesinin-tamamina-yakini-toprak-ve-su-kaynaklarinin-yonetimi-ici-eb9464c7/"
+  },
+  {
+   "id": "5413b60f",
+   "title": "Suriye’de devrime giden operasyonun başlamasının üzerinden 2 yıl geçti",
+   "summary": "Suriye’de muhaliflerin 27 Kasım 2024’te Beşşar Esed rejimini devirmek amacıyla İdlib’den başlattığı operasyonun üzerinden iki yıl geçti.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriye-de-devrime-giden-operasyonun-baslamasinin-uzerinden-2-yil-gecti/4140030",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:16:51+00:00",
+   "url": "/haber/suriye-de-devrime-giden-operasyonun-baslamasinin-uzerinden-2-yil-gecti-5413b60f/"
+  },
+  {
+   "id": "c7fe1257",
+   "title": "GitHub'dan PS5 emülatörü paylaşımına tepki",
+   "summary": "Microsoft'a ait GitHub, PS5 oyunlarını bilgisayarda çalıştırmayı amaçlayan AnyPS5 projesini öven bir paylaşım yaptı ama kısa sürede sildi. Kullanıcılar, platformun aynı günlerde Rockstar'ın talebiyle GTA 6 PC portlarını…",
+   "link": "https://shiftdelete.net/github-anyps5-paylasimi-silindi-gta-6-pc-portu-tepki",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/87dd1efdd0eba73fdc343a52643f47264416f7cb.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-27T08:16:08+00:00",
+   "url": "/haber/github-dan-ps5-emulatoru-paylasimina-tepki-c7fe1257/"
+  },
+  {
+   "id": "35a432e3",
+   "title": "Xiaomi ve Infinix'e telefon fiyatı soruşturması",
+   "summary": "Rekabet Kurumu, Xiaomi ve Infinix marka cep telefonlarının fiyatları nedeniyle iki telefon markası ve üç teknoloji şirketi hakkında soruşturma başlattı. Mağazaların satış fiyatlarına müdahale edildiği ve fiyatların…",
+   "link": "https://shiftdelete.net/rekabet-kurumu-xiaomi-infinix-telefon-fiyat-sorusturmasi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/f9765c6d7de722cebb8c07cc771a57d2f954b222.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-27T08:15:47+00:00",
+   "url": "/haber/xiaomi-ve-infinix-e-telefon-fiyati-sorusturmasi-35a432e3/"
+  },
+  {
+   "id": "53957c3c",
+   "title": "OLED'e rakip yeni LCD teknolojisi 3 kat daha parlak ve 2 kat daha uzun ömürlü",
+   "summary": "Seoul Semiconductor, OLED'e rakip WICOP Pixel teknolojisini seri üretime aldı. Yeni LCD teknolojisi 3.000 nit parlaklık ve iki kat daha uzun kullanım ömrü vadediyor.",
+   "link": "https://www.donanimhaber.com/oled-e-rakip-yeni-lcd-teknolojisi-hem-parlak-hem-de-uzun-omurlu--213454",
+   "image": "https://www.donanimhaber.com/images/images/haber/213454/1200x675oled-e-rakip-yeni-lcd-teknolojisi-hem-parlak-hem-de-uzun-omurlu.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-27T08:14:00+00:00",
+   "url": "/haber/oled-e-rakip-yeni-lcd-teknolojisi-3-kat-daha-parlak-ve-2-kat-daha-uzun-53957c3c/"
+  },
+  {
+   "id": "bd692998",
+   "title": "COP31'de iklim değişikliğiyle mücadeleye ilişkin 46 kararda uzlaşı sağlandı",
+   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31), 46 kararda uzlaşı sağlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-iklim-degisikligiyle-mucadeleye-iliskin-46-kararda-uzlasi-saglandi/4140026",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:12:56+00:00",
+   "url": "/haber/cop31-de-iklim-degisikligiyle-mucadeleye-iliskin-46-kararda-uzlasi-sag-bd692998/"
+  },
+  {
+   "id": "7c727f9e",
+   "title": "İsviçre'den Türkiye'ye son iki yılda 1 milyar doların üzerinde doğrudan yatırım geldi",
+   "summary": "Türkiye'de İsviçre Ticaret Odası Derneği Başkanı Arpat Şenocak, son iki yılda İsviçre'den Türkiye'ye gelen doğrudan yatırımların toplamının 1 milyar doların üzerinde olduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/isvicreden-turkiyeye-son-iki-yilda-1-milyar-dolarin-uzerinde-dogrudan-yatirim-geldi/4140024",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:11:15+00:00",
+   "url": "/haber/isvicre-den-turkiye-ye-son-iki-yilda-1-milyar-dolarin-uzerinde-dogruda-7c727f9e/"
+  },
+  {
+   "id": "1e30b14a",
+   "title": "AB'nin Rus gazından çıkış sürecinde ABD'ye bağımlılık riski büyüyor",
+   "summary": "Rusya'dan enerji ithalatını sonlandırmaya hazırlanan AB'de, ABD'nin LNG tedarikindeki payının 2027'de yüzde 75'e çıkabileceği öngörülürken, bu durum Birliğin bu kez de tek bir tedarikçiye bağımlı hale gelebileceği…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abnin-rus-gazindan-cikis-surecinde-abdye-bagimlilik-riski-buyuyor/4140022",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:09:27+00:00",
+   "url": "/haber/ab-nin-rus-gazindan-cikis-surecinde-abd-ye-bagimlilik-riski-buyuyor-1e30b14a/"
+  },
+  {
+   "id": "a5f5c148",
+   "title": "Yasa dışı bahis mesajlarının arkasındaki kazanç sistemi ortaya çıktı",
+   "summary": "İstanbul'da GSM hatlarına tanımlı SMS haklarını bir uygulama üzerinden kiralayarak vatandaşlara yasa dışı bahis içerikli mesajlar gönderilmesini sağladıkları iddia edilen 27 sanık hakkında dava açıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-mesajlarinin-arkasindaki-kazanc-sistemi-ortaya-cikti/4140021",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:09:00+00:00",
+   "url": "/haber/yasa-disi-bahis-mesajlarinin-arkasindaki-kazanc-sistemi-ortaya-cikti-a5f5c148/"
+  },
+  {
+   "id": "11a81652",
+   "title": "Rekabet Kurumu, Xiaomi ve Infinix hakkında telefon fiyatları üzerinden soruşturma başlattı",
+   "summary": "Rekabet Kurumu bugün Xiaomi ve Infinix hakkında telefon fiyatları temelinde bir soruşturma başlattığını duyurdu. Bu konuda yapılan resmi açıklamada, “Xiaomi ve Infinix marka cep telefonlarında daha uygun fiyatların ve…",
+   "link": "https://www.log.com.tr/rekabet-kurumu-xiaomi-ve-infinix-hakkinda-telefon-fiyatlari-uzerinden-sorusturma-baslatti/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2024/06/rekabet-kurumu-canon-a-38-milyon-tl-ceza-kesti-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-27T08:08:29+00:00",
+   "url": "/haber/rekabet-kurumu-xiaomi-ve-infinix-hakkinda-telefon-fiyatlari-uzerinden-11a81652/"
+  },
+  {
+   "id": "fb26f0bb",
+   "title": "73 ilde uyuşturucu operasyonu: Bin 17 tutuklama",
+   "summary": "İçişleri Bakanlığı, son iki haftada yapılan operasyonlarda 2 ton 761 kilogram uyuşturucu ile 2 milyona yakın uyuşturucu hap ele geçirildiğini açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/73-ilde-uyusturucu-operasyonu-bin-17-tutuklama-1752828",
+   "image": "https://images.ntv.com.tr/images/NEVSEHIR-MERKEZLI-4-ILDE-UYUSTURUCU-OPER_1530385_455368-571654.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T08:07:26+00:00",
+   "url": "/haber/73-ilde-uyusturucu-operasyonu-bin-17-tutuklama-fb26f0bb/"
+  },
+  {
+   "id": "635a3aed",
+   "title": "Türkiye'nin enerji hamlesi Afrika ve Libya'da yeni ortaklıklarla genişliyor",
+   "summary": "Enerji ve Tabii Kaynaklar Bakanı Bayraktar, Türkiye'nin Chevron ile imzalanan anlaşma kapsamında Gine-Bissau'da iki deniz sahasına ortak olduğunu belirterek, \"Libya'dan da böyle güzel haberleri vereceğiz.\" ifadesini…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-enerji-hamlesi-afrika-ve-libyada-yeni-ortakliklarla-genisliyor/4140015",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:07:01+00:00",
+   "url": "/haber/turkiye-nin-enerji-hamlesi-afrika-ve-libya-da-yeni-ortakliklarla-genis-635a3aed/"
+  },
+  {
+   "id": "ba3ba35e",
+   "title": "Bu yıl 9 ayda 15,2 milyar lirayı aşkın analık ödeneği verildi",
+   "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, bu yılın ocak-eylül döneminde 15 milyar 258 milyon 686 bin 681 lira analık ödeneği ve 454 milyon 241 bin 140 lira emzirme ödeneği verildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bu-yil-9-ayda-15-2-milyar-lirayi-askin-analik-odenegi-verildi/4140011",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:05:29+00:00",
+   "url": "/haber/bu-yil-9-ayda-15-2-milyar-lirayi-askin-analik-odenegi-verildi-ba3ba35e/"
+  },
+  {
+   "id": "6ce9c7b0",
+   "title": "Darphane-i Amire'de Osmanlı'nın kuşlara uzanan merhamet mirası yaşatılıyor",
+   "summary": "Darphane-i Amire'nin 7 yıllık restorasyonunda özgün mimarisi korunarak geleceğe taşınan iki kuş köşkü, Osmanlı'da \"aşiyan\" olarak bilinen kuşlara yuva olma geleneğini bugün de sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/darphane-i-amirede-osmanlinin-kuslara-uzanan-merhamet-mirasi-yasatiliyor/4140010",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:04:09+00:00",
+   "url": "/haber/darphane-i-amire-de-osmanli-nin-kuslara-uzanan-merhamet-mirasi-yasatil-6ce9c7b0/"
+  },
+  {
+   "id": "dc96b6a7",
+   "title": "Cenevre'de NAZA belgeselini izleyenler, bu yapıtın Gazze'deki soykırımı kanıtladığını belirtti",
+   "summary": "İsviçre'nin Cenevre kentinde, İsrail'in Gazze'deki sivil katliamını belgeleyen NAZA belgeselini izleyenler, bu yapıtın İsrail'in Gazze'de yaptığı soykırımın kanıtı niteliğinde olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/cenevrede-naza-belgeselini-izleyenler-bu-yapitin-gazzedeki-soykirimi-kanitladigini-belirtti/4140009",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:04:03+00:00",
+   "url": "/haber/cenevre-de-naza-belgeselini-izleyenler-bu-yapitin-gazze-deki-soykirimi-dc96b6a7/"
+  },
+  {
+   "id": "36d33654",
+   "title": "Türkiye-Libya deniz yetki alanları anlaşması Doğu Akdeniz'de kıyıdaş devletlerin hakları açısından önemli örnek",
+   "summary": "Türkiye-Libya deniz yetki alanları anlaşması, Doğu Akdeniz’de deniz yetki alanlarının sınırlandırılması ve kıyıdaş devletlerin hak ve menfaatlerinin korunması bakımından önemini koruyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/turkiye-libya-deniz-yetki-alanlari-anlasmasi-dogu-akdenizde-kiyidas-devletlerin-haklari-acisindan-onemli-ornek/4140008",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:03:47+00:00",
+   "url": "/haber/turkiye-libya-deniz-yetki-alanlari-anlasmasi-dogu-akdeniz-de-kiyidas-d-36d33654/"
+  },
+  {
+   "id": "d45f8fb2",
+   "title": "Türkiye zoru başardı: Denizaltı harbinde örneği olmayan sistemler",
+   "summary": "Harp sahasının belki de en kritik alanlarından biri su altı… Denizaltılar başta olmak üzere farklı tehditlerin geliştiği bu alanda Ankara üst üste hayli stratejik adımlar atıyor. Türkiye sonardan sonoboya, torpidodan…",
+   "link": "https://www.trthaber.com/haber/savunma/turkiye-zoru-basardi-denizalti-harbinde-ornegi-olmayan-sistemler-964619.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2506000/sonoboy-sualti-savunma-sonar-yapay-zeka-2506722.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-27T08:00:00+00:00",
+   "url": "/haber/turkiye-zoru-basardi-denizalti-harbinde-ornegi-olmayan-sistemler-d45f8fb2/"
   },
   {
    "id": "5826d784",
@@ -44,17 +275,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T07:52:03+00:00",
    "url": "/haber/rekabet-kurumundan-xiaomi-ve-infinix-telefonlarina-yonelik-fiyat-sorus-ec6b15a6/"
-  },
-  {
-   "id": "cc17d5c7",
-   "title": "AYM'den Sermaye Piyasaları Birliği ile Değerleme Uzmanları Birliği'nin disiplin yetkilerine ilişkin iptal kararı",
-   "summary": "Anayasa Mahkemesi (AYM), Sermaye Piyasası Kanunu'nda Türkiye Sermaye Piyasaları Birliği ve Türkiye Değerleme Uzmanları Birliğinin disiplin yetkilerine ilişkin iki ibareyi Anayasa'ya aykırı bularak iptal etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/aymden-sermaye-piyasalari-birligi-ile-degerleme-uzmanlari-birliginin-disiplin-yetkilerine-iliskin-iptal-karari/4139991",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:51:18+00:00",
-   "url": "/haber/aym-den-sermaye-piyasalari-birligi-ile-degerleme-uzmanlari-birligi-nin-cc17d5c7/"
   },
   {
    "id": "a1ae460a",
@@ -90,17 +310,6 @@
    "url": "/haber/samsung-abd-de-payini-artiran-tek-android-oldu-d8eb35e7/"
   },
   {
-   "id": "e4588090",
-   "title": "Milli Teknoloji Uzmanlık Programları için son başvuru tarihi 20 Aralık",
-   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, otonom sürüş teknolojileri ve çip tasarımı alanlarında Milli Teknoloji Uzmanlık Programları için son başvuru tarihinin 20 Aralık olduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/milli-teknoloji-uzmanlik-programlari-icin-son-basvuru-tarihi-20-aralik/4139981",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:41:06+00:00",
-   "url": "/haber/milli-teknoloji-uzmanlik-programlari-icin-son-basvuru-tarihi-20-aralik-e4588090/"
-  },
-  {
    "id": "2736bc30",
    "title": "Hyundai, Çin’e yönelik Mercury konseptini görücüye çıkardı",
    "summary": "Hyundai, Auto Guangzhou 2026 fuarında doğrudan Çin pazarına yönelik “Mercury” konseptini görücüye çıkardı. Önümüzdeki yıl satışa sunulması hedeflenen tamamen elektrikli araç, üretime “Ioniq M” adıyla taşınabilir. Üretim…",
@@ -123,17 +332,6 @@
    "url": "/haber/100-bin-tl-ye-en-iyi-laptop-tavsiyeleri-b45d393f/"
   },
   {
-   "id": "3b727d5b",
-   "title": "15 bin öğretmen adayı için alan bazında kontenjan dağılımı belli oldu",
-   "summary": "Milli Eğitim Akademisinde hazırlık eğitimine alınacak 15 bin öğretmen adayı için başvuru ve kayıt sürecine ilişkin duyuru ve alan bazında kontenjan dağılımları açıklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/15-bin-ogretmen-adayi-icin-alan-bazinda-kontenjan-dagilimi-belli-oldu/4139973",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:32:48+00:00",
-   "url": "/haber/15-bin-ogretmen-adayi-icin-alan-bazinda-kontenjan-dagilimi-belli-oldu-3b727d5b/"
-  },
-  {
    "id": "4fd02c95",
    "title": "Altyapı sorgulama sonuçları nasıl okunur?",
    "summary": "Altyapı sorgulama sonucunda karşınıza çıkan Gigafiber, Fiber, VDSL ve ADSL terimleri ne anlama geliyor, hangisi sizin için daha iyi? Sorgulama sonuçlarını nasıl okuyacağınızı ve hangi internet türünün size uygun…",
@@ -143,17 +341,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T07:30:26+00:00",
    "url": "/haber/altyapi-sorgulama-sonuclari-nasil-okunur-4fd02c95/"
-  },
-  {
-   "id": "2316d077",
-   "title": "İran: Hürmüz Boğazı’nın güneydoğusunda ABD’ye ait F-16 savaş uçağına uyarı ateşi açıldı",
-   "summary": "İran Devrim Muhafızları Ordusu, ABD’ye ait bir F-16 savaş uçağının Hürmüz Boğazı’nın güneydoğusunda uyarı ateşiyle uzaklaştırıldığını öne sürdü.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazi-nin-guneydogusunda-abd-ye-ait-f-16-savas-ucagina-uyari-atesi-acildi/4139969",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:29:58+00:00",
-   "url": "/haber/iran-hurmuz-bogazi-nin-guneydogusunda-abd-ye-ait-f-16-savas-ucagina-uy-2316d077/"
   },
   {
    "id": "81bb8565",
@@ -167,28 +354,6 @@
    "url": "/haber/vivo-dan-yeni-telefon-geliyor-81bb8565/"
   },
   {
-   "id": "863ef19d",
-   "title": "NATO'nun hava nöbetini Türk Hava Kuvvetleri devralacak",
-   "summary": "Amasya'nın Merzifon ilçesindeki 5'inci Ana Jet Üs Komutanlığına bağlı 151'inci Jet Filo Komutanlığı (Tunç Filo) unsurları, NATO'nun 73'üncü Dönem Geliştirilmiş Hava Polisliği görevi kapsamında Romanya'daki Feteşti Hava…",
-   "link": "https://www.aa.com.tr/tr/gundem/natonun-hava-nobetini-turk-hava-kuvvetleri-devralacak/4139967",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:28:27+00:00",
-   "url": "/haber/nato-nun-hava-nobetini-turk-hava-kuvvetleri-devralacak-863ef19d/"
-  },
-  {
-   "id": "f0402830",
-   "title": "İstanbul'da 2004 ve 2005'te 3 çocuğun ölümüne ilişkin soruşturmada 7 şüpheli gözaltına alındı",
-   "summary": "Adalet Bakanı Gürlek, 2004 ve 2005'te İstanbul'da 3 çocuğun ölümlerine ilişkin dosyanın yeniden ele alınması sonucu 7 şüphelinin gözaltına alındığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-2004-ve-2005te-3-cocugun-olumune-iliskin-sorusturmada-7-supheli-gozaltina-alindi/4139962",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:22:44+00:00",
-   "url": "/haber/istanbul-da-2004-ve-2005-te-3-cocugun-olumune-iliskin-sorusturmada-7-s-f0402830/"
-  },
-  {
    "id": "a71c30ff",
    "title": "15 bin öğretmen adayı için kontenjanlar ve başvuru takvimi açıklandı",
    "summary": "Milli Eğitim Akademisinde hazırlık eğitimine alınacak 15 bin öğretmen adayı için başvuru ve kayıt sürecine ilişkin duyuru ve alan bazında kontenjan dağılımları, açıklandı. 2026 MEB-AGS sonuçlarına göre yapılacak…",
@@ -200,39 +365,6 @@
    "url": "/haber/15-bin-ogretmen-adayi-icin-kontenjanlar-ve-basvuru-takvimi-aciklandi-a71c30ff/"
   },
   {
-   "id": "9b01acd0",
-   "title": "KPSS Ortaöğretim'in branş bazında sıralamaları yayımlandı",
-   "summary": "Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığınca (ÖSYM), 2026 Kamu Personel Seçme Sınavı'na (2026-KPSS Ortaöğretim) katılan adayların sınav sonuçlarına göre branş bazında sıralamaları yayımlandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/kpss-ortaogretimin-brans-bazinda-siralamalari-yayimlandi/4139961",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:21:50+00:00",
-   "url": "/haber/kpss-ortaogretim-in-brans-bazinda-siralamalari-yayimlandi-9b01acd0/"
-  },
-  {
-   "id": "865400fc",
-   "title": "Voleybol: Haftanın programı",
-   "summary": "SMS Grup Efeler Ligi'nde 8'inci, Vodafone Sultanlar Ligi'nde 11'inci hafta maçları oynanacak.",
-   "link": "https://www.aa.com.tr/tr/spor/voleybol-haftanin-programi/4139960",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:21:36+00:00",
-   "url": "/haber/voleybol-haftanin-programi-865400fc/"
-  },
-  {
-   "id": "03e435b0",
-   "title": "Ekonomik güven endeksi kasımda aylık yüzde 1,1 artışla 98,4 oldu",
-   "summary": "Ekonomik güven endeksi, kasımda aylık bazda yüzde 1,1 artarak 98,4'e yükseldi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ekonomik-guven-endeksi-kasimda-aylik-yuzde-1-1-artisla-98-4-oldu/4139959",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:21:01+00:00",
-   "url": "/haber/ekonomik-guven-endeksi-kasimda-aylik-yuzde-1-1-artisla-98-4-oldu-03e435b0/"
-  },
-  {
    "id": "70fbd23c",
    "title": "“Avrupa Birliği, Türkiye’yi ‘Made in EU’ kapsamına almak için Çinli üreticilere karşı güvence istiyor”",
    "summary": "Emre Özpeynirci’ye açıklamalarda bulunan bir yetkiliye göre Avrupa Birliği, Türkiye’yi “Made in EU” kapsamına almak için Çinli üreticilere karşı güvence istiyor. Bu konuda Özpeynirci’den gelen açıklama şöyle: “Avrupa…",
@@ -242,28 +374,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T07:20:49+00:00",
    "url": "/haber/avrupa-birligi-turkiye-yi-made-in-eu-kapsamina-almak-icin-cinli-uretic-70fbd23c/"
-  },
-  {
-   "id": "7e1b8851",
-   "title": "Ukrayna Devlet Başkanı Zelenskiy, ABD'nin Rusya'ya yeteri kadar baskı yapmadığını savundu",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD'nin Orta Doğu'ya daha fazla odaklandığını, barış müzakerelerinde Rusya'ya yeteri kadar baskı yapmadığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-devlet-baskani-zelenskiy-abdnin-rusyaya-yeteri-kadar-baski-yapmadigini-savundu/4139958",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:20:08+00:00",
-   "url": "/haber/ukrayna-devlet-baskani-zelenskiy-abd-nin-rusya-ya-yeteri-kadar-baski-y-7e1b8851/"
-  },
-  {
-   "id": "c3192725",
-   "title": "TBMM Başkanı Kurtulmuş: Bütün dünya istese de hiç kimse İsrail'i durduramıyor",
-   "summary": "TBMM Başkanı Kurtulmuş, \"Ne yazık ki Birleşmiş Milletler Güvenlik Konseyi'nin yapısındaki aksaklıklar dolayısıyla bütün dünya istese de hiç kimse İsrail'i durduramıyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-butun-dunya-istese-de-hic-kimse-israili-durduramiyor/4139956",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:17:54+00:00",
-   "url": "/haber/tbmm-baskani-kurtulmus-butun-dunya-istese-de-hic-kimse-israil-i-durdur-c3192725/"
   },
   {
    "id": "00a24c74",
@@ -299,28 +409,6 @@
    "url": "/haber/turkiye-de-uretilen-hyundai-ioniq-3-topgear-com-odulleri-nde-yilin-kuc-b51e1db4/"
   },
   {
-   "id": "c8050e4d",
-   "title": "Borsa güne düşüşle başladı",
-   "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,06 düşüşle 10.737,18 puandan başladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4139948",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:11:19+00:00",
-   "url": "/haber/borsa-gune-dususle-basladi-c8050e4d/"
-  },
-  {
-   "id": "7f1fcd06",
-   "title": "Sarıkamış şehitlerinin fedakarlıklarının anlatılacağı panoramik müze açılışa hazırlanıyor",
-   "summary": "Kars'ın Sarıkamış ilçesindeki müzede, Sarıkamış Harekatı'nın zorlu kış şartları, şehit askerlerin fedakarlıkları, bölgenin tarihi geçmişi, soğuk oda, üç boyutlu canlandırmalar ve 360 derece dijital gösterimlerle…",
-   "link": "https://www.aa.com.tr/tr/kultur/sarikamis-sehitlerinin-fedakarliklarinin-anlatilacagi-panoramik-muze-acilisa-hazirlaniyor/4139943",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:08:35+00:00",
-   "url": "/haber/sarikamis-sehitlerinin-fedakarliklarinin-anlatilacagi-panoramik-muze-a-7f1fcd06/"
-  },
-  {
    "id": "09810f9a",
    "title": "Çinli XPeng, insansı robotlarını evlere de götürmek istiyor",
    "summary": "Çinli otomobil üreticilerinden XPeng, eylül ayında geliştirdiği insansı robot modeli IRON’un ilk aşama üretimine başladığını duyurmuştu. XPeng Yönetim Kurulu Başkanı ve CEO’su He Xiaopeng, bu önemli gelişmeyle ilgili…",
@@ -341,17 +429,6 @@
    "category": "gundem",
    "date": "2026-11-27T07:05:09+00:00",
    "url": "/haber/otoparklardaki-sarj-istasyonlarinin-tumu-degisecek-2-yil-sure-verildi-d00ed2d2/"
-  },
-  {
-   "id": "3ecf152d",
-   "title": "İsrail'in Gazze'ye sabah saatlerinde düzenlediği saldırılarda çocuklar dahil en az 6 Filistinli yaralandı",
-   "summary": "İsrail ordusunun Gazze Şeridi'ne sabah saatlerinde düzenlediği hava saldırılarında aralarında bebek, çocuk ve kadınların da bulunduğu en az 6 Filistinli yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-sabah-saatlerinde-duzenledigi-saldirilarda-cocuklar-dahil-en-az-6-filistinli-yaralandi/4139939",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T07:02:31+00:00",
-   "url": "/haber/israil-in-gazze-ye-sabah-saatlerinde-duzenledigi-saldirilarda-cocuklar-3ecf152d/"
   },
   {
    "id": "e19a3e2d",
@@ -484,17 +561,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T06:06:38+00:00",
    "url": "/haber/avrupa-da-dev-iptv-operasyonu-068fa2d3/"
-  },
-  {
-   "id": "3e807966",
-   "title": "Ford, Le Mans’a yeni yarış aracı “GT41” ile geri dönüyor",
-   "summary": "Ford, önümüzdeki yıl 24 Hours of Le Mans yarışında yeni görücüye çıkardığı yarış aracı “GT41” ile mücadele edecek. Le Mans Daytona h (LMDh) kurallarına uygun tasarlanan araç, zorlu yarışta Cadillac, BMW, Acura, Porsche,…",
-   "link": "https://www.log.com.tr/ford-le-mansa-yeni-yaris-araci-gt41-ile-geri-donuyor/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-27_08-56-38_ep3Wc-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-27T06:01:19+00:00",
-   "url": "/haber/ford-le-mans-a-yeni-yaris-araci-gt41-ile-geri-donuyor-3e807966/"
   },
   {
    "id": "fccf1918",
@@ -663,14 +729,14 @@
   },
   {
    "id": "3ecd7bc0",
-   "title": "Husilerin saldırılarını artırdığı Suudi başkenti Riyad'da neler yaşanıyor?",
+   "title": "Husilerin saldırıları Suudi Arabistan'ın güvenlik imajını sınıyor",
    "summary": "Riyad gibi Suudi şehirleri, Husilerin düzenlediği insansız hava aracı ve füze saldırılarına son dönemde düzenli olarak maruz kalıyor. Saldırılara rağmen, Riyad'daki pazarlar ve restoranlar hareketliliğini koruyor;…",
    "link": "https://www.bbc.com/turkce/articles/crjwj6nlx3peo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-27T00:31:11+00:00",
-   "url": "/haber/husilerin-saldirilarini-artirdigi-suudi-baskenti-riyad-da-neler-yasani-3ecd7bc0/"
+   "url": "/haber/husilerin-saldirilari-suudi-arabistan-in-guvenlik-imajini-siniyor-3ecd7bc0/"
   },
   {
    "id": "bf217b6b",
@@ -750,17 +816,6 @@
    "url": "/haber/gurcistan-da-besiktas-taraftarina-polis-mudahalesi-832838bb/"
   },
   {
-   "id": "76475300",
-   "title": "Süper Loto çekiliş sonuçları belli oldu: 26 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
-   "summary": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1752757",
-   "image": "https://images.ntv.com.tr/images/super-loto-cekilis-625467.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-26T20:07:48+00:00",
-   "url": "/haber/super-loto-cekilis-sonuclari-belli-oldu-26-kasim-2026-mpi-super-loto-k-76475300/"
-  },
-  {
    "id": "1a25071c",
    "title": "Güneş panellerinin gizli düşmanı: Kuş pislikleri üretimi yüzde 6 azaltabiliyor",
    "summary": "Bir yıl süren araştırma, güneş panellerinde kuş pisliklerinin neden olduğu kirliliğin yağmurla giderilemediğini ve enerji üretimini beklenenden de büyük ölçüde düşürdüğünü gösterdi.",
@@ -814,17 +869,6 @@
    "category": "teknoloji",
    "date": "2026-11-26T18:59:00+00:00",
    "url": "/haber/gunes-panellerinde-yeni-donem-hem-elektrik-hem-isi-ureten-hibrit-siste-97393889/"
-  },
-  {
-   "id": "71f2dae4",
-   "title": "Samsung ve SK hynix, Çinli YMTC'nin teknolojisine talip",
-   "summary": "Güney Koreli devler Samsung ve SK hynix, NAND bellek üretiminde yeni bir dönemin kapısını aralamak için Çinli YMTC'nin Xtacking teknolojisini lisanslamayı değerlendiriyor.",
-   "link": "https://www.donanimhaber.com/samsung-ve-sk-hynix-cinli-ymtc-nin-teknolojisine-talip--213440",
-   "image": "https://www.donanimhaber.com/images/images/haber/213440/1200x675samsung-ve-sk-hynix-cinli-ymtc-nin-teknolojisine-talip.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-26T18:38:00+00:00",
-   "url": "/haber/samsung-ve-sk-hynix-cinli-ymtc-nin-teknolojisine-talip-71f2dae4/"
   },
   {
    "id": "4ce7a128",
@@ -913,28 +957,6 @@
    "category": "teknoloji",
    "date": "2026-11-26T16:00:00+00:00",
    "url": "/haber/branda-yirtildi-mediamarkt-sahane-cuma-indirimleri-basladi-0510cb9e/"
-  },
-  {
-   "id": "9df39917",
-   "title": "Fırat Üniversitesi'nde yapay zekâ hackathonu",
-   "summary": "Fırat Üniversitesi bünyesindeki BİLTAG, \"Eğitim Eşitliğinde Yapay Zekâ\" temalı Hackathon 2026 için başvuruları açtı. Yarışma 19-20 Aralık'ta Elazığ'da yapılacak.",
-   "link": "https://shiftdelete.net/firat-universitesi-biltag-hackathon-2026-egitim-esitliginde-yapay-zeka",
-   "image": "https://ares.shiftdelete.net/static/img/content/26-11/26/firat-biltag-hackathon-2026-kapak.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-26T15:47:32+00:00",
-   "url": "/haber/firat-universitesi-nde-yapay-zeka-hackathonu-9df39917/"
-  },
-  {
-   "id": "9fe8458a",
-   "title": "SpaceX'e 1 milyon uyduluk veri merkezi izni",
-   "summary": "ABD Federal İletişim Komisyonu, SpaceX'in yörüngeye 1 milyona kadar veri merkezi uydusu yerleştirme planını onayladı. Ancak izin kısmi: Yörünge kabuklarının çoğu, enkaz planı tamamlanana kadar bekleyecek.",
-   "link": "https://shiftdelete.net/spacex-1-milyon-uydu-veri-merkezi-fcc-izni-starmind",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/starlink-falcon-9-firlatma-starshield-kapak-2211.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-26T15:44:46+00:00",
-   "url": "/haber/spacex-e-1-milyon-uyduluk-veri-merkezi-izni-9fe8458a/"
   },
   {
    "id": "ab407d60",
@@ -1243,28 +1265,6 @@
    "category": "gundem",
    "date": "2026-11-25T19:43:26+00:00",
    "url": "/haber/25-kasim-da-kadinlar-sokaktaydi-yoksulluga-siddete-ve-baskilara-karsi-cdd09f3e/"
-  },
-  {
-   "id": "c54336eb",
-   "title": "TürkiyeLibya Deniz Yetki Anlaşması'nda son aşama tamamlandı",
-   "summary": "Libya Temsilciler Meclisinin onayladığı Türkiye ile Libya arasındaki deniz yetki alanlarının sınırlandırılmasına ilişkin anlaşma, harita ve coğrafi koordinatlarıyla birlikte Libya Resmi Gazetesi'nde yayımlandı.",
-   "link": "https://www.trthaber.com/haber/gundem/turkiye-libya-deniz-yetki-anlasmasinda-son-asama-tamamlandi-964455.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2496000/libya-deniz-2497296.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-25T14:13:00+00:00",
-   "url": "/haber/turkiyelibya-deniz-yetki-anlasmasi-nda-son-asama-tamamlandi-c54336eb/"
-  },
-  {
-   "id": "136e714e",
-   "title": "COP31: Antalya'da anlaşmasız sona eren iklim konferansının beş kritik sonucu",
-   "summary": "Antalya'da düzenlenen Birleşmiş Milletler (BM) iklim konferansı COP31,iklim değişikliğine dair kanıtların hiç olmadığı kadar açık görüldüğü ancak jeopolitik bölünmelerin de hiç olmadığı kadar derinleştiği bir dönemde…",
-   "link": "https://www.bbc.com/turkce/articles/cqwy4nnvx323o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-23T12:55:51+00:00",
-   "url": "/haber/cop31-antalya-da-anlasmasiz-sona-eren-iklim-konferansinin-bes-kritik-s-136e714e/"
   }
  ]
 }
