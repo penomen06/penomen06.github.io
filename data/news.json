@@ -1,6 +1,138 @@
 {
- "updated": "2026-11-27T09:30:57.541516+00:00",
+ "updated": "2026-11-27T10:01:08.120545+00:00",
  "items": [
+  {
+   "id": "278f67ef",
+   "title": "170 yıllık finans tarihi incelendi: Yapay zeka balonu patlamak üzere",
+   "summary": "170 yıllık finans tarihi incelenerek yapay zeka piyasasında balon oluşma ihtimali yüzde 97 olarak hesapladı. Bulgular, dot-com balonuyla benzerlik gösteren büyük bir çöküşe işaret ediyor.",
+   "link": "https://www.donanimhaber.com/170-yillik-finans-tarihi-uyardi-yapay-zeka-balonu-patlamak-uzere--213464",
+   "image": "https://www.donanimhaber.com/images/images/haber/213464/1200x675170-yillik-finans-tarihi-uyardi-yapay-zeka-balonu-patlamak-uzere.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-27T10:00:00+00:00",
+   "url": "/haber/170-yillik-finans-tarihi-incelendi-yapay-zeka-balonu-patlamak-uzere-278f67ef/"
+  },
+  {
+   "id": "684652b7",
+   "title": "Apple'ın en pahalı iPad'i katlanabilir olabilir",
+   "summary": "Apple'ın yıllardır konuşulan büyük ekranlı katlanabilir cihazı hakkında yeni bir iddia var. Mark Gurman'a göre bu cihaz 20 inçlik katlanabilir bir iPad ve fiyatı 5.000 dolara kadar çıkabilir. Ancak çıkışı ertelendi,…",
+   "link": "https://shiftdelete.net/katlanabilir-ipad-j312-gurman-fiyat-5000-dolar",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/ipad-pro-m5-magic-keyboard-kapak-2611.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-27T09:53:14+00:00",
+   "url": "/haber/apple-in-en-pahali-ipad-i-katlanabilir-olabilir-684652b7/"
+  },
+  {
+   "id": "132bed26",
+   "title": "Fon soruşturması | Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya hakkında karar",
+   "summary": "Fon soruşturmasında gözaltına alınan Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya, ifadesinin ardından serbest bırakıldı. Mahkemeye sevk edilen üç kişi ise tutulandı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-bulls-yatirim-yonetim-kurulu-baskani-kemal-akkaya-hakkinda-karar-1752809",
+   "image": "https://images.ntv.com.tr/images/kemalakkaya-453531.png",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T09:53:11+00:00",
+   "url": "/haber/fon-sorusturmasi-bulls-yatirim-yonetim-kurulu-baskani-kemal-akkaya-hak-132bed26/"
+  },
+  {
+   "id": "5826d784",
+   "title": "Halk TV soruşturmasında üçüncü dalga operasyon: Ekran yüzleri de gözaltında",
+   "summary": "Halk TV'ye yönelik üçüncü dalga operasyonda 12 kişi hakkında gözaltı kararı verildi, dokuz kişi gözaltına alındı. Gözaltına alınanlar arasında kanalın ekran yüzleri de var.",
+   "link": "https://www.ntv.com.tr/turkiye/halk-tv-sorusturmasinda-ucuncu-dalga-operasyon-ekran-yuzleri-gozaltinda-1752818",
+   "image": "https://images.ntv.com.tr/images/halk-tv-yeni-operasyon-719407.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T09:48:09+00:00",
+   "url": "/haber/halk-tv-sorusturmasinda-ucuncu-dalga-operasyon-ekran-yuzleri-de-gozalt-5826d784/"
+  },
+  {
+   "id": "cb6962cd",
+   "title": "Genç yaşta kalp krizi riskinde aile öyküsü ve belirtiler önem taşıyor",
+   "summary": "Uzmanlar, genç ve kendisini sağlıklı hisseden kişilerde de kalp damar tıkanıklıkları görülebildiğini belirterek, özellikle spor yaparken ortaya çıkan ve dinlenince geçen göğüs ağrısı hissinin dikkate alınması gerektiği…",
+   "link": "https://www.aa.com.tr/tr/gundem/genc-yasta-kalp-krizi-riskinde-aile-oykusu-ve-belirtiler-onem-tasiyor/4140158",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T09:47:10+00:00",
+   "url": "/haber/genc-yasta-kalp-krizi-riskinde-aile-oykusu-ve-belirtiler-onem-tasiyor-cb6962cd/"
+  },
+  {
+   "id": "29560a97",
+   "title": "NATO'nun hava nöbeti Türkiye'de",
+   "summary": "Türk Hava Kuvvetleri'ne bağlı 151'inci Jet Filo Komutanlığı, 4 ay boyunca Romanya'da NATO hava sahasının korunmasını sağlayacak.",
+   "link": "https://www.ntv.com.tr/turkiye/natonun-hava-nobeti-turkiyede-1752844",
+   "image": "https://images.ntv.com.tr/images/AA-20261127-43196410-43196408-NATONUN_HAVA_NOBETINI_TURK_HAVA_KUVVETLERI_DEVRALACAK-153955.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T09:43:39+00:00",
+   "url": "/haber/nato-nun-hava-nobeti-turkiye-de-29560a97/"
+  },
+  {
+   "id": "2588af1e",
+   "title": "İsrail seçimlerinin ilk ayı geride kalırken: Eisenkot ve koalisyon senaryoları",
+   "summary": "Netanyahu karşıtlığı organik bir siyasi ortaklık zemini oluştursa da bunun bir hükümet ortaklığına dönüştürülmesi kendiliğinden gerçekleşmiyor.",
+   "link": "https://www.aa.com.tr/tr/analiz/israil-secimlerinin-ilk-ayi-geride-kalirken-eisenkot-ve-koalisyon-senaryolari/4140147",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T09:42:28+00:00",
+   "url": "/haber/israil-secimlerinin-ilk-ayi-geride-kalirken-eisenkot-ve-koalisyon-sena-2588af1e/"
+  },
+  {
+   "id": "2a923238",
+   "title": "Google CEO'sundan Türkiye odaklı yapay zeka açıklaması",
+   "summary": "Google CEO'su Sundar Pichai, Türkiye'nin Gemini kullanımında öne çıktığını belirterek yapay zekanın önümüzdeki 10 yılda ülke ekonomisine 100 milyar dolar katkı sağlayabileceğini açıkladı.",
+   "link": "https://www.donanimhaber.com/google-ceo-sundan-turkiye-odakli-yapay-zeka-aciklamasi--213459",
+   "image": "https://www.donanimhaber.com/images/images/haber/213459/1200x675google-ceo-sundan-turkiye-odakli-yapay-zeka-aciklamasi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-27T09:41:00+00:00",
+   "url": "/haber/google-ceo-sundan-turkiye-odakli-yapay-zeka-aciklamasi-2a923238/"
+  },
+  {
+   "id": "1ae822a3",
+   "title": "Rekabet Kurulundan iki cep telefonu şirketi ile üç teknoloji şirketine soruşturma",
+   "summary": "Rekabet Kurulu, cep telefonu, tüketici elektroniği ürünleri ve küçük ev aletleri ile bunlara ait aksesuarların ithalatı, toptan satışı alanlarında faaliyet gösteren iki telefon ve üç teknoloji şirketine yönelik…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/rekabet-kurulundan-iki-cep-telefonu-sirketi-ile-uc-teknoloji-sirketine-sorusturma/4140141",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T09:40:12+00:00",
+   "url": "/haber/rekabet-kurulundan-iki-cep-telefonu-sirketi-ile-uc-teknoloji-sirketine-1ae822a3/"
+  },
+  {
+   "id": "1404259f",
+   "title": "Husiler: Suudi Arabistan'ın Taiz'deki saldırısında çoğu çocuk 11 sivil hayatını kaybetti",
+   "summary": "Yemen'in Taiz vilayetinde bir konut binasına düzenlenen Suudi Arabistan saldırısında, çoğu çocuk 11 sivilin hayatını kaybettiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/husiler-suudi-arabistanin-taizdeki-saldirisinda-cogu-cocuk-11-sivil-hayatini-kaybetti/4140140",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T09:36:43+00:00",
+   "url": "/haber/husiler-suudi-arabistan-in-taiz-deki-saldirisinda-cogu-cocuk-11-sivil-1404259f/"
+  },
+  {
+   "id": "abd172f8",
+   "title": "Black Friday indirimleri başladı! İşte 2026 Efsane & Kara Cuma kampanyaları",
+   "summary": "2026 Black Friday indirimleri ne zaman diye merak edenler için kampanyalar başladı! Efsane & Kara Cuma indirimleri %80'e varan fırsatlarla burada. İşte indirime giren mağazalar, markalar ve ürünler:",
+   "link": "https://www.donanimhaber.com/black-friday-ne-zaman-basliyor-kara-cuma-anlami-ne-demek--141235",
+   "image": "https://www.donanimhaber.com/images/images/haber/141235/1200x675black-friday-ne-zaman-basliyor-kara-cuma-anlami-ne-demek.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-27T09:34:00+00:00",
+   "url": "/haber/black-friday-indirimleri-basladi-iste-2026-efsane-kara-cuma-kampanyala-abd172f8/"
+  },
+  {
+   "id": "b094e93d",
+   "title": "Altının onsu, zayıflayan dolar ve teknoloji hisselerinde hafifleyen satış baskısıyla yükselişe geçti",
+   "summary": "Altının ons fiyatı, Eylül 2025'ten bu yana en düşük seviyelerine gerilemesinin ardından dolar endeksindeki zayıflama ve teknoloji hisselerindeki satış baskısının durulmasıyla yüzde 3'ün üzerinde değer kazanarak 3 bin…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/altinin-onsu-zayiflayan-dolar-ve-teknoloji-hisselerinde-hafifleyen-satis-baskisiyla-yukselise-gecti/4140136",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T09:33:44+00:00",
+   "url": "/haber/altinin-onsu-zayiflayan-dolar-ve-teknoloji-hisselerinde-hafifleyen-sat-b094e93d/"
+  },
   {
    "id": "eaf170df",
    "title": "Bakan Bolat, Türkiye ile Rusya'nın 100 milyar dolarlık ticaret hedefinde mutabık kaldığını bildirdi",
@@ -189,17 +321,6 @@
    "url": "/haber/halk-tv-sorusturmasinda-ucuncu-dalga-9-kisi-gozaltina-alindi-b666a2cc/"
   },
   {
-   "id": "09121077",
-   "title": "Gürcistan'da gözaltına alınan Beşiktaş taraftarları serbest bırakıldı",
-   "summary": "Gürcistan'da gözaltına alınan 16 Beşiktaş taraftarı yürütülen diplomatik ve hukuki girişimler sonucunda serbest bırakıldı.",
-   "link": "https://www.aa.com.tr/tr/spor/gurcistanda-gozaltina-alinan-besiktas-taraftarlari-serbest-birakildi/4140103",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T09:09:22+00:00",
-   "url": "/haber/gurcistan-da-gozaltina-alinan-besiktas-taraftarlari-serbest-birakildi-09121077/"
-  },
-  {
    "id": "5bf49fb6",
    "title": "Amazon'da Gülümseten Cuma indirimleri başladı: İşte öne çıkanlar",
    "summary": "Amazon'un uzun zamandır devam eden Kasım kampanyasında şimdi Black Friday'e özel indirimler devreye girdi. Gülümseten Cuma gününe özel olarak fiyatlar cazip seviyeler indi.",
@@ -209,17 +330,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T09:07:20+00:00",
    "url": "/haber/amazon-da-gulumseten-cuma-indirimleri-basladi-iste-one-cikanlar-5bf49fb6/"
-  },
-  {
-   "id": "9268f072",
-   "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine yönelik hava saldırılarını sürdürdü",
-   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki Nebatiye vilayetine hava saldırıları düzenledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-yonelik-hava-saldirilarini-surdurdu/4140095",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T09:02:42+00:00",
-   "url": "/haber/israil-ordusu-ateskese-ragmen-lubnan-in-guneyine-yonelik-hava-saldiril-9268f072/"
   },
   {
    "id": "1a7fc5d5",
@@ -255,15 +365,15 @@
    "url": "/haber/beyne-ilac-tasiyan-nanorobotlar-gelistirildi-parkinson-ve-kanser-hedef-dc0f61ca/"
   },
   {
-   "id": "19968f51",
-   "title": "\"Ritmik\" 86 milyon vatandaşın kişisel sağlık asistanı olacak",
-   "summary": "Sağlık Bakan Yardımcısı Doç. Dr. Birinci, e-Nabız'ın güçlü veri altyapısıyla beslenen Ritmik'in vatandaşlara hastalık risklerinden ilaç etkileşimlerine, beslenme önerilerinden doktor randevularına kadar her alanda…",
-   "link": "https://www.aa.com.tr/tr/gundem/ritmik-86-milyon-vatandasin-kisisel-saglik-asistani-olacak/4140086",
+   "id": "4f766e97",
+   "title": "Bakan Uraloğlu: Bursa'dan Ankara'ya ve İstanbul'a seyahat süresi yaklaşık 2 saat 15 dakikaya düşecek",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Bursa'dan Ankara'ya ve İstanbul'a seyahat süresi yaklaşık 2 saat 15 dakikaya düşecek. Bursa-Bilecik 45 dakika, Bursa-Eskişehir 1 saat ve Bursa-Konya da 2 saat 50 dakika…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-bursadan-ankaraya-ve-istanbula-seyahat-suresi-yaklasik-2-saat-15-dakikaya-dusecek/4140082",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-27T08:56:41+00:00",
-   "url": "/haber/ritmik-86-milyon-vatandasin-kisisel-saglik-asistani-olacak-19968f51/"
+   "date": "2026-11-27T08:55:30+00:00",
+   "url": "/haber/bakan-uraloglu-bursa-dan-ankara-ya-ve-istanbul-a-seyahat-suresi-yaklas-4f766e97/"
   },
   {
    "id": "1395d0e5",
@@ -288,17 +398,6 @@
    "url": "/haber/ayni-apartmandaki-3-cocugun-supheli-olumu-20-yil-sonra-7-gozalti-aba8e0fe/"
   },
   {
-   "id": "5826d784",
-   "title": "Halk TV soruşturmasında üçüncü dalga operasyon: Ekran yüzleri de gözaltında",
-   "summary": "Halk TV'ye yönelik üçüncü dalga operasyonda 12 kişi hakkında gözaltı kararı verildi, dokuz kişi gözaltına alındı. Gözaltına alınanlar arasında kanalın ekran yüzleri de var.",
-   "link": "https://www.ntv.com.tr/turkiye/halk-tv-sorusturmasinda-ucuncu-dalga-operasyon-ekran-yuzleri-gozaltinda-1752818",
-   "image": "https://images.ntv.com.tr/images/halk-tv-yeni-operasyon-719407.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-27T08:53:10+00:00",
-   "url": "/haber/halk-tv-sorusturmasinda-ucuncu-dalga-operasyon-ekran-yuzleri-de-gozalt-5826d784/"
-  },
-  {
    "id": "99721db9",
    "title": "Batum'da gözaltına alınan Beşiktaş taraftarları serbest bırakıldı",
    "summary": "Gürcistan’ın Batum kentinde gözaltına alınan 16 Beşiktaş taraftarı, Cumhurbaşkanı Recep Tayyip Erdoğan’ın talimatları doğrultusunda yürütülen diplomatik ve hukuki girişimler sonucunda serbest bırakıldı.",
@@ -308,17 +407,6 @@
    "category": "gundem",
    "date": "2026-11-27T08:53:00+00:00",
    "url": "/haber/batum-da-gozaltina-alinan-besiktas-taraftarlari-serbest-birakildi-99721db9/"
-  },
-  {
-   "id": "91202c86",
-   "title": "Süper Lig ve 1. Lig yayın ihalesi, 30 Kasım Pazartesi günü gerçekleştirilecek",
-   "summary": "Türkiye Futbol Federasyonu (TFF), Süper Lig ve 1. Lig yayın ihalesinin 30 Kasım Pazartesi günü yapılacağını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/spor/super-lig-ve-1-lig-yayin-ihalesi-30-kasim-pazartesi-gunu-gerceklestirilecek/4140074",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:52:25+00:00",
-   "url": "/haber/super-lig-ve-1-lig-yayin-ihalesi-30-kasim-pazartesi-gunu-gerceklestiri-91202c86/"
   },
   {
    "id": "2def1c11",
@@ -343,28 +431,6 @@
    "url": "/haber/youtube-premium-aboneleri-artik-uygulama-simgesini-degistirebilecek-is-6a70396c/"
   },
   {
-   "id": "e4659fec",
-   "title": "İstanbul'da 3 ayrı suçtan aranan hükümlü, saklandığı gizli bölmede yakalandı",
-   "summary": "İstanbul'da hakkında 7 yıl 15 ay kesinleşmiş hapis cezası bulunan ve 3 ayrı suçtan aranan Selim Işık, saklandığı adresteki gizli bölmede yakalandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-3-ayri-suctan-aranan-hukumlu-saklandigi-gizli-bolmede-yakalandi/4140070",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:50:19+00:00",
-   "url": "/haber/istanbul-da-3-ayri-suctan-aranan-hukumlu-saklandigi-gizli-bolmede-yaka-e4659fec/"
-  },
-  {
-   "id": "0901e242",
-   "title": "İran: ABD’nin el koyduğu İran’a ait iki petrol tankeri düzenlenen operasyonla geri alındı",
-   "summary": "İran Ordusu Deniz Kuvvetleri Komutanı Tuğamiral Şehram İrani, ABD’nin İran’a ait iki petrol tankerine el koyduğunu ancak daha sonra İran ordusunun ABD’lilerin uyuduğu sırada düzenlediği operasyonla söz konusu iki…",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-abd-nin-el-koydugu-iran-a-ait-iki-petrol-tankeri-duzenlenen-operasyonla-geri-alindi/4140068",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:48:07+00:00",
-   "url": "/haber/iran-abd-nin-el-koydugu-iran-a-ait-iki-petrol-tankeri-duzenlenen-opera-0901e242/"
-  },
-  {
    "id": "fdf5f6b4",
    "title": "Tuvada eski Türk kağanlıkları dönemine ait yeni anıt kompleksleri keşfedildi",
    "summary": "Eski Türk kağanlıkları dönemine ait yeni anıt kompleksleri Tuva’da gün yüzüne çıkarıldı. 6-8. yüzyıllara tarihlenen taş heykeller ve ritüel alanları, eski Türklerin inanç dünyasına, kültürel yaşamına ve Sibirya’dan…",
@@ -387,15 +453,15 @@
    "url": "/haber/whatsapp-in-iphone-menusunde-yazilar-kalkiyor-75d9a55a/"
   },
   {
-   "id": "8199c186",
-   "title": "İsrail basını: Mossad ve ordu, İran'a saldırının zamanlaması konusunda ters düştü",
-   "summary": "İsrail dış istihbarat servisi Mossad ile İsrail ordusunun, İran’a yönelik olası bir askeri saldırının zamanlaması ve ABD’nin katılımı konusunda ters düştüğü bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-mossad-ve-ordu-irana-saldirinin-zamanlamasi-konusunda-ters-dustu/4140065",
+   "id": "66d7d142",
+   "title": "İstanbul'da \"Tarımda Milli Vizyon Zirvesi\" düzenlendi",
+   "summary": "İstanbul Finans Merkezi'ndeki Ziraat Kuleleri Oditoryumu'nda, \"Tarımda Milli Vizyon Zirvesi\" düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/istanbulda-tarimda-milli-vizyon-zirvesi-duzenlendi/4140059",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-27T08:44:44+00:00",
-   "url": "/haber/israil-basini-mossad-ve-ordu-iran-a-saldirinin-zamanlamasi-konusunda-t-8199c186/"
+   "date": "2026-11-27T08:32:35+00:00",
+   "url": "/haber/istanbul-da-tarimda-milli-vizyon-zirvesi-duzenlendi-66d7d142/"
   },
   {
    "id": "4e1b3cf8",
@@ -728,17 +794,6 @@
    "url": "/haber/evinde-elleri-ayaklari-bagli-olu-bulunmustu-ferdi-karagoz-cinayetinde-07df64ca/"
   },
   {
-   "id": "132bed26",
-   "title": "Fon soruşturması | Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya hakkında karar",
-   "summary": "Fon soruşturmasında gözaltına alınan Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya, ifadesinin ardından serbest bırakıldı. Mahkemeye sevk edilen üç kişi ise tutulandı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-bulls-yatirim-yonetim-kurulu-baskani-kemal-akkaya-hakkinda-karar-1752809",
-   "image": "https://images.ntv.com.tr/images/kemalakkaya-453531.png",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-27T06:18:19+00:00",
-   "url": "/haber/fon-sorusturmasi-bulls-yatirim-yonetim-kurulu-baskani-kemal-akkaya-hak-132bed26/"
-  },
-  {
    "id": "068fa2d3",
    "title": "Avrupa’da dev IPTV operasyonu",
    "summary": "Avrupa’da kaçak olarak faaliyet gösteren onlarca IPTV hizmeti yapılan operasyonla etkisiz hale getirilirken milyonlarca Euroluk para transferi tespit edildi.",
@@ -748,17 +803,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T06:06:38+00:00",
    "url": "/haber/avrupa-da-dev-iptv-operasyonu-068fa2d3/"
-  },
-  {
-   "id": "fccf1918",
-   "title": "18 yıllık anlaşma bitti: Türklere vize şartı getirdiler, Türkiye de vize istemeye başladı",
-   "summary": "Türkiye ile Karadağ arasındaki vizesiz seyahat dönemi sona erdi. Karadağ'ın Türk vatandaşlarına vize şartı getirmesinin ardından Türkiye de Karadağ vatandaşları için vize zorunluluğu başlattı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-18-yillik-anlasma-bitti-turklere-vize-sarti-getirdiler-turkiye-de-vize-istemeye-basladi-1752803",
-   "image": "https://images.ntv.com.tr/images/vize-947877.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-27T05:34:38+00:00",
-   "url": "/haber/18-yillik-anlasma-bitti-turklere-vize-sarti-getirdiler-turkiye-de-vize-fccf1918/"
   },
   {
    "id": "d038932f",
@@ -893,28 +937,6 @@
    "url": "/haber/claude-artik-masaustu-uygulamalari-olusturabiliyor-ucretsiz-kullanicil-6bc60321/"
   },
   {
-   "id": "d21dbd47",
-   "title": "YouTube Premium aboneleri artık uygulama simgesini değiştirebilecek",
-   "summary": "ouTube, Premium abonelerinin mobil uygulama simgesini değiştirmesine olanak tanıyan yeni özelliğini dağıtmaya başladı. Şimdilik üç farklı tasarım sınırlı sayıda kullanıcıya sunuluyor.",
-   "link": "https://www.donanimhaber.com/youtube-premium-aboneleri-uygulama-simgesini-degistirebilecek--213446",
-   "image": "https://www.donanimhaber.com/images/images/haber/213446/1200x675youtube-premium-aboneleri-uygulama-simgesini-degistirebilecek.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-26T20:40:00+00:00",
-   "url": "/haber/youtube-premium-aboneleri-artik-uygulama-simgesini-degistirebilecek-d21dbd47/"
-  },
-  {
-   "id": "6024fac6",
-   "title": "Kritik kurumları hedef alan kablosuz internet casusluk ağı çökertildi",
-   "summary": "Kritik kamu kurumlarının kullandığı W-Fi ağlarını analiz ederek sızmaya yönelik hazırlık yaptıkların değerlendirilen yabancı bir istihbarat ekibi çökertildi.",
-   "link": "https://www.donanimhaber.com/w-fi-casuslarina-sucustu--213445",
-   "image": "https://www.donanimhaber.com/images/images/haber/213445/1200x675w-fi-casuslarina-sucustu.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-26T20:20:00+00:00",
-   "url": "/haber/kritik-kurumlari-hedef-alan-kablosuz-internet-casusluk-agi-cokertildi-6024fac6/"
-  },
-  {
    "id": "75e74237",
    "title": "WEEF 2026 Fuarı İstanbul'da kapılarını açtı",
    "summary": "Elektrik, elektronik, enerji, aydınlatma ve akıllı teknolojiler alanlarında faaliyet gösteren firmaları bir araya getiren WEEF 2026 Fuarı, Yenikapı Etkinlik Alanı'ndaki Dr. Mimar Kadir Topbaş Gösteri ve Sanat…",
@@ -937,17 +959,6 @@
    "url": "/haber/besiktas-isgalci-israil-in-takimini-yendi-610d162d/"
   },
   {
-   "id": "1a25071c",
-   "title": "Güneş panellerinin gizli düşmanı: Kuş pislikleri üretimi yüzde 6 azaltabiliyor",
-   "summary": "Bir yıl süren araştırma, güneş panellerinde kuş pisliklerinin neden olduğu kirliliğin yağmurla giderilemediğini ve enerji üretimini beklenenden de büyük ölçüde düşürdüğünü gösterdi.",
-   "link": "https://www.donanimhaber.com/kus-pisliginin-gunes-panellerine-verdigi-zarar-beklenenden-buyuk--213442",
-   "image": "https://www.donanimhaber.com/images/images/haber/213442/1200x675kus-pisliginin-gunes-panellerine-verdigi-zarar-beklenenden-buyuk.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-26T20:02:00+00:00",
-   "url": "/haber/gunes-panellerinin-gizli-dusmani-kus-pislikleri-uretimi-yuzde-6-azalta-1a25071c/"
-  },
-  {
    "id": "7a5e2dc2",
    "title": "Instagram Direkt Mesaj uygulaması iPhone'a geldi",
    "summary": "Instagram, mesajlaşmayı ayrı bir uygulamaya taşıdı. \"Direct - Arkadaşlarla Sohbet\" adlı uygulama Türkiye App Store'unda iPhone kullanıcıları için ücretsiz olarak yayında.",
@@ -968,17 +979,6 @@
    "category": "teknoloji",
    "date": "2026-11-26T17:31:28+00:00",
    "url": "/haber/hmd-rise-tanitildi-5-000-mah-pil-android-go-c5a589be/"
-  },
-  {
-   "id": "16b838c9",
-   "title": "Samsung, Galaxy AI için gizli bulut hazırlıyor",
-   "summary": "One UI 9.5'in ilk betasının kodunda ortaya çıkan SPAC adlı yapı, Samsung'un Galaxy AI için kendi gizli bulutunu hazırladığını gösteriyor. Sistem, Apple'ın Private Cloud Compute yaklaşımına benziyor.",
-   "link": "https://shiftdelete.net/samsung-galaxy-ai-ozel-bulut-spac-one-ui-9-5",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/galaxy-ai-sahne-kapak-1611.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-26T17:21:47+00:00",
-   "url": "/haber/samsung-galaxy-ai-icin-gizli-bulut-hazirliyor-16b838c9/"
   },
   {
    "id": "16b33089",
