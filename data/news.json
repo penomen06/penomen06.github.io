@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:01:09.920389+00:00",
+ "updated": "2026-11-27T22:31:01.043318+00:00",
  "items": [
   {
    "id": "64d60769",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T22:00:00+00:00",
+   "date": "2026-11-27T22:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-64d60769/"
   },
   {
@@ -17,11 +17,22 @@
    "title": "Bolu'da minibüs kayboldu. 10 kız çocuğu ve 3 personel aranıyor.",
    "summary": "Bolu'nun Yedigöller mevkiisinde, içerisinde 10 kız çocuğu ve 3 görevlinin bulunduğu araçtan saat 16.30'dan itibaren haber alınamıyor.",
    "link": "https://www.ntv.com.tr/turkiye/boluda-minibus-kayboldu-10-kiz-cocugu-ve-3-personel-araniyor-1752910",
-   "image": "https://images.ntv.com.tr/images/AW841836_01-273856.jpg",
+   "image": "https://images.ntv.com.tr/images/AA-20261127-43204449-43204448-AILE_VE_SOSYAL_HIZMETLER_BAKANLIGINDAN_YEDIGOLLER_BOLGESINE_GEZI_AMACIYLA_GIDEN_ARACA_ULASILAMAMASINA_ILISKIN_ACIKLAMA-834519.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T21:52:07+00:00",
+   "date": "2026-11-27T22:24:01+00:00",
    "url": "/haber/bolu-da-minibus-kayboldu-10-kiz-cocugu-ve-3-personel-araniyor-05d90e97/"
+  },
+  {
+   "id": "d430cee9",
+   "title": "Bolu'da Yedigöller gezisine giden on çocuk ve üç personelden haber alınamıyor",
+   "summary": "Kocaeli Çocuk Evleri Sitesi Müdürlüğü'nden günübirlik gezi için Bolu Yedigöller'e giden 14-17 yaş aralığındaki on kız çocuğu ve üç görevli personeli taşıyan araçtan saat 16:30'dan itibaren haber alınamıyor.",
+   "link": "https://www.bbc.com/turkce/articles/cmx289847rl5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a40/live/c48d3280-eaa4-11f1-9541-edfa153772c7.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-27T22:08:54+00:00",
+   "url": "/haber/bolu-da-yedigoller-gezisine-giden-on-cocuk-ve-uc-personelden-haber-ali-d430cee9/"
   },
   {
    "id": "788bb081",
@@ -33,17 +44,6 @@
    "category": "gundem",
    "date": "2026-11-27T21:40:23+00:00",
    "url": "/haber/merkez-bankasi-fintlix-in-faaliyet-iznini-iptal-etti-788bb081/"
-  },
-  {
-   "id": "d430cee9",
-   "title": "Bolu'da Yedigöller gezisine giden on çocuk ve üç personelden haber alınamıyor",
-   "summary": "Kocaeli Çocuk Evleri Sitesi Müdürlüğü'nden günübirlik gezi için Bolu Yedigöller'e giden 14-17 yaş aralığındaki on kız çocuğu ve üç görevli personeli taşıyan araçtan saat 16:30'dan itibaren haber alınamıyor.",
-   "link": "https://www.bbc.com/turkce/articles/cmx289847rl5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a40/live/c48d3280-eaa4-11f1-9541-edfa153772c7.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-27T21:01:06+00:00",
-   "url": "/haber/bolu-da-yedigoller-gezisine-giden-on-cocuk-ve-uc-personelden-haber-ali-d430cee9/"
   },
   {
    "id": "69db5ade",
