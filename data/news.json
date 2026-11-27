@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:01:03.665312+00:00",
+ "updated": "2026-11-27T00:30:56.057598+00:00",
  "items": [
   {
    "id": "dc6caa8c",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T00:00:00+00:00",
+   "date": "2026-11-27T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dc6caa8c/"
+  },
+  {
+   "id": "0e69fe49",
+   "title": "BDDK Başkanlığı'na Yusuf Kenan Bağır atandı",
+   "summary": "Şahap Kavcıoğlu'nun fon kriziyle ilgili hakkında çıkan iddialar nedeniyle istifa etmesinin ardından Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı olarak Yusuf Kenan Bağır atandı.",
+   "link": "https://www.bbc.com/turkce/articles/c5742lzd1m20o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a541/live/74090930-e9f3-11f1-9c56-b1b6306ef9e3.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-27T00:29:34+00:00",
+   "url": "/haber/bddk-baskanligi-na-yusuf-kenan-bagir-atandi-0e69fe49/"
+  },
+  {
+   "id": "415268bf",
+   "title": "Ünlülere uyuşturucu soruşturmasında 3 kişi hakkında tutuklama talebi",
+   "summary": "İstanbul'da ünlülere yönelik uyuşturucu soruşturması kapsamında gözaltı süresi uzatılan şüphelilerden 3'ü hakkında tutuklama, 10 kişi için ise adli kontrol istendi.",
+   "link": "https://www.ntv.com.tr/turkiye/unlulere-uyusturucu-sorusturmasinda-3-kisi-hakkinda-tutuklama-talebi-1752774",
+   "image": "https://images.ntv.com.tr/images/UNLULERE-YONELIK-‘UYUSTURUCU’-SORUSTURMA_1628442_484202-856750.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T00:21:01+00:00",
+   "url": "/haber/unlulere-uyusturucu-sorusturmasinda-3-kisi-hakkinda-tutuklama-talebi-415268bf/"
   },
   {
    "id": "1909da71",
@@ -541,17 +563,6 @@
    "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiye-sureci-yarin-tamamlanacak-1c7a5ae8/"
   },
   {
-   "id": "71fd0979",
-   "title": "Gerard Depardieu, aktris Arnould'ya tecavüz suçlamasıyla yargılanacak",
-   "summary": "Fransız sinemasının önde gelen isimlerinden Gerard Depardieu, aktris Charlotte Arnould'ya sekiz yıl önce tecavüz ettiği iddiasıyla yargılanacak. Davada 7 Ağustos 2018 günü yaşanan olaylar dinlenecek.",
-   "link": "https://www.bbc.com/turkce/articles/cqrmg478l99yo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/81d1/live/0c9dec10-e9b3-11f1-859a-37130cd3a1d7.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-26T16:02:06+00:00",
-   "url": "/haber/gerard-depardieu-aktris-arnould-ya-tecavuz-suclamasiyla-yargilanacak-71fd0979/"
-  },
-  {
    "id": "0510cb9e",
    "title": "Branda Yırtıldı, MediaMarkt Şahane Cuma İndirimleri Başladı!",
    "summary": "MediaMarkt Türkiye'nin geleneksel Branda Yırtma etkinliği Marmara Park'ta yapıldı; brandayı Uberkuloz ve Pqueen yırttı, Şahane Cuma fırsatları başladı.",
@@ -1078,17 +1089,6 @@
    "category": "gundem",
    "date": "2026-11-26T10:37:36+00:00",
    "url": "/haber/ysk-baskani-mutta-acikladi-yurt-disi-secmen-icin-elektronik-oy-hazirli-a1334d2b/"
-  },
-  {
-   "id": "714e80ce",
-   "title": "Anayasa Mahkemesi'nden Ekrem İmamoğlu kararı",
-   "summary": "Anayasa Mahkemesi, Ekrem İmamoğlu'nun tutukluluğunun hak ihlali olduğu iddiasıyla yaptığı başvuruyu reddetti.",
-   "link": "https://www.ntv.com.tr/turkiye/anayasa-mahkemesinden-ekrem-imamoglu-karari-1752708",
-   "image": "https://images.ntv.com.tr/images/ibb-ekrem-imamoğlu-davası-772312.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-26T10:07:54+00:00",
-   "url": "/haber/anayasa-mahkemesi-nden-ekrem-imamoglu-karari-714e80ce/"
   },
   {
    "id": "c0f46c8a",
