@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:30:55.937941+00:00",
+ "updated": "2026-11-27T04:01:10.121025+00:00",
  "items": [
   {
    "id": "dc6caa8c",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T03:30:00+00:00",
+   "date": "2026-11-27T04:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dc6caa8c/"
+  },
+  {
+   "id": "d824c17d",
+   "title": "RAM fiyatlarında ilk soğuma işaretleri",
+   "summary": "Aylardır tırmanan bellek fiyatlarında ilk soğuma işaretleri görülüyor. DDR4 spot fiyatları düşmeye başladı, TrendForce 2027 tahminini aşağı çekti. Bir analiste göre DRAM fiyatları 2028'de yarıya inebilir, ama ucuz RAM…",
+   "link": "https://shiftdelete.net/ram-fiyatlari-dusus-ddr4-trendforce-2028-dram",
+   "image": "https://ares.shiftdelete.net/2026/07/cinli-cxmt-lpddr6-bellek-teknolojisinde-samsung-ve-sk-hynix-e-rakip-oluyor.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-27T03:38:51+00:00",
+   "url": "/haber/ram-fiyatlarinda-ilk-soguma-isaretleri-d824c17d/"
   },
   {
    "id": "e9d7c6e5",
@@ -1012,17 +1023,6 @@
    "category": "gundem",
    "date": "2026-11-26T12:45:49+00:00",
    "url": "/haber/dunya-tarihinde-bir-ilk-kuresel-sicaklik-2-dereceyi-asti-bb57889b/"
-  },
-  {
-   "id": "a27085f2",
-   "title": "Intel'in 144 MB önbellekli işlemcisi sızdı",
-   "summary": "Intel'in Nova Lake ailesinden Core Ultra 9 4970K BFC'nin özellikleri sızdı. 28 çekirdekli işlemci 144 MB önbellek ve 5,5 GHz hızla AMD'nin X3D modellerine rakip olacak.",
-   "link": "https://shiftdelete.net/intel-core-ultra-9-4970k-bfc-nova-lake-ozellikleri-sizdi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/intel-core-ultra-9-4970k-bfc-islemci-kapak-2611.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-26T12:42:44+00:00",
-   "url": "/haber/intel-in-144-mb-onbellekli-islemcisi-sizdi-a27085f2/"
   },
   {
    "id": "240e7172",
