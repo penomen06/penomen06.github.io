@@ -1,16 +1,236 @@
 {
- "updated": "2026-11-27T08:30:55.745267+00:00",
+ "updated": "2026-11-27T09:01:11.284840+00:00",
  "items": [
   {
-   "id": "dc6caa8c",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 27 Kasım 2026",
-   "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 27 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-27-kasim-2026-1752759",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+   "id": "069f8a44",
+   "title": "Son Dakika... Mustafa Sarıgül'ün fezlekesi Meclis Başkanlığı'nda",
+   "summary": "Erzincan Milletvekili Mustafa Sarıgül hakkında dokunulmazlığının kaldırılması istemiyle hazırlanan fezleke Meclis Başkanlığı'na geldi. Fezleke Karma Komisyon'a sevk edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-mustafa-sarigulun-fezlekesi-meclis-baskanliginda-1752836",
+   "image": "https://images.ntv.com.tr/son-dakika-gorselleri/son-kirmizi(6).jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T08:30:01+00:00",
-   "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dc6caa8c/"
+   "date": "2026-11-27T08:59:22+00:00",
+   "url": "/haber/son-dakika-mustafa-sarigul-un-fezlekesi-meclis-baskanligi-nda-069f8a44/"
+  },
+  {
+   "id": "1bbe607d",
+   "title": "Yeşil'in ses kaydıyla gündeme gelmişti: Yıllardır saklanan Tilki Selim saunada yakalandı",
+   "summary": "Türkiye'de 90'lı yıllarda uyuşturucu soruşturmalarıyla gündeme gelen Tilki Selim lakaplı Selim Işık, bir saunanın içindeki gizli bölmede yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-yesilin-ses-kaydiyla-gundeme-gelmisti-yillardir-saklanan-tilki-selim-saunada-yakalandi-1752834",
+   "image": "https://images.ntv.com.tr/images/tilki-selim-1-911900.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T08:59:22+00:00",
+   "url": "/haber/yesil-in-ses-kaydiyla-gundeme-gelmisti-yillardir-saklanan-tilki-selim-1bbe607d/"
+  },
+  {
+   "id": "dc0f61ca",
+   "title": "Beyne ilaç taşıyan nanorobotlar geliştirildi: Parkinson ve kanser hedefte",
+   "summary": "Caltech araştırmacıları, kan-beyin bariyerini aşarak beyne ilaç taşıyabilen nanorobotlar geliştirdi. Beyin kanser ve Parkinson’u hedefleyen teknoloji, deneylerde taşınan ilaç miktarını 5 kat artırdı.",
+   "link": "https://www.donanimhaber.com/beyne-ilac-tasiyan-nanorobotlar-gelistirildi--213456",
+   "image": "https://www.donanimhaber.com/images/images/haber/213456/1200x675beyne-ilac-tasiyan-nanorobotlar-gelistirildi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-27T08:57:00+00:00",
+   "url": "/haber/beyne-ilac-tasiyan-nanorobotlar-gelistirildi-parkinson-ve-kanser-hedef-dc0f61ca/"
+  },
+  {
+   "id": "19968f51",
+   "title": "\"Ritmik\" 86 milyon vatandaşın kişisel sağlık asistanı olacak",
+   "summary": "Sağlık Bakan Yardımcısı Doç. Dr. Birinci, e-Nabız'ın güçlü veri altyapısıyla beslenen Ritmik'in vatandaşlara hastalık risklerinden ilaç etkileşimlerine, beslenme önerilerinden doktor randevularına kadar her alanda…",
+   "link": "https://www.aa.com.tr/tr/gundem/ritmik-86-milyon-vatandasin-kisisel-saglik-asistani-olacak/4140086",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:56:41+00:00",
+   "url": "/haber/ritmik-86-milyon-vatandasin-kisisel-saglik-asistani-olacak-19968f51/"
+  },
+  {
+   "id": "1395d0e5",
+   "title": "Rekabet Kurumu, akıllı telefon fiyatlarına yönelik olarak ‘Xiaomi, Güncel, Infinix, Evofone ve MIEKO’yu kapsayan soruşturma hakkında yeni bilgiler verdi",
+   "summary": "Rekabet Kurumu tarafından sürpriz gelişme hakkında yapılan son resmi açıklama şöyle oldu: “Rekabet Kurulunun (Kurul) 30.06.2026 tarih ve 26-23/709-M sayılı kararıyla cep telefonu, tüketici elektroniği ürünleri ve küçük…",
+   "link": "https://www.log.com.tr/rekabet-kurumu-akilli-telefon-fiyatlarina-yonelik-olarak-xiaomi-guncel-infinix-evofone-ve-miekoyu-kapsayan-sorusturma-hakkinda-yeni-bilgiler-verdi/",
+   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-27_11-53-02_VoAIq-660x371.jpg",
+   "source": "LOG Teknoloji Haberleri",
+   "category": "teknoloji",
+   "date": "2026-11-27T08:55:04+00:00",
+   "url": "/haber/rekabet-kurumu-akilli-telefon-fiyatlarina-yonelik-olarak-xiaomi-guncel-1395d0e5/"
+  },
+  {
+   "id": "aba8e0fe",
+   "title": "Aynı apartmandaki 3 çocuğun şüpheli ölümü. 20 yıl sonra 7 gözaltı",
+   "summary": "İstanbul'un Kağıthane ilçesinde 2004 ve 2005 yıllarında aynı apartmanda hayatını kaybeden 3 çocuğun şüpheli ölümüne ilişkin 7 kişi gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/ayni-apartmandaki-3-cocugun-supheli-olumu-20-yil-sonra-7-gozalti-1752822",
+   "image": "https://images.ntv.com.tr/images/c8bfccff9ec954fdc4855e2cdc683053-653340.webp",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T08:54:56+00:00",
+   "url": "/haber/ayni-apartmandaki-3-cocugun-supheli-olumu-20-yil-sonra-7-gozalti-aba8e0fe/"
+  },
+  {
+   "id": "4ce7a128",
+   "title": "İddianame, ödemeler: Fon krizi ortak basın toplantısından neler öğrendik?",
+   "summary": "Fon soruşturmalarıyla ilgili üç bakanın basın toplantısında, yatırımcılara ödemeler, sorumluluların cezalandırılması ve gelecekte benzer senaryoların yaşanmaması için alınan önlemler ele alındı.",
+   "link": "https://www.bbc.com/turkce/articles/cmrlgzxy0rp6o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df8e/live/20c146a0-ea40-11f1-9fc4-ef897a334b75.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-27T08:54:51+00:00",
+   "url": "/haber/iddianame-odemeler-fon-krizi-ortak-basin-toplantisindan-neler-ogrendik-4ce7a128/"
+  },
+  {
+   "id": "5826d784",
+   "title": "Halk TV soruşturmasında üçüncü dalga operasyon: Ekran yüzleri de gözaltında",
+   "summary": "Halk TV'ye yönelik üçüncü dalga operasyonda 12 kişi hakkında gözaltı kararı verildi, dokuz kişi gözaltına alındı. Gözaltına alınanlar arasında kanalın ekran yüzleri de var.",
+   "link": "https://www.ntv.com.tr/turkiye/halk-tv-sorusturmasinda-ucuncu-dalga-operasyon-ekran-yuzleri-gozaltinda-1752818",
+   "image": "https://images.ntv.com.tr/images/halk-tv-yeni-operasyon-719407.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T08:53:10+00:00",
+   "url": "/haber/halk-tv-sorusturmasinda-ucuncu-dalga-operasyon-ekran-yuzleri-de-gozalt-5826d784/"
+  },
+  {
+   "id": "91202c86",
+   "title": "Süper Lig ve 1. Lig yayın ihalesi, 30 Kasım Pazartesi günü gerçekleştirilecek",
+   "summary": "Türkiye Futbol Federasyonu (TFF), Süper Lig ve 1. Lig yayın ihalesinin 30 Kasım Pazartesi günü yapılacağını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/spor/super-lig-ve-1-lig-yayin-ihalesi-30-kasim-pazartesi-gunu-gerceklestirilecek/4140074",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:52:25+00:00",
+   "url": "/haber/super-lig-ve-1-lig-yayin-ihalesi-30-kasim-pazartesi-gunu-gerceklestiri-91202c86/"
+  },
+  {
+   "id": "2def1c11",
+   "title": "Gürcistan'da gözaltına alınan 16 Beşiktaş taraftarı serbest bırakıldı",
+   "summary": "Gürcistan'da oynanan Beşiktaş-Hapoel Beer Sheva maçındaki olaylarda gözaltına alınan 16 siyah-beyazlı taraftar serbest bırakıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/gurcistanda-gozaltina-alinan-16-besiktas-taraftari-serbest-birakildi-1752832",
+   "image": "https://images.ntv.com.tr/images/beşiktaş-103526.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T08:51:46+00:00",
+   "url": "/haber/gurcistan-da-gozaltina-alinan-16-besiktas-taraftari-serbest-birakildi-2def1c11/"
+  },
+  {
+   "id": "6a70396c",
+   "title": "YouTube Premium Aboneleri Artık Uygulama Simgesini Değiştirebilecek: İşte Yeni Tasarımlar",
+   "summary": "YouTube, yıllardır gördüğümüz klasik kırmızı oynatma butonuna seçenek sunan yeni bir kişiselleştirme özelliğini kullanıma açmaya başladı. Android ve iOS'ta etkinleşen bu yenilik yalnızca YouTube Premium abonelerine özel.",
+   "link": "https://www.webtekno.com/youtube-premium-uygulama-simgesi-degistirme-h229537.html",
+   "image": "https://imgrosetta.webtekno.com/file/695644/695644-640xauto.jpg",
+   "source": "Webtekno",
+   "category": "teknoloji",
+   "date": "2026-11-27T08:51:13+00:00",
+   "url": "/haber/youtube-premium-aboneleri-artik-uygulama-simgesini-degistirebilecek-is-6a70396c/"
+  },
+  {
+   "id": "e4659fec",
+   "title": "İstanbul'da 3 ayrı suçtan aranan hükümlü, saklandığı gizli bölmede yakalandı",
+   "summary": "İstanbul'da hakkında 7 yıl 15 ay kesinleşmiş hapis cezası bulunan ve 3 ayrı suçtan aranan Selim Işık, saklandığı adresteki gizli bölmede yakalandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-3-ayri-suctan-aranan-hukumlu-saklandigi-gizli-bolmede-yakalandi/4140070",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:50:19+00:00",
+   "url": "/haber/istanbul-da-3-ayri-suctan-aranan-hukumlu-saklandigi-gizli-bolmede-yaka-e4659fec/"
+  },
+  {
+   "id": "0901e242",
+   "title": "İran: ABD’nin el koyduğu İran’a ait iki petrol tankeri düzenlenen operasyonla geri alındı",
+   "summary": "İran Ordusu Deniz Kuvvetleri Komutanı Tuğamiral Şehram İrani, ABD’nin İran’a ait iki petrol tankerine el koyduğunu ancak daha sonra İran ordusunun ABD’lilerin uyuduğu sırada düzenlediği operasyonla söz konusu iki…",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-abd-nin-el-koydugu-iran-a-ait-iki-petrol-tankeri-duzenlenen-operasyonla-geri-alindi/4140068",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:48:07+00:00",
+   "url": "/haber/iran-abd-nin-el-koydugu-iran-a-ait-iki-petrol-tankeri-duzenlenen-opera-0901e242/"
+  },
+  {
+   "id": "75d9a55a",
+   "title": "WhatsApp'ın iPhone menüsünde yazılar kalkıyor",
+   "summary": "WhatsApp, iPhone uygulamasının alt kısmındaki sekme çubuğunu sadeleştiriyor. Yeni tasarımda sekmelerin altındaki yazılar kaldırılıyor, yalnız simgeler kalıyor. Değişiklik şimdilik TestFlight üzerinden bazı beta…",
+   "link": "https://shiftdelete.net/whatsapp-iphone-alt-menu-sade-tasarim-etiketsiz",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/whatsapp-gizlilik-kapak-1211.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-27T08:47:33+00:00",
+   "url": "/haber/whatsapp-in-iphone-menusunde-yazilar-kalkiyor-75d9a55a/"
+  },
+  {
+   "id": "8199c186",
+   "title": "İsrail basını: Mossad ve ordu, İran'a saldırının zamanlaması konusunda ters düştü",
+   "summary": "İsrail dış istihbarat servisi Mossad ile İsrail ordusunun, İran’a yönelik olası bir askeri saldırının zamanlaması ve ABD’nin katılımı konusunda ters düştüğü bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-mossad-ve-ordu-irana-saldirinin-zamanlamasi-konusunda-ters-dustu/4140065",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:44:44+00:00",
+   "url": "/haber/israil-basini-mossad-ve-ordu-iran-a-saldirinin-zamanlamasi-konusunda-t-8199c186/"
+  },
+  {
+   "id": "5bf49fb6",
+   "title": "Amazon'da Gülümseten Cuma indirimleri başladı: İşte öne çıkanlar",
+   "summary": "Amazon'un uzun zamandır devam eden Kasım kampanyasında şimdi Black Friday'e özel indirimler devreye girdi. Gülümseten Cuma gününe özel olarak fiyatlar cazip seviyeler indi.",
+   "link": "https://www.donanimhaber.com/amazon-da-gulumseten-cuma-indirimleri-basladi-2026--213462",
+   "image": "https://www.donanimhaber.com/images/images/haber/213462/1200x675amazon-da-gulumseten-cuma-indirimleri-basladi-2026.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-27T08:44:00+00:00",
+   "url": "/haber/amazon-da-gulumseten-cuma-indirimleri-basladi-iste-one-cikanlar-5bf49fb6/"
+  },
+  {
+   "id": "b6fad8c8",
+   "title": "BM Raportörü Casla, Filistin Raportörü Albanese'nin Kosta Rika'ya alınmamasına tepki gösterdi",
+   "summary": "Birleşmiş Milletler (BM) Yeterli Konut Hakkı Özel Raportörü Koldo Casla, BM Filistin Özel Raportörü Francesca Albanese'nin Kosta Rika'ya alınmamasına ve havalimanında mahsur kalmasına tepki göstererek, bu muamele…",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-raportoru-casla-filistin-raportoru-albanesenin-kosta-rikaya-alinmamasina-tepki-gosterdi/4140063",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:39:52+00:00",
+   "url": "/haber/bm-raportoru-casla-filistin-raportoru-albanese-nin-kosta-rika-ya-alinm-b6fad8c8/"
+  },
+  {
+   "id": "75fd4979",
+   "title": "Muhammed Salah, Trabzonspor'a hayat veriyor",
+   "summary": "UEFA Konferans Ligi'nde Bulgaristan'ın CSKA Sofya ekibini deplasmanda 2-1 mağlup eden Trabzonspor'da Mısırlı yıldız Muhammed Salah, takımına adeta hayat veriyor.",
+   "link": "https://www.aa.com.tr/tr/spor/muhammed-salah-trabzonspora-hayat-veriyor/4140061",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:36:14+00:00",
+   "url": "/haber/muhammed-salah-trabzonspor-a-hayat-veriyor-75fd4979/"
+  },
+  {
+   "id": "6edcc6ec",
+   "title": "Konya Kapalı Havzası'nda su çekilmesi tuzlanma riskini artırıyor",
+   "summary": "Konya Kapalı Havzası'nda yer altı sularının aşırı kullanımı nedeniyle yaşanan çekilme, Tuz Gölü çevresindeki tuzlu yer altı sularının havzanın iç kesimlerine ilerlemesine ve temiz kaynakların kalitesinin düşmesine yol…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/konya-kapali-havzasinda-su-cekilmesi-tuzlanma-riskini-artiriyor-/4140060",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:35:00+00:00",
+   "url": "/haber/konya-kapali-havzasi-nda-su-cekilmesi-tuzlanma-riskini-artiriyor-6edcc6ec/"
+  },
+  {
+   "id": "b5e898eb",
+   "title": "Rusya: Ukrayna’nın askeri sanayi, enerji, lojistik ve ulaşım tesislerini vurduk",
+   "summary": "Rusya Savunma Bakanlığı, Ukrayna’nın askeri sanayi, enerji, lojistik ve ulaşım tesislerini vurduklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukrayna-nin-askeri-sanayi-enerji-lojistik-ve-ulasim-tesislerini-vurduk/4140058",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:31:55+00:00",
+   "url": "/haber/rusya-ukrayna-nin-askeri-sanayi-enerji-lojistik-ve-ulasim-tesislerini-b5e898eb/"
+  },
+  {
+   "id": "208842bb",
+   "title": "Uyuşturucu satıcılarına yönelik 73 ildeki operasyonlarda 1017 şüpheli tutuklandı",
+   "summary": "İçişleri Bakanlığı, uyuşturucu madde satıcılarına yönelik 73 ilde düzenlenen operasyonlarda 1017 şüphelinin tutuklandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/uyusturucu-saticilarina-yonelik-73-ildeki-operasyonlarda-1017-supheli-tutuklandi/4140054",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T08:29:16+00:00",
+   "url": "/haber/uyusturucu-saticilarina-yonelik-73-ildeki-operasyonlarda-1017-supheli-208842bb/"
   },
   {
    "id": "4e1b3cf8",
@@ -24,70 +244,48 @@
    "url": "/haber/iki-bozayinin-oldurulmesiyle-ilgili-soguksu-milli-park-muduru-gorevden-4e1b3cf8/"
   },
   {
-   "id": "90f6a38b",
-   "title": "Kasım ayı doğum yardımı ödemeleri hesaplara yatırıldı",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, kasım ayı doğum yardımı ödemelerinin bugün itibarıyla annelerin hesaplarına yatırıldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/kasim-ayi-dogum-yardimi-odemeleri-hesaplara-yatirildi/4140049",
+   "id": "b7ae9756",
+   "title": "Beşiktaşlı kaleci Doğan Alemdar: Türk milleti arkamızda durdu",
+   "summary": "Beşiktaş'ın kalecisi Doğan Alemdar, \"Tüm ülkemize teşekkür ederim çünkü onların destekleri bizim için çok önemliydi. Türk milleti arkamızda durdu.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktasli-kaleci-dogan-alemdar-turk-milleti-arkamizda-durdu/4140040",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-27T08:27:15+00:00",
-   "url": "/haber/kasim-ayi-dogum-yardimi-odemeleri-hesaplara-yatirildi-90f6a38b/"
+   "date": "2026-11-27T08:22:22+00:00",
+   "url": "/haber/besiktasli-kaleci-dogan-alemdar-turk-milleti-arkamizda-durdu-b7ae9756/"
   },
   {
-   "id": "baabc407",
-   "title": "Avrupalı otomotiv üreticileri Türkiye'deki tesislerinin \"Made in EU\" kapsamına alınmasını istiyor",
-   "summary": "Avrupa Otomobil Üreticileri Birliği (ACEA), Avrupa Birliği'nin (AB) hazırladığı Sanayi Hızlandırma Yasası'nda, Avrupalı otomotiv üreticilerinin Türkiye'deki mevcut yatırımlarını koruyacak muafiyetlere yer verilmesini…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/avrupali-otomotiv-ureticileri-turkiyedeki-tesislerinin-made-in-eu-kapsamina-alinmasini-istiyor/4140047",
+   "id": "8fec0dcd",
+   "title": "Letoon Kutsal Alanı'ndaki tiyatro ayağa kaldırılıyor",
+   "summary": "Muğla'nın Seydikemer ilçesindeki Letoon Kutsal Alanı'nda bulunan tiyatronun aslına uygun restore edilerek ayağa kaldırılması için çalışmalara başlandı.",
+   "link": "https://www.aa.com.tr/tr/kultur/letoon-kutsal-alanindaki-tiyatro-ayaga-kaldiriliyor/4140038",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-27T08:26:36+00:00",
-   "url": "/haber/avrupali-otomotiv-ureticileri-turkiye-deki-tesislerinin-made-in-eu-kap-baabc407/"
+   "date": "2026-11-27T08:20:48+00:00",
+   "url": "/haber/letoon-kutsal-alani-ndaki-tiyatro-ayaga-kaldiriliyor-8fec0dcd/"
   },
   {
-   "id": "5acd02dd",
-   "title": "Kalp krizine giden yol damarlarda sessizce açılıyor",
-   "summary": "Genç yaşta yaşanan ani ölümlerin önemli nedenlerinden biri olan kalp krizinin, kalbi besleyen damarlarda yıllar içinde gelişen ve çoğu zaman belirti vermeden ilerleyen damar sertliğinden kaynaklanabildiği belirtildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/kalp-krizine-giden-yol-damarlarda-sessizce-aciliyor/4140043",
+   "id": "e526cee1",
+   "title": "Milli sporcu Cihan Doğu'nun hedefi üçüncü kez dünya şampiyonu olmak",
+   "summary": "Milli muaythai sporcusu Cihan, \"Daha çok çalışıp emek vererek 2027'de yeniden kürsünün en üst basamağında yer almak ve bayrağımızı dalgalandırmak istiyorum. İnşallah üçüncü kez dünya şampiyonluğunu ülkeme…",
+   "link": "https://www.aa.com.tr/tr/spor/milli-sporcu-cihan-dogunun-hedefi-ucuncu-kez-dunya-sampiyonu-olmak/4140036",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-27T08:24:34+00:00",
-   "url": "/haber/kalp-krizine-giden-yol-damarlarda-sessizce-aciliyor-5acd02dd/"
+   "date": "2026-11-27T08:19:40+00:00",
+   "url": "/haber/milli-sporcu-cihan-dogu-nun-hedefi-ucuncu-kez-dunya-sampiyonu-olmak-e526cee1/"
   },
   {
-   "id": "5a3cc6df",
-   "title": "Beşiktaş-Galatasaray derbisinde gözler kalecilerde olacak",
-   "summary": "Uğurcan Çakır, Galatasaray ve Trabzonspor formalarıyla Beşiktaş'a karşı çıktığı 17 maçta 6 galibiyet, 7 beraberlik ve 4 mağlubiyet yaşadı",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-galatasaray-derbisinde-gozler-kalecilerde-olacak/4140042",
+   "id": "ff61f3ad",
+   "title": "Dünya Helal Zirvesi ve Helal Expo Uluslararası Ticaret Fuarı üçüncü gününde devam ediyor",
+   "summary": "Helal ekosistemini küresel ölçekte bir araya getiren 12. Dünya Helal Zirvesi ve Helal Expo Uluslararası Ticaret Fuarı, üçüncü gününde ziyaretçilerini ağırlamayı sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/dunya-helal-zirvesi-ve-helal-expo-uluslararasi-ticaret-fuari-ucuncu-gununde-devam-ediyor/4140031",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-27T08:24:00+00:00",
-   "url": "/haber/besiktas-galatasaray-derbisinde-gozler-kalecilerde-olacak-5a3cc6df/"
-  },
-  {
-   "id": "eb9464c7",
-   "title": "DSİ bütçesinin tamamına yakını toprak ve su kaynaklarının yönetimi için kullanılacak",
-   "summary": "Tarım ve Orman Bakanlığına bağlı Devlet Su İşleri (DSİ) Genel Müdürlüğü, gelecek yıl için kuruma ayrılacak 324 milyar lira ödeneğin yaklaşık yüzde 96'sını tarımsal sulama, taşkın kontrolü ve içme suyu temini gibi…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/dsi-butcesinin-tamamina-yakini-toprak-ve-su-kaynaklarinin-yonetimi-icin-kullanilacak/4140033",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:19:11+00:00",
-   "url": "/haber/dsi-butcesinin-tamamina-yakini-toprak-ve-su-kaynaklarinin-yonetimi-ici-eb9464c7/"
-  },
-  {
-   "id": "5413b60f",
-   "title": "Suriye’de devrime giden operasyonun başlamasının üzerinden 2 yıl geçti",
-   "summary": "Suriye’de muhaliflerin 27 Kasım 2024’te Beşşar Esed rejimini devirmek amacıyla İdlib’den başlattığı operasyonun üzerinden iki yıl geçti.",
-   "link": "https://www.aa.com.tr/tr/dunya/suriye-de-devrime-giden-operasyonun-baslamasinin-uzerinden-2-yil-gecti/4140030",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:16:51+00:00",
-   "url": "/haber/suriye-de-devrime-giden-operasyonun-baslamasinin-uzerinden-2-yil-gecti-5413b60f/"
+   "date": "2026-11-27T08:17:22+00:00",
+   "url": "/haber/dunya-helal-zirvesi-ve-helal-expo-uluslararasi-ticaret-fuari-ucuncu-gu-ff61f3ad/"
   },
   {
    "id": "c7fe1257",
@@ -123,50 +321,6 @@
    "url": "/haber/oled-e-rakip-yeni-lcd-teknolojisi-3-kat-daha-parlak-ve-2-kat-daha-uzun-53957c3c/"
   },
   {
-   "id": "bd692998",
-   "title": "COP31'de iklim değişikliğiyle mücadeleye ilişkin 46 kararda uzlaşı sağlandı",
-   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31), 46 kararda uzlaşı sağlandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31de-iklim-degisikligiyle-mucadeleye-iliskin-46-kararda-uzlasi-saglandi/4140026",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:12:56+00:00",
-   "url": "/haber/cop31-de-iklim-degisikligiyle-mucadeleye-iliskin-46-kararda-uzlasi-sag-bd692998/"
-  },
-  {
-   "id": "7c727f9e",
-   "title": "İsviçre'den Türkiye'ye son iki yılda 1 milyar doların üzerinde doğrudan yatırım geldi",
-   "summary": "Türkiye'de İsviçre Ticaret Odası Derneği Başkanı Arpat Şenocak, son iki yılda İsviçre'den Türkiye'ye gelen doğrudan yatırımların toplamının 1 milyar doların üzerinde olduğunu söyledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/isvicreden-turkiyeye-son-iki-yilda-1-milyar-dolarin-uzerinde-dogrudan-yatirim-geldi/4140024",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:11:15+00:00",
-   "url": "/haber/isvicre-den-turkiye-ye-son-iki-yilda-1-milyar-dolarin-uzerinde-dogruda-7c727f9e/"
-  },
-  {
-   "id": "1e30b14a",
-   "title": "AB'nin Rus gazından çıkış sürecinde ABD'ye bağımlılık riski büyüyor",
-   "summary": "Rusya'dan enerji ithalatını sonlandırmaya hazırlanan AB'de, ABD'nin LNG tedarikindeki payının 2027'de yüzde 75'e çıkabileceği öngörülürken, bu durum Birliğin bu kez de tek bir tedarikçiye bağımlı hale gelebileceği…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abnin-rus-gazindan-cikis-surecinde-abdye-bagimlilik-riski-buyuyor/4140022",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:09:27+00:00",
-   "url": "/haber/ab-nin-rus-gazindan-cikis-surecinde-abd-ye-bagimlilik-riski-buyuyor-1e30b14a/"
-  },
-  {
-   "id": "a5f5c148",
-   "title": "Yasa dışı bahis mesajlarının arkasındaki kazanç sistemi ortaya çıktı",
-   "summary": "İstanbul'da GSM hatlarına tanımlı SMS haklarını bir uygulama üzerinden kiralayarak vatandaşlara yasa dışı bahis içerikli mesajlar gönderilmesini sağladıkları iddia edilen 27 sanık hakkında dava açıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-mesajlarinin-arkasindaki-kazanc-sistemi-ortaya-cikti/4140021",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:09:00+00:00",
-   "url": "/haber/yasa-disi-bahis-mesajlarinin-arkasindaki-kazanc-sistemi-ortaya-cikti-a5f5c148/"
-  },
-  {
    "id": "11a81652",
    "title": "Rekabet Kurumu, Xiaomi ve Infinix hakkında telefon fiyatları üzerinden soruşturma başlattı",
    "summary": "Rekabet Kurumu bugün Xiaomi ve Infinix hakkında telefon fiyatları temelinde bir soruşturma başlattığını duyurdu. Bu konuda yapılan resmi açıklamada, “Xiaomi ve Infinix marka cep telefonlarında daha uygun fiyatların ve…",
@@ -189,61 +343,6 @@
    "url": "/haber/73-ilde-uyusturucu-operasyonu-bin-17-tutuklama-fb26f0bb/"
   },
   {
-   "id": "635a3aed",
-   "title": "Türkiye'nin enerji hamlesi Afrika ve Libya'da yeni ortaklıklarla genişliyor",
-   "summary": "Enerji ve Tabii Kaynaklar Bakanı Bayraktar, Türkiye'nin Chevron ile imzalanan anlaşma kapsamında Gine-Bissau'da iki deniz sahasına ortak olduğunu belirterek, \"Libya'dan da böyle güzel haberleri vereceğiz.\" ifadesini…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-enerji-hamlesi-afrika-ve-libyada-yeni-ortakliklarla-genisliyor/4140015",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:07:01+00:00",
-   "url": "/haber/turkiye-nin-enerji-hamlesi-afrika-ve-libya-da-yeni-ortakliklarla-genis-635a3aed/"
-  },
-  {
-   "id": "ba3ba35e",
-   "title": "Bu yıl 9 ayda 15,2 milyar lirayı aşkın analık ödeneği verildi",
-   "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, bu yılın ocak-eylül döneminde 15 milyar 258 milyon 686 bin 681 lira analık ödeneği ve 454 milyon 241 bin 140 lira emzirme ödeneği verildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bu-yil-9-ayda-15-2-milyar-lirayi-askin-analik-odenegi-verildi/4140011",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:05:29+00:00",
-   "url": "/haber/bu-yil-9-ayda-15-2-milyar-lirayi-askin-analik-odenegi-verildi-ba3ba35e/"
-  },
-  {
-   "id": "6ce9c7b0",
-   "title": "Darphane-i Amire'de Osmanlı'nın kuşlara uzanan merhamet mirası yaşatılıyor",
-   "summary": "Darphane-i Amire'nin 7 yıllık restorasyonunda özgün mimarisi korunarak geleceğe taşınan iki kuş köşkü, Osmanlı'da \"aşiyan\" olarak bilinen kuşlara yuva olma geleneğini bugün de sürdürüyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/darphane-i-amirede-osmanlinin-kuslara-uzanan-merhamet-mirasi-yasatiliyor/4140010",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:04:09+00:00",
-   "url": "/haber/darphane-i-amire-de-osmanli-nin-kuslara-uzanan-merhamet-mirasi-yasatil-6ce9c7b0/"
-  },
-  {
-   "id": "dc96b6a7",
-   "title": "Cenevre'de NAZA belgeselini izleyenler, bu yapıtın Gazze'deki soykırımı kanıtladığını belirtti",
-   "summary": "İsviçre'nin Cenevre kentinde, İsrail'in Gazze'deki sivil katliamını belgeleyen NAZA belgeselini izleyenler, bu yapıtın İsrail'in Gazze'de yaptığı soykırımın kanıtı niteliğinde olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/cenevrede-naza-belgeselini-izleyenler-bu-yapitin-gazzedeki-soykirimi-kanitladigini-belirtti/4140009",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:04:03+00:00",
-   "url": "/haber/cenevre-de-naza-belgeselini-izleyenler-bu-yapitin-gazze-deki-soykirimi-dc96b6a7/"
-  },
-  {
-   "id": "36d33654",
-   "title": "Türkiye-Libya deniz yetki alanları anlaşması Doğu Akdeniz'de kıyıdaş devletlerin hakları açısından önemli örnek",
-   "summary": "Türkiye-Libya deniz yetki alanları anlaşması, Doğu Akdeniz’de deniz yetki alanlarının sınırlandırılması ve kıyıdaş devletlerin hak ve menfaatlerinin korunması bakımından önemini koruyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/turkiye-libya-deniz-yetki-alanlari-anlasmasi-dogu-akdenizde-kiyidas-devletlerin-haklari-acisindan-onemli-ornek/4140008",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T08:03:47+00:00",
-   "url": "/haber/turkiye-libya-deniz-yetki-alanlari-anlasmasi-dogu-akdeniz-de-kiyidas-d-36d33654/"
-  },
-  {
    "id": "d45f8fb2",
    "title": "Türkiye zoru başardı: Denizaltı harbinde örneği olmayan sistemler",
    "summary": "Harp sahasının belki de en kritik alanlarından biri su altı… Denizaltılar başta olmak üzere farklı tehditlerin geliştiği bu alanda Ankara üst üste hayli stratejik adımlar atıyor. Türkiye sonardan sonoboya, torpidodan…",
@@ -255,15 +354,15 @@
    "url": "/haber/turkiye-zoru-basardi-denizalti-harbinde-ornegi-olmayan-sistemler-d45f8fb2/"
   },
   {
-   "id": "5826d784",
-   "title": "Halk TV soruşturmasında üçüncü dalga operasyon: Ekran yüzleri gözaltında",
-   "summary": "Halk TV'ye yönelik üçüncü dalga operasyonda 12 kişi hakkında gözaltı kararı verildi, dokuz kişi gözaltına alındı. Gözaltına alınanlar arasında kanalın ekran yüzleri de var.",
-   "link": "https://www.ntv.com.tr/turkiye/halk-tv-sorusturmasinda-ucuncu-dalga-operasyon-ekran-yuzleri-gozaltinda-1752818",
-   "image": "https://images.ntv.com.tr/images/halk-tv-yeni-operasyon-719407.jpg",
-   "source": "ntv.com.tr",
+   "id": "2f613dd4",
+   "title": "Tarım ve Orman Bakanlığından Soğuksu Milli Parkı'nda 2 bozayının vurulmasına ilişkin açıklama",
+   "summary": "Tarım ve Orman Bakanlığı, Ankara'nın Kızılcahamam ilçesindeki Soğuksu Milli Parkı'nda iki bozayının vurulmasına ilişkin ön incelemenin ardından park müdürünün görevden alındığını ve soruşturmanın tüm yönleriyle…",
+   "link": "https://www.aa.com.tr/tr/gundem/tarim-ve-orman-bakanligindan-soguksu-milli-parkinda-2-bozayinin-vurulmasina-iliskin-aciklama/4140001",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
-   "date": "2026-11-27T07:55:44+00:00",
-   "url": "/haber/halk-tv-sorusturmasinda-ucuncu-dalga-operasyon-ekran-yuzleri-gozaltind-5826d784/"
+   "date": "2026-11-27T07:59:41+00:00",
+   "url": "/haber/tarim-ve-orman-bakanligindan-soguksu-milli-parki-nda-2-bozayinin-vurul-2f613dd4/"
   },
   {
    "id": "ec6b15a6",
@@ -388,14 +487,14 @@
   },
   {
    "id": "a81ca742",
-   "title": "Windows 11'in bellek kullanımı 800 MB azaldı",
-   "summary": "RAM fiyatları tavan yapınca Microsoft da harekete geçti. Şirket, Windows 11'in arka plan hizmetlerinde 800 MB'tan fazla bellek tasarrufu sağladığını açıkladı. Çok bellek tükettiği için Microsoft 365 yardımcı…",
+   "title": "8 GB RAM'li Windows 11 kullananlara iyi haber",
+   "summary": "Windows 11 RAM kullanımı, özellikle 8 GB ve 16 GB belleğe sahip bilgisayarlarda uzun süredir şikayet konusu. Microsoft, kendi uygulamalarında yaptığı değişikliklerle Windows 11'in 800 MB'tan fazla daha az RAM…",
    "link": "https://shiftdelete.net/windows-11-bellek-kullanimi-800-mb-azaldi-microsoft-365-yardimci-uygulamalar",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/windows-11-bluetooth-le-audio-kapak-2211.webp",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/windows-11-ram-kullanimi-gorev-yoneticisi-kapak-2711.webp",
    "source": "ShiftDelete.Net",
    "category": "teknoloji",
    "date": "2026-11-27T07:13:41+00:00",
-   "url": "/haber/windows-11-in-bellek-kullanimi-800-mb-azaldi-a81ca742/"
+   "url": "/haber/8-gb-ram-li-windows-11-kullananlara-iyi-haber-a81ca742/"
   },
   {
    "id": "b51e1db4",
@@ -541,17 +640,6 @@
    "url": "/haber/fon-sorusturmasi-bulls-yatirim-yonetim-kurulu-baskani-kemal-akkaya-hak-132bed26/"
   },
   {
-   "id": "f95b21fa",
-   "title": "Bambu Lab, 3D lazer tarayıcısı S1’i tanıttı",
-   "summary": "Kısa süre önce gelişmiş 3D yazıcı modeli H3C’yi tanıtan Bambu Lab, bu kez “S1” adını verdiği yeni 3D lazer tarayıcısını görücüye çıkardı. 3D yazıcıları Türkiye’de de satılan şirketin bu alandaki ilk ürünü olan S1, iki…",
-   "link": "https://www.log.com.tr/bambu-lab-3d-lazer-tarayicisi-s1i-tanitti/",
-   "image": "https://www.log.com.tr/wp-content/uploads/2026/11/2026-11-27_09-15-16_vaOQ7-660x371.jpg",
-   "source": "LOG Teknoloji Haberleri",
-   "category": "teknoloji",
-   "date": "2026-11-27T06:17:30+00:00",
-   "url": "/haber/bambu-lab-3d-lazer-tarayicisi-s1-i-tanitti-f95b21fa/"
-  },
-  {
    "id": "068fa2d3",
    "title": "Avrupa’da dev IPTV operasyonu",
    "summary": "Avrupa’da kaçak olarak faaliyet gösteren onlarca IPTV hizmeti yapılan operasyonla etkisiz hale getirilirken milyonlarca Euroluk para transferi tespit edildi.",
@@ -684,17 +772,6 @@
    "url": "/haber/besiktas-israil-ekibi-hapoel-i-batum-daki-macta-2-1-le-gecti-adc99bb2/"
   },
   {
-   "id": "e47c6e64",
-   "title": "BDDK Başkanlığına Yusuf Kenan Bağır atandı",
-   "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) başkanlığına Yusuf Kenan Bağır atandı.",
-   "link": "https://www.ntv.com.tr/turkiye/bddk-baskanligina-yusuf-kenan-bagir-atandi-1752770",
-   "image": "https://images.ntv.com.tr/images/thumbs_b_c_92e85d5113f00b8c54c916357ac102b8-143044.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-27T01:09:24+00:00",
-   "url": "/haber/bddk-baskanligina-yusuf-kenan-bagir-atandi-e47c6e64/"
-  },
-  {
    "id": "511c8f80",
    "title": "Küresel cihatçılık başarısız mı oldu, yoksa sadece şekil mi değiştiriyor?",
    "summary": "Cihatçı gruplar küresel emelleri yerine yerel sorunlara odaklanıyor gibi görünüyor. Peki, bu gerçek bir değişimin işareti mi?",
@@ -704,17 +781,6 @@
    "category": "gundem",
    "date": "2026-11-27T01:02:13+00:00",
    "url": "/haber/kuresel-cihatcilik-basarisiz-mi-oldu-yoksa-sadece-sekil-mi-degistiriyo-511c8f80/"
-  },
-  {
-   "id": "415268bf",
-   "title": "Ünlülere uyuşturucu soruşturmasında 3 kişi hakkında tutuklama talebi",
-   "summary": "İstanbul'da ünlülere yönelik uyuşturucu soruşturması kapsamında gözaltı süresi uzatılan şüphelilerden 3'ü hakkında tutuklama, 10 kişi için ise adli kontrol istendi.",
-   "link": "https://www.ntv.com.tr/turkiye/unlulere-uyusturucu-sorusturmasinda-3-kisi-hakkinda-tutuklama-talebi-1752774",
-   "image": "https://images.ntv.com.tr/images/UNLULERE-YONELIK-‘UYUSTURUCU’-SORUSTURMA_1628442_484202-856750.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-27T00:49:08+00:00",
-   "url": "/haber/unlulere-uyusturucu-sorusturmasinda-3-kisi-hakkinda-tutuklama-talebi-415268bf/"
   },
   {
    "id": "375b7dd3",
@@ -737,17 +803,6 @@
    "category": "gundem",
    "date": "2026-11-27T00:31:11+00:00",
    "url": "/haber/husilerin-saldirilari-suudi-arabistan-in-guvenlik-imajini-siniyor-3ecd7bc0/"
-  },
-  {
-   "id": "bf217b6b",
-   "title": "Son dakika Antalya'da deprem mi oldu? Az önce deprem Antalya'da nerede oldu? Antalya deprem Kandilli ve AFAD son depremler listesi 27 Kasım 2026",
-   "summary": "Son dakika Antalya deprem haberleri.. Antalya'da deprem mi oldu? Az önce deprem Antalya'da nerede oldu? Antalya Kandilli ve AFAD son depremler.. 27 Kasım 2026 Antalya deprem son dakika haberleri haberin detayında...…",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-antalyada-deprem-mi-oldu-az-once-deprem-antalyada-nerede-oldu-antalya-deprem-kandilli-ve-afad-son-depremler-listesi-27-kasim-2026-1752773",
-   "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-26T23:50:00+00:00",
-   "url": "/haber/son-dakika-antalya-da-deprem-mi-oldu-az-once-deprem-antalya-da-nerede-bf217b6b/"
   },
   {
    "id": "e2ae0a61",
@@ -849,39 +904,6 @@
    "url": "/haber/volvo-otomobil-uretiminde-insansi-robot-kullanma-basliyor-a1cc46b5/"
   },
   {
-   "id": "d3205f5e",
-   "title": "Yapay zeka, iklim krizini çözmek yerine çevre kirliliğini artırabilir",
-   "summary": "Teknolojik gelişmeler her zaman daha az kaynak tüketimi anlamına gelmiyor. Yapay zeka sayesinde üretim maliyetlerinin düşmesi, daha fazla üretimi tetikleyerek çevreye verilen zararı artırabilir.",
-   "link": "https://www.donanimhaber.com/yapay-zeka-devrimi-cevre-icin-beklenmedik-sonuclar-dogurabilir--213441",
-   "image": "https://www.donanimhaber.com/images/images/haber/213441/1200x675yapay-zeka-devrimi-cevre-icin-beklenmedik-sonuclar-dogurabilir.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-26T19:20:00+00:00",
-   "url": "/haber/yapay-zeka-iklim-krizini-cozmek-yerine-cevre-kirliligini-artirabilir-d3205f5e/"
-  },
-  {
-   "id": "97393889",
-   "title": "Güneş panellerinde yeni dönem: Hem elektrik hem ısı üreten hibrit sistem tanıtıldı",
-   "summary": "Fransız bir girişim, güneş panellerinin normalde boşa giden ısısını kullanan hibrit bir sistem geliştirdi. Teknoloji, elektrik üretiminin yanında tarımsal kurutma işlemlerinde de kullanılabiliyor.",
-   "link": "https://www.donanimhaber.com/gunes-panellerinden-sicak-hava-da-ureten-yeni-sistem-gelistirildi--213429",
-   "image": "https://www.donanimhaber.com/images/images/haber/213429/1200x675gunes-panellerinden-sicak-hava-da-ureten-yeni-sistem-gelistirildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-26T18:59:00+00:00",
-   "url": "/haber/gunes-panellerinde-yeni-donem-hem-elektrik-hem-isi-ureten-hibrit-siste-97393889/"
-  },
-  {
-   "id": "4ce7a128",
-   "title": "İddianame, ödemeler: Fon krizi ortak basın toplantısından neler öğrendik?",
-   "summary": "Fon soruşturmalarıyla ilgili üç bakanın basın toplantısında, yatırımcılara ödemeler, sorumluluların cezalandırılması ve gelecekte benzer senaryoların yaşanmaması için alınan önlemler ele alındı.",
-   "link": "https://www.bbc.com/turkce/articles/cmrlgzxy0rp6o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a027/live/b08dfb00-e9c5-11f1-99a1-253766e7ad8b.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-26T18:24:01+00:00",
-   "url": "/haber/iddianame-odemeler-fon-krizi-ortak-basin-toplantisindan-neler-ogrendik-4ce7a128/"
-  },
-  {
    "id": "7a5e2dc2",
    "title": "Instagram Direkt Mesaj uygulaması iPhone'a geldi",
    "summary": "Instagram, mesajlaşmayı ayrı bir uygulamaya taşıdı. \"Direct - Arkadaşlarla Sohbet\" adlı uygulama Türkiye App Store'unda iPhone kullanıcıları için ücretsiz olarak yayında.",
@@ -946,17 +968,6 @@
    "category": "gundem",
    "date": "2026-11-26T16:09:00+00:00",
    "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiye-sureci-tamamlaniyor-d88cb4e0/"
-  },
-  {
-   "id": "0510cb9e",
-   "title": "Branda Yırtıldı, MediaMarkt Şahane Cuma İndirimleri Başladı!",
-   "summary": "MediaMarkt Türkiye'nin geleneksel Branda Yırtma etkinliği Marmara Park'ta yapıldı; brandayı Uberkuloz ve Pqueen yırttı, Şahane Cuma fırsatları başladı.",
-   "link": "https://shiftdelete.net/branda-yirtildi-mediamarkt-sahane-cuma-indirimleri-basladi",
-   "image": "https://shiftdelete.net/static/img/content/26-11/26/mediamarkt-sahane-cumajpg-1795707771.jpeg",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-26T16:00:00+00:00",
-   "url": "/haber/branda-yirtildi-mediamarkt-sahane-cuma-indirimleri-basladi-0510cb9e/"
   },
   {
    "id": "ab407d60",
@@ -1122,17 +1133,6 @@
    "category": "teknoloji",
    "date": "2026-11-26T13:24:03+00:00",
    "url": "/haber/samsung-galaxy-s27-pro-ve-ultra-maketleri-videoda-gorundu-yeni-tasarim-e8ec881e/"
-  },
-  {
-   "id": "026ea7ff",
-   "title": "1Password'da Veri İhlali Yaşandığı Açıklandı: Hangi Bilgiler Sızdırıldı?",
-   "summary": "1Password sistemlerinde veri ihlali yaşandığını ve bazı hesap bilgilerinin çalındığını açıkladı.",
-   "link": "https://www.webtekno.com/1password-veri-ihlali-yasandigi-aciklandi-h229493.html",
-   "image": "https://imgrosetta.webtekno.com/file/698752/698752-640xauto.jpg",
-   "source": "Webtekno",
-   "category": "teknoloji",
-   "date": "2026-11-26T13:23:35+00:00",
-   "url": "/haber/1password-da-veri-ihlali-yasandigi-aciklandi-hangi-bilgiler-sizdirildi-026ea7ff/"
   },
   {
    "id": "6866daec",
