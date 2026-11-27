@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:53:18.291734+00:00",
+ "updated": "2026-11-27T19:01:04.484923+00:00",
  "items": [
   {
    "id": "b97dd26e",
@@ -11,6 +11,17 @@
    "category": "teknoloji",
    "date": "2026-11-27T18:45:00+00:00",
    "url": "/haber/sharp-yaslilar-icin-yapay-zeka-destekli-akilli-telefonunu-tanitti-b97dd26e/"
+  },
+  {
+   "id": "3c2500bb",
+   "title": "Uyuşturucuyla mücadele kapsamında yılbaşından 20 Kasım'a kadar 42 bin 980 şüpheli tutuklandı",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, yılbaşından 20 Kasım'a kadar uyuşturucu imal ve ticaretine yönelik gerçekleştirilen 49 bin 564 operasyonda 42 bin 980 şüphelinin tutuklandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/uyusturucuyla-mucadele-kapsaminda-yilbasindan-20-kasima-kadar-42-bin-980-supheli-tutuklandi/4140884",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T18:41:23+00:00",
+   "url": "/haber/uyusturucuyla-mucadele-kapsaminda-yilbasindan-20-kasim-a-kadar-42-bin-3c2500bb/"
   },
   {
    "id": "a93c0366",
@@ -407,17 +418,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T15:48:37+00:00",
    "url": "/haber/samsung-sarj-etmeyi-unutanlari-uyaracak-d2626cb1/"
-  },
-  {
-   "id": "9ca55b48",
-   "title": "Bu hafta yatırım araçlarının performansı",
-   "summary": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda yüzde 1,39 değer kaybederken, altının gram fiyatı yüzde 2,37, dolar/TL yüzde 0,40, avro/TL yüzde 0,02 değer kazandı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4140716",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T15:45:56+00:00",
-   "url": "/haber/bu-hafta-yatirim-araclarinin-performansi-9ca55b48/"
   },
   {
    "id": "a57db7a6",
