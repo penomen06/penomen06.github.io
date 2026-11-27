@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:01:06.056457+00:00",
+ "updated": "2026-11-27T05:31:00.634346+00:00",
  "items": [
   {
    "id": "dc6caa8c",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T05:00:00+00:00",
+   "date": "2026-11-27T05:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-dc6caa8c/"
+  },
+  {
+   "id": "2484bdbc",
+   "title": "OnePlus'ta yapay zeka özellikleri ücretli oluyor",
+   "summary": "OnePlus, ColorOS 17'ye geçişle ilgili soruları yanıtladı. Şirket, bazı yapay zeka özelliklerinin ücretsiz kullanım sınırıyla geleceğini, sınır dolduğunda ek kullanım için ödeme yapılabileceğini açıkladı. Sevilen bir…",
+   "link": "https://shiftdelete.net/oneplus-coloros-17-ucretli-yapay-zeka-ozellikleri",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/oneplus-15-coloros-17-kapak-2711.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-27T05:12:46+00:00",
+   "url": "/haber/oneplus-ta-yapay-zeka-ozellikleri-ucretli-oluyor-2484bdbc/"
   },
   {
    "id": "c89d8bcd",
@@ -77,6 +88,17 @@
    "category": "gundem",
    "date": "2026-11-27T03:10:00+00:00",
    "url": "/haber/son-dakika-izmir-de-deprem-mi-oldu-az-once-deprem-izmir-de-nerede-oldu-68f70d6c/"
+  },
+  {
+   "id": "51a2621c",
+   "title": "Hafta sonu hava nasıl olacak?",
+   "summary": "Meteoroloji Genel Müdürlüğü'ne (MGM) göre, hafta sonu yurdun birçok bölgesinde yağış beklenmezken Edirne, Kırklareli ve Tekirdağ çevrelerinde sağanak etkili olacak. Pazar günü yağışlar yurdun geniş kesimlerine…",
+   "link": "https://www.trthaber.com/haber/turkiye/hafta-sonu-hava-nasil-olacak-964605.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1834000/hava-durumu-kolaj-1835004.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-27T03:10:00+00:00",
+   "url": "/haber/hafta-sonu-hava-nasil-olacak-51a2621c/"
   },
   {
    "id": "0625d240",
@@ -640,15 +662,15 @@
    "url": "/haber/gta-6-oyun-konsollarina-ilgiyi-yuzde-125-artirdi-d7af2426/"
   },
   {
-   "id": "1c7a5ae8",
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Fon tasfiye süreci yarın tamamlanacak",
+   "id": "d88cb4e0",
+   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Fon tasfiye süreci tamamlanıyor",
    "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, olağan ve olağanüstü fonlardaki tasfiye süreciyle ilgili olarak, \"Olağan fon sürecindeki tüm ödemeler yarın itibarıyla gerçekleşmiş olacak ve olağan fon tasfiye süreci tamamlanmış…",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiye-sureci-yarin-tamamlanacak-964575.html",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiye-sureci-tamamlaniyor-964575.html",
    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2506000/cevdet-yilmaz-aa-2506649.jpg",
    "source": "TRT Haber Manşet Haberleri",
    "category": "gundem",
    "date": "2026-11-26T16:09:00+00:00",
-   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiye-sureci-yarin-tamamlanacak-1c7a5ae8/"
+   "url": "/haber/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiye-sureci-tamamlaniyor-d88cb4e0/"
   },
   {
    "id": "0510cb9e",
@@ -836,17 +858,6 @@
    "category": "teknoloji",
    "date": "2026-11-26T14:17:57+00:00",
    "url": "/haber/dokunmatik-macbook-pro-inceleme-30-bin-tl-farka-deger-mi-44fb03af/"
-  },
-  {
-   "id": "844d06d5",
-   "title": "Play Store'da geliştirici adresleri herkese açık",
-   "summary": "Google Play, tüm geliştiricilerden 1 Şubat 2027'ye kadar tacir beyanı istiyor. Para kazanan bireysel geliştiricilerin adres ve telefon numarası 1 Mart 2027'den itibaren dünya genelinde mağazada görünecek.",
-   "link": "https://shiftdelete.net/google-play-gelistirici-adres-telefon-herkese-acik-tacir-beyani",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/google-play-gelistirici-adres-kapak-2611.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-26T14:09:55+00:00",
-   "url": "/haber/play-store-da-gelistirici-adresleri-herkese-acik-844d06d5/"
   },
   {
    "id": "4e2813a7",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-11-25T14:13:00+00:00",
    "url": "/haber/turkiyelibya-deniz-yetki-anlasmasi-nda-son-asama-tamamlandi-c54336eb/"
-  },
-  {
-   "id": "a88493c9",
-   "title": "TOLUNL'den ilk atışta tam isabet",
-   "summary": "ASELSAN tarafından geliştirilen TOLUN L, Saros Hedef Adası'nda yapılan test atışında, SADAK-4T çoklu taşıma salanıyla ilk kez entegre edildiği AKINCI’dan ateşlenerek hedefi tam isabetle vurdu.",
-   "link": "https://www.trthaber.com/haber/savunma/tolun-lden-ilk-atista-tam-isabet-964444.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2506000/tolunl-2506233.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-25T12:42:00+00:00",
-   "url": "/haber/tolunl-den-ilk-atista-tam-isabet-a88493c9/"
   },
   {
    "id": "dbced5e7",
