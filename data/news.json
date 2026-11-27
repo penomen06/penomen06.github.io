@@ -1,16 +1,71 @@
 {
- "updated": "2026-11-27T17:31:02.800034+00:00",
+ "updated": "2026-11-27T18:01:07.017582+00:00",
  "items": [
   {
+   "id": "0dad3e25",
+   "title": "Cumhurbaşkanı Erdoğan, Yunanistan Cumhurbaşkanı ile yarın İstanbul'da görüşecek",
+   "summary": "Yunanistan Cumhurbaşkanı Konstantinos Tasulas yarın İstanbul'a geliyor. Cumhurbaşkanımız Recep Tayyip Erdoğan, Tasulas’la İstanbul’da bir görüşme gerçekleştirecek.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-ile-yarin-istanbulda-gorusecek-1752902",
+   "image": "https://images.ntv.com.tr/images/erdogan1-464540.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T18:00:30+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-ile-yarin-istanbul-da-g-0dad3e25/"
+  },
+  {
    "id": "549ed160",
-   "title": "Ünlülere yönelik uyuşturucu soruşturmasında 3 kişinin testi pozitif çıktı",
+   "title": "Ünlülere uyuşturucu soruşturması. Özcan Deniz, Deniz Çakır ve Burcu Özberk'in test sonucu belli oldu",
    "summary": "Ünlülere yönelik yürütülen uyuşturucu soruşturması kapsamında Adli Tıp Kurumu'nda test veren 21 şüpheliden 16'sının test sonucu belli oldu. 3 kişinin testinin pozitif olduğu belirlendi.",
    "link": "https://www.ntv.com.tr/turkiye/galeri-unlulere-yonelik-uyusturucu-sorusturmasinda-3-kisinin-testi-pozitif-cikti-1752901",
    "image": "https://images.ntv.com.tr/images/_C3_BCnl_C3_BCler-operasyon-688592-442967-811021.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T17:29:55+00:00",
-   "url": "/haber/unlulere-yonelik-uyusturucu-sorusturmasinda-3-kisinin-testi-pozitif-ci-549ed160/"
+   "date": "2026-11-27T17:45:09+00:00",
+   "url": "/haber/unlulere-uyusturucu-sorusturmasi-ozcan-deniz-deniz-cakir-ve-burcu-ozbe-549ed160/"
+  },
+  {
+   "id": "c628bdea",
+   "title": "Milli sporcular, Avrupa Yıldızlar Tekvando Şampiyonası'nda 8 madalya daha kazandı",
+   "summary": "Milli sporcular, Romanya'da düzenlenen Avrupa Yıldızlar Tekvando Şampiyonası'nın ikinci gününde 3'ü altın olmak üzere toplamda 8 madalya kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-sporcular-avrupa-yildizlar-tekvando-sampiyonasinda-8-madalya-daha-kazandi/4140840",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T17:43:33+00:00",
+   "url": "/haber/milli-sporcular-avrupa-yildizlar-tekvando-sampiyonasi-nda-8-madalya-da-c628bdea/"
+  },
+  {
+   "id": "05d6a8e7",
+   "title": "Osmanlı'nın İspanya'ya 376 yıl önce yaptığı teklif ortaya çıkarıldı",
+   "summary": "İspanya'nın Madrid kentindeki tarihi arşivlerde incelenen 376 yıllık Osmanlı belgesi, iki imparatorluk arasındaki ilişkilere yeni bir ışık tuttu.",
+   "link": "https://www.ntv.com.tr/turkiye/osmanlinin-ispanyaya-376-yil-once-yaptigi-teklif-ortaya-cikarildi-1752896",
+   "image": "https://images.ntv.com.tr/images/Tugra-343991.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T17:42:40+00:00",
+   "url": "/haber/osmanli-nin-ispanya-ya-376-yil-once-yaptigi-teklif-ortaya-cikarildi-05d6a8e7/"
+  },
+  {
+   "id": "0a7c151f",
+   "title": "Sinemada bu hafta: Kağıttan Kaplan, Zor Baba 4, Hexe (27 Kasım 2026)",
+   "summary": "Bu hafta sinema salonlarında on bir yeni film gösterime girerken, dijital platformlara da yeni filmler geliyor. İşte bu hafta sinemaseverleri bekleyen yeni filmler:",
+   "link": "https://www.donanimhaber.com/sinemada-bu-hafta-27-kasim-2026--213474",
+   "image": "https://www.donanimhaber.com/images/images/haber/213474/1200x675sinemada-bu-hafta-27-kasim-2026.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-27T17:38:00+00:00",
+   "url": "/haber/sinemada-bu-hafta-kagittan-kaplan-zor-baba-4-hexe-27-kasim-2026-0a7c151f/"
+  },
+  {
+   "id": "9148713e",
+   "title": "Milli para halterciler, Dünya Şampiyonası'nın ilk gününde 7 madalya kazandı",
+   "summary": "Milli sporcular, Bahreyn'de düzenlenen Dünya Para Halter Şampiyonası'nın ilk gününü 2'si altın toplam 7 madalyayla tamamladı.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-para-halterciler-dunya-sampiyonasinin-ilk-gununde-7-madalya-kazandi-/4140824",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T17:31:46+00:00",
+   "url": "/haber/milli-para-halterciler-dunya-sampiyonasi-nin-ilk-gununde-7-madalya-kaz-9148713e/"
   },
   {
    "id": "b666a2cc",
@@ -44,6 +99,17 @@
    "category": "gundem",
    "date": "2026-11-27T17:23:38+00:00",
    "url": "/haber/fonda-ara-odeme-sureci-tamamlandi-b9a45ce2/"
+  },
+  {
+   "id": "a79b48fc",
+   "title": "Suriye'de Esed rejiminin devrilmesiyle sonuçlanan operasyonun ikinci yıl dönümünde 732 astsubay mezun oldu",
+   "summary": "Suriye'de 8 Aralık'ta Beşşar Esed rejiminin devrilmesiyle sonuçlanan \"Düşmanı Caydırma\" operasyonunun başlamasının ikinci yıl dönümünde, eğitimlerini tamamlayan 732 astsubay için mezuniyet töreni düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriyede-esed-rejiminin-devrilmesiyle-sonuclanan-operasyonun-ikinci-yil-donumunde-732-astsubay-mezun-oldu/4140806",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T17:17:12+00:00",
+   "url": "/haber/suriye-de-esed-rejiminin-devrilmesiyle-sonuclanan-operasyonun-ikinci-y-a79b48fc/"
   },
   {
    "id": "c8856309",
@@ -354,17 +420,6 @@
    "url": "/haber/vodafone-ceo-su-engin-aksoy-onedio-a-sosyal-medyadan-gelen-sorulari-ya-1ddf52da/"
   },
   {
-   "id": "b6e98f1c",
-   "title": "Samsunspor, gözünü kalan maçlardaki puanlara dikti",
-   "summary": "Trendyol Süper Lig ekiplerinden Samsunspor'un teknik direktörü Nenad Bjelica, olabildiğince hızlı şekilde puanlar toplayıp ligde kalmayı hedeflediklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/samsunspor-gozunu-kalan-maclardaki-puanlara-dikti/4140651",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T15:02:58+00:00",
-   "url": "/haber/samsunspor-gozunu-kalan-maclardaki-puanlara-dikti-b6e98f1c/"
-  },
-  {
    "id": "01ea06fd",
    "title": "Türkiye'de üretilecek Honor telefonun fabrikasını gezdik",
    "summary": "Honor Türkiye fabrikasını, yani üretim ortağı Salcomp'un İstanbul Avcılar'daki tesisini gezdik. Anakartın üretiminden kutulamaya, telefonların mermere fırlatıldığı düşme testlerine kadar her aşamayı videoda gösterdik.",
@@ -398,17 +453,6 @@
    "url": "/haber/iran-dan-abd-nin-deniz-ablukasina-tepki-dusman-havada-ve-denizde-eylem-b5799945/"
   },
   {
-   "id": "01cf6bb4",
-   "title": "Deprem bölgesi ortak makine parkı kurulumu için hibe çağrısına 23 Aralık'a kadar başvurulabilecek",
-   "summary": "Tarım ve Orman Bakanlığının, Kahramanmaraş merkezli depremlerden etkilenen 11 ildeki tarımsal amaçlı örgütlere, ortak makine parkları kurmaları için yatırım bedelinin yüzde 90'ına kadar sağlayacağı hibe çağrısına 23…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/deprem-bolgesi-ortak-makine-parki-kurulumu-icin-hibe-cagrisina-23-aralika-kadar-basvurulabilecek/4140639",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T14:56:19+00:00",
-   "url": "/haber/deprem-bolgesi-ortak-makine-parki-kurulumu-icin-hibe-cagrisina-23-aral-01cf6bb4/"
-  },
-  {
    "id": "51378227",
    "title": "Samsung telefonlara akıllı şarj hatırlatıcı özelliği geliyor",
    "summary": "Samsung, onarım için batarya güvenliğini sağlayan Güvenli Pil Gönderimi özelliğini test ediyor. Ayrıca, normal şarj aralığı kaçırıldığında uyaran şarj hatırlatıcı özelliği geliştiriyor.",
@@ -429,17 +473,6 @@
    "category": "gundem",
    "date": "2026-11-27T14:49:08+00:00",
    "url": "/haber/gurcistan-in-ankara-buyukelcisi-disisleri-bakanligi-na-cagrildi-11aa6149/"
-  },
-  {
-   "id": "71557606",
-   "title": "İletişim Başkanı Duran: Dijital alandaki varlığınızın sürekli eleştirel şekilde ele alınması gerekiyor",
-   "summary": "İletişim Başkanı Duran, \"Yapmamanız gereken şey, bence dijital alandaki varlığınızı normal görmemeniz, onu sürekli muhasebeye çekmeniz lazım. Yani dijital alandaki varlığınızın sürekli eleştirel şekilde ele alınması…",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-dijital-alandaki-varliginizin-surekli-elestirel-sekilde-ele-alinmasi-gerekiyor/4140628",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T14:48:52+00:00",
-   "url": "/haber/iletisim-baskani-duran-dijital-alandaki-varliginizin-surekli-elestirel-71557606/"
   },
   {
    "id": "92992027",
@@ -561,17 +594,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T13:43:28+00:00",
    "url": "/haber/gta-6-daki-30-fps-kilidini-modcular-kirdi-45035802/"
-  },
-  {
-   "id": "11b3baa6",
-   "title": "Amazon Gülümseten Cuma Flaş Fırsatları başladı: iPhone 18 Pro ve Galaxy Z Fold indirime girdi",
-   "summary": "Amazon.com.tr'de Gülümseten Cuma'ya özel Flaş Fırsatlar başladı. iPhone 18 Pro, Galaxy Z Fold8 Ultra ve Roborock robot süpürge dahil birçok üründe indirim var.",
-   "link": "https://www.donanimhaber.com/amazon-gulumseten-cuma-flas-firsatlari-basladi-iphone-18-pro-ve--213483",
-   "image": "https://www.donanimhaber.com/images/images/haber/213483/1200x675amazon-gulumseten-cuma-flas-firsatlari-basladi-iphone-18-pro-ve.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-27T13:41:07+00:00",
-   "url": "/haber/amazon-gulumseten-cuma-flas-firsatlari-basladi-iphone-18-pro-ve-galaxy-11b3baa6/"
   },
   {
    "id": "069f8a44",
@@ -948,17 +970,6 @@
    "url": "/haber/istanbul-da-uyusturucu-imalathanesine-operasyon-173-kilo-metamfetamin-1a7fc5d5/"
   },
   {
-   "id": "1bbe607d",
-   "title": "Yeşil'in ses kaydıyla gündeme gelmişti: Yıllardır saklanan Tilki Selim saunada yakalandı",
-   "summary": "Türkiye'de 90'lı yıllarda uyuşturucu soruşturmalarıyla gündeme gelen Tilki Selim lakaplı Selim Işık, bir saunanın içindeki gizli bölmede yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-yesilin-ses-kaydiyla-gundeme-gelmisti-yillardir-saklanan-tilki-selim-saunada-yakalandi-1752834",
-   "image": "https://images.ntv.com.tr/images/tilki-selim-1-911900.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-27T09:01:58+00:00",
-   "url": "/haber/yesil-in-ses-kaydiyla-gundeme-gelmisti-yillardir-saklanan-tilki-selim-1bbe607d/"
-  },
-  {
    "id": "1395d0e5",
    "title": "Rekabet Kurumu, akıllı telefon fiyatlarına yönelik olarak ‘Xiaomi, Güncel, Infinix, Evofone ve MIEKO’yu kapsayan soruşturma hakkında yeni bilgiler verdi",
    "summary": "Rekabet Kurumu tarafından sürpriz gelişme hakkında yapılan son resmi açıklama şöyle oldu: “Rekabet Kurulunun (Kurul) 30.06.2026 tarih ve 26-23/709-M sayılı kararıyla cep telefonu, tüketici elektroniği ürünleri ve küçük…",
@@ -968,17 +979,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T08:55:04+00:00",
    "url": "/haber/rekabet-kurumu-akilli-telefon-fiyatlarina-yonelik-olarak-xiaomi-guncel-1395d0e5/"
-  },
-  {
-   "id": "aba8e0fe",
-   "title": "Aynı apartmandaki 3 çocuğun şüpheli ölümü. 20 yıl sonra 7 gözaltı",
-   "summary": "İstanbul'un Kağıthane ilçesinde 2004 ve 2005 yıllarında aynı apartmanda hayatını kaybeden 3 çocuğun şüpheli ölümüne ilişkin 7 kişi gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/ayni-apartmandaki-3-cocugun-supheli-olumu-20-yil-sonra-7-gozalti-1752822",
-   "image": "https://images.ntv.com.tr/images/c8bfccff9ec954fdc4855e2cdc683053-653340.webp",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-27T08:54:56+00:00",
-   "url": "/haber/ayni-apartmandaki-3-cocugun-supheli-olumu-20-yil-sonra-7-gozalti-aba8e0fe/"
   },
   {
    "id": "6a70396c",
