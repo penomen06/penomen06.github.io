@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-27T17:01:07.846595+00:00",
+ "updated": "2026-11-27T17:31:02.800034+00:00",
  "items": [
+  {
+   "id": "549ed160",
+   "title": "Ünlülere yönelik uyuşturucu soruşturmasında 3 kişinin testi pozitif çıktı",
+   "summary": "Ünlülere yönelik yürütülen uyuşturucu soruşturması kapsamında Adli Tıp Kurumu'nda test veren 21 şüpheliden 16'sının test sonucu belli oldu. 3 kişinin testinin pozitif olduğu belirlendi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-unlulere-yonelik-uyusturucu-sorusturmasinda-3-kisinin-testi-pozitif-cikti-1752901",
+   "image": "https://images.ntv.com.tr/images/_C3_BCnl_C3_BCler-operasyon-688592-442967-811021.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T17:29:55+00:00",
+   "url": "/haber/unlulere-yonelik-uyusturucu-sorusturmasinda-3-kisinin-testi-pozitif-ci-549ed160/"
+  },
+  {
+   "id": "b666a2cc",
+   "title": "Halk TV soruşturmasında üçüncü dalga: 9 kişi gözaltına alındı",
+   "summary": "Soruşturma kapsamında 12 kişi hakkında gözaltı kararı verildi, dokuz kişi gözaltına alındı. Gözaltına alınanlar arasında gazeteciler Ece Üner ve Deniz Bayramoğlu da var.",
+   "link": "https://www.bbc.com/turkce/articles/cmge3r8983wno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f1f/live/60ee9110-ea40-11f1-a094-5fdc692f3e33.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-27T17:26:30+00:00",
+   "url": "/haber/halk-tv-sorusturmasinda-ucuncu-dalga-9-kisi-gozaltina-alindi-b666a2cc/"
+  },
   {
    "id": "a93c0366",
    "title": "İslamabad'da üçlü zirve. Türkiye, Pakistan ve Suudi Arabistan'dan ortak savunma vurgusu",
@@ -9,8 +31,52 @@
    "image": "https://images.ntv.com.tr/images/AA-20261127-43202412-43202408-MEKKE_ORTAK_SAVUNMA_ANLASMASI_KOMITESI_TOPLANTISI-112883.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T16:59:06+00:00",
+   "date": "2026-11-27T17:23:59+00:00",
    "url": "/haber/islamabad-da-uclu-zirve-turkiye-pakistan-ve-suudi-arabistan-dan-ortak-a93c0366/"
+  },
+  {
+   "id": "b9a45ce2",
+   "title": "Fonda ara ödeme süreci tamamlandı",
+   "summary": "İletişim Başkanlığı, tasfiye kapsamındaki yatırım fonlarına ilişkin ara ödeme sürecinin tamamlandığını duyurdu. 455 bin 758 yatırımcıya toplam 199,55 milyar lira ödeme yapıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/fonda-ara-odeme-sureci-tamamlandi-1752900",
+   "image": "https://images.ntv.com.tr/images/fonpiyasa-507541.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T17:23:38+00:00",
+   "url": "/haber/fonda-ara-odeme-sureci-tamamlandi-b9a45ce2/"
+  },
+  {
+   "id": "c8856309",
+   "title": "Intel Nova Lake-S işlemciler sızdırıldı: 28 çekirdek ve 5,5 GHz hız",
+   "summary": "Intel'in yeni nesil Nova Lake-S masaüstü işlemcilerine ait teknik özellikler sızdırıldı. Listenin zirvesindeki Core Ultra 9 4970K BFC, 28 çekirdek ve 144 MB önbellekle geliyor.",
+   "link": "https://www.donanimhaber.com/intel-nova-lake-s-islemciler-sizdirildi-28-cekirdek-ve-5-5-ghz--213476",
+   "image": "https://www.donanimhaber.com/images/images/haber/213476/1200x675intel-nova-lake-s-islemciler-sizdirildi-28-cekirdek-ve-5-5-ghz.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-27T17:17:00+00:00",
+   "url": "/haber/intel-nova-lake-s-islemciler-sizdirildi-28-cekirdek-ve-5-5-ghz-hiz-c8856309/"
+  },
+  {
+   "id": "4540e883",
+   "title": "Fare sorunuyla gündeme gelen Brüksel, şimdi de \"fare avıyla\" ödül aldı",
+   "summary": "Brüksel'de kentin tarihi ve turistik merkezini saran fareler, esnafın tepkisine ve Belediyenin yetersiz önlem aldığı yönünde eleştirilere neden olurken Brüksel Belediyesi, farelerle mücadele politikasıyla uluslararası…",
+   "link": "https://www.aa.com.tr/tr/dunya/fare-sorunuyla-gundeme-gelen-bruksel-simdi-de-fare-aviyla-odul-aldi/4140796",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T17:08:57+00:00",
+   "url": "/haber/fare-sorunuyla-gundeme-gelen-bruksel-simdi-de-fare-aviyla-odul-aldi-4540e883/"
+  },
+  {
+   "id": "2cb5145e",
+   "title": "ABD'de Şükran Günü tatili döneminde hava koşulları hayatı olumsuz etkiliyor",
+   "summary": "ABD'de Şükran Günü tatili döneminde ülkenin doğu kıyılarında yüz binlerce kişi şiddetli yağış ve fırtınadan olumsuz etkilendi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-sukran-gunu-tatili-doneminde-hava-kosullari-hayati-olumsuz-etkiliyor/4140794",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T17:05:17+00:00",
+   "url": "/haber/abd-de-sukran-gunu-tatili-doneminde-hava-kosullari-hayati-olumsuz-etki-2cb5145e/"
   },
   {
    "id": "44e9dbac",
@@ -387,28 +453,6 @@
    "url": "/haber/honor-magic-10-da-uc-200-mp-kamera-olabilir-92992027/"
   },
   {
-   "id": "85c7de20",
-   "title": "İsrail ordusu, işgal altındaki Batı Şeria'da düzenlediği baskında çok sayıda kişiyi gözaltına aldı",
-   "summary": "İsrail askerleri, işgal altındaki Batı Şeria'nın El-Halil kentinde düzenledikleri baskında çok sayıda kişiyi gözaltına aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-isgal-altindaki-bati-seriada-duzenledigi-baskinda-cok-sayida-kisiyi-gozaltina-aldi/4140618",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T14:44:30+00:00",
-   "url": "/haber/israil-ordusu-isgal-altindaki-bati-seria-da-duzenledigi-baskinda-cok-s-85c7de20/"
-  },
-  {
-   "id": "fa641d7d",
-   "title": "İsrail'de Eisenkot, 8 gün içinde yeni hükümeti oluşturma konusunda kararlı olduğunu söyledi",
-   "summary": "İsrail'de hükümeti kurmakla görevlendirilen Yashar Partisi lideri Eisenkot, geçici Başbakan Netanyahu'nun Likud Partisi'ni koalisyon görüşmelerini kasten uzatmakla suçlayarak \"Bana verilen görev süresini sonuna kadar…",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-eisenkot-8-gun-icinde-yeni-hukumeti-olusturma-konusunda-kararli-oldugunu-soyledi/4140601",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T14:39:00+00:00",
-   "url": "/haber/israil-de-eisenkot-8-gun-icinde-yeni-hukumeti-olusturma-konusunda-kara-fa641d7d/"
-  },
-  {
    "id": "4af2e513",
    "title": "ChatGPT ve Gemini için tablet seçimi: AI için tabletler",
    "summary": "Gemini, ChatGPT ve diğer AI uygulamaları için en iyi tabletler, güçlü işlemci, yüksek kapasiteli RAM ve büyük ekran sunar. Peki, hangi modeli almalı? İşte yapay zeka destekli tablet önerileri:",
@@ -508,17 +552,6 @@
    "url": "/haber/android-gelistiricilerinin-adres-ve-telefon-numaralari-herkese-acik-ol-6289e527/"
   },
   {
-   "id": "b666a2cc",
-   "title": "Halk TV soruşturmasında üçüncü dalga: 9 kişi gözaltına alındı",
-   "summary": "Soruşturma kapsamında 12 kişi hakkında gözaltı kararı verildi, dokuz kişi gözaltına alındı. Gözaltına alınanlar arasında gazeteciler Ece Üner ve Deniz Bayramoğlu da var.",
-   "link": "https://www.bbc.com/turkce/articles/cmge3r8983wno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f1f/live/60ee9110-ea40-11f1-a094-5fdc692f3e33.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-27T13:43:57+00:00",
-   "url": "/haber/halk-tv-sorusturmasinda-ucuncu-dalga-9-kisi-gozaltina-alindi-b666a2cc/"
-  },
-  {
    "id": "45035802",
    "title": "GTA 6'daki 30 FPS kilidini modcular kırdı",
    "summary": "Rockstar, GTA 6'yı PS5 Pro dahil tüm konsollarda 30 FPS ile sınırlamıştı. Oyunun çıkışından bir hafta sonra bir modcu bu sınırı kaldıran resmi olmayan bir yama yayımladı. Ancak yama yalnız jailbreak yapılmış konsollarda…",
@@ -594,17 +627,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T13:02:40+00:00",
    "url": "/haber/samsung-un-2029-a-kadarki-bellek-uretim-kapasitesi-simdiden-doldu-f17ea7fc/"
-  },
-  {
-   "id": "a33e2724",
-   "title": "Yapay zekâ aracı Artex, dünyanın en önemli kurumlarını hackliyor",
-   "summary": "CIA'ye yönelik saldırıyla gündeme gelen Artex, yapay zekâ ajanlarını kullanarak güvenlik açıklarını bulabiliyor ve sistemlere sızabiliyor. Üstelik aracın 130'dan fazla farklı sürümü bulunuyor.",
-   "link": "https://www.donanimhaber.com/yapay-zeka-artex-dunyanin-en-onemli-kurumlarini-hackliyor--213468",
-   "image": "https://www.donanimhaber.com/images/images/haber/213468/1200x675yapay-zeka-artex-dunyanin-en-onemli-kurumlarini-hackliyor.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-27T13:00:00+00:00",
-   "url": "/haber/yapay-zeka-araci-artex-dunyanin-en-onemli-kurumlarini-hackliyor-a33e2724/"
   },
   {
    "id": "79d4cbb6",
@@ -959,17 +981,6 @@
    "url": "/haber/ayni-apartmandaki-3-cocugun-supheli-olumu-20-yil-sonra-7-gozalti-aba8e0fe/"
   },
   {
-   "id": "2def1c11",
-   "title": "Gürcistan'da gözaltına alınan 16 Beşiktaş taraftarı serbest bırakıldı",
-   "summary": "Gürcistan'da oynanan Beşiktaş-Hapoel Beer Sheva maçındaki olaylarda gözaltına alınan 16 siyah-beyazlı taraftar serbest bırakıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/gurcistanda-gozaltina-alinan-16-besiktas-taraftari-serbest-birakildi-1752832",
-   "image": "https://images.ntv.com.tr/images/beşiktaş-103526.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-27T08:51:46+00:00",
-   "url": "/haber/gurcistan-da-gozaltina-alinan-16-besiktas-taraftari-serbest-birakildi-2def1c11/"
-  },
-  {
    "id": "6a70396c",
    "title": "YouTube Premium Aboneleri Artık Uygulama Simgesini Değiştirebilecek: İşte Yeni Tasarımlar",
    "summary": "YouTube, yıllardır gördüğümüz klasik kırmızı oynatma butonuna seçenek sunan yeni bir kişiselleştirme özelliğini kullanıma açmaya başladı. Android ve iOS'ta etkinleşen bu yenilik yalnızca YouTube Premium abonelerine özel.",
@@ -1001,17 +1012,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T08:08:29+00:00",
    "url": "/haber/rekabet-kurumu-xiaomi-ve-infinix-hakkinda-telefon-fiyatlari-uzerinden-11a81652/"
-  },
-  {
-   "id": "fb26f0bb",
-   "title": "73 ilde uyuşturucu operasyonu: Bin 17 tutuklama",
-   "summary": "İçişleri Bakanlığı, son iki haftada yapılan operasyonlarda 2 ton 761 kilogram uyuşturucu ile 2 milyona yakın uyuşturucu hap ele geçirildiğini açıkladı.",
-   "link": "https://www.ntv.com.tr/turkiye/73-ilde-uyusturucu-operasyonu-bin-17-tutuklama-1752828",
-   "image": "https://images.ntv.com.tr/images/NEVSEHIR-MERKEZLI-4-ILDE-UYUSTURUCU-OPER_1530385_455368-571654.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-27T08:07:26+00:00",
-   "url": "/haber/73-ilde-uyusturucu-operasyonu-bin-17-tutuklama-fb26f0bb/"
   },
   {
    "id": "d45f8fb2",
