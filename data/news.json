@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:31:01.563400+00:00",
+ "updated": "2026-11-27T22:01:09.920389+00:00",
  "items": [
   {
    "id": "64d60769",
@@ -9,7 +9,7 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T21:30:00+00:00",
+   "date": "2026-11-27T22:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-64d60769/"
   },
   {
@@ -20,8 +20,19 @@
    "image": "https://images.ntv.com.tr/images/AW841836_01-273856.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T21:26:05+00:00",
+   "date": "2026-11-27T21:52:07+00:00",
    "url": "/haber/bolu-da-minibus-kayboldu-10-kiz-cocugu-ve-3-personel-araniyor-05d90e97/"
+  },
+  {
+   "id": "788bb081",
+   "title": "Merkez Bankası, Fintlix'in faaliyet iznini iptal etti",
+   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Fintlix Elektronik Para ve Ödeme Hizmetleri AŞ'nin faaliyet iznini iptal etti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-fintlixin-faaliyet-iznini-iptal-etti/4141068",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T21:40:23+00:00",
+   "url": "/haber/merkez-bankasi-fintlix-in-faaliyet-iznini-iptal-etti-788bb081/"
   },
   {
    "id": "d430cee9",
@@ -242,17 +253,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T18:45:00+00:00",
    "url": "/haber/sharp-yaslilar-icin-yapay-zeka-destekli-akilli-telefonunu-tanitti-b97dd26e/"
-  },
-  {
-   "id": "3c2500bb",
-   "title": "Uyuşturucuyla mücadele kapsamında yılbaşından 20 Kasım'a kadar 42 bin 980 şüpheli tutuklandı",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, yılbaşından 20 Kasım'a kadar uyuşturucu imal ve ticaretine yönelik gerçekleştirilen 49 bin 564 operasyonda 42 bin 980 şüphelinin tutuklandığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/uyusturucuyla-mucadele-kapsaminda-yilbasindan-20-kasima-kadar-42-bin-980-supheli-tutuklandi/4140884",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T18:41:23+00:00",
-   "url": "/haber/uyusturucuyla-mucadele-kapsaminda-yilbasindan-20-kasim-a-kadar-42-bin-3c2500bb/"
   },
   {
    "id": "a93c0366",
