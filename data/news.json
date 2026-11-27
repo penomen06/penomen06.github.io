@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:01:04.894198+00:00",
+ "updated": "2026-11-27T21:31:01.563400+00:00",
  "items": [
   {
    "id": "64d60769",
@@ -9,19 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T21:00:00+00:00",
+   "date": "2026-11-27T21:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-64d60769/"
   },
   {
    "id": "05d90e97",
-   "title": "Bolu'da minibüs kayboldu. 10 kız çocuğu ve 3 personel aranıyor",
-   "summary": "Bolu'nun Yedigöller mevkiisinde, içerisinde yaşları 14-17 yaş aralığındaki 10 kız çocuğu ve 3 görevlinin bulunduğu araçtan haber alınamıyor.",
+   "title": "Bolu'da minibüs kayboldu. 10 kız çocuğu ve 3 personel aranıyor.",
+   "summary": "Bolu'nun Yedigöller mevkiisinde, içerisinde 10 kız çocuğu ve 3 görevlinin bulunduğu araçtan saat 16.30'dan itibaren haber alınamıyor.",
    "link": "https://www.ntv.com.tr/turkiye/boluda-minibus-kayboldu-10-kiz-cocugu-ve-3-personel-araniyor-1752910",
    "image": "https://images.ntv.com.tr/images/AW841836_01-273856.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T20:58:56+00:00",
+   "date": "2026-11-27T21:26:05+00:00",
    "url": "/haber/bolu-da-minibus-kayboldu-10-kiz-cocugu-ve-3-personel-araniyor-05d90e97/"
+  },
+  {
+   "id": "d430cee9",
+   "title": "Bolu'da Yedigöller gezisine giden on çocuk ve üç personelden haber alınamıyor",
+   "summary": "Kocaeli Çocuk Evleri Sitesi Müdürlüğü'nden günübirlik gezi için Bolu Yedigöller'e giden 14-17 yaş aralığındaki on kız çocuğu ve üç görevli personeli taşıyan araçtan saat 16:30'dan itibaren haber alınamıyor.",
+   "link": "https://www.bbc.com/turkce/articles/cmx289847rl5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a40/live/c48d3280-eaa4-11f1-9541-edfa153772c7.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-27T21:01:06+00:00",
+   "url": "/haber/bolu-da-yedigoller-gezisine-giden-on-cocuk-ve-uc-personelden-haber-ali-d430cee9/"
   },
   {
    "id": "69db5ade",
@@ -44,6 +55,17 @@
    "category": "gundem",
    "date": "2026-11-27T20:20:03+00:00",
    "url": "/haber/ankara-toptanci-hali-ne-yonelik-operasyonda-13-supheli-tutuklandi-3febbd50/"
+  },
+  {
+   "id": "abd88b38",
+   "title": "Bolu'ya geziye giden 10 kız çocuğu ve 3 görevliden haber alınamıyor",
+   "summary": "Bolu Yedigöller bölgesine geziye giden 10 kız çocuğu ve 3 görevli personelin bulunduğu araçla dönüş yolunda irtibat kesildi. Arama kurtarma ekipleri bölgeye sevk edildi. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir…",
+   "link": "https://www.trthaber.com/haber/turkiye/boluya-geziye-giden-10-kiz-cocugu-ve-3-gorevliden-haber-alinamiyor-964701.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2506000/bolu-arama-kurtarmaaa-2507012.jpg",
+   "source": "TRT Haber Manşet Haberleri",
+   "category": "gundem",
+   "date": "2026-11-27T20:20:00+00:00",
+   "url": "/haber/bolu-ya-geziye-giden-10-kiz-cocugu-ve-3-gorevliden-haber-alinamiyor-abd88b38/"
   },
   {
    "id": "8631a0f5",
@@ -948,17 +970,6 @@
    "url": "/haber/apple-in-hic-uretmedigi-mac-bilgisayar-gercege-donusturuldu-1f2b9952/"
   },
   {
-   "id": "47f057a3",
-   "title": "Gazeteciler Şaban Sevinç ve Mustafa Balcı'ya tahliye kararı",
-   "summary": "Fon soruşturmasına ilişkin haber ve paylaşımları gerekçesiyle 9 Ekim'den bu yana tutuklu bulunan gazeteciler Şaban Sevinç ve Mustafa Balcı için tahliye kararı çıktı.",
-   "link": "https://www.bbc.com/turkce/articles/cwvg0e409xp3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6bc/live/8985bf80-c3ef-11f1-9a39-31b474234113.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-27T10:26:44+00:00",
-   "url": "/haber/gazeteciler-saban-sevinc-ve-mustafa-balci-ya-tahliye-karari-47f057a3/"
-  },
-  {
    "id": "4501b3ec",
    "title": "Casper Excalibur Gaming Laptop Rehberi: G920, G915, G870, G887 Karşılaştırması ve Fiyatları",
    "summary": "Casper Excalibur serisi 64.999 TL'den 307.755 TL'ye uzanıyor: bütçe için Excalibur G870, taşınabilirlik için Excalibur G915, büyük ekran için Excalibur G887, en yüksek performans için RTX 5090'lı Excalibur G920.",
@@ -1232,17 +1243,6 @@
    "category": "gundem",
    "date": "2026-11-26T08:01:00+00:00",
    "url": "/haber/mit-ten-siber-casusluk-sebekesine-operasyon-52ab3d82/"
-  },
-  {
-   "id": "46fee61f",
-   "title": "Bakan Şimşek, eski BDDK Başkanı Şahap Kavcıoğlu hakkında soruşturma izni verdi",
-   "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, Bakanlık Teftiş Başkanlığının ön inceleme raporuna istinaden eski Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu hakkında soruşturma izni verdi.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-simsek-eski-bddk-baskani-sahap-kavcioglu-hakkinda-sorusturma-izni-verdi-964495.html",
-   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1546000/sahap-kavcioglu-aa-1546017.jpg",
-   "source": "TRT Haber Manşet Haberleri",
-   "category": "gundem",
-   "date": "2026-11-26T06:05:00+00:00",
-   "url": "/haber/bakan-simsek-eski-bddk-baskani-sahap-kavcioglu-hakkinda-sorusturma-izn-46fee61f/"
   },
   {
    "id": "08df01be",
