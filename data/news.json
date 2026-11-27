@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-27T20:01:03.776460+00:00",
+ "updated": "2026-11-27T20:31:00.618128+00:00",
  "items": [
+  {
+   "id": "43ee5515",
+   "title": "Bolu'da kayıp araç aranıyor. 10 kız çocuğu ve 3 personel kayıp",
+   "summary": "Bolu'nun Yedigöller mevkiisinde, içerisinde yaşları 14-17 yaş aralığındaki 10 kız çocuğu ve 3 görevlinin bulunduğu araçtan haber alınamıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/boluda-kayip-arac-araniyor-10-kiz-cocugu-ve-3-personel-kayip-1752910",
+   "image": "https://images.ntv.com.tr/images/AW841836_01-273856.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-27T20:29:13+00:00",
+   "url": "/haber/bolu-da-kayip-arac-araniyor-10-kiz-cocugu-ve-3-personel-kayip-43ee5515/"
+  },
+  {
+   "id": "3febbd50",
+   "title": "Ankara Toptancı Hali'ne yönelik operasyonda 13 şüpheli tutuklandı",
+   "summary": "Ankara Büyükşehir Belediyesi Toptancı Hali'nde esnaf ve vatandaşlara baskı uygulayarak haksız kazanç sağladıkları iddiasıyla gözaltına alınan 30 şüpheliden 13'ü tutuklandı. Şüphelilerden 17'si ise adli kontrol şartı ile…",
+   "link": "https://www.aa.com.tr/tr/gundem/ankara-toptanci-haline-yonelik-operasyonda-13-supheli-tutuklandi/4140962",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T20:20:03+00:00",
+   "url": "/haber/ankara-toptanci-hali-ne-yonelik-operasyonda-13-supheli-tutuklandi-3febbd50/"
+  },
+  {
+   "id": "8631a0f5",
+   "title": "Belçika'da yayıncılar kitaplara \"yapay zekasız\" etiketi basılmasını istiyor",
+   "summary": "Belçika'da Fransızca yayın yapan yayınevleri, yapay zekanın yayıncılık sektöründe kullanımının yaygınlaşması nedeniyle insan emeğiyle hazırlanan kitapların özel bir etiketle belgelendirilmesini talep ediyor.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/belcikada-yayincilar-kitaplara-yapay-zekasiz-etiketi-basilmasini-istiyor/4140960",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T20:16:58+00:00",
+   "url": "/haber/belcika-da-yayincilar-kitaplara-yapay-zekasiz-etiketi-basilmasini-isti-8631a0f5/"
+  },
+  {
+   "id": "6c3b2c72",
+   "title": "Yeni Parti lideri Özel, cumhurbaşkanı adayıyla ilgili 4 Aralık'ta açıklama yapacağını duyurdu",
+   "summary": "Yeni Parti Genel Başkanı Özgür Özel, cumhurbaşkanı adaylığı konusunda 4 Aralık Cuma günü Ankara'da bir basın toplantısı düzenleyeceğini açıklayarak, \"Tüm Türkiye haftaya bugün başka bir şey konuşuyor olacak\" dedi.",
+   "link": "https://www.bbc.com/turkce/articles/cmpqrvg1g0r5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee63/live/ba00b360-ea99-11f1-afd5-2fe4f4796ecb.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-27T20:16:40+00:00",
+   "url": "/haber/yeni-parti-lideri-ozel-cumhurbaskani-adayiyla-ilgili-4-aralik-ta-acikl-6c3b2c72/"
+  },
+  {
+   "id": "14322406",
+   "title": "\"6. Uluslararası Kahramanmaraş Edebiyat Ödülleri\" sahiplerini buldu",
+   "summary": "Kahramanmaraş Büyükşehir Belediyesi tarafından bu yıl 6. kez düzenlenen \"Uluslararası Kahramanmaraş Şiir ve Edebiyat Günleri\" kapsamında \"Uluslararası Kahramanmaraş Edebiyat Ödülleri\" verildi.",
+   "link": "https://www.aa.com.tr/tr/kultur/6-uluslararasi-kahramanmaras-edebiyat-odulleri-sahiplerini-buldu/4140953",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T20:11:45+00:00",
+   "url": "/haber/6-uluslararasi-kahramanmaras-edebiyat-odulleri-sahiplerini-buldu-14322406/"
+  },
+  {
+   "id": "5a862991",
+   "title": "\"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında 18 şüpheli tutuklandı",
+   "summary": "Ankara Cumhuriyet Başsavcılığınca yürütülen \"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturması kapsamında gözaltına alınan 22 şüpheliden 18'i tutuklandı, 4'ü adli kontrol şartıyla serbest bırakıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-18-supheli-tutuklandi/4140952",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T20:06:35+00:00",
+   "url": "/haber/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-18-supheli-tutukl-5a862991/"
+  },
   {
    "id": "2088120e",
    "title": "A101 marketler Apple’dan ucuza iPhone Duo satıyor",
@@ -11,6 +77,17 @@
    "category": "teknoloji",
    "date": "2026-11-27T20:00:00+00:00",
    "url": "/haber/a101-marketler-apple-dan-ucuza-iphone-duo-satiyor-2088120e/"
+  },
+  {
+   "id": "a322b245",
+   "title": "Cumhurbaşkanı Erdoğan, Yunanistan Cumhurbaşkanı Tasulas ile İstanbul'da görüşecek",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın İstanbul'da Yunanistan Cumhurbaşkanı Konstantinos Tasulas ile görüşeceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-istanbulda-gorusecek/4140935",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T19:56:33+00:00",
+   "url": "/haber/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-istanbul-da-a322b245/"
   },
   {
    "id": "bd0e8fd4",
@@ -44,6 +121,17 @@
    "category": "gundem",
    "date": "2026-11-27T19:49:30+00:00",
    "url": "/haber/mekke-ittifaki-bunyesindeki-stratejik-siyasi-ve-savunma-komitesi-nin-o-7d8c479e/"
+  },
+  {
+   "id": "03e33b04",
+   "title": "Gazze’de yerinden edilenler kışı yıpranmış çadırlarda, yıkılma tehlikesi bulunan binalarda karşılıyor",
+   "summary": "Uluslararası Kızılhaç Komitesi Sözcüsü Nauk, Gazze Şeridi’nde yerinden edilen Filistinlilerin kış mevsimi yaklaşırken mevcut çadırların yeterli koruma sağlamadığını ve hasarlı binaların da çökme riski taşıdığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazze-de-yerinden-edilenler-kisi-yipranmis-cadirlarda-yikilma-tehlikesi-bulunan-binalarda-karsiliyor/4140915",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T19:36:02+00:00",
+   "url": "/haber/gazze-de-yerinden-edilenler-kisi-yipranmis-cadirlarda-yikilma-tehlikes-03e33b04/"
   },
   {
    "id": "2a91cb25",
@@ -156,17 +244,6 @@
    "url": "/haber/cumhurbaskanligi-fon-tasfiyesinde-ara-odemeler-tamamlandi-yatirimcilar-7269f6e0/"
   },
   {
-   "id": "0332416a",
-   "title": "Gazze'de beklenen yağışlar 1,3 milyon Filistinliyi tehdit ediyor",
-   "summary": "Gazze'deki Sivil Savunma Müdürlüğü, bölgeyi etkisi altına alması beklenen alçak basınç sistemi ve yağışların, yıpranmış çadırlarda yaşayan 1,3 milyonu aşkın Filistinliyi yeni bir insani felaketle karşı karşıya…",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzede-beklenen-yagislar-1-3-milyon-filistinliyi-tehdit-ediyor/4140873",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T18:26:26+00:00",
-   "url": "/haber/gazze-de-beklenen-yagislar-1-3-milyon-filistinliyi-tehdit-ediyor-0332416a/"
-  },
-  {
    "id": "15c074aa",
    "title": "GPU belleğini 1 petabaytın üzerine çıkaran SSD sistemi tanıtıldı",
    "summary": "Kioxia ve Nvidia, 144 adet NVMe SSD kullanarak GPU belleğini 1,1 petabaytın üzerine çıkaran yeni bir sistem geliştirdi. Teknoloji, HBM kapasitesine alternatif sunmayı hedefliyor.",
@@ -200,17 +277,6 @@
    "url": "/haber/on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-28-agustos-244dbe6f/"
   },
   {
-   "id": "1b6e3646",
-   "title": "PFDK'den 4 Süper Lig kulübüne para cezası",
-   "summary": "Türkiye Futbol Federasyonu (TFF) Profesyonel Futbol Disiplin Kurulu (PFDK), Trendyol Süper Lig'den 4 kulübe para cezası verdi.",
-   "link": "https://www.aa.com.tr/tr/spor/pfdkden-4-super-lig-kulubune-para-cezasi/4140857",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T18:06:24+00:00",
-   "url": "/haber/pfdk-den-4-super-lig-kulubune-para-cezasi-1b6e3646/"
-  },
-  {
    "id": "0dad3e25",
    "title": "Cumhurbaşkanı Erdoğan, Yunanistan Cumhurbaşkanı ile yarın İstanbul'da görüşecek",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Yunanistan Cumhurbaşkanı Konstantinos Tasulas'la yarın İstanbul'da bir görüşme gerçekleştirecek.",
@@ -231,17 +297,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T18:01:00+00:00",
    "url": "/haber/x-20-yilin-ardindan-ebeveyn-denetimi-ozelliklerini-kullanima-sundu-73b2dac7/"
-  },
-  {
-   "id": "d2d24255",
-   "title": "İtalya Dışişleri Bakanlığı, Albanese'nin Kosta Rika'ya giriş yapabilmesi için devreye girdi",
-   "summary": "İtalya Dışişleri Bakanlığı, BM Filistin Özel Raportörü ve İtalyan vatandaşı Francesca Albanese'nin Kosta Rika'ya girişine izin verilmemesi üzerine, ülkeye girişini kolaylaştırmak için birçok girişimde bulunulduğunu…",
-   "link": "https://www.aa.com.tr/tr/dunya/italya-disisleri-bakanligi-albanesenin-kosta-rikaya-giris-yapabilmesi-icin-devreye-girdi/4140853",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T17:57:12+00:00",
-   "url": "/haber/italya-disisleri-bakanligi-albanese-nin-kosta-rika-ya-giris-yapabilmes-d2d24255/"
   },
   {
    "id": "9c237f6c",
@@ -277,17 +332,6 @@
    "url": "/haber/unlulere-uyusturucu-sorusturmasi-ozcan-deniz-deniz-cakir-ve-burcu-ozbe-549ed160/"
   },
   {
-   "id": "c628bdea",
-   "title": "Milli sporcular, Avrupa Yıldızlar Tekvando Şampiyonası'nda 8 madalya daha kazandı",
-   "summary": "Milli sporcular, Romanya'da düzenlenen Avrupa Yıldızlar Tekvando Şampiyonası'nın ikinci gününde 3'ü altın olmak üzere toplamda 8 madalya kazandı.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-sporcular-avrupa-yildizlar-tekvando-sampiyonasinda-8-madalya-daha-kazandi/4140840",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T17:43:33+00:00",
-   "url": "/haber/milli-sporcular-avrupa-yildizlar-tekvando-sampiyonasi-nda-8-madalya-da-c628bdea/"
-  },
-  {
    "id": "05d6a8e7",
    "title": "Osmanlı'nın İspanya'ya 376 yıl önce yaptığı teklif ortaya çıkarıldı",
    "summary": "İspanya'nın Madrid kentindeki tarihi arşivlerde incelenen 376 yıllık Osmanlı belgesi, iki imparatorluk arasındaki ilişkilere yeni bir ışık tuttu.",
@@ -310,17 +354,6 @@
    "url": "/haber/sinemada-bu-hafta-kagittan-kaplan-zor-baba-4-hexe-27-kasim-2026-0a7c151f/"
   },
   {
-   "id": "9148713e",
-   "title": "Milli para halterciler, Dünya Şampiyonası'nın ilk gününde 7 madalya kazandı",
-   "summary": "Milli sporcular, Bahreyn'de düzenlenen Dünya Para Halter Şampiyonası'nın ilk gününü 2'si altın toplam 7 madalyayla tamamladı.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-para-halterciler-dunya-sampiyonasinin-ilk-gununde-7-madalya-kazandi-/4140824",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T17:31:46+00:00",
-   "url": "/haber/milli-para-halterciler-dunya-sampiyonasi-nin-ilk-gununde-7-madalya-kaz-9148713e/"
-  },
-  {
    "id": "b666a2cc",
    "title": "Halk TV soruşturmasında üçüncü dalga: 9 kişi gözaltına alındı",
    "summary": "Soruşturma kapsamında 12 kişi hakkında gözaltı kararı verildi, dokuz kişi gözaltına alındı. Gözaltına alınanlar arasında gazeteciler Ece Üner ve Deniz Bayramoğlu da var.",
@@ -341,17 +374,6 @@
    "category": "gundem",
    "date": "2026-11-27T17:23:38+00:00",
    "url": "/haber/fonda-ara-odeme-sureci-tamamlandi-b9a45ce2/"
-  },
-  {
-   "id": "a79b48fc",
-   "title": "Suriye'de Esed rejiminin devrilmesiyle sonuçlanan operasyonun ikinci yıl dönümünde 732 astsubay mezun oldu",
-   "summary": "Suriye'de 8 Aralık'ta Beşşar Esed rejiminin devrilmesiyle sonuçlanan \"Düşmanı Caydırma\" operasyonunun başlamasının ikinci yıl dönümünde, eğitimlerini tamamlayan 732 astsubay için mezuniyet töreni düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/dunya/suriyede-esed-rejiminin-devrilmesiyle-sonuclanan-operasyonun-ikinci-yil-donumunde-732-astsubay-mezun-oldu/4140806",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T17:17:12+00:00",
-   "url": "/haber/suriye-de-esed-rejiminin-devrilmesiyle-sonuclanan-operasyonun-ikinci-y-a79b48fc/"
   },
   {
    "id": "c8856309",
@@ -440,17 +462,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T16:14:00+00:00",
    "url": "/haber/bakirin-aksine-kuculdukce-guclenen-bu-yeni-iletken-ciplere-sinif-atlat-a25ff72f/"
-  },
-  {
-   "id": "adc99bb2",
-   "title": "Gürcistan'ın Ankara büyükelçisi Dışişleri Bakanlığı'na çağrıldı",
-   "summary": "Beşiktaş'ın UEFA Avrupa Ligi'nde beşinci maçında İsrail ekibi Hapoel ile yaptığı karşılaşma, Gürcü ve Türk yetkililer arasında diplomatik gerilime dönüştü.",
-   "link": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9cc0/live/6bbbe3d0-e9c9-11f1-aab6-291bfb79f59f.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-27T16:03:07+00:00",
-   "url": "/haber/gurcistan-in-ankara-buyukelcisi-disisleri-bakanligi-na-cagrildi-adc99bb2/"
   },
   {
    "id": "51470fa7",
@@ -957,17 +968,6 @@
    "category": "gundem",
    "date": "2026-11-27T09:43:39+00:00",
    "url": "/haber/nato-nun-hava-nobeti-turkiye-de-29560a97/"
-  },
-  {
-   "id": "6292d37b",
-   "title": "Milyonluk miras unutuldu, yıllar sonra satışa çıkıyor",
-   "summary": "İzmir'de Osmanlı döneminden kalan ve savaşlar ile göçler nedeniyle unutulan araziler, 41 yıllık dava sürecinin ardından satışa çıkıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-unutulan-milyonluk-miras-yillar-sonra-satisa-cikiyor-1752839",
-   "image": "https://images.ntv.com.tr/images/AW841202_02-657239.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-27T09:27:10+00:00",
-   "url": "/haber/milyonluk-miras-unutuldu-yillar-sonra-satisa-cikiyor-6292d37b/"
   },
   {
    "id": "61725a93",
