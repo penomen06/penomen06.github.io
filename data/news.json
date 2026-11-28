@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:30:57.931528+00:00",
+ "updated": "2026-11-28T06:01:06.533626+00:00",
  "items": [
   {
    "id": "64d60769",
@@ -9,8 +9,85 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-28T05:30:00+00:00",
+   "date": "2026-11-28T06:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-64d60769/"
+  },
+  {
+   "id": "792fcf43",
+   "title": "ChatGPT, Android'de Gemini'nin işine göz dikti",
+   "summary": "ChatGPT Android uygulamasının yeni sürümünde telefon araması başlatma, SMS okuyup gönderme, müzik kontrolü ve ekranı görme özelliklerine dair izler bulundu. Bunlar bugüne kadar Gemini'nin Android'deki en büyük…",
+   "link": "https://shiftdelete.net/chatgpt-android-telefon-arama-sms-ekran-erisimi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/chatgpt-ses-modu-kapak-1211.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-28T05:58:26+00:00",
+   "url": "/haber/chatgpt-android-de-gemini-nin-isine-goz-dikti-792fcf43/"
+  },
+  {
+   "id": "aac05c94",
+   "title": "SPK'den 55,3 milyon liralık idari para cezası",
+   "summary": "Sermaye Piyasası Kurulu (SPK), 3 gerçek ve 7 tüzel kişiye toplam 55 milyon 345 bin 53 lira idari para cezası uygulanmasına karar verdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spkden-55-3-milyon-liralik-idari-para-cezasi/4141120",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T05:58:15+00:00",
+   "url": "/haber/spk-den-55-3-milyon-liralik-idari-para-cezasi-aac05c94/"
+  },
+  {
+   "id": "336b933a",
+   "title": "ABD'yi Şükran Günü'nde vuran fırtınanın ardından 216 binden fazla haneye hala elektrik verilemiyor",
+   "summary": "ABD'de Şükran Günü'nde etkili olan fırtınanın etkilerinin sürmesi nedeniyle ülkede birçok eyalette toplam 216 binden fazla haneye elektrik sağlanamıyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdyi-sukran-gununde-vuran-firtinanin-ardindan-216-binden-fazla-haneye-hala-elektrik-verilemiyor/4141117",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T05:45:27+00:00",
+   "url": "/haber/abd-yi-sukran-gunu-nde-vuran-firtinanin-ardindan-216-binden-fazla-hane-336b933a/"
+  },
+  {
+   "id": "fd2931d7",
+   "title": "Konaklama vergisinin 2027 sonuna kadar yüzde 1 olarak uygulanmasına devam edilecek",
+   "summary": "Konaklama vergisi 2027 sonuna kadar yüzde 1 olarak uygulanacak. Düzenlemeyle turizm işletmelerinin küresel rekabet gücüne 2027 yılında da katkıda bulunulması amaçlanıyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/konaklama-vergisinin-2027-sonuna-kadar-yuzde-1-olarak-uygulanmasina-devam-edilecek/4141116",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T05:43:22+00:00",
+   "url": "/haber/konaklama-vergisinin-2027-sonuna-kadar-yuzde-1-olarak-uygulanmasina-de-fd2931d7/"
+  },
+  {
+   "id": "a02923c6",
+   "title": "ABD'den İran'ın \"ele geçirilen tankerini geri aldığı\" ve \"Hürmüz'de geçiş ücreti\" iddialarına yalanlama",
+   "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın ABD'nin ele geçirdiği tankeri geri aldığı ve ABD'nin Hürmüz Boğazı'ndan geçen gemilerden 2,5 milyon dolar ücret aldığı yönündeki açıklamalarını reddetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdden-iranin-ele-gecirilen-tankerini-geri-aldigi-ve-hurmuzde-gecis-ucreti-iddialarina-yalanlama/4141115",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T05:40:19+00:00",
+   "url": "/haber/abd-den-iran-in-ele-gecirilen-tankerini-geri-aldigi-ve-hurmuz-de-gecis-a02923c6/"
+  },
+  {
+   "id": "27057729",
+   "title": "Kara kış kapıda: Kar yağışı Trakya'dan giriş yapıyor, İstanbul için uyarı yapıldı",
+   "summary": "Balkanlar ve Karadeniz üzerinden gelen soğuk ve yağışlı hava Türkiye'yi etkisi altına alacak. Birçok şehirde kar yağışı bekleniyor. İstanbul için karla karışık yağmur uyarısı yapıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-kara-kis-kapida-kar-yagisi-trakyadan-giris-yapiyor-istanbul-icin-uyari-yapildi-1752926",
+   "image": "https://images.ntv.com.tr/images/istanbul-kar-geliyor-539105.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-28T05:36:26+00:00",
+   "url": "/haber/kara-kis-kapida-kar-yagisi-trakya-dan-giris-yapiyor-istanbul-icin-uyar-27057729/"
+  },
+  {
+   "id": "d2a4c4e0",
+   "title": "Galaxy'lerde fotoğrafın açısı sonradan değişecek",
+   "summary": "Samsung, Galeri uygulaması için Recompose adlı yeni bir yapay zeka aracı hazırlıyor. One UI 9.5 beta sürümünde çalıştırılan araç, çekilmiş bir fotoğrafın bakış açısını parmak kaydırarak değiştirebiliyor.",
+   "link": "https://shiftdelete.net/samsung-recompose-one-ui-9-5-fotograf-acisi",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/galaxy-ai-sahne-kapak-1611.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-28T05:31:09+00:00",
+   "url": "/haber/galaxy-lerde-fotografin-acisi-sonradan-degisecek-d2a4c4e0/"
   },
   {
    "id": "2f006891",
@@ -145,17 +222,6 @@
    "url": "/haber/brezilya-amazonlari-nda-kasim-yanginlari-17-yilin-en-yuksek-seviyesine-034b44c1/"
   },
   {
-   "id": "788bb081",
-   "title": "Merkez Bankası, Fintlix'in faaliyet iznini iptal etti",
-   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Fintlix Elektronik Para ve Ödeme Hizmetleri AŞ'nin faaliyet iznini iptal etti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-fintlixin-faaliyet-iznini-iptal-etti/4141068",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T21:40:23+00:00",
-   "url": "/haber/merkez-bankasi-fintlix-in-faaliyet-iznini-iptal-etti-788bb081/"
-  },
-  {
    "id": "3c3fbc01",
    "title": "Milli tekvandocu Hatice Pınar Yiğitalp, zirvedeki yerini korumakta kararlı",
    "summary": "Tekvandoda son 2,5 ayda 5 farklı ülkede elde ettiği şampiyonluklarla dünya sıralamasında kendi kategorisinde zirveye çıkan 20 yaşındaki Hatice Pınar Yiğitalp, hem zirvedeki yerini korumak hem de olimpiyat kotasını almak…",
@@ -233,28 +299,6 @@
    "url": "/haber/29-zoom-uluslararasi-haber-goruntuleri-yarismasi-nda-oduller-sahipleri-3e349987/"
   },
   {
-   "id": "137498cf",
-   "title": "Bakan Göktaş, Yedigöller'e gezi amacıyla giden araçtaki çocuklara ve personele ulaşıldığını açıkladı",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Yedigöller bölgesine gezi amacıyla giden araçtaki çocuklara ve personele ulaşıldığını, sağlık durumlarının iyi olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-yedigollere-gezi-amaciyla-giden-aractaki-cocuklara-ve-personele-ulasildigini-acikladi/4140967",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T20:31:32+00:00",
-   "url": "/haber/bakan-goktas-yedigoller-e-gezi-amaciyla-giden-aractaki-cocuklara-ve-pe-137498cf/"
-  },
-  {
-   "id": "3febbd50",
-   "title": "Ankara Toptancı Hali'ne yönelik operasyonda 13 şüpheli tutuklandı",
-   "summary": "Ankara Büyükşehir Belediyesi Toptancı Hali'nde esnaf ve vatandaşlara baskı uygulayarak haksız kazanç sağladıkları iddiasıyla gözaltına alınan 30 şüpheliden 13'ü tutuklandı. Şüphelilerden 17'si ise adli kontrol şartı ile…",
-   "link": "https://www.aa.com.tr/tr/gundem/ankara-toptanci-haline-yonelik-operasyonda-13-supheli-tutuklandi/4140962",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T20:20:03+00:00",
-   "url": "/haber/ankara-toptanci-hali-ne-yonelik-operasyonda-13-supheli-tutuklandi-3febbd50/"
-  },
-  {
    "id": "aa222b5b",
    "title": "Bolu'da kaybolan 13 kişiye ulaşıldı",
    "summary": "Bolu Yedigöller bölgesine geziye giden 10 kız çocuğu ve 3 görevli personelin bulunduğu araçla dönüş yolunda irtibat kesildi. Saatler süren arama çalışmalarının ardından bataklığa saplandığı tespit edilen araç bulundu.…",
@@ -264,17 +308,6 @@
    "category": "gundem",
    "date": "2026-11-27T20:20:00+00:00",
    "url": "/haber/bolu-da-kaybolan-13-kisiye-ulasildi-aa222b5b/"
-  },
-  {
-   "id": "8631a0f5",
-   "title": "Belçika'da yayıncılar kitaplara \"yapay zekasız\" etiketi basılmasını istiyor",
-   "summary": "Belçika'da Fransızca yayın yapan yayınevleri, yapay zekanın yayıncılık sektöründe kullanımının yaygınlaşması nedeniyle insan emeğiyle hazırlanan kitapların özel bir etiketle belgelendirilmesini talep ediyor.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/belcikada-yayincilar-kitaplara-yapay-zekasiz-etiketi-basilmasini-istiyor/4140960",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T20:16:58+00:00",
-   "url": "/haber/belcika-da-yayincilar-kitaplara-yapay-zekasiz-etiketi-basilmasini-isti-8631a0f5/"
   },
   {
    "id": "6c3b2c72",
@@ -750,17 +783,6 @@
    "url": "/haber/gta-6-daki-30-fps-kilidini-modcular-kirdi-45035802/"
   },
   {
-   "id": "20b28d21",
-   "title": "vivo X500s'in işlemcisi belli oldu",
-   "summary": "vivo'nun X500 serisine katılacak dördüncü model X500s hakkında yeni bir iddia geldi. Güvenilir sızıntı kaynağı Digital Chat Station'a göre telefon, serinin Pro modellerindeki Dimensity 9600 Pro işlemciyi özel…",
-   "link": "https://shiftdelete.net/vivo-x500s-dimensity-9600-pro-islemci-sizinti",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/6e445a66cdfbaa81e62b49194305f043a9fa8f94.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-27T13:12:53+00:00",
-   "url": "/haber/vivo-x500s-in-islemcisi-belli-oldu-20b28d21/"
-  },
-  {
    "id": "f17ea7fc",
    "title": "Samsung’un 2029’a kadarki bellek üretim kapasitesi şimdiden doldu",
    "summary": "Economy Tribune’ün aktardığına göre Samsung’un 2029’a kadarki bellek üretim kapasitesi şimdiden dolmuş durumda. Samsung’un 10 büyük müşteriyle uzun vadeli tedarik anlaşmaları imzaladığı ve buna benzer anlaşmalar için şu…",
@@ -770,17 +792,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T13:02:40+00:00",
    "url": "/haber/samsung-un-2029-a-kadarki-bellek-uretim-kapasitesi-simdiden-doldu-f17ea7fc/"
-  },
-  {
-   "id": "79d4cbb6",
-   "title": "Yeni hafta kar yağışıyla geliyor: İşte kar beklenen şehirler",
-   "summary": "Yurt genelinde yeni haftayla birlikte kar yağışı bekleniyor. Şiddetli rüzgar hissedilen sıcaklığı sıfır dereceye düşürecek. Başta Başkent Ankara olmak üzere birçok şehirde kar yağışı etkili olacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-yeni-hafta-kar-yagisiyla-geliyor-iste-kar-beklenen-sehirler-1752880",
-   "image": "https://images.ntv.com.tr/images/AA-20261110-43025097-43025087-BASKENTE_KAR_YAGISI-700217.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-27T12:56:35+00:00",
-   "url": "/haber/yeni-hafta-kar-yagisiyla-geliyor-iste-kar-beklenen-sehirler-79d4cbb6/"
   },
   {
    "id": "04c3fa48",
@@ -814,17 +825,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T12:44:11+00:00",
    "url": "/haber/manuel-sanzimanli-ozel-model-volkswagen-golf-gti-1976-tanitildi-77eb6712/"
-  },
-  {
-   "id": "6dc44b6d",
-   "title": "Huawei'den 5,9 mm'lik iş tableti: Qingyun C7",
-   "summary": "Huawei, şirketlere ve kamu kurumlarına yönelik Qingyun markasının üçüncü nesil tableti Qingyun C7'yi tanıttı. 5,9 mm inceliğindeki metal gövdeli tablet, 12 inç 144 Hz ekran, 10.100 mAh pil ve ofis işleri için yapay zeka…",
-   "link": "https://shiftdelete.net/huawei-qingyun-c7-ticari-tablet-harmonyos-7",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/huawei-qingyun-c7-tablet-kapak-2711b.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-27T12:41:08+00:00",
-   "url": "/haber/huawei-den-5-9-mm-lik-is-tableti-qingyun-c7-6dc44b6d/"
   },
   {
    "id": "10a9e5e7",
