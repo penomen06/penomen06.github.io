@@ -1,17 +1,6 @@
 {
- "updated": "2026-11-28T00:01:07.149330+00:00",
+ "updated": "2026-11-28T00:30:54.551261+00:00",
  "items": [
-  {
-   "id": "2d5fdb0d",
-   "title": "Bolu'da kaybolan 10 kız çocuğu ve 3 personel bulundu",
-   "summary": "Bolu'nun Yedigöller mevkiisinde kaybolan 10 kız çocuğu ve 3 görevli bulundu. Durumlarının iyi olduğu açıklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/boluda-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-1752910",
-   "image": "https://images.ntv.com.tr/images/AA-20261127-43204449-43204448-AILE_VE_SOSYAL_HIZMETLER_BAKANLIGINDAN_YEDIGOLLER_BOLGESINE_GEZI_AMACIYLA_GIDEN_ARACA_ULASILAMAMASINA_ILISKIN_ACIKLAMA-834519.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-28T00:00:57+00:00",
-   "url": "/haber/bolu-da-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-2d5fdb0d/"
-  },
   {
    "id": "64d60769",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 28 Kasım 2026",
@@ -20,8 +9,41 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-28T00:00:00+00:00",
+   "date": "2026-11-28T00:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-64d60769/"
+  },
+  {
+   "id": "70acd6bc",
+   "title": "BM Filistin Özel Raportörü Francesca Albanese Kosta Rika'ya alınmadı, iki gece havaalanında bekletildi",
+   "summary": "Birleşmiş Milletler (BM) Filistin Özel Raportörü Francesca Albanese'in, bir üniversiteden fahri doktora almak üzere gittiği Kosta Rika'ya girişine izin verilmedi.",
+   "link": "https://www.bbc.com/turkce/articles/cmvg20er901ro?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bac/live/50d94f90-eac2-11f1-9d69-6356036491a4.jpg",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-28T00:28:45+00:00",
+   "url": "/haber/bm-filistin-ozel-raportoru-francesca-albanese-kosta-rika-ya-alinmadi-i-70acd6bc/"
+  },
+  {
+   "id": "6d0dc686",
+   "title": "IMF'den Türkiye değerlendirmesi",
+   "summary": "Uluslararası Para Fonu (IMF), Türkiye'nin Orta Doğu'daki çatışma ve yatırım fonu stresi nedeniyle 2026'da zorlu bir yılla karşı karşıya kaldığını belirterek, yetkililerin kararlı politika adımlarının istikrarı korumaya…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/imfden-turkiye-degerlendirmesi/4141093",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T00:22:24+00:00",
+   "url": "/haber/imf-den-turkiye-degerlendirmesi-6d0dc686/"
+  },
+  {
+   "id": "2d5fdb0d",
+   "title": "Bolu'da kaybolan 10 kız çocuğu ve 3 personel bulundu",
+   "summary": "Bolu'nun Yedigöller mevkiisinde kaybolan 10 kız çocuğu ve 3 görevli bulundu. Durumlarının iyi olduğu açıklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/boluda-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-1752910",
+   "image": "https://images.ntv.com.tr/images/AA-20261127-43204449-43204448-AILE_VE_SOSYAL_HIZMETLER_BAKANLIGINDAN_YEDIGOLLER_BOLGESINE_GEZI_AMACIYLA_GIDEN_ARACA_ULASILAMAMASINA_ILISKIN_ACIKLAMA-834519.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-28T00:21:50+00:00",
+   "url": "/haber/bolu-da-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-2d5fdb0d/"
   },
   {
    "id": "d430cee9",
@@ -145,15 +167,15 @@
    "url": "/haber/29-zoom-uluslararasi-haber-goruntuleri-yarismasi-nda-oduller-sahipleri-3e349987/"
   },
   {
-   "id": "231dbe34",
-   "title": "Bakan Göktaş, Yedigöller bölgesine gezi amacıyla giden araçtaki çocuklara ve personele ulaşıldığını açıkladı",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Yedigöller bölgesine gezi amacıyla giden araçtaki çocuklara ve personele ulaşıldığını, sağlık durumlarının iyi olduğunu açıkladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-yedigoller-bolgesine-gezi-amaciyla-giden-aractaki-cocuklara-ve-personele-ulasildigini-acikladi/4140967",
+   "id": "137498cf",
+   "title": "Bakan Göktaş, Yedigöller'e gezi amacıyla giden araçtaki çocuklara ve personele ulaşıldığını açıkladı",
+   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Yedigöller bölgesine gezi amacıyla giden araçtaki çocuklara ve personele ulaşıldığını, sağlık durumlarının iyi olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-yedigollere-gezi-amaciyla-giden-aractaki-cocuklara-ve-personele-ulasildigini-acikladi/4140967",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-27T20:31:32+00:00",
-   "url": "/haber/bakan-goktas-yedigoller-bolgesine-gezi-amaciyla-giden-aractaki-cocukla-231dbe34/"
+   "url": "/haber/bakan-goktas-yedigoller-e-gezi-amaciyla-giden-aractaki-cocuklara-ve-pe-137498cf/"
   },
   {
    "id": "3febbd50",
@@ -220,17 +242,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T20:00:00+00:00",
    "url": "/haber/a101-marketler-apple-dan-ucuza-iphone-duo-satiyor-2088120e/"
-  },
-  {
-   "id": "a322b245",
-   "title": "Cumhurbaşkanı Erdoğan, Yunanistan Cumhurbaşkanı Tasulas ile İstanbul'da görüşecek",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın İstanbul'da Yunanistan Cumhurbaşkanı Konstantinos Tasulas ile görüşeceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-istanbulda-gorusecek/4140935",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T19:56:33+00:00",
-   "url": "/haber/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-istanbul-da-a322b245/"
   },
   {
    "id": "2e0b5e6d",
@@ -682,17 +693,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T14:09:43+00:00",
    "url": "/haber/golf-gti-a-manuel-vites-geri-dondu-736c0f23/"
-  },
-  {
-   "id": "9588558f",
-   "title": "DEM Parti: 'Teyit-tespit raporu süreç için bir engele dönüşmemeli'",
-   "summary": "DEM Parti'den, iktidarın \"Terörsüz Türkiye\" şeklinde nitelendirdiği son çözüm süreci konusunda, \"Teyit-tespit raporu süreç için bir engele dönüşmemeli, karar geciktirilmeden bir an önce açıklanmalı, sürecin adımları…",
-   "link": "https://www.bbc.com/turkce/articles/cq39gdkr8knzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f6f/live/be150a50-ea71-11f1-a828-d384c0290f6b.jpg",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-27T13:50:40+00:00",
-   "url": "/haber/dem-parti-teyit-tespit-raporu-surec-icin-bir-engele-donusmemeli-9588558f/"
   },
   {
    "id": "45035802",
