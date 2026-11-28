@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T04:01:02.729006+00:00",
+ "updated": "2026-11-28T04:30:59.635112+00:00",
  "items": [
   {
    "id": "64d60769",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-28T04:00:00+00:00",
+   "date": "2026-11-28T04:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-64d60769/"
+  },
+  {
+   "id": "60dc78a5",
+   "title": "ABD Hava Kuvvetleri'nin bulutuna sızıldı",
+   "summary": "ABD Hava Kuvvetleri'nin personel, lojistik ve mühimmat verilerini barındıran Cloud One bulut platformuna sızıldı. İhlal yükseltme çalışmaları sırasında fark edildi; hasarı Siber Komutanlık inceliyor.",
+   "link": "https://shiftdelete.net/abd-hava-kuvvetleri-hacklendi-cloud-one",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/siber-operasyon-merkezi-kapak-2411.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-28T04:08:41+00:00",
+   "url": "/haber/abd-hava-kuvvetleri-nin-bulutuna-sizildi-60dc78a5/"
   },
   {
    "id": "2fd55a35",
@@ -902,17 +913,6 @@
    "category": "gundem",
    "date": "2026-11-27T11:49:29+00:00",
    "url": "/haber/imamoglu-adayligim-engellense-bile-milletin-iktidari-degistirme-irades-b5be0180/"
-  },
-  {
-   "id": "e00bb662",
-   "title": "Epic'in bu haftaki ücretsiz oyunu belli oldu",
-   "summary": "Epic Games Store'un bu haftaki ücretsiz oyunu, iki penguenin karlı bir dağın zirvesine birlikte tırmanmaya çalıştığı Bread and Fred oldu. Normalde 115 TL'ye satılan oyun 3 Aralık akşamına kadar ücretsiz alınabiliyor.",
-   "link": "https://shiftdelete.net/epic-games-bread-and-fred-ucretsiz",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/bread-and-fred-epic-ucretsiz-kapak-2711b.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-27T11:38:44+00:00",
-   "url": "/haber/epic-in-bu-haftaki-ucretsiz-oyunu-belli-oldu-e00bb662/"
   },
   {
    "id": "8041f4be",
