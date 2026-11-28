@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-27T23:30:59.143857+00:00",
+ "updated": "2026-11-28T00:01:07.149330+00:00",
  "items": [
+  {
+   "id": "2d5fdb0d",
+   "title": "Bolu'da kaybolan 10 kız çocuğu ve 3 personel bulundu",
+   "summary": "Bolu'nun Yedigöller mevkiisinde kaybolan 10 kız çocuğu ve 3 görevli bulundu. Durumlarının iyi olduğu açıklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/boluda-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-1752910",
+   "image": "https://images.ntv.com.tr/images/AA-20261127-43204449-43204448-AILE_VE_SOSYAL_HIZMETLER_BAKANLIGINDAN_YEDIGOLLER_BOLGESINE_GEZI_AMACIYLA_GIDEN_ARACA_ULASILAMAMASINA_ILISKIN_ACIKLAMA-834519.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-28T00:00:57+00:00",
+   "url": "/haber/bolu-da-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-2d5fdb0d/"
+  },
   {
    "id": "64d60769",
    "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 28 Kasım 2026",
@@ -9,19 +20,8 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-27T23:30:00+00:00",
+   "date": "2026-11-28T00:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-64d60769/"
-  },
-  {
-   "id": "05d90e97",
-   "title": "Bolu'da kaybolan 10 kız çocuğu ve 3 personel bulundu",
-   "summary": "Bolu'nun Yedigöller mevkiisinde kaybolan 10 kız çocuğu ve 3 görevli bulundu. Durumlarının iyi olduğu açıklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/boluda-minibus-kayboldu-10-kiz-cocugu-ve-3-personel-araniyor-1752910",
-   "image": "https://images.ntv.com.tr/images/AA-20261127-43204449-43204448-AILE_VE_SOSYAL_HIZMETLER_BAKANLIGINDAN_YEDIGOLLER_BOLGESINE_GEZI_AMACIYLA_GIDEN_ARACA_ULASILAMAMASINA_ILISKIN_ACIKLAMA-834519.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-27T23:29:40+00:00",
-   "url": "/haber/bolu-da-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-05d90e97/"
   },
   {
    "id": "d430cee9",
@@ -31,7 +31,7 @@
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a40/live/c48d3280-eaa4-11f1-9541-edfa153772c7.png",
    "source": "BBC Turkish",
    "category": "gundem",
-   "date": "2026-11-27T23:26:18+00:00",
+   "date": "2026-11-27T23:49:58+00:00",
    "url": "/haber/bolu-yedigoller-de-kaybolan-on-cocuk-ve-uc-personel-bulundu-d430cee9/"
   },
   {
