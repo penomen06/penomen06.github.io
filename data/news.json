@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:30:54.551261+00:00",
+ "updated": "2026-11-28T01:01:10.757312+00:00",
  "items": [
   {
    "id": "64d60769",
@@ -9,8 +9,30 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-28T00:30:00+00:00",
+   "date": "2026-11-28T01:00:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-64d60769/"
+  },
+  {
+   "id": "d430cee9",
+   "title": "Bolu Yedigöller'de gezi sırasında kaybolan on çocuk ve üç personel bulundu",
+   "summary": "Kocaeli Çocuk Evleri Sitesi Müdürlüğü'nden günübirlik gezi için Bolu Yedigöller'e giden ve uzun saatler haber alınamayan 14-17 yaş aralığındaki on kız çocuğu ve üç görevli personel sağ olarak bulundu.",
+   "link": "https://www.bbc.com/turkce/articles/cmx289847rl5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a40/live/c48d3280-eaa4-11f1-9541-edfa153772c7.png",
+   "source": "BBC Turkish",
+   "category": "gundem",
+   "date": "2026-11-28T00:54:39+00:00",
+   "url": "/haber/bolu-yedigoller-de-gezi-sirasinda-kaybolan-on-cocuk-ve-uc-personel-bul-d430cee9/"
+  },
+  {
+   "id": "2d5fdb0d",
+   "title": "Bolu'da kaybolan 10 kız çocuğu ve 3 personel bulundu",
+   "summary": "Bolu'nun Yedigöller mevkiisinde kaybolan 10 kız çocuğu ve 3 görevli bulundu. Durumlarının iyi olduğu açıklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/boluda-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-1752910",
+   "image": "https://images.ntv.com.tr/images/AA-20261127-43204449-43204448-AILE_VE_SOSYAL_HIZMETLER_BAKANLIGINDAN_YEDIGOLLER_BOLGESINE_GEZI_AMACIYLA_GIDEN_ARACA_ULASILAMAMASINA_ILISKIN_ACIKLAMA-834519.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-28T00:43:34+00:00",
+   "url": "/haber/bolu-da-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-2d5fdb0d/"
   },
   {
    "id": "70acd6bc",
@@ -33,28 +55,6 @@
    "category": "gundem",
    "date": "2026-11-28T00:22:24+00:00",
    "url": "/haber/imf-den-turkiye-degerlendirmesi-6d0dc686/"
-  },
-  {
-   "id": "2d5fdb0d",
-   "title": "Bolu'da kaybolan 10 kız çocuğu ve 3 personel bulundu",
-   "summary": "Bolu'nun Yedigöller mevkiisinde kaybolan 10 kız çocuğu ve 3 görevli bulundu. Durumlarının iyi olduğu açıklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/boluda-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-1752910",
-   "image": "https://images.ntv.com.tr/images/AA-20261127-43204449-43204448-AILE_VE_SOSYAL_HIZMETLER_BAKANLIGINDAN_YEDIGOLLER_BOLGESINE_GEZI_AMACIYLA_GIDEN_ARACA_ULASILAMAMASINA_ILISKIN_ACIKLAMA-834519.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-28T00:21:50+00:00",
-   "url": "/haber/bolu-da-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-2d5fdb0d/"
-  },
-  {
-   "id": "d430cee9",
-   "title": "Bolu Yedigöller'de kaybolan on çocuk ve üç personel bulundu",
-   "summary": "Kocaeli Çocuk Evleri Sitesi Müdürlüğü'nden günübirlik gezi için Bolu Yedigöller'e giden ve uzun saatler haber alınamayan 14-17 yaş aralığındaki on kız çocuğu ve üç görevli personel sağ olarak bulundu.",
-   "link": "https://www.bbc.com/turkce/articles/cmx289847rl5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a40/live/c48d3280-eaa4-11f1-9541-edfa153772c7.png",
-   "source": "BBC Turkish",
-   "category": "gundem",
-   "date": "2026-11-27T23:49:58+00:00",
-   "url": "/haber/bolu-yedigoller-de-kaybolan-on-cocuk-ve-uc-personel-bulundu-d430cee9/"
   },
   {
    "id": "87cfee0b",
@@ -110,6 +110,28 @@
    "category": "gundem",
    "date": "2026-11-27T21:40:23+00:00",
    "url": "/haber/merkez-bankasi-fintlix-in-faaliyet-iznini-iptal-etti-788bb081/"
+  },
+  {
+   "id": "3c3fbc01",
+   "title": "Milli tekvandocu Hatice Pınar Yiğitalp, zirvedeki yerini korumakta kararlı",
+   "summary": "Tekvandoda son 2,5 ayda 5 farklı ülkede elde ettiği şampiyonluklarla dünya sıralamasında kendi kategorisinde zirveye çıkan 20 yaşındaki Hatice Pınar Yiğitalp, hem zirvedeki yerini korumak hem de olimpiyat kotasını almak…",
+   "link": "https://www.aa.com.tr/tr/spor/milli-tekvandocu-hatice-pinar-yigitalp-zirvedeki-yerini-korumakta-kararli/4141063",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T21:30:39+00:00",
+   "url": "/haber/milli-tekvandocu-hatice-pinar-yigitalp-zirvedeki-yerini-korumakta-kara-3c3fbc01/"
+  },
+  {
+   "id": "f6c8aebe",
+   "title": "Sarı nokta hastalığı belirti vermeden ilerleyip görme kaybına yol açabiliyor",
+   "summary": "Hacettepe Üniversitesi Tıp Fakültesi Göz Hastalıkları Ana Bilim Dalı Başkanı Prof. Dr. Sibel Kadayıfçılar, başlangıç ve orta evrelerinde belirti vermeden ilerleyebilen sarı nokta hastalığının kalıcı görme kaybına neden…",
+   "link": "https://www.aa.com.tr/tr/gundem/sari-nokta-hastaligi-belirti-vermeden-ilerleyip-gorme-kaybina-yol-acabiliyor/4141060",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-27T21:30:05+00:00",
+   "url": "/haber/sari-nokta-hastaligi-belirti-vermeden-ilerleyip-gorme-kaybina-yol-acab-f6c8aebe/"
   },
   {
    "id": "20fd3651",
@@ -222,17 +244,6 @@
    "url": "/haber/yeni-parti-lideri-ozel-cumhurbaskani-adayiyla-ilgili-4-aralik-ta-acikl-6c3b2c72/"
   },
   {
-   "id": "14322406",
-   "title": "\"6. Uluslararası Kahramanmaraş Edebiyat Ödülleri\" sahiplerini buldu",
-   "summary": "Kahramanmaraş Büyükşehir Belediyesi tarafından bu yıl 6. kez düzenlenen \"Uluslararası Kahramanmaraş Şiir ve Edebiyat Günleri\" kapsamında \"Uluslararası Kahramanmaraş Edebiyat Ödülleri\" verildi.",
-   "link": "https://www.aa.com.tr/tr/kultur/6-uluslararasi-kahramanmaras-edebiyat-odulleri-sahiplerini-buldu/4140953",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T20:11:45+00:00",
-   "url": "/haber/6-uluslararasi-kahramanmaras-edebiyat-odulleri-sahiplerini-buldu-14322406/"
-  },
-  {
    "id": "2088120e",
    "title": "A101 marketler Apple’dan ucuza iPhone Duo satıyor",
    "summary": "26 Kasım A101 Ekstra teknoloji ürünleri arasında Apple Store satış fiyatından bir tık daha düşük şekilde iPhone Duo katlanabilir telefon modeli yer alıyor.",
@@ -253,17 +264,6 @@
    "category": "gundem",
    "date": "2026-11-27T19:53:32+00:00",
    "url": "/haber/73-ilde-zehir-tacirlerine-agir-darbe-bakan-ciftci-42-bin-980-supheli-t-2e0b5e6d/"
-  },
-  {
-   "id": "03e33b04",
-   "title": "Gazze’de yerinden edilenler kışı yıpranmış çadırlarda, yıkılma tehlikesi bulunan binalarda karşılıyor",
-   "summary": "Uluslararası Kızılhaç Komitesi Sözcüsü Nauk, Gazze Şeridi’nde yerinden edilen Filistinlilerin kış mevsimi yaklaşırken mevcut çadırların yeterli koruma sağlamadığını ve hasarlı binaların da çökme riski taşıdığını söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/gazze-de-yerinden-edilenler-kisi-yipranmis-cadirlarda-yikilma-tehlikesi-bulunan-binalarda-karsiliyor/4140915",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-27T19:36:02+00:00",
-   "url": "/haber/gazze-de-yerinden-edilenler-kisi-yipranmis-cadirlarda-yikilma-tehlikes-03e33b04/"
   },
   {
    "id": "cff1cd5b",
