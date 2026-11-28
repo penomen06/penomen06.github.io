@@ -7,6 +7,13 @@
   <language>tr</language>
   <atom:link href="https://penomen06.github.io/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>Linux, 45 yıllık sürücüyü kaldırıyor</title>
+    <link>https://penomen06.github.io/haber/linux-45-yillik-surucuyu-kaldiriyor-4ccf1d1a/</link>
+    <guid isPermaLink="true">https://penomen06.github.io/haber/linux-45-yillik-surucuyu-kaldiriyor-4ccf1d1a/</guid>
+    <pubDate>Sat, 28 Nov 2026 14:29:12 +0000</pubDate>
+    <description>Linux çekirdeği, kimsenin kullanmadığı ama yapay zeka araçlarının sürekli güvenlik açığı aradığı 45 yıllık VME sürücüsünü kaldırıyor.</description>
+  </item>
+  <item>
     <title>Xiaomi, 150W gücündeki yeni Bluetooth hoparlörünü satışa sundu</title>
     <link>https://penomen06.github.io/haber/xiaomi-150w-gucundeki-yeni-bluetooth-hoparlorunu-satisa-sundu-7a2cbe24/</link>
     <guid isPermaLink="true">https://penomen06.github.io/haber/xiaomi-150w-gucundeki-yeni-bluetooth-hoparlorunu-satisa-sundu-7a2cbe24/</guid>
@@ -348,13 +355,6 @@
     <guid isPermaLink="true">https://penomen06.github.io/haber/hyundai-ioniq-m-ye-ilk-bakis-ab-den-turkiye-ye-hibrit-kotasi-oto-gunde-ed007b2a/</guid>
     <pubDate>Sat, 28 Nov 2026 09:00:36 +0000</pubDate>
     <description>Çin&#x27;in yeni elektrikli SUV&#x27;u Jetour TX, Hyundai&#x27;nin Ioniq M konsepti ve Avrupa&#x27;nın hibrit kotası bu hafta gündemde. Türkiye&#x27;yi doğrudan ilgilendiren gelişmeleri birlikte yorumluyoruz.</description>
-  </item>
-  <item>
-    <title>Casper Excalibur 27&#x27;&#x27; 300Hz Curved Gaming Monitör: Özellikler, Fiyat ve Kimlere Uygun?</title>
-    <link>https://penomen06.github.io/haber/casper-excalibur-27-300hz-curved-gaming-monitor-ozellikler-fiyat-ve-ki-f15f6fbc/</link>
-    <guid isPermaLink="true">https://penomen06.github.io/haber/casper-excalibur-27-300hz-curved-gaming-monitor-ozellikler-fiyat-ve-ki-f15f6fbc/</guid>
-    <pubDate>Sat, 28 Nov 2026 09:00:03 +0000</pubDate>
-    <description>Casper Excalibur 27&#x27;&#x27; 300Hz Curved Gaming Monitör, 7.999 TL&#x27;ye 27 inç 1500R kavisli Fast VA panel, 300 Hz (DP) yenileme hızı, MPRT 0.5 ms tepki süresi, HDR10 ve G-SYNC/FreeSync desteği sunuyor.</description>
   </item>
 </channel>
 </rss>

@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-28T14:01:11.918997+00:00",
+ "updated": "2026-11-28T14:31:01.465073+00:00",
  "items": [
+  {
+   "id": "4ccf1d1a",
+   "title": "Linux, 45 yıllık sürücüyü kaldırıyor",
+   "summary": "Linux çekirdeği, kimsenin kullanmadığı ama yapay zeka araçlarının sürekli güvenlik açığı aradığı 45 yıllık VME sürücüsünü kaldırıyor.",
+   "link": "https://shiftdelete.net/linux-cekirdegi-vme-surucusu-kaldirildi-yapay-zeka",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/linux-vme-surucu-kaldirildi-kapak-2811.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-28T14:29:12+00:00",
+   "url": "/haber/linux-45-yillik-surucuyu-kaldiriyor-4ccf1d1a/"
+  },
   {
    "id": "7a2cbe24",
    "title": "Xiaomi, 150W gücündeki yeni Bluetooth hoparlörünü satışa sundu",
@@ -836,17 +847,6 @@
    "category": "teknoloji",
    "date": "2026-11-28T06:58:04+00:00",
    "url": "/haber/homepod-mini-2-nin-product-red-versiyonu-ortaya-cikti-81a847a5/"
-  },
-  {
-   "id": "9712653e",
-   "title": "OnePlus, Google uygulamalarına alternatif arıyor",
-   "summary": "OnePlus, ColorOS 17 soru-cevap etkinliğinde Google'ın Telefon ve Takvim uygulamalarının yerine kendi uygulamalarını getirmeyi araştırdığını açıkladı. Şirket yapay zeka özelliklerinde ücretsiz kullanım sınırı…",
-   "link": "https://shiftdelete.net/oneplus-coloros-17-telefon-takvim-uygulamasi-google",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/oneplus-15-coloros-17-kapak-2711.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-28T06:52:14+00:00",
-   "url": "/haber/oneplus-google-uygulamalarina-alternatif-ariyor-9712653e/"
   },
   {
    "id": "86d7af7b",
