@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-28T12:01:06.965977+00:00",
+ "updated": "2026-11-28T12:30:57.606404+00:00",
  "items": [
+  {
+   "id": "72c50312",
+   "title": "TSMC A14 için tasarım dönemi başladı",
+   "summary": "TSMC A14 süreci müşterilerin çip tasarımına hazır hale geldi. 1,4 nm sınıfındaki süreçte üretim 2027'nin ikinci yarısında başlayacak.",
+   "link": "https://shiftdelete.net/tsmc-a14-1-4-nm-surec-cip-tasarimi-pdk",
+   "image": "https://ares.shiftdelete.net/2026/09/TSMC-1.4nm.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-28T12:24:41+00:00",
+   "url": "/haber/tsmc-a14-icin-tasarim-donemi-basladi-72c50312/"
+  },
+  {
+   "id": "2a7c37b5",
+   "title": "4. Milli Sinema Günleri 5-6 Aralık'ta İstanbul'da düzenlenecek",
+   "summary": "Uluslararası Sinema Derneği tarafından Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğünün desteğiyle düzenlenen 4. Milli Sinema Günleri, 5-6 Aralık'ta Rami Kütüphanesi'nde gerçekleştirilecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/4-milli-sinema-gunleri-5-6-aralikta-istanbulda-duzenlenecek/4141380",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T12:20:34+00:00",
+   "url": "/haber/4-milli-sinema-gunleri-5-6-aralik-ta-istanbul-da-duzenlenecek-2a7c37b5/"
+  },
+  {
+   "id": "daf24530",
+   "title": "Yargıtay kararı onadı: Cesedi yakılan Afgan madencinin ölümü iş kazası sayıldı",
+   "summary": "Zonguldak'ta cesedi yakılmış halde bulunan Afgan madencinin ölümünü iş kazası olarak değerlendiren mahkemenin kararı onandı. İki ocak sahibine 5 yıl 8'er ay hapis cezası verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-yargitay-karari-onadi-cesedi-yakilan-afgan-madencinin-olumu-is-kazasi-sayildi-1752997",
+   "image": "https://images.ntv.com.tr/images/337689b7-e33d-4ad8-b91d-2cdc9ccf64d0-114692.webp",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-28T12:15:39+00:00",
+   "url": "/haber/yargitay-karari-onadi-cesedi-yakilan-afgan-madencinin-olumu-is-kazasi-daf24530/"
+  },
+  {
+   "id": "5e9a1f32",
+   "title": "iPhone 18 ve iPhone 18e'nin üretimi yine ertelendi: Lansman gecikebilir",
+   "summary": "Kasım ayında üretime girmesi beklenen iPhone 18 ve iPhone 18e'nin seri üretiminin yılbaşına ertelendiği iddia edildi. Gecikme, Apple'ın 2027'nin ilk ayları için planladığı lansmanı etkileyebilir.",
+   "link": "https://www.donanimhaber.com/iphone-18-ve-iphone-18e-nin-uretimi-yine-ertelendi--213501",
+   "image": "https://www.donanimhaber.com/images/images/haber/213501/1200x675iphone-18-ve-iphone-18e-nin-uretimi-yine-ertelendi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-28T12:00:00+00:00",
+   "url": "/haber/iphone-18-ve-iphone-18e-nin-uretimi-yine-ertelendi-lansman-gecikebilir-5e9a1f32/"
+  },
   {
    "id": "d03e1d2b",
    "title": "Diyarbakır'da Tahir Elçi için anma töreni",
@@ -80,14 +124,14 @@
   },
   {
    "id": "b666a2cc",
-   "title": "Halk TV'nin sahibi Cafer Mahiroğlu: 'Kanalımdan çok ülkem ve demokrasim için endişeleniyorum'",
-   "summary": "Halk TV'nin sahibi iş insanı Cafer Mahiroğlu BBC'ye yaptığı açıklamada, \"Hükümet bütün medyayı kontrol etmek istiyor... Kanalımdan çok ülkem ve demokrasim için endişeleniyorum\" dedi.",
+   "title": "Halk TV soruşturması ile ilgili son durum ne?",
+   "summary": "Halk TV'nin sahibi iş insanı Cafer Mahiroğlu hakkında yürütülen soruşturma kapsamında 27 Kasım Cuma günü 12 kişiyle ilgili gözaltı kararı verildi, dokuz kişi gözaltına alındı.",
    "link": "https://www.bbc.com/turkce/articles/cmge3r8983wno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dad1/live/38c50be0-eb1e-11f1-99a1-253766e7ad8b.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f1f/live/60ee9110-ea40-11f1-a094-5fdc692f3e33.jpg",
    "source": "BBC Turkish",
    "category": "gundem",
    "date": "2026-11-28T11:27:12+00:00",
-   "url": "/haber/halk-tv-nin-sahibi-cafer-mahiroglu-kanalimdan-cok-ulkem-ve-demokrasim-b666a2cc/"
+   "url": "/haber/halk-tv-sorusturmasi-ile-ilgili-son-durum-ne-b666a2cc/"
   },
   {
    "id": "02901f4b",
@@ -242,17 +286,6 @@
    "category": "teknoloji",
    "date": "2026-11-28T10:35:00+00:00",
    "url": "/haber/yapay-zeka-destekli-zararli-yazilim-bazuka-02fabcb3/"
-  },
-  {
-   "id": "9a40aa27",
-   "title": "Bakan Fidan: Bugün yapacağımız seçimler, Müslüman dünyanın geleceğinin şekillenmesinde belirleyici olacaktır",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Müslüman ülkelerin, uluslararası sistemin şekillenmesine katkıda bulunması gerektiğine dikkati çekerek \"Bugün yapacağımız seçimler, Müslüman dünyanın geleceğinin şekillenmesinde belirleyici…",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-bugun-yapacagimiz-secimler-musluman-dunyanin-geleceginin-sekillenmesinde-belirleyici-olacaktir/4141312",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-28T10:34:05+00:00",
-   "url": "/haber/bakan-fidan-bugun-yapacagimiz-secimler-musluman-dunyanin-geleceginin-s-9a40aa27/"
   },
   {
    "id": "9a41dcc5",
@@ -739,17 +772,6 @@
    "url": "/haber/oneplus-google-uygulamalarina-alternatif-ariyor-9712653e/"
   },
   {
-   "id": "ed3024bc",
-   "title": "İstanbullular gece yarısı ve yarın sabaha dikkat. Bazı ilçelerde 8 saat elektrik kesintisi yapılacak",
-   "summary": "İstanbul'da yarın bazı ilçelerde elektrik kesintisi uygulanacak. BEDAŞ'ın planlı elektrik kesintisi listesine göre, bazı ilçelerde elektrik kesintisi sabah saatlerinde başlayıp, gün boyu sürecek.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbullular-gece-yarisi-ve-yarin-sabaha-dikkat-bazi-ilcelerde-8-saat-elektrik-kesintisi-yapilacak-1752939",
-   "image": "https://images.ntv.com.tr/images/iStock-1380269691-651760.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-28T06:42:56+00:00",
-   "url": "/haber/istanbullular-gece-yarisi-ve-yarin-sabaha-dikkat-bazi-ilcelerde-8-saat-ed3024bc/"
-  },
-  {
    "id": "86d7af7b",
    "title": "17 inç ekranlı en iyi laptoplar",
    "summary": "17 inç laptop arayanlar için oyun ve profesyonel kullanıma uygun modelleri bir araya getirdik. İşte Casper, MSI, HP, Lenovo ve Acer seçenekleri. İşte modeller...",
@@ -792,17 +814,6 @@
    "category": "teknoloji",
    "date": "2026-11-28T05:31:09+00:00",
    "url": "/haber/galaxy-lerde-fotografin-acisi-sonradan-degistirilebilecek-d2a4c4e0/"
-  },
-  {
-   "id": "2f006891",
-   "title": "NATO'nun kuzeyine 400'den fazla zırhlı araç",
-   "summary": "Beş NATO ülkesi, Rusya tehdidine karşı ortak alımla 400'den fazla CV90 piyade savaş aracı sipariş etti. 6 milyar dolarlık anlaşma, BAE Systems Hägglunds'un tarihindeki en büyük sözleşme oldu.",
-   "link": "https://shiftdelete.net/cv90-anlasmasi-bae-hagglunds-nato-ortak-alim",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/cv90-piyade-savas-araci-kapak-2811.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-28T05:03:52+00:00",
-   "url": "/haber/nato-nun-kuzeyine-400-den-fazla-zirhli-arac-2f006891/"
   },
   {
    "id": "70acd6bc",
@@ -880,17 +891,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T18:45:00+00:00",
    "url": "/haber/sharp-yaslilar-icin-yapay-zeka-destekli-akilli-telefonunu-tanitti-b97dd26e/"
-  },
-  {
-   "id": "15c074aa",
-   "title": "GPU belleğini 1 petabaytın üzerine çıkaran SSD sistemi tanıtıldı",
-   "summary": "Kioxia ve Nvidia, 144 adet NVMe SSD kullanarak GPU belleğini 1,1 petabaytın üzerine çıkaran yeni bir sistem geliştirdi. Teknoloji, HBM kapasitesine alternatif sunmayı hedefliyor.",
-   "link": "https://www.donanimhaber.com/gpu-bellegini-1-petabaytin-uzerine-cikaran-ssd-sistemi-tanitildi--213472",
-   "image": "https://www.donanimhaber.com/images/images/haber/213472/1200x675gpu-bellegini-1-petabaytin-uzerine-cikaran-ssd-sistemi-tanitildi.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-27T18:22:00+00:00",
-   "url": "/haber/gpu-bellegini-1-petabaytin-uzerine-cikaran-ssd-sistemi-tanitildi-15c074aa/"
   },
   {
    "id": "9c237f6c",
