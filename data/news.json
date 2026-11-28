@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:01:10.757312+00:00",
+ "updated": "2026-11-28T01:30:57.954817+00:00",
  "items": [
   {
    "id": "64d60769",
@@ -9,8 +9,19 @@
    "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
    "source": "ntv.com.tr",
    "category": "gundem",
-   "date": "2026-11-28T01:00:00+00:00",
+   "date": "2026-11-28T01:30:00+00:00",
    "url": "/haber/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-i-64d60769/"
+  },
+  {
+   "id": "2d5fdb0d",
+   "title": "Bolu'da kaybolan 10 kız çocuğu ve 3 personel bulundu",
+   "summary": "Bolu'nun Yedigöller mevkiisinde kaybolan 10 kız çocuğu ve 3 görevli, saatlerce süren aramalar sonucunda, araçları çamura saplanmış halde bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/boluda-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-1752910",
+   "image": "https://images.ntv.com.tr/images/GEZIYE-GELDIKLERI-BOLUDA-KAYBOLAN-10-CO_1630427_484859-405663.jpg",
+   "source": "ntv.com.tr",
+   "category": "gundem",
+   "date": "2026-11-28T01:17:24+00:00",
+   "url": "/haber/bolu-da-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-2d5fdb0d/"
   },
   {
    "id": "d430cee9",
@@ -22,17 +33,6 @@
    "category": "gundem",
    "date": "2026-11-28T00:54:39+00:00",
    "url": "/haber/bolu-yedigoller-de-gezi-sirasinda-kaybolan-on-cocuk-ve-uc-personel-bul-d430cee9/"
-  },
-  {
-   "id": "2d5fdb0d",
-   "title": "Bolu'da kaybolan 10 kız çocuğu ve 3 personel bulundu",
-   "summary": "Bolu'nun Yedigöller mevkiisinde kaybolan 10 kız çocuğu ve 3 görevli bulundu. Durumlarının iyi olduğu açıklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/boluda-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-1752910",
-   "image": "https://images.ntv.com.tr/images/AA-20261127-43204449-43204448-AILE_VE_SOSYAL_HIZMETLER_BAKANLIGINDAN_YEDIGOLLER_BOLGESINE_GEZI_AMACIYLA_GIDEN_ARACA_ULASILAMAMASINA_ILISKIN_ACIKLAMA-834519.jpg",
-   "source": "ntv.com.tr",
-   "category": "gundem",
-   "date": "2026-11-28T00:43:34+00:00",
-   "url": "/haber/bolu-da-kaybolan-10-kiz-cocugu-ve-3-personel-bulundu-2d5fdb0d/"
   },
   {
    "id": "70acd6bc",
