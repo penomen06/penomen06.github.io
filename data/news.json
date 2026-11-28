@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-28T12:30:57.606404+00:00",
+ "updated": "2026-11-28T13:01:06.586482+00:00",
  "items": [
+  {
+   "id": "19965e9c",
+   "title": "Rusya'dan tarihi başarı: Nükleer yakıt artık tekrar tekrar kullanılabilecek",
+   "summary": "Rusya, kullanılmış nükleer yakıttan geri kazanılan plütonyumu ikinci kez yakıt üretiminde kullanmayı başardı. Teknoloji, doğal uranyum kaynaklarına olan ihtiyacı önemli ölçüde azaltabilir.",
+   "link": "https://www.donanimhaber.com/rusya-ilk-kez-nukleer-atigi-yeniden-yakita-donusturmeyi-basardi--213496",
+   "image": "https://www.donanimhaber.com/images/images/haber/213496/1200x675rusya-ilk-kez-nukleer-atigi-yeniden-yakita-donusturmeyi-basardi.jpg",
+   "source": "DonanımHaber - Türkiye'nin Lider…",
+   "category": "teknoloji",
+   "date": "2026-11-28T13:00:00+00:00",
+   "url": "/haber/rusya-dan-tarihi-basari-nukleer-yakit-artik-tekrar-tekrar-kullanilabil-19965e9c/"
+  },
+  {
+   "id": "83bf2db2",
+   "title": "CATL'den 99 saniyede değişen batarya",
+   "summary": "CATL batarya değişimi ağı için 100 kWh'lik 30# Çikolata bataryayı tanıttı. Batarya istasyonda 99 saniyede değiştirilebiliyor.",
+   "link": "https://shiftdelete.net/catl-batarya-degisimi-30-cikolata-batarya-100-kwh",
+   "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/e82c52e82abcb6084e02f5c874e81eb9ec1851fe.webp",
+   "source": "ShiftDelete.Net",
+   "category": "teknoloji",
+   "date": "2026-11-28T12:57:08+00:00",
+   "url": "/haber/catl-den-99-saniyede-degisen-batarya-83bf2db2/"
+  },
+  {
+   "id": "95f32131",
+   "title": "\"10. Kar Spor İda Ultra\" koşusu Kazdağları'nda başladı",
+   "summary": "Türkiye'nin önemli patika koşu organizasyonlarından \"Kar Spor İda Ultra\" 10. kez doğaseverler ve sporcuların katılımıyla Kazdağları'nda başladı.",
+   "link": "https://www.aa.com.tr/tr/spor/10-kar-spor-ida-ultra-kosusu-kazdaglarinda-basladi/4141389",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T12:34:00+00:00",
+   "url": "/haber/10-kar-spor-ida-ultra-kosusu-kazdaglari-nda-basladi-95f32131/"
+  },
+  {
+   "id": "aa7fae2f",
+   "title": "Bakan Kacır: Bilişim Vadisi Ekol 42 Yazılım Okulu eğitim yolculuğunu Sirkeci'de sürdürecek",
+   "summary": "Sanayi ve Teknoloji Bakanı Kacır, Bilişim Vadisi Ekol 42 Yazılım Okulunun eğitim yolculuğunu Sirkeci'de sürdüreceğini, teknoloji girişimlerine ev sahipliği yapacak GO Girişim Ofislerinden birinin de burada hayata…",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-bilisim-vadisi-ekol-42-yazilim-okulu-egitim-yolculugunu-sirkecide-surdurecek/4141384",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T12:26:00+00:00",
+   "url": "/haber/bakan-kacir-bilisim-vadisi-ekol-42-yazilim-okulu-egitim-yolculugunu-si-aa7fae2f/"
+  },
   {
    "id": "72c50312",
    "title": "TSMC A14 için tasarım dönemi başladı",
@@ -33,6 +77,28 @@
    "category": "gundem",
    "date": "2026-11-28T12:15:39+00:00",
    "url": "/haber/yargitay-karari-onadi-cesedi-yakilan-afgan-madencinin-olumu-is-kazasi-daf24530/"
+  },
+  {
+   "id": "076e8ba4",
+   "title": "YÖK üniversitelerin öne çıkan çalışmalarını paylaştı",
+   "summary": "Yükseköğretim Kurulu (YÖK), bazı üniversitelerin yapay zeka, sağlık, robotik, tarım ve sürdürülebilir ulaşım alanlarındaki bilimsel ve teknolojik çalışmalarını paylaştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/yok-universitelerin-one-cikan-calismalarini-paylasti/4141373",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T12:13:10+00:00",
+   "url": "/haber/yok-universitelerin-one-cikan-calismalarini-paylasti-076e8ba4/"
+  },
+  {
+   "id": "7d780e24",
+   "title": "Al Sharq Forum 2026'da küresel güç dengelerindeki değişim ele alındı",
+   "summary": "İstanbul'da düzenlenen Al Sharq Forum 2026'da küresel güç dengelerindeki değişim, uluslararası kuralları kimlerin belirlediği ve bu kurallar üzerinde etki yaratma fırsatları değerlendirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/al-sharq-forum-2026da-kuresel-guc-dengelerindeki-degisim-ele-alindi/4141371",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T12:09:49+00:00",
+   "url": "/haber/al-sharq-forum-2026-da-kuresel-guc-dengelerindeki-degisim-ele-alindi-7d780e24/"
   },
   {
    "id": "5e9a1f32",
@@ -79,6 +145,17 @@
    "url": "/haber/galaxy-s25-abd-de-yasaklanabilir-10427820/"
   },
   {
+   "id": "1b23adcc",
+   "title": "Uluslararası Karz Sempozyumu İstanbul'da başladı",
+   "summary": "Karz müessesesinin teorik ve pratik boyutlarının, uluslararası akademik çalışmaların ve saha uygulamalarının ele alınacağı Uluslararası Karz Sempozyumu başladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/uluslararasi-karz-sempozyumu-istanbulda-basladi/4141361",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T11:53:09+00:00",
+   "url": "/haber/uluslararasi-karz-sempozyumu-istanbul-da-basladi-1b23adcc/"
+  },
+  {
    "id": "a0abd7ca",
    "title": "Lüks sitelerin ortasındaki 10 milyar liralık arazide tarım yapıyor",
    "summary": "Bursa'da bir çiftçi, değeri 10 milyar lirayı bulan arazide hayvanları için hububat üretiyor.",
@@ -99,6 +176,17 @@
    "category": "gundem",
    "date": "2026-11-28T11:48:38+00:00",
    "url": "/haber/bolu-da-10-kiz-cocugu-bulundu-iste-ogrencilerin-mahsur-kaldigi-arac-ve-144f192e/"
+  },
+  {
+   "id": "8029bb71",
+   "title": "Adalet Bakanı Gürlek: Soruşturma tamamlanma aşamasına geldi",
+   "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmasına ilişkin, \"Soruşturmanın büyük oranda tamamlanma aşamasına geldiğini görüyoruz. İnşallah kısa sürede de iddianame aşamasına başlanacağını öngörüyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-sorusturma-tamamlanma-asamasina-geldi/4141358",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T11:44:33+00:00",
+   "url": "/haber/adalet-bakani-gurlek-sorusturma-tamamlanma-asamasina-geldi-8029bb71/"
   },
   {
    "id": "47d375b1",
@@ -134,15 +222,15 @@
    "url": "/haber/halk-tv-sorusturmasi-ile-ilgili-son-durum-ne-b666a2cc/"
   },
   {
-   "id": "02901f4b",
-   "title": "İsrail'in Gazze'ye son 48 saatte düzenlediği saldırılarda 15 Filistinli hayatını kaybetti",
-   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne son 48 saatte düzenlediği saldırılarda aralarında kadın ve çocukların da bulunduğu 15 Filistinli yaşamını yitirdi, 38 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-son-48-saatte-duzenledigi-saldirilarda-15-filistinli-hayatini-kaybetti/4141349",
+   "id": "223d0e65",
+   "title": "İsrail'in Gazze'ye saldırılarında 1 Filistinli yaşamını yitirdi, 2 kişi yaralandı",
+   "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırılarda 1 Filistinli hayatını kaybetti, biri çocuk 2 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-saldirilarinda-1-filistinli-yasamini-yitirdi-2-kisi-yaralandi/4141349",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-28T11:25:55+00:00",
-   "url": "/haber/israil-in-gazze-ye-son-48-saatte-duzenledigi-saldirilarda-15-filistinl-02901f4b/"
+   "url": "/haber/israil-in-gazze-ye-saldirilarinda-1-filistinli-yasamini-yitirdi-2-kisi-223d0e65/"
   },
   {
    "id": "cce87485",
@@ -200,17 +288,6 @@
    "url": "/haber/gazze-de-israil-saldirilarinda-oldurulen-sinir-tanimayan-doktorlar-per-52023fc7/"
   },
   {
-   "id": "7986687c",
-   "title": "İşgal altındaki Batı Şeria'da Filistin topraklarını gasbeden İsrailliler son 24 saatte 21 saldırı düzenledi",
-   "summary": "Filistin Sivil İşler Genel Kurumu, işgal altındaki Batı Şeria'da Filistin topraklarını gasbeden İsraillilerin son 24 saatte Filistinlilere ve mülklerine yönelik 21 saldırı gerçekleştirdiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/isgal-altindaki-bati-seriada-filistin-topraklarini-gasbeden-israilliler-son-24-saatte-21-saldiri-duzenledi/4141336",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-28T11:11:31+00:00",
-   "url": "/haber/isgal-altindaki-bati-seria-da-filistin-topraklarini-gasbeden-israillil-7986687c/"
-  },
-  {
    "id": "f5ea7011",
    "title": "Kurtulmuş'tan Yeni Parti'ye İzleme Komisyonu çağrısı",
    "summary": "Numan Kurtulmuş, İzleme Komisyonu için Yeni Parti'ye \"Gelin rapordaki adımların takipçisi olalım.\" diyerek çağrıda bulundu. Kurtulmuş, \"Katılmazlarsa kendi emeklerini inkar etmiş olurlar.\" dedi.",
@@ -244,37 +321,15 @@
    "url": "/haber/ingiltere-de-keyif-icin-kitap-okuma-mufredata-giriyor-1841417d/"
   },
   {
-   "id": "8f6fa16e",
-   "title": "Rusya: Ukrayna'nın enerji, yakıt ve ulaşım tesislerine saldırdık",
-   "summary": "Rusya Savunma Bakanlığı, Ukrayna'nın enerji, yakıt ve ulaşım tesislerine saldırılar düzenlediklerini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynanin-enerji-yakit-ve-ulasim-tesislerine-saldirdik/4141325",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-28T10:49:13+00:00",
-   "url": "/haber/rusya-ukrayna-nin-enerji-yakit-ve-ulasim-tesislerine-saldirdik-8f6fa16e/"
-  },
-  {
-   "id": "d8809437",
-   "title": "Gazze'deki Filistinli yetkililer, İsrail'in Gazze'ye 100 bin çadır girişine izin verdiği iddialarını yalanladı",
-   "summary": "İsrail'in ateşkese rağmen saldırılarını sürdürdüğü Gazze Şeridi'ne 100 bin çadır ve kışlık malzeme yüklü 9 binden fazla tırın girişine izin verdiği yönündeki iddiaları, Gazze'deki Filistinli yetkililer tarafından…",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-filistinli-yetkililer-israilin-gazzeye-100-bin-cadir-girisine-izin-verdigi-iddialarini-yalanladi/4141323",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-28T10:47:51+00:00",
-   "url": "/haber/gazze-deki-filistinli-yetkililer-israil-in-gazze-ye-100-bin-cadir-giri-d8809437/"
-  },
-  {
-   "id": "f6fb55ba",
-   "title": "Meteorolojiden Doğu Akdeniz'in doğusu için fırtına uyarısı",
-   "summary": "Doğu Akdeniz'in doğusu için fırtına uyarısında bulunuldu.",
-   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-dogu-akdenizin-dogusu-icin-firtina-uyarisi/4141321",
+   "id": "13dc2d12",
+   "title": "Meteorolojiden Marmara, Kuzey Ege ve Doğu Akdeniz'in doğusu için rüzgar ve fırtına uyarısı",
+   "summary": "Marmara, Kuzey Ege ve Doğu Akdeniz'in doğusu için kuvvetli rüzgar ve fırtına uyarısında bulunuldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-marmara-kuzey-ege-ve-dogu-akdenizin-dogusu-icin-ruzgar-ve-firtina-uyarisi/4141321",
    "image": "",
    "source": "Anadolu Ajansı Güncel Haberler",
    "category": "gundem",
    "date": "2026-11-28T10:42:44+00:00",
-   "url": "/haber/meteorolojiden-dogu-akdeniz-in-dogusu-icin-firtina-uyarisi-f6fb55ba/"
+   "url": "/haber/meteorolojiden-marmara-kuzey-ege-ve-dogu-akdeniz-in-dogusu-icin-ruzgar-13dc2d12/"
   },
   {
    "id": "02fabcb3",
@@ -308,17 +363,6 @@
    "category": "gundem",
    "date": "2026-11-28T10:14:39+00:00",
    "url": "/haber/sarigul-sorusturmasi-ozgur-ozel-dahil-bes-isim-icin-fezleke-istemi-38ee5124/"
-  },
-  {
-   "id": "841925b1",
-   "title": "Bakan Bak, Mehmet Akif Ersoy Spor Tesisleri'nin açılışını yaptı",
-   "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, Kağıthane Belediyesi Mehmet Akif Ersoy Spor Tesisleri'nin açılış törenine katıldı.",
-   "link": "https://www.aa.com.tr/tr/spor/bakan-bak-mehmet-akif-ersoy-spor-tesislerinin-acilisini-yapti/4141295",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-28T10:00:46+00:00",
-   "url": "/haber/bakan-bak-mehmet-akif-ersoy-spor-tesisleri-nin-acilisini-yapti-841925b1/"
   },
   {
    "id": "d2a1bfad",
@@ -475,6 +519,17 @@
    "url": "/haber/iphone-18-icin-yeni-erteleme-iddiasi-8863090f/"
   },
   {
+   "id": "39e7a486",
+   "title": "TİKA ve YTB stantları Suudi Arabistan'daki Etnospor Kültür Festivali'nde yoğun ilgi gördü",
+   "summary": "Suudi Arabistan'daki Etnospor Kültür Festivali'nde Türk İşbirliği ve Koordinasyon Ajansı (TİKA) ve Yurt Dışı Türkler ve Akraba Topluluklar Başkanlığı (YTB) tarafından açılan stantlar, ziyaretçilerin uğrak noktalarından…",
+   "link": "https://www.aa.com.tr/tr/spor/tika-ve-ytb-stantlari-suudi-arabistandaki-etnospor-kultur-festivalinde-yogun-ilgi-gordu/4141235",
+   "image": "",
+   "source": "Anadolu Ajansı Güncel Haberler",
+   "category": "gundem",
+   "date": "2026-11-28T08:38:13+00:00",
+   "url": "/haber/tika-ve-ytb-stantlari-suudi-arabistan-daki-etnospor-kultur-festivali-n-39e7a486/"
+  },
+  {
    "id": "00ec1997",
    "title": "Google CEO’su Sundar Pichai, Türkiye’ye yönelik açıklamalarda bulundu",
    "summary": "Google ve Alphabet CEO’su Sundar Pichai, şirketin Türkiye’deki faaliyetlerinin 20. yıl dönümünü kutladığı etkinliğine bir video mesaj gönderdi. Bu mesajda Google ile Türkiye’nin ortak noktasının yenilikçilik olduğunu…",
@@ -517,28 +572,6 @@
    "category": "gundem",
    "date": "2026-11-28T08:26:07+00:00",
    "url": "/haber/kuresel-konut-krizi-yasadiginiz-yerde-ev-satin-alabiliyor-musunuz-d5acea46/"
-  },
-  {
-   "id": "f8cd4a77",
-   "title": "Filistinlilerin 77 yıllık yuvası Akdeniz'in kıyısındaki Nahr El Bared",
-   "summary": "Sosyoekonomik sorunlar, yetersiz altyapı, yoksulluk, sınırlı istihdam olanakları ile enerji ve temiz su sıkıntısının yaşandığı Lübnan'ın Akdeniz kıyısındaki Nahr El Bared Mülteci Kampı, Filistinli mültecilere 77 yıldır…",
-   "link": "https://www.aa.com.tr/tr/dunya/filistinlilerin-77-yillik-yuvasi-akdenizin-kiyisindaki-nahr-el-bared/4141213",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-28T08:19:06+00:00",
-   "url": "/haber/filistinlilerin-77-yillik-yuvasi-akdeniz-in-kiyisindaki-nahr-el-bared-f8cd4a77/"
-  },
-  {
-   "id": "0b1be4f5",
-   "title": "Arap Koalisyonu: Husilerin Riyad bölgesine fırlattığı seyir füzesi imha edildi",
-   "summary": "Yemen'de meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, İran destekli Husilerin Riyad bölgesine fırlattığı seyir füzesinin hava savunma sistemleriyle imha edildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-riyad-bolgesine-firlattigi-seyir-fuzesi-imha-edildi/4141212",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-28T08:18:57+00:00",
-   "url": "/haber/arap-koalisyonu-husilerin-riyad-bolgesine-firlattigi-seyir-fuzesi-imha-0b1be4f5/"
   },
   {
    "id": "e3ddc075",
@@ -638,17 +671,6 @@
    "category": "teknoloji",
    "date": "2026-11-28T07:38:38+00:00",
    "url": "/haber/razer-in-ses-uygulamasi-ssd-yi-yoruyor-olabilir-2ef45757/"
-  },
-  {
-   "id": "2f994384",
-   "title": "Bölgesel entegrasyonun geleceğinin ele alınacağı Al Sharq Forum 2026 İstanbul'da başladı",
-   "summary": "Politika yapıcıları, düşünürler, araştırmacılar, sivil toplum liderleri ve gençleri bir araya getirerek değişen küresel düzen karşısında bölgenin geleceğini ele alan Al Sharq Forum 2026 başladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bolgesel-entegrasyonun-geleceginin-ele-alinacagi-al-sharq-forum-2026-istanbulda-basladi/4141170",
-   "image": "",
-   "source": "Anadolu Ajansı Güncel Haberler",
-   "category": "gundem",
-   "date": "2026-11-28T07:34:06+00:00",
-   "url": "/haber/bolgesel-entegrasyonun-geleceginin-ele-alinacagi-al-sharq-forum-2026-i-2f994384/"
   },
   {
    "id": "5ac6c19b",
@@ -805,17 +827,6 @@
    "url": "/haber/chatgpt-android-de-gemini-nin-isine-goz-dikti-792fcf43/"
   },
   {
-   "id": "d2a4c4e0",
-   "title": "Galaxy'lerde fotoğrafın açısı sonradan değiştirilebilecek",
-   "summary": "Samsung, Galeri uygulaması için Recompose adlı yeni bir yapay zeka aracı hazırlıyor. One UI 9.5 beta sürümünde çalıştırılan araç, çekilmiş bir fotoğrafın bakış açısını parmak kaydırarak değiştirebiliyor.",
-   "link": "https://shiftdelete.net/samsung-recompose-one-ui-9-5-fotograf-acisi",
-   "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/galaxy-ai-sahne-kapak-1611.webp",
-   "source": "ShiftDelete.Net",
-   "category": "teknoloji",
-   "date": "2026-11-28T05:31:09+00:00",
-   "url": "/haber/galaxy-lerde-fotografin-acisi-sonradan-degistirilebilecek-d2a4c4e0/"
-  },
-  {
    "id": "70acd6bc",
    "title": "BM Filistin Özel Raportörü Francesca Albanese Kosta Rika'ya alınmadı, iki gece havaalanında bekletildi",
    "summary": "Birleşmiş Milletler (BM) Filistin Özel Raportörü Francesca Albanese'in, bir üniversiteden fahri doktora almak üzere gittiği Kosta Rika'ya girişine izin verilmedi.",
@@ -880,17 +891,6 @@
    "category": "teknoloji",
    "date": "2026-11-27T19:07:00+00:00",
    "url": "/haber/bellek-krizi-buyuyor-sirketler-ram-bulabilmek-icin-savas-odalari-kuruy-0104440a/"
-  },
-  {
-   "id": "b97dd26e",
-   "title": "Sharp, yaşlılar için yapay zeka destekli akıllı telefonunu tanıttı",
-   "summary": "Sharp, Simple Smartphone 8 modelini tanıttı. Cihaz, yapay zeka destekli dolandırıcılık tespiti, fiziksel kısayol tuşları ve kolaylaştırılmış arayüzüyle yaşlı kullanıcıları hedefliyor.",
-   "link": "https://www.donanimhaber.com/sharp-yaslilar-icin-yapay-zeka-destekli-akilli-telefonunu-tanitti--213487",
-   "image": "https://www.donanimhaber.com/images/images/haber/213487/1200x675sharp-yaslilar-icin-yapay-zeka-destekli-akilli-telefonunu-tanitti.jpg",
-   "source": "DonanımHaber - Türkiye'nin Lider…",
-   "category": "teknoloji",
-   "date": "2026-11-27T18:45:00+00:00",
-   "url": "/haber/sharp-yaslilar-icin-yapay-zeka-destekli-akilli-telefonunu-tanitti-b97dd26e/"
   },
   {
    "id": "9c237f6c",
